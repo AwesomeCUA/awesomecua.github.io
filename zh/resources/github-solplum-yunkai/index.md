@@ -1,0 +1,42 @@
+# Yunkai
+
+Android 手机助手，将模型驱动的工具调用与无障碍树读取、截图及点击、滑动、文本输入等基本操作结合；文档中的交互流程会向用户展示操作计划以供确认。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-solplum-yunkai/
+- English：https://awesomecua.com/resources/github-solplum-yunkai/index.md
+- 原始来源：https://github.com/solplum/yunkai
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、界面理解、人机协作
+- 证据核查日期：2026-10-20T11:57:12.431753+00:00
+- ID：github:solplum/yunkai
+
+## 范围记录
+
+The Android AccessibilityService contains concrete screen-reading and action paths. The inspected HarmonyOS accessibility extension is a lifecycle/event scaffold with its screen-content probe disabled; HDC appears in an external UI-test driver. Setup requires a configured OpenAI-compatible model endpoint and API key; local storage and the endpoint have separate data paths, with offline inference and transmission behavior unspecified. No app, device test or model inference was run.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-solplum-yunkai/record.json
+
+## 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+- 代码审核：Complete root MIT license text inspected at the pinned commit. Repository software only; data, weights and third-party assets retain separate terms.
+  来源：https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE
+
+## 一手证据
+
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/README.md（获取于 2026-10-20T11:57:12.431753+00:00；SHA-256：eea31b35aa0b55c97f8ccda3438382ad49d2453671b49bb817efb5bc3384e900）
+- https://api.github.com/search/repositories?q=topic%3Amobile-agent+is%3Apublic+fork%3Afalse+created%3A2008-01-01..2026-10-20&per_page=100&page=1&sort=updated&order=asc（获取于 2026-10-20T11:06:00.276978+00:00；SHA-256：01f97a863952373bd10a1f849d79706344be63f5774fe7e0cfe9ba774e41d213）
+- https://api.github.com/repos/solplum/yunkai/commits/main（获取于 2026-10-20T11:54:02.419278+00:00；SHA-256：e2797712132e69cc50fa7ad2ae815a48339f77eebec1e85a5dc0cd75702574f1）
+- https://api.github.com/repos/solplum/yunkai/git/trees/4ca94f2f7d8f13099ae2c351d9578ed5ef0cb509?recursive=1（获取于 2026-10-20T11:56:30.226860+00:00；SHA-256：08f48cb5c15b8d505e76a91d996c656d87765946cc7137bce088e73e6e64cf06）
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE（获取于 2026-10-20T11:57:22.238029+00:00；SHA-256：c39441f92c303832d42f1f153c4442533ac925007e12d70f3199c568a0baac88）
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-android/app/src/main/java/com/zhuolin/yunkai/service/screen/ScreenSenseService.kt（获取于 2026-10-20T11:59:51.424713+00:00；SHA-256：964aad706676fc7b74e532f8bc441fa766f3ce0ca3e4d0e115c7a90c70656883）
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-harmony/entry/src/main/ets/service/tools/M2Tools.ets（获取于 2026-10-20T11:59:54.745065+00:00；SHA-256：628cc3015999176052a09e3f3bbb8635d87163a9430d98cb6a6a7c09117dfd37）
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-harmony/entry/src/main/ets/service/screen/ScreenSenseExtension.ets（获取于 2026-10-20T12:04:53.632582+00:00；SHA-256：ba8c9b0f4b5cea5ac36a4b49f3cf27e77e5c6beb49022e43c667e359be2c6fca）
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-harmony/tests/fullflow/drive_harmony.sh（获取于 2026-10-20T12:04:56.914360+00:00；SHA-256：423a77e1fd57f3e105898f1adfc94c493de5c0de97fae4379f9cf540c89d4640）

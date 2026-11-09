@@ -12,12 +12,12 @@ Reviews are AI-assisted inspections of primary sources. Code, data, weights and 
 
 | Survey | Date | Platform | Topics |
 | --- | --- | --- | --- |
-| [A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://awesomecua.com/resources/arxiv-2501-16150/) | 2025-01-27 | Cross-platform | Survey |
-| [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/) | 2025-03-30 | Web | Survey, Web navigation |
-| [GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2412-13501/) | 2024-12-18 | Cross-platform | Survey |
-| [Large Language Model-Brained GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2411-18279/) | 2024-11-27 | Cross-platform | Survey |
-| [A Survey on (M)LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2504-13865/) | 2025-03-27 | Cross-platform | Survey |
-| [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://awesomecua.com/resources/arxiv-2505-10924/) | 2025-05-16 | Cross-platform | Survey, Safety & security |
+| [A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://awesomecua.com/resources/arxiv-2501-16150/) | 2025-01-27 | Cross-platform | — |
+| [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/) | 2025-03-30 | Web | Web navigation, Safety & security |
+| [GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2412-13501/) | 2024-12-18 | Cross-platform | — |
+| [Large Language Model-Brained GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2411-18279/) | 2024-11-27 | Cross-platform | — |
+| [A Survey on (M)LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2504-13865/) | 2025-03-27 | Cross-platform | — |
+| [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://awesomecua.com/resources/arxiv-2505-10924/) | 2025-05-16 | Cross-platform | Safety & security |
 
 ## Questions
 

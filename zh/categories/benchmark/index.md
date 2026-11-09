@@ -45,7 +45,7 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 
 通过实际执行任务，评估智能体在真实桌面环境中的表现。
 
-- 目录页面：https://awesomecua.com/resources/github-xlang-ai-osworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-xlang-ai-osworld/
 - 原始来源：https://github.com/xlang-ai/OSWorld
 - 类型：评测基准
 - 审核状态：已审核
@@ -93,7 +93,7 @@ Counts were computed from unique task identifiers in the two inspected manifests
 
 用于评估自主网页智能体的自行托管网页环境和任务。
 
-- 目录页面：https://awesomecua.com/resources/github-web-arena-x-webarena/
+- 目录页面：https://awesomecua.com/zh/resources/github-web-arena-x-webarena/
 - 原始来源：https://github.com/web-arena-x/webarena
 - 类型：评测基准
 - 审核状态：已审核
@@ -138,7 +138,7 @@ The canonical repository documents self-hosted websites and environment resets. 
 
 AndroidWorld 是面向移动智能体的 Android 环境，支持通过程序评估任务。
 
-- 目录页面：https://awesomecua.com/resources/github-google-research-android-world/
+- 目录页面：https://awesomecua.com/zh/resources/github-google-research-android-world/
 - 原始来源：https://github.com/google-research/android_world
 - 类型：评测基准
 - 审核状态：已审核
@@ -184,7 +184,7 @@ Random parameters produce many instances from the same task definitions. Preserv
 
 为浏览器智能体任务和基准环境提供统一接口。
 
-- 目录页面：https://awesomecua.com/resources/github-servicenow-browsergym/
+- 目录页面：https://awesomecua.com/zh/resources/github-servicenow-browsergym/
 - 原始来源：https://github.com/ServiceNow/BrowserGym
 - 类型：评测基准
 - 审核状态：已审核
@@ -231,7 +231,7 @@ A framework with interactive browser adapters and a static WebLINX evaluation in
 
 ScreenSpot Pro 是侧重专业高分辨率界面的 GUI 定位基准。
 
-- 目录页面：https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/
+- 目录页面：https://awesomecua.com/zh/resources/github-likaixin2000-screenspot-pro-gui-grounding/
 - 原始来源：https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding
 - 类型：评测基准
 - 审核状态：已审核
@@ -277,7 +277,7 @@ Language, instruction style, and positive/negative target configuration are expl
 
 提供用于通用网页导航研究的人类演示和任务。
 
-- 目录页面：https://awesomecua.com/resources/github-osu-nlp-group-mind2web/
+- 目录页面：https://awesomecua.com/zh/resources/github-osu-nlp-group-mind2web/
 - 原始来源：https://github.com/OSU-NLP-Group/Mind2Web
 - 类型：评测基准
 - 审核状态：已审核
@@ -325,7 +325,7 @@ These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, an
 
 在 WebArena 评估设置基础上扩展的视觉定位网页任务。
 
-- 目录页面：https://awesomecua.com/resources/github-web-arena-x-visualwebarena/
+- 目录页面：https://awesomecua.com/zh/resources/github-web-arena-x-visualwebarena/
 - 原始来源：https://github.com/web-arena-x/visualwebarena
 - 类型：评测基准
 - 审核状态：已审核
@@ -369,7 +369,7 @@ The 233 demonstration trajectories and the full 910-task evaluation set are diff
 
 可复现的 Android 基准，在预设虚拟设备上的 9 个应用中包含 138 项任务，可在 Mac 上通过 AVD 或在 Linux 上通过 Docker 运行，并与 Android Instruct 训练集一同发布。
 
-- 目录页面：https://awesomecua.com/resources/github-thudm-android-lab/
+- 目录页面：https://awesomecua.com/zh/resources/github-thudm-android-lab/
 - 原始来源：https://github.com/THUDM/Android-Lab
 - 类型：评测基准
 - 审核状态：已审核
@@ -415,7 +415,7 @@ The benchmark uses predefined virtual-device images and apps chosen to work with
 
 用于遵循指令的网页智能体的模拟购物环境。
 
-- 目录页面：https://awesomecua.com/resources/github-princeton-nlp-webshop/
+- 目录页面：https://awesomecua.com/zh/resources/github-princeton-nlp-webshop/
 - 原始来源：https://github.com/princeton-nlp/WebShop
 - 类型：评测基准
 - 审核状态：已审核
@@ -461,7 +461,7 @@ This is a simulated shop. The default preview loads 1,000 products, while the fu
 
 面向多模态桌面智能体的 Windows 11 基准，在可复现的虚拟机中本地运行或通过 Azure ML 并行运行；更难的模式要求智能体自行设置任务。
 
-- 目录页面：https://awesomecua.com/resources/github-microsoft-windowsagentarena/
+- 目录页面：https://awesomecua.com/zh/resources/github-microsoft-windowsagentarena/
 - 原始来源：https://github.com/microsoft/WindowsAgentArena
 - 类型：评测基准
 - 审核状态：已审核
@@ -508,7 +508,7 @@ Counted unique identifiers in the inspected manifest. Normal and hard modes diff
 
 Browser Use Benchmark (BU Bench V2.1) 在 200 项真实网页导航和交互任务上评测浏览器智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-browser-use-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-browser-use-benchmark/
 - 原始来源：https://github.com/browser-use/benchmark
 - 类型：评测基准
 - 审核状态：已审核
@@ -537,7 +537,7 @@ Browser Use Benchmark (BU Bench V2.1) 在 200 项真实网页导航和交互任�
 
 容器化 Android 评估环境，包含纯 GUI、智能体与用户交互及 MCP 增强的任务，并检查应用和后端状态。
 
-- 目录页面：https://awesomecua.com/resources/github-tongyi-mai-mobileworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-tongyi-mai-mobileworld/
 - 原始来源：https://github.com/Tongyi-MAI/MobileWorld
 - 类型：评测基准
 - 审核状态：已审核
@@ -591,7 +591,7 @@ Publisher-reported inventory. GUI-only, agent-user and MCP-augmented configurati
 
 多模态网页导航智能体，以及基于真实网站的评估任务。
 
-- 目录页面：https://awesomecua.com/resources/github-minorjerry-webvoyager/
+- 目录页面：https://awesomecua.com/zh/resources/github-minorjerry-webvoyager/
 - 原始来源：https://github.com/MinorJerry/WebVoyager
 - 类型：评测基准
 - 审核状态：已审核
@@ -637,7 +637,7 @@ The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites 
 
 AgentStudio 从 GroundUI-18K 抽取的 1,000 条 GUI 元素定位测试集，包含网页、桌面和移动端截图、经 GPT-4o 重写的指令及目标边界框。
 
-- 目录页面：https://awesomecua.com/resources/url-d86f55753bfea45fe313/
+- 目录页面：https://awesomecua.com/zh/resources/url-d86f55753bfea45fe313/
 - 原始来源：https://huggingface.co/datasets/agent-studio/GroundUI-1K
 - 类型：评测基准
 - 审核状态：已审核
@@ -692,7 +692,7 @@ Subset of GroundUI-18K sampled for efficient benchmarking; this count covers the
 
 LMMs-Eval 是面向大型多模态模型的标准化评测测试框架，涵盖 GUI 定位、VQA、文档和视频评测基准。
 
-- 目录页面：https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/
+- 目录页面：https://awesomecua.com/zh/resources/github-evolvinglmms-lab-lmms-eval/
 - 原始来源：https://github.com/EvolvingLMMs-Lab/lmms-eval
 - 类型：评测基准
 - 审核状态：已审核
@@ -722,7 +722,7 @@ LMMs-Eval 是面向大型多模态模型的标准化评测测试框架，涵盖 
 
 计算机使用定位基准，包含原始指令和改写指令；与 Jedi 合成数据流水线、含 4 百万个样例的 Jedi 数据集，以及 Jedi-3B 和 Jedi-7B 模型一同发布。
 
-- 目录页面：https://awesomecua.com/resources/github-xlang-ai-osworld-g/
+- 目录页面：https://awesomecua.com/zh/resources/github-xlang-ai-osworld-g/
 - 原始来源：https://github.com/xlang-ai/OSWorld-G
 - 类型：评测基准
 - 审核状态：已审核
@@ -769,7 +769,7 @@ The repository retains original OSWorld-G.json and refined OSWorld-G_refined.jso
 
 ScreenSpot 定位测试集的第二版，由 OS-Copilot 发布，桌面、移动端和网页标注分别存放，截图则共用一个归档文件。
 
-- 目录页面：https://awesomecua.com/resources/url-bd7214de6d98917c2350/
+- 目录页面：https://awesomecua.com/zh/resources/url-bd7214de6d98917c2350/
 - 原始来源：https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2
 - 类型：评测基准
 - 审核状态：已审核
@@ -816,7 +816,7 @@ The public Hub revision 5efbb1f1 contains three platform JSON annotation files a
 
 网页界面定位基准，包含截图指令和目标框，覆盖智能体浏览、人工浏览和日历场景。
 
-- 目录页面：https://awesomecua.com/resources/url-5e2bd1b3398974b79c9c/
+- 目录页面：https://awesomecua.com/zh/resources/url-5e2bd1b3398974b79c9c/
 - 原始来源：https://huggingface.co/datasets/Hcompany/WebClick
 - 类型：评测基准
 - 审核状态：已审核
@@ -864,7 +864,7 @@ The card reports more than 100 websites. Grounding accuracy and task completion 
 
 提供 136 个在线网站上的 300 项任务，用于在线评估网页智能体；过时任务会逐步替换，提交结果经人工审核，并配有 WebJudge 自动评估器。
 
-- 目录页面：https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/
+- 目录页面：https://awesomecua.com/zh/resources/github-osu-nlp-group-online-mind2web/
 - 原始来源：https://github.com/OSU-NLP-Group/Online-Mind2Web
 - 类型：评测基准
 - 审核状态：已审核
@@ -909,7 +909,7 @@ Tasks are actively replaced when websites or requirements become invalid. Record
 
 openadapt-evals 使用可复现的评测器，在 Windows Agent Arena 等评测基准上为 GUI 智能体和编译后的工作流评分。
 
-- 目录页面：https://awesomecua.com/resources/github-openadaptai-openadapt-evals/
+- 目录页面：https://awesomecua.com/zh/resources/github-openadaptai-openadapt-evals/
 - 原始来源：https://github.com/OpenAdaptAI/openadapt-evals
 - 类型：评测基准
 - 审核状态：已审核
@@ -939,7 +939,7 @@ openadapt-evals 使用可复现的评测器，在 Windows Agent Arena 等评测�
 
 扩展自 OpenAI MiniWoB 的 100 多个网页交互环境，可通过 Python 中的 Gymnasium API 使用 Selenium 控制浏览器。
 
-- 目录页面：https://awesomecua.com/resources/github-farama-foundation-miniwob-plusplus/
+- 目录页面：https://awesomecua.com/zh/resources/github-farama-foundation-miniwob-plusplus/
 - 原始来源：https://github.com/Farama-Foundation/miniwob-plusplus
 - 类型：评测基准
 - 审核状态：已审核
@@ -990,7 +990,7 @@ The README gives a lower bound for the active-environment inventory. Action pres
 
 面向多模态智能体的科学工作流程任务，涉及 ChimeraX、KAlgebra、Celestia、Grass GIS 和 Lean 4 等桌面软件；应用经过修改，可暴露状态供评估使用。
 
-- 目录页面：https://awesomecua.com/resources/github-os-copilot-scienceboard/
+- 目录页面：https://awesomecua.com/zh/resources/github-os-copilot-scienceboard/
 - 原始来源：https://github.com/OS-Copilot/ScienceBoard
 - 类型：评测基准
 - 审核状态：已审核
@@ -1039,7 +1039,7 @@ Manifest count 169 matches the official verifier audit. Other Raw/Dual definitio
 
 ScreenSpot 是 GUI 定位测试集，包含来自 iOS、Android、macOS、Windows 和网页界面的 1,272 条截图指令，每条均标注目标元素的边界框。
 
-- 目录页面：https://awesomecua.com/resources/url-7abb418096432f56c685/
+- 目录页面：https://awesomecua.com/zh/resources/url-7abb418096432f56c685/
 - 原始来源：https://huggingface.co/datasets/rootsautomation/ScreenSpot
 - 类型：评测基准
 - 审核状态：已审核
@@ -1087,7 +1087,7 @@ Offline, zero-shot evaluation across mobile, desktop, and web. The card explicit
 
 自包含的职场环境，用于评估智能体处理涉及网站、文件、代码和模拟同事的专业任务。
 
-- 目录页面：https://awesomecua.com/resources/github-theagentcompany-theagentcompany/
+- 目录页面：https://awesomecua.com/zh/resources/github-theagentcompany-theagentcompany/
 - 原始来源：https://github.com/TheAgentCompany/TheAgentCompany
 - 类型：评测基准
 - 审核状态：已审核
@@ -1131,7 +1131,7 @@ Each task is packaged as a Docker image. Record task-image and server versions; 
 
 涵盖视觉 GUI、具身和设计任务的评估框架，包括移动端及基于 WebArena 的环境。
 
-- 目录页面：https://awesomecua.com/resources/github-thudm-visualagentbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-thudm-visualagentbench/
 - 原始来源：https://github.com/THUDM/VisualAgentBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -1161,7 +1161,7 @@ Each task is packaged as a Docker image. Record task-image and server versions; 
 
 经审校重新发布 WebArena 的 812 项网页任务，修正参考答案，并以确定性评估器根据结构化智能体回答和捕获的网络轨迹评分，另含 258 项高难度任务子集。
 
-- 目录页面：https://awesomecua.com/resources/github-servicenow-webarena-verified/
+- 目录页面：https://awesomecua.com/zh/resources/github-servicenow-webarena-verified/
 - 原始来源：https://github.com/ServiceNow/webarena-verified
 - 类型：评测基准
 - 审核状态：已审核
@@ -1215,7 +1215,7 @@ Counts are unique task_id values in the inspected manifests. Tasks span the shop
 
 WebLINX 提供对话式网页导航的演示数据和评估。
 
-- 目录页面：https://awesomecua.com/resources/github-mcgill-nlp-weblinx/
+- 目录页面：https://awesomecua.com/zh/resources/github-mcgill-nlp-weblinx/
 - 原始来源：https://github.com/mcgill-nlp/weblinx
 - 类型：评测基准
 - 审核状态：已审核
@@ -1264,7 +1264,7 @@ The figures are rounded descriptions from the original paper. WebLINX 1.1 / Brow
 
 围绕 ServiceNow 构建的浏览器端企业工作流程任务。
 
-- 目录页面：https://awesomecua.com/resources/github-servicenow-workarena/
+- 目录页面：https://awesomecua.com/zh/resources/github-servicenow-workarena/
 - 原始来源：https://github.com/ServiceNow/WorkArena
 - 类型：评测基准
 - 审核状态：已审核
@@ -1311,7 +1311,7 @@ Definitions and instantiated tasks are different units. ServiceNow instance acce
 
 CUA-Gym-Hub 提供 98 个自包含的模拟网页应用，配有确定性状态验证器，可用作 RL 训练和评测环境。
 
-- 目录页面：https://awesomecua.com/resources/github-xlang-ai-cua-gym-hub/
+- 目录页面：https://awesomecua.com/zh/resources/github-xlang-ai-cua-gym-hub/
 - 原始来源：https://github.com/xlang-ai/CUA-Gym-Hub
 - 类型：评测基准
 - 审核状态：已审核
@@ -1341,7 +1341,7 @@ CUA-Gym-Hub 提供 98 个自包含的模拟网页应用，配有确定性状态�
 
 DeskMind Bench 提供沙箱化的 macOS 桌面任务、状态评分器和参考轨迹，用于评测计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-deskmind-ai-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-deskmind-ai-bench/
 - 原始来源：https://github.com/deskmind-ai/bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -1371,7 +1371,7 @@ DeskMind Bench 提供沙箱化的 macOS 桌面任务、状态评分器和参考�
 
 KNOWS 在涵盖 Google Docs、Sheets 和 Slides 的真实、开放式 Google Workspace 任务上评测网页智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-alexgill321-knows-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-alexgill321-knows-benchmark/
 - 原始来源：https://github.com/alexgill321/KNOWS-benchmark
 - 类型：评测基准
 - 审核状态：已审核
@@ -1401,7 +1401,7 @@ KNOWS 在涵盖 Google Docs、Sheets 和 Slides 的真实、开放式 Google Wor
 
 Lexbench-Headless-Browser 在 1,928 项网页任务上评测 13 种无头浏览器自动化运行时。
 
-- 目录页面：https://awesomecua.com/resources/github-lexmount-lexbench-headless-browser/
+- 目录页面：https://awesomecua.com/zh/resources/github-lexmount-lexbench-headless-browser/
 - 原始来源：https://github.com/lexmount/Lexbench-Headless-Browser
 - 类型：评测基准
 - 审核状态：已审核
@@ -1431,7 +1431,7 @@ Lexbench-Headless-Browser 在 1,928 项网页任务上评测 13 种无头浏览�
 
 MemGUI-Bench 是涵盖 26 款应用、128 项任务的记忆能力 Android 基准，在 Docker 模拟器中通过类似 MobileWorld 的运行环境执行，由 MemGUI-Eval 这一 LLM 评估器报告 pass@k 和记忆指标。
 
-- 目录页面：https://awesomecua.com/resources/github-lgy0404-memgui-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-lgy0404-memgui-bench/
 - 原始来源：https://github.com/lgy0404/MemGUI-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -1492,7 +1492,7 @@ Counts come from the pinned CSV files and match the README badges (128 tasks, 26
 
 跨 6 个平台的 4 级 GUI 智能体基准，涵盖内容理解、元素定位、任务自动化和协作，采用效率与质量的面积指标评分。
 
-- 目录页面：https://awesomecua.com/resources/github-open-compass-mmbench-gui/
+- 目录页面：https://awesomecua.com/zh/resources/github-open-compass-mmbench-gui/
 - 原始来源：https://github.com/open-compass/MMBench-GUI
 - 类型：评测基准
 - 审核状态：已审核
@@ -1535,7 +1535,7 @@ The README documents four levels, but its release notes and TODOs distinguish re
 
 运行于浏览器的移动应用模拟器，提供可编程状态、参数化任务和确定性的状态检查评判机制，用于并行评估 GUI 智能体和在线强化学习。
 
-- 目录页面：https://awesomecua.com/resources/github-purewhiter-mobilegym/
+- 目录页面：https://awesomecua.com/zh/resources/github-purewhiter-mobilegym/
 - 原始来源：https://github.com/Purewhiter/mobilegym
 - 类型：评测基准
 - 审核状态：已审核
@@ -1600,7 +1600,7 @@ The split-ID inventory counts task IDs. Extra runtime/data dependencies and thir
 
 桌面图形界面智能体基准，包含横跨 17 个业务领域和 41 个应用的 100 项办公任务。它发布任务表和演示数据表，供 UI-Mate 评测框架使用。
 
-- 目录页面：https://awesomecua.com/resources/url-c8c3d4ef20e68086a812/
+- 目录页面：https://awesomecua.com/zh/resources/url-c8c3d4ef20e68086a812/
 - 原始来源：https://huggingface.co/datasets/tencent/OSWorkerBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -1634,7 +1634,7 @@ The card names task and demonstration test splits. Executing evaluations require
 
 OSWorld-MCP 在 OSWorld 中评测计算机使用智能体混合使用 GUI 交互和 Model Context Protocol（MCP）工具调用的能力。
 
-- 目录页面：https://awesomecua.com/resources/github-x-plug-osworld-mcp/
+- 目录页面：https://awesomecua.com/zh/resources/github-x-plug-osworld-mcp/
 - 原始来源：https://github.com/X-PLUG/OSWorld-MCP
 - 类型：评测基准
 - 审核状态：已审核
@@ -1663,7 +1663,7 @@ OSWorld-MCP 在 OSWorld 中评测计算机使用智能体混合使用 GUI 交互
 
 基于 ScreenSpot-v2 截图的指令变体，区分原始命令、明确的操作、目标描述和无法执行的操作。
 
-- 目录页面：https://awesomecua.com/resources/url-17729e1c532ba7043404/
+- 目录页面：https://awesomecua.com/zh/resources/url-17729e1c532ba7043404/
 - 原始来源：https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants
 - 类型：评测基准
 - 审核状态：已审核
@@ -1711,7 +1711,7 @@ Reuses ScreenSpot-v2 imagery. Image-file counts, independent screenshots and tas
 
 在自托管 Wiki、News 和 Shop 网站上运行的网页智能体基准，每个网站有六种不同时代风格的 UI 版本，共注册 231 个 BrowserGym 任务，主要由确定性答案验证器评分。
 
-- 目录页面：https://awesomecua.com/resources/github-sparklabutah-timewarp/
+- 目录页面：https://awesomecua.com/zh/resources/github-sparklabutah-timewarp/
 - 原始来源：https://github.com/sparklabutah/timewarp
 - 类型：评测基准
 - 审核状态：已审核
@@ -1774,7 +1774,7 @@ Task counts were computed from the task file's sites and eval.eval_types fields 
 
 WebCanvas 提供面向真实场景网页智能体的框架和评估资源。
 
-- 目录页面：https://awesomecua.com/resources/github-imeanai-webcanvas/
+- 目录页面：https://awesomecua.com/zh/resources/github-imeanai-webcanvas/
 - 原始来源：https://github.com/iMeanAI/WebCanvas
 - 类型：评测基准
 - 审核状态：已审核
@@ -1804,7 +1804,7 @@ WebCanvas 提供面向真实场景网页智能体的框架和评估资源。
 
 WebLINX 1.1 是 WebLINX 对话式网页导航演示的重新处理版本，封装为单步 BrowserGym 任务，以预测的浏览器操作与记录中的对应步骤比对评分。
 
-- 目录页面：https://awesomecua.com/resources/url-77afb3a9b045a157167c/
+- 目录页面：https://awesomecua.com/zh/resources/url-77afb3a9b045a157167c/
 - 原始来源：https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym
 - 类型：评测基准
 - 审核状态：已审核
@@ -1864,7 +1864,7 @@ A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstr
 
 WildClawBench 在包含浏览器、邮件、文件和编程工具的在线工具环境中，以 60 项任务评估智能体，并发布评测代码及任务数据、轨迹链接。
 
-- 目录页面：https://awesomecua.com/resources/github-internlm-wildclawbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-internlm-wildclawbench/
 - 原始来源：https://github.com/InternLM/WildClawBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -1898,7 +1898,7 @@ The README describes Docker isolation and four agent harnesses. The repository i
 
 用于评估针对多模态网页智能体的对抗攻击的资源。
 
-- 目录页面：https://awesomecua.com/resources/github-chenwu98-agent-attack/
+- 目录页面：https://awesomecua.com/zh/resources/github-chenwu98-agent-attack/
 - 原始来源：https://github.com/ChenWu98/agent-attack
 - 类型：评测基准
 - 审核状态：已审核
@@ -1928,7 +1928,7 @@ The README describes Docker isolation and four agent harnesses. The repository i
 
 Agent-CE 是容器化的持续评测平台，用于通过可复现的任务套件评测网页浏览智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-anaishowland-agent-ce/
+- 目录页面：https://awesomecua.com/zh/resources/github-anaishowland-agent-ce/
 - 原始来源：https://github.com/anaishowland/agent-CE
 - 类型：评测基准
 - 审核状态：已审核
@@ -1958,7 +1958,7 @@ Agent-CE 是容器化的持续评测平台，用于通过可复现的任务套�
 
 一个评估与修订流程用计算机操作智能体测试生成的网站，依据规则检查任务完成情况，并汇总导航失败问题。
 
-- 目录页面：https://awesomecua.com/resources/github-showlab-aui/
+- 目录页面：https://awesomecua.com/zh/resources/github-showlab-aui/
 - 原始来源：https://github.com/showlab/AUI
 - 类型：评测基准
 - 审核状态：已审核
@@ -1992,7 +1992,7 @@ The repository lists stage scripts, model configuration, task rules, trajectorie
 
 智能体评估套件，提供容器化任务和函数调用接口，涵盖操作系统及购物环境。
 
-- 目录页面：https://awesomecua.com/resources/github-thudm-agentbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-thudm-agentbench/
 - 原始来源：https://github.com/THUDM/AgentBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2022,7 +2022,7 @@ The repository lists stage scripts, model configuration, task rules, trajectorie
 
 AgentBoard 在包括网页交互在内的多种任务中评估多轮智能体，并提供进度指标和可视化结果，用于分析其运行过程。
 
-- 目录页面：https://awesomecua.com/resources/github-hkust-nlp-agentboard/
+- 目录页面：https://awesomecua.com/zh/resources/github-hkust-nlp-agentboard/
 - 原始来源：https://github.com/hkust-nlp/AgentBoard
 - 类型：评测基准
 - 审核状态：已审核
@@ -2055,7 +2055,7 @@ The repository contains evaluation scripts and configurations. Its setup describ
 
 AgentCIBench 评估计算机操作智能体是否会在个人应用之间泄露信息。它提供可评分的场景、基准测试程序，以及用于可视化运行的网页环境。
 
-- 目录页面：https://awesomecua.com/resources/github-ukplab-arxiv2026-agentcibench/
+- 目录页面：https://awesomecua.com/zh/resources/github-ukplab-arxiv2026-agentcibench/
 - 原始来源：https://github.com/ukplab/arxiv2026-agentcibench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2089,7 +2089,7 @@ The repository lists local scenario data, reasoning and visual evaluation runner
 
 计算机使用智能体的上下文完整性基准：117 个合成多应用工作区场景，将信息不完整的请求与必须共享和禁止共享的信息清单配对，另含 50 个实时 UI 场景的子集。
 
-- 目录页面：https://awesomecua.com/resources/url-d7f35409d35584385097/
+- 目录页面：https://awesomecua.com/zh/resources/url-d7f35409d35584385097/
 - 原始来源：https://huggingface.co/datasets/UKPLab/agentcibench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2149,7 +2149,7 @@ Setting is mixed: the reasoning track scores responses over decoded app states, 
 
 面向浏览器智能体的可靠性 CI 测试框架，在不断变化的 DOM 条件下运行相同的网页任务，以衡量其适应能力。
 
-- 目录页面：https://awesomecua.com/resources/github-konuktor-agent-gauntlet/
+- 目录页面：https://awesomecua.com/zh/resources/github-konuktor-agent-gauntlet/
 - 原始来源：https://github.com/Konuktor/agent-gauntlet
 - 类型：评测基准
 - 审核状态：已审核
@@ -2179,7 +2179,7 @@ Setting is mixed: the reasoning track scores responses over decoded app states, 
 
 AgentRewardBench 提供基准和评估工具，将自动网页智能体评判器对任务成功、附带影响和重复操作的判断与专家判断进行比较。
 
-- 目录页面：https://awesomecua.com/resources/github-mcgill-nlp-agent-reward-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-mcgill-nlp-agent-reward-bench/
 - 原始来源：https://github.com/McGill-NLP/agent-reward-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2234,7 +2234,7 @@ Counts refer to the paper study.
 
 来自 Step-GUI 的 Android GUI 评测基准数据集，包含 3,146 个静态动作评测条目和 235 项端到端移动端日常任务。
 
-- 目录页面：https://awesomecua.com/resources/url-8697c910c05d48152916/
+- 目录页面：https://awesomecua.com/zh/resources/url-8697c910c05d48152916/
 - 原始来源：https://huggingface.co/datasets/stepfun-ai/AndroidDaily
 - 类型：评测基准
 - 审核状态：已审核
@@ -2264,7 +2264,7 @@ Counts refer to the paper study.
 
 提供模拟应用、用户数据和基于状态的任务检查，用于评估通过 API 和代码交互的智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-stonybrooknlp-appworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-stonybrooknlp-appworld/
 - 原始来源：https://github.com/StonyBrookNLP/appworld
 - 类型：评测基准
 - 审核状态：已审核
@@ -2314,7 +2314,7 @@ This is an adjacent API/coding benchmark. Preserve the named release; task count
 
 AssistantBench 用贴近现实、耗时较长的网页任务评测智能体；项目仓库提供任务数据集和提交排行榜的链接。
 
-- 目录页面：https://awesomecua.com/resources/github-oriyor-assistantbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-oriyor-assistantbench/
 - 原始来源：https://github.com/oriyor/AssistantBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2347,7 +2347,7 @@ The README links to a Hugging Face dataset and leaderboard. It says SeePlanAct c
 
 一个评测智能体依据文本和视觉参考创建可编辑 Blender 项目的基准。它提供 223 项任务、提交内容打包工具，以及按场景和视觉标准评分的评估器。
 
-- 目录页面：https://awesomecua.com/resources/github-qwenlm-blenderworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-qwenlm-blenderworld/
 - 原始来源：https://github.com/QwenLM/BlenderWorld
 - 类型：评测基准
 - 审核状态：已审核
@@ -2381,7 +2381,7 @@ The repository includes a Python package and documentation for dataset, submissi
 
 真实网站上的日常任务基准，让浏览器智能体在容器化 Chromium 中运行，拦截每次最终提交请求并通过 URL 匹配和 LLM 裁判评分，同时记录 5 层运行证据。
 
-- 目录页面：https://awesomecua.com/resources/github-tiger-ai-lab-clawbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-tiger-ai-lab-clawbench/
 - 原始来源：https://github.com/TIGER-AI-Lab/ClawBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2438,7 +2438,7 @@ The README says two ASPCA tasks were removed after publication, so the shipped c
 
 人工标注的浏览器智能体轨迹，用于将自动化任务成功与过程质量验证器的判断同评审人员的判断进行比较。
 
-- 目录页面：https://awesomecua.com/resources/url-d5140d438466c1e1348a/
+- 目录页面：https://awesomecua.com/zh/resources/url-d5140d438466c1e1348a/
 - 原始来源：https://huggingface.co/datasets/microsoft/CUAVerifierBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2492,7 +2492,7 @@ Trajectory rows and reviewer rows have different grains. The released Parquet fi
 
 联邦式移动端智能体训练与评估套件，可调整用户数据异质性和应用分布，并发布了分区标注及推理、评分脚本。
 
-- 目录页面：https://awesomecua.com/resources/github-wwh0411-fedmabench/
+- 目录页面：https://awesomecua.com/zh/resources/github-wwh0411-fedmabench/
 - 原始来源：https://github.com/wwh0411/FedMABench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2545,7 +2545,7 @@ The dataset-family count measures dataset families. Code and data licenses are u
 
 逐步网页定位基准，对 Mind2Web 页面施加样式、缩放和文字大小扰动后重新渲染，并将每张截图与直接或关系型指令及目标框配对。
 
-- 目录页面：https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/
+- 目录页面：https://awesomecua.com/zh/resources/url-7ed70b39ac79f97f8a87/
 - 原始来源：https://huggingface.co/datasets/figai/GUI-Perturbed
 - 类型：评测基准
 - 审核状态：已审核
@@ -2597,7 +2597,7 @@ Each example is one screenshot, instruction and target box; four visual variants
 
 GUIGuard-Bench 公开榜单版本：含 121 条 Android 和 Linux 桌面智能体轨迹，2,002 张截图带区域级隐私标签，用于隐私识别、受保护界面规划和点击定位。
 
-- 目录页面：https://awesomecua.com/resources/url-61860953a680776ffe53/
+- 目录页面：https://awesomecua.com/zh/resources/url-61860953a680776ffe53/
 - 原始来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2654,7 +2654,7 @@ Trajectories, screenshots and annotations are different units and are counted se
 
 运行时与 CUA-World 任务套件将 Ubuntu、Windows 11、Android 和 macOS 上的真实应用变为让智能体观察屏幕并使用鼠标键盘的环境，配有设置脚本和程序验证器。
 
-- 目录页面：https://awesomecua.com/resources/github-cmu-l3-gym-anything/
+- 目录页面：https://awesomecua.com/zh/resources/github-cmu-l3-gym-anything/
 - 原始来源：https://github.com/cmu-l3/gym-anything
 - 类型：评测基准
 - 审核状态：已审核
@@ -2717,7 +2717,7 @@ The paper's application and task totals and the repository's verified manifest a
 
 Gym-Anything-RT 用成对的实时与不限时浏览器小游戏评测依靠截图行动的智能体。其运行器可暂停或放慢游戏时钟，以区分时间因素的影响。
 
-- 目录页面：https://awesomecua.com/resources/github-gym-anything-gym-anything-rt/
+- 目录页面：https://awesomecua.com/zh/resources/github-gym-anything-gym-anything-rt/
 - 原始来源：https://github.com/gym-anything/gym-anything-rt
 - 类型：评测基准
 - 审核状态：已审核
@@ -2751,7 +2751,7 @@ The README reports 100 real-time minigames with non-real-time counterparts, five
 
 基准测试框架固定基础模型，在各自容器中运行六种浏览器智能体框架，执行 ClawBench 的日常在线任务，并复用其录制与评判流程。
 
-- 目录页面：https://awesomecua.com/resources/github-reacher-z-harnessbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-reacher-z-harnessbench/
 - 原始来源：https://github.com/reacher-z/HarnessBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2806,7 +2806,7 @@ Task definitions and judge prompts live in ClawBench. Cloud harnesses without cr
 
 面向示范学习的移动端 GUI 基准，包含 2,252 项离线任务和 101 项在线任务及人工逐步轨迹，每项查询配有一至三条相似的辅助示范。
 
-- 目录页面：https://awesomecua.com/resources/url-a7beaa489fc4ffeb555f/
+- 目录页面：https://awesomecua.com/zh/resources/url-a7beaa489fc4ffeb555f/
 - 原始来源：https://huggingface.co/datasets/lgy0404/LearnGUI
 - 类型：评测基准
 - 审核状态：已审核
@@ -2869,7 +2869,7 @@ Task, step-action, application and file counts are different units; these counts
 
 LlamaTouch 利用应用状态信息评估移动端 UI 任务。
 
-- 目录页面：https://awesomecua.com/resources/github-llamatouch-llamatouch/
+- 目录页面：https://awesomecua.com/zh/resources/github-llamatouch-llamatouch/
 - 原始来源：https://github.com/LlamaTouch/LlamaTouch
 - 类型：评测基准
 - 审核状态：已审核
@@ -2916,7 +2916,7 @@ Application coverage refers to the self-constructed subset. Task execution and e
 
 mac-agent-bench 在已登录的 Mac 上运行电脑操作工具，以脚本检查任务结果，同时测量前台应用和光标的变化。
 
-- 目录页面：https://awesomecua.com/resources/github-prithviseran-mac-agent-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-prithviseran-mac-agent-bench/
 - 原始来源：https://github.com/PrithviSeran/mac-agent-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2950,7 +2950,7 @@ The README describes a Python runner, MCP adapter files, task setup and check sc
 
 MacAgentBench 包含覆盖 25 个应用的 676 项 macOS 任务；每项任务在独立 Docker 容器中运行，通过含多个检查点的确定性规则检查评分。
 
-- 目录页面：https://awesomecua.com/resources/github-jetastra-macagentbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-jetastra-macagentbench/
 - 原始来源：https://github.com/JetAstra/MacAgentBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -2996,7 +2996,7 @@ The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framewo
 
 macOSWorld 在 30 款 macOS 应用的任务中，以五种语言评测 GUI 智能体。它提供用于 AWS macOS 实例的 Python 测试框架和安全任务子集。
 
-- 目录页面：https://awesomecua.com/resources/github-showlab-macosworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-showlab-macosworld/
 - 原始来源：https://github.com/showlab/macosworld
 - 类型：评测基准
 - 审核状态：已审核
@@ -3030,7 +3030,7 @@ The repository includes task files, agent adapters, evaluation scripts, and inst
 
 移动端智能体的离线任务数据，涵盖常见任务，并发布了含噪声、受污染和指令含糊的子集。
 
-- 目录页面：https://awesomecua.com/resources/url-1d5b85321b98765141fc/
+- 目录页面：https://awesomecua.com/zh/resources/url-1d5b85321b98765141fc/
 - 原始来源：https://huggingface.co/datasets/xwk123/MobileBench-v2
 - 类型：评测基准
 - 审核状态：已审核
@@ -3083,7 +3083,7 @@ Release completeness differs by split. No full-benchmark sample total is inferre
 
 覆盖日常场景的移动应用任务定义，标注了前置条件和需要澄清的事项，用于评估智能体行为。
 
-- 目录页面：https://awesomecua.com/resources/url-d7a4f34a6a5202af5f64/
+- 目录页面：https://awesomecua.com/zh/resources/url-d7a4f34a6a5202af5f64/
 - 原始来源：https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -3132,7 +3132,7 @@ The card describes 140 single-app and 10 cross-app tasks. Task and app counts ar
 
 基于浏览器渲染的移动端模拟环境，应用状态可重置，并为纯 GUI 智能体和 GUI 加工具智能体提供共用任务集。
 
-- 目录页面：https://awesomecua.com/resources/github-openmobile2-mobilegym-plusplus/
+- 目录页面：https://awesomecua.com/zh/resources/github-openmobile2-mobilegym-plusplus/
 - 原始来源：https://github.com/OpenMobile2/MobileGym-plusplus
 - 类型：评测基准
 - 审核状态：已审核
@@ -3184,7 +3184,7 @@ The task count was checked against unique task_id values in the published manife
 
 一个 Linux 桌面基准，包含跨预置网页应用和办公软件的 184 项任务，使用虚拟机运行器与评分细则进行评分。
 
-- 目录页面：https://awesomecua.com/resources/github-ljang0-mypcbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-ljang0-mypcbench/
 - 原始来源：https://github.com/ljang0/MyPCBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -3218,7 +3218,7 @@ The repository ships the harness, tasks, rubrics, persona metadata and documenta
 
 包含 200 项取自真实浏览会话的长流程网页任务，通过 OSWorld 运行器在 Chrome 中访问实时互联网，并由 LLM 评判器依据轨迹截图和操作按评分细则逐项评分。
 
-- 目录页面：https://awesomecua.com/resources/github-ljang0-odysseys/
+- 目录页面：https://awesomecua.com/zh/resources/github-ljang0-odysseys/
 - 原始来源：https://github.com/ljang0/Odysseys
 - 类型：评测基准
 - 审核状态：已审核
@@ -3275,7 +3275,7 @@ Counts were computed from the pinned task file and match the README's 200 tasks 
 
 OmniAct 是用于生成计算机交互程序的数据集和基准。
 
-- 目录页面：https://awesomecua.com/resources/url-849a86beaee006c6b147/
+- 目录页面：https://awesomecua.com/zh/resources/url-849a86beaee006c6b147/
 - 原始来源：https://huggingface.co/datasets/Writer/omniact
 - 类型：评测基准
 - 审核状态：已审核
@@ -3323,7 +3323,7 @@ This released split table totals 9,799 examples; paper-level collection size is 
 
 这套可复现的基准测试比较智能体读取实时网页所用的工具，通过页面查看和浏览任务衡量内容获取情况、耗时及令牌用量。
 
-- 目录页面：https://awesomecua.com/resources/github-only-cli-benchmarks/
+- 目录页面：https://awesomecua.com/zh/resources/github-only-cli-benchmarks/
 - 原始来源：https://github.com/only-cli/benchmarks
 - 类型：评测基准
 - 审核状态：已审核
@@ -3356,7 +3356,7 @@ The repository includes task definitions, tool adapters, runner scripts and save
 
 这是一个智能体安全基准，采用涉及浏览器、文件系统、终端和消息工具的多步模拟任务，测试智能体如何应对含糊、冲突和对抗性指令。
 
-- 目录页面：https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/
+- 目录页面：https://awesomecua.com/zh/resources/github-open-agent-safety-openagentsafety/
 - 原始来源：https://github.com/Open-Agent-Safety/OpenAgentSafety
 - 类型：评测基准
 - 审核状态：已审核
@@ -3390,7 +3390,7 @@ The repository includes task and evaluation code and uses services launched thro
 
 评估计算机使用智能体在滥用、提示注入和模型意外行为方面安全性的基准。
 
-- 目录页面：https://awesomecua.com/resources/github-tml-epfl-os-harm/
+- 目录页面：https://awesomecua.com/zh/resources/github-tml-epfl-os-harm/
 - 原始来源：https://github.com/tml-epfl/os-harm
 - 类型：评测基准
 - 审核状态：已审核
@@ -3445,7 +3445,7 @@ README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior li
 
 OSWorld 2.0 通过更新的任务集、轨迹查看器和容器沙箱，评测计算机使用智能体执行长流程桌面工作流的能力。
 
-- 目录页面：https://awesomecua.com/resources/github-xlang-ai-osworld-v2/
+- 目录页面：https://awesomecua.com/zh/resources/github-xlang-ai-osworld-v2/
 - 原始来源：https://github.com/xlang-ai/OSWorld-V2
 - 类型：评测基准
 - 审核状态：已审核
@@ -3475,7 +3475,7 @@ OSWorld 2.0 通过更新的任务集、轨迹查看器和容器沙箱，评测�
 
 PersonalAlign 发布 AndroidIntent 评测，用于测试个性化移动界面智能体，并提供利用长期交互记录的 HIM-Agent 记忆方法。
 
-- 目录页面：https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/
+- 目录页面：https://awesomecua.com/zh/resources/github-ilearn-lab-acl26-personalalign/
 - 原始来源：https://github.com/iLearn-Lab/ACL26-PersonalAlign
 - 类型：评测基准
 - 审核状态：已审核
@@ -3508,7 +3508,7 @@ The README gives evaluation scripts for personalized execution, proactive sugges
 
 Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟、内存和 token 效率评测。
 
-- 目录页面：https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-benchmarks/
 - 原始来源：https://github.com/plasmate-labs/plasmate-benchmarks
 - 类型：评测基准
 - 审核状态：已审核
@@ -3538,7 +3538,7 @@ Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟�
 
 用于评估 GUI 智能体在恶意弹窗指令下表现的资源。
 
-- 目录页面：https://awesomecua.com/resources/github-salt-nlp-popupattack/
+- 目录页面：https://awesomecua.com/zh/resources/github-salt-nlp-popupattack/
 - 原始来源：https://github.com/SALT-NLP/PopupAttack
 - 类型：评测基准
 - 审核状态：已审核
@@ -3567,7 +3567,7 @@ Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟�
 
 PPTC 是 PowerPoint 创建与编辑基准，通过 API 执行任务，并检查生成的演示文稿文件。
 
-- 目录页面：https://awesomecua.com/resources/github-gydpku-pptc/
+- 目录页面：https://awesomecua.com/zh/resources/github-gydpku-pptc/
 - 原始来源：https://github.com/gydpku/PPTC
 - 类型：评测基准
 - 审核状态：已审核
@@ -3597,7 +3597,7 @@ PPTC 是 PowerPoint 创建与编辑基准，通过 API 执行任务，并检查�
 
 一个浏览器智能体评测工具包，提供可复现的网站副本、任务目标、智能体 API 和评测框架。
 
-- 目录页面：https://awesomecua.com/resources/github-agi-inc-real/
+- 目录页面：https://awesomecua.com/zh/resources/github-agi-inc-real/
 - 原始来源：https://github.com/agi-inc/REAL
 - 类型：评测基准
 - 审核状态：已审核
@@ -3631,7 +3631,7 @@ The source includes SDK installation instructions and custom-agent examples. Eva
 
 通过混合式计算机交互复刻参考应用的任务。
 
-- 目录页面：https://awesomecua.com/resources/url-d9d8e68f19ef0956d189/
+- 目录页面：https://awesomecua.com/zh/resources/url-d9d8e68f19ef0956d189/
 - 原始来源：https://huggingface.co/datasets/Qwen/RecreationBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -3664,7 +3664,7 @@ Dataset card declares multiple upstream licenses; do not treat the package as ha
 
 在 Ubuntu 虚拟机中衡量多模态计算机使用智能体的风险行为，包含钓鱼邮件等风险场景，并发布评估轨迹。
 
-- 目录页面：https://awesomecua.com/resources/github-yjyddq-riosworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-yjyddq-riosworld/
 - 原始来源：https://github.com/yjyddq/RiOSWorld
 - 类型：评测基准
 - 审核状态：已审核
@@ -3693,7 +3693,7 @@ Dataset card declares multiple upstream licenses; do not treat the package as ha
 
 涵盖 66 款中英文 Android 应用中的 340 项单应用和跨应用任务，支持以插件方式接入 11 种手机智能体，并自动从粗到细检测任务是否成功。
 
-- 目录页面：https://awesomecua.com/resources/github-ai-agents-2030-spa-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-ai-agents-2030-spa-bench/
 - 原始来源：https://github.com/ai-agents-2030/SPA-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -3742,7 +3742,7 @@ The two task subsets partition the 340 tasks. The integrated agent and evaluator
 
 Spider Browser Dataset 在 18 个类别的 999 个 URL 和 327 个域名上评测浏览器自动化和抗反机器人机制的能力。
 
-- 目录页面：https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/
+- 目录页面：https://awesomecua.com/zh/resources/github-spider-rs-spider-browser-dataset/
 - 原始来源：https://github.com/spider-rs/spider-browser-dataset
 - 类型：评测基准
 - 审核状态：已审核
@@ -3771,7 +3771,7 @@ Spider Browser Dataset 在 18 个类别的 999 个 URL 和 327 个域名上评�
 
 基于 BrowserGym 的基准，从 6 个可信性风险维度评估企业网页智能体的安全性和政策合规性。
 
-- 目录页面：https://awesomecua.com/resources/github-segev-shlomov-st-webagentbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-segev-shlomov-st-webagentbench/
 - 原始来源：https://github.com/segev-shlomov/ST-WebAgentBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -3800,7 +3800,7 @@ Spider Browser Dataset 在 18 个类别的 999 个 URL 和 327 个域名上评�
 
 UniClawBench 评测智能体使用工具、浏览器、文件及桌面图形界面完成流程任务。双语版本包含 400 个任务、Docker 运行环境和轨迹查看工具。
 
-- 目录页面：https://awesomecua.com/resources/github-hku-mmlab-uniclawbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-hku-mmlab-uniclawbench/
 - 原始来源：https://github.com/HKU-MMLab/UniClawBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -3834,7 +3834,7 @@ The README describes 200 English tasks and 200 mirrored Chinese tasks, with an e
 
 一个根据教程视频、先前动作和当前屏幕预测移动端界面动作的基准，发布了逐步标注、视频和参考帧。
 
-- 目录页面：https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/
+- 目录页面：https://awesomecua.com/zh/resources/url-3e3ca34dbdaf3190465c/
 - 原始来源：https://huggingface.co/datasets/Aoraku/VG-GUI-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -3868,7 +3868,7 @@ The card reports 100 episodes and 1,071 annotated steps. It describes a JSON ann
 
 基于教学视频构建的桌面 GUI 任务基准。
 
-- 目录页面：https://awesomecua.com/resources/github-showlab-videogui/
+- 目录页面：https://awesomecua.com/zh/resources/github-showlab-videogui/
 - 原始来源：https://github.com/showlab/videogui
 - 类型：评测基准
 - 审核状态：已审核
@@ -3897,7 +3897,7 @@ The card reports 100 episodes and 1,071 annotated steps. It describes a JSON ann
 
 这是一个面向 VimGolf 任务的类 Gym 基准，可让智能体向 Vim 发送按键、截取屏幕截图，并按正确性和按键次数评估解法。
 
-- 目录页面：https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/
+- 目录页面：https://awesomecua.com/zh/resources/github-james4ever0-vimgolf-gym/
 - 原始来源：https://github.com/James4Ever0/vimgolf-gym
 - 类型：评测基准
 - 审核状态：已审核
@@ -3931,7 +3931,7 @@ The package provides local, online and custom challenges, plus a Docker executio
 
 WeaveBench 是结合图形界面交互与代码执行的计算机使用基准。
 
-- 目录页面：https://awesomecua.com/resources/url-6a212bc12f82c824f6b9/
+- 目录页面：https://awesomecua.com/zh/resources/url-6a212bc12f82c824f6b9/
 - 原始来源：https://huggingface.co/datasets/wanlilll/WeaveBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -3961,7 +3961,7 @@ WeaveBench 是结合图形界面交互与代码执行的计算机使用基准。
 
 生成模仿 GitLab、PayPal、Xero、Elation EHR 等产品的网页应用，具备可重置状态及供浏览器智能体使用的 Python 验证任务，并附有构建应用的编程智能体流水线。
 
-- 目录页面：https://awesomecua.com/resources/github-web-arena-x-webarena-infinity/
+- 目录页面：https://awesomecua.com/zh/resources/github-web-arena-x-webarena-infinity/
 - 原始来源：https://github.com/web-arena-x/webarena-infinity
 - 类型：评测基准
 - 审核状态：已审核
@@ -4020,7 +4020,7 @@ The repository holds three more environment directories than the blog's release 
 
 一个网页智能体基准，提供本地商店网站、BrowserGym 任务和数据库审计记录，用于衡量任务完成情况以及回溯时的重复写入。
 
-- 目录页面：https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/
+- 目录页面：https://awesomecua.com/zh/resources/github-mahirlabibdihan-webreplaybench/
 - 原始来源：https://github.com/mahirlabibdihan/WebReplayBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -4053,7 +4053,7 @@ The README lists 20 tasks, 100 instrumented elements, and JSON scenario files. R
 
 WebRetriever 提供网页智能体评测运行器，并利用采集到的网络请求、操作和页面 URL 判断任务是否完成。
 
-- 目录页面：https://awesomecua.com/resources/github-mininglamp-ai-webretriever/
+- 目录页面：https://awesomecua.com/zh/resources/github-mininglamp-ai-webretriever/
 - 原始来源：https://github.com/Mininglamp-AI/WebRetriever
 - 类型：评测基准
 - 审核状态：已审核
@@ -4086,7 +4086,7 @@ The repository includes example tasks, launch scripts, agent code and NavEval co
 
 用于网页过程奖励模型的离线偏好评估集，将页面和轨迹上下文与受偏好及被拒绝的候选决策配对。
 
-- 目录页面：https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/
+- 目录页面：https://awesomecua.com/zh/resources/url-ac6d0f80765f5a32255a/
 - 原始来源：https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -4135,7 +4135,7 @@ The current Hub row count and project case-count claim use unresolved counting u
 
 用于评估计算机使用智能体的实时网页任务定义和评分标准，包含保留的原始任务、更新后的 V2 任务集及独立的拒绝任务集。
 
-- 目录页面：https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/
+- 目录页面：https://awesomecua.com/zh/resources/url-3b6dfd52f98bfe76bc7f/
 - 原始来源：https://huggingface.co/datasets/microsoft/WebTailBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -4187,7 +4187,7 @@ V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are t
 
 一个包含 149 项网页界面生成任务及结构化测试用例的基准，并使用视觉语言智能体在浏览器中测试生成的界面。
 
-- 目录页面：https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-yunyuntsai-webuiproof-benchmark/
 - 原始来源：https://github.com/yunyuntsai/webuiproof-benchmark
 - 类型：评测基准
 - 审核状态：已审核
@@ -4220,7 +4220,7 @@ The repository lists task files, evaluation code, result files, and training dat
 
 这套受限访问的 ServiceNow 实例用于运行 WorkArena 基准评估；仓库提供实例信息，并说明研究使用条件。
 
-- 目录页面：https://awesomecua.com/resources/url-01b9e39cd2526d41c527/
+- 目录页面：https://awesomecua.com/zh/resources/url-01b9e39cd2526d41c527/
 - 原始来源：https://huggingface.co/datasets/ServiceNow/WorkArena-Instances
 - 类型：评测基准
 - 审核状态：已审核
@@ -4254,7 +4254,7 @@ Access requires accepting conditions through Hugging Face. The repository lists 
 
 外部状态验证评测基准，用于测试 WebMCP 浏览器工具是否真正产生其声称的 DOM 和后端效果。
 
-- 目录页面：https://awesomecua.com/resources/github-ajaknumber4-action-check-webmcp/
+- 目录页面：https://awesomecua.com/zh/resources/github-ajaknumber4-action-check-webmcp/
 - 原始来源：https://github.com/ajaknumber4/action-check-webmcp
 - 类型：评测基准
 - 审核状态：已审核
@@ -4284,7 +4284,7 @@ Access requires accepting conditions through Hugging Face. The repository lists 
 
 action-choice-bench 在固定的界面状态下评测离散 UI 动作选择和经过校准的弃答能力。
 
-- 目录页面：https://awesomecua.com/resources/github-gbesse-action-choice-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-gbesse-action-choice-bench/
 - 原始来源：https://github.com/gbesse/action-choice-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -4314,7 +4314,7 @@ action-choice-bench 在固定的界面状态下评测离散 UI 动作选择和�
 
 提供可复现的同机评测基准，比较 AI 智能体的浏览器和桌面工具包，并附有完整执行记录。
 
-- 目录页面：https://awesomecua.com/resources/github-alloevil-agent-tool-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-alloevil-agent-tool-benchmark/
 - 原始来源：https://github.com/alloevil/agent-tool-benchmark
 - 类型：评测基准
 - 审核状态：已审核
@@ -4344,7 +4344,7 @@ action-choice-bench 在固定的界面状态下评测离散 UI 动作选择和�
 
 agent-bench 通过涵盖导航、表单填写、搜索和电商结账的 50 个网页任务，评测基于浏览器的 AI 智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-megaurav4-agent-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-megaurav4-agent-bench/
 - 原始来源：https://github.com/MeGaurav4/agent-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -4374,7 +4374,7 @@ agent-bench 通过涵盖导航、表单填写、搜索和电商结账的 50 个�
 
 Agentalyze 是面向 LLM 浏览器智能体的评测测试框架，提供真实 Chromium 任务、基于 DOM 的状态验证器和步骤级轨迹分析。
 
-- 目录页面：https://awesomecua.com/resources/github-ilyat9-agentalyze/
+- 目录页面：https://awesomecua.com/zh/resources/github-ilyat9-agentalyze/
 - 原始来源：https://github.com/Ilyat9/Agentalyze
 - 类型：评测基准
 - 审核状态：已审核
@@ -4403,7 +4403,7 @@ Agentalyze 是面向 LLM 浏览器智能体的评测测试框架，提供真实 
 
 agentB 是评测基准，用于评测开放网页智能体在真实知识工作和浏览器自动化任务上的表现。
 
-- 目录页面：https://awesomecua.com/resources/github-beme08-agentb/
+- 目录页面：https://awesomecua.com/zh/resources/github-beme08-agentb/
 - 原始来源：https://github.com/beme08/agentb
 - 类型：评测基准
 - 审核状态：已审核
@@ -4433,7 +4433,7 @@ agentB 是评测基准，用于评测开放网页智能体在真实知识工作�
 
 衡量网页智能体在端到端任务执行中是否不必要地使用敏感个人信息的基准。
 
-- 目录页面：https://awesomecua.com/resources/github-facebookresearch-ai-agent-privacy/
+- 目录页面：https://awesomecua.com/zh/resources/github-facebookresearch-ai-agent-privacy/
 - 原始来源：https://github.com/facebookresearch/ai-agent-privacy
 - 类型：评测基准
 - 审核状态：已审核
@@ -4462,7 +4462,7 @@ agentB 是评测基准，用于评测开放网页智能体在真实知识工作�
 
 用于测试工具调用智能体提示注入安全性的 Python 基准包，包含工作区、银行、旅行和 Slack 任务套件、可插拔攻防模块，以及评估任务效用和攻击成功率的脚本。
 
-- 目录页面：https://awesomecua.com/resources/github-ethz-spylab-agentdojo/
+- 目录页面：https://awesomecua.com/zh/resources/github-ethz-spylab-agentdojo/
 - 原始来源：https://github.com/ethz-spylab/agentdojo
 - 类型：评测基准
 - 审核状态：已审核
@@ -4516,7 +4516,7 @@ Paper counts describe the reported benchmark; later suite versions in the reposi
 
 用于对计算机使用智能体进行压力测试的多智能体对抗评测与安全检查实验室。
 
-- 目录页面：https://awesomecua.com/resources/github-moeenasim-agentforge-v5/
+- 目录页面：https://awesomecua.com/zh/resources/github-moeenasim-agentforge-v5/
 - 原始来源：https://github.com/MoeenAsim/Agentforge-V5
 - 类型：评测基准
 - 审核状态：已审核
@@ -4545,7 +4545,7 @@ Paper counts describe the reported benchmark; later suite versions in the reposi
 
 面向 AI 浏览器和网页智能体的本地测试套件，包含提示注入及指令权限边界场景，并配有金丝雀检查。
 
-- 目录页面：https://awesomecua.com/resources/github-larrypeseckis-agentic-browser-boundary-tests/
+- 目录页面：https://awesomecua.com/zh/resources/github-larrypeseckis-agentic-browser-boundary-tests/
 - 原始来源：https://github.com/larrypeseckis/agentic-browser-boundary-tests
 - 类型：评测基准
 - 审核状态：已审核
@@ -4575,7 +4575,7 @@ Paper counts describe the reported benchmark; later suite versions in the reposi
 
 云端浏览器评测测试框架，用于测试自主 AI 智能体能否完成网站的主要转化动作。
 
-- 目录页面：https://awesomecua.com/resources/github-williehems-agentready/
+- 目录页面：https://awesomecua.com/zh/resources/github-williehems-agentready/
 - 原始来源：https://github.com/Williehems/agentready
 - 类型：评测基准
 - 审核状态：已审核
@@ -4605,7 +4605,7 @@ Paper counts describe the reported benchmark; later suite versions in the reposi
 
 用于评估语言模型驱动的智能体的 Android 环境。
 
-- 目录页面：https://awesomecua.com/resources/github-androidarenaagent-androidarena/
+- 目录页面：https://awesomecua.com/zh/resources/github-androidarenaagent-androidarena/
 - 原始来源：https://github.com/AndroidArenaAgent/AndroidArena
 - 类型：评测基准
 - 审核状态：已审核
@@ -4653,7 +4653,7 @@ README states that task instructions are released but annotated action sequences
 
 净化后的 AndroidControl 测试集，按目标元素边界框评估预测点击，并修复含糊或错误的任务标签；以步骤级 JSON 文件和截图归档发布。
 
-- 目录页面：https://awesomecua.com/resources/url-dda8a0f1413a6bc7c26f/
+- 目录页面：https://awesomecua.com/zh/resources/url-dda8a0f1413a6bc7c26f/
 - 原始来源：https://huggingface.co/datasets/batwBMW/AndroidControl_Curated
 - 类型：评测基准
 - 审核状态：已审核
@@ -4709,7 +4709,7 @@ Counts were computed from the pinned JSON files. The high-level bbox file before
 
 提供模拟移动应用和评估工具，在受控应用状态下复现 GUI 智能体任务。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim
 - 类型：评测基准
 - 审核状态：已审核
@@ -4754,7 +4754,7 @@ Use the simulated apps and controlled backend state supplied by the benchmark. D
 
 可恢复进度、仅通过屏幕交互的计算机使用评测场，用于测试 Codex 智能体能否玩本地安装的桌面游戏。
 
-- 目录页面：https://awesomecua.com/resources/github-gih10012-astra-game-arena/
+- 目录页面：https://awesomecua.com/zh/resources/github-gih10012-astra-game-arena/
 - 原始来源：https://github.com/gih10012/astra-game-arena
 - 类型：评测基准
 - 审核状态：已审核
@@ -4784,7 +4784,7 @@ Use the simulated apps and controlled backend state supplied by the benchmark. D
 
 车载信息娱乐屏幕的离线测试集，含来自 15 个品牌的 998 张照片和截图，以及 4,208 条英文标注，用于定位 UI 元素并判断预期结果通过或失败。
 
-- 目录页面：https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/
+- 目录页面：https://awesomecua.com/zh/resources/url-e80e9cf4f565f9ab2abf/
 - 原始来源：https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K
 - 类型：评测基准
 - 审核状态：已审核
@@ -4837,7 +4837,7 @@ Image and annotation totals are the card's. The class split comes from the Hub d
 
 B-MoCA 是涵盖不同界面配置的移动设备控制基准。
 
-- 目录页面：https://awesomecua.com/resources/github-jylee425-b-moca/
+- 目录页面：https://awesomecua.com/zh/resources/github-jylee425-b-moca/
 - 原始来源：https://github.com/jylee425/b-moca
 - 类型：评测基准
 - 审核状态：已审核
@@ -4890,7 +4890,7 @@ Current source inventory differs in grain from published experiment subsets: 131
 
 Bananalyzer 是评测框架和数据集套件，用于测试网页智能体的结构化数据提取和导航任务。
 
-- 目录页面：https://awesomecua.com/resources/github-reworkd-bananalyzer/
+- 目录页面：https://awesomecua.com/zh/resources/github-reworkd-bananalyzer/
 - 原始来源：https://github.com/reworkd/bananalyzer
 - 类型：评测基准
 - 审核状态：已审核
@@ -4920,7 +4920,7 @@ Bananalyzer 是评测框架和数据集套件，用于测试网页智能体的�
 
 Baseerat 评测对计算机使用智能体的非视觉监督，测试屏幕阅读器的音频描述能否揭示智能体的不安全动作。
 
-- 目录页面：https://awesomecua.com/resources/github-yas1i-baseerat/
+- 目录页面：https://awesomecua.com/zh/resources/github-yas1i-baseerat/
 - 原始来源：https://github.com/yas1i/baseerat
 - 类型：评测基准
 - 审核状态：已审核
@@ -4949,7 +4949,7 @@ Baseerat 评测对计算机使用智能体的非视觉监督，测试屏幕阅�
 
 面向实时网页的智能体基准，包含 111 道题，评测智能体通过文本与多模态交互浏览网页并提取事实答案的能力。
 
-- 目录页面：https://awesomecua.com/resources/url-86229ebd22143128bcf7/
+- 目录页面：https://awesomecua.com/zh/resources/url-86229ebd22143128bcf7/
 - 原始来源：https://bear-cubs.github.io
 - 类型：评测基准
 - 审核状态：已审核
@@ -4982,7 +4982,7 @@ The site provides a leaderboard, example trajectories, and autorater code. It sa
 
 Bellwether 衡量计算机使用智能体在旧式企业 UI 工作流上的多次试验 pass^k 一致性。
 
-- 目录页面：https://awesomecua.com/resources/github-al-mohad-bell-weather/
+- 目录页面：https://awesomecua.com/zh/resources/github-al-mohad-bell-weather/
 - 原始来源：https://github.com/al-mohad/bell-weather
 - 类型：评测基准
 - 审核状态：已审核
@@ -5012,7 +5012,7 @@ Bellwether 衡量计算机使用智能体在旧式企业 UI 工作流上的多�
 
 中文垂直领域长程评测基准，通过多步骤金融债券承销文档和网页工作流程测试智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-vitoworleone-bond-underwriting-agent-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-vitoworleone-bond-underwriting-agent-benchmark/
 - 原始来源：https://github.com/vitoworleone/bond-underwriting-agent-benchmark
 - 类型：评测基准
 - 审核状态：已审核
@@ -5041,7 +5041,7 @@ Bellwether 衡量计算机使用智能体在旧式企业 UI 工作流上的多�
 
 OpenAI 的 1,266 题浏览智能体基准，要求跨多个网站持续搜索和导航，给出简短且可核验的答案，并由模型裁判评分。
 
-- 目录页面：https://awesomecua.com/resources/component-openai-simple-evals-browsecomp/
+- 目录页面：https://awesomecua.com/zh/resources/component-openai-simple-evals-browsecomp/
 - 原始来源：https://github.com/openai/simple-evals/blob/main/browsecomp_eval.py
 - 类型：评测基准
 - 审核状态：已审核
@@ -5095,7 +5095,7 @@ The count is the number of data rows in the released CSV, whose problem and answ
 
 从任务完成情况和成本两方面比较四种 AI 浏览器控制方式：Chrome 扩展程序、Playwright、Browser Use V3 和 CLI。
 
-- 目录页面：https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/
+- 目录页面：https://awesomecua.com/zh/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/
 - 原始来源：https://github.com/ismael-joffroy-chandoutis/browser-agent-comparison
 - 类型：评测基准
 - 审核状态：已审核
@@ -5124,7 +5124,7 @@ The count is the number of data rows in the released CSV, whose problem and answ
 
 评测 Python Playwright、Rust playwright-rs 和 chromiumoxide 的无头浏览器启动、导航及截图延迟。
 
-- 目录页面：https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-tashonbraganca-browser-automation-benchmark/
 - 原始来源：https://github.com/TashonBraganca/browser-automation-benchmark
 - 类型：评测基准
 - 审核状态：已审核
@@ -5154,7 +5154,7 @@ The count is the number of data rows in the released CSV, whose problem and answ
 
 Browser LLM Perf 比较浏览器自动化 CLI（CraftDriver 与 Playwright CLI）的任务完成速度和 LLM token 成本。
 
-- 目录页面：https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/
+- 目录页面：https://awesomecua.com/zh/resources/github-dtopuzov-browser-llm-perf/
 - 原始来源：https://github.com/dtopuzov/browser-llm-perf
 - 类型：评测基准
 - 审核状态：已审核
@@ -5183,7 +5183,7 @@ Browser LLM Perf 比较浏览器自动化 CLI（CraftDriver 与 Playwright CLI�
 
 browser-eval 是用于网页抓取、确定性浏览器轨迹重放和自主网页智能体基准评测的测试框架。
 
-- 目录页面：https://awesomecua.com/resources/github-lexmount-browser-eval/
+- 目录页面：https://awesomecua.com/zh/resources/github-lexmount-browser-eval/
 - 原始来源：https://github.com/lexmount/browser-eval
 - 类型：评测基准
 - 审核状态：已审核
@@ -5213,7 +5213,7 @@ browser-eval 是用于网页抓取、确定性浏览器轨迹重放和自主网�
 
 browser-task-bench 是包含 200+ 项网页交互任务的评测基准套件，涵盖表单、搜索、身份验证和结账流程。
 
-- 目录页面：https://awesomecua.com/resources/github-tradestackdev-browser-task-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-tradestackdev-browser-task-bench/
 - 原始来源：https://github.com/TradeStackDev/browser-task-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -5242,7 +5242,7 @@ browser-task-bench 是包含 200+ 项网页交互任务的评测基准套件，�
 
 本地优先的回归测试评测基准，用于在受控的 UI 和 DOM 变更下评测浏览器智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-albertxxuu-browseragentregression/
+- 目录页面：https://awesomecua.com/zh/resources/github-albertxxuu-browseragentregression/
 - 原始来源：https://github.com/AlbertXXuu/BrowserAgentRegression
 - 类型：评测基准
 - 审核状态：已审核
@@ -5272,7 +5272,7 @@ browser-task-bench 是包含 200+ 项网页交互任务的评测基准套件，�
 
 Scale AI 的红队测试基准与测试套件，用于评估经过拒绝训练的语言模型在作为浏览器智能体部署时能否被越狱。
 
-- 目录页面：https://awesomecua.com/resources/github-scaleapi-browser-art/
+- 目录页面：https://awesomecua.com/zh/resources/github-scaleapi-browser-art/
 - 原始来源：https://github.com/scaleapi/browser-art
 - 类型：评测基准
 - 审核状态：已审核
@@ -5310,7 +5310,7 @@ The retained README and LICENSE contain conflicting code-license declarations. T
 
 BrowserTransactionBench 评测自主浏览器智能体的事务安全性、幂等性和重复支出防范能力。
 
-- 目录页面：https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-lamenting-hawthorn-browserbench/
 - 原始来源：https://github.com/lamenting-hawthorn/browserbench
 - 类型：评测基准
 - 审核状态：已审核
@@ -5340,7 +5340,7 @@ BrowserTransactionBench 评测自主浏览器智能体的事务安全性、幂�
 
 BrowseWebApp Bench 通过 100 个真实的网页工作流程评测浏览器智能体，涵盖记录提取、文档上传和表单提交。
 
-- 目录页面：https://awesomecua.com/resources/github-visnia-ai-browsewebapp-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-visnia-ai-browsewebapp-bench/
 - 原始来源：https://github.com/visnia-ai/browsewebapp-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -5370,7 +5370,7 @@ BrowseWebApp Bench 通过 100 个真实的网页工作流程评测浏览器智�
 
 CAPTCHA Gym 是面向浏览器智能体的自托管评测平台，提供受控的 reCAPTCHA 风格视觉挑战和服务器端评分。
 
-- 目录页面：https://awesomecua.com/resources/github-mildchef-muse-captcha-gym/
+- 目录页面：https://awesomecua.com/zh/resources/github-mildchef-muse-captcha-gym/
 - 原始来源：https://github.com/mildchef/Muse-Captcha-Gym
 - 类型：评测基准
 - 审核状态：已审核
@@ -5400,7 +5400,7 @@ CAPTCHA Gym 是面向浏览器智能体的自托管评测平台，提供受控�
 
 CaptchaArena 提供实时服务器和涵盖 20 种交互式 CAPTCHA 类型的细粒度轨迹数据集，用于评测计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-x0x0x00-captchaarena/
+- 目录页面：https://awesomecua.com/zh/resources/github-x0x0x00-captchaarena/
 - 原始来源：https://github.com/X0X0X00/CaptchaArena
 - 类型：评测基准
 - 审核状态：已审核
@@ -5430,7 +5430,7 @@ CaptchaArena 提供实时服务器和涵盖 20 种交互式 CAPTCHA 类型的细
 
 一套包含 11 个本地优先 QA Agent Skills 的工具，供 Cursor、Claude Code 和 Codex 验证实时网页和桌面用户操作流程。
 
-- 目录页面：https://awesomecua.com/resources/github-openqa-cn-codexqa/
+- 目录页面：https://awesomecua.com/zh/resources/github-openqa-cn-codexqa/
 - 原始来源：https://github.com/openqa-cn/codexqa
 - 类型：评测基准
 - 审核状态：已审核
@@ -5460,7 +5460,7 @@ CaptchaArena 提供实时服务器和涵盖 20 种交互式 CAPTCHA 类型的细
 
 多执行者不变量验证测试框架，驱动两个并发浏览器智能体操作共享后端，以发现竞态错误。
 
-- 目录页面：https://awesomecua.com/resources/github-mystiquemide-collision-canary/
+- 目录页面：https://awesomecua.com/zh/resources/github-mystiquemide-collision-canary/
 - 原始来源：https://github.com/mystiquemide/collision-canary
 - 类型：评测基准
 - 审核状态：已审核
@@ -5490,7 +5490,7 @@ CaptchaArena 提供实时服务器和涵盖 20 种交互式 CAPTCHA 类型的细
 
 ColorBench 是基于图的移动 GUI 基准，通过截图状态及多种有效或错误的状态转移评估长任务，涵盖反思、重新规划和回退。
 
-- 目录页面：https://awesomecua.com/resources/github-madeagents-colorbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-madeagents-colorbench/
 - 原始来源：https://github.com/MadeAgents/ColorBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -5551,7 +5551,7 @@ The interaction environment replays graph states. The 101 and 74 subsets partiti
 
 众包对战平台，用户在 Ubuntu 或 Windows VM 上比较两个计算机使用智能体；代码库包含投票前端、环境预设和 2,010 场已核验对战记录。
 
-- 目录页面：https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/
+- 目录页面：https://awesomecua.com/zh/resources/github-xlang-ai-computer-agent-arena/
 - 原始来源：https://github.com/xlang-ai/computer-agent-arena
 - 类型：评测基准
 - 审核状态：已审核
@@ -5610,7 +5610,7 @@ Counts are rows of the released CSV, computed with Python's csv module; each row
 
 用于多模态智能体的跨环境基准框架。
 
-- 目录页面：https://awesomecua.com/resources/github-camel-ai-crab/
+- 目录页面：https://awesomecua.com/zh/resources/github-camel-ai-crab/
 - 原始来源：https://github.com/camel-ai/crab
 - 类型：评测基准
 - 审核状态：已审核
@@ -5654,7 +5654,7 @@ CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0
 
 持续运行的浏览器 QA 测试框架，可复现已报告的错误，并在实时网页 URL 上自主扩展端到端测试覆盖范围。
 
-- 目录页面：https://awesomecua.com/resources/github-cskwork-vigil/
+- 目录页面：https://awesomecua.com/zh/resources/github-cskwork-vigil/
 - 原始来源：https://github.com/cskwork/vigil
 - 类型：评测基准
 - 审核状态：已审核
@@ -5684,7 +5684,7 @@ CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0
 
 受控的浏览器测试环境和包含 10 个任务的计算机使用评测套件，用于评估网页智能体的准确性和步骤效率。
 
-- 目录页面：https://awesomecua.com/resources/github-marwanalsiddiq-cua-eval-kit/
+- 目录页面：https://awesomecua.com/zh/resources/github-marwanalsiddiq-cua-eval-kit/
 - 原始来源：https://github.com/MarwanAlsiddiq/cua-eval-kit
 - 类型：评测基准
 - 审核状态：已审核
@@ -5714,7 +5714,7 @@ CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0
 
 cua-bench 将容器化的 ERPNext v15 会计和企业工作流程封装为面向 GUI 智能体的 Harbor RL 与评测环境。
 
-- 目录页面：https://awesomecua.com/resources/github-vaiyr-cua-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-vaiyr-cua-bench/
 - 原始来源：https://github.com/vaiyr/cua-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -5743,7 +5743,7 @@ cua-bench 将容器化的 ERPNext v15 会计和企业工作流程封装为面向
 
 提供 cua_reliability 评测工具包和参考训练代码，用于衡量 CUA RL 中停止执行和弃答的可靠性。
 
-- 目录页面：https://awesomecua.com/resources/github-mercurialsolo-sa-opsd/
+- 目录页面：https://awesomecua.com/zh/resources/github-mercurialsolo-sa-opsd/
 - 原始来源：https://github.com/mercurialsolo/sa-opsd
 - 类型：评测基准
 - 审核状态：已审核
@@ -5773,7 +5773,7 @@ cua-bench 将容器化的 ERPNext v15 会计和企业工作流程封装为面向
 
 评测带类型的 System-One 决策模型（Luna Decisions 和 Jev）在合成网页应用中驱动真实 Chromium 浏览器工作流的表现。
 
-- 目录页面：https://awesomecua.com/resources/github-humanity-forever-decision-luna-browse-control/
+- 目录页面：https://awesomecua.com/zh/resources/github-humanity-forever-decision-luna-browse-control/
 - 原始来源：https://github.com/humanity-forever/decision-luna-browse-control
 - 类型：评测基准
 - 审核状态：已审核
@@ -5803,7 +5803,7 @@ cua-bench 将容器化的 ERPNext v15 会计和企业工作流程封装为面向
 
 deedchain 以录制的真实网页执行轨迹为依据，评测浏览器智能体的报告保真度和幻觉率。
 
-- 目录页面：https://awesomecua.com/resources/github-pillcrew-deedchain/
+- 目录页面：https://awesomecua.com/zh/resources/github-pillcrew-deedchain/
 - 原始来源：https://github.com/PillCrew/deedchain
 - 类型：评测基准
 - 审核状态：已审核
@@ -5833,7 +5833,7 @@ deedchain 以录制的真实网页执行轨迹为依据，评测浏览器智能�
 
 安全认证 CLI，在生产部署前针对内部网页应用对 AI 浏览器和计算机使用智能体进行压力测试。
 
-- 目录页面：https://awesomecua.com/resources/github-rudrendupaul-deskcert-cli/
+- 目录页面：https://awesomecua.com/zh/resources/github-rudrendupaul-deskcert-cli/
 - 原始来源：https://github.com/RudrenduPaul/DeskCert-CLI
 - 类型：评测基准
 - 审核状态：已审核
@@ -5863,7 +5863,7 @@ deedchain 以录制的真实网页执行轨迹为依据，评测浏览器智能�
 
 DesktopAgentBench 是与智能体无关的 Windows 评测基准，评测桌面智能体的任务可靠性、恢复能力和安全防护机制。
 
-- 目录页面：https://awesomecua.com/resources/github-raghava00001-desktopagentbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-raghava00001-desktopagentbench/
 - 原始来源：https://github.com/Raghava00001/DesktopAgentBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -5892,7 +5892,7 @@ DesktopAgentBench 是与智能体无关的 Windows 评测基准，评测桌面�
 
 dom-drift-bench 在 10 类结构性 DOM 漂移中评测 4 种网页提取和定位策略。
 
-- 目录页面：https://awesomecua.com/resources/github-notel1gible-dom-drift-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-notel1gible-dom-drift-bench/
 - 原始来源：https://github.com/NotEl1gible/dom-drift-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -5922,7 +5922,7 @@ dom-drift-bench 在 10 类结构性 DOM 漂移中评测 4 种网页提取和定�
 
 done-or-not 是离线评测基准，包含来自三台模拟计算机的 910 条计算机使用轨迹，用于评定任务完成情况验证器。
 
-- 目录页面：https://awesomecua.com/resources/github-tatra-labs-done-or-not/
+- 目录页面：https://awesomecua.com/zh/resources/github-tatra-labs-done-or-not/
 - 原始来源：https://github.com/tatra-labs/done-or-not
 - 类型：评测基准
 - 审核状态：已审核
@@ -5952,7 +5952,7 @@ done-or-not 是离线评测基准，包含来自三台模拟计算机的 910 条
 
 审查并分类浏览器自动化仓库的选择器维护历史，以量化其受 UI 变化影响的脆弱程度。
 
-- 目录页面：https://awesomecua.com/resources/github-sebastianpuchet-drift-audit/
+- 目录页面：https://awesomecua.com/zh/resources/github-sebastianpuchet-drift-audit/
 - 原始来源：https://github.com/SebastianPuchet/drift-audit
 - 类型：评测基准
 - 审核状态：已审核
@@ -5981,7 +5981,7 @@ done-or-not 是离线评测基准，包含来自三台模拟计算机的 910 条
 
 DeepSeek Harness QA 插件，其中自主浏览器智能体探索运行中的网页应用，以发现功能和 UX 缺陷。
 
-- 目录页面：https://awesomecua.com/resources/github-zseven-w-dsh-qa/
+- 目录页面：https://awesomecua.com/zh/resources/github-zseven-w-dsh-qa/
 - 原始来源：https://github.com/ZSeven-W/dsh-qa
 - 类型：评测基准
 - 审核状态：已审核
@@ -6011,7 +6011,7 @@ DeepSeek Harness QA 插件，其中自主浏览器智能体探索运行中的网
 
 含 500 项 OSWorld 风格桌面任务的基准，界面会在观察间因脚本化弹窗、定时编辑和列表变化而改变；提供中英双语指令及最终状态评估器。
 
-- 目录页面：https://awesomecua.com/resources/url-20fa95f00391bf965af2/
+- 目录页面：https://awesomecua.com/zh/resources/url-20fa95f00391bf965af2/
 - 原始来源：https://huggingface.co/datasets/L1007555652/osworld_env
 - 类型：评测基准
 - 审核状态：已审核
@@ -6064,7 +6064,7 @@ Computed per-folder task files: Chrome 75, GIMP 45, LibreOffice Calc 50, Impress
 
 用于验证 WebMCP 浏览器智能体工具副作用的确定性行为契约审计套件。
 
-- 目录页面：https://awesomecua.com/resources/github-tommytranx-effectprint/
+- 目录页面：https://awesomecua.com/zh/resources/github-tommytranx-effectprint/
 - 原始来源：https://github.com/TommyTranX/effectprint
 - 类型：评测基准
 - 审核状态：已审核
@@ -6094,7 +6094,7 @@ Computed per-folder task files: Chrome 75, GIMP 45, LibreOffice Calc 50, Impress
 
 Ego Browser Benchmark Framework 是可复现的测试框架，用于在受控的浏览器使用智能体任务上比较基础模型。
 
-- 目录页面：https://awesomecua.com/resources/github-citrolabs-ego-browser-benchmark-framework/
+- 目录页面：https://awesomecua.com/zh/resources/github-citrolabs-ego-browser-benchmark-framework/
 - 原始来源：https://github.com/citrolabs/ego-browser-benchmark-framework
 - 类型：评测基准
 - 审核状态：已审核
@@ -6124,7 +6124,7 @@ Ego Browser Benchmark Framework 是可复现的测试框架，用于在受控的
 
 环境注入攻击评估套件，通过在正常网站中嵌入不可见的恶意 HTML 元素，测试通用网页智能体的隐私泄露情况。
 
-- 目录页面：https://awesomecua.com/resources/github-osu-nlp-group-eia-against-webagent/
+- 目录页面：https://awesomecua.com/zh/resources/github-osu-nlp-group-eia-against-webagent/
 - 原始来源：https://github.com/OSU-NLP-Group/EIA_against_webagent
 - 类型：评测基准
 - 审核状态：已审核
@@ -6154,7 +6154,7 @@ Ego Browser Benchmark Framework 是可复现的测试框架，用于在受控的
 
 Embodied Agent Interface（EAI）从目标理解、子目标分解、动作排序和状态转换建模等方面评测 LLM。
 
-- 目录页面：https://awesomecua.com/resources/github-embodied-agent-eval-embodied-agent-eval/
+- 目录页面：https://awesomecua.com/zh/resources/github-embodied-agent-eval-embodied-agent-eval/
 - 原始来源：https://github.com/embodied-agent-eval/embodied-agent-eval
 - 类型：评测基准
 - 审核状态：已审核
@@ -6184,7 +6184,7 @@ Embodied Agent Interface（EAI）从目标理解、子目标分解、动作排�
 
 面向 WebMCP 浏览器智能体的动作后状态差异验证测试框架，可检测未显现的 UI 和状态故障。
 
-- 目录页面：https://awesomecua.com/resources/github-tsuchiyatakahirolab-actionproof/
+- 目录页面：https://awesomecua.com/zh/resources/github-tsuchiyatakahirolab-actionproof/
 - 原始来源：https://github.com/tsuchiyatakahirolab/actionproof
 - 类型：评测基准
 - 审核状态：已审核
@@ -6214,7 +6214,7 @@ Embodied Agent Interface（EAI）从目标理解、子目标分解、动作排�
 
 在包含 200 个任务和 2,800 次记录运行的评测基准上，对比一次规划、局部定位的网页智能体与逐步执行的 ReAct 循环。
 
-- 目录页面：https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/
+- 目录页面：https://awesomecua.com/zh/resources/github-thedivyanshshukla-plan-once-ground-locally/
 - 原始来源：https://github.com/TheDivyanshShukla/plan-once-ground-locally
 - 类型：评测基准
 - 审核状态：已审核
@@ -6244,7 +6244,7 @@ Embodied Agent Interface（EAI）从目标理解、子目标分解、动作排�
 
 FedGUI 对跨异构平台、设备类型、数据来源和操作系统的联邦式 GUI 智能体训练与评测进行基准测试。
 
-- 目录页面：https://awesomecua.com/resources/github-wwh0411-fedgui/
+- 目录页面：https://awesomecua.com/zh/resources/github-wwh0411-fedgui/
 - 原始来源：https://github.com/wwh0411/FedGUI
 - 类型：评测基准
 - 审核状态：已审核
@@ -6273,7 +6273,7 @@ FedGUI 对跨异构平台、设备类型、数据来源和操作系统的联邦�
 
 Financial CUA Benchmark 提供确定性验证器和债券承销任务，用于评测金融计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-vitoworleone-financial-cua-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-vitoworleone-financial-cua-benchmark/
 - 原始来源：https://github.com/vitoworleone/financial-cua-benchmark
 - 类型：评测基准
 - 审核状态：已审核
@@ -6302,7 +6302,7 @@ Financial CUA Benchmark 提供确定性验证器和债券承销任务，用于�
 
 一个评估桌面、网页和移动界面精细状态操作的 GUI 基准，包含 2,257 项任务，并分别衡量元素定位与交互成功率。
 
-- 目录页面：https://awesomecua.com/resources/github-fengxianji-finestate-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-fengxianji-finestate-bench/
 - 原始来源：https://github.com/FengxianJi/FineState-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -6335,7 +6335,7 @@ The repository includes platform-specific evaluation scripts, model configuratio
 
 FixtureBench 在具有分页、MFA 和诱饵 PO 的确定性 Coupa 风格买方及供应商门户上评测采购浏览器智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-prabal-singh-fixturebench/
+- 目录页面：https://awesomecua.com/zh/resources/github-prabal-singh-fixturebench/
 - 原始来源：https://github.com/Prabal-Singh/fixturebench
 - 类型：评测基准
 - 审核状态：已审核
@@ -6365,7 +6365,7 @@ FixtureBench 在具有分页、MFA 和诱饵 PO 的确定性 Coupa 风格买方�
 
 FlashAdventure 通过 34 款需要长期记忆的 Flash 点击式冒险游戏，评测 GUI 智能体完成完整故事情节的能力。
 
-- 目录页面：https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/
+- 目录页面：https://awesomecua.com/zh/resources/github-ahnjaewoo-flashadventure/
 - 原始来源：https://github.com/ahnjaewoo/FlashAdventure
 - 类型：评测基准
 - 审核状态：已审核
@@ -6395,7 +6395,7 @@ FlashAdventure 通过 34 款需要长期记忆的 Flash 点击式冒险游戏，
 
 评测冻结视觉骨干网络的密集特征与全局特征在像素坐标 GUI 定位中的表现。
 
-- 目录页面：https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/
+- 目录页面：https://awesomecua.com/zh/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/
 - 原始来源：https://github.com/DhruvRaval04/do-frozen-vision-backbones-transfer-to-guis
 - 类型：评测基准
 - 审核状态：已审核
@@ -6425,7 +6425,7 @@ FlashAdventure 通过 34 款需要长期记忆的 Flash 点击式冒险游戏，
 
 GameWorld 提供标准化的浏览器端评测套件，涵盖 34 款游戏和 170 项可验证任务，用于评测多模态游戏智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-gameworld-project-gameworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-gameworld-project-gameworld/
 - 原始来源：https://github.com/gameworld-project/GameWorld
 - 类型：评测基准
 - 审核状态：已审核
@@ -6454,7 +6454,7 @@ GameWorld 提供标准化的浏览器端评测套件，涵盖 34 款游戏和 17
 
 这是基于 AndroidWorld 的评测配置，通过 GBOX MCP 将 Claude 智能体连接到 Android 模拟器，并提供任务完成信号工具。
 
-- 目录页面：https://awesomecua.com/resources/github-babelcloud-android-world-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-babelcloud-android-world-benchmark/
 - 原始来源：https://github.com/babelcloud/android_world_benchmark
 - 类型：评测基准
 - 审核状态：已审核
@@ -6488,7 +6488,7 @@ The README requires GBOX and Anthropic API keys, an Android emulator, and a conf
 
 受控评测基准，用于比较前沿 Claude 模型在交互式棋盘游戏推理和 GUI 执行方面的表现。
 
-- 目录页面：https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/
+- 目录页面：https://awesomecua.com/zh/resources/github-jns-c-model-comparison-gomoku/
 - 原始来源：https://github.com/JNS-C/model-comparison-gomoku
 - 类型：评测基准
 - 审核状态：已审核
@@ -6517,7 +6517,7 @@ The README requires GBOX and Anthropic API keys, an Android emulator, and a conf
 
 使用浏览器智能体探索网页结账流程，将其构建为 Neo4j 状态图，并生成由图引导的端到端测试。
 
-- 目录页面：https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/
+- 目录页面：https://awesomecua.com/zh/resources/github-avikundal-graph-guided-agentic-testing/
 - 原始来源：https://github.com/avikundal/graph-guided-agentic-testing
 - 类型：评测基准
 - 审核状态：已审核
@@ -6547,7 +6547,7 @@ The README requires GBOX and Anthropic API keys, an Android emulator, and a conf
 
 AgentStudio 的完整 GUI 元素定位测试集，汇集 Mind2Web、OmniACT、MoTIF、ScreenSpot 和 AgentStudio 的网页、桌面及移动端截图，含 18,026 条指令与目标边界框样例。
 
-- 目录页面：https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/
+- 目录页面：https://awesomecua.com/zh/resources/url-d206aacf01e1b7dc786d/
 - 原始来源：https://huggingface.co/datasets/agent-studio/GroundUI-18K
 - 类型：评测基准
 - 审核状态：已审核
@@ -6603,7 +6603,7 @@ Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2
 
 提供评估脚本和关联数据，用于比较普通及异常界面条件下的 GUI 操作预测和任务执行。
 
-- 目录页面：https://awesomecua.com/resources/github-chessbean1-gui-robust/
+- 目录页面：https://awesomecua.com/zh/resources/github-chessbean1-gui-robust/
 - 原始来源：https://github.com/chessbean1/GUI-Robust
 - 类型：评测基准
 - 审核状态：已审核
@@ -6632,7 +6632,7 @@ Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2
 
 GUIDE 基准发布的数据：来自 10 款应用的新手口述屏幕录像的标注片段，用于预测用户行为状态、短期意图，以及是否提供帮助和如何帮助。
 
-- 目录页面：https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/
+- 目录页面：https://awesomecua.com/zh/resources/url-37b4f525e6d7a56a9967/
 - 原始来源：https://huggingface.co/datasets/kixlab/GuideBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -6689,7 +6689,7 @@ Demonstration, hour, user, application and task counts are the project page's fi
 
 GUIGuard-Bench 评估代码涵盖隐私区域识别评分、基于 LLM 评判的遮挡截图规划一致性，以及受保护界面的点击定位，并附少量 Android 和 PC 示例。
 
-- 目录页面：https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-shaluoyan523-guiguard-bench/
 - 原始来源：https://github.com/shaluoyan523/GUIGuard-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -6747,7 +6747,7 @@ Counts describe dataset_example/, the repository's review subset for smoke tests
 
 将模型列出的界面元素边界框和描述与人工标注比对，衡量其解析 1,000 张英文和 1,000 张中文截图时的幻觉。
 
-- 目录页面：https://awesomecua.com/resources/github-ant-research-guihallubench/
+- 目录页面：https://awesomecua.com/zh/resources/github-ant-research-guihallubench/
 - 原始来源：https://github.com/ant-research/GUIHalluBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -6796,7 +6796,7 @@ Each annotation entry represents a page. README illustrates num_samples=4796 as 
 
 GUITestBench 评测安卓智能体能否通过多步操作发现应用缺陷，并结合导航与触发条件检查及评判模型进行评估。
 
-- 目录页面：https://awesomecua.com/resources/github-adam-bjtu-guitestbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-adam-bjtu-guitestbench/
 - 原始来源：https://github.com/ADaM-BJTU/GUITestBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -6829,7 +6829,7 @@ The release describes code, configurations and defective APKs. Its setup require
 
 HealthEnv 将纵向临床问答任务编译为有状态、可验证的计算机使用评测环境。
 
-- 目录页面：https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/
+- 目录页面：https://awesomecua.com/zh/resources/github-possibleme2026-lang-healthenv/
 - 原始来源：https://github.com/possibleme2026-lang/healthenv
 - 类型：评测基准
 - 审核状态：已审核
@@ -6859,7 +6859,7 @@ HealthEnv 将纵向临床问答任务编译为有状态、可验证的计算机�
 
 用于自我演进的 CLI 和计算机使用智能体技能的 Gym 环境与优化框架。
 
-- 目录页面：https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/
+- 目录页面：https://awesomecua.com/zh/resources/github-elenaviewsynthesis-holoskill-gym/
 - 原始来源：https://github.com/ElenaViewSynthesis/holoskill-gym
 - 类型：评测基准
 - 审核状态：已审核
@@ -6888,7 +6888,7 @@ HealthEnv 将纵向临床问答任务编译为有状态、可验证的计算机�
 
 以证据为先的产品质量与 UX 评测测试框架，用于通过浏览器智能体测试网页应用。
 
-- 目录页面：https://awesomecua.com/resources/github-hotragn-humanqa/
+- 目录页面：https://awesomecua.com/zh/resources/github-hotragn-humanqa/
 - 原始来源：https://github.com/Hotragn/humanqa
 - 类型：评测基准
 - 审核状态：已审核
@@ -6918,7 +6918,7 @@ HealthEnv 将纵向临床问答任务编译为有状态、可验证的计算机�
 
 hyprbench 是面向 Linux Hyprland Wayland 合成器、采用 OSWorld 风格的计算机使用评测基准，配有脚本化窗口管理验证器。
 
-- 目录页面：https://awesomecua.com/resources/github-crispwisp-hyprbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-crispwisp-hyprbench/
 - 原始来源：https://github.com/crispwisp/hyprbench
 - 类型：评测基准
 - 审核状态：已审核
@@ -6947,7 +6947,7 @@ hyprbench 是面向 Linux Hyprland Wayland 合成器、采用 OSWorld 风格的�
 
 Inspect Evals 是面向 UK AISI Inspect 框架的社区评测基准套件，包含 OSWorld、GAIA、SWE-bench 以及网络安全和智能体评测。
 
-- 目录页面：https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/
+- 目录页面：https://awesomecua.com/zh/resources/github-ukgovernmentbeis-inspect-evals/
 - 原始来源：https://github.com/UKGovernmentBEIS/inspect_evals
 - 类型：评测基准
 - 审核状态：已审核
@@ -6977,7 +6977,7 @@ Inspect Evals 是面向 UK AISI Inspect 框架的社区评测基准套件，包�
 
 提供 Intention-in-Interaction (IN3) 评测基准和 Mistral-Interact 模型，用于在智能体任务中主动澄清用户意图。
 
-- 目录页面：https://awesomecua.com/resources/github-openbmb-tell-me-more/
+- 目录页面：https://awesomecua.com/zh/resources/github-openbmb-tell-me-more/
 - 原始来源：https://github.com/OpenBMB/Tell_Me_More
 - 类型：评测基准
 - 审核状态：已审核
@@ -7007,7 +7007,7 @@ Inspect Evals 是面向 UK AISI Inspect 框架的社区评测基准套件，包�
 
 由 AI 驱动的端到端验证编排工具和交互式浏览器测试框架。
 
-- 目录页面：https://awesomecua.com/resources/github-egagofur-intentproof/
+- 目录页面：https://awesomecua.com/zh/resources/github-egagofur-intentproof/
 - 原始来源：https://github.com/egagofur/intentproof
 - 类型：评测基准
 - 审核状态：已审核
@@ -7037,7 +7037,7 @@ Inspect Evals 是面向 UK AISI Inspect 框架的社区评测基准套件，包�
 
 iOSWorld 是原生 iPhone 模拟器基准，包含共享用户数据、应用工作流程、智能体运行器和基于评分细则的评分。
 
-- 目录页面：https://awesomecua.com/resources/github-ljang0-iosworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-ljang0-iosworld/
 - 原始来源：https://github.com/ljang0/iOSWorld
 - 类型：评测基准
 - 审核状态：已审核
@@ -7082,7 +7082,7 @@ Vision-only, vision-plus-XML, and MCP modes expose different information and too
 
 jev-click-bench 使用官方评分方法和逐次点击日志，在 ScreenSpot-v2 和 ScreenSpot-Pro 上评测 Jev 1.14 的边界框定位。
 
-- 目录页面：https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-arthurkatcher-jev-click-bench/
 - 原始来源：https://github.com/arthurkatcher/jev-click-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7112,7 +7112,7 @@ jev-click-bench 使用官方评分方法和逐次点击日志，在 ScreenSpot-v
 
 面向 AI 构建的网页应用的通俗英语浏览器验证测试框架，将 UI 故障报告给编码智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-venkat5599-kane/
+- 目录页面：https://awesomecua.com/zh/resources/github-venkat5599-kane/
 - 原始来源：https://github.com/Venkat5599/kane
 - 类型：评测基准
 - 审核状态：已审核
@@ -7141,7 +7141,7 @@ jev-click-bench 使用官方评分方法和逐次点击日志，在 ScreenSpot-v
 
 使用 Eval Protocol、Kernel 云浏览器和可验证的任务评分器，评测并微调视觉语言浏览器智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/
+- 目录页面：https://awesomecua.com/zh/resources/github-kernel-kernel-eval-protocol-quickstart/
 - 原始来源：https://github.com/kernel/kernel-eval-protocol-quickstart
 - 类型：评测基准
 - 审核状态：已审核
@@ -7170,7 +7170,7 @@ jev-click-bench 使用官方评分方法和逐次点击日志，在 ScreenSpot-v
 
 认证韧性评测基准和 WebMCP 权限编译器，用于测试浏览器智能体在登录及权限边界处的行为。
 
-- 目录页面：https://awesomecua.com/resources/github-agentsimdev-last-door/
+- 目录页面：https://awesomecua.com/zh/resources/github-agentsimdev-last-door/
 - 原始来源：https://github.com/agentsimdev/last-door
 - 类型：评测基准
 - 审核状态：已审核
@@ -7200,7 +7200,7 @@ jev-click-bench 使用官方评分方法和逐次点击日志，在 ScreenSpot-v
 
 LLM 充当评判者的评测测试框架，用于评估计算机使用智能体在网页浏览和桌面交互任务中的轨迹。
 
-- 目录页面：https://awesomecua.com/resources/github-anaishowland-llm-judge-psai/
+- 目录页面：https://awesomecua.com/zh/resources/github-anaishowland-llm-judge-psai/
 - 原始来源：https://github.com/anaishowland/llm-judge-psai
 - 类型：评测基准
 - 审核状态：已审核
@@ -7230,7 +7230,7 @@ LLM 充当评判者的评测测试框架，用于评估计算机使用智能体�
 
 LongPuzzleBench 通过需要多步骤空间推理的长时程视觉解谜游戏，评测 GUI 和计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/
+- 目录页面：https://awesomecua.com/zh/resources/github-bingozhang-verapraxis-longpuzzlebench/
 - 原始来源：https://github.com/bingozhang-verapraxis/LongPuzzleBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7260,7 +7260,7 @@ LongPuzzleBench 通过需要多步骤空间推理的长时程视觉解谜游戏�
 
 LPS-Bench 在良性及对抗性执行场景下，评测计算机使用智能体进行长程规划时的安全意识。
 
-- 目录页面：https://awesomecua.com/resources/github-tychenn-lps-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-tychenn-lps-bench/
 - 原始来源：https://github.com/tychenn/LPS-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7290,7 +7290,7 @@ LPS-Bench 在良性及对抗性执行场景下，评测计算机使用智能体�
 
 MacArena 在可复现的在线 macOS 虚拟机环境中，通过跨应用桌面任务评测计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-macpaw-macarena/
+- 目录页面：https://awesomecua.com/zh/resources/github-macpaw-macarena/
 - 原始来源：https://github.com/MacPaw/MacArena
 - 类型：评测基准
 - 审核状态：已审核
@@ -7319,7 +7319,7 @@ MacArena 在可复现的在线 macOS 虚拟机环境中，通过跨应用桌面�
 
 MalURLBench 在 10 个真实网页场景中，评测基于 LLM 的网页智能体遭受网络钓鱼和恶意 URL 攻击时的脆弱性。
 
-- 目录页面：https://awesomecua.com/resources/github-jiangyinger-malurlbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-jiangyinger-malurlbench/
 - 原始来源：https://github.com/JiangYingEr/MalURLBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7349,7 +7349,7 @@ MalURLBench 在 10 个真实网页场景中，评测基于 LLM 的网页智能�
 
 MarketBench 是可复现的 WebMCP 评测基准，用于评测浏览器智能体在模拟市场中跨数周的经济决策。
 
-- 目录页面：https://awesomecua.com/resources/github-santos-sanz-marketbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-santos-sanz-marketbench/
 - 原始来源：https://github.com/santos-sanz/marketbench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7379,7 +7379,7 @@ MarketBench 是可复现的 WebMCP 评测基准，用于评测浏览器智能体
 
 Maudslay 根据独立的后端和电子邮件真实结果，评测计算机使用智能体的发布就绪程度与 pass^k 可靠性。
 
-- 目录页面：https://awesomecua.com/resources/github-theo-ai-lab-maudslay/
+- 目录页面：https://awesomecua.com/zh/resources/github-theo-ai-lab-maudslay/
 - 原始来源：https://github.com/theo-ai-lab/maudslay
 - 类型：评测基准
 - 审核状态：已审核
@@ -7409,7 +7409,7 @@ Maudslay 根据独立的后端和电子邮件真实结果，评测计算机使�
 
 结合计算机交互与工具访问的评估环境。
 
-- 目录页面：https://awesomecua.com/resources/github-saagent-mcpworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-saagent-mcpworld/
 - 原始来源：https://github.com/SAAgent/MCPWorld
 - 类型：评测基准
 - 审核状态：已审核
@@ -7445,7 +7445,7 @@ The retained paper reports 201 tasks, whereas the retained repository README des
 
 覆盖 10 款医学影像应用的连续式界面定位评测集，用于评估模型在多步骤工作流程中定位目标的能力，并提供评测脚本。
 
-- 目录页面：https://awesomecua.com/resources/github-tajamul21-medspot/
+- 目录页面：https://awesomecua.com/zh/resources/github-tajamul21-medspot/
 - 原始来源：https://github.com/Tajamul21/MedSPOT
 - 类型：评测基准
 - 审核状态：已审核
@@ -7478,7 +7478,7 @@ The README links the dataset and documents task, step, and failure metrics. The 
 
 mimiq 是动态端到端智能体模拟和网页 UI 评测运行器，集成 Cypress、Playwright 和 Stagehand。
 
-- 目录页面：https://awesomecua.com/resources/github-gojiplus-mimiq/
+- 目录页面：https://awesomecua.com/zh/resources/github-gojiplus-mimiq/
 - 原始来源：https://github.com/gojiplus/mimiq
 - 类型：评测基准
 - 审核状态：已审核
@@ -7508,7 +7508,7 @@ mimiq 是动态端到端智能体模拟和网页 UI 评测运行器，集成 Cyp
 
 长程智能体网页搜索基准，使用 Agent-as-a-Judge 框架评估随时间变化且有引文支持的答案，并提供开发集和测试集的评估脚本。
 
-- 目录页面：https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/
+- 目录页面：https://awesomecua.com/zh/resources/github-osu-nlp-group-mind2web-2/
 - 原始来源：https://github.com/OSU-NLP-Group/Mind2Web-2
 - 类型：评测基准
 - 审核状态：已审核
@@ -7538,7 +7538,7 @@ mimiq 是动态端到端智能体模拟和网页 UI 评测运行器，集成 Cyp
 
 受控的对抗性网页环境，用于衡量自主浏览器智能体如何在欺骗性 UI 和提示陷阱下失败。
 
-- 目录页面：https://awesomecua.com/resources/github-shushant17711-mirage/
+- 目录页面：https://awesomecua.com/zh/resources/github-shushant17711-mirage/
 - 原始来源：https://github.com/Shushant17711/mirage
 - 类型：评测基准
 - 审核状态：已审核
@@ -7568,7 +7568,7 @@ mimiq 是动态端到端智能体模拟和网页 UI 评测运行器，集成 Cyp
 
 统一评估框架，衡量多模态 LLM 智能体在交互式网页和移动 GUI 任务中的真实性、可控性、安全性与隐私表现。
 
-- 目录页面：https://awesomecua.com/resources/github-thu-ml-mla-trust/
+- 目录页面：https://awesomecua.com/zh/resources/github-thu-ml-mla-trust/
 - 原始来源：https://github.com/thu-ml/MLA-Trust
 - 类型：评测基准
 - 审核状态：已审核
@@ -7598,7 +7598,7 @@ mimiq 是动态端到端智能体模拟和网页 UI 评测运行器，集成 Cyp
 
 MM-SafetyBench 在 13 种场景中，使用与查询相关的对抗性图像和排版安全提示评测多模态大语言模型。
 
-- 目录页面：https://awesomecua.com/resources/github-ai45lab-mm-safetybench/
+- 目录页面：https://awesomecua.com/zh/resources/github-ai45lab-mm-safetybench/
 - 原始来源：https://github.com/AI45Lab/MM-SafetyBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7627,7 +7627,7 @@ MM-SafetyBench 在 13 种场景中，使用与查询相关的对抗性图像和�
 
 基于 WebArena 环境的多模态网页任务，需在购物网站、Wikipedia 等站点间完成 1 至 10 跳的操作，用于测试长链推理。
 
-- 目录页面：https://awesomecua.com/resources/github-shulin16-mmina/
+- 目录页面：https://awesomecua.com/zh/resources/github-shulin16-mmina/
 - 原始来源：https://github.com/shulin16/MMInA
 - 类型：评测基准
 - 审核状态：已审核
@@ -7656,7 +7656,7 @@ MM-SafetyBench 在 13 种场景中，使用与查询相关的对抗性图像和�
 
 面向多模态网页智能体的评测集，含 311 道需反复检索图像与文本的视觉推理任务；仓库链接数据集并提供加载辅助程序。
 
-- 目录页面：https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/
+- 目录页面：https://awesomecua.com/zh/resources/github-mmsearch-plus-mmsearch-plus/
 - 原始来源：https://github.com/mmsearch-plus/MMSearch-Plus
 - 类型：评测基准
 - 审核状态：已审核
@@ -7690,7 +7690,7 @@ The README links the Hugging Face dataset and describes a decryption helper. It 
 
 用于评估 MobA 的公开真机移动任务定义集，中文和英文任务材料以带版本号的 JSON 形式发布。
 
-- 目录页面：https://awesomecua.com/resources/url-b53e03a6e4ca4226d126/
+- 目录页面：https://awesomecua.com/zh/resources/url-b53e03a6e4ca4226d126/
 - 原始来源：https://huggingface.co/datasets/OpenDFM/MobA-MobBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7741,7 +7741,7 @@ Task definitions are distinct from device images, agent execution and automated 
 
 Mobile-Bench 通过结合 UI 动作与 API 扩展、使用检查点指标的多步骤 Android 任务，评测基于 LLM 的移动端智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-xiaomi-mobilebench/
+- 目录页面：https://awesomecua.com/zh/resources/github-xiaomi-mobilebench/
 - 原始来源：https://github.com/XiaoMi/MobileBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7771,7 +7771,7 @@ Mobile-Bench 通过结合 UI 动作与 API 扩展、使用检查点指标的多�
 
 用于 Mobile-Agent-E 长时程、跨应用 Android 评估的任务定义，以含 25 条记录的测试集形式提供，并附有评分标准和人工参考操作字符串。
 
-- 目录页面：https://awesomecua.com/resources/url-342b081c3668a8bbe155/
+- 目录页面：https://awesomecua.com/zh/resources/url-342b081c3668a8bbe155/
 - 原始来源：https://huggingface.co/datasets/mikewang/mobile_eval_e
 - 类型：评测基准
 - 审核状态：已审核
@@ -7824,7 +7824,7 @@ Features are task_id, instruction, type, apps, scenario, rubrics and human-refer
 
 面向移动端 LLM 智能体的自动化基准，默认任务使用 10 个 Simple Mobile Tools Android 应用；作为 Python 库安装，并检测任务是否完成。
 
-- 目录页面：https://awesomecua.com/resources/github-mobileagentbench-mobile-agent-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-mobileagentbench-mobile-agent-bench/
 - 原始来源：https://github.com/MobileAgentBench/mobile-agent-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7853,7 +7853,7 @@ Features are task_id, instruction, type, apps, scenario, rubrics and human-refer
 
 MobileBench-OL 提供在线评测测试框架，在真实 Android 设备上测试移动端 GUI 智能体，并动态验证任务。
 
-- 目录页面：https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/
+- 目录页面：https://awesomecua.com/zh/resources/github-xiaomi-research-mobilebench-ol/
 - 原始来源：https://github.com/xiaomi-research/mobilebench-ol
 - 类型：评测基准
 - 审核状态：已审核
@@ -7883,7 +7883,7 @@ MobileBench-OL 提供在线评测测试框架，在真实 Android 设备上测�
 
 MobileSafetyBench 是 Android 模拟器测试环境，借助 ADB 和 Appium 获取观察、执行操作并检查任务是否成功，同时评估移动设备控制智能体的安全性与有用性。
 
-- 目录页面：https://awesomecua.com/resources/github-jylee425-mobilesafetybench/
+- 目录页面：https://awesomecua.com/zh/resources/github-jylee425-mobilesafetybench/
 - 原始来源：https://github.com/jylee425/mobilesafetybench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7931,7 +7931,7 @@ Inspected release/ver.3 branch exposes task definitions, Android environment and
 
 MobileWorldBench 是评估移动智能体语义世界建模的基准，包含问答任务和由 GPT 评判的生成任务，并提供基于 AitW 及 AndroidControl 屏幕构建的训练数据。
 
-- 目录页面：https://awesomecua.com/resources/github-jacklishufan-mobileworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-jacklishufan-mobileworld/
 - 原始来源：https://github.com/jacklishufan/MobileWorld
 - 类型：评测基准
 - 审核状态：已审核
@@ -7960,7 +7960,7 @@ MobileWorldBench 是评估移动智能体语义世界建模的基准，包含问
 
 Navi-Bench 通过直接在实时网站上执行的日常消费者任务，并使用确定性结果验证器，评测网页智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-yutori-ai-navi-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-yutori-ai-navi-bench/
 - 原始来源：https://github.com/yutori-ai/navi-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -7990,7 +7990,7 @@ Navi-Bench 通过直接在实时网站上执行的日常消费者任务，并使
 
 Next-Gen CAPTCHAs 提供交互式评测基准和认知差距 CAPTCHA 挑战生成器，用于防范 GUI 网页智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/
+- 目录页面：https://awesomecua.com/zh/resources/github-metaagentx-nextgen-captchas/
 - 原始来源：https://github.com/MetaAgentX/NextGen-CAPTCHAs
 - 类型：评测基准
 - 审核状态：已审核
@@ -8020,7 +8020,7 @@ Next-Gen CAPTCHAs 提供交互式评测基准和认知差距 CAPTCHA 挑战生�
 
 运行于 Solari 的黑盒计算机使用质量检查测试框架，无需访问应用测试钩子即可评测实时用户界面。
 
-- 目录页面：https://awesomecua.com/resources/github-yayaq1-nightshift/
+- 目录页面：https://awesomecua.com/zh/resources/github-yayaq1-nightshift/
 - 原始来源：https://github.com/yayaq1/nightshift
 - 类型：评测基准
 - 审核状态：已审核
@@ -8050,7 +8050,7 @@ Next-Gen CAPTCHAs 提供交互式评测基准和认知差距 CAPTCHA 挑战生�
 
 OmniWebBench 从端到端网页导航、动作执行、故障恢复和证据核验等方面评测智能体浏览器。
 
-- 目录页面：https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-fanxutherealone-omniwebbench/
 - 原始来源：https://github.com/FanXuTheRealOne/OmniWebBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -8080,7 +8080,7 @@ OmniWebBench 从端到端网页导航、动作执行、故障恢复和证据核�
 
 Notte Labs 已归档的评测框架和结果，对 WebVoyager 的 30 项任务子集让网页智能体各运行八次，以 GPT-4o 截图评判器评分，并与智能体自报成功情况比较。
 
-- 目录页面：https://awesomecua.com/resources/github-nottelabs-open-operator-evals/
+- 目录页面：https://awesomecua.com/zh/resources/github-nottelabs-open-operator-evals/
 - 原始来源：https://github.com/nottelabs/open-operator-evals
 - 类型：评测基准
 - 审核状态：已审核
@@ -8138,7 +8138,7 @@ Counts are distinct task identifiers and website_name values in the inspected ta
 
 黑盒用户体验审查测试框架，派遣 AI 浏览器用户角色测试网页产品并记录障碍点。
 
-- 目录页面：https://awesomecua.com/resources/github-tiacoo-open-user/
+- 目录页面：https://awesomecua.com/zh/resources/github-tiacoo-open-user/
 - 原始来源：https://github.com/Tiacoo/open-user
 - 类型：评测基准
 - 审核状态：已审核
@@ -8168,7 +8168,7 @@ Counts are distinct task identifiers and website_name values in the inspected ta
 
 提供可配置的浏览器应用和任务奖励，用于测试计算机使用智能体在内容、布局和外观变化下的表现。
 
-- 目录页面：https://awesomecua.com/resources/github-facebookresearch-openapps/
+- 目录页面：https://awesomecua.com/zh/resources/github-facebookresearch-openapps/
 - 原始来源：https://github.com/facebookresearch/OpenApps
 - 类型：评测基准
 - 审核状态：已审核
@@ -8223,7 +8223,7 @@ Preserve the code/tag, app state, theme/layout/content choices, goal variant and
 
 跨平台 GUI 评判基准，包含移动端、桌面端和网页的 JSONL 数据划分及截图资源，并附公开的推理与准确率评分脚本。
 
-- 目录页面：https://awesomecua.com/resources/url-c73ba0618d1b3c505887/
+- 目录页面：https://awesomecua.com/zh/resources/url-c73ba0618d1b3c505887/
 - 原始来源：https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -8277,7 +8277,7 @@ No sample count is inferred from the n<1K Hub size band. OS-Oracle training data
 
 源自 OSWorld 的桌面基准，提供 Ubuntu 虚拟机环境和扩展的任务配置，用于衡量计算机交互的广度与深度。
 
-- 目录页面：https://awesomecua.com/resources/github-os-copilot-os-map/
+- 目录页面：https://awesomecua.com/zh/resources/github-os-copilot-os-map/
 - 原始来源：https://github.com/OS-Copilot/OS-Map
 - 类型：评测基准
 - 审核状态：已审核
@@ -8333,7 +8333,7 @@ Public task manifests, agent runner and evaluator code are present, and the link
 
 OSReward 的评估器与采集代码，检验 VLM 评判器对人工标注的计算机使用轨迹所给 SUCCESS/FAIL 结论，并提供网页、Windows、Android 和 Ubuntu 轨迹采集流水线。
 
-- 目录页面：https://awesomecua.com/resources/github-os-copilot-osreward/
+- 目录页面：https://awesomecua.com/zh/resources/github-os-copilot-osreward/
 - 原始来源：https://github.com/OS-Copilot/OSReward
 - 类型：评测基准
 - 审核状态：已审核
@@ -8391,7 +8391,7 @@ Counts are as the README reports them for the Hugging Face release. Screenshot w
 
 OSUniverse 是面向任务的桌面评测基准，用于评测视觉驱动的多模态 GUI 导航智能体在操作系统应用中的表现。
 
-- 目录页面：https://awesomecua.com/resources/github-agentsea-osuniverse/
+- 目录页面：https://awesomecua.com/zh/resources/github-agentsea-osuniverse/
 - 原始来源：https://github.com/agentsea/osuniverse
 - 类型：评测基准
 - 审核状态：已审核
@@ -8421,7 +8421,7 @@ OSUniverse 是面向任务的桌面评测基准，用于评测视觉驱动的多
 
 在 OSWorld 桌面自动化任务上评测 GPT-4o-mini，对比仅截图、辅助功能树和 Set-of-Mark 三种观察模式。
 
-- 目录页面：https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/
 - 原始来源：https://github.com/suraj-ranganath/osworld-gpt4o-mini-benchmark
 - 类型：评测基准
 - 审核状态：已审核
@@ -8450,7 +8450,7 @@ OSUniverse 是面向任务的桌面评测基准，用于评测视觉驱动的多
 
 提供人类参考轨迹和评分代码，用于衡量计算机使用智能体完成 OSWorld 任务时的操作效率。
 
-- 目录页面：https://awesomecua.com/resources/github-wuklab-osworld-human/
+- 目录页面：https://awesomecua.com/zh/resources/github-wuklab-osworld-human/
 - 原始来源：https://github.com/WukLab/osworld-human
 - 类型：评测基准
 - 审核状态：已审核
@@ -8499,7 +8499,7 @@ Reference solutions are published for evaluation and expressly discouraged for t
 
 在按领域划分的虚拟机中运行科学软件操作智能体，并通过任务专用的可执行评估器检查应用状态和交付成果的基准框架。
 
-- 目录页面：https://awesomecua.com/resources/github-discoailab-osworld-science/
+- 目录页面：https://awesomecua.com/zh/resources/github-discoailab-osworld-science/
 - 原始来源：https://github.com/DiscoAILab/OSWorld-Science
 - 类型：评测基准
 - 审核状态：已审核
@@ -8550,7 +8550,7 @@ The README states that 83.6% of tasks also allow CLI access and 16.4% are GUI-on
 
 pantheon-webarena 将容器化 WebArena 环境与重置、健康检查和并行评测工具打包，供网页智能体使用。
 
-- 目录页面：https://awesomecua.com/resources/github-pantheon-auto-pantheon-webarena/
+- 目录页面：https://awesomecua.com/zh/resources/github-pantheon-auto-pantheon-webarena/
 - 原始来源：https://github.com/pantheon-auto/pantheon-webarena
 - 类型：评测基准
 - 审核状态：已审核
@@ -8580,7 +8580,7 @@ pantheon-webarena 将容器化 WebArena 环境与重置、健康检查和并行�
 
 优先在本地运行的 AI 辅助网站回归问题发现套件，支持确定性的 Playwright 重放。
 
-- 目录页面：https://awesomecua.com/resources/github-mikulabc-pathproof/
+- 目录页面：https://awesomecua.com/zh/resources/github-mikulabc-pathproof/
 - 原始来源：https://github.com/mikulabc/pathproof
 - 类型：评测基准
 - 审核状态：已审核
@@ -8610,7 +8610,7 @@ pantheon-webarena 将容器化 WebArena 环境与重置、健康检查和并行�
 
 使用仅通过渲染画面交互的隔离 AI 用户角色，对网页和桌面用户界面进行盲测。
 
-- 目录页面：https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/
+- 目录页面：https://awesomecua.com/zh/resources/github-ericwong5021-persona-ux-test/
 - 原始来源：https://github.com/Ericwong5021/persona-ux-test
 - 类型：评测基准
 - 审核状态：已审核
@@ -8640,7 +8640,7 @@ pantheon-webarena 将容器化 WebArena 环境与重置、健康检查和并行�
 
 面向操作传统物业管理网页 UI 的计算机使用智能体的并发评测基准，用于衡量竞态条件和重复预订。
 
-- 目录页面：https://awesomecua.com/resources/github-lgoyal6-pms-race/
+- 目录页面：https://awesomecua.com/zh/resources/github-lgoyal6-pms-race/
 - 原始来源：https://github.com/lgoyal6/pms-race
 - 类型：评测基准
 - 审核状态：已审核
@@ -8670,7 +8670,7 @@ pantheon-webarena 将容器化 WebArena 环境与重置、健康检查和并行�
 
 Pointerbench 评测计算机使用模型能否根据指令在截图中定位目标，三个子集涵盖电子表格、文本和专业应用界面。
 
-- 目录页面：https://awesomecua.com/resources/github-warmwindos-pointerbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-warmwindos-pointerbench/
 - 原始来源：https://github.com/warmwindOS/pointerbench
 - 类型：评测基准
 - 审核状态：已审核
@@ -8703,7 +8703,7 @@ The repository contains evaluation scripts and metadata; full evaluation require
 
 对抗性测试平台，展示针对 AI 购物网页智能体的间接提示词注入和 API 密钥外泄。
 
-- 目录页面：https://awesomecua.com/resources/github-redbotster-poisonpage/
+- 目录页面：https://awesomecua.com/zh/resources/github-redbotster-poisonpage/
 - 原始来源：https://github.com/redbotster/poisonpage
 - 类型：评测基准
 - 审核状态：已审核
@@ -8733,7 +8733,7 @@ The repository contains evaluation scripts and metadata; full evaluation require
 
 从真实 PowerPoint 演示文稿中合成可验证的计算机使用强化学习任务，并对其评分。
 
-- 目录页面：https://awesomecua.com/resources/github-lyt060814-cua-gym-pptx/
+- 目录页面：https://awesomecua.com/zh/resources/github-lyt060814-cua-gym-pptx/
 - 原始来源：https://github.com/Lyt060814/CUA-Gym.pptx
 - 类型：评测基准
 - 审核状态：已审核
@@ -8762,7 +8762,7 @@ The repository contains evaluation scripts and metadata; full evaluation require
 
 用于评估代码编辑器中像素级精确光标定位的资源。
 
-- 目录页面：https://awesomecua.com/resources/github-microsoft-precision-cua-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-microsoft-precision-cua-bench/
 - 原始来源：https://github.com/microsoft/precision-cua-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -8810,7 +8810,7 @@ The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light
 
 Preflight-Bench 评测计算机使用智能体在异步 UI 更新情况下的点击前过时状态检查和页面加载同步能力。
 
-- 目录页面：https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-multimodal-ai-engineering-preflight-bench/
 - 原始来源：https://github.com/multimodal-ai-engineering/preflight-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -8840,7 +8840,7 @@ Preflight-Bench 评测计算机使用智能体在异步 UI 更新情况下的点
 
 面向可编辑 PowerPoint 演示文稿的智能体引导生成与多维视觉评测基准。
 
-- 目录页面：https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/
+- 目录页面：https://awesomecua.com/zh/resources/github-haikong-lu1206-refract-pptx/
 - 原始来源：https://github.com/Haikong-Lu1206/REFRACT-PPTX
 - 类型：评测基准
 - 审核状态：已审核
@@ -8870,7 +8870,7 @@ Preflight-Bench 评测计算机使用智能体在异步 UI 更新情况下的点
 
 Resurf 是确定性、可复现的测试环境，用于在真实的网页故障模式下评测 AI 浏览器智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-lightfeed-resurf/
+- 目录页面：https://awesomecua.com/zh/resources/github-lightfeed-resurf/
 - 原始来源：https://github.com/lightfeed/resurf
 - 类型：评测基准
 - 审核状态：已审核
@@ -8900,7 +8900,7 @@ Resurf 是确定性、可复现的测试环境，用于在真实的网页故障�
 
 RLG-ALE 用可检查的 Android 任务评估移动端图形界面智能体。页面展示了包含任务提示、截图、评估记录和可重置环境的示例过程。
 
-- 目录页面：https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/
+- 目录页面：https://awesomecua.com/zh/resources/url-0596dd7e97fd30abaadc/
 - 原始来源：https://gbox.ai
 - 类型：评测基准
 - 审核状态：已审核
@@ -8933,7 +8933,7 @@ The page describes Android 14 touch and text input, deterministic reset, and off
 
 涵盖 6 个领域、23 个自行托管的 SaaS 应用中的 106 个浏览器操作业务流程；每项任务由读取应用数据库的验证器评分，并给予部分分数。
 
-- 目录页面：https://awesomecua.com/resources/github-unipat-ai-saas-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-unipat-ai-saas-bench/
 - 原始来源：https://github.com/UniPat-AI/SaaS-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -8963,7 +8963,7 @@ The page describes Android 14 touch and text input, deterministic reset, and off
 
 SafeArena 是将良性与有害任务配对、用于研究蓄意滥用风险的网页智能体基准。
 
-- 目录页面：https://awesomecua.com/resources/github-mcgill-nlp-safearena/
+- 目录页面：https://awesomecua.com/zh/resources/github-mcgill-nlp-safearena/
 - 原始来源：https://github.com/McGill-NLP/safearena
 - 类型：评测基准
 - 审核状态：已审核
@@ -9008,7 +9008,7 @@ Use SafeArena-specific containers. The documented task splits require access app
 
 提供屏幕阅读基准和 Tree-of-Lens 实现，用于理解用户指示的区域及其布局上下文。
 
-- 目录页面：https://awesomecua.com/resources/github-ucsb-ai-screen-point-and-read/
+- 目录页面：https://awesomecua.com/zh/resources/github-ucsb-ai-screen-point-and-read/
 - 原始来源：https://github.com/UCSB-AI/Screen-Point-and-Read
 - 类型：评测基准
 - 审核状态：已审核
@@ -9044,7 +9044,7 @@ The canonical repository now belongs to UCSB-AI. Its README lists additional set
 
 ScreenLeak 是多模态评测基准，用于衡量连续屏幕录制数据中的敏感信息检测和个人身份信息脱敏。
 
-- 目录页面：https://awesomecua.com/resources/github-screenpipe-screenleak/
+- 目录页面：https://awesomecua.com/zh/resources/github-screenpipe-screenleak/
 - 原始来源：https://github.com/screenpipe/screenleak
 - 类型：评测基准
 - 审核状态：已审核
@@ -9074,7 +9074,7 @@ ScreenLeak 是多模态评测基准，用于衡量连续屏幕录制数据中的
 
 SCUBA 在企业 Salesforce CRM 工作流上评测计算机使用智能体，涵盖管理员配置、销售运营和服务任务。
 
-- 目录页面：https://awesomecua.com/resources/github-salesforceairesearch-scuba/
+- 目录页面：https://awesomecua.com/zh/resources/github-salesforceairesearch-scuba/
 - 原始来源：https://github.com/SalesforceAIResearch/SCUBA
 - 类型：评测基准
 - 审核状态：已审核
@@ -9104,7 +9104,7 @@ SCUBA 在企业 Salesforce CRM 工作流上评测计算机使用智能体，涵�
 
 General Agents 的离线点击基准：557 次 macOS 截图上的人工左键点击，分别配有指令和有效点击位置边界框，以预测点是否落框评分。
 
-- 目录页面：https://awesomecua.com/resources/url-863cc1744cd5d40418be/
+- 目录页面：https://awesomecua.com/zh/resources/url-863cc1744cd5d40418be/
 - 原始来源：https://huggingface.co/datasets/generalagents/showdown-clicks
 - 类型：评测基准
 - 审核状态：已审核
@@ -9155,7 +9155,7 @@ The released CSV has 557 rows with unique IDs and screenshots, and columns for i
 
 行为 CI 关卡，让计算机使用智能体在每次部署时测试注册、结账和新用户引导流程。
 
-- 目录页面：https://awesomecua.com/resources/github-satyamdave-simulation-labs/
+- 目录页面：https://awesomecua.com/zh/resources/github-satyamdave-simulation-labs/
 - 原始来源：https://github.com/SatyamDave/simulation-labs
 - 类型：评测基准
 - 审核状态：已审核
@@ -9185,7 +9185,7 @@ The released CSV has 557 rows with unique IDs and screenshots, and columns for i
 
 SMAN-Bench（Mobile-Bench-v2）评估代码：AppAgent 和 Mobile-Agent-v2 运行器重放录制的 Android 页面，执行单路径、多路径、含噪和模糊任务，以步骤和任务成功率评分。
 
-- 目录页面：https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-gezelligheid0314-sman-bench/
 - 原始来源：https://github.com/gezelligheid0314/SMAN-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -9243,7 +9243,7 @@ The task files and counts belong to the Hugging Face data release; this reposito
 
 Solari 上的自主游戏测试智能体和评测测试框架，从 Git 构建网页游戏，并在真实浏览器中测试玩法。
 
-- 目录页面：https://awesomecua.com/resources/github-moazessam376-dev-solari-playtest/
+- 目录页面：https://awesomecua.com/zh/resources/github-moazessam376-dev-solari-playtest/
 - 原始来源：https://github.com/moazessam376-dev/solari-playtest
 - 类型：评测基准
 - 审核状态：已审核
@@ -9273,7 +9273,7 @@ Solari 上的自主游戏测试智能体和评测测试框架，从 Git 构建�
 
 在数据科学和工程工作流程中评估视觉智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-xlang-ai-spider2-v/
+- 目录页面：https://awesomecua.com/zh/resources/github-xlang-ai-spider2-v/
 - 原始来源：https://github.com/xlang-ai/Spider2-V
 - 类型：评测基准
 - 审核状态：已审核
@@ -9320,7 +9320,7 @@ Counted unique task IDs in the full manifest. Verbose versus abstract instructio
 
 针对视觉 JavaScript 和 TypeScript 软件的问题解决基准；每项任务的问题描述或补丁包含截图、设计稿或渲染图，并用仓库单元测试检查修复结果。
 
-- 目录页面：https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/
+- 目录页面：https://awesomecua.com/zh/resources/url-cb7f3bdb832d533c96b0/
 - 原始来源：https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal
 - 类型：评测基准
 - 审核状态：已审核
@@ -9371,7 +9371,7 @@ The released Parquet rows (100 dev, 480 test) differ from the card's prose total
 
 SWEeper-Bench 评测交互式 GUI 和浏览器智能体能否自主发现并复现开源软件中的 200 个真实缺陷。
 
-- 目录页面：https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-zlab-princeton-sweeper-bench/
 - 原始来源：https://github.com/zlab-princeton/sweeper-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -9401,7 +9401,7 @@ SWEeper-Bench 评测交互式 GUI 和浏览器智能体能否自主发现并复�
 
 taskproof 是开源 CI 测试框架，用于测试真实的 AI 计算机使用智能体和浏览器智能体能否在实时网站上完成任务。
 
-- 目录页面：https://awesomecua.com/resources/github-taskproof-taskproof/
+- 目录页面：https://awesomecua.com/zh/resources/github-taskproof-taskproof/
 - 原始来源：https://github.com/taskproof/taskproof
 - 类型：评测基准
 - 审核状态：已审核
@@ -9431,7 +9431,7 @@ taskproof 是开源 CI 测试框架，用于测试真实的 AI 计算机使用�
 
 智能体驱动的端到端网页测试平台，在实时浏览器中执行自然语言测试用例。
 
-- 目录页面：https://awesomecua.com/resources/github-h0ngza1-testpilot/
+- 目录页面：https://awesomecua.com/zh/resources/github-h0ngza1-testpilot/
 - 原始来源：https://github.com/H0nGzA1/testpilot
 - 类型：评测基准
 - 审核状态：已审核
@@ -9461,7 +9461,7 @@ taskproof 是开源 CI 测试框架，用于测试真实的 AI 计算机使用�
 
 基于众包 HTML 任务的网页智能体基准，含 32.2K 个实例、158 项任务，并提供将模型回答映射为页面操作的评估框架。
 
-- 目录页面：https://awesomecua.com/resources/url-808a22468ee0bf565d6e/
+- 目录页面：https://awesomecua.com/zh/resources/url-808a22468ee0bf565d6e/
 - 原始来源：https://turkingbench.github.io
 - 类型：评测基准
 - 审核状态：已审核
@@ -9494,7 +9494,7 @@ The project page links to a paper and code. Its task interfaces include text box
 
 UI-FaultLab 评测视觉 UI 测试工作流中，可审计的智能体与应用故障归因。
 
-- 目录页面：https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/
+- 目录页面：https://awesomecua.com/zh/resources/github-kakoyvostorg-ui-faultlab/
 - 原始来源：https://github.com/kakoyvostorg/ui-faultlab
 - 类型：评测基准
 - 审核状态：已审核
@@ -9524,7 +9524,7 @@ UI-FaultLab 评测视觉 UI 测试工作流中，可审计的智能体与应用�
 
 源自 UI-E2I-Synth 的 GUI 元素定位基准，包含 1,477 条针对移动端、桌面和网页截图的显式与隐式指令，每条均配有目标元素边界框和元素类型。
 
-- 目录页面：https://awesomecua.com/resources/url-c08566be0d973ec40c48/
+- 目录页面：https://awesomecua.com/zh/resources/url-c08566be0d973ec40c48/
 - 原始来源：https://huggingface.co/datasets/vaundys/I2E-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -9581,7 +9581,7 @@ Counts were computed from the pinned annotation file; source counts sum to the i
 
 组合式移动智能体基准，包含 100 个跨 AndroidWorld 模拟器中的本地工具应用及中英文在线服务应用串联操作的任务模板，并提供模拟器状态设置工具。
 
-- 目录页面：https://awesomecua.com/resources/github-starwalkin-ui-nexus/
+- 目录页面：https://awesomecua.com/zh/resources/github-starwalkin-ui-nexus/
 - 原始来源：https://github.com/StarWalkin/UI-NEXUS
 - 类型：评测基准
 - 审核状态：已审核
@@ -9640,7 +9640,7 @@ Template counts are data rows with distinct task IDs, counted with Python's csv 
 
 模拟首次用户的评测测试框架，通过让 AI 浏览器智能体尝试完成入门引导和核心流程来验证 Web 应用。
 
-- 目录页面：https://awesomecua.com/resources/github-aafre-userzero/
+- 目录页面：https://awesomecua.com/zh/resources/github-aafre-userzero/
 - 原始来源：https://github.com/aafre/userzero
 - 类型：评测基准
 - 审核状态：已审核
@@ -9670,7 +9670,7 @@ Template counts are data rows with distinct task IDs, counted with Python's csv 
 
 Verisim 是覆盖范围认证工具和对抗性评测套件，用于测试计算机使用智能体及工具智能体的执行前防护规则。
 
-- 目录页面：https://awesomecua.com/resources/github-clay-good-verisim/
+- 目录页面：https://awesomecua.com/zh/resources/github-clay-good-verisim/
 - 原始来源：https://github.com/clay-good/verisim
 - 类型：评测基准
 - 审核状态：已审核
@@ -9700,7 +9700,7 @@ Verisim 是覆盖范围认证工具和对抗性评测套件，用于测试计算
 
 由 VeriGUI 更名而来的可验证网页信息检索基准；桌面端评估被列为未来工作。
 
-- 目录页面：https://awesomecua.com/resources/github-verigui-team-verigui/
+- 目录页面：https://awesomecua.com/zh/resources/github-verigui-team-verigui/
 - 原始来源：https://github.com/VeriGUI-Team/VeriGUI
 - 类型：评测基准
 - 审核状态：已审核
@@ -9730,7 +9730,7 @@ Verisim 是覆盖范围认证工具和对抗性评测套件，用于测试计算
 
 VideoWebArena 评测网络智能体利用视频教程完成网站任务的能力，发布的基准包括任务配置、运行环境和评测流程。
 
-- 目录页面：https://awesomecua.com/resources/github-ljang0-videowebarena/
+- 目录页面：https://awesomecua.com/zh/resources/github-ljang0-videowebarena/
 - 原始来源：https://github.com/ljang0/videowebarena
 - 类型：评测基准
 - 审核状态：已审核
@@ -9763,7 +9763,7 @@ The source reports 2,021 tasks and links the videos as a separate download. Eval
 
 评估多模态模型在视觉网页理解任务上的表现。
 
-- 目录页面：https://awesomecua.com/resources/github-visualwebbench-visualwebbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-visualwebbench-visualwebbench/
 - 原始来源：https://github.com/VisualWebBench/VisualWebBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -9792,7 +9792,7 @@ The source reports 2,021 tasks and links the videos as a separate download. Eval
 
 公开的语音智能体、多模态和计算机使用评测基准的结构化分类与对比图谱。
 
-- 目录页面：https://awesomecua.com/resources/github-sophon-llc-voice-agent-benchmark-landscape/
+- 目录页面：https://awesomecua.com/zh/resources/github-sophon-llc-voice-agent-benchmark-landscape/
 - 原始来源：https://github.com/Sophon-LLC/voice-agent-benchmark-landscape
 - 类型：评测基准
 - 审核状态：已审核
@@ -9822,7 +9822,7 @@ The source reports 2,021 tasks and links the videos as a separate download. Eval
 
 WAInjectBench 针对网页交互流程中的 6 种文本和图像攻击类型，评测网页智能体的提示注入检测能力。
 
-- 目录页面：https://awesomecua.com/resources/github-norrrrrrr-lyn-wainjectbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-norrrrrrr-lyn-wainjectbench/
 - 原始来源：https://github.com/Norrrrrrr-lyn/WAInjectBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -9851,7 +9851,7 @@ WAInjectBench 针对网页交互流程中的 6 种文本和图像攻击类型，
 
 面向自主网页智能体的提示注入防御分类器、评测基准和具备防御机制的浏览器测试框架。
 
-- 目录页面：https://awesomecua.com/resources/github-aaman-911-watcher/
+- 目录页面：https://awesomecua.com/zh/resources/github-aaman-911-watcher/
 - 原始来源：https://github.com/Aaman-911/watcher
 - 类型：评测基准
 - 审核状态：已审核
@@ -9880,7 +9880,7 @@ WAInjectBench 针对网页交互流程中的 6 种文本和图像攻击类型，
 
 WeaveBench 通过结合 GUI、网页和程序化工具接口的真实世界长程工作流程评测计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-weavebench-weavebench/
+- 目录页面：https://awesomecua.com/zh/resources/github-weavebench-weavebench/
 - 原始来源：https://github.com/weavebench/WeaveBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -9910,7 +9910,7 @@ WeaveBench 通过结合 GUI、网页和程序化工具接口的真实世界长�
 
 可复现的 8 维评测基准，从延迟、token 开销和任务成功率等方面比较 7 个浏览器自动化 MCP 服务器。
 
-- 目录页面：https://awesomecua.com/resources/github-pleasedodisturb-web-agent-comparison/
+- 目录页面：https://awesomecua.com/zh/resources/github-pleasedodisturb-web-agent-comparison/
 - 原始来源：https://github.com/pleasedodisturb/web-agent-comparison
 - 类型：评测基准
 - 审核状态：已审核
@@ -9940,7 +9940,7 @@ WeaveBench 通过结合 GUI、网页和程序化工具接口的真实世界长�
 
 基于本地页面的基准，比较 6 种浏览器表示在 token 用量、事实读取和目标元素选择上的表现，并采用确定性答案评分。
 
-- 目录页面：https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/
+- 目录页面：https://awesomecua.com/zh/resources/github-charlypoly-web-context-bench-python/
 - 原始来源：https://github.com/charlypoly/web-context-bench-python
 - 类型：评测基准
 - 审核状态：已审核
@@ -9995,7 +9995,7 @@ Fixed local-page observations; the reported run uses claude-sonnet-5 and a share
 
 web-agent-bench 根据 Token 用量、延迟和任务完成情况，比较浏览器自动化测试框架（Playwright MCP、agent-browser、Stagehand）。
 
-- 目录页面：https://awesomecua.com/resources/github-nsosio-web-agent-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-nsosio-web-agent-bench/
 - 原始来源：https://github.com/nsosio/web-agent-bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -10025,7 +10025,7 @@ web-agent-bench 根据 Token 用量、延迟和任务完成情况，比较浏览
 
 在明确的步骤、token 和预算约束下，使用 REAL 评测基准中的 102 个复刻网站评测网页智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/
+- 目录页面：https://awesomecua.com/zh/resources/github-saarthak-yadav-web-agent-eval/
 - 原始来源：https://github.com/saarthak-yadav/web-agent-eval
 - 类型：评测基准
 - 审核状态：已审核
@@ -10055,7 +10055,7 @@ web-agent-bench 根据 Token 用量、延迟和任务完成情况，比较浏览
 
 Halluminate 与 Skyvern 的实时网页基准，涵盖 452 个高流量网站上的读取、创建、更新、删除和文件下载任务，包括登录与表单填写，并发布各智能体的运行结果。
 
-- 目录页面：https://awesomecua.com/resources/github-halluminate-webbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-halluminate-webbench/
 - 原始来源：https://github.com/Halluminate/WebBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -10112,7 +10112,7 @@ The released CSV has columns ID, Starting URL, Category and Task, with 1,637 REA
 
 包含 5 个能力领域的 150 个客户端网页挑战，设计为人类容易完成、浏览器操作智能体难以完成；每关解答后会显示密码。
 
-- 目录页面：https://awesomecua.com/resources/github-convergence-ai-webgames/
+- 目录页面：https://awesomecua.com/zh/resources/github-convergence-ai-webgames/
 - 原始来源：https://github.com/convergence-ai/webgames
 - 类型：评测基准
 - 审核状态：已审核
@@ -10142,7 +10142,7 @@ The released CSV has columns ID, Starting URL, Category and Task, with 1,637 REA
 
 WebGen-Bench 用自动化测试评估生成的网站，其中包括让界面智能体执行交互并检查结果。仓库提供评测代码和数据。
 
-- 目录页面：https://awesomecua.com/resources/github-mnluzimu-webgen-bench/
+- 目录页面：https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/
 - 原始来源：https://github.com/mnluzimu/WebGen-Bench
 - 类型：评测基准
 - 审核状态：已审核
@@ -10175,7 +10175,7 @@ The repository includes data, evaluation scripts and archived experiment outputs
 
 提供代码库、标注工具包和操作级风险数据集，用于训练和评估在执行前标记浏览器智能体不安全操作的防护模型。
 
-- 目录页面：https://awesomecua.com/resources/github-osu-nlp-group-webguard/
+- 目录页面：https://awesomecua.com/zh/resources/github-osu-nlp-group-webguard/
 - 原始来源：https://github.com/OSU-NLP-Group/WebGuard
 - 类型：评测基准
 - 审核状态：已审核
@@ -10205,7 +10205,7 @@ The repository includes data, evaluation scripts and archived experiment outputs
 
 WebMall 是多商店电子商务网页智能体评测基准，评测跨网站比价、商品搜索和购物车结账。
 
-- 目录页面：https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/
+- 目录页面：https://awesomecua.com/zh/resources/github-wbsg-uni-mannheim-webmall/
 - 原始来源：https://github.com/wbsg-uni-mannheim/WebMall
 - 类型：评测基准
 - 审核状态：已审核
@@ -10234,7 +10234,7 @@ WebMall 是多商店电子商务网页智能体评测基准，评测跨网站比
 
 WebMCP Description Benchmarks 评测浏览器内 WebMCP 工具的模式描述如何影响智能体选择工具和执行任务的准确率。
 
-- 目录页面：https://awesomecua.com/resources/github-clouatre-labs-webmcp-description-benchmarks/
+- 目录页面：https://awesomecua.com/zh/resources/github-clouatre-labs-webmcp-description-benchmarks/
 - 原始来源：https://github.com/clouatre-labs/webmcp-description-benchmarks
 - 类型：评测基准
 - 审核状态：已审核
@@ -10264,7 +10264,7 @@ WebMCP Description Benchmarks 评测浏览器内 WebMCP 工具的模式描述如
 
 网站重建基准：智能体通过浏览器探索生产级网站，重建全栈版本，并在 70 项任务中通过隐藏的功能与视觉测试用例评分。
 
-- 目录页面：https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/
+- 目录页面：https://awesomecua.com/zh/resources/github-tiger-ai-lab-websitebench/
 - 原始来源：https://github.com/TIGER-AI-Lab/WebsiteBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -10314,7 +10314,7 @@ Agents run through selectable Harbor agents, so observations and actions depend 
 
 端到端网页测试基准，智能体根据开发说明制定测试清单，与已部署的应用交互，并报告功能或约束方面的缺陷。
 
-- 目录页面：https://awesomecua.com/resources/github-friedrichor-webtestbench/
+- 目录页面：https://awesomecua.com/zh/resources/github-friedrichor-webtestbench/
 - 原始来源：https://github.com/friedrichor/WebTestBench
 - 类型：评测基准
 - 审核状态：已审核
@@ -10373,7 +10373,7 @@ The 100 archive files form an artifact inventory. Backend/tool versions and depl
 
 用于评测大型语言模型完成多步网页遍历和深度信息查找任务的评测基准与多智能体框架。
 
-- 目录页面：https://awesomecua.com/resources/github-alibaba-nlp-webwalker/
+- 目录页面：https://awesomecua.com/zh/resources/github-alibaba-nlp-webwalker/
 - 原始来源：https://github.com/Alibaba-NLP/WebWalker
 - 类型：评测基准
 - 审核状态：已审核
@@ -10403,7 +10403,7 @@ The 100 archive files form an artifact inventory. Backend/tool versions and depl
 
 WinDeskGround 在具有受控遮挡、缩放和干扰等级的多窗口 Windows 环境中，评测桌面 GUI 定位。
 
-- 目录页面：https://awesomecua.com/resources/github-zzzhr-1-windeskground/
+- 目录页面：https://awesomecua.com/zh/resources/github-zzzhr-1-windeskground/
 - 原始来源：https://github.com/ZZZhr-1/WinDeskGround
 - 类型：评测基准
 - 审核状态：已审核
@@ -10432,7 +10432,7 @@ WinDeskGround 在具有受控遮挡、缩放和干扰等级的多窗口 Windows 
 
 Windows 基准的修订版本，修复任务和评估器问题并支持虚拟机初始化，相关说明与 PC-Agent-E 一同提供。
 
-- 目录页面：https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/
+- 目录页面：https://awesomecua.com/zh/resources/github-gair-nlp-windowsagentarena-v2/
 - 原始来源：https://github.com/GAIR-NLP/WindowsAgentArena-V2
 - 类型：评测基准
 - 审核状态：已审核
@@ -10490,7 +10490,7 @@ README sample config uses max_steps=30. The shipped selected-task index has 20 I
 
 WindowsWorld 是跨应用的 Windows 基准，支持对任务中间步骤进行评估。
 
-- 目录页面：https://awesomecua.com/resources/github-hitsz-tmg-windowsworld/
+- 目录页面：https://awesomecua.com/zh/resources/github-hitsz-tmg-windowsworld/
 - 原始来源：https://github.com/HITsz-TMG/WindowsWorld
 - 类型：评测基准
 - 审核状态：已审核
@@ -10536,7 +10536,7 @@ Interactive VMware/Windows environment. The public repository includes benchmark
 
 WONDERBREAD 是用于评估工作流程文档编写、质量评估和知识迁移的离线基准，使用人类网页导航演示、操作轨迹和书面流程。
 
-- 目录页面：https://awesomecua.com/resources/github-hazyresearch-wonderbread/
+- 目录页面：https://awesomecua.com/zh/resources/github-hazyresearch-wonderbread/
 - 原始来源：https://github.com/HazyResearch/wonderbread
 - 类型：评测基准
 - 审核状态：已审核
@@ -10592,7 +10592,7 @@ Counts are publisher-reported. The gold subset covers 162 workflows and differs 
 
 包含 611 项要求智能体从不同起点完成的桌面 GUI 任务，附有教学视频、项目文件和具备自我反思能力的 WorldGUI-Agent 基线。
 
-- 目录页面：https://awesomecua.com/resources/github-showlab-worldgui/
+- 目录页面：https://awesomecua.com/zh/resources/github-showlab-worldgui/
 - 原始来源：https://github.com/showlab/WorldGUI
 - 类型：评测基准
 - 审核状态：已审核
@@ -10621,7 +10621,7 @@ Counts are publisher-reported. The gold subset covers 162 workflows and differs 
 
 验证工具包，用于检查页面自有的 WebMCP 工具模式、授权边界和执行一致性。
 
-- 目录页面：https://awesomecua.com/resources/github-wornpage-webmcp-conformance/
+- 目录页面：https://awesomecua.com/zh/resources/github-wornpage-webmcp-conformance/
 - 原始来源：https://github.com/wornpage/webmcp-conformance
 - 类型：评测基准
 - 审核状态：已审核

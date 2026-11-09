@@ -8,14 +8,14 @@ HTML 页面：https://awesomecua.com/zh/categories/product/ · [English](https:/
 
 ## 怎么选
 
-| 产品 | 平台 | 访问方式 | 定价 |
+| 产品 | 平台 | 许可证 | 提及 |
 | --- | --- | --- | --- |
-| [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) | 网页 · 桌面 · 跨平台 | — | — |
-| [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) | 网页 · 桌面 · 跨平台 | — | — |
-| [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) | 网页 · 桌面 · 跨平台 | — | — |
-| [Accio Work](https://awesomecua.com/resources/url-07f92766e53439739eab/) | 网页 | 发布方托管 | — |
-| [Ace](https://awesomecua.com/resources/url-7a35f44787f99834f13e/) | 桌面 | — | — |
-| [agent-qa](https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/) | 网页 · 手机 · 跨平台 | — | — |
+| [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) | 网页 · 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE) | 1 |
+| [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) | 网页 · 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/LICENSE) | 1 |
+| [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/LICENSE) | 1 |
+| [Accio Work](https://awesomecua.com/resources/url-07f92766e53439739eab/) | 网页 | — | 0 |
+| [Ace](https://awesomecua.com/resources/url-7a35f44787f99834f13e/) | 桌面 | — | 0 |
+| [agent-qa](https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/) | 网页 · 手机 · 跨平台 | — | 0 |
 
 ## 常见问题
 
@@ -41,7 +41,7 @@ HTML 页面：https://awesomecua.com/zh/categories/product/ · [English](https:/
 
 Interpreter Workstation 是桌面智能体工作空间，可连接本地或远程电脑，整合智能体运行时、浏览器访问以及文件和应用控制功能。
 
-- 目录页面：https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/
+- 目录页面：https://awesomecua.com/zh/resources/github-openinterpreter-interpreter-workstation/
 - 原始来源：https://github.com/openinterpreter/interpreter-workstation
 - 类型：产品
 - 审核状态：已审核
@@ -75,7 +75,7 @@ The repository contains the Workstation shell, desktop host, browser adapters an
 
 MT Code 是一款桌面应用，用于运行编程智能体，并为其提供浏览器操作控制、实时计算机画面和对可连接计算机的访问。
 
-- 目录页面：https://awesomecua.com/resources/github-munimtechnologies-mtcode/
+- 目录页面：https://awesomecua.com/zh/resources/github-munimtechnologies-mtcode/
 - 原始来源：https://github.com/munimtechnologies/mtcode
 - 类型：产品
 - 审核状态：已审核
@@ -109,7 +109,7 @@ The README lists macOS, Windows and Linux installers and says users must install
 
 ovoBrowser 是用于管理隔离浏览器配置和代理的桌面客户端。其本地 API 可让浏览器自动化工具连接已打开的配置环境。
 
-- 目录页面：https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/
+- 目录页面：https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser-manger/
 - 原始来源：https://github.com/ovobrowsersupport/ovobrowser-manger
 - 类型：产品
 - 审核状态：已审核
@@ -143,7 +143,7 @@ The README points to website downloads for Windows and macOS and describes profi
 
 Alibaba 支持的中小企业采购、店铺运营和营销智能体工作空间；智能体可操作用户自己的 Chromium 浏览器，导航、点击、输入、截图和提取数据。
 
-- 目录页面：https://awesomecua.com/resources/url-07f92766e53439739eab/
+- 目录页面：https://awesomecua.com/zh/resources/url-07f92766e53439739eab/
 - 原始来源：https://www.accio.com/work
 - 类型：产品
 - 审核状态：已审核
@@ -178,7 +178,7 @@ Recorded as adjacent: the publisher presents Accio Work, powered by Alibaba, as 
 
 General Agents 的桌面自动驾驶工具根据录制的专家行为训练，从截图预测点击、按键及其他动作；其 API 客户端附带执行动作的 macOS 控制器。
 
-- 目录页面：https://awesomecua.com/resources/url-7a35f44787f99834f13e/
+- 目录页面：https://awesomecua.com/zh/resources/url-7a35f44787f99834f13e/
 - 原始来源：https://generalagents.com/ace
 - 类型：产品
 - 审核状态：已审核
@@ -215,7 +215,7 @@ The Ace page describes a computer autopilot that uses the mouse and keyboard on 
 
 面向网页、Android 和 iOS 应用的测试智能体，可执行自然语言测试、操作用户流程、核验结果，并保存已验证的运行记录供后续复用。
 
-- 目录页面：https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/
+- 目录页面：https://awesomecua.com/zh/resources/url-73e9e26d40de2a60ae05/
 - 原始来源：https://vostride.com
 - 类型：产品
 - 审核状态：已审核
@@ -248,7 +248,7 @@ The page shows a test script for creating and checking an issue in a web app. It
 
 AgentQL 提供用于网页界面的自然语言查询和交互工具。
 
-- 目录页面：https://awesomecua.com/resources/url-8896d44370711136fd54/
+- 目录页面：https://awesomecua.com/zh/resources/url-8896d44370711136fd54/
 - 原始来源：https://www.agentql.com/
 - 类型：产品
 - 审核状态：已审核
@@ -277,7 +277,7 @@ AgentQL 提供用于网页界面的自然语言查询和交互工具。
 
 AWS 托管智能体平台的 Browser 工具提供隔离云浏览器会话、自动化、实时查看流及可选录制，并配有运行时、记忆、网关和代码执行服务。
 
-- 目录页面：https://awesomecua.com/resources/url-ecf89236d4e75b05c7b4/
+- 目录页面：https://awesomecua.com/zh/resources/url-ecf89236d4e75b05c7b4/
 - 原始来源：https://docs.aws.amazon.com/bedrock-agentcore
 - 类型：产品
 - 审核状态：已审核
@@ -311,7 +311,7 @@ A general agent hosting platform, so the scope is adjacent. Its computer-interac
 
 AWS 提供的服务，基于定制的 Nova 2 Lite 模型，支持通过自然语言和 Python 构建、部署自动执行浏览器界面工作流程的智能体。
 
-- 目录页面：https://awesomecua.com/resources/url-dec156cbf0cb1181f7b6/
+- 目录页面：https://awesomecua.com/zh/resources/url-dec156cbf0cb1181f7b6/
 - 原始来源：https://aws.amazon.com/nova/act/
 - 类型：产品
 - 审核状态：已审核
@@ -340,7 +340,7 @@ AWS 提供的服务，基于定制的 Nova 2 Lite 模型，支持通过自然语
 
 AskUI 是智能体测试自动化平台，依据像素在桌面应用、Citrix、车载主机和移动设备上运行自然语言测试用例，支持本地或物理隔离部署。
 
-- 目录页面：https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/
+- 目录页面：https://awesomecua.com/zh/resources/url-69d6afe38a9a128ba9f7/
 - 原始来源：https://www.askui.com/
 - 类型：产品
 - 审核状态：已审核
@@ -369,7 +369,7 @@ AskUI 是智能体测试自动化平台，依据像素在桌面应用、Citrix�
 
 AskUI 通过视觉识别和操作屏幕，在 Android 设备与模拟器上执行自然语言应用测试，并提供截图轨迹及持续集成接口。
 
-- 目录页面：https://awesomecua.com/resources/url-d071f3f5a01a5f9d6d78/
+- 目录页面：https://awesomecua.com/zh/resources/url-d071f3f5a01a5f9d6d78/
 - 原始来源：https://www.askui.com/blog-posts/askui-vision-agent-achieves-2nd-place-on-androidworld-benchmark
 - 类型：产品
 - 审核状态：已审核
@@ -402,7 +402,7 @@ The page says AgentOS drives Android targets and Companion Mode supports devices
 
 托管医疗自动化平台，其智能体通过屏幕操作 EHR、保险支付方门户及 Windows、Linux 或 Citrix 应用，再将重复运行转为脚本或私有 API 调用，并以 API 提供服务。
 
-- 目录页面：https://awesomecua.com/resources/url-a0a0c389d4def8e2d13a/
+- 目录页面：https://awesomecua.com/zh/resources/url-a0a0c389d4def8e2d13a/
 - 原始来源：https://asteroid.ai
 - 类型：产品
 - 审核状态：已审核
@@ -436,7 +436,7 @@ The site footer names Entropy Systems, Inc. as the operator. The homepage descri
 
 Chrome 侧栏扩展运行浏览器操作智能体：为标签页交互元素编索引，再由用户配置的兼容 OpenAI 模型打开标签页、点击、输入和按键。
 
-- 目录页面：https://awesomecua.com/resources/url-62df6dac6ade720ddd70/
+- 目录页面：https://awesomecua.com/zh/resources/url-62df6dac6ade720ddd70/
 - 原始来源：https://chromewebstore.google.com/detail/autobrowser/lebgieachadpombahcacicmebckokcjl
 - 类型：产品
 - 审核状态：已审核
@@ -470,7 +470,7 @@ The Chrome Web Store listing names browser-use as its inspiration, shows version
 
 Axiom 提供 Chrome 扩展、API 和 MCP 服务器来自动操作浏览器。AI 客户端可创建工作流程，并在云端浏览器或本地桌面运行。
 
-- 目录页面：https://awesomecua.com/resources/url-ef5f03efdbd5e3da2ed7/
+- 目录页面：https://awesomecua.com/zh/resources/url-ef5f03efdbd5e3da2ed7/
 - 原始来源：https://axiom.ai
 - 类型：产品
 - 审核状态：已审核
@@ -503,7 +503,7 @@ The page names Chrome, Step, and Orchestrate APIs. It also describes a desktop a
 
 面向市场拓展团队的 Chrome 扩展平台，AI 抓取器浏览网站、点击、填写表单并翻页收集潜在客户，另提供 AI 模板构建器和目标驱动的智能体模式。
 
-- 目录页面：https://awesomecua.com/resources/url-87bc346934a4117b554c/
+- 目录页面：https://awesomecua.com/zh/resources/url-87bc346934a4117b554c/
 - 原始来源：https://bardeen.ai
 - 类型：产品
 - 审核状态：已审核
@@ -538,7 +538,7 @@ The site footer names Bardeen Inc. as the operator, and the homepage links plans
 
 面向 AI 工作负载的无服务器云平台，其持久化 microVM 可配备带浏览器的 Linux 桌面，由 SDK、CLI 和 MCP 服务器通过截图、点击、按键和输入操作。
 
-- 目录页面：https://awesomecua.com/resources/url-51289d2105ef35fd0265/
+- 目录页面：https://awesomecua.com/zh/resources/url-51289d2105ef35fd0265/
 - 原始来源：https://www.beam.cloud
 - 类型：产品
 - 审核状态：已审核
@@ -574,7 +574,7 @@ The homepage presents Beam as compute for agents: persistent, forkable microVMs 
 
 无代码网页抓取与监测平台，其机器人在目标网站上重放录制的点击、输入、下拉选择、登录和翻页，或由 AI 创建数据表，再按计划提取数据。
 
-- 目录页面：https://awesomecua.com/resources/url-307838fec5f74218b032/
+- 目录页面：https://awesomecua.com/zh/resources/url-307838fec5f74218b032/
 - 原始来源：https://www.browse.ai
 - 类型：产品
 - 审核状态：已审核
@@ -608,7 +608,7 @@ The help center describes two ways to train a robot: Table Studio, where AI buil
 
 Browser Operator 是 Opera 预览中的浏览器智能体，可根据自然语言请求执行网页任务，并展示操作步骤、允许用户接管。
 
-- 目录页面：https://awesomecua.com/resources/url-9f296457c8ca46446c1f/
+- 目录页面：https://awesomecua.com/zh/resources/url-9f296457c8ca46446c1f/
 - 原始来源：https://press.opera.com/2025/03/03/opera-browser-operator-ai-agentics
 - 类型：产品
 - 审核状态：已审核
@@ -641,7 +641,7 @@ The announcement describes client-side operation inside the browser and says the
 
 Browser Use 提供的托管式浏览器智能体平台。
 
-- 目录页面：https://awesomecua.com/resources/url-ef244017b1460269fc68/
+- 目录页面：https://awesomecua.com/zh/resources/url-ef244017b1460269fc68/
 - 原始来源：https://browser-use.com/
 - 类型：产品
 - 审核状态：已审核
@@ -670,7 +670,7 @@ Browser Use 提供的托管式浏览器智能体平台。
 
 BrowserAct 是托管式网页抓取平台，提供可复用的浏览器交互工作流程。
 
-- 目录页面：https://awesomecua.com/resources/url-7ae2670859e3796e8607/
+- 目录页面：https://awesomecua.com/zh/resources/url-7ae2670859e3796e8607/
 - 原始来源：https://www.browseract.com/
 - 类型：产品
 - 审核状态：已审核
@@ -699,7 +699,7 @@ BrowserAct 是托管式网页抓取平台，提供可复用的浏览器交互工
 
 Browserbase Cloud 为智能体应用提供托管式浏览器基础设施。
 
-- 目录页面：https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/
+- 目录页面：https://awesomecua.com/zh/resources/url-978d1dcd70fde8661b9e/
 - 原始来源：https://www.browserbase.com/
 - 类型：产品
 - 审核状态：已审核
@@ -728,7 +728,7 @@ Browserbase Cloud 为智能体应用提供托管式浏览器基础设施。
 
 面向自动化应用的托管浏览器基础设施。
 
-- 目录页面：https://awesomecua.com/resources/url-1e6b8682e0f1ddc3d36f/
+- 目录页面：https://awesomecua.com/zh/resources/url-1e6b8682e0f1ddc3d36f/
 - 原始来源：https://www.browserless.io/
 - 类型：产品
 - 审核状态：已审核
@@ -757,7 +757,7 @@ Browserbase Cloud 为智能体应用提供托管式浏览器基础设施。
 
 浏览器智能体浏览客户的 SaaS 产品，检查文档是否仍准确，并通过摘要、会话回放以及 LLM 和浏览器操作轨迹报告待修订内容。
 
-- 目录页面：https://awesomecua.com/resources/url-108b77e28d55eb662bf5/
+- 目录页面：https://awesomecua.com/zh/resources/url-108b77e28d55eb662bf5/
 - 原始来源：https://www.cekura.io
 - 类型：产品
 - 审核状态：已审核
@@ -791,7 +791,7 @@ Customers send their documentation as it is together with an account for the pro
 
 结合浏览器交互、工具使用和计算机任务的托管智能体。
 
-- 目录页面：https://awesomecua.com/resources/url-b074ccdb2d9ec0277b65/
+- 目录页面：https://awesomecua.com/zh/resources/url-b074ccdb2d9ec0277b65/
 - 原始来源：https://openai.com/index/introducing-chatgpt-agent/
 - 类型：产品
 - 审核状态：已审核
@@ -824,7 +824,7 @@ The launch page identifies itself as outdated. This entry records the product in
 
 OpenAI 推出的浏览器产品，集成 ChatGPT 和智能体功能。
 
-- 目录页面：https://awesomecua.com/resources/url-240a05c02f85d4da60dc/
+- 目录页面：https://awesomecua.com/zh/resources/url-240a05c02f85d4da60dc/
 - 原始来源：https://openai.com/index/introducing-chatgpt-atlas/
 - 类型：产品
 - 审核状态：已审核
@@ -853,7 +853,7 @@ OpenAI 推出的浏览器产品，集成 ChatGPT 和智能体功能。
 
 Anthropic 面向终端、IDE、桌面和网页的智能体编码工具，提供可选的计算机使用预览功能，可截图并操作 macOS（CLI）以及 macOS 和 Windows（Desktop）上的获准应用。
 
-- 目录页面：https://awesomecua.com/resources/url-93109952a74302d890b5/
+- 目录页面：https://awesomecua.com/zh/resources/url-93109952a74302d890b5/
 - 原始来源：https://docs.anthropic.com/en/docs/claude-code
 - 类型：产品
 - 审核状态：已审核
@@ -888,7 +888,7 @@ A general coding agent, so the scope is adjacent. GUI control is an opt-in resea
 
 Claude Fable 5.1 是托管模型产品，页面将浏览器操作列为智能体用途之一，并讨论其在 OSWorld 2.0 上的评测。
 
-- 目录页面：https://awesomecua.com/resources/url-e0f1ebb59adf2f6c500c/
+- 目录页面：https://awesomecua.com/zh/resources/url-e0f1ebb59adf2f6c500c/
 - 原始来源：https://www.anthropic.com/claude/fable
 - 类型：产品
 - 审核状态：已审核
@@ -921,7 +921,7 @@ The page says the model is available through the Claude API and hosted platforms
 
 用于与网站交互的 Claude 浏览器扩展。
 
-- 目录页面：https://awesomecua.com/resources/url-07b6bbce7ce26a847f79/
+- 目录页面：https://awesomecua.com/zh/resources/url-07b6bbce7ce26a847f79/
 - 原始来源：https://claude.com/chrome
 - 类型：产品
 - 审核状态：已审核
@@ -950,7 +950,7 @@ The page says the model is available through the Claude API and hosted platforms
 
 面向医疗门户和 EHR 的托管浏览器自动化平台，构建智能体将聊天描述转为可复用的工作流图，在云端 VM 运行，并由维护智能体修复。
 
-- 目录页面：https://awesomecua.com/resources/url-c6f3c36e4603808ae9a6/
+- 目录页面：https://awesomecua.com/zh/resources/url-c6f3c36e4603808ae9a6/
 - 原始来源：https://www.cloudcruise.com
 - 类型：产品
 - 审核状态：已审核
@@ -989,7 +989,7 @@ The homepage targets payer-portal and EHR workflows and says every run executes 
 
 云端智能体平台，为智能体提供可持久使用的电脑，以及浏览器、图形界面、终端和文件访问，并配有项目工作区与工作流触发器。
 
-- 目录页面：https://awesomecua.com/resources/url-e73eb2f901a50145c37e/
+- 目录页面：https://awesomecua.com/zh/resources/url-e73eb2f901a50145c37e/
 - 原始来源：https://computer-agents.com
 - 类型：产品
 - 审核状态：已审核
@@ -1022,7 +1022,7 @@ The page describes Python and TypeScript SDKs, schedules, webhooks, email trigge
 
 Copilot Studio 智能体工具通过计算机使用模型，在配置好的机器上操作网站和 Windows 桌面应用，支持保存凭据、网站和应用白名单及人工监督。
 
-- 目录页面：https://awesomecua.com/resources/url-80052633107401ebfba7/
+- 目录页面：https://awesomecua.com/zh/resources/url-80052633107401ebfba7/
 - 原始来源：https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use
 - 类型：产品
 - 审核状态：已审核
@@ -1056,7 +1056,7 @@ Microsoft announced computer use for Copilot Studio on 15 April 2025 as an early
 
 适用于 Chrome、Edge 和 Brave 的侧边栏扩展，智能体可在用户已登录的浏览器中阅读网页、截图、点击、输入、填写表单和管理标签页，并支持保存技能、定时任务及选择模型。
 
-- 目录页面：https://awesomecua.com/resources/url-040e17448d9d190b3c14/
+- 目录页面：https://awesomecua.com/zh/resources/url-040e17448d9d190b3c14/
 - 原始来源：https://www.dassi.ai
 - 类型：产品
 - 审核状态：已审核
@@ -1094,7 +1094,7 @@ Omnify Labs of San Francisco builds dassi. The documentation says the agent iden
 
 ThirdLayer 的 Chrome 扩展会记住用户工作工具中的操作信息，并运行在浏览器中切换标签页、填写表单的智能体，同时集成 Gmail、Slack 和 CRM。
 
-- 目录页面：https://awesomecua.com/resources/url-76f0ba33cddbb348ea01/
+- 目录页面：https://awesomecua.com/zh/resources/url-76f0ba33cddbb348ea01/
 - 原始来源：https://www.joindex.com
 - 类型：产品
 - 审核状态：已审核
@@ -1130,7 +1130,7 @@ The homepage footer names ThirdLayer, Inc. as the operator. getdexterity.com, th
 
 The Browser Company 面向 macOS 和 Windows 的 AI 浏览器，助手可读取打开的标签页和已连接的工作应用；需批准的智能体模式可在当前网站填写表单和起草回复。
 
-- 目录页面：https://awesomecua.com/resources/url-b56578c7f9a211a792f2/
+- 目录页面：https://awesomecua.com/zh/resources/url-b56578c7f9a211a792f2/
 - 原始来源：https://www.diabrowser.com
 - 类型：产品
 - 审核状态：已审核
@@ -1164,7 +1164,7 @@ The homepage presents Dia as a work browser: a morning brief, reports and slide 
 
 用于执行智能体工作负载的沙箱基础设施。
 
-- 目录页面：https://awesomecua.com/resources/url-fda52d641c6b482bda7b/
+- 目录页面：https://awesomecua.com/zh/resources/url-fda52d641c6b482bda7b/
 - 原始来源：https://e2b.dev/
 - 类型：产品
 - 审核状态：已审核
@@ -1193,7 +1193,7 @@ The homepage presents Dia as a work browser: a morning brief, reports and slide 
 
 一款基于 Chromium 的浏览器，通过智能体技能让智能体操作已登录的网站，并以独立工作区和页面快照支持导航任务。
 
-- 目录页面：https://awesomecua.com/resources/url-45dabd68921824b298ca/
+- 目录页面：https://awesomecua.com/zh/resources/url-45dabd68921824b298ca/
 - 原始来源：https://lite.ego.app
 - 类型：产品
 - 审核状态：已审核
@@ -1226,7 +1226,7 @@ The page says the browser can import a user's Chrome setup and keep browser data
 
 Fellou 智能浏览器先拟定分步计划供审核，再浏览网页、填写表单并执行定时或并行任务；Computer Use 模式还可操作本地应用和文件。
 
-- 目录页面：https://awesomecua.com/resources/url-97cedbca35f6bd8684af/
+- 目录页面：https://awesomecua.com/zh/resources/url-97cedbca35f6bd8684af/
 - 原始来源：https://fellou.ai/
 - 类型：产品
 - 审核状态：已审核
@@ -1261,7 +1261,7 @@ Publisher claims. The homepage describes Deep Action (plan, then execute multi-s
 
 面向 AI 智能体的托管网页数据 API，可搜索并抓取页面为 Markdown 或 JSON；其 Interact 端点和浏览器沙盒支持通过提示或 Playwright 代码点击、输入和填写表单。
 
-- 目录页面：https://awesomecua.com/resources/url-a06f5cb81d3c41338bb6/
+- 目录页面：https://awesomecua.com/zh/resources/url-a06f5cb81d3c41338bb6/
 - 原始来源：https://www.firecrawl.dev
 - 类型：产品
 - 审核状态：已审核
@@ -1297,7 +1297,7 @@ Recorded as adjacent: the publisher presents Firecrawl as a web data API for AI 
 
 通过 AndroidWorld 任务录像展示的安卓操作智能体产品。Fluiz 报告其通过屏幕交互完成了 20 款应用中的 116 项任务。
 
-- 目录页面：https://awesomecua.com/resources/url-0c69fd920263b8a72a72/
+- 目录页面：https://awesomecua.com/zh/resources/url-0c69fd920263b8a72a72/
 - 原始来源：https://fluiz.ai/benchmark
 - 类型：产品
 - 审核状态：已审核
@@ -1330,7 +1330,7 @@ The page offers recordings for nine selected tasks and links to a full verificat
 
 用于自然语言浏览器自动化的 Chrome 扩展，接收用户请求并代为浏览网页。
 
-- 目录页面：https://awesomecua.com/resources/url-9b0e2c60bd772de53558/
+- 目录页面：https://awesomecua.com/zh/resources/url-9b0e2c60bd772de53558/
 - 原始来源：https://chromewebstore.google.com/detail/badgafnfchcihdfnjneklogedcdkmjfk
 - 类型：产品
 - 审核状态：已审核
@@ -1363,7 +1363,7 @@ The listing offers an Add to Chrome action and describes multi-model support. It
 
 业务智能体平台通过应用连接器工作，也可启用 Chromium 浏览器进行点击、输入、使用已保存的凭据登录，并在网站需要时将控制权交给人工。
 
-- 目录页面：https://awesomecua.com/resources/url-6884b7a1aa1bf507dae7/
+- 目录页面：https://awesomecua.com/zh/resources/url-6884b7a1aa1bf507dae7/
 - 原始来源：https://www.gumloop.com
 - 类型：产品
 - 审核状态：已审核
@@ -1399,7 +1399,7 @@ Recorded as adjacent: Gumloop presents itself as a platform for building, sharin
 
 Chrome 扩展在任意网页提供聊天模型摘要和写作功能；其自动化引擎让用户自建命令围绕 AI 步骤浏览、点击、粘贴、提取及监控页面。
 
-- 目录页面：https://awesomecua.com/resources/url-7c4d9a3bd10f7bab9268/
+- 目录页面：https://awesomecua.com/zh/resources/url-7c4d9a3bd10f7bab9268/
 - 原始来源：https://harpa.ai
 - 类型：产品
 - 审核状态：已审核
@@ -1433,7 +1433,7 @@ Recorded as adjacent: the publisher's getting-started guide presents HARPA mainl
 
 H 浏览器扩展程序，用于通过网站界面执行任务。
 
-- 目录页面：https://awesomecua.com/resources/url-4a47a6df845735984bf1/
+- 目录页面：https://awesomecua.com/zh/resources/url-4a47a6df845735984bf1/
 - 原始来源：https://hcompany.ai/newsroom/meet-holotab
 - 类型：产品
 - 审核状态：已审核
@@ -1462,7 +1462,7 @@ H 浏览器扩展程序，用于通过网站界面执行任务。
 
 面向 AI 智能体的浏览器基础设施和自动化服务。
 
-- 目录页面：https://awesomecua.com/resources/url-053ebfe0afac66c86222/
+- 目录页面：https://awesomecua.com/zh/resources/url-053ebfe0afac66c86222/
 - 原始来源：https://www.hyperbrowser.ai/
 - 类型：产品
 - 审核状态：已审核
@@ -1491,7 +1491,7 @@ H 浏览器扩展程序，用于通过网站界面执行任务。
 
 HyperWrite 浏览器智能体通过扩展操作用户的 Chrome 浏览器，执行搜索、预订和填写表单等文字请求。
 
-- 目录页面：https://awesomecua.com/resources/url-6917c59ee128421233b6/
+- 目录页面：https://awesomecua.com/zh/resources/url-6917c59ee128421233b6/
 - 原始来源：https://www.hyperwriteai.com/personal-assistant
 - 类型：产品
 - 审核状态：已审核
@@ -1526,7 +1526,7 @@ The site footer names OthersideAI as the publisher of HyperWrite, which its llms
 
 托管自动化平台通过提示驱动的智能体在云端 Chromium 沙盒或自行托管的运行器中导航、点击、输入和提取网页数据，任务流程可由带解说的录屏或聊天创建。
 
-- 目录页面：https://awesomecua.com/resources/url-65a9a9211f0dd2b7264a/
+- 目录页面：https://awesomecua.com/zh/resources/url-65a9a9211f0dd2b7264a/
 - 原始来源：https://www.komos.ai
 - 类型：产品
 - 审核状态：已审核
@@ -1563,7 +1563,7 @@ The documentation describes a task as a reusable automation graph. Its Agent Act
 
 企业浏览器智能体构建工具，Recursion 智能体在实时网页上执行自然语言步骤，并将操作、导航、提取和检查保存为带缓存选择器的工作流模块，可部署为 API。
 
-- 目录页面：https://awesomecua.com/resources/url-4f4e7c972e678f1d8c48/
+- 目录页面：https://awesomecua.com/zh/resources/url-4f4e7c972e678f1d8c48/
 - 原始来源：https://www.trykura.com
 - 类型：产品
 - 审核状态：已审核
@@ -1601,7 +1601,7 @@ The homepage says Kura is backed by Y Combinator and lists client-side encryptio
 
 支持通过浏览器执行任务的通用智能体平台。
 
-- 目录页面：https://awesomecua.com/resources/url-d3414794302313051ff0/
+- 目录页面：https://awesomecua.com/zh/resources/url-d3414794302313051ff0/
 - 原始来源：https://manus.im/
 - 类型：产品
 - 审核状态：已审核
@@ -1630,7 +1630,7 @@ The homepage says Kura is backed by Y Combinator and lists client-side encryptio
 
 Narada Code 开发并测试电脑操作流程，在失败后修改流程；OperatorMini 按指令执行重复性网页和企业任务。
 
-- 目录页面：https://awesomecua.com/resources/url-fd28110220935a0fae26/
+- 目录页面：https://awesomecua.com/zh/resources/url-fd28110220935a0fae26/
 - 原始来源：https://narada.ai/blog/introducing-narada-code-operatormini
 - 类型：产品
 - 审核状态：已审核
@@ -1663,7 +1663,7 @@ The announcement says Narada Code tests workflows in a sandbox and can work with
 
 Narada Operator 是企业网页智能体，通过任务规划和错误恢复，在网页界面与 API 之间执行工作流程。
 
-- 目录页面：https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/
+- 目录页面：https://awesomecua.com/zh/resources/url-68d09b76ec0f61b7a6c5/
 - 原始来源：https://narada.ai/blog/narada-ai-web-agent-operator
 - 类型：产品
 - 审核状态：已审核
@@ -1696,7 +1696,7 @@ Narada says the product offers session monitoring and replay, sensitive-workflow
 
 Opera 的订阅制智能体浏览器；Neon Do 在用户已登录的会话中跨标签页打开、关闭并执行操作，提供任务工作区、提示卡片以及供外部智能体使用的 MCP 或 CLI 接口。
 
-- 目录页面：https://awesomecua.com/resources/url-94d58f25e6fd4a2076ab/
+- 目录页面：https://awesomecua.com/zh/resources/url-94d58f25e6fd4a2076ab/
 - 原始来源：https://www.operaneon.com/
 - 类型：产品
 - 审核状态：已审核
@@ -1730,7 +1730,7 @@ Opera's release notes dated 30 September 2025 announce the first invitation-base
 
 OpenAI 此前推出的浏览器智能体研究预览版。
 
-- 目录页面：https://awesomecua.com/resources/url-f0584842138a52158f51/
+- 目录页面：https://awesomecua.com/zh/resources/url-f0584842138a52158f51/
 - 原始来源：https://openai.com/index/introducing-operator/
 - 类型：产品
 - 审核状态：已审核
@@ -1763,7 +1763,7 @@ Historical product entry; the official page describes its integration into ChatG
 
 浏览器智能体运行时信任层：侧车程序在每项操作执行前按本地策略检查，SDK 将网页转为紧凑的排序元素快照，并通过 DOM 断言验证结果。
 
-- 目录页面：https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/
+- 目录页面：https://awesomecua.com/zh/resources/url-4ee15c39dc38f230ad58/
 - 原始来源：https://predicatesystems.ai
 - 类型：产品
 - 审核状态：已审核
@@ -1798,7 +1798,7 @@ Predicate Systems Inc. was formerly SentienceAPI; www.sentienceapi.com redirects
 
 一款企业流程发现产品，采集桌面和网页应用中的活动并绘制工作流程，帮助识别操作模式与自动化机会。
 
-- 目录页面：https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/
+- 目录页面：https://awesomecua.com/zh/resources/url-79e0b911afaf4313fa6c/
 - 原始来源：https://www.automationanywhere.com/products/process-discovery
 - 类型：产品
 - 审核状态：已审核
@@ -1831,7 +1831,7 @@ The page describes computer-vision capture, workflow visualizations, cloud proce
 
 已停止的 Google 浏览器智能体研究原型，基于 Gemini 2.0，通过扩展读取屏幕像素和页面元素并在当前 Chrome 标签页操作，执行敏感操作前先征询用户。
 
-- 目录页面：https://awesomecua.com/resources/url-12d789d450207bd6d5da/
+- 目录页面：https://awesomecua.com/zh/resources/url-12d789d450207bd6d5da/
 - 原始来源：https://labs.google.com/mariner/
 - 类型：产品
 - 审核状态：已审核
@@ -1864,7 +1864,7 @@ Historical product entry. The primary source is the Project Mariner section of G
 
 rabbit OS3 的便携语音触控 AI 设备，可作为实体交互入口；其 DLAM 功能经用户许可后可操作所连接计算机上的应用。
 
-- 目录页面：https://awesomecua.com/resources/url-c33c1aba83d17c53a6f6/
+- 目录页面：https://awesomecua.com/zh/resources/url-c33c1aba83d17c53a6f6/
 - 原始来源：https://www.rabbit.tech/rabbit-r1
 - 类型：产品
 - 审核状态：已审核
@@ -1899,7 +1899,7 @@ rabbit inc. lists r1 at $199 USD with no subscription. The r1 page and user guid
 
 Retriever AI 浏览器智能体在用户已登录会话的 Chrome 扩展或云端浏览器中运行，读取页面结构并点击、输入、填写表单，也可通过 API 和 MCP 调用。
 
-- 目录页面：https://awesomecua.com/resources/url-4f3ce151a13cba635e74/
+- 目录页面：https://awesomecua.com/zh/resources/url-4f3ce151a13cba635e74/
 - 原始来源：https://www.rtrvr.ai
 - 类型：产品
 - 审核状态：已审核
@@ -1935,7 +1935,7 @@ Retriever AI describes its engine as DOM-native: a planner directs sub-agents fo
 
 Scribe 是一款工作流程录制和文档产品，与智能体数据收集相关。
 
-- 目录页面：https://awesomecua.com/resources/url-63ef8c7e455951a20281/
+- 目录页面：https://awesomecua.com/zh/resources/url-63ef8c7e455951a20281/
 - 原始来源：https://scribehow.com/
 - 类型：产品
 - 审核状态：已审核
@@ -1964,7 +1964,7 @@ Scribe 是一款工作流程录制和文档产品，与智能体数据收集相�
 
 Simular 的计算机使用产品与研究。
 
-- 目录页面：https://awesomecua.com/resources/url-0bdd6b5ebf2e1f248828/
+- 目录页面：https://awesomecua.com/zh/resources/url-0bdd6b5ebf2e1f248828/
 - 原始来源：https://www.simular.ai/
 - 类型：产品
 - 审核状态：已审核
@@ -1993,7 +1993,7 @@ Simular 的计算机使用产品与研究。
 
 托管式 Skyvern 服务，用于下载发票、填写表单等 AI 浏览器工作流，内置 CAPTCHA 和 2FA 处理、代理地理定位、运行过程说明及 JSON 或 CSV 输出。
 
-- 目录页面：https://awesomecua.com/resources/url-15ed5fd3cd950d837f98/
+- 目录页面：https://awesomecua.com/zh/resources/url-15ed5fd3cd950d837f98/
 - 原始来源：https://www.skyvern.com/
 - 类型：产品
 - 审核状态：已审核
@@ -2022,7 +2022,7 @@ Simular 的计算机使用产品与研究。
 
 Chrome 侧栏智能体跨标签页、书签和本地知识库研究，并将已登录网站上的点击和输入任务交给 Agent S6 浏览器智能体，支持重放、定时任务和页面监控。
 
-- 目录页面：https://awesomecua.com/resources/url-5aa01cb259a5d9a07d6e/
+- 目录页面：https://awesomecua.com/zh/resources/url-5aa01cb259a5d9a07d6e/
 - 原始来源：https://starizon.ai
 - 类型：产品
 - 审核状态：已审核
@@ -2058,7 +2058,7 @@ The terms of service name Starizon Ltd as the provider of the website, browser e
 
 与 Steel Browser 相关的托管浏览器基础设施。
 
-- 目录页面：https://awesomecua.com/resources/url-b940a884f200a916a61b/
+- 目录页面：https://awesomecua.com/zh/resources/url-b940a884f200a916a61b/
 - 原始来源：https://steel.dev/
 - 类型：产品
 - 审核状态：已审核
@@ -2087,7 +2087,7 @@ The terms of service name Starizon Ltd as the provider of the website, browser e
 
 面向 macOS 和 Windows 的智能体桌面浏览器，AI 伙伴可打开网站、逐步点击并在用户已登录的账户内工作，发送、付款或删除前会请求批准。
 
-- 目录页面：https://awesomecua.com/resources/url-1aa4168c796c15476b97/
+- 目录页面：https://awesomecua.com/zh/resources/url-1aa4168c796c15476b97/
 - 原始来源：https://www.strawberrybrowser.com
 - 类型：产品
 - 审核状态：已审核
@@ -2123,7 +2123,7 @@ Dendrite Systems, a team based in Stockholm, publishes Strawberry. Its llms.txt 
 
 用于执行网页任务并提取结构化结果的浏览器智能体 API。
 
-- 目录页面：https://awesomecua.com/resources/url-d92596cfe618e5322ec2/
+- 目录页面：https://awesomecua.com/zh/resources/url-d92596cfe618e5322ec2/
 - 原始来源：https://www.tinyfish.ai/
 - 类型：产品
 - 审核状态：已审核
@@ -2152,7 +2152,7 @@ Dendrite Systems, a team based in Stockholm, publishes Strawberry. Its llms.txt 
 
 阿里云 Model Studio API 根据截图和任务返回下一步 GUI 动作及其推理，提供移动端流程和由规划、执行、反思及记忆智能体组成的 PC 端流程。
 
-- 目录页面：https://awesomecua.com/resources/url-ce0af37931cd5aa20233/
+- 目录页面：https://awesomecua.com/zh/resources/url-ce0af37931cd5aa20233/
 - 原始来源：https://help.aliyun.com/zh/model-studio/ui-agent-api
 - 类型：产品
 - 审核状态：已审核
@@ -2186,7 +2186,7 @@ The page (version V0.0.1) documents a DashScope endpoint for the gui-owl app tha
 
 无代码平台将自然语言目标转为定时运行的业务智能体，优先调用现有 API，必要时由 Web Agent 在隔离的云端浏览器中点击、输入和填写表单。
 
-- 目录页面：https://awesomecua.com/resources/url-5a63318fd49cbcc84ad1/
+- 目录页面：https://awesomecua.com/zh/resources/url-5a63318fd49cbcc84ad1/
 - 原始来源：https://twin.so
 - 类型：产品
 - 审核状态：已审核
@@ -2222,7 +2222,7 @@ Twin Labs SAS, a Paris company, provides the service under its terms. Agents pre
 
 UiPath Studio 活动中的 Screen Agent 将自然语言任务描述转为在 Windows、Linux 和 macOS 上自主运行的 UI 自动化，使用规划器、像素定位器、DOM 提取和可选 LLM。
 
-- 目录页面：https://awesomecua.com/resources/url-b09d10b87e42b7e74de9/
+- 目录页面：https://awesomecua.com/zh/resources/url-b09d10b87e42b7e74de9/
 - 原始来源：https://www.uipath.com/platform/agentic-automation/rpa/ui-automation/screenplay
 - 类型：产品
 - 审核状态：已审核
@@ -2259,7 +2259,7 @@ UiPath describes Screen Agent as the agentic framework behind the ScreenPlay act
 
 托管浏览器智能体服务，根据自然语言提示执行网页任务，按运行秒数计费，提供 REST API、Make、n8n、Zapier 集成和可自行托管的开源版本。
 
-- 目录页面：https://awesomecua.com/resources/url-3315b5f3f10e62504135/
+- 目录页面：https://awesomecua.com/zh/resources/url-3315b5f3f10e62504135/
 - 原始来源：https://webagent.cloud
 - 类型：产品
 - 审核状态：已审核
@@ -2295,7 +2295,7 @@ The homepage lists a free trial of 5 prompts and pay-as-you-go pricing from EUR 
 
 网页增强代理在用户浏览器内提供网站，并通过自动化 API 和会话 MCP 服务器，让 AI 智能体读取 DOM、截图或无障碍树快照，以及点击、输入和滚动。
 
-- 目录页面：https://awesomecua.com/resources/url-255e1ea24461c1f205eb/
+- 目录页面：https://awesomecua.com/zh/resources/url-255e1ea24461c1f205eb/
 - 原始来源：https://www.webfuse.com
 - 类型：产品
 - 审核状态：已审核
@@ -2332,7 +2332,7 @@ Webfuse serves an existing website through a configurable proxy session and inje
 
 阿里云 Wuying 服务在云端 Android 容器运行 Qwen 驱动的智能体（使用 OpenClaw 的 MobileUseAgent），跨应用执行自然语言任务，用于流程自动化和应用测试。
 
-- 目录页面：https://awesomecua.com/resources/url-df3102617f3a66c44fc9/
+- 目录页面：https://awesomecua.com/zh/resources/url-df3102617f3a66c44fc9/
 - 原始来源：https://help.aliyun.com/zh/ecp/what-is-cloud-phone-mobile-use-agent
 - 类型：产品
 - 审核状态：已审核
@@ -2367,7 +2367,7 @@ The overview describes MobileUseAgent, an Android agent built for Wuying Cloud P
 
 Alibaba Cloud 的虚拟 Android 手机服务，在 ARM 服务器上运行并将画面传至用户设备，内置 Mobile Use Agent；Agentic Mobile 选项可在手机中运行 Qwen 驱动的智能体。
 
-- 目录页面：https://awesomecua.com/resources/url-9480f580f8bf9d3ba65d/
+- 目录页面：https://awesomecua.com/zh/resources/url-9480f580f8bf9d3ba65d/
 - 原始来源：https://www.aliyun.com/product/cloud-phone
 - 类型：产品
 - 审核状态：已审核
@@ -2401,7 +2401,7 @@ The product page presents the cloud phone as a virtual phone with an integrated 
 
 Yutori 网页智能体平台，提供 Navigator 计算机使用模型 API（浏览器用 n1.5、完整桌面用 n2）、浏览、研究和 Scout 网页监测任务 API，以及 Delegate 个人智能体。
 
-- 目录页面：https://awesomecua.com/resources/url-eff580f3185f2a36c265/
+- 目录页面：https://awesomecua.com/zh/resources/url-eff580f3185f2a36c265/
 - 原始来源：https://yutori.com
 - 类型：产品
 - 审核状态：已审核

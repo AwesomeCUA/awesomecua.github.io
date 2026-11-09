@@ -45,7 +45,7 @@ HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](
 
 浏览器自动化库，可作为智能体的执行层。
 
-- 目录页面：https://awesomecua.com/resources/github-microsoft-playwright/
+- 目录页面：https://awesomecua.com/zh/resources/github-microsoft-playwright/
 - 原始来源：https://github.com/microsoft/playwright
 - 类型：基础设施
 - 审核状态：已审核
@@ -75,7 +75,7 @@ HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](
 
 跨平台 Python 模块，用脚本控制鼠标和键盘、显示消息框、截屏及搜索屏幕图像；在 Windows、macOS 和 Linux 的主显示器上运行。
 
-- 目录页面：https://awesomecua.com/resources/github-asweigart-pyautogui/
+- 目录页面：https://awesomecua.com/zh/resources/github-asweigart-pyautogui/
 - 原始来源：https://github.com/asweigart/pyautogui
 - 类型：基础设施
 - 审核状态：已审核
@@ -104,7 +104,7 @@ HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](
 
 Android 设备控制平台，提供截图、无障碍状态数据、输入操作，以及可选的强化学习任务接口。
 
-- 目录页面：https://awesomecua.com/resources/github-google-deepmind-android-env/
+- 目录页面：https://awesomecua.com/zh/resources/github-google-deepmind-android-env/
 - 原始来源：https://github.com/google-deepmind/android_env
 - 类型：基础设施
 - 审核状态：已审核
@@ -140,7 +140,7 @@ Formerly published as deepmind/android_env. That address now redirects to this r
 
 面向计算机使用智能体的开源隔离式 Linux Xfce 桌面沙箱，可通过 Python 或 JavaScript SDK 进行屏幕串流、鼠标、键盘及窗口控制、截图和 shell 操作。
 
-- 目录页面：https://awesomecua.com/resources/github-e2b-dev-desktop/
+- 目录页面：https://awesomecua.com/zh/resources/github-e2b-dev-desktop/
 - 原始来源：https://github.com/e2b-dev/desktop
 - 类型：基础设施
 - 审核状态：已审核
@@ -170,7 +170,7 @@ Formerly published as deepmind/android_env. That address now redirects to this r
 
 管理智能体 Chrome 会话的开源浏览器 API，可通过 Puppeteer、Playwright 或 Selenium 经由 CDP 访问，支持 Cookie 持久化、代理轮换、隐蔽模式和会话调试界面。
 
-- 目录页面：https://awesomecua.com/resources/github-steel-dev-steel-browser/
+- 目录页面：https://awesomecua.com/zh/resources/github-steel-dev-steel-browser/
 - 原始来源：https://github.com/steel-dev/steel-browser
 - 类型：基础设施
 - 审核状态：已审核
@@ -200,7 +200,7 @@ Formerly published as deepmind/android_env. That address now redirects to this r
 
 面向智能体的云端沙箱基础设施；其桌面 SDK 提供截图、鼠标和键盘控制、应用启动及画面串流接口。
 
-- 目录页面：https://awesomecua.com/resources/github-e2b-dev-e2b/
+- 目录页面：https://awesomecua.com/zh/resources/github-e2b-dev-e2b/
 - 原始来源：https://github.com/e2b-dev/E2B
 - 类型：基础设施
 - 审核状态：已审核
@@ -234,7 +234,7 @@ The README provides JavaScript and Python SDK examples. Creating a sandbox requi
 
 面向 AI 智能体与自动化的无界面浏览器，提供 Linux 和 macOS 可执行文件，以及浏览器控制和脚本任务接口。
 
-- 目录页面：https://awesomecua.com/resources/github-lightpanda-io-browser/
+- 目录页面：https://awesomecua.com/zh/resources/github-lightpanda-io-browser/
 - 原始来源：https://github.com/lightpanda-io/browser
 - 类型：基础设施
 - 审核状态：已审核
@@ -268,7 +268,7 @@ The README describes nightly binaries for Linux and macOS and says there is no n
 
 用于键盘、鼠标和屏幕交互的桌面自动化库。
 
-- 目录页面：https://awesomecua.com/resources/github-nut-tree-nut-js/
+- 目录页面：https://awesomecua.com/zh/resources/github-nut-tree-nut-js/
 - 原始来源：https://github.com/nut-tree/nut.js
 - 类型：基础设施
 - 审核状态：已审核
@@ -297,7 +297,7 @@ The README describes nightly binaries for Linux and macOS and says there is no n
 
 已归档的 Gym 兼容客户端，通过 VNC 为远程应用和浏览器环境提供屏幕观察及键盘、鼠标操作，包括早期的 World of Bits 集成。
 
-- 目录页面：https://awesomecua.com/resources/github-openai-universe/
+- 目录页面：https://awesomecua.com/zh/resources/github-openai-universe/
 - 原始来源：https://github.com/openai/universe
 - 类型：基础设施
 - 审核状态：已审核
@@ -336,7 +336,7 @@ GitHub marks this repository archived, and the README declares the library depre
 
 AgentEnv 连接智能体模型与 Android 设备或模拟器，转换操作指令、返回截图及界面层级，并记录交互过程。
 
-- 目录页面：https://awesomecua.com/resources/github-llamatouch-agentenv/
+- 目录页面：https://awesomecua.com/zh/resources/github-llamatouch-agentenv/
 - 原始来源：https://github.com/LlamaTouch/AgentEnv
 - 类型：基础设施
 - 审核状态：已审核
@@ -369,7 +369,7 @@ The README provides emulator preparation, configuration and integration instruct
 
 Browserless 通过 Docker 提供无头浏览器服务，供 Puppeteer 和 Playwright 脚本连接，并支持会话并发控制和实时调试查看。
 
-- 目录页面：https://awesomecua.com/resources/github-browserless-browserless/
+- 目录页面：https://awesomecua.com/zh/resources/github-browserless-browserless/
 - 原始来源：https://github.com/browserless/browserless
 - 类型：基础设施
 - 审核状态：已审核
@@ -402,7 +402,7 @@ The README gives a Docker quickstart and browser connection examples. It disting
 
 面向 AI 智能体的浏览器服务，通过 REST API 提供无障碍页面快照和元素操作，并支持会话隔离及已登录状态下的浏览。
 
-- 目录页面：https://awesomecua.com/resources/github-jo-inc-camofox-browser/
+- 目录页面：https://awesomecua.com/zh/resources/github-jo-inc-camofox-browser/
 - 原始来源：https://github.com/jo-inc/camofox-browser
 - 类型：基础设施
 - 审核状态：已审核
@@ -436,7 +436,7 @@ The README documents an OpenClaw plugin, standalone server, Docker deployment, c
 
 ego lite 是桌面浏览器，可为智能体分配独立浏览空间，并通过 ego-browser 接口提供页面快照和操作能力。
 
-- 目录页面：https://awesomecua.com/resources/github-citrolabs-ego-lite/
+- 目录页面：https://awesomecua.com/zh/resources/github-citrolabs-ego-lite/
 - 原始来源：https://github.com/citrolabs/ego-lite
 - 类型：基础设施
 - 审核状态：已审核
@@ -470,7 +470,7 @@ The README names macOS and Windows as supported platforms and describes a bundle
 
 Midscene PC Docker 将 Ubuntu GNOME 桌面、Chrome 和 Midscene PC 自动化服务打包成容器，并通过 VNC 提供图形界面访问。
 
-- 目录页面：https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/
+- 目录页面：https://awesomecua.com/zh/resources/github-mofangbao-midscene-pc-docker/
 - 原始来源：https://github.com/Mofangbao/midscene-pc-docker
 - 类型：基础设施
 - 审核状态：已审核
@@ -504,7 +504,7 @@ The README provides Docker build and run instructions and describes browser and 
 
 面向 AI 智能体的无界面浏览器，可提取网页内容并通过命令行、CDP 和 WebDriver 执行浏览器任务，按需进行渲染。
 
-- 目录页面：https://awesomecua.com/resources/github-lexmount-moli/
+- 目录页面：https://awesomecua.com/zh/resources/github-lexmount-moli/
 - 原始来源：https://github.com/lexmount/moli
 - 类型：基础设施
 - 审核状态：已审核
@@ -537,7 +537,7 @@ The README names Linux, macOS, and Windows support and describes CLI, CDP, WebDr
 
 Obscura 是面向智能体自动化的 Rust 无头浏览器，可运行 JavaScript、提供 Chrome DevTools Protocol 接口，并支持截图和浏览器自动化工具。
 
-- 目录页面：https://awesomecua.com/resources/github-h4ckf0r0day-obscura/
+- 目录页面：https://awesomecua.com/zh/resources/github-h4ckf0r0day-obscura/
 - 原始来源：https://github.com/h4ckf0r0day/obscura
 - 类型：基础设施
 - 审核状态：已审核
@@ -571,7 +571,7 @@ The repository provides source code and release binaries for Linux, macOS and Wi
 
 支持计算机和浏览器交互的沙箱环境。
 
-- 目录页面：https://awesomecua.com/resources/github-agent-infra-sandbox/
+- 目录页面：https://awesomecua.com/zh/resources/github-agent-infra-sandbox/
 - 原始来源：https://github.com/agent-infra/sandbox
 - 类型：基础设施
 - 审核状态：已审核
@@ -601,7 +601,7 @@ The repository provides source code and release binaries for Linux, macOS and Wi
 
 这款 Linux 工作空间通过 MCP 为智能体提供独立的桌面和浏览器。它支持截屏与输入操作，并提供用于观察和停止智能体的查看器。
 
-- 目录页面：https://awesomecua.com/resources/github-agent-sh-agent-workspace-linux/
+- 目录页面：https://awesomecua.com/zh/resources/github-agent-sh-agent-workspace-linux/
 - 原始来源：https://github.com/agent-sh/agent-workspace-linux
 - 类型：基础设施
 - 审核状态：已审核
@@ -635,7 +635,7 @@ The README describes X11 and native Wayland backends and provides system package
 
 供 AI 智能体通过程序控制的桌面环境，基于 agentd REST 守护进程，可通过 Docker 在本地运行或部署到 Kubernetes，并为 LMM 输入提供坐标网格叠加层。
 
-- 目录页面：https://awesomecua.com/resources/github-agentsea-agentdesk/
+- 目录页面：https://awesomecua.com/zh/resources/github-agentsea-agentdesk/
 - 原始来源：https://github.com/agentsea/agentdesk
 - 类型：基础设施
 - 审核状态：已审核
@@ -665,7 +665,7 @@ The README describes X11 and native Wayland backends and provides system package
 
 AgentTab 为 AI 智能体提供按任务分配的 Chrome 标签页，支持页面快照、浏览器操作、人工接手，以及对重要操作的可选审核。
 
-- 目录页面：https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/
+- 目录页面：https://awesomecua.com/zh/resources/github-wolfiesch-chrome-bridge/
 - 原始来源：https://github.com/wolfiesch/chrome-bridge
 - 类型：基础设施
 - 审核状态：已审核
@@ -699,7 +699,7 @@ The README describes version 2 as an unreleased source prerelease. It documents 
 
 面向 AI 自动化测试的离线 Android 地图仿真应用，支持地图浏览、地点搜索、路线规划和导航，使用本地准备的数据。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-amap/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-amap/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-Amap
 - 类型：基础设施
 - 审核状态：已审核
@@ -732,7 +732,7 @@ The repository lists Android application code and scripts for preparing map, rou
 
 基于 WebDriver 的开源自动化服务器，面向移动、桌面和 IoT 应用；通过 iOS、Android、macOS 和 Windows 的平台驱动、插件及 Java、Python、Ruby 和 C#客户端扩展。
 
-- 目录页面：https://awesomecua.com/resources/github-appium-appium/
+- 目录页面：https://awesomecua.com/zh/resources/github-appium-appium/
 - 原始来源：https://github.com/appium/appium
 - 类型：基础设施
 - 审核状态：已审核
@@ -762,7 +762,7 @@ The repository lists Android application code and scripts for preparing map, rou
 
 用于测试 AI 操作的 Bilibili 安卓模拟应用，提供可导航的页面和预设静态内容，无须联网。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-bilibili/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-bilibili/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-BiliBili
 - 类型：基础设施
 - 审核状态：已审核
@@ -795,7 +795,7 @@ The README describes a Kotlin project using Jetpack Compose, with screen code an
 
 MyEle 是用于智能体交互测试的本地安卓外卖应用，提供购物流程、预设任务、操作日志和评估脚本。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-eleme/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-eleme/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-Eleme
 - 类型：基础设施
 - 审核状态：已审核
@@ -828,7 +828,7 @@ The app is built with Kotlin and Jetpack Compose and stores its data locally. Th
 
 AppSim-UberEats 是用于移动端智能体评测的 Android 应用复刻环境，包含可交互的购物界面、预置数据及任务事件和答案检查脚本。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ubereats/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-ubereats/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-UberEats
 - 类型：基础设施
 - 审核状态：已审核
@@ -861,7 +861,7 @@ The README describes a Jetpack Compose build, JSON assets and event logs in the 
 
 Browser Use 官方测试框架，用于创建和操控隔离的 macOS 虚拟机及桌面会话。
 
-- 目录页面：https://awesomecua.com/resources/github-browser-use-macos-harness/
+- 目录页面：https://awesomecua.com/zh/resources/github-browser-use-macos-harness/
 - 原始来源：https://github.com/browser-use/macos-harness
 - 类型：基础设施
 - 审核状态：已审核
@@ -891,7 +891,7 @@ Browser Use 官方测试框架，用于创建和操控隔离的 macOS 虚拟机�
 
 这是一个自托管的 Chrome 服务器，通过 CDP 为 Playwright、Puppeteer 等客户端提供隔离的浏览器会话，并支持会话池和资源控制。
 
-- 目录页面：https://awesomecua.com/resources/github-browser-gateway-browserserve/
+- 目录页面：https://awesomecua.com/zh/resources/github-browser-gateway-browserserve/
 - 原始来源：https://github.com/browser-gateway/browserserve
 - 类型：基础设施
 - 审核状态：已审核
@@ -924,7 +924,7 @@ The README provides a Docker quick start and CDP connection examples. Sessions u
 
 一个通过清单定义智能体沙箱的控制平面，可在多种运行环境中执行工作负载，并提供支持屏幕查看和输入控制的虚拟桌面。
 
-- 目录页面：https://awesomecua.com/resources/github-latere-ai-cella/
+- 目录页面：https://awesomecua.com/zh/resources/github-latere-ai-cella/
 - 原始来源：https://github.com/latere-ai/cella
 - 类型：基础设施
 - 审核状态：已审核
@@ -958,7 +958,7 @@ The source lists Kubernetes, Podman and a native runtime. It describes sandbox l
 
 这是用于 GUI 智能体测试的 Android Compose 仿应用，提供购物、消息、搜索和内容页面，并使用预置的虚构数据。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-rednote/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-rednote/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-RedNote
 - 类型：基础设施
 - 审核状态：已审核
@@ -991,7 +991,7 @@ The README describes local JSON data for users, notes, messages, products, and s
 
 一款用于测试人工智能交互的 Android 旅行应用复刻版，包含典型预订界面、固定的本地数据，以及用于检查任务结果的信号。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ctrip/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-ctrip/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-Ctrip
 - 类型：基础设施
 - 审核状态：已审核
@@ -1024,7 +1024,7 @@ The README describes a Jetpack Compose app with hotel, flight, and train interfa
 
 Dockur Windows 在 Docker/KVM 容器中运行完整的 Windows 桌面环境，并支持网页 VNC 查看器，可用于智能体沙箱。
 
-- 目录页面：https://awesomecua.com/resources/github-dockur-windows/
+- 目录页面：https://awesomecua.com/zh/resources/github-dockur-windows/
 - 原始来源：https://github.com/dockur/windows
 - 类型：基础设施
 - 审核状态：已审核
@@ -1053,7 +1053,7 @@ Dockur Windows 在 Docker/KVM 容器中运行完整的 Windows 桌面环境，�
 
 通过 Model Context Protocol 和 noVNC 向 AI 智能体与人工操作员开放的远程 Chromium 工作站。
 
-- 目录页面：https://awesomecua.com/resources/github-sh7vansh-gloria/
+- 目录页面：https://awesomecua.com/zh/resources/github-sh7vansh-gloria/
 - 原始来源：https://github.com/sh7vansh/gloria
 - 类型：基础设施
 - 审核状态：已审核
@@ -1083,7 +1083,7 @@ Dockur Windows 在 Docker/KVM 容器中运行完整的 Windows 桌面环境，�
 
 ScienceBoard 用于替代原界面的 GRASS GIS 8.4 wxPython 界面，内置 Flask 服务器，可加载地图集和图层、运行 GRASS 命令，并以 JSON 返回图层、区域和控制台状态供任务检查。
 
-- 目录页面：https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/
+- 目录页面：https://awesomecua.com/zh/resources/github-shiinahiiragi-grass-gui/
 - 原始来源：https://github.com/ShiinaHiiragi/grass-gui
 - 类型：基础设施
 - 审核状态：已审核
@@ -1122,7 +1122,7 @@ The ScienceBoard README lists this repository among its modified applications as
 
 一个合成 GUI 环境，可配置屏幕、图标和导航图，用于训练并评估智能体的屏幕导航能力。
 
-- 目录页面：https://awesomecua.com/resources/github-summoneryhl-gelab-engine/
+- 目录页面：https://awesomecua.com/zh/resources/github-summoneryhl-gelab-engine/
 - 原始来源：https://github.com/summoneryhl/gelab-engine
 - 类型：基础设施
 - 审核状态：已审核
@@ -1155,7 +1155,7 @@ The repository lists environment, data-engine, evaluation and training code. Its
 
 ibara 通过 MCP 将智能体连接到备用 Omarchy 电脑，执行桌面及浏览器任务；控制台可查看屏幕与任务，并供人接管操作。
 
-- 目录页面：https://awesomecua.com/resources/github-mayberrydt-ibara/
+- 目录页面：https://awesomecua.com/zh/resources/github-mayberrydt-ibara/
 - 原始来源：https://github.com/MayberryDT/ibara
 - 类型：基础设施
 - 审核状态：已审核
@@ -1189,7 +1189,7 @@ The README requires Omarchy computers, a Tailscale account and an MCP-capable ag
 
 ScienceBoard 改造的 KAlgebra 版本，内置本地 HTTP 服务器，可报告变量与已绘制的 2D、3D 函数，也可切换标签页或添加计算和绘图，供基准检查数学任务。
 
-- 目录页面：https://awesomecua.com/resources/github-shiinahiiragi-kalgebra/
+- 目录页面：https://awesomecua.com/zh/resources/github-shiinahiiragi-kalgebra/
 - 原始来源：https://github.com/ShiinaHiiragi/kalgebra
 - 类型：基础设施
 - 审核状态：已审核
@@ -1227,7 +1227,7 @@ GitHub reports this repository as a fork of KDE/kalgebra. The ScienceBoard READM
 
 Kernel 为网页智能体和自动化任务提供隔离的 Chrome 浏览器实例。其镜像支持远程控制、实时查看和会话录制。
 
-- 目录页面：https://awesomecua.com/resources/github-kernel-kernel-images/
+- 目录页面：https://awesomecua.com/zh/resources/github-kernel-kernel-images/
 - 原始来源：https://github.com/kernel/kernel-images
 - 类型：基础设施
 - 审核状态：已审核
@@ -1261,7 +1261,7 @@ The repository documents Docker and Unikraft deployments. Playwright and Puppete
 
 MyInstagram 是一款 Android 仿真社交应用，提供可交互页面、模拟数据和状态字段，用于检查 GUI 智能体的任务结果。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-instagram/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-instagram/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-Instagram
 - 类型：基础设施
 - 审核状态：已审核
@@ -1294,7 +1294,7 @@ The README lists project source files, JSON mock data, media assets, and a Gradl
 
 一款使用固定本地数据的简化版 Android 音乐应用，记录操作以检验移动端 GUI 智能体是否完成任务。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-neteasecloudmusic/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-neteasecloudmusic/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-NetEaseCloudMusic
 - 类型：基础设施
 - 审核状态：已审核
@@ -1327,7 +1327,7 @@ The README describes Kotlin and Jetpack Compose source, local JSON assets, and r
 
 Open Computer 为智能体提供隔离的 Debian 桌面，配有浏览器和原生应用控制功能。用户可通过实时界面观察并协助智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-mintplex-labs-open-computer/
+- 目录页面：https://awesomecua.com/zh/resources/github-mintplex-labs-open-computer/
 - 原始来源：https://github.com/Mintplex-Labs/open-computer
 - 类型：基础设施
 - 审核状态：已审核
@@ -1361,7 +1361,7 @@ The source describes a QEMU virtual machine, an interface service, and a Pi-base
 
 七个预配置的 Pixel 6 模拟器镜像，适用于 Android API 33（arm64），附有 Apple Silicon 安装脚本，在 OpenMobile-2 发布内容中列为扩展 Android AVD。
 
-- 目录页面：https://awesomecua.com/resources/url-f039da43799772645c92/
+- 目录页面：https://awesomecua.com/zh/resources/url-f039da43799772645c92/
 - 原始来源：https://huggingface.co/datasets/yanhhh/AndroidAvd
 - 类型：基础设施
 - 审核状态：已审核
@@ -1400,7 +1400,7 @@ The Hub dataset repository at revision 4d2be380 has no card and no license decla
 
 托管 OSWorld 预构建的 Ubuntu 虚拟机：含 x86 和 arm64 版 VMware 归档及 QEMU qcow2 归档，供 OSWorld 的 VMware 和 Docker 提供程序首次运行时下载。
 
-- 目录页面：https://awesomecua.com/resources/url-346ca54794cbdffc8797/
+- 目录页面：https://awesomecua.com/zh/resources/url-346ca54794cbdffc8797/
 - 原始来源：https://huggingface.co/datasets/xlangai/ubuntu_osworld
 - 类型：基础设施
 - 审核状态：已审核
@@ -1438,7 +1438,7 @@ Adjacent: environment images that the curated OSWorld benchmark boots; this asse
 
 Pilion Browser 通过 MCP 将智能体连接到用户桌面浏览器的标签页，支持浏览器操作、操作前审批、人工接管、工作流录制及会话恢复。
 
-- 目录页面：https://awesomecua.com/resources/github-echovic-pilion-browser/
+- 目录页面：https://awesomecua.com/zh/resources/github-echovic-pilion-browser/
 - 原始来源：https://github.com/echoVic/pilion-browser
 - 类型：基础设施
 - 审核状态：已审核
@@ -1472,7 +1472,7 @@ The README names macOS, Windows, and Linux releases and states an MIT license. I
 
 预先构建的 Ubuntu 虚拟机归档，包含 ScienceBoard 科学计算机使用任务所用的软件环境。
 
-- 目录页面：https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/
+- 目录页面：https://awesomecua.com/zh/resources/url-75917f2c2b2802aafd3e/
 - 原始来源：https://huggingface.co/OS-Copilot/ScienceBoard-Env
 - 类型：基础设施
 - 审核状态：已审核
@@ -1509,7 +1509,7 @@ The public Hub manifest contains VM.zip. This is an environment image hosted in 
 
 一种通过 WebSocket 访问的托管 Chromium 浏览器，可由 Puppeteer 或 Playwright 控制，并可配置会话、浏览器指纹和网络出口。
 
-- 目录页面：https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/
+- 目录页面：https://awesomecua.com/zh/resources/github-scraperapigather-scrapeless-scraping-browser/
 - 原始来源：https://github.com/scraperapigather/scrapeless-scraping-browser
 - 类型：基础设施
 - 审核状态：已审核
@@ -1543,7 +1543,7 @@ The repository includes connection examples for Puppeteer and Playwright. The br
 
 实现 W3C WebDriver 的浏览器自动化项目，提供 Java、Python、Ruby、.NET 和 JavaScript 绑定、用于跨机器分配会话的 Selenium Grid，以及用于配置驱动的 Rust 版 Selenium Manager。
 
-- 目录页面：https://awesomecua.com/resources/github-seleniumhq-selenium/
+- 目录页面：https://awesomecua.com/zh/resources/github-seleniumhq-selenium/
 - 原始来源：https://github.com/SeleniumHQ/selenium
 - 类型：基础设施
 - 审核状态：已审核
@@ -1579,7 +1579,7 @@ The repository README addresses contributors and points users to the documentati
 
 一个早期的 Linux 容器运行环境，供计算机操作智能体使用，包含虚拟桌面、浏览器、开发工具，以及控制桌面的 MCP 接口。
 
-- 目录页面：https://awesomecua.com/resources/github-montbrain-vadgr-agent-os/
+- 目录页面：https://awesomecua.com/zh/resources/github-montbrain-vadgr-agent-os/
 - 原始来源：https://github.com/MONTBRAIN/vadgr-agent-os
 - 类型：基础设施
 - 审核状态：已审核
@@ -1613,7 +1613,7 @@ The repository lists a Dockerfile, entrypoint, and Python integration code. The 
 
 vePhone 提供可远程控制的云手机，并附有移动端与计算机使用智能体的接入示例，涵盖任务执行和结果查询。
 
-- 目录页面：https://awesomecua.com/resources/github-volcengine-vephone/
+- 目录页面：https://awesomecua.com/zh/resources/github-volcengine-vephone/
 - 原始来源：https://github.com/volcengine/vePhone
 - 类型：基础设施
 - 审核状态：已审核
@@ -1646,7 +1646,7 @@ The repository provides Android, iOS, Web/H5 and Windows Quick Start demos. Its 
 
 这是一个设备管理系统，可通过浏览器查看和控制 Android 与 iOS 设备，并提供远程输入、设备清单和 REST API。
 
-- 目录页面：https://awesomecua.com/resources/github-vkcom-devicehub/
+- 目录页面：https://awesomecua.com/zh/resources/github-vkcom-devicehub/
 - 原始来源：https://github.com/VKCOM/devicehub
 - 类型：基础设施
 - 审核状态：已审核
@@ -1680,7 +1680,7 @@ The README describes a Docker Compose deployment, Android device support and iOS
 
 这套 WebArena 网站的 Docker 部署方案提供启动站点容器的脚本，并可在涉及浏览器任务的实验之间恢复站点状态。
 
-- 目录页面：https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/
+- 目录页面：https://awesomecua.com/zh/resources/github-mahirlabibdihan-webarena-docker/
 - 原始来源：https://github.com/mahirlabibdihan/webarena-docker
 - 类型：基础设施
 - 审核状态：已审核
@@ -1713,7 +1713,7 @@ The README includes image and data setup for GitLab, shopping sites, Reddit, Wik
 
 youtube_sim 是仿 YouTube 的 Android 测试应用，提供本地媒体、交互日志和任务校验脚本，用于检查移动界面操作及其结果状态。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-youtube/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-youtube/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-Youtube
 - 类型：基础设施
 - 审核状态：已审核
@@ -1746,7 +1746,7 @@ The README describes task_state.json and messages.json logs for searches, likes,
 
 Zoom Android Template 是用于移动端交互测试的模拟会议应用，提供预设日程，并记录会议和个人资料操作的运行状态。
 
-- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-zoom/
+- 目录页面：https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-zoom/
 - 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-Zoom
 - 类型：基础设施
 - 审核状态：已审核
@@ -1779,7 +1779,7 @@ The README describes Jetpack Compose app code, seeded meetings and JSON files fo
 
 Aegis 是在屏幕外运行、已移除部分能力的 Docker 浏览器和桌面沙箱，用于隔离计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-arihantdeva-aegis/
+- 目录页面：https://awesomecua.com/zh/resources/github-arihantdeva-aegis/
 - 原始来源：https://github.com/ArihantDeva/Aegis
 - 类型：基础设施
 - 审核状态：已审核
@@ -1809,7 +1809,7 @@ Aegis 是在屏幕外运行、已移除部分能力的 Docker 浏览器和桌面
 
 为 AI 计算机使用智能体提供专用 macOS 用户账户和隔离的桌面会话，并可从主屏幕实时查看。
 
-- 目录页面：https://awesomecua.com/resources/github-dianavocado181-agent-desktop/
+- 目录页面：https://awesomecua.com/zh/resources/github-dianavocado181-agent-desktop/
 - 原始来源：https://github.com/dianavocado181/agent-desktop
 - 类型：基础设施
 - 审核状态：已审核
@@ -1839,7 +1839,7 @@ Aegis 是在屏幕外运行、已移除部分能力的 Docker 浏览器和桌面
 
 AIOS 是一款智能体操作系统，其计算机使用架构提供虚拟机控制器和 MCP 服务器，供智能体与图形计算机环境交互。
 
-- 目录页面：https://awesomecua.com/resources/github-agiresearch-aios/
+- 目录页面：https://awesomecua.com/zh/resources/github-agiresearch-aios/
 - 原始来源：https://github.com/agiresearch/AIOS
 - 类型：基础设施
 - 审核状态：已审核
@@ -1872,7 +1872,7 @@ The computer-use setup calls for a virtualized environment with a GUI. The READM
 
 Anchor 为 AI 智能体提供云端浏览器环境，用于访问需登录的网站并执行浏览器任务，支持通过 SDK 和 MCP 集成。
 
-- 目录页面：https://awesomecua.com/resources/url-74a98d385b656cf5e980/
+- 目录页面：https://awesomecua.com/zh/resources/url-74a98d385b656cf5e980/
 - 原始来源：https://anchorbrowser.io
 - 类型：基础设施
 - 审核状态：已审核
@@ -1905,7 +1905,7 @@ The page describes managed Chromium instances, authentication infrastructure, an
 
 Anchor Browser 通过 SDK、CDP 和 REST 接口为智能体提供云端浏览器会话。文档介绍自然语言任务、身份验证和可复用工作流程。
 
-- 目录页面：https://awesomecua.com/resources/url-697a83b26e55f206b651/
+- 目录页面：https://awesomecua.com/zh/resources/url-697a83b26e55f206b651/
 - 原始来源：https://docs.anchorbrowser.io/introduction
 - 类型：基础设施
 - 审核状态：已审核
@@ -1938,7 +1938,7 @@ The documentation shows Node.js and Python client examples and describes Playwri
 
 AriaOS 配置专用的虚拟机桌面，供计算机使用智能体操作 GUI 应用、终端并进行语音交互。
 
-- 目录页面：https://awesomecua.com/resources/github-jeremie225ci-ariaos/
+- 目录页面：https://awesomecua.com/zh/resources/github-jeremie225ci-ariaos/
 - 原始来源：https://github.com/jeremie225ci/ariaos
 - 类型：基础设施
 - 审核状态：已审核
@@ -1967,7 +1967,7 @@ AriaOS 配置专用的虚拟机桌面，供计算机使用智能体操作 GUI �
 
 Boxcar 为 LLM 计算机使用智能体提供可随用随弃的 Windows 11 和 Ubuntu 桌面虚拟机沙箱。
 
-- 目录页面：https://awesomecua.com/resources/github-status-labs-boxcar/
+- 目录页面：https://awesomecua.com/zh/resources/github-status-labs-boxcar/
 - 原始来源：https://github.com/Status-Labs/boxcar
 - 类型：基础设施
 - 审核状态：已审核
@@ -1997,7 +1997,7 @@ Boxcar 为 LLM 计算机使用智能体提供可随用随弃的 Windows 11 和 U
 
 Browser Run 托管无界面 Chrome 会话，支持浏览器自动化与智能体网页操作，并提供 Playwright、Puppeteer、CDP 和 MCP 接入方式。
 
-- 目录页面：https://awesomecua.com/resources/url-a57a63693c89915903f1/
+- 目录页面：https://awesomecua.com/zh/resources/url-a57a63693c89915903f1/
 - 原始来源：https://developers.cloudflare.com/browser-run
 - 类型：基础设施
 - 审核状态：已审核
@@ -2030,7 +2030,7 @@ The documentation also describes stateless actions for screenshots and page extr
 
 browser-gateway 是跨云浏览器提供商的开放控制平面和路由器，支持故障转移、持久化配置文件、会话重放和 MCP。
 
-- 目录页面：https://awesomecua.com/resources/github-browser-gateway-browser-gateway/
+- 目录页面：https://awesomecua.com/zh/resources/github-browser-gateway-browser-gateway/
 - 原始来源：https://github.com/browser-gateway/browser-gateway
 - 类型：基础设施
 - 审核状态：已审核
@@ -2060,7 +2060,7 @@ browser-gateway 是跨云浏览器提供商的开放控制平面和路由器，�
 
 基于 Chromium 的浏览器实现，支持外部智能体控制和内置助手工作流，并提供会话查看与回放功能。
 
-- 目录页面：https://awesomecua.com/resources/github-browseros-ai-browseros/
+- 目录页面：https://awesomecua.com/zh/resources/github-browseros-ai-browseros/
 - 原始来源：https://github.com/browseros-ai/BrowserOS
 - 类型：基础设施
 - 审核状态：已审核
@@ -2100,7 +2100,7 @@ The one repository includes BrowserOS neo and BrowserOS; they are retained as on
 
 用于扩展远程 Chromium 浏览器的参考控制平面，配有以 Postgres 为后端的会话代理和实时 WebSocket 标签页镜像。
 
-- 目录页面：https://awesomecua.com/resources/github-mathisarends-browserplane/
+- 目录页面：https://awesomecua.com/zh/resources/github-mathisarends-browserplane/
 - 原始来源：https://github.com/mathisarends/browserplane
 - 类型：基础设施
 - 审核状态：已审核
@@ -2129,7 +2129,7 @@ The one repository includes BrowserOS neo and BrowserOS; they are retained as on
 
 自行托管的集群编排器，为自主式计算机使用智能体创建沙箱化的 Linux 桌面容器。
 
-- 目录页面：https://awesomecua.com/resources/github-bryantvanorden-openagentfleet/
+- 目录页面：https://awesomecua.com/zh/resources/github-bryantvanorden-openagentfleet/
 - 原始来源：https://github.com/BryantVanOrden/OpenAgentFleet
 - 类型：基础设施
 - 审核状态：已审核
@@ -2159,7 +2159,7 @@ The one repository includes BrowserOS neo and BrowserOS; they are retained as on
 
 Celesto 为 AI 智能体配置安全、持久的虚拟桌面计算机和浏览器沙箱。
 
-- 目录页面：https://awesomecua.com/resources/github-celestoai-celesto/
+- 目录页面：https://awesomecua.com/zh/resources/github-celestoai-celesto/
 - 原始来源：https://github.com/CelestoAI/celesto
 - 类型：基础设施
 - 审核状态：已审核
@@ -2189,7 +2189,7 @@ Celesto 为 AI 智能体配置安全、持久的虚拟桌面计算机和浏览�
 
 ClawBox 在使用 Apple Virtualization.framework 的隔离 macOS 虚拟机沙箱中运行 OpenClaw 和计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-coderkk1992-clawbox/
+- 目录页面：https://awesomecua.com/zh/resources/github-coderkk1992-clawbox/
 - 原始来源：https://github.com/coderkk1992/clawbox
 - 类型：基础设施
 - 审核状态：已审核
@@ -2219,7 +2219,7 @@ ClawBox 在使用 Apple Virtualization.framework 的隔离 macOS 虚拟机沙箱
 
 提供由 gVisor 隔离的 Linux 桌面和 Chromium 容器，具备持久化存储，可通过单个 JavaScript REPL MCP 工具驱动。
 
-- 目录页面：https://awesomecua.com/resources/github-r33drichards-computer-use/
+- 目录页面：https://awesomecua.com/zh/resources/github-r33drichards-computer-use/
 - 原始来源：https://github.com/r33drichards/computer-use
 - 类型：基础设施
 - 审核状态：已审核
@@ -2249,7 +2249,7 @@ ClawBox 在使用 Apple Virtualization.framework 的隔离 macOS 虚拟机沙箱
 
 配置可随时弃用的无头 macOS 虚拟机，让计算机使用智能体无需切换窗口即可操作隔离的桌面。
 
-- 目录页面：https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/
+- 目录页面：https://awesomecua.com/zh/resources/github-zimengxiong-computer-use-vm/
 - 原始来源：https://github.com/ZimengXiong/computer-use-vm
 - 类型：基础设施
 - 审核状态：已审核
@@ -2279,7 +2279,7 @@ ClawBox 在使用 Apple Virtualization.framework 的隔离 macOS 虚拟机沙箱
 
 Cyberdesk 是开源的虚拟桌面编排平台和 SDK，用于为 CUA 配置和控制云桌面沙箱。
 
-- 目录页面：https://awesomecua.com/resources/github-cyberdesk-hq-cyberdesk/
+- 目录页面：https://awesomecua.com/zh/resources/github-cyberdesk-hq-cyberdesk/
 - 原始来源：https://github.com/cyberdesk-hq/cyberdesk
 - 类型：基础设施
 - 审核状态：已审核
@@ -2309,7 +2309,7 @@ Cyberdesk 是开源的虚拟桌面编排平台和 SDK，用于为 CUA 配置和�
 
 Deck 是开源桌面控制台，用于管理隔离的本地 AI 智能体沙箱、桌面会话和开发者交接。
 
-- 目录页面：https://awesomecua.com/resources/github-cofy-x-deck/
+- 目录页面：https://awesomecua.com/zh/resources/github-cofy-x-deck/
 - 原始来源：https://github.com/cofy-x/deck
 - 类型：基础设施
 - 审核状态：已审核
@@ -2339,7 +2339,7 @@ Deck 是开源桌面控制台，用于管理隔离的本地 AI 智能体沙箱�
 
 自托管的集群管理器，可创建并行 XFCE Linux 桌面沙箱，并在其间调度自然语言任务。
 
-- 目录页面：https://awesomecua.com/resources/github-ahmedvnabil-deskswarm/
+- 目录页面：https://awesomecua.com/zh/resources/github-ahmedvnabil-deskswarm/
 - 原始来源：https://github.com/ahmedvnabil/deskswarm
 - 类型：基础设施
 - 审核状态：已审核
@@ -2369,7 +2369,7 @@ Deck 是开源桌面控制台，用于管理隔离的本地 AI 智能体沙箱�
 
 面向移动端自动化和测试的开源 Android 设备集群管理与编排平台。
 
-- 目录页面：https://awesomecua.com/resources/github-c00l-k1d-droidfleet/
+- 目录页面：https://awesomecua.com/zh/resources/github-c00l-k1d-droidfleet/
 - 原始来源：https://github.com/c00l-k1D/DroidFleet
 - 类型：基础设施
 - 审核状态：已审核
@@ -2399,7 +2399,7 @@ Deck 是开源桌面控制台，用于管理隔离的本地 AI 智能体沙箱�
 
 EdgeBox 创建隔离的本地 Linux 桌面虚拟机，支持 WebRTC 画面传输和快照回滚，供计算机使用智能体运行。
 
-- 目录页面：https://awesomecua.com/resources/github-bigppwong-edgebox/
+- 目录页面：https://awesomecua.com/zh/resources/github-bigppwong-edgebox/
 - 原始来源：https://github.com/BIGPPWONG/EdgeBox
 - 类型：基础设施
 - 审核状态：已审核
@@ -2429,7 +2429,7 @@ EdgeBox 创建隔离的本地 Linux 桌面虚拟机，支持 WebRTC 画面传输
 
 GhostDesk 是 MCP 服务器和沙箱化虚拟桌面运行时，为 LLM 智能体提供屏幕视觉、鼠标和键盘控制以及 shell 访问能力。
 
-- 目录页面：https://awesomecua.com/resources/github-yv17labs-ghostdesk/
+- 目录页面：https://awesomecua.com/zh/resources/github-yv17labs-ghostdesk/
 - 原始来源：https://github.com/YV17labs/GhostDesk
 - 类型：基础设施
 - 审核状态：已审核
@@ -2458,7 +2458,7 @@ GhostDesk 是 MCP 服务器和沙箱化虚拟桌面运行时，为 LLM 智能体
 
 容器化无头 Chromium 环境，原生集成 Model Context Protocol，供自主网页智能体使用。
 
-- 目录页面：https://awesomecua.com/resources/github-sh7vansh-gloria-headless/
+- 目录页面：https://awesomecua.com/zh/resources/github-sh7vansh-gloria-headless/
 - 原始来源：https://github.com/sh7vansh/gloria-headless
 - 类型：基础设施
 - 审核状态：已审核
@@ -2488,7 +2488,7 @@ GhostDesk 是 MCP 服务器和沙箱化虚拟桌面运行时，为 LLM 智能体
 
 基于 browser-use、可自行托管的常驻智能体平台，增加有界面浏览器、持久化配置文件、支持代理的路由、定时任务和事件触发器。
 
-- 目录页面：https://awesomecua.com/resources/github-gobii-ai-gobii-platform/
+- 目录页面：https://awesomecua.com/zh/resources/github-gobii-ai-gobii-platform/
 - 原始来源：https://github.com/gobii-ai/gobii-platform
 - 类型：基础设施
 - 审核状态：已审核
@@ -2522,7 +2522,7 @@ Release 2.31.0 dated 2026-08-11. The hosted product is at gobii.ai. Declared lic
 
 按需会话池管理器，为并发运行的 AI 网页智能体提供隔离的无头浏览器会话。
 
-- 目录页面：https://awesomecua.com/resources/github-vadym-iefremov-harborage/
+- 目录页面：https://awesomecua.com/zh/resources/github-vadym-iefremov-harborage/
 - 原始来源：https://github.com/vadym-iefremov/harborage
 - 类型：基础设施
 - 审核状态：已审核
@@ -2552,7 +2552,7 @@ Release 2.31.0 dated 2026-08-11. The hosted product is at gobii.ai. Declared lic
 
 HeroDesktop 是开源虚拟桌面沙箱，用于运行和观察 AI 计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-deathlegionteamlk-herodesktop/
+- 目录页面：https://awesomecua.com/zh/resources/github-deathlegionteamlk-herodesktop/
 - 原始来源：https://github.com/deathlegionteamlk/herodesktop
 - 类型：基础设施
 - 审核状态：已审核
@@ -2581,7 +2581,7 @@ HeroDesktop 是开源虚拟桌面沙箱，用于运行和观察 AI 计算机使�
 
 面向智能体的本地浏览器工作空间，通过 MCP 接入，支持隔离任务会话、可见的浏览器操作以及重新连接已有标签页。
 
-- 目录页面：https://awesomecua.com/resources/url-848e19da3bdf0aeb500c/
+- 目录页面：https://awesomecua.com/zh/resources/url-848e19da3bdf0aeb500c/
 - 原始来源：https://hronaut.dev/setup
 - 类型：基础设施
 - 审核状态：已审核
@@ -2614,7 +2614,7 @@ The guide supplies MCP configurations for several local agent clients. It says n
 
 面向编码智能体和计算机使用桌面智能体的容器镜像，兼容 Docker、Podman 和 Cella 沙箱。
 
-- 目录页面：https://awesomecua.com/resources/github-latere-ai-sandbox-images/
+- 目录页面：https://awesomecua.com/zh/resources/github-latere-ai-sandbox-images/
 - 原始来源：https://github.com/latere-ai/sandbox-images
 - 类型：基础设施
 - 审核状态：已审核
@@ -2644,7 +2644,7 @@ The guide supplies MCP configurations for several local agent clients. It says n
 
 用于本地计算机使用环境的虚拟机管理工具。
 
-- 目录页面：https://awesomecua.com/resources/github-trycua-lume/
+- 目录页面：https://awesomecua.com/zh/resources/github-trycua-lume/
 - 原始来源：https://github.com/trycua/lume
 - 类型：基础设施
 - 审核状态：已审核
@@ -2678,7 +2678,7 @@ Lume is a component of the Cua repository. The legacy repository URL now serves 
 
 基于 AndroidEnv 的 GUI 智能体基准构建与训练平台；任务定义文件根据屏幕文本、视图层级或日志事件生成指令、奖励和回合结束信号。
 
-- 目录页面：https://awesomecua.com/resources/github-x-lance-mobile-env/
+- 目录页面：https://awesomecua.com/zh/resources/github-x-lance-mobile-env/
 - 原始来源：https://github.com/X-LANCE/Mobile-Env
 - 类型：基础设施
 - 审核状态：已审核
@@ -2708,7 +2708,7 @@ Lume is a component of the Cua repository. The legacy repository URL now serves 
 
 提供以守护进程为核心的计算机使用基础功能，用于在 Modal 云沙箱中配置和控制 GUI 桌面。
 
-- 目录页面：https://awesomecua.com/resources/github-ashtonchew-modal-computer-use/
+- 目录页面：https://awesomecua.com/zh/resources/github-ashtonchew-modal-computer-use/
 - 原始来源：https://github.com/ashtonchew/modal-computer-use
 - 类型：基础设施
 - 审核状态：已审核
@@ -2738,7 +2738,7 @@ Lume is a component of the Cua repository. The legacy repository URL now serves 
 
 Nehemiah 按需创建配备浏览器和桌面环境的 Linux Firecracker 微型虚拟机，供 AI 智能体使用。
 
-- 目录页面：https://awesomecua.com/resources/github-boringcomputers-nehemiah/
+- 目录页面：https://awesomecua.com/zh/resources/github-boringcomputers-nehemiah/
 - 原始来源：https://github.com/boringcomputers/nehemiah
 - 类型：基础设施
 - 审核状态：已审核
@@ -2768,7 +2768,7 @@ Nehemiah 按需创建配备浏览器和桌面环境的 Linux Firecracker 微型�
 
 Neo Lab 是 macOS 计算机使用沙箱，可用于录制示范、重放技能和测试 GUI 自动化方案。
 
-- 目录页面：https://awesomecua.com/resources/github-belarusian-neo-lab/
+- 目录页面：https://awesomecua.com/zh/resources/github-belarusian-neo-lab/
 - 原始来源：https://github.com/belarusian/neo-lab
 - 类型：基础设施
 - 审核状态：已审核
@@ -2798,7 +2798,7 @@ Neo Lab 是 macOS 计算机使用沙箱，可用于录制示范、重放技能�
 
 托管 OSWorld 的 Ubuntu 虚拟机归档，供其 VirtualBox 提供程序在 x86 主机上下载并通过 VBoxManage 导入；仓库没有数据卡或许可声明。
 
-- 目录页面：https://awesomecua.com/resources/url-ce775111626bae220596/
+- 目录页面：https://awesomecua.com/zh/resources/url-ce775111626bae220596/
 - 原始来源：https://huggingface.co/datasets/xlangai/ubuntu_x86_virtualbox
 - 类型：基础设施
 - 审核状态：已审核
@@ -2833,7 +2833,7 @@ Adjacent: an environment image that the curated OSWorld benchmark boots when run
 
 托管 OSWorld 预构建的 Windows 10 虚拟机：含 VMware 和 QEMU qcow2 归档，供 OSWorld 的 VMware 和 Docker 提供程序首次运行 Windows 任务时下载。
 
-- 目录页面：https://awesomecua.com/resources/url-232a1698849e2fea425c/
+- 目录页面：https://awesomecua.com/zh/resources/url-232a1698849e2fea425c/
 - 原始来源：https://huggingface.co/datasets/xlangai/windows_osworld
 - 类型：基础设施
 - 审核状态：已审核
@@ -2872,7 +2872,7 @@ Adjacent: environment images that the curated OSWorld benchmark boots for its Wi
 
 Chromium 浏览器的原生 macOS 客户端；其智能体 Spaces 允许内置助手或外部智能体在用户授权后通过 DevTools Protocol 套接字控制窗口，用户可观看并接管。
 
-- 目录页面：https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/
+- 目录页面：https://awesomecua.com/zh/resources/github-phibrowser-phibrowser-mac/
 - 原始来源：https://github.com/phibrowser/phibrowser-mac
 - 类型：基础设施
 - 审核状态：已审核
@@ -2910,7 +2910,7 @@ This is the open macOS client (Swift, AppKit and SwiftUI). Building it requires 
 
 qdesk 是开源的 AI 智能体桌面沙箱，提供可通过 HTTP 控制的隔离 Linux 和 Chromium 环境。
 
-- 目录页面：https://awesomecua.com/resources/github-jackwangfeng-qdesk/
+- 目录页面：https://awesomecua.com/zh/resources/github-jackwangfeng-qdesk/
 - 原始来源：https://github.com/jackwangfeng/qdesk
 - 类型：基础设施
 - 审核状态：已审核
@@ -2940,7 +2940,7 @@ qdesk 是开源的 AI 智能体桌面沙箱，提供可通过 HTTP 控制的隔�
 
 创建隔离的本地虚拟计算机，让 AI 智能体操作私有桌面，而不触及主机会话。
 
-- 目录页面：https://awesomecua.com/resources/github-eldanring-qubicl/
+- 目录页面：https://awesomecua.com/zh/resources/github-eldanring-qubicl/
 - 原始来源：https://github.com/EldanRing/qubicl
 - 类型：基础设施
 - 审核状态：已审核
@@ -2970,7 +2970,7 @@ qdesk 是开源的 AI 智能体桌面沙箱，提供可通过 HTTP 控制的隔�
 
 QuickDesk 是面向 AI 的远程桌面客户端和主机，内置 MCP 服务器，用于传输屏幕画面和控制远程计算机。
 
-- 目录页面：https://awesomecua.com/resources/github-barry-ran-quickdesk/
+- 目录页面：https://awesomecua.com/zh/resources/github-barry-ran-quickdesk/
 - 原始来源：https://github.com/barry-ran/QuickDesk
 - 类型：基础设施
 - 审核状态：已审核
@@ -3000,7 +3000,7 @@ QuickDesk 是面向 AI 的远程桌面客户端和主机，内置 MCP 服务器�
 
 通过浏览器串流的 Docker Linux 桌面，供人类和 AI 智能体共用，并配有 Go MCP 计算机使用服务器。
 
-- 目录页面：https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/
+- 目录页面：https://awesomecua.com/zh/resources/github-jahrulnr-virtual-desktop/
 - 原始来源：https://github.com/jahrulnr/virtual-desktop
 - 类型：基础设施
 - 审核状态：已审核
@@ -3030,7 +3030,7 @@ QuickDesk 是面向 AI 的远程桌面客户端和主机，内置 MCP 服务器�
 
 将 macOS 计算机使用智能体隔离在单独的登录会话中，同时在主机屏幕上显示实时可见的智能体叠加层。
 
-- 目录页面：https://awesomecua.com/resources/github-kageroumado-rocuronium/
+- 目录页面：https://awesomecua.com/zh/resources/github-kageroumado-rocuronium/
 - 原始来源：https://github.com/kageroumado/rocuronium
 - 类型：基础设施
 - 审核状态：已审核
@@ -3060,7 +3060,7 @@ QuickDesk 是面向 AI 的远程桌面客户端和主机，内置 MCP 服务器�
 
 Sandbar 为计算机使用智能体配置隔离的云端 Ubuntu 桌面虚拟机，配备 OpenClaw 和 VNC 串流。
 
-- 目录页面：https://awesomecua.com/resources/github-jdrolls-sandbar-public/
+- 目录页面：https://awesomecua.com/zh/resources/github-jdrolls-sandbar-public/
 - 原始来源：https://github.com/jdrolls/sandbar-public
 - 类型：基础设施
 - 审核状态：已审核
@@ -3090,7 +3090,7 @@ Sandbar 为计算机使用智能体配置隔离的云端 Ubuntu 桌面虚拟机�
 
 Sandbox0 是面向 AI 智能体的开源云沙箱平台，提供持久化存储卷以及亚秒级 microVM 和容器恢复。
 
-- 目录页面：https://awesomecua.com/resources/github-sandbox0-ai-sandbox0/
+- 目录页面：https://awesomecua.com/zh/resources/github-sandbox0-ai-sandbox0/
 - 原始来源：https://github.com/sandbox0-ai/sandbox0
 - 类型：基础设施
 - 审核状态：已审核
@@ -3120,7 +3120,7 @@ Sandbox0 是面向 AI 智能体的开源云沙箱平台，提供持久化存储�
 
 向浏览器流式传输的协作式 Linux 桌面，供人和 AI 智能体共享工作区。
 
-- 目录页面：https://awesomecua.com/resources/github-sentineldesk-desktop/
+- 目录页面：https://awesomecua.com/zh/resources/github-sentineldesk-desktop/
 - 原始来源：https://github.com/sentineldesk/desktop
 - 类型：基础设施
 - 审核状态：已审核
@@ -3150,7 +3150,7 @@ Sandbox0 是面向 AI 智能体的开源云沙箱平台，提供持久化存储�
 
 为 AI 计算机使用智能体提供专用的虚拟 macOS 显示器，使其能操作真实应用，而无需接管用户的屏幕或光标。
 
-- 目录页面：https://awesomecua.com/resources/github-parthjadhav-spaceo/
+- 目录页面：https://awesomecua.com/zh/resources/github-parthjadhav-spaceo/
 - 原始来源：https://github.com/ParthJadhav/SpaceO
 - 类型：基础设施
 - 审核状态：已审核
@@ -3180,7 +3180,7 @@ Sandbox0 是面向 AI 智能体的开源云沙箱平台，提供持久化存储�
 
 按运行实例隔离的浏览器编排服务，将网页转换为带稳定元素引用的语义快照。
 
-- 目录页面：https://awesomecua.com/resources/github-tailorec-tailorec-browser-orch/
+- 目录页面：https://awesomecua.com/zh/resources/github-tailorec-tailorec-browser-orch/
 - 原始来源：https://github.com/Tailorec/tailorec-browser-orch
 - 类型：基础设施
 - 审核状态：已审核
@@ -3209,7 +3209,7 @@ Sandbox0 是面向 AI 智能体的开源云沙箱平台，提供持久化存储�
 
 自托管平台，为自主 AI 队友配置配有浏览器和终端的专用虚拟计算机。
 
-- 目录页面：https://awesomecua.com/resources/github-ezocomp118-source-twiko/
+- 目录页面：https://awesomecua.com/zh/resources/github-ezocomp118-source-twiko/
 - 原始来源：https://github.com/ezocomp118-source/twiko
 - 类型：基础设施
 - 审核状态：已审核
@@ -3239,7 +3239,7 @@ Sandbox0 是面向 AI 智能体的开源云沙箱平台，提供持久化存储�
 
 开源云端和本地沙箱平台，可在完整桌面和浏览器环境中运行 Claude Code、Codex 或 OpenCode。
 
-- 目录页面：https://awesomecua.com/resources/github-useagenthq-useagent/
+- 目录页面：https://awesomecua.com/zh/resources/github-useagenthq-useagent/
 - 原始来源：https://github.com/useagenthq/useagent
 - 类型：基础设施
 - 审核状态：已审核
@@ -3269,7 +3269,7 @@ Sandbox0 是面向 AI 智能体的开源云沙箱平台，提供持久化存储�
 
 基于 Electron/Chromium 的浏览器，为智能体提供可见运行环境；本地 MCP 服务器和内置助手将页面读取为带索引的元素，并执行点击、输入和导航，支持限定范围的审批、检查点与撤销。
 
-- 目录页面：https://awesomecua.com/resources/github-unmodeled-tyler-vessel-browser/
+- 目录页面：https://awesomecua.com/zh/resources/github-unmodeled-tyler-vessel-browser/
 - 原始来源：https://github.com/unmodeled-tyler/vessel-browser
 - 类型：基础设施
 - 审核状态：已审核

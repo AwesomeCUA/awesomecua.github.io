@@ -1,0 +1,50 @@
+# MMTB: Evaluating Terminal Agents on Multimedia-File Tasks
+
+MultiMedia-TerminalBench 评估使用终端工具处理音视频文件的智能体；Terminus-MM 测试框架加入多媒体感知，以研究可获取的证据如何改变可执行工作流和任务结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2605-10966/
+- English：https://awesomecua.com/resources/arxiv-2605-10966/index.md
+- 原始来源：https://arxiv.org/abs/2605.10966
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：评测、自动化、视频、工具集成
+- 证据核查日期：2026-10-17T12:31:19Z
+- ID：arxiv:2605.10966
+
+## 范围记录
+
+Reviewed against the complete retained official abstract. Adjacent computer-automation benchmark using terminal workflows, explicitly separated from graphical-interface control.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2605-10966/record.json
+
+## 作者
+
+Chiyeong Heo, Jaechang Kim, Junhyuk Kwon, Hoyoung Kim, Dongmin Park, Jonghyun Lee, Jungseul Ok
+
+## 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2605-10966/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2605-10966/citation.csl.json
+
+## arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2605.10966v1
+- 首次提交：2026-05-08T10:57:19Z
+- 版本更新日期：2026-05-08T10:57:19Z
+- 摘要 SHA-256：0bd75e6bf9d5a8185a2204cdd99d42f9d96c102f7297abcadb9f8425e9246349
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+## 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+## 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2604.03598%2C2604.04759%2C2604.05547%2C2604.06170%2C2604.07340%2C2604.10547%2C2604.10938%2C2604.11978%2C2604.12282%2C2604.13018%2C2604.13346%2C2604.13954%2C2604.15579%2C2604.15671%2C2604.15715%2C2604.16520%2C2604.18240%2C2604.18934%2C2604.19572%2C2604.19667%2C2604.19742%2C2604.20841%2C2604.20987%2C2604.22436%2C2604.23781%2C2604.24479%2C2604.26148%2C2604.27621%2C2604.27996%2C2604.28093%2C2604.28139%2C2604.28181%2C2605.00425%2C2605.01462%2C2605.02240%2C2605.03042%2C2605.03242%2C2605.04811%2C2605.05191%2C2605.05811%2C2605.06110%2C2605.07073%2C2605.07358%2C2605.08374%2C2605.08985%2C2605.10912%2C2605.10966%2C2605.11363%2C2605.11732%2C2605.11817&max_results=50（获取于 2026-10-17T12:31:19Z；SHA-256：05ec5d668ac75d3d7c5b71ea7d6e76a3fbf5ebeb742e0843db2329e5e41aa208）
+- https://export.arxiv.org/api/query?id_list=2604.03598%2C2604.04759%2C2604.05547%2C2604.06170%2C2604.07340%2C2604.10547%2C2604.10938%2C2604.11978%2C2604.12282%2C2604.13018%2C2604.13346%2C2604.13954%2C2604.15579%2C2604.15671%2C2604.15715%2C2604.16520%2C2604.18240%2C2604.18934%2C2604.19572%2C2604.19667%2C2604.19742%2C2604.20841%2C2604.20987%2C2604.22436%2C2604.23781%2C2604.24479%2C2604.26148%2C2604.27621%2C2604.27996%2C2604.28093%2C2604.28139%2C2604.28181%2C2605.00425%2C2605.01462%2C2605.02240%2C2605.03042%2C2605.03242%2C2605.04811%2C2605.05191%2C2605.05811%2C2605.06110%2C2605.07073%2C2605.07358%2C2605.08374%2C2605.08985%2C2605.10912%2C2605.10966%2C2605.11363%2C2605.11732%2C2605.11817&max_results=50（获取于 2026-10-17T12:31:19Z；SHA-256：05ec5d668ac75d3d7c5b71ea7d6e76a3fbf5ebeb742e0843db2329e5e41aa208）

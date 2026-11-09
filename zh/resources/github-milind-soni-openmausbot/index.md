@@ -1,0 +1,37 @@
+# OpenMausBot
+
+桌面聊天应用，其机器人可运行本地 Claude、Codex 或 Grok CLI，并各自通过 Cua Driver 使用云端 Linux 桌面、本地虚拟机、VPS 或宿主机，还内置浏览器和审批卡片。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-milind-soni-openmausbot/
+- English：https://awesomecua.com/resources/github-milind-soni-openmausbot/index.md
+- 原始来源：https://github.com/milind-soni/OpenMausBot
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS、Linux、网页
+- 主题：沙箱、人机协作、工具集成
+- 证据核查日期：2026-10-18T11:40:28Z
+- ID：github:milind-soni/openmausbot
+
+## 范围记录
+
+OpenMausBot ships no model: an Electron shell talks to a local harness server that runs the claude, codex and grok CLIs or other ACP engines and normalises their events. Host control uses the bundled Cua Driver and needs explicit opt-in; the README marks it supported on macOS, beta on Ubuntu Xorg and disabled on Wayland. Cloud computers come from the third-party Boat service and connected apps from Composio. The README says the project was formerly OpenGrokBot. Everything outside enterprise/ is Apache-2.0; enterprise/ is source-available under its own license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-milind-soni-openmausbot/record.json
+
+## 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+## 一手证据
+
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/README.md（获取于 2026-10-18T11:40:28Z；SHA-256：506bc30fecdebe7a024e7f694304c3dfecfce9c362a1b01ee9751a71faad888f）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/docs/computer-use-integration.md（获取于 2026-10-18T11:40:04Z；SHA-256：06789e95d4eca5cd14bdfe9be11bf4c1911c08b21890777d6b33b87912e801bc）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/apps/docs/content/docs/computers/index.mdx（获取于 2026-10-18T11:40:05Z；SHA-256：16765486dc0d3ab46f7c3d740cf1f1c64ed6c146923caba72a45f61ae49cc05a）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/third_party/cua-driver/README.md（获取于 2026-10-18T11:40:05Z；SHA-256：3462019dea5235431871a0c9c8f83352b9460d49c7694f8e45eb4177662934a8）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSE（获取于 2026-10-18T11:40:05Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSING.md（获取于 2026-10-18T11:40:05Z；SHA-256：e2741dbfc0f289c53b7a6bdbbce4ddca82155c5263ebd478ae19156975cc77b2）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE（获取于 2026-10-18T11:40:33Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）

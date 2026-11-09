@@ -1,0 +1,50 @@
+# MiMo-VL Technical Report
+
+报告 MiMo-VL-7B-SFT 和 MiMo-VL-7B-RL 两个通用视觉语言模型；其分阶段预训练与混合 RL 训练的评测包括 OSWorld-G 上的 GUI 元素定位。
+
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2506-03569/
+- English：https://awesomecua.com/resources/arxiv-2506-03569/index.md
+- 原始来源：https://arxiv.org/abs/2506.03569
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：GUI 定位、强化学习、评测
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2506.03569
+
+## 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI grounding is one application within a broader multimodal model report.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2506-03569/record.json
+
+## 作者
+
+Xiaomi LLM-Core Team, :, Zihao Yue, Zhenru Lin, Yifan Song, Weikun Wang, Shuhuai Ren, Shuhao Gu, Shicheng Li, Peidian Li, Liang Zhao, Lei Li, Kainan Bao, Hao Tian, Hailin Zhang, Gang Wang, Dawei Zhu, Cici, Chenhong He, Bowen Ye, Bowen Shen, Zihan Zhang, Zihan Jiang, Zhixian Zheng, Zhichao Song, Zhenbo Luo, Yue Yu, Yudong Wang, Yuanyuan Tian, Yu Tu, Yihan Yan, Yi Huang, Xu Wang, Xinzhe Xu, Xingchen Song, Xing Zhang, Xing Yong, Xin Zhang, Xiangwei Deng, Wenyu Yang, Wenhan Ma, Weiwei Lv, Weiji Zhuang, Wei Liu, Sirui Deng, Shuo Liu, Shimao Chen, Shihua Yu, Shaohui Liu, Shande Wang, Rui Ma, Qiantong Wang, Peng Wang, Nuo Chen, Menghang Zhu, Kangyang Zhou, Kang Zhou, Kai Fang, Jun Shi, Jinhao Dong, Jiebao Xiao, Jiaming Xu, Huaqiu Liu, Hongshen Xu, Heng Qu, Haochen Zhao, Hanglong Lv, Guoan Wang, Duo Zhang, Dong Zhang, Di Zhang, Chong Ma, Chang Liu, Can Cai, Bingquan Xia
+
+## 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2506-03569/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2506-03569/citation.csl.json
+
+## arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2506.03569v1
+- 首次提交：2025-06-04T04:32:54Z
+- 版本更新日期：2025-06-04T04:32:54Z
+- 摘要 SHA-256：dc758c8428d7265d34ff261790d97c979daf93599f76d3bfa7735603280ef742
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+## 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+## 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）

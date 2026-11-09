@@ -10,14 +10,14 @@ Reviews are AI-assisted inspections of primary sources. Code, data, weights and 
 
 ## How to choose
 
-| Product | Platform | Access | Pricing |
+| Product | Platform | License | Mentions |
 | --- | --- | --- | --- |
-| [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) | Web · Desktop · Cross-platform | — | — |
-| [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) | Web · Desktop · Cross-platform | — | — |
-| [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) | Web · Desktop · Cross-platform | — | — |
-| [Accio Work](https://awesomecua.com/resources/url-07f92766e53439739eab/) | Web | Publisher-managed | — |
-| [Ace](https://awesomecua.com/resources/url-7a35f44787f99834f13e/) | Desktop | — | — |
-| [agent-qa](https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/) | Web · Mobile · Cross-platform | — | — |
+| [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) | Web · Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE) | 1 |
+| [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) | Web · Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/LICENSE) | 1 |
+| [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/LICENSE) | 1 |
+| [Accio Work](https://awesomecua.com/resources/url-07f92766e53439739eab/) | Web | — | 0 |
+| [Ace](https://awesomecua.com/resources/url-7a35f44787f99834f13e/) | Desktop | — | 0 |
+| [agent-qa](https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/) | Web · Mobile · Cross-platform | — | 0 |
 
 ## Questions
 

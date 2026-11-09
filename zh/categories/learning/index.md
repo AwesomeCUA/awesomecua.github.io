@@ -45,7 +45,7 @@ HTML 页面：https://awesomecua.com/zh/categories/learning/ · [English](https:
 
 H.AI cookbook 提供 Holo 模型的部署指南与示例笔记，并介绍如何调用其网页导航和界面定位能力。
 
-- 目录页面：https://awesomecua.com/resources/github-hcompai-hai-cookbook/
+- 目录页面：https://awesomecua.com/zh/resources/github-hcompai-hai-cookbook/
 - 原始来源：https://github.com/hcompai/hai-cookbook
 - 类型：学习资源
 - 审核状态：已审核
@@ -79,7 +79,7 @@ The repository links to vLLM and SageMaker deployment guides and navigation and 
 
 Steel Cookbook 汇集了多种语言的浏览器自动化示例，涵盖浏览器库、基于截图的计算机使用模型及智能体框架。
 
-- 目录页面：https://awesomecua.com/resources/github-steel-dev-steel-cookbook/
+- 目录页面：https://awesomecua.com/zh/resources/github-steel-dev-steel-cookbook/
 - 原始来源：https://github.com/steel-dev/steel-cookbook
 - 类型：学习资源
 - 审核状态：已审核
@@ -113,7 +113,7 @@ The repository lists example directories and catalogs TypeScript, Python, Go and
 
 一份计算机图形界面操作领域的精选资料清单，收录桌面与网页智能体的演示、框架和论文。
 
-- 目录页面：https://awesomecua.com/resources/github-philfung-awesome-computer-use/
+- 目录页面：https://awesomecua.com/zh/resources/github-philfung-awesome-computer-use/
 - 原始来源：https://github.com/philfung/awesome-computer-use
 - 类型：学习资源
 - 审核状态：已审核
@@ -146,7 +146,7 @@ The README links to individual projects and papers and includes brief descriptio
 
 收录 46 个 Go 示例，展示如何用 chromedp 控制 Chrome，包括页面交互、截图、标签页和协议操作。
 
-- 目录页面：https://awesomecua.com/resources/github-chromedp-examples/
+- 目录页面：https://awesomecua.com/zh/resources/github-chromedp-examples/
 - 原始来源：https://github.com/chromedp/examples
 - 类型：学习资源
 - 审核状态：已审核
@@ -179,7 +179,7 @@ The README lists runnable programs and their arguments. It specifies Go 1.27 for
 
 这份精选阅读清单及附带报告梳理计算机使用研究，涵盖通过网页、桌面和移动界面操作的智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/
+- 目录页面：https://awesomecua.com/zh/resources/github-cdxeve-awesome-computer-use-agents/
 - 原始来源：https://github.com/cdxeve/awesome-computer-use-agents
 - 类型：学习资源
 - 审核状态：已审核
@@ -212,7 +212,7 @@ The repository contains a README reading list and a linked PDF overview report.
 
 TinyFish 网络智能体的示例应用与教程合集，涵盖网页获取、结构化搜索和多步骤浏览器自动化。
 
-- 目录页面：https://awesomecua.com/resources/github-tinyfish-io-tinyfish-cookbook/
+- 目录页面：https://awesomecua.com/zh/resources/github-tinyfish-io-tinyfish-cookbook/
 - 原始来源：https://github.com/tinyfish-io/tinyfish-cookbook
 - 类型：学习资源
 - 审核状态：已审核
@@ -246,7 +246,7 @@ The README describes Search, Fetch, Agent, and Browser endpoints and links to ex
 
 Visual Agents Workshop Series 通过三个专题课程及配套笔记本和资源，讲解 GUI 智能体研究、数据集准备与模型微调。
 
-- 目录页面：https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/
+- 目录页面：https://awesomecua.com/zh/resources/github-harpreetsahota204-visual-agents-workshop/
 - 原始来源：https://github.com/harpreetsahota204/visual_agents_workshop
 - 类型：学习资源
 - 审核状态：已审核
@@ -280,7 +280,7 @@ The repository lists session folders, workshop notebooks, video recordings, and 
 
 一份关于网络智能体的研究阅读清单，按开发、检索、规划、安全和基准测试等主题整理文献。
 
-- 目录页面：https://awesomecua.com/resources/github-saferl-lab-agentic-web/
+- 目录页面：https://awesomecua.com/zh/resources/github-saferl-lab-agentic-web/
 - 原始来源：https://github.com/SafeRL-Lab/agentic-web
 - 类型：学习资源
 - 审核状态：已审核
@@ -314,7 +314,7 @@ The repository contains a README and supporting documentation with categorized p
 
 代码示例和参考应用展示如何使用 Amazon Nova Act 构建浏览器工作流，并将 SDK 部署到 AWS 计算服务。
 
-- 目录页面：https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/
+- 目录页面：https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/
 - 原始来源：https://github.com/amazon-agi-labs/nova-act-samples
 - 类型：学习资源
 - 审核状态：已审核
@@ -347,7 +347,7 @@ The repository organizes AWS CDK deployment samples, lightweight SDK examples, a
 
 一份面向桌面和浏览器智能体的计算机操作工具精选清单，按产品生态和功能分类，并附有独立的项目目录。
 
-- 目录页面：https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/
+- 目录页面：https://awesomecua.com/zh/resources/github-hqhq1025-awesome-computer-use-ecosystem/
 - 原始来源：https://github.com/hqhq1025/awesome-computer-use-ecosystem
 - 类型：学习资源
 - 审核状态：已审核
@@ -380,7 +380,7 @@ The repository links to a JSON project catalog, a Chinese guide, and capability-
 
 GUI 智能体强化学习的精选资料列表，按学习方法、奖励与效率问题、数据集及训练环境整理相关研究。
 
-- 目录页面：https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/
+- 目录页面：https://awesomecua.com/zh/resources/github-steve2457-awesome-rl-gui-agents/
 - 原始来源：https://github.com/Steve2457/Awesome-RL-GUI-Agents
 - 类型：学习资源
 - 审核状态：已审核
@@ -414,7 +414,7 @@ The repository contains a bibliography and sections on offline, online, and hybr
 
 这套 Markdown 操作指南为通过 HID 控制桌面的智能体提供特定应用的菜单路径、快捷键和交互技巧。
 
-- 目录页面：https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/
+- 目录页面：https://awesomecua.com/zh/resources/github-tinqiao-oss-clawtouch-skills/
 - 原始来源：https://github.com/tinqiao-oss/clawtouch-skills
 - 类型：学习资源
 - 审核状态：已审核
@@ -448,7 +448,7 @@ The README lists guides for WPS Office, Feishu, DingTalk, text entry and grid UI
 
 这是一份动手实践教程，使用 Antigravity CLI、BrowserMCP 和 Playwright 智能体技能，借助附带的演示应用创建基于浏览器的界面测试。
 
-- 目录页面：https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/
+- 目录页面：https://awesomecua.com/zh/resources/github-derailed-dash-agentic-ui-testing/
 - 原始来源：https://github.com/derailed-dash/agentic-ui-testing
 - 类型：学习资源
 - 审核状态：已审核
@@ -481,7 +481,7 @@ The repository includes the codelab text and a React demo application. The instr
 
 一组使用 linux-use 自动操作 Linux 桌面应用和网站的操作指南，涵盖浏览器配置、无障碍接口常见问题、发帖流程及操作验证。
 
-- 目录页面：https://awesomecua.com/resources/github-javimosch-linux-use-recipes/
+- 目录页面：https://awesomecua.com/zh/resources/github-javimosch-linux-use-recipes/
 - 原始来源：https://github.com/javimosch/linux-use-recipes
 - 类型：学习资源
 - 审核状态：已审核
@@ -515,7 +515,7 @@ The repository contains a README and recipe files. The README declares the Unlic
 
 Midscene Examples 提供网页、Android、iOS 和桌面界面的 AI 自动化和测试示例，涵盖 YAML 工作流及 SDK 集成。
 
-- 目录页面：https://awesomecua.com/resources/github-web-infra-dev-midscene-example/
+- 目录页面：https://awesomecua.com/zh/resources/github-web-infra-dev-midscene-example/
 - 原始来源：https://github.com/web-infra-dev/midscene-example
 - 类型：学习资源
 - 审核状态：已审核
@@ -548,7 +548,7 @@ The README links to examples using Playwright, Puppeteer, Android, local desktop
 
 Open Operator 汇集计算机使用智能体资料，包括任务分类、基准概述和现有智能体系统的介绍。
 
-- 目录页面：https://awesomecua.com/resources/github-openhands-open-operator/
+- 目录页面：https://awesomecua.com/zh/resources/github-openhands-open-operator/
 - 原始来源：https://github.com/OpenHands/open-operator
 - 类型：学习资源
 - 审核状态：已审核
@@ -582,7 +582,7 @@ The repository contains benchmark pages and separate pages for open and closed s
 
 Plasmate Notebooks 通过 Jupyter 示例介绍面向智能体的浏览器引擎，涵盖页面结构、令牌量比较、批量提取和研究工作流。
 
-- 目录页面：https://awesomecua.com/resources/github-plasmate-labs-notebooks/
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-notebooks/
 - 原始来源：https://github.com/plasmate-labs/notebooks
 - 类型：学习资源
 - 审核状态：已审核
@@ -616,7 +616,7 @@ The README lists four notebooks and a quick-start command requiring Plasmate, Ju
 
 技术文章介绍一款 Android 界面智能体：规划与单步操作交替进行，检查屏幕变化，并通过专门路径处理文本编辑；文中报告了 AndroidWorld 测试结果。
 
-- 目录页面：https://awesomecua.com/resources/url-f8b67bde8c79e7934a2a/
+- 目录页面：https://awesomecua.com/zh/resources/url-f8b67bde8c79e7934a2a/
 - 原始来源：https://droidrun.ai/benchmark/method
 - 类型：学习资源
 - 审核状态：已审核
@@ -649,7 +649,7 @@ The article lists click, long press, typing, system button, swipe, app opening, 
 
 面向开发者的实践代码实验课程，使用 Antigravity CLI 和 Browser Use 构建自动化 UI 测试套件。
 
-- 目录页面：https://awesomecua.com/resources/github-a-bhimava-agentic-ui-testing/
+- 目录页面：https://awesomecua.com/zh/resources/github-a-bhimava-agentic-ui-testing/
 - 原始来源：https://github.com/a-bhimava/agentic-ui-testing
 - 类型：学习资源
 - 审核状态：已审核
@@ -678,7 +678,7 @@ The article lists click, long press, typing, system button, swipe, app opening, 
 
 用于构建桌面 AI 和计算机使用智能体应用的五章架构蓝图及比较性工程指南。
 
-- 目录页面：https://awesomecua.com/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/
+- 目录页面：https://awesomecua.com/zh/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/
 - 原始来源：https://github.com/Men-Zer/ai-agent-desktop-engineering-blueprint
 - 类型：学习资源
 - 审核状态：已审核
@@ -707,7 +707,7 @@ The article lists click, long press, typing, system button, swipe, app opening, 
 
 这份资源列表汇集桌面与移动端 GUI 控制智能体，并提供智能体和数据集概览，与配套综述相互链接。
 
-- 目录页面：https://awesomecua.com/resources/github-sagerpascal-agents-for-computer-use/
+- 目录页面：https://awesomecua.com/zh/resources/github-sagerpascal-agents-for-computer-use/
 - 原始来源：https://github.com/sagerpascal/agents-for-computer-use
 - 类型：学习资源
 - 审核状态：已审核
@@ -740,7 +740,7 @@ The README links the companion survey at arXiv:2501.16150 and lists agent entrie
 
 精选的开源 AI 智能体平台、数字同事及浏览器和桌面执行测试框架目录。
 
-- 目录页面：https://awesomecua.com/resources/github-agenta-ai-awesome-ai-agent-platforms/
+- 目录页面：https://awesomecua.com/zh/resources/github-agenta-ai-awesome-ai-agent-platforms/
 - 原始来源：https://github.com/Agenta-AI/awesome-ai-agent-platforms
 - 类型：学习资源
 - 审核状态：已审核
@@ -769,7 +769,7 @@ The README links the companion survey at arXiv:2501.16150 and lists agent entrie
 
 附有证据链接的计算机使用演示、评测和智能体工作流目录，并提供一手来源凭据。
 
-- 目录页面：https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/
+- 目录页面：https://awesomecua.com/zh/resources/github-archorfight-awesome-gpt-6-astra/
 - 原始来源：https://github.com/archorfight/awesome-gpt-6-astra
 - 类型：学习资源
 - 审核状态：已审核
@@ -798,7 +798,7 @@ The README links the companion survey at arXiv:2501.16150 and lists agent entrie
 
 按攻击与防御两个维度整理的双语精选阅读清单，收录 GUI、计算机使用和浏览器智能体安全论文。
 
-- 目录页面：https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/
+- 目录页面：https://awesomecua.com/zh/resources/github-yuxuan2003-awesome-gui-agent-security/
 - 原始来源：https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security
 - 类型：学习资源
 - 审核状态：已审核
@@ -828,7 +828,7 @@ The README links the companion survey at arXiv:2501.16150 and lists agent entrie
 
 汇集多模态编程和 UI 验证智能体相关论文、评测基准及工具的综合研究图谱。
 
-- 目录页面：https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/
+- 目录页面：https://awesomecua.com/zh/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/
 - 原始来源：https://github.com/jiangjin1999/awesome-multimodal-agentic-coding
 - 类型：学习资源
 - 审核状态：已审核
@@ -858,7 +858,7 @@ The README links the companion survey at arXiv:2501.16150 and lists agent entrie
 
 浏览器智能体课程，包含结构化网页信息提取和多步浏览器交互的实例课程，随后介绍 AgentQ 搜索与自我纠错的概念。
 
-- 目录页面：https://awesomecua.com/resources/url-aa693ca3e8948623f31e/
+- 目录页面：https://awesomecua.com/zh/resources/url-aa693ca3e8948623f31e/
 - 原始来源：https://www.deeplearning.ai/courses/building-ai-browser-agents
 - 类型：学习资源
 - 审核状态：已审核
@@ -893,7 +893,7 @@ Review covers the public syllabus and complete published transcripts of the simp
 
 开源的计算机使用技能、提示词模式及专业桌面与网页工作流合集。
 
-- 目录页面：https://awesomecua.com/resources/github-sagozen-computeruse-expert-skills/
+- 目录页面：https://awesomecua.com/zh/resources/github-sagozen-computeruse-expert-skills/
 - 原始来源：https://github.com/sagozen/computeruse-expert-skills
 - 类型：学习资源
 - 审核状态：已审核
@@ -923,7 +923,7 @@ Review covers the public syllabus and complete published transcripts of the simp
 
 介绍 FinalRun 安卓操作智能体方法的图文资料，附任务步骤与录像，展示其观察屏幕、规划操作及检查状态的过程。
 
-- 目录页面：https://awesomecua.com/resources/github-final-run-finalrun-android-world-benchmark/
+- 目录页面：https://awesomecua.com/zh/resources/github-final-run-finalrun-android-world-benchmark/
 - 原始来源：https://github.com/final-run/finalrun-android-world-benchmark
 - 类型：学习资源
 - 审核状态：已审核
@@ -956,7 +956,7 @@ The repository lists a README, images, and recordings. The README links demonstr
 
 共 24 章的双语 Python 工程课程，从零构建 WorkBuddy 风格的桌面 AI 智能体测试框架。
 
-- 目录页面：https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/
+- 目录页面：https://awesomecua.com/zh/resources/github-adongwanai-learn-workbuddy/
 - 原始来源：https://github.com/adongwanai/learn-workbuddy
 - 类型：学习资源
 - 审核状态：已审核
@@ -986,7 +986,7 @@ The repository lists a README, images, and recordings. The README links demonstr
 
 这份阅读清单汇集了 45 篇 NeurIPS 2025 计算机使用智能体论文，按基准测试、安全、界面定位和智能体架构等主题介绍。
 
-- 目录页面：https://awesomecua.com/resources/url-5f211a7eba35415ea382/
+- 目录页面：https://awesomecua.com/zh/resources/url-5f211a7eba35415ea382/
 - 原始来源：https://cua.ai/blog/neurips-2025-cua-papers
 - 类型：学习资源
 - 审核状态：已审核
@@ -1019,7 +1019,7 @@ The article includes paper summaries, selected findings and poster links.
 
 Apple 的 OS X 指南介绍辅助功能客户端如何检查应用的元素层级、读取控件属性、执行操作并接收界面变化通知。
 
-- 目录页面：https://awesomecua.com/resources/url-30901b60f8d142805b77/
+- 目录页面：https://awesomecua.com/zh/resources/url-30901b60f8d142805b77/
 - 原始来源：https://developer.apple.com/library/archive/documentation/Accessibility/Conceptual/AccessibilityMacOSX/OSXAXmodel.html
 - 类型：学习资源
 - 审核状态：已审核
@@ -1052,7 +1052,7 @@ The archived guide covers the NSAccessibility protocol, accessible element hiera
 
 带版本管理的教程，使用 Selenium/Helium 浏览器工具、截图回调和网页导航示例任务构建视觉引导的 CodeAgent。
 
-- 目录页面：https://awesomecua.com/resources/url-5857c840372512cfe3fc/
+- 目录页面：https://awesomecua.com/zh/resources/url-5857c840372512cfe3fc/
 - 原始来源：https://huggingface.co/docs/smolagents/examples/web_browser
 - 类型：学习资源
 - 审核状态：已审核

@@ -1,0 +1,50 @@
+# TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents
+
+TUA-Bench 评估终端操作智能体完成文档编辑、邮件、网页信息检索和专业软件工作流等通用数字任务的能力。任务在真实终端中运行，采用确定性初始化和基于执行的评分。
+
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2606-28480/
+- English：https://awesomecua.com/resources/arxiv-2606-28480/index.md
+- 原始来源：https://arxiv.org/abs/2606.28480
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：评测、自动化
+- 证据核查日期：2026-10-17T12:31:28Z
+- ID：arxiv:2606.28480
+
+## 范围记录
+
+Reviewed against the complete retained official abstract. Adjacent general computer-operation benchmark evaluated through a terminal.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2606-28480/record.json
+
+## 作者
+
+Shoufa Chen, Luyuan Wang, Xuan Yang, Zhiheng Liu, Yuren Cong, Yuanfeng Ji, Feiyan Zhou, Xiaohui Zhang, Fanny Yang, Belinda Zeng
+
+## 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2606-28480/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2606-28480/citation.csl.json
+
+## arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2606.28480v1
+- 首次提交：2026-06-26T17:59:51Z
+- 版本更新日期：2026-06-26T17:59:51Z
+- 摘要 SHA-256：6164c42541650e5120adc881b19524cb3b268f08d6eb77fbe91d8c1a02823786
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+## 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+## 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2606.05646%2C2606.05670%2C2606.06556%2C2606.06891%2C2606.07367%2C2606.07594%2C2606.07682%2C2606.07723%2C2606.07867%2C2606.10394%2C2606.10525%2C2606.11290%2C2606.12203%2C2606.12736%2C2606.13040%2C2606.13368%2C2606.13578%2C2606.13669%2C2606.13802%2C2606.13898%2C2606.14397%2C2606.15057%2C2606.15300%2C2606.15441%2C2606.17162%2C2606.18425%2C2606.19336%2C2606.19409%2C2606.19704%2C2606.20950%2C2606.21033%2C2606.21565%2C2606.23521%2C2606.23654%2C2606.24775%2C2606.25084%2C2606.26080%2C2606.27406%2C2606.27634%2C2606.28430%2C2606.28480%2C2606.29955%2C2606.30616%2C2607.00692%2C2607.01084%2C2607.02032%2C2607.02448%2C2607.02490%2C2607.02577%2C2607.02911&max_results=50（获取于 2026-10-17T12:31:28Z；SHA-256：7eaa9a5430d3a45049e612a117da345c1daafc54277a35a7cf56b42fbb1e8618）
+- https://export.arxiv.org/api/query?id_list=2606.05646%2C2606.05670%2C2606.06556%2C2606.06891%2C2606.07367%2C2606.07594%2C2606.07682%2C2606.07723%2C2606.07867%2C2606.10394%2C2606.10525%2C2606.11290%2C2606.12203%2C2606.12736%2C2606.13040%2C2606.13368%2C2606.13578%2C2606.13669%2C2606.13802%2C2606.13898%2C2606.14397%2C2606.15057%2C2606.15300%2C2606.15441%2C2606.17162%2C2606.18425%2C2606.19336%2C2606.19409%2C2606.19704%2C2606.20950%2C2606.21033%2C2606.21565%2C2606.23521%2C2606.23654%2C2606.24775%2C2606.25084%2C2606.26080%2C2606.27406%2C2606.27634%2C2606.28430%2C2606.28480%2C2606.29955%2C2606.30616%2C2607.00692%2C2607.01084%2C2607.02032%2C2607.02448%2C2607.02490%2C2607.02577%2C2607.02911&max_results=50（获取于 2026-10-17T12:31:28Z；SHA-256：7eaa9a5430d3a45049e612a117da345c1daafc54277a35a7cf56b42fbb1e8618）

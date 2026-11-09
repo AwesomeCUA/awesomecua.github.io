@@ -1,0 +1,50 @@
+# OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models
+
+OS-Oracle 合成 GUI 评判模型样本，先通过监督学习训练操作前评判模型，再进行保持一致性的 GRPO 训练。论文提出覆盖移动端、网页和桌面的 OS-Critic Bench，并在 OSWorld 和 AndroidWorld 中测试评判模型辅助的智能体。
+
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2512-16295/
+- English：https://awesomecua.com/resources/arxiv-2512-16295/index.md
+- 原始来源：https://arxiv.org/abs/2512.16295
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面、Android
+- 主题：奖励模型、强化学习、数据生成、评测
+- 证据核查日期：2026-10-16T06:31:52Z
+- ID：arxiv:2512.16295
+
+## 范围记录
+
+The annotation was reviewed against the complete retained primary abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2512-16295/record.json
+
+## 作者
+
+Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Qiushi Sun, Zhaoyang Liu, Zhoumianze Liu, Yu Qiao, Xiangyu Yue, Zun Wang, Zichen Ding
+
+## 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2512-16295/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2512-16295/citation.csl.json
+
+## arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2512.16295v1
+- 首次提交：2025-12-18T08:29:50Z
+- 版本更新日期：2025-12-18T08:29:50Z
+- 摘要 SHA-256：67a1bd40b117b34e5fb994b1c2c93cd285714097d1bc9730baeeaba6c31a7b8a
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+## 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+## 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2510.01670%2C2510.04673%2C2510.10073%2C2510.12200%2C2510.14621%2C2510.16051%2C2510.17790%2C2510.18488%2C2510.18596%2C2510.19488%2C2510.19949%2C2510.20286%2C2510.22009%2C2510.24168%2C2510.24411%2C2510.24563%2C2511.00810%2C2511.04307%2C2511.07332%2C2511.09157%2C2511.12254%2C2511.13087%2C2511.15567%2C2511.16590%2C2511.19663%2C2511.20597%2C2511.20766%2C2512.08529%2C2512.10371%2C2512.10962%2C2512.12634%2C2512.14014%2C2512.15431%2C2512.16295%2C2512.16501%2C2512.19432%2C2512.22894%2C2512.24965%2C2601.02399%2C2601.06031%2C2601.07181%2C2601.07262%2C2601.07779%2C2601.08406%2C2601.09923%2C2601.11044%2C2601.11868%2C2601.12822%2C2601.13060%2C2601.15876&max_results=50（获取于 2026-10-16T06:31:52Z；SHA-256：8623b0ff7ef9d2e8ba484cd67359e7b8817e78e9ca22b8f27432c2533f5b90a0）
+- https://export.arxiv.org/api/query?id_list=2510.01670%2C2510.04673%2C2510.10073%2C2510.12200%2C2510.14621%2C2510.16051%2C2510.17790%2C2510.18488%2C2510.18596%2C2510.19488%2C2510.19949%2C2510.20286%2C2510.22009%2C2510.24168%2C2510.24411%2C2510.24563%2C2511.00810%2C2511.04307%2C2511.07332%2C2511.09157%2C2511.12254%2C2511.13087%2C2511.15567%2C2511.16590%2C2511.19663%2C2511.20597%2C2511.20766%2C2512.08529%2C2512.10371%2C2512.10962%2C2512.12634%2C2512.14014%2C2512.15431%2C2512.16295%2C2512.16501%2C2512.19432%2C2512.22894%2C2512.24965%2C2601.02399%2C2601.06031%2C2601.07181%2C2601.07262%2C2601.07779%2C2601.08406%2C2601.09923%2C2601.11044%2C2601.11868%2C2601.12822%2C2601.13060%2C2601.15876&max_results=50（获取于 2026-10-16T06:31:52Z；SHA-256：8623b0ff7ef9d2e8ba484cd67359e7b8817e78e9ca22b8f27432c2533f5b90a0）

@@ -14,7 +14,7 @@ Reviews are AI-assisted inspections of primary sources. Code, data, weights and 
 | --- | --- | --- | --- | --- |
 | [UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) | Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/LICENSE) | [arXiv 2501.12326](https://awesomecua.com/resources/arxiv-2501-12326/) | 25 |
 | [SeeClick](https://awesomecua.com/resources/github-njucckevin-seeclick/) | Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/LICENSE) | [arXiv 2401.10935](https://awesomecua.com/resources/arxiv-2401-10935/) | 18 |
-| [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/) | — | [apache-2.0 (weights)](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) | — | 11 |
+| [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/) | — | [Apache-2.0 (weights)](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) | — | 11 |
 | [Aguvis](https://awesomecua.com/resources/github-xlang-ai-aguvis/) | Cross-platform | — | [arXiv 2412.04454](https://awesomecua.com/resources/arxiv-2412-04454/) | 8 |
 | [GUI-Actor](https://awesomecua.com/resources/github-microsoft-gui-actor/) | Cross-platform | [MIT (code)](https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/LICENSE) | [arXiv 2506.03143](https://awesomecua.com/resources/arxiv-2506-03143/) | 7 |
 | [Holo4 27B BF16](https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/) | Web · Desktop · Cross-platform | [CC-BY-NC-4.0 (weights)](https://huggingface.co/Hcompany/Holo4-27B/raw/4de03cfeee1d930b616bfd4817570293f29ad8b9/README.md) | — | 7 |

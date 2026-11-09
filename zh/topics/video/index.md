@@ -6,184 +6,184 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
 
 ## 论文与综述
 
-- [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://awesomecua.com/resources/arxiv-2611-03126/) — 2026-11-02
+- [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://awesomecua.com/zh/resources/arxiv-2611-03126/) — 2026-11-02
   Introduces CUA-Master, a computer-use training framework that mines workflows from instructional videos and turns them into synthesized tasks and trajectories.
-- [Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents](https://awesomecua.com/resources/arxiv-2609-27461/) — 2026-09-23
+- [Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents](https://awesomecua.com/zh/resources/arxiv-2609-27461/) — 2026-09-23
   MVCAP-Bench tests live browser CAPTCHAs whose foreground meaning emerges through motion against dynamic backgrounds. A foreground-only control separates temporal camouflage difficulty from answer format and browser interaction.
-- [GameWAM: A World Action Model for Video Games](https://awesomecua.com/resources/arxiv-2608-26200/) — 2026-08-25
+- [GameWAM: A World Action Model for Video Games](https://awesomecua.com/zh/resources/arxiv-2608-26200/) — 2026-08-25
   Introduces GameWAM, a model for native game play and GUI control that predicts future visuals and keyboard-mouse actions from synchronized gameplay and GUI trajectories.
-- [DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching](https://awesomecua.com/resources/arxiv-2606-31980/) — 2026-06-30
+- [DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching](https://awesomecua.com/zh/resources/arxiv-2606-31980/) — 2026-06-30
   DigitalCoach records expert–novice software coaching conversations aligned with screen and input events. Automated and interactive evaluations examine how model coaches differ from humans in explanation, error diagnosis and visual grounding when helping a learner operate software.
-- [Agent-Computer Observation Interfaces Enable Dynamic Computer Use](https://awesomecua.com/resources/arxiv-2606-29472/) — 2026-06-28
+- [Agent-Computer Observation Interfaces Enable Dynamic Computer Use](https://awesomecua.com/zh/resources/arxiv-2606-29472/) — 2026-06-28
   The Agent-Computer Observation Interface separates continuous perception from discrete computer actions using captured frames, audio transcription and persistent visual narration. DynaCU-Bench tests these components on dynamic browser tasks and static controls, with model-specific ablations showing that additional observations can also hurt.
-- [Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction](https://awesomecua.com/resources/arxiv-2606-29445/) — 2026-06-28
+- [Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction](https://awesomecua.com/zh/resources/arxiv-2606-29445/) — 2026-06-28
   Introduces VG-GUIBench to evaluate GUI agents following video tutorials, and TASKER to select task-relevant keyframes for video-guided tasks and VideoQA.
-- [Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms](https://awesomecua.com/resources/arxiv-2606-04701/) — 2026-06-03
+- [Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms](https://awesomecua.com/zh/resources/arxiv-2606-04701/) — 2026-06-03
   LivingScreen evaluates agents in a browser-based short-video environment where observing content consumes time and affects subsequent actions. Its task suite scores accuracy together with information efficiency to diagnose over- and under-observation on continuously changing screens.
-- [Demo2Tutorial: From Human Experience to Multimodal Software Tutorials](https://awesomecua.com/resources/arxiv-2606-03951/) — 2026-06-02
+- [Demo2Tutorial: From Human Experience to Multimodal Software Tutorials](https://awesomecua.com/zh/resources/arxiv-2606-03951/) — 2026-06-02
   Introduces Demo2Tutorial, which turns recorded software interactions into multimodal tutorials with task graphs and reports benefits for GUI-agent planning.
-- [Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining](https://awesomecua.com/resources/arxiv-2605-14747/) — 2026-05-14
+- [Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining](https://awesomecua.com/zh/resources/arxiv-2605-14747/) — 2026-05-14
   Video2GUI extracts GUI interaction trajectories from tutorial videos to build WildGUI, a pretraining dataset spanning applications and websites.
-- [MMTB: Evaluating Terminal Agents on Multimedia-File Tasks](https://awesomecua.com/resources/arxiv-2605-10966/) — 2026-05-08
+- [MMTB: Evaluating Terminal Agents on Multimedia-File Tasks](https://awesomecua.com/zh/resources/arxiv-2605-10966/) — 2026-05-08
   MultiMedia-TerminalBench evaluates agents that use terminal tools to work with audio and video files. The Terminus-MM harness adds multimedia perception to study how accessible evidence changes executable workflows and task outcomes.
-- [Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations](https://awesomecua.com/resources/arxiv-2604-26148/) — 2026-04-28
+- [Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations](https://awesomecua.com/zh/resources/arxiv-2604-26148/) — 2026-04-28
   AniMINT evaluates how VLMs perceive, explain and interpret UI animations using densely annotated videos. The study distinguishes basic motion recognition from higher-level animation meaning and probes motion, context and perceptual cues.
-- [Benchmarking and Improving GUI Agents in High-Dynamic Environments](https://awesomecua.com/resources/arxiv-2604-25380/) — 2026-04-28
+- [Benchmarking and Improving GUI Agents in High-Dynamic Environments](https://awesomecua.com/zh/resources/arxiv-2604-25380/) — 2026-04-28
   Introduces DynamicGUIBench for applications whose interfaces change between actions, together with DynamicUI, an agent that processes screen recordings. The agent selects informative frames, filters inconsistent action reasoning and uses trajectory reflection for subsequent decisions.
-- [OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments](https://awesomecua.com/resources/arxiv-2605-18758/) — 2026-04-03
+- [OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments](https://awesomecua.com/zh/resources/arxiv-2605-18758/) — 2026-04-03
   OmniGUI evaluates step-level action prediction from interleaved smartphone screenshots, synchronous audio and video. Expert demonstrations carry multimodal-dependency annotations, and initial baselines use native multimodal models as agent proxies to study temporal and audio-related failures.
-- [MolmoPoint: Better Pointing for VLMs with Grounding Tokens](https://awesomecua.com/resources/arxiv-2603-28069/) — 2026-03-30
+- [MolmoPoint: Better Pointing for VLMs with Grounding Tokens](https://awesomecua.com/zh/resources/arxiv-2603-28069/) — 2026-03-30
   MolmoPoint replaces textual coordinate generation with pointing tokens that select visual regions and refine them through subpatches. The general image/video method includes GUI-pointing evaluation on ScreenSpotPro alongside other visual grounding tasks.
-- [GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://awesomecua.com/resources/arxiv-2603-26266/) — 2026-03-27
+- [GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://awesomecua.com/zh/resources/arxiv-2603-26266/) — 2026-03-27
   GUIDE retrieves relevant software tutorials through subtitle-based video search, then infers planning and grounding knowledge from consecutive annotated keyframes. It inserts that knowledge into existing GUI-agent modules without parameter updates and evaluates the plug-in on OSWorld.
-- [GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](https://awesomecua.com/resources/arxiv-2603-25864/) — 2026-03-26
+- [GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](https://awesomecua.com/zh/resources/arxiv-2603-25864/) — 2026-03-26
   GUIDE evaluates whether models can recognize a user’s behavior, infer intent and decide when to offer help during open-ended software tasks. It uses narrated screen recordings of novice users and studies the effect of additional user context on these assistance decisions.
-- [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2603-24440/) — 2026-03-25
+- [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://awesomecua.com/zh/resources/arxiv-2603-24440/) — 2026-03-25
   CUA-Suite combines continuous expert desktop demonstrations in VideoCUA with the UI-Vision evaluation benchmark and GroundCUA grounding data. Screen recordings, cursor traces and layered annotations support study of temporal behavior and professional software workflows.
-- [Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos](https://awesomecua.com/resources/arxiv-2603-22529/) — 2026-03-23
+- [Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos](https://awesomecua.com/zh/resources/arxiv-2603-22529/) — 2026-03-23
   Ego2Web pairs first-person videos with online tasks that require agents to connect the user’s physical context to web actions. It also evaluates an automatic task judge against human judgments and analyzes failures in video understanding and web execution.
-- [Video-Based Reward Modeling for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2603-10178/) — 2026-03-10
+- [Video-Based Reward Modeling for Computer-Use Agents](https://awesomecua.com/zh/resources/arxiv-2603-10178/) — 2026-03-10
   Builds ExeVR-53k from execution-video, instruction and reward triplets, including negative instructions with step annotations. A reward model uses spatiotemporal token pruning to judge task completion from the instruction and execution keyframes.
-- [Learning from Online Videos at Inference Time for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2511-04137/) — 2025-11-06
+- [Learning from Online Videos at Inference Time for Computer-Use Agents](https://awesomecua.com/zh/resources/arxiv-2511-04137/) — 2025-11-06
   This work retrieves online video tutorials and converts them into structured GUI action demonstrations with short objectives. A two-stage selection process supplies a relevant local trajectory as in-context guidance at each execution step.
-- [VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos](https://awesomecua.com/resources/arxiv-2510-19488/) — 2025-10-22
+- [VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos](https://awesomecua.com/zh/resources/arxiv-2510-19488/) — 2025-10-22
   Extracts structured GUI actions from screen-recorded tutorials using inverse dynamics, then uses the inferred trajectories for computer-use training.
-- [Watch and Learn: Learning to Use Computers from Online Videos](https://awesomecua.com/resources/arxiv-2510-04673/) — 2025-10-06
+- [Watch and Learn: Learning to Use Computers from Online Videos](https://awesomecua.com/zh/resources/arxiv-2510-04673/) — 2025-10-06
   Introduces Watch & Learn (W&L), which converts human computer-use videos into UI action trajectories by predicting actions between consecutive screen states.
-- [MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://awesomecua.com/resources/arxiv-2508-13186/) — 2025-08-14
+- [MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://awesomecua.com/zh/resources/arxiv-2508-13186/) — 2025-08-14
   Introduces MM-BrowseComp, a benchmark for browsing agents that must use evidence from web images and videos to answer multimodal search questions.
-- [VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video](https://awesomecua.com/resources/arxiv-2505-24838/) — 2025-05-30
+- [VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video](https://awesomecua.com/zh/resources/arxiv-2505-24838/) — 2025-05-30
   Introduces synthetic CAD interaction videos, a model for learning interface actions from video, and evaluation tasks for spatial and long-horizon reasoning.
-- [Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents](https://awesomecua.com/resources/arxiv-2505-12632/) — 2025-05-19
+- [Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents](https://awesomecua.com/zh/resources/arxiv-2505-12632/) — 2025-05-19
   Introduces MONDAY and an automated pipeline that extracts mobile-navigation training data from instructional videos across operating-system platforms.
-- [TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents](https://awesomecua.com/resources/arxiv-2504-12679/) — 2025-04-17
+- [TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents](https://awesomecua.com/zh/resources/arxiv-2504-12679/) — 2025-04-17
   TongUI converts multimodal online tutorials, including videos and articles, into GUI-agent trajectories. Its GUI-Net dataset contains 143,000 trajectories spanning five operating systems and more than 200 applications, and supports fine-tuning for grounding and navigation.
-- [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://awesomecua.com/resources/arxiv-2503-17709/) — 2025-03-22
+- [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://awesomecua.com/zh/resources/arxiv-2503-17709/) — 2025-03-22
   Introduces GUI-Xplore exploration videos and downstream tasks, with an agent that combines action-aware modeling and graph-based environment reasoning.
-- [BEARCUBS: A benchmark for computer-using web agents](https://awesomecua.com/resources/arxiv-2503-07919/) — 2025-03-10
+- [BEARCUBS: A benchmark for computer-using web agents](https://awesomecua.com/zh/resources/arxiv-2503-07919/) — 2025-03-10
   BEARCUBS provides 111 live-web information-seeking questions with short answers and human-validated browsing trajectories. Its tasks require multimodal computer interaction, including video understanding and navigation of interactive 3D content.
-- [Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation](https://awesomecua.com/resources/arxiv-2502-17110/) — 2025-02-24
+- [Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation](https://awesomecua.com/zh/resources/arxiv-2502-17110/) — 2025-02-24
   Extracts operational guidance from video for mobile task execution and introduces Mobile-Knowledge to evaluate the contribution of external knowledge.
-- [Magma: A Foundation Model for Multimodal AI Agents](https://awesomecua.com/resources/arxiv-2502-13130/) — 2025-02-18
+- [Magma: A Foundation Model for Multimodal AI Agents](https://awesomecua.com/zh/resources/arxiv-2502-13130/) — 2025-02-18
   Introduces Magma, a multimodal agent model trained with labels for clickable GUI elements and video motion traces, and evaluated on UI navigation and robot tasks.
-- [UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design](https://awesomecua.com/resources/arxiv-2502-12561/) — 2025-02-18
+- [UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design](https://awesomecua.com/zh/resources/arxiv-2502-12561/) — 2025-02-18
   Introduces UXAgent, which uses simulated users and a browser connector to test website usability and present their actions, responses, and recordings to UX researchers.
-- [VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks](https://awesomecua.com/resources/arxiv-2410-19100/) — 2024-10-24
+- [VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks](https://awesomecua.com/zh/resources/arxiv-2410-19100/) — 2024-10-24
   Evaluates whether web agents can retain procedural skills and factual information from long video tutorials and use them during tasks.
-- [GUI Action Narrator: Where and When Did That Action Take Place?](https://awesomecua.com/resources/arxiv-2406-13719/) — 2024-06-19
+- [GUI Action Narrator: Where and When Did That Action Take Place?](https://awesomecua.com/zh/resources/arxiv-2406-13719/) — 2024-06-19
   Introduces Act2Cap and a cursor-guided method for describing GUI actions from video, with temporal and spatial localization challenges.
-- [WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks](https://awesomecua.com/resources/arxiv-2406-13264/) — 2024-06-19
+- [WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks](https://awesomecua.com/zh/resources/arxiv-2406-13264/) — 2024-06-19
   Introduces WONDERBREAD, a benchmark pairing human WebArena workflow demonstrations with screen recordings, action logs, and written procedures. Six evaluation tasks cover documentation, knowledge transfer, and process improvement beyond end-to-end execution.
-- [GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding](https://awesomecua.com/resources/arxiv-2406-10819/) — 2024-06-16
+- [GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding](https://awesomecua.com/zh/resources/arxiv-2406-10819/) — 2024-06-16
   Introduces video-based GUI questions and annotations for studying temporal interface understanding across varied interaction settings.
-- [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://awesomecua.com/resources/arxiv-2406-10227/) — 2024-06-14
+- [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://awesomecua.com/zh/resources/arxiv-2406-10227/) — 2024-06-14
   Evaluates GUI automation from instructional videos at separate levels of high-level planning, action narration, and primitive execution.
-- [AgentStudio: A Toolkit for Building General Virtual Agents](https://awesomecua.com/resources/arxiv-2403-17918/) — 2024-03-26
+- [AgentStudio: A Toolkit for Building General Virtual Agents](https://awesomecua.com/zh/resources/arxiv-2403-17918/) — 2024-03-26
   AgentStudio combines an interactive GUI/API environment with tools for creating tasks, annotating interface elements, and labeling actions in videos. Its online suite and GroundUI, IDMBench, and CriticBench datasets examine interaction, grounding, learning from video, and success detection.
-- [Computer User Interface Understanding. A New Dataset and a Learning Framework](https://awesomecua.com/resources/arxiv-2403-10170/) — 2024-03-15
+- [Computer User Interface Understanding. A New Dataset and a Learning Framework](https://awesomecua.com/zh/resources/arxiv-2403-10170/) — 2024-03-15
   Introduces desktop interaction videos and a framework combining synthetic examples with hierarchical contrastive learning for interface classification.
-- [AXNav: Replaying Accessibility Tests from Natural Language](https://awesomecua.com/resources/arxiv-2310-02424/) — 2023-10-03
+- [AXNav: Replaying Accessibility Tests from Natural Language](https://awesomecua.com/zh/resources/arxiv-2310-02424/) — 2023-10-03
   Introduces an LLM and pixel-based UI system that executes natural-language accessibility tests, records navigable videos and flags potential interface issues.
 
 ## 评测基准
 
-- [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/) — Date not recorded
+- [GuideBench](https://awesomecua.com/zh/resources/url-37b4f525e6d7a56a9967/) — Date not recorded
   Released data for the GUIDE benchmark: annotated segments of narrated novice screen recordings in 10 applications, for predicting user behavior state, short-term intent and whether and how to help.
-- [VG-GUI-Bench](https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/) — Date not recorded
+- [VG-GUI-Bench](https://awesomecua.com/zh/resources/url-3e3ca34dbdaf3190465c/) — Date not recorded
   A benchmark for predicting mobile GUI actions from tutorial videos, prior actions, and the current screen. It releases step annotations, videos, and reference frames.
-- [VideoGUI](https://awesomecua.com/resources/github-showlab-videogui/) — Date not recorded
+- [VideoGUI](https://awesomecua.com/zh/resources/github-showlab-videogui/) — Date not recorded
   Benchmark for desktop GUI tasks derived from instructional videos.
-- [VideoWebArena](https://awesomecua.com/resources/github-ljang0-videowebarena/) — Date not recorded
+- [VideoWebArena](https://awesomecua.com/zh/resources/github-ljang0-videowebarena/) — Date not recorded
   VideoWebArena evaluates web agents that use video tutorials to complete website tasks. Its released benchmark includes task configurations, environments, and an evaluation pipeline.
-- [WONDERBREAD](https://awesomecua.com/resources/github-hazyresearch-wonderbread/) — Date not recorded
+- [WONDERBREAD](https://awesomecua.com/zh/resources/github-hazyresearch-wonderbread/) — Date not recorded
   An offline benchmark of workflow documentation, quality assessment and knowledge transfer using human web-navigation demonstrations, action traces and written procedures.
 
 ## 数据集
 
-- [AgentTrek](https://awesomecua.com/resources/github-xlang-ai-agenttrek/) — Date not recorded
+- [AgentTrek](https://awesomecua.com/zh/resources/github-xlang-ai-agenttrek/) — Date not recorded
   Synthesizes browser-agent trajectories by replaying web tutorials as guidance, releasing the trajectory data with multimodal grounding and reasoning and an AgentTrek-32B agent.
-- [Computer Use Large (markov-ai)](https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/) — Date not recorded
+- [Computer Use Large (markov-ai)](https://awesomecua.com/zh/resources/url-f00b2ed65c517295a6cc/) — Date not recorded
   48,478 trimmed, audio-free screen-recording videos (about 12,300 hours) of AutoCAD, Blender, Excel, Photoshop, Salesforce and VS Code use, gathered from the internet, with duration metadata and no action labels.
-- [GUI-Action Narrator](https://awesomecua.com/resources/github-showlab-gui-action-narrator/) — Date not recorded
+- [GUI-Action Narrator](https://awesomecua.com/zh/resources/github-showlab-gui-action-narrator/) — Date not recorded
   Action narration resources for GUI interaction trajectories.
-- [GUI-World](https://awesomecua.com/resources/github-dongping-chen-gui-world/) — Date not recorded
+- [GUI-World](https://awesomecua.com/zh/resources/github-dongping-chen-gui-world/) — Date not recorded
   GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
-- [GUI-World data](https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/) — Date not recorded
+- [GUI-World data](https://awesomecua.com/zh/resources/url-40ce19527f25bfa3bd63/) — Date not recorded
   Hub release of GUI-World: GUI screen-recording videos from six scenarios (Android, iOS, website, software, multi-app and XR) with train and benchmark annotation JSONL for GUI-oriented video question answering.
-- [GUI-Xplore](https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/) — Date not recorded
+- [GUI-Xplore](https://awesomecua.com/zh/resources/url-f56dbd8bfac8b0545e07/) — Date not recorded
   Per-app Android exploration videos with screenshot and action sequences, view hierarchies and question-answer pairs for five tasks, from app overview and page analysis to action recall and sequence verification.
-- [James4Ever0/the_frozen_forest](https://awesomecua.com/resources/url-ede673f7e6f369eae600/) — Date not recorded
+- [James4Ever0/the_frozen_forest](https://awesomecua.com/zh/resources/url-ede673f7e6f369eae600/) — Date not recorded
   A dataset archive of screen recordings paired with keyboard and mouse events. Timestamp files align video frames with recorded input actions.
-- [MONDAY](https://awesomecua.com/resources/github-runamu-monday/) — Date not recorded
+- [MONDAY](https://awesomecua.com/zh/resources/github-runamu-monday/) — Date not recorded
   Cross-platform mobile GUI trajectory dataset derived from instructional videos, with released data-processing helpers and example evaluation code for Android and iOS data.
-- [MONDAY annotations](https://awesomecua.com/resources/url-570654ff67ecefa2b955/) — Date not recorded
+- [MONDAY annotations](https://awesomecua.com/zh/resources/url-570654ff67ecefa2b955/) — Date not recorded
   Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
-- [OneJev-Data](https://awesomecua.com/resources/url-f2e2030eaee4250d995d/) — Date not recorded
+- [OneJev-Data](https://awesomecua.com/zh/resources/url-f2e2030eaee4250d995d/) — Date not recorded
   OneJev-Data releases 94,707 question-and-answer training rows spanning GUI-agent runs, screens, images, video and text in Parquet files.
-- [PSAI computer-use dataset](https://awesomecua.com/resources/url-10a75e1b7b975b3617ae/) — Date not recorded
+- [PSAI computer-use dataset](https://awesomecua.com/zh/resources/url-10a75e1b7b975b3617ae/) — Date not recorded
   Human computer-use recordings for 3,167 browser and desktop tasks, each with a screen video, input events and reasoning steps, plus screenshots or DOM snapshots for part of the tasks.
-- [VideoCAD data](https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/) — Date not recorded
+- [VideoCAD data](https://awesomecua.com/zh/resources/url-2b5dead3172c0b70da7e/) — Date not recorded
   CAD screen recordings paired with action logs and target model images for studying precise interface control and long-horizon visual imitation.
-- [VideoCUA](https://awesomecua.com/resources/url-78adf6919bdbce42bc24/) — Date not recorded
+- [VideoCUA](https://awesomecua.com/zh/resources/url-78adf6919bdbce42bc24/) — Date not recorded
   Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordings with millisecond-timestamped mouse and keyboard action logs for about 10K tasks in 87 applications.
-- [WildGUI](https://awesomecua.com/resources/url-daf52475338f385b9310/) — Date not recorded
+- [WildGUI](https://awesomecua.com/zh/resources/url-daf52475338f385b9310/) — Date not recorded
   WildGUI release from Video2GUI: per-task JSONL trajectories mined from Internet tutorial videos, with instructions, plans and grounded actions on web, desktop and mobile, plus screenshot shards for parts 1-15.
-- [WildGUI Screenshots (parts 16-19)](https://awesomecua.com/resources/url-348f31b5b339403ec26f/) — Date not recorded
+- [WildGUI Screenshots (parts 16-19)](https://awesomecua.com/zh/resources/url-348f31b5b339403ec26f/) — Date not recorded
   Companion Hub repository holding the WildGUI screenshot tar shards for parts 16-19; the matching trajectory annotations and the other parts' frames are in the main WildGUI repository.
-- [WorkDemo-350](https://awesomecua.com/resources/url-243ab00712ba19cc2089/) — Date not recorded
+- [WorkDemo-350](https://awesomecua.com/zh/resources/url-243ab00712ba19cc2089/) — Date not recorded
   Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.
-- [WorldGUI-Bench](https://awesomecua.com/resources/url-b540fe81c57cedb1f556/) — Date not recorded
+- [WorldGUI-Bench](https://awesomecua.com/zh/resources/url-b540fe81c57cedb1f556/) — Date not recorded
   A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
 
 ## 模型
 
-- [CogVLM2](https://awesomecua.com/resources/github-thudm-cogvlm2/) — Date not recorded
+- [CogVLM2](https://awesomecua.com/zh/resources/github-thudm-cogvlm2/) — Date not recorded
   CogVLM2 releases high-resolution image and video vision-language models supporting visual grounding, document reading, and GUI understanding.
-- [CombatVLA](https://awesomecua.com/resources/github-chenvoid-combatvla/) — Date not recorded
+- [CombatVLA](https://awesomecua.com/zh/resources/github-chenvoid-combatvla/) — Date not recorded
   CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.
-- [GUI-Vid](https://awesomecua.com/resources/url-579b1c0ceac633eeb328/) — Date not recorded
+- [GUI-Vid](https://awesomecua.com/zh/resources/url-579b1c0ceac633eeb328/) — Date not recorded
   GUI-Vid is a released video language model retrained on GUI-World for understanding graphical interfaces in video.
-- [InternVL](https://awesomecua.com/resources/github-opengvlab-internvl/) — Date not recorded
+- [InternVL](https://awesomecua.com/zh/resources/github-opengvlab-internvl/) — Date not recorded
   Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.
-- [Magma-8B](https://awesomecua.com/resources/url-d3247ff0ff9a1f6bc247/) — Date not recorded
+- [Magma-8B](https://awesomecua.com/zh/resources/url-d3247ff0ff9a1f6bc247/) — Date not recorded
   Magma-8B is a released multimodal agent checkpoint whose card shows UI navigation tasks alongside robot manipulation and describes training with video data.
-- [Qwen3-VL / Qwen2.5-VL](https://awesomecua.com/resources/github-qwenlm-qwen3-vl/) — Date not recorded
+- [Qwen3-VL / Qwen2.5-VL](https://awesomecua.com/zh/resources/github-qwenlm-qwen3-vl/) — Date not recorded
   Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
-- [ShowUI-Narrator](https://awesomecua.com/resources/url-6b9389a144cbe70c894d/) — Date not recorded
+- [ShowUI-Narrator](https://awesomecua.com/zh/resources/url-6b9389a144cbe70c894d/) — Date not recorded
   A released 2B model for narrating user actions in GUI screenshots and video, with a pipeline that detects the cursor and processes cropped frames.
 
 ## 工程与产业
 
-- [AnimaWatch](https://awesomecua.com/resources/github-rishitank-animawatch/) — Date not recorded
+- [AnimaWatch](https://awesomecua.com/zh/resources/github-rishitank-animawatch/) — Date not recorded
   FastMCP server that records webpage animations and uses vision models to detect frame drops, jank, and visual layout artifacts.
-- [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/resources/github-19pine-ai-aoi/) — Date not recorded
+- [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/zh/resources/github-19pine-ai-aoi/) — Date not recorded
   AOI provides an adaptive video and audio perception layer for computer-use agents alongside the DynaCU-Bench dynamic GUI benchmark.
-- [clickcast](https://awesomecua.com/resources/github-alexkay28-clickcast/) — Date not recorded
+- [clickcast](https://awesomecua.com/zh/resources/github-alexkay28-clickcast/) — Date not recorded
   Playwright browser automation, screenshot, and GIF/MP4/WebP session-recording toolkit and MCP server for AI agents.
-- [DJCLIPZ Agent Controller](https://awesomecua.com/resources/github-form-u-la-djclipz-agent-controller/) — Date not recorded
+- [DJCLIPZ Agent Controller](https://awesomecua.com/zh/resources/github-form-u-la-djclipz-agent-controller/) — Date not recorded
   Starter kit and controller for driving the DJCLIPZ browser media application programmatically from AI agents.
-- [FluidGPT](https://awesomecua.com/resources/url-0c69fd920263b8a72a72/) — Date not recorded
+- [FluidGPT](https://awesomecua.com/zh/resources/url-0c69fd920263b8a72a72/) — Date not recorded
   Android agent product presented through recorded AndroidWorld runs. Fluiz reports completion of 116 tasks across 20 apps through screen interaction.
-- [MergeProof](https://awesomecua.com/resources/github-bukacdan-mergeproof/) — Date not recorded
+- [MergeProof](https://awesomecua.com/zh/resources/github-bukacdan-mergeproof/) — Date not recorded
   Installable Agent Skill that records live browser verification demos and attaches them to pull requests.
-- [openadapt-capture](https://awesomecua.com/resources/github-openadaptai-openadapt-capture/) — Date not recorded
+- [openadapt-capture](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-capture/) — Date not recorded
   A desktop recorder for GUI demonstrations that pairs mouse and keyboard actions with screen frames and stores sessions for later inspection in Python.
-- [Pagecast MCP](https://awesomecua.com/resources/github-mcpware-pagecast/) — Date not recorded
+- [Pagecast MCP](https://awesomecua.com/zh/resources/github-mcpware-pagecast/) — Date not recorded
   Playwright and FFmpeg Model Context Protocol server that records browser agent interactions as GIFs or MP4 videos.
-- [Product Demo Video Skill](https://awesomecua.com/resources/github-afnanksalal-product-demo-video-skill/) — Date not recorded
+- [Product Demo Video Skill](https://awesomecua.com/zh/resources/github-afnanksalal-product-demo-video-skill/) — Date not recorded
   Codex and Claude Agent Skill that drives live web products in a browser to record truth-linked walkthrough demo videos.
-- [screencast-desktop](https://awesomecua.com/resources/github-jhamidun-screencast-desktop/) — Date not recorded
+- [screencast-desktop](https://awesomecua.com/zh/resources/github-jhamidun-screencast-desktop/) — Date not recorded
   Claude Code plugin where an agent drives a Windows desktop application and records the session as a narrated screencast.
-- [Sensory-Grounding MCP](https://awesomecua.com/resources/github-luclinocruz-lucross-sensory-grounding-mcp/) — Date not recorded
+- [Sensory-Grounding MCP](https://awesomecua.com/zh/resources/github-luclinocruz-lucross-sensory-grounding-mcp/) — Date not recorded
   Closed-loop visual, audio, and video sensory grounding MCP server for verifying UI state in coding and computer-use agents.
-- [VG-GUI-TASKER](https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/) — Date not recorded
+- [VG-GUI-TASKER](https://awesomecua.com/zh/resources/github-vg-gui-tasker-vg-gui-tasker/) — Date not recorded
   VG-GUI-TASKER extracts informative keyframes from instructional demonstration videos to guide multimodal GUI agents.
-- [Video2GUI](https://awesomecua.com/resources/github-weiminxiong-video2gui/) — Date not recorded
+- [Video2GUI](https://awesomecua.com/zh/resources/github-weiminxiong-video2gui/) — Date not recorded
   Video2GUI synthesizes large-scale GUI interaction trajectories from unlabeled screen-recording videos via inverse dynamics and VLM annotation.
-- [webreel](https://awesomecua.com/resources/github-vercel-labs-webreel/) — Date not recorded
+- [webreel](https://awesomecua.com/zh/resources/github-vercel-labs-webreel/) — Date not recorded
   webreel drives a Chrome browser through JSON-defined actions and records the resulting interaction as video with cursor and keystroke overlays.
 
 ## 学习资源
 
-- [Finalrun Agentic Approach](https://awesomecua.com/resources/github-final-run-finalrun-android-world-benchmark/) — Date not recorded
+- [Finalrun Agentic Approach](https://awesomecua.com/zh/resources/github-final-run-finalrun-android-world-benchmark/) — Date not recorded
   Illustrated account of FinalRun's Android agent approach, with task walkthroughs and recordings showing screen observation, action planning, and state checks.

@@ -1,0 +1,29 @@
+# Self-reflection — computer-use research, page 3
+
+HTML page: https://awesomecua.com/topics/self-reflection/page/3/
+
+Full list: https://awesomecua.com/topics/self-reflection/index.md
+
+- [Pactora](https://awesomecua.com/resources/github-mrnetwork0001-pactora/)
+- [PC-Agent (X-PLUG component)](https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/)
+- [Q-Reflector](https://awesomecua.com/resources/github-pockyitachi-q-reflector/)
+- [QAgent](https://awesomecua.com/resources/github-rishabhcli-qagent/)
+- [RCI Agent](https://awesomecua.com/resources/github-posgnu-rci-agent/)
+- [Roubao](https://awesomecua.com/resources/github-turbo1123-roubao/)
+- [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/)
+- [Self-Healing Browser Agent](https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/)
+- [Self-MAP](https://awesomecua.com/resources/github-magicgh-self-map/)
+- [Seven-Layer Web Agent & Benchmark](https://awesomecua.com/resources/github-xyyojl-web-agent/)
+- [SOLO](https://awesomecua.com/resources/github-wzq975-solo/)
+- [StatePilot](https://awesomecua.com/resources/github-newsbruno-statepilot/)
+- [Svate](https://awesomecua.com/resources/github-jieao-re-svate/)
+- [Tencent AI LAB - Self-Improving Agent](https://awesomecua.com/resources/github-tencent-selfevolvingagent/)
+- [Third Eye](https://awesomecua.com/resources/github-slastrina-third-eye/)
+- [Tongyi UI Agent API](https://awesomecua.com/resources/url-ce0af37931cd5aa20233/)
+- [Tsaagan](https://awesomecua.com/resources/github-michaelolmos-tsaagan/)
+- [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/)
+- [UI-Voyager](https://awesomecua.com/resources/github-ui-voyager-ui-voyager/)
+- [V-Droid](https://awesomecua.com/resources/github-v-droid-agent-v-droid/)
+- [VLAA-GUI](https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/)
+- [WebEvolver code component](https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/)
+- [Zhaozuo (照做)](https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/)

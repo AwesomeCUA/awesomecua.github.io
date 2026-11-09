@@ -10,12 +10,12 @@ HTML 页面：https://awesomecua.com/zh/categories/survey/ · [English](https://
 
 | 综述 | 日期 | 平台 | 主题 |
 | --- | --- | --- | --- |
-| [A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://awesomecua.com/resources/arxiv-2501-16150/) | 2025-01-27 | 跨平台 | 综述 |
-| [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/) | 2025-03-30 | 网页 | 综述, 网页导航 |
-| [GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2412-13501/) | 2024-12-18 | 跨平台 | 综述 |
-| [Large Language Model-Brained GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2411-18279/) | 2024-11-27 | 跨平台 | 综述 |
-| [A Survey on (M)LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2504-13865/) | 2025-03-27 | 跨平台 | 综述 |
-| [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://awesomecua.com/resources/arxiv-2505-10924/) | 2025-05-16 | 跨平台 | 综述, 安全与防护 |
+| [A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://awesomecua.com/resources/arxiv-2501-16150/) | 2025-01-27 | 跨平台 | — |
+| [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/) | 2025-03-30 | 网页 | 网页导航, 安全与防护 |
+| [GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2412-13501/) | 2024-12-18 | 跨平台 | — |
+| [Large Language Model-Brained GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2411-18279/) | 2024-11-27 | 跨平台 | — |
+| [A Survey on (M)LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2504-13865/) | 2025-03-27 | 跨平台 | — |
+| [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://awesomecua.com/resources/arxiv-2505-10924/) | 2025-05-16 | 跨平台 | 安全与防护 |
 
 ## 常见问题
 
@@ -41,7 +41,7 @@ HTML 页面：https://awesomecua.com/zh/categories/survey/ · [English](https://
 
 按操作领域、观察与操作模态及智能体设计分类，综述 87 个计算机使用智能体和 33 个数据集。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2501-16150/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2501-16150/
 - 原始来源：https://arxiv.org/abs/2501.16150
 - 类型：综述
 - 审核状态：已审核
@@ -89,7 +89,7 @@ Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan E
 
 从架构、训练方法和可信性方面综述基于基础模型的网页智能体，梳理其根据用户指令完成浏览器任务的研究，并指出后续发展方向。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2503-23350/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2503-23350/
 - 原始来源：https://arxiv.org/abs/2503.23350
 - 类型：综述
 - 审核状态：已审核
@@ -141,7 +141,7 @@ Liangbo Ning, Ziran Liang, Zhuohang Jiang, Haohao Qu, Yujuan Ding, Wenqi Fan, Xi
 
 梳理 GUI 智能体的基准、评估指标、架构和训练方法，并提出统一的感知、推理、规划与执行框架。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2412-13501/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2412-13501/
 - 原始来源：https://arxiv.org/abs/2412.13501
 - 类型：综述
 - 审核状态：已审核
@@ -207,7 +207,7 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 
 综述按自然语言指令跨网页、移动端和桌面界面执行任务的 LLM 驱动 GUI 智能体，梳理学术研究和产业进展。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2411-18279/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2411-18279/
 - 原始来源：https://arxiv.org/abs/2411.18279
 - 类型：综述
 - 审核状态：已审核
@@ -255,7 +255,7 @@ Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, Liqun Li, Si Qin, Yu Kang, Mingh
 
 从感知、探索、规划和交互 4 个组成部分及其评估方法，分析基于 LLM 的 GUI 智能体。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2504-13865/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2504-13865/
 - 原始来源：https://arxiv.org/abs/2504.13865
 - 类型：综述
 - 审核状态：已审核
@@ -303,7 +303,7 @@ Fei Tang, Haolei Xu, Hang Zhang, Siqi Chen, Xingyu Wu, Yongliang Shen, Wenqi Zha
 
 系统梳理计算机使用智能体面临的安全威胁，并对威胁和防御策略进行分类。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2505-10924/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2505-10924/
 - 原始来源：https://arxiv.org/abs/2505.10924
 - 类型：综述
 - 审核状态：已审核
@@ -351,7 +351,7 @@ Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun
 
 这篇综述从架构、获取、部署和安全角度梳理智能体技能，包括其在计算机使用场景和 GUI 定位中的作用，并提出技能部署的权限与生命周期治理框架。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2602-12430/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2602-12430/
 - 原始来源：https://arxiv.org/abs/2602.12430
 - 类型：综述
 - 审核状态：已审核
@@ -403,7 +403,7 @@ Renjun Xu, Yang Yan
 
 综述基于(M)LLM 的 GUI 智能体，从数据集与基准、带分类体系的统一智能体框架，以及商业应用等方面组织内容。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2411-04890/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2411-04890/
 - 原始来源：https://arxiv.org/abs/2411.04890
 - 类型：综述
 - 审核状态：已审核
@@ -451,7 +451,7 @@ Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuh
 
 综述 LLM 驱动的手机 GUI 智能体，并按智能体框架、基于提示和训练的建模方法、数据集与基准进行分类。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2504-19838/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2504-19838/
 - 原始来源：https://arxiv.org/abs/2504.19838
 - 类型：综述
 - 审核状态：已审核
@@ -499,7 +499,7 @@ Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Liang Liu, Yaxuan Guo, Han Xiao, Wei
 
 综述通过操作系统界面操作计算机和手机的智能体，涵盖组件、能力、基础模型、框架和基准。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2508-04482/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2508-04482/
 - 原始来源：https://arxiv.org/abs/2508.04482
 - 类型：综述
 - 审核状态：已审核
@@ -565,7 +565,7 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 
 这篇综述从架构和生命周期两个视角梳理浏览器、桌面和移动应用中计算机使用智能体的可靠性与安全性，分析故障与控制措施。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2605-07110/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2605-07110/
 - 原始来源：https://arxiv.org/abs/2605.07110
 - 类型：综述
 - 审核状态：已审核
@@ -617,7 +617,7 @@ Zejian Chen, Zhanyuan Liu, Chaozhuo Li, Mengxiang Han, Songyang Liu, Litian Zhan
 
 将 GUI 智能体的可信性问题归结为执行落差，回顾感知、推理和交互环节中的失效、攻击与防御。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2503-23434/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2503-23434/
 - 原始来源：https://arxiv.org/abs/2503.23434
 - 类型：综述
 - 审核状态：已审核
@@ -665,7 +665,7 @@ Yucheng Shi, Wenhao Yu, Jingyuan Huang, Wenlin Yao, Wenhu Chen, Ninghao Liu
 
 这项文献计量研究梳理 1990 至 2020 年的自动化 GUI 测试研究，分析发文增长、引文、合作关系及移动端测试趋势。
 
-- 目录页面：https://awesomecua.com/resources/url-24a139a7910431441e39/
+- 目录页面：https://awesomecua.com/zh/resources/url-24a139a7910431441e39/
 - 原始来源：https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34
 - 类型：综述
 - 审核状态：已审核
@@ -726,7 +726,7 @@ Olivia Rodríguez-Valdés, Tanja E. J. Vos, Pekka Aho, Beatriz Marín
 
 综述基于 LLM 的 GUI 智能体基准，按元素定位与问答、多步导航、开放世界环境三个任务层级比较数据集、环境和指标，并指出评估中的待解决问题。
 
-- 目录页面：https://awesomecua.com/resources/url-e1842006eb7b4745da03/
+- 目录页面：https://awesomecua.com/zh/resources/url-e1842006eb7b4745da03/
 - 原始来源：https://doi.org/10.36227/techrxiv.176591818.87526814/v1
 - 类型：综述
 - 审核状态：已审核
@@ -785,7 +785,7 @@ Yihong Chen, Shuai Wang, Yaqing Wang, Quanming Yao
 
 将 GUI 任务形式化为马尔可夫决策过程，并梳理智能体训练从提示、监督微调到强化学习的演进。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2504-20464/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2504-20464/
 - 原始来源：https://arxiv.org/abs/2504.20464
 - 类型：综述
 - 审核状态：已审核
@@ -833,7 +833,7 @@ Jiahao Li, Kaer Huang
 
 按 6 个生命周期阶段梳理智能体持久记忆的安全风险与防御措施，并提出 5 项可验证的治理基本机制。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2604-16548/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2604-16548/
 - 原始来源：https://arxiv.org/abs/2604.16548
 - 类型：综述
 - 审核状态：已审核
@@ -886,7 +886,7 @@ Zehao Lin, Xixuan Hao, Renyu Fu, Shaobo Cui, Kai Chen, Chunyu Li, Zhiyu Li, Feiy
 
 综述移动应用的自动化功能性 GUI 测试技术，依据 25 项研究比较各类方法的有效性、效率与实用性。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-1812-11470/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-1812-11470/
 - 原始来源：https://arxiv.org/abs/1812.11470
 - 类型：综述
 - 审核状态：已审核
@@ -938,7 +938,7 @@ Yauhen Leanidavich Arnatovich, Lipo Wang
 
 综述自主使用工具和界面的智能体中，模块化技能的架构、技能生命周期及安全风险。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2608-29596/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2608-29596/
 - 原始来源：https://arxiv.org/abs/2608.29596
 - 类型：综述
 - 审核状态：已审核
@@ -991,7 +991,7 @@ Sanket Badhe, Deep Shah, Priyanka Tiwari, Nehal Kathrotia
 
 提出语言智能体的感知—推理—行动概念框架及 12 种潜在攻击场景，其中包括假设性的网页导航攻击。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2402-10196/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2402-10196/
 - 原始来源：https://arxiv.org/abs/2402.10196
 - 类型：综述
 - 审核状态：已审核
@@ -1044,7 +1044,7 @@ Lingbo Mo, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
 
 综述 LLM 智能体的架构、运行环境与评估，涵盖网页导航和原生计算机使用，也涉及其他智能体领域。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2601-12560/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2601-12560/
 - 原始来源：https://arxiv.org/abs/2601.12560
 - 类型：综述
 - 审核状态：已审核
@@ -1096,7 +1096,7 @@ Arunkumar V, Gangadharan G. R., Rajkumar Buyya
 
 这篇综述按预测能力和环境规律梳理智能体世界模型，其中数字环境涵盖网页和 GUI 智能体。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2604-22748/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2604-22748/
 - 原始来源：https://arxiv.org/abs/2604.22748
 - 类型：综述
 - 审核状态：已审核
@@ -1148,7 +1148,7 @@ Meng Chu, Xuan Billy Zhang, Kevin Qinghong Lin, Lingdong Kong, Jize Zhang, Teng 
 
 综述模型内生的智能体方法及 RL 在学习型规划、工具使用和记忆中的作用，并将 GUI 智能体与深度研究智能体列为应用方向。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2510-16720/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2510-16720/
 - 原始来源：https://arxiv.org/abs/2510.16720
 - 类型：综述
 - 审核状态：已审核
@@ -1200,7 +1200,7 @@ Jitao Sang, Jinlin Xiao, Jiarun Han, Jilin Chen, Xiaoyi Chen, Shuyu Wei, Yongjie
 
 从任务成功率以外的角度综述 GUI 智能体的效率，涵盖观测、上下文与记忆、操作，以及规划器或运行时开销。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2609-02309/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2609-02309/
 - 原始来源：https://arxiv.org/abs/2609.02309
 - 类型：综述
 - 审核状态：已审核
@@ -1248,7 +1248,7 @@ Bizhe Bai, Jiakang Yuan, Hongming Wu, Xinyue Wang, Jie Ren, Siyao Chen, Yuchen Y
 
 综述多模态移动智能体，梳理基于提示和基于训练的方法，以及移动任务执行的评估基准、支撑技术和开放挑战。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2411-02006/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2411-02006/
 - 原始来源：https://arxiv.org/abs/2411.02006
 - 类型：综述
 - 审核状态：已审核
@@ -1300,7 +1300,7 @@ Biao Wu, Yanda Li, Zhiwei Zhang, Yunchao Wei, Meng Fang, Ling Chen
 
 一篇机器人流程自动化与智能流程自动化综述梳理机器学习和 AI 在业务流程中的应用，并指出开放的研究挑战。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2007-13257/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2007-13257/
 - 原始来源：https://arxiv.org/abs/2007.13257
 - 类型：综述
 - 审核状态：已审核
@@ -1370,7 +1370,7 @@ Tathagata Chakraborti, Vatche Isahagian, Rania Khalaf, Yasaman Khazaeni, Vinod M
 
 综述浏览器、应用和操作系统中的虚拟智能体，按任务类型、观察与操作空间、模型策略及评估方法梳理研究，并讨论屏幕交互、键鼠与触控控制、迁移及长序列决策挑战。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2411-10943/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2411-10943/
 - 原始来源：https://arxiv.org/abs/2411.10943
 - 类型：综述
 - 审核状态：已审核
@@ -1422,7 +1422,7 @@ Minghe Gao, Wendong Bu, Bingchen Miao, Yang Wu, Yunfei Li, Juncheng Li, Siliang 
 
 一篇 GUI 定位综述按学习方式、推理策略和目标表示梳理方法，并评述数据集、基准、指标与推理成本。
 
-- 目录页面：https://awesomecua.com/resources/url-0579bd92efb87b26cb15/
+- 目录页面：https://awesomecua.com/zh/resources/url-0579bd92efb87b26cb15/
 - 原始来源：https://doi.org/10.20944/preprints202611.0431.v1
 - 类型：综述
 - 审核状态：已审核
@@ -1481,7 +1481,7 @@ Lizheng Zu, Ke Huang, Gang Xu, Jingfan Fan, Baoyuan Wu, Shengfeng He, Hehe Fan, 
 
 一项移动应用 GUI 测试的系统综述分析了 2010 至 2020 年发表的 75 项研究，梳理测试目标、方法、评价指标和研究挑战。
 
-- 目录页面：https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/
+- 目录页面：https://awesomecua.com/zh/resources/url-1c0a2ce1faf3017fa0c5/
 - 原始来源：https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf
 - 类型：综述
 - 审核状态：已审核
@@ -1542,7 +1542,7 @@ Kabir S. Said, Liming Nie, Adekunle A. Ajibode, Xueyi Zhou
 
 这篇综述按规划、记忆、工具使用、协作、评估和安全组织大语言模型智能体研究，涵盖计算机使用智能体及两百多项相关工作。
 
-- 目录页面：https://awesomecua.com/resources/url-f58895265a31c37d12b4/
+- 目录页面：https://awesomecua.com/zh/resources/url-f58895265a31c37d12b4/
 - 原始来源：https://www.preprints.org/manuscript/202608.0265/v1
 - 类型：综述
 - 审核状态：已审核
@@ -1602,7 +1602,7 @@ Jungseob Lee
 
 PAPAV 是比较计算机使用智能体与实体智能体的能力框架及综述，围绕感知、预测、规划、行动和验证展开。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2610-30108/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2610-30108/
 - 原始来源：https://arxiv.org/abs/2610.30108
 - 类型：综述
 - 审核状态：已审核
@@ -1654,7 +1654,7 @@ Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang, Ruihe An, Peiyao Xu, Hesen Yan
 
 这篇文献综述考察工业 4.0 中机器人流程自动化工具与 AI 如何结合，用于组织工作流程中的信息提取和流程优化。
 
-- 目录页面：https://awesomecua.com/resources/url-b230a6700386b7e2744c/
+- 目录页面：https://awesomecua.com/zh/resources/url-b230a6700386b7e2744c/
 - 原始来源：https://www.sciencedirect.com/science/article/pii/S1877050921001393
 - 类型：综述
 - 审核状态：已审核
@@ -1716,7 +1716,7 @@ Jorge Ribeiro, Rui Lima, Tiago Eckhardt, Sara Paiva
 
 一篇机器人流程自动化结构化综述考察模仿用户操作的软件机器人，并梳理其在组织应用中的研究主题与挑战。
 
-- 目录页面：https://awesomecua.com/resources/url-2574c6eeee264762a990/
+- 目录页面：https://awesomecua.com/zh/resources/url-2574c6eeee264762a990/
 - 原始来源：https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609
 - 类型：综述
 - 审核状态：已审核
@@ -1778,7 +1778,7 @@ Rehan Syed, Suriadi Suriadi, Michael Adams, Wasana Bandara, Sander J.J. Leemans,
 
 从表示和管理两个维度综述多模态记忆，区分固定策略下的更新与策略演进，并比较 GUI 记忆与其他模态的评估方式。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2610-19366/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2610-19366/
 - 原始来源：https://arxiv.org/abs/2610.19366
 - 类型：综述
 - 审核状态：已审核
@@ -1833,7 +1833,7 @@ Minghao Guo, Qingyue Jiao, Xiujin Liu, Jianhong Pang, Ruimeng Yang, Naihao Xu, L
 
 从软件工程视角综述 336 篇 GUI 智能体论文，梳理架构、评估和软件生命周期问题，并讨论移动端与网页场景。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2608-09278/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2608-09278/
 - 原始来源：https://arxiv.org/abs/2608.09278
 - 类型：综述
 - 审核状态：已审核
@@ -1885,7 +1885,7 @@ Shengcheng Yu, Yuchen Ling, Junyang Xing, Quan Zhou, Chunrong Fang, Zhenyu Chen
 
 一篇文献综述考察手机任务自动化智能体，包括示教式编程，以及面向重复性用户任务的可用性启发式规则。
 
-- 目录页面：https://awesomecua.com/resources/url-eb791c465f47690ade31/
+- 目录页面：https://awesomecua.com/zh/resources/url-eb791c465f47690ade31/
 - 原始来源：https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review
 - 类型：综述
 - 审核状态：已审核
@@ -1947,7 +1947,7 @@ Abdul Wali, Saipunidzam Mahamad, Suziah Sulaiman
 
 综述多工具 LLM 智能体的规划、训练、安全、效率与评估研究，并将 GUI 和移动系统列为应用领域。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2603-22862/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2603-22862/
 - 原始来源：https://arxiv.org/abs/2603.22862
 - 类型：综述
 - 审核状态：已审核
@@ -1999,7 +1999,7 @@ Haoyuan Xu, Chang Li, Xinyan Ma, Xianhao Ou, Zihan Zhang, Tao He, Xiangyu Liu, Z
 
 综述基于视觉的移动应用 GUI 测试，涵盖测试生成、录制与重放及测试框架，涉及 271 篇论文，其中 92 篇采用视觉方法。
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2310-13518/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2310-13518/
 - 原始来源：https://arxiv.org/abs/2310.13518
 - 类型：综述
 - 审核状态：已审核

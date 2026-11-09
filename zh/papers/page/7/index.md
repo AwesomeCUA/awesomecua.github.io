@@ -10,7 +10,7 @@ HTML 页面：https://awesomecua.com/zh/papers/page/7/ · [English](https://awes
 
 Introduces OSReward and its harder and multidimensional variants for assessing judgments of computer-use trajectories. It also releases a reasoning-annotated judgment corpus and trains reward models, examining reliability, leniency bias, and evaluation cost.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-28609/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-28609/
 - 原始来源：https://arxiv.org/abs/2607.28609
 - 类型：论文
 - 审核状态：已审核
@@ -62,7 +62,7 @@ Qiushi Sun, Kanzhi Cheng, Yian Wang, Bowen Yang, Hang Yan, Liheng Chen, Fangzhi 
 
 Examines inference-time scaling for local computer-use models by varying context, step budgets, decomposition, and parallel execution. OSWorld experiments track both task performance and changing failure modes, exposing cases where extra computation extends errors or adds coordination overhead.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-28573/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-28573/
 - 原始来源：https://arxiv.org/abs/2607.28573
 - 类型：论文
 - 审核状态：已审核
@@ -114,7 +114,7 @@ Woongkyu Lee, Jungwook Choi
 
 Introduces Adaptive Anticipatory Policy Trees, which precompute guarded actions and deadlines during idle periods so transient GUI events can be handled without new text generation. Paired experiments examine when this prepared execution helps and when reactive control remains preferable.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-28399/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-28399/
 - 原始来源：https://arxiv.org/abs/2607.28399
 - 类型：论文
 - 审核状态：已审核
@@ -166,7 +166,7 @@ Zihan Dong, Rui Qian, Qishi Zhan, Dongshen Peng, Kaixin Li, Yu Li
 
 Audits failure-scored computer-use trajectories to distinguish agent errors from broken tasks and evaluator false negatives. It organizes reliability issues across task construction, trajectory evidence, scoring, and reporting, then derives corresponding evaluation design practices.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-28367/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-28367/
 - 原始来源：https://arxiv.org/abs/2607.28367
 - 类型：论文
 - 审核状态：已审核
@@ -218,7 +218,7 @@ Zihan Dong, Zhiyuan Ma, Zekun Wang, Yunqing Li, Zirou Liu, Ruixuan Deng, Qishi Z
 
 Introduces MemHarness, which trains agents to critique and reconstruct retrieved experience before acting; WebShop is one of two evaluation environments.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-28272/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-28272/
 - 原始来源：https://arxiv.org/abs/2607.28272
 - 类型：论文
 - 审核状态：已审核
@@ -270,7 +270,7 @@ Rong Wu, Daocheng Fu, Licheng Wen, Xuemeng Yang, Shu Zou, Jianbiao Mei, Yuxin Wa
 
 Describes a foundation GUI agent with combined GUI and command-line actions, large-scale interaction infrastructure, and iterative environment and task generation.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-28227/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-28227/
 - 原始来源：https://arxiv.org/abs/2607.28227
 - 类型：论文
 - 审核状态：已审核
@@ -322,7 +322,7 @@ Hanzhang Zhou, Panrong Tong, Xu Zhang, Quyu Kong, Chenglin Cai, Tianyu Xia, Gong
 
 Introduces Echoverse, which compiles specifications into stateful applications with database-grounded graders and uses rollouts to improve both the environments and agent policies. It examines behavioral depth, targeted interface practice, and environment repair as sources of training value.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-28074/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-28074/
 - 原始来源：https://arxiv.org/abs/2607.28074
 - 类型：论文
 - 审核状态：已审核
@@ -374,7 +374,7 @@ Yash Pandya, Sahil Gupta, Sarthak Harne, Archana Yadav, Kavyansh Chourasia, Huss
 
 Introduces OmegaUse-OfficeVal, a benchmark for long-horizon office-suite agent tasks with labor-time and price signals, plus rubric-based code verifiers.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-27155/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-27155/
 - 原始来源：https://arxiv.org/abs/2607.27155
 - 类型：论文
 - 审核状态：已审核
@@ -426,7 +426,7 @@ Jingbo Zhou, Yusai Zhao, Qi Bao, Jingjia Cao, Zhenghai Chen, Chang Gao, Kaiqi Gu
 
 Introduces Desktop-Delta Bench, an offline diagnostic of GUI transition understanding using temporal-ordering tasks and before/after action inference. It includes decoy observations to test whether models track the source and task relevance of screen changes.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-26041/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-26041/
 - 原始来源：https://arxiv.org/abs/2607.26041
 - 类型：论文
 - 审核状态：已审核
@@ -478,7 +478,7 @@ Abhishek Pillai, Samir Kumar Nayak, Yuan Chen
 
 Introduces an Interactive Reward Agent that proposes completion conditions and verifies them using system, application, and GUI tools after execution. GUI-RewardBench provides annotated desktop trajectories for evaluating these evidence-based judgments and their use in reinforcement learning.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-25904/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-25904/
 - 原始来源：https://arxiv.org/abs/2607.25904
 - 类型：论文
 - 审核状态：已审核
@@ -530,7 +530,7 @@ Chenrui Shi, Yuwei Wu, Yang Liu, Ruining Feng, Zirui Shang, Zhi Gao, Lifeng Fan,
 
 Introduces SafeFlow, a semantic information-flow defense for multi-agent delegation, evaluated on safety tasks that include harmful web-agent behavior.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-25255/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-25255/
 - 原始来源：https://arxiv.org/abs/2607.25255
 - 类型：论文
 - 审核状态：已审核
@@ -582,7 +582,7 @@ Haowen Dai, Zonghao Ying, Wenfeng Li, Xiangfan Wu, Yisong Xiao, Tianyuan Zhang, 
 
 Introduces FCPAgent, which attaches confirming and falsifying evidence to each skill-grounded plan step. A plan–test–repair loop checks actions and observations, then localizes contradictions so execution, skills, or plans can be revised at the appropriate level.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-24167/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-24167/
 - 原始来源：https://arxiv.org/abs/2607.24167
 - 类型：论文
 - 审核状态：已审核
@@ -634,7 +634,7 @@ Guangyi Liu, Huan Zhao, Quanming Yao
 
 Introduces State Transition Pretraining, which jointly learns to infer actions from GUI changes and predict future states from current screens and actions. Subsequent instruction-trajectory fine-tuning tests whether these representations transfer to desktop and mobile agent tasks.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-24112/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-24112/
 - 原始来源：https://arxiv.org/abs/2607.24112
 - 类型：论文
 - 审核状态：已审核
@@ -686,7 +686,7 @@ Xiangyan Liu, Kaixin Li, Haonan Wang, Biao Wu, Meng Fang, Longxu Dou, Chao Du, M
 
 Builds a local browser-extension agent that generates and verifies additive CSS repairs for WCAG web accessibility violations.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2608-24913/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2608-24913/
 - 原始来源：https://arxiv.org/abs/2608.24913
 - 类型：论文
 - 审核状态：已审核
@@ -738,7 +738,7 @@ Lily Bundgaard Wanscher, Markus Heidemann Lorensen, Mohammed Ammad Shafiq, Mahya
 
 Introduces SeekJudge, which iteratively searches and analyzes GUI trajectories to assess instruction fulfillment. The work combines dense judgment-data synthesis, a step-label benchmark, and reward-server scheduling to study accurate and practical reward feedback for agent training.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-23263/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-23263/
 - 原始来源：https://arxiv.org/abs/2607.23263
 - 类型：论文
 - 审核状态：已审核
@@ -790,7 +790,7 @@ Yang Wan, Zhenhao Zhang, Jierui Wang, Xiangxin Zhou, Linchao Zhu
 
 Introduces StateAct, a code-first computer-use harness that manipulates program state directly and delegates screenshot-and-click subgoals to a GUI agent. An independent completion gate checks saved outputs, while fresh subagents handle subgoals to limit accumulated context.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-22798/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-22798/
 - 原始来源：https://arxiv.org/abs/2607.22798
 - 类型：论文
 - 审核状态：已审核
@@ -842,7 +842,7 @@ Yan Yang, Xiangru Jian, Ziyang Luo, Zirui Zhao, Yutong Dai, Ziji Shi, Hanshu Yan
 
 OpenForgeRL connects stateful agent harnesses to reinforcement-learning infrastructure through a model-call recording proxy and isolated rollout containers. Its validation includes browser and computer-use agents, alongside tool-oriented agents, and examines how harness choice affects learned reliability.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-21557/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-21557/
 - 原始来源：https://arxiv.org/abs/2607.21557
 - 类型：论文
 - 审核状态：已审核
@@ -894,7 +894,7 @@ Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, Qianhui Wu, Hao Cheng, Wenlin Yao, Nikh
 
 Introduces DocOps, a verifiable benchmark for agents handling complex digital-document workflows, with analysis of state tracking, semantic checks, and structural edits.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-19865/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-19865/
 - 原始来源：https://arxiv.org/abs/2607.19865
 - 类型：论文
 - 审核状态：已审核
@@ -946,7 +946,7 @@ Jiazhen Jiang, Boxi Cao, Lingyong Yan, Yaojie Lu, Hongyu Lin, Shuaiqiang Wang, D
 
 Measures how autonomous LLM browser agents interact with commercial bot-management and anti-automation defenses on the web.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-18659/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-18659/
 - 原始来源：https://arxiv.org/abs/2607.18659
 - 类型：论文
 - 审核状态：已审核
@@ -998,7 +998,7 @@ Behzad Ousat, Nikita Turkmen, Lalchandra Rampersaud, Dillan Bailey, Amin Kharraz
 
 Introduces StepX-Edge, an on-device UI vision-language model for screen understanding, OCR, question answering, and element grounding on mobile chips.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-22708/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-22708/
 - 原始来源：https://arxiv.org/abs/2607.22708
 - 类型：论文
 - 审核状态：已审核
@@ -1050,7 +1050,7 @@ Yin Wang, Haotian Hu, Jineng Han, Wentao Qiu, Zhenhua Ge, Liujian Tang, Fanyi Wa
 
 Introduces SEE, which first explores mobile interfaces to build a screen-and-element transition graph, then composes task trajectories through graph planning and controlled sampling. It studies coverage, loop avoidance, and transfer after training agents on the generated sequences.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-18046/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-18046/
 - 原始来源：https://arxiv.org/abs/2607.18046
 - 类型：论文
 - 审核状态：已审核
@@ -1102,7 +1102,7 @@ Zhuohang Fan, Beichen Zhang, Yuanfa Li, Changqiao Wu, Wei Liu, Jian Luan, Weigan
 
 Introduces Sidekick, a communication interface that uses ambient status cues, multimodal action summaries, and visual and verbal explanations of reasoning to help people monitor computer-use agents. A user study examines progress awareness, error traceability, and multitasking across background and foreground interaction.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-17527/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-17527/
 - 原始来源：https://arxiv.org/abs/2607.17527
 - 类型：论文
 - 审核状态：已审核
@@ -1154,7 +1154,7 @@ Ruei-Che Chang, Wenqian Xu, Dingzeyu Li, Bryan Wang, Anhong Guo
 
 Studies verifier-guided repair of a 35B computer-use agent across five environments, examining variation across runs and data draws in done detection, GUI clicks, and field entry.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-17136/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-17136/
 - 原始来源：https://arxiv.org/abs/2607.17136
 - 类型：论文
 - 审核状态：已审核
@@ -1206,7 +1206,7 @@ Barada Sahu, Shivesh Pandey
 
 Introduces EvoGUI, which derives temporal ordering, inverse action/value prediction, and successor-discrimination probes from recorded GUI trajectories. Its web-derived benchmark isolates transition understanding from the other abilities involved in end-to-end task success.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-17050/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-17050/
 - 原始来源：https://arxiv.org/abs/2607.17050
 - 类型：论文
 - 审核状态：已审核
@@ -1258,7 +1258,7 @@ Yaohan Yang, Minglei Shi, Borui Zhang, Jie Zhou, Jiwen Lu
 
 Introduces JarvisBench, a benchmark for spoken mediation during long-horizon agent workflows, measuring task collaboration and how users follow ongoing execution.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-16610/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-16610/
 - 原始来源：https://arxiv.org/abs/2607.16610
 - 类型：论文
 - 审核状态：已审核
@@ -1310,7 +1310,7 @@ Chen Chen, Zhehuai Chen
 
 Introduces ParaGUIBench, with tasks and efficiency measurements for coordinated GUI agents operating separate desktop instances over a shared file system. Its ParaGUI planner-worker system decomposes tasks and dispatches concurrent subtasks for comparison with serial execution.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-22689/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-22689/
 - 原始来源：https://arxiv.org/abs/2607.22689
 - 类型：论文
 - 审核状态：已审核
@@ -1362,7 +1362,7 @@ Zedong Yu, Qianxing Li, Zhi Gao, Liuyu Xiang, Chenrui Shi, Yang Liu, Huiming Wu,
 
 Uses instruction screening and a safety-augmented world model to assess likely consequences of mobile GUI actions before execution.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-15550/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-15550/
 - 原始来源：https://arxiv.org/abs/2607.15550
 - 类型：论文
 - 审核状态：已审核
@@ -1414,7 +1414,7 @@ Xue Yu, Bo Yuan, Kailin Zhao, Pengshuai Yang, Hong Hu, Junlan Feng
 
 Plover exposes GUI-agent plans and replanning as persistent artifacts that users can inspect and edit during execution. Its planner–executor design supports localized correction through plan edits, language guidance and screenshot-grounded interventions, studied through failure repair and workflow scenarios.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-15193/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-15193/
 - 原始来源：https://arxiv.org/abs/2607.15193
 - 类型：论文
 - 审核状态：已审核
@@ -1466,7 +1466,7 @@ Madhumitha Venkatesan, Shicheng Wen, Jiajing Guo, Jorge Piazentin Ono, Liu Ren, 
 
 Combines GUI perception data, instructional videos, real and simulated devices, and planning with reflection to develop a mobile agent.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-14548/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-14548/
 - 原始来源：https://arxiv.org/abs/2607.14548
 - 类型：论文
 - 审核状态：已审核
@@ -1518,7 +1518,7 @@ Hy Vision Team, Huawen Shen, Zhengyang Tang, Shangpin Peng, Liang Wu, Anran Zhan
 
 Tactile turns accessibility, OCR and visual evidence into explicit desktop targets with executable actions and verification cues. Its execution loop chooses semantic actions or coordinate fallbacks while retaining provenance for replay and diagnosis.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-14443/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-14443/
 - 原始来源：https://arxiv.org/abs/2607.14443
 - 类型：论文
 - 审核状态：已审核
@@ -1570,7 +1570,7 @@ Yong Liu, Zhenyi Zhong, Zhanpeng Shi
 
 Introduces Multi-Head Latent Control, a layer that reads frozen LLM or VLM hidden-state trajectories to signal when an agent should defer, seek clarification, use tools, abstain, or answer.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-14277/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-14277/
 - 原始来源：https://arxiv.org/abs/2607.14277
 - 类型：论文
 - 审核状态：已审核
@@ -1622,7 +1622,7 @@ Amirhosein Ghasemabadi, Ruichen Chen, Bahador Rashidi, Di Niu
 
 Introduces PalmClaw, an on-device phone agent framework that manages sessions, memory, and tools, exposing mobile capabilities through structured device-tool calls.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-13027/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-13027/
 - 原始来源：https://arxiv.org/abs/2607.13027
 - 类型：论文
 - 审核状态：已审核
@@ -1674,7 +1674,7 @@ Hongru Cai, Yongqi Li, Ran Wei, Wenjie Li
 
 Studies a controlled setting where GRPO fails to improve a strong small web agent and can reduce text-track performance. Matched reachable-reward tasks and component grafting distinguish limited optimization headroom from learning-rate-dependent failure mechanisms.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-12640/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-12640/
 - 原始来源：https://arxiv.org/abs/2607.12640
 - 类型：论文
 - 审核状态：已审核
@@ -1726,7 +1726,7 @@ Chengguang Gan, Zhixi Cai, Yunhao Liang, Hanjun Wei, Shiwen Ni, Qinghao Zhang
 
 KnowAct-GUIClaw combines a host planner with pluggable GUI subagents, attributable experience memory and an evolving skill library. It uses user profiles and feedback for task decomposition and evaluates transfer across Android, iOS, HarmonyOS and Windows.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-12625/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-12625/
 - 原始来源：https://arxiv.org/abs/2607.12625
 - 类型：论文
 - 审核状态：已审核
@@ -1778,7 +1778,7 @@ Yunxin Li, Jinchao Li, Shibo Su, Zhenran Xu, Chenrui Zhao, Tongshu Bian, Xiaoman
 
 Proposes an MCP architecture that presents accessibility trees from Windows, macOS, Android, and web frameworks in a common form for LLM assistive agents interacting with GUIs.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2608-24898/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2608-24898/
 - 原始来源：https://arxiv.org/abs/2608.24898
 - 类型：论文
 - 审核状态：已审核
@@ -1830,7 +1830,7 @@ Vishnu Ramineni, Nitin Saksena, Akash Kumar Agarwal, Darshan Mohan Bidkar, Balak
 
 Proposes an agent-ready website design framework for e-commerce browser agents and compares it with a human-oriented site on shopping tasks, outcomes, steps, and token use.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-12056/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-12056/
 - 原始来源：https://arxiv.org/abs/2607.12056
 - 类型：论文
 - 审核状态：已审核
@@ -1882,7 +1882,7 @@ Said Elnaffar, Farzad Rashidi
 
 StructAgent maintains compact task state and regulates long-horizon execution through verified transitions and progress checkpoints. Its workflow supports evidence-based completion and targeted recovery, with desktop computer-use evaluation and a separate Minecraft extension.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-11388/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-11388/
 - 原始来源：https://arxiv.org/abs/2607.11388
 - 类型：论文
 - 审核状态：已审核
@@ -1934,7 +1934,7 @@ Wenyi Wu, Sibo Zhu, Kun Zhou, Aayush Salvi, Zixuan Song, Biwei Huang
 
 Scales computer-agent reinforcement learning through verifiable task generation, capability-aware rollout allocation, and segmented visual context.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-11185/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-11185/
 - 原始来源：https://arxiv.org/abs/2607.11185
 - 类型：论文
 - 审核状态：已审核
@@ -1986,7 +1986,7 @@ Bowen Lv, Xiao Liu, Yanyu Ren, Hanyu Lai, Bohao Jing, Hanchen Zhang, Yanxiao Zha
 
 The Entry–Propagation–Recovery framework traces where conflicting memory first changes an agent action, how the effect propagates and whether recovery occurs. WebArena and the controlled MemTrapBench separate memory-consumption failures across these stages.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-10608/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-10608/
 - 原始来源：https://arxiv.org/abs/2607.10608
 - 类型：论文
 - 审核状态：已审核
@@ -2038,7 +2038,7 @@ Yixiong Chen, Xinyi Bai, Alan Yuille
 
 MAG jointly evaluates browser task actions and user-facing guides grounded in screenshots through element marks or pixel coordinates. Its harness covers annotation, live evaluation and joint metrics, with an expert-trajectory-augmented GRPO training study.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-10079/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-10079/
 - 原始来源：https://arxiv.org/abs/2607.10079
 - 类型：论文
 - 审核状态：已审核
@@ -2090,7 +2090,7 @@ Chengguang Gan, Hanjun Wei, Yunhao Liang, Zhixi Cai, Qinghao Zhang, Shiwen Ni
 
 Introduces UniClawBench, a benchmark of proactive agents on bilingual real-world tasks, evaluated in live Docker containers with stepwise checkpoints and simulated user feedback.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-08768/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-08768/
 - 原始来源：https://arxiv.org/abs/2607.08768
 - 类型：论文
 - 审核状态：已审核
@@ -2142,7 +2142,7 @@ Zhekai Chen, Chengqi Duan, Kaiyue Sun, Bohao Li, Yuqing Wang, Manyuan Zhang, Xih
 
 Introduces Prismata, a defense for web agents that assigns trust labels to page content and enforces them by redacting content and restricting agent actions.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-08147/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-08147/
 - 原始来源：https://arxiv.org/abs/2607.08147
 - 类型：论文
 - 审核状态：已审核
@@ -2194,7 +2194,7 @@ Corban Villa, Alp Eren Ozdarendeli, Sijun Tan, Raluca Ada Popa
 
 EvoCUA-1.5 trains multi-turn desktop agents through online reinforcement learning in executable sandboxes. It combines step-level policy optimization, task filtering and calibration, an adaptive curriculum, and asynchronous rollout handling with staleness control.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-09773/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-09773/
 - 原始来源：https://arxiv.org/abs/2607.09773
 - 类型：论文
 - 审核状态：已审核
@@ -2246,7 +2246,7 @@ Mianqiu Huang, Taofeng Xue, Chong Peng, Jinrui Ding, Jie Yang, Sicheng Fan, Jial
 
 WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success and useful task completion diverge.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-06118/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-06118/
 - 原始来源：https://arxiv.org/abs/2607.06118
 - 类型：论文
 - 审核状态：已审核
@@ -2298,7 +2298,7 @@ Wei Dong, Tianyu Fu, Zhe Yu, Hanning Wang, Anyang Su, Zhizhou Fang, Yuyang Chen,
 
 Proposes TurnOPD, a rollout-depth and loss-budgeting method for training long-horizon language agents; WebShop is one of its evaluation settings.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-05804/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-05804/
 - 原始来源：https://arxiv.org/abs/2607.05804
 - 类型：论文
 - 审核状态：已审核
@@ -2350,7 +2350,7 @@ Yuhang Zhou, Kai Zheng, Haoling Li, Dengyun Peng, Can Xu, Jingjing Chen
 
 Untrusted Content Masking uses DOM structure to redact untrusted webpage regions before agent observation. A sandboxed interaction interface separates privileges so browser actions can proceed under the proposed trust-boundary model without exposing protected content to the planner.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-05277/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-05277/
 - 原始来源：https://arxiv.org/abs/2607.05277
 - 类型：论文
 - 审核状态：已审核
@@ -2402,7 +2402,7 @@ Kristina Nikolić, Egor Zverev, Javier Rando, Matthew Jagielski, Edoardo Debened
 
 This study examines agent data injection, where untrusted content impersonates trusted metadata or tool-context data. It reports arbitrary-click vulnerabilities in web agents alongside separate coding-agent attacks, highlighting trust-boundary failures beyond instruction injection.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-05120/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-05120/
 - 原始来源：https://arxiv.org/abs/2607.05120
 - 类型：论文
 - 审核状态：已审核
@@ -2454,7 +2454,7 @@ Woohyuk Choi, Juhee Kim, Taehyun Kang, Jihyeon Jeong, Luyi Xing, Byoungyoung Lee
 
 Introduces Uni-GUI, a collection of executable desktop and mobile trajectories, and UI-MOPD, which trains a shared policy from its own rollouts using platform-specific teachers. The distillation procedure routes each visited state to the appropriate teacher to preserve distinct interaction conventions.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-04425/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-04425/
 - 原始来源：https://arxiv.org/abs/2607.04425
 - 类型：论文
 - 审核状态：已审核
@@ -2506,7 +2506,7 @@ Niu Lian, Tongbo Chen, Zhehao Yu, Chengzhen Duan, Fazhan Liu, Hui Liu, Pei Fu, J
 
 Defines visual state reliance and probes whether GUI agents resolve screenshot/structure conflicts using pixels, serialized interface structure or prior beliefs. Paired interventions and live multi-step tests connect misattributed state beliefs to failures and compare consistency-based mitigations.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-04334/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-04334/
 - 原始来源：https://arxiv.org/abs/2607.04334
 - 类型：论文
 - 审核状态：已审核
@@ -2558,7 +2558,7 @@ Guijia Zhang, Yuxun Chen, Yuheng Qi, Harry Yang
 
 Introduces NeXUI, an assistive UI-agent benchmark that evaluates navigation together with interface-grounded explanations and user oversight in recorded interface states.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2608-09944/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2608-09944/
 - 原始来源：https://arxiv.org/abs/2608.09944
 - 类型：论文
 - 审核状态：已审核
@@ -2611,7 +2611,7 @@ Santosh Patapati
 
 Introduces TSR, a training-free wrapper for long-horizon mobile GUI agents that tracks instructions, subgoal progress, and action outcomes separately from screen observations.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-00502/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-00502/
 - 原始来源：https://arxiv.org/abs/2607.00502
 - 类型：论文
 - 审核状态：已审核
@@ -2663,7 +2663,7 @@ Yujie Zheng, Zikang Liu, Xin Zhao, Ji-Rong Wen
 
 Analyzes cross-app privilege escalation and visual attack surfaces introduced by third-party VLM-powered mobile agents.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2607-00333/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2607-00333/
 - 原始来源：https://arxiv.org/abs/2607.00333
 - 类型：论文
 - 审核状态：已审核
@@ -2715,7 +2715,7 @@ Zidong Zhang, Zhentao Xie, Wenrui Diao, Jianliang Wu
 
 Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.
 
-- 目录页面：https://awesomecua.com/resources/url-39f88102e1659647b1a0/
+- 目录页面：https://awesomecua.com/zh/resources/url-39f88102e1659647b1a0/
 - 原始来源：https://doi.org/10.1145/3808134
 - 类型：论文
 - 审核状态：已审核
@@ -2777,7 +2777,7 @@ Shuqing Li, Binchang Li, Yepang Liu, Cuiyun Gao, Jianping Zhang, Shing-Chi Cheun
 
 DigitalCoach records expert–novice software coaching conversations aligned with screen and input events. Automated and interactive evaluations examine how model coaches differ from humans in explanation, error diagnosis and visual grounding when helping a learner operate software.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2606-31980/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2606-31980/
 - 原始来源：https://arxiv.org/abs/2606.31980
 - 类型：论文
 - 审核状态：已审核
@@ -2829,7 +2829,7 @@ Meng Chen, Anya Ji, Tsung-Han Wu, Tobias Maringgele, David M. Chan, Alane Suhr, 
 
 Proposes ATMem, an updated execution-state memory for long mobile GUI tasks, and STR-GRPO to train selective memory use; also introduces a mobile task benchmark.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2606-31612/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2606-31612/
 - 原始来源：https://arxiv.org/abs/2606.31612
 - 类型：论文
 - 审核状态：已审核
@@ -2881,7 +2881,7 @@ Chen Liu, Ling Chen, Hanzhang Zhou, Xu Zhang, Quyu Kong, Panrong Tong, Wenhao Wa
 
 Describes a mobile GUI agent trained through real-device interaction, corrected failure trajectories, supervised learning, and reinforcement learning.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2606-31410/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2606-31410/
 - 原始来源：https://arxiv.org/abs/2606.31410
 - 类型：论文
 - 审核状态：已审核
@@ -2933,7 +2933,7 @@ Wanxia Cao, Chengzhen Duan, Pei Fu, Pengzhi Gao, Niu Lian, Fazhan Liu, Hui Liu, 
 
 Uses failed computer-use trajectories to diagnose failure modes and generate inference-time agent code patches, with light human verification. An OSWorld study evaluates this failure-driven improvement loop without additional model training.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2606-31270/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2606-31270/
 - 原始来源：https://arxiv.org/abs/2606.31270
 - 类型：论文
 - 审核状态：已审核
@@ -2985,7 +2985,7 @@ Xueqiao Sun, Xiaohan Wang, Ludwig Schmidt, Serena Yeung-Levy, Yuhui Zhang
 
 Introduces PPT-Eval, a benchmark of PowerPoint creation and editing tasks for computer-use agents, with rubrics that score partial progress and presentation quality.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2606-31154/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2606-31154/
 - 原始来源：https://arxiv.org/abs/2606.31154
 - 类型：论文
 - 审核状态：已审核
@@ -3037,7 +3037,7 @@ Apurva Gandhi, Vishwas Suryanarayanan, Raja Hasnain Anwar, Firoz Shaik, Shubhang
 
 LUMOS converts native accessibility metadata and browser UI structure into semantic interface blueprints with stable element identifiers and available actions. It combines live pointer-to-element grounding with an observe-act loop constrained to visible-UI primitives.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2606-30697/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2606-30697/
 - 原始来源：https://arxiv.org/abs/2606.30697
 - 类型：论文
 - 审核状态：已审核
@@ -3089,7 +3089,7 @@ Yogeswar Reddy Thota
 
 Evaluates web agents against anti-bot mechanisms on instrumented honeysites and analyzes network, HTTP and browser fingerprints. The study compares resistance to blocking with the ability to distinguish agents, humans and agent implementations.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2606-30119/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2606-30119/
 - 原始来源：https://arxiv.org/abs/2606.30119
 - 类型：论文
 - 审核状态：已审核

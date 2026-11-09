@@ -12,11 +12,11 @@ Reviews are AI-assisted inspections of primary sources. Code, data, weights and 
 
 | Dataset | Platform | Supervision | Scale | License |
 | --- | --- | --- | --- | --- |
-| [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | Desktop | GUI grounding | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [mit (data)](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
+| [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | Desktop | GUI grounding | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [MIT (data)](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
 | [OS-Genesis](https://awesomecua.com/resources/github-os-copilot-os-genesis/) | Cross-platform | reverse task synthesis, GUI action trajectories | — | — |
-| [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | Mobile | interactive-element grounding, screen and element functionality descriptions | [> 104,000 screenshots](https://arxiv.org/abs/2407.17490v1) | [cc-by-4.0 (data)](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
-| [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) | Web · Desktop · Mobile · Cross-platform | — | — | [apache-2.0 (data)](https://huggingface.co/datasets/Hcompany/trajectories) |
-| [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | Desktop | UI element bounding boxes, element text or short descriptions | [51,175 screenshot-annotation file pairs](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [mit (data)](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
+| [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | Mobile | interactive-element grounding, screen and element functionality descriptions | [> 104,000 screenshots](https://arxiv.org/abs/2407.17490v1) | [CC-BY-4.0 (data)](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
+| [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) | Web · Desktop · Mobile · Cross-platform | — | — | [Apache-2.0 (data)](https://huggingface.co/datasets/Hcompany/trajectories) |
+| [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | Desktop | UI element bounding boxes, element text or short descriptions | [51,175 screenshot-annotation file pairs](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [MIT (data)](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
 | [GUI-Actor data](https://awesomecua.com/resources/url-66096ad4057a3d3726f5/) | — | GUI grounding with bounding-box supervision | — | — |
 
 ## Questions

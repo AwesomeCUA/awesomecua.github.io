@@ -1,0 +1,33 @@
+# 状态追踪：Computer-Use 研究与资源（第 3 页）
+
+HTML 页面：https://awesomecua.com/zh/topics/state-tracking/page/3/
+
+完整列表：https://awesomecua.com/zh/topics/state-tracking/index.md
+
+- [MyInstagram](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-instagram/)
+- [nexus-browser-mcp](https://awesomecua.com/zh/resources/github-paipaipai666-nexus-browser-mcp/)
+- [Ommatix](https://awesomecua.com/zh/resources/github-yosoyepa-ommatix/)
+- [OpenAdapt Agent](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-agent/)
+- [openadapt-types](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-types/)
+- [OSWright](https://awesomecua.com/zh/resources/github-ask-812-oswright/)
+- [outlive](https://awesomecua.com/zh/resources/github-sy-d-outlive/)
+- [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/zh/resources/url-4ee15c39dc38f230ad58/)
+- [Predicate TypeScript SDK](https://awesomecua.com/zh/resources/github-predicatesystems-sdk-typescript/)
+- [Pursuit Permit WebMCP](https://awesomecua.com/zh/resources/github-moaqil-pursuit-permit-webmcp/)
+- [Qontinui](https://awesomecua.com/zh/resources/github-qontinui-qontinui/)
+- [redux-webmcp](https://awesomecua.com/zh/resources/github-breeznik-redux-webmcp/)
+- [SameState WebMCP](https://awesomecua.com/zh/resources/github-breeznik-samestate-webmcp/)
+- [ScreenWatch](https://awesomecua.com/zh/resources/github-abnsapkota001-screenwatch/)
+- [settled-computer](https://awesomecua.com/zh/resources/github-remote-skills-settled-computer/)
+- [Snapsurf](https://awesomecua.com/zh/resources/github-zumerlab-snapsurf/)
+- [StateAct](https://awesomecua.com/zh/resources/github-ai-nikolai-stateact/)
+- [StatePilot](https://awesomecua.com/zh/resources/github-newsbruno-statepilot/)
+- [Talox](https://awesomecua.com/zh/resources/github-avant-iconic-talox/)
+- [tui-use](https://awesomecua.com/zh/resources/github-onesuper-tui-use/)
+- [VeriSafe Agent](https://awesomecua.com/zh/resources/github-verisafeagent-verisafeagent/)
+- [WebOperator](https://awesomecua.com/zh/resources/github-kagnlp-weboperator/)
+- [youtube_sim](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-youtube/)
+- [Zoom Android Template](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-zoom/)
+- [Achieving 91.4% on Android World: A New Approach to Mobile UI Automation](https://awesomecua.com/zh/resources/url-f8b67bde8c79e7934a2a/)
+- [Finalrun Agentic Approach](https://awesomecua.com/zh/resources/github-final-run-finalrun-android-world-benchmark/)
+- [linux-use-recipes](https://awesomecua.com/zh/resources/github-javimosch-linux-use-recipes/)

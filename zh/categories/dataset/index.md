@@ -10,11 +10,11 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https:/
 
 | 数据集 | 平台 | 监督信号 | 规模 | 许可证 |
 | --- | --- | --- | --- | --- |
-| [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | 桌面 | GUI grounding | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [mit（数据）](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
+| [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | 桌面 | GUI grounding | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [MIT（数据）](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
 | [OS-Genesis](https://awesomecua.com/resources/github-os-copilot-os-genesis/) | 跨平台 | reverse task synthesis, GUI action trajectories | — | — |
-| [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | 手机 | interactive-element grounding, screen and element functionality descriptions | [> 104,000 screenshots](https://arxiv.org/abs/2407.17490v1) | [cc-by-4.0（数据）](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
-| [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) | 网页 · 桌面 · 手机 · 跨平台 | — | — | [apache-2.0（数据）](https://huggingface.co/datasets/Hcompany/trajectories) |
-| [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | 桌面 | UI element bounding boxes, element text or short descriptions | [51,175 screenshot-annotation file pairs](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [mit（数据）](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
+| [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | 手机 | interactive-element grounding, screen and element functionality descriptions | [> 104,000 screenshots](https://arxiv.org/abs/2407.17490v1) | [CC-BY-4.0（数据）](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
+| [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) | 网页 · 桌面 · 手机 · 跨平台 | — | — | [Apache-2.0（数据）](https://huggingface.co/datasets/Hcompany/trajectories) |
+| [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | 桌面 | UI element bounding boxes, element text or short descriptions | [51,175 screenshot-annotation file pairs](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [MIT（数据）](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
 | [GUI-Actor data](https://awesomecua.com/resources/url-66096ad4057a3d3726f5/) | — | GUI grounding with bounding-box supervision | — | — |
 
 ## 常见问题
@@ -45,7 +45,7 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https:/
 
 用于评估基于指令的 GUI 定位的高分辨率专业界面截图及目标标注。
 
-- 目录页面：https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/
+- 目录页面：https://awesomecua.com/zh/resources/url-c79e152e6f7af1a9efed/
 - 原始来源：https://huggingface.co/datasets/likaixin/ScreenSpot-Pro
 - 类型：数据集
 - 审核状态：已审核
@@ -95,7 +95,7 @@ Counts describe target annotations; unique screenshots and expanded language/sty
 
 基于交互的数据生成流程，通过逆向任务合成和轨迹奖励模型，在无人类监督或预设任务的条件下生成移动端和网页 GUI 智能体轨迹。
 
-- 目录页面：https://awesomecua.com/resources/github-os-copilot-os-genesis/
+- 目录页面：https://awesomecua.com/zh/resources/github-os-copilot-os-genesis/
 - 原始来源：https://github.com/OS-Copilot/OS-Genesis
 - 类型：数据集
 - 审核状态：已审核
@@ -139,7 +139,7 @@ The repository links distinct AndroidControl-oriented, AndroidWorld-oriented, an
 
 AMEX 官方 Hub 数据包含 Android 应用截图及交互元素定位、屏幕与元素功能标注，以及配有逐步 GUI 操作链的指令。
 
-- 目录页面：https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/
+- 目录页面：https://awesomecua.com/zh/resources/url-1b2091d717c977d4f8b9/
 - 原始来源：https://huggingface.co/datasets/Yuxiang007/AMEX
 - 类型：数据集
 - 审核状态：已审核
@@ -192,7 +192,7 @@ Episode and step counts were computed with a script from the instruction archive
 
 包含来自 Holo4 27B 和 Holo4 35B-A3B 的 7,366 条计算机使用智能体执行轨迹的数据集，记录步骤级推理、动作、工具结果和截图。
 
-- 目录页面：https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/
+- 目录页面：https://awesomecua.com/zh/resources/url-b5dab1881ac1069e44ce/
 - 原始来源：https://huggingface.co/datasets/Hcompany/trajectories
 - 类型：数据集
 - 审核状态：已审核
@@ -222,7 +222,7 @@ Episode and step counts were computed with a script from the instruction archive
 
 GroundCUA 项目的桌面 GUI 定位数据：87 款应用的 PNG 截图按哈希与 JSON 标注配对，标注列出元素边界框、可见文字和可选的粗分类。
 
-- 目录页面：https://awesomecua.com/resources/url-f6c88faa4392848f81b6/
+- 目录页面：https://awesomecua.com/zh/resources/url-f6c88faa4392848f81b6/
 - 原始来源：https://huggingface.co/datasets/ServiceNow/GroundCUA
 - 类型：数据集
 - 审核状态：已审核
@@ -276,7 +276,7 @@ Screenshots, file pairs, folders and element annotations are different units and
 
 已发布的用于训练 GUI-Actor 视觉定位模型的已处理截图和边界框数据集。
 
-- 目录页面：https://awesomecua.com/resources/url-66096ad4057a3d3726f5/
+- 目录页面：https://awesomecua.com/zh/resources/url-66096ad4057a3d3726f5/
 - 原始来源：https://huggingface.co/datasets/cckevinn/GUI-Actor-Data
 - 类型：数据集
 - 审核状态：已审核
@@ -325,7 +325,7 @@ Public Hub revision 5a0b35fb includes six bbox JSON files and associated image a
 
 用于训练和评估智能体的人工演示 Android 跨应用导航任务过程，涵盖 6 类任务、212 个应用和约 1,400 种应用组合。
 
-- 目录页面：https://awesomecua.com/resources/github-opengvlab-gui-odyssey/
+- 目录页面：https://awesomecua.com/zh/resources/github-opengvlab-gui-odyssey/
 - 原始来源：https://github.com/OpenGVLab/GUI-Odyssey
 - 类型：数据集
 - 审核状态：已审核
@@ -369,7 +369,7 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 
 101,314 组截图与指令配对数据，附点击定位目标框，从公开 GUI 定位数据集及教程视频帧中筛选，并配有 EasyR1 点位预测提示。
 
-- 目录页面：https://awesomecua.com/resources/url-bf847949766b2b257d1c/
+- 目录页面：https://awesomecua.com/zh/resources/url-bf847949766b2b257d1c/
 - 原始来源：https://huggingface.co/datasets/mlfoundations/Click-100k
 - 类型：数据集
 - 审核状态：已审核
@@ -422,7 +422,7 @@ Each row holds an image path, the image, an EasyR1 prompt that embeds the elemen
 
 GroundCUA 发布覆盖 87 个应用的 56,000 张桌面截图、3.56M 条经人工验证的 UI 元素标注，以及 GroundNext 模型。
 
-- 目录页面：https://awesomecua.com/resources/github-servicenow-groundcua/
+- 目录页面：https://awesomecua.com/zh/resources/github-servicenow-groundcua/
 - 原始来源：https://github.com/ServiceNow/GroundCUA
 - 类型：数据集
 - 审核状态：已审核
@@ -451,7 +451,7 @@ GroundCUA 发布覆盖 87 个应用的 56,000 张桌面截图、3.56M 条经人�
 
 GUI Odyssey 原始 Hub 上传版：六台模拟设备上的 7,735 段跨应用 Android 导航轨迹，含逐步截图、操作和四个数据划分文件；数据卡说明其已由新版取代。
 
-- 目录页面：https://awesomecua.com/resources/url-5f7e55313246edf727bf/
+- 目录页面：https://awesomecua.com/zh/resources/url-5f7e55313246edf727bf/
 - 原始来源：https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey
 - 类型：数据集
 - 审核状态：已审核
@@ -500,7 +500,7 @@ Each annotation file is one episode keyed by episode_id, with device, task (cate
 
 GUIAct 是网页和 Android GUI 的动作指令数据，分为单步、多步和智能手机部分。
 
-- 目录页面：https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/
+- 目录页面：https://awesomecua.com/zh/resources/url-6cd150ec23361b4d2e84/
 - 原始来源：https://huggingface.co/datasets/yiye2023/GUIAct
 - 类型：数据集
 - 审核状态：已审核
@@ -552,7 +552,7 @@ Quantities are rounded publisher descriptions. Data-license declarations conflic
 
 Online-Mind2Web 任务集的受限 Hub 发布版，含实时网站任务的单个 JSON 测试集；据项目 README，共有 136 个网站上的 300 项任务，发布方会随网站变化修订。
 
-- 目录页面：https://awesomecua.com/resources/url-a252b36bf1c440269a2e/
+- 目录页面：https://awesomecua.com/zh/resources/url-a252b36bf1c440269a2e/
 - 原始来源：https://huggingface.co/datasets/osunlp/Online-Mind2Web
 - 类型：数据集
 - 审核状态：已审核
@@ -601,7 +601,7 @@ Counts describe the task set according to the README; the gated file count remai
 
 OS-Atlas 的 GUI 定位预训练数据，覆盖桌面端（Linux、macOS、Windows）、移动端和网页；元素框以左、上、右、下边界的相对比例存储。
 
-- 目录页面：https://awesomecua.com/resources/url-0fdeb1cf5f49f84820e6/
+- 目录页面：https://awesomecua.com/zh/resources/url-0fdeb1cf5f49f84820e6/
 - 原始来源：https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data
 - 类型：数据集
 - 审核状态：已审核
@@ -647,7 +647,7 @@ These are subset-specific counts for OS-Atlas. Raw boxes use 0–1 coordinates; 
 
 VisualWebBench 的 Hugging Face 数据集发布版本，涵盖视觉网页理解、OCR、元素定位和动作预测的七项任务。
 
-- 目录页面：https://awesomecua.com/resources/url-149769d8bf07b7fbabdc/
+- 目录页面：https://awesomecua.com/zh/resources/url-149769d8bf07b7fbabdc/
 - 原始来源：https://huggingface.co/datasets/visualwebbench/VisualWebBench
 - 类型：数据集
 - 审核状态：已审核
@@ -677,7 +677,7 @@ VisualWebBench 的 Hugging Face 数据集发布版本，涵盖视觉网页理解
 
 包含文字丰富的图像和边界框的对话式 GUI 监督数据，按单轮问答和多轮对话组织。
 
-- 目录页面：https://awesomecua.com/resources/url-edf38d43800be8c955ae/
+- 目录页面：https://awesomecua.com/zh/resources/url-edf38d43800be8c955ae/
 - 原始来源：https://huggingface.co/datasets/yiye2023/GUIChat
 - 类型：数据集
 - 审核状态：已审核
@@ -729,7 +729,7 @@ Quantities are rounded publisher descriptions. Data-license declarations conflic
 
 GUIEnv 已发布的局部监督数据，将网页区域与文本配对，用于 OCR 和 GUI 定位。
 
-- 目录页面：https://awesomecua.com/resources/url-0af07e00658a430cee6a/
+- 目录页面：https://awesomecua.com/zh/resources/url-0af07e00658a430cee6a/
 - 原始来源：https://huggingface.co/datasets/yiye2023/GUIEnv
 - 类型：数据集
 - 审核状态：已审核
@@ -780,7 +780,7 @@ Quantities are rounded publisher descriptions. Data-license declarations conflic
 
 Mind2Web 众包网页任务演示的 Hub 发布版：训练集 JSON 包含原始与清洗后的 HTML、候选元素和 CLICK/TYPE/SELECT 步骤，另有受密码保护的三个测试集归档。
 
-- 目录页面：https://awesomecua.com/resources/url-380a6eedcb4de7778e88/
+- 目录页面：https://awesomecua.com/zh/resources/url-380a6eedcb4de7778e88/
 - 原始来源：https://huggingface.co/datasets/osunlp/Mind2Web
 - 类型：数据集
 - 审核状态：已审核
@@ -835,7 +835,7 @@ Each instance is one task with its multi-step action sequence; step counts use a
 
 WebCanvas 实时网页基准的任务文件：源自 Mind2Web 的 438 项训练任务和 104 项测试任务，使用 URL 或页面元素上的关键节点检查评估中间进度。
 
-- 目录页面：https://awesomecua.com/resources/url-03ffa3f28413bc2edb1b/
+- 目录页面：https://awesomecua.com/zh/resources/url-03ffa3f28413bc2edb1b/
 - 原始来源：https://huggingface.co/datasets/iMeanAI/Mind2Web-Live
 - 类型：数据集
 - 审核状态：已审核
@@ -890,7 +890,7 @@ Tasks and key-node evaluation entries are different units. The revised test file
 
 Mind2Web 操作步骤与对应网页截图对齐，附原始及清理后的 HTML、候选元素和目标操作，包含训练集及按任务、网站和域名划分的留出测试集。
 
-- 目录页面：https://awesomecua.com/resources/url-66f780b493156dc7efe5/
+- 目录页面：https://awesomecua.com/zh/resources/url-66f780b493156dc7efe5/
 - 原始来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web
 - 类型：数据集
 - 审核状态：已审核
@@ -946,7 +946,7 @@ Action steps and tasks are different units; the split sizes are the card's figur
 
 基于网页 UI 构建的 7.3 百万个训练样本，以增强的无障碍树组织，用于理解文本丰富的视觉内容；与 UIX-Qwen2 模型一同发布。
 
-- 目录页面：https://awesomecua.com/resources/github-neulab-multiui/
+- 目录页面：https://awesomecua.com/zh/resources/github-neulab-multiui/
 - 原始来源：https://github.com/neulab/multiui
 - 类型：数据集
 - 审核状态：已审核
@@ -989,7 +989,7 @@ The README provides a rounded sample count. It does not establish a unique-scree
 
 来自仿真器和模拟器轨迹的移动端智能体监督数据，另含用于强化学习、带有初始状态和成功判定条件的可执行任务。
 
-- 目录页面：https://awesomecua.com/resources/url-546e6c95825d1318c98d/
+- 目录页面：https://awesomecua.com/zh/resources/url-546e6c95825d1318c98d/
 - 原始来源：https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2
 - 类型：数据集
 - 审核状态：已审核
@@ -1040,7 +1040,7 @@ These are publisher-reported totals at three distinct grains. Earlier screenshot
 
 基于 35,000 张 Rico 移动端截图的约 86,000 组人工编写问答对，另有 ScreenQA Short 和 ComplexQA 变体，用于评测屏幕内容理解。
 
-- 目录页面：https://awesomecua.com/resources/github-google-research-datasets-screen-qa/
+- 目录页面：https://awesomecua.com/zh/resources/github-google-research-datasets-screen-qa/
 - 原始来源：https://github.com/google-research-datasets/screen_qa
 - 类型：数据集
 - 审核状态：已审核
@@ -1084,7 +1084,7 @@ All questions for a given screenshot share one split. ScreenQA Short reuses the 
 
 GUI 截图及配套的定位指令和目标，包含目标缺失的样例；图像访问按发布方条款受限。
 
-- 目录页面：https://awesomecua.com/resources/url-56bda04bd8d3a438deb3/
+- 目录页面：https://awesomecua.com/zh/resources/url-56bda04bd8d3a438deb3/
 - 原始来源：https://huggingface.co/datasets/PrentisAI/ScreenRef
 - 类型：数据集
 - 审核状态：已审核
@@ -1134,7 +1134,7 @@ The publisher reports these inventories in the companion annotation card. The re
 
 用于界面理解和交互研究的桌面 GUI 数据。
 
-- 目录页面：https://awesomecua.com/resources/url-2c2004baae4669f8169a/
+- 目录页面：https://awesomecua.com/zh/resources/url-2c2004baae4669f8169a/
 - 原始来源：https://huggingface.co/datasets/ServiceNow/ui-vision
 - 类型：数据集
 - 审核状态：已审核
@@ -1178,7 +1178,7 @@ This is an offline evaluation dataset. Application coverage and sample counts ar
 
 Aguvis 第一阶段训练数据集，汇集多个界面数据源的 GUI 元素定位标注和图像归档。
 
-- 目录页面：https://awesomecua.com/resources/url-06dd5ac7917c45d48509/
+- 目录页面：https://awesomecua.com/zh/resources/url-06dd5ac7917c45d48509/
 - 原始来源：https://huggingface.co/datasets/xlangai/aguvis-stage1
 - 类型：数据集
 - 审核状态：已审核
@@ -1228,7 +1228,7 @@ Stage 1 grounding release, Hub revision 5d11f8f5. JSON annotations and ZIP/multi
 
 Aguvis 第二阶段的界面轨迹数据集，用于在定位预训练后学习操作序列、规划和推理。
 
-- 目录页面：https://awesomecua.com/resources/url-b5e2127e07f692d516b9/
+- 目录页面：https://awesomecua.com/zh/resources/url-b5e2127e07f692d516b9/
 - 原始来源：https://huggingface.co/datasets/xlangai/aguvis-stage2
 - 类型：数据集
 - 审核状态：已审核
@@ -1278,7 +1278,7 @@ Stage 2 trajectory release, Hub revision bd6f1ed4, is distinct from Stage 1 grou
 
 基于截图的定位和图像描述样本，包含 UI 功能描述、目标坐标和边界框。
 
-- 目录页面：https://awesomecua.com/resources/url-79287058342289aa5d45/
+- 目录页面：https://awesomecua.com/zh/resources/url-79287058342289aa5d45/
 - 原始来源：https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k
 - 类型：数据集
 - 审核状态：已审核
@@ -1325,7 +1325,7 @@ Rows and unique screenshots are different units. The card documents image-downsc
 
 CAGUI 是随 AgentCPM-GUI 发布的中文 Android GUI 基准，包含面向控件和 OCR 文本的定位任务，以及面向中文应用多步任务的智能体任务。
 
-- 目录页面：https://awesomecua.com/resources/url-a06622da7688e3718a7b/
+- 目录页面：https://awesomecua.com/zh/resources/url-a06622da7688e3718a7b/
 - 原始来源：https://huggingface.co/datasets/openbmb/CAGUI
 - 类型：数据集
 - 审核状态：已审核
@@ -1355,7 +1355,7 @@ CAGUI 是随 AgentCPM-GUI 发布的中文 Android GUI 基准，包含面向控�
 
 用于根据文档内容选择图形界面表单操作的训练与评测数据，包含合成的训练、验证和测试集，以及真实浏览器表单演示。
 
-- 目录页面：https://awesomecua.com/resources/url-62d912811f786f787ae4/
+- 目录页面：https://awesomecua.com/zh/resources/url-62d912811f786f787ae4/
 - 原始来源：https://huggingface.co/datasets/cua-ai/cua-s1-forms
 - 类型：数据集
 - 审核状态：已审核
@@ -1389,7 +1389,7 @@ The card lists train.jsonl, validation.jsonl, test.jsonl, and demo.jsonl. Each r
 
 CUA-Gym 提供用于智能体研究的计算机使用环境和任务资源。
 
-- 目录页面：https://awesomecua.com/resources/url-6aa1aa58a7a888395189/
+- 目录页面：https://awesomecua.com/zh/resources/url-6aa1aa58a7a888395189/
 - 原始来源：https://huggingface.co/datasets/xlangai/CUA-Gym
 - 类型：数据集
 - 审核状态：已审核
@@ -1420,7 +1420,7 @@ CUA-Gym 提供用于智能体研究的计算机使用环境和任务资源。
 
 随 WebDreamer 项目发布的网页世界模型训练数据，包含提示词、图像、操作描述和回复。
 
-- 目录页面：https://awesomecua.com/resources/url-eadc6cba9ea46c38dd1d/
+- 目录页面：https://awesomecua.com/zh/resources/url-eadc6cba9ea46c38dd1d/
 - 原始来源：https://huggingface.co/datasets/osunlp/Dreamer-V1-Data
 - 类型：数据集
 - 审核状态：已审核
@@ -1467,7 +1467,7 @@ The card reports a cleaned size of 3.12M without defining the counting unit, so 
 
 随 GUI-R1 提供的训练和评估用 Parquet 数据包，包含 GUI 定位及移动端和网页端的动作预测数据。
 
-- 目录页面：https://awesomecua.com/resources/url-df680385f18b01a825be/
+- 目录页面：https://awesomecua.com/zh/resources/url-df680385f18b01a825be/
 - 原始来源：https://huggingface.co/datasets/ritzzai/GUI-R1
 - 类型：数据集
 - 审核状态：已审核
@@ -1503,7 +1503,7 @@ The Hub is a dataset repository with Parquet payloads, although the short card m
 
 跨应用 Android 交互操作片段，包含细粒度步骤指令、屏幕描述、操作上下文和目标框。
 
-- 目录页面：https://awesomecua.com/resources/url-511903ebfac45e6751b2/
+- 目录页面：https://awesomecua.com/zh/resources/url-511903ebfac45e6751b2/
 - 原始来源：https://huggingface.co/datasets/hflqf88888/GUIOdyssey
 - 类型：数据集
 - 审核状态：已审核
@@ -1552,7 +1552,7 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 
 从视频提取的移动端导航标注，将场景边界、屏幕或元素框与操作标签配对，用于训练和评估 GUI 智能体。
 
-- 目录页面：https://awesomecua.com/resources/url-570654ff67ecefa2b955/
+- 目录页面：https://awesomecua.com/zh/resources/url-570654ff67ecefa2b955/
 - 原始来源：https://huggingface.co/datasets/runamu/MONDAY
 - 类型：数据集
 - 审核状态：已审核
@@ -1609,7 +1609,7 @@ Split counts are video-annotation rows; scene and action totals are rounded publ
 
 MultiUI 网页 UI 训练数据的受限 Hub 版本；项目 README 称约有 730 万条样本，打包为两个训练阶段 JSON 文件和 21 个分卷 TAR 归档。
 
-- 目录页面：https://awesomecua.com/resources/url-8cd911654653a6ba8521/
+- 目录页面：https://awesomecua.com/zh/resources/url-8cd911654653a6ba8521/
 - 原始来源：https://huggingface.co/datasets/neulab/MultiUI
 - 类型：数据集
 - 审核状态：已审核
@@ -1659,7 +1659,7 @@ The sample count is the README's rounded figure; the gated files remain uncounte
 
 MMBench-GUI 提供标注数据和离线图像，用于评估横跨桌面、移动端及网页的 GUI 智能体对界面的理解与元素定位能力。
 
-- 目录页面：https://awesomecua.com/resources/url-339e28b1f939ae45f9fe/
+- 目录页面：https://awesomecua.com/zh/resources/url-339e28b1f939ae45f9fe/
 - 原始来源：https://huggingface.co/datasets/OpenGVLab/MMBench-GUI
 - 类型：数据集
 - 审核状态：已审核
@@ -1693,7 +1693,7 @@ The repository includes L1 and L2 annotation files and an offline image archive.
 
 OpenMobile 合成的 Android 智能体数据，包括由 AndroidWorld 运行轨迹生成的四个 LLaMA-Factory SFT 划分文件，以及原始轨迹和截图归档。
 
-- 目录页面：https://awesomecua.com/resources/url-3849b18aa87edefc6afd/
+- 目录页面：https://awesomecua.com/zh/resources/url-3849b18aa87edefc6afd/
 - 原始来源：https://huggingface.co/datasets/cckevinn/OpenMobile-Data
 - 类型：数据集
 - 审核状态：已审核
@@ -1747,7 +1747,7 @@ Instruction, step and app counts are the project page's headline figures. Stream
 
 OSWorld 2.0 基准的受限 Hub 发布版，包含 Python 任务类，其中的任务设置与评估逻辑未放入公开代码，以减少泄漏，并按基准版本固定。
 
-- 目录页面：https://awesomecua.com/resources/url-1c4a0389ace7c5cb8a4b/
+- 目录页面：https://awesomecua.com/zh/resources/url-1c4a0389ace7c5cb8a4b/
 - 原始来源：https://huggingface.co/datasets/xlangai/osworld_v2_tasks
 - 类型：数据集
 - 审核状态：已审核
@@ -1796,7 +1796,7 @@ Counts are files in the public main-branch manifest. Benchmark releases are pinn
 
 随 ScaleCUA 发布的跨平台训练数据，包含 Ubuntu、Windows、macOS、Android、iPhone 和网页截图的定位与导航标注。
 
-- 目录页面：https://awesomecua.com/resources/url-631e74223e198ef40202/
+- 目录页面：https://awesomecua.com/zh/resources/url-631e74223e198ef40202/
 - 原始来源：https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data
 - 类型：数据集
 - 审核状态：已审核
@@ -1840,7 +1840,7 @@ The six categories include Web. Grounding and trajectory annotations follow diff
 
 Screen Point-and-Read Data 收录桌面系统、网页及移动端截图，配有指定点、区域标注和修订后的描述，用于研究界面布局理解。
 
-- 目录页面：https://awesomecua.com/resources/url-4b747a376f628e6f9760/
+- 目录页面：https://awesomecua.com/zh/resources/url-4b747a376f628e6f9760/
 - 原始来源：https://huggingface.co/datasets/yfan1997/ScreenPR
 - 类型：数据集
 - 审核状态：已审核
@@ -1874,7 +1874,7 @@ The dataset card documents point coordinates, human-annotated region boxes, refe
 
 包含屏幕观察、先前状态和连续指针操作的 GUI 拖动数据，以轨迹文件和 Parquet 格式提供。
 
-- 目录页面：https://awesomecua.com/resources/url-fe43af1801032be708cc/
+- 目录页面：https://awesomecua.com/zh/resources/url-fe43af1801032be708cc/
 - 原始来源：https://huggingface.co/datasets/h-siyuan/ScreenDrag
 - 类型：数据集
 - 审核状态：已审核
@@ -1921,7 +1921,7 @@ Raw and Parquet folders are alternative views of the same data. Each sample desc
 
 密集标注渲染网页截图中的可见 UI 元素，提供边界框、55 种元素类别、文本、可交互性和阅读顺序，由自动抓取与过滤流程生成。
 
-- 目录页面：https://awesomecua.com/resources/url-98e8a413ddd670214755/
+- 目录页面：https://awesomecua.com/zh/resources/url-98e8a413ddd670214755/
 - 原始来源：https://huggingface.co/datasets/docling-project/screenparse
 - 类型：数据集
 - 审核状态：已审核
@@ -1972,7 +1972,7 @@ Screenshots, element annotations, classes and shards are different units and are
 
 基于 OmniAct 截图构建的 7,496 个桌面定位样例，其标注经 GPT-4o 改写，用于描述元素外观、空间关系和功能。
 
-- 目录页面：https://awesomecua.com/resources/url-f976dec3d1c5e0bedbd7/
+- 目录页面：https://awesomecua.com/zh/resources/url-f976dec3d1c5e0bedbd7/
 - 原始来源：https://huggingface.co/datasets/showlab/ShowUI-desktop-8K
 - 类型：数据集
 - 审核状态：已审核
@@ -2018,7 +2018,7 @@ The card declares 7,496 examples for the 8K release. Images and original annotat
 
 UGround 的受限访问网页定位训练数据，分为 Web-Hybrid 和 Web-Direct 子集；边界框版本的坐标归一化至 0-999。
 
-- 目录页面：https://awesomecua.com/resources/url-c4898ad1bfc049926a63/
+- 目录页面：https://awesomecua.com/zh/resources/url-c4898ad1bfc049926a63/
 - 原始来源：https://huggingface.co/datasets/osunlp/UGround-V1-Data
 - 类型：数据集
 - 审核状态：已审核
@@ -2062,7 +2062,7 @@ Public API revision 33325877 lists Parquet assets but gated=auto; the pinned raw
 
 UGround-V1-Data-Box 包含带有图像和对话的 Web-Hybrid 与 Web-Direct 图形界面定位数据；其边界框版本使用归一化坐标。
 
-- 目录页面：https://awesomecua.com/resources/url-9e89e3332db1770388bc/
+- 目录页面：https://awesomecua.com/zh/resources/url-9e89e3332db1770388bc/
 - 原始来源：https://huggingface.co/datasets/osunlp/UGround-V1-Data-Box
 - 类型：数据集
 - 审核状态：已审核
@@ -2096,7 +2096,7 @@ The repository file list contains Parquet shards. The rendered page specifies im
 
 UI-AGILE 训练标注和截图，以及转换后的 GUI 定位和 AndroidControl 评估文件。
 
-- 目录页面：https://awesomecua.com/resources/url-41abb1b7206689cf5057/
+- 目录页面：https://awesomecua.com/zh/resources/url-41abb1b7206689cf5057/
 - 原始来源：https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data
 - 类型：数据集
 - 审核状态：已审核
@@ -2130,7 +2130,7 @@ Public JSON, image archives and Parquet evaluation files are present. The card h
 
 约 8 万条 UI 元素数据中的 24,978 条子集，将截图和指令与目标边界框、元素名称、描述、类型、OCR、用途及点击预期标注配对。
 
-- 目录页面：https://awesomecua.com/resources/url-f2cf4ec32aa0b3ba6b95/
+- 目录页面：https://awesomecua.com/zh/resources/url-f2cf4ec32aa0b3ba6b95/
 - 原始来源：https://huggingface.co/datasets/agentsea/wave-ui-25k
 - 类型：数据集
 - 审核状态：已审核
@@ -2183,7 +2183,7 @@ The row count comes from the card's dataset_info metadata; rows count labeled el
 
 Video2GUI 发布的 WildGUI 数据：从互联网教程视频提取逐任务 JSONL 轨迹，含网页、桌面和移动端的指令、计划与定位操作，另提供第 1 至 15 部分的截图分片。
 
-- 目录页面：https://awesomecua.com/resources/url-daf52475338f385b9310/
+- 目录页面：https://awesomecua.com/zh/resources/url-daf52475338f385b9310/
 - 原始来源：https://huggingface.co/datasets/xwm/WildGUI
 - 类型：数据集
 - 审核状态：已审核
@@ -2234,7 +2234,7 @@ Shard counts were computed by script from the pinned Hub API file list; they cou
 
 配套 Hub 仓库存放 WildGUI 第 16 至 19 部分的截图 tar 分片；对应的轨迹标注及其他部分的图像位于 WildGUI 主仓库。
 
-- 目录页面：https://awesomecua.com/resources/url-348f31b5b339403ec26f/
+- 目录页面：https://awesomecua.com/zh/resources/url-348f31b5b339403ec26f/
 - 原始来源：https://huggingface.co/datasets/joker-112/WildGUI_Screenshots
 - 类型：数据集
 - 审核状态：已审核
@@ -2283,7 +2283,7 @@ Shard count computed by script from the pinned Hub API file list; it counts file
 
 AgentNet 包含 Windows、macOS 和 Ubuntu 上的 22.6K 个人工标注桌面计算机使用任务，随 OpenCUA 发布，用于训练和评估视觉语言动作模型。
 
-- 目录页面：https://awesomecua.com/resources/url-964d70c40bfc5ca8e1ee/
+- 目录页面：https://awesomecua.com/zh/resources/url-964d70c40bfc5ca8e1ee/
 - 原始来源：https://huggingface.co/datasets/xlangai/AgentNet
 - 类型：数据集
 - 审核状态：已审核
@@ -2327,7 +2327,7 @@ The card distinguishes human task instructions from generated summaries, reasoni
 
 AgentRewardBench 的 Hugging Face 数据集发布版本，包含来自 WebArena、VisualWebArena、AssistantBench、WorkArena 和 OSWorld 的轨迹评测实例。
 
-- 目录页面：https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/
+- 目录页面：https://awesomecua.com/zh/resources/url-866251b68d6bba8b8ba6/
 - 原始来源：https://huggingface.co/datasets/McGill-NLP/agent-reward-bench
 - 类型：数据集
 - 审核状态：已审核
@@ -2357,7 +2357,7 @@ AgentRewardBench 的 Hugging Face 数据集发布版本，包含来自 WebArena�
 
 AMEX 的一个 8K 样本子集，收录不同应用、设备形态和屏幕密度的移动应用截图，用于 GUI 定位预训练。
 
-- 目录页面：https://awesomecua.com/resources/url-2b4b3e54d9c52f868b4e/
+- 目录页面：https://awesomecua.com/zh/resources/url-2b4b3e54d9c52f868b4e/
 - 原始来源：https://huggingface.co/datasets/zonghanHZH/AMEX-8k
 - 类型：数据集
 - 审核状态：已审核
@@ -2391,7 +2391,7 @@ The card identifies AMEX as the source dataset and lists Apache 2.0 licensing. I
 
 android_control_test 提供经过处理的 Android Control 测试集，用于评估 InfiGUI-R1 移动界面智能体。
 
-- 目录页面：https://awesomecua.com/resources/url-1f248862e4b691b85343/
+- 目录页面：https://awesomecua.com/zh/resources/url-1f248862e4b691b85343/
 - 原始来源：https://huggingface.co/datasets/Reallm-Labs/android_control_test
 - 类型：数据集
 - 审核状态：已审核
@@ -2427,7 +2427,7 @@ The repository lists an Android Control test-set archive. The card points to pro
 
 从移动 GUI 轨迹构建的 HTML 及标注数据，用于 Code2World 训练以操作为条件的 GUI 状态预测。
 
-- 目录页面：https://awesomecua.com/resources/url-cf4d2d45a7314cb16acb/
+- 目录页面：https://awesomecua.com/zh/resources/url-cf4d2d45a7314cb16acb/
 - 原始来源：https://huggingface.co/datasets/GD-ML/AndroidCode
 - 类型：数据集
 - 审核状态：已审核
@@ -2478,7 +2478,7 @@ The manifest lists 58,953 HTML files; the >80k reported pairs use a different un
 
 随 Aria-UI 发布的按交互片段组织的移动端 GUI 定位数据，用于在目标定位中纳入交互历史。
 
-- 目录页面：https://awesomecua.com/resources/url-07b65dc937756ddff4a1/
+- 目录页面：https://awesomecua.com/zh/resources/url-07b65dc937756ddff4a1/
 - 原始来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Context-aware_Data
 - 类型：数据集
 - 审核状态：已审核
@@ -2526,7 +2526,7 @@ The Hub card contains only licensing metadata. The project README supports the e
 
 涵盖网页、移动端和 Ubuntu 桌面界面的 GUI 元素描述与定位指令。
 
-- 目录页面：https://awesomecua.com/resources/url-f8566bd0394d36ed4f8e/
+- 目录页面：https://awesomecua.com/zh/resources/url-f8566bd0394d36ed4f8e/
 - 原始来源：https://huggingface.co/datasets/Aria-UI/Aria-UI_Data
 - 类型：数据集
 - 审核状态：已审核
@@ -2578,7 +2578,7 @@ The card identifies deprecated desktop files with screenshot-mapping errors and 
 
 这是 AutoGUI 的训练数据仓库，包含带标注的图形界面数据集和选定的视觉数据集，并说明如何合并其 JSON 文件用于微调。
 
-- 目录页面：https://awesomecua.com/resources/url-02370867dd4b96000a33/
+- 目录页面：https://awesomecua.com/zh/resources/url-02370867dd4b96000a33/
 - 原始来源：https://huggingface.co/datasets/WebAgent/AutoGUI-v1-zip
 - 类型：数据集
 - 审核状态：已审核
@@ -2614,7 +2614,7 @@ The repository lists JSON data and image archives. The card instructs users to a
 
 一个用于浏览器智能体安全红队评测的数据集，包含 100 种有害的浏览器相关行为，覆盖真实网站与合成网站。
 
-- 目录页面：https://awesomecua.com/resources/url-dec73112f4c2dad889cb/
+- 目录页面：https://awesomecua.com/zh/resources/url-dec73112f4c2dad889cb/
 - 原始来源：https://huggingface.co/datasets/ScaleAI/BrowserART
 - 类型：数据集
 - 审核状态：已审核
@@ -2648,7 +2648,7 @@ The repository file list includes a behavior CSV. The card says the synthetic we
 
 WildAWM 提供 341 项跨命令行、MCP 和网页界面的计算机使用任务，包含固定的任务环境以及供 Harbor 运行的训练集和测试集。
 
-- 目录页面：https://awesomecua.com/resources/url-eb8af3be965f5c0fde6a/
+- 目录页面：https://awesomecua.com/zh/resources/url-eb8af3be965f5c0fde6a/
 - 原始来源：https://huggingface.co/datasets/ChilleD/WildAWM
 - 类型：数据集
 - 审核状态：已审核
@@ -2682,7 +2682,7 @@ The card lists 100 supervised fine-tuning tasks, 208 reinforcement-learning task
 
 一个包含 311 项图像任务的数据集，用于评估通过迭代检索图像和文本来回答问题的多模态网页浏览智能体。
 
-- 目录页面：https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/
+- 目录页面：https://awesomecua.com/zh/resources/url-8fd4e25ae5c0fe619969/
 - 原始来源：https://huggingface.co/datasets/Cie1/MMSearch-Plus
 - 类型：数据集
 - 审核状态：已审核
@@ -2716,7 +2716,7 @@ The card describes five Arrow shards, encrypted answers, and a decryption helper
 
 面向真实网站日常任务的浏览器智能体数据集，包含 V1 和 V2 测试集、任务背景资料，以及拦截最终提交的规则。
 
-- 目录页面：https://awesomecua.com/resources/url-9c96a767b56ba0eb4494/
+- 目录页面：https://awesomecua.com/zh/resources/url-9c96a767b56ba0eb4494/
 - 原始来源：https://huggingface.co/datasets/TIGER-Lab/ClawBench
 - 类型：数据集
 - 审核状态：已审核
@@ -2750,7 +2750,7 @@ The card documents Parquet test splits, supplementary JSON files, a leaderboard 
 
 面向六项图形界面定位基准的评测数据，包含图像、提示词和已有输出，可用于推理、判定与指标计算流程。
 
-- 目录页面：https://awesomecua.com/resources/url-e8cea6261ab19611ad23/
+- 目录页面：https://awesomecua.com/zh/resources/url-e8cea6261ab19611ad23/
 - 原始来源：https://huggingface.co/datasets/johnzqlu/clawgui-eval
 - 类型：数据集
 - 审核状态：已审核
@@ -2784,7 +2784,7 @@ The repository lists image.zip, data.zip, and output.zip. The card says the arch
 
 ConClick-Data 提供带目标坐标和干扰项框的截图定位样本，以 JSONL 文件形式发布，供训练使用。
 
-- 目录页面：https://awesomecua.com/resources/url-bf416a816f74718f94dd/
+- 目录页面：https://awesomecua.com/zh/resources/url-bf416a816f74718f94dd/
 - 原始来源：https://huggingface.co/datasets/ruotian/ConClick-Data
 - 类型：数据集
 - 审核状态：已审核
@@ -2818,7 +2818,7 @@ The card describes separate target–distractor and ordinary grounding files der
 
 用于学习调用 Android 意图的指令到函数调用样例，包含面向移动任务执行的训练、测试和 API 标注文件。
 
-- 目录页面：https://awesomecua.com/resources/url-ae8f5208eea9e7f1f606/
+- 目录页面：https://awesomecua.com/zh/resources/url-ae8f5208eea9e7f1f606/
 - 原始来源：https://huggingface.co/datasets/mllmTeam/DroidCall
 - 类型：数据集
 - 审核状态：已审核
@@ -2855,7 +2855,7 @@ The release provides JSONL data and API annotations. This is Android intent-call
 
 该数据集收录 STEVE-R1 在 WindowsAgentArena 上的评估轨迹，将任务截图、智能体回复、操作记录和结果标签配对保存。
 
-- 目录页面：https://awesomecua.com/resources/url-2bab4b78c81cde1d5ecb/
+- 目录页面：https://awesomecua.com/zh/resources/url-2bab4b78c81cde1d5ecb/
 - 原始来源：https://huggingface.co/datasets/Fanbin/waa_steve_trajectories
 - 类型：数据集
 - 审核状态：已审核
@@ -2889,7 +2889,7 @@ The card describes 16 zip files covering experiments on 154 tasks and 37K action
 
 Gelato-30B-A3B 和 GTA1-32B 在相同的 GPT-5 规划、基于 GTA1.5 的框架中各运行三轮 OS-World 任务，提供逐任务轨迹、初始及逐步截图和自动评估结果。
 
-- 目录页面：https://awesomecua.com/resources/url-aed610c413d6bb9f1caa/
+- 目录页面：https://awesomecua.com/zh/resources/url-aed610c413d6bb9f1caa/
 - 原始来源：https://huggingface.co/datasets/mlfoundations/gelato-osworld-agent-trajectories
 - 类型：数据集
 - 审核状态：已审核
@@ -2943,7 +2943,7 @@ Counts come from a script over the pinned Hub file list. Every task directory ho
 
 扁平化的网页交互训练记录，包含无障碍树观察、助手续写、轨迹奖励和步骤链接元数据。
 
-- 目录页面：https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/
+- 目录页面：https://awesomecua.com/zh/resources/url-a13a187bc058fbb4f6af/
 - 原始来源：https://huggingface.co/datasets/apurvaga/go-browse-wa
 - 类型：数据集
 - 审核状态：已审核
@@ -2992,7 +2992,7 @@ The card count is flattened step records. Both successful and unsuccessful traje
 
 go-browse-wa-raw 是浏览器智能体轨迹数据集，包含页面观察、操作、目标、奖励和图像。其训练集包含 196462 个样本。
 
-- 目录页面：https://awesomecua.com/resources/url-edb0eadcc3df5559e941/
+- 目录页面：https://awesomecua.com/zh/resources/url-edb0eadcc3df5559e941/
 - 原始来源：https://huggingface.co/datasets/apurvaga/go-browse-wa-raw
 - 类型：数据集
 - 审核状态：已审核
@@ -3026,7 +3026,7 @@ The schema includes accessibility-tree text, pruned HTML, action errors, thought
 
 从 GroundCUA 选取的桌面定位提示，按基于点击的强化学习格式组织，并使用目标框奖励。
 
-- 目录页面：https://awesomecua.com/resources/url-4e71dc456c4112eed727/
+- 目录页面：https://awesomecua.com/zh/resources/url-4e71dc456c4112eed727/
 - 原始来源：https://huggingface.co/datasets/PrentisAI/GroundGUI_RL
 - 类型：数据集
 - 审核状态：已审核
@@ -3075,7 +3075,7 @@ Publisher-reported counts cover a selection and reformatting of GroundCUA. No in
 
 Phi-Ground 项目为其 Phi-Ground-Any 模型提供链接的公开训练归档文件。
 
-- 目录页面：https://awesomecua.com/resources/url-d1830de02226155ee16d/
+- 目录页面：https://awesomecua.com/zh/resources/url-d1830de02226155ee16d/
 - 原始来源：https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI
 - 类型：数据集
 - 审核状态：已审核
@@ -3111,7 +3111,7 @@ The Hub exposes train.zip and a card containing only license/language metadata. 
 
 一个将 GUI 截图与详细文字描述配对的数据集，以包含 1,263 条图文样本的训练集形式发布。
 
-- 目录页面：https://awesomecua.com/resources/url-fd24a394359c59b35c71/
+- 目录页面：https://awesomecua.com/zh/resources/url-fd24a394359c59b35c71/
 - 原始来源：https://huggingface.co/datasets/Agent-Eval-Refine/GUI-Dense-Descriptions
 - 类型：数据集
 - 审核状态：已审核
@@ -3145,7 +3145,7 @@ The card lists image and string text fields in a train split. The repository fil
 
 用于 SpiritSight 的已发布 GUI-Lasagne 训练数据集，以按日期划分的归档分片形式分发，供视觉界面学习使用。
 
-- 目录页面：https://awesomecua.com/resources/url-0c5659ca9e59d942aea3/
+- 目录页面：https://awesomecua.com/zh/resources/url-0c5659ca9e59d942aea3/
 - 原始来源：https://huggingface.co/datasets/SenseLLM/GUI-Lasagne-L1
 - 类型：数据集
 - 审核状态：已审核
@@ -3181,7 +3181,7 @@ Public archive shards are present. The dataset card declares Apache-2.0; it does
 
 覆盖 Android、iOS、网站和 XR 等 6 类场景的 GUI 视频基准及训练数据，包含面向图像和视频 LLM 的 8 类问题，以及 GUI-Vid 模型。
 
-- 目录页面：https://awesomecua.com/resources/github-dongping-chen-gui-world/
+- 目录页面：https://awesomecua.com/zh/resources/github-dongping-chen-gui-world/
 - 原始来源：https://github.com/Dongping-Chen/GUI-World
 - 类型：数据集
 - 审核状态：已审核
@@ -3227,7 +3227,7 @@ Taxonomy counts describe coverage; video and question counts use different units
 
 GUI-World 的 Hub 发布版，收录 Android、iOS、网站、软件、多应用和 XR 六类场景的 GUI 录屏视频，以及面向 GUI 视频问答的训练与基准标注 JSONL。
 
-- 目录页面：https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/
+- 目录页面：https://awesomecua.com/zh/resources/url-40ce19527f25bfa3bd63/
 - 原始来源：https://huggingface.co/datasets/ONE-Lab/GUI-World
 - 类型：数据集
 - 审核状态：已审核
@@ -3281,7 +3281,7 @@ Video files were counted from the Hub file manifest; video, question and annotat
 
 一个收录图形界面和终端操作记录的数据集。图形界面会话包含带时间戳的截图、鼠标事件和键盘事件；终端会话包含输入与输出日志。
 
-- 目录页面：https://awesomecua.com/resources/url-dfa0c83ebd679a37ad00/
+- 目录页面：https://awesomecua.com/zh/resources/url-dfa0c83ebd679a37ad00/
 - 原始来源：https://huggingface.co/datasets/cybergod-agi/gui_and_terminal_operation_recording
 - 类型：数据集
 - 审核状态：已审核
@@ -3315,7 +3315,7 @@ The repository lists individual recording files and a 7z archive of the same dir
 
 GUI Reflection 的离线监督微调数据，以 JSONL 文件发布；配套图像需从卡片列出的原始数据集获取。
 
-- 目录页面：https://awesomecua.com/resources/url-528f6fe128b77e9615aa/
+- 目录页面：https://awesomecua.com/zh/resources/url-528f6fe128b77e9615aa/
 - 原始来源：https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train
 - 类型：数据集
 - 审核状态：已审核
@@ -3349,7 +3349,7 @@ The repository lists JSONL files for several source datasets and reflection exam
 
 用于将通用 VLM 转化为 GUI 智能体的 3 个数据集：面向 OCR 和定位的 GUIEnv、含 67k 条单步及 15k 条多步网页和 Android 操作的 GUIAct，以及 GUIChat 对话数据。
 
-- 目录页面：https://awesomecua.com/resources/github-yiye3-guicourse/
+- 目录页面：https://awesomecua.com/zh/resources/github-yiye3-guicourse/
 - 原始来源：https://github.com/yiye3/GUICourse
 - 类型：数据集
 - 审核状态：已审核
@@ -3378,7 +3378,7 @@ The repository lists JSONL files for several source datasets and reflection exam
 
 InSTA 项目约 15 万项网页导航任务，每项提供网站域名、指令、建议步骤和成功标准，训练集与测试集取自不同网站。
 
-- 目录页面：https://awesomecua.com/resources/url-a80c7330dbfd4f897693/
+- 目录页面：https://awesomecua.com/zh/resources/url-a80c7330dbfd4f897693/
 - 原始来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3
 - 类型：数据集
 - 审核状态：已审核
@@ -3433,7 +3433,7 @@ Split sizes are the card's dataset_info num_examples. The distinct-domain count 
 
 这是一个将屏幕录像与键盘、鼠标事件配对的数据集归档。时间戳文件用于对应视频帧与记录下的输入操作。
 
-- 目录页面：https://awesomecua.com/resources/url-ede673f7e6f369eae600/
+- 目录页面：https://awesomecua.com/zh/resources/url-ede673f7e6f369eae600/
 - 原始来源：https://huggingface.co/datasets/James4Ever0/the_frozen_forest
 - 类型：数据集
 - 审核状态：已审核
@@ -3467,7 +3467,7 @@ The repository contains recordings.rar. The card describes timestamped folders c
 
 与界面分解研究及 OSWorld-G 基准相关的合成 GUI 定位数据。
 
-- 目录页面：https://awesomecua.com/resources/url-e062cf1445eaee0f3ade/
+- 目录页面：https://awesomecua.com/zh/resources/url-e062cf1445eaee0f3ade/
 - 原始来源：https://huggingface.co/datasets/xlangai/Jedi
 - 类型：数据集
 - 审核状态：已审核
@@ -3515,7 +3515,7 @@ Coordinates were resized for a specified Qwen2.5-VL image processor and must rem
 
 LexBench-Trajectory-Replay 提供 30 个公开网站任务，包含固定的浏览器操作和断言，用于评估浏览器执行与信息获取。
 
-- 目录页面：https://awesomecua.com/resources/url-c049eba816b97d5076d0/
+- 目录页面：https://awesomecua.com/zh/resources/url-c049eba816b97d5076d0/
 - 原始来源：https://huggingface.co/datasets/Lexmount/LexBench-Trajectory-Replay
 - 类型：数据集
 - 审核状态：已审核
@@ -3549,7 +3549,7 @@ The card identifies a test split in data/curated-v1.jsonl and a runtime suite in
 
 LexBench-WebArena-Replay 将 WebArena 任务定义与固定的浏览器操作配对，供 Browser Eval 重放操作并对已发布的 812 项任务评估完成情况。
 
-- 目录页面：https://awesomecua.com/resources/url-a96c70bcf5a235f980b6/
+- 目录页面：https://awesomecua.com/zh/resources/url-a96c70bcf5a235f980b6/
 - 原始来源：https://huggingface.co/datasets/Lexmount/LexBench-WebArena-Replay
 - 类型：数据集
 - 审核状态：已审核
@@ -3583,7 +3583,7 @@ The release includes a JSONL viewer split and an archive of runtime suites, task
 
 一个用于训练世界模型的图形界面屏幕状态转换数据集，并附有 RSWT-Bench，用于评估观察到的屏幕是否由预期操作产生。
 
-- 目录页面：https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/
+- 目录页面：https://awesomecua.com/zh/resources/url-fde41ce8459b7d3f647f/
 - 原始来源：https://huggingface.co/datasets/jiamingzz/lgwm-data
 - 类型：数据集
 - 审核状态：已审核
@@ -3617,7 +3617,7 @@ The card lists training and validation transition indices, screenshot shards and
 
 这是供 Lumos-I 定位模块训练的 JSONL 数据集，汇集数学、问答和网页智能体标注，其中包括 Mind2Web 样本。
 
-- 目录页面：https://awesomecua.com/resources/url-87bba046fba8c1cd968c/
+- 目录页面：https://awesomecua.com/zh/resources/url-87bba046fba8c1cd968c/
 - 原始来源：https://huggingface.co/datasets/ai2lumos/lumos_unified_ground_iterative
 - 类型：数据集
 - 审核状态：已审核
@@ -3651,7 +3651,7 @@ The repository lists a JSONL data file and an Apache-2.0 license. The card ident
 
 lumos_unified_plan_iterative 是用于训练 Lumos 规划模块的 JSONL 数据集，汇集了网页智能体、数学和复杂问答任务的样本。
 
-- 目录页面：https://awesomecua.com/resources/url-543aff764901777e6ad5/
+- 目录页面：https://awesomecua.com/zh/resources/url-543aff764901777e6ad5/
 - 原始来源：https://huggingface.co/datasets/ai2lumos/lumos_unified_plan_iterative
 - 类型：数据集
 - 审核状态：已审核
@@ -3685,7 +3685,7 @@ The repository includes a JSONL data file. The card lists Mind2Web among the dat
 
 这是用于训练 Lumos-Iterative 网页智能体规划模块的数据集；数据概览列出 1009 条 Mind2Web 任务标注。
 
-- 目录页面：https://awesomecua.com/resources/url-0772193ae2967c407d22/
+- 目录页面：https://awesomecua.com/zh/resources/url-0772193ae2967c407d22/
 - 原始来源：https://huggingface.co/datasets/ai2lumos/lumos_web_agent_plan_iterative
 - 类型：数据集
 - 审核状态：已审核
@@ -3719,7 +3719,7 @@ The repository contains a JSONL data file. The card declares Apache-2.0 and link
 
 该数据集收录网站生成指令和 UI 测试用例，用于评估交互式网站，并设有独立的训练集和测试集。
 
-- 目录页面：https://awesomecua.com/resources/url-405959de004b6e32c911/
+- 目录页面：https://awesomecua.com/zh/resources/url-405959de004b6e32c911/
 - 原始来源：https://huggingface.co/datasets/luzimu/WebGen-Bench
 - 类型：数据集
 - 审核状态：已审核
@@ -3753,7 +3753,7 @@ The card reports 6667 training instructions, 101 test instructions and 647 test 
 
 Magma-AITW-SoM 提供用于 Magma 多模态智能体下游任务微调的 AITW 数据。
 
-- 目录页面：https://awesomecua.com/resources/url-ffe40334f1050b94f8b2/
+- 目录页面：https://awesomecua.com/zh/resources/url-ffe40334f1050b94f8b2/
 - 原始来源：https://huggingface.co/datasets/MagmaAI/Magma-AITW-SoM
 - 类型：数据集
 - 审核状态：已审核
@@ -3787,7 +3787,7 @@ The card declares an MIT license. The listed repository files include Arrow data
 
 Magma-Mind2Web-SoM 提供用于 Magma 多模态智能体下游微调的 Mind2Web 数据。
 
-- 目录页面：https://awesomecua.com/resources/url-e8256e338a9c379ca85b/
+- 目录页面：https://awesomecua.com/zh/resources/url-e8256e338a9c379ca85b/
 - 原始来源：https://huggingface.co/datasets/MagmaAI/Magma-Mind2Web-SoM
 - 类型：数据集
 - 审核状态：已审核
@@ -3821,7 +3821,7 @@ The card declares an MIT license. The listed repository files include Arrow data
 
 SafeArena 提供安全与有害任务分组，用于评估自主网页智能体的安全性；配套环境归档需申请权限后获取。
 
-- 目录页面：https://awesomecua.com/resources/url-be4ca14d1724b0cf8314/
+- 目录页面：https://awesomecua.com/zh/resources/url-be4ca14d1724b0cf8314/
 - 原始来源：https://huggingface.co/datasets/McGill-NLP/safearena
 - 类型：数据集
 - 审核状态：已审核
@@ -3855,7 +3855,7 @@ The page names safe.json and harm.json task files and requires users to request 
 
 MemGUI-Bench 移动 GUI 智能体及模型的运行记录按智能体打包为 ZIP，包含逐步截图、操作日志和评估输出，并提供供排行榜查看器使用的压缩轨迹预览。
 
-- 目录页面：https://awesomecua.com/resources/url-2b7363c3a20d8022b319/
+- 目录页面：https://awesomecua.com/zh/resources/url-2b7363c3a20d8022b319/
 - 原始来源：https://huggingface.co/datasets/lgy0404/memgui-bench-trajs
 - 类型：数据集
 - 审核状态：已审核
@@ -3906,7 +3906,7 @@ Archives and preview bundles are different packagings and overlap in the agents 
 
 META-GUI 的 Hub 发布版，收录智能体操作移动应用的任务型对话；每轮将对话与截图、视图层级 XML、记录的 GUI 操作和回复配对。
 
-- 目录页面：https://awesomecua.com/resources/url-05a9a7c592089d1ddd46/
+- 目录页面：https://awesomecua.com/zh/resources/url-05a9a7c592089d1ddd46/
 - 原始来源：https://huggingface.co/datasets/X-LANCE/META-GUI
 - 类型：数据集
 - 审核状态：已审核
@@ -3955,7 +3955,7 @@ Splits are the two Hub archive names; the baseline README's processed data uses 
 
 Mind2Web 2 在 Hub 上自动设置访问限制的发布版：用于长程自主网页搜索的开发集与测试集任务 CSV，以及充当评判智能体的 130 个逐任务 Python 评估脚本。
 
-- 目录页面：https://awesomecua.com/resources/url-4f4c4f0bf0cec93c59d1/
+- 目录页面：https://awesomecua.com/zh/resources/url-4f4c4f0bf0cec93c59d1/
 - 原始来源：https://huggingface.co/datasets/osunlp/Mind2Web-2
 - 类型：数据集
 - 审核状态：已审核
@@ -4004,7 +4004,7 @@ The script count is the number of distinct .py files in the pinned tree listing.
 
 Mind2Web 步骤经 MultiUI 作者重新打包为 JPEG 截图及逐步 JSONL 查询和候选元素框，用于 MultiUI 基于截图的 Mind2Web 操作评估。
 
-- 目录页面：https://awesomecua.com/resources/url-56b5936190d20fa3d1c1/
+- 目录页面：https://awesomecua.com/zh/resources/url-56b5936190d20fa3d1c1/
 - 原始来源：https://huggingface.co/datasets/neulab/Mind2Web_bbox_eval
 - 类型：数据集
 - 审核状态：已审核
@@ -4055,7 +4055,7 @@ Counts were taken with a script from the archives' ZIP central directories at re
 
 小米 MobileVLM 的预训练语料，以各应用的图结构归档文件分发，涵盖百度地图、QQ 音乐、携程和唯品会等移动应用。
 
-- 目录页面：https://awesomecua.com/resources/url-b80bfa0a4939a493a11f/
+- 目录页面：https://awesomecua.com/zh/resources/url-b80bfa0a4939a493a11f/
 - 原始来源：https://huggingface.co/datasets/xwk123/Mobile3M
 - 类型：数据集
 - 审核状态：已审核
@@ -4103,7 +4103,7 @@ Official README calls this a partial training release and says app data will be 
 
 使用优化后的 DroidBot 从 20,000 多个 Google Play 应用采集的超过 600,000 对 Android 截图与视图层级数据，包含各应用的完整轨迹。
 
-- 目录页面：https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/
+- 目录页面：https://awesomecua.com/zh/resources/url-cc4aa8caeee0cff58e73/
 - 原始来源：https://huggingface.co/datasets/mllmTeam/MobileViews
 - 类型：数据集
 - 审核状态：已审核
@@ -4148,7 +4148,7 @@ Counts describe the card’s first-release claim. The card distinguishes globall
 
 为 10,364 张移动应用截图提供图标和文字边界框标注，含 154 个图标类别及文字字体标签，以 LabelMe JSON 和训练、验证、测试划分发布；此次发布将标注与所引用的图像分开提供。
 
-- 目录页面：https://awesomecua.com/resources/url-c7489f15e7883a695832/
+- 目录页面：https://awesomecua.com/zh/resources/url-c7489f15e7883a695832/
 - 原始来源：https://huggingface.co/datasets/OpenDFM/MoCon
 - 类型：数据集
 - 审核状态：已审核
@@ -4203,7 +4203,7 @@ split.csv assigns each of the 10,364 annotation IDs to exactly one split, and th
 
 Android 应用 GUI 抓取数据包含逐应用导航图，以 UI 操作连接屏幕 ID，另有 200 个分片归档保存捕获的屏幕。
 
-- 目录页面：https://awesomecua.com/resources/url-be89a250747f507a27ef/
+- 目录页面：https://awesomecua.com/zh/resources/url-be89a250747f507a27ef/
 - 原始来源：https://huggingface.co/datasets/OpenDFM/MoGUI
 - 类型：数据集
 - 审核状态：已审核
@@ -4254,7 +4254,7 @@ Each metadata shard maps an app package to a root screen, a valid-screen list an
 
 移动端任务的操作演示和自然语言指令。
 
-- 目录页面：https://awesomecua.com/resources/github-aburns4-motif/
+- 目录页面：https://awesomecua.com/zh/resources/github-aburns4-motif/
 - 原始来源：https://github.com/aburns4/MoTIF
 - 类型：数据集
 - 审核状态：已审核
@@ -4296,7 +4296,7 @@ The raw collection mixes action, language, exploration, and unusable/other trace
 
 NAIL-Group/ClawBench 发布用于评估浏览器智能体的真实网站任务数据；数据卡介绍 V1、V2 任务集、任务元数据，以及通过 datasets 库加载的方法。
 
-- 目录页面：https://awesomecua.com/resources/url-146edbaee6701bdb6ee0/
+- 目录页面：https://awesomecua.com/zh/resources/url-146edbaee6701bdb6ee0/
 - 原始来源：https://huggingface.co/datasets/NAIL-Group/ClawBench
 - 类型：数据集
 - 审核状态：已审核
@@ -4330,7 +4330,7 @@ The repository lists a Parquet data file, test cases, extra task information, an
 
 ClawBench V1 Traces 发布浏览器智能体运行记录，包含屏幕视频、操作、网络流量和智能体消息，可用于回放、调试及重新评分。
 
-- 目录页面：https://awesomecua.com/resources/url-e7653b062bded670198a/
+- 目录页面：https://awesomecua.com/zh/resources/url-e7653b062bded670198a/
 - 原始来源：https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace
 - 类型：数据集
 - 审核状态：已审核
@@ -4364,7 +4364,7 @@ Each run directory includes metadata, recording.mp4, actions.jsonl, requests.jso
 
 随 NNetNav 发布的实时网站场景浏览器交互数据，训练文件和测试文件分别提供。
 
-- 目录页面：https://awesomecua.com/resources/url-4f47abde8cd28a1ec1e1/
+- 目录页面：https://awesomecua.com/zh/resources/url-4f47abde8cd28a1ec1e1/
 - 原始来源：https://huggingface.co/datasets/stanfordnlp/nnetnav-live
 - 类型：数据集
 - 审核状态：已审核
@@ -4399,7 +4399,7 @@ The Hub card supplies a license but no detailed schema. Dataset purpose is suppo
 
 OneJev-Data 以 Parquet 文件发布 94,707 条问答训练数据，涵盖 GUI 智能体运行记录、屏幕、图像、视频和文本。
 
-- 目录页面：https://awesomecua.com/resources/url-f2e2030eaee4250d995d/
+- 目录页面：https://awesomecua.com/zh/resources/url-f2e2030eaee4250d995d/
 - 原始来源：https://huggingface.co/datasets/OmniJev/OneJev-Data
 - 类型：数据集
 - 审核状态：已审核
@@ -4433,7 +4433,7 @@ The full training split is stored in 18 Parquet files, alongside a 100-row sampl
 
 OpenJev-Data 提供带标签的浏览器操作步骤，用于训练模型选择网页智能体的下一步操作及目标元素，并提供固定测试集以评估端点。
 
-- 目录页面：https://awesomecua.com/resources/url-a54a35c90681ced60cec/
+- 目录页面：https://awesomecua.com/zh/resources/url-a54a35c90681ced60cec/
 - 原始来源：https://huggingface.co/datasets/alanhuangya/OpenJev-Data
 - 类型：数据集
 - 审核状态：已审核
@@ -4467,7 +4467,7 @@ The card lists Parquet configurations with training, validation, and test splits
 
 一个包含图形界面智能体轨迹和截图的数据集，用于训练判断任务是否完成的模型，并提供监督训练记录及强化学习数据划分。
 
-- 目录页面：https://awesomecua.com/resources/url-d716497286ae5cd5e762/
+- 目录页面：https://awesomecua.com/zh/resources/url-d716497286ae5cd5e762/
 - 原始来源：https://huggingface.co/datasets/OS-Copilot/OS-Shepherd-100K
 - 类型：数据集
 - 审核状态：已审核
@@ -4501,7 +4501,7 @@ The card lists supervised JSON files, screenshot tar shards, and GRPO training a
 
 XLang 受限发布的 OSWorld 2.0 智能体运行数据：21 个按模型和运行设置命名的 ZIP 结果归档，以及七次模型运行的逐任务轨迹 JSONL、逐步截图、结果和日志。
 
-- 目录页面：https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/
+- 目录页面：https://awesomecua.com/zh/resources/url-3b4e6c30e1d095c22771/
 - 原始来源：https://huggingface.co/datasets/xlangai/osworld2.0-trajectory
 - 类型：数据集
 - 审核状态：已审核
@@ -4570,7 +4570,7 @@ Counts come from the Hub tree listings at the pinned revision. A task folder is 
 
 OSWorld-Science 在 Hub 上受访问控制的发布版，提供科学软件操作智能体所需的任务定义、预置输入、评分参考资料和预备好的 Ubuntu 虚拟机镜像。
 
-- 目录页面：https://awesomecua.com/resources/url-263e82b29d4fca964463/
+- 目录页面：https://awesomecua.com/zh/resources/url-263e82b29d4fca964463/
 - 原始来源：https://huggingface.co/datasets/SciAILab/OSWorld-Science-data
 - 类型：数据集
 - 审核状态：已审核
@@ -4622,7 +4622,7 @@ All counts come from a script over the pinned Hub file list; no file was downloa
 
 自报的 OSWorld-V2 运行数据，涵盖 Codex 框架使用 gpt-5.6-sol 在全部 108 项任务上的逐步 CLI 和 GUI 操作、截图及评分，以及重试记录和指导操作的解题卡与恢复卡。
 
-- 目录页面：https://awesomecua.com/resources/url-9112dfcb201f2de7241f/
+- 目录页面：https://awesomecua.com/zh/resources/url-9112dfcb201f2de7241f/
 - 原始来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt
 - 类型：数据集
 - 审核状态：已审核
@@ -4685,7 +4685,7 @@ Counts come from a script over the pinned Hub file list; tasks, folders, cards a
 
 这是一个包含 622 个图形界面场景的合成数据集，用于评估智能体如何提取隐私规则、判断拟执行的操作并响应用户反馈。
 
-- 目录页面：https://awesomecua.com/resources/url-b79ca6f7731ebf067709/
+- 目录页面：https://awesomecua.com/zh/resources/url-b79ca6f7731ebf067709/
 - 原始来源：https://huggingface.co/datasets/Keonq/P-GUI-Evo
 - 类型：数据集
 - 审核状态：已审核
@@ -4719,7 +4719,7 @@ The release describes D1, D2 and D3 evaluation buckets with JSONL manifests and 
 
 pae-data 发布与 PAE 互联网智能体研究相关的数据，包括 WebArena 和 WebVoyager 的任务文件及模型检查点文件。
 
-- 目录页面：https://awesomecua.com/resources/url-72301bf2dec104205c8d/
+- 目录页面：https://awesomecua.com/zh/resources/url-72301bf2dec104205c8d/
 - 原始来源：https://huggingface.co/datasets/yifeizhou/pae-data
 - 类型：数据集
 - 审核状态：已审核
@@ -4753,7 +4753,7 @@ The repository file list includes JSONL task sets, an example archive, and check
 
 已发布的 PC-Agent-E 训练数据集，官方流程将其用于改进人工轨迹和合成操作推理。
 
-- 目录页面：https://awesomecua.com/resources/url-14449fe321e0a1ca34ea/
+- 目录页面：https://awesomecua.com/zh/resources/url-14449fe321e0a1ca34ea/
 - 原始来源：https://huggingface.co/datasets/henryhe0123/PC-Agent-E
 - 类型：数据集
 - 审核状态：已审核
@@ -4804,7 +4804,7 @@ Public manifest exposes data.zip; the internal file schema and number of example
 
 面向 WebArena-Lite 和 WebVoyager 的规划器与操作执行器训练样例，包含按模型处理的文件和原始轨迹标注。
 
-- 目录页面：https://awesomecua.com/resources/url-ba6453cfdae0eb049ced/
+- 目录页面：https://awesomecua.com/zh/resources/url-ba6453cfdae0eb049ced/
 - 原始来源：https://huggingface.co/datasets/xTRam1/plan-and-act-data
 - 类型：数据集
 - 审核状态：已审核
@@ -4852,7 +4852,7 @@ The release contains planner and actor files for two web environments. No sample
 
 这是一个用于评估动态网页点击前检查的数据集，包含成对的截图、点击结果和检查器答案，并提供 Lance 数据表及开发集和测试集。
 
-- 目录页面：https://awesomecua.com/resources/url-a40fc87ac700add33232/
+- 目录页面：https://awesomecua.com/zh/resources/url-a40fc87ac700add33232/
 - 原始来源：https://huggingface.co/datasets/multimodal-ai-engineering/preflight-bench
 - 类型：数据集
 - 审核状态：已审核
@@ -4886,7 +4886,7 @@ The card lists click_pairs, outcome_pairs and checker_answers tables. It states 
 
 收录 3,167 项浏览器和桌面任务的人类操作记录，每项含屏幕视频、输入事件和推理步骤，部分任务另有截图或 DOM 快照。
 
-- 目录页面：https://awesomecua.com/resources/url-10a75e1b7b975b3617ae/
+- 目录页面：https://awesomecua.com/zh/resources/url-10a75e1b7b975b3617ae/
 - 原始来源：https://huggingface.co/datasets/anaisleila/computer-use-data-psai
 - 类型：数据集
 - 审核状态：已审核
@@ -4938,7 +4938,7 @@ Rows carry task name, category (browser or computer task), sub-categories, appli
 
 Google Research 发布的 ScreenAI Screen Annotation 数据；训练、验证和测试 CSV 按类型、边界框坐标、屏幕文字和图像说明描述 Rico 移动端界面元素。
 
-- 目录页面：https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/
+- 目录页面：https://awesomecua.com/zh/resources/github-google-research-datasets-screen-annotation/
 - 原始来源：https://github.com/google-research-datasets/screen_annotation
 - 类型：数据集
 - 审核状态：已审核
@@ -4995,7 +4995,7 @@ The README's split sizes count screenshots; the CSV row counts count annotated s
 
 该数据集包含 macOS 应用截图，以及界面元素的边界框和类别标签，用于训练和评估界面元素检测模型。
 
-- 目录页面：https://awesomecua.com/resources/url-e96299566d12e790422e/
+- 目录页面：https://awesomecua.com/zh/resources/url-e96299566d12e790422e/
 - 原始来源：https://huggingface.co/datasets/MacPaw/Screen2AX-Element
 - 类型：数据集
 - 审核状态：已审核
@@ -5031,7 +5031,7 @@ The card lists train, valid, and test splits and declares an Apache 2.0 license.
 
 一个包含 macOS 应用截图、边界框和界面组标签的数据集，用于训练和评估界面目标检测模型。
 
-- 目录页面：https://awesomecua.com/resources/url-6680e812b94c168e6bed/
+- 目录页面：https://awesomecua.com/zh/resources/url-6680e812b94c168e6bed/
 - 原始来源：https://huggingface.co/datasets/MacPaw/Screen2AX-Group
 - 类型：数据集
 - 审核状态：已审核
@@ -5067,7 +5067,7 @@ The release provides train, valid and test splits in Parquet files. Each sample 
 
 用于基于语言的屏幕理解的移动端屏幕描述数据。
 
-- 目录页面：https://awesomecua.com/resources/github-google-research-datasets-screen2words/
+- 目录页面：https://awesomecua.com/zh/resources/github-google-research-datasets-screen2words/
 - 原始来源：https://github.com/google-research-datasets/screen2words
 - 类型：数据集
 - 审核状态：已审核
@@ -5110,7 +5110,7 @@ Multiple summaries describe one screen. The repository provides annotations and 
 
 ScreenRef 的标注文件、任务配置和图像清单；截图存放在单独的受限访问图像仓库中。
 
-- 目录页面：https://awesomecua.com/resources/url-c1db2ba79e6d6a3db2b9/
+- 目录页面：https://awesomecua.com/zh/resources/url-c1db2ba79e6d6a3db2b9/
 - 原始来源：https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations
 - 类型：数据集
 - 审核状态：已审核
@@ -5158,7 +5158,7 @@ The recipes reuse source images and represent related views of the same dataset.
 
 网页界面定位样本，包含指令、元素边界框和点，并配有单独打包的截图归档。
 
-- 目录页面：https://awesomecua.com/resources/url-8933977bb0a57940ed23/
+- 目录页面：https://awesomecua.com/zh/resources/url-8933977bb0a57940ed23/
 - 原始来源：https://huggingface.co/datasets/showlab/ShowUI-web
 - 类型：数据集
 - 审核状态：已审核
@@ -5205,7 +5205,7 @@ Row count is the card dataset_info value; one row may contain multiple instructi
 
 ShowUI-web 的一个 8K 样本子集，包含来自不同网站的截图，用于训练网页界面的 GUI 定位模型。
 
-- 目录页面：https://awesomecua.com/resources/url-2260aaa47fb9c63bb917/
+- 目录页面：https://awesomecua.com/zh/resources/url-2260aaa47fb9c63bb917/
 - 原始来源：https://huggingface.co/datasets/zonghanHZH/ShowUI-web-8k
 - 类型：数据集
 - 审核状态：已审核
@@ -5239,7 +5239,7 @@ The card names ShowUI-web as the source dataset and declares an Apache-2.0 licen
 
 用于 ShowUI-π模型的拖拽和点击操作片段数据，涵盖桌面编辑、演示文稿、手写等界面任务。
 
-- 目录页面：https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/
+- 目录页面：https://awesomecua.com/zh/resources/url-3dab53c6c38c9e7217ea/
 - 原始来源：https://huggingface.co/datasets/showlab/ShowUI-pi-data
 - 类型：数据集
 - 审核状态：已审核
@@ -5286,7 +5286,7 @@ No sample or episode count is inferred from the size tag or package manifest. Ma
 
 包含 231 个网页智能体任务目标的数据集，覆盖六个界面时代的 Wiki、News 和 Shop 网站，并提供训练集、测试集及评估器规范。
 
-- 目录页面：https://awesomecua.com/resources/url-8be414a28d1984abb1b9/
+- 目录页面：https://awesomecua.com/zh/resources/url-8be414a28d1984abb1b9/
 - 原始来源：https://huggingface.co/datasets/sparklabutah/timewarp
 - 类型：数据集
 - 审核状态：已审核
@@ -5320,7 +5320,7 @@ The release lists train.csv with 128 goals, test.csv with 103, and data.json wit
 
 TreeCUA-Datasets 发布图形界面探索树，包含配置文件、操作序列、目标和验证结果。用户可在 OSWorld 中重放探索树，以重建屏幕观察。
 
-- 目录页面：https://awesomecua.com/resources/url-2e8bba756c71f9fe3fbd/
+- 目录页面：https://awesomecua.com/zh/resources/url-2e8bba756c71f9fe3fbd/
 - 原始来源：https://huggingface.co/datasets/jdy18/TreeCUA-Datasets
 - 类型：数据集
 - 审核状态：已审核
@@ -5354,7 +5354,7 @@ The release contains tree configurations, JSONL action nodes, and task initializ
 
 用于训练 UI-Genie 轨迹评估模型的移动端 GUI 奖励标注。
 
-- 目录页面：https://awesomecua.com/resources/url-84e5aeeffaf561baa966/
+- 目录页面：https://awesomecua.com/zh/resources/url-84e5aeeffaf561baa966/
 - 原始来源：https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k
 - 类型：数据集
 - 审核状态：已审核
@@ -5403,7 +5403,7 @@ The public manifest contains reward_data.jsonl but no separately packaged image 
 
 随 UI-Genie 智能体训练流程发布的合成移动端 GUI 轨迹监督数据和截图。
 
-- 目录页面：https://awesomecua.com/resources/url-2e1927450da2183a5abe/
+- 目录页面：https://awesomecua.com/zh/resources/url-2e1927450da2183a5abe/
 - 原始来源：https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k
 - 类型：数据集
 - 审核状态：已审核
@@ -5454,7 +5454,7 @@ Public JSONL annotations and screenshots are present. MIT is declared in the dat
 
 为原版 UI-R1 3B 模型发布的移动端训练数据子集，包含动作标注和独立的截图文件。
 
-- 目录页面：https://awesomecua.com/resources/url-7c568d88a472f914d316/
+- 目录页面：https://awesomecua.com/zh/resources/url-7c568d88a472f914d316/
 - 原始来源：https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train
 - 类型：数据集
 - 审核状态：已审核
@@ -5489,7 +5489,7 @@ The public manifest includes train.json and a train_imgs directory. The card has
 
 UI-S1 移动端训练数据中公开的示例子集，以 JSONL 标注和 Parquet 图像形式打包。
 
-- 目录页面：https://awesomecua.com/resources/url-16184830c0f4bdb146fa/
+- 目录页面：https://awesomecua.com/zh/resources/url-16184830c0f4bdb146fa/
 - 原始来源：https://huggingface.co/datasets/mPLUG/UI_S1_dataset
 - 类型：数据集
 - 审核状态：已审核
@@ -5538,7 +5538,7 @@ The count is explicitly reported by the publisher. Full training data remains ou
 
 2 个源自 Rico 的 UI 组件检索数据集：AppSim 配对不同屏幕中语义相似的元素，RefExp 将指代表达关联到目标元素。
 
-- 目录页面：https://awesomecua.com/resources/github-google-research-datasets-uibert/
+- 目录页面：https://awesomecua.com/zh/resources/github-google-research-datasets-uibert/
 - 原始来源：https://github.com/google-research-datasets/uibert
 - 类型：数据集
 - 审核状态：已审核
@@ -5590,7 +5590,7 @@ Original UI images are retrieved separately by Rico IDs. No release-specific sam
 
 VeriWeb 数据集包含 302 项网页信息搜集任务，提供子任务标注、人工操作日志和执行视频，用于评估长链任务智能体。
 
-- 目录页面：https://awesomecua.com/resources/url-8477ada5b7de1d399c9d/
+- 目录页面：https://awesomecua.com/zh/resources/url-8477ada5b7de1d399c9d/
 - 原始来源：https://huggingface.co/datasets/2077AIDataFoundation/VeriGUI
 - 类型：数据集
 - 审核状态：已审核
@@ -5626,7 +5626,7 @@ The card describes task JSON and video files, including webpage URLs, optional H
 
 一套用于训练和评估操作图形界面的操作系统智能体的数据集，重点考察自主操作不可靠时何时向人求助。
 
-- 目录页面：https://awesomecua.com/resources/url-16a5ccde8bb16cda19ff/
+- 目录页面：https://awesomecua.com/zh/resources/url-16a5ccde8bb16cda19ff/
 - 原始来源：https://huggingface.co/datasets/wuuuuuz/VeriOS-Bench
 - 类型：数据集
 - 审核状态：已审核
@@ -5660,7 +5660,7 @@ The repository lists a VeriOS-Bench.zip file. The card points to evaluation scri
 
 这是为 GUI-Spotlight 第二阶段训练发布的数据集；数据卡说明作者在该阶段使用了 18.5K 个样本。
 
-- 目录页面：https://awesomecua.com/resources/url-07fb5e963998782505a6/
+- 目录页面：https://awesomecua.com/zh/resources/url-07fb5e963998782505a6/
 - 原始来源：https://huggingface.co/datasets/nuoxu1993/VG-RL-filter-dataset-hf
 - 类型：数据集
 - 审核状态：已审核
@@ -5694,7 +5694,7 @@ The repository listing contains Arrow data shards. The card does not describe in
 
 这个图形界面图像对话数据集提供指令和对话 JSON 文件，用于分阶段视觉微调；示例要求模型识别界面按钮。
 
-- 目录页面：https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/
+- 目录页面：https://awesomecua.com/zh/resources/url-b9a56cf9e9346a359c0b/
 - 原始来源：https://huggingface.co/datasets/zylate/Vision_GUI_Assistant
 - 类型：数据集
 - 审核状态：已审核
@@ -5728,7 +5728,7 @@ The card names instruction and conversation splits and instructs users to obtain
 
 包含截图、指令、目标框和 UI 元数据的记录；元数据包括 OCR、来源、元素类型和平台。
 
-- 目录页面：https://awesomecua.com/resources/url-0dbb55f127da04d95222/
+- 目录页面：https://awesomecua.com/zh/resources/url-0dbb55f127da04d95222/
 - 原始来源：https://huggingface.co/datasets/agentsea/wave-ui
 - 类型：数据集
 - 审核状态：已审核
@@ -5783,7 +5783,7 @@ Card-reported row counts and unique-screen counts are different units. The sourc
 
 收录三个浏览器智能体在 13 个由产品文档生成的 WebArena-Infinity 网页应用上的成功运行，含逐步推理、操作、截图及程序化验证结果。
 
-- 目录页面：https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/
+- 目录页面：https://awesomecua.com/zh/resources/url-ccac8d260d6d1d330bf5/
 - 原始来源：https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories
 - 类型：数据集
 - 审核状态：已审核
@@ -5838,7 +5838,7 @@ Trajectories, tasks, environments, steps and folders are different units and are
 
 WebChain 原始版收录真实网站上的人工标注轨迹，提供原始 JSON 记录、视口截图及部分完整页面截图，以及用于高层规划和低层定位步骤的 Parquet 文件。
 
-- 目录页面：https://awesomecua.com/resources/url-116431f8ea32dbc6d637/
+- 目录页面：https://awesomecua.com/zh/resources/url-116431f8ea32dbc6d637/
 - 原始来源：https://huggingface.co/datasets/webagentlab/webchain-legacy
 - 类型：数据集
 - 审核状态：已审核
@@ -5890,7 +5890,7 @@ Trajectories, steps, domains and files are different units and are counted separ
 
 WebChain 人工网页轨迹的清洗版 v2，以轨迹级和 Seed 风格滑动窗口 SFT Parquet 提供数据，配有对齐截图、操作元数据和 150 条轨迹的评估子集。
 
-- 目录页面：https://awesomecua.com/resources/url-56f08987cc19b82dc607/
+- 目录页面：https://awesomecua.com/zh/resources/url-56f08987cc19b82dc607/
 - 原始来源：https://huggingface.co/datasets/webagentlab/webchain
 - 类型：数据集
 - 审核状态：已审核
@@ -5944,7 +5944,7 @@ Trajectories, steps, windows, turns, parts and shards are different units and ar
 
 包含 5,999 条浏览器操作安全标注的数据集，将网站和操作信息与风险分类配对，供网页智能体研究使用。
 
-- 目录页面：https://awesomecua.com/resources/url-df10c80a8da55773154d/
+- 目录页面：https://awesomecua.com/zh/resources/url-df10c80a8da55773154d/
 - 原始来源：https://huggingface.co/datasets/osunlp/WebGuard
 - 类型：数据集
 - 审核状态：已审核
@@ -5978,7 +5978,7 @@ The card lists a train split, a dataset-loading example, and the CC BY-NC 4.0 li
 
 WebLINX 1.0 的 Hub 数据将对话式网页导航演示预处理为逐轮记录，包含对话、清理后的 HTML、候选元素和操作历史，并提供重排序数据。
 
-- 目录页面：https://awesomecua.com/resources/url-1517e989c470563bd08d/
+- 目录页面：https://awesomecua.com/zh/resources/url-1517e989c470563bd08d/
 - 原始来源：https://huggingface.co/datasets/McGill-NLP/WebLINX
 - 类型：数据集
 - 审核状态：已审核
@@ -6047,7 +6047,7 @@ Counts were computed with a script. Demonstrations come from splits.json, whose 
 
 带检查清单标注的网页决策记录，包含页面观察、先前动作、一个优选的后续步骤及被拒绝的备选步骤，用于过程奖励学习。
 
-- 目录页面：https://awesomecua.com/resources/url-8dfc84eb4016204fe70a/
+- 目录页面：https://awesomecua.com/zh/resources/url-8dfc84eb4016204fe70a/
 - 原始来源：https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair
 - 类型：数据集
 - 审核状态：已审核
@@ -6095,7 +6095,7 @@ Preserves the publisher’s split label despite the collection’s training purp
 
 用于结构化阅读理解的网页片段、问题、答案、HTML、截图和布局元数据。
 
-- 目录页面：https://awesomecua.com/resources/url-e0ba328ae1a643b0a5aa/
+- 目录页面：https://awesomecua.com/zh/resources/url-e0ba328ae1a643b0a5aa/
 - 原始来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0
 - 类型：数据集
 - 审核状态：已审核
@@ -6151,7 +6151,7 @@ Each dataset.csv row is a QA example; web pages and QA examples are different un
 
 用于图形界面智能体记忆研究的数据集，包含扩展的网页链接、合成任务，以及成功和失败的执行轨迹。
 
-- 目录页面：https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/
+- 目录页面：https://awesomecua.com/zh/resources/url-87e0195f2401d5f6f66f/
 - 原始来源：https://huggingface.co/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories
 - 类型：数据集
 - 审核状态：已审核
@@ -6185,7 +6185,7 @@ The card reports 222,235 synthesized tasks and 188,451 trajectories. It lists Ap
 
 一个描述界面控件功能的说明文字数据集，用于训练和评估界面元素描述模型。它包含 61,286 个带说明文字的控件。
 
-- 目录页面：https://awesomecua.com/resources/github-google-research-datasets-widget-caption/
+- 目录页面：https://awesomecua.com/zh/resources/github-google-research-datasets-widget-caption/
 - 原始来源：https://github.com/google-research-datasets/widget-caption
 - 类型：数据集
 - 审核状态：已审核
@@ -6218,7 +6218,7 @@ Screens for 12,960 captioned widgets are withheld for copyright reasons. The REA
 
 用于 Mobile-Env 的 WikiHow 应用导航评测任务集，另含跨 Android 应用的补充任务，提供任务定义和改写的指令。
 
-- 目录页面：https://awesomecua.com/resources/url-25af759a783f1514fe58/
+- 目录页面：https://awesomecua.com/zh/resources/url-25af759a783f1514fe58/
 - 原始来源：https://huggingface.co/datasets/zdy023/WikiHow-taskset
 - 类型：数据集
 - 审核状态：已审核
@@ -6254,7 +6254,7 @@ The source says the public WikiHow APK and cached website data were removed at W
 
 WinDeskGround_windows 提供 Windows 应用截图，并标注可点击目标、边界框和指代表达，用于桌面图形界面定位任务。
 
-- 目录页面：https://awesomecua.com/resources/url-79b8dfa115894a7f53aa/
+- 目录页面：https://awesomecua.com/zh/resources/url-79b8dfa115894a7f53aa/
 - 原始来源：https://huggingface.co/datasets/Zbao/WinDeskGround_windows
 - 类型：数据集
 - 审核状态：已审核
@@ -6288,7 +6288,7 @@ The card reports 614 screenshots and 1,578 queries in its domain table. The repo
 
 桌面操作演示数据，包含任务描述、视频、输入日志，以及与操作关联的截图证据，用于研究可复用的智能体技能。
 
-- 目录页面：https://awesomecua.com/resources/url-243ab00712ba19cc2089/
+- 目录页面：https://awesomecua.com/zh/resources/url-243ab00712ba19cc2089/
 - 原始来源：https://huggingface.co/datasets/yuqi777/WorkDemo-350
 - 类型：数据集
 - 审核状态：已审核
@@ -6337,7 +6337,7 @@ The OSWorld subset was selected post hoc using model outcomes; no train/test spl
 
 这套桌面图形界面评估数据包含用户请求、教学视频和用于改变任务初始状态的预操作，并提供任务元数据与数据归档。
 
-- 目录页面：https://awesomecua.com/resources/url-b540fe81c57cedb1f556/
+- 目录页面：https://awesomecua.com/zh/resources/url-b540fe81c57cedb1f556/
 - 原始来源：https://huggingface.co/datasets/hhenryz/WorldGUI-Bench
 - 类型：数据集
 - 审核状态：已审核
@@ -6371,7 +6371,7 @@ The repository lists WorldGUI-data.zip and worldgui_metadata.json. The card decl
 
 这个 OSWorld-V2 数据集提供精简数据表，用于浏览 Codex 的任务摘要、尝试记录、轨迹事件，以及已执行的图形界面或命令行操作。
 
-- 目录页面：https://awesomecua.com/resources/url-bf57897ba4d047112345/
+- 目录页面：https://awesomecua.com/zh/resources/url-bf57897ba4d047112345/
 - 原始来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-attempt-preview
 - 类型：数据集
 - 审核状态：已审核
@@ -6405,7 +6405,7 @@ The repository lists Parquet files for task summaries, attempts, events, and act
 
 记录人类与移动端 GUI 智能体完成相同中文 Android 应用任务时的触摸手势和运动传感器数据，附任务列表和元数据，用于训练区分智能体与人类的检测器。
 
-- 目录页面：https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/
+- 目录页面：https://awesomecua.com/zh/resources/url-3e1a864c46c8ed5735d4/
 - 原始来源：https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark
 - 类型：数据集
 - 审核状态：已审核
@@ -6467,7 +6467,7 @@ Computed counts come from a script over the pinned Hub file list and tasks.csv. 
 
 已发布的 AgentSynth 任务定义和记录的 GUI 轨迹，包含 OSWorld 及 InSTA 训练配置，以及打包的截图、思考内容和命令。
 
-- 目录页面：https://awesomecua.com/resources/url-58a209f2b3b970916396/
+- 目录页面：https://awesomecua.com/zh/resources/url-58a209f2b3b970916396/
 - 原始来源：https://huggingface.co/datasets/sunblaze-ucb/AgentSynth
 - 类型：数据集
 - 审核状态：已审核
@@ -6518,7 +6518,7 @@ Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jso
 
 以网页教程为指引，通过重放合成浏览器智能体轨迹；发布包含多模态定位与推理信息的轨迹数据及 AgentTrek-32B 智能体。
 
-- 目录页面：https://awesomecua.com/resources/github-xlang-ai-agenttrek/
+- 目录页面：https://awesomecua.com/zh/resources/github-xlang-ai-agenttrek/
 - 原始来源：https://github.com/xlang-ai/AgentTrek
 - 类型：数据集
 - 审核状态：已审核
@@ -6547,7 +6547,7 @@ Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jso
 
 AMEX Android GUI 数据处理代码，将 3 个标注层级转为问答对并微调 LLaMA2-Accessory 模型，同时发布了模型检查点。
 
-- 目录页面：https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/
+- 目录页面：https://awesomecua.com/zh/resources/github-yuxiangchai-amex-codebase/
 - 原始来源：https://github.com/YuxiangChai/AMEX-codebase
 - 类型：数据集
 - 审核状态：已审核
@@ -6592,7 +6592,7 @@ The main repository contains companion training code. The scale and annotation l
 
 Android 任务的人类操作演示，包含截图和触摸操作。
 
-- 目录页面：https://awesomecua.com/resources/component-google-research-android-in-the-wild/
+- 目录页面：https://awesomecua.com/zh/resources/component-google-research-android-in-the-wild/
 - 原始来源：https://github.com/google-research/google-research/tree/master/android_in_the_wild
 - 类型：数据集
 - 审核状态：已审核
@@ -6636,7 +6636,7 @@ Episodes and action examples are different units. The collection combines multi-
 
 Android 图标标注数据集，用于研究界面中的视觉元素；训练集包含图像和字符串类别标签。
 
-- 目录页面：https://awesomecua.com/resources/url-b1c6b94743e6dbac930d/
+- 目录页面：https://awesomecua.com/zh/resources/url-b1c6b94743e6dbac930d/
 - 原始来源：https://huggingface.co/datasets/Lancelot53/android_icon_dataset
 - 类型：数据集
 - 审核状态：已审核
@@ -6670,7 +6670,7 @@ The repository contains a Parquet train split. The card lists 8,161 examples and
 
 Android 操作演示，包含高层目标、分步指令、截图和无障碍树。
 
-- 目录页面：https://awesomecua.com/resources/component-google-research-android-control/
+- 目录页面：https://awesomecua.com/zh/resources/component-google-research-android-control/
 - 原始来源：https://github.com/google-research/google-research/tree/master/android_control
 - 类型：数据集
 - 审核状态：已审核
@@ -6714,7 +6714,7 @@ Step instructions can be repeated across multiple actions. Each episode has one 
 
 AndroidHowTo 提供脚本和标注，用于构建将操作指南步骤与 Android 屏幕关联的移动端 UI 动作数据集。
 
-- 目录页面：https://awesomecua.com/resources/github-debymf-generating-android-howto/
+- 目录页面：https://awesomecua.com/zh/resources/github-debymf-generating-android-howto/
 - 原始来源：https://github.com/debymf/generating_android_howto
 - 类型：数据集
 - 审核状态：已审核
@@ -6743,7 +6743,7 @@ AndroidHowTo 提供脚本和标注，用于构建将操作指南步骤与 Androi
 
 用于微调 AutoDroid V2 的对话格式监督数据；项目文档提供了 ShareGPT 风格的 JSON 配置。
 
-- 目录页面：https://awesomecua.com/resources/url-9a3506ca6ef034adb424/
+- 目录页面：https://awesomecua.com/zh/resources/url-9a3506ca6ef034adb424/
 - 原始来源：https://huggingface.co/datasets/BlitherBoom/AutoDroid-V2-Dataset
 - 类型：数据集
 - 审核状态：已审核
@@ -6795,7 +6795,7 @@ The card has license metadata only. The project training README supplies formatt
 
 这是面向 RICO 界面截图的复杂问答测试数据集，包含截图、问题和标准答案。数据卡列出 11,781 个样本。
 
-- 目录页面：https://awesomecua.com/resources/url-b6114625f883ec0fda33/
+- 目录页面：https://awesomecua.com/zh/resources/url-b6114625f883ec0fda33/
 - 原始来源：https://huggingface.co/datasets/bevaya/RICO-ScreenQA-Complex
 - 类型：数据集
 - 审核状态：已审核
@@ -6829,7 +6829,7 @@ The card lists a test split, image and text fields, and a CC BY 4.0 license. The
 
 Browser Agent Failure Corpus 是一个带版本管理的数据集，收录浏览器智能体的动作失败、执行轨迹和防护机制反例。
 
-- 目录页面：https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/
+- 目录页面：https://awesomecua.com/zh/resources/github-mutantweb-browser-agent-failure-corpus/
 - 原始来源：https://github.com/MutantWeb/browser-agent-failure-corpus
 - 类型：数据集
 - 审核状态：已审核
@@ -6858,7 +6858,7 @@ Browser Agent Failure Corpus 是一个带版本管理的数据集，收录浏览
 
 包含来自电商、社交媒体等领域 50 多个中文移动应用的 18k 条轨迹、共 98k 步，用于构建面向中文应用的 GUI 智能体。
 
-- 目录页面：https://awesomecua.com/resources/url-ab26f9ef56d651cee587/
+- 目录页面：https://awesomecua.com/zh/resources/url-ab26f9ef56d651cee587/
 - 原始来源：https://huggingface.co/datasets/alibabagroup/CMGUI
 - 类型：数据集
 - 审核状态：已审核
@@ -6889,7 +6889,7 @@ Browser Agent Failure Corpus 是一个带版本管理的数据集，收录浏览
 
 从互联网收集的 48,478 段经裁剪且无音频的屏幕录制视频，约 12,300 小时，展示 AutoCAD、Blender、Excel、Photoshop、Salesforce 和 VS Code 的使用；附时长元数据，无操作标签。
 
-- 目录页面：https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/
+- 目录页面：https://awesomecua.com/zh/resources/url-f00b2ed65c517295a6cc/
 - 原始来源：https://huggingface.co/datasets/markov-ai/computer-use-large
 - 类型：数据集
 - 审核状态：已审核
@@ -6945,7 +6945,7 @@ File counts come from a script over the pinned Hub manifest; the card's per-cate
 
 由使用辅助功能树定位的 Gemini 3 Flash Preview 智能体生成的 160 条成功 OSWorld 轨迹，共 1,378 步，含逐步截图、辅助功能树、pyautogui 操作、响应及运行日志。
 
-- 目录页面：https://awesomecua.com/resources/url-5a073f50270c4f316ce5/
+- 目录页面：https://awesomecua.com/zh/resources/url-5a073f50270c4f316ce5/
 - 原始来源：https://huggingface.co/datasets/markov-ai/computer-use
 - 类型：数据集
 - 审核状态：已审核
@@ -6996,7 +6996,7 @@ Rows are agent runs filtered to score 1.0. Step and row counts are the card's fi
 
 收录 CUA Speedrun 在 OSWorld 子集、CUA-World 和 MyPCBench 上评估计算机使用模型的轨迹归档及逐任务结果，含验证器分数、实测任务耗时和记录或估算的成本。
 
-- 目录页面：https://awesomecua.com/resources/url-099451a33699510476df/
+- 目录页面：https://awesomecua.com/zh/resources/url-099451a33699510476df/
 - 原始来源：https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories
 - 类型：数据集
 - 审核状态：已审核
@@ -7048,7 +7048,7 @@ Archive and cost-file counts come from a script over the pinned Hub file list; t
 
 拖拽定位训练与评估数据，将每条截图指令与起点和终点框配对，涵盖文本高亮、电子表格单元格、幻灯片缩放和滑块。
 
-- 目录页面：https://awesomecua.com/resources/url-b854ff53e497da3a5ad8/
+- 目录页面：https://awesomecua.com/zh/resources/url-b854ff53e497da3a5ad8/
 - 原始来源：https://huggingface.co/datasets/Hcompany/DragOn
 - 类型：数据集
 - 审核状态：已审核
@@ -7083,7 +7083,7 @@ The card cites a workshop paper titled "DragOn: A Drag-Grounding Benchmark and T
 
 收录多个公开基准逐样本的图形界面定位预测与参考坐标，并附有重新计算结果的脚本。
 
-- 目录页面：https://awesomecua.com/resources/url-dfcb24f23a03e58316cf/
+- 目录页面：https://awesomecua.com/zh/resources/url-dfcb24f23a03e58316cf/
 - 原始来源：https://huggingface.co/datasets/duvoai/duvo-eye-1-evals
 - 类型：数据集
 - 审核状态：已审核
@@ -7117,7 +7117,7 @@ The repository lists prediction JSONL files and benchmark result files. The card
 
 EnvDistraction 提供模拟 GUI 环境和评测脚本，用于衡量多模态智能体受环境干扰的程度。
 
-- 目录页面：https://awesomecua.com/resources/github-xbmxb-envdistraction/
+- 目录页面：https://awesomecua.com/zh/resources/github-xbmxb-envdistraction/
 - 原始来源：https://github.com/xbmxb/EnvDistraction
 - 类型：数据集
 - 审核状态：已审核
@@ -7146,7 +7146,7 @@ EnvDistraction 提供模拟 GUI 环境和评测脚本，用于衡量多模态智
 
 FedMABench 联邦训练数据将 AndroidControl 与 AitW 移动端智能体任务记录按应用、类别及步骤或任务轮次差异划分为六组 JSONL 分区；截图须从原始数据重建。
 
-- 目录页面：https://awesomecua.com/resources/url-86b3c2ee65911daf84a8/
+- 目录页面：https://awesomecua.com/zh/resources/url-86b3c2ee65911daf84a8/
 - 原始来源：https://huggingface.co/datasets/wwh0411/FedMABench
 - 类型：数据集
 - 审核状态：已审核
@@ -7197,7 +7197,7 @@ A partition file, a task, an episode and a client count are different units. Scr
 
 739 张 GUI 截图，多数为 macOS 浏览器画面；采用基于 COCO4GUI 的 FiftyOne 格式标注交互点、操作类型和逐操作任务描述，用于元素定位与点击预测。
 
-- 目录页面：https://awesomecua.com/resources/url-f0eac3ad813245645492/
+- 目录页面：https://awesomecua.com/zh/resources/url-f0eac3ad813245645492/
 - 原始来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train
 - 类型：数据集
 - 审核状态：已审核
@@ -7251,7 +7251,7 @@ The Hub manifest at this revision lists 739 PNG files under data/. Computed from
 
 4,036 张 GUI 截图，多为 macOS 浏览器页面，附交互关键点和任务描述；包含 739 张人工标注原图，以及通过 FiftyOne 插件制作的 3,297 张色觉与任务改写变体。
 
-- 目录页面：https://awesomecua.com/resources/url-c10fd1906c2e7ee289ec/
+- 目录页面：https://awesomecua.com/zh/resources/url-c10fd1906c2e7ee289ec/
 - 原始来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic
 - 类型：数据集
 - 审核状态：已审核
@@ -7308,7 +7308,7 @@ Computed from samples.json at this revision (15.7 MB, read once): 4,036 samples,
 
 收录 500+ 个应用中超过 20,000 段人类 Android 操作过程，包含用户上下文和长期使用模式，并设有主动意图预测与个性化执行任务方向。
 
-- 目录页面：https://awesomecua.com/resources/github-tsinghua-fib-lab-fingertip-20k/
+- 目录页面：https://awesomecua.com/zh/resources/github-tsinghua-fib-lab-fingertip-20k/
 - 原始来源：https://github.com/tsinghua-fib-lab/FingerTip-20K
 - 类型：数据集
 - 审核状态：已审核
@@ -7337,7 +7337,7 @@ Computed from samples.json at this revision (15.7 MB, read once): 4,036 samples,
 
 GTA1 仓库关联的清洗版 GUI 定位训练数据，主要来自 Aria-UI 和 OS-Atlas；目标框与 OmniParser 检测元素存在差异的样本已被剔除。
 
-- 目录页面：https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/
+- 目录页面：https://awesomecua.com/zh/resources/url-d46306ac1d0a0cce573a/
 - 原始来源：https://huggingface.co/datasets/HelloKKMe/grounding_dataset
 - 类型：数据集
 - 审核状态：已审核
@@ -7388,7 +7388,7 @@ inp.json (767,769,533 bytes) and ten image archive parts (208,677,206,554 bytes 
 
 支持多种界面理解任务的桌面 GUI 轨迹数据。
 
-- 目录页面：https://awesomecua.com/resources/url-0b590d03a3d5103a79e4/
+- 目录页面：https://awesomecua.com/zh/resources/url-0b590d03a3d5103a79e4/
 - 原始来源：https://huggingface.co/datasets/vyokky/GUI-360
 - 类型：数据集
 - 审核状态：已审核
@@ -7418,7 +7418,7 @@ inp.json (767,769,533 bytes) and ten image archive parts (208,677,206,554 bytes 
 
 用于描述 GUI 交互轨迹中操作的资源。
 
-- 目录页面：https://awesomecua.com/resources/github-showlab-gui-action-narrator/
+- 目录页面：https://awesomecua.com/zh/resources/github-showlab-gui-action-narrator/
 - 原始来源：https://github.com/showlab/GUI-Action-Narrator
 - 类型：数据集
 - 审核状态：已审核
@@ -7465,7 +7465,7 @@ Captioning samples, unique videos and complete task trajectories are different u
 
 已发布的 JSONL 语料，包含为 GUI 智能体中期训练合成的规划与因果知识，由 GUI-CIDER 官方项目直接提供链接。
 
-- 目录页面：https://awesomecua.com/resources/url-d0300db5ba754b1a64fa/
+- 目录页面：https://awesomecua.com/zh/resources/url-d0300db5ba754b1a64fa/
 - 原始来源：https://huggingface.co/datasets/wuuuuuz/GUI-CIDER
 - 类型：数据集
 - 审核状态：已审核
@@ -7513,7 +7513,7 @@ Purpose is established by the official project. No sample records were downloade
 
 用于学习图形界面中文本拖拽交互的数据。
 
-- 目录页面：https://awesomecua.com/resources/url-aa28e1329a52e341d285/
+- 目录页面：https://awesomecua.com/zh/resources/url-aa28e1329a52e341d285/
 - 原始来源：https://huggingface.co/datasets/osunlp/GUI-Drag-dataset
 - 类型：数据集
 - 审核状态：已审核
@@ -7548,7 +7548,7 @@ The card links its paper (arXiv 2601.06031) and code repository (OSU-NLP-Group/G
 
 GUI-Libra-81K 的 SFT 版本，以 JSON 标注文件提供网页和 Android 截图上的逐步推理轨迹及坐标定位操作，含完整、无推理和 1,000 样本版本。
 
-- 目录页面：https://awesomecua.com/resources/url-f6e1a7527f9346ed1c1d/
+- 目录页面：https://awesomecua.com/zh/resources/url-f6e1a7527f9346ed1c1d/
 - 原始来源：https://huggingface.co/datasets/GUI-Libra/GUI-Libra-81K-SFT
 - 类型：数据集
 - 审核状态：已审核
@@ -7603,7 +7603,7 @@ Steps, files and archive groups are different units and are counted separately. 
 
 TongUI 从多模态网页教程收集的训练语料，以标注文件和分卷截图归档形式发布，用于 GUI 轨迹监督训练。
 
-- 目录页面：https://awesomecua.com/resources/url-8c9aaafb918aaf8b4e92/
+- 目录页面：https://awesomecua.com/zh/resources/url-8c9aaafb918aaf8b4e92/
 - 原始来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-1M
 - 类型：数据集
 - 审核状态：已审核
@@ -7655,7 +7655,7 @@ The source reports an approximate trajectory total.
 
 TongUI 训练混合数据：约 143K 条来自 WikiHow、Baidu Experience 和 GUI 视频的样本，加上重新处理的 AITW、AMEX、GUIAct、Mind2Web、MiniWoB 和 ShowUI 数据，以带截图的定位和导航 JSON 提供。
 
-- 目录页面：https://awesomecua.com/resources/url-0627940da1b988739f75/
+- 目录页面：https://awesomecua.com/zh/resources/url-0627940da1b988739f75/
 - 原始来源：https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini
 - 类型：数据集
 - 审核状态：已审核
@@ -7708,7 +7708,7 @@ The card states numbers without a unit; the training docs call them training dat
 
 按 Android 应用整理的探索视频，含截图与操作序列、视图层级，以及应用概览、页面分析、操作回忆、序列验证等五类任务的问答对。
 
-- 目录页面：https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/
+- 目录页面：https://awesomecua.com/zh/resources/url-f56dbd8bfac8b0545e07/
 - 原始来源：https://huggingface.co/datasets/9211sun/GUI-Xplore
 - 类型：数据集
 - 审核状态：已审核
@@ -7766,7 +7766,7 @@ Reported counts come from the card's split table. A script over the 15 QA JSON f
 
 已发布的 GUI 智能体中期训练混合数据及配套领域数据集，另含后期训练轨迹文件和网页、移动端交互图像归档。
 
-- 目录页面：https://awesomecua.com/resources/url-422010da7a5c845a18f6/
+- 目录页面：https://awesomecua.com/zh/resources/url-422010da7a5c845a18f6/
 - 原始来源：https://huggingface.co/datasets/hkust-nlp/GUIMid
 - 类型：数据集
 - 审核状态：已审核
@@ -7818,7 +7818,7 @@ Hub size bands and the inconsistent introductory task count use different units 
 
 macOS 截图与生成的指令及标注元素上的正确点击或输入操作配对，由 GUIrilla 无障碍 API 抓取器采集，训练集与测试集中的应用互不重叠。
 
-- 目录页面：https://awesomecua.com/resources/url-afe8260e6db2617b72ec/
+- 目录页面：https://awesomecua.com/zh/resources/url-afe8260e6db2617b72ec/
 - 原始来源：https://huggingface.co/datasets/macpaw-research/GUIrilla-Task
 - 类型：数据集
 - 审核状态：已审核
@@ -7869,7 +7869,7 @@ The card states the splits are application-level disjoint. Example counts come f
 
 这是用于移动界面世界模型训练与评估的数据集。轨迹归档将截图与页面状态文本及动作格式的训练样例配对。
 
-- 目录页面：https://awesomecua.com/resources/url-e041226738f8ea43a878/
+- 目录页面：https://awesomecua.com/zh/resources/url-e041226738f8ea43a878/
 - 原始来源：https://huggingface.co/datasets/xwk123/Mobile-GUI-Worldmodel-SFT
 - 类型：数据集
 - 审核状态：已审核
@@ -7903,7 +7903,7 @@ The card lists AITZ, AITW, AMEX, AndroidControl, and GUI-Odyssey archives, plus 
 
 Mobile-R1 中文 Android 应用标注轨迹的开放样本：1,007 个任务的各步骤将截图与思路、子任务及点击、滑动、输入或打开等 mobile_use 动作配对。
 
-- 目录页面：https://awesomecua.com/resources/url-114ced4a94d12f384d69/
+- 目录页面：https://awesomecua.com/zh/resources/url-114ced4a94d12f384d69/
 - 原始来源：https://huggingface.co/datasets/Mobile-R1/Mobile-R1
 - 类型：数据集
 - 审核状态：已审核
@@ -7957,7 +7957,7 @@ Counts use different units; these counts are reported separately. The card's 3,9
 
 Ai2 合成 GUI 元素定位数据集包含约 36K 张由代码渲染的桌面、移动端和网页截图，每张均有密集元素边界框、名称及每个元素的五条自然语言意图，用于训练指向模型。
 
-- 目录页面：https://awesomecua.com/resources/url-a7e3c6c6b37793c3151c/
+- 目录页面：https://awesomecua.com/zh/resources/url-a7e3c6c6b37793c3151c/
 - 原始来源：https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn
 - 类型：数据集
 - 审核状态：已审核
@@ -8013,7 +8013,7 @@ The card metadata gives split sizes for the desktop and web configurations only;
 
 从教学视频提取的跨平台移动 GUI 轨迹数据集，提供数据处理辅助工具和适用于 Android 及 iOS 数据的评估示例代码。
 
-- 目录页面：https://awesomecua.com/resources/github-runamu-monday/
+- 目录页面：https://awesomecua.com/zh/resources/github-runamu-monday/
 - 原始来源：https://github.com/runamu/monday
 - 类型：数据集
 - 审核状态：已审核
@@ -8047,7 +8047,7 @@ The retained README marks release of the full data-generation pipeline, training
 
 基于 Mind2Web 交互构建的多轮网页导航对话，包含对话轮次、HTML 快照、候选元素及点击、输入、选择操作序列。
 
-- 目录页面：https://awesomecua.com/resources/url-bdfb50330deb97893ce4/
+- 目录页面：https://awesomecua.com/zh/resources/url-bdfb50330deb97893ce4/
 - 原始来源：https://huggingface.co/datasets/magicgh/MT-Mind2Web
 - 类型：数据集
 - 审核状态：已审核
@@ -8105,7 +8105,7 @@ Conversation, dialogue-turn and action-step units differ. The released file mani
 
 NNetNav 发布的面向 WebArena 的浏览器交互数据，训练文件和测试文件分别提供。
 
-- 目录页面：https://awesomecua.com/resources/url-25a4d0ab29b60250863a/
+- 目录页面：https://awesomecua.com/zh/resources/url-25a4d0ab29b60250863a/
 - 原始来源：https://huggingface.co/datasets/stanfordnlp/nnetnav-wa
 - 类型：数据集
 - 审核状态：已审核
@@ -8140,7 +8140,7 @@ The Hub card supplies a license but no detailed schema. Dataset purpose is suppo
 
 通过逆向任务合成得到的移动端轨迹，分别以 AndroidControl 和 AndroidWorld 训练标注文件发布。
 
-- 目录页面：https://awesomecua.com/resources/url-d3ec5122a2b52fd5ae4b/
+- 目录页面：https://awesomecua.com/zh/resources/url-d3ec5122a2b52fd5ae4b/
 - 原始来源：https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data
 - 类型：数据集
 - 审核状态：已审核
@@ -8189,7 +8189,7 @@ AC and AW refer to distinct target training sets; no sample count is inferred fr
 
 受访问控制的 OS-Genesis 网页数据版本，含一个反向任务合成训练轨迹 JSONL 文件和截图归档；项目 README 将其列为 WA 检查点的训练数据。
 
-- 目录页面：https://awesomecua.com/resources/url-31768421b4ecd1ad89f7/
+- 目录页面：https://awesomecua.com/zh/resources/url-31768421b4ecd1ad89f7/
 - 原始来源：https://huggingface.co/datasets/OS-Copilot/OS-Genesis-web-data
 - 类型：数据集
 - 审核状态：已审核
@@ -8237,7 +8237,7 @@ The README pairs this one training file with the 4B, 7B and 8B WA checkpoints; n
 
 OSWorld 的 Ubuntu 任务配置在设置和评估时下载的文件的 Hub 托管副本，从 Google Drive 迁移后按应用和任务 ID 组织。
 
-- 目录页面：https://awesomecua.com/resources/url-c885712b9c69579ac591/
+- 目录页面：https://awesomecua.com/zh/resources/url-c885712b9c69579ac591/
 - 原始来源：https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache
 - 类型：数据集
 - 审核状态：已审核
@@ -8287,7 +8287,7 @@ Counts come from the Hub file manifest. A task folder is not an OSWorld task def
 
 收录多种计算机使用智能体在 Ubuntu 上以不同步数预算运行 OSWorld-Verified 的评估轨迹；每个归档含截图、操作、模型推理和逐任务结果，供分析使用。
 
-- 目录页面：https://awesomecua.com/resources/url-2c99f0de2840277abc72/
+- 目录页面：https://awesomecua.com/zh/resources/url-2c99f0de2840277abc72/
 - 原始来源：https://huggingface.co/datasets/xlangai/ubuntu_osworld_verified_trajs
 - 类型：数据集
 - 审核状态：已审核
@@ -8336,7 +8336,7 @@ A run archive is one agent configuration evaluated on OSWorld-Verified; task and
 
 PixelWeb 提供 1K、10K 和 100K 规模的网页截图、DOM 数据及元素图像，并附有掩码、轮廓和边界框标注。
 
-- 目录页面：https://awesomecua.com/resources/url-67ae69986d6408fde468/
+- 目录页面：https://awesomecua.com/zh/resources/url-67ae69986d6408fde468/
 - 原始来源：https://huggingface.co/datasets/cyberalchemist/PixelWeb
 - 类型：数据集
 - 审核状态：已审核
@@ -8370,7 +8370,7 @@ The card describes raw and annotated archives, document naming and element class
 
 PSAI Computer Use Dataset 提供 3,167 条人机交互轨迹，包含同步的屏幕视频、输入事件和 DOM/AX 快照。
 
-- 目录页面：https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/
+- 目录页面：https://awesomecua.com/zh/resources/github-anaishowland-computeruse-data-psai/
 - 原始来源：https://github.com/anaishowland/computeruse-data-psai
 - 类型：数据集
 - 审核状态：已审核
@@ -8400,7 +8400,7 @@ PSAI Computer Use Dataset 提供 3,167 条人机交互轨迹，包含同步的�
 
 RelationGUI 提供数据集和训练代码，帮助 GUI 智能体明确理解空间、层级和功能关系。
 
-- 目录页面：https://awesomecua.com/resources/github-malonghui-relationgui/
+- 目录页面：https://awesomecua.com/zh/resources/github-malonghui-relationgui/
 - 原始来源：https://github.com/malonghui/RelationGUI
 - 类型：数据集
 - 审核状态：已审核
@@ -8429,7 +8429,7 @@ RelationGUI 提供数据集和训练代码，帮助 GUI 智能体明确理解空
 
 用于 UI 研究的移动应用截图、视图层级和交互轨迹。
 
-- 目录页面：https://awesomecua.com/resources/url-0b134b082a7bd507fc6a/
+- 目录页面：https://awesomecua.com/zh/resources/url-0b134b082a7bd507fc6a/
 - 原始来源：https://www.interactionmining.org/archive/rico
 - 类型：数据集
 - 审核状态：已审核
@@ -8478,7 +8478,7 @@ Project-page scope: screenshots paired with augmented view hierarchies, gesture 
 
 Rico Dataset 是 Interaction Mining 展示的移动应用交互与设计数据集，包含来自 5k 款应用的 70k 张屏幕和 10k 条用户操作流程。
 
-- 目录页面：https://awesomecua.com/resources/url-0c845d69c9498dd4e20c/
+- 目录页面：https://awesomecua.com/zh/resources/url-0c845d69c9498dd4e20c/
 - 原始来源：https://www.interactionmining.org
 - 类型：数据集
 - 审核状态：已审核
@@ -8511,7 +8511,7 @@ The site describes a platform for collecting, managing, and sharing mobile inter
 
 RICO Semantics 提供针对 RICO 移动端屏幕的 500,000 条人工标注，涵盖图标形状、语义角色和文本元素关联。
 
-- 目录页面：https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/
+- 目录页面：https://awesomecua.com/zh/resources/github-google-research-datasets-rico-semantics/
 - 原始来源：https://github.com/google-research-datasets/rico_semantics
 - 类型：数据集
 - 审核状态：已审核
@@ -8541,7 +8541,7 @@ RICO Semantics 提供针对 RICO 移动端屏幕的 500,000 条人工标注，�
 
 一套移动界面数据集，将截图、控件边界框、合成描述和视图层级配对，用于屏幕理解与界面定位。
 
-- 目录页面：https://awesomecua.com/resources/url-72f05843df9bd7ea35af/
+- 目录页面：https://awesomecua.com/zh/resources/url-72f05843df9bd7ea35af/
 - 原始来源：https://huggingface.co/datasets/bevaya/RICO-SCA
 - 类型：数据集
 - 审核状态：已审核
@@ -8577,7 +8577,7 @@ The card lists a train split with 71,350 examples and declares Apache-2.0 licens
 
 RICO-Screen2Words 将 Android 应用截图与人工编写的界面摘要、应用元数据和视图层级配对，用于移动界面理解。
 
-- 目录页面：https://awesomecua.com/resources/url-cf7c132c9a988d3a6ec4/
+- 目录页面：https://awesomecua.com/zh/resources/url-cf7c132c9a988d3a6ec4/
 - 原始来源：https://huggingface.co/datasets/bevaya/RICO-Screen2Words
 - 类型：数据集
 - 审核状态：已审核
@@ -8611,7 +8611,7 @@ The repository provides Parquet files for train, validation and test splits. The
 
 这是标准化的 Rico 屏幕标注数据集，将移动端截图与界面元素及其位置的文字描述配对，并提供训练、验证和测试集。
 
-- 目录页面：https://awesomecua.com/resources/url-2a4dd75acb6efdeb0e4a/
+- 目录页面：https://awesomecua.com/zh/resources/url-2a4dd75acb6efdeb0e4a/
 - 原始来源：https://huggingface.co/datasets/bevaya/RICO-ScreenAnnotation
 - 类型：数据集
 - 审核状态：已审核
@@ -8645,7 +8645,7 @@ The card lists screen ID, annotation, and image fields and declares a CC-BY-4.0 
 
 RICO-ScreenQA 提供应用截图问答数据，包含图像、答案文本和界面元素边界框，并划分为训练、验证和测试集。
 
-- 目录页面：https://awesomecua.com/resources/url-bd15fb092ff80643ed97/
+- 目录页面：https://awesomecua.com/zh/resources/url-bd15fb092ff80643ed97/
 - 原始来源：https://huggingface.co/datasets/bevaya/RICO-ScreenQA
 - 类型：数据集
 - 审核状态：已审核
@@ -8679,7 +8679,7 @@ The repository lists Parquet files for train, validation, and test splits. The c
 
 基于 RICO 界面图像的屏幕问答数据集，将问题与机器生成的简短答案配对，提供训练、验证和测试划分。
 
-- 目录页面：https://awesomecua.com/resources/url-060c9288c7197c5a188e/
+- 目录页面：https://awesomecua.com/zh/resources/url-060c9288c7197c5a188e/
 - 原始来源：https://huggingface.co/datasets/bevaya/RICO-ScreenQA-Short
 - 类型：数据集
 - 审核状态：已审核
@@ -8713,7 +8713,7 @@ The card lists 68,980 training, 8,618 validation and 8,427 test examples, stored
 
 移动界面数据集，将 RICO 截图及控件区域与人工描述配对，并提供视图层级以及训练、验证和测试数据划分。
 
-- 目录页面：https://awesomecua.com/resources/url-013bb9256ca6ad5188be/
+- 目录页面：https://awesomecua.com/zh/resources/url-013bb9256ca6ad5188be/
 - 原始来源：https://huggingface.co/datasets/bevaya/RICO-WidgetCaptioning
 - 类型：数据集
 - 审核状态：已审核
@@ -8747,7 +8747,7 @@ The card lists screenshots, bounding boxes, captions, semantic annotations, and 
 
 公布了用于从策略导致的错误中恢复的 GUI 轨迹合成资源；所查看的仓库标注代码和数据仍在准备发布。
 
-- 目录页面：https://awesomecua.com/resources/github-alibabaresearch-rots/
+- 目录页面：https://awesomecua.com/zh/resources/github-alibabaresearch-rots/
 - 原始来源：https://github.com/AlibabaResearch/RoTS
 - 类型：数据集
 - 审核状态：已审核
@@ -8795,7 +8795,7 @@ The inspected README marks the dataset and collection pipelines as in preparatio
 
 收录 Simular 的 Sai 智能体在 Ubuntu 参考虚拟机中完成 108 项 OSWorld v2.1 任务的 134 次有效运行，含 OSWorld 轨迹、智能体记录、运行框架与评分器日志、记分卡及截图和视频 tar 包。
 
-- 目录页面：https://awesomecua.com/resources/url-a19a076a4808a80f6ac8/
+- 目录页面：https://awesomecua.com/zh/resources/url-a19a076a4808a80f6ac8/
 - 原始来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v21-reference-runs
 - 类型：数据集
 - 审核状态：已审核
@@ -8849,7 +8849,7 @@ Computed counts come from a script over the pinned Hub file list. A run is one t
 
 收录 Simular 的 Sai 计算机使用智能体两次完整的 108 任务 OSWorld-V2 运行证据：分数、逐步轨迹、消息记录、评估器和 API 日志及运行清单，不含截图。
 
-- 目录页面：https://awesomecua.com/resources/url-e0180b9651fec04d0308/
+- 目录页面：https://awesomecua.com/zh/resources/url-e0180b9651fec04d0308/
 - 原始来源：https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs
 - 类型：数据集
 - 审核状态：已审核
@@ -8906,7 +8906,7 @@ Counts come from a script over the pinned Hub file list: a canonical directory h
 
 GUI 定位数据集，整合 Aria-UI、OmniAct、Widget Caption、UI-Vision 和 OS-Atlas 截图，将目标边界框与操作、外观、功能及组合指令关联，并引用 GTA1。
 
-- 目录页面：https://awesomecua.com/resources/url-1001251b5a7729988118/
+- 目录页面：https://awesomecua.com/zh/resources/url-1001251b5a7729988118/
 - 原始来源：https://huggingface.co/datasets/Salesforce/grounding_dataset
 - 类型：数据集
 - 审核状态：已审核
@@ -8956,7 +8956,7 @@ The count is the card's dataset_info num_examples for the train split. An exampl
 
 桌面计算机使用轨迹包含逐步截图及成功、安全和攻击标签，分为能力运行、安全完成与拒绝运行，以及源自 RiOSWorld 的旧版安全归档。
 
-- 目录页面：https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/
+- 目录页面：https://awesomecua.com/zh/resources/url-73b9b17648ea7af7aa8f/
 - 原始来源：https://huggingface.co/datasets/AI45Research/SATraj-OS
 - 类型：数据集
 - 审核状态：已审核
@@ -9010,7 +9010,7 @@ Counts are publisher-reported on the card. The card's headline 4,885 trajectorie
 
 ScienceBoard 智能体评估运行记录的归档，按智能体配置及截图、无障碍树或标记集观察模式分别组织。
 
-- 目录页面：https://awesomecua.com/resources/url-4784f63cd7117f64a2a3/
+- 目录页面：https://awesomecua.com/zh/resources/url-4784f63cd7117f64a2a3/
 - 原始来源：https://huggingface.co/datasets/OS-Copilot/ScienceBoard-Traj
 - 类型：数据集
 - 审核状态：已审核
@@ -9059,7 +9059,7 @@ Observation modes follow publisher archive labels. No count or training-use perm
 
 BAMI 局部纠错模型的训练数据：成对裁剪的 GUI 截图各高亮一个候选框，配有点击指令及自动生成的标签，指出更符合指令的框。
 
-- 目录页面：https://awesomecua.com/resources/url-e7c3d3d49bf977b49996/
+- 目录页面：https://awesomecua.com/zh/resources/url-e7c3d3d49bf977b49996/
 - 原始来源：https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui
 - 类型：数据集
 - 审核状态：已审核
@@ -9112,7 +9112,7 @@ Each sample has two image files, so image and sample counts differ. The train me
 
 UEyes 是眼动追踪数据集，记录 62 名参与者观看 1,980 张 UI 截图的情况，截图涵盖网页、桌面界面、移动端应用和海报。
 
-- 目录页面：https://awesomecua.com/resources/github-yuejiang-nj-ueyes-chi2023/
+- 目录页面：https://awesomecua.com/zh/resources/github-yuejiang-nj-ueyes-chi2023/
 - 原始来源：https://github.com/YueJiang-nj/UEyes-CHI2023
 - 类型：数据集
 - 审核状态：已审核
@@ -9141,7 +9141,7 @@ UEyes 是眼动追踪数据集，记录 62 名参与者观看 1,980 张 UI 截�
 
 将定位指令视为多个推理视角，发布数据流程、训练代码，以及先用合成指令进行 SFT、再经 RL 训练的 UI-Ins-7B 和 32B 模型。
 
-- 目录页面：https://awesomecua.com/resources/github-alibaba-ui-ins/
+- 目录页面：https://awesomecua.com/zh/resources/github-alibaba-ui-ins/
 - 原始来源：https://github.com/alibaba/UI-Ins
 - 类型：数据集
 - 审核状态：已审核
@@ -9170,7 +9170,7 @@ UEyes 是眼动追踪数据集，记录 62 名参与者观看 1,980 张 UI 截�
 
 包含区域坐标和 RICO 屏幕引用的移动端界面评语及质量评分，并提供一个由 3 名标注者参与、规模大于原论文数据集的版本。
 
-- 目录页面：https://awesomecua.com/resources/github-google-research-datasets-uicrit/
+- 目录页面：https://awesomecua.com/zh/resources/github-google-research-datasets-uicrit/
 - 原始来源：https://github.com/google-research-datasets/uicrit
 - 类型：数据集
 - 审核状态：已审核
@@ -9219,7 +9219,7 @@ Publisher-reported current release, separate from the smaller original-paper pop
 
 macOS 界面数据集，收录 63 款应用的 352 个屏幕，提供截图、可用的无障碍树，以及界面元素和点击位置相关问题。
 
-- 目录页面：https://awesomecua.com/resources/url-3ac3ccfb23fe13adf428/
+- 目录页面：https://awesomecua.com/zh/resources/url-3ac3ccfb23fe13adf428/
 - 原始来源：https://huggingface.co/datasets/MacPaw/uipad
 - 类型：数据集
 - 审核状态：已审核
@@ -9255,7 +9255,7 @@ The card says 68% of screens have JSON accessibility trees and describes numeric
 
 UI-MOPD 训练数据中的桌面轨迹，采集于 OSWorld 环境：涵盖 10 类应用的 2,685 项任务，含逐步截图、推理轨迹、归一化操作和 pyautogui 代码。
 
-- 目录页面：https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/
+- 目录页面：https://awesomecua.com/zh/resources/url-20f7cdee10b0dd70815f/
 - 原始来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1
 - 类型：数据集
 - 审核状态：已审核
@@ -9312,7 +9312,7 @@ Trajectories, steps, application categories, files and task IDs are different un
 
 UI-MOPD 训练数据中自行采集的手机操作轨迹：覆盖 10 类应用的 871 项任务，每项含逐步截图、推理轨迹、归一化的点击、滑动和输入操作及 adb 命令。
 
-- 目录页面：https://awesomecua.com/resources/url-93278fa5b9e6bd0cbcef/
+- 目录页面：https://awesomecua.com/zh/resources/url-93278fa5b9e6bd0cbcef/
 - 原始来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile
 - 类型：数据集
 - 审核状态：已审核
@@ -9365,7 +9365,7 @@ Trajectories, steps, app categories and files are different units and are counte
 
 UI-MOPD 训练数据中通过 AndroidWorld 在 19 款开源应用上采集的 Android 轨迹：共 2,640 项任务，含逐步截图、推理轨迹和归一化的点击、滑动、输入及回答操作。
 
-- 目录页面：https://awesomecua.com/resources/url-66a0adb854eff694965d/
+- 目录页面：https://awesomecua.com/zh/resources/url-66a0adb854eff694965d/
 - 原始来源：https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile
 - 类型：数据集
 - 审核状态：已审核
@@ -9419,7 +9419,7 @@ Trajectories, steps, apps and files are different units and are counted separate
 
 CAD 屏幕录制数据，配有操作日志和目标模型图像，用于研究精确的界面控制和长时程视觉模仿。
 
-- 目录页面：https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/
+- 目录页面：https://awesomecua.com/zh/resources/url-2b5dead3172c0b70da7e/
 - 原始来源：https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WX8PCK
 - 类型：数据集
 - 审核状态：已审核
@@ -9468,7 +9468,7 @@ The reported video total is distinct from the Dataverse package-file count. The 
 
 CUA-Suite 的专家桌面操作演示：涵盖 87 款应用约 10,000 项任务，提供 30 fps 屏幕录像及精确到毫秒的鼠标和键盘操作日志。
 
-- 目录页面：https://awesomecua.com/resources/url-78adf6919bdbce42bc24/
+- 目录页面：https://awesomecua.com/zh/resources/url-78adf6919bdbce42bc24/
 - 原始来源：https://huggingface.co/datasets/ServiceNow/VideoCUA
 - 类型：数据集
 - 审核状态：已审核
@@ -9521,7 +9521,7 @@ Tasks, hours, frames and archives are different units and are counted separately
 
 VLM-Reasoning-Traces 发布模型输出，用于比较基础视觉语言模型与启用思考能力的视觉语言模型在 AndroidControl、ScreenSpot 和 AndroidWorld 上的表现。
 
-- 目录页面：https://awesomecua.com/resources/github-llamatouch-vlm-reasoning-traces/
+- 目录页面：https://awesomecua.com/zh/resources/github-llamatouch-vlm-reasoning-traces/
 - 原始来源：https://github.com/LlamaTouch/VLM-Reasoning-Traces
 - 类型：数据集
 - 审核状态：已审核
@@ -9550,7 +9550,7 @@ VLM-Reasoning-Traces 发布模型输出，用于比较基础视觉语言模型�
 
 两个 JSONL 数据集，用于监督微调 WebEvolver 智能体策略和网页世界模型。
 
-- 目录页面：https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/
+- 目录页面：https://awesomecua.com/zh/resources/url-e126bbd9729ebdaf05ab/
 - 原始来源：https://huggingface.co/datasets/CognitiveKernel/WebEvolver
 - 类型：数据集
 - 审核状态：已审核
@@ -9601,7 +9601,7 @@ Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevol
 
 将网页任务背景、初始观察和操作历史与结构化检查清单及子目标分析配对的数据，用于生成检查清单。
 
-- 目录页面：https://awesomecua.com/resources/url-fcc98b149272bbf31b05/
+- 目录页面：https://awesomecua.com/zh/resources/url-fcc98b149272bbf31b05/
 - 原始来源：https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_checklist_generation
 - 类型：数据集
 - 审核状态：已审核
@@ -9651,7 +9651,7 @@ This is the checklist-generation release. No unique-task count or data permissio
 
 WebSRC 为基于 HTML 和截图的 Web-Based Structural Reading Comprehension 数据集提供基线模型和处理流水线。
 
-- 目录页面：https://awesomecua.com/resources/github-x-lance-websrc-baseline/
+- 目录页面：https://awesomecua.com/zh/resources/github-x-lance-websrc-baseline/
 - 原始来源：https://github.com/X-LANCE/WebSRC-Baseline
 - 类型：数据集
 - 审核状态：已审核
@@ -9681,7 +9681,7 @@ WebSRC 为基于 HTML 和截图的 Web-Based Structural Reading Comprehension �
 
 websrc 是面向网页截图问答的 WebSRC 整理版本，用于理解页面内容与结构；数据包含页面标识、问题、答案和编码图像。
 
-- 目录页面：https://awesomecua.com/resources/url-d768dd5245832bc4b824/
+- 目录页面：https://awesomecua.com/zh/resources/url-d768dd5245832bc4b824/
 - 原始来源：https://huggingface.co/datasets/bevaya/websrc
 - 类型：数据集
 - 审核状态：已审核
@@ -9715,7 +9715,7 @@ The card lists train and dev splits as Parquet files and says this upload omits 
 
 用于 UI 研究的网页截图和界面数据。
 
-- 目录页面：https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/
+- 目录页面：https://awesomecua.com/zh/resources/url-13b9442bcb6a8b984c4f/
 - 原始来源：https://huggingface.co/datasets/biglab/webui-all
 - 类型：数据集
 - 审核状态：已审核

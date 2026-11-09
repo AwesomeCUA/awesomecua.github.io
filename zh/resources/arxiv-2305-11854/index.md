@@ -1,0 +1,68 @@
+# Multimodal Web Navigation with Instruction-Finetuned Foundation Models
+
+WebGUM 通过演示数据进行离线训练，联合微调指令遵循语言模型和视觉编码器，以处理网页截图与 HTML。该智能体预测浏览器操作，并在 MiniWoB、WebShop 和 Mind2Web 上评估。
+
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2305-11854/
+- English：https://awesomecua.com/resources/arxiv-2305-11854/index.md
+- 原始来源：https://arxiv.org/abs/2305.11854
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、模仿学习、动作预测
+- 证据核查日期：2026-10-16T06:31:20Z
+- ID：arxiv:2305.11854
+
+## 范围记录
+
+Reviewed against the retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2305-11854/record.json
+
+## 作者
+
+Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur
+
+## 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2305-11854/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2305-11854/citation.csl.json
+
+## 发表记录
+
+- 标题：Multimodal Web Navigation with Instruction-Finetuned Foundation Models
+- 作者：Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur
+- 发表日期：2024-05-31
+- 发表来源：https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html
+- 发表版 BibTeX：https://awesomecua.com/resources/arxiv-2305-11854/publication-citation.bib
+- 发表版 CSL JSON：https://awesomecua.com/resources/arxiv-2305-11854/publication-citation.csl.json
+- 发表于：International Conference on Learning Representations
+- 卷：2024
+- 页码：29528-29558
+- 日期来源：Explicit publisher metadata: 2024-05-31; precision=day.
+- 版本对应依据：Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- 来源备注：The ICLR landing shortens Shixiang Shane Gu to Shixiang Gu. Publication authors use the full PDF title-page form. Volume 2024 and pages 29528–29558 are explicit publisher citation metadata, not values inferred from the event year or PDF page count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- 发表证据：https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf
+
+## arXiv 版本记录
+
+- 版本：4
+- 版本来源：https://arxiv.org/abs/2305.11854v4
+- 首次提交：2023-05-19T17:44:34Z
+- 版本更新日期：2024-02-25T16:21:00Z
+- 摘要 SHA-256：ac0ea5a462890317ea29ade32c879d016181afbe5962e2d28cc175e251df41e6
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+## 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+## 一手证据
+
+- https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50（获取于 2026-10-16T06:31:20Z；SHA-256：cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e）
+- https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html（获取于 2026-10-17T09:53:48+00:00；SHA-256：6669190c7fc2a37f9cd68d0c49431b8f17b626c16bb3ef4093fc83a6ac62acd3）
+- https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf（获取于 2026-10-17T09:59:46+00:00；SHA-256：da26ea085252edfda4c084058aa81ea023f885ff97c67f2ffae0698bab6f568b）
+- https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50（获取于 2026-10-16T06:31:20Z；SHA-256：cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e）

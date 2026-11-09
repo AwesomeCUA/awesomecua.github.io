@@ -1,0 +1,29 @@
+# 自我反思：Computer-Use 研究与资源（第 3 页）
+
+HTML 页面：https://awesomecua.com/zh/topics/self-reflection/page/3/
+
+完整列表：https://awesomecua.com/zh/topics/self-reflection/index.md
+
+- [Pactora](https://awesomecua.com/zh/resources/github-mrnetwork0001-pactora/)
+- [PC-Agent (X-PLUG component)](https://awesomecua.com/zh/resources/component-x-plug-mobileagent-pc-agent/)
+- [Q-Reflector](https://awesomecua.com/zh/resources/github-pockyitachi-q-reflector/)
+- [QAgent](https://awesomecua.com/zh/resources/github-rishabhcli-qagent/)
+- [RCI Agent](https://awesomecua.com/zh/resources/github-posgnu-rci-agent/)
+- [Roubao](https://awesomecua.com/zh/resources/github-turbo1123-roubao/)
+- [SEAgent](https://awesomecua.com/zh/resources/github-sunzey-seagent/)
+- [Self-Healing Browser Agent](https://awesomecua.com/zh/resources/github-25andresbernal-self-healing-browser-agent/)
+- [Self-MAP](https://awesomecua.com/zh/resources/github-magicgh-self-map/)
+- [Seven-Layer Web Agent & Benchmark](https://awesomecua.com/zh/resources/github-xyyojl-web-agent/)
+- [SOLO](https://awesomecua.com/zh/resources/github-wzq975-solo/)
+- [StatePilot](https://awesomecua.com/zh/resources/github-newsbruno-statepilot/)
+- [Svate](https://awesomecua.com/zh/resources/github-jieao-re-svate/)
+- [Tencent AI LAB - Self-Improving Agent](https://awesomecua.com/zh/resources/github-tencent-selfevolvingagent/)
+- [Third Eye](https://awesomecua.com/zh/resources/github-slastrina-third-eye/)
+- [Tongyi UI Agent API](https://awesomecua.com/zh/resources/url-ce0af37931cd5aa20233/)
+- [Tsaagan](https://awesomecua.com/zh/resources/github-michaelolmos-tsaagan/)
+- [Turan AI](https://awesomecua.com/zh/resources/github-aykutkrm67-turan-ai/)
+- [UI-Voyager](https://awesomecua.com/zh/resources/github-ui-voyager-ui-voyager/)
+- [V-Droid](https://awesomecua.com/zh/resources/github-v-droid-agent-v-droid/)
+- [VLAA-GUI](https://awesomecua.com/zh/resources/github-ucsc-vlaa-vlaa-gui/)
+- [WebEvolver code component](https://awesomecua.com/zh/resources/component-tencent-selfevolvingagent-webevolver/)
+- [Zhaozuo (照做)](https://awesomecua.com/zh/resources/github-dongsheng123132-zhaozuo/)

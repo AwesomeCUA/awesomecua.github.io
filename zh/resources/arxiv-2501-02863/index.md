@@ -1,0 +1,50 @@
+# Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation
+
+Sphinx 评估基础模型按目标导航移动端 UI 的能力，使用应用测试用例和工具包识别不同失败模式。
+
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2501-02863/
+- English：https://awesomecua.com/resources/arxiv-2501-02863/index.md
+- 原始来源：https://arxiv.org/abs/2501.02863
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：评测、手机操作、产业
+- 证据核查日期：2026-11-05T23:01:30Z
+- ID：arxiv:2501.02863
+
+## 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2501-02863/record.json
+
+## 作者
+
+Dezhi Ran, Mengzhou Wu, Hao Yu, Yuetong Li, Jun Ren, Yuan Cao, Xia Zeng, Haochuan Lu, Zexin Xu, Mengqian Xu, Ting Su, Liangchao Yao, Ting Xiong, Wei Yang, Yuetang Deng, Assaf Marron, David Harel, Tao Xie
+
+## 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2501-02863/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2501-02863/citation.csl.json
+
+## arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2501.02863v2
+- 首次提交：2025-01-06T09:10:11Z
+- 版本更新日期：2025-02-11T13:34:12Z
+- 摘要 SHA-256：f6923f325ffccf753a58787ccd03eb9c882ec9784fb665703cfb5773b5d8b3d2
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+## 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+## 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2312.02051%2C2312.10170%2C2312.11805%2C2401.03428%2C2401.03568%2C2401.04088%2C2402.01680%2C2402.01817%2C2402.02716%2C2402.03300%2C2402.03578%2C2402.15116%2C2403.05530%2C2403.07548%2C2403.08978%2C2403.09333%2C2403.11481%2C2403.12881%2C2403.14508%2C2404.00282%2C2404.04902%2C2405.11106%2C2405.11143%2C2405.14093%2C2405.16256%2C2406.09455%2C2406.14088%2C2406.16707%2C2407.06886%2C2407.11691%2C2408.09071%2C2408.15769%2C2409.02813%2C2409.03215%2C2409.04465%2C2409.12191%2C2409.17146%2C2409.18142%2C2409.18807%2C2409.19256%2C2410.02052%2C2410.21220%2C2410.21276%2C2411.05755%2C2411.17933%2C2412.10400%2C2412.14171%2C2501.02189%2C2501.02863%2C2501.07278&max_results=50（获取于 2026-11-05T21:13:41Z；SHA-256：4f8c52402475481097941fac66a689892def7057d6129b23f62f53f31e53690a）
+- https://export.arxiv.org/api/query?id_list=2501.02863%2C2501.03895%2C2501.05179%2C2501.05366%2C2501.06497%2C2501.06994%2C2501.07278%2C2501.07834%2C2501.07927%2C2501.09004%2C2501.10893%2C2501.11233%2C2501.12485%2C2501.15570%2C2501.16403%2C2501.17391%2C2502.00372%2C2502.00392%2C2502.00964%2C2502.00988%2C2502.01456%2C2502.01562%2C2502.01600%2C2502.01839%2C2502.02533%2C2502.03214%2C2502.03723%2C2502.03971%2C2502.05174%2C2502.05227%2C2502.06776%2C2502.08489%2C2502.11221%2C2502.12110%2C2502.12130%2C2502.12561%2C2502.13130%2C2502.13417%2C2502.13923%2C2502.14496%2C2502.16587%2C2502.16786%2C2502.16796%2C2502.17419%2C2502.18356%2C2502.18512%2C2502.19328%2C2502.20390%2C2502.20582%2C2502.20694&max_results=50（获取于 2026-11-05T23:01:30Z；SHA-256：07ba687f5a4948ae3e83cb632bcef71297cf230f7c82d773b26dbec826a63e91）

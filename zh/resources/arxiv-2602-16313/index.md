@@ -1,0 +1,50 @@
+# MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks
+
+MemoryArena 将跨会话任务关联起来，要求智能体提炼早期交互经验并用于后续决策；评估涵盖网页导航、规划、搜索和形式推理，通过后续动作检验记忆。
+
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2602-16313/
+- English：https://awesomecua.com/resources/arxiv-2602-16313/index.md
+- 原始来源：https://arxiv.org/abs/2602.16313
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：记忆、交互历史、规划、评测、长任务
+- 证据核查日期：2026-10-17T12:31:12Z
+- ID：arxiv:2602.16313
+
+## 范围记录
+
+Reviewed against the complete retained official abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2602-16313/record.json
+
+## 作者
+
+Zexue He, Yu Wang, Churan Zhi, Yuanzhe Hu, Tzu-Ping Chen, Lang Yin, Ze Chen, Tong Arthur Wu, Siru Ouyang, Zihan Wang, Jiaxin Pei, Julian McAuley, Yejin Choi, Alex Pentland
+
+## 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2602-16313/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2602-16313/citation.csl.json
+
+## arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2602.16313v2
+- 首次提交：2026-02-18T09:49:14Z
+- 版本更新日期：2026-09-17T22:55:03Z
+- 摘要 SHA-256：2317a94d54b4458a1b7c5e92754aeaefcbf270aabfa0bd8ea333c673cd4596b3
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+## 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+## 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2601.13462%2C2601.14232%2C2601.15331%2C2601.17548%2C2601.18418%2C2601.18491%2C2601.18827%2C2601.20171%2C2601.20613%2C2601.20742%2C2601.21233%2C2601.21253%2C2601.22037%2C2601.22154%2C2601.22511%2C2601.22607%2C2602.01550%2C2602.03117%2C2602.03361%2C2602.05665%2C2602.05746%2C2602.05877%2C2602.06052%2C2602.07398%2C2602.07458%2C2602.07918%2C2602.09007%2C2602.09463%2C2602.09514%2C2602.10122%2C2602.10525%2C2602.11224%2C2602.12268%2C2602.12430%2C2602.13318%2C2602.13543%2C2602.13692%2C2602.14038%2C2602.14337%2C2602.14364%2C2602.16313%2C2602.16317%2C2602.16666%2C2602.16901%2C2602.16930%2C2602.17547%2C2602.17646%2C2602.18846%2C2602.19320%2C2602.19594&max_results=50（获取于 2026-10-17T12:31:12Z；SHA-256：c8c95278aa5dcc6a8f2eda3f3b44d61ec1f35adcb6a4c6c9ab328691a1a4f102）
+- https://export.arxiv.org/api/query?id_list=2601.13462%2C2601.14232%2C2601.15331%2C2601.17548%2C2601.18418%2C2601.18491%2C2601.18827%2C2601.20171%2C2601.20613%2C2601.20742%2C2601.21233%2C2601.21253%2C2601.22037%2C2601.22154%2C2601.22511%2C2601.22607%2C2602.01550%2C2602.03117%2C2602.03361%2C2602.05665%2C2602.05746%2C2602.05877%2C2602.06052%2C2602.07398%2C2602.07458%2C2602.07918%2C2602.09007%2C2602.09463%2C2602.09514%2C2602.10122%2C2602.10525%2C2602.11224%2C2602.12268%2C2602.12430%2C2602.13318%2C2602.13543%2C2602.13692%2C2602.14038%2C2602.14337%2C2602.14364%2C2602.16313%2C2602.16317%2C2602.16666%2C2602.16901%2C2602.16930%2C2602.17547%2C2602.17646%2C2602.18846%2C2602.19320%2C2602.19594&max_results=50（获取于 2026-10-17T12:31:12Z；SHA-256：c8c95278aa5dcc6a8f2eda3f3b44d61ec1f35adcb6a4c6c9ab328691a1a4f102）

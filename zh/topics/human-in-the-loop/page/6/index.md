@@ -1,0 +1,35 @@
+# 人机协作：Computer-Use 研究与资源（第 6 页）
+
+HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/6/
+
+完整列表：https://awesomecua.com/zh/topics/human-in-the-loop/index.md
+
+- [tail-aside](https://awesomecua.com/zh/resources/github-quino0627-tail-aside/)
+- [TalkAct](https://awesomecua.com/zh/resources/github-19pine-ai-talkact/)
+- [Threadline WebMCP](https://awesomecua.com/zh/resources/github-jameswirths-threadline/)
+- [Thursday](https://awesomecua.com/zh/resources/github-cgoinglove-thursday/)
+- [TipTour](https://awesomecua.com/zh/resources/github-milind-soni-tiptour-macos/)
+- [ToolArks Remote Login Relay](https://awesomecua.com/zh/resources/github-zdayang-remote-login-relay/)
+- [Trusted WebMCP Actions](https://awesomecua.com/zh/resources/github-markneville-trusted-webmcp-actions/)
+- [Twin](https://awesomecua.com/zh/resources/url-5a63318fd49cbcc84ad1/)
+- [UI Act](https://awesomecua.com/zh/resources/github-tobiasnorlund-ui-act/)
+- [UnknownCaz firefox-mcp](https://awesomecua.com/zh/resources/github-unknowncaz-firefox-mcp/)
+- [Venxuix Dccide](https://awesomecua.com/zh/resources/github-venxuix-dccide-venxuix/)
+- [VeriOS](https://awesomecua.com/zh/resources/github-wuzheng02-verios/)
+- [Vessel Browser](https://awesomecua.com/zh/resources/github-unmodeled-tyler-vessel-browser/)
+- [Voice Mirror](https://awesomecua.com/zh/resources/github-contextmirror-voice-mirror/)
+- [Voice-to-Browser Agent](https://awesomecua.com/zh/resources/github-raidriar7170-voice-browser-agent/)
+- [Voqal](https://awesomecua.com/zh/resources/github-voqal-voqal/)
+- [Wanta](https://awesomecua.com/zh/resources/github-oomol-lab-wanta/)
+- [Weave WebMCP](https://awesomecua.com/zh/resources/github-doom2quake-weave/)
+- [Web Agent Proxy (WAP) SDK](https://awesomecua.com/zh/resources/github-52191314-web-agent-proxy-sdk/)
+- [WebClerk](https://awesomecua.com/zh/resources/github-thunderkhan-webclerk/)
+- [WebDroid Agent](https://awesomecua.com/zh/resources/github-yeahhe365-webdroid-agent/)
+- [WebMCP](https://awesomecua.com/zh/resources/github-webmachinelearning-webmcp/)
+- [WebMCP Stack](https://awesomecua.com/zh/resources/github-souravinsights-webmcp-stack/)
+- [webmcpify](https://awesomecua.com/zh/resources/github-tuejon-webmcpify/)
+- [WellSet WebMCP](https://awesomecua.com/zh/resources/github-kinhikars-wellset-webmcp/)
+- [Xiaoshe Agent (小蛇 Agent)](https://awesomecua.com/zh/resources/github-jackygilbert498-debug-xiaoshe-agent/)
+- [Xiryn](https://awesomecua.com/zh/resources/github-souravberaakaspeed-xiryn/)
+- [Yunkai](https://awesomecua.com/zh/resources/github-solplum-yunkai/)
+- [Amazon Nova Act Samples](https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/)

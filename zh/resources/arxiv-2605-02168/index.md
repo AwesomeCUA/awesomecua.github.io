@@ -1,0 +1,50 @@
+# Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning
+
+这一以规划器为中心的强化学习框架将智能体自动化分给规划器、执行器和记忆管理器，评估包含网页导航和操作系统控制。
+
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2605-02168/
+- English：https://awesomecua.com/resources/arxiv-2605-02168/index.md
+- 原始来源：https://arxiv.org/abs/2605.02168
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：规划、强化学习、记忆、长任务
+- 证据核查日期：2026-11-05T23:02:47Z
+- ID：arxiv:2605.02168
+
+## 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Web navigation and OS control are among several benchmark settings for the general framework.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2605-02168/record.json
+
+## 作者
+
+Wenyi Wu, Sibo Zhu, Kun Zhou, Biwei Huang
+
+## 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2605-02168/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2605-02168/citation.csl.json
+
+## arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2605.02168v1
+- 首次提交：2026-05-04T02:58:05Z
+- 版本更新日期：2026-05-04T02:58:05Z
+- 摘要 SHA-256：c49b46d73d238ca69eca43d72f014356cbf8ef3809d4120888f7ea987962a653
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+## 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+## 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2604.00892%2C2604.01221%2C2604.01676%2C2604.02345%2C2604.03465%2C2604.05157%2C2604.06134%2C2604.06240%2C2604.06995%2C2604.07277%2C2604.07831%2C2604.07929%2C2604.08005%2C2604.09581%2C2604.10261%2C2604.10577%2C2604.10988%2C2604.11201%2C2604.18847%2C2604.21375%2C2604.24441%2C2604.26020%2C2605.00551%2C2605.02168%2C2605.07505%2C2605.10347%2C2605.12294%2C2605.15040%2C2605.16883%2C2605.27134%2C2605.28258%2C2606.01790%2C2606.02031%2C2606.02208%2C2606.03203%2C2606.03236%2C2606.03951%2C2606.04391%2C2606.04627%2C2606.04701%2C2606.05233%2C2606.05597%2C2606.05697%2C2606.06560%2C2606.06708%2C2606.07027%2C2606.07074%2C2606.09399%2C2606.09447%2C2606.09764&max_results=50（获取于 2026-10-16T06:33:02Z；SHA-256：e436adf2735cb537ee4b24aa0c3f36930a50c2f683cc6868e7c40df602bdb6b8）
+- https://export.arxiv.org/api/query?id_list=2604.12666%2C2604.13018%2C2604.13346%2C2604.13488%2C2604.13531%2C2604.13954%2C2604.13969%2C2604.14872%2C2604.15376%2C2604.15579%2C2604.15715%2C2604.16385%2C2604.17562%2C2604.18779%2C2604.18847%2C2604.18934%2C2604.19299%2C2604.19572%2C2604.19667%2C2604.20279%2C2604.20987%2C2604.22436%2C2604.22558%2C2604.22748%2C2604.23772%2C2604.23781%2C2604.24479%2C2604.24696%2C2604.25235%2C2604.26653%2C2604.27955%2C2604.27974%2C2604.28093%2C2604.28138%2C2604.28139%2C2604.28181%2C2605.00425%2C2605.00497%2C2605.00642%2C2605.01462%2C2605.02168%2C2605.02240%2C2605.02661%2C2605.02729%2C2605.03042%2C2605.03231%2C2605.03242%2C2605.04811%2C2605.05191%2C2605.05811&max_results=50（获取于 2026-11-05T23:02:47Z；SHA-256：11ea6f148f4267ab78e85b8f03a9b3855298f73a199b8d904ba553a647d43ee2）

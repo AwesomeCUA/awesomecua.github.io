@@ -37,7 +37,7 @@ HTML 页面：https://awesomecua.com/zh/categories/company/ · [English](https:/
 
 与 Anthropic 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-anthropic/
+- 目录页面：https://awesomecua.com/zh/resources/organization-anthropic/
 - 原始来源：https://claude.com/chrome
 - 类型：发布方
 - 审核状态：已审核
@@ -70,7 +70,7 @@ Publisher/brand identity only.
 
 与 AskUI 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-askui/
+- 目录页面：https://awesomecua.com/zh/resources/organization-askui/
 - 原始来源：https://www.askui.com/
 - 类型：发布方
 - 审核状态：已审核
@@ -103,7 +103,7 @@ Publisher/brand identity only.
 
 与 Browser Use 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-browser-use/
+- 目录页面：https://awesomecua.com/zh/resources/organization-browser-use/
 - 原始来源：https://browser-use.com/
 - 类型：发布方
 - 审核状态：已审核
@@ -136,7 +136,7 @@ Publisher/brand identity only.
 
 与 BrowserAct 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-browseract/
+- 目录页面：https://awesomecua.com/zh/resources/organization-browseract/
 - 原始来源：https://www.browseract.com/
 - 类型：发布方
 - 审核状态：已审核
@@ -169,7 +169,7 @@ Publisher/brand identity only.
 
 与 Browserbase 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-browserbase/
+- 目录页面：https://awesomecua.com/zh/resources/organization-browserbase/
 - 原始来源：https://www.browserbase.com/
 - 类型：发布方
 - 审核状态：已审核
@@ -202,7 +202,7 @@ Publisher/brand identity only.
 
 与 Browserless 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-browserless/
+- 目录页面：https://awesomecua.com/zh/resources/organization-browserless/
 - 原始来源：https://www.browserless.io/
 - 类型：发布方
 - 审核状态：已审核
@@ -235,7 +235,7 @@ Publisher/brand identity only.
 
 Coasty 开发用于智能体训练与评估的计算机使用环境，涉及电脑和手机界面，并提供交互轨迹及结果评估。
 
-- 目录页面：https://awesomecua.com/resources/url-05dde0b8766744e94e07/
+- 目录页面：https://awesomecua.com/zh/resources/url-05dde0b8766744e94e07/
 - 原始来源：https://coasty.ai
 - 类型：发布方
 - 审核状态：已审核
@@ -268,7 +268,7 @@ The page describes environment design, agent trajectories, and outcome evaluatio
 
 与 E2B 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-e2b/
+- 目录页面：https://awesomecua.com/zh/resources/organization-e2b/
 - 原始来源：https://e2b.dev/
 - 类型：发布方
 - 审核状态：已审核
@@ -301,7 +301,7 @@ Publisher/brand identity only.
 
 与 Google 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-google/
+- 目录页面：https://awesomecua.com/zh/resources/organization-google/
 - 原始来源：https://ai.google.dev/gemini-api/docs/computer-use
 - 类型：发布方
 - 审核状态：已审核
@@ -334,7 +334,7 @@ Publisher/brand identity only.
 
 与 H 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-h/
+- 目录页面：https://awesomecua.com/zh/resources/organization-h/
 - 原始来源：https://hcompany.ai/research/models
 - 类型：发布方
 - 审核状态：已审核
@@ -367,7 +367,7 @@ Publisher/brand identity only.
 
 开发计算机使用模型、强化学习环境和评测的公司，面向 AI 实验室与企业应用；其网站介绍了 Huzzle World 模型系列。
 
-- 目录页面：https://awesomecua.com/resources/url-913a72e8929afd96ad07/
+- 目录页面：https://awesomecua.com/zh/resources/url-913a72e8929afd96ad07/
 - 原始来源：https://labs.huzzle.com
 - 类型：发布方
 - 审核状态：已审核
@@ -400,7 +400,7 @@ The site names Huzzle World models from 1B to 8B and reports ScreenSpot-Pro resu
 
 与 Hyperbrowser 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-hyperbrowser/
+- 目录页面：https://awesomecua.com/zh/resources/organization-hyperbrowser/
 - 原始来源：https://www.hyperbrowser.ai/
 - 类型：发布方
 - 审核状态：已审核
@@ -433,7 +433,7 @@ Publisher/brand identity only.
 
 与 Manus 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-manus/
+- 目录页面：https://awesomecua.com/zh/resources/organization-manus/
 - 原始来源：https://manus.im/
 - 类型：发布方
 - 审核状态：已审核
@@ -466,7 +466,7 @@ Publisher/brand identity only.
 
 与 Microsoft 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-microsoft/
+- 目录页面：https://awesomecua.com/zh/resources/organization-microsoft/
 - 原始来源：https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use
 - 类型：发布方
 - 审核状态：已审核
@@ -499,7 +499,7 @@ Publisher/brand identity only.
 
 与 OpenAI 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-openai/
+- 目录页面：https://awesomecua.com/zh/resources/organization-openai/
 - 原始来源：https://openai.com/index/computer-using-agent/
 - 类型：发布方
 - 审核状态：已审核
@@ -532,7 +532,7 @@ Publisher/brand identity only.
 
 与 Simular 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-simular/
+- 目录页面：https://awesomecua.com/zh/resources/organization-simular/
 - 原始来源：https://www.simular.ai/
 - 类型：发布方
 - 审核状态：已审核
@@ -565,7 +565,7 @@ Publisher/brand identity only.
 
 与 Skyvern 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-skyvern/
+- 目录页面：https://awesomecua.com/zh/resources/organization-skyvern/
 - 原始来源：https://www.skyvern.com/
 - 类型：发布方
 - 审核状态：已审核
@@ -598,7 +598,7 @@ Publisher/brand identity only.
 
 与 Steel 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-steel/
+- 目录页面：https://awesomecua.com/zh/resources/organization-steel/
 - 原始来源：https://steel.dev/
 - 类型：发布方
 - 审核状态：已审核
@@ -631,7 +631,7 @@ Publisher/brand identity only.
 
 与 TinyFish 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
-- 目录页面：https://awesomecua.com/resources/organization-tinyfish/
+- 目录页面：https://awesomecua.com/zh/resources/organization-tinyfish/
 - 原始来源：https://www.tinyfish.ai/
 - 类型：发布方
 - 审核状态：已审核

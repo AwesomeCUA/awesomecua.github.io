@@ -10,7 +10,7 @@ HTML 页面：https://awesomecua.com/zh/papers/page/29/ · [English](https://awe
 
 The Versatile UI Transformer jointly models interface screenshots, structure, and language for five UI tasks. Its encoder supports element detection when structural metadata is absent, while an autoregressive component handles UI question answering and command grounding.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2112-05692/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2112-05692/
 - 原始来源：https://arxiv.org/abs/2112.05692
 - 类型：论文
 - 审核状态：已审核
@@ -62,7 +62,7 @@ Yang Li, Gang Li, Xin Zhou, Mostafa Dehghani, Alexey Gritsenko
 
 Studies mobile-screen summarization using visual, textual, and structural UI information, with a dataset of human-written descriptions.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2108-03353/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2108-03353/
 - 原始来源：https://arxiv.org/abs/2108.03353
 - 类型：论文
 - 审核状态：已审核
@@ -114,7 +114,7 @@ Bryan Wang, Gang Li, Xin Zhou, Zhourong Chen, Tovi Grossman, Yang Li
 
 Learns shared image, text, and structural UI representations through self-supervised tasks based on relationships among interface components.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2107-13731/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2107-13731/
 - 原始来源：https://arxiv.org/abs/2107.13731
 - 类型：论文
 - 审核状态：已审核
@@ -166,7 +166,7 @@ Chongyang Bai, Xiaoxue Zang, Ying Xu, Srinivas Sunkara, Abhinav Rastogi, Jindong
 
 Introduces AppBuddy, an RL training platform and task suite for mobile apps where agents use on-screen element states and tap or type to complete multi-step tasks.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2106-00133/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2106-00133/
 - 原始来源：https://arxiv.org/abs/2106.00133
 - 类型：论文
 - 审核状态：已审核
@@ -218,7 +218,7 @@ Maayan Shvo, Zhiming Hu, Rodrigo Toro Icarte, Iqbal Mohomed, Allan Jepson, Sheil
 
 Presents an Android environment for training and evaluating reinforcement-learning agents through touchscreen interaction.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2105-13231/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2105-13231/
 - 原始来源：https://arxiv.org/abs/2105.13231
 - 类型：论文
 - 审核状态：已审核
@@ -270,7 +270,7 @@ Daniel Toyama, Philippe Hamel, Anita Gergely, Gheorghe Comanici, Amelia Glaese, 
 
 Models mobile screens as atomic text and graphic components whose relationships are learned by a Screen Transformer. The work introduces RICO-PW annotations and evaluates metadata-free screen understanding on relation, clickability, retrieval, and app-classification tasks.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2105-11941/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2105-11941/
 - 原始来源：https://arxiv.org/abs/2105.11941
 - 类型：论文
 - 审核状态：已审核
@@ -322,7 +322,7 @@ Jingwen Fu, Xiaoyi Zhang, Yuwang Wang, Wenjun Zeng, Sam Yang, Grayson Hilliard
 
 Introduces MoTIF, a dataset of natural-language requests for interactive mobile apps, including infeasible requests and follow-up questions for studying task feasibility.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2104-08560/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2104-08560/
 - 原始来源：https://arxiv.org/abs/2104.08560
 - 类型：论文
 - 审核状态：已审核
@@ -374,7 +374,7 @@ Andrea Burns, Deniz Arsan, Sanjna Agrawal, Ranjitha Kumar, Kate Saenko, Bryan A.
 
 Introduces RUSS, which translates support instructions into a domain-specific language and grounds them in actionable web elements.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2103-16057/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2103-16057/
 - 原始来源：https://arxiv.org/abs/2103.16057
 - 类型：论文
 - 审核状态：已审核
@@ -426,7 +426,7 @@ Nancy Xu, Sam Masling, Michael Du, Giovanni Campagna, Larry Heck, James Landay, 
 
 Introduces question answering over webpage text and structure, with aligned HTML, screenshots, and metadata for structural reading comprehension.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2101-09465/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2101-09465/
 - 原始来源：https://arxiv.org/abs/2101.09465
 - 类型：论文
 - 审核状态：已审核
@@ -478,7 +478,7 @@ Xingyu Chen, Zihan Zhao, Lu Chen, Danyang Zhang, Jiabao Ji, Ao Luo, Yuxuan Xiong
 
 Infers UI elements and accessibility metadata from mobile screenshots to support screen-reader interaction with iOS applications.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2101-04893/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2101-04893/
 - 原始来源：https://arxiv.org/abs/2101.04893
 - 类型：论文
 - 审核状态：已审核
@@ -530,7 +530,7 @@ Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa
 
 A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.
 
-- 目录页面：https://awesomecua.com/resources/url-b230a6700386b7e2744c/
+- 目录页面：https://awesomecua.com/zh/resources/url-b230a6700386b7e2744c/
 - 原始来源：https://www.sciencedirect.com/science/article/pii/S1877050921001393
 - 类型：综述
 - 审核状态：已审核
@@ -592,7 +592,7 @@ Jorge Ribeiro, Rui Lima, Tiago Eckhardt, Sara Paiva
 
 A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.
 
-- 目录页面：https://awesomecua.com/resources/url-24a139a7910431441e39/
+- 目录页面：https://awesomecua.com/zh/resources/url-24a139a7910431441e39/
 - 原始来源：https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34
 - 类型：综述
 - 审核状态：已审核
@@ -653,7 +653,7 @@ Olivia Rodríguez-Valdés, Tanja E. J. Vos, Pekka Aho, Beatriz Marín
 
 Pretrains ActionBert on user interaction traces to combine visual, linguistic, and UI-structure features. It evaluates the resulting UI representations on tasks including icon classification and description-based component retrieval.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2012-12350/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2012-12350/
 - 原始来源：https://arxiv.org/abs/2012.12350
 - 类型：论文
 - 审核状态：已审核
@@ -705,7 +705,7 @@ Zecheng He, Srinivas Sunkara, Xiaoxue Zang, Ying Xu, Lijuan Liu, Nevan Wichers, 
 
 A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.
 
-- 目录页面：https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/
+- 目录页面：https://awesomecua.com/zh/resources/url-1c0a2ce1faf3017fa0c5/
 - 原始来源：https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf
 - 类型：综述
 - 审核状态：已审核
@@ -766,7 +766,7 @@ Kabir S. Said, Liming Nie, Adekunle A. Ajibode, Xueyi Zhou
 
 Introduces crowdsourced descriptions of mobile UI elements and studies multimodal models that generate useful widget captions.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2010-04295/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2010-04295/
 - 原始来源：https://arxiv.org/abs/2010.04295
 - 类型：论文
 - 审核状态：已审核
@@ -836,7 +836,7 @@ Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 
 Compares seven traditional and learned GUI element detectors on more than 50,000 interface images. The analysis motivates a coarse-to-fine non-text detector combined with a learned text detector to address GUI-specific localization requirements.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2008-05132/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2008-05132/
 - 原始来源：https://arxiv.org/abs/2008.05132
 - 类型：论文
 - 审核状态：已审核
@@ -888,7 +888,7 @@ Jieshan Chen, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu, G
 
 A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2007-13257/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2007-13257/
 - 原始来源：https://arxiv.org/abs/2007.13257
 - 类型：综述
 - 审核状态：已审核
@@ -958,7 +958,7 @@ Tathagata Chakraborti, Vatche Isahagian, Rania Khalaf, Yasaman Khazaeni, Vinod M
 
 Introduces PIXELHELP for predicting mobile UI action sequences from instructions, together with action-phrase annotations and synthetic UI action descriptions for training. Separate Transformers extract instruction steps and ground object descriptions using interface content and screen position.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-2005-03776/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-2005-03776/
 - 原始来源：https://arxiv.org/abs/2005.03776
 - 类型：论文
 - 审核状态：已审核
@@ -1028,7 +1028,7 @@ Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 
 A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.
 
-- 目录页面：https://awesomecua.com/resources/url-2574c6eeee264762a990/
+- 目录页面：https://awesomecua.com/zh/resources/url-2574c6eeee264762a990/
 - 原始来源：https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609
 - 类型：综述
 - 审核状态：已审核
@@ -1090,7 +1090,7 @@ Rehan Syed, Suriadi Suriadi, Michael Adams, Wasana Bandara, Sander J.J. Leemans,
 
 Introduces PUMICE, an agent that learns mobile-app procedures and conditional concepts through natural-language conversation and GUI demonstrations, recursively resolving ambiguous instructions with users.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-1909-00031/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-1909-00031/
 - 原始来源：https://arxiv.org/abs/1909.00031
 - 类型：论文
 - 审核状态：已审核
@@ -1142,7 +1142,7 @@ Toby Jia-Jun Li, Marissa Radensky, Justin Jia, Kirielle Singarajah, Tom M. Mitch
 
 Introduces DOM-Q-NET, an RL architecture for web navigation that represents HTML as a tree and uses separate Q-function networks for clicking elements and typing text.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-1902-07257/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-1902-07257/
 - 原始来源：https://arxiv.org/abs/1902.07257
 - 类型：论文
 - 审核状态：已审核
@@ -1194,7 +1194,7 @@ Sheng Jia, Jamie Kiros, Jimmy Ba
 
 Surveys automated functional GUI testing techniques for mobile apps, comparing the effectiveness, efficiency and practicality of approaches reported in 25 studies.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-1812-11470/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-1812-11470/
 - 原始来源：https://arxiv.org/abs/1812.11470
 - 类型：综述
 - 审核状态：已审核
@@ -1246,7 +1246,7 @@ Yauhen Leanidavich Arnatovich, Lipo Wang
 
 Introduces guided RL for QWeb, using a curriculum of smaller instructions and generated tasks to train an agent that follows instructions and fills forms on web pages.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-1812-09195/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-1812-09195/
 - 原始来源：https://arxiv.org/abs/1812.09195
 - 类型：论文
 - 审核状态：已审核
@@ -1298,7 +1298,7 @@ Izzeddin Gur, Ulrich Rueckert, Aleksandra Faust, Dilek Hakkani-Tur
 
 Defines language grounding on webpages as choosing the UI element targeted by a natural-language command. A collection of more than 50,000 commands and three baseline models study functional references, relationships between elements, and visual position cues.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-1808-09132/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-1808-09132/
 - 原始来源：https://arxiv.org/abs/1808.09132
 - 类型：论文
 - 审核状态：已审核
@@ -1350,7 +1350,7 @@ Panupong Pasupat, Tian-Shun Jiang, Evan Zheran Liu, Kelvin Guu, Percy Liang
 
 Derives task graphs from demonstrated Android app interactions and layers a conversational question-answer interface over those graphs. The evaluation examines task-model extraction and developer use of the resulting bot templates.
 
-- 目录页面：https://awesomecua.com/resources/url-901ca855640457dfe2f1/
+- 目录页面：https://awesomecua.com/zh/resources/url-901ca855640457dfe2f1/
 - 原始来源：https://doi.org/10.1145/3210240.3210339
 - 类型：论文
 - 审核状态：已审核
@@ -1410,7 +1410,7 @@ Toby Jia-Jun Li, Oriana Riva
 
 Uses workflows extracted from demonstrations to constrain reinforcement-learning exploration for interactive web tasks.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-1802-08802/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-1802-08802/
 - 原始来源：https://arxiv.org/abs/1802.08802
 - 类型：论文
 - 审核状态：已审核
@@ -1462,7 +1462,7 @@ Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, Percy Liang
 
 Introduces APPINITE, a conversational interface for specifying the intended targets of demonstrated Android actions. It constructs semantic UI representations and uses an on-screen overlay to preview and refine executable data descriptions.
 
-- 目录页面：https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/
+- 目录页面：https://awesomecua.com/zh/resources/url-ba2c664c1b3c6f1b172f/
 - 原始来源：https://ieeexplore.ieee.org/document/8506506
 - 类型：论文
 - 审核状态：已审核
@@ -1523,7 +1523,7 @@ Toby Jia-Jun Li, Igor Labutov, Xiaohan Nancy Li, Xiaoyi Zhang, Wenze Shi, Wanlin
 
 Introduces Rousillon, which generalizes a demonstration of collecting one hierarchical data row into a browser-automation program that traverses related pages. The paper develops relation-selection and generalization methods and evaluates users building such scripts.
 
-- 目录页面：https://awesomecua.com/resources/url-97c0b1896525632434e2/
+- 目录页面：https://awesomecua.com/zh/resources/url-97c0b1896525632434e2/
 - 原始来源：https://doi.org/10.1145/3242587.3242661
 - 类型：论文
 - 审核状态：已审核
@@ -1583,7 +1583,7 @@ Sarah E. Chasins, Maria Mueller, Rastislav Bodik
 
 Introduces Rico, collecting Android interface designs and interaction traces through crowdsourced use followed by automated exploration. The paper demonstrates UI-layout retrieval using learned representations and describes visual, textual, structural, and interaction data.
 
-- 目录页面：https://awesomecua.com/resources/url-b560b5d6abaab98483f6/
+- 目录页面：https://awesomecua.com/zh/resources/url-b560b5d6abaab98483f6/
 - 原始来源：https://doi.org/10.1145/3126594.3126651
 - 类型：论文
 - 审核状态：已审核
@@ -1644,7 +1644,7 @@ Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang 
 
 Introduces World of Bits, a web-task platform combining human demonstrations, keyboard and mouse actions, and cached HTTP traffic for repeatable task environments. It evaluates agents trained through behavioral cloning and reinforcement learning.
 
-- 目录页面：https://awesomecua.com/resources/url-52a3261eb6a19b402e88/
+- 目录页面：https://awesomecua.com/zh/resources/url-52a3261eb6a19b402e88/
 - 原始来源：https://proceedings.mlr.press/v70/shi17a.html
 - 类型：论文
 - 审核状态：已审核
@@ -1708,7 +1708,7 @@ Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
 
 Introduces SUGILITE, which combines spoken instructions, demonstrated Android actions, and UI hierarchies to generate reusable automation scripts. Its interface includes context checking and repairs for unfamiliar situations and changing app interfaces.
 
-- 目录页面：https://awesomecua.com/resources/url-392a602c660ffa91be46/
+- 目录页面：https://awesomecua.com/zh/resources/url-392a602c660ffa91be46/
 - 原始来源：https://doi.org/10.1145/3025453.3025483
 - 类型：论文
 - 审核状态：已审核
@@ -1769,7 +1769,7 @@ Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
 
 Introduces Ringer, which converts demonstrated webpage interactions into scripts combining actions, target selectors, and waiting conditions. It evaluates replay robustness on tasks recorded from real websites.
 
-- 目录页面：https://awesomecua.com/resources/url-347925d0f440d6396080/
+- 目录页面：https://awesomecua.com/zh/resources/url-347925d0f440d6396080/
 - 原始来源：https://doi.org/10.1145/2983990.2984020
 - 类型：论文
 - 审核状态：已审核
@@ -1833,7 +1833,7 @@ Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
 
 Introduces WebNav for converting websites into goal-directed hyperlink navigation tasks and WikiNav for evaluating language-conditioned navigation and question answering on Wikipedia.
 
-- 目录页面：https://awesomecua.com/resources/arxiv-1602-02261/
+- 目录页面：https://awesomecua.com/zh/resources/arxiv-1602-02261/
 - 原始来源：https://arxiv.org/abs/1602.02261
 - 类型：论文
 - 审核状态：已审核
@@ -1885,7 +1885,7 @@ Rodrigo Nogueira, Kyunghyun Cho
 
 Presents visual GUI test scripts that use images to specify actions and expected screen feedback. Recording both input events and screenshots can generate tests from demonstrations, supporting unit, regression, and test-driven workflows.
 
-- 目录页面：https://awesomecua.com/resources/url-6262c757080f8838e62c/
+- 目录页面：https://awesomecua.com/zh/resources/url-6262c757080f8838e62c/
 - 原始来源：https://doi.org/10.1145/1753326.1753555
 - 类型：论文
 - 审核状态：已审核
@@ -1944,7 +1944,7 @@ Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
 
 Introduces screenshot-based GUI search and visual scripting, using image patterns to locate interface targets and direct mouse and keyboard events. It evaluates screenshot queries and demonstrates automation and interactive-help tasks.
 
-- 目录页面：https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/
+- 目录页面：https://awesomecua.com/zh/resources/url-a4cdb2ee0d07d3980651/
 - 原始来源：https://doi.org/10.1145/1622176.1622213
 - 类型：论文
 - 审核状态：已审核
@@ -2003,7 +2003,7 @@ Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
 
 Introduces Koala, a collaborative web automation system that records browser interactions as editable pseudo-natural-language scripts. Scripts are shared through a wiki and instantiated with personal or corporate data for reuse by other users.
 
-- 目录页面：https://awesomecua.com/resources/url-cccd967aa993404d74d0/
+- 目录页面：https://awesomecua.com/zh/resources/url-cccd967aa993404d74d0/
 - 原始来源：https://doi.org/10.1145/1240624.1240767
 - 类型：论文
 - 审核状态：已审核
@@ -2064,7 +2064,7 @@ Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
 
 Describes PLOW, which learns executable web-task models from a session combining demonstrations, natural-language explanations, and dialogue. Browser instrumentation connects user actions with DOM structure to support task generalization.
 
-- 目录页面：https://awesomecua.com/resources/url-628b5251757bb3888e89/
+- 目录页面：https://awesomecua.com/zh/resources/url-628b5251757bb3888e89/
 - 原始来源：https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf
 - 类型：论文
 - 审核状态：已审核
@@ -2124,7 +2124,7 @@ James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung
 
 Describes Eager, which detects repeated HyperCard interactions, generalizes them into loops, and previews predicted actions by highlighting interface objects. Users can then ask it to execute the inferred repetitive task.
 
-- 目录页面：https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/
+- 目录页面：https://awesomecua.com/zh/resources/url-bf0c11018e49dff6aeec/
 - 原始来源：https://acypher.com/Publications/CHI91/EagerCHI.html
 - 类型：论文
 - 审核状态：已审核
