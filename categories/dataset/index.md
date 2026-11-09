@@ -1,6 +1,6 @@
 # Computer-use agent datasets
 
-> 185 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
+> 195 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T06:16:40Z.
 
 HTML page: https://awesomecua.com/categories/dataset/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -522,6 +522,40 @@ The repository lists an Android Control test-set archive. The card points to pro
 
 ---
 
+## android_icon_dataset
+
+A labeled Android icon dataset for studying visual interface elements. Its train split contains images and string class labels.
+
+- Catalog URL: https://awesomecua.com/resources/url-b1c6b94743e6dbac930d/
+- Original source: https://huggingface.co/datasets/Lancelot53/android_icon_dataset
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: url:b1c6b94743e6dbac930d
+
+### Limitations
+
+The repository contains a Parquet train split. The card lists 8,161 examples and identifies a Misc_or_unknown class.
+
+- Record JSON: https://awesomecua.com/resources/url-b1c6b94743e6dbac930d/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Lancelot53/android_icon_dataset (retrieved 2026-11-09T06:16:33Z; SHA-256 ebd75e1be578565fb446ef6ab148f5d3e5d456907f5eb5eef25b2301cbd5b9f2)
+- https://huggingface.co/api/datasets/Lancelot53/android_icon_dataset (retrieved 2026-11-09T06:16:33Z; SHA-256 ebd75e1be578565fb446ef6ab148f5d3e5d456907f5eb5eef25b2301cbd5b9f2)
+
+---
+
 ## AndroidCode
 
 HTML and annotation release used for Code2World’s action-conditioned GUI-state prediction training, constructed from mobile GUI trajectories.
@@ -920,6 +954,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## BrowserART
+
+A browser-agent safety dataset of 100 harmful browser-related behaviors, designed for red-team evaluation across real and synthetic websites.
+
+- Catalog URL: https://awesomecua.com/resources/url-dec73112f4c2dad889cb/
+- Original source: https://huggingface.co/datasets/ScaleAI/BrowserART
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, evaluation, web-navigation
+- Evidence checked: 2026-11-09T06:16:32Z
+- ID: url:dec73112f4c2dad889cb
+
+### Limitations
+
+The repository file list includes a behavior CSV. The card says the synthetic websites' code is hosted separately on GitHub and declares a CC-BY-NC-4.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-dec73112f4c2dad889cb/record.json
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-4.0 — https://huggingface.co/datasets/ScaleAI/BrowserART
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/ScaleAI/BrowserART (retrieved 2026-11-09T06:16:32Z; SHA-256 854d13f5b05b7b0f7f96f0c2f6016dbe2ead826a4d6255574c323ad743b29ca2)
+- https://huggingface.co/api/datasets/ScaleAI/BrowserART (retrieved 2026-11-09T06:16:32Z; SHA-256 854d13f5b05b7b0f7f96f0c2f6016dbe2ead826a4d6255574c323ad743b29ca2)
+
+---
+
 ## CAGUI
 
 Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track for widgets and OCR text and an agent track for multi-step tasks in Chinese apps.
@@ -985,6 +1053,40 @@ The card documents Parquet test splits, supplementary JSON files, a leaderboard 
 
 - https://huggingface.co/api/datasets/TIGER-Lab/ClawBench (retrieved 2026-11-09T05:05:16Z; SHA-256 9cddcd7abe86f5a70c1ebb61bd46521e5c67fa04e147fce9f1134f25f59de997)
 - https://huggingface.co/api/datasets/TIGER-Lab/ClawBench (retrieved 2026-11-09T05:05:16Z; SHA-256 9cddcd7abe86f5a70c1ebb61bd46521e5c67fa04e147fce9f1134f25f59de997)
+
+---
+
+## ClawGUI-Eval
+
+GUI grounding evaluation data for six benchmarks, with images, prompts, and prior outputs for an inference, judging, and metrics workflow.
+
+- Catalog URL: https://awesomecua.com/resources/url-e8cea6261ab19611ad23/
+- Original source: https://huggingface.co/datasets/johnzqlu/clawgui-eval
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, grounding
+- Evidence checked: 2026-11-09T06:16:38Z
+- ID: url:e8cea6261ab19611ad23
+
+### Limitations
+
+The repository lists image.zip, data.zip, and output.zip. The card says the archives contain benchmark images, data and prompts, and precomputed inference and judge results.
+
+- Record JSON: https://awesomecua.com/resources/url-e8cea6261ab19611ad23/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/johnzqlu/clawgui-eval (retrieved 2026-11-09T06:16:38Z; SHA-256 2cf582665728f9ce157236b5f8e23dd4383568325e62e2d8a809214bff313ac3)
+- https://huggingface.co/api/datasets/johnzqlu/clawgui-eval (retrieved 2026-11-09T06:16:38Z; SHA-256 2cf582665728f9ce157236b5f8e23dd4383568325e62e2d8a809214bff313ac3)
 
 ---
 
@@ -1420,6 +1522,40 @@ The release provides JSONL data and API annotations. This is Android intent-call
 
 - https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md (retrieved 2026-10-17T02:02:28Z; SHA-256 08a6c5cfa655e1ecd774a41a9a815e845ad0afd47b289378bc1d6ee66c81dda9)
 - https://huggingface.co/api/datasets/mllmTeam/DroidCall (retrieved 2026-10-17T02:02:28Z; SHA-256 c7804987d56b03314a4c48e3ddf2e5819fc0d9c83cc65ba54a981a2f4a584dd9)
+
+---
+
+## duvo-eye-1-evals
+
+Dataset of per-sample GUI grounding predictions and reference points for public benchmarks, accompanied by a script for rescoring model outputs.
+
+- Catalog URL: https://awesomecua.com/resources/url-dfcb24f23a03e58316cf/
+- Original source: https://huggingface.co/datasets/duvoai/duvo-eye-1-evals
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, grounding
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: url:dfcb24f23a03e58316cf
+
+### Limitations
+
+The repository lists prediction JSONL files and benchmark result files. The card specifies single-shot inference and declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-dfcb24f23a03e58316cf/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/duvoai/duvo-eye-1-evals
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/duvoai/duvo-eye-1-evals (retrieved 2026-11-09T06:16:37Z; SHA-256 829964b0175ba2b6f17506222deb90caf8566ef8231e62703539f89a66cca170)
+- https://huggingface.co/api/datasets/duvoai/duvo-eye-1-evals (retrieved 2026-11-09T06:16:37Z; SHA-256 829964b0175ba2b6f17506222deb90caf8566ef8231e62703539f89a66cca170)
 
 ---
 
@@ -2220,6 +2356,40 @@ Purpose is established by the official project, not by API tags. No sample recor
 - https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/README.md (retrieved 2026-10-17T11:18:20Z; SHA-256 9a46741bbde1373ed4b87887cdadde98e05ea8795d34efe39fc25d69b4d50213)
 - https://huggingface.co/api/datasets/wuuuuuz/GUI-CIDER (retrieved 2026-10-17T11:23:07Z; SHA-256 aec6da0e872092d737953f8b4db227867024da10e127cd32d15d05ff95552d45)
 - https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/data/dataset.md (retrieved 2026-10-17T11:24:47Z; SHA-256 bffca456e649a08239f6a1a3be10a7d7c21bcb427e783ba2c304e4b8410d385a)
+
+---
+
+## GUI-Dense-Descriptions
+
+A dataset of GUI screenshots paired with dense text descriptions, released as a train split containing 1,263 image-text examples.
+
+- Catalog URL: https://awesomecua.com/resources/url-fd24a394359c59b35c71/
+- Original source: https://huggingface.co/datasets/Agent-Eval-Refine/GUI-Dense-Descriptions
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: screen-understanding, data-generation
+- Evidence checked: 2026-11-09T06:16:32Z
+- ID: url:fd24a394359c59b35c71
+
+### Limitations
+
+The card lists image and string text fields in a train split. The repository file list includes a Parquet data file.
+
+- Record JSON: https://awesomecua.com/resources/url-fd24a394359c59b35c71/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Agent-Eval-Refine/GUI-Dense-Descriptions (retrieved 2026-11-09T06:16:32Z; SHA-256 bdb1aa3804c30607563e9f1eaadceb9fbe1369158dd50f86e2a5e5953db8a6a9)
+- https://huggingface.co/api/datasets/Agent-Eval-Refine/GUI-Dense-Descriptions (retrieved 2026-11-09T06:16:32Z; SHA-256 bdb1aa3804c30607563e9f1eaadceb9fbe1369158dd50f86e2a5e5953db8a6a9)
 
 ---
 
@@ -4592,6 +4762,40 @@ Counts are the README's description of the task set, not a count of the gated fi
 
 ---
 
+## OpenGVLab/MMBench-GUI
+
+MMBench-GUI releases annotations and offline images for evaluating interface understanding and grounding within a GUI-agent benchmark spanning desktop, mobile and web platforms.
+
+- Catalog URL: https://awesomecua.com/resources/url-339e28b1f939ae45f9fe/
+- Original source: https://huggingface.co/datasets/OpenGVLab/MMBench-GUI
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, macos, linux, ios, android, web
+- Topics: evaluation, grounding, screen-understanding, automation
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: url:339e28b1f939ae45f9fe
+
+### Limitations
+
+The repository includes L1 and L2 annotation files and an offline image archive. The card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-339e28b1f939ae45f9fe/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/OpenGVLab/MMBench-GUI
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/OpenGVLab/MMBench-GUI (retrieved 2026-11-09T06:16:39Z; SHA-256 bee7e3ec919487a075372e5503416e279fd97fa17bfba654d17a957de5569dff)
+- https://huggingface.co/api/datasets/OpenGVLab/MMBench-GUI (retrieved 2026-11-09T06:16:39Z; SHA-256 bee7e3ec919487a075372e5503416e279fd97fa17bfba654d17a957de5569dff)
+
+---
+
 ## OpenMobile-Data
 
 OpenMobile's synthesized Android agent data: four LLaMA-Factory SFT split files built from AndroidWorld rollouts plus an archive of the original rollout trajectories and screenshots.
@@ -5525,6 +5729,39 @@ Project-page scope: screenshots paired with augmented view hierarchies, gesture 
 
 ---
 
+## Rico Dataset
+
+Rico Dataset is a collection of mobile app interaction and design data presented through Interaction Mining, with 70k screens and 10k user flows across 5k apps.
+
+- Catalog URL: https://awesomecua.com/resources/url-0c845d69c9498dd4e20c/
+- Original source: https://www.interactionmining.org
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: data-generation, ui-design
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: url:0c845d69c9498dd4e20c
+
+### Limitations
+
+The site describes a platform for collecting, managing, and sharing mobile interaction datasets and invites contributions or self-hosting. It also states that 10k pieces of private user data are protected.
+
+- Record JSON: https://awesomecua.com/resources/url-0c845d69c9498dd4e20c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://www.interactionmining.org (retrieved 2026-11-09T06:16:39Z; SHA-256 a6f3f922d63153d90b34c56ba443ce305395e2ba7fa5ebe812993b21525dbd1e)
+
+---
+
 ## RICO Semantics
 
 RICO Semantics provides 500,000 human annotations on RICO mobile screens covering icon shapes, semantic roles, and text-element associations.
@@ -5728,6 +5965,40 @@ The card lists 68,980 training, 8,618 validation and 8,427 test examples, stored
 
 - https://huggingface.co/api/datasets/bevaya/RICO-ScreenQA-Short (retrieved 2026-11-09T05:05:07Z; SHA-256 a73cb0dc80512e613a5dfc328e66f01340a67ccafd0bce382f1b907d45ccc175)
 - https://huggingface.co/api/datasets/bevaya/RICO-ScreenQA-Short (retrieved 2026-11-09T05:05:07Z; SHA-256 a73cb0dc80512e613a5dfc328e66f01340a67ccafd0bce382f1b907d45ccc175)
+
+---
+
+## RICO-WidgetCaptioning
+
+A mobile UI dataset pairing RICO screenshots and widget regions with human-written captions. It includes view hierarchies and train, validation, and test splits.
+
+- Catalog URL: https://awesomecua.com/resources/url-013bb9256ca6ad5188be/
+- Original source: https://huggingface.co/datasets/bevaya/RICO-WidgetCaptioning
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, grounding, data-generation, mobile-navigation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: url:013bb9256ca6ad5188be
+
+### Limitations
+
+The card lists screenshots, bounding boxes, captions, semantic annotations, and app metadata. It declares a CC-BY-4.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-013bb9256ca6ad5188be/record.json
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/bevaya/RICO-WidgetCaptioning
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/bevaya/RICO-WidgetCaptioning (retrieved 2026-11-09T06:16:33Z; SHA-256 4cb966ead67248ceebf1f744c72438433b92c8d8357edf02002a21e288ab9e6c)
+- https://huggingface.co/api/datasets/bevaya/RICO-WidgetCaptioning (retrieved 2026-11-09T06:16:33Z; SHA-256 4cb966ead67248ceebf1f744c72438433b92c8d8357edf02002a21e288ab9e6c)
 
 ---
 
@@ -6145,6 +6416,40 @@ The README's split sizes count screenshots; the CSV row counts count annotated s
 - https://danafergan.com/publications/deka2017rico.pdf (retrieved 2026-10-18T12:33:11Z; SHA-256 a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84)
 - https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/valid.csv (retrieved 2026-10-18T12:32:44Z; SHA-256 a1f5928168d2dc71e70f41f8dcd7cc8f855d76bde709ddfd4b58e4660aa18457)
 - https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/test.csv (retrieved 2026-10-18T12:32:44Z; SHA-256 db247ac02ce875c49c3429ae0bdfef0039cacc663598c61b7541f24342537f98)
+
+---
+
+## Screen Point-and-Read Data
+
+Screen Point-and-Read Data pairs OS, web and mobile screenshots with selected points, annotated regions and corrected captions for layout-aware GUI interpretation.
+
+- Catalog URL: https://awesomecua.com/resources/url-4b747a376f628e6f9760/
+- Original source: https://huggingface.co/datasets/yfan1997/ScreenPR
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: screen-understanding, grounding, data-generation, evaluation
+- Evidence checked: 2026-11-09T06:16:35Z
+- ID: url:4b747a376f628e6f9760
+
+### Limitations
+
+The dataset card documents point coordinates, human-annotated region boxes, reference regions and cycle-consistency candidates. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-4b747a376f628e6f9760/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/yfan1997/ScreenPR
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/yfan1997/ScreenPR (retrieved 2026-11-09T06:16:35Z; SHA-256 31ffc7c11a54ba92ee5936a57412ffdcd7735e90e7331387d31671177329f434)
+- https://huggingface.co/api/datasets/yfan1997/ScreenPR (retrieved 2026-11-09T06:16:35Z; SHA-256 31ffc7c11a54ba92ee5936a57412ffdcd7735e90e7331387d31671177329f434)
 
 ---
 
@@ -8502,3 +8807,37 @@ The OSWorld subset was selected post hoc using model outcomes; no train/test spl
 
 - https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md (retrieved 2026-10-16T10:47:49Z; SHA-256 ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0)
 - https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md (retrieved 2026-10-16T10:47:49Z; SHA-256 ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0)
+
+---
+
+## WorldGUI-Bench
+
+A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
+
+- Catalog URL: https://awesomecua.com/resources/url-b540fe81c57cedb1f556/
+- Original source: https://huggingface.co/datasets/hhenryz/WorldGUI-Bench
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: evaluation, robustness, video, planning
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: url:b540fe81c57cedb1f556
+
+### Limitations
+
+The repository lists WorldGUI-data.zip and worldgui_metadata.json. The card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-b540fe81c57cedb1f556/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/hhenryz/WorldGUI-Bench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/hhenryz/WorldGUI-Bench (retrieved 2026-11-09T06:16:39Z; SHA-256 04918486ebffcb42022477bdcab041b2da78361f0072bc60137c506d3a129a7d)
+- https://huggingface.co/api/datasets/hhenryz/WorldGUI-Bench (retrieved 2026-11-09T06:16:39Z; SHA-256 04918486ebffcb42022477bdcab041b2da78361f0072bc60137c506d3a129a7d)

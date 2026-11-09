@@ -629,6 +629,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Codebase, annotation toolkit, and action-level risk dataset for training and evaluating guardrail models that flag unsafe browser-agent actions before execution.
 - [WebTailBench](https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/) — Date not recorded
   Live-web task definitions and rubrics for evaluating computer-use agents, with preserved original tasks, a refreshed V2 task suite and a separate refusal set.
+- [WildClawBench](https://awesomecua.com/resources/github-internlm-wildclawbench/) — Date not recorded
+  WildClawBench evaluates agents on 60 tasks in a live tool environment that includes browser use, email, files and coding. It releases evaluation code and links to task data and trajectories.
 - [Wornpage WebMCP Conformance](https://awesomecua.com/resources/github-wornpage-webmcp-conformance/) — Date not recorded
   Validation toolkit checking page-owned WebMCP tool schemas, authorization boundaries, and execution conformance.
 
@@ -638,6 +640,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Touch-gesture and motion-sensor recordings of people and mobile GUI agents doing the same Chinese-language Android app tasks, with task lists and metadata for training detectors that tell agents from humans.
 - [Browser Agent Failure Corpus](https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/) — Date not recorded
   Browser Agent Failure Corpus is a versioned dataset of browser-agent action failures, execution traces, and guardrail counterexamples.
+- [BrowserART](https://awesomecua.com/resources/url-dec73112f4c2dad889cb/) — Date not recorded
+  A browser-agent safety dataset of 100 harmful browser-related behaviors, designed for red-team evaluation across real and synthetic websites.
 - [ClawBench](https://awesomecua.com/resources/url-9c96a767b56ba0eb4494/) — Date not recorded
   A browser-agent task corpus for everyday work on live websites, with V1 and V2 test splits, task context, and schemas that intercept final submissions.
 - [EnvDistraction](https://awesomecua.com/resources/github-xbmxb-envdistraction/) — Date not recorded
@@ -752,6 +756,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Open-source local driver enabling trusted AI agents to control an existing signed-in Chromium browser.
 - [Buddy](https://awesomecua.com/resources/github-ghorbelhamdi-buddy-android/) — Date not recorded
   Android app whose accessibility service serves a local MCP server of phone tools, letting Claude Code, Codex or OpenCode, run in an on-device proot Linux, read the screen, tap, type and open apps.
+- [camofox-browser](https://awesomecua.com/resources/github-jo-inc-camofox-browser/) — Date not recorded
+  A browser server for AI agents that exposes accessibility snapshots and referenced page actions through a REST API, with isolated sessions and authenticated browsing support.
 - [CEL OSS (Computer Experience Layer)](https://awesomecua.com/resources/github-dimpagk92-cellar/) — Date not recorded
   Computer Experience Layer (CEL) provides structured macOS perception contracts and an MCP server for native computer use.
 - [Chrome Control MCP](https://awesomecua.com/resources/github-randynorthrup-chrome-control-mcp/) — Date not recorded
@@ -832,6 +838,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Capability-bounded WebMCP browser control surface for the InnerOS local AI runtime.
 - [Inside the Agent (SAE Browser Harness)](https://awesomecua.com/resources/github-kalyvask-inside-the-agent/) — Date not recorded
   Reproducible harness for Sparse Autoencoder (SAE) feature steering and live interpretability monitoring of browser agents.
+- [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) — Date not recorded
+  Interpreter Workstation is a desktop agent workspace that connects to local or remote computers and combines an agent runtime with browser access and file and app controls.
 - [Invictum Browser Bridge](https://awesomecua.com/resources/github-invictumhr-ai-invictum-browser-bridge/) — Date not recorded
   Security-first Model Context Protocol bridge allowing AI agents to control an existing browser session under strict guardrails.
 - [ITR Wala AI Agent](https://awesomecua.com/resources/github-aianytime-itr-wala-ai-agent/) — Date not recorded
@@ -890,6 +898,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Local-first AI agent workspace featuring governed computer use, approval gates, and multi-persona orchestration.
 - [open-compute](https://awesomecua.com/resources/github-ellmos-ai-open-compute/) — Date not recorded
   Model-agnostic computer-use core providing a unified agent loop and MCP server across Claude, OpenAI CUA, and local backends.
+- [openadapt-privacy](https://awesomecua.com/resources/github-openadaptai-openadapt-privacy/) — Date not recorded
+  openadapt-privacy removes personal and health information from GUI recordings, including text, event data, accessibility trees and screenshots. The repository is archived.
 - [OpenComet](https://awesomecua.com/resources/github-princechouhan19-opencometai/) — Date not recorded
   Chrome side-panel agent that tags page elements with numbered boxes, redacts faces, credential fields and text PII on-device before a model sees the screenshot and DOM text, and acts through selectors or debugger clicks.
 - [OpenDesk](https://awesomecua.com/resources/github-vitalops-opendesk/) — Date not recorded
@@ -1017,5 +1027,9 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
 
 ## Learning resources
 
+- [Agentic Web](https://awesomecua.com/resources/github-saferl-lab-agentic-web/) — Date not recorded
+  A research reading list on agents and the web, organized around development, retrieval, planning, safety and benchmarks.
 - [Awesome GUI Agent Security](https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/) — Date not recorded
   Bilingual curated reading list of GUI, computer-use, and browser agent security papers organized along attack and defense axes.
+- [NeurIPS 2025: 45 Computer-Use Agent Papers You Should Know About](https://awesomecua.com/resources/url-5f211a7eba35415ea382/) — Date not recorded
+  An annotated reading list of 45 NeurIPS 2025 computer-use agent papers, organized around benchmarks, safety, grounding and agent architectures.

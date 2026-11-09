@@ -1,6 +1,6 @@
 # Computer-use agent agents
 
-> 390 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
+> 413 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T06:16:40Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -72,6 +72,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/banye-technology/AbaoPal/HEAD/README.md (retrieved 2026-11-04T16:51:54Z; SHA-256 07587bb474196c12a09ce253dcbe3dc9116699d06ef0f939019e52a18c12f30c)
 - https://raw.githubusercontent.com/banye-technology/AbaoPal/HEAD/LICENSE (retrieved 2026-11-04T16:56:56Z; SHA-256 6ce93976a30cdd4bf77071751c50fc298c2bd10b70e2962b0e4c72d31d9235ef)
+
+---
+
+## AdbGPT
+
+An Android bug replay agent that extracts action details from written bug reports and uses the current app screen to guide reproduction steps.
+
+- Catalog URL: https://awesomecua.com/resources/github-sidongfeng-adbgpt/
+- Original source: https://github.com/sidongfeng/AdbGPT
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, grounding, automation, training-free
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:sidongfeng/adbgpt
+
+### Limitations
+
+The README documents Genymotion Android emulators, ADB, an OpenAI API key, and scripts that save screenshots and view hierarchies during replay.
+
+- Record JSON: https://awesomecua.com/resources/github-sidongfeng-adbgpt/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sidongfeng/AdbGPT/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 7cfb9c5c8273f689f7a3b83c58325ea15e3fc9e4d03da2643ca4a417d675e139)
 
 ---
 
@@ -1145,6 +1178,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AndroidGen
+
+AndroidGen operates Android tasks using retrieved examples, plan updates, and action checks. Its repository includes agent code and AndroidWorld evaluation scripts.
+
+- Catalog URL: https://awesomecua.com/resources/github-thudm-androidgen/
+- Original source: https://github.com/THUDM/AndroidGen
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, planning, memory, self-reflection
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:thudm/androidgen
+
+### Limitations
+
+The repository includes evaluation datasets and trajectory recording code. Setup requires AndroidWorld and an Android emulator; the source also describes API and trained-model options.
+
+- Record JSON: https://awesomecua.com/resources/github-thudm-androidgen/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/THUDM/AndroidGen/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/THUDM/AndroidGen/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 f6079070787e9668079b043a123b9c12d6a2e186e31b81e7d12657f5701fba51)
+- https://raw.githubusercontent.com/THUDM/AndroidGen/HEAD/LICENSE (retrieved 2026-11-09T06:13:36Z; SHA-256 a52112738f1f1fee12902706589e3b5eb713e77c67bd8658c98914fb42992bae)
+
+---
+
 ## AndroidWorld-SeeAct-V
 
 AndroidWorld-SeeAct-V runs a visual Android agent that plans the next action and grounds coordinate actions in screenshots. The repository includes code for AndroidWorld evaluation.
@@ -1242,6 +1309,40 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/Daan298261/Jarvis/main/README.md (retrieved 2026-11-04T17:30:24Z; SHA-256 074011fc0c0125ad491041aff33a40f85dc68923e89e90ecc6ab1cf2bae2ed12)
+
+---
+
+## API-Based-Agent
+
+Code for web agents that use application APIs and browser actions together, with scripts for evaluating the hybrid approach on WebArena.
+
+- Catalog URL: https://awesomecua.com/resources/github-yueqis-api-based-agent/
+- Original source: https://github.com/yueqis/API-Based-Agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, evaluation
+- Evidence checked: 2026-11-09T06:16:34Z
+- ID: github:yueqis/api-based-agent
+
+### Limitations
+
+The project uses OpenHands as its evaluation framework and includes setup instructions and WebArena experiment scripts.
+
+- Record JSON: https://awesomecua.com/resources/github-yueqis-api-based-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/yueqis/API-Based-Agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yueqis/API-Based-Agent/HEAD/README.md (retrieved 2026-11-09T06:16:34Z; SHA-256 b16aed7973260a940391e940f308855b2b94be9ab1d0129f1d1b330813f9de0f)
+- https://raw.githubusercontent.com/yueqis/API-Based-Agent/HEAD/LICENSE (retrieved 2026-11-09T06:13:38Z; SHA-256 4d63f6e56446e3f2f461e911253a101ca119b428da5b8d88949939ccc7092d21)
 
 ---
 
@@ -1379,6 +1480,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/appclawhq/AppClaw/HEAD/README.md (retrieved 2026-11-04T13:12:07Z; SHA-256 096a2f39bd185e9063c99f5cf1d21e43c66c25d2eab47ff4c349962509c14bf7)
 - https://raw.githubusercontent.com/appclawhq/AppClaw/HEAD/LICENSE (retrieved 2026-11-04T13:23:16Z; SHA-256 0b81e2ea9cf9c447b3317b84e5bbaca9f3cf98a5d08ef8d754a3286f21c3392a)
+
+---
+
+## AppCopilot
+
+AppCopilot is a multimodal mobile agent for tasks across Android apps. The repository provides code and setup steps for emulator or phone control through ADB.
+
+- Catalog URL: https://awesomecua.com/resources/github-openbmb-appcopilot/
+- Original source: https://github.com/OpenBMB/AppCopilot
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, cross-app, planning, tool-integration
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:openbmb/appcopilot
+
+### Limitations
+
+The quickstart requires Android Studio, ADB, Python dependencies, and access to a model served through a vLLM API. It also describes configuring a client API key.
+
+- Record JSON: https://awesomecua.com/resources/github-openbmb-appcopilot/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/OpenBMB/AppCopilot/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenBMB/AppCopilot/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 2bb3ae4d814cf21ef2f70937c88eb4c35edf9556a42359a27ca1c4bd0283f5b3)
+- https://raw.githubusercontent.com/OpenBMB/AppCopilot/HEAD/LICENSE (retrieved 2026-11-09T06:13:31Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -1722,6 +1857,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Auto-UI
+
+A multimodal interface agent that uses earlier actions and future action plans to predict the next action. The repository provides training and inference instructions.
+
+- Catalog URL: https://awesomecua.com/resources/github-gimme1dollar-auto-ui/
+- Original source: https://github.com/gimme1dollar/auto_ui
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: action-prediction, interaction-history, planning, mobile-navigation
+- Evidence checked: 2026-11-09T06:16:38Z
+- ID: github:gimme1dollar/auto_ui
+
+### Limitations
+
+The README points to processed data and trained models in a separate repository, gives feature-extraction commands for AITW and declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-gimme1dollar-auto-ui/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/gimme1dollar/auto_ui/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gimme1dollar/auto_ui/HEAD/README.md (retrieved 2026-11-09T06:16:38Z; SHA-256 13f045fa84dc0ad68dcceea95fc7e0e34a45bcda866d589132351559b87a8e30)
+- https://raw.githubusercontent.com/gimme1dollar/auto_ui/HEAD/LICENSE (retrieved 2026-11-09T06:13:56Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 ## AutoBot-AI
 
 AutoBot-AI is a self-hosted autonomous agent platform combining vision-driven browser and desktop control, voice interaction, and workflow memory.
@@ -1863,6 +2032,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AutoTask
+
+An Android agent that explores mobile interfaces to execute voice commands and uses what it learns during interaction to guide later actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-bowenbryanwang-autotask/
+- Original source: https://github.com/BowenBryanWang/AutoTask
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, planning, memory, automation
+- Evidence checked: 2026-11-09T06:16:32Z
+- ID: github:bowenbryanwang/autotask
+
+### Limitations
+
+The repository includes source code, an Android front end, and a Python backend. The README describes Android Debug Bridge setup, an emulator option, and an API key requirement when using OpenAI models. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-bowenbryanwang-autotask/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/BowenBryanWang/AutoTask/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/BowenBryanWang/AutoTask/HEAD/README.md (retrieved 2026-11-09T06:16:32Z; SHA-256 c9ca025e6431b5cd2495a6f15b7d2a144665d7ee5f499a959d61c0473d1b0022)
+- https://raw.githubusercontent.com/BowenBryanWang/AutoTask/HEAD/LICENSE (retrieved 2026-11-09T06:13:30Z; SHA-256 aaae49e6b0296eb64e15e752a1560880762f32a5c8be6c3c5ad08b54af2c9fde)
+
+---
+
 ## AutoWebGLM
 
 Web navigation agent built on ChatGLM3-6B that simplifies HTML for the model, is trained on hybrid human and AI data with RL and rejection sampling, and comes with the bilingual AutoWebBench.
@@ -1894,6 +2097,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/THUDM/AutoWebGLM/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 9d18b958cfefd47100aa32ab14374c22ababb997a637a80da98b1977dec83fe0)
 - https://raw.githubusercontent.com/THUDM/AutoWebGLM/HEAD/LICENSE (retrieved 2026-10-16T06:42:04Z; SHA-256 0d97778d2d5e7439d1fbb0ce628565e7bd49886b2e86e6e6ca3d481c7fdc3256)
+
+---
+
+## Avenir-UX
+
+Avenir-UX runs web tasks and scores interface usability after agent actions. It combines step assessments with persona settings and produces session reports.
+
+- Catalog URL: https://awesomecua.com/resources/github-onflow-ai-avenir-ux/
+- Original source: https://github.com/Onflow-AI/Avenir-UX
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, ui-design, evaluation, observability
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:onflow-ai/avenir-ux
+
+### Limitations
+
+The repository includes agent, browser, scoring and report code, plus example task files. Running it requires a Playwright-compatible browser and an LLM provider API key. The README displays an Apache-2.0 license badge.
+
+- Record JSON: https://awesomecua.com/resources/github-onflow-ai-avenir-ux/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Onflow-AI/Avenir-UX/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 98d4bef8eb3a1b8ee0bdff4a56313e91979468c9e91d1ad64d668441fa324eaf)
 
 ---
 
@@ -3312,6 +3548,73 @@ The publisher describes this as demonstration code and states that the full impl
 
 ---
 
+## ColorBrowserAgent
+
+A browser agent for long web tasks that compresses progress into summaries and incorporates human supplied site knowledge to guide later actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-madeagents-browser-agent/
+- Original source: https://github.com/MadeAgents/browser-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, long-horizon, memory, human-in-the-loop
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:madeagents/browser-agent
+
+### Limitations
+
+The repository includes agent code, WebArena run instructions, trajectory documentation, and an Apache License 2.0 declaration. Running the examples requires Python, Playwright, and API configuration.
+
+- Record JSON: https://awesomecua.com/resources/github-madeagents-browser-agent/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/MadeAgents/browser-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MadeAgents/browser-agent/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 22355eccd60027ec9f8c5c36926fb4c6e20c7bc745674b49b38ecfb8fc9b4290)
+- https://raw.githubusercontent.com/MadeAgents/browser-agent/HEAD/LICENSE (retrieved 2026-11-09T06:13:37Z; SHA-256 58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd)
+
+---
+
+## CoMEM-Agent
+
+A web GUI agent implementation that retrieves compact embeddings of earlier interaction trajectories as memory. The repository includes inference and training code.
+
+- Catalog URL: https://awesomecua.com/resources/github-wenyiwu0111-comem-agent/
+- Original source: https://github.com/WenyiWU0111/CoMEM-Agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: memory, efficiency, web-navigation, data-generation
+- Evidence checked: 2026-11-09T06:16:34Z
+- ID: github:wenyiwu0111/comem-agent
+
+### Limitations
+
+The README links to a trajectory dataset and continuous-memory checkpoints on Hugging Face. Its examples cover MMInA, Mind2Web, and WebVoyager.
+
+- Record JSON: https://awesomecua.com/resources/github-wenyiwu0111-comem-agent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/WenyiWU0111/CoMEM-Agent/HEAD/README.md (retrieved 2026-11-09T06:16:34Z; SHA-256 3a4707075684ba743f83aa5ee168e3778e08c6ae497497dfd6e21f8f077c7c84)
+
+---
+
 ## CompBuddy
 
 CompBuddy is a background macOS computer-use agent that observes target windows and dispatches Accessibility and CGEvent actions without stealing focus.
@@ -3477,6 +3780,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/README.md (retrieved 2026-10-16T06:36:02Z; SHA-256 fe475d3e92c42807b792c542bc5986bf74caa7d166aea860d368fbe776342a82)
 - https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/LICENSE (retrieved 2026-10-16T06:42:04Z; SHA-256 2964861ad96d977da95d891f62d8f5d60873f4a36da0b51f052d9e98ef97d02f)
+
+---
+
+## CrashTranslator
+
+CrashTranslator generates Android app interactions to reproduce crashes from stack traces. The repository provides code, data and setup instructions for emulator-based runs.
+
+- Catalog URL: https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/
+- Original source: https://github.com/wuchiuwong/CrashTranslator
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, automation, evaluation
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:wuchiuwong/crashtranslator
+
+### Limitations
+
+Running the release requires an Android emulator, Appium Desktop Client and a GPT-3 API key. The README provides a fine-tuning corpus but says the fine-tuned model is not supplied.
+
+- Record JSON: https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/wuchiuwong/CrashTranslator/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 59e108b22314d77e10d4659f9152da4e933997e7bf24442a6c7567556ff490ff)
 
 ---
 
@@ -4902,6 +5238,40 @@ The publisher reports a 97.4% task completion rate and says the agent uses Gemin
 
 ---
 
+## finalrun-agent
+
+An AI-driven CLI for testing Android and iOS apps from YAML instructions. It observes the screen, performs touch and text actions, and reports results with video and logs.
+
+- Catalog URL: https://awesomecua.com/resources/github-final-run-finalrun-agent/
+- Original source: https://github.com/final-run/finalrun-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android, ios
+- Topics: mobile-navigation, automation, evaluation, recording
+- Evidence checked: 2026-11-09T06:16:35Z
+- ID: github:final-run/finalrun-agent
+
+### Limitations
+
+The README describes test generation skills and manual CLI runs. Tests require an AI provider API key; local iOS testing requires macOS.
+
+- Record JSON: https://awesomecua.com/resources/github-final-run-finalrun-agent/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/final-run/finalrun-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/final-run/finalrun-agent/HEAD/README.md (retrieved 2026-11-09T06:16:35Z; SHA-256 99e7ce0c6d44957063035afbf407dd05fe5ab0da8e6acece041e866f358b77ee)
+- https://raw.githubusercontent.com/final-run/finalrun-agent/HEAD/LICENSE (retrieved 2026-11-09T06:13:39Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 ## FluidGPT
 
 An Android agent that selects reusable app routines from a task goal and executes them through the accessibility tree. Its benchmark report presents episode recordings and action traces.
@@ -5485,6 +5855,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## gui-agent
+
+Research code for GUI-agent experiments, accompanied by a trained interface element detector, experiment configurations and prompts.
+
+- Catalog URL: https://awesomecua.com/resources/github-waynchi-gui-agent/
+- Original source: https://github.com/waynchi/gui-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: grounding, screen-understanding, evaluation
+- Evidence checked: 2026-11-09T06:16:35Z
+- ID: github:waynchi/gui-agent
+
+### Limitations
+
+The README gives a command for running configured experiments and setup instructions for VisualWebArena. It describes Linux and Mac dependency installation.
+
+- Record JSON: https://awesomecua.com/resources/github-waynchi-gui-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/waynchi/gui-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/waynchi/gui-agent/HEAD/README.md (retrieved 2026-11-09T06:16:35Z; SHA-256 1bebac8613abad433e630115c2ceb9068d0af7f116b13fb9f1953bdd456cce5d)
+- https://raw.githubusercontent.com/waynchi/gui-agent/HEAD/LICENSE (retrieved 2026-11-09T06:13:38Z; SHA-256 4236bd6e3d37d4872f612161eff52bc6616b7ed1819867081d2735cc81713d23)
+
+---
+
 ## GUI-explorer
 
 Android agent code that explores apps over ADB, mines transition-aware knowledge into a knowledge base behind a retrieval service, and runs an OpenAI-backed agent demo that draws on it.
@@ -5518,6 +5922,39 @@ The repository was renamed from JiuTian-VL/GUI-explorer and is archived; the REA
 - https://raw.githubusercontent.com/iLearn-Lab/ACL25-GUI-explorer/HEAD/LICENSE (retrieved 2026-10-18T11:24:10Z; SHA-256 63d450c65076fc302d9aa07ad0c58766bb6a85d35302dcf0a56658a9629a18e4)
 - https://api.github.com/repos/JiuTian-VL/GUI-explorer (retrieved 2026-10-18T11:24:02Z; SHA-256 af64b78e2b61200a3fb1fdbfd927c60dd2a1b40cfc9da2dd05703f9d2642c26b)
 - https://api.github.com/repos/iLearn-Lab/ACL25-GUI-explorer (retrieved 2026-10-18T11:24:03Z; SHA-256 af64b78e2b61200a3fb1fdbfd927c60dd2a1b40cfc9da2dd05703f9d2642c26b)
+
+---
+
+## GUI-Rise
+
+A GUI navigation agent that combines stepwise reasoning with history summarization; its repository provides supervised training, reinforcement learning, and evaluation instructions.
+
+- Catalog URL: https://awesomecua.com/resources/github-leon022-gui-rise-code/
+- Original source: https://github.com/Leon022/GUI-Rise-code
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, android
+- Topics: planning, interaction-history, long-horizon, reinforcement-learning
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:leon022/gui-rise-code
+
+### Limitations
+
+The repository lists separate sft and rl directories. The README names GUIAct, Mind2Web, AITW, and MiniWoB preparation steps, uses verl for reinforcement learning, and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-leon022-gui-rise-code/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Leon022/GUI-Rise-code/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 f66c1c335b16b6db0216354bc6a7e272c92b8c447d6c2345a3e632052addf2ca)
 
 ---
 
@@ -5688,6 +6125,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/CodewithEvilxd/hikari/main/README.md (retrieved 2026-11-04T17:20:54Z; SHA-256 3a9c73b50f55df674d2b5b0dee7dfe7e6ebdb556fb5cb33cbb2055b4f255f21b)
 - https://raw.githubusercontent.com/CodewithEvilxd/hikari/HEAD/LICENSE (retrieved 2026-11-04T17:26:56Z; SHA-256 82de5d1d00b821afef61e7538033f191368beaeec39216910c24e13a5adc343c)
+
+---
+
+## HIPPO Agent
+
+A computer-use agent for multistep GUI tasks that stores task facts and progress in working memory and combines planning, grounding, and completion checks.
+
+- Catalog URL: https://awesomecua.com/resources/github-wadang-muscle-mem-agent/
+- Original source: https://github.com/wadang/muscle-mem-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: memory, long-horizon, planning, state-tracking
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:wadang/muscle-mem-agent
+
+### Limitations
+
+The repository lists a muscle_mem package and OSWorld setup materials. The source says the agent was developed on the Agent-S3 codebase and reports an OSWorld-Verified result.
+
+- Record JSON: https://awesomecua.com/resources/github-wadang-muscle-mem-agent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/wadang/muscle-mem-agent/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 bfcca97c9a37a2da487a9275aee240cc0a0132a1f879c3682a6a986af8ddd8cc)
 
 ---
 
@@ -6481,6 +6951,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Kirk Engine
+
+An Android agent that uses screenshots and accessibility trees to choose taps, typing and swipes. Its page reports an AndroidWorld run and describes per-task verification artifacts.
+
+- Catalog URL: https://awesomecua.com/resources/url-80c8abf734a29f7affc5/
+- Original source: https://abhishekdh.github.io/kirk-engine
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, evaluation, screen-understanding
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: url:80c8abf734a29f7affc5
+
+### Limitations
+
+The page reports results for 116 AndroidWorld tasks and describes video, screenshot, accessibility-tree, transcript and validator artifacts. It gives an emulator configuration and rerun command.
+
+- Record JSON: https://awesomecua.com/resources/url-80c8abf734a29f7affc5/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://abhishekdh.github.io/kirk-engine (retrieved 2026-11-09T06:16:39Z; SHA-256 0fdd38125c25fa73c69b5bee412b03803d4ef6d69043d152dca42b887694ef16)
+
+---
+
 ## Kota-Kawa Browser-Agent
 
 FastAPI and browser-use web agent featuring live CDP session streaming, Server-Sent Events (SSE) progress logs, and interactive UI control.
@@ -6577,6 +7080,39 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/rhymezip/kyros-local-desktop-assistant/main/README.md (retrieved 2026-11-04T17:55:18Z; SHA-256 a42eebc6a80945ff71396b8348913800f30d13f0457e456b5ada81650b32ced8)
+
+---
+
+## K²-Agent
+
+A hierarchical mobile-device agent that combines a demonstration-informed planner with a learned action executor; the release includes AndroidWorld evaluation trajectories.
+
+- Catalog URL: https://awesomecua.com/resources/github-k2-agent-k2-agent/
+- Original source: https://github.com/k2-agent/k2-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, planning, reinforcement-learning
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:k2-agent/k2-agent
+
+### Limitations
+
+The repository lists an AndroidWorld trajectories archive and task results. The README marks both the paper and agent code as coming soon.
+
+- Record JSON: https://awesomecua.com/resources/github-k2-agent-k2-agent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/k2-agent/k2-agent/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 6fcd269fa7908cd6ed852761e40bbab724d9128842a75f70d4b9f9c9c1eeac6e)
 
 ---
 
@@ -7589,6 +8125,39 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/Abdullah-Al-Raju/milli-agent/HEAD/README.md (retrieved 2026-11-04T15:03:44Z; SHA-256 2877780ca8ac85c2fe5ddfd3abfb86313bbcd82354a0260a6609f988c5750692)
+
+---
+
+## Mind2Web-Live
+
+A SeeAct-V web agent implementation for Mind2Web-Live. It uses screen images to plan actions and a visual grounding model to locate targets for coordinate-based actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-boyugou-mind2web-live-seeact-v/
+- Original source: https://github.com/boyugou/Mind2Web_Live_SeeAct_V
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, grounding, planning, action-prediction
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:boyugou/mind2web_live_seeact_v
+
+### Limitations
+
+The repository includes agent, browser environment and evaluation harness directories. The README calls for API keys for features that use external services and describes an adaptation to the WebCanvas codebase.
+
+- Record JSON: https://awesomecua.com/resources/github-boyugou-mind2web-live-seeact-v/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/boyugou/Mind2Web_Live_SeeAct_V/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 50947552aec9545bafc6f4c75d607b4bfc716a2dade48f54c7a21502af827cbc)
 
 ---
 
@@ -9325,6 +9894,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/openamer/openamer/main/README.md (retrieved 2026-11-04T17:20:43Z; SHA-256 fc13c1e1f05cbe7f288a23a17a46d361f78c70572be09bfb2019264707444698)
 - https://raw.githubusercontent.com/openamer/openamer/HEAD/LICENSE (retrieved 2026-11-04T17:26:59Z; SHA-256 6e38c982c7fe8e516185cc24d464cc0762790d1666dfd49e4e60d6ef011ac702)
+
+---
+
+## OpenAPA
+
+A computer-use agent for desktop GUI tasks that combines screenshot-based reasoning, visual grounding, planning, and action execution across applications.
+
+- Catalog URL: https://awesomecua.com/resources/github-laiye-ai-open-apa/
+- Original source: https://github.com/laiye-ai/open-apa
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, macos, linux
+- Topics: automation, grounding, planning, long-horizon
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:laiye-ai/open-apa
+
+### Limitations
+
+The repository lists agent, benchmark, configuration, and tool directories. The README names Windows, macOS, and Linux support and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-laiye-ai-open-apa/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/laiye-ai/open-apa/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/laiye-ai/open-apa/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 5f7dd7ab412820f780986b5312786a3c8cf13fc105b63a8eb95089c9c0c31142)
+- https://raw.githubusercontent.com/laiye-ai/open-apa/HEAD/LICENSE (retrieved 2026-11-09T06:13:46Z; SHA-256 09bc17688bc2e9c7fd21e8f0c8c13d16ad6e0c999fd124263f75d877310402d7)
 
 ---
 
@@ -11348,6 +11951,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## ScribeAgent
+
+ScribeAgent trains web agents from recorded workflows represented with page HTML and prior actions. The repository provides preprocessing, fine-tuning, and evaluation code.
+
+- Catalog URL: https://awesomecua.com/resources/github-colonylabs-scribeagent/
+- Original source: https://github.com/colonylabs/ScribeAgent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, imitation-learning, workflow, evaluation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:colonylabs/scribeagent
+
+### Limitations
+
+The release includes example workflows and processed data, while the main dataset is described as proprietary. Preprocessing requires Hugging Face and OpenAI credentials.
+
+- Record JSON: https://awesomecua.com/resources/github-colonylabs-scribeagent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/colonylabs/ScribeAgent/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 68b0ffeacd7fb7fe9254ca30ccf9de2bbd96fad87999cea42064c558d0ea001b)
+
+---
+
 ## SeeAct
 
 Generalist web agent framework for large multimodal models such as GPT-4V, with a Playwright tool that runs agents on live websites, text-choice and set-of-mark grounding, and a crawler mode.
@@ -11378,6 +12014,39 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/OSU-NLP-Group/SeeAct/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 673b0e309540e57ec3b977689b33f89ef80e45ba1c0ffb05e7412e4862f6b99e)
+
+---
+
+## SeeAct Web Agent (Chrome Extension)
+
+A Chrome extension that runs a SeeAct-based agent in an existing browser session to navigate websites, gather information and prepare forms.
+
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/
+- Original source: https://github.com/OSU-NLP-Group/SeeActChromeExtension
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, human-in-the-loop, observability
+- Evidence checked: 2026-11-09T06:16:35Z
+- ID: github:osu-nlp-group/seeactchromeextension
+
+### Limitations
+
+The README points to packaged extension releases and says users configure an AI provider and API key. It also describes a monitor mode and task history.
+
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OSU-NLP-Group/SeeActChromeExtension/HEAD/README.md (retrieved 2026-11-09T06:16:35Z; SHA-256 b5725e700ca35289753b5ac13d69eba5dbb638ecb58d405257136721dae40523)
 
 ---
 
@@ -13058,6 +13727,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ## WebOperator
 
+A web agent using action-aware tree search to explore tasks and backtrack, checking page reconstruction and accounting for actions that may change website state.
+
+- Catalog URL: https://awesomecua.com/resources/github-kagnlp-weboperator/
+- Original source: https://github.com/kagnlp/WebOperator
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, state-tracking, robustness
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:kagnlp/weboperator
+
+### Limitations
+
+The repository lists agent and evaluation code alongside WebArena and WebVoyager integrations. The README links to the project's paper and experimental trajectories.
+
+- Record JSON: https://awesomecua.com/resources/github-kagnlp-weboperator/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/kagnlp/WebOperator/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/kagnlp/WebOperator/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 226b0b4a1268ec097f38c038726bc16b4759b299db9d57e842002c80e2eec90b)
+- https://raw.githubusercontent.com/kagnlp/WebOperator/HEAD/LICENSE (retrieved 2026-11-09T06:13:45Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## WebOperator
+
 WebOperator is an AI browser agent and MCP server that automates a user's existing Chrome profile through the Chrome DevTools Protocol.
 
 - Catalog URL: https://awesomecua.com/resources/github-kazkozdev-weboperator/
@@ -13154,6 +13857,40 @@ The project page describes constraint checking, page summaries, parallel tabs an
 ### Primary evidence
 
 - https://paper-submission-anoymous.github.io/webtactix_introduction (retrieved 2026-11-09T05:05:10Z; SHA-256 d3700fd584dfb27c76cb012b351be805c5a279a3cf51f875c51f6a28dbac61cf)
+
+---
+
+## WeChat Mac RPA
+
+WeChat Mac RPA is a macOS agent that reads WeChat screenshots, reasons over conversations and uses system automation to send messages and switch chats.
+
+- Catalog URL: https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/
+- Original source: https://github.com/wq19901103wq/wechat-mac-rpa
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: screen-understanding, automation, memory, workflow
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:wq19901103wq/wechat-mac-rpa
+
+### Limitations
+
+The README lists macOS 12+, Python 3.10+ and the Mac version of WeChat as requirements. Screen recording and accessibility permissions are required; external model APIs need an API key. The README displays an MIT license badge.
+
+- Record JSON: https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/wq19901103wq/wechat-mac-rpa/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/wq19901103wq/wechat-mac-rpa/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 5639402a3137241c417b21634b286214de7bdc21e4a02b615f3c31d240c9a424)
+- https://raw.githubusercontent.com/wq19901103wq/wechat-mac-rpa/HEAD/LICENSE (retrieved 2026-11-09T06:13:41Z; SHA-256 21b20c6800c503218291c565fbb98882ea3823295e8f80eab940c8ec97f8c6f8)
 
 ---
 
@@ -13261,6 +13998,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/winter40611/browser-agent/main/README.md (retrieved 2026-11-04T17:20:52Z; SHA-256 b9de10b30f9724a041df3ac762b896d796304928478d01e1ef15505b08c16b68)
 - https://raw.githubusercontent.com/winter40611/browser-agent/HEAD/LICENSE (retrieved 2026-11-04T17:27:01Z; SHA-256 288482def2a9e034d95c64b9c333faba5f855fcdb0cf880030e77f6c0afa7f65)
+
+---
+
+## WMA Web Agent
+
+A web agent uses a learned world model to predict consequential page changes before choosing an action. The repository includes trajectory processing and inference code.
+
+- Catalog URL: https://awesomecua.com/resources/github-kyle8581-wma-agents/
+- Original source: https://github.com/kyle8581/WMA-Agents
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, world-models, planning, long-horizon
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:kyle8581/wma-agents
+
+### Limitations
+
+The README links world-model and value-model adapters and related datasets. WebArena experiments require its Docker environment; the README names MIT for code and CC BY-NC 4.0 for data.
+
+- Record JSON: https://awesomecua.com/resources/github-kyle8581-wma-agents/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/kyle8581/WMA-Agents/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 616596f22f4944424791e4779c0b8b6dd5ff20237827f9388b11e3e4064445e8)
 
 ---
 

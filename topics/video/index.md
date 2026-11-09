@@ -91,6 +91,8 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   Released data for the GUIDE benchmark: annotated segments of narrated novice screen recordings in 10 applications, for predicting user behavior state, short-term intent and whether and how to help.
 - [VideoGUI](https://awesomecua.com/resources/github-showlab-videogui/) — Date not recorded
   Benchmark for desktop GUI tasks derived from instructional videos.
+- [VideoWebArena](https://awesomecua.com/resources/github-ljang0-videowebarena/) — Date not recorded
+  VideoWebArena evaluates web agents that use video tutorials to complete website tasks. Its released benchmark includes task configurations, environments, and an evaluation pipeline.
 - [WONDERBREAD](https://awesomecua.com/resources/github-hazyresearch-wonderbread/) — Date not recorded
   An offline benchmark of workflow documentation, quality assessment and knowledge transfer using human web-navigation demonstrations, action traces and written procedures.
 
@@ -124,6 +126,8 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   Companion Hub repository holding the WildGUI screenshot tar shards for parts 16-19; the matching trajectory annotations and the other parts' frames are in the main WildGUI repository.
 - [WorkDemo-350](https://awesomecua.com/resources/url-243ab00712ba19cc2089/) — Date not recorded
   Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.
+- [WorldGUI-Bench](https://awesomecua.com/resources/url-b540fe81c57cedb1f556/) — Date not recorded
+  A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
 
 ## Models
 
@@ -139,6 +143,8 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   Magma-8B is a released multimodal agent checkpoint whose card shows UI navigation tasks alongside robot manipulation and describes training with video data.
 - [Qwen3-VL / Qwen2.5-VL](https://awesomecua.com/resources/github-qwenlm-qwen3-vl/) — Date not recorded
   Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
+- [ShowUI-Narrator](https://awesomecua.com/resources/url-6b9389a144cbe70c894d/) — Date not recorded
+  A released 2B model for narrating user actions in GUI screenshots and video, with a pipeline that detects the cursor and processes cropped frames.
 
 ## Engineering & industry
 
@@ -150,8 +156,12 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   Playwright browser automation, screenshot, and GIF/MP4/WebP session-recording toolkit and MCP server for AI agents.
 - [DJCLIPZ Agent Controller](https://awesomecua.com/resources/github-form-u-la-djclipz-agent-controller/) — Date not recorded
   Starter kit and controller for driving the DJCLIPZ browser media application programmatically from AI agents.
+- [FluidGPT](https://awesomecua.com/resources/url-0c69fd920263b8a72a72/) — Date not recorded
+  Android agent product presented through recorded AndroidWorld runs. Fluiz reports completion of 116 tasks across 20 apps through screen interaction.
 - [MergeProof](https://awesomecua.com/resources/github-bukacdan-mergeproof/) — Date not recorded
   Installable Agent Skill that records live browser verification demos and attaches them to pull requests.
+- [openadapt-capture](https://awesomecua.com/resources/github-openadaptai-openadapt-capture/) — Date not recorded
+  A desktop recorder for GUI demonstrations that pairs mouse and keyboard actions with screen frames and stores sessions for later inspection in Python.
 - [Pagecast MCP](https://awesomecua.com/resources/github-mcpware-pagecast/) — Date not recorded
   Playwright and FFmpeg Model Context Protocol server that records browser agent interactions as GIFs or MP4 videos.
 - [Product Demo Video Skill](https://awesomecua.com/resources/github-afnanksalal-product-demo-video-skill/) — Date not recorded
@@ -164,3 +174,8 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   VG-GUI-TASKER extracts informative keyframes from instructional demonstration videos to guide multimodal GUI agents.
 - [Video2GUI](https://awesomecua.com/resources/github-weiminxiong-video2gui/) — Date not recorded
   Video2GUI synthesizes large-scale GUI interaction trajectories from unlabeled screen-recording videos via inverse dynamics and VLM annotation.
+
+## Learning resources
+
+- [Finalrun Agentic Approach](https://awesomecua.com/resources/github-final-run-finalrun-android-world-benchmark/) — Date not recorded
+  Illustrated account of FinalRun's Android agent approach, with task walkthroughs and recordings showing screen observation, action planning, and state checks.

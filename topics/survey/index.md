@@ -74,13 +74,25 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
 
 ## Learning resources
 
+- [Agentic Web](https://awesomecua.com/resources/github-saferl-lab-agentic-web/) — Date not recorded
+  A research reading list on agents and the web, organized around development, retrieval, planning, safety and benchmarks.
+- [AI Agents for Computer Use](https://awesomecua.com/resources/github-sagerpascal-agents-for-computer-use/) — Date not recorded
+  A browsable list of agents for desktop and mobile GUI control, with agent and dataset overviews linked from a companion survey repository.
 - [Awesome AI Agent Platforms](https://awesomecua.com/resources/github-agenta-ai-awesome-ai-agent-platforms/) — Date not recorded
   Curated directory of open-source AI agent platforms, digital coworkers, and browser/desktop execution harnesses.
+- [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) — Date not recorded
+  A curated reading list of computer GUI use research and software, linking to agent demos, frameworks, and papers across desktop and web interfaces.
 - [Awesome GPT-6 Astra](https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/) — Date not recorded
   Evidence-linked catalog of computer-use demos, evaluations, and agent workflows with primary source receipts.
 - [Awesome GUI Agent Security](https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/) — Date not recorded
   Bilingual curated reading list of GUI, computer-use, and browser agent security papers organized along attack and defense axes.
 - [Awesome Multimodal Agentic Coding](https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/) — Date not recorded
   Comprehensive research map of papers, benchmarks, and tools for multimodal coding and UI-verifying agents.
+- [Awesome Reinforcement Learning for GUI Agents](https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/) — Date not recorded
+  A curated reading list of reinforcement learning work on GUI agents, organized by learning methods, reward and efficiency questions, datasets, and training environments.
 - [Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches](https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/) — Date not recorded
   A curated reading list and accompanying report organize computer-use research, including agents that act through web, desktop, and mobile interfaces.
+- [NeurIPS 2025: 45 Computer-Use Agent Papers You Should Know About](https://awesomecua.com/resources/url-5f211a7eba35415ea382/) — Date not recorded
+  An annotated reading list of 45 NeurIPS 2025 computer-use agent papers, organized around benchmarks, safety, grounding and agent architectures.
+- [Open Operator](https://awesomecua.com/resources/github-openhands-open-operator/) — Date not recorded
+  Open Operator collects resources on computer-use agents, with task categories, benchmark summaries, and pages describing existing agent systems.

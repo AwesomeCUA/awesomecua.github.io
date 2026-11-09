@@ -123,6 +123,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Mobile-app task definitions covering everyday scenarios, with annotated preconditions and clarification requirements for evaluating agent behavior.
 - [MobileGym++ / MobileGym++ Bench](https://awesomecua.com/resources/github-openmobile2-mobilegym-plusplus/) — Date not recorded
   Browser-rendered mobile simulation with resettable app state and a shared task suite for GUI-only and GUI-plus-tool agents.
+- [MyPCBench](https://awesomecua.com/resources/github-ljang0-mypcbench/) — Date not recorded
+  A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.
 - [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/) — Date not recorded
   Configurable browser apps and task rewards for testing computer-use agents under changes in content, layout and appearance.
 - [OS-Map](https://awesomecua.com/resources/github-os-copilot-os-map/) — Date not recorded
@@ -151,8 +153,15 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 - [Uni-GUI-Desktop-1](https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/) — Date not recorded
   Desktop trajectories from the UI-MOPD training data, collected in OSWorld environments: 2,685 tasks across 10 app categories with step screenshots, reasoning traces, normalized actions and pyautogui code.
 
+## 模型
+
+- [MiniMax M3](https://awesomecua.com/resources/url-50089323623ee780a426/) — Date not recorded
+  MiniMax M3 is a multimodal model whose release page describes desktop operation from visual input and cross-application tasks through MiniMax Code.
+
 ## 工程与产业
 
+- [AppCopilot](https://awesomecua.com/resources/github-openbmb-appcopilot/) — Date not recorded
+  AppCopilot is a multimodal mobile agent for tasks across Android apps. The repository provides code and setup steps for emulator or phone control through ADB.
 - [ARTEMIS](https://awesomecua.com/resources/github-google-artemis/) — Date not recorded
   ARTEMIS is an Android agent that carries out natural-language tasks across apps. It targets UI elements visually or by index and exposes device runs through an MCP server.
 - [debug-kit](https://awesomecua.com/resources/github-dxiongya-debug-kit/) — Date not recorded
@@ -181,3 +190,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Touchpoint is a cross-platform desktop accessibility API and MCP server giving AI agents unified UI inspection and control.
 - [UFO](https://awesomecua.com/resources/github-microsoft-ufo/) — Date not recorded
   Windows agent framework for application and desktop automation.
+
+## 学习资源
+
+- [Midscene Examples](https://awesomecua.com/resources/github-web-infra-dev-midscene-example/) — Date not recorded
+  Midscene Examples provides runnable AI automation and testing cases for web, Android, iOS and desktop interfaces, including YAML workflows and SDK integrations.

@@ -637,6 +637,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   A released UI-AGILE checkpoint for GUI grounding, associated with reward design and cropping based resampling during training and image decomposition during inference.
 - [KV-Ground 8B (BaseGuiOwl1.5 0315)](https://awesomecua.com/resources/url-461125e2d6ac2f030f6b/) — Date not recorded
   GUI-grounding checkpoint post-trained from GUI-Owl-1.5-8B-Instruct with SFT and GRPO on cleaned and synthesized high-resolution data, aimed at locating elements in large screenshots.
+- [KV-Ground-4B-BaseGuiOwl1.5-0228](https://awesomecua.com/resources/url-709d8b51bbc8d257318f/) — Date not recorded
+  A 4B vision-language checkpoint for locating GUI targets in high-resolution images. It is fine-tuned from GUI-Owl-1.5-4B-Instruct with supervised and reward-based post-training.
 - [KV-Ground-4B-BaseQw3vl](https://awesomecua.com/resources/url-969eb56a53187cda74c7/) — Date not recorded
   A 4B GUI grounding model for high-resolution screenshots and text instructions, fine-tuned from Qwen3-VL-4B-Instruct with supervised and reward-based training.
 - [MM-Eureka](https://awesomecua.com/resources/github-modalminds-mm-eureka/) — Date not recorded
@@ -692,6 +694,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
 
 - [Agent Q](https://awesomecua.com/resources/github-sentient-engineering-agent-q/) — Date not recorded
   Agent Q combines Monte Carlo Tree Search, AI self-critique, and Direct Preference Optimization for autonomous web navigation.
+- [AgentGym](https://awesomecua.com/resources/github-woooodyy-agentgym/) — Date not recorded
+  AgentGym provides interactive environments for developing and evaluating agents, including web tasks in WebShop and WebArena, with trajectory collection and training support.
 - [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) — Date not recorded
   Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
 - [ARPO training framework](https://awesomecua.com/resources/github-jia-lab-research-arpo/) — Date not recorded
@@ -710,6 +714,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Coasty develops computer-use environments for agent training and evaluation, using computer and phone interfaces alongside trajectories and outcome checks.
 - [CODA](https://awesomecua.com/resources/github-openixclab-coda/) — Date not recorded
   CODA coordinates a trainable planner ('Cerebrum') with a grounded GUI executor ('Cerebellum') via decoupled reinforcement learning on ScienceBoard.
+- [CollabUIAgents](https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/) — Date not recorded
+  CollabUIAgents trains UI agents with synthesized interaction data and process rewards assigned by collaborating agents. The repository releases data collection and inference code.
 - [Compress2Focus (CCPO)](https://awesomecua.com/resources/github-hithink-research-ccpo/) — Date not recorded
   Compress2Focus (CCPO) implements coordinate compression for multi-turn policy optimization in vision-language GUI agents.
 - [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/resources/github-shayanamir0-computer-use-with-slm/) — Date not recorded
@@ -744,14 +750,24 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Provides training and evaluation code for unsupervised web product-search agents on WebShop using symbolic actions and value-guided search.
 - [GroundGUI training and evaluation code](https://awesomecua.com/resources/github-prentisai-groundgui/) — Date not recorded
   Code for screenshot grounding through supervised training, teacher-guided distillation, reinforcement learning, and benchmark evaluation.
+- [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/) — Date not recorded
+  A synthetic GUI environment with configurable screens, icons and navigation graphs for training and evaluating agents on screen navigation.
 - [GUI-RC / GUI-RCPO](https://awesomecua.com/resources/github-zju-real-gui-rcpo/) — Date not recorded
   GUI-grounding research code for spatial voting across sampled predictions and test-time policy optimization using region-consistency rewards.
+- [GUI-Rise](https://awesomecua.com/resources/github-leon022-gui-rise-code/) — Date not recorded
+  A GUI navigation agent that combines stepwise reasoning with history summarization; its repository provides supervised training, reinforcement learning, and evaluation instructions.
 - [GUI-SD](https://awesomecua.com/resources/github-zhangyan-ucas-gui-sd-code/) — Date not recorded
   GUI-SD implements on-policy self-distillation for GUI visual grounding and action prediction using Qwen-VL backbones.
+- [GUI-Shift](https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/) — Date not recorded
+  GUI-Shift is a training framework that uses pairs of GUI screenshots to teach vision-language models to predict the action behind an interface transition.
+- [HiconAgent](https://awesomecua.com/resources/github-ilearn-lab-cvpr26-hiconagent/) — Date not recorded
+  HiconAgent provides GUI-policy training code that samples histories of varied lengths and compresses past interactions during policy optimization.
 - [HUD](https://awesomecua.com/resources/github-hud-evals-hud-python/) — Date not recorded
   SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.
 - [Huzzle Labs](https://awesomecua.com/resources/url-913a72e8929afd96ad07/) — Date not recorded
   Company developing computer-use models, RL environments and evaluations for AI labs and enterprise work. Its site describes the Huzzle World model family.
+- [K²-Agent](https://awesomecua.com/resources/github-k2-agent-k2-agent/) — Date not recorded
+  A hierarchical mobile-device agent that combines a demonstration-informed planner with a learned action executor; the release includes AndroidWorld evaluation trajectories.
 - [Lightcone SDK](https://awesomecua.com/resources/github-tzafon-lightcone/) — Date not recorded
   Lightcone is Tzafon's Python and TypeScript SDK for building computer-use agents powered by Northstar GUI vision-language models.
 - [LLM-in-Sandbox](https://awesomecua.com/resources/github-llm-in-sandbox-llm-in-sandbox/) — Date not recorded
@@ -784,6 +800,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Computer-use training framework with VeriGen task synthesis, adaptive rollout sampling, and visual-context segmentation.
 - [screen2gym](https://awesomecua.com/resources/github-marc-saouda-screen2gym/) — Date not recorded
   screen2gym compiles raw action-labeled screen recordings into resettable, programmatically gradable RL environments for computer-use agents.
+- [SE-GUI](https://awesomecua.com/resources/github-yxb-nku-se-gui/) — Date not recorded
+  SE-GUI provides training and evaluation code for a GUI-grounding model refined with location-based rewards and attention feedback; its README links separate weights and seed data.
 - [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/) — Date not recorded
   SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.
 - [Shinken](https://awesomecua.com/resources/github-meirtz-shinken/) — Date not recorded
@@ -798,6 +816,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   An archived Gym-compatible client that exposes screen observations and keyboard/mouse actions over VNC for remote application and browser environments, including the historical World of Bits integration.
 - [VEM GUI-Agent-RL](https://awesomecua.com/resources/github-microsoft-gui-agent-rl/) — Date not recorded
   Training code that learns a value environment model from offline Android interaction data and uses its frozen value estimates to guide GUI policy optimization.
+- [VLM-R1](https://awesomecua.com/resources/github-om-ai-lab-vlm-r1/) — Date not recorded
+  VLM-R1 provides reinforcement learning code for vision-language models, including a GUI training example and a reported defect detection model for interface screens.
 - [Voice2Task Post-Training](https://awesomecua.com/resources/github-raidriar7170-voice2task-posttraining/) — Date not recorded
   Post-training and evaluation pipeline for mapping spoken Chinese ASR commands into schema-valid browser agent action plans.
 - [VSC-RL code](https://awesomecua.com/resources/github-ai-agents-2030-vsc-rl/) — Date not recorded
@@ -816,3 +836,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.
 - [ZeroGUI](https://awesomecua.com/resources/github-opengvlab-zerogui/) — Date not recorded
   Online RL framework for GUI agents in which VLMs generate the training tasks and judge success from trajectory screenshots, with OSWorld and AndroidLab checkpoints trained from UI-TARS-7B-DPO.
+
+## Learning resources
+
+- [Awesome Reinforcement Learning for GUI Agents](https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/) — Date not recorded
+  A curated reading list of reinforcement learning work on GUI agents, organized by learning methods, reward and efficiency questions, datasets, and training environments.

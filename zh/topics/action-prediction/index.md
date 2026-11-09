@@ -181,6 +181,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   ColorGUI-32B is a mobile GUI action model adapted from Qwen3-VL-32B-Instruct. It reads screenshots and instructions to select actions for a mobile agent runtime.
 - [CombatVLA](https://awesomecua.com/resources/github-chenvoid-combatvla/) — Date not recorded
   CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.
+- [ConClick](https://awesomecua.com/resources/github-zhangruotian-conclick/) — Date not recorded
+  ConClick is a GUI grounding model trained with coordinate supervision and target distractor ranking. Its ReClick inference method revisits candidate screen regions before choosing a click.
 - [cua-s1-forms](https://awesomecua.com/resources/url-721c94bd6f2f3edc35ba/) — Date not recorded
   A 706,048-parameter checkpoint that scores candidate actions for GUI form fields in parallel. It is released as safetensors weights with a configuration file.
 - [Gemini 2.5 Computer Use](https://awesomecua.com/resources/url-44827a16f49e65ba8fb3/) — Date not recorded
@@ -223,6 +225,10 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   A single Hub release containing GUI-R1 3B and 7B action-model checkpoints trained with reinforcement learning across interface platforms.
 - [gWorld (GuiWorld)](https://awesomecua.com/resources/github-trillion-labs-gworld/) — Date not recorded
   gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step screen states via renderable web code generation.
+- [Hcompany/Holo4-35B-A3B-GGUF](https://awesomecua.com/resources/url-d96a6dcdd2aa622c523b/) — Date not recorded
+  A GGUF vision-language model for computer use that processes screenshots and tool results, then requests clicks, typing, code execution, and tool calls through an agent harness.
+- [Hcompany/Holo4-35B-A3B-NVFP4](https://awesomecua.com/resources/url-ef732d252e9eb9b04e20/) — Date not recorded
+  Holo4-35B-A3B-NVFP4 is an NVFP4 computer-use vision-language checkpoint that consumes screenshots and tool results to request interface actions through an agent harness.
 - [HobbyLM-1B Computer Use](https://awesomecua.com/resources/url-12470a40c8f82ef0294a/) — Date not recorded
   An on-device LoRA adapter that turns English requests and Mac state into single actions executed by a companion app, with training code and evaluation records.
 - [Holo-3.1-35B-A3B-FP8](https://awesomecua.com/resources/url-566bd1469811983951f3/) — Date not recorded
@@ -363,6 +369,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   A Qwen2.5-VL-based computer-use checkpoint with direct grounding and agent action modes across desktop, mobile and web interfaces.
 - [Seed1.5-VL](https://awesomecua.com/resources/github-bytedance-seed-seed1-5-vl/) — Date not recorded
   ByteDance Seed vision-language foundation model served by API, whose repository provides cookbooks including GUI-agent prompts for computer and mobile use with click, drag, hotkey, typing and scroll actions.
+- [ShowUI-Narrator](https://awesomecua.com/resources/url-6b9389a144cbe70c894d/) — Date not recorded
+  A released 2B model for narrating user actions in GUI screenshots and video, with a pipeline that detects the cursor and processes cropped frames.
 - [ShowUI-π checkpoint](https://awesomecua.com/resources/url-f70aa7c95824a8729516/) — Date not recorded
   A compact visual-action checkpoint that predicts continuous GUI drag trajectories from a screenshot and a natural-language instruction.
 - [SpiritSight-Agent-2B](https://awesomecua.com/resources/url-37570eed422d326bfa5a/) — Date not recorded
@@ -400,12 +408,16 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
 
 ## 工程与产业
 
+- [Action-Type-Conditioned Grounding for GUI Agents](https://awesomecua.com/resources/github-aadcha-action-conditioned-gui-agent/) — Date not recorded
+  Research code for GUI grounding that predicts an action type and then conditions coordinate prediction on it. It compares six conditioning methods and includes training and evaluation scripts.
 - [AeonMind agenthands](https://awesomecua.com/resources/github-aeonmindai-agenthands/) — Date not recorded
   Human-calibrated mouse trajectory and keyboard timing synthesis library for browser and desktop agents.
 - [AI-Player](https://awesomecua.com/resources/github-shasankp000-ai-player/) — Date not recorded
   AI-Player is a Minecraft Fabric mod that embeds an LLM/VLM-driven autonomous second player capable of navigation, combat, and crafting.
 - [Amazon Bedrock Minecraft Agent](https://awesomecua.com/resources/github-build-on-aws-amazon-bedrock-minecraft-agent/) — Date not recorded
   TypeScript agent built on Amazon Bedrock and Mineflayer that translates natural-language instructions into in-game Minecraft actions.
+- [Auto-UI](https://awesomecua.com/resources/github-gimme1dollar-auto-ui/) — Date not recorded
+  A multimodal interface agent that uses earlier actions and future action plans to predict the next action. The repository provides training and inference instructions.
 - [axstream](https://awesomecua.com/resources/github-milind-soni-axstream/) — Date not recorded
   Streaming JSON-lines action language and compiler for macOS computer-use agents.
 - [claude-minecraft-use](https://awesomecua.com/resources/github-observedobserver-claude-minecraft-use/) — Date not recorded
@@ -424,6 +436,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Local, accessibility-first Windows control plane for AI agents exposing structured UI trees and multi-action execution.
 - [FluidUse](https://awesomecua.com/resources/github-fluidinference-fluiduse/) — Date not recorded
   Swift package for local computer use on Apple silicon that reads forms in running Mac apps or browsers through the Accessibility API and fills them with on-device Core ML decision models.
+- [GUI-Shift](https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/) — Date not recorded
+  GUI-Shift is a training framework that uses pairs of GUI screenshots to teach vision-language models to predict the action behind an interface transition.
 - [Human Browser Copilot](https://awesomecua.com/resources/github-officiallemmy254-droid-human-browser-copilot/) — Date not recorded
   Agentic Chrome copilot featuring organic mouse kinematics, visual perception, and natural-language web task execution.
 - [Jev Browser Agent](https://awesomecua.com/resources/github-amyivychoi-jev-browser-agent/) — Date not recorded
@@ -436,12 +450,16 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Lightcone is Tzafon's Python and TypeScript SDK for building computer-use agents powered by Northstar GUI vision-language models.
 - [Milli-Agent](https://awesomecua.com/resources/github-abdullah-al-raju-milli-agent/) — Date not recorded
   Milli-Agent is a real-time computer-use agent architecture designed for high-frequency in-memory screen capture and low-latency actuation.
+- [Mind2Web-Live](https://awesomecua.com/resources/github-boyugou-mind2web-live-seeact-v/) — Date not recorded
+  A SeeAct-V web agent implementation for Mind2Web-Live. It uses screen images to plan actions and a visual grounding model to locate targets for coordinate-based actions.
 - [Minecraft-RL](https://awesomecua.com/resources/github-otsolappalainen-minecraft-rl/) — Date not recorded
   Trains Proximal Policy Optimization (PPO) agents over visual frame buffers and action sockets in parallel Minecraft environments.
 - [Octopus](https://awesomecua.com/resources/github-dongyh20-octopus/) — Date not recorded
   Octopus is a vision-language programmer agent trained with environmental feedback to generate executable control code in GTA and Gibson worlds.
 - [Open Interface](https://awesomecua.com/resources/github-ambersahdev-open-interface/) — Date not recorded
   Open Interface is a cross-platform desktop application that translates natural-language requests into GUI mouse and keyboard actions via LLMs.
+- [openadapt-ml](https://awesomecua.com/resources/github-openadaptai-openadapt-ml/) — Date not recorded
+  A Python research package for GUI-action models, with trajectory schemas, model adapters, fine-tuning, grounding, and a policy interface for predicting the next action.
 - [OSRS PvP Reinforcement Learning](https://awesomecua.com/resources/github-naton1-osrs-pvp-reinforcement-learning/) — Date not recorded
   Trains PPO self-play reinforcement learning agents for real-time Old School RuneScape PvP combat across high-dimensional action spaces.
 - [OSRS-CV](https://awesomecua.com/resources/github-kaustubhlall-osrs-cv/) — Date not recorded

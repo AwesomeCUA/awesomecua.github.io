@@ -202,6 +202,8 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   RewardAgent combines human-preference scores with verifiable factuality and instruction-following checks to judge agent trajectories.
 - [Autonomous Evaluation and Refinement of Digital Agents](https://awesomecua.com/resources/github-berkeley-nlp-agent-eval-refine/) — Date not recorded
   Provides VLM evaluator and policy-refinement code for autonomous evaluation and filtered behavioral cloning on WebArena and AndroidInTheWild.
+- [CollabUIAgents](https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/) — Date not recorded
+  CollabUIAgents trains UI agents with synthesized interaction data and process rewards assigned by collaborating agents. The repository releases data collection and inference code.
 - [CUA Evaluation & RL with Autonomous Feedback](https://awesomecua.com/resources/github-martasumyk-cua-eval-and-finetuning/) — Date not recorded
   Implements reinforcement learning with autonomous evaluator feedback for fine-tuning and benchmarking computer-use agents.
 - [DeskForge](https://awesomecua.com/resources/github-saidgurbuz-deskforge/) — Date not recorded

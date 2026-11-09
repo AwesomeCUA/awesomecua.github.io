@@ -93,6 +93,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Computer-use automation infrastructure for legacy financial software that compiles LLM-discovered UI flows into deterministic replays.
 - [Agent VCR](https://awesomecua.com/resources/github-ixchio-agent-vcr/) — Date not recorded
   Agent VCR records, replays, and diffs deterministic cassettes of multi-turn agent tool calls, state transitions, and execution traces.
+- [AgentEnv](https://awesomecua.com/resources/github-llamatouch-agentenv/) — Date not recorded
+  AgentEnv connects agent models to Android devices or emulators, translating actions and returning screenshots and view hierarchies while recording interactions.
 - [AgentScrub](https://awesomecua.com/resources/github-codewithsupra-agentscrub/) — Date not recorded
   Visual session-replay debugger for Browser Use agent runs that lets developers scrub through step timelines and DOM states.
 - [AgentStudio](https://awesomecua.com/resources/github-skyworkai-agent-studio/) — Date not recorded
@@ -167,8 +169,12 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   DuckTrack records synchronized screen video and low-level mouse and keyboard events for building multimodal computer-interaction datasets.
 - [DXcam](https://awesomecua.com/resources/github-ra1nty-dxcam/) — Date not recorded
   DXcam is a high-frequency Python screen capture library for Windows using the Desktop Duplication API at up to 240Hz for GUI agents.
+- [Explorer](https://awesomecua.com/resources/github-varnelis-explorer/) — Date not recorded
+  A cross-platform GUI automation system with vision-based interactable detection, voice navigation, screen recording, and tools for creating and replaying traces.
 - [FaizannRaza Computer-Use Automation](https://awesomecua.com/resources/github-faizannraza-computer-use-automation/) — Date not recorded
   Discovers legacy banking UI workflows with an LLM once and compiles the run into a deterministic capability artifact.
+- [finalrun-agent](https://awesomecua.com/resources/github-final-run-finalrun-agent/) — Date not recorded
+  An AI-driven CLI for testing Android and iOS apps from YAML instructions. It observes the screen, performs touch and text actions, and reports results with video and logs.
 - [flowcast](https://awesomecua.com/resources/github-supermarioyl-flowcast/) — Date not recorded
   Records browser walkthroughs once, stores structured locator cues, and replays parameterized web workflows with self-healing recovery.
 - [Forged](https://awesomecua.com/resources/github-sam-siavoshian-forged/) — Date not recorded
@@ -185,6 +191,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Reverse-engineers a clickable coordinate and state map of macOS and iPhone applications once for deterministic workflow replay.
 - [Interceptor](https://awesomecua.com/resources/github-hacker-valley-media-interceptor/) — Date not recorded
   CLI and MCP server that lets agents operate the user's signed-in Chrome, Brave or Safari, native apps via accessibility on macOS, Windows and Linux, and a physical iPhone through an XCUITest runner.
+- [Kernel](https://awesomecua.com/resources/github-kernel-kernel-images/) — Date not recorded
+  Kernel supplies isolated Chrome browser instances for web agents and automation. Its images support remote control, live viewing, and session recording.
 - [Komos](https://awesomecua.com/resources/url-65a9a9211f0dd2b7264a/) — Date not recorded
   Hosted automation platform whose task flows use a prompt-driven agent to navigate, click, type and extract on websites in a cloud Chromium sandbox or self-hosted runner, built from narrated screen recordings or chat.
 - [Legacy UI Capability Engine](https://awesomecua.com/resources/github-saitejareddi3636-legacy-ui-capability-engine/) — Date not recorded
@@ -221,6 +229,14 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Open Record/Replay records macOS user demonstrations with Accessibility metadata and compiles them into reusable agent skills.
 - [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/) — Date not recorded
   Tools for learning and automating workflows from desktop demonstrations.
+- [OpenAdapt Desktop](https://awesomecua.com/resources/github-openadaptai-openadapt-desktop/) — Date not recorded
+  OpenAdapt Desktop records work in web and desktop apps, compiles recordings into local programs, and replays data-entry tasks with screen checks and human approval.
+- [openadapt-capture](https://awesomecua.com/resources/github-openadaptai-openadapt-capture/) — Date not recorded
+  A desktop recorder for GUI demonstrations that pairs mouse and keyboard actions with screen frames and stores sessions for later inspection in Python.
+- [openadapt-flow](https://awesomecua.com/resources/github-openadaptai-openadapt-flow/) — Date not recorded
+  openadapt-flow turns recorded web or desktop tasks into reusable programs, replays them locally, and verifies saved records. Its standalone repository is archived.
+- [openadapt-privacy](https://awesomecua.com/resources/github-openadaptai-openadapt-privacy/) — Date not recorded
+  openadapt-privacy removes personal and health information from GUI recordings, including text, event data, accessibility trees and screenshots. The repository is archived.
 - [Operant](https://awesomecua.com/resources/github-alpharomerojl-operant/) — Date not recorded
   Local-first desktop agent runtime that compiles exploratory AI trajectories into deterministic, invariant-gated skills.
 - [OysterWorkflow](https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/) — Date not recorded
@@ -231,6 +247,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   PageRunner is a browser-agent orchestration platform with bounded execution loops, deterministic replay, and golden-trace verification.
 - [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/) — Date not recorded
   Stateful browser execution layer that records an agent task once, replays it without LLM calls, and self-repairs when selectors change.
+- [Playwright Test for VS Code](https://awesomecua.com/resources/github-microsoft-playwright-vscode/) — Date not recorded
+  A VS Code extension for Playwright browser testing that records page actions into tests and provides test running, locator inspection, debugging, and trace viewing.
 - [Prism AI Screen Reader](https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/) — Date not recorded
   Prism is a macOS screen reader and activity analyzer that captures screenshots and summarizes user desktop workflows with vision-language models.
 - [Process Discovery](https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/) — Date not recorded
@@ -289,6 +307,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Desktop agent that records demonstrations, derives semantic action traces, and uses them to plan and execute related workflows.
 - [SightRig](https://awesomecua.com/resources/github-coetzeexu-sightrig/) — Date not recorded
   SightRig is a traceable runtime and visual workbench for inspecting, guarding, and replaying GUI agent perceptions and actions.
+- [SkillPacks](https://awesomecua.com/resources/github-agentsea-skillpacks/) — Date not recorded
+  SkillPacks records and approves agent tool actions for retrieval and later training, illustrated with a desktop-control example.
 - [skillproof](https://awesomecua.com/resources/github-hccccc01333-skillproof/) — Date not recorded
   skillproof records a human browser demonstration once and compiles it into a replayable agent skill paired with an explicit completion verifier.
 - [SuperSelector Studio](https://awesomecua.com/resources/github-pirate-cua-superselector/) — Date not recorded

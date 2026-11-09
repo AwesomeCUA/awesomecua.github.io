@@ -165,6 +165,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Desktop benchmark of 500 OSWorld-style tasks whose interfaces change between observations through scripted pop-ups, timed edits and shifting lists, with bilingual instructions and end-state evaluators.
 - [ExactDelta (ActionProof)](https://awesomecua.com/resources/github-tsuchiyatakahirolab-actionproof/) — Date not recorded
   Post-action state-delta verification harness for WebMCP browser agents that detects silent UI and state failures.
+- [FineState-Bench](https://awesomecua.com/resources/github-fengxianji-finestate-bench/) — Date not recorded
+  A GUI benchmark for precise state changes across desktop, web, and mobile interfaces, with 2,257 tasks and metrics separating element location from interaction success.
 - [Graph-Guided Agentic Testing](https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/) — Date not recorded
   Uses a browser agent to explore web checkout flows into a Neo4j state graph and synthesizes graph-guided end-to-end tests.
 - [Preflight-Bench](https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/) — Date not recorded
@@ -197,6 +199,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Verification protocol that binds human approval to target DOM state, aborting clicks and emitting a receipt if the page mutates.
 - [ChimeraX-SessionStates](https://awesomecua.com/resources/github-shiinahiiragi-chimerax-states/) — Date not recorded
   ChimeraX plugin used by ScienceBoard to expose internal molecular-visualization session state for deterministic benchmark evaluation.
+- [Code2World](https://awesomecua.com/resources/github-amap-ml-code2world/) — Date not recorded
+  Code2World provides code for predicting the next Android GUI screen from a screenshot and proposed action through renderable code, with an AndroidWorld agent integration.
 - [Crimson-Heart](https://awesomecua.com/resources/github-yeyvhaiou-crimson-heart/) — Date not recorded
   Persistent multimodal desktop agent with explicit runtime state management, priority-aware scheduling, and interruptible execution.
 - [Domstamp](https://awesomecua.com/resources/github-zuub-don-domstamp/) — Date not recorded
@@ -209,18 +213,24 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Agent skill for awaiting single-page-application network idle and DOM mutation settlement before acting.
 - [grass-gui](https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/) — Date not recorded
   ScienceBoard's replacement GRASS GIS 8.4 wxPython GUI with an embedded Flask server that loads mapsets and layers, runs GRASS commands and returns layer, region and console state as JSON for task checks.
+- [HIPPO Agent](https://awesomecua.com/resources/github-wadang-muscle-mem-agent/) — Date not recorded
+  A computer-use agent for multistep GUI tasks that stores task facts and progress in working memory and combines planning, grounding, and completion checks.
 - [IdemStep](https://awesomecua.com/resources/github-supermarioyl-idemstep/) — Date not recorded
   Deduplicates repeated agent actions and HTTP retries using keyed idempotency caches and a local verification proxy.
 - [kalgebra-kai](https://awesomecua.com/resources/github-shiinahiiragi-kalgebra/) — Date not recorded
   Modified KAlgebra build from ScienceBoard with a local HTTP server that reports variables and plotted 2D and 3D functions and can switch tabs or add calculations and plots, so the benchmark can check math tasks.
 - [LangGraph](https://awesomecua.com/resources/github-langchain-ai-langgraph/) — Date not recorded
   LangGraph is a stateful graph orchestration framework for building long-running, cyclical, and human-in-the-loop LLM and CUA agents.
+- [LlamaTouch Evaluator](https://awesomecua.com/resources/github-llamatouch-evaluator/) — Date not recorded
+  LlamaTouch Evaluator checks mobile-agent execution traces against annotated interface states and provides exact-match and subsequence action baselines.
 - [MyInstagram](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-instagram/) — Date not recorded
   MyInstagram is an Android clone app with interactive social screens, mock data, and state fields for checking the outcomes of GUI agent tasks.
 - [nexus-browser-mcp](https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/) — Date not recorded
   Browser automation MCP server with event-driven deterministic Playwright and accessibility-tree snapshots.
 - [Ommatix](https://awesomecua.com/resources/github-yosoyepa-ommatix/) — Date not recorded
   Ommatix is an incremental spatial-indexing perception engine that tracks stable UI element IDs and state diffs across desktop frames.
+- [OpenAdapt Agent](https://awesomecua.com/resources/github-openadaptai-openadapt-agent/) — Date not recorded
+  OpenAdapt Agent exposes demonstrated application workflows as callable tools for AI agents. It enters values in an app and checks the record before and after saving.
 - [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/) — Date not recorded
   Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
 - [outlive](https://awesomecua.com/resources/github-sy-d-outlive/) — Date not recorded
@@ -247,6 +257,10 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Talox is a stateful Playwright browser runtime for AI agents with stealth interaction, structured page state, and trace observability.
 - [VeriSafe Agent](https://awesomecua.com/resources/github-verisafeagent-verisafeagent/) — Date not recorded
   Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.
+- [WebOperator](https://awesomecua.com/resources/github-kagnlp-weboperator/) — Date not recorded
+  A web agent using action-aware tree search to explore tasks and backtrack, checking page reconstruction and accounting for actions that may change website state.
+- [youtube_sim](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-youtube/) — Date not recorded
+  youtube_sim is a YouTube-style Android test app with local media, interaction logs and task validators for checking mobile interface actions and resulting state.
 - [Zoom Android Template](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-zoom/) — Date not recorded
   Zoom Android Template is a simulated meeting app for mobile interaction tests, with seeded schedules and runtime records of meeting and profile actions.
 
@@ -254,3 +268,5 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
 
 - [Achieving 91.4% on Android World: A New Approach to Mobile UI Automation](https://awesomecua.com/resources/url-f8b67bde8c79e7934a2a/) — Date not recorded
   Technical article describing an Android UI agent that alternates planning with single actions, checks screen changes and uses a dedicated text editing path. It reports AndroidWorld results.
+- [Finalrun Agentic Approach](https://awesomecua.com/resources/github-final-run-finalrun-android-world-benchmark/) — Date not recorded
+  Illustrated account of FinalRun's Android agent approach, with task walkthroughs and recordings showing screen observation, action planning, and state checks.

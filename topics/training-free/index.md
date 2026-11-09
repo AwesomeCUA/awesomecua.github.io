@@ -111,6 +111,10 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
 
 ## Engineering & industry
 
+- [AdaGround](https://awesomecua.com/resources/github-bcwang-sjtu-adaground/) — Date not recorded
+  A training-free GUI grounding framework that adjusts screenshot zoom to target size and checks proposed clicks before accepting or revising them.
+- [AdbGPT](https://awesomecua.com/resources/github-sidongfeng-adbgpt/) — Date not recorded
+  An Android bug replay agent that extracts action details from written bug reports and uses the current app screen to guide reproduction steps.
 - [AgentOccam](https://awesomecua.com/resources/github-amazon-science-agentoccam/) — Date not recorded
   AgentOccam is a web agent that uses webpage descriptions and action strings to carry out tasks from a URL and instruction. Its repository includes task configurations and evaluation scripts.
 - [CanpGrid](https://awesomecua.com/resources/github-yeqi99-canpgrid/) — Date not recorded
@@ -127,5 +131,9 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
   A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
 - [Re-Prefill](https://awesomecua.com/resources/github-linjiaping1-re-prefill/) — Date not recorded
   Re-Prefill calibrates prefill visual attention representations in vision-language models to improve zero-shot GUI grounding accuracy.
+- [RegionFocus](https://awesomecua.com/resources/github-tiangeluo-regionfocus/) — Date not recorded
+  RegionFocus provides code for GUI grounding through selected screenshot regions. The release evaluates UI-TARS and Qwen2.5-VL on ScreenSpot-Pro.
 - [TAG attention-driven GUI grounding](https://awesomecua.com/resources/github-heimingx-tag/) — Date not recorded
   Grounding and evaluation code that aggregates a pretrained vision-language model’s attention maps to localize requested interface elements without fine-tuning.
+- [Zoom Consistency Routing](https://awesomecua.com/resources/github-omxyz-zoom-consistency-routing/) — Date not recorded
+  A training-free router chooses between visual grounding models using prediction distance from a zoom crop's center. The release includes ScreenSpot-Pro evaluation scripts.

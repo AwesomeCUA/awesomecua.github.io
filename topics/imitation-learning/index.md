@@ -227,6 +227,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
 
 ## Models
 
+- [AgentTrek-1.0-32B](https://awesomecua.com/resources/url-c3ab0f006a880174e645/) — Date not recorded
+  A web-agent checkpoint fine-tuned from Qwen2.5-32B-Instruct using the AgentTrek trajectory-synthesis project. The release includes model weights.
 - [Go-Browse WebArena Qwen 7B](https://awesomecua.com/resources/url-db1b7b7efe3755ae5693/) — Date not recorded
   A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories for website task execution.
 - [Llama-3-8B-Web](https://awesomecua.com/resources/url-7c3e8c4ba52428584079/) — Date not recorded
@@ -314,6 +316,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Neo Lab is a macOS computer-use sandbox for recording demonstrations, replaying skills, and testing GUI automation plans.
 - [Open Record/Replay](https://awesomecua.com/resources/github-humblebanana-open-record-replay/) — Date not recorded
   Open Record/Replay records macOS user demonstrations with Accessibility metadata and compiles them into reusable agent skills.
+- [openadapt-ml](https://awesomecua.com/resources/github-openadaptai-openadapt-ml/) — Date not recorded
+  A Python research package for GUI-action models, with trajectory schemas, model adapters, fine-tuning, grounding, and a policy interface for predicting the next action.
 - [OpenMobile code](https://awesomecua.com/resources/github-njucckevin-openmobile-code/) — Date not recorded
   OpenMobile pipeline for AndroidWorld: random-walk exploration, memory-based task-instruction synthesis, learner/expert policy-switching rollouts, conversion to LLaMA-Factory SFT data, and AndroidWorld evaluation.
 - [OpenWebVoyager](https://awesomecua.com/resources/github-minorjerry-openwebvoyager/) — Date not recorded
@@ -334,6 +338,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Converts human screen demonstrations of real desktop and web work into verifiable, repeatable AI agent workflows.
 - [RishabhP1508 Understudy](https://awesomecua.com/resources/github-rishabhp1508-understudy/) — Date not recorded
   Records a single LLM-driven exploration of a legacy UI into a typed capability artifact for deterministic zero-LLM replay.
+- [ScribeAgent](https://awesomecua.com/resources/github-colonylabs-scribeagent/) — Date not recorded
+  ScribeAgent trains web agents from recorded workflows represented with page HTML and prior actions. The repository provides preprocessing, fine-tuning, and evaluation code.
 - [Smol2Operator](https://awesomecua.com/resources/github-huggingface-smol2operator/) — Date not recorded
   Hugging Face recipe that converts Aguvis GUI data into one normalized action space and fine-tunes SmolVLM2-2.2B in two phases, first for screenshot grounding and then for agentic GUI action code.
 - [Synapse](https://awesomecua.com/resources/github-ltzheng-synapse/) — Date not recorded

@@ -1,6 +1,6 @@
 # Computer-use agent models and checkpoints
 
-> 271 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
+> 283 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T06:16:40Z.
 
 HTML page: https://awesomecua.com/categories/model/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -107,6 +107,40 @@ The Hub provides four safetensors shards and associated model files without gati
 - https://huggingface.co/openbmb/AgentCPM-GUI/raw/main/README.md (retrieved 2026-10-17T02:03:33Z; SHA-256 9016a68e833a7717c922d9363a6d6c56cc7cf6a7087543f5694507668fe9ab75)
 - https://huggingface.co/api/models/openbmb/AgentCPM-GUI (retrieved 2026-10-17T02:03:33Z; SHA-256 4d76c8cc19f1ff4c850ba6cc566d50bbd2355e10921a2214e38c921cedfeed4c)
 - https://huggingface.co/openbmb/AgentCPM-GUI/raw/main/README.md (retrieved 2026-10-17T02:03:33Z; SHA-256 9016a68e833a7717c922d9363a6d6c56cc7cf6a7087543f5694507668fe9ab75)
+
+---
+
+## AgentTrek-1.0-32B
+
+A web-agent checkpoint fine-tuned from Qwen2.5-32B-Instruct using the AgentTrek trajectory-synthesis project. The release includes model weights.
+
+- Catalog URL: https://awesomecua.com/resources/url-c3ab0f006a880174e645/
+- Original source: https://huggingface.co/xlangai/AgentTrek-1.0-32B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, imitation-learning, data-generation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: url:c3ab0f006a880174e645
+
+### Limitations
+
+The repository contains sharded safetensors weights and tokenizer files. The card links to an evaluation script and declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-c3ab0f006a880174e645/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/xlangai/AgentTrek-1.0-32B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/xlangai/AgentTrek-1.0-32B (retrieved 2026-11-09T06:16:33Z; SHA-256 6c6a672ccd0c8778180d2431b3ef745910341e5d940e7e7c1aa09174a4c4a8f9)
+- https://huggingface.co/api/models/xlangai/AgentTrek-1.0-32B (retrieved 2026-11-09T06:16:33Z; SHA-256 6c6a672ccd0c8778180d2431b3ef745910341e5d940e7e7c1aa09174a4c4a8f9)
 
 ---
 
@@ -456,6 +490,39 @@ A preview release. The Hub API at revision 28f795cd lists 13 BF16 safetensors sh
 
 ---
 
+## Claude 3.7 Sonnet
+
+A Claude release with an optional extended-thinking mode. Anthropic describes its mouse and keyboard computer-use capability and reports OSWorld evaluation results.
+
+- Catalog URL: https://awesomecua.com/resources/url-63264f7cd4510d96e486/
+- Original source: https://www.anthropic.com/research/visible-extended-thinking
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: desktop
+- Topics: evaluation
+- Evidence checked: 2026-11-09T06:16:38Z
+- ID: url:63264f7cd4510d96e486
+
+### Limitations
+
+The article says developers can set a thinking budget and describes longer computer-use runs. It also describes a screen-pixel and button-control game experiment.
+
+- Record JSON: https://awesomecua.com/resources/url-63264f7cd4510d96e486/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://www.anthropic.com/research/visible-extended-thinking (retrieved 2026-11-09T06:16:38Z; SHA-256 6281ff5790e8d6b3fb014cbc888054bbf4c6f6c49b7caa00061c0ffd0e0db8b3)
+
+---
+
 ## Claude Computer Use
 
 Claude tool capability for screenshot-based computer interaction.
@@ -486,6 +553,39 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool (retrieved 2026-10-16T06:38:27Z; SHA-256 de16b4fd611982cfaa160cb0fbdc1b0f0559b90983e452964527704a6de4e72d)
+
+---
+
+## Claude Opus 5
+
+Claude Opus 5 is a general model whose release page reports computer-use performance on OSWorld 2.0 and describes agent work across browser and business tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-c34a327604b5be4a7c98/
+- Original source: https://www.anthropic.com/news/claude-opus-5
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, web
+- Topics: evaluation, automation, industry
+- Evidence checked: 2026-11-09T06:16:32Z
+- ID: url:c34a327604b5be4a7c98
+
+### Limitations
+
+The release page presents OSWorld 2.0 results as Anthropic's claims and includes customer reports about browser-based checking and workflow automation.
+
+- Record JSON: https://awesomecua.com/resources/url-c34a327604b5be4a7c98/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://www.anthropic.com/news/claude-opus-5 (retrieved 2026-11-09T06:16:32Z; SHA-256 1bd93f18baf22edcdac06587e18f6d3e369a18cd37fad64fdd0e09286967982b)
 
 ---
 
@@ -798,6 +898,40 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/ChenVoid/CombatVLA/HEAD/README.md (retrieved 2026-11-04T13:12:10Z; SHA-256 d398c8cec4d5e0625b71ecac6eb484a63d5ff077e57dbfaaa8704def6899e698)
+
+---
+
+## ConClick
+
+ConClick is a GUI grounding model trained with coordinate supervision and target distractor ranking. Its ReClick inference method revisits candidate screen regions before choosing a click.
+
+- Catalog URL: https://awesomecua.com/resources/github-zhangruotian-conclick/
+- Original source: https://github.com/zhangruotian/ConClick
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, screen-understanding, action-prediction
+- Evidence checked: 2026-11-09T06:16:34Z
+- ID: github:zhangruotian/conclick
+
+### Limitations
+
+The repository contains training, inference and evaluation scripts and links the released ConClick-8B checkpoint and ConClick-Data dataset. The README specifies Python 3.12, an NVIDIA GPU and Apache-2.0 code licensing.
+
+- Record JSON: https://awesomecua.com/resources/github-zhangruotian-conclick/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/zhangruotian/ConClick/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/zhangruotian/ConClick/HEAD/README.md (retrieved 2026-11-09T06:16:34Z; SHA-256 595327cf11b726cba987f4016b92036769373cce48a0ea1d4b9e18471a40953e)
+- https://raw.githubusercontent.com/zhangruotian/ConClick/HEAD/LICENSE (retrieved 2026-11-09T06:13:38Z; SHA-256 cfe6fe1994b4e2203788d7e7d85cea664802fa2d67b10cf574d4d95eb5c75e67)
 
 ---
 
@@ -2955,6 +3089,74 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Hcompany/Holo4-35B-A3B-GGUF
+
+A GGUF vision-language model for computer use that processes screenshots and tool results, then requests clicks, typing, code execution, and tool calls through an agent harness.
+
+- Catalog URL: https://awesomecua.com/resources/url-d96a6dcdd2aa622c523b/
+- Original source: https://huggingface.co/Hcompany/Holo4-35B-A3B-GGUF
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: action-prediction, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T06:16:34Z
+- ID: url:d96a6dcdd2aa622c523b
+
+### Limitations
+
+The card identifies a Q4_K_M GGUF checkpoint based on Qwen3.6-35B-A3B and declares Apache License 2.0 for the weights.
+
+- Record JSON: https://awesomecua.com/resources/url-d96a6dcdd2aa622c523b/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Hcompany/Holo4-35B-A3B-GGUF
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Hcompany/Holo4-35B-A3B-GGUF (retrieved 2026-11-09T06:16:34Z; SHA-256 8f3181e82dc6e1540c5eb1dd0e4e6a3935e267c60921b2eb790274e9f9e3e123)
+- https://huggingface.co/api/models/Hcompany/Holo4-35B-A3B-GGUF (retrieved 2026-11-09T06:16:34Z; SHA-256 8f3181e82dc6e1540c5eb1dd0e4e6a3935e267c60921b2eb790274e9f9e3e123)
+
+---
+
+## Hcompany/Holo4-35B-A3B-NVFP4
+
+Holo4-35B-A3B-NVFP4 is an NVFP4 computer-use vision-language checkpoint that consumes screenshots and tool results to request interface actions through an agent harness.
+
+- Catalog URL: https://awesomecua.com/resources/url-ef732d252e9eb9b04e20/
+- Original source: https://huggingface.co/Hcompany/Holo4-35B-A3B-NVFP4
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: action-prediction, grounding, tool-integration
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: url:ef732d252e9eb9b04e20
+
+### Limitations
+
+The repository lists NVFP4 safetensors weights and configuration files. The card names Qwen3.6-35B-A3B as its base model and declares an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-ef732d252e9eb9b04e20/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Hcompany/Holo4-35B-A3B-NVFP4
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Hcompany/Holo4-35B-A3B-NVFP4 (retrieved 2026-11-09T06:16:33Z; SHA-256 a9800ea79ca5e9f879cff4eef1b52303ce4c71dd6729d6f355ca65f45e4b10ce)
+- https://huggingface.co/api/models/Hcompany/Holo4-35B-A3B-NVFP4 (retrieved 2026-11-09T06:16:33Z; SHA-256 a9800ea79ca5e9f879cff4eef1b52303ce4c71dd6729d6f355ca65f45e4b10ce)
+
+---
+
 ## HobbyLM-1B Computer Use
 
 An on-device LoRA adapter that turns English requests and Mac state into single actions executed by a companion app, with training code and evaluation records.
@@ -4430,6 +4632,40 @@ The repository lists sharded model weights and processor files. The card recomme
 
 ---
 
+## Jedi-7B-1080p
+
+A released model checkpoint for computer-use grounding research, based on Qwen2.5-VL-7B-Instruct. The repository includes weight shards and tokenizer files.
+
+- Catalog URL: https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/
+- Original source: https://huggingface.co/xlangai/Jedi-7B-1080p
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: url:75dee6afef81a56ba4b2
+
+### Limitations
+
+The card declares an Apache-2.0 license and links the paper, project page, and code repository. The supplied file list includes four safetensors weight shards.
+
+- Record JSON: https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/xlangai/Jedi-7B-1080p
+
+### Primary evidence
+
+- https://huggingface.co/api/models/xlangai/Jedi-7B-1080p (retrieved 2026-11-09T06:16:36Z; SHA-256 4b71801086c90cb8eb483a1bae937ce492b4c6a13a95a5db8d3e7772476882b8)
+- https://huggingface.co/api/models/xlangai/Jedi-7B-1080p (retrieved 2026-11-09T06:16:36Z; SHA-256 4b71801086c90cb8eb483a1bae937ce492b4c6a13a95a5db8d3e7772476882b8)
+
+---
+
 ## KDEGroup/UI-AGILE-3B
 
 A released UI-AGILE checkpoint for GUI grounding, associated with reward design and cropping based resampling during training and image decomposition during inference.
@@ -4603,6 +4839,40 @@ The Hub repository holds four safetensors shards in the Qwen3-VL architecture in
 - https://huggingface.co/vocaela/KV-Ground-8B-BaseGuiOwl1.5-0315/raw/main/README.md (retrieved 2026-10-18T11:15:53Z; SHA-256 e10fdbfe36ec84b4bd940bea40e11820f37a6b0f92e319eb1045b868553c0431)
 - https://huggingface.co/api/models/vocaela/KV-Ground-8B-BaseGuiOwl1.5-0315 (retrieved 2026-10-18T11:15:54Z; SHA-256 01bcd8906eefdb60bd77dc340c4a254b228734d0830ad2bdd9cd5c9377759145)
 - https://huggingface.co/vocaela/KV-Ground-8B-BaseGuiOwl1.5-0315/raw/main/README.md (retrieved 2026-10-18T11:15:53Z; SHA-256 e10fdbfe36ec84b4bd940bea40e11820f37a6b0f92e319eb1045b868553c0431)
+
+---
+
+## KV-Ground-4B-BaseGuiOwl1.5-0228
+
+A 4B vision-language checkpoint for locating GUI targets in high-resolution images. It is fine-tuned from GUI-Owl-1.5-4B-Instruct with supervised and reward-based post-training.
+
+- Catalog URL: https://awesomecua.com/resources/url-709d8b51bbc8d257318f/
+- Original source: https://huggingface.co/vocaela/KV-Ground-4B-BaseGuiOwl1.5-0228
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, screen-understanding, reinforcement-learning
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: url:709d8b51bbc8d257318f
+
+### Limitations
+
+The repository contains sharded safetensors weights and tokenizer files. The card declares a CC BY-NC-SA 4.0 license and points to separate evaluation code.
+
+- Record JSON: https://awesomecua.com/resources/url-709d8b51bbc8d257318f/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: cc-by-nc-sa-4.0 — https://huggingface.co/vocaela/KV-Ground-4B-BaseGuiOwl1.5-0228
+
+### Primary evidence
+
+- https://huggingface.co/api/models/vocaela/KV-Ground-4B-BaseGuiOwl1.5-0228 (retrieved 2026-11-09T06:16:33Z; SHA-256 1d8b01966bddfaead27daf01fcb049ad1731149599187be92b9ba71f9baf94d0)
+- https://huggingface.co/api/models/vocaela/KV-Ground-4B-BaseGuiOwl1.5-0228 (retrieved 2026-11-09T06:16:33Z; SHA-256 1d8b01966bddfaead27daf01fcb049ad1731149599187be92b9ba71f9baf94d0)
 
 ---
 
@@ -5098,6 +5368,39 @@ GUICourse's README announces this repository as the MiniCPM-GUI weights with inf
 - https://huggingface.co/RhapsodyAI/minicpm-guidance/raw/854aaf385ec56b8e738161b4aedb3eed5d28f9bc/config.json (retrieved 2026-10-18T15:57:11Z; SHA-256 4974d4b6f3eacca89a03a88ec790ff3982ddea01fbbc01e8c37b783521c56044)
 - https://raw.githubusercontent.com/RUCBM/GUICourse/a6dd4c3f0445c8b568d2c4792934a65ee4454bef/README.md (retrieved 2026-10-18T15:57:11Z; SHA-256 0968273442bfb9a6478fe78f8b9a6247a3bb8e6d028880939b432fd009961e98)
 - https://huggingface.co/api/models/RhapsodyAI/minicpm-guidance (retrieved 2026-10-18T15:57:12Z; SHA-256 034b80c1ef1d1e5832bf2c430a82c470980a7f5e8190ce9abc922445455d67b9)
+
+---
+
+## MiniMax M3
+
+MiniMax M3 is a multimodal model whose release page describes desktop operation from visual input and cross-application tasks through MiniMax Code.
+
+- Catalog URL: https://awesomecua.com/resources/url-50089323623ee780a426/
+- Original source: https://www.minimaxi.com/blog/minimax-m3
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: desktop
+- Topics: screen-understanding, cross-app, automation
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: url:50089323623ee780a426
+
+### Limitations
+
+The page says M3 is available through MiniMax Code, a token plan, and an API. It says model weights were planned for a later release.
+
+- Record JSON: https://awesomecua.com/resources/url-50089323623ee780a426/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://www.minimaxi.com/blog/minimax-m3 (retrieved 2026-11-09T06:16:39Z; SHA-256 871aabe31c323df2b04af880a266acddab10ad082b929ad1715176d095339b7c)
 
 ---
 
@@ -5853,6 +6156,40 @@ The Hub model card (README.md) is empty, so identity and purpose come from the O
 - https://huggingface.co/api/models/cckevinn/OpenMobile-8B/revision/0cd9fc56c7f359ebe62ae273b731f3213fd62b40 (retrieved 2026-10-19T06:53:37Z; SHA-256 07751fda41e98eccbb1e9d439b4fcc93a15580948fa81afa18b439d9143859c0)
 - https://huggingface.co/cckevinn/OpenMobile-8B/raw/0cd9fc56c7f359ebe62ae273b731f3213fd62b40/config.json (retrieved 2026-10-19T06:53:38Z; SHA-256 50902136bf6856d8935a6fd84aa9bdb4eedf6ef260d9143421943f5800001fd0)
 - https://njucckevin.github.io/openmobile/ (retrieved 2026-10-19T06:53:36Z; SHA-256 b37f01ef9fcffa0eef1f6c5c317a333e6f14210dfda54843fdaba2f88331b864)
+
+---
+
+## Orienter
+
+Orienter locates interactable elements in extended reality interface screenshots using application context and a detector. The release includes code and a checkpoint.
+
+- Catalog URL: https://awesomecua.com/resources/url-758f048c78e5c184333c/
+- Original source: https://huggingface.co/stereoid/Orienter
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, screen-understanding, evaluation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: url:758f048c78e5c184333c
+
+### Limitations
+
+The repository includes selected evaluation ground truth and excludes dataset images. Full inference requires external image assets, provider access, and a CUDA environment.
+
+- Record JSON: https://awesomecua.com/resources/url-758f048c78e5c184333c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/models/stereoid/Orienter (retrieved 2026-11-09T06:16:33Z; SHA-256 62976d0af1c4902ddf9e11e3acffd0407d6ae05f34d6434ebd20323bf972ca4a)
+- https://huggingface.co/api/models/stereoid/Orienter (retrieved 2026-11-09T06:16:33Z; SHA-256 62976d0af1c4902ddf9e11e3acffd0407d6ae05f34d6434ebd20323bf972ca4a)
 
 ---
 
@@ -7035,6 +7372,40 @@ The repository lists weight shards and provides inference and coordinate-rescali
 
 ---
 
+## Qwen2.5-VL-7B-Instruct
+
+Qwen2.5-VL-7B-Instruct releases vision-language weights whose card describes computer and phone use and reports results on screen grounding and mobile-agent benchmarks.
+
+- Catalog URL: https://awesomecua.com/resources/url-557edb1d63e8fcfdee12/
+- Original source: https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform
+- Topics: screen-understanding, grounding, mobile-navigation, evaluation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: url:557edb1d63e8fcfdee12
+
+### Limitations
+
+The repository contains sharded safetensors weights and processor and tokenizer files. The card gives Transformers inference examples and declares the Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-557edb1d63e8fcfdee12/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Qwen/Qwen2.5-VL-7B-Instruct (retrieved 2026-11-09T06:16:33Z; SHA-256 59cd17c2cb9b93c463d1debbf33996f42dbfa2de60587a4dee3911ba581a38fe)
+- https://huggingface.co/api/models/Qwen/Qwen2.5-VL-7B-Instruct (retrieved 2026-11-09T06:16:33Z; SHA-256 59cd17c2cb9b93c463d1debbf33996f42dbfa2de60587a4dee3911ba581a38fe)
+
+---
+
 ## Qwen3-VL / Qwen2.5-VL
 
 Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
@@ -8028,6 +8399,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://huggingface.co/api/models/showlab/ShowUI-2B (retrieved 2026-10-16T06:50:49Z; SHA-256 bb6d120d4795492a197e0a9e9df5c56b7baa8ac5c08182ce0f20f36c8b65783d)
 - https://huggingface.co/api/models/showlab/ShowUI-2B (retrieved 2026-10-16T06:50:49Z; SHA-256 bb6d120d4795492a197e0a9e9df5c56b7baa8ac5c08182ce0f20f36c8b65783d)
+
+---
+
+## ShowUI-Narrator
+
+A released 2B model for narrating user actions in GUI screenshots and video, with a pipeline that detects the cursor and processes cropped frames.
+
+- Catalog URL: https://awesomecua.com/resources/url-6b9389a144cbe70c894d/
+- Original source: https://huggingface.co/FRank62Wu/ShowUI-Narrator
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: screen-understanding, video, action-prediction
+- Evidence checked: 2026-11-09T06:16:32Z
+- ID: url:6b9389a144cbe70c894d
+
+### Limitations
+
+The card provides model and processor loading examples, screenshot and video processing code, and a separate link to a cursor detector checkpoint. It lists Qwen/Qwen2-VL-2B-Instruct and showlab/ShowUI-2B as base models and declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-6b9389a144cbe70c894d/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/FRank62Wu/ShowUI-Narrator
+
+### Primary evidence
+
+- https://huggingface.co/api/models/FRank62Wu/ShowUI-Narrator (retrieved 2026-11-09T06:16:32Z; SHA-256 809581664699bbb638837634c51d78b69be88cc5b74aad6b0824bfcdd66a3eb8)
+- https://huggingface.co/api/models/FRank62Wu/ShowUI-Narrator (retrieved 2026-11-09T06:16:32Z; SHA-256 809581664699bbb638837634c51d78b69be88cc5b74aad6b0824bfcdd66a3eb8)
 
 ---
 

@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/categories/framework/page/2/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/)
+- [Browser Use Pi](https://awesomecua.com/resources/github-browser-use-browser-use-pi/)
+- [Browser Use SDKs](https://awesomecua.com/resources/github-browser-use-sdk/)
+- [browser-action-receipt](https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/)
 - [browser-agent-kit](https://awesomecua.com/resources/github-nicolascine-browser-agent-kit/)
 - [browser-for-ai (bfa)](https://awesomecua.com/resources/github-icueth-browser-for-ai/)
 - [browser-harness-bidi](https://awesomecua.com/resources/github-andrewdzzz-browser-harness-bidi/)
@@ -45,6 +49,7 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [CODA](https://awesomecua.com/resources/github-openixclab-coda/)
 - [CodeceptJS](https://awesomecua.com/resources/github-codeceptjs-codeceptjs/)
 - [Codex Boss Desktop](https://awesomecua.com/resources/github-zhiheng-zhang-mera-codex-boss/)
+- [CollabUIAgents](https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/)
 - [Commonplace WebMCP](https://awesomecua.com/resources/github-arterialist-webmcp-openai-hackathon/)
 - [Compress2Focus (CCPO)](https://awesomecua.com/resources/github-hithink-research-ccpo/)
 - [Computer Use OOTB](https://awesomecua.com/resources/github-showlab-computer-use-ootb/)
@@ -99,8 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [Eigent](https://awesomecua.com/resources/github-eigent-ai-eigent/)
 - [Enterprise Web Workflow Agent](https://awesomecua.com/resources/github-ztr321-enterprise-web-workflow-agent/)
 - [ENVISIONS](https://awesomecua.com/resources/github-xufangzhi-envisions/)
-- [ENVS (Environment-Native Verified Search)](https://awesomecua.com/resources/github-artysicistz-envs/)
-- [Eric Task Master](https://awesomecua.com/resources/github-npcworkspace-cmyk-eric-task-master/)
-- [ESP (Echo-Skeleton Perception)](https://awesomecua.com/resources/github-badtheorylabs-esp/)
-- [ETO (Exploration-Based Trajectory Optimization)](https://awesomecua.com/resources/github-yifan-song793-eto/)
-- [EvalOps browser-use-rs](https://awesomecua.com/resources/github-dx-corp-browser-use-rs/)

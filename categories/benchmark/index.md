@@ -1,6 +1,6 @@
 # Computer-use agent benchmarks
 
-> 254 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
+> 264 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T06:16:40Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -988,6 +988,39 @@ This is an adjacent API/coding benchmark, not a screenshot-only task suite. Pres
 - https://raw.githubusercontent.com/stonybrooknlp/appworld/HEAD/README.md (retrieved 2026-10-16T10:45:03Z; SHA-256 f4049141b6e520217395b7ccd9f27048c8e0f90331690dcbef300d2bc4ff7bdd)
 - https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
 - https://raw.githubusercontent.com/StonyBrookNLP/appworld/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## AssistantBench
+
+AssistantBench evaluates web agents on realistic, time-consuming tasks. Its project repository links to the task dataset and submission leaderboard.
+
+- Catalog URL: https://awesomecua.com/resources/github-oriyor-assistantbench/
+- Original source: https://github.com/oriyor/AssistantBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, long-horizon
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:oriyor/assistantbench
+
+### Limitations
+
+The README links to a Hugging Face dataset and leaderboard. It says SeePlanAct code and additional resources will be released later.
+
+- Record JSON: https://awesomecua.com/resources/github-oriyor-assistantbench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/oriyor/AssistantBench/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 4a1495306987646ca022a2ac658970028778bd5a04f768e7c6a4da4ac4eaac3f)
 
 ---
 
@@ -3011,6 +3044,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## FineState-Bench
+
+A GUI benchmark for precise state changes across desktop, web, and mobile interfaces, with 2,257 tasks and metrics separating element location from interaction success.
+
+- Catalog URL: https://awesomecua.com/resources/github-fengxianji-finestate-bench/
+- Original source: https://github.com/FengxianJi/FineState-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: evaluation, grounding, state-tracking
+- Evidence checked: 2026-11-09T06:16:32Z
+- ID: github:fengxianji/finestate-bench
+
+### Limitations
+
+The repository includes platform-specific evaluation scripts, model configurations, and diagnostic utilities. The README directs users to download the dataset separately and describes both API-based and local model configurations.
+
+- Record JSON: https://awesomecua.com/resources/github-fengxianji-finestate-bench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/FengxianJi/FineState-Bench/HEAD/README.md (retrieved 2026-11-09T06:16:32Z; SHA-256 bdc165e77ad0e828b605513a46e7e469713611589ccb7e8b96e8e59f306e23da)
+
+---
+
 ## FixtureBench
 
 FixtureBench evaluates procurement browser agents on deterministic Coupa-style buyer/supplier portals with pagination, MFA, and decoy POs.
@@ -4777,6 +4843,39 @@ The retained paper reports 201 tasks, whereas the retained repository README des
 
 ---
 
+## MedSPOT
+
+A sequential GUI grounding benchmark covering 10 medical imaging applications. It evaluates target localization across multi-step workflows and provides model evaluation scripts.
+
+- Catalog URL: https://awesomecua.com/resources/github-tajamul21-medspot/
+- Original source: https://github.com/Tajamul21/MedSPOT
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, grounding, workflow, science
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:tajamul21/medspot
+
+### Limitations
+
+The README links the dataset and documents task, step, and failure metrics. The repository includes evaluation scripts for multiple models; some runs require Hugging Face access or an OpenAI API key.
+
+- Record JSON: https://awesomecua.com/resources/github-tajamul21-medspot/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Tajamul21/MedSPOT/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 c9a0157852fb97a30605b9943414510aecc330faf1d472d2f78ab5b44b50ddcb)
+
+---
+
 ## MemGUI-Bench
 
 Memory-centric Android benchmark of 128 tasks across 26 apps, run in Dockerized emulators on a MobileWorld-style runtime and judged by MemGUI-Eval, an LLM evaluator reporting pass@k and memory metrics.
@@ -5187,6 +5286,40 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/shulin16/MMInA/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 abc848e7eb5181be22168dbc076446c5eb0f065fd57c7e10367284ca6e50bf5c)
+
+---
+
+## MMSearch-Plus
+
+A benchmark of 311 visual reasoning tasks for multimodal browsing agents, requiring iterative image and text retrieval. The repository links the dataset and provides a loading helper.
+
+- Catalog URL: https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/
+- Original source: https://github.com/mmsearch-plus/MMSearch-Plus
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, screen-understanding
+- Evidence checked: 2026-11-09T06:16:35Z
+- ID: github:mmsearch-plus/mmsearch-plus
+
+### Limitations
+
+The README links the Hugging Face dataset and describes a decryption helper. It lists agent rollout code, evaluation scripts, and Set-of-Mark annotations as future work; the repository code is MIT-licensed and the dataset is CC BY 4.0.
+
+- Record JSON: https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/mmsearch-plus/MMSearch-Plus/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mmsearch-plus/MMSearch-Plus/HEAD/README.md (retrieved 2026-11-09T06:16:35Z; SHA-256 e718b5e9724c9a0553592b26c0c02baa4e1adf5ddff0f572af5229b22571500e)
+- https://raw.githubusercontent.com/mmsearch-plus/MMSearch-Plus/HEAD/LICENSE (retrieved 2026-11-09T06:13:39Z; SHA-256 45bb638569f949013c512259e919ded75c9809d82519e72404c18771af638e77)
 
 ---
 
@@ -5750,6 +5883,40 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://github.com/jacklishufan/MobileWorld (retrieved 2026-10-16T06:40:51Z; SHA-256 dfcbaa088cc21dd4e3c67d6eb3b3a1dc476217165ce2ca0daa2facfda71b5a38)
+
+---
+
+## MyPCBench
+
+A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.
+
+- Catalog URL: https://awesomecua.com/resources/github-ljang0-mypcbench/
+- Original source: https://github.com/ljang0/MyPCBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: evaluation, cross-app, sandbox, long-horizon
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:ljang0/mypcbench
+
+### Limitations
+
+The repository ships the harness, tasks, rubrics, persona metadata and documentation. The runnable VM is distributed separately as a Docker image and a qcow2 file; the README specifies Linux, KVM and QEMU for direct runs.
+
+- Record JSON: https://awesomecua.com/resources/github-ljang0-mypcbench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 5b82d77eeb655123ee6b287b23491d113bea762de0850e522e540a0fd4c768a3)
+- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE (retrieved 2026-11-09T06:13:33Z; SHA-256 1e18ae7e58d5f87ba1edec3967e53489879185d3b932f57f14308fd2014f3b80)
 
 ---
 
@@ -6955,6 +7122,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/lgoyal6/pms-race/main/README.md (retrieved 2026-11-04T17:20:47Z; SHA-256 e7f8684019174fc6773fbea1a164c41251b506f9a7dadcc2aeb82023aa9e92cb)
 - https://raw.githubusercontent.com/lgoyal6/pms-race/HEAD/LICENSE (retrieved 2026-11-04T17:26:34Z; SHA-256 02b9a6608439a3f78a537bce3d2dbb908d6931eb1268a83faab35c5aa11b395b)
+
+---
+
+## Pointerbench
+
+Pointerbench evaluates whether computer-use models can locate instructed targets in screenshots. Its three subsets cover spreadsheets, text, and professional application interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/github-warmwindos-pointerbench/
+- Original source: https://github.com/warmwindOS/pointerbench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, grounding, screen-understanding
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:warmwindos/pointerbench
+
+### Limitations
+
+The repository contains evaluation scripts and metadata; full evaluation requires screenshots from Hugging Face. The source states that dataset images and annotations use CC BY 4.0 and evaluation scripts use MIT.
+
+- Record JSON: https://awesomecua.com/resources/github-warmwindos-pointerbench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/warmwindOS/pointerbench/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 dd06eec4f0b9b6f58424c0790a7fd16dad51b458b1b0909af920ea8235f381a6)
 
 ---
 
@@ -8749,6 +8949,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## VideoWebArena
+
+VideoWebArena evaluates web agents that use video tutorials to complete website tasks. Its released benchmark includes task configurations, environments, and an evaluation pipeline.
+
+- Catalog URL: https://awesomecua.com/resources/github-ljang0-videowebarena/
+- Original source: https://github.com/ljang0/videowebarena
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, video, web-navigation, interaction-history
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:ljang0/videowebarena
+
+### Limitations
+
+The source reports 2,021 tasks and links the videos as a separate download. Evaluation requires configured website environments; the documented baselines use video frames or summaries.
+
+- Record JSON: https://awesomecua.com/resources/github-ljang0-videowebarena/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ljang0/videowebarena/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 faf7596af0970a77cd7af2071ebbb2c0d9bb615647735119f7763fd3d05d9f70)
+
+---
+
 ## VisualAgentBench
 
 Evaluation framework spanning visual GUI, embodied, and design tasks, including mobile and WebArena-based environments.
@@ -9524,6 +9757,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## WebGen-Bench
+
+WebGen-Bench evaluates generated websites with automated tests, including a UI agent that carries out interactions and checks outcomes. The repository supplies evaluation code and data.
+
+- Catalog URL: https://awesomecua.com/resources/github-mnluzimu-webgen-bench/
+- Original source: https://github.com/mnluzimu/WebGen-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, ui-design
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:mnluzimu/webgen-bench
+
+### Limitations
+
+The repository includes data, evaluation scripts and archived experiment outputs. The README describes Windows and Linux execution paths and optional deployment of a UI testing model.
+
+- Record JSON: https://awesomecua.com/resources/github-mnluzimu-webgen-bench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mnluzimu/WebGen-Bench/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 f579d4f90c17ed8a9e862f2ba6b2862886637425fdce8fdf495ea37d246a5b10)
+
+---
+
 ## WebGuard
 
 Codebase, annotation toolkit, and action-level risk dataset for training and evaluating guardrail models that flag unsafe browser-agent actions before execution.
@@ -10082,6 +10348,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## WildClawBench
+
+WildClawBench evaluates agents on 60 tasks in a live tool environment that includes browser use, email, files and coding. It releases evaluation code and links to task data and trajectories.
+
+- Catalog URL: https://awesomecua.com/resources/github-internlm-wildclawbench/
+- Original source: https://github.com/InternLM/WildClawBench
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web
+- Topics: evaluation, long-horizon, tool-integration, safety-security
+- Evidence checked: 2026-11-09T06:16:40Z
+- ID: github:internlm/wildclawbench
+
+### Limitations
+
+The README describes Docker isolation and four agent harnesses. The repository includes evaluation code and a technical report; task data and trajectories are linked as Hugging Face datasets.
+
+- Record JSON: https://awesomecua.com/resources/github-internlm-wildclawbench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/InternLM/WildClawBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/InternLM/WildClawBench/HEAD/README.md (retrieved 2026-11-09T06:16:40Z; SHA-256 669c3fbe0ff02b9b00b69552c0e43ae270200317f5fcb2a621f47463de24ef81)
+- https://raw.githubusercontent.com/InternLM/WildClawBench/HEAD/LICENSE (retrieved 2026-11-09T06:14:01Z; SHA-256 1097320d3b3dcabcc40bf0d81e516be95439e877d31fc4679a1255c5d4527edc)
+
+---
+
 ## WinDeskGround
 
 WinDeskGround benchmarks desktop GUI grounding in multi-window Windows environments with controlled occlusion, scaling, and interference levels.
@@ -10378,6 +10678,40 @@ Definitions and instantiated tasks are different units. ServiceNow instance acce
 - https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 834a48f0346036a0fc591a36f9eb6f513b44a2777a66afa0917f28fc63f29334)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
 - https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 b192c58991e8ff585cc574615d40e74185404d4b96c1109d423071ab1367344b)
+
+---
+
+## WorkArena-Instances
+
+A restricted-access set of ServiceNow instances for running WorkArena benchmark evaluations. The repository provides instance information and states research-use conditions.
+
+- Catalog URL: https://awesomecua.com/resources/url-01b9e39cd2526d41c527/
+- Original source: https://huggingface.co/datasets/ServiceNow/WorkArena-Instances
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, sandbox, workflow
+- Evidence checked: 2026-11-09T06:16:38Z
+- ID: url:01b9e39cd2526d41c527
+
+### Limitations
+
+Access requires accepting conditions through Hugging Face. The repository lists instances.json and instances_v2.json; the card limits use to benchmarking, evaluation and research.
+
+- Record JSON: https://awesomecua.com/resources/url-01b9e39cd2526d41c527/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/ServiceNow/WorkArena-Instances (retrieved 2026-11-09T06:16:38Z; SHA-256 7c797dc4f0ac44ab8b67d5659c1c156a8707456cc691edbc1c538754e0fd848e)
+- https://huggingface.co/api/datasets/ServiceNow/WorkArena-Instances (retrieved 2026-11-09T06:16:38Z; SHA-256 7c797dc4f0ac44ab8b67d5659c1c156a8707456cc691edbc1c538754e0fd848e)
 
 ---
 

@@ -53,6 +53,8 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 ## Benchmarks
 
+- [MedSPOT](https://awesomecua.com/resources/github-tajamul21-medspot/) — Date not recorded
+  A sequential GUI grounding benchmark covering 10 medical imaging applications. It evaluates target localization across multi-step workflows and provides model evaluation scripts.
 - [OSWorld-Science](https://awesomecua.com/resources/github-discoailab-osworld-science/) — Date not recorded
   Benchmark harness that runs computer-use agents on scientific-software tasks in per-domain VMs and scores the resulting application states and deliverables with task-specific executable evaluators.
 - [ScienceBoard](https://awesomecua.com/resources/github-os-copilot-scienceboard/) — Date not recorded

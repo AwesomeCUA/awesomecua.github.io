@@ -1,6 +1,6 @@
 # Computer-use agent tools
 
-> 836 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
+> 884 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T06:16:40Z.
 
 HTML page: https://awesomecua.com/categories/tool/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -215,6 +215,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/allaudin/adb-automation-mcp/main/README.md (retrieved 2026-11-04T17:30:42Z; SHA-256 93bc876ea7c9b6a2394f9eb8811f81d830074a53d40b99cbce00d3100d8e2d85)
 - https://raw.githubusercontent.com/allaudin/adb-automation-mcp/HEAD/LICENSE (retrieved 2026-11-04T17:40:22Z; SHA-256 3d33800433c7193e0125d9dfc8f5709dec8ee66113ab10569b50dd43a5bba8be)
+
+---
+
+## ADBKeyBoard
+
+An Android virtual keyboard that accepts ADB broadcasts to enter text, Unicode characters and key events for device automation.
+
+- Catalog URL: https://awesomecua.com/resources/github-senzhk-adbkeyboard/
+- Original source: https://github.com/senzhk/ADBKeyBoard
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android
+- Topics: automation, mobile-navigation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:senzhk/adbkeyboard
+
+### Limitations
+
+The README documents APK installation, building from source and broadcast commands for text, key events and editor actions.
+
+- Record JSON: https://awesomecua.com/resources/github-senzhk-adbkeyboard/record.json
+
+### License declarations
+
+- code: GPL-2.0 — https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 b7e0b55f5defc2d09a27ad8417fc2adb085cbd5997414c3978ffef79135545b9)
+- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE (retrieved 2026-11-09T06:13:35Z; SHA-256 7ea4b1fa1256b0ab2bbbff489e5e8d8f1f9b864504d60091ff871d80e04f21fa)
 
 ---
 
@@ -1389,6 +1423,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/David-Wu1119/agentperms/HEAD/README.md (retrieved 2026-11-04T16:10:34Z; SHA-256 c1f7f6afb6e48df602f1dd40d5e73ee9725efe193736ad4fac9ef82d9ee0ce35)
 - https://raw.githubusercontent.com/David-Wu1119/agentperms/HEAD/LICENSE (retrieved 2026-11-04T16:14:21Z; SHA-256 314f04618bb9463d4481c2e7fa4dba80dfa9bbe72b17111795c84efe1114686a)
+
+---
+
+## AgentQL
+
+Web automation tool with a query language and Playwright-based Python and JavaScript SDKs for finding page elements, interacting with sites, and extracting data.
+
+- Catalog URL: https://awesomecua.com/resources/url-396e9c77f2dc44adfe45/
+- Original source: https://docs.agentql.com
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: url:396e9c77f2dc44adfe45
+
+### Limitations
+
+The documentation also lists a REST API, debugger, browser extension, and guides for forms, pagination, and remote browsers.
+
+- Record JSON: https://awesomecua.com/resources/url-396e9c77f2dc44adfe45/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://docs.agentql.com (retrieved 2026-11-09T06:16:37Z; SHA-256 b170bc03f5ab08ef5f21e72439f12f8e10b4454548c07c1455357e945ad06b07)
 
 ---
 
@@ -2613,6 +2680,74 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Appium Inspector
+
+An Appium inspection tool that displays app screenshots beside page source and lets users find and interact with elements. It is distributed as a desktop app and server plugin.
+
+- Catalog URL: https://awesomecua.com/resources/github-appium-appium-inspector/
+- Original source: https://github.com/appium/appium-inspector
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, macos, windows, linux, cross-platform
+- Topics: screen-understanding, automation
+- Evidence checked: 2026-11-09T06:16:32Z
+- ID: github:appium/appium-inspector
+
+### Limitations
+
+The README describes desktop releases for macOS, Windows, and Linux and an Appium server plugin. It lists element search, screenshot interaction, and driver commands as features.
+
+- Record JSON: https://awesomecua.com/resources/github-appium-appium-inspector/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/appium/appium-inspector/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/appium/appium-inspector/HEAD/README.md (retrieved 2026-11-09T06:16:32Z; SHA-256 16f1f6f871b88f246ff1d6532be3ec6db6a93ca504235ffc4976fc468d8f8f26)
+- https://raw.githubusercontent.com/appium/appium-inspector/HEAD/LICENSE (retrieved 2026-11-09T06:13:30Z; SHA-256 5cb791a45cafc4bdaef57f3ba49fb7691a98c756e8148467f9e241295728490f)
+
+---
+
+## appium-adb
+
+An Android Debug Bridge wrapper that exposes device operations for Appium. The repository points to the appium-android monorepo for continuing development.
+
+- Catalog URL: https://awesomecua.com/resources/github-appium-appium-adb/
+- Original source: https://github.com/appium/appium-adb
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android
+- Topics: automation, mobile-navigation, history
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:appium/appium-adb
+
+### Limitations
+
+The README includes npm installation and a JavaScript usage example. Development now continues under packages/adb in appium-android.
+
+- Record JSON: https://awesomecua.com/resources/github-appium-appium-adb/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/appium/appium-adb/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/appium/appium-adb/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 758fc8580582e5a6a504f51e45fbf5a11df7857b1ccc9e2eaa841854f737e6a6)
+- https://raw.githubusercontent.com/appium/appium-adb/HEAD/LICENSE (retrieved 2026-11-09T06:13:32Z; SHA-256 ae9194687e7f3b7d85e8eeb5c973e22d52c4653b1e4332fa0e5c6e82b038ab29)
+
+---
+
 ## April Agent Action Filter
 
 April Agent Action Filter is a Rust policy library that inspects and gates proposed computer-use agent actions before tool execution.
@@ -3662,6 +3797,74 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## bb-browser
+
+A CLI and MCP tool that lets AI agents operate an existing Chrome session through page snapshots, element actions, screenshots, and website-specific adapters.
+
+- Catalog URL: https://awesomecua.com/resources/github-epiral-bb-browser/
+- Original source: https://github.com/epiral/bb-browser
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, automation, tool-integration, screen-understanding
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:epiral/bb-browser
+
+### Limitations
+
+The README documents a daemon connected to Chrome through CDP, an MCP configuration, site adapters, and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-epiral-bb-browser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/epiral/bb-browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/epiral/bb-browser/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 8534d604b4dd62267ede62924a92b92c87e4ff1d99f2118d8f8fe40ff2622fbb)
+- https://raw.githubusercontent.com/epiral/bb-browser/HEAD/LICENSE (retrieved 2026-11-09T06:13:50Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
+## bdg - Browser Debugger CLI
+
+A browser CLI for agents to navigate and interact with pages while inspecting the DOM, network requests, console output, and layout through individual commands.
+
+- Catalog URL: https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/
+- Original source: https://github.com/szymdzum/browser-debugger-cli
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web, desktop, macos, linux, windows
+- Topics: automation, web-navigation, observability
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:szymdzum/browser-debugger-cli
+
+### Limitations
+
+The README documents interaction, accessibility, telemetry, and raw CDP commands. It requires Node.js and a Chromium-based browser; Windows use is through WSL.
+
+- Record JSON: https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/szymdzum/browser-debugger-cli/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/szymdzum/browser-debugger-cli/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 ea6e300730b1049159b592829214b6ed2dce3563488e0f1a7eb5b1ed512aa597)
+- https://raw.githubusercontent.com/szymdzum/browser-debugger-cli/HEAD/LICENSE (retrieved 2026-11-09T06:13:39Z; SHA-256 c59dc0d930b7c2b5ca121c50b1aec40a13162ee677d4f984e02899af0fe9f431)
+
+---
+
 ## BeijingWahw DSH Computer Use Plugin
 
 Full-featured desktop computer-use plugin for DeepSeek Harness supporting multi-display capture, OCR, and GUI actions.
@@ -4304,6 +4507,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/browser-use/browser-harness/HEAD/README.md (retrieved 2026-11-04T16:10:26Z; SHA-256 69309c3dfeec03b6499374e36fda7d2d15e3a9c276b5a5f00574f0cb29a47156)
 - https://raw.githubusercontent.com/browser-use/browser-harness/HEAD/LICENSE (retrieved 2026-11-04T16:13:58Z; SHA-256 5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631)
+
+---
+
+## Browser Harness JS
+
+A JavaScript CLI and SDK that expose typed Chrome DevTools Protocol calls through a persistent browser session, allowing agents to inspect tabs and issue browser actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-browser-harness-js/
+- Original source: https://github.com/browser-use/browser-harness-js
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, tool-integration, web-navigation
+- Evidence checked: 2026-11-09T06:16:38Z
+- ID: github:browser-use/browser-harness-js
+
+### Limitations
+
+The repository lists a CLI, session transport, generated protocol wrappers and interaction recipes. Its README describes attaching to Chrome through remote debugging.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-use-browser-harness-js/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/browser-use/browser-harness-js/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browser-use/browser-harness-js/HEAD/README.md (retrieved 2026-11-09T06:16:38Z; SHA-256 016a8304fce7ab8963ae1f7c6213dffe768ed2d838ae957ae0f23fcb868501b2)
+- https://raw.githubusercontent.com/browser-use/browser-harness-js/HEAD/LICENSE (retrieved 2026-11-09T06:13:55Z; SHA-256 5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631)
 
 ---
 
@@ -5562,6 +5799,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/mehmetnadir/cdpilot/HEAD/README.md (retrieved 2026-11-04T15:45:51Z; SHA-256 96d0c85e75b68508ca4909b54d67fe28601b3bc5c8178f4d2e354e0410ed5fed)
 - https://raw.githubusercontent.com/mehmetnadir/cdpilot/HEAD/LICENSE (retrieved 2026-11-04T15:58:07Z; SHA-256 7caa268240e8de3f54dd4169684be570a2cf1615b69fad18e79ca6659be53b65)
+
+---
+
+## Cerner PowerChart Browser Automation
+
+A browser automation scaffold for Cerner PowerChart with actions for login, patient search, results, orders, and documentation export, plus a selector reference.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-cerner-powerchart-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/cerner-powerchart-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: github:browser-automation-hub/cerner-powerchart-browser-automation
+
+### Limitations
+
+The README lists Puppeteer and Anchor Browser options, example scripts, and source modules. It requires a PowerChart account and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-cerner-powerchart-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/cerner-powerchart-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/cerner-powerchart-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:39Z; SHA-256 4615e776bd45fd2bc722215853d98922061ad1f5b59b929ae882255e72457a58)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/cerner-powerchart-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:14:00Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
 
 ---
 
@@ -7492,6 +7763,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/Automata-Labs-team/code-sandbox-mcp/HEAD/README.md (retrieved 2026-11-04T13:12:07Z; SHA-256 8f9b50b3bcde581dce1d2d11da8ad5cb52f1150e41d2636b9880e3db4c49b3c6)
 - https://raw.githubusercontent.com/Automata-Labs-team/code-sandbox-mcp/HEAD/LICENSE (retrieved 2026-11-04T13:42:32Z; SHA-256 885ad4921ffeb02e56f7b5ee17884beb5c98f8be3d93f9aeb636868b43b550a5)
+
+---
+
+## Code2World
+
+Code2World provides code for predicting the next Android GUI screen from a screenshot and proposed action through renderable code, with an AndroidWorld agent integration.
+
+- Catalog URL: https://awesomecua.com/resources/github-amap-ml-code2world/
+- Original source: https://github.com/AMAP-ML/Code2World
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: world-models, state-tracking, mobile-navigation
+- Evidence checked: 2026-11-09T06:16:40Z
+- ID: github:amap-ml/code2world
+
+### Limitations
+
+The README provides environment setup and an AndroidWorld run command. It requires pretrained Code2World weights and an OPENAI_API_KEY.
+
+- Record JSON: https://awesomecua.com/resources/github-amap-ml-code2world/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md (retrieved 2026-11-09T06:16:40Z; SHA-256 26c14a14166d3b747454d1924ecdf6d96652ac857ae6ad488630dc843036a777)
 
 ---
 
@@ -9867,6 +10171,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Droidrun iOS Portal
+
+An archived iOS automation portal that exposes screenshots, accessibility trees, app launch, gestures, and text input through an XCTest HTTP server.
+
+- Catalog URL: https://awesomecua.com/resources/github-droidrun-ios-portal/
+- Original source: https://github.com/droidrun/ios-portal
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: ios
+- Topics: automation, screen-understanding, history
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:droidrun/ios-portal
+
+### Limitations
+
+The repository includes a SwiftUI host app, XCTest server, and scripts for physical devices and simulators. Its README says mobilerun-ios supersedes it.
+
+- Record JSON: https://awesomecua.com/resources/github-droidrun-ios-portal/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/droidrun/ios-portal/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/droidrun/ios-portal/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 ab4453f442b3550038649400e5127da127fee5a5b0de43750565515086d82113)
+- https://raw.githubusercontent.com/droidrun/ios-portal/HEAD/LICENSE (retrieved 2026-11-09T06:13:36Z; SHA-256 b3ebb19fda8286efa415d457529eafff41e1b1a27fe4e00d99f34e1559b6cdd9)
+
+---
+
 ## Drover
 
 Chrome extension and local CLI that lets AI agents drive the browser window the user already has open and signed into.
@@ -11936,6 +12274,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/joeycumines/ExactMac/HEAD/README.md (retrieved 2026-11-04T15:45:43Z; SHA-256 b7627c041bc5510cccaa76cf5f2883c7163fe3a3f9709c2ce9ab3452c96540af)
 - https://raw.githubusercontent.com/joeycumines/ExactMac/HEAD/LICENSE (retrieved 2026-11-04T15:57:47Z; SHA-256 ec104074d28638144522c748bec6acd6d772db60260dc68951ac2d2a620897cc)
+
+---
+
+## Explorer
+
+A cross-platform GUI automation system with vision-based interactable detection, voice navigation, screen recording, and tools for creating and replaying traces.
+
+- Catalog URL: https://awesomecua.com/resources/github-varnelis-explorer/
+- Original source: https://github.com/varnelis/Explorer
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform
+- Topics: automation, recording, grounding
+- Evidence checked: 2026-11-09T06:16:34Z
+- ID: github:varnelis/explorer
+
+### Limitations
+
+The README identifies a CLI entry point and lists Selenium detection, OCR analysis, recording, and action matching components. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-varnelis-explorer/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/varnelis/Explorer/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/varnelis/Explorer/HEAD/README.md (retrieved 2026-11-09T06:16:34Z; SHA-256 c444d146aad0e0d5ac19e1a9041345a671402a4e602b3bbe5cdf5729921f85af)
+- https://raw.githubusercontent.com/varnelis/Explorer/HEAD/LICENSE (retrieved 2026-11-09T06:13:37Z; SHA-256 dea8931d801a162b75e765584b5863c733a8a59fcc38dd48cdeabab365fc2bdb)
 
 ---
 
@@ -15948,6 +16320,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## LlamaTouch Evaluator
+
+LlamaTouch Evaluator checks mobile-agent execution traces against annotated interface states and provides exact-match and subsequence action baselines.
+
+- Catalog URL: https://awesomecua.com/resources/github-llamatouch-evaluator/
+- Original source: https://github.com/LlamaTouch/Evaluator
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, mobile-navigation, state-tracking
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: github:llamatouch/evaluator
+
+### Limitations
+
+The code requires LlamaTouch task metadata, its ground-truth dataset and traces generated on AgentEnv. The README includes evaluator examples and installation steps.
+
+- Record JSON: https://awesomecua.com/resources/github-llamatouch-evaluator/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/LlamaTouch/Evaluator/HEAD/README.md (retrieved 2026-11-09T06:16:39Z; SHA-256 5210b9e80ab137401093ad43aaf658531e5879646846bed800f383479ac95d56)
+
+---
+
 ## LLM Scraper
 
 LLM Scraper is a TypeScript library that uses Playwright and schema-constrained LLMs to extract structured data from live webpages.
@@ -18020,6 +18425,39 @@ Source and release 1.0.11 are public. The README specifies iOS and Android devic
 
 ---
 
+## mobilecli
+
+mobilecli is a command-line utility for controlling iOS and Android devices and simulators. It captures screens, reads UI trees, sends input, and manages apps.
+
+- Catalog URL: https://awesomecua.com/resources/github-mobile-next-mobilecli/
+- Original source: https://github.com/mobile-next/mobilecli
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, android, ios
+- Topics: automation, mobile-navigation, screen-understanding
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:mobile-next/mobilecli
+
+### Limitations
+
+The source documents real-device and simulator support for both platforms. Android support requires the Android SDK; iOS simulator support requires Xcode command-line tools on macOS.
+
+- Record JSON: https://awesomecua.com/resources/github-mobile-next-mobilecli/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mobile-next/mobilecli/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 08e8538ee57d2a725cc63e31d48b4cb8a8d0a8356b1f10d48de3597ba408031b)
+
+---
+
 ## MobileMCP
 
 MobileMCP lets AI agents control physical Android phones over WebSocket via an on-device AccessibilityService app without ADB or root.
@@ -18544,6 +18982,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Notte CLI
+
+A command-line tool for controlling remote browser sessions, handling files and running repeatable web automation workflows.
+
+- Catalog URL: https://awesomecua.com/resources/github-nottelabs-notte-cli/
+- Original source: https://github.com/nottelabs/notte-cli
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:nottelabs/notte-cli
+
+### Limitations
+
+The README documents Go, Homebrew and script installation, API-key authentication, browser sessions, scraping and scheduled functions.
+
+- Record JSON: https://awesomecua.com/resources/github-nottelabs-notte-cli/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/nottelabs/notte-cli/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 2a224dc9caffc9deabb082651d16ae4a3331ff3ad67c824f703a3157348ca23d)
+
+---
+
 ## Nova (Rust Cross-Platform CUA MCP)
 
 Cross-platform Rust computer-use MCP server for macOS and Windows combining AX/UIA accessibility trees, screenshots, OCR, and input.
@@ -18609,6 +19080,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/theodorebeaupre-prog/nova-computer-use/HEAD/README.md (retrieved 2026-11-04T16:51:47Z; SHA-256 0eba4a382a44d1b57539d7e8fdeebac15708d39866d80122cfbf990957c87db7)
 - https://raw.githubusercontent.com/theodorebeaupre-prog/nova-computer-use/HEAD/LICENSE (retrieved 2026-11-04T16:57:15Z; SHA-256 0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0)
+
+---
+
+## noVNC
+
+noVNC is a browser-based VNC client and JavaScript library for viewing and controlling remote desktops through mouse, keyboard, clipboard and touch input.
+
+- Catalog URL: https://awesomecua.com/resources/github-novnc-novnc/
+- Original source: https://github.com/novnc/noVNC
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:novnc/novnc
+
+### Limitations
+
+The README documents a browser application, embeddable JavaScript library and a proxy script for connecting to a VNC server. It states that a WebSockets-capable server or proxy is required and describes the project as mainly MPL 2.0 licensed.
+
+- Record JSON: https://awesomecua.com/resources/github-novnc-novnc/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/novnc/noVNC/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 70fb38dacd32911760059b744b44d1991a93b34e5923e61c2c47aa9b8c80ba9a)
 
 ---
 
@@ -19370,6 +19874,244 @@ Distinct from E2B's Open Computer Use agent (github:e2b-dev/open-computer-use). 
 
 ---
 
+## OpenAdapt Agent
+
+OpenAdapt Agent exposes demonstrated application workflows as callable tools for AI agents. It enters values in an app and checks the record before and after saving.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-agent/
+- Original source: https://github.com/OpenAdaptAI/openadapt-agent
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, windows
+- Topics: automation, workflow, tool-integration, state-tracking
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: github:openadaptai/openadapt-agent
+
+### Limitations
+
+The README documents a sandbox, production workflow bundles, an MCP connection, and a PyPI package. It says the repository is archived and the package has moved to the OpenAdapt monorepo. The source displays an MIT license badge.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-agent/HEAD/README.md (retrieved 2026-11-09T06:16:39Z; SHA-256 57ffe3c22f53809b04d13c3b4022a92450295826af57ad31e03b85ac1cf22c61)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-agent/HEAD/LICENSE (retrieved 2026-11-09T06:14:01Z; SHA-256 abc9b7204a2ddb0348e20bbbc8806758b707af6f0a2b196fae9eda447d6577e9)
+
+---
+
+## OpenAdapt Desktop
+
+OpenAdapt Desktop records work in web and desktop apps, compiles recordings into local programs, and replays data-entry tasks with screen checks and human approval.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-desktop/
+- Original source: https://github.com/OpenAdaptAI/openadapt-desktop
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop, windows
+- Topics: automation, recording, workflow, human-in-the-loop
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:openadaptai/openadapt-desktop
+
+### Limitations
+
+The repository contains a Tauri and React desktop app and a local Python engine. The README places the compiler and runtime in openadapt-flow and says the desktop app currently runs from source.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-desktop/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-desktop/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-desktop/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 5a9d38b3e4b59dfc8e5fdf75ec29adbd2b0d5e7496ff99f8df70ce13d998d12e)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-desktop/HEAD/LICENSE (retrieved 2026-11-09T06:13:54Z; SHA-256 c172785d5f0b1a2cad344c862f3a1c12248443a4170f2b0b76aec45d9e2261bb)
+
+---
+
+## openadapt-capture
+
+A desktop recorder for GUI demonstrations that pairs mouse and keyboard actions with screen frames and stores sessions for later inspection in Python.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-capture/
+- Original source: https://github.com/OpenAdaptAI/openadapt-capture
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, windows, macos, linux
+- Topics: recording, data-generation, video
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:openadaptai/openadapt-capture
+
+### Limitations
+
+Recordings include a SQLite action database, screen video, and integrity metadata. The source lists FFmpeg and Python 3.10 or later as requirements; Linux capture is limited to X11. The repository is archived because the code moved to OpenAdapt.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-capture/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-capture/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-capture/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 c87cdd1c04d63dbb2e6cd2f9d7f59773b408f4fcab318fb0ed1932b15b235cb5)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-capture/HEAD/LICENSE (retrieved 2026-11-09T06:13:53Z; SHA-256 15697a539aa9b371fb741180719e6371f55cc980d3ab243fc1295afc8291fba7)
+
+---
+
+## openadapt-flow
+
+openadapt-flow turns recorded web or desktop tasks into reusable programs, replays them locally, and verifies saved records. Its standalone repository is archived.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-flow/
+- Original source: https://github.com/OpenAdaptAI/openadapt-flow
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web, desktop, windows, macos, linux
+- Topics: recording, automation, workflow, history
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:openadaptai/openadapt-flow
+
+### Limitations
+
+The README describes Playwright, desktop accessibility APIs, and pixel-based Citrix or remote-desktop control. It says current development moved to OpenAdapt's packages/flow and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-flow/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-flow/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-flow/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 b06e465dccc239c082c05fa78b68262a066238be786a53a62936cc95bffc2b1e)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-flow/HEAD/LICENSE (retrieved 2026-11-09T06:13:31Z; SHA-256 4293dac082cb1db38467bc51333229167661390e0879bff2e63d6bc90a0d8500)
+
+---
+
+## openadapt-grounding
+
+An archived GUI element localization package that anchors targets to OCR text and stabilizes detections across frames, with optional model-based fallbacks.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-grounding/
+- Original source: https://github.com/OpenAdaptAI/openadapt-grounding
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: grounding, robustness, history
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:openadaptai/openadapt-grounding
+
+### Limitations
+
+The local OCR path requires Tesseract. Optional fallbacks include self-hosted grounding models or hosted vision-language providers; the README identifies the package as archived.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-grounding/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-grounding/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-grounding/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 8b4a72e72768c5f3c4f7bef04b300509265798a533f49c3810e625992b3d8ed3)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-grounding/HEAD/LICENSE (retrieved 2026-11-09T06:13:37Z; SHA-256 41f7539540a714d98fe33cb8846b8b23ced161af8d792fd9ba1a7b3bd7fd0dc8)
+
+---
+
+## openadapt-privacy
+
+openadapt-privacy removes personal and health information from GUI recordings, including text, event data, accessibility trees and screenshots. The repository is archived.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-privacy/
+- Original source: https://github.com/OpenAdaptAI/openadapt-privacy
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, web
+- Topics: safety-security, recording
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:openadaptai/openadapt-privacy
+
+### Limitations
+
+The code now lives in the OpenAdapt repository. The package uses Presidio and a local spaCy model; screenshot scrubbing also requires Tesseract. The README declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-privacy/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-privacy/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-privacy/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 970ab740fa05027744e641f90e13e63f406957f56225877139a31b7a1ad544c8)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-privacy/HEAD/LICENSE (retrieved 2026-11-09T06:13:48Z; SHA-256 15697a539aa9b371fb741180719e6371f55cc980d3ab243fc1295afc8291fba7)
+
+---
+
+## openadapt-retrieval
+
+Archived retrieval tool that indexes GUI demonstrations from task text and screenshots, then finds similar examples through a Python API or CLI.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-retrieval/
+- Original source: https://github.com/OpenAdaptAI/openadapt-retrieval
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: memory, screen-understanding, history
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:openadaptai/openadapt-retrieval
+
+### Limitations
+
+The repository lists source code and tests. The README describes Qwen3-VL embeddings, FAISS indexing, optional CLIP support, and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-retrieval/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-retrieval/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-retrieval/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 9b2eb8779739e87262d04dda1822c747a473d2b385f3bf7970c1890b031b048b)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-retrieval/HEAD/LICENSE (retrieved 2026-11-09T06:13:54Z; SHA-256 41f7539540a714d98fe33cb8846b8b23ced161af8d792fd9ba1a7b3bd7fd0dc8)
+
+---
+
 ## OpenBitFun
 
 OpenBitFun is a Rust-powered desktop agent workspace supporting computer-use, browser automation, and multi-mode agent harnesses.
@@ -19779,6 +20521,74 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/wandb/openui/HEAD/README.md (retrieved 2026-11-04T13:12:43Z; SHA-256 54df29952ae63e4a0a1a4a3f14fd5b35120fdc102b139365d2ecc7e944b9d683)
 - https://raw.githubusercontent.com/wandb/openui/HEAD/LICENSE (retrieved 2026-11-04T13:42:33Z; SHA-256 508eafd6c65d3e69db036bdcbc2fec910607169e68308d62ae1ae7946f2ef195)
+
+---
+
+## Oracle E-Business Suite Browser Automation
+
+A browser automation scaffold for Oracle E-Business Suite workflows. It describes Puppeteer and cloud browser options for login, requisitions, approvals and requests.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/oracle-ebs-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:browser-automation-hub/oracle-ebs-browser-automation
+
+### Limitations
+
+The repository lists source modules and examples. Local use requires Node.js, Chrome or Chromium, and an Oracle E-Business Suite account. The README declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/oracle-ebs-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/oracle-ebs-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 9aa4714325190ae09da0fa4ad03e6c84fccb45cd5c8d8981d37e5363e7f47b8d)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/oracle-ebs-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:47Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
+## Oracle PeopleSoft Browser Automation
+
+A browser automation scaffold for Oracle PeopleSoft that defines actions for queries, leave requests, employee records, and payroll workflows through Puppeteer or Anchor Browser.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-peoplesoft-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/peoplesoft-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:browser-automation-hub/peoplesoft-browser-automation
+
+### Limitations
+
+The README lists authentication, session, action, and custom action modules. It requires a PeopleSoft account, Node.js, and Chrome or Chromium for local use; the README declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-peoplesoft-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/peoplesoft-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/peoplesoft-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 ef5f57e4cd2f4a44a2967182100f56332ff1d425071085125eed88b83ce226aa)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/peoplesoft-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:49Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
 
 ---
 
@@ -21170,6 +21980,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Playwright MCP
+
+An MCP server that gives LLM clients browser navigation and interaction tools. It identifies page elements through structured accessibility snapshots.
+
+- Catalog URL: https://awesomecua.com/resources/url-9900690ea9b418a1a7c6/
+- Original source: https://playwright.dev/docs/getting-started-mcp
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, automation, screen-understanding
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: url:9900690ea9b418a1a7c6
+
+### Limitations
+
+The documentation shows client configuration using @playwright/mcp and describes tools for common browser interactions. It lists Node.js 20 or newer as a prerequisite.
+
+- Record JSON: https://awesomecua.com/resources/url-9900690ea9b418a1a7c6/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://playwright.dev/docs/getting-started-mcp (retrieved 2026-11-09T06:16:33Z; SHA-256 6ec14cf905a8c53d2e924602c025e17b110da9f6f04ca217fc477f1fb355779f)
+
+---
+
 ## Playwright MCP Server (ExecuteAutomation)
 
 Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.
@@ -21235,6 +22078,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/zbrooklyn-claude-labs/playwright-pool/HEAD/README.md (retrieved 2026-11-04T15:45:53Z; SHA-256 045b8786e1d415442ea6685a40a331935cffc18214184538bda1479e7a3a8484)
 - https://raw.githubusercontent.com/zbrooklyn-claude-labs/playwright-pool/HEAD/LICENSE (retrieved 2026-11-04T15:58:10Z; SHA-256 155b2c19ec9046f25380231afcf66e5cc7ca6d56fbd8a03a9a9b6f866fddd7cb)
+
+---
+
+## Playwright Test for VS Code
+
+A VS Code extension for Playwright browser testing that records page actions into tests and provides test running, locator inspection, debugging, and trace viewing.
+
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-playwright-vscode/
+- Original source: https://github.com/microsoft/playwright-vscode
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, recording, web-navigation
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:microsoft/playwright-vscode
+
+### Limitations
+
+The source requires Playwright v1.38 or newer. It describes recording new tests and adding recorded actions at the current cursor position.
+
+- Record JSON: https://awesomecua.com/resources/github-microsoft-playwright-vscode/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/microsoft/playwright-vscode/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/microsoft/playwright-vscode/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 2dd99289734ef37a5b88042a136ff5dc10a321d06abd3adeb5efbf2a3f406619)
+- https://raw.githubusercontent.com/microsoft/playwright-vscode/HEAD/LICENSE (retrieved 2026-11-09T06:13:53Z; SHA-256 45873d00a0dd243596deb4aa23b2493b3d1f0671921bf2538ea431d7380220eb)
 
 ---
 
@@ -21475,6 +22352,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Procore Browser Automation
+
+A Procore browser automation scaffold with actions for construction RFIs, submittal tracking, daily logs, and project-report export.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-procore-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/procore-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:browser-automation-hub/procore-browser-automation
+
+### Limitations
+
+The repository lists source files and examples. Local setup requires Node.js, Chrome or Chromium, and a Procore account. The source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-procore-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/procore-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/procore-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 b7b826bdcec1b860595675da66e652a0b54cee3ef9a78819a5256cf339b0535a)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/procore-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:51Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
 ## Prodjest (DSH Browser Bridge)
 
 Visual Chrome browser bridge for DeepSeek Harness with interactive user oversight.
@@ -21608,6 +22519,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/README.md (retrieved 2026-11-04T16:10:27Z; SHA-256 657293384cda1a2318de2de452304c464e7da7794dc06d7c2588e5a706bf5489)
 - https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/LICENSE (retrieved 2026-11-04T16:14:02Z; SHA-256 ceb2e1e10f2077c987d18f6bf7d019137c17636dd8cf1b59c8ba39c6b52e9995)
+
+---
+
+## Puppeteer
+
+Puppeteer is a JavaScript browser-control library for Chrome and Firefox. Its API supports scripted page navigation and interaction.
+
+- Catalog URL: https://awesomecua.com/resources/github-puppeteer-puppeteer/
+- Original source: https://github.com/puppeteer/puppeteer
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:puppeteer/puppeteer
+
+### Limitations
+
+The README identifies DevTools Protocol and WebDriver BiDi as control interfaces. It documents the puppeteer and puppeteer-core packages and shows keyboard, form and click operations.
+
+- Record JSON: https://awesomecua.com/resources/github-puppeteer-puppeteer/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/puppeteer/puppeteer/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/puppeteer/puppeteer/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 b2564c37c112336cc191da0890bdc4a8a3e5e039830b17613c69ac7914a7b4bc)
+- https://raw.githubusercontent.com/puppeteer/puppeteer/HEAD/LICENSE (retrieved 2026-11-09T06:13:42Z; SHA-256 a27ca07269b3518550b2e83aed13eadd7d14d924b5864e14889b40cf227530ca)
 
 ---
 
@@ -22220,6 +23165,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## RegionFocus
+
+RegionFocus provides code for GUI grounding through selected screenshot regions. The release evaluates UI-TARS and Qwen2.5-VL on ScreenSpot-Pro.
+
+- Catalog URL: https://awesomecua.com/resources/github-tiangeluo-regionfocus/
+- Original source: https://github.com/tiangeluo/RegionFocus
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, training-free, evaluation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:tiangeluo/regionfocus
+
+### Limitations
+
+The release contains evaluation and result summarization scripts. Running it requires ScreenSpot-Pro data and inference servers for the selected models.
+
+- Record JSON: https://awesomecua.com/resources/github-tiangeluo-regionfocus/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/tiangeluo/RegionFocus/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 c96a7573cd5fcf0e4c8cf230a88a12c36ac2dc9e97e5d164cbd12d52a299fbef)
+
+---
+
 ## Reins
 
 Reins is a runtime security guardrail and policy enforcement layer that intercepts and gates unauthorized AI agent tool calls.
@@ -22693,6 +23671,108 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Salesforce Classic Browser Automation
+
+A browser automation scaffold for Salesforce Classic. It describes actions for login, lead creation, opportunity updates, report export and record updates.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-salesforce-classic-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/salesforce-classic-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:browser-automation-hub/salesforce-classic-browser-automation
+
+### Limitations
+
+The README lists selectors, source modules and examples. Local use requires Node.js, Chrome or Chromium, and a Salesforce Classic account. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-salesforce-classic-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/salesforce-classic-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/salesforce-classic-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 7288f453231e72c6c6ad6280de1863475d6cc5e85750f80f08408b701c2d8f40)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/salesforce-classic-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:48Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
+## SAP Concur Browser Automation
+
+A SAP Concur browser automation scaffold with actions for expense reports, receipt uploads, approval queues, and spend-data export.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-sap-concur-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/sap-concur-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:browser-automation-hub/sap-concur-browser-automation
+
+### Limitations
+
+The repository lists source files and examples. Local use requires Node.js, Chrome or Chromium, and an authorized SAP Concur account. The source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-sap-concur-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/sap-concur-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/sap-concur-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 ccdbfcffcc518d4994a63ba1d77584d555d68932fc3d4c10cc2eedbffa351130)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/sap-concur-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:51Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
+## SAP Fiori Browser Automation
+
+A SAP Fiori browser automation scaffold with documented actions for purchase orders, approvals, financial-data export, and invoice handling.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/sap-fiori-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:browser-automation-hub/sap-fiori-browser-automation
+
+### Limitations
+
+The repository lists source files and examples. Local use requires Node.js, Chrome or Chromium, and a SAP Fiori account. The source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/sap-fiori-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/sap-fiori-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 825a5abc8093fdf9c3203251aedf42592bc5e7b15778b650aca85db6a289433c)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/sap-fiori-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:52Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
 ## SAP SuccessFactors Browser Automation
 
 A browser automation scaffold for SAP SuccessFactors. It includes actions for workforce reports, employee goals, compensation worksheets and organization-chart exports.
@@ -22960,6 +24040,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/DaizeDong/screen-vision/HEAD/README.md (retrieved 2026-11-04T16:30:13Z; SHA-256 3a8b34b2bdec023a3a9167db64333a260be95161c3aa1ff2c66fc4662e5d3c6f)
 - https://raw.githubusercontent.com/DaizeDong/screen-vision/HEAD/LICENSE (retrieved 2026-11-04T16:35:30Z; SHA-256 c583ad593b3e781b27bd1356ebac43b3fea2076c1171d891cae9cce72fdccba2)
+
+---
+
+## ScreenAgent Web Client
+
+ScreenAgent Web Client connects language models to remote desktops through a browser and VNC, representing mouse and keyboard actions as structured calls.
+
+- Catalog URL: https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/
+- Original source: https://github.com/niuzaisheng/ScreenAgentWebClient
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: automation, tool-integration, data-generation
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:niuzaisheng/screenagentwebclient
+
+### Limitations
+
+The client is built on noVNC and includes local build instructions. It requires a desktop VNC server and websockify proxy; the README also describes collecting preference pairs for RLHF training.
+
+- Record JSON: https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/niuzaisheng/ScreenAgentWebClient/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 98965dae5237740eea526fec23fa4f6901c38eee22f4867413e83841eaa0904d)
 
 ---
 
@@ -23469,6 +24582,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## ServiceNow Browser Automation
+
+A ServiceNow browser automation scaffold with documented actions for incidents, CMDB records, task assignment, and report export.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-servicenow-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/servicenow-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:browser-automation-hub/servicenow-browser-automation
+
+### Limitations
+
+The repository lists source files and examples. Local use requires Node.js, Chrome or Chromium, and a ServiceNow account. The source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-servicenow-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/servicenow-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/servicenow-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 86e7d403916f5d6b2f000c53c74241c275e390c12dbf1ebff1fab4588721e06c)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/servicenow-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:52Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
 ## Set of Mark
 
 Visual-prompting toolbox that labels image regions for multimodal reference and grounding, including GUI applications.
@@ -23820,6 +24967,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/siropkin/chrome-bridge/master/README.md (retrieved 2026-11-04T17:55:24Z; SHA-256 959d431624e4d1dd15198496015ca3b0f169d65fc850c2718437765a59a5d310)
 - https://raw.githubusercontent.com/siropkin/chrome-bridge/HEAD/LICENSE (retrieved 2026-11-04T18:01:09Z; SHA-256 0119eaccb73e7ca381af042cd17ccceac73eeb6f1a668332f3c5188131c9641c)
+
+---
+
+## SkillPacks
+
+SkillPacks records and approves agent tool actions for retrieval and later training, illustrated with a desktop-control example.
+
+- Catalog URL: https://awesomecua.com/resources/github-agentsea-skillpacks/
+- Original source: https://github.com/agentsea/skillpacks
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop
+- Topics: recording, human-in-the-loop, tool-integration
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: github:agentsea/skillpacks
+
+### Limitations
+
+The README includes Python examples for episodes, action approval and retrieval. It labels model tuning as in progress and lists SQLite and PostgreSQL storage backends.
+
+- Record JSON: https://awesomecua.com/resources/github-agentsea-skillpacks/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/agentsea/skillpacks/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agentsea/skillpacks/HEAD/README.md (retrieved 2026-11-09T06:16:39Z; SHA-256 d791ed0cfff3a4b1241d21ec019002002508ee6cd27b4f7509a32bd18c121bcc)
+- https://raw.githubusercontent.com/agentsea/skillpacks/HEAD/LICENSE (retrieved 2026-11-09T06:13:57Z; SHA-256 592cbf470253b1cf9bbc9c11e0a3010960f69c473c19edd5cc63de0ea7501f75)
 
 ---
 
@@ -24299,6 +25480,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/HEAD/README.md (retrieved 2026-11-04T15:03:31Z; SHA-256 c59e10627a760192f3f0708cd89bf457eeac466c0cfdd0de5bd36e5c4523e50c)
 - https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/HEAD/LICENSE (retrieved 2026-11-04T15:23:01Z; SHA-256 4cf9ac505861e08eaf3fbe45a955ede2513a4cb88636370d47b00502ee066009)
+
+---
+
+## Steel MCP Server
+
+Steel MCP Server gives MCP clients tools to read and operate cloud Chrome sessions through page elements, with session diagnostics and handoff for human input.
+
+- Catalog URL: https://awesomecua.com/resources/github-steel-dev-steel-mcp-server/
+- Original source: https://github.com/steel-dev/steel-mcp-server
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, human-in-the-loop, observability
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:steel-dev/steel-mcp-server
+
+### Limitations
+
+The source describes a downloadable release and a source checkout. Steel Cloud requires an API key; a self-hosted browser can run with STEEL_LOCAL. The repository links an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-steel-dev-steel-mcp-server/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/steel-dev/steel-mcp-server/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/steel-dev/steel-mcp-server/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 4acd26e643df98ba2164c7f05e47cff361b91b075107bf6988cb419d8a5e0495)
+- https://raw.githubusercontent.com/steel-dev/steel-mcp-server/HEAD/LICENSE (retrieved 2026-11-09T06:13:32Z; SHA-256 2985b849acb2e273c2cc26e2849104b16fb1d5074278cae2da9f9018116fe6b8)
 
 ---
 
@@ -25251,6 +26466,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## ToL Hierarchical GUI region detection
+
+Code and configurations for training a hierarchical Android GUI region detector with DINO and running region inference on the ScreenPR benchmark.
+
+- Catalog URL: https://awesomecua.com/resources/github-llv22-tol-gui-region-detection/
+- Original source: https://github.com/llv22/tol_gui_region_detection
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, grounding
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: github:llv22/tol_gui_region_detection
+
+### Limitations
+
+The README provides training and inference commands and links to pretrained weights stored separately. Setup uses MMDetection, MMEngine, and MMCV.
+
+- Record JSON: https://awesomecua.com/resources/github-llv22-tol-gui-region-detection/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/llv22/tol_gui_region_detection/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/llv22/tol_gui_region_detection/HEAD/README.md (retrieved 2026-11-09T06:16:39Z; SHA-256 86c42c116651e7c255a0d3adf252a4d95f90dece9076a943d38bd7c13618555f)
+- https://raw.githubusercontent.com/llv22/tol_gui_region_detection/HEAD/LICENSE (retrieved 2026-11-09T06:14:00Z; SHA-256 874b8b2e6f12306a1ff7812c068a0dbf880418b8ac1f7190382bd6c6da9f23a1)
+
+---
+
 ## ToolArks Remote Login Relay
 
 Self-hosted one-tab mobile handoff relay that lets a human remotely solve login, 2FA, or CAPTCHA walls for an AI browser agent.
@@ -25451,6 +26700,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/amitse/uiacli/HEAD/README.md (retrieved 2026-11-04T16:10:35Z; SHA-256 5da03052c88c6cdd3414f5e79e4e0df8fb91d8369a0773c09b256140873c5fd2)
 - https://raw.githubusercontent.com/amitse/uiacli/HEAD/LICENSE (retrieved 2026-11-04T16:14:24Z; SHA-256 624a8de7917c1ef86e3334718662469f797560800b363b5c847e47de74a5f2bd)
+
+---
+
+## uiautomation
+
+A Python wrapper for Windows UI Automation that traverses application control trees and uses control properties and patterns to inspect and interact with interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/github-yinkaisheng-python-uiautomation-for-windows/
+- Original source: https://github.com/yinkaisheng/Python-UIAutomation-for-Windows
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, windows
+- Topics: automation, screen-understanding
+- Evidence checked: 2026-11-09T06:16:34Z
+- ID: github:yinkaisheng/python-uiautomation-for-windows
+
+### Limitations
+
+The README documents installation through pip, an automation.py inspection script, and support for several Windows application frameworks. It declares Apache License 2.0.
+
+- Record JSON: https://awesomecua.com/resources/github-yinkaisheng-python-uiautomation-for-windows/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/yinkaisheng/Python-UIAutomation-for-Windows/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yinkaisheng/Python-UIAutomation-for-Windows/HEAD/readme.md (retrieved 2026-11-09T06:16:34Z; SHA-256 d183323fdcf884bc5dd075fdebacdab8b78c8dfa4fbf6583055547d4b77d1f65)
+- https://raw.githubusercontent.com/yinkaisheng/Python-UIAutomation-for-Windows/HEAD/LICENSE (retrieved 2026-11-09T06:13:37Z; SHA-256 75b70e428c22d47d0fb713a5431a0ed07c54c2aadfa6193e386c2b91f9ff4b2b)
 
 ---
 
@@ -26096,6 +27379,74 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Veeva CRM (Veeva Commercial Cloud) Browser Automation
+
+A browser automation scaffold for Veeva CRM that defines actions for call reports, sample inventory, account records, and territory data through Puppeteer or Anchor Browser.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-veeva-crm-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/veeva-crm-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:browser-automation-hub/veeva-crm-browser-automation
+
+### Limitations
+
+The README lists authentication, session, action, and custom action modules. Local use requires Node.js, Chrome or Chromium, and a Veeva CRM account; it declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-veeva-crm-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/veeva-crm-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/veeva-crm-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 de5a1a710539733b515ad5e1dc85d21c70ab4ffda48516b8669eb5c4c8ba3de9)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/veeva-crm-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:49Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
+## Veeva Vault Browser Automation
+
+A Veeva Vault browser automation scaffold with documented actions for uploading documents, routing reviews, approving records, and exporting audit trails.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-veeva-vault-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/veeva-vault-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:browser-automation-hub/veeva-vault-browser-automation
+
+### Limitations
+
+The repository lists source files and examples. The documented local setup requires Node.js, Chrome or Chromium, and a Veeva Vault account. The source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-veeva-vault-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/veeva-vault-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/veeva-vault-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 a7f8ac16cfd997d21a289237d7c81686f57958e5a04060a83ad789fc7ba8501a)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/veeva-vault-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:52Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
 ## viger1 dsh-pilot
 
 Permission-governed browser automation plugin for DeepSeek Harness enforced at the CDP boundary.
@@ -26161,6 +27512,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/zouyuanqing/vision-primitives-mcp/HEAD/README.md (retrieved 2026-11-04T14:20:10Z; SHA-256 22246cb995d89efc0856d76ddd46a5c4cafc947cda9af26f9bab45ded9d14f16)
 - https://raw.githubusercontent.com/zouyuanqing/vision-primitives-mcp/HEAD/LICENSE (retrieved 2026-11-04T14:24:24Z; SHA-256 5e9400dddea86b653134e98b62fca5e54bc1afa2d849e0d64c1851d8c3ed7f4b)
+
+---
+
+## Vision UI
+
+Vision UI is a visual analysis toolkit for detecting UI elements, matching semantic targets, recognizing text, and comparing interface images.
+
+- Catalog URL: https://awesomecua.com/resources/github-meituan-dianping-vision-ui/
+- Original source: https://github.com/Meituan-Dianping/vision-ui
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: screen-understanding, grounding, automation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:meituan-dianping/vision-ui
+
+### Limitations
+
+The repository includes Python code and documentation for detection, semantic recognition, image comparison, and text recognition. The source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-meituan-dianping-vision-ui/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Meituan-Dianping/vision-ui/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Meituan-Dianping/vision-ui/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 33e54601ac6fc8810b87889a86428a44b13c9f25e5ca0f8ea0db95f7213feab9)
+- https://raw.githubusercontent.com/Meituan-Dianping/vision-ui/HEAD/LICENSE (retrieved 2026-11-09T06:13:31Z; SHA-256 344f21123f798b47f16cb7b67c7d4bdb06d920f21d78bc2a2e729eaf4c65cb30)
 
 ---
 
@@ -26501,6 +27886,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/wangyong1972/dsh-computer-use-macos/main/README.md (retrieved 2026-11-04T17:30:33Z; SHA-256 043b4dbf710fe8c1095f273cfdc062f67ac5cfefe267ca368f7ccb519dcd8dfb)
 - https://raw.githubusercontent.com/wangyong1972/dsh-computer-use-macos/HEAD/LICENSE (retrieved 2026-11-04T17:40:49Z; SHA-256 328a5df987af8f12f26faff9751185f7dceb1cb966369f87a919d4b85559b0b7)
+
+---
+
+## WAREX Supplementary Code
+
+WAREX supplementary code uses mitmproxy add-ons to inject popups or server and network errors into web-agent tests and record token use and latency.
+
+- Catalog URL: https://awesomecua.com/resources/github-sumanknath-waber/
+- Original source: https://github.com/SumanKNath/WABER
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop, linux
+- Topics: evaluation, robustness, efficiency
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: github:sumanknath/waber
+
+### Limitations
+
+The README names WebArena, WebVoyager and REAL as evaluation setups. Its example uses a Linux sandbox and configurable add-on type and frequency.
+
+- Record JSON: https://awesomecua.com/resources/github-sumanknath-waber/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SumanKNath/WABER/HEAD/README.md (retrieved 2026-11-09T06:16:39Z; SHA-256 97e4a867b9ad35f288aa798ed20c1ae308ef8eb9e15e877b327b5fc0819449a9)
 
 ---
 
@@ -26884,6 +28302,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## WebDriverAgent
+
+WebDriverAgent is an iOS WebDriver server for remote app control, including launching apps, tapping, scrolling, and checking views. Development has moved to appium-ios.
+
+- Catalog URL: https://awesomecua.com/resources/github-appium-webdriveragent/
+- Original source: https://github.com/appium/WebDriverAgent
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: ios
+- Topics: automation, mobile-navigation, history
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:appium/webdriveragent
+
+### Limitations
+
+The source describes devices and simulators, XCTest-based commands, and a Node.js requirement for this repository. It declares a BSD license.
+
+- Record JSON: https://awesomecua.com/resources/github-appium-webdriveragent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/appium/WebDriverAgent/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 8c779558a96d230ddfc3ca5d4341fc8702b0eff299ce37d93db945ed22d0bb13)
+
+---
+
 ## WebInteractionTools MCP
 
 Playwright-based Model Context Protocol server providing webpage navigation, viewport screenshots, clicking, and form filling for AI agents.
@@ -26989,6 +28440,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/Nidhicodes/webmcp-gen/HEAD/README.md (retrieved 2026-11-04T16:30:04Z; SHA-256 94aba74394cb5ea752867333f517adcd7c69518ef2513e4f19f85ce07cb2bc16)
 - https://raw.githubusercontent.com/Nidhicodes/webmcp-gen/HEAD/LICENSE (retrieved 2026-11-04T16:35:10Z; SHA-256 b11e3743a99676ebba8505046955877a4915441bfec1582f7a55975586b41b2d)
+
+---
+
+## WebOperator Experiments
+
+Browsable viewers show WebOperator task trajectories for WebArena and WebArena-lite, with screenshots loaded from a linked Hugging Face dataset.
+
+- Catalog URL: https://awesomecua.com/resources/github-mahirlabibdihan-weboperator-experiments/
+- Original source: https://github.com/mahirlabibdihan/WebOperator-Experiments
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: observability, evaluation, web-navigation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:mahirlabibdihan/weboperator-experiments
+
+### Limitations
+
+The linked dataset contains search trees, logs, trajectories, evaluations, configurations, screenshots and analysis scripts. The README lists 812 WebArena tasks and a WebArena-lite ablation study with 155 tasks and 10 runs.
+
+- Record JSON: https://awesomecua.com/resources/github-mahirlabibdihan-weboperator-experiments/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mahirlabibdihan/WebOperator-Experiments/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 e9d3dad7a959400416ff26ccefeacf6aa3d31df45d8666af851255d2f8629d31)
 
 ---
 
@@ -27130,6 +28614,40 @@ The repository holds only README, a figure, demo/detection.py and demo/VPI_data.
 - https://api.github.com/repos/wxl-lxw/WebSentinel/git/trees/2576819df5d1ca90005ca231ac7ce9a555b4c143?recursive=1 (retrieved 2026-10-18T15:39:01Z; SHA-256 3a3e1d98bcb2402cb159f53ba89ee4d0416c7f59386f0382178beae8309088b6)
 - https://raw.githubusercontent.com/wxl-lxw/WebSentinel/2576819df5d1ca90005ca231ac7ce9a555b4c143/demo/detection.py (retrieved 2026-10-18T15:39:03Z; SHA-256 1265598a3bd94ede6ac255856904fa72d51d5e4968e2d55cf2fe4bd691d75ce2)
 - https://raw.githubusercontent.com/wxl-lxw/WebSentinel/2576819df5d1ca90005ca231ac7ce9a555b4c143/demo/VPI_data.json (retrieved 2026-10-18T15:39:03Z; SHA-256 b1268e0fb59f98e0b402ead8ec243370923c43a2af6e36343eddc9e98124adbf)
+
+---
+
+## WebtestingWithLLMs
+
+A set of Selenium scripts for automated web application testing, including a monkey tester with configurable interaction count and timing.
+
+- Catalog URL: https://awesomecua.com/resources/github-softwaretestingllms-webtestingwithllms/
+- Original source: https://github.com/SoftwareTestingLLMs/WebtestingWithLLMs
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, evaluation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:softwaretestingllms/webtestingwithllms
+
+### Limitations
+
+The README provides ChromeDriver setup steps and command-line options for the monkey tester.
+
+- Record JSON: https://awesomecua.com/resources/github-softwaretestingllms-webtestingwithllms/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/SoftwareTestingLLMs/WebtestingWithLLMs/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SoftwareTestingLLMs/WebtestingWithLLMs/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 b1c7a5b0420f752aa0fa68f82df05cc18c852a65ccdd677123f2933bd92240c6)
+- https://raw.githubusercontent.com/SoftwareTestingLLMs/WebtestingWithLLMs/HEAD/LICENSE (retrieved 2026-11-09T06:13:35Z; SHA-256 646050d3f4e1eb42dd33b9196cd11e57ed2252d10ed3ac179f49da983642b68e)
 
 ---
 
@@ -27714,6 +29232,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Workday HCM Browser Automation
+
+A browser automation scaffold for Workday HCM that uses Puppeteer or Anchor Browser to run HR and payroll workflows through the application interface.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-workday-hcm-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/workday-hcm-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow, industry
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:browser-automation-hub/workday-hcm-browser-automation
+
+### Limitations
+
+The repository lists source modules, examples, and an environment configuration file. The README describes account credentials, Node.js, and Chrome or Chromium for local use and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-workday-hcm-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/workday-hcm-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/workday-hcm-browser-automation/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 ded55a82d150677b1f9a8c1364f56f301fb908bc94632327fa1d8ece2d98342c)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/workday-hcm-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T06:13:49Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
 ## Wraith
 
 Windows system-tray utility that blocks physical keyboard and mouse interference while allowing synthetic AI agent input events through.
@@ -27881,6 +29433,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/xiyiyiru/chrome-mcp/main/README.md (retrieved 2026-11-04T18:11:48Z; SHA-256 f70cb90a34b3567a568048d466e4fbd6e7e273ec824e1998059a8c05027fd778)
 - https://raw.githubusercontent.com/xiyiyiru/chrome-mcp/HEAD/LICENSE (retrieved 2026-11-04T18:17:19Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
+
+---
+
+## YADB
+
+YADB extends Android Debug Bridge with text input, screenshots, UI layout dumps and simulated gestures for device automation.
+
+- Catalog URL: https://awesomecua.com/resources/github-ysbing-yadb/
+- Original source: https://github.com/ysbing/YADB
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android
+- Topics: automation, screen-understanding, mobile-navigation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:ysbing/yadb
+
+### Limitations
+
+The README includes commands for clipboard access, long press, drag, swipe and pinch. It declares the LGPLv3 license.
+
+- Record JSON: https://awesomecua.com/resources/github-ysbing-yadb/record.json
+
+### License declarations
+
+- code: LGPL-3.0 — https://raw.githubusercontent.com/ysbing/YADB/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ysbing/YADB/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 ddb8c03bcc366476fa5e6df83784919f89cc2929d1f3197caea1b54c76fe535a)
+- https://raw.githubusercontent.com/ysbing/YADB/HEAD/LICENSE (retrieved 2026-11-09T06:13:32Z; SHA-256 da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768)
 
 ---
 
@@ -28320,6 +29906,39 @@ The repository says inference, evaluation, and reproduction code is released. It
 ### Primary evidence
 
 - https://raw.githubusercontent.com/Han1018/ZonUI-3B/HEAD/README.md (retrieved 2026-11-09T05:05:11Z; SHA-256 9918231748808ea1af93b559b0a511f1f9687689766a09b43c7726f14f27248b)
+
+---
+
+## Zoom Consistency Routing
+
+A training-free router chooses between visual grounding models using prediction distance from a zoom crop's center. The release includes ScreenSpot-Pro evaluation scripts.
+
+- Catalog URL: https://awesomecua.com/resources/github-omxyz-zoom-consistency-routing/
+- Original source: https://github.com/omxyz/zoom-consistency-routing
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, training-free, evaluation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:omxyz/zoom-consistency-routing
+
+### Limitations
+
+The repository describes capture, analysis and leaderboard-submission scripts plus saved predictions. Its setup uses KV-Ground-8B and Qwen3.5-27B and specifies a GPU with at least 80GB VRAM. The README declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-omxyz-zoom-consistency-routing/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/omxyz/zoom-consistency-routing/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 9d1aceb8f8af29fcac38b484cb489e09f798d0080ae9cfb9f85d0aabffb0aa70)
 
 ---
 

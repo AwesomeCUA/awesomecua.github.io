@@ -640,6 +640,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Fast Chrome automation toolkit combining a Manifest V3 extension with a local coordination hub.
 - [cloak-cdp-cli](https://awesomecua.com/resources/github-ezumyn-aliegm-cloak-cdp-cli/) — Date not recorded
   Command-line interface for AI agents to drive CloakBrowser stealth Chromium instances over CDP.
+- [CoMEM-Agent](https://awesomecua.com/resources/github-wenyiwu0111-comem-agent/) — Date not recorded
+  A web GUI agent implementation that retrieves compact embeddings of earlier interaction trajectories as memory. The repository includes inference and training code.
 - [Compress2Focus (CCPO)](https://awesomecua.com/resources/github-hithink-research-ccpo/) — Date not recorded
   Compress2Focus (CCPO) implements coordinate compression for multi-turn policy optimization in vision-language GUI agents.
 - [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/resources/github-shayanamir0-computer-use-with-slm/) — Date not recorded
@@ -764,6 +766,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Discover-once, replay-many computer-use automation framework with deterministic execution guardrails.
 - [Harborage](https://awesomecua.com/resources/github-vadym-iefremov-harborage/) — Date not recorded
   On-demand pool manager providing isolated headless browser sessions for concurrent AI web agents.
+- [HiconAgent](https://awesomecua.com/resources/github-ilearn-lab-cvpr26-hiconagent/) — Date not recorded
+  HiconAgent provides GUI-policy training code that samples histories of varied lengths and compresses past interactions during policy optimization.
 - [hwatu](https://awesomecua.com/resources/github-hongnoul-hwatu/) — Date not recorded
   Headless verification browser for AI coding agents featuring 35ms one-call UI checks and pixel diffing.
 - [IdemStep](https://awesomecua.com/resources/github-supermarioyl-idemstep/) — Date not recorded
@@ -1022,6 +1026,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Token-aware visual context router that crops, downscales, or replaces full screenshots with localized regions before sending to CUA models.
 - [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/) — Date not recorded
   Two-layer local input engine for MCP where a frontier planning model dispatches high-rate action programs to a local executor.
+- [WAREX Supplementary Code](https://awesomecua.com/resources/github-sumanknath-waber/) — Date not recorded
+  WAREX supplementary code uses mitmproxy add-ons to inject popups or server and network errors into web-agent tests and record token use and latency.
 - [WebAgents Protocol](https://awesomecua.com/resources/github-betterwright-webagents/) — Date not recorded
   Open protocol specification and toolkit exposing batch-native website actions to browser agents.
 - [Webcmd](https://awesomecua.com/resources/github-agentrhq-webcmd/) — Date not recorded

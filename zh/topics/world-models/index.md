@@ -143,6 +143,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
 
 - [AutoCoA](https://awesomecua.com/resources/github-adam-bjtu-autocoa/) — Date not recorded
   AutoCoA internalizes Chain-of-Action generation into reasoning models via step-level SFT, reinforcement learning, and simulated tool world models.
+- [Code2World](https://awesomecua.com/resources/github-amap-ml-code2world/) — Date not recorded
+  Code2World provides code for predicting the next Android GUI screen from a screenshot and proposed action through renderable code, with an AndroidWorld agent integration.
 - [GUI-Trajectory-Virtual](https://awesomecua.com/resources/github-futuresis-gui-trajectory-virtual/) — Date not recorded
   Synthesizes Android agent trajectories without a device: an image model behind a chat-completions API draws each next screen from the previous screenshot and the action chosen by a Mobile-Agent-v3-style agent.
 - [LGWM (Latent GUI World Model)](https://awesomecua.com/resources/github-jiamingzhang94-lgwm/) — Date not recorded
@@ -155,9 +157,13 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   RLVR-World trains world models with verifiable reinforcement learning to predict state transitions for web and game agents.
 - [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/) — Date not recorded
   SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.
+- [Tencent AI LAB - Self-Improving Agent](https://awesomecua.com/resources/github-tencent-selfevolvingagent/) — Date not recorded
+  A research code collection for web-agent self-improvement, including WebEvolver's world-model approach and WebCoT's reconstructed reasoning trajectories.
 - [ViMo code](https://awesomecua.com/resources/github-ai-agents-2030-vimo/) — Date not recorded
   Code for the ViMo GUI world model: Gemini-based next-screen text prediction, AITW and AndroidControl data processing, InstructPix2Pix-style graphic inference, and an AndroidWorld agent that consults it.
 - [WebDreamer](https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/) — Date not recorded
   World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.
 - [WebEvolver code component](https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/) — Date not recorded
   Component for web-agent trajectory collection, supervised-data preparation and world-model-based trajectory synthesis.
+- [WMA Web Agent](https://awesomecua.com/resources/github-kyle8581-wma-agents/) — Date not recorded
+  A web agent uses a learned world model to predict consequential page changes before choosing an action. The repository includes trajectory processing and inference code.

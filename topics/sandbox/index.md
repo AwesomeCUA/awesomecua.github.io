@@ -173,6 +173,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   MacArena benchmarks computer-use agents in an online, reproducible macOS virtual-machine environment across multi-app desktop tasks.
 - [MobileGym](https://awesomecua.com/resources/github-purewhiter-mobilegym/) — Date not recorded
   A browser-hosted mobile-app simulator with programmable state, parameterized tasks and deterministic state-checking judges for parallel GUI-agent evaluation and online reinforcement learning.
+- [MyPCBench](https://awesomecua.com/resources/github-ljang0-mypcbench/) — Date not recorded
+  A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.
 - [openadapt-evals](https://awesomecua.com/resources/github-openadaptai-openadapt-evals/) — Date not recorded
   openadapt-evals scores GUI agents and compiled workflows on benchmarks such as Windows Agent Arena using reproducible evaluators.
 - [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/) — Date not recorded
@@ -195,6 +197,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   WeaveBench evaluates computer-use agents on long-horizon real-world workflows across hybrid GUI, web, and programmatic tool interfaces.
 - [WebArena-Infinity](https://awesomecua.com/resources/github-web-arena-x-webarena-infinity/) — Date not recorded
   Generated web apps modeled on GitLab, PayPal, Xero, Elation EHR and other products, each with resettable state and Python-verified tasks for browser agents, plus the coding-agent pipeline that builds them.
+- [WorkArena-Instances](https://awesomecua.com/resources/url-01b9e39cd2526d41c527/) — Date not recorded
+  A restricted-access set of ServiceNow instances for running WorkArena benchmark evaluations. The repository provides instance information and states research-use conditions.
 
 ## Engineering & industry
 
@@ -216,6 +220,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
 - [AgentDesktopLinux](https://awesomecua.com/resources/github-edwaks-agentdesktoplinux/) — Date not recorded
   Linux desktop and VPS computer-use agent for TaskCapitan capable of driving GUI applications and browsers.
+- [AgentEnv](https://awesomecua.com/resources/github-llamatouch-agentenv/) — Date not recorded
+  AgentEnv connects agent models to Android devices or emulators, translating actions and returning screenshots and view hierarchies while recording interactions.
 - [AgentSeat](https://awesomecua.com/resources/github-vimalinx-agentseat/) — Date not recorded
   Lightweight Wayland scaffold isolating an AI agent to operate a single GUI application inside its own virtual seat.
 - [AgentStudio](https://awesomecua.com/resources/github-skyworkai-agent-studio/) — Date not recorded
@@ -232,8 +238,14 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.
 - [Airbrowser MCP](https://awesomecua.com/resources/github-ifokeev-airbrowser-mcp/) — Date not recorded
   Airbrowser packages an undetectable Chrome browser, REST API, MCP server, and live VNC view inside a Docker container for AI web agents.
+- [Amap-Sim](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-amap/) — Date not recorded
+  An offline Android map-app simulation for AI automation tests, with map browsing, place search, routing, and navigation backed by locally prepared data.
 - [Amazon Bedrock AgentCore](https://awesomecua.com/resources/url-ecf89236d4e75b05c7b4/) — Date not recorded
   AWS managed agent platform whose Browser tool runs isolated cloud browser sessions with automation and live-view streams and optional recording, alongside runtime, memory, gateway and code-execution services.
+- [Anchor](https://awesomecua.com/resources/url-74a98d385b656cf5e980/) — Date not recorded
+  Anchor provides cloud browser environments for AI agents to navigate authenticated websites and run browser workloads, with SDK and MCP integration.
+- [Anchor Browser](https://awesomecua.com/resources/url-697a83b26e55f206b651/) — Date not recorded
+  Anchor Browser provides cloud browser sessions for agents through SDK, CDP and REST interfaces. Its documentation describes natural-language tasks, authentication and reusable workflows.
 - [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) — Date not recorded
   Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
 - [anpl1623 AgentOS](https://awesomecua.com/resources/github-anpl1623-agentos/) — Date not recorded
@@ -244,6 +256,10 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Unified CLI layer over host machines allowing AI agents to drive desktop apps and terminals without taking over user focus.
 - [AppSim-BiliBili](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-bilibili/) — Date not recorded
   A simulated Bilibili Android app for testing AI interaction. It provides navigable screens and preset static content without requiring a network connection.
+- [AppSim-Eleme](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-eleme/) — Date not recorded
+  An Android food-delivery app built as a local test environment for AI interaction. It supplies shopping workflows, predefined tasks, action logging and evaluation scripts.
+- [AppSim-UberEats](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ubereats/) — Date not recorded
+  AppSim-UberEats is an Android app replica with interactive shopping screens, seeded data and scripts for checking task events and answers during mobile-agent evaluation.
 - [AriaOS](https://awesomecua.com/resources/github-jeremie225ci-ariaos/) — Date not recorded
   AriaOS provisions a dedicated virtual machine desktop where computer-use agents operate GUI apps, terminals, and voice interactions.
 - [background-computer-use](https://awesomecua.com/resources/github-panchangam18-background-computer-use/) — Date not recorded
@@ -280,6 +296,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Self-hosted fleet orchestrator provisioning sandboxed Linux desktop containers for autonomous computer-use agents.
 - [Camofox OpenCLI](https://awesomecua.com/resources/github-fectivnfy112357-camofox-opencli/) — Date not recorded
   Dockerized cloud browser runtime combining Camofox anti-detect Firefox with 163+ OpenCLI website adapters.
+- [camofox-browser](https://awesomecua.com/resources/github-jo-inc-camofox-browser/) — Date not recorded
+  A browser server for AI agents that exposes accessibility snapshots and referenced page actions through a REST API, with isolated sessions and authenticated browsing support.
 - [CamouForge](https://awesomecua.com/resources/github-rycen7822-camouforge/) — Date not recorded
   Native Windows GUI manager for configuring and launching isolated Camoufox stealth browser profiles.
 - [Camoufox](https://awesomecua.com/resources/github-daijro-camoufox/) — Date not recorded
@@ -424,6 +442,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Sandboxed computer-use MCP server that lets AI agents drive browsers and desktop apps inside an isolated nested X11 window.
 - [GoLogin MCP Server](https://awesomecua.com/resources/github-gologinapp-gologin-mcp/) — Date not recorded
   GoLogin MCP Server allows AI agents to manage anti-detect browser profiles, proxies, fingerprints, and cloud browser sessions.
+- [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/) — Date not recorded
+  A synthetic GUI environment with configurable screens, icons and navigation graphs for training and evaluating agents on screen navigation.
 - [GUI Label Tool](https://awesomecua.com/resources/github-ethanyxx-gui-label-tool/) — Date not recorded
   GUI Label Tool records and annotates human desktop trajectories inside a Dockerized QEMU virtual machine with paired input events and screenshots.
 - [HAICOSYSTEM](https://awesomecua.com/resources/github-xuhuizhou-haicosystem/) — Date not recorded
@@ -444,6 +464,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Browser infrastructure and automation services for AI agents.
 - [Hyprland Codex Background Computer Use](https://awesomecua.com/resources/github-gabriel-kahen-hyprland-codex-background-computer-use/) — Date not recorded
   Enables background Codex computer control of Hyprland Wayland and XWayland applications without stealing focus.
+- [ibara](https://awesomecua.com/resources/github-mayberrydt-ibara/) — Date not recorded
+  ibara connects MCP-enabled agents to spare Omarchy computers for desktop and browser tasks. A console displays screens and tasks and lets a person take control.
 - [invisible_dots](https://awesomecua.com/resources/github-feder-cr-invisible-dots/) — Date not recorded
   invisible_dots is a self-hosted cloud browser-agent workspace pairing isolated KVM virtual machines with anti-detect Firefox automation.
 - [Ivy Tendril](https://awesomecua.com/resources/github-ivy-interactive-ivy-tendril/) — Date not recorded
@@ -452,6 +474,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Jet Browser packages WPE WebKit and a Rust WebDriver bridge into an isolated, low-footprint container runtime for AI web agents.
 - [jmeguilos Computer Use MCP](https://awesomecua.com/resources/github-jmeguilos-computer-use-mcp/) — Date not recorded
   Window-scoped macOS computer-use server over local stdio MCP using native ScreenCaptureKit and Accessibility APIs.
+- [Kernel](https://awesomecua.com/resources/github-kernel-kernel-images/) — Date not recorded
+  Kernel supplies isolated Chrome browser instances for web agents and automation. Its images support remote control, live viewing, and session recording.
 - [Kernel Claude Computer Use Loop](https://awesomecua.com/resources/github-kernel-claude-cu-loop-sample/) — Date not recorded
   Reference SDK implementation of Anthropic's Claude Computer Use agent loop driving remote cloud browsers via Kernel's Computer Controls API.
 - [Kernel MCP Server](https://awesomecua.com/resources/github-kernel-kernel-mcp-server/) — Date not recorded
@@ -464,6 +488,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Container images for coding and computer-use desktop agents compatible with Docker, Podman, and Cella sandboxes.
 - [Latitude Browser](https://awesomecua.com/resources/github-djblack1209-coder-latitude-browser/) — Date not recorded
   Desktop workspace for managing isolated browser profiles, proxy routing, and multi-session web automation.
+- [Lightpanda Browser](https://awesomecua.com/resources/github-lightpanda-io-browser/) — Date not recorded
+  A headless browser for AI agents and automation, with released Linux and macOS binaries and interfaces for browser control and scripted tasks.
 - [Linux CUA (5omeotherguy)](https://awesomecua.com/resources/github-5omeotherguy-linux-computer-use/) — Date not recorded
   Linux desktop toolkit for computer-use agents providing isolated X11 workspaces, window capture, and input synthesis.
 - [LLM-in-Sandbox](https://awesomecua.com/resources/github-llm-in-sandbox-llm-in-sandbox/) — Date not recorded
@@ -476,12 +502,16 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Virtual machine management for local computer-use environments.
 - [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/) — Date not recorded
   Mantis is a unified perception-reasoning-action computer-use agent that drives browsers and Xvfb desktop applications from structured plans.
+- [Midscene PC Docker](https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/) — Date not recorded
+  Midscene PC Docker packages an Ubuntu GNOME desktop with Chrome and a Midscene PC automation service, exposing the graphical environment through VNC.
 - [mistudio0902-lab Chrome Bridge](https://awesomecua.com/resources/github-mistudio0902-lab-chrome-bridge/) — Date not recorded
   Model Context Protocol bridge enabling Claude Code and Codex to operate multiple logged-in Chrome profiles concurrently.
 - [modal-computer-use](https://awesomecua.com/resources/github-ashtonchew-modal-computer-use/) — Date not recorded
   Provides daemon-first computer-use primitives for provisioning and controlling GUI desktops inside Modal cloud sandboxes.
 - [MuseLite](https://awesomecua.com/resources/github-yxq953-muselite/) — Date not recorded
   MuseLite is a Python-first AI agent workspace for Android combining chat, execution sandboxes, browser automation, and scheduled tasks.
+- [MyMusic](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-neteasecloudmusic/) — Date not recorded
+  A simplified Android music app with fixed local data and action records for checking whether mobile GUI agents complete tasks.
 - [Napaxi](https://awesomecua.com/resources/github-antgroup-napaxi/) — Date not recorded
   Mobile-native agent SDK by Ant Group for building on-device AI agents with sandboxed skill execution.
 - [Nehemiah](https://awesomecua.com/resources/github-boringcomputers-nehemiah/) — Date not recorded
@@ -560,6 +590,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Provisions isolated local virtual computers so AI agents can operate a private desktop without touching the host session.
 - [QuickDesk](https://awesomecua.com/resources/github-barry-ran-quickdesk/) — Date not recorded
   QuickDesk is an AI-native remote desktop client and host with a built-in MCP server for streaming screens and controlling remote computers.
+- [RecreationWorld](https://awesomecua.com/resources/github-qwenlm-recreationworld/) — Date not recorded
+  Framework for hybrid computer-use agents that inspect running reference apps, implement replicas with coding tools, and verify behavior across five platforms.
 - [RedTeamCUA](https://awesomecua.com/resources/github-osu-nlp-group-redteamcua/) — Date not recorded
   A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.
 - [Relay AI Virtual Desktop](https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/) — Date not recorded
@@ -612,6 +644,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Open-source cloud and local sandbox platform for running Claude Code, Codex, or OpenCode with a full desktop and browser.
 - [Valk](https://awesomecua.com/resources/github-ercbot-valk/) — Date not recorded
   Valk is a Python library and observable remote-desktop interface for programmatic mouse, keyboard, and screen control by AI agents.
+- [vePhone](https://awesomecua.com/resources/github-volcengine-vephone/) — Date not recorded
+  vePhone supplies remotely controlled cloud phones and example integrations for mobile and computer-use agents, including task execution and result retrieval.
 - [VNC MCP Server](https://awesomecua.com/resources/github-volkan-m-vnc-mcp-server/) — Date not recorded
   VNC MCP Server exposes remote desktop screenshots, OCR text localization, and mouse/keyboard control over the RFB/VNC protocol to MCP agents.
 - [vnc-computer-use CLI](https://awesomecua.com/resources/github-eyhn-vnc/) — Date not recorded

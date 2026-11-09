@@ -652,6 +652,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Original WebChain release of human-annotated trajectories on live websites, with raw JSON records, viewport and partial full-page screenshots, and Parquet files for high-level planning and low-level grounding steps.
 - [WebChain v2](https://awesomecua.com/resources/url-56f08987cc19b82dc607/) — Date not recorded
   Cleaned v2 release of WebChain's human web trajectories, packaged as trajectory-level and Seed-style sliding-window SFT Parquet with aligned screenshots, plus action metadata and a 150-trace evaluation subset.
+- [WorldGUI-Bench](https://awesomecua.com/resources/url-b540fe81c57cedb1f556/) — Date not recorded
+  A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
 
 ## Models
 
@@ -772,16 +774,22 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   AI-Player is a Minecraft Fabric mod that embeds an LLM/VLM-driven autonomous second player capable of navigation, combat, and crafting.
 - [Amazon Bedrock Minecraft Agent](https://awesomecua.com/resources/github-build-on-aws-amazon-bedrock-minecraft-agent/) — Date not recorded
   TypeScript agent built on Amazon Bedrock and Mineflayer that translates natural-language instructions into in-game Minecraft actions.
+- [AndroidGen](https://awesomecua.com/resources/github-thudm-androidgen/) — Date not recorded
+  AndroidGen operates Android tasks using retrieved examples, plan updates, and action checks. Its repository includes agent code and AndroidWorld evaluation scripts.
 - [AndroidWorld-SeeAct-V](https://awesomecua.com/resources/github-boyugou-android-world-seeact-v/) — Date not recorded
   AndroidWorld-SeeAct-V runs a visual Android agent that plans the next action and grounds coordinate actions in screenshots. The repository includes code for AndroidWorld evaluation.
 - [AnyTool](https://awesomecua.com/resources/github-hkuds-anytool/) — Date not recorded
   AnyTool is a universal tool-use layer for AI agents supporting MCP, GUI, web, and shell tools with hierarchical retrieval and self-reflection.
+- [AppCopilot](https://awesomecua.com/resources/github-openbmb-appcopilot/) — Date not recorded
+  AppCopilot is a multimodal mobile agent for tasks across Android apps. The repository provides code and setup steps for emulator or phone control through ADB.
 - [Ask-before-Plan](https://awesomecua.com/resources/github-magicgh-ask-before-plan/) — Date not recorded
   Ask-before-Plan trains proactive language agents to clarify underspecified user instructions before executing multi-step tool plans.
 - [AssistGUI](https://awesomecua.com/resources/github-showlab-assistgui/) — Date not recorded
   LLM-based assistant for automating work in desktop productivity software by watching the screen and issuing mouse and keyboard commands; its repository says the code will be released later.
 - [Auto-GUI / Auto-UI](https://awesomecua.com/resources/github-cooelf-auto-gui/) — Date not recorded
   Screenshot-based mobile agent implementation with training and inference code for chain-of-action prediction.
+- [Auto-UI](https://awesomecua.com/resources/github-gimme1dollar-auto-ui/) — Date not recorded
+  A multimodal interface agent that uses earlier actions and future action plans to predict the next action. The repository provides training and inference instructions.
 - [AutoCoA](https://awesomecua.com/resources/github-adam-bjtu-autocoa/) — Date not recorded
   AutoCoA internalizes Chain-of-Action generation into reasoning models via step-level SFT, reinforcement learning, and simulated tool world models.
 - [AutoCodeRover](https://awesomecua.com/resources/github-nus-apr-auto-code-rover/) — Date not recorded
@@ -792,6 +800,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   AutoGPT is an open-source autonomous agent platform for building, orchestrating, and running multi-step web and workspace automation agents.
 - [AutoManual](https://awesomecua.com/resources/github-minghchen-automanual/) — Date not recorded
   AutoManual enables LLM agents to construct and iteratively refine structured instruction manuals through online environmental interaction.
+- [AutoTask](https://awesomecua.com/resources/github-bowenbryanwang-autotask/) — Date not recorded
+  An Android agent that explores mobile interfaces to execute voice commands and uses what it learns during interaction to guide later actions.
 - [Avenir-Web](https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/) — Date not recorded
   Avenir-Web trains human-experience-imitating multimodal web agents with mixture-of-grounding experts and experience-tracking memory.
 - [BabyAGI](https://awesomecua.com/resources/github-yoheinakajima-babyagi/) — Date not recorded
@@ -868,8 +878,12 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.
 - [GUI-ReWalk](https://awesomecua.com/resources/github-bytedance-gui-rewalk/) — Date not recorded
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
+- [GUI-Rise](https://awesomecua.com/resources/github-leon022-gui-rise-code/) — Date not recorded
+  A GUI navigation agent that combines stepwise reasoning with history summarization; its repository provides supervised training, reinforcement learning, and evaluation instructions.
 - [GUIPivot](https://awesomecua.com/resources/github-zrw00-guipivot/) — Date not recorded
   Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
+- [HIPPO Agent](https://awesomecua.com/resources/github-wadang-muscle-mem-agent/) — Date not recorded
+  A computer-use agent for multistep GUI tasks that stores task facts and progress in working memory and combines planning, grounding, and completion checks.
 - [Intelligence Indeed](https://awesomecua.com/resources/github-intelligence-indeed-intelligence-indeed/) — Date not recorded
   Intelligence Indeed is a desktop GUI agent that loads reusable guidance, probes the current environment and shares task-specific findings across planning and execution.
 - [Internet of Agents (IoA)](https://awesomecua.com/resources/github-openbmb-ioa/) — Date not recorded
@@ -880,6 +894,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   JARVIS-1 is an open-world multimodal Minecraft agent with episodic multimodal memory and goal-conditioned keyboard/mouse control.
 - [kamalesh404 AgentOS](https://awesomecua.com/resources/github-kamalesh404-agentos/) — Date not recorded
   Autonomous AI agent framework for orchestrating web browsing, coding, and desktop tasks.
+- [K²-Agent](https://awesomecua.com/resources/github-k2-agent-k2-agent/) — Date not recorded
+  A hierarchical mobile-device agent that combines a demonstration-informed planner with a learned action executor; the release includes AndroidWorld evaluation trajectories.
 - [Language Agent Tree Search (LATS)](https://awesomecua.com/resources/github-lapisrocks-languageagenttreesearch/) — Date not recorded
   Language Agent Tree Search (LATS) unifies LLM reasoning, acting, and Monte Carlo Tree Search with self-reflection on WebShop and programming tasks.
 - [LASER](https://awesomecua.com/resources/github-mayer123-laser/) — Date not recorded
@@ -900,6 +916,10 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Mantis is a unified perception-reasoning-action computer-use agent that drives browsers and Xvfb desktop applications from structured plans.
 - [MERRICK](https://awesomecua.com/resources/github-simoncheungai-merrick/) — Date not recorded
   Personal macOS assistant agent for planning, browser automation, and native desktop task execution.
+- [Midscene Java](https://awesomecua.com/resources/github-alstafeev-midscene-java/) — Date not recorded
+  A Java SDK for agents that operate web pages through natural-language instructions. It combines screenshot and DOM grounding with browser actions and execution reports.
+- [Mind2Web-Live](https://awesomecua.com/resources/github-boyugou-mind2web-live-seeact-v/) — Date not recorded
+  A SeeAct-V web agent implementation for Mind2Web-Live. It uses screen images to plan actions and a visual grounding model to locate targets for coordinate-based actions.
 - [MindSearch](https://awesomecua.com/resources/github-internlm-mindsearch/) — Date not recorded
   MindSearch coordinates a multi-agent WebPlanner and parallel WebSearcher graph to execute multi-step web information seeking.
 - [Minitap mobile-use](https://awesomecua.com/resources/github-minitap-ai-mobile-use/) — Date not recorded
@@ -940,6 +960,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   OpAgent is a web-navigation agent that observes screenshots, plans and grounds actions, and executes browser operations. Its repository also includes single-model and training modes.
 - [OpAgent](https://awesomecua.com/resources/github-codefuse-ai-opagent/) — Date not recorded
   A web navigation agent with single-model and modular modes. Its modular loop observes screenshots, plans actions, grounds page targets, and executes browser operations through Playwright.
+- [OpenAPA](https://awesomecua.com/resources/github-laiye-ai-open-apa/) — Date not recorded
+  A computer-use agent for desktop GUI tasks that combines screenshot-based reasoning, visual grounding, planning, and action execution across applications.
 - [OpenBrowser (OpenBrowserAI)](https://awesomecua.com/resources/github-openbrowserai-openbrowser/) — Date not recorded
   Chromium patch set with a built-in assistant extension whose browser agent sees indexed page elements and a screenshot with numbered boxes, then clicks and types by element index, scrolls and switches tabs.
 - [OpenGUI](https://awesomecua.com/resources/github-core-mate-opengui/) — Date not recorded
@@ -1030,10 +1052,14 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Browser-native WebMCP idea-to-plan canvas where human users and web agents co-edit structured task plans.
 - [WebDreamer](https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/) — Date not recorded
   World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.
+- [WebOperator](https://awesomecua.com/resources/github-kagnlp-weboperator/) — Date not recorded
+  A web agent using action-aware tree search to explore tasks and backtrack, checking page reconstruction and accounting for actions that may change website state.
 - [WebTactix](https://awesomecua.com/resources/url-40795d2c86388ae89f43/) — Date not recorded
   A web agent that simplifies accessibility trees, explores candidate actions in parallel and stores visited pages in a semantic tree to guide later decisions and recovery.
 - [WebThinker](https://awesomecua.com/resources/github-ruc-nlpir-webthinker/) — Date not recorded
   WebThinker empowers large reasoning models to autonomously search, browse webpages, and draft research reports during deep thinking.
+- [WMA Web Agent](https://awesomecua.com/resources/github-kyle8581-wma-agents/) — Date not recorded
+  A web agent uses a learned world model to predict consequential page changes before choosing an action. The repository includes trajectory processing and inference code.
 - [WorkForceAgent-R1](https://awesomecua.com/resources/github-night-chen-workforceagent-r1/) — Date not recorded
   Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.
 - [ZetaTron](https://awesomecua.com/resources/github-itsmarcels-zetatron/) — Date not recorded
@@ -1045,5 +1071,9 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 
 - [Achieving 91.4% on Android World: A New Approach to Mobile UI Automation](https://awesomecua.com/resources/url-f8b67bde8c79e7934a2a/) — Date not recorded
   Technical article describing an Android UI agent that alternates planning with single actions, checks screen changes and uses a dedicated text editing path. It reports AndroidWorld results.
+- [Agentic Web](https://awesomecua.com/resources/github-saferl-lab-agentic-web/) — Date not recorded
+  A research reading list on agents and the web, organized around development, retrieval, planning, safety and benchmarks.
 - [Building AI Browser Agents](https://awesomecua.com/resources/url-aa693ca3e8948623f31e/) — Date not recorded
   Browser-agent course with worked lessons on structured web extraction and multi-step browser interaction, followed by AgentQ search and self-correction concepts.
+- [Finalrun Agentic Approach](https://awesomecua.com/resources/github-final-run-finalrun-android-world-benchmark/) — Date not recorded
+  Illustrated account of FinalRun's Android agent approach, with task walkthroughs and recordings showing screen observation, action planning, and state checks.

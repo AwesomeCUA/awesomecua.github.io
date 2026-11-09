@@ -148,6 +148,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
 
 ## Engineering & industry
 
+- [AdaGround](https://awesomecua.com/resources/github-bcwang-sjtu-adaground/) — Date not recorded
+  A training-free GUI grounding framework that adjusts screenshot zoom to target size and checks proposed clicks before accepting or revising them.
 - [Agent Q](https://awesomecua.com/resources/github-sentient-engineering-agent-q/) — Date not recorded
   Agent Q combines Monte Carlo Tree Search, AI self-critique, and Direct Preference Optimization for autonomous web navigation.
 - [Agent-R](https://awesomecua.com/resources/github-bytedance-seed-agent-r/) — Date not recorded
@@ -158,6 +160,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   AgenticX-GUIAgent is a multi-agent Android GUI automation system with coordinated manager, executor, reflector, and notetaker roles.
 - [Anchor-Inference Daedalus](https://awesomecua.com/resources/github-anchor-inference-daedalus/) — Date not recorded
   Self-developing personal AI agent with its own desktop app, persistent memory, and computer-use tools.
+- [AndroidGen](https://awesomecua.com/resources/github-thudm-androidgen/) — Date not recorded
+  AndroidGen operates Android tasks using retrieved examples, plan updates, and action checks. Its repository includes agent code and AndroidWorld evaluation scripts.
 - [Attest](https://awesomecua.com/resources/github-cyrus580529-attest/) — Date not recorded
   Self-verifying web agent core where the model proposes candidate actions and the harness validates real DOM state transitions.
 - [AURA (Agent-User Remote Automation)](https://awesomecua.com/resources/github-lvusyy-aura/) — Date not recorded
@@ -276,6 +280,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   StatePilot is a predictable browser runtime for AI agents with state validation, episodic memory, error recovery, and MCP tools.
 - [Svate](https://awesomecua.com/resources/github-jieao-re-svate/) — Date not recorded
   Svate is an on-device Android UI automation agent combining Accessibility trees, screenshots, pre-action safety checks, and recovery.
+- [Tencent AI LAB - Self-Improving Agent](https://awesomecua.com/resources/github-tencent-selfevolvingagent/) — Date not recorded
+  A research code collection for web-agent self-improvement, including WebEvolver's world-model approach and WebCoT's reconstructed reasoning trajectories.
 - [Third Eye](https://awesomecua.com/resources/github-slastrina-third-eye/) — Date not recorded
   Local macOS computer-use agent with screen perception and verified action execution.
 - [Tongyi UI Agent API](https://awesomecua.com/resources/url-ce0af37931cd5aa20233/) — Date not recorded

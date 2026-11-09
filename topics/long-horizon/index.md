@@ -335,6 +335,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 
 ## Benchmarks
 
+- [AssistantBench](https://awesomecua.com/resources/github-oriyor-assistantbench/) — Date not recorded
+  AssistantBench evaluates web agents on realistic, time-consuming tasks. Its project repository links to the task dataset and submission leaderboard.
 - [Bond Underwriting Agent Benchmark](https://awesomecua.com/resources/github-vitoworleone-bond-underwriting-agent-benchmark/) — Date not recorded
   Chinese vertical long-horizon evaluation benchmark testing agents on multi-step financial bond-underwriting document and web workflows.
 - [BrowseComp](https://awesomecua.com/resources/component-openai-simple-evals-browsecomp/) — Date not recorded
@@ -361,6 +363,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hops across sites such as a shopping store and Wikipedia, testing long-chain reasoning.
 - [Mobile-Eval-E task definitions](https://awesomecua.com/resources/url-342b081c3668a8bbe155/) — Date not recorded
   Task definitions for Mobile-Agent-E’s long-horizon, multi-app Android evaluation, packaged as a 25-record test split with rubrics and human-reference operation strings.
+- [MyPCBench](https://awesomecua.com/resources/github-ljang0-mypcbench/) — Date not recorded
+  A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.
 - [Odysseys](https://awesomecua.com/resources/github-ljang0-odysseys/) — Date not recorded
   200 long-horizon web tasks drawn from real browsing sessions, run on the live Internet in Chrome through the OSWorld runner and scored per rubric item by an LLM judge over the trajectory's screenshots and actions.
 - [OS-Map](https://awesomecua.com/resources/github-os-copilot-os-map/) — Date not recorded
@@ -377,6 +381,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Website reconstruction benchmark: agents explore a production-level site through a browser, rebuild a full-stack version, and are scored by hidden functional and visual test cases across 70 tasks.
 - [WebWalker](https://awesomecua.com/resources/github-alibaba-nlp-webwalker/) — Date not recorded
   Benchmark and multi-agent framework for evaluating large language models on multi-step web traversal and deep information-seeking tasks.
+- [WildClawBench](https://awesomecua.com/resources/github-internlm-wildclawbench/) — Date not recorded
+  WildClawBench evaluates agents on 60 tasks in a live tool environment that includes browser use, email, files and coding. It releases evaluation code and links to task data and trajectories.
 
 ## Datasets
 
@@ -412,6 +418,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Replay-based policy-optimization framework for GUI agents, with distributed OSWorld rollouts and screenshot/action histories.
 - [Codex Idle Resume](https://awesomecua.com/resources/github-yaro-elipox-codex-idle-resume/) — Date not recorded
   Automatically resumes interrupted macOS Codex Computer Use tasks after system idle or rate-limit cooldowns.
+- [ColorBrowserAgent](https://awesomecua.com/resources/github-madeagents-browser-agent/) — Date not recorded
+  A browser agent for long web tasks that compresses progress into summaries and incorporates human supplied site knowledge to guide later actions.
 - [E2-Mem](https://awesomecua.com/resources/github-jianminya-e2mem/) — Date not recorded
   E2-Mem is an episodic-event hierarchical memory framework for long-horizon web agents evaluated on WebArena.
 - [ENVS (Environment-Native Verified Search)](https://awesomecua.com/resources/github-artysicistz-envs/) — Date not recorded
@@ -422,6 +430,12 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Ghost in the Minecraft (GITM) integrates LLMs with text-based knowledge and memory to complete the full Minecraft technology tree.
 - [Gobii Platform](https://awesomecua.com/resources/github-gobii-ai-gobii-platform/) — Date not recorded
   Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.
+- [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/) — Date not recorded
+  A synthetic GUI environment with configurable screens, icons and navigation graphs for training and evaluating agents on screen navigation.
+- [GUI-Rise](https://awesomecua.com/resources/github-leon022-gui-rise-code/) — Date not recorded
+  A GUI navigation agent that combines stepwise reasoning with history summarization; its repository provides supervised training, reinforcement learning, and evaluation instructions.
+- [HIPPO Agent](https://awesomecua.com/resources/github-wadang-muscle-mem-agent/) — Date not recorded
+  A computer-use agent for multistep GUI tasks that stores task facts and progress in working memory and combines planning, grounding, and completion checks.
 - [Hosp2MES-Agent](https://awesomecua.com/resources/github-ctrl-cv-master-hosp2mes-agent-public/) — Date not recorded
   Hosp2MES-Agent is a long-horizon browser GUI agent for executing multi-page Manufacturing Execution System (MES) workflows with state verification.
 - [JARVIS-1](https://awesomecua.com/resources/github-craftjarvis-jarvis-1/) — Date not recorded
@@ -440,6 +454,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   MemMachine is an open-source memory layer for AI agents providing working, episodic, and user-profile memory via REST, Python SDK, and MCP.
 - [Memori](https://awesomecua.com/resources/github-memorilabs-memori/) — Date not recorded
   Memori captures structured execution facts from agent tool calls and conversations into a relational memory store.
+- [OpenAPA](https://awesomecua.com/resources/github-laiye-ai-open-apa/) — Date not recorded
+  A computer-use agent for desktop GUI tasks that combines screenshot-based reasoning, visual grounding, planning, and action execution across applications.
 - [OpenMemory (LongMemory)](https://awesomecua.com/resources/github-caviraoss-openmemory/) — Date not recorded
   OpenMemory provides local-first temporal graph memory, decay scoring, and MCP integration for long-horizon AI agents.
 - [outlive](https://awesomecua.com/resources/github-sy-d-outlive/) — Date not recorded
@@ -460,3 +476,5 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   A web agent that simplifies accessibility trees, explores candidate actions in parallel and stores visited pages in a semantic tree to guide later decisions and recovery.
 - [WebThinker](https://awesomecua.com/resources/github-ruc-nlpir-webthinker/) — Date not recorded
   WebThinker empowers large reasoning models to autonomously search, browse webpages, and draft research reports during deep thinking.
+- [WMA Web Agent](https://awesomecua.com/resources/github-kyle8581-wma-agents/) — Date not recorded
+  A web agent uses a learned world model to predict consequential page changes before choosing an action. The repository includes trajectory processing and inference code.

@@ -233,6 +233,10 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Playwright-based vision browser agent featuring loop detection, DOM-plus-screenshot grounding, and per-step token telemetry.
 - [AUV](https://awesomecua.com/resources/github-moeru-ai-auv/) — Date not recorded
   Rust toolkit, CLI and MCP server for scripting reusable GUI operations on macOS, Linux and Windows, with native input drivers, accessibility trees, OCR and traced, verifiable action results.
+- [Avenir-UX](https://awesomecua.com/resources/github-onflow-ai-avenir-ux/) — Date not recorded
+  Avenir-UX runs web tasks and scores interface usability after agent actions. It combines step assessments with persona settings and produces session reports.
+- [bdg - Browser Debugger CLI](https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/) — Date not recorded
+  A browser CLI for agents to navigate and interact with pages while inspecting the DOM, network requests, console output, and layout through individual commands.
 - [Browser Use Terminal](https://awesomecua.com/resources/github-browser-use-terminal/) — Date not recorded
   Browser Use Terminal is a Rust terminal user interface (TUI) for interactively controlling and monitoring browser-use agents.
 - [Browser Workbench for Codex](https://awesomecua.com/resources/github-slemmis-browser-workbench-for-codex/) — Date not recorded
@@ -303,10 +307,14 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Observability and evaluation harness that converts H computer-use agent sessions into reviewable traces and failure findings.
 - [Hunter (Autonomous Job-Search Agent)](https://awesomecua.com/resources/github-lodelux-hunter-public/) — Date not recorded
   Autonomous job-search and application browser agent with evidence-linked fit scoring and submission tracking.
+- [ibara](https://awesomecua.com/resources/github-mayberrydt-ibara/) — Date not recorded
+  ibara connects MCP-enabled agents to spare Omarchy computers for desktop and browser tasks. A console displays screens and tasks and lets a person take control.
 - [Index](https://awesomecua.com/resources/github-lmnr-ai-index/) — Date not recorded
   Archived Laminar browser agent in Python that drives Playwright Chromium with vision-capable LLMs, returns Pydantic-structured results and offers an interactive CLI with optional Laminar tracing.
 - [Inside the Agent (SAE Browser Harness)](https://awesomecua.com/resources/github-kalyvask-inside-the-agent/) — Date not recorded
   Reproducible harness for Sparse Autoencoder (SAE) feature steering and live interpretability monitoring of browser agents.
+- [Kernel](https://awesomecua.com/resources/github-kernel-kernel-images/) — Date not recorded
+  Kernel supplies isolated Chrome browser instances for web agents and automation. Its images support remote control, live viewing, and session recording.
 - [Kota-Kawa Browser-Agent](https://awesomecua.com/resources/github-kota-kawa-browser-agent/) — Date not recorded
   FastAPI and browser-use web agent featuring live CDP session streaming, Server-Sent Events (SSE) progress logs, and interactive UI control.
 - [lean-chronoscope-mcp](https://awesomecua.com/resources/github-yyhezkel-lean-chronoscope-mcp/) — Date not recorded
@@ -321,6 +329,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Modular Execution Layer for Reliable Autonomy (MELRA), a local MCP runtime that validates agent tool calls and gates risky actions.
 - [Memori](https://awesomecua.com/resources/github-memorilabs-memori/) — Date not recorded
   Memori captures structured execution facts from agent tool calls and conversations into a relational memory store.
+- [Midscene Java](https://awesomecua.com/resources/github-alstafeev-midscene-java/) — Date not recorded
+  A Java SDK for agents that operate web pages through natural-language instructions. It combines screenshot and DOM grounding with browser actions and execution reports.
 - [MobilePilot Runtime](https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/) — Date not recorded
   MobilePilot is an auditable Android GUI agent runtime with structured action verification, on-demand UI trees, and bounded error recovery.
 - [ModCDP](https://awesomecua.com/resources/github-browserbase-modcdp/) — Date not recorded
@@ -365,12 +375,16 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Screenpipe continuously captures desktop screen text via accessibility/OCR and audio transcripts into a local database for AI agents.
 - [ScreenWatch](https://awesomecua.com/resources/github-abnsapkota001-screenwatch/) — Date not recorded
   Python library for detecting persistent visual state changes and UI settlement in desktop applications.
+- [SeeAct Web Agent (Chrome Extension)](https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/) — Date not recorded
+  A Chrome extension that runs a SeeAct-based agent in an existing browser session to navigate websites, gather information and prepare forms.
 - [SightRig](https://awesomecua.com/resources/github-coetzeexu-sightrig/) — Date not recorded
   SightRig is a traceable runtime and visual workbench for inspecting, guarding, and replaying GUI agent perceptions and actions.
 - [SiteWarden](https://awesomecua.com/resources/github-shantodotdev-sitewarden/) — Date not recorded
   Autonomous, lightweight browser smoke-testing daemon written in Rust for continuous website verification.
 - [Smouj AgentBrowser](https://awesomecua.com/resources/github-smouj-agent-browser/) — Date not recorded
   AI-powered browser automation platform combining a REST API, live web dashboard, and vision-assisted DOM interaction.
+- [Steel MCP Server](https://awesomecua.com/resources/github-steel-dev-steel-mcp-server/) — Date not recorded
+  Steel MCP Server gives MCP clients tools to read and operate cloud Chrome sessions through page elements, with session diagnostics and handoff for human input.
 - [Supply Recovery Console (WebMCP)](https://awesomecua.com/resources/github-navi-ai-project-supply-recovery-console/) — Date not recorded
   WebMCP reference console for auditable, human-approved supply-chain actions executed by browser agents.
 - [Talox](https://awesomecua.com/resources/github-avant-iconic-talox/) — Date not recorded
@@ -391,6 +405,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Valk is a Python library and observable remote-desktop interface for programmatic mouse, keyboard, and screen control by AI agents.
 - [web-eval-agent](https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/) — Date not recorded
   MCP server that launches a browser-use agent to run a web app, capture screenshots, console and network logs, and return a UX report to the coding agent.
+- [WebOperator Experiments](https://awesomecua.com/resources/github-mahirlabibdihan-weboperator-experiments/) — Date not recorded
+  Browsable viewers show WebOperator task trajectories for WebArena and WebArena-lite, with screenshots loaded from a linked Hugging Face dataset.
 - [WinWright](https://awesomecua.com/resources/github-alegauss-winwright/) — Date not recorded
   Playwright-inspired Windows desktop automation and testing framework that drives native apps and reports verified UI state.
 - [Witness](https://awesomecua.com/resources/github-ericfinland-witness/) — Date not recorded

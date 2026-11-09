@@ -129,11 +129,15 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Agent-guided generation and multi-dimensional visual evaluation benchmark for editable PowerPoint presentation decks.
 - [UserZero](https://awesomecua.com/resources/github-aafre-userzero/) — Date not recorded
   Synthetic first-user evaluation harness that verifies web applications by attempting onboarding and core flows with AI browser agents.
+- [WebGen-Bench](https://awesomecua.com/resources/github-mnluzimu-webgen-bench/) — Date not recorded
+  WebGen-Bench evaluates generated websites with automated tests, including a UI agent that carries out interactions and checks outcomes. The repository supplies evaluation code and data.
 - [WebsiteBench](https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/) — Date not recorded
   Website reconstruction benchmark: agents explore a production-level site through a browser, rebuild a full-stack version, and are scored by hidden functional and visual test cases across 70 tasks.
 
 ## Datasets
 
+- [Rico Dataset](https://awesomecua.com/resources/url-0c845d69c9498dd4e20c/) — Date not recorded
+  Rico Dataset is a collection of mobile app interaction and design data presented through Interaction Mining, with 70k screens and 10k user flows across 5k apps.
 - [RICO-Screen2Words](https://awesomecua.com/resources/url-cf7c132c9a988d3a6ec4/) — Date not recorded
   RICO-Screen2Words pairs Android app screenshots with human screen summaries, app metadata and view hierarchies for mobile interface understanding.
 - [UEyes](https://awesomecua.com/resources/github-yuejiang-nj-ueyes-chi2023/) — Date not recorded
@@ -158,6 +162,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Agentic Web Check is a Lighthouse-style auditor that scores websites across 43 checks for AI browser-agent accessibility and controllability.
 - [annotate-mcp](https://awesomecua.com/resources/github-elainemhr-annotate-mcp/) — Date not recorded
   Model Context Protocol server that injects a drawing and comment overlay into live webpages so coding agents can read visual markup.
+- [Avenir-UX](https://awesomecua.com/resources/github-onflow-ai-avenir-ux/) — Date not recorded
+  Avenir-UX runs web tasks and scores interface usability after agent actions. It combines step assessments with persona settings and produces session reports.
 - [Blender Computer Use Artist](https://awesomecua.com/resources/github-xiaof631-blender-computer-use-artist/) — Date not recorded
   Codex computer-use skill for automating Blender 3D modeling, rendering, animation, and visual QA.
 - [CamouForge](https://awesomecua.com/resources/github-rycen7822-camouforge/) — Date not recorded
@@ -204,6 +210,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Semantic accessibility page-guidance layer designed simultaneously for assistive technologies and AI browser agents.
 - [pursr](https://awesomecua.com/resources/github-0xheycat-pursr/) — Date not recorded
   Visual QA, accessibility auditing, screenshot diffing, and MCP browser automation toolkit.
+- [RecreationWorld](https://awesomecua.com/resources/github-qwenlm-recreationworld/) — Date not recorded
+  Framework for hybrid computer-use agents that inspect running reference apps, implement replicas with coding tools, and verify behavior across five platforms.
 - [Richmack Browser OS](https://awesomecua.com/resources/github-iamrichmack111-richmack-browser/) — Date not recorded
   Keyboard-driven Chromium browser environment with modular workspace panels for developer and agent workflows.
 - [SameState WebMCP](https://awesomecua.com/resources/github-breeznik-samestate-webmcp/) — Date not recorded

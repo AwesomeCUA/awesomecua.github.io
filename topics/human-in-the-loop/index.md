@@ -330,6 +330,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Remote bridge allowing users to dispatch tasks to and review outputs from a local OpenAI Codex agent via WeChat.
 - [COLA demo](https://awesomecua.com/resources/github-alokia-cola-demo/) — Date not recorded
   Research demonstration of collaborative Windows GUI automation with dynamic task scheduling and recovery mechanisms.
+- [ColorBrowserAgent](https://awesomecua.com/resources/github-madeagents-browser-agent/) — Date not recorded
+  A browser agent for long web tasks that compresses progress into summaries and incorporates human supplied site knowledge to guide later actions.
 - [Colossus](https://awesomecua.com/resources/github-richardanaya-colossus/) — Date not recorded
   Colossus is a voice-controlled multi-agent development platform for coordinating software engineering tasks.
 - [Commonplace WebMCP](https://awesomecua.com/resources/github-arterialist-webmcp-openai-hackathon/) — Date not recorded
@@ -414,6 +416,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Hermes Agent plugin that temporarily hands the agent's browser session to a human operator to complete a login.
 - [HumanAIE (Human AI Eyes)](https://awesomecua.com/resources/github-datboip-humanaie/) — Date not recorded
   HumanAIE is a shared browser workspace for human-AI collaboration where users highlight visual regions and co-steer web agents.
+- [ibara](https://awesomecua.com/resources/github-mayberrydt-ibara/) — Date not recorded
+  ibara connects MCP-enabled agents to spare Omarchy computers for desktop and browser tasks. A console displays screens and tasks and lets a person take control.
 - [Index](https://awesomecua.com/resources/github-lmnr-ai-index/) — Date not recorded
   Archived Laminar browser agent in Python that drives Playwright Chromium with vision-capable LLMs, returns Pydantic-structured results and offers an interactive CLI with optional Laminar tracing.
 - [ITR Wala AI Agent](https://awesomecua.com/resources/github-aianytime-itr-wala-ai-agent/) — Date not recorded
@@ -482,6 +486,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Local-first AI agent workspace featuring governed computer use, approval gates, and multi-persona orchestration.
 - [open-cowork](https://awesomecua.com/resources/github-coasty-ai-open-cowork/) — Date not recorded
   open-cowork is an open-source computer-use coworker that operates local desktops, cloud VMs, and browsers with human-in-the-loop approval.
+- [OpenAdapt Desktop](https://awesomecua.com/resources/github-openadaptai-openadapt-desktop/) — Date not recorded
+  OpenAdapt Desktop records work in web and desktop apps, compiles recordings into local programs, and replays data-entry tasks with screen checks and human approval.
 - [OpenAgentFleet](https://awesomecua.com/resources/github-robbyczgw-cla-openagentfleet/) — Date not recorded
   Local-first multi-agent desktop platform with named AI coworkers and a watchable Linux virtual desktop.
 - [OpenMausBot](https://awesomecua.com/resources/github-milind-soni-openmausbot/) — Date not recorded
@@ -542,6 +548,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   s1 is a voice-first macOS computer-use agent that inspects the Accessibility tree, executes UI actions, and displays an auditable step trail.
 - [ScreenBuddy](https://awesomecua.com/resources/github-nideesh1-screen-buddy/) — Date not recorded
   ScreenBuddy is a native Rust and Tauri macOS desktop client for running bring-your-own-key Claude Computer Use workflows.
+- [SeeAct Web Agent (Chrome Extension)](https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/) — Date not recorded
+  A Chrome extension that runs a SeeAct-based agent in an existing browser session to navigate websites, gather information and prepare forms.
 - [Self-Hosted Cloud Browser MCP](https://awesomecua.com/resources/github-bk927-cloud-browser-mcp/) — Date not recorded
   Self-hosted Chromium MCP server with isolated browser profiles, OAuth authentication, and human takeover support.
 - [SentinelDesk](https://awesomecua.com/resources/github-sentineldesk-desktop/) — Date not recorded
@@ -552,6 +560,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Open-source desktop AI companion that observes active windows and assists with everyday computer tasks.
 - [SightRig](https://awesomecua.com/resources/github-coetzeexu-sightrig/) — Date not recorded
   SightRig is a traceable runtime and visual workbench for inspecting, guarding, and replaying GUI agent perceptions and actions.
+- [SkillPacks](https://awesomecua.com/resources/github-agentsea-skillpacks/) — Date not recorded
+  SkillPacks records and approves agent tool actions for retrieval and later training, illustrated with a desktop-control example.
 - [Social Browser Publisher for Codex](https://awesomecua.com/resources/github-jacky391977-social-browser-publisher/) — Date not recorded
   Codex skill that uses an authenticated Chrome session to preview and publish posts across Instagram, Facebook, and Threads.
 - [SoobujMiah LAI (Android Local AI Runtime)](https://awesomecua.com/resources/github-soobujmiah-lai/) — Date not recorded
@@ -560,6 +570,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Human-approved isolated browser bridge for local AI agents running on NVIDIA DGX Spark workstations.
 - [Starizon AI](https://awesomecua.com/resources/url-5aa01cb259a5d9a07d6e/) — Date not recorded
   Chrome side-panel agent that researches across tabs, bookmarks and a local knowledge base, and hands click-and-type tasks on signed-in sites to its Agent S6 browser agent, with replays, schedules and page monitors.
+- [Steel MCP Server](https://awesomecua.com/resources/github-steel-dev-steel-mcp-server/) — Date not recorded
+  Steel MCP Server gives MCP clients tools to read and operate cloud Chrome sessions through page elements, with session diagnostics and handoff for human input.
 - [Strawberry](https://awesomecua.com/resources/url-1aa4168c796c15476b97/) — Date not recorded
   Agentic desktop browser for macOS and Windows whose AI companions open sites, click through flows and work inside the user's signed-in accounts, asking for approval before sending, paying or deleting.
 - [Supply Recovery Console (WebMCP)](https://awesomecua.com/resources/github-navi-ai-project-supply-recovery-console/) — Date not recorded
@@ -620,3 +632,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Self-hosted personal agent app that gives each agent its own Docker Linux desktop with Chromium, operated through screenshots and xdotool clicks and keys, with live take-over, memory, a vault and Telegram control.
 - [Yunkai](https://awesomecua.com/resources/github-solplum-yunkai/) — Date not recorded
   Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.
+
+## Learning resources
+
+- [Amazon Nova Act Samples](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/) — Date not recorded
+  Code examples and reference applications show how to build browser workflows with Amazon Nova Act and deploy the SDK on AWS compute services.

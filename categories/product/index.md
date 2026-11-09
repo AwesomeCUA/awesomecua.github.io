@@ -1,6 +1,6 @@
 # Computer-use agent products
 
-> 66 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
+> 70 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T06:16:40Z.
 
 HTML page: https://awesomecua.com/categories/product/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -785,6 +785,39 @@ A general coding agent, so the scope is adjacent. GUI control is an opt-in resea
 
 ---
 
+## Claude Fable 5.1
+
+Claude Fable 5.1 is a hosted model offering whose agent uses include operating a browser; its product page also discusses evaluation on OSWorld 2.0.
+
+- Catalog URL: https://awesomecua.com/resources/url-e0f1ebb59adf2f6c500c/
+- Original source: https://www.anthropic.com/claude/fable
+- Kind: product
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, workflow, evaluation
+- Evidence checked: 2026-11-09T06:16:39Z
+- ID: url:e0f1ebb59adf2f6c500c
+
+### Limitations
+
+The page says the model is available through the Claude API and hosted platforms. Its OSWorld discussion describes the effect of production safeguards on evaluation.
+
+- Record JSON: https://awesomecua.com/resources/url-e0f1ebb59adf2f6c500c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://www.anthropic.com/claude/fable (retrieved 2026-11-09T06:16:39Z; SHA-256 2b9a7b9b0c5f620ac505ec973a084dc8c01924520087fea7794ba32697d1ea43)
+
+---
+
 ## Claude for Chrome
 
 Claude browser extension for interacting with websites.
@@ -1169,6 +1202,72 @@ Recorded as adjacent: the publisher presents Firecrawl as a web data API for AI 
 
 ---
 
+## FluidGPT
+
+Android agent product presented through recorded AndroidWorld runs. Fluiz reports completion of 116 tasks across 20 apps through screen interaction.
+
+- Catalog URL: https://awesomecua.com/resources/url-0c69fd920263b8a72a72/
+- Original source: https://fluiz.ai/benchmark
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, evaluation, video
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: url:0c69fd920263b8a72a72
+
+### Limitations
+
+The page offers recordings for nine selected tasks and links to a full verification report. The completion figures are Fluiz's reported results.
+
+- Record JSON: https://awesomecua.com/resources/url-0c69fd920263b8a72a72/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://fluiz.ai/benchmark (retrieved 2026-11-09T06:16:37Z; SHA-256 28b79466716df37f922fdcb58ed862f05601188eb7a76b381943ee2299c76f2d)
+
+---
+
+## FSB v0.9.92
+
+Chrome extension for natural-language browser automation that accepts a user's request and browses on their behalf.
+
+- Catalog URL: https://awesomecua.com/resources/url-9b0e2c60bd772de53558/
+- Original source: https://chromewebstore.google.com/detail/badgafnfchcihdfnjneklogedcdkmjfk
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: url:9b0e2c60bd772de53558
+
+### Limitations
+
+The listing offers an Add to Chrome action and describes multi-model support. It identifies the extension version as 0.9.92.
+
+- Record JSON: https://awesomecua.com/resources/url-9b0e2c60bd772de53558/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://chromewebstore.google.com/detail/badgafnfchcihdfnjneklogedcdkmjfk (retrieved 2026-11-09T06:16:37Z; SHA-256 a0c7667320affbec11d00e5d425979360a99a41d00763afb29f6ca077350c52f)
+
+---
+
 ## Gumloop
 
 Business agent platform whose agents work through app connectors and can turn on a Chromium browser that clicks, types, signs in with saved logins and hands control to a person when a site needs it.
@@ -1337,6 +1436,40 @@ The site footer names OthersideAI as the publisher of HyperWrite, which its llms
 - https://www.hyperwriteai.com/personal-assistant (retrieved 2026-10-20T04:25:11Z; SHA-256 0ce663b5c4fb33c629db30ab126d8a2fc9b5e16db2d376035afaea5c111d6c83)
 - https://www.hyperwriteai.com/aitools/ai-agent (retrieved 2026-10-20T04:26:09Z; SHA-256 0f3648bc300d114569ff5710bec5e5a751dd10afd37ba15b5fc742639c2f78af)
 - https://www.hyperwriteai.com/llms.txt (retrieved 2026-10-20T04:26:11Z; SHA-256 e1027202cf5c220775723d92f36a3ea2300748d2aab81d51cc0b796ad73d1129)
+
+---
+
+## Interpreter Workstation
+
+Interpreter Workstation is a desktop agent workspace that connects to local or remote computers and combines an agent runtime with browser access and file and app controls.
+
+- Catalog URL: https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/
+- Original source: https://github.com/openinterpreter/interpreter-workstation
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: automation, tool-integration, safety-security
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:openinterpreter/interpreter-workstation
+
+### Limitations
+
+The repository contains the Workstation shell, desktop host, browser adapters and local policy. The README lists Node.js, pnpm, Bun and Rust as build requirements and declares Apache 2.0 licensing.
+
+- Record JSON: https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 205b577980981d8c98c1610af912d779aa3889c457a835c67cf90a66da0d34a6)
+- https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE (retrieved 2026-11-09T06:13:31Z; SHA-256 d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc)
 
 ---
 

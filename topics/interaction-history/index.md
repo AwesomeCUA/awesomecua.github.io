@@ -193,6 +193,11 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
 - [Eager: Programming Repetitive Tasks by Example](https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/) — 1991
   Describes Eager, which detects repeated HyperCard interactions, generalizes them into loops, and previews predicted actions by highlighting interface objects. Users can then ask it to execute the inferred repetitive task.
 
+## Benchmarks
+
+- [VideoWebArena](https://awesomecua.com/resources/github-ljang0-videowebarena/) — Date not recorded
+  VideoWebArena evaluates web agents that use video tutorials to complete website tasks. Its released benchmark includes task configurations, environments, and an evaluation pipeline.
+
 ## Datasets
 
 - [Fanbin/waa_steve_trajectories](https://awesomecua.com/resources/url-2bab4b78c81cde1d5ecb/) — Date not recorded
@@ -213,6 +218,12 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
 
 ## Engineering & industry
 
+- [Auto-UI](https://awesomecua.com/resources/github-gimme1dollar-auto-ui/) — Date not recorded
+  A multimodal interface agent that uses earlier actions and future action plans to predict the next action. The repository provides training and inference instructions.
+- [GUI-Rise](https://awesomecua.com/resources/github-leon022-gui-rise-code/) — Date not recorded
+  A GUI navigation agent that combines stepwise reasoning with history summarization; its repository provides supervised training, reinforcement learning, and evaluation instructions.
+- [HiconAgent](https://awesomecua.com/resources/github-ilearn-lab-cvpr26-hiconagent/) — Date not recorded
+  HiconAgent provides GUI-policy training code that samples histories of varied lengths and compresses past interactions during policy optimization.
 - [MemGUI-Agent](https://awesomecua.com/resources/github-kwai-memgui-agent/) — Date not recorded
   MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
 - [Open Codex Computer History](https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/) — Date not recorded

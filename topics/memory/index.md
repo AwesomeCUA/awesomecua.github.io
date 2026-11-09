@@ -494,6 +494,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   On-device Android agent in one APK that operates any app through an accessibility service, reading an element outline or, when needed, a screenshot with a labelled 8x12 grid, on any OpenAI-compatible model.
 - [Android-Skill-Agent](https://awesomecua.com/resources/github-xiru0834-eng-android-skill-agent/) — Date not recorded
   Android-Skill-Agent extracts demonstration-guided, parameterized operational skills with accessibility-tree verification for Android apps.
+- [AndroidGen](https://awesomecua.com/resources/github-thudm-androidgen/) — Date not recorded
+  AndroidGen operates Android tasks using retrieved examples, plan updates, and action checks. Its repository includes agent code and AndroidWorld evaluation scripts.
 - [AndroTMem inference and evaluation code](https://awesomecua.com/resources/github-cvc2233-androtmem/) — Date not recorded
   A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
 - [AnythingLLM](https://awesomecua.com/resources/github-mintplex-labs-anything-llm/) — Date not recorded
@@ -508,6 +510,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   AutoBot-AI is a self-hosted autonomous agent platform combining vision-driven browser and desktop control, voice interaction, and workflow memory.
 - [AutoManual](https://awesomecua.com/resources/github-minghchen-automanual/) — Date not recorded
   AutoManual enables LLM agents to construct and iteratively refine structured instruction manuals through online environmental interaction.
+- [AutoTask](https://awesomecua.com/resources/github-bowenbryanwang-autotask/) — Date not recorded
+  An Android agent that explores mobile interfaces to execute voice commands and uses what it learns during interaction to guide later actions.
 - [Avenir-Web](https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/) — Date not recorded
   Avenir-Web trains human-experience-imitating multimodal web agents with mixture-of-grounding experts and experience-tracking memory.
 - [avids2 Jarvis](https://awesomecua.com/resources/github-avids2-jarvis/) — Date not recorded
@@ -522,6 +526,10 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   ClawMobile is an Android agent runtime built on OpenClaw for controlling mobile apps, learning reusable skills, and executing device workflows.
 - [ClosePaw](https://awesomecua.com/resources/github-imoonkey-closepaw/) — Date not recorded
   On-device Android agent app that reads the accessibility tree, with optional screenshots, acts through accessibility node actions or gesture taps, and can run on a Shizuku virtual display in the background.
+- [ColorBrowserAgent](https://awesomecua.com/resources/github-madeagents-browser-agent/) — Date not recorded
+  A browser agent for long web tasks that compresses progress into summaries and incorporates human supplied site knowledge to guide later actions.
+- [CoMEM-Agent](https://awesomecua.com/resources/github-wenyiwu0111-comem-agent/) — Date not recorded
+  A web GUI agent implementation that retrieves compact embeddings of earlier interaction trajectories as memory. The repository includes inference and training code.
 - [Computer-Use Cache](https://awesomecua.com/resources/github-rohanarun-computer-use-cache/) — Date not recorded
   Drop-in OpenAI-compatible caching proxy that records and replays repeated computer-use and browser-agent workflows.
 - [Computer-Use Capability Engine](https://awesomecua.com/resources/github-pavanvakula-computer-use-capability-engine/) — Date not recorded
@@ -568,6 +576,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Hermes Agent is a self-improving autonomous agent by Nous Research with procedural skill synthesis, browser control, and multi-platform sandboxes.
 - [HeySnap](https://awesomecua.com/resources/github-dhamani-aryan-heysnap/) — Date not recorded
   AI-first workspace for capturing files, documents, and live browser context into structured agent memory.
+- [HIPPO Agent](https://awesomecua.com/resources/github-wadang-muscle-mem-agent/) — Date not recorded
+  A computer-use agent for multistep GUI tasks that stores task facts and progress in working memory and combines planning, grounding, and completion checks.
 - [Intelligence Indeed](https://awesomecua.com/resources/github-intelligence-indeed-intelligence-indeed/) — Date not recorded
   Intelligence Indeed is a desktop GUI agent that loads reusable guidance, probes the current environment and shares task-specific findings across planning and execution.
 - [JARVIS-1](https://awesomecua.com/resources/github-craftjarvis-jarvis-1/) — Date not recorded
@@ -614,6 +624,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   nanoMuse is an open-source personal agent that maintains persistent cross-device memory and executes browser, desktop, and mobile tasks.
 - [NaturalGAIA & LightManus](https://awesomecua.com/resources/github-keles-coding-naturegaia/) — Date not recorded
   NaturalGAIA and LightManus provide a hierarchical multi-agent framework with browser automation, code execution, and episodic memory.
+- [openadapt-retrieval](https://awesomecua.com/resources/github-openadaptai-openadapt-retrieval/) — Date not recorded
+  Archived retrieval tool that indexes GUI demonstrations from task text and screenshots, then finds similar examples through a Python API or CLI.
 - [OpenBUA](https://awesomecua.com/resources/github-alisharjeell-openbua/) — Date not recorded
   Chrome side-panel agent that works in the user's signed-in browser, reading DOM control inventories and tab screenshots, then clicking, typing and filling forms through injected synthetic events.
 - [OpenDesk](https://awesomecua.com/resources/github-vitalops-opendesk/) — Date not recorded
@@ -672,6 +684,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Webcmd captures and indexes website navigational context as agents browse, compiling site structure into reusable local memory skills.
 - [WebTactix](https://awesomecua.com/resources/url-40795d2c86388ae89f43/) — Date not recorded
   A web agent that simplifies accessibility trees, explores candidate actions in parallel and stores visited pages in a semantic tree to guide later decisions and recovery.
+- [WeChat Mac RPA](https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/) — Date not recorded
+  WeChat Mac RPA is a macOS agent that reads WeChat screenshots, reasons over conversations and uses system automation to send messages and switch chats.
 - [Xiaoshe Agent (小蛇 Agent)](https://awesomecua.com/resources/github-jackygilbert498-debug-xiaoshe-agent/) — Date not recorded
   Local-first desktop agent built on DeepSeek Harness featuring plugin governance, permission approvals, and completion receipts.
 - [Xiryn](https://awesomecua.com/resources/github-souravberaakaspeed-xiryn/) — Date not recorded

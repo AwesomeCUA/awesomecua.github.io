@@ -4,6 +4,17 @@ HTML page: https://awesomecua.com/categories/model/page/3/
 
 Full category annotations: https://awesomecua.com/categories/model/index.md
 
+- [PTA-1](https://awesomecua.com/resources/url-303e1926b8ff4f60e006/)
+- [Qwen-CUA](https://awesomecua.com/resources/url-a886fea306211d527701/)
+- [Qwen-GUI checkpoint](https://awesomecua.com/resources/url-23bc63f93d3c31d74af3/)
+- [Qwen/Qwen3-VL-8B-Instruct](https://awesomecua.com/resources/url-90ae002dbf099d42fabb/)
+- [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/)
+- [Qwen2.5-VL](https://awesomecua.com/resources/url-4bece2c969edcdfc2e8d/)
+- [Qwen2.5-VL-3B-Instruct](https://awesomecua.com/resources/url-52ec96785d9c0ae8e039/)
+- [Qwen2.5-VL-3B-UI-R1-E](https://awesomecua.com/resources/url-72f3737bb5194fd64852/)
+- [Qwen2.5-VL-7B-Instruct](https://awesomecua.com/resources/url-557edb1d63e8fcfdee12/)
+- [Qwen3-VL / Qwen2.5-VL](https://awesomecua.com/resources/github-qwenlm-qwen3-vl/)
+- [Qwen3-VL-8B-Thinking](https://awesomecua.com/resources/url-d1305a893a47ac03d0de/)
 - [Salesforce/GTA1-32B](https://awesomecua.com/resources/url-5288515eb50aef1e84a2/)
 - [ScaleCUA](https://awesomecua.com/resources/github-opengvlab-scalecua/)
 - [ScaleCUA (THUDM) GLM-4.6V-Flash OSWorld](https://awesomecua.com/resources/url-77c708f5cff2d4c95e90/)
@@ -30,6 +41,7 @@ Full category annotations: https://awesomecua.com/categories/model/index.md
 - [Seg2Click Qwen3.5 9B](https://awesomecua.com/resources/url-826f3753905c5c43bf46/)
 - [ShowUI](https://awesomecua.com/resources/github-showlab-showui/)
 - [ShowUI 2B](https://awesomecua.com/resources/url-c0f39f7cf2cd9c18e8bd/)
+- [ShowUI-Narrator](https://awesomecua.com/resources/url-6b9389a144cbe70c894d/)
 - [ShowUI-π](https://awesomecua.com/resources/github-showlab-showui-pi/)
 - [ShowUI-π checkpoint](https://awesomecua.com/resources/url-f70aa7c95824a8729516/)
 - [SpiritSight-Agent 8B base](https://awesomecua.com/resources/url-52b7de0e43b1afc9c226/)

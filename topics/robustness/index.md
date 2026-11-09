@@ -496,11 +496,15 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   4,036 GUI screenshots, mostly macOS browser views, with interaction keypoints and task descriptions: 739 manually annotated originals plus 3,297 color-vision and reworded-task variants made with a FiftyOne plugin.
 - [RoTS](https://awesomecua.com/resources/github-alibabaresearch-rots/) — Date not recorded
   Announced GUI trajectory synthesis resources for recovery from policy-induced errors; the inspected repository marks code and data releases as in preparation.
+- [WorldGUI-Bench](https://awesomecua.com/resources/url-b540fe81c57cedb1f556/) — Date not recorded
+  A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
 
 ## Engineering & industry
 
 - [A2R2 (Android Agent Reliability Runtime)](https://awesomecua.com/resources/github-rty90-android-agent-reliability-runtime/) — Date not recorded
   A2R2 is a black-box safety and reliability runtime for Android GUI agents that intercepts unsafe actions and detects execution loops.
+- [AdaGround](https://awesomecua.com/resources/github-bcwang-sjtu-adaground/) — Date not recorded
+  A training-free GUI grounding framework that adjusts screenshot zoom to target size and checks proposed clicks before accepting or revising them.
 - [AdvAgent (AdvWeb)](https://awesomecua.com/resources/github-ai-secure-advweb/) — Date not recorded
   Black-box adversarial prompt-injection red-teaming framework for training and evaluating controllable attacks against VLM web agents.
 - [AdvAgent (formerly AdvWeb)](https://awesomecua.com/resources/github-ai-secure-advagent/) — Date not recorded
@@ -525,6 +529,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Self-repairing browser automation prototype that detects and adapts to third-party UI selector drift.
 - [CloudCruise](https://awesomecua.com/resources/url-c6f3c36e4603808ae9a6/) — Date not recorded
   Managed browser-automation platform for healthcare portals and EHRs in which a builder agent turns a chat description into a reusable workflow graph that runs in cloud VMs and a maintenance agent repairs.
+- [CollabUIAgents](https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/) — Date not recorded
+  CollabUIAgents trains UI agents with synthesized interaction data and process rewards assigned by collaborating agents. The repository releases data collection and inference code.
 - [DoomArena](https://awesomecua.com/resources/github-servicenow-doomarena/) — Date not recorded
   A security-testing framework whose attack gateways wrap BrowserGym, OSWorld, tau-bench and mail-agent environments to inject pop-ups, banners and other adversarial content under configurable threat models.
 - [dsh-OpenLiulan (开放浏览)](https://awesomecua.com/resources/github-haodongzhang022-hue-openliulan/) — Date not recorded
@@ -553,6 +559,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Self-healing browser automation framework that replaces brittle CSS selectors with LLM-guided semantic element resolution.
 - [MobilePilot Runtime](https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/) — Date not recorded
   MobilePilot is an auditable Android GUI agent runtime with structured action verification, on-demand UI trees, and bounded error recovery.
+- [openadapt-grounding](https://awesomecua.com/resources/github-openadaptai-openadapt-grounding/) — Date not recorded
+  An archived GUI element localization package that anchors targets to OCR text and stabilizes detections across frames, with optional model-based fallbacks.
 - [outlive](https://awesomecua.com/resources/github-sy-d-outlive/) — Date not recorded
   Checkpoints and resumes long-running Solari cloud browser sessions across 10-minute container timeouts.
 - [PageRunner](https://awesomecua.com/resources/github-say-5-pagerunner/) — Date not recorded
@@ -579,3 +587,7 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Reliability-first building blocks for unattended Android app automation, crash recovery, and UI state collection.
 - [VLAA-GUI](https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/) — Date not recorded
   VLAA-GUI provides a modular GUI automation framework that teaches agents when to stop, recover from errors, and search alternatives.
+- [WAREX Supplementary Code](https://awesomecua.com/resources/github-sumanknath-waber/) — Date not recorded
+  WAREX supplementary code uses mitmproxy add-ons to inject popups or server and network errors into web-agent tests and record token use and latency.
+- [WebOperator](https://awesomecua.com/resources/github-kagnlp-weboperator/) — Date not recorded
+  A web agent using action-aware tree search to explore tasks and backtrack, checking page reconstruction and accounting for actions that may change website state.

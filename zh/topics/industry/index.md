@@ -60,6 +60,8 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
 
 ## 模型
 
+- [Claude Opus 5](https://awesomecua.com/resources/url-c34a327604b5be4a7c98/) — Date not recorded
+  Claude Opus 5 is a general model whose release page reports computer-use performance on OSWorld 2.0 and describes agent work across browser and business tasks.
 - [Holo3](https://awesomecua.com/resources/url-a03c649e4b14e293e2dd/) — Date not recorded
   Holo3 is a computer-use model family trained on synthetic navigation and enterprise workflows. Its publisher reports desktop benchmark results and offers inference access and an open checkpoint.
 
@@ -67,6 +69,8 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
 
 - [ADP Workforce Now Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-adp-workforce-now-browser-automation/) — Date not recorded
   A browser automation scaffold for ADP Workforce Now. It provides actions for payroll reports, pay-stub exports, employee updates and tax-form downloads.
+- [Anchor](https://awesomecua.com/resources/url-74a98d385b656cf5e980/) — Date not recorded
+  Anchor provides cloud browser environments for AI agents to navigate authenticated websites and run browser workloads, with SDK and MCP integration.
 - [Anthropic](https://awesomecua.com/resources/organization-anthropic/) — Date not recorded
   Publisher or product brand associated with Anthropic computer-use or browser automation offerings.
 - [AskUI](https://awesomecua.com/resources/organization-askui/) — Date not recorded
@@ -105,10 +109,24 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
   Narada Operator is an enterprise web agent that executes workflows across web interfaces and APIs using task planning and error recovery.
 - [OpenAI](https://awesomecua.com/resources/organization-openai/) — Date not recorded
   Publisher or product brand associated with OpenAI computer-use or browser automation offerings.
+- [Oracle E-Business Suite Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/) — Date not recorded
+  A browser automation scaffold for Oracle E-Business Suite workflows. It describes Puppeteer and cloud browser options for login, requisitions, approvals and requests.
+- [Oracle PeopleSoft Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-peoplesoft-browser-automation/) — Date not recorded
+  A browser automation scaffold for Oracle PeopleSoft that defines actions for queries, leave requests, employee records, and payroll workflows through Puppeteer or Anchor Browser.
 - [Process Discovery](https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/) — Date not recorded
   An enterprise process-discovery product that captures activity across desktops and web apps, then maps workflows to identify patterns and automation opportunities.
+- [Procore Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-procore-browser-automation/) — Date not recorded
+  A Procore browser automation scaffold with actions for construction RFIs, submittal tracking, daily logs, and project-report export.
+- [Salesforce Classic Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-salesforce-classic-browser-automation/) — Date not recorded
+  A browser automation scaffold for Salesforce Classic. It describes actions for login, lead creation, opportunity updates, report export and record updates.
+- [SAP Concur Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-concur-browser-automation/) — Date not recorded
+  A SAP Concur browser automation scaffold with actions for expense reports, receipt uploads, approval queues, and spend-data export.
+- [SAP Fiori Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/) — Date not recorded
+  A SAP Fiori browser automation scaffold with documented actions for purchase orders, approvals, financial-data export, and invoice handling.
 - [SAP SuccessFactors Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-successfactors-browser-automation/) — Date not recorded
   A browser automation scaffold for SAP SuccessFactors. It includes actions for workforce reports, employee goals, compensation worksheets and organization-chart exports.
+- [ServiceNow Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-servicenow-browser-automation/) — Date not recorded
+  A ServiceNow browser automation scaffold with documented actions for incidents, CMDB records, task assignment, and report export.
 - [Simular](https://awesomecua.com/resources/organization-simular/) — Date not recorded
   Publisher or product brand associated with Simular computer-use or browser automation offerings.
 - [Skyvern](https://awesomecua.com/resources/organization-skyvern/) — Date not recorded
@@ -117,3 +135,9 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
   Publisher or product brand associated with Steel computer-use or browser automation offerings.
 - [TinyFish](https://awesomecua.com/resources/organization-tinyfish/) — Date not recorded
   Publisher or product brand associated with TinyFish computer-use or browser automation offerings.
+- [Veeva CRM (Veeva Commercial Cloud) Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-veeva-crm-browser-automation/) — Date not recorded
+  A browser automation scaffold for Veeva CRM that defines actions for call reports, sample inventory, account records, and territory data through Puppeteer or Anchor Browser.
+- [Veeva Vault Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-veeva-vault-browser-automation/) — Date not recorded
+  A Veeva Vault browser automation scaffold with documented actions for uploading documents, routing reviews, approving records, and exporting audit trails.
+- [Workday HCM Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-workday-hcm-browser-automation/) — Date not recorded
+  A browser automation scaffold for Workday HCM that uses Puppeteer or Anchor Browser to run HR and payroll workflows through the application interface.
