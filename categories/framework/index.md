@@ -1,6 +1,6 @@
 # Computer-use agent frameworks
 
-> 601 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 607 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
 
 HTML page: https://awesomecua.com/categories/framework/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -1390,6 +1390,40 @@ Released code includes task-generation and training-format conversion scripts. O
 - https://api.github.com/repos/sunblaze-ucb/AgentSynth (retrieved 2026-10-17T15:37:00Z; SHA-256 e08f08a99b8cb3a4bb857a9fac976b2820f9ad406d66675b0286e880dfeeceaa)
 - https://api.github.com/repos/sunblaze-ucb/AgentSynth/git/trees/main?recursive=1 (retrieved 2026-10-18T04:25:20Z; SHA-256 b0998652a9b6b465444c2bbeef015bdbef50e83984a3bd15725f0e811645ca62)
 - https://raw.githubusercontent.com/sunblaze-ucb/AgentSynth/HEAD/LICENSE (retrieved 2026-10-18T04:35:19Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## AGI SDK
+
+AGI SDK provides a browser-agent API and evaluation harness for tasks on deterministic replicas of interactive websites, with support for custom agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-agi-inc-agisdk/
+- Original source: https://github.com/agi-inc/agisdk
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, evaluation, sandbox, workflow
+- Evidence checked: 2026-11-09T05:04:59Z
+- ID: github:agi-inc/agisdk
+
+### Limitations
+
+The README includes installation and harness examples, website task sets, and examples for custom agents. Evaluation requires browser dependencies and a model API key.
+
+- Record JSON: https://awesomecua.com/resources/github-agi-inc-agisdk/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/agi-inc/agisdk/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agi-inc/agisdk/HEAD/README.md (retrieved 2026-11-09T05:04:59Z; SHA-256 eabfa5e71ee0d2de3af06a7c6a51252f391f55b667d4ca6cccde8dd7d08018ba)
+- https://raw.githubusercontent.com/agi-inc/agisdk/HEAD/LICENSE (retrieved 2026-11-09T05:07:26Z; SHA-256 4ee9288d1446e1e7bdcb25351183c34e679e566f455edbfcc3748005d736d538)
 
 ---
 
@@ -2804,6 +2838,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AWorld-RL
+
+AWorld-RL collects training projects for agents, including V2P for visual GUI grounding, with codebases, datasets, and checkpoints.
+
+- Catalog URL: https://awesomecua.com/resources/github-inclusionai-agenticlearning/
+- Original source: https://github.com/inclusionAI/AgenticLearning
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: reinforcement-learning, grounding, data-generation
+- Evidence checked: 2026-11-09T05:05:04Z
+- ID: github:inclusionai/agenticlearning
+
+### Limitations
+
+The repository groups V2P with projects for search and tool use. Its introduction says the collection provides codebases, datasets, and checkpoints.
+
+- Record JSON: https://awesomecua.com/resources/github-inclusionai-agenticlearning/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/inclusionAI/AgenticLearning/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/inclusionAI/AgenticLearning/HEAD/README.md (retrieved 2026-11-09T05:05:04Z; SHA-256 25c67c393c60c1aedc81861c9a9b34863f3ff12359f789f13dde80ef7ac40df1)
+- https://raw.githubusercontent.com/inclusionAI/AgenticLearning/HEAD/LICENSE (retrieved 2026-11-09T05:07:27Z; SHA-256 8078b04ccec247c0b0a4c8fc93ac7fe27c40b5081b57fc6f0c64fbf95761c7e8)
+
+---
+
 ## AXON OS
 
 Local-first, policy-governed action layer for Linux desktop automation with preview, approval, and rollback receipts.
@@ -3306,6 +3374,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/browser-use/browser-use/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 fcca30a036d122e34c943740c29d8cb91642f0c615050a8d54ec891c0eee56d2)
 - https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 135c57671b0ee957669b05a0ca00cc06f645496d351e2e732832c6e276da9a5e)
+
+---
+
+## Browser Use SDKs
+
+Python and TypeScript SDKs connect applications to Browser Use Cloud agents and managed browsers for browser task execution and control.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-sdk/
+- Original source: https://github.com/browser-use/sdk
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, automation
+- Evidence checked: 2026-11-09T05:05:20Z
+- ID: github:browser-use/sdk
+
+### Limitations
+
+The README lists Python and TypeScript packages and points to a Cloud quickstart.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-use-sdk/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browser-use/sdk/HEAD/README.md (retrieved 2026-11-09T05:05:20Z; SHA-256 8e1e7c2bc1d25012fe1d915ad26f65efd5f8198f1fe9c9e6c0677ad920c9d537)
 
 ---
 
@@ -5922,6 +6023,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## DeviceBay
+
+Python package that supplies pluggable desktop and browser devices for AI agents, with device configuration stored in SQLite or PostgreSQL.
+
+- Catalog URL: https://awesomecua.com/resources/github-agentsea-devicebay/
+- Original source: https://github.com/agentsea/devicebay
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T05:05:02Z
+- ID: github:agentsea/devicebay
+
+### Limitations
+
+The README lists filesystem and GitHub repository devices alongside desktop and browser devices. It provides a pip installation command and describes SQLite as the default configuration store.
+
+- Record JSON: https://awesomecua.com/resources/github-agentsea-devicebay/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/agentsea/devicebay/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agentsea/devicebay/HEAD/README.md (retrieved 2026-11-09T05:05:02Z; SHA-256 28a5f2c562cb79dff28130721e206b0733e40732792912d02f6590f073e17b7d)
+- https://raw.githubusercontent.com/agentsea/devicebay/HEAD/LICENSE (retrieved 2026-11-09T05:07:27Z; SHA-256 40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499)
+
+---
+
 ## dibs
 
 Local coordination hub and lock manager that lets multiple AI agents reserve and use computer-use resources without colliding.
@@ -8366,6 +8501,40 @@ The repository releases preprocessing/refinement/evaluation code and multipart S
 - https://raw.githubusercontent.com/ZrW00/GUIPivot/b02e8efdbe02ab82169a2c54d724e33b4037330e/LICENSE (retrieved 2026-10-18T12:03:28.611747+00:00; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
 - https://arxiv.org/html/2503.00401v2 (retrieved 2026-10-18T12:02:36.501726+00:00; SHA-256 25e5282e7d85bca133fc77e294cd95d90e4ae65b0d8796cd7c49f53a633b4893)
 - https://raw.githubusercontent.com/ZrW00/GUIPivot/b02e8efdbe02ab82169a2c54d724e33b4037330e/data/dataset_info.json (retrieved 2026-10-18T12:03:30.911159+00:00; SHA-256 9b5b196e065be2ebc05169a68710b8a6e1bd3b6eb663c68bb449234dbb7a45af)
+
+---
+
+## hai-agents
+
+hai-agents is a Python SDK and CLI for launching browser and desktop agents through H Company's Agents API and monitoring their sessions.
+
+- Catalog URL: https://awesomecua.com/resources/github-hcompai-hai-agents-python/
+- Original source: https://github.com/hcompai/hai-agents-python
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: web-navigation, automation, observability, tool-integration
+- Evidence checked: 2026-11-09T05:05:07Z
+- ID: github:hcompai/hai-agents-python
+
+### Limitations
+
+The README requires Python 3.10 or newer and describes API key login. It declares an MIT license and offers an optional CLI package extra.
+
+- Record JSON: https://awesomecua.com/resources/github-hcompai-hai-agents-python/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hcompai/hai-agents-python/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hcompai/hai-agents-python/HEAD/README.md (retrieved 2026-11-09T05:05:07Z; SHA-256 1351bd99173bf9d58aaac770f688d2adf3137bf16cc2c621bb025a40b4bfd885)
+- https://raw.githubusercontent.com/hcompai/hai-agents-python/HEAD/LICENSE (retrieved 2026-11-09T05:07:28Z; SHA-256 c4f93176e215b03687e6badea344350b4640b7b6fda71590caea32f29f06a68c)
 
 ---
 
@@ -17069,6 +17238,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/browserbase/stagehand/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 fb2039ee569e37cf1d652ca26c0a1951a318d4ac3240018b958985c0aec91007)
 - https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 fac7e7cd1cfc504054ee1fc53c38e0f3099d7357917e85a73792f6511fe0ea96)
+
+---
+
+## Stagehand
+
+An SDK for browser agents that combines Playwright-style page control with natural-language actions, observation, and extraction. It runs beside the browser as an extension.
+
+- Catalog URL: https://awesomecua.com/resources/url-0210d8713fd41ca1448f/
+- Original source: https://stagehand.dev
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, screen-understanding, efficiency
+- Evidence checked: 2026-11-09T05:04:59Z
+- ID: url:0210d8713fd41ca1448f
+
+### Limitations
+
+The page names TypeScript, Python, and Go interfaces and shows a TypeScript quickstart. It also describes accessibility-tree trimming and support for nested iframes.
+
+- Record JSON: https://awesomecua.com/resources/url-0210d8713fd41ca1448f/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://stagehand.dev (retrieved 2026-11-09T05:04:59Z; SHA-256 ffb4be772f075a606707544df7b69744967b3f6c6778d23f518044f36ed875ce)
 
 ---
 

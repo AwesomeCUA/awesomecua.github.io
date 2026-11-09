@@ -43,9 +43,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**4,248 curated resources** · **1,690 reviewed papers and surveys** · **104 discovery documents**
+**4,404 curated resources** · **1,690 reviewed papers and surveys** · **104 discovery documents**
 
-Evidence snapshot: 2026-11-07T05:19:53Z. 451 records awaiting review and 1,090 discovered candidates are listed in the [coverage ledger](https://awesomecua.com/coverage/).
+Evidence snapshot: 2026-11-09T05:26:45Z. 451 records awaiting review and 337 discovered candidates are listed in the [coverage ledger](https://awesomecua.com/coverage/).
 
 ## What is a computer-use agent?
 
@@ -57,16 +57,16 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | --- | ---: | --- |
 | Research papers | 1,661 | [Open directory](https://awesomecua.com/categories/paper/) |
 | Surveys | 29 | [Open directory](https://awesomecua.com/categories/survey/) |
-| Learning resources | 10 | [Open directory](https://awesomecua.com/categories/learning/) |
-| Models and checkpoints | 210 | [Open directory](https://awesomecua.com/categories/model/) |
-| Datasets | 158 | [Open directory](https://awesomecua.com/categories/dataset/) |
-| Benchmarks | 248 | [Open directory](https://awesomecua.com/categories/benchmark/) |
-| Agents | 372 | [Open directory](https://awesomecua.com/categories/agent/) |
-| Frameworks | 601 | [Open directory](https://awesomecua.com/categories/framework/) |
-| Infrastructure | 64 | [Open directory](https://awesomecua.com/categories/infrastructure/) |
-| Tools | 821 | [Open directory](https://awesomecua.com/categories/tool/) |
-| Products | 57 | [Open directory](https://awesomecua.com/categories/product/) |
-| Publishers | 17 | [Open directory](https://awesomecua.com/categories/company/) |
+| Learning resources | 12 | [Open directory](https://awesomecua.com/categories/learning/) |
+| Models and checkpoints | 271 | [Open directory](https://awesomecua.com/categories/model/) |
+| Datasets | 185 | [Open directory](https://awesomecua.com/categories/dataset/) |
+| Benchmarks | 254 | [Open directory](https://awesomecua.com/categories/benchmark/) |
+| Agents | 390 | [Open directory](https://awesomecua.com/categories/agent/) |
+| Frameworks | 607 | [Open directory](https://awesomecua.com/categories/framework/) |
+| Infrastructure | 74 | [Open directory](https://awesomecua.com/categories/infrastructure/) |
+| Tools | 836 | [Open directory](https://awesomecua.com/categories/tool/) |
+| Products | 66 | [Open directory](https://awesomecua.com/categories/product/) |
+| Publishers | 19 | [Open directory](https://awesomecua.com/categories/company/) |
 
 Category pages highlight reviewed resources; the [interactive catalog](https://awesomecua.com/explore/#catalog) and downloads also expose metadata-only records with their review state.
 

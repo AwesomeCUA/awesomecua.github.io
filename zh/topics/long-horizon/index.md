@@ -343,6 +343,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   A graph-based mobile GUI benchmark that evaluates long tasks through screenshot states and multiple valid or erroneous transitions, including reflection, replanning and backtracking.
 - [FlashAdventure](https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/) — Date not recorded
   FlashAdventure benchmarks GUI agents on solving complete story arcs across 34 Flash point-and-click adventure games requiring long-term memory.
+- [GUITestBench](https://awesomecua.com/resources/github-adam-bjtu-guitestbench/) — Date not recorded
+  GUITestBench evaluates Android agents on multistep app defect discovery, using navigation and triggering checks alongside a judge model.
 - [Gym-Anything](https://awesomecua.com/resources/github-cmu-l3-gym-anything/) — Date not recorded
   Runtime and CUA-World task suite that turn real applications on Ubuntu, Windows 11, Android and macOS into screen-observing, mouse-and-keyboard agent environments with setup scripts and program verifiers.
 - [LongPuzzleBench](https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/) — Date not recorded
@@ -365,6 +367,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment and expanded task configurations for measuring breadth and depth of computer interaction.
 - [OSWorld 2.0](https://awesomecua.com/resources/github-xlang-ai-osworld-v2/) — Date not recorded
   OSWorld 2.0 benchmarks computer-use agents on long-horizon desktop workflows with updated task suites, trajectory viewers, and container sandboxes.
+- [RLG-ALE](https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/) — Date not recorded
+  RLG-ALE evaluates mobile GUI agents on inspectable Android tasks. Its page shows sample episodes with prompts, screenshots, evaluation records, and resettable environments.
 - [UI-NEXUS](https://awesomecua.com/resources/github-starwalkin-ui-nexus/) — Date not recorded
   Compositional mobile-agent benchmark: 100 task templates chaining actions across local utility apps on an AndroidWorld-based emulator and online Chinese and English service apps, with emulator state-setup tooling.
 - [WeaveBench](https://awesomecua.com/resources/github-weavebench-weavebench/) — Date not recorded
@@ -384,6 +388,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Gated Hub release of the OSWorld 2.0 benchmark's Python task classes, which hold task setup and evaluator logic kept out of the public code to limit leakage and are pinned per benchmark release.
 - [OSWorld 2.0 trajectories](https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/) — Date not recorded
   XLang's gated release of OSWorld 2.0 agent runs: 21 ZIP result archives named by model and run settings, plus per-task trajectory JSONL, step screenshots, results and logs for seven model runs.
+- [VeriGUI](https://awesomecua.com/resources/url-8477ada5b7de1d399c9d/) — Date not recorded
+  VeriWeb dataset of 302 web information-seeking tasks, with annotated subtasks, human action logs, and execution videos for evaluating long-chain agents.
 
 ## 模型
 
@@ -450,5 +456,7 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   SimpleMem provides semantic lossless memory compression and multimodal retrieval for long-horizon LLM and desktop/CLI agents.
 - [taskforge](https://awesomecua.com/resources/github-huzjie-taskforge/) — Date not recorded
   taskforge is a long-horizon workflow orchestration engine combining multi-step planning, tool invocation, and GUI state verification.
+- [WebTactix](https://awesomecua.com/resources/url-40795d2c86388ae89f43/) — Date not recorded
+  A web agent that simplifies accessibility trees, explores candidate actions in parallel and stores visited pages in a semantic tree to guide later decisions and recovery.
 - [WebThinker](https://awesomecua.com/resources/github-ruc-nlpir-webthinker/) — Date not recorded
   WebThinker empowers large reasoning models to autonomously search, browse webpages, and draft research reports during deep thinking.

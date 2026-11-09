@@ -4,6 +4,12 @@ HTML page: https://awesomecua.com/categories/framework/page/6/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [SoobujMiah LAI (Android Local AI Runtime)](https://awesomecua.com/resources/github-soobujmiah-lai/)
+- [Sorify](https://awesomecua.com/resources/github-rakutentech-sorify/)
+- [SoulSniper Browser SDK](https://awesomecua.com/resources/github-soulsniper-v2-browser-sdk/)
+- [Stagehand](https://awesomecua.com/resources/github-browserbase-stagehand/)
+- [Stagehand](https://awesomecua.com/resources/url-0210d8713fd41ca1448f/)
+- [StateAct](https://awesomecua.com/resources/github-ai-nikolai-stateact/)
 - [StatePilot](https://awesomecua.com/resources/github-newsbruno-statepilot/)
 - [SteP (Stacked LLM Policies)](https://awesomecua.com/resources/github-asappresearch-webagents-step/)
 - [STEVE / STEVE-R1 research code](https://awesomecua.com/resources/github-fanbinlu-steve-r1/)
@@ -98,9 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [Work2Skill](https://awesomecua.com/resources/github-china-qijizhifeng-work2skill/)
 - [Workflow Use](https://awesomecua.com/resources/github-browser-use-workflow-use/)
 - [Workflow-Guided Exploration research code](https://awesomecua.com/resources/github-stanfordnlp-wge/)
-- [WorkForceAgent-R1](https://awesomecua.com/resources/github-night-chen-workforceagent-r1/)
-- [Worldline](https://awesomecua.com/resources/github-artemyx-datascientist-worldline/)
-- [Xihe Agent (羲和)](https://awesomecua.com/resources/github-jiugao-yi-xihe-agent/)
-- [ZeroGUI](https://awesomecua.com/resources/github-opengvlab-zerogui/)
-- [ZetaTron](https://awesomecua.com/resources/github-itsmarcels-zetatron/)
-- [Zhaozuo (照做)](https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/)

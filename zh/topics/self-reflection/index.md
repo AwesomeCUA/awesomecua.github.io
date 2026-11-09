@@ -132,6 +132,11 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
 - [OmniWebBench](https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/) — Date not recorded
   OmniWebBench evaluates agentic browsers across end-to-end web navigation, action execution, failure recovery, and evidence verification.
 
+## 数据集
+
+- [GUI_Reflection_SFT_train](https://awesomecua.com/resources/url-528f6fe128b77e9615aa/) — Date not recorded
+  Offline supervised fine-tuning data for GUI Reflection, released as JSONL files. Users obtain the corresponding images from the source datasets named in the card.
+
 ## 模型
 
 - [InfiGUI-R1 3B](https://awesomecua.com/resources/url-35b9879a351cc3b3d7d5/) — Date not recorded
@@ -231,6 +236,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   Android automation component with hierarchical planning, reflection and persistent tips/shortcuts learned across task sequences.
 - [MobilePilot Runtime](https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/) — Date not recorded
   MobilePilot is an auditable Android GUI agent runtime with structured action verification, on-demand UI trees, and bounded error recovery.
+- [Narada Code and OperatorMini](https://awesomecua.com/resources/url-fd28110220935a0fae26/) — Date not recorded
+  Narada Code develops and tests computer-use workflows, then revises them after failures. OperatorMini executes the instructions for repeatable web and enterprise tasks.
 - [NORTHTEK Ghost](https://awesomecua.com/resources/github-northtekdevs-ghost/) — Date not recorded
   Provides verified desktop control for AI agents on Windows and Linux across native GUI applications lacking APIs.
 - [Open Frame](https://awesomecua.com/resources/github-off-camber-open-frame/) — Date not recorded

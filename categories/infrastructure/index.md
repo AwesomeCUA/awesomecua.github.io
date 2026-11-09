@@ -1,6 +1,6 @@
 # Computer-use agent infrastructure
 
-> 64 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 74 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -247,6 +247,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AppSim-BiliBili
+
+A simulated Bilibili Android app for testing AI interaction. It provides navigable screens and preset static content without requiring a network connection.
+
+- Catalog URL: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-bilibili/
+- Original source: https://github.com/Acrab-Agentic-Labs/AppSim-BiliBili
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: sandbox, mobile-navigation, evaluation
+- Evidence checked: 2026-11-09T05:04:58Z
+- ID: github:acrab-agentic-labs/appsim-bilibili
+
+### Limitations
+
+The README describes a Kotlin project using Jetpack Compose, with screen code and bundled JSON, image, and video assets. It names Android 13 as the minimum SDK level.
+
+- Record JSON: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-bilibili/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-BiliBili/HEAD/README.md (retrieved 2026-11-09T05:04:58Z; SHA-256 6ee87814a2867bae6ce674036052796fd33007d544c64a2fbfb61b02ead05dc9)
+
+---
+
 ## AriaOS
 
 AriaOS provisions a dedicated virtual machine desktop where computer-use agents operate GUI apps, terminals, and voice interactions.
@@ -311,6 +344,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/Status-Labs/boxcar/HEAD/README.md (retrieved 2026-11-04T16:30:13Z; SHA-256 04c7a7574374f8d174bd8b71038cf68f5f8e7355bab09ecc2b28851801cd5a4f)
 - https://raw.githubusercontent.com/Status-Labs/boxcar/HEAD/LICENSE (retrieved 2026-11-04T16:34:27Z; SHA-256 7ffa5ae85889f636e32ba3208e33121972fa1b198d65feed0835a5d68a64b2a4)
+
+---
+
+## Browser Run
+
+Browser Run hosts headless Chrome sessions for browser automation and agent browsing, with Playwright, Puppeteer, CDP and MCP integration options.
+
+- Catalog URL: https://awesomecua.com/resources/url-a57a63693c89915903f1/
+- Original source: https://developers.cloudflare.com/browser-run
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, sandbox, automation
+- Evidence checked: 2026-11-09T05:05:08Z
+- ID: url:a57a63693c89915903f1
+
+### Limitations
+
+The documentation also describes stateless actions for screenshots and page extraction, reusable sessions, and Free and Paid plans.
+
+- Record JSON: https://awesomecua.com/resources/url-a57a63693c89915903f1/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://developers.cloudflare.com/browser-run (retrieved 2026-11-09T05:05:08Z; SHA-256 d3a1b692e34e5c8c2182580f20d0fcb9a850bca9a9b0bbbf44252a40b81a7c6c)
 
 ---
 
@@ -379,6 +445,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/browser-gateway/browser-gateway/HEAD/README.md (retrieved 2026-11-04T15:45:54Z; SHA-256 78a688b8df40c66b3e54d45101bdf8722696fc32e5193e1e31aff09a3da00a38)
 - https://raw.githubusercontent.com/browser-gateway/browser-gateway/HEAD/LICENSE (retrieved 2026-11-04T15:57:28Z; SHA-256 26130c751b9fb3c2ffb639ae2b87f1b4a6a56a0bb9883a02270efa831a322472)
+
+---
+
+## Browserless
+
+Browserless runs headless browsers as a Docker service for Puppeteer and Playwright scripts, with session concurrency controls and a live debugging view.
+
+- Catalog URL: https://awesomecua.com/resources/github-browserless-browserless/
+- Original source: https://github.com/browserless/browserless
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, sandbox, observability
+- Evidence checked: 2026-11-09T05:05:05Z
+- ID: github:browserless/browserless
+
+### Limitations
+
+The README gives a Docker quickstart and browser connection examples. It distinguishes self-hosted core features from cloud and enterprise features.
+
+- Record JSON: https://awesomecua.com/resources/github-browserless-browserless/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browserless/browserless/HEAD/README.md (retrieved 2026-11-09T05:05:05Z; SHA-256 7293861d93f0d23121d434f752268b11b88a56476c1c2b91d41af6ebfed2055b)
 
 ---
 
@@ -554,6 +653,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/coderkk1992/clawbox/HEAD/README.md (retrieved 2026-11-04T13:12:12Z; SHA-256 a55d051e385092a1b10133ae136003e21176e88394809c695a6e90031c0a2f0f)
 - https://raw.githubusercontent.com/coderkk1992/clawbox/HEAD/LICENSE (retrieved 2026-11-04T13:23:47Z; SHA-256 58abd0589e775b9691ab36f2238eb3cf45cc380f62633d1973d09edd5530c15e)
+
+---
+
+## CLYRedNote
+
+An Android Compose clone app for GUI-agent testing, with shopping, messaging, search, and content screens backed by seeded fictional data.
+
+- Catalog URL: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-rednote/
+- Original source: https://github.com/Acrab-Agentic-Labs/AppSim-RedNote
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, sandbox
+- Evidence checked: 2026-11-09T05:05:19Z
+- ID: github:acrab-agentic-labs/appsim-rednote
+
+### Limitations
+
+The README describes local JSON data for users, notes, messages, products, and shopping scenarios. It names Jetpack Compose and Android SDK settings for the app.
+
+- Record JSON: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-rednote/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-RedNote/HEAD/README.md (retrieved 2026-11-09T05:05:19Z; SHA-256 d6f39fc624dc738dea6188810d7e863bfcf649b10f9cae0e1f029093f37a8cec)
 
 ---
 
@@ -794,6 +926,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## E2B
+
+Cloud sandbox infrastructure for agents, with a Desktop SDK that exposes screenshots, mouse and keyboard control, application launch, and streaming.
+
+- Catalog URL: https://awesomecua.com/resources/github-e2b-dev-e2b/
+- Original source: https://github.com/e2b-dev/E2B
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: sandbox, automation, tool-integration
+- Evidence checked: 2026-11-09T05:05:17Z
+- ID: github:e2b-dev/e2b
+
+### Limitations
+
+The README provides JavaScript and Python SDK examples. Creating a sandbox requires an E2B API key; the README also links to self-hosting guidance.
+
+- Record JSON: https://awesomecua.com/resources/github-e2b-dev-e2b/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/README.md (retrieved 2026-11-09T05:05:17Z; SHA-256 5951729113017efbe02952b197a3ad61d0014cfaba3e6b1aad37a25a5b97b0c2)
+- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE (retrieved 2026-11-09T05:07:33Z; SHA-256 b4ef1bf811cb4095229fb86b574199e467c78f0ac4078cf8be62189e1fbd0818)
+
+---
+
 ## E2B Desktop
 
 Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driven from Python or JavaScript SDKs with screen streaming, mouse, keyboard and window control, screenshots and shell.
@@ -859,6 +1025,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/BIGPPWONG/EdgeBox/HEAD/README.md (retrieved 2026-11-04T13:12:08Z; SHA-256 b236527db4523e9238add95c81e376d55188ae645452b5dbe9f5fa58511f19e3)
 - https://raw.githubusercontent.com/BIGPPWONG/EdgeBox/HEAD/LICENSE (retrieved 2026-11-04T13:23:47Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
+
+---
+
+## ego lite
+
+ego lite is a desktop browser that gives agents separate browsing Spaces and exposes page snapshots and actions through the ego-browser integration.
+
+- Catalog URL: https://awesomecua.com/resources/github-citrolabs-ego-lite/
+- Original source: https://github.com/citrolabs/ego-lite
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web, desktop, macos, windows
+- Topics: web-navigation, automation, sandbox, screen-understanding
+- Evidence checked: 2026-11-09T05:05:18Z
+- ID: github:citrolabs/ego-lite
+
+### Limitations
+
+The README names macOS and Windows as supported platforms and describes a bundled ego-browser skill. The repository links to an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-citrolabs-ego-lite/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/citrolabs/ego-lite/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/citrolabs/ego-lite/HEAD/README.md (retrieved 2026-11-09T05:05:18Z; SHA-256 22ea6e93f9bf19f74561a1e7fb71e2de06dbf0d2f96a33bfda81c926a78fa5c2)
+- https://raw.githubusercontent.com/citrolabs/ego-lite/HEAD/LICENSE (retrieved 2026-11-09T05:07:33Z; SHA-256 325b6f26ca9452fcfb81cc6f52e3889573a7c141e9d07ab35f678b7d95d48e52)
 
 ---
 
@@ -1103,6 +1303,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Hronaut
+
+A local browser workspace for agents, exposed through MCP. It supports isolated task sessions, visible browser use and reconnection to existing tabs.
+
+- Catalog URL: https://awesomecua.com/resources/url-848e19da3bdf0aeb500c/
+- Original source: https://hronaut.dev/setup
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, sandbox, tool-integration
+- Evidence checked: 2026-11-09T05:05:20Z
+- ID: url:848e19da3bdf0aeb500c
+
+### Limitations
+
+The guide supplies MCP configurations for several local agent clients. It says new profiles use an MCP token and that Hronaut must run on the computer hosting the agent.
+
+- Record JSON: https://awesomecua.com/resources/url-848e19da3bdf0aeb500c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://hronaut.dev/setup (retrieved 2026-11-09T05:05:20Z; SHA-256 47282782d03a3a69d9098cc39ce178cbf35e79ec75ccf6d4fe8022ee517ef0c8)
+
+---
+
 ## kalgebra-kai
 
 Modified KAlgebra build from ScienceBoard with a local HTTP server that reports variables and plotted 2D and 3D functions and can switch tabs or add calculations and plots, so the benchmark can check math tasks.
@@ -1277,6 +1510,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## MyInstagram
+
+MyInstagram is an Android clone app with interactive social screens, mock data, and state fields for checking the outcomes of GUI agent tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-instagram/
+- Original source: https://github.com/Acrab-Agentic-Labs/AppSim-Instagram
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, evaluation, state-tracking
+- Evidence checked: 2026-11-09T05:05:11Z
+- ID: github:acrab-agentic-labs/appsim-instagram
+
+### Limitations
+
+The README lists project source files, JSON mock data, media assets, and a Gradle build command. Its task-checking fields cover actions including liking posts, messaging, following users, and creating posts.
+
+- Record JSON: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-instagram/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-Instagram/HEAD/README.md (retrieved 2026-11-09T05:05:11Z; SHA-256 64859e0f350c2cb43ab4a4a71e0348bbac11db5800c95275d01c35a3e9c663ce)
+
+---
+
 ## Nehemiah
 
 Nehemiah provisions on-demand Linux Firecracker microVMs equipped with a browser and desktop environment for AI agents.
@@ -1375,6 +1641,40 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/nut-tree/nut.js/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 41a6435d6c27a647b4d2170cba476fa6a941b12f8a4ffe41674a508df9e0ea1d)
+
+---
+
+## Obscura
+
+Obscura is a Rust headless browser for agent automation. It runs JavaScript, exposes the Chrome DevTools Protocol and supports screenshots and browser automation tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-h4ckf0r0day-obscura/
+- Original source: https://github.com/h4ckf0r0day/obscura
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web, desktop, linux, macos, windows
+- Topics: automation, web-navigation, sandbox
+- Evidence checked: 2026-11-09T05:05:09Z
+- ID: github:h4ckf0r0day/obscura
+
+### Limitations
+
+The repository provides source code and release binaries for Linux, macOS and Windows. The README declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-h4ckf0r0day-obscura/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/README.md (retrieved 2026-11-09T05:05:09Z; SHA-256 6325697c2012d2876f07c2bee8feea463d0f303ad61c98bcc256dc771d7748c7)
+- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE (retrieved 2026-11-09T05:07:28Z; SHA-256 50e6751797c50dedd75ef1b8a0d9e42f5f8472e9fbce91f34718e9f97b0c780a)
 
 ---
 
@@ -2222,3 +2522,36 @@ Published under the Quanta Intellect name (repository homepage). Built on Electr
 - https://raw.githubusercontent.com/unmodeled-tyler/vessel-browser/5cb5e53f3823556428e6ad7bd1d73a9a5b6778d5/src/main/mcp/tools/interaction.ts (retrieved 2026-10-18T15:50:25Z; SHA-256 b1e3a26e215e6cc741da7b194a7afbe47ab35cdab176251b5ab6ea8e8d1c3f10)
 - https://raw.githubusercontent.com/unmodeled-tyler/vessel-browser/5cb5e53f3823556428e6ad7bd1d73a9a5b6778d5/src/main/content/extractor.ts (retrieved 2026-10-18T15:50:25Z; SHA-256 d9405934564ed6dab17c3d567b21650c0648649a9a01d4d1788d362f6dc9488c)
 - https://raw.githubusercontent.com/unmodeled-tyler/vessel-browser/HEAD/LICENSE (retrieved 2026-10-18T15:50:51Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
+## Zoom Android Template
+
+Zoom Android Template is a simulated meeting app for mobile interaction tests, with seeded schedules and runtime records of meeting and profile actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-zoom/
+- Original source: https://github.com/Acrab-Agentic-Labs/AppSim-Zoom
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, state-tracking
+- Evidence checked: 2026-11-09T05:05:05Z
+- ID: github:acrab-agentic-labs/appsim-zoom
+
+### Limitations
+
+The README describes Jetpack Compose app code, seeded meetings and JSON files for scheduled meetings, chats, meeting actions and profile state.
+
+- Record JSON: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-zoom/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-Zoom/HEAD/README.md (retrieved 2026-11-09T05:05:05Z; SHA-256 c44aca4cdbdf82ad385d7e5c5aa3555e6902340920d581300731b3406a4f8dae)

@@ -111,6 +111,8 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
 
 ## 工程与产业
 
+- [AgentOccam](https://awesomecua.com/resources/github-amazon-science-agentoccam/) — Date not recorded
+  AgentOccam is a web agent that uses webpage descriptions and action strings to carry out tasks from a URL and instruction. Its repository includes task configurations and evaluation scripts.
 - [CanpGrid](https://awesomecua.com/resources/github-yeqi99-canpgrid/) — Date not recorded
   CanpGrid provides an adaptive recursive image grid overlay for progressive coarse-to-fine visual localization by multimodal agents.
 - [GUI Grounding via Iterative Narrowing](https://awesomecua.com/resources/github-ant-8-gui-grounding-via-iterative-narrowing/) — Date not recorded

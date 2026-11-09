@@ -1,46 +1,46 @@
 # AwesomeCUA
 
-> A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 4,248 curated records (1,690 papers and surveys, 2,558 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
+> A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 4,404 curated records (1,690 papers and surveys, 2,714 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
 
-Snapshot 2026-11-07T05:19:53Z. Awaiting review and not counted above: 451 metadata-only bibliography records and 1,090 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
+Snapshot 2026-11-09T05:26:45Z. Awaiting review and not counted above: 451 metadata-only bibliography records and 337 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
 
 HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agent index: https://awesomecua.com/llms.txt
 
 ## Newest reviewed resources
 
-- [Agent Zero](https://awesomecua.com/resources/github-agent0ai-agent-zero/) — Agents · reviewed 2026-11-06: Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.
-- [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/) — Infrastructure · reviewed 2026-11-06: AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.
-- [Alumnium](https://awesomecua.com/resources/github-alumnium-hq-alumnium/) — Frameworks · reviewed 2026-11-06: An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.
-- [Browser Control MCP](https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/) — Tools · reviewed 2026-11-06: An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.
-- [BrowserGPT](https://awesomecua.com/resources/github-mayt-browsergpt/) — Agents · reviewed 2026-11-06: BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.
-- [Capybara](https://awesomecua.com/resources/github-teamcapybara-capybara/) — Frameworks · reviewed 2026-11-06: Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.
-- [chromedp](https://awesomecua.com/resources/github-chromedp-chromedp/) — Tools · reviewed 2026-11-06: A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.
-- [CodeceptJS](https://awesomecua.com/resources/github-codeceptjs-codeceptjs/) — Frameworks · reviewed 2026-11-06: CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.
-- [ConnectOnion](https://awesomecua.com/resources/github-openonion-connectonion/) — Frameworks · reviewed 2026-11-06: ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.
-- [Firecrawl](https://awesomecua.com/resources/github-firecrawl-firecrawl/) — Tools · reviewed 2026-11-06: Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.
-- [Gobii Platform](https://awesomecua.com/resources/github-gobii-ai-gobii-platform/) — Infrastructure · reviewed 2026-11-06: Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.
-- [Libretto](https://awesomecua.com/resources/github-cashew-labs-libretto/) — Tools · reviewed 2026-11-06: Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.
-- [mcp-server-browser-use](https://awesomecua.com/resources/github-saik0s-mcp-browser-use/) — Tools · reviewed 2026-11-06: MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.
-- [OpenManus](https://awesomecua.com/resources/github-foundationagents-openmanus/) — Frameworks · reviewed 2026-11-06: OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.
-- [PhantomJS](https://awesomecua.com/resources/github-ariya-phantomjs/) — Tools · reviewed 2026-11-06: PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.
-- [pi-computer-use](https://awesomecua.com/resources/github-injaneity-pi-computer-use/) — Tools · reviewed 2026-11-06: Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.
-- [Playwright MCP Server (ExecuteAutomation)](https://awesomecua.com/resources/github-executeautomation-mcp-playwright/) — Tools · reviewed 2026-11-06: Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.
-- [puppeteer-extra](https://awesomecua.com/resources/github-berstend-puppeteer-extra/) — Frameworks · reviewed 2026-11-06: A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.
-- [Qwen Code](https://awesomecua.com/resources/github-qwenlm-qwen-code/) — Agents · reviewed 2026-11-06: Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.
-- [SeleniumBase](https://awesomecua.com/resources/github-seleniumbase-seleniumbase/) — Frameworks · reviewed 2026-11-06: Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.
+- [AndroidWorld-SeeAct-V](https://awesomecua.com/resources/github-boyugou-android-world-seeact-v/) — Agents · reviewed 2026-11-09: AndroidWorld-SeeAct-V runs a visual Android agent that plans the next action and grounds coordinate actions in screenshots. The repository includes code for AndroidWorld evaluation.
+- [Dreamer-7B-Shopping](https://awesomecua.com/resources/url-3173abbb295c74d0e9ec/) — Models and checkpoints · reviewed 2026-11-09: A shopping-domain Dreamer-7B checkpoint for WebDreamer, which uses screenshot-conditioned predictions of candidate web actions to support agent planning.
+- [Qwen2.5-VL-3B-Instruct](https://awesomecua.com/resources/url-52ec96785d9c0ae8e039/) — Models and checkpoints · reviewed 2026-11-09: An instruction-tuned vision-language checkpoint that reads visual layouts, localizes points or boxes, and supports computer and phone use. Its card reports screen and mobile-agent evaluations.
+- [GUI-Actor-Verifier-2B](https://awesomecua.com/resources/url-9b653775f6b9270304d3/) — Models and checkpoints · reviewed 2026-11-09: A GUI grounding verifier that checks whether a marked screenshot position matches an instruction and provides a score for candidate action positions.
+- [HobbyLM-1B Computer Use](https://awesomecua.com/resources/url-12470a40c8f82ef0294a/) — Models and checkpoints · reviewed 2026-11-09: An on-device LoRA adapter that turns English requests and Mac state into single actions executed by a companion app, with training code and evaluation records.
+- [Jedi-3B-1080p](https://awesomecua.com/resources/url-2f2e38f240a36f31b631/) — Models and checkpoints · reviewed 2026-11-09: A Qwen2.5-VL-3B-based computer-use grounding checkpoint with an example that predicts mouse-action coordinates from an interface image.
+- [Muse-Glimmer-30B-GUI-Grounding-Fast](https://awesomecua.com/resources/url-7645072fe9580fa9993a/) — Models and checkpoints · reviewed 2026-11-09: A LoRA adapter for Muse-Glimmer-30B that returns a UI element's bounding box from a screenshot and instruction, with examples spanning desktop, mobile, and web screens.
+- [Process Discovery](https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/) — Products · reviewed 2026-11-09: An enterprise process-discovery product that captures activity across desktops and web apps, then maps workflows to identify patterns and automation opportunities.
+- [Hronaut](https://awesomecua.com/resources/url-848e19da3bdf0aeb500c/) — Infrastructure · reviewed 2026-11-09: A local browser workspace for agents, exposed through MCP. It supports isolated task sessions, visible browser use and reconnection to existing tabs.
+- [OpenCUA-7B](https://awesomecua.com/resources/url-2803eda78cff23fb63cc/) — Models and checkpoints · reviewed 2026-11-09: A Qwen2.5-VL-based computer-use checkpoint that produces desktop actions from screenshots and instructions, using recent screen history for context.
+- [AGI-0 Agent](https://awesomecua.com/resources/url-06f6618d8f95f3d041cf/) — Agents · reviewed 2026-11-09: AGI-0 uses screenshots to navigate Android apps, planning subtasks and checking screen changes after each action. Its publisher reports AndroidWorld results.
+- [Browser Use SDKs](https://awesomecua.com/resources/github-browser-use-sdk/) — Frameworks · reviewed 2026-11-09: Python and TypeScript SDKs connect applications to Browser Use Cloud agents and managed browsers for browser task execution and control.
+- [DroidBot](https://awesomecua.com/resources/github-honeynet-droidbot/) — Tools · reviewed 2026-11-09: DroidBot generates scripted or model-guided inputs for Android app testing and records UI transitions, view structures, and method traces.
+- [Firecrawl MCP Server](https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/) — Tools · reviewed 2026-11-09: An MCP server for Firecrawl that gives agents web search and extraction tools plus browser interaction for clicking, typing, filling forms, and navigation.
+- [GTA1-7B-2507](https://awesomecua.com/resources/url-691c52679bb1d3521db7/) — Models and checkpoints · reviewed 2026-11-09: GTA1-7B-2507 is a GUI-grounding checkpoint trained with reinforcement learning to locate described elements in screenshots and return click coordinates.
+- [Holo4-27B-NVFP4](https://awesomecua.com/resources/url-b1457a20d437732b60f7/) — Models and checkpoints · reviewed 2026-11-09: A quantized Holo4 vision-language checkpoint for computer use across web, desktop, and mobile interfaces, with a harness that executes requested GUI and tool actions.
+- [UI-Ins-7B](https://awesomecua.com/resources/url-62cf0bee7a14cfbc84a0/) — Models and checkpoints · reviewed 2026-11-09: UI-Ins-7B is a GUI-grounding checkpoint trained on varied instruction formulations and reinforcement learning to locate interface elements for agent actions.
+- [Llama8b-NNetNav-WA](https://awesomecua.com/resources/url-c9d2a9288a568db12bd1/) — Models and checkpoints · reviewed 2026-11-09: A Llama checkpoint trained on demonstrations gathered through WebArena exploration. It takes a task instruction and selects browser actions to navigate webpages.
+- [McGill-NLP/safearena](https://awesomecua.com/resources/url-be4ca14d1724b0cf8314/) — Datasets · reviewed 2026-11-09: SafeArena supplies safe and harmful task splits for evaluating the safety of autonomous web agents, with accompanying environment archives under gated access.
+- [WebRL-GLM-4-9B](https://awesomecua.com/resources/url-f979ca583090405aadee/) — Models and checkpoints · reviewed 2026-11-09: A GLM-based WebRL model released for browser tasks across five WebArena websites. Its card reports evaluation results on WebArena-Lite.
 
 ## Browse by kind
 
-- [Models and checkpoints](https://awesomecua.com/categories/model/index.md): 210 curated records
-- [Datasets](https://awesomecua.com/categories/dataset/index.md): 158 curated records
-- [Benchmarks](https://awesomecua.com/categories/benchmark/index.md): 248 curated records
-- [Agents](https://awesomecua.com/categories/agent/index.md): 372 curated records
-- [Frameworks](https://awesomecua.com/categories/framework/index.md): 601 curated records
-- [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md): 64 curated records
-- [Tools](https://awesomecua.com/categories/tool/index.md): 821 curated records
-- [Products](https://awesomecua.com/categories/product/index.md): 57 curated records
-- [Publishers](https://awesomecua.com/categories/company/index.md): 17 curated records
-- [Learning resources](https://awesomecua.com/categories/learning/index.md): 10 curated records
+- [Models and checkpoints](https://awesomecua.com/categories/model/index.md): 271 curated records
+- [Datasets](https://awesomecua.com/categories/dataset/index.md): 185 curated records
+- [Benchmarks](https://awesomecua.com/categories/benchmark/index.md): 254 curated records
+- [Agents](https://awesomecua.com/categories/agent/index.md): 390 curated records
+- [Frameworks](https://awesomecua.com/categories/framework/index.md): 607 curated records
+- [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md): 74 curated records
+- [Tools](https://awesomecua.com/categories/tool/index.md): 836 curated records
+- [Products](https://awesomecua.com/categories/product/index.md): 66 curated records
+- [Publishers](https://awesomecua.com/categories/company/index.md): 19 curated records
+- [Learning resources](https://awesomecua.com/categories/learning/index.md): 12 curated records
 - [Surveys](https://awesomecua.com/categories/survey/index.md): 29 curated records
 - [Research papers](https://awesomecua.com/categories/paper/index.md): 1,661 curated records
 

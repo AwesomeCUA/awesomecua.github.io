@@ -1,6 +1,6 @@
 # Computer-use agent tools
 
-> 821 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 836 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
 
 HTML page: https://awesomecua.com/categories/tool/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -215,6 +215,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/allaudin/adb-automation-mcp/main/README.md (retrieved 2026-11-04T17:30:42Z; SHA-256 93bc876ea7c9b6a2394f9eb8811f81d830074a53d40b99cbce00d3100d8e2d85)
 - https://raw.githubusercontent.com/allaudin/adb-automation-mcp/HEAD/LICENSE (retrieved 2026-11-04T17:40:22Z; SHA-256 3d33800433c7193e0125d9dfc8f5709dec8ee66113ab10569b50dd43a5bba8be)
+
+---
+
+## ADP Workforce Now Browser Automation
+
+A browser automation scaffold for ADP Workforce Now. It provides actions for payroll reports, pay-stub exports, employee updates and tax-form downloads.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-adp-workforce-now-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/adp-workforce-now-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, workflow, industry
+- Evidence checked: 2026-11-09T05:05:14Z
+- ID: github:browser-automation-hub/adp-workforce-now-browser-automation
+
+### Limitations
+
+The repository lists source modules, examples and an environment-file template. Local use requires Node.js, Chrome or Chromium, and an authorized ADP Workforce Now account. The README declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-adp-workforce-now-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/adp-workforce-now-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/adp-workforce-now-browser-automation/HEAD/README.md (retrieved 2026-11-09T05:05:14Z; SHA-256 622ba47f97928bc9ec6c3bc0183b54fcb3a7e61c02d861f076bf5ab1fb262243)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/adp-workforce-now-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T05:07:31Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
 
 ---
 
@@ -4307,6 +4341,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Browser MCP
+
+A local MCP server and Chromium extension that let AI applications operate browser tabs through Playwright, with pairing and extension-enforced controls.
+
+- Catalog URL: https://awesomecua.com/resources/github-browsermcp-mcp/
+- Original source: https://github.com/BrowserMCP/mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, safety-security
+- Evidence checked: 2026-11-09T05:05:19Z
+- ID: github:browsermcp/mcp
+
+### Limitations
+
+The repository contains the MCP server, daemon, protocol, and extension packages. Its README requires Node.js 24 or later, pnpm, and a Chromium browser, and declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/github-browsermcp-mcp/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/BrowserMCP/mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/BrowserMCP/mcp/HEAD/README.md (retrieved 2026-11-09T05:05:19Z; SHA-256 9a321a857e80b5c0ab5aeb093cf6c2d3f550efece0c1708c856b0711c73ff6be)
+- https://raw.githubusercontent.com/BrowserMCP/mcp/HEAD/LICENSE (retrieved 2026-11-09T05:07:35Z; SHA-256 ca89de37aec49b624f0829065f3ad6abca29cd7c090f29f55713dc44637ef88e)
+
+---
+
 ## Browser Takeover Bridge
 
 Local-first browser bridge for securely attaching AI agents to already-open authenticated Chrome and Edge sessions with human handoff.
@@ -5259,6 +5327,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/anaishowland/Captr_Windows/HEAD/README.md (retrieved 2026-11-04T13:12:05Z; SHA-256 465dad6439fb22aa7e5930e72a94b2227de90e5aaad3a357bc42a0cede01a970)
 - https://raw.githubusercontent.com/anaishowland/Captr_Windows/HEAD/LICENSE (retrieved 2026-11-04T13:23:30Z; SHA-256 8d77a092be0bd1fda2ecd3bb77340534b1269e88a4486ac8ed05ccb9a70a4bcc)
+
+---
+
+## Capybara-mechanize
+
+A Capybara driver that uses Mechanize for remote web requests, enabling tests to visit and interact with external applications.
+
+- Catalog URL: https://awesomecua.com/resources/github-jeroenvandijk-capybara-mechanize/
+- Original source: https://github.com/jeroenvandijk/capybara-mechanize
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-09T05:05:02Z
+- ID: github:jeroenvandijk/capybara-mechanize
+
+### Limitations
+
+The README provides installation, driver configuration, and Cucumber usage examples.
+
+- Record JSON: https://awesomecua.com/resources/github-jeroenvandijk-capybara-mechanize/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://github.com/jeroenvandijk/capybara-mechanize (retrieved 2026-11-09T05:05:02Z; SHA-256 30bc1f0f3be4fb1d2ca2b01913b8eeef3b8405bce5b899abae659fb57c85f942)
 
 ---
 
@@ -6272,6 +6373,39 @@ It needs Go 1.25 or newer and no external driver. Chrome runs in headless mode b
 ### Primary evidence
 
 - https://raw.githubusercontent.com/chromedp/chromedp/94001c576609403535c275b745d4d8485976b4aa/README.md (retrieved 2026-11-06T16:36:32Z; SHA-256 c87f689b7e0cf2d4d46c5ef4991deb01dbf4ae66eca3691c2e3bf7b992835ca9)
+
+---
+
+## chromedp-proxy
+
+chromedp-proxy forwards Chrome DevTools Protocol traffic between a client and browser while logging session messages for debugging browser automation.
+
+- Catalog URL: https://awesomecua.com/resources/github-chromedp-chromedp-proxy/
+- Original source: https://github.com/chromedp/chromedp-proxy
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, observability
+- Evidence checked: 2026-11-09T05:04:59Z
+- ID: github:chromedp/chromedp-proxy
+
+### Limitations
+
+The README provides Go installation and command-line examples. It supports configurable listening and remote addresses and optional file logging.
+
+- Record JSON: https://awesomecua.com/resources/github-chromedp-chromedp-proxy/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/chromedp/chromedp-proxy/HEAD/README.md (retrieved 2026-11-09T05:04:59Z; SHA-256 c29e53b4ca90b7528d595c68532fb4186e3b4de57ed0d6c446dd6f42271ac7b2)
 
 ---
 
@@ -9666,6 +9800,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## DroidBot
+
+DroidBot generates scripted or model-guided inputs for Android app testing and records UI transitions, view structures, and method traces.
+
+- Catalog URL: https://awesomecua.com/resources/github-honeynet-droidbot/
+- Original source: https://github.com/honeynet/droidbot
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android
+- Topics: automation, evaluation, screen-understanding
+- Evidence checked: 2026-11-09T05:05:20Z
+- ID: github:honeynet/droidbot
+
+### Limitations
+
+The repository includes code and script samples. Running it requires an APK, a connected device or emulator, Python, Java, and the Android SDK.
+
+- Record JSON: https://awesomecua.com/resources/github-honeynet-droidbot/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/honeynet/droidbot/HEAD/README.md (retrieved 2026-11-09T05:05:20Z; SHA-256 a0ef945aa3269b8b8500696c3fc9085fe1ae0745f86dccfc6528b35d268a7b68)
+
+---
+
 ## DroidLume Agent Control
 
 npm-distributed CLI, Model Context Protocol server, and standalone Android companion app for AI phone control.
@@ -12043,6 +12210,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Firecrawl MCP Server
+
+An MCP server for Firecrawl that gives agents web search and extraction tools plus browser interaction for clicking, typing, filling forms, and navigation.
+
+- Catalog URL: https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/
+- Original source: https://github.com/firecrawl/firecrawl-mcp-server
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, tool-integration, automation
+- Evidence checked: 2026-11-09T05:05:20Z
+- ID: github:firecrawl/firecrawl-mcp-server
+
+### Limitations
+
+The README documents hosted and self-hosted connections. Most tools require a Firecrawl API key; the hosted keyless endpoint exposes a smaller tool set.
+
+- Record JSON: https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/firecrawl/firecrawl-mcp-server/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/firecrawl/firecrawl-mcp-server/HEAD/README.md (retrieved 2026-11-09T05:05:20Z; SHA-256 c3c4ce86b65268fb6d510154180c8c711535c9aad72c76829a2b849a4bceb084)
+- https://raw.githubusercontent.com/firecrawl/firecrawl-mcp-server/HEAD/LICENSE (retrieved 2026-11-09T05:07:35Z; SHA-256 9c12811442b47e27f690be7cf0252f6bf93ddee18476f13e0fc6b4badb09c22c)
+
+---
+
 ## firefox-bidi-mcp
 
 Standalone Model Context Protocol server for controlling an already-open Firefox browser instance via the WebDriver BiDi protocol.
@@ -13366,6 +13567,39 @@ This is an independent harness using ScreenSpot-Pro, not a new dataset or verifi
 
 ---
 
+## GUI Grounding Pre-training Data for SeeClick
+
+A SeeClick data collection tool that uses Common Crawl URLs and Selenium to gather web pages and element grounding data for pretraining.
+
+- Catalog URL: https://awesomecua.com/resources/github-chuyg1005-seeclick-crawler/
+- Original source: https://github.com/chuyg1005/seeclick-crawler
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, grounding
+- Evidence checked: 2026-11-09T05:05:17Z
+- ID: github:chuyg1005/seeclick-crawler
+
+### Limitations
+
+The repository describes URL preprocessing, crawling, and parallel collection scripts. It requires Common Crawl data, Chrome, ChromeDriver, and Python dependencies.
+
+- Record JSON: https://awesomecua.com/resources/github-chuyg1005-seeclick-crawler/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/chuyg1005/seeclick-crawler/HEAD/README.md (retrieved 2026-11-09T05:05:17Z; SHA-256 0a819504b8da0ff6f51a67f2b6966f49a4cec3767457a5fdb71394efb974b7bc)
+
+---
+
 ## GUI Label Tool
 
 GUI Label Tool records and annotates human desktop trajectories inside a Dockerized QEMU virtual machine with paired input events and screenshots.
@@ -14075,6 +14309,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/PrithviSeran/hunch-mcp/HEAD/README.md (retrieved 2026-11-04T16:51:47Z; SHA-256 fb8c422bcb3f5b58a0c59e9bd074e532e8c3471bb4112bbe66ff3860bfbf40a9)
 - https://raw.githubusercontent.com/PrithviSeran/hunch-mcp/HEAD/LICENSE (retrieved 2026-11-04T16:57:12Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## Hyperbrowser MCP Server
+
+An MCP server that exposes Hyperbrowser web tools and browser-agent actions, including Browser Use and computer-use agents, through a single tool interface.
+
+- Catalog URL: https://awesomecua.com/resources/github-hyperbrowserai-mcp/
+- Original source: https://github.com/hyperbrowserai/mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, automation
+- Evidence checked: 2026-11-09T05:05:19Z
+- ID: github:hyperbrowserai/mcp
+
+### Limitations
+
+The README documents scraping, crawling, structured extraction, and browser-agent tools. Installation uses the hyperbrowser-mcp package and requires a Hyperbrowser API key; the declared license is MIT.
+
+- Record JSON: https://awesomecua.com/resources/github-hyperbrowserai-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hyperbrowserai/mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hyperbrowserai/mcp/HEAD/README.md (retrieved 2026-11-09T05:05:19Z; SHA-256 21a35bdf8383408962c27f8c67c356ce783bdc3f6093b281cd0ec973bd190c6f)
+- https://raw.githubusercontent.com/hyperbrowserai/mcp/HEAD/LICENSE (retrieved 2026-11-09T05:07:34Z; SHA-256 6a2d1e16ce0239b908df97c2f7ec0270fa011ecd615607e89c03ff763ca7e12d)
 
 ---
 
@@ -15405,6 +15673,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/yyhezkel/lean-chronoscope-mcp/HEAD/README.md (retrieved 2026-11-04T16:30:04Z; SHA-256 3513b2407e2c4e7d6f69d119490b7cc263a59f3c26b8ece18bfa3e9c07ea8700)
 - https://raw.githubusercontent.com/yyhezkel/lean-chronoscope-mcp/HEAD/LICENSE (retrieved 2026-11-04T16:35:08Z; SHA-256 d418a51add2907709b11b2dadfe607af378cf53f97e7156bf168192cf844757a)
+
+---
+
+## lenovo TianXi_Action_Grounding_7B
+
+An evaluation script for running a multimodal GUI grounding model on ScreenSpot-Pro, with options for instruction variants and structured result logs.
+
+- Catalog URL: https://awesomecua.com/resources/github-ancolie18-lenovo-pcie-grounding/
+- Original source: https://github.com/Ancolie18/Lenovo-PCIE-Grounding
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, evaluation
+- Evidence checked: 2026-11-09T05:05:15Z
+- ID: github:ancolie18/lenovo-pcie-grounding
+
+### Limitations
+
+The README requires a local model checkpoint and ScreenSpot-Pro images and annotations. It states that the script modifies ScreenSpot-Pro-GUI-Grounding code and declares a GPL license.
+
+- Record JSON: https://awesomecua.com/resources/github-ancolie18-lenovo-pcie-grounding/record.json
+
+### License declarations
+
+- code: GPL-3.0 — https://raw.githubusercontent.com/Ancolie18/Lenovo-PCIE-Grounding/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Ancolie18/Lenovo-PCIE-Grounding/HEAD/README.md (retrieved 2026-11-09T05:05:15Z; SHA-256 25e8d504397be38f58940a4fb8b447ca07182ecc2ecc24583b5ee5acf0abc06f)
+- https://raw.githubusercontent.com/Ancolie18/Lenovo-PCIE-Grounding/HEAD/LICENSE (retrieved 2026-11-09T05:07:32Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
 
 ---
 
@@ -20090,6 +20392,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## pdlgen
+
+A Go code generator that turns Chrome DevTools Protocol definitions into typed browser-control bindings used by chromedp and other Go programs.
+
+- Catalog URL: https://awesomecua.com/resources/github-chromedp-pdlgen/
+- Original source: https://github.com/chromedp/pdlgen
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T05:05:12Z
+- ID: github:chromedp/pdlgen
+
+### Limitations
+
+The README documents generation of the cdproto package from Chromium protocol files and describes command-line options for versions, output and caching.
+
+- Record JSON: https://awesomecua.com/resources/github-chromedp-pdlgen/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/chromedp/pdlgen/HEAD/README.md (retrieved 2026-11-09T05:05:12Z; SHA-256 6fa0bd785c610c3de843ba8396d4b8a8cadc31f436fce88febd89a16f604d930)
+
+---
+
 ## Peekaboo
 
 Peekaboo is a macOS screen-capture, accessibility-element targeting, and GUI automation CLI and MCP server for computer-use agents.
@@ -22358,6 +22693,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## SAP SuccessFactors Browser Automation
+
+A browser automation scaffold for SAP SuccessFactors. It includes actions for workforce reports, employee goals, compensation worksheets and organization-chart exports.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-automation-hub-successfactors-browser-automation/
+- Original source: https://github.com/Browser-Automation-Hub/successfactors-browser-automation
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, workflow, industry
+- Evidence checked: 2026-11-09T05:05:14Z
+- ID: github:browser-automation-hub/successfactors-browser-automation
+
+### Limitations
+
+The repository lists source modules, examples and an environment-file template. Local use requires Node.js, Chrome or Chromium, and an authorized SAP SuccessFactors account. The README declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-automation-hub-successfactors-browser-automation/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Browser-Automation-Hub/successfactors-browser-automation/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Browser-Automation-Hub/successfactors-browser-automation/HEAD/README.md (retrieved 2026-11-09T05:05:14Z; SHA-256 9ef33cad4b2fdafa0bd1bb3b449b0951b5d9a4bf1cd6828025672f031eb083c9)
+- https://raw.githubusercontent.com/Browser-Automation-Hub/successfactors-browser-automation/HEAD/LICENSE (retrieved 2026-11-09T05:07:31Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
 ## Scavenge
 
 Deterministic web-field inspector that extracts and verifies single webpage values with cryptographic evidence for coding agents.
@@ -22490,6 +22859,40 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/scrapfly/scrapfly-mcp/HEAD/README.md (retrieved 2026-11-04T15:03:35Z; SHA-256 af2aef559d3698d4afe3ffbf05334101e9aa2dd39e835ba3a65d9824d9e8cf6c)
+
+---
+
+## scrcpy
+
+scrcpy mirrors Android devices and lets users control them with a computer keyboard and mouse over USB or TCP/IP on Linux, Windows and macOS.
+
+- Catalog URL: https://awesomecua.com/resources/github-genymobile-scrcpy/
+- Original source: https://github.com/Genymobile/scrcpy
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, android, desktop, linux, windows, macos
+- Topics: automation, mobile-navigation, recording
+- Evidence checked: 2026-11-09T05:05:07Z
+- ID: github:genymobile/scrcpy
+
+### Limitations
+
+The README lists recording, copy and paste, virtual display and HID input features. It says device root access and an installed device app are unnecessary.
+
+- Record JSON: https://awesomecua.com/resources/github-genymobile-scrcpy/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Genymobile/scrcpy/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Genymobile/scrcpy/HEAD/README.md (retrieved 2026-11-09T05:05:07Z; SHA-256 1a2f2677b4b86c0879b68a5b23c24fa7268ac3af1a92a17bddbe137abf374549)
+- https://raw.githubusercontent.com/Genymobile/scrcpy/HEAD/LICENSE (retrieved 2026-11-09T05:07:28Z; SHA-256 01c12035bf35af37241298dc7ad538eb2a07e5c940437bc6876feeaa9d1951d0)
 
 ---
 
@@ -22860,6 +23263,39 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/jaychouu/see_the_screen/main/README.md (retrieved 2026-11-04T18:11:41Z; SHA-256 18576857615409005e82775ce11b7256cbc0d8aa718cf68bab32f9e28b77ec62)
+
+---
+
+## Seg2Click
+
+A hosted GUI grounding demo that takes a screenshot and instruction, then predicts an action mask and click point using a public Seg2Click checkpoint.
+
+- Catalog URL: https://awesomecua.com/resources/url-8525e17eee1f3e754ad4/
+- Original source: https://huggingface.co/spaces/jcwang0602/Seg2Click-Demo
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-09T05:04:57Z
+- ID: url:8525e17eee1f3e754ad4
+
+### Limitations
+
+The Space lists a Gradio app file and inference code, and its card says it runs the Seg2Click-Qwen3.5-0.8B checkpoint. Example screenshots come from ScreenSpot-Pro.
+
+- Record JSON: https://awesomecua.com/resources/url-8525e17eee1f3e754ad4/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/spaces/jcwang0602/Seg2Click-Demo (retrieved 2026-11-09T05:04:57Z; SHA-256 e1ab6d97a071eadc87039c80aed84102db401d470a1bcaccf894fbb21142f3be)
 
 ---
 
@@ -24440,6 +24876,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/tenmomo/browser-agent/HEAD/README.md (retrieved 2026-11-04T16:51:49Z; SHA-256 967e11545369ced30bbf08d14fbe25e8a1cc1ea5cd0b6daa15904bc77de11393)
 - https://raw.githubusercontent.com/tenmomo/browser-agent/HEAD/LICENSE (retrieved 2026-11-04T16:57:17Z; SHA-256 d006f400839a77cb1e83c97f23c01880a745290cb58e2ff4824f361d5a4a6d4b)
+
+---
+
+## termcast
+
+A Go utility that displays a chromedp browser page in a graphics terminal using screencast frames, with options to show the whole page or one element.
+
+- Catalog URL: https://awesomecua.com/resources/github-chromedp-termcast/
+- Original source: https://github.com/chromedp/termcast
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: observability, screen-understanding
+- Evidence checked: 2026-11-09T05:04:57Z
+- ID: github:chromedp/termcast
+
+### Limitations
+
+The README documents Start and Stop calls, display options, and terminal graphics support. It requires Go 1.25 or later, chromedp v0.20.0, and cdproto v0.157.8.
+
+- Record JSON: https://awesomecua.com/resources/github-chromedp-termcast/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/chromedp/termcast/HEAD/README.md (retrieved 2026-11-09T05:04:57Z; SHA-256 2c8d86a871764a8e737f30eb1c2a688b411da8c61af0c5af63ff73787ce07275)
 
 ---
 
@@ -27818,6 +28287,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/shenkemin-sketch/zhuque-recruiting/main/README.md (retrieved 2026-11-04T17:30:42Z; SHA-256 7cd86ecd4768188be3f6ced4e214c2d01c76b3ee48ad2e85c67e729067f0ac14)
 - https://raw.githubusercontent.com/shenkemin-sketch/zhuque-recruiting/HEAD/LICENSE (retrieved 2026-11-04T17:40:43Z; SHA-256 39a0be668a284e1ff9ba95996ea6ef8c3eacf749218a4829c798ca03d75af3ca)
+
+---
+
+## ZonUI-3B
+
+Code for training and evaluating ZonUI-3B, a GUI grounding model tested on mobile, desktop, and web screenshots at varying resolutions.
+
+- Catalog URL: https://awesomecua.com/resources/github-han1018-zonui-3b/
+- Original source: https://github.com/Han1018/ZonUI-3B
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: grounding, evaluation, screen-understanding
+- Evidence checked: 2026-11-09T05:05:11Z
+- ID: github:han1018/zonui-3b
+
+### Limitations
+
+The repository says inference, evaluation, and reproduction code is released. It links to separate model weights and training datasets.
+
+- Record JSON: https://awesomecua.com/resources/github-han1018-zonui-3b/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Han1018/ZonUI-3B/HEAD/README.md (retrieved 2026-11-09T05:05:11Z; SHA-256 9918231748808ea1af93b559b0a511f1f9687689766a09b43c7726f14f27248b)
 
 ---
 

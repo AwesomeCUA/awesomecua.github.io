@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/categories/framework/page/5/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [OysterWorkflow](https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/)
+- [Pactora](https://awesomecua.com/resources/github-mrnetwork0001-pactora/)
+- [page-agent-sdk](https://awesomecua.com/resources/github-whyymj-page-agent-sdk/)
+- [PageRunner](https://awesomecua.com/resources/github-say-5-pagerunner/)
+- [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/)
 - [PatchBridge Agent](https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/)
 - [PC-Agent-E training and deployment](https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/)
 - [Peerframe OpenBot](https://awesomecua.com/resources/github-peerframe-openbot/)
@@ -99,8 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [Snapsurf](https://awesomecua.com/resources/github-zumerlab-snapsurf/)
 - [solari-identity-guard](https://awesomecua.com/resources/github-nahuelsoria-solari-identity-guard/)
 - [SOLO](https://awesomecua.com/resources/github-wzq975-solo/)
-- [SoobujMiah LAI (Android Local AI Runtime)](https://awesomecua.com/resources/github-soobujmiah-lai/)
-- [Sorify](https://awesomecua.com/resources/github-rakutentech-sorify/)
-- [SoulSniper Browser SDK](https://awesomecua.com/resources/github-soulsniper-v2-browser-sdk/)
-- [Stagehand](https://awesomecua.com/resources/github-browserbase-stagehand/)
-- [StateAct](https://awesomecua.com/resources/github-ai-nikolai-stateact/)

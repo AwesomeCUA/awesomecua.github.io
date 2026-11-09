@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/categories/benchmark/page/2/
 
 Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 
+- [Intention-in-Interaction (IN3) & Mistral-Interact](https://awesomecua.com/resources/github-openbmb-tell-me-more/)
+- [Intentproof](https://awesomecua.com/resources/github-egagofur-intentproof/)
+- [iOSWorld](https://awesomecua.com/resources/github-ljang0-iosworld/)
 - [jev-click-bench](https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/)
 - [Kane](https://awesomecua.com/resources/github-venkat5599-kane/)
 - [Kernel Eval Protocol](https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/)
@@ -82,6 +85,7 @@ Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 - [REFRACT-PPTX](https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/)
 - [Resurf](https://awesomecua.com/resources/github-lightfeed-resurf/)
 - [RiOSWorld](https://awesomecua.com/resources/github-yjyddq-riosworld/)
+- [RLG-ALE](https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/)
 - [SaaS-Bench](https://awesomecua.com/resources/github-unipat-ai-saas-bench/)
 - [SafeArena](https://awesomecua.com/resources/github-mcgill-nlp-safearena/)
 - [ScienceBoard](https://awesomecua.com/resources/github-os-copilot-scienceboard/)
@@ -100,7 +104,3 @@ Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 - [Spider Browser Dataset](https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/)
 - [Spider2-V](https://awesomecua.com/resources/github-xlang-ai-spider2-v/)
 - [ST-WebAgentBench](https://awesomecua.com/resources/github-segev-shlomov-st-webagentbench/)
-- [SWE-bench Multimodal](https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/)
-- [SWEeper-Bench](https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/)
-- [taskproof](https://awesomecua.com/resources/github-taskproof-taskproof/)
-- [TestPilot](https://awesomecua.com/resources/github-h0ngza1-testpilot/)

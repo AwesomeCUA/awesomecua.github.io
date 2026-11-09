@@ -131,6 +131,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Execution-based evaluation of agents performing tasks in real desktop environments.
 - [TheAgentCompany](https://awesomecua.com/resources/github-theagentcompany-theagentcompany/) — Date not recorded
   Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.
+- [UniClawBench](https://awesomecua.com/resources/github-hku-mmlab-uniclawbench/) — Date not recorded
+  UniClawBench evaluates agents on tool, browser, file, and desktop GUI workflows. Its bilingual release contains 400 tasks, Docker runtimes, and trace review tools.
 - [WebMall](https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/) — Date not recorded
   WebMall is a multi-shop e-commerce web agent benchmark evaluating cross-site price comparison, product search, and cart checkout.
 - [WindowsAgentArena-V2](https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/) — Date not recorded
@@ -151,22 +153,30 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 
 ## Engineering & industry
 
+- [ARTEMIS](https://awesomecua.com/resources/github-google-artemis/) — Date not recorded
+  ARTEMIS is an Android agent that carries out natural-language tasks across apps. It targets UI elements visually or by index and exposes device runs through an MCP server.
 - [debug-kit](https://awesomecua.com/resources/github-dxiongya-debug-kit/) — Date not recorded
   Cross-platform Agent Skill for driving, inspecting, and testing applications across macOS, iOS, Android, Web, Electron, Windows, and Linux.
 - [GUI-ReWalk](https://awesomecua.com/resources/github-bytedance-gui-rewalk/) — Date not recorded
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
+- [Intelligence Indeed](https://awesomecua.com/resources/github-intelligence-indeed-intelligence-indeed/) — Date not recorded
+  Intelligence Indeed is a desktop GUI agent that loads reusable guidance, probes the current environment and shares task-specific findings across planning and execution.
 - [Lom Desktop (麓鸣)](https://awesomecua.com/resources/github-rfdiosuao-lom-desktop/) — Date not recorded
   Lom is an open-source multi-agent workspace coordinating desktop coding agents with cross-device Android phone execution.
 - [MacOS Agent (BIGAI)](https://awesomecua.com/resources/github-computer-use-agents-macos-agent/) — Date not recorded
   macOS agent in which a smolagents code agent dispatches per-application sub-agents that read accessibility trees and window screenshots and act through pyautogui mouse and keyboard input.
 - [Macuse MCP](https://awesomecua.com/resources/github-macuse-app-macuse-mcp/) — Date not recorded
   Macuse MCP is a native macOS Model Context Protocol server granting AI agents direct control over Calendar, Mail, Notes, Messages, and GUI apps.
+- [Narada Code and OperatorMini](https://awesomecua.com/resources/url-fd28110220935a0fae26/) — Date not recorded
+  Narada Code develops and tests computer-use workflows, then revises them after failures. OperatorMini executes the instructions for repeatable web and enterprise tasks.
 - [OS AI Computer Use](https://awesomecua.com/resources/github-777genius-os-ai-computer-use/) — Date not recorded
   Local desktop agent that sends plain screenshots to OpenAI's or Anthropic's computer-use tool and performs the returned clicks, drags, scrolls and keystrokes through PyAutoGUI-based drivers on macOS, Windows and Linux.
 - [PC-Agent](https://awesomecua.com/resources/github-gair-nlp-pc-agent/) — Date not recorded
   Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
 - [PC-Agent (X-PLUG component)](https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/) — Date not recorded
   Multi-agent desktop automation component for Windows and macOS, combining active perception, task decomposition and reflection for workflows spanning applications.
+- [Pointer](https://awesomecua.com/resources/url-98122987ca3e7c764d0e/) — Date not recorded
+  Pointer describes a desktop computer-use agent with feasibility checks, milestone planning, and an executor that combines GUI, code, and browser tools.
 - [Touchpoint](https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/) — Date not recorded
   Touchpoint is a cross-platform desktop accessibility API and MCP server giving AI agents unified UI inspection and control.
 - [UFO](https://awesomecua.com/resources/github-microsoft-ufo/) — Date not recorded

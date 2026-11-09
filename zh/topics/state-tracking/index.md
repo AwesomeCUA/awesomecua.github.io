@@ -170,6 +170,11 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
 - [Preflight-Bench](https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/) — Date not recorded
   Preflight-Bench evaluates pre-click staleness checks and page-load synchronization for computer-use agents operating under asynchronous UI updates.
 
+## 模型
+
+- [HobbyLM-1B Computer Use](https://awesomecua.com/resources/url-12470a40c8f82ef0294a/) — Date not recorded
+  An on-device LoRA adapter that turns English requests and Mac state into single actions executed by a companion app, with training code and evaluation records.
+
 ## 工程与产业
 
 - [action-receipt](https://awesomecua.com/resources/github-jeremiahm37-action-receipt/) — Date not recorded
@@ -178,6 +183,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Zero-cloud Windows OS perception layer and Model Context Protocol server streaming real-time desktop UI context to AI agents.
 - [AgentProg](https://awesomecua.com/resources/github-mobilellm-agentprog/) — Date not recorded
   Android GUI-agent framework that keeps long-running task context in structured programs, variables and control flow, with a CLI and AndroidWorld integration.
+- [AGI-0 Agent](https://awesomecua.com/resources/url-06f6618d8f95f3d041cf/) — Date not recorded
+  AGI-0 uses screenshots to navigate Android apps, planning subtasks and checking screen changes after each action. Its publisher reports AndroidWorld results.
 - [AH64-dll Browser Automation Toolkit](https://awesomecua.com/resources/github-ah64-dll-browser-automation-toolkit/) — Date not recorded
   Suite of five Python CDP utilities including a page watcher, form filler, table scraper, DOM change differ, and health checker.
 - [Anionex DSH Computer Use](https://awesomecua.com/resources/github-anionex-dsh-computer-use/) — Date not recorded
@@ -196,6 +203,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Framework-neutral browser-state snapshotter capturing compact, diffable DOM and accessibility states for AI web agents.
 - [ESP (Echo-Skeleton Perception)](https://awesomecua.com/resources/github-badtheorylabs-esp/) — Date not recorded
   Stateful, event-driven screen-perception runtime that converts UI changes into compact text events for text-only computer-use agents.
+- [FinalRun](https://awesomecua.com/resources/url-3b99bbbd3480dbc1ec6b/) — Date not recorded
+  Android UI agent that prunes interface trees, waits for stable screens, feeds action failures back into its decisions, and takes fresh screenshots before grounding actions.
 - [GenPark SPA Settlement Waiter Skill](https://awesomecua.com/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/) — Date not recorded
   Agent skill for awaiting single-page-application network idle and DOM mutation settlement before acting.
 - [grass-gui](https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/) — Date not recorded
@@ -206,6 +215,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Modified KAlgebra build from ScienceBoard with a local HTTP server that reports variables and plotted 2D and 3D functions and can switch tabs or add calculations and plots, so the benchmark can check math tasks.
 - [LangGraph](https://awesomecua.com/resources/github-langchain-ai-langgraph/) — Date not recorded
   LangGraph is a stateful graph orchestration framework for building long-running, cyclical, and human-in-the-loop LLM and CUA agents.
+- [MyInstagram](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-instagram/) — Date not recorded
+  MyInstagram is an Android clone app with interactive social screens, mock data, and state fields for checking the outcomes of GUI agent tasks.
 - [nexus-browser-mcp](https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/) — Date not recorded
   Browser automation MCP server with event-driven deterministic Playwright and accessibility-tree snapshots.
 - [Ommatix](https://awesomecua.com/resources/github-yosoyepa-ommatix/) — Date not recorded
@@ -236,3 +247,10 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Talox is a stateful Playwright browser runtime for AI agents with stealth interaction, structured page state, and trace observability.
 - [VeriSafe Agent](https://awesomecua.com/resources/github-verisafeagent-verisafeagent/) — Date not recorded
   Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.
+- [Zoom Android Template](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-zoom/) — Date not recorded
+  Zoom Android Template is a simulated meeting app for mobile interaction tests, with seeded schedules and runtime records of meeting and profile actions.
+
+## 学习资源
+
+- [Achieving 91.4% on Android World: A New Approach to Mobile UI Automation](https://awesomecua.com/resources/url-f8b67bde8c79e7934a2a/) — Date not recorded
+  Technical article describing an Android UI agent that alternates planning with single actions, checks screen changes and uses a dedicated text editing path. It reports AndroidWorld results.

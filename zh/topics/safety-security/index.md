@@ -638,17 +638,29 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Touch-gesture and motion-sensor recordings of people and mobile GUI agents doing the same Chinese-language Android app tasks, with task lists and metadata for training detectors that tell agents from humans.
 - [Browser Agent Failure Corpus](https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/) — Date not recorded
   Browser Agent Failure Corpus is a versioned dataset of browser-agent action failures, execution traces, and guardrail counterexamples.
+- [ClawBench](https://awesomecua.com/resources/url-9c96a767b56ba0eb4494/) — Date not recorded
+  A browser-agent task corpus for everyday work on live websites, with V1 and V2 test splits, task context, and schemas that intercept final submissions.
 - [EnvDistraction](https://awesomecua.com/resources/github-xbmxb-envdistraction/) — Date not recorded
   EnvDistraction provides simulated GUI environments and evaluation scripts for measuring multimodal agent susceptibility to environmental distractions.
+- [McGill-NLP/safearena](https://awesomecua.com/resources/url-be4ca14d1724b0cf8314/) — Date not recorded
+  SafeArena supplies safe and harmful task splits for evaluating the safety of autonomous web agents, with accompanying environment archives under gated access.
 - [SATraj-OS](https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/) — Date not recorded
   Desktop computer-use trajectories with per-step screenshots and success, safety and attack labels, split into capability runs, safe-completion and refusal runs, and a legacy RiOSWorld-derived safety archive.
+- [VeriOS-Bench](https://awesomecua.com/resources/url-16a5ccde8bb16cda19ff/) — Date not recorded
+  A dataset for training and evaluating GUI-operating OS agents on decisions to ask a person for help when autonomous action could be unreliable.
+- [WebGuard](https://awesomecua.com/resources/url-df10c80a8da55773154d/) — Date not recorded
+  Dataset of 5,999 browser-action safety annotations, pairing website and action details with risk classifications for web-agent research.
 
 ## 模型
 
+- [Claude Sonnet 4.6](https://awesomecua.com/resources/url-c4a45eed67ee9087aae3/) — Date not recorded
+  A general model whose release documents computer use through visual observation, mouse actions, and keyboard input, with OSWorld evaluation and prompt-injection testing.
 - [Gemini 2.5 Computer Use](https://awesomecua.com/resources/url-44827a16f49e65ba8fb3/) — Date not recorded
   Preview Google DeepMind model built on Gemini 2.5 Pro and post-trained for UI control, returning browser and mobile actions from screenshots and recent action history through the Gemini API computer_use tool.
 - [MirrorGuard checkpoint](https://awesomecua.com/resources/url-5f4264af210fb2686870/) — Date not recorded
   Qwen2.5-VL-7B-Instruct fine-tune that reads an instruction, history, screenshot and a computer-use agent's thought, returns the thought unchanged when safe and rewrites or refuses it when risky.
+- [VeriOS-Agent-32B](https://awesomecua.com/resources/url-97040677a731edfedc2d/) — Date not recorded
+  VeriOS-Agent-32B is a query-driven OS agent checkpoint initialized from Qwen2.5-VL-32B. It is released with model weights for the interaction approach described in the VeriOS paper.
 
 ## 工程与产业
 
@@ -720,6 +732,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   MCP server giving AI assistants bounded control over a live Chrome browser through an 11-tool surface.
 - [Browser Control MCP](https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/) — Date not recorded
   An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.
+- [Browser MCP](https://awesomecua.com/resources/github-browsermcp-mcp/) — Date not recorded
+  A local MCP server and Chromium extension that let AI applications operate browser tabs through Playwright, with pairing and extension-enforced controls.
 - [Browser Perception](https://awesomecua.com/resources/github-rounakkm-browser-perception/) — Date not recorded
   Privacy-preserving browser perception framework that redacts sensitive PII from DOM trees and screenshots before LLM ingestion.
 - [Browser Reliability Runtime](https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/) — Date not recorded

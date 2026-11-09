@@ -1,6 +1,6 @@
 # Computer-use agent products
 
-> 57 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 66 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
 
 HTML page: https://awesomecua.com/categories/product/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -77,6 +77,39 @@ The Ace page describes a computer autopilot that uses the mouse and keyboard on 
 - https://raw.githubusercontent.com/generalagents/generalagents-python/d36f6a858685fb1d7842b6f05c8af501130f8efc/README.md (retrieved 2026-10-19T06:24:05Z; SHA-256 4e48a9a8621540dfac3abc14bc889e633e8c1f61ba1907153bd91f7f19d97dbc)
 - https://raw.githubusercontent.com/generalagents/generalagents-python/d36f6a858685fb1d7842b6f05c8af501130f8efc/src/generalagents/agent.py (retrieved 2026-10-19T06:24:05Z; SHA-256 7c1b9d4ba8723d83bcdd7f3193cc145f32f8244ad2e43d14ca32bb60b79a667d)
 - https://raw.githubusercontent.com/generalagents/generalagents-python/d36f6a858685fb1d7842b6f05c8af501130f8efc/src/generalagents/macos/computer.py (retrieved 2026-10-19T06:24:05Z; SHA-256 154bf2204a1a519915fd0fb36053a3dfc9d58166d16e5e441d2e720e1954499d)
+
+---
+
+## agent-qa
+
+A QA agent that runs plain-language tests against web, Android, and iOS apps. It navigates user flows, verifies outcomes, and stores validated run evidence for reuse.
+
+- Catalog URL: https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/
+- Original source: https://vostride.com
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, android, ios
+- Topics: evaluation, automation, mobile-navigation, memory
+- Evidence checked: 2026-11-09T05:04:59Z
+- ID: url:73e9e26d40de2a60ae05
+
+### Limitations
+
+The page shows a test script for creating and checking an issue in a web app. It describes browser and mobile control, persistent memory, and sandboxed hook execution.
+
+- Record JSON: https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://vostride.com (retrieved 2026-11-09T05:04:59Z; SHA-256 55b13c11c7dc9c410afcde93df11092a8d27062c20dbfb020920b73503620243)
 
 ---
 
@@ -213,6 +246,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AskUI
+
+AskUI runs plain-language Android app tests through visual screen interaction on devices and emulators, with screenshot traces and CI integrations.
+
+- Catalog URL: https://awesomecua.com/resources/url-d071f3f5a01a5f9d6d78/
+- Original source: https://www.askui.com/blog-posts/askui-vision-agent-achieves-2nd-place-on-androidworld-benchmark
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, automation, evaluation, observability
+- Evidence checked: 2026-11-09T05:05:12Z
+- ID: url:d071f3f5a01a5f9d6d78
+
+### Limitations
+
+The page says AgentOS drives Android targets and Companion Mode supports devices that cannot be instrumented. It lists GitLab CI, Azure DevOps, and Jenkins integrations.
+
+- Record JSON: https://awesomecua.com/resources/url-d071f3f5a01a5f9d6d78/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://www.askui.com/blog-posts/askui-vision-agent-achieves-2nd-place-on-androidworld-benchmark (retrieved 2026-11-09T05:05:12Z; SHA-256 3523f2d31bdbd1749e08c4e8c32c4dfc86db14af60cad300ab01bf583ad0233d)
+
+---
+
 ## Asteroid
 
 Hosted healthcare automation platform whose agents operate EHRs, payer portals and Windows, Linux or Citrix apps from the screen, then turn repeat runs into scripts or private-API calls served as an API.
@@ -278,6 +344,39 @@ The Chrome Web Store listing names browser-use as its inspiration, shows version
 
 - https://chromewebstore.google.com/detail/autobrowser/lebgieachadpombahcacicmebckokcjl (retrieved 2026-10-19T06:15:58Z; SHA-256 7b37717ce632428036d782bb96c06f3600ee31bf3d2a2fb7bbb749ddafe99f9e)
 - https://clients2.google.com/service/update2/crx?response=redirect&prodversion=128.0&acceptformat=crx2,crx3&x=id%3Dlebgieachadpombahcacicmebckokcjl%26uc (retrieved 2026-10-19T06:12:08Z; SHA-256 ea2c0498b2b7b87b619a4cf8737127e8cbbb239ac4a7148695ddb0ac51ffd733)
+
+---
+
+## axiom.ai
+
+Axiom provides browser automation through a Chrome extension, APIs, and an MCP server. AI clients can create and run workflows on cloud browsers or a local desktop.
+
+- Catalog URL: https://awesomecua.com/resources/url-ef5f03efdbd5e3da2ed7/
+- Original source: https://axiom.ai
+- Kind: product
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop
+- Topics: automation, web-navigation, tool-integration, workflow
+- Evidence checked: 2026-11-09T05:05:00Z
+- ID: url:ef5f03efdbd5e3da2ed7
+
+### Limitations
+
+The page names Chrome, Step, and Orchestrate APIs. It also describes a desktop app and scheduled cloud runs.
+
+- Record JSON: https://awesomecua.com/resources/url-ef5f03efdbd5e3da2ed7/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://axiom.ai (retrieved 2026-11-09T05:05:00Z; SHA-256 3a6a5b166035f7a75831021a9b319abb28691453d7b0e0ee49f191db490881a6)
 
 ---
 
@@ -383,6 +482,39 @@ The help center describes two ways to train a robot: Table Studio, where AI buil
 
 - https://www.browse.ai/llms.txt (retrieved 2026-10-20T04:57:53Z; SHA-256 5d82b904c4d09ea2ed499511e503ee40fea5763758d663473857b104030cb4d8)
 - https://help.browse.ai/en/articles/10445807-what-are-robots-and-what-can-they-do.md (retrieved 2026-10-20T04:26:59Z; SHA-256 31457812c3a33a5c518daf1920ee1206007fcb0a4c97db7afc61c385fa7b4917)
+
+---
+
+## Browser Operator
+
+Browser Operator is Opera's preview browser agent for carrying out natural-language browsing tasks while showing its steps and allowing user takeover.
+
+- Catalog URL: https://awesomecua.com/resources/url-9f296457c8ca46446c1f/
+- Original source: https://press.opera.com/2025/03/03/opera-browser-operator-ai-agentics
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, human-in-the-loop, automation
+- Evidence checked: 2026-11-09T05:05:08Z
+- ID: url:9f296457c8ca46446c1f
+
+### Limitations
+
+The announcement describes client-side operation inside the browser and says the feature was available as a preview at publication.
+
+- Record JSON: https://awesomecua.com/resources/url-9f296457c8ca46446c1f/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://press.opera.com/2025/03/03/opera-browser-operator-ai-agentics (retrieved 2026-11-09T05:05:08Z; SHA-256 281a09dbc322d68e2035ba974937bcb55c0560605dd22f530b5d54768dd9e3b6)
 
 ---
 
@@ -725,6 +857,39 @@ The homepage targets payer-portal and EHR workflows and says every run executes 
 
 ---
 
+## Computer Agents
+
+A cloud agent platform that gives agents persistent computers with browser, GUI, terminal, and file access, alongside project workspaces and workflow triggers.
+
+- Catalog URL: https://awesomecua.com/resources/url-e73eb2f901a50145c37e/
+- Original source: https://computer-agents.com
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: automation, workflow, industry, sandbox
+- Evidence checked: 2026-11-09T05:05:18Z
+- ID: url:e73eb2f901a50145c37e
+
+### Limitations
+
+The page describes Python and TypeScript SDKs, schedules, webhooks, email triggers, and isolated cloud containers. It also lists iOS and Mac apps.
+
+- Record JSON: https://awesomecua.com/resources/url-e73eb2f901a50145c37e/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://computer-agents.com (retrieved 2026-11-09T05:05:18Z; SHA-256 60c6f344673f6b63601854fd30cd68416eb0d36ba582678f796c5faa37cabfb2)
+
+---
+
 ## Copilot Studio computer use
 
 Copilot Studio agent tool that operates websites and Windows desktop apps on a configured machine through a computer-using model, with stored credentials, site and app allow lists and human supervision.
@@ -897,6 +1062,39 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://e2b.dev/ (retrieved 2026-10-16T06:38:28Z; SHA-256 6232364481bbae45a3fcec1d1aca858493baff0693ececa98b09b610183e6796)
+
+---
+
+## ego(lite)
+
+A Chromium browser that lets AI agents automate signed-in websites through an agent skill, with separate workspaces for agent tasks and page snapshots for navigation.
+
+- Catalog URL: https://awesomecua.com/resources/url-45dabd68921824b298ca/
+- Original source: https://lite.ego.app
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: web-navigation, automation, sandbox, industry
+- Evidence checked: 2026-11-09T05:04:57Z
+- ID: url:45dabd68921824b298ca
+
+### Limitations
+
+The page says the browser can import a user's Chrome setup and keep browser data locally. Agents connect through the ego-browser skill and work in separate Spaces.
+
+- Record JSON: https://awesomecua.com/resources/url-45dabd68921824b298ca/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://lite.ego.app (retrieved 2026-11-09T05:04:57Z; SHA-256 4dbed9497499c51f1c7d8f690d55e5d0a36fb3ae49643598b50355df8699b776)
 
 ---
 
@@ -1250,6 +1448,72 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Narada Code and OperatorMini
+
+Narada Code develops and tests computer-use workflows, then revises them after failures. OperatorMini executes the instructions for repeatable web and enterprise tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-fd28110220935a0fae26/
+- Original source: https://narada.ai/blog/introducing-narada-code-operatormini
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: workflow, web-navigation, cross-app, self-reflection
+- Evidence checked: 2026-11-09T05:05:17Z
+- ID: url:fd28110220935a0fae26
+
+### Limitations
+
+The announcement says Narada Code tests workflows in a sandbox and can work with existing coding harnesses. Narada reports WebArena results for combined development and execution configurations.
+
+- Record JSON: https://awesomecua.com/resources/url-fd28110220935a0fae26/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://narada.ai/blog/introducing-narada-code-operatormini (retrieved 2026-11-09T05:05:17Z; SHA-256 fa97be10847ec7859e3d8681b676287895b34d5edb124adfeda18fcf73a0eb00)
+
+---
+
+## Narada Operator
+
+Narada Operator is an enterprise web agent that executes workflows across web interfaces and APIs using task planning and error recovery.
+
+- Catalog URL: https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/
+- Original source: https://narada.ai/blog/narada-ai-web-agent-operator
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, workflow, tool-integration, industry
+- Evidence checked: 2026-11-09T05:05:00Z
+- ID: url:68d09b76ec0f61b7a6c5
+
+### Limitations
+
+Narada says the product offers session monitoring and replay, sensitive-workflow takeover modes, and a Chrome extension for trying the consumer version.
+
+- Record JSON: https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://narada.ai/blog/narada-ai-web-agent-operator (retrieved 2026-11-09T05:05:00Z; SHA-256 9f249d507764318b6649f76b9409dff7cd3e2e2f0fbc55b8c47ecd34133f385c)
+
+---
+
 ## Opera Neon
 
 Opera's subscription agentic browser whose Neon Do agent opens, closes and acts across tabs inside the user's logged-in session, with task workspaces, prompt cards and MCP or CLI access for outside agents.
@@ -1349,6 +1613,39 @@ Predicate Systems Inc. was formerly SentienceAPI; www.sentienceapi.com redirects
 - https://predicatesystems.ai (retrieved 2026-10-20T07:47:34Z; SHA-256 36c1848163bd104823d84ec9f4cf619f8d7756ea9560c993513742681423c7ca)
 - https://predicatesystems.ai/docs/sdk/overview (retrieved 2026-10-20T05:04:58Z; SHA-256 62e882ba04cdd54ba3a514b40531ed720db93b1973ba885c85b4ae5d09a516d1)
 - https://predicatesystems.ai/how-it-works (retrieved 2026-10-20T05:04:59Z; SHA-256 efa6f03629601068ec049ef9c1e54f69a4f34b9c498d74cf3c5e1a7bb29ce5e6)
+
+---
+
+## Process Discovery
+
+An enterprise process-discovery product that captures activity across desktops and web apps, then maps workflows to identify patterns and automation opportunities.
+
+- Catalog URL: https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/
+- Original source: https://www.automationanywhere.com/products/process-discovery
+- Kind: product
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, windows, web
+- Topics: recording, workflow, industry
+- Evidence checked: 2026-11-09T05:05:21Z
+- ID: url:79e0b911afaf4313fa6c
+
+### Limitations
+
+The page describes computer-vision capture, workflow visualizations, cloud processing, and a gateway that redacts personal information before upload.
+
+- Record JSON: https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://www.automationanywhere.com/products/process-discovery (retrieved 2026-11-09T05:05:21Z; SHA-256 08005887f0c2e662a94654249c6a2985c04f75ad3a8449dd88bc0be60c24f913)
 
 ---
 

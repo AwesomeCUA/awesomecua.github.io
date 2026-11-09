@@ -131,8 +131,12 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   CogVLM2 releases high-resolution image and video vision-language models supporting visual grounding, document reading, and GUI understanding.
 - [CombatVLA](https://awesomecua.com/resources/github-chenvoid-combatvla/) — Date not recorded
   CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.
+- [GUI-Vid](https://awesomecua.com/resources/url-579b1c0ceac633eeb328/) — Date not recorded
+  GUI-Vid is a released video language model retrained on GUI-World for understanding graphical interfaces in video.
 - [InternVL](https://awesomecua.com/resources/github-opengvlab-internvl/) — Date not recorded
   Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.
+- [Magma-8B](https://awesomecua.com/resources/url-d3247ff0ff9a1f6bc247/) — Date not recorded
+  Magma-8B is a released multimodal agent checkpoint whose card shows UI navigation tasks alongside robot manipulation and describes training with video data.
 - [Qwen3-VL / Qwen2.5-VL](https://awesomecua.com/resources/github-qwenlm-qwen3-vl/) — Date not recorded
   Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
 

@@ -82,3 +82,5 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
   Bilingual curated reading list of GUI, computer-use, and browser agent security papers organized along attack and defense axes.
 - [Awesome Multimodal Agentic Coding](https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/) — Date not recorded
   Comprehensive research map of papers, benchmarks, and tools for multimodal coding and UI-verifying agents.
+- [Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches](https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/) — Date not recorded
+  A curated reading list and accompanying report organize computer-use research, including agents that act through web, desktop, and mobile interfaces.

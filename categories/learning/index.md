@@ -1,10 +1,43 @@
 # Computer-use agent learning resources
 
-> 10 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 12 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
 
 HTML page: https://awesomecua.com/categories/learning/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## Achieving 91.4% on Android World: A New Approach to Mobile UI Automation
+
+Technical article describing an Android UI agent that alternates planning with single actions, checks screen changes and uses a dedicated text editing path. It reports AndroidWorld results.
+
+- Catalog URL: https://awesomecua.com/resources/url-f8b67bde8c79e7934a2a/
+- Original source: https://droidrun.ai/benchmark/method
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, planning, state-tracking, evaluation
+- Evidence checked: 2026-11-09T05:05:04Z
+- ID: url:f8b67bde8c79e7934a2a
+
+### Limitations
+
+The article lists click, long press, typing, system button, swipe, app opening, copy and paste actions. It says the agent uses screenshots and accessibility trees to track state.
+
+- Record JSON: https://awesomecua.com/resources/url-f8b67bde8c79e7934a2a/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://droidrun.ai/benchmark/method (retrieved 2026-11-09T05:05:04Z; SHA-256 eaa4aa4eb2b2b5d33f82d5ff4e5eba949454b24a20e5814ad8e2cc4016365d5c)
 
 ---
 
@@ -240,6 +273,39 @@ Review covers the public syllabus and complete published transcripts of the simp
 - https://www.deeplearning.ai/courses/building-ai-browser-agents (retrieved 2026-10-20T12:51:44.325799+00:00; SHA-256 1f0315e8758fe0edd97adb2c5253955dcdbe6d7bd8be393fe14dcd093483705f)
 - https://learn.deeplearning.ai/courses/building-ai-browser-agents/lesson/wwewm/building-a-simple-web-agent (retrieved 2026-10-20T13:41:10.403317+00:00; SHA-256 0915d862638a308da6200d9603d668ab4d11bcabfa713ff0ccb82c7b21a5a92f)
 - https://learn.deeplearning.ai/courses/building-ai-browser-agents/lesson/lot5j/building-an-autonomous-web-agent (retrieved 2026-10-20T13:42:56.029732+00:00; SHA-256 20d17ca47d1d16826f8e2736d6639d0cf11e826ef28c788187e16adcac9d7561)
+
+---
+
+## Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches
+
+A curated reading list and accompanying report organize computer-use research, including agents that act through web, desktop, and mobile interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/
+- Original source: https://github.com/cdxeve/awesome-computer-use-agents
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: survey, web-navigation, mobile-navigation
+- Evidence checked: 2026-11-09T05:04:59Z
+- ID: github:cdxeve/awesome-computer-use-agents
+
+### Limitations
+
+The repository contains a README reading list and a linked PDF overview report.
+
+- Record JSON: https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cdxeve/awesome-computer-use-agents/HEAD/README.md (retrieved 2026-11-09T05:04:59Z; SHA-256 cb10a118fa532ac1c48b51ad73c5d9e052458379d214cf178557ac748dcfe749)
 
 ---
 

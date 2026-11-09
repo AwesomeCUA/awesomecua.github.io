@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/categories/tool/page/4/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [dsh-browser-playwright](https://awesomecua.com/resources/github-chenyuheee-dsh-browser-playwright/)
+- [dsh-browser-plus](https://awesomecua.com/resources/github-particlelight-dsh-browser-plus/)
+- [dsh-browser-secure](https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/)
+- [dsh-browser-vision](https://awesomecua.com/resources/github-tristan-mcinnis-dsh-browser-vision/)
+- [dsh-browseruse](https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/)
 - [dsh-chrome](https://awesomecua.com/resources/github-stuarthu-dsh-chrome/)
 - [dsh-click](https://awesomecua.com/resources/github-perrylink-dsh-click/)
 - [dsh-cloak-browser](https://awesomecua.com/resources/github-maxiaovivi-dsh-cloak-browser/)
@@ -58,6 +63,7 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [FerrisGrid-CLI](https://awesomecua.com/resources/github-brunov21-ferrisgrid-cli/)
 - [Firecrawl](https://awesomecua.com/resources/github-firecrawl-firecrawl/)
 - [Firecrawl Agent-Browser Plugin](https://awesomecua.com/resources/github-firecrawl-agent-browser-plugin-firecrawl/)
+- [Firecrawl MCP Server](https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/)
 - [firefox-bidi-mcp](https://awesomecua.com/resources/github-enne2-firefox-bidi-mcp/)
 - [firefox-headless-server MCP](https://awesomecua.com/resources/github-qoli-firefox-headless-server/)
 - [Flash Computer Use](https://awesomecua.com/resources/github-shortsspectrumai-del-flash-computer-use/)
@@ -97,10 +103,4 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [grokbot-cdp](https://awesomecua.com/resources/github-daizedong-grokbot-cdp/)
 - [gsearch-rs](https://awesomecua.com/resources/github-be90nia-gsearch-rs/)
 - [GUI Grounding Evaluation Harness](https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/)
-- [GUI Label Tool](https://awesomecua.com/resources/github-ethanyxx-gui-label-tool/)
-- [GUI Object Detection Benchmark & Models](https://awesomecua.com/resources/github-chenjshnn-object-detection-for-graphical-user-interface/)
-- [gui-report-automation](https://awesomecua.com/resources/github-loncoeng-gui-report-automation/)
-- [gui_agent (FastMCP Desktop Server)](https://awesomecua.com/resources/github-leandre755-gui-agent/)
-- [guo6x dsh-pilot](https://awesomecua.com/resources/github-guo6x-dsh-pilot/)
-- [haden-browser](https://awesomecua.com/resources/github-haden-min-haden-browser/)
-- [hanzhangzzz dsh-computer-use](https://awesomecua.com/resources/github-hanzhangzzz-dsh-computer-use/)
+- [GUI Grounding Pre-training Data for SeeClick](https://awesomecua.com/resources/github-chuyg1005-seeclick-crawler/)

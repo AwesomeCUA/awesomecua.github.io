@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/categories/framework/page/2/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [browser-agent-kit](https://awesomecua.com/resources/github-nicolascine-browser-agent-kit/)
+- [browser-for-ai (bfa)](https://awesomecua.com/resources/github-icueth-browser-for-ai/)
+- [browser-harness-bidi](https://awesomecua.com/resources/github-andrewdzzz-browser-harness-bidi/)
 - [Browser-Use Vision](https://awesomecua.com/resources/github-raidriar7170-browser-use-vision/)
 - [browser-use-rs](https://awesomecua.com/resources/github-bb-fat-browser-use-rs/)
 - [Browser4](https://awesomecua.com/resources/github-platonai-browser4/)
@@ -77,6 +80,7 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [deskwork](https://awesomecua.com/resources/github-ashnkumar-deskwork/)
 - [Deterministic Computer-Use Automation](https://awesomecua.com/resources/github-joncody-computer-use-automation/)
 - [device-use](https://awesomecua.com/resources/github-labclaw-device-use/)
+- [DeviceBay](https://awesomecua.com/resources/github-agentsea-devicebay/)
 - [dibs](https://awesomecua.com/resources/github-joshteravest-dibs/)
 - [Digi-Q](https://awesomecua.com/resources/github-digirl-agent-digiq/)
 - [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/)
@@ -100,7 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [ESP (Echo-Skeleton Perception)](https://awesomecua.com/resources/github-badtheorylabs-esp/)
 - [ETO (Exploration-Based Trajectory Optimization)](https://awesomecua.com/resources/github-yifan-song793-eto/)
 - [EvalOps browser-use-rs](https://awesomecua.com/resources/github-dx-corp-browser-use-rs/)
-- [Evidence Workspace](https://awesomecua.com/resources/github-anand-0038-evidence-workspace/)
-- [Evidence-Bounded GEO Workbench (WebMCP)](https://awesomecua.com/resources/github-subbu-ctd-chinamarketingai-webmcp/)
-- [ExpActivator](https://awesomecua.com/resources/github-fyzhang1-expactivator/)
-- [Explorer](https://awesomecua.com/resources/github-osu-nlp-group-explorer/)

@@ -179,6 +179,8 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
 
 - [GLM-V](https://awesomecua.com/resources/github-zai-org-glm-v/) — Date not recorded
   Z.ai repository for the open-weight GLM-4.1V-Thinking, GLM-4.5V and GLM-4.6V vision-language models, with GUI-agent prompt examples for mobile, PC and web plus a released VLM reward system.
+- [GUI-Actor-Verifier-2B](https://awesomecua.com/resources/url-9b653775f6b9270304d3/) — Date not recorded
+  A GUI grounding verifier that checks whether a marked screenshot position matches an instruction and provides a score for candidate action positions.
 - [GUI-G2 3B](https://awesomecua.com/resources/url-d80fa13b647c4020a755/) — Date not recorded
   The 3B GUI-G2 grounding checkpoint: Qwen2.5-VL-3B-Instruct fine-tuned with Gaussian point and coverage rewards to locate interface elements in screenshots from text instructions.
 - [GUI-G2 7B](https://awesomecua.com/resources/url-90eea6f6d099a3297850/) — Date not recorded
@@ -189,6 +191,10 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   The outcome-supervision checkpoint used by WebRL to score browser trajectories during policy training.
 - [WebShepherd 3B](https://awesomecua.com/resources/url-72f7fe0211c6551b945f/) — Date not recorded
   A public text-based process-reward checkpoint from the Web-Shepherd collection for scoring web-agent decisions against task checklists.
+- [ZeroGUI-AndroidLab-7B](https://awesomecua.com/resources/url-f75cab7180d8f5264606/) — Date not recorded
+  ZeroGUI-AndroidLab-7B is a GUI-agent checkpoint associated with training that generates interface tasks, estimates rewards from screenshots, and adapts through online reinforcement learning.
+- [ZeroGUI-OSWorld-7B](https://awesomecua.com/resources/url-6ea345c7ba56049476e8/) — Date not recorded
+  A GUI agent checkpoint associated with ZeroGUI, which trains on generated interface tasks using rewards estimated from trajectory screenshots.
 
 ## 工程与产业
 

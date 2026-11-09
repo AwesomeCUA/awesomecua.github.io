@@ -4,6 +4,20 @@ HTML page: https://awesomecua.com/categories/tool/page/9/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [winctl-mcp](https://awesomecua.com/resources/github-shult-winctl-mcp/)
+- [Windows Agent Browser (winbrowse)](https://awesomecua.com/resources/github-civitasmass-windows-agent-browser/)
+- [Windows Computer Use MCP (DXGI + UIA)](https://awesomecua.com/resources/github-betrayzl-windows-computer-use-mcp/)
+- [Windows Local Action Recorder](https://awesomecua.com/resources/github-week833-windows-local-action-recorder/)
+- [Windows Sandbox Computer Use Skill](https://awesomecua.com/resources/github-2018wzh-windows-sandbox-computer-use/)
+- [windows-computer-use-mcp](https://awesomecua.com/resources/github-sandraschi-windows-computer-use-mcp/)
+- [windows-computer-use-mcp (Scan-Code & Multi-Monitor)](https://awesomecua.com/resources/github-sshh12-windows-computer-use-mcp/)
+- [windows-gui-mcp](https://awesomecua.com/resources/github-dcl632-windows-gui-mcp/)
+- [Windows-MCP](https://awesomecua.com/resources/github-cursortouch-windows-mcp/)
+- [WinMind](https://awesomecua.com/resources/github-jhonpork1233-beep-win-mind/)
+- [WinReach MCP](https://awesomecua.com/resources/github-ghoui-winreach-mcp/)
+- [winuse-mcp](https://awesomecua.com/resources/github-ryanportfolio-winuse-mcp/)
+- [Witness](https://awesomecua.com/resources/github-ericfinland-witness/)
+- [wix-editor-mcp](https://awesomecua.com/resources/github-naieum-wix-editor-mcp/)
 - [Wraith](https://awesomecua.com/resources/github-nightraven-x-wraith/)
 - [x11-computer-use](https://awesomecua.com/resources/github-ja-plus-x11-computer-use/)
 - [xa11y](https://awesomecua.com/resources/github-xa11y-xa11y/)
@@ -21,6 +35,7 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [zetakai desktop-mcp](https://awesomecua.com/resources/github-zetakai-desktop-mcp/)
 - [Zhubi (朱笔)](https://awesomecua.com/resources/github-icesword0760-zhubi/)
 - [Zhuque Recruiting (朱雀招聘)](https://awesomecua.com/resources/github-shenkemin-sketch-zhuque-recruiting/)
+- [ZonUI-3B](https://awesomecua.com/resources/github-han1018-zonui-3b/)
 - [ZRui-C DSH Computer Use](https://awesomecua.com/resources/github-zrui-c-dsh-computer-use/)
 - [zseven-w DSH Browser](https://awesomecua.com/resources/github-zseven-w-dsh-browser/)
 - [zseven-w DSH Computer](https://awesomecua.com/resources/github-zseven-w-dsh-computer/)

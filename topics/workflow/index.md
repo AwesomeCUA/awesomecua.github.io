@@ -325,6 +325,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Visual agent evaluation on data-science and engineering workflows.
 - [TheAgentCompany](https://awesomecua.com/resources/github-theagentcompany-theagentcompany/) — Date not recorded
   Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.
+- [UniClawBench](https://awesomecua.com/resources/github-hku-mmlab-uniclawbench/) — Date not recorded
+  UniClawBench evaluates agents on tool, browser, file, and desktop GUI workflows. Its bilingual release contains 400 tasks, Docker runtimes, and trace review tools.
 - [WONDERBREAD](https://awesomecua.com/resources/github-hazyresearch-wonderbread/) — Date not recorded
   An offline benchmark of workflow documentation, quality assessment and knowledge transfer using human web-navigation demonstrations, action traces and written procedures.
 - [WorkArena](https://awesomecua.com/resources/github-servicenow-workarena/) — Date not recorded
@@ -332,10 +334,21 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
 
 ## Datasets
 
+- [ClawBench](https://awesomecua.com/resources/url-9c96a767b56ba0eb4494/) — Date not recorded
+  A browser-agent task corpus for everyday work on live websites, with V1 and V2 test splits, task context, and schemas that intercept final submissions.
 - [ScienceBoard evaluation trajectories](https://awesomecua.com/resources/url-4784f63cd7117f64a2a3/) — Date not recorded
   Archives of ScienceBoard agent evaluation runs, separated by agent configuration and screenshot, accessibility-tree or set-of-marks observation mode.
+- [TreeCUA-Datasets](https://awesomecua.com/resources/url-2e8bba756c71f9fe3fbd/) — Date not recorded
+  TreeCUA-Datasets releases GUI exploration trees with setup files, action sequences, goals, and verification results. Users replay the trees in OSWorld to reconstruct screen observations.
+- [WikiHow Task Set](https://awesomecua.com/resources/url-25af759a783f1514fe58/) — Date not recorded
+  A Mobile-Env task set for evaluating navigation in the WikiHow app, with supplementary tasks across Android apps. It provides task definitions and rewritten instructions.
 - [WorkDemo-350](https://awesomecua.com/resources/url-243ab00712ba19cc2089/) — Date not recorded
   Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.
+
+## Models
+
+- [Holo3](https://awesomecua.com/resources/url-a03c649e4b14e293e2dd/) — Date not recorded
+  Holo3 is a computer-use model family trained on synthetic navigation and enterprise workflows. Its publisher reports desktop benchmark results and offers inference access and an open checkpoint.
 
 ## Engineering & industry
 
@@ -351,6 +364,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Converts continuous local desktop activity into structured, queryable workflow frames served over MCP.
 - [ACUTE-CODE](https://awesomecua.com/resources/github-testplay-byte-acute-code/) — Date not recorded
   Local-first, extension-first multi-agent coding and computer-use workbench.
+- [ADP Workforce Now Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-adp-workforce-now-browser-automation/) — Date not recorded
+  A browser automation scaffold for ADP Workforce Now. It provides actions for payroll reports, pay-stub exports, employee updates and tax-form downloads.
 - [Aeiva](https://awesomecua.com/resources/github-chatsci-aeiva/) — Date not recorded
   Aeiva is a modular general-purpose AI agent framework adaptable across desktop, web, and scientific task environments.
 - [Agent Access](https://awesomecua.com/resources/github-r266-tech-agent-access/) — Date not recorded
@@ -377,6 +392,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Agentless resolves software engineering issues through a three-phase localization, repair, and patch validation pipeline.
 - [Agentrooms](https://awesomecua.com/resources/github-baryhuang-claude-code-by-agents/) — Date not recorded
   Agentrooms is a native macOS and iOS application for coordinating multiple local and remote coding agents in shared multi-agent workspaces.
+- [AGI SDK](https://awesomecua.com/resources/github-agi-inc-agisdk/) — Date not recorded
+  AGI SDK provides a browser-agent API and evaluation harness for tasks on deterministic replicas of interactive websites, with support for custom agents.
 - [AI Browser (DeepFundAI)](https://awesomecua.com/resources/github-deepfundai-ai-browser/) — Date not recorded
   Electron desktop browser whose built-in agents, imported from Eko-based npm packages, plan editable multi-step workflows and operate web pages in its own tabs, alongside chat, scheduled tasks and memory.
 - [AI Medical Claim Form-Filling Agent](https://awesomecua.com/resources/github-caicai-jin-ai-medicalclaimform-filling-agent/) — Date not recorded
@@ -425,6 +442,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Automify is a Node.js computer-use framework unifying browser, CLI, and native desktop workflow automation for AI agents.
 - [Awictor Relay](https://awesomecua.com/resources/github-awictor-relay/) — Date not recorded
   Autonomous web agent paired with a self-hosted browser that executes tasks dispatched via messaging apps.
+- [axiom.ai](https://awesomecua.com/resources/url-ef5f03efdbd5e3da2ed7/) — Date not recorded
+  Axiom provides browser automation through a Chrome extension, APIs, and an MCP server. AI clients can create and run workflows on cloud browsers or a local desktop.
 - [BabyAGI](https://awesomecua.com/resources/github-yoheinakajima-babyagi/) — Date not recorded
   BabyAGI is an autonomous task-management agent framework that iteratively creates, prioritizes, and executes tasks using LLMs and vector memory.
 - [Banana Peel MCP](https://awesomecua.com/resources/github-ygdotcom-banana-peel-mcp/) — Date not recorded
@@ -509,6 +528,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Lifecycle-controlled SSH channel manager for driving Codex Desktop sessions on a remote Mac.
 - [Colossus](https://awesomecua.com/resources/github-richardanaya-colossus/) — Date not recorded
   Colossus is a voice-controlled multi-agent development platform for coordinating software engineering tasks.
+- [Computer Agents](https://awesomecua.com/resources/url-e73eb2f901a50145c37e/) — Date not recorded
+  A cloud agent platform that gives agents persistent computers with browser, GUI, terminal, and file access, alongside project workspaces and workflow triggers.
 - [Computer Use OOTB](https://awesomecua.com/resources/github-showlab-computer-use-ootb/) — Date not recorded
   Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claude 3.5 Computer Use over the API or ShowUI and UI-TARS run locally, with multi-display and phone remote control.
 - [Computer-Use Capability Engine](https://awesomecua.com/resources/github-pavanvakula-computer-use-capability-engine/) — Date not recorded
@@ -713,6 +734,10 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   nanoMuse is an open-source personal agent that maintains persistent cross-device memory and executes browser, desktop, and mobile tasks.
 - [Napaxi](https://awesomecua.com/resources/github-antgroup-napaxi/) — Date not recorded
   Mobile-native agent SDK by Ant Group for building on-device AI agents with sandboxed skill execution.
+- [Narada Code and OperatorMini](https://awesomecua.com/resources/url-fd28110220935a0fae26/) — Date not recorded
+  Narada Code develops and tests computer-use workflows, then revises them after failures. OperatorMini executes the instructions for repeatable web and enterprise tasks.
+- [Narada Operator](https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/) — Date not recorded
+  Narada Operator is an enterprise web agent that executes workflows across web interfaces and APIs using task planning and error recovery.
 - [Native by K](https://awesomecua.com/resources/github-karunya-muddana-native/) — Date not recorded
   Local-first open-source AI agent harness for developers integrating terminal, filesystem, and browser control.
 - [navforge](https://awesomecua.com/resources/github-huzjie-navforge/) — Date not recorded
@@ -787,6 +812,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Governable, local-first desktop agent runtime with policy enforcement and auditable execution traces.
 - [Prism-Shadow Travel Agent](https://awesomecua.com/resources/github-prism-shadow-travel-agent/) — Date not recorded
   Open-source travel planning browser agent that searches and compares flights and hotels across live booking websites.
+- [Process Discovery](https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/) — Date not recorded
+  An enterprise process-discovery product that captures activity across desktops and web apps, then maps workflows to identify patterns and automation opportunities.
 - [ProfileFleet](https://awesomecua.com/resources/github-enginefuture-profilefleet/) — Date not recorded
   Local-first TypeScript orchestration plane for managing persistent fingerprint-browser profiles across AI agents.
 - [Project Interface (Legacy Web UI Compiler)](https://awesomecua.com/resources/github-shahadeven-project-interface/) — Date not recorded
@@ -823,6 +850,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Compiles repeated browser, desktop, Android, and office workflows into reviewed, deterministic RPA skills for AI agents.
 - [Ruflo](https://awesomecua.com/resources/github-ruvnet-ruflo/) — Date not recorded
   Ruflo is an agent orchestration and MCP meta-harness for coordinating multi-agent swarms across Claude Code, Codex, and Cursor.
+- [SAP SuccessFactors Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-successfactors-browser-automation/) — Date not recorded
+  A browser automation scaffold for SAP SuccessFactors. It includes actions for workforce reports, employee goals, compensation worksheets and organization-chart exports.
 - [Scribe](https://awesomecua.com/resources/url-63ef8c7e455951a20281/) — Date not recorded
   Workflow recording and documentation product adjacent to agent data collection.
 - [Semantic Kernel](https://awesomecua.com/resources/github-microsoft-semantic-kernel/) — Date not recorded

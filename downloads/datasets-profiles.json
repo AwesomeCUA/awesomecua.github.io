@@ -2,7 +2,7 @@
   "schema_version": 1,
   "kind": "dataset",
   "profile_count": 125,
-  "curated_resource_count": 158,
+  "curated_resource_count": 185,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [

@@ -58,8 +58,15 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
 - [AutomotiveUI-Bench-4K](https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/) — Date not recorded
   Offline test set of 998 photos and screenshots of in-vehicle infotainment screens from 15 brands, with 4,208 English annotations for locating UI elements and judging expected results as passed or failed.
 
+## 模型
+
+- [Holo3](https://awesomecua.com/resources/url-a03c649e4b14e293e2dd/) — Date not recorded
+  Holo3 is a computer-use model family trained on synthetic navigation and enterprise workflows. Its publisher reports desktop benchmark results and offers inference access and an open checkpoint.
+
 ## 工程与产业
 
+- [ADP Workforce Now Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-adp-workforce-now-browser-automation/) — Date not recorded
+  A browser automation scaffold for ADP Workforce Now. It provides actions for payroll reports, pay-stub exports, employee updates and tax-form downloads.
 - [Anthropic](https://awesomecua.com/resources/organization-anthropic/) — Date not recorded
   Publisher or product brand associated with Anthropic computer-use or browser automation offerings.
 - [AskUI](https://awesomecua.com/resources/organization-askui/) — Date not recorded
@@ -74,22 +81,34 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
   Publisher or product brand associated with Browserbase computer-use or browser automation offerings.
 - [Browserless](https://awesomecua.com/resources/organization-browserless/) — Date not recorded
   Publisher or product brand associated with Browserless computer-use or browser automation offerings.
+- [Computer Agents](https://awesomecua.com/resources/url-e73eb2f901a50145c37e/) — Date not recorded
+  A cloud agent platform that gives agents persistent computers with browser, GUI, terminal, and file access, alongside project workspaces and workflow triggers.
 - [CUGA](https://awesomecua.com/resources/github-cuga-project-cuga-agent/) — Date not recorded
   Enterprise generalist agent harness that plans over APIs and MCP or OpenAPI tools and, in web or hybrid mode, acts on pages through a browser extension, with intent guards, tool approval and tool guards.
 - [E2B](https://awesomecua.com/resources/organization-e2b/) — Date not recorded
   Publisher or product brand associated with E2B computer-use or browser automation offerings.
+- [ego(lite)](https://awesomecua.com/resources/url-45dabd68921824b298ca/) — Date not recorded
+  A Chromium browser that lets AI agents automate signed-in websites through an agent skill, with separate workspaces for agent tasks and page snapshots for navigation.
 - [Google](https://awesomecua.com/resources/organization-google/) — Date not recorded
   Publisher or product brand associated with Google computer-use or browser automation offerings.
 - [H](https://awesomecua.com/resources/organization-h/) — Date not recorded
   Publisher or product brand associated with H computer-use or browser automation offerings.
+- [Huzzle Labs](https://awesomecua.com/resources/url-913a72e8929afd96ad07/) — Date not recorded
+  Company developing computer-use models, RL environments and evaluations for AI labs and enterprise work. Its site describes the Huzzle World model family.
 - [Hyperbrowser](https://awesomecua.com/resources/organization-hyperbrowser/) — Date not recorded
   Publisher or product brand associated with Hyperbrowser computer-use or browser automation offerings.
 - [Manus](https://awesomecua.com/resources/organization-manus/) — Date not recorded
   Publisher or product brand associated with Manus computer-use or browser automation offerings.
 - [Microsoft](https://awesomecua.com/resources/organization-microsoft/) — Date not recorded
   Publisher or product brand associated with Microsoft computer-use or browser automation offerings.
+- [Narada Operator](https://awesomecua.com/resources/url-68d09b76ec0f61b7a6c5/) — Date not recorded
+  Narada Operator is an enterprise web agent that executes workflows across web interfaces and APIs using task planning and error recovery.
 - [OpenAI](https://awesomecua.com/resources/organization-openai/) — Date not recorded
   Publisher or product brand associated with OpenAI computer-use or browser automation offerings.
+- [Process Discovery](https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/) — Date not recorded
+  An enterprise process-discovery product that captures activity across desktops and web apps, then maps workflows to identify patterns and automation opportunities.
+- [SAP SuccessFactors Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-successfactors-browser-automation/) — Date not recorded
+  A browser automation scaffold for SAP SuccessFactors. It includes actions for workforce reports, employee goals, compensation worksheets and organization-chart exports.
 - [Simular](https://awesomecua.com/resources/organization-simular/) — Date not recorded
   Publisher or product brand associated with Simular computer-use or browser automation offerings.
 - [Skyvern](https://awesomecua.com/resources/organization-skyvern/) — Date not recorded

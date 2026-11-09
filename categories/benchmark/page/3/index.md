@@ -4,11 +4,17 @@ HTML page: https://awesomecua.com/categories/benchmark/page/3/
 
 Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 
+- [SWE-bench Multimodal](https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/)
+- [SWEeper-Bench](https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/)
+- [taskproof](https://awesomecua.com/resources/github-taskproof-taskproof/)
+- [TestPilot](https://awesomecua.com/resources/github-h0ngza1-testpilot/)
 - [TheAgentCompany](https://awesomecua.com/resources/github-theagentcompany-theagentcompany/)
 - [TimeWarp](https://awesomecua.com/resources/github-sparklabutah-timewarp/)
+- [TurkingBench](https://awesomecua.com/resources/url-808a22468ee0bf565d6e/)
 - [UI-FaultLab](https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/)
 - [UI-I2E-Bench](https://awesomecua.com/resources/url-c08566be0d973ec40c48/)
 - [UI-NEXUS](https://awesomecua.com/resources/github-starwalkin-ui-nexus/)
+- [UniClawBench](https://awesomecua.com/resources/github-hku-mmlab-uniclawbench/)
 - [UserZero](https://awesomecua.com/resources/github-aafre-userzero/)
 - [Verisim](https://awesomecua.com/resources/github-clay-good-verisim/)
 - [VeriWeb (formerly VeriGUI)](https://awesomecua.com/resources/github-verigui-team-verigui/)

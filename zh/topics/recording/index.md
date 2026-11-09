@@ -64,10 +64,14 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
 
 ## 数据集
 
+- [NAIL-Group/ClawBenchV1Trace](https://awesomecua.com/resources/url-e7653b062bded670198a/) — Date not recorded
+  ClawBench V1 Traces releases browser-agent run records with screen video, actions, network traffic and agent messages for replay, debugging and regrading.
 - [PSAI Computer Use Dataset](https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/) — Date not recorded
   PSAI Computer Use Dataset provides 3,167 human-computer interaction trajectories with synchronized screen video, input events, and DOM/AX snapshots.
 - [PSAI computer-use dataset](https://awesomecua.com/resources/url-10a75e1b7b975b3617ae/) — Date not recorded
   Human computer-use recordings for 3,167 browser and desktop tasks, each with a screen video, input events and reasoning steps, plus screenshots or DOM snapshots for part of the tasks.
+- [VeriGUI](https://awesomecua.com/resources/url-8477ada5b7de1d399c9d/) — Date not recorded
+  VeriWeb dataset of 302 web information-seeking tasks, with annotated subtasks, human action logs, and execution videos for evaluating long-chain agents.
 - [VideoCUA](https://awesomecua.com/resources/url-78adf6919bdbce42bc24/) — Date not recorded
   Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordings with millisecond-timestamped mouse and keyboard action logs for about 10K tasks in 87 applications.
 - [WorkDemo-350](https://awesomecua.com/resources/url-243ab00712ba19cc2089/) — Date not recorded
@@ -151,6 +155,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Windows UI Automation inspection and scripting tool for analyzing UI element trees and building repeatable desktop workflows.
 - [doc-agent](https://awesomecua.com/resources/github-samuel-as-doc-agent/) — Date not recorded
   Claude Code skill that documents a web procedure with annotated screenshots by performing it in a live browser.
+- [DroidAgent](https://awesomecua.com/resources/github-coinse-droidagent/) — Date not recorded
+  An Android GUI testing agent that explores an app from user goals, then generates test scenarios, replay scripts, and reports of its actions.
 - [DSH Patrol](https://awesomecua.com/resources/github-qigelunbiya-dsh-patrol/) — Date not recorded
   Teach-once, patrol-repeatedly website inspection and monitoring plugin for DeepSeek Harness.
 - [dsh-browser-ops](https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/) — Date not recorded
@@ -227,6 +233,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Stateful browser execution layer that records an agent task once, replays it without LLM calls, and self-repairs when selectors change.
 - [Prism AI Screen Reader](https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/) — Date not recorded
   Prism is a macOS screen reader and activity analyzer that captures screenshots and summarizes user desktop workflows with vision-language models.
+- [Process Discovery](https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/) — Date not recorded
+  An enterprise process-discovery product that captures activity across desktops and web apps, then maps workflows to identify patterns and automation opportunities.
 - [Product Demo Video Skill](https://awesomecua.com/resources/github-afnanksalal-product-demo-video-skill/) — Date not recorded
   Codex and Claude Agent Skill that drives live web products in a browser to record truth-linked walkthrough demo videos.
 - [Project Interface (Legacy Web UI Compiler)](https://awesomecua.com/resources/github-shahadeven-project-interface/) — Date not recorded
@@ -259,6 +267,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Compiles repeated browser, desktop, Android, and office workflows into reviewed, deterministic RPA skills for AI agents.
 - [Ruyi (如意)](https://awesomecua.com/resources/github-icesword0760-ruyi/) — Date not recorded
   Ruyi streams remote Chrome sessions to the user's browser for collaborative human-AI control and compiles actions into self-healing scripts.
+- [scrcpy](https://awesomecua.com/resources/github-genymobile-scrcpy/) — Date not recorded
+  scrcpy mirrors Android devices and lets users control them with a computer keyboard and mouse over USB or TCP/IP on Linux, Windows and macOS.
 - [screen2gym](https://awesomecua.com/resources/github-marc-saouda-screen2gym/) — Date not recorded
   screen2gym compiles raw action-labeled screen recordings into resettable, programmatically gradable RL environments for computer-use agents.
 - [screencast-desktop](https://awesomecua.com/resources/github-jhamidun-screencast-desktop/) — Date not recorded

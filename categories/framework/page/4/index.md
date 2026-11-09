@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/categories/framework/page/4/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/)
+- [lvyuan1688 browser-use-rs](https://awesomecua.com/resources/github-lvyuan1688-browser-use-rs/)
+- [Maestro (AI-Drivable RPA)](https://awesomecua.com/resources/github-rexchengm-maestro/)
+- [maestro-oss](https://awesomecua.com/resources/github-victorkaor-maestro-oss/)
+- [Magnitude](https://awesomecua.com/resources/github-magnitudedev-browser-agent/)
 - [MAI](https://awesomecua.com/resources/github-fluxaster-mai/)
 - [MAI-UI inference and evaluation code](https://awesomecua.com/resources/github-tongyi-mai-mai-ui/)
 - [Manipulating Web Agents (Toast Attack)](https://awesomecua.com/resources/github-sej2020-manipulating-web-agents/)
@@ -99,8 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [outlive](https://awesomecua.com/resources/github-sy-d-outlive/)
 - [OWL (Optimized Workforce Learning)](https://awesomecua.com/resources/github-camel-ai-owl/)
 - [Oya Browser](https://awesomecua.com/resources/github-oyadotai-oya-browser/)
-- [OysterWorkflow](https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/)
-- [Pactora](https://awesomecua.com/resources/github-mrnetwork0001-pactora/)
-- [page-agent-sdk](https://awesomecua.com/resources/github-whyymj-page-agent-sdk/)
-- [PageRunner](https://awesomecua.com/resources/github-say-5-pagerunner/)
-- [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/)

@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/categories/tool/page/2/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [axcli](https://awesomecua.com/resources/github-andelf-axcli/)
 - [Axon](https://awesomecua.com/resources/github-gxcsoccer-axon/)
 - [AXTree API](https://awesomecua.com/resources/github-amaar-mc-axtree-api/)
 - [AzaiSakura dsh-computer-use (macOS)](https://awesomecua.com/resources/github-azaisakura-dsh-computer-use/)
@@ -30,6 +31,7 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [Browser Forest MCP Server](https://awesomecua.com/resources/github-jinmojing-browser-forest-mcp-server/)
 - [Browser Harness](https://awesomecua.com/resources/github-browser-use-browser-harness/)
 - [Browser Harness MCP](https://awesomecua.com/resources/github-arneld18-browser-harness-mcp/)
+- [Browser MCP](https://awesomecua.com/resources/github-browsermcp-mcp/)
 - [Browser Takeover Bridge](https://awesomecua.com/resources/github-fangsylar-pixel-browser-takeover-bridge/)
 - [Browser Terminal Use](https://awesomecua.com/resources/github-chaokunyang-browser-terminal-use/)
 - [Browser Use Terminal](https://awesomecua.com/resources/github-browser-use-terminal/)
@@ -58,6 +60,7 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [CaptiOCR](https://awesomecua.com/resources/github-carlosacchi-captiocr/)
 - [Captr for macOS](https://awesomecua.com/resources/github-anaishowland-captr-macos/)
 - [Captr for Windows](https://awesomecua.com/resources/github-anaishowland-captr-windows/)
+- [Capybara-mechanize](https://awesomecua.com/resources/github-jeroenvandijk-capybara-mechanize/)
 - [caravela](https://awesomecua.com/resources/github-kov-caravela/)
 - [cc-haha](https://awesomecua.com/resources/github-nanmicoder-cc-haha/)
 - [CDP Browser Harness](https://awesomecua.com/resources/github-abhishekchhetri020-browser-harness/)
@@ -88,6 +91,7 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [chrome-eye](https://awesomecua.com/resources/github-trvux-chrome-eye/)
 - [ChromeBoost](https://awesomecua.com/resources/github-lordamdal-chromeboost/)
 - [chromedp](https://awesomecua.com/resources/github-chromedp-chromedp/)
+- [chromedp-proxy](https://awesomecua.com/resources/github-chromedp-chromedp-proxy/)
 - [Chromeflow](https://awesomecua.com/resources/github-neodrew-chromeflow/)
 - [ChromeMCP (WSL2-to-Windows Bridge)](https://awesomecua.com/resources/github-rizonetech-chromemcp/)
 - [chromium-screenshots](https://awesomecua.com/resources/github-samestrin-chromium-screenshots/)
@@ -100,7 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [Claude KVM](https://awesomecua.com/resources/github-aras-workspace-claude-kvm/)
 - [Claude Linux Desktop MCP](https://awesomecua.com/resources/github-lukelamb-claude-linux-mcp/)
 - [claude-browser-crawl-cdp](https://awesomecua.com/resources/github-gruncode-claude-browser-crawl-cdp/)
-- [claude-chrome-speed](https://awesomecua.com/resources/github-cr1707-claude-chrome-speed/)
-- [claude-drives-gemini](https://awesomecua.com/resources/github-magicyangg-claude-drives-gemini/)
-- [claude-firefox (Claude Code Browser Bridge)](https://awesomecua.com/resources/github-faran52-claude-code-browser-bridge/)
-- [ClaudeDesk](https://awesomecua.com/resources/github-phantivia-claudedesk/)

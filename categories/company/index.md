@@ -1,6 +1,6 @@
 # Computer-use agent publishers
 
-> 17 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 19 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
 
 HTML page: https://awesomecua.com/categories/company/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -206,6 +206,39 @@ Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and
 
 ---
 
+## Coasty
+
+Coasty develops computer-use environments for agent training and evaluation, using computer and phone interfaces alongside trajectories and outcome checks.
+
+- Catalog URL: https://awesomecua.com/resources/url-05dde0b8766744e94e07/
+- Original source: https://coasty.ai
+- Kind: company
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop
+- Topics: sandbox, reinforcement-learning, evaluation, data-generation
+- Evidence checked: 2026-11-09T05:05:11Z
+- ID: url:05dde0b8766744e94e07
+
+### Limitations
+
+The page describes environment design, agent trajectories, and outcome evaluation as parts of its platform.
+
+- Record JSON: https://awesomecua.com/resources/url-05dde0b8766744e94e07/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://coasty.ai (retrieved 2026-11-09T05:05:11Z; SHA-256 4ff30c15be415f845c1fbb8eeafe5bb4ff94620b4913316120025b5de964694f)
+
+---
+
 ## E2B
 
 Publisher or product brand associated with E2B computer-use or browser automation offerings.
@@ -302,6 +335,39 @@ Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and
 ### Primary evidence
 
 - https://hcompany.ai/research/models (retrieved 2026-10-16T06:38:27Z; SHA-256 84ce0fd682367a6dac5cc5abc39d5c877556024bbf6ffdad30f76fc2ec08523f)
+
+---
+
+## Huzzle Labs
+
+Company developing computer-use models, RL environments and evaluations for AI labs and enterprise work. Its site describes the Huzzle World model family.
+
+- Catalog URL: https://awesomecua.com/resources/url-913a72e8929afd96ad07/
+- Original source: https://labs.huzzle.com
+- Kind: company
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: industry, grounding, reinforcement-learning
+- Evidence checked: 2026-11-09T05:05:02Z
+- ID: url:913a72e8929afd96ad07
+
+### Limitations
+
+The site names Huzzle World models from 1B to 8B and reports ScreenSpot-Pro results for several variants. It also describes an insurance reasoning benchmark as in progress.
+
+- Record JSON: https://awesomecua.com/resources/url-913a72e8929afd96ad07/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://labs.huzzle.com (retrieved 2026-11-09T05:05:02Z; SHA-256 740a4f36489c36829e930f4610bbbe8e4e1dfe7ec3c2a726ef8291ecd1701c12)
 
 ---
 

@@ -1,6 +1,6 @@
 # Computer-use agent benchmarks
 
-> 248 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 254 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -1199,6 +1199,39 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/yas1i/baseerat/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 736b72fc9e8f35f63b1d6a8472c7628870c8285f148b910f15ee7479d8382c24)
+
+---
+
+## BearCubs
+
+A live-web benchmark with 111 questions testing agents' ability to browse and extract factual answers through text and multimodal interactions.
+
+- Catalog URL: https://awesomecua.com/resources/url-86229ebd22143128bcf7/
+- Original source: https://bear-cubs.github.io
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, screen-understanding
+- Evidence checked: 2026-11-09T05:05:19Z
+- ID: url:86229ebd22143128bcf7
+
+### Limitations
+
+The site provides a leaderboard, example trajectories, and autorater code. It says gold answers are available by request for noncommercial research and are not publicly released.
+
+- Record JSON: https://awesomecua.com/resources/url-86229ebd22143128bcf7/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://bear-cubs.github.io (retrieved 2026-11-09T05:05:19Z; SHA-256 b1f73da19162f0fdb4b95a96afe12c1a84a15338738ba46ff61fd5ef2b8ea4be)
 
 ---
 
@@ -3113,6 +3146,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## GBOX MCP + Claude Code
+
+An AndroidWorld benchmark setup that connects a Claude agent to an Android emulator through GBOX MCP and includes a task-completion tool for evaluation.
+
+- Catalog URL: https://awesomecua.com/resources/github-babelcloud-android-world-benchmark/
+- Original source: https://github.com/babelcloud/android_world_benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, sandbox
+- Evidence checked: 2026-11-09T05:05:19Z
+- ID: github:babelcloud/android_world_benchmark
+
+### Limitations
+
+The README requires GBOX and Anthropic API keys, an Android emulator, and a configured box ID. The repository includes AndroidWorld files and scripts for benchmark setup and execution.
+
+- Record JSON: https://awesomecua.com/resources/github-babelcloud-android-world-benchmark/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/babelcloud/android_world_benchmark/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/babelcloud/android_world_benchmark/HEAD/README.md (retrieved 2026-11-09T05:05:19Z; SHA-256 c18f69d865d2ab28a47598e6e1d543d3ba4ff00e1eff4c6228881ef4675487da)
+- https://raw.githubusercontent.com/babelcloud/android_world_benchmark/HEAD/LICENSE (retrieved 2026-11-09T05:07:34Z; SHA-256 b09fcaf4fbc265223c2479c410beef2b98c5e687c78ecedf3452aa12ffc465f1)
+
+---
+
 ## Gomoku Computer-Use Model Comparison
 
 Controlled evaluation benchmark comparing frontier Claude models on interactive board-game reasoning and GUI execution.
@@ -3598,6 +3665,39 @@ Each annotation entry represents a page, not one UI element. README’s illustra
 - https://api.github.com/repos/ant-research/GUIHalluBench/git/trees/master?recursive=1 (retrieved 2026-10-17T14:14:07Z; SHA-256 c0896bc90d515b7bd8fe86b062aeb199bd47570e6eca8474986f5b1ef1d98dbd)
 - https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/LEGAL.md (retrieved 2026-10-17T14:21:09Z; SHA-256 adba50d9794b9ef3f7ec8cbc680f7f1fa3fbf9df0ac8d1f9b9ccab6d941bc11b)
 - https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/.gitattributes (retrieved 2026-10-17T14:34:56Z; SHA-256 8f35fa75be42a7a53e4f96de1b62be84962d2cf1beb8b23dfcfaecfaea4a6b90)
+
+---
+
+## GUITestBench
+
+GUITestBench evaluates Android agents on multistep app defect discovery, using navigation and triggering checks alongside a judge model.
+
+- Catalog URL: https://awesomecua.com/resources/github-adam-bjtu-guitestbench/
+- Original source: https://github.com/ADaM-BJTU/GUITestBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, long-horizon
+- Evidence checked: 2026-11-09T05:05:07Z
+- ID: github:adam-bjtu/guitestbench
+
+### Limitations
+
+The release describes code, configurations and defective APKs. Its setup requires an Android emulator, and the example evaluation command covers 143 tasks.
+
+- Record JSON: https://awesomecua.com/resources/github-adam-bjtu-guitestbench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ADaM-BJTU/GUITestBench/HEAD/README.md (retrieved 2026-11-09T05:05:07Z; SHA-256 d6015bad95ce9ae964268ac8c45da79883574b5dd734a884f91f92ce1fe93db4)
 
 ---
 
@@ -7212,6 +7312,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## RLG-ALE
+
+RLG-ALE evaluates mobile GUI agents on inspectable Android tasks. Its page shows sample episodes with prompts, screenshots, evaluation records, and resettable environments.
+
+- Catalog URL: https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/
+- Original source: https://gbox.ai
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, long-horizon, sandbox
+- Evidence checked: 2026-11-09T05:04:58Z
+- ID: url:0596dd7e97fd30abaadc
+
+### Limitations
+
+The page describes Android 14 touch and text input, deterministic reset, and offline replay. It shows database and UI based task verifiers and offers on-premise deployment.
+
+- Record JSON: https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://gbox.ai (retrieved 2026-11-09T05:04:58Z; SHA-256 e6c97ad441aa403e653ac1ba3890c204ade900275a23a89636e149b62a2f849c)
+
+---
+
 ## SaaS-Bench
 
 106 browser-driven business workflows across 23 self-hosted SaaS apps in six domains, scored by per-task verifiers that read each app's database and give partial credit.
@@ -8264,6 +8397,39 @@ Task counts were computed from the task file's sites and eval.eval_types fields 
 
 ---
 
+## TurkingBench
+
+A web-agent benchmark built from crowdsourcing HTML tasks, with 32.2K instances across 158 tasks and a framework that applies model responses to page controls.
+
+- Catalog URL: https://awesomecua.com/resources/url-808a22468ee0bf565d6e/
+- Original source: https://turkingbench.github.io
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, evaluation, screen-understanding
+- Evidence checked: 2026-11-09T05:05:16Z
+- ID: url:808a22468ee0bf565d6e
+
+### Limitations
+
+The project page links to a paper and code. Its task interfaces include text boxes and radio buttons.
+
+- Record JSON: https://awesomecua.com/resources/url-808a22468ee0bf565d6e/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://turkingbench.github.io (retrieved 2026-11-09T05:05:16Z; SHA-256 f8282a1bfe1b6105cc3a3eb179d2e9391d2114f4f3f9646ba069b099b79cebcf)
+
+---
+
 ## UI-FaultLab
 
 UI-FaultLab benchmarks auditable agent-versus-application failure attribution in visual UI testing workflows.
@@ -8411,6 +8577,40 @@ Template counts are data rows with distinct task IDs, counted with Python's csv 
 - https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv (retrieved 2026-10-20T04:36:17Z; SHA-256 815766e4ba5fa6111289ad66fabc6bdc44ed5ea9af40052e4388b27781771472)
 - https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx (retrieved 2026-10-20T04:36:17Z; SHA-256 819efeb7ea389ff0a340d717e0b39ae5ab89bf7ebcad1b45dac8acf414f5b111)
 - https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/android_world/emulator_init/README.md (retrieved 2026-10-20T04:36:18Z; SHA-256 29d7bcb1df1d7264d685945a580e0238cef82a9e1d3fbae9b2cfffba8a3e5c86)
+
+---
+
+## UniClawBench
+
+UniClawBench evaluates agents on tool, browser, file, and desktop GUI workflows. Its bilingual release contains 400 tasks, Docker runtimes, and trace review tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-hku-mmlab-uniclawbench/
+- Original source: https://github.com/HKU-MMLab/UniClawBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: evaluation, cross-app, workflow, observability
+- Evidence checked: 2026-11-09T05:05:17Z
+- ID: github:hku-mmlab/uniclawbench
+
+### Limitations
+
+The README describes 200 English tasks and 200 mirrored Chinese tasks, with an executor, hidden answer supervisor, and public user simulator. The repository includes a WebUI and distributed dispatch scripts.
+
+- Record JSON: https://awesomecua.com/resources/github-hku-mmlab-uniclawbench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/HKU-MMLab/UniClawBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/HKU-MMLab/UniClawBench/HEAD/README.md (retrieved 2026-11-09T05:05:17Z; SHA-256 4f0c6ae1ffee2bfdfffd4ebd1f12ce8a3bde8a71d4d5393f50a066c2eaebc276)
+- https://raw.githubusercontent.com/HKU-MMLab/UniClawBench/HEAD/LICENSE (retrieved 2026-11-09T05:07:33Z; SHA-256 f2b932ba4cc23fb6e61cb9c8a568f0fec473da0bc4207640ce33b75734375945)
 
 ---
 

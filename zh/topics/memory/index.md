@@ -474,6 +474,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Research code that extracts reusable browser-task routines from demonstrations or prior executions, stores them as workflow memory and reuses them during subsequent navigation.
 - [agent-qa](https://awesomecua.com/resources/github-vostride-agent-qa/) — Date not recorded
   agent-qa is an AI quality-assurance runner that executes natural-language user-journey tests across web, Android, and iOS interfaces.
+- [agent-qa](https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/) — Date not recorded
+  A QA agent that runs plain-language tests against web, Android, and iOS apps. It navigates user flows, verifies outcomes, and stores validated run evidence for reuse.
 - [Agente Pessoal](https://awesomecua.com/resources/github-thomas-adrian-soler-nilsson-agente-pessoal/) — Date not recorded
   Multimodal personal AI desktop assistant with voice interaction, persistent memory, and OS automation.
 - [agentmemory](https://awesomecua.com/resources/github-rohitg00-agentmemory/) — Date not recorded
@@ -566,6 +568,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Hermes Agent is a self-improving autonomous agent by Nous Research with procedural skill synthesis, browser control, and multi-platform sandboxes.
 - [HeySnap](https://awesomecua.com/resources/github-dhamani-aryan-heysnap/) — Date not recorded
   AI-first workspace for capturing files, documents, and live browser context into structured agent memory.
+- [Intelligence Indeed](https://awesomecua.com/resources/github-intelligence-indeed-intelligence-indeed/) — Date not recorded
+  Intelligence Indeed is a desktop GUI agent that loads reusable guidance, probes the current environment and shares task-specific findings across planning and execution.
 - [JARVIS-1](https://awesomecua.com/resources/github-craftjarvis-jarvis-1/) — Date not recorded
   JARVIS-1 is an open-world multimodal Minecraft agent with episodic multimodal memory and goal-conditioned keyboard/mouse control.
 - [Knot Agent](https://awesomecua.com/resources/github-liz-public-knot-agent/) — Date not recorded
@@ -666,6 +670,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   TuriX-CUA is a multi-agent desktop automation framework for macOS and Windows combining planner, actor, reflector, and memory skills.
 - [Webcmd](https://awesomecua.com/resources/github-agentrhq-webcmd/) — Date not recorded
   Webcmd captures and indexes website navigational context as agents browse, compiling site structure into reusable local memory skills.
+- [WebTactix](https://awesomecua.com/resources/url-40795d2c86388ae89f43/) — Date not recorded
+  A web agent that simplifies accessibility trees, explores candidate actions in parallel and stores visited pages in a semantic tree to guide later decisions and recovery.
 - [Xiaoshe Agent (小蛇 Agent)](https://awesomecua.com/resources/github-jackygilbert498-debug-xiaoshe-agent/) — Date not recorded
   Local-first desktop agent built on DeepSeek Harness featuring plugin governance, permission approvals, and completion receipts.
 - [Xiryn](https://awesomecua.com/resources/github-souravberaakaspeed-xiryn/) — Date not recorded

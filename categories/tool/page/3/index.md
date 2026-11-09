@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/categories/tool/page/3/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [claude-chrome-speed](https://awesomecua.com/resources/github-cr1707-claude-chrome-speed/)
+- [claude-drives-gemini](https://awesomecua.com/resources/github-magicyangg-claude-drives-gemini/)
+- [claude-firefox (Claude Code Browser Bridge)](https://awesomecua.com/resources/github-faran52-claude-code-browser-bridge/)
+- [ClaudeDesk](https://awesomecua.com/resources/github-phantivia-claudedesk/)
 - [Clawd Cursor](https://awesomecua.com/resources/github-amrdab-clawdcursor/)
 - [ClawPilot Command Center](https://awesomecua.com/resources/github-edgeagent-clawpilot-command-center/)
 - [ClawTouch MCP](https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-mcp/)
@@ -88,6 +92,7 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [doc-agent](https://awesomecua.com/resources/github-samuel-as-doc-agent/)
 - [DOMShell](https://awesomecua.com/resources/github-apireno-domshell/)
 - [Drisp Browser MCP](https://awesomecua.com/resources/github-drisplabs-browser-mcp/)
+- [DroidBot](https://awesomecua.com/resources/github-honeynet-droidbot/)
 - [DroidLume Agent Control](https://awesomecua.com/resources/github-tageecc-droidlume-agent-control/)
 - [Drover](https://awesomecua.com/resources/github-om-khode-drover/)
 - [DSH Browser Control](https://awesomecua.com/resources/github-ahaway1st-dsh-browser-control/)
@@ -99,8 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [dsh-browser-firefox](https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/)
 - [dsh-browser-full-access](https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/)
 - [dsh-browser-ops](https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/)
-- [dsh-browser-playwright](https://awesomecua.com/resources/github-chenyuheee-dsh-browser-playwright/)
-- [dsh-browser-plus](https://awesomecua.com/resources/github-particlelight-dsh-browser-plus/)
-- [dsh-browser-secure](https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/)
-- [dsh-browser-vision](https://awesomecua.com/resources/github-tristan-mcinnis-dsh-browser-vision/)
-- [dsh-browseruse](https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/)

@@ -1,6 +1,6 @@
 # Computer-use agent agents
 
-> 372 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 390 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T05:26:45Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -380,6 +380,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## agent-qa
+
+QA agent for browser and mobile apps that executes actions through Playwright and Appium, verifies steps, and records runs. Its publisher reports completing all AndroidWorld tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-f7e21b1a3ba5c58a73bc/
+- Original source: https://vostride.com/benchmark/android-world
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web, android, cross-platform
+- Topics: evaluation, mobile-navigation, web-navigation, observability
+- Evidence checked: 2026-11-09T05:05:09Z
+- ID: url:f7e21b1a3ba5c58a73bc
+
+### Limitations
+
+The publisher reports 116 of 116 AndroidWorld tasks passed. It says memory and self-improvement were disabled for those benchmark runs.
+
+- Record JSON: https://awesomecua.com/resources/url-f7e21b1a3ba5c58a73bc/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://vostride.com/benchmark/android-world (retrieved 2026-11-09T05:05:09Z; SHA-256 5f63eab1838dcacaaed160c4b92652303c58268a0f4c78bb1ddb434e67dc2abf)
+
+---
+
 ## AgentDesktopLinux
 
 Linux desktop and VPS computer-use agent for TaskCapitan capable of driving GUI applications and browsers.
@@ -515,6 +548,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AgentOccam
+
+AgentOccam is a web agent that uses webpage descriptions and action strings to carry out tasks from a URL and instruction. Its repository includes task configurations and evaluation scripts.
+
+- Catalog URL: https://awesomecua.com/resources/github-amazon-science-agentoccam/
+- Original source: https://github.com/amazon-science/AgentOccam
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, training-free, evaluation
+- Evidence checked: 2026-11-09T05:05:17Z
+- ID: github:amazon-science/agentoccam
+
+### Limitations
+
+The README gives setup and run instructions for WebArena and WebVoyager. It links trajectory folders and names human assessment CSV files.
+
+- Record JSON: https://awesomecua.com/resources/github-amazon-science-agentoccam/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/amazon-science/AgentOccam/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/amazon-science/AgentOccam/HEAD/README.md (retrieved 2026-11-09T05:05:17Z; SHA-256 45c085f425f03002757f2c416c5af6e27a631bb5817e80b11d60a90f57f52788)
+- https://raw.githubusercontent.com/amazon-science/AgentOccam/HEAD/LICENSE (retrieved 2026-11-09T05:07:33Z; SHA-256 09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b)
+
+---
+
 ## AgentP
 
 AgentP is a fast macOS computer-use agent where Gemini plans once and a local Jev System-One model executes steps via the Accessibility API.
@@ -546,6 +613,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/omerfeyzioglu/agentp-macos/HEAD/README.md (retrieved 2026-11-04T14:41:47Z; SHA-256 b6e4a7c16fdfcf10e9511d747327915cec16eb4d0a3bfd476ba52642285685d0)
 - https://raw.githubusercontent.com/omerfeyzioglu/agentp-macos/HEAD/LICENSE (retrieved 2026-11-04T14:45:28Z; SHA-256 761aa0fc3cd9acf545a87a1ce3c0c1df0853809a967794a52653a89a24252d38)
+
+---
+
+## AGI-0 Agent
+
+AGI-0 uses screenshots to navigate Android apps, planning subtasks and checking screen changes after each action. Its publisher reports AndroidWorld results.
+
+- Catalog URL: https://awesomecua.com/resources/url-06f6618d8f95f3d041cf/
+- Original source: https://www.theagi.company/blog/android-world
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, planning, state-tracking, screen-understanding
+- Evidence checked: 2026-11-09T05:05:20Z
+- ID: url:06f6618d8f95f3d041cf
+
+### Limitations
+
+The article says the agent uses a vision-language model fine-tuned for UI understanding and offers an Agent API.
+
+- Record JSON: https://awesomecua.com/resources/url-06f6618d8f95f3d041cf/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://www.theagi.company/blog/android-world (retrieved 2026-11-09T05:05:20Z; SHA-256 acc9d3649b8dc53a60182814c8ada39174efd81b9861e6f2852938a6d81f11f6)
 
 ---
 
@@ -1045,6 +1145,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AndroidWorld-SeeAct-V
+
+AndroidWorld-SeeAct-V runs a visual Android agent that plans the next action and grounds coordinate actions in screenshots. The repository includes code for AndroidWorld evaluation.
+
+- Catalog URL: https://awesomecua.com/resources/github-boyugou-android-world-seeact-v/
+- Original source: https://github.com/boyugou/android_world_seeact_v
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, planning, grounding, evaluation
+- Evidence checked: 2026-11-09T05:05:21Z
+- ID: github:boyugou/android_world_seeact_v
+
+### Limitations
+
+The README describes running the agent through AndroidWorld and links to trajectories. Setup requires an Android emulator and model provider API keys.
+
+- Record JSON: https://awesomecua.com/resources/github-boyugou-android-world-seeact-v/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/boyugou/android_world_seeact_v/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/boyugou/android_world_seeact_v/HEAD/README.md (retrieved 2026-11-09T05:05:21Z; SHA-256 99343ee6c2b372a2c0156880b97a87fa2dd9f334f90e3888858aea923cef1e6f)
+- https://raw.githubusercontent.com/boyugou/android_world_seeact_v/HEAD/LICENSE (retrieved 2026-11-09T05:07:36Z; SHA-256 b09fcaf4fbc265223c2479c410beef2b98c5e687c78ecedf3452aa12ffc465f1)
+
+---
+
 ## Anthropic Computer Use for Mac
 
 Adapts the Anthropic Claude Computer Use reference agent to control a native macOS desktop using PyAutoGUI and cliclick.
@@ -1347,6 +1481,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/sAnct1x/Arelis/main/README.md (retrieved 2026-11-04T17:20:43Z; SHA-256 ff7135ef34c8c665812fdec0f556c72b3fd1af78a89c8ae136be37dca1d17e54)
 - https://raw.githubusercontent.com/sAnct1x/Arelis/HEAD/LICENSE (retrieved 2026-11-04T17:27:00Z; SHA-256 0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0)
+
+---
+
+## ARTEMIS
+
+ARTEMIS is an Android agent that carries out natural-language tasks across apps. It targets UI elements visually or by index and exposes device runs through an MCP server.
+
+- Catalog URL: https://awesomecua.com/resources/github-google-artemis/
+- Original source: https://github.com/google/artemis
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, cross-app, grounding, observability
+- Evidence checked: 2026-11-09T05:05:04Z
+- ID: github:google/artemis
+
+### Limitations
+
+The repository documents a web console, CLI, Python client, and MCP server. Setup requires a connected Android device or emulator with USB debugging, and the README identifies an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-google-artemis/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/google/artemis/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/google/artemis/HEAD/README.md (retrieved 2026-11-09T05:05:04Z; SHA-256 81f270ad4930dd28b5a7280f1a66afd70114fcbbbf268743c2ce31954691533a)
+- https://raw.githubusercontent.com/google/artemis/HEAD/LICENSE (retrieved 2026-11-09T05:07:27Z; SHA-256 4fde6a96f857a2b976714d620efc29ccb7209810a36992a5343bcfe0240b6826)
 
 ---
 
@@ -2518,6 +2686,39 @@ Requires a 64-bit Android 11+ phone; the README says it was tested on one OnePlu
 
 ---
 
+## BugCraft
+
+A vision-based agent that converts Minecraft crash reports into reproduction steps and executes them through a macro API. Its project page also describes BugCraft-Bench.
+
+- Catalog URL: https://awesomecua.com/resources/url-ec17d3267cd49548d2d4/
+- Original source: https://bugcraft2025.github.io
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: automation, planning, evaluation, tool-integration
+- Evidence checked: 2026-11-09T05:05:14Z
+- ID: url:ec17d3267cd49548d2d4
+
+### Limitations
+
+The page describes BugCraft-Bench as 86 selected crash reports and links to a paper, code repository, and dataset. It reports evaluation results for GPT-4.1 and GPT-4o versions.
+
+- Record JSON: https://awesomecua.com/resources/url-ec17d3267cd49548d2d4/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://bugcraft2025.github.io (retrieved 2026-11-09T05:05:14Z; SHA-256 3d2d782c6de829b81ffc06f2a2f8fa17d69bc013fb1f6d35349fc52a1f85fb85)
+
+---
+
 ## Butler
 
 Butler is a voice-first macOS desktop assistant combining MCP tool execution with native Swift desktop control fallback.
@@ -3175,6 +3376,40 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/philfung/computer-use/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 f68330b4e7e5fef8b829f9c1b6e823413acb6b871c2078ed8b7ed802f4f2c5a6)
+
+---
+
+## Computer Use Preview
+
+Computer Use Preview runs a Gemini browser agent from natural-language requests through a CLI, with local Playwright and Browserbase backends.
+
+- Catalog URL: https://awesomecua.com/resources/github-google-computer-use-preview/
+- Original source: https://github.com/google/computer-use-preview
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, tool-integration
+- Evidence checked: 2026-11-09T05:05:04Z
+- ID: github:google/computer-use-preview
+
+### Limitations
+
+The repository includes agent code and browser environment implementations. It requires a Gemini API key; the Browserbase backend also requires Browserbase credentials.
+
+- Record JSON: https://awesomecua.com/resources/github-google-computer-use-preview/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/google/computer-use-preview/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/google/computer-use-preview/HEAD/README.md (retrieved 2026-11-09T05:05:04Z; SHA-256 65dbde809dffa0d1b1921bd53ce6c18dff7c6b3869a86eb2d5c32bf45a224913)
+- https://raw.githubusercontent.com/google/computer-use-preview/HEAD/LICENSE (retrieved 2026-11-09T05:07:27Z; SHA-256 a3a9561796a2be6b18c2bd90272a776e8d060a8ace80a5bc0aa6fe93b5750515)
 
 ---
 
@@ -3894,6 +4129,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## DroidAgent
+
+An Android GUI testing agent that explores an app from user goals, then generates test scenarios, replay scripts, and reports of its actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-coinse-droidagent/
+- Original source: https://github.com/coinse/droidagent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, automation, evaluation, recording
+- Evidence checked: 2026-11-09T05:05:13Z
+- ID: github:coinse/droidagent
+
+### Limitations
+
+The README requires an Android device or emulator, ADB, Python libraries, and an OpenAI API key. It describes UIAutomator2 script generation and evaluation notebooks.
+
+- Record JSON: https://awesomecua.com/resources/github-coinse-droidagent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/coinse/droidagent/HEAD/README.md (retrieved 2026-11-09T05:05:13Z; SHA-256 741a6dfd47aa77486def8bd764a3201380adc534d88f0807cd069c6947e53199)
+
+---
+
 ## DroidBot-GPT
 
 DroidBot-GPT connects DroidBot UI state extraction with large language models to automate multi-step tasks across Android applications.
@@ -4601,6 +4869,72 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## FinalRun
+
+Android UI agent that prunes interface trees, waits for stable screens, feeds action failures back into its decisions, and takes fresh screenshots before grounding actions.
+
+- Catalog URL: https://awesomecua.com/resources/url-3b99bbbd3480dbc1ec6b/
+- Original source: https://blogs.finalrun.app/finalrun-achieves-the-new-1-sota-mobile-agent-eclipsing-benchmarks-at-97-4
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, grounding, state-tracking, efficiency
+- Evidence checked: 2026-11-09T05:05:08Z
+- ID: url:3b99bbbd3480dbc1ec6b
+
+### Limitations
+
+The publisher reports a 97.4% task completion rate and says the agent uses Gemini Flash and Flash Lite. The article says an open source release is planned.
+
+- Record JSON: https://awesomecua.com/resources/url-3b99bbbd3480dbc1ec6b/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://blogs.finalrun.app/finalrun-achieves-the-new-1-sota-mobile-agent-eclipsing-benchmarks-at-97-4 (retrieved 2026-11-09T05:05:08Z; SHA-256 be4a9152c36c75bfcfd14151a0f10d62c04387c9b2b9675d5f12511ba87755de)
+
+---
+
+## FluidGPT
+
+An Android agent that selects reusable app routines from a task goal and executes them through the accessibility tree. Its benchmark report presents episode recordings and action traces.
+
+- Catalog URL: https://awesomecua.com/resources/url-738bfdfe24671ad29a43/
+- Original source: https://android-world.fluiz.ai
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, planning, automation, observability
+- Evidence checked: 2026-11-09T05:05:10Z
+- ID: url:738bfdfe24671ad29a43
+
+### Limitations
+
+The page says each episode has a recording and action trace, with steps linked to video positions. It describes skills as parameterized routines for app capabilities.
+
+- Record JSON: https://awesomecua.com/resources/url-738bfdfe24671ad29a43/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://android-world.fluiz.ai (retrieved 2026-11-09T05:05:10Z; SHA-256 60434e31f6847cf51ded503e931e646b038cd556d9499a85d8155e5d0c19f970)
+
+---
+
 ## Fuji-Web
 
 Chrome side-panel extension agent that completes a typed task on websites, choosing click, type, scroll and navigate actions from uid-annotated screenshots or a simplified DOM with OpenAI, Anthropic or Gemini models.
@@ -4845,6 +5179,39 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/vimalmathew26/genie/HEAD/README.md (retrieved 2026-11-04T14:20:09Z; SHA-256 9874324ea7986c97ce192717b7b2693620d2f058ee4a4e36ef8b61a7d2e4ee9d)
+
+---
+
+## GERALLT
+
+An LLM-driven system for testing RCE through its graphical interface, using separate models to control actions, assess problems, and describe icons.
+
+- Catalog URL: https://awesomecua.com/resources/github-dlr-sc-gerallt/
+- Original source: https://github.com/DLR-SC/GERALLT
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: automation, evaluation, screen-understanding, science
+- Evidence checked: 2026-11-09T05:05:19Z
+- ID: github:dlr-sc/gerallt
+
+### Limitations
+
+The repository provides testing scripts, prompts, and configuration. Setup requires RCE plus an OpenAI API key or an Ollama server for the selected models.
+
+- Record JSON: https://awesomecua.com/resources/github-dlr-sc-gerallt/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/DLR-SC/GERALLT/HEAD/README.md (retrieved 2026-11-09T05:05:19Z; SHA-256 ca39ef7a9d010046cf4538c9afb778f90eb6f4eee47f0b81a6d0accd99825de6)
 
 ---
 
@@ -5526,6 +5893,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/WinS0l/Harness/master/README.md (retrieved 2026-11-04T17:20:55Z; SHA-256 1d247d561780c00433b4db12d16a541a0c3bb1da6e80e970cfe877f267bc642e)
 - https://raw.githubusercontent.com/WinS0l/Harness/HEAD/LICENSE (retrieved 2026-11-04T17:27:01Z; SHA-256 c4548b198fc7d56026e973a3ac1a5716e95bb3f043cad5668f83eb0e16a0191e)
+
+---
+
+## Intelligence Indeed
+
+Intelligence Indeed is a desktop GUI agent that loads reusable guidance, probes the current environment and shares task-specific findings across planning and execution.
+
+- Catalog URL: https://awesomecua.com/resources/github-intelligence-indeed-intelligence-indeed/
+- Original source: https://github.com/intelligence-indeed/intelligence-indeed
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: automation, planning, cross-app, memory
+- Evidence checked: 2026-11-09T05:04:57Z
+- ID: github:intelligence-indeed/intelligence-indeed
+
+### Limitations
+
+The repository includes agent code, a desktop environment adapter and evaluation runners within an OSWorld snapshot. The quick start specifies AWS, Anthropic and Parallel keys.
+
+- Record JSON: https://awesomecua.com/resources/github-intelligence-indeed-intelligence-indeed/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/intelligence-indeed/intelligence-indeed/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/intelligence-indeed/intelligence-indeed/HEAD/README.md (retrieved 2026-11-09T05:04:57Z; SHA-256 8d46d1492bb549458bdf824171679b3a041c2bc7cb6253e806f5f1b0de9da5d5)
+- https://raw.githubusercontent.com/intelligence-indeed/intelligence-indeed/HEAD/LICENSE (retrieved 2026-11-09T05:07:26Z; SHA-256 a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec)
 
 ---
 
@@ -7688,6 +8089,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## MultimodalWebSurfer
+
+MultimodalWebSurfer operates a Chromium browser through Playwright, using marked screenshots and a multimodal model to choose actions on web pages.
+
+- Catalog URL: https://awesomecua.com/resources/url-41556fece3bf8a2419ba/
+- Original source: https://microsoft.github.io/autogen/stable/reference/python/autogen_ext.agents.web_surfer.html
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, screen-understanding, grounding
+- Evidence checked: 2026-11-09T05:05:05Z
+- ID: url:41556fece3bf8a2419ba
+
+### Limitations
+
+The documentation gives an installation command and usage example. It requires a multimodal model client with function calling and can reuse its browser across calls.
+
+- Record JSON: https://awesomecua.com/resources/url-41556fece3bf8a2419ba/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://microsoft.github.io/autogen/stable/reference/python/autogen_ext.agents.web_surfer.html (retrieved 2026-11-09T05:05:05Z; SHA-256 0c3933285ef82cc9714cefbb2992de39258d66ec29b1bf2725e70991a1a21d6a)
+
+---
+
 ## MuseLite
 
 MuseLite is a Python-first AI agent workspace for Android combining chat, execution sandboxes, browser automation, and scheduled tasks.
@@ -8431,6 +8865,74 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/Tahsine/oh-matilda/HEAD/README.md (retrieved 2026-11-04T14:41:54Z; SHA-256 f6b857615a9ae78f08bdfd45498defe706b336d8534d1de284eebb7ec2f71183)
 - https://raw.githubusercontent.com/Tahsine/oh-matilda/HEAD/LICENSE (retrieved 2026-11-04T14:45:40Z; SHA-256 141e864a715bc84ec65100b4e5273f65001f7bf78365bd0eabebfd9d6109479f)
+
+---
+
+## OpAgent
+
+OpAgent is a web-navigation agent that observes screenshots, plans and grounds actions, and executes browser operations. Its repository also includes single-model and training modes.
+
+- Catalog URL: https://awesomecua.com/resources/github-codefuse-ai-oagent/
+- Original source: https://github.com/codefuse-ai/Oagent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, grounding, reinforcement-learning
+- Evidence checked: 2026-11-09T05:05:18Z
+- ID: github:codefuse-ai/oagent
+
+### Limitations
+
+The README describes Playwright action execution and local or remote model calls. It also links a web benchmark and a technical report.
+
+- Record JSON: https://awesomecua.com/resources/github-codefuse-ai-oagent/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/codefuse-ai/Oagent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/codefuse-ai/Oagent/HEAD/README.md (retrieved 2026-11-09T05:05:18Z; SHA-256 113f9f9f03a2615dbc4478033c116ce6f3ff7514b2c0b2a8b6ccf647b6fa089c)
+- https://raw.githubusercontent.com/codefuse-ai/Oagent/HEAD/LICENSE (retrieved 2026-11-09T05:07:34Z; SHA-256 8743b120ab6dfce5ce99eada6cbf4e62261b0a30f7d8762e162352f0fbe38d86)
+
+---
+
+## OpAgent
+
+A web navigation agent with single-model and modular modes. Its modular loop observes screenshots, plans actions, grounds page targets, and executes browser operations through Playwright.
+
+- Catalog URL: https://awesomecua.com/resources/github-codefuse-ai-opagent/
+- Original source: https://github.com/codefuse-ai/OpAgent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, grounding, reinforcement-learning
+- Evidence checked: 2026-11-09T05:04:58Z
+- ID: github:codefuse-ai/opagent
+
+### Limitations
+
+The repository describes agent code, a web benchmark, and a multi-agent reinforcement-learning training stack. Its modular mode calls separate reasoning and grounding models.
+
+- Record JSON: https://awesomecua.com/resources/github-codefuse-ai-opagent/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/codefuse-ai/OpAgent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/codefuse-ai/OpAgent/HEAD/README.md (retrieved 2026-11-09T05:04:58Z; SHA-256 113f9f9f03a2615dbc4478033c116ce6f3ff7514b2c0b2a8b6ccf647b6fa089c)
+- https://raw.githubusercontent.com/codefuse-ai/OpAgent/HEAD/LICENSE (retrieved 2026-11-09T05:07:26Z; SHA-256 8743b120ab6dfce5ce99eada6cbf4e62261b0a30f7d8762e162352f0fbe38d86)
 
 ---
 
@@ -9969,6 +10471,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Pointer
+
+Pointer describes a desktop computer-use agent with feasibility checks, milestone planning, and an executor that combines GUI, code, and browser tools.
+
+- Catalog URL: https://awesomecua.com/resources/url-98122987ca3e7c764d0e/
+- Original source: https://pointer.ai/blog/sota
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: planning, cross-app, tool-integration, evaluation
+- Evidence checked: 2026-11-09T05:05:00Z
+- ID: url:98122987ca3e7c764d0e
+
+### Limitations
+
+The article reports OSWorld runs using different Claude models for execution. It describes mouse and keyboard controls, shell and Python execution, and Chrome DevTools access.
+
+- Record JSON: https://awesomecua.com/resources/url-98122987ca3e7c764d0e/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://pointer.ai/blog/sota (retrieved 2026-11-09T05:05:00Z; SHA-256 ced0f03ec3be24876dbeb9585a3ff5aa617c957d2e503c43262d0e4b8bb940c0)
+
+---
+
 ## POK-Agent
 
 POK-Agent is a Windows computer-use agent that pairs a cloud planner with a fast local actor and caches repeated UI workflows as skills.
@@ -11252,6 +11787,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/steel-dev/surf.new/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 b92abb5fdf714e569cf9f0d2c85ac3fb91ed67365e371a4b322aafe6fab39a1d)
 - https://raw.githubusercontent.com/steel-dev/surf.new/HEAD/LICENSE (retrieved 2026-10-16T06:42:04Z; SHA-256 efae611b1201878994c77b110867dcb65fb24a098c398bf5dec6138a47662bbc)
+
+---
+
+## Surfer 2
+
+Surfer 2 is a computer-use agent for desktop, web and mobile tasks. Its orchestrator assigns subtasks while components handle visual grounding and execution.
+
+- Catalog URL: https://awesomecua.com/resources/url-efd78f56fcde1f4f05e5/
+- Original source: https://www.hcompany.ai/blog/surfer-2
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, android
+- Topics: planning, grounding, web-navigation, mobile-navigation
+- Evidence checked: 2026-11-09T05:05:08Z
+- ID: url:efd78f56fcde1f4f05e5
+
+### Limitations
+
+The publisher describes a ReAct loop, task validation and failure recovery. It reports evaluations on OSWorld, WebArena, WebVoyager and AndroidWorld.
+
+- Record JSON: https://awesomecua.com/resources/url-efd78f56fcde1f4f05e5/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://www.hcompany.ai/blog/surfer-2 (retrieved 2026-11-09T05:05:08Z; SHA-256 46fad5ca0444c1e53e39996b8b1f6ffe478303810ea182391a6b8cbd61ac3b67)
 
 ---
 
@@ -12553,6 +13121,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/MigoXLab/webqa-agent/HEAD/README.md (retrieved 2026-11-04T15:03:31Z; SHA-256 8e601cb94966e5f10b48059a144ee896db61c0a7ef8f2e61acb6ba97779be431)
 - https://raw.githubusercontent.com/MigoXLab/webqa-agent/HEAD/LICENSE (retrieved 2026-11-04T15:22:54Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## WebTactix
+
+A web agent that simplifies accessibility trees, explores candidate actions in parallel and stores visited pages in a semantic tree to guide later decisions and recovery.
+
+- Catalog URL: https://awesomecua.com/resources/url-40795d2c86388ae89f43/
+- Original source: https://paper-submission-anoymous.github.io/webtactix_introduction
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, memory, long-horizon
+- Evidence checked: 2026-11-09T05:05:10Z
+- ID: url:40795d2c86388ae89f43
+
+### Limitations
+
+The project page describes constraint checking, page summaries, parallel tabs and recovery through reflection or reselection. It includes shopping and review inspection case studies and reports evaluation results.
+
+- Record JSON: https://awesomecua.com/resources/url-40795d2c86388ae89f43/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://paper-submission-anoymous.github.io/webtactix_introduction (retrieved 2026-11-09T05:05:10Z; SHA-256 d3700fd584dfb27c76cb012b351be805c5a279a3cf51f875c51f6a28dbac61cf)
 
 ---
 

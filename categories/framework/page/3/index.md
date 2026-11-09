@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/categories/framework/page/3/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [Evidence Workspace](https://awesomecua.com/resources/github-anand-0038-evidence-workspace/)
+- [Evidence-Bounded GEO Workbench (WebMCP)](https://awesomecua.com/resources/github-subbu-ctd-chinamarketingai-webmcp/)
+- [ExpActivator](https://awesomecua.com/resources/github-fyzhang1-expactivator/)
+- [Explorer](https://awesomecua.com/resources/github-osu-nlp-group-explorer/)
 - [EyeBrowse](https://awesomecua.com/resources/github-evil-bane-eyebrowse/)
 - [Factifai](https://awesomecua.com/resources/github-presidio-oss-factif-ai/)
 - [FaizannRaza Computer-Use Automation](https://awesomecua.com/resources/github-faizannraza-computer-use-automation/)
@@ -48,6 +52,7 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [GUI-Trajectory-Virtual](https://awesomecua.com/resources/github-futuresis-gui-trajectory-virtual/)
 - [Guibot](https://awesomecua.com/resources/github-intra2net-guibot/)
 - [GUIPivot](https://awesomecua.com/resources/github-zrw00-guipivot/)
+- [hai-agents](https://awesomecua.com/resources/github-hcompai-hai-agents-python/)
 - [HAICOSYSTEM](https://awesomecua.com/resources/github-xuhuizhou-haicosystem/)
 - [Handrail CUA](https://awesomecua.com/resources/github-codelit-io-handrail-cua/)
 - [handraise](https://awesomecua.com/resources/github-sy-d-handraise/)
@@ -99,8 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [Locus Platform](https://awesomecua.com/resources/github-nahid-sparktales-locus-platform/)
 - [loki-auto](https://awesomecua.com/resources/github-loki4agent-loki-auto/)
 - [LongHorizon-Harness](https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/)
-- [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/)
-- [lvyuan1688 browser-use-rs](https://awesomecua.com/resources/github-lvyuan1688-browser-use-rs/)
-- [Maestro (AI-Drivable RPA)](https://awesomecua.com/resources/github-rexchengm-maestro/)
-- [maestro-oss](https://awesomecua.com/resources/github-victorkaor-maestro-oss/)
-- [Magnitude](https://awesomecua.com/resources/github-magnitudedev-browser-agent/)
