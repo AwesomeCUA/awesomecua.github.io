@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Connects LLMs to real\-world RESTful APIs with coarse\-to\-fine planning and an API executor, plus a benchmark\. This API\-agent work involves no web\-page, GUI or device interaction\. This is the class Codex review disputed in this screening: the paper concerns application or workflow tasks carried out through scripts, APIs or tools, which the adjacent category may cover, and the abstract does not settle it\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Connects LLMs to real\-world RESTful APIs with coarse\-to\-fine planning and an API executor, plus a benchmark; whether API\-based application workflows fit the adjacent category remains open\. This API\-agent work involves no web\-page, GUI or device interaction\. Codex review disputed this class of exclusions: the adjacent category may cover application or workflow tasks carried out through scripts, APIs or tools, and the abstract leaves the fit open\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

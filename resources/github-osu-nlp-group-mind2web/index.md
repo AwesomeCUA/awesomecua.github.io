@@ -33,7 +33,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 177 task instances — cross-website test split (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md)
 - 912 task instances — cross-domain test split (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md)
 
-These are reported split inventories, not online task-success measurements. Original Mind2Web, Multimodal-Mind2Web, and Online-Mind2Web have different inputs/protocols. The authors require macro-average metrics for comparison with the paper; test archives remain upstream.
+These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, and Online-Mind2Web have different inputs/protocols. The authors require macro-average metrics for comparison with the paper; test archives remain upstream.
 
 ## License declarations
 

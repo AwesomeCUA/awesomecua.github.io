@@ -158237,6 +158237,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.35889v1",
+    "archive": "arXiv",
+    "archive_location": "2609.35889",
+    "author": [
+      {
+        "literal": "Xiaoyu Xu"
+      },
+      {
+        "literal": "Zi Liang"
+      },
+      {
+        "literal": "Minxin Du"
+      },
+      {
+        "literal": "Qipeng Xie"
+      },
+      {
+        "literal": "Qingqing Ye"
+      },
+      {
+        "literal": "Yuyuan Li"
+      },
+      {
+        "literal": "Haibo Hu"
+      }
+    ],
+    "citation-key": "arxiv_2609_35889",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e38f9cc6cd0a00cbb25c15a65ef4d14ccfa3a49923206de96197c1ad08e3897f",
+        "submitted_at": "2026-09-27T06:37:04Z",
+        "updated_at": "2026-09-27T06:37:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.35889v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.35889",
+      "catalog_id": "arxiv:2609.35889",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-09-27",
+      "identifiers": {
+        "arxiv": "2609.35889"
+      },
+      "record_updated_at": "2026-09-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.35889",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T06:37:04Z.",
+    "title": "SINGED: Correct Outputs Do Not Certify Safe Execution in LLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.35904v1",
     "archive": "arXiv",
     "archive_location": "2609.35904",
@@ -183620,6 +183684,64 @@
     },
     "note": "First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T18:10:33Z.",
     "title": "Visual Token Routing: Learning to keep tokens that matter",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.06866v1",
+    "archive": "arXiv",
+    "archive_location": "2611.06866",
+    "author": [
+      {
+        "literal": "Jasem Khelifi"
+      },
+      {
+        "literal": "Hao Li"
+      },
+      {
+        "literal": "Ali Ouni"
+      },
+      {
+        "literal": "Mohammed Sayagh"
+      },
+      {
+        "literal": "Mohamed Aymen Saied"
+      }
+    ],
+    "citation-key": "arxiv_2611_06866",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b5dc822ba15eaee3c4fe2e570845a0cd78687772d90af236de1ae8caf314d400",
+        "submitted_at": "2026-11-04T18:20:41Z",
+        "updated_at": "2026-11-04T18:20:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.06866v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.06866",
+      "catalog_id": "arxiv:2611.06866",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-04",
+      "identifiers": {
+        "arxiv": "2611.06866"
+      },
+      "record_updated_at": "2026-11-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.06866",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T18:20:41Z.",
+    "title": "GH-AWTrace: A Large-Scale Dataset of GitHub Agentic Workflow Execution Logs",
     "type": "article",
     "version": "1"
   },

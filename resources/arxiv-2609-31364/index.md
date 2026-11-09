@@ -1,6 +1,6 @@
 # OpenVAM: Open-World Visual Attention Modeling with VLMs
 
-Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales rather than agent actions.
+Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales on static inputs.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2609-31364/
 - Original source: https://arxiv.org/abs/2609.31364
@@ -14,7 +14,7 @@ Combines dense saliency prediction with explanations of attended elements, inclu
 
 ## Limitations
 
-Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment do not establish causal explanations of gaze or temporal scanpaths. Several baseline scores come from prior papers.
+Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment measure agreement; causal explanations of gaze and temporal scanpaths remain unestablished. Several baseline scores come from prior papers.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-31364/record.json
 
@@ -43,7 +43,7 @@ Kiana Hooshanfar, Amirhossein Kazerouni, Alireza Hosseini, Michael Brudno, Babak
 - document: CC-BY-4.0 — https://arxiv.org/html/2609.31364v1
 - weights: not recorded
 
-- document review: Document declaration only. The paper does not establish code, model-weight or underlying dataset permissions through this license.
+- document review: Document declaration only. This license covers the paper document; code, model-weight and underlying dataset permissions have separate scopes.
   Sources: https://arxiv.org/html/2609.31364v1
 
 ## Primary evidence

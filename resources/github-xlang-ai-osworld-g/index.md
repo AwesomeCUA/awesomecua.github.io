@@ -21,7 +21,7 @@ Inclusion does not establish reproducibility or endorsement.
 ## Structured profile
 
 - actions: click point or box center, refusal represented by negative coordinates in the evaluator
-- evaluation: The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding, not OSWorld task-execution success.
+- evaluation: The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding; OSWorld task-execution success is a separate measure.
 - focus: desktop GUI grounding, infeasible-target refusal
 - observations: screenshot, instruction
 - setting: offline
@@ -30,7 +30,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-The repository retains original OSWorld-G.json and refined OSWorld-G_refined.json instructions; treat them as alternative benchmark versions, not additional disjoint tasks. Refined instructions reduce requirements beyond grounding. The same repository also contains Jedi training/rendering material, which is excluded from benchmark counts. The standalone generic eval.py entry point is a stub; the named model runner supplies image_size to its geometry helper. No task count or successful execution is inferred from repository file totals. Apache-2.0 is recorded for code only.
+The repository retains original OSWorld-G.json and refined OSWorld-G_refined.json instructions as alternative benchmark versions. Refined instructions reduce requirements beyond grounding. The same repository also contains Jedi training/rendering material, which is excluded from benchmark counts. The standalone generic eval.py entry point is a stub; the named model runner supplies image_size to its geometry helper. No task count or successful execution is inferred from repository file totals. Apache-2.0 is recorded for code only.
 
 ## License declarations
 

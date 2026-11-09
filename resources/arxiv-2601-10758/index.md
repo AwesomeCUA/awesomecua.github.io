@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Studies how relaying external artifacts inside user requests raises malicious\-content adoption by tool\-using agents on AgentDojo\. This tool\-agent safety work names no web, GUI or device interaction\. An open pull request \(\#3738\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) left the scope open: Studies how relaying external artifacts inside user requests raises malicious\-content adoption by tool\-using agents on AgentDojo; the abstract leaves open whether AgentDojo tool\-use results fit adjacent computer\-use safety scope\. This tool\-agent safety work names no web, GUI or device interaction\. An open pull request \(\#3738\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

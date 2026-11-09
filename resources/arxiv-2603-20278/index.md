@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Synthesizes long\-horizon deep\-research trajectories using search, open and find browser primitives over an offline corpus, training agents evaluated on BrowseComp\-Plus, BrowseComp and GAIA\. An open pull request \(\#3307\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Synthesizes long\-horizon deep\-research trajectories using search, open and find browser primitives over an offline corpus, training agents evaluated on BrowseComp\-Plus, BrowseComp and GAIA; the abstract leaves open whether offline search, open and find primitives fit adjacent browsing scope\. An open pull request \(\#3307\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ A browser library that labels interactive elements and their boxes for visual pr
 
 ## Limitations
 
-Source and npm release metadata for webmarker-js 0.7.0 are public. The documented mark/unmark API supports screenshot prompts and Playwright interaction, but this utility is not itself a language model or autonomous agent. The WebVoyager/Set-of-Mark references are usage inspiration and are not asserted as papers introducing this library. No package was installed or executed.
+Source and npm release metadata for webmarker-js 0.7.0 are public. The documented mark/unmark API supports screenshot prompts and Playwright interaction. No package was installed or executed.
 
 - Record JSON: https://awesomecua.com/resources/github-reidbarber-webmarker/record.json
 

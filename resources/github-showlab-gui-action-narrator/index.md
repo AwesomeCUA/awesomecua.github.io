@@ -29,7 +29,7 @@ Original repository URL redirects to showlab/GUI-Narrator.
 
 - 4,189 video-captioning samples — Act2Cap benchmark described in the paper (reported; source: https://arxiv.org/abs/2406.13719)
 
-A captioning sample is not necessarily a unique video or complete task trajectory. Package layout and split sizes were not established by the inspected sources.
+Captioning samples, unique videos and complete task trajectories are different units.
 
 ## License declarations
 

@@ -14,7 +14,7 @@ Task files for the WebCanvas live-web benchmark: 438 training and 104 test tasks
 
 ## Limitations
 
-The files hold task instructions, reference task lengths and key-node evaluation functions (URL inclusion or exact match, element path and value matches, and semantic URL and value matches), not trajectories or page snapshots. Agents run on live websites through the WebCanvas framework, so results depend on site changes, location and time. The test file was revised on 2024-10-24; the 2024-05-28 test file stays under old_version with 104 tasks and 444 key nodes, which with the 1,995 training key nodes gives the 2,439 states the WebCanvas README reports. The card itself links only the WebCanvas repository and declares CC-BY-4.0.
+The files hold task instructions, reference task lengths and key-node evaluation functions (URL inclusion or exact match, element path and value matches, and semantic URL and value matches); trajectories and page snapshots are separate data types. Agents run on live websites through the WebCanvas framework, so results depend on site changes, location and time. The test file was revised on 2024-10-24; the 2024-05-28 test file stays under old_version with 104 tasks and 444 key nodes, which with the 1,995 training key nodes gives the 2,439 states the WebCanvas README reports. The card itself links only the WebCanvas repository and declares CC-BY-4.0.
 
 - Record JSON: https://awesomecua.com/resources/url-03ffa3f28413bc2edb1b/record.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmark for ML\-engineering agents whose tasks are gathered from Kaggle\-like platforms by a browser\-automation web agent; the web agent is a construction tool, not the evaluated subject\. An curation proposal is open in pull request \#4089\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Benchmark for ML\-engineering agents whose tasks are gathered from Kaggle\-like platforms by a browser\-automation web agent; the abstract leaves open whether the web agent is material beyond benchmark construction\. An curation proposal is open in pull request \#4089\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

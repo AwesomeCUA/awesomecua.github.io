@@ -14,7 +14,7 @@ The AndroidWorld-oriented Qwen2-VL checkpoint trained on mobile trajectories gen
 
 ## Limitations
 
-Hub API at revision 069001de lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 and Qwen/Qwen2-VL-7B-Instruct as the base, and names the AW training file of the OS-Genesis mobile data as its training data. The OS-Genesis README lists this checkpoint under AndroidWorld, and the card points to its AndroidWorld evaluation code, but the card's family-table caption says AndroidControl. The card's example loads its processor from OS-Atlas-Base-7B. AndroidControl and WebArena variants are separate releases, and no result is transferred to this checkpoint.
+Hub API at revision 069001de lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is publicly accessible. The card declares Apache-2.0 and Qwen/Qwen2-VL-7B-Instruct as the base, and names the AW training file of the OS-Genesis mobile data as its training data. The OS-Genesis README lists this checkpoint under AndroidWorld, and the card points to its AndroidWorld evaluation code, but the card's family-table caption says AndroidControl. The card's example loads its processor from OS-Atlas-Base-7B. AndroidControl and WebArena variants are separate releases, and no result is transferred to this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-7afa17db925828d9a035/record.json
 

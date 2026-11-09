@@ -29,7 +29,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - 7,496 examples — train split declared in the dataset card (reported; source: https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md)
 
-The 8K release name is not an exact record count; the card declares 7,496 examples. Images and original annotations come from OmniAct and are augmented with generated descriptions. Examples are not asserted to be unique screenshots.
+The card declares 7,496 examples for the 8K release. Images and original annotations come from OmniAct and are augmented with generated descriptions. Examples are not asserted to be unique screenshots.
 
 ## License declarations
 

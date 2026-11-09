@@ -14,7 +14,7 @@ A desktop trajectory-generation framework that moves from stochastic GUI explora
 
 ## Limitations
 
-The inspected source tree contains the random walker, desktop environment integration and run_rewalk.sh. The documented runnable setup uses OSWorld and OmniParser. The README also discusses mobile data and a GUI-ReWalk-7B model, but no separately published corpus or model checkpoint was verified; those are not counted as released assets. Apache-2.0 is scoped to the implementation.
+The inspected source tree contains the random walker, desktop environment integration and run_rewalk.sh. The documented runnable setup uses OSWorld and OmniParser. The README also discusses mobile data and a GUI-ReWalk-7B model. Apache-2.0 is scoped to the implementation.
 
 - Record JSON: https://awesomecua.com/resources/github-bytedance-gui-rewalk/record.json
 

@@ -14,7 +14,7 @@ VISTA evaluates coding agents that turn design handoffs into working web and And
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Adjacent GUI-application generation benchmark with real component interaction probes; its main evaluated agents are application coders, not general GUI task executors.
+Reviewed against the complete retained official abstract. Adjacent GUI-application generation benchmark with real component interaction probes; its main evaluated agents are application coders.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-26144/record.json
 

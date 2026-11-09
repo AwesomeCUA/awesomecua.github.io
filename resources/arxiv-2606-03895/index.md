@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Library\-OS runtime that mediates authority and information flow for self\-evolving LLM agents; unclear from the abstract whether the agents operate a real computer's applications or only abstract tool providers\. An exclusion proposal is open in pull request \#2899\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Library\-OS runtime that mediates authority and information flow for self\-evolving LLM agents; the abstract leaves open whether agents operate computer applications or abstract tool providers\. An exclusion proposal is open in pull request \#2899\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

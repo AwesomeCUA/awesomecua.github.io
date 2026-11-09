@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Compares plain coding CLI agents with security harnesses on the XBOW pentest benchmark; unclear whether this terminal\-driven attack work counts as computer operation or as a coding\-agent study outside scope\. An exclusion proposal is open in pull request \#2636\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Compares plain coding CLI agents with security harnesses on the XBOW pentest benchmark; the abstract leaves open whether terminal\-driven pentesting fits computer operation\. An exclusion proposal is open in pull request \#2636\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

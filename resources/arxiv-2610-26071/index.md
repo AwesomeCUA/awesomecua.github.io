@@ -14,7 +14,7 @@ CUA-Lite unifies environment interfaces, supervised data formats and per-model h
 
 ## Limitations
 
-Reviewed the complete official abstract and selected v1 methods, training and limitations sections. WebVoyager uses offline mirrors; VM-free sandboxes are Linux-only, and reported desktop/mobile gains do not establish unseen-app transfer.
+Reviewed the complete official abstract and selected v1 methods, training and limitations sections. WebVoyager uses offline mirrors; VM-free sandboxes use Linux as their sole reported platform, and reported desktop/mobile gains cover the evaluated apps.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26071/record.json
 

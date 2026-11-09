@@ -14,7 +14,7 @@ Publisher or product brand associated with Simular computer-use or browser autom
 
 ## Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-simular/record.json
 

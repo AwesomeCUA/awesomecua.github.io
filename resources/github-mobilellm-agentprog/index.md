@@ -14,7 +14,7 @@ Android GUI-agent framework that keeps long-running task context in structured p
 
 ## Limitations
 
-Public tree contains the agentprog package, CLI, program/context-management code and AndroidWorld evaluation integration. README announces AW-Extend, but this record is the framework rather than a separately audited benchmark release. External model services and Android device/emulator setup are required. Apache-2.0 covers code, not external model weights, apps or VM images.
+Public tree contains the agentprog package, CLI, program/context-management code and AndroidWorld evaluation integration. README announces AW-Extend; this record covers the framework. External model services and Android device/emulator setup are required. Apache-2.0 covers code, not external model weights, apps or VM images.
 
 - Record JSON: https://awesomecua.com/resources/github-mobilellm-agentprog/record.json
 

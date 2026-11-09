@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Surveys user\-level permission systems for AI agents and compares commercial agents; the abstract does not say whether the covered agents operate GUIs, browsers or only tools\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Surveys user\-level permission systems for AI agents and compares commercial agents; the abstract leaves open whether covered agents operate GUIs, browsers or tools\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

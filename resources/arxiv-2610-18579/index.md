@@ -14,7 +14,7 @@ Pairs factual probes with next-action choices on frozen agent traces, including 
 
 ## Limitations
 
-Adjacent diagnostic research across simulators, policies, tools, coding and an offline Mind2Web subset. Models choose among supplied admissible actions; they do not generate actions or execute a closed-loop browser policy in the reported evaluation. The paired probes measure selected visible facts, not complete understanding or internal causation. Pooled results are not a web-only leaderboard, and the paper reports coverage limits and label-sensitivity analyses. No benchmark release, code, data or weights were independently inspected.
+Adjacent diagnostic research across simulators, policies, tools, coding and an offline Mind2Web subset. Models choose among supplied admissible actions in the reported evaluation. The paired probes measure selected visible facts. Pooled results cover multiple settings, and the paper reports coverage limits and label-sensitivity analyses. No benchmark release, code, data or weights were independently inspected.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-18579/record.json
 

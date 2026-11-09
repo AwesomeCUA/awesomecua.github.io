@@ -14,7 +14,7 @@ Introduces UFO2, a Windows desktop agent architecture combining a coordinating H
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-14603/record.json
 

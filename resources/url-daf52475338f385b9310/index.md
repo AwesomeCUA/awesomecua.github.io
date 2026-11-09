@@ -14,7 +14,7 @@ WildGUI release from Video2GUI: per-task JSONL trajectories mined from Internet 
 
 ## Limitations
 
-The card describes this as a personally reprocessed annotation release: records were regenerated and cleaned following the annotation workflow, then split so that each JSONL line holds one task with its ordered action trajectory; action parameters are omitted when grounding is unreliable (use_grounding false). The Video2GUI project README links this repository as the WildGUI dataset and names the joker-112/WildGUI_Screenshots repository as the host of the part16-part19 frames. Its figures of about 12M trajectories over more than 1,500 applications and websites describe WildGUI in the paper; the 19 JSONL shards (about 78 GB) were not downloaded, so the Hub record count is not established. The project README says trajectories and grounding boxes were produced by Gemini-3-Pro, so labels are model-generated, not human annotations. The data license is the card's CC-BY-NC-4.0 declaration; the source videos and screenshots keep their own rights, and the Apache-2.0 license of the project repository is not transferred to the data.
+The card describes this as a personally reprocessed annotation release: records were regenerated and cleaned following the annotation workflow, then split so that each JSONL line holds one task with its ordered action trajectory; action parameters are omitted when grounding is unreliable (use_grounding false). The Video2GUI project README links this repository as the WildGUI dataset and names the joker-112/WildGUI_Screenshots repository as the host of the part16-part19 frames. Its figures of about 12M trajectories over more than 1,500 applications and websites describe WildGUI in the paper; the 19 JSONL shards (about 78 GB) were not downloaded, so the Hub record count is not established. The project README says trajectories and grounding boxes were produced by Gemini-3-Pro, so labels are model-generated. The data license is the card's CC-BY-NC-4.0 declaration; the source videos and screenshots keep their own rights, and the Apache-2.0 license of the project repository is not transferred to the data.
 
 - Record JSON: https://awesomecua.com/resources/url-daf52475338f385b9310/record.json
 
@@ -31,7 +31,7 @@ The card describes this as a personally reprocessed annotation release: records 
 - 4,137 screenshot tar shards — Hub repository at revision 75287698 (parts 1-15) (computed) (computed; source: https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769)
 - ≈ 12,000,000 interaction trajectories — WildGUI as described in the Video2GUI project README; not recounted in this Hub release (reported; source: https://raw.githubusercontent.com/WeiminXiong/Video2GUI/02f61de0c329f6763ce1b130596a650e4a9291f1/README.md)
 
-Shard counts were computed by script from the pinned Hub API file list; they are files, not records. Each JSONL line is one task with its ordered action trajectory; the number of lines was not counted. The reported trajectory figure comes from the project README and may differ from the reprocessed Hub release. Frames for parts 16-19 are in a separate repository.
+Shard counts were computed by script from the pinned Hub API file list; they count files. Each JSONL line is one task with its ordered action trajectory; the number of lines was not counted. The reported trajectory figure comes from the project README and may differ from the reprocessed Hub release. Frames for parts 16-19 are in a separate repository.
 
 ## License declarations
 

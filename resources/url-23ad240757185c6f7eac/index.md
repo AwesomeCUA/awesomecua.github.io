@@ -14,7 +14,7 @@ Seg2Click checkpoint based on Qwen2.5-VL-3B with a custom action-mask decoder.
 
 ## Limitations
 
-License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference. The card names the Qwen Research license, unlike the Apache-2.0 declarations on the Qwen3.5 variants.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; mask-to-click inference requires those components beyond a generic text-generation pipeline. The card names the Qwen Research license, unlike the Apache-2.0 declarations on the Qwen3.5 variants.
 
 - Record JSON: https://awesomecua.com/resources/url-23ad240757185c6f7eac/record.json
 

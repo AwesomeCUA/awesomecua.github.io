@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract presents an SDK for building software\-development agents with sandboxed execution; VNC and browser views serve human users\. This coding\-agent infrastructure does not have agents operating GUIs\. The other marked it borderline: Software\-development agent SDK with sandboxed execution; it mentions VNC and browser workspaces for human interaction, but the abstract does not say whether agents act through GUIs or browsers rather than code and CLI\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether the SDK agents act through GUIs or browsers\. One read it as outside the scope: The abstract presents an SDK for building software\-development agents with sandboxed execution; VNC and browser views serve human users\. This SDK concerns coding\-agent infrastructure; agent GUI operation remains unspecified\. The other marked it borderline: Software\-development agent SDK with sandboxed execution; it mentions VNC and browser workspaces for human interaction, and the abstract leaves open whether agents act through GUIs or browsers or through code and CLI\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

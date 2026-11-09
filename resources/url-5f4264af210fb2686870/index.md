@@ -14,7 +14,7 @@ Qwen2.5-VL-7B-Instruct fine-tune that reads an instruction, history, screenshot 
 
 ## Limitations
 
-The card gives the system prompt, a vLLM serving command and training settings (LLaMA-Factory 'full' tags, 6 epochs, learning rate 1e-5). The WhitzardAgent/MirrorGuard code README describes this checkpoint as the final VLM trained on reasoning-correction data from its MirrorWorld pipeline and deploys it as a runtime corrector in its agent examples. The card's GitHub link (github.com/bmz-q-q/MirrorGuard) returns 404. Weights were not downloaded or run; the manifest lists four Safetensors shards and an index.
+The card gives the system prompt, a vLLM serving command and training settings (LLaMA-Factory 'full' tags, 6 epochs, learning rate 1e-5). The WhitzardAgent/MirrorGuard code README describes this checkpoint as the final VLM trained on reasoning-correction data from its MirrorWorld pipeline and deploys it as a runtime corrector in its agent examples. The card's GitHub link (github.com/bmz-q-q/MirrorGuard) returns 404. The manifest lists four Safetensors shards and an index.
 
 - Record JSON: https://awesomecua.com/resources/url-5f4264af210fb2686870/record.json
 

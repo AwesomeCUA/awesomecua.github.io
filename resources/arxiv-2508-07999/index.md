@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Benchmark for agentic broad information seeking by search agents; the abstract does not say whether agents open and read web pages or only query search tools\. An exclusion proposal is open in pull request \#4185\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Benchmark for agentic broad information seeking by search agents; the abstract leaves open whether agents open and read pages or query search tools\. An exclusion proposal is open in pull request \#4185\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Case\-based memory RL for LLM agents instantiated as a deep\-research agent and evaluated on GAIA and DeepResearcher web research tasks; page browsing is implied rather than detailed\. An open pull request \(\#4063\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Case\-based memory RL for LLM agents instantiated as a deep\-research agent and evaluated on GAIA and DeepResearcher web research tasks; the abstract leaves open whether the deep\-research agent browses pages in the evaluated tasks\. An open pull request \(\#4063\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

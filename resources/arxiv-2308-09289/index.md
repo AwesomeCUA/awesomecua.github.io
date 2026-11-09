@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Pixel\-based imitation\-learning agent for preference\-conditioned game testing in a 3D open\-world game\. Like other game RL agents, it does not operate GUIs, web pages or devices\. The other marked it borderline: Pixel\-based imitation\-learning agent explores an open\-world game for testing, conditioned on demonstrated play styles\. The abstract does not say whether it acts through a generic screen and keyboard interface or game controls\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether the game agent acts through a generic screen and keyboard interface or game controls\. One read it as outside the scope: Pixel\-based imitation\-learning agent for preference\-conditioned game testing in a 3D open\-world game\. The game agent acts in a 3D open\-world game; its screen and action interface remains unspecified\. The other marked it borderline: Pixel\-based imitation\-learning agent explores an open\-world game for testing, conditioned on demonstrated play styles\. The abstract leaves open whether it acts through a generic screen and keyboard interface or game controls\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

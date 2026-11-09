@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Synthesizes multi\-turn OS\-agent trajectories whose tool calls run in a live isolated OS workspace, improving ClawEval; claw\-style computer operation with no GUI\. An open pull request \(\#3077\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) left the scope open: Synthesizes multi\-turn OS\-agent trajectories whose tool calls run in a live isolated OS workspace, improving ClawEval; the abstract leaves open whether OS\-agent tool calls fit adjacent computer operation\. An open pull request \(\#3077\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

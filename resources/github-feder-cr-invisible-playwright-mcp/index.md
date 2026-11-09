@@ -14,7 +14,7 @@ MCP server and local web UI that let an LLM drive an anti-detect Firefox build w
 
 ## Limitations
 
-Installs as a plugin or extension for Claude Code, Codex and Gemini CLI; the standalone web UI calls OpenRouter with the user's key. The tree contains the Python package (MCP server, agent loop, web UI) and an MCP test suite; the browser engine library and fingerprint core are separate repositories, and the engine binary is downloaded from a GitHub release on first start. Its claim of avoiding anti-bot detection and captchas was not tested, and the README asks users to respect site terms. The repository LICENSE is MIT; the README says releases before 2 September 2026 were AGPL-3.0.
+Installs as a plugin or extension for Claude Code, Codex and Gemini CLI; the standalone web UI calls OpenRouter with the user's key. The tree contains the Python package (MCP server, agent loop, web UI) and an MCP test suite; the browser engine library and fingerprint core are separate repositories, and the engine binary is downloaded from a GitHub release on first start. The project claims to avoid anti-bot detection and captchas; the README asks users to respect site terms. The repository LICENSE is MIT; the README says releases before 2 September 2026 were AGPL-3.0.
 
 - Record JSON: https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/record.json
 

@@ -14,7 +14,7 @@ Cleaned v2 release of WebChain's human web trajectories, packaged as trajectory-
 
 ## Limitations
 
-The card calls this the cleaned, training-ready release and points to the publisher's separate original release (Hub repository webagentlab/webchain-legacy) for raw JSON records, split screenshot archives and the earlier high- and low-level formulations. Its counts (31,675 trajectories, 317,682 steps) are after cleaning; the paper's 31,725 trajectories and 317,993 steps describe the corpus before it. Annotators executed tasks on live websites; tasks were synthesized from site schemas and reasoning text was added in post-processing. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content. Files were not downloaded.
+The card calls this the cleaned, training-ready release and points to the publisher's separate original release (Hub repository webagentlab/webchain-legacy) for raw JSON records, split screenshot archives and the earlier high- and low-level formulations. Its counts (31,675 trajectories, 317,682 steps) are after cleaning; the paper's 31,725 trajectories and 317,993 steps describe the corpus before it. Annotators executed tasks on live websites; tasks were synthesized from site schemas and reasoning text was added in post-processing. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content.
 
 - Record JSON: https://awesomecua.com/resources/url-56f08987cc19b82dc607/record.json
 
@@ -35,7 +35,7 @@ The card calls this the cleaned, training-ready release and points to the publis
 - 48 data parts per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft (computed) (computed; source: https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce)
 - 71 SFT Parquet shards per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft (computed) (computed; source: https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce)
 
-Trajectories, steps, windows, turns, parts and shards are different units and are not summed. Trace SFT has one row per cleaned trajectory; Seed/Demo SFT re-cuts the same trajectories into bounded windows, so the two formats are not additional data. The 150-trace subset is a stratified sample for loader checks and compact offline evaluation; the card does not say it is held out from the parts. The part and shard counts from the manifest match the card. Row counts were not recomputed.
+Trajectories, steps, windows, turns, parts and shards are different units and are counted separately. Trace SFT has one row per cleaned trajectory; Seed/Demo SFT re-cuts the same trajectories into bounded windows, so the formats overlap. The 150-trace subset is a stratified sample for loader checks and compact offline evaluation; the card does not say it is held out from the parts. The part and shard counts from the manifest match the card.
 
 ## License declarations
 

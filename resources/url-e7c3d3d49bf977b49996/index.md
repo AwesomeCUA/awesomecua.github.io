@@ -14,7 +14,7 @@ Training data for BAMI's local correction model: pairs of cropped GUI screenshot
 
 ## Limitations
 
-In each sample, the first crop marks the grounding model's initial box and the second the box found after masking and regrounding; both are crops around the candidate, not full screenshots. Labels come from IoU of at least 0.5 or a center point inside the ground-truth box, with box 1 chosen when both or neither qualify, so the classes are imbalanced. The card names GUIAct web data and an unnamed Windows/macOS desktop set as sources. The 12,849-sample validation split that the card and dataset_infos.json report is not in the repository at revision a09c08da, although the bundled loader expects a validation folder. Apache-2.0 is the card's data declaration and does not settle rights in the upstream screenshots. Appendix C.3 of the BAMI paper (v1 HTML) describes training its LoRA Qwen3-VL-8B corrector on 128,487 such samples.
+In each sample, the first crop marks the grounding model's initial box and the second the box found after masking and regrounding; both are crops around the candidate. Labels come from IoU of at least 0.5 or a center point inside the ground-truth box, with box 1 chosen when both or neither qualify, so the classes are imbalanced. The card names GUIAct web data and an unnamed Windows/macOS desktop set as sources. The 12,849-sample validation split that the card and dataset_infos.json report is not in the repository at revision a09c08da, although the bundled loader expects a validation folder. Apache-2.0 is the card's data declaration and does not settle rights in the upstream screenshots. Appendix C.3 of the BAMI paper (v1 HTML) describes training its LoRA Qwen3-VL-8B corrector on 128,487 such samples.
 
 - Record JSON: https://awesomecua.com/resources/url-e7c3d3d49bf977b49996/record.json
 
@@ -31,7 +31,7 @@ In each sample, the first crop marks the grounding model's initial box and the s
 - 12,849 two-box samples — validation split as reported; no validation files at revision a09c08da (reported; source: https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json)
 - 128,487 two-box samples — train plus validation as reported by dataset_infos.json and the card (reported; source: https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json)
 
-Each sample has two image files, so image and sample counts differ. The train metadata has 27,934 distinct command strings; per its original-path columns, 98,369 train rows come from a desktop-named source folder and 17,269 from another folder. The card's per-source figures (about 70K GUIAct and 423K desktop samples) describe the pool before balancing, not this release. Image files were not downloaded or counted.
+Each sample has two image files, so image and sample counts differ. The train metadata has 27,934 distinct command strings; per its original-path columns, 98,369 train rows come from a desktop-named source folder and 17,269 from another folder. The card's per-source figures (about 70K GUIAct and 423K desktop samples) describe the pool before balancing; this release is the balanced set.
 
 ## License declarations
 

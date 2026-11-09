@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Live benchmark for claw\-style workflow agents that act on business services and local workspaces, graded from traces, service state and workspace artifacts; no GUI or browser interaction is described\. An open pull request \(\#3355\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Live benchmark for claw\-style workflow agents that act on business services and local workspaces, graded from traces, service state and workspace artifacts; the abstract leaves open whether business\-service and workspace actions fit adjacent scope\. An open pull request \(\#3355\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

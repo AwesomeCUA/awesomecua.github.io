@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Arena for preference evaluation of LLM\-generated spreadsheet workbooks; spreadsheet artifacts relate to office automation, but the abstract does not involve operating an application, so its scope fit is unclear\. An exclusion proposal is open in pull request \#3388\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Arena for preference evaluation of LLM\-generated spreadsheet workbooks; the abstract leaves open whether spreadsheet artifact evaluation fits office automation\. An exclusion proposal is open in pull request \#3388\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

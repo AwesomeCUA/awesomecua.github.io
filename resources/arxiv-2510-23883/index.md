@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Survey of agentic AI security threats, benchmarks and defenses that cites web and software environments; how much it covers web or GUI agents is unclear from the abstract\. An curation proposal is open in pull request \#4011\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Survey of agentic AI security threats, benchmarks and defenses that cites web and software environments; the abstract leaves open whether web or GUI agents receive material coverage\. An curation proposal is open in pull request \#4011\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

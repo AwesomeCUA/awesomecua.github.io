@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Trains an LLM with RL to orchestrate a CAD\-CAE toolchain for industrial design; it is unclear whether this tool\-driven use of engineering software counts as application automation or plain tool calling\. An exclusion proposal is open in pull request \#3467\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Trains an LLM with RL to orchestrate a CAD\-CAE toolchain for industrial design; the abstract leaves open whether CAD\-CAE tool use fits application automation\. An exclusion proposal is open in pull request \#3467\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

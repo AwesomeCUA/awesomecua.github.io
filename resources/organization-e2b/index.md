@@ -14,7 +14,7 @@ Publisher or product brand associated with E2B computer-use or browser automatio
 
 ## Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-e2b/record.json
 

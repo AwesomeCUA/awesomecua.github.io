@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: SoK on prompt injection against coding assistants with shell, file system and MCP access; unclear whether this counts as terminal agents operating a computer or as out\-of\-scope coding\-agent security\. An exclusion proposal is open in pull request \#3589\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: SoK on prompt injection against coding assistants with shell, file system and MCP access; the abstract leaves open whether shell\-based coding assistants fit adjacent terminal computer use\. An exclusion proposal is open in pull request \#3589\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

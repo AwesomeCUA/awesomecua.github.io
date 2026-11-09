@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: The abstract detects prompt injection via context attribution and explicit rules, evaluated on tool\-use agent benchmarks and long\-context datasets\. This defense names no web\-page, GUI, mobile or desktop interaction\. An open pull request \(\#3295\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: The abstract detects prompt injection via context attribution and explicit rules, evaluated on tool\-use agent benchmarks and long\-context datasets; the abstract leaves open whether the tool\-use benchmarks include computer\-use agents\. This defense names no web\-page, GUI, mobile or desktop interaction\. An open pull request \(\#3295\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

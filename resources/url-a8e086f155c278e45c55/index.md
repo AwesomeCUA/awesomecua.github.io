@@ -14,7 +14,7 @@ The 72B member of H Company's Holo1.5 series, fine-tuned from Qwen2.5-VL-72B-Ins
 
 ## Limitations
 
-The card describes supervised fine-tuning followed by online reinforcement learning (GRPO) on proprietary, synthetic and open-source UI data, with inputs up to 3840 x 2160 pixels. It declares a non-commercial CC BY-NC 4.0 license for the 72B weights, while the 3B and 7B Holo1.5 checkpoints carry different terms, so this declaration is not generalized to the series. The manifest lists 31 Safetensors shards and the Hub reports 73,410,777,344 BF16 parameters. Localization and QA scores on the card are publisher claims and were not reproduced; no weights were loaded.
+The card describes supervised fine-tuning followed by online reinforcement learning (GRPO) on proprietary, synthetic and open-source UI data, with inputs up to 3840 x 2160 pixels. It declares a non-commercial CC BY-NC 4.0 license for the 72B weights, while the 3B and 7B Holo1.5 checkpoints carry different terms, so this declaration is not generalized to the series. The manifest lists 31 Safetensors shards and the Hub reports 73,410,777,344 BF16 parameters. Localization and QA scores on the card are publisher claims.
 
 - Record JSON: https://awesomecua.com/resources/url-a8e086f155c278e45c55/record.json
 

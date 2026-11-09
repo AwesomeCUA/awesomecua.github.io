@@ -30,7 +30,7 @@ The card declares restricted academic research use and no redistribution. Annota
 - 633,369 annotation rows — full recipe (reported; source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md)
 - 610,894 annotation rows — point recipe (reported; source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md)
 
-The recipes reuse source images and are not additive datasets. This download contains no screenshots. Counts are publisher-reported; rows named for trajectories are independent decision examples, not full trajectories.
+The recipes reuse source images and represent related views of the same dataset. This download contains no screenshots. Counts are publisher-reported; rows named for trajectories are independent decision examples.
 
 ## License declarations
 

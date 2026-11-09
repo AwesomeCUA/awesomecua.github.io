@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Scope hold after exact\-v1 Sections 2–4 and Appendices A\.1, B\.1–B\.2, C and E\.5: constructed business environments expose operations and persistent state through tools\. The main actor has no terminal, arbitrary code execution or personal workspace; fixed scripts use a dedicated tool\. The supplementary Codex experiment disables shell, web and multi\-agent execution\. The inspected protocol does not establish GUI, browser or concrete OS interaction\. Need evaluated interface observations/actions before core or adjacent inclusion\. Preserve metadata; this is not a scope exclusion\.
+Scope hold after exact\-v1 Sections 2–4 and Appendices A\.1, B\.1–B\.2, C and E\.5: constructed business environments expose operations and persistent state through tools\. The main actor has no terminal, arbitrary code execution or personal workspace; fixed scripts use a dedicated tool\. The supplementary Codex experiment disables shell, web and multi\-agent execution\. The inspected protocol leaves GUI, browser and concrete OS interaction unspecified\. Need evaluated interface observations/actions before core or adjacent inclusion\. Preserve this record as metadata while its evaluated interface observations and actions are reviewed\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

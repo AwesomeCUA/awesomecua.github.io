@@ -14,7 +14,7 @@ AndroidControl-oriented InternVL2-8B checkpoint trained on OS-Genesis mobile tra
 
 ## Limitations
 
-This is the AC task-specific checkpoint; the 4B and 7B AC checkpoints and the AndroidWorld (AW) and web variants are separate releases, and their results are not transferred to it. The card prose and config.json name InternVL2-8B (InternLM2 language model) as the starting model, while the card's YAML base_model field says InternVL2-4B; the prose and configuration are followed. Four public Safetensors shards are present. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
+This is the AC task-specific checkpoint; the 4B and 7B AC checkpoints and the AndroidWorld (AW) and web variants are separate releases whose results apply to those variants. The card prose and config.json name InternVL2-8B (InternLM2 language model) as the starting model, while the card's YAML base_model field says InternVL2-4B; the prose and configuration are followed. Four public Safetensors shards are present. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-2be7f81cdca0eb8566c6/record.json
 

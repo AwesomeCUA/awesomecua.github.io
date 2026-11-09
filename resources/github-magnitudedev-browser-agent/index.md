@@ -14,7 +14,7 @@ A TypeScript browser-agent framework in which a visually grounded model returns 
 
 ## Limitations
 
-This is GitHub repository 952018616 (magnitudedev/browser-agent, created 2025-03-20). The name magnitudedev/magnitude now belongs to a separate inference-engine repository (1267145484), so it is not recorded as an alias. The inspected tree contains magnitude-core, magnitude-test, magnitude-extract, magnitude-mcp and create-magnitude-app packages plus basic and WebVoyager evaluation folders. The README requires a separately configured visually grounded model; its WebVoyager score is a publisher claim that was not reproduced. Apache-2.0 applies to repository code only.
+This is GitHub repository 952018616 (magnitudedev/browser-agent, created 2025-03-20). The name magnitudedev/magnitude now belongs to a separate inference-engine repository (1267145484). The inspected tree contains magnitude-core, magnitude-test, magnitude-extract, magnitude-mcp and create-magnitude-app packages plus basic and WebVoyager evaluation folders. The README requires a separately configured visually grounded model; its WebVoyager score is a publisher claim. Apache-2.0 applies to repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-magnitudedev-browser-agent/record.json
 

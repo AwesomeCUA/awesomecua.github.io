@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Scope hold after complete v1 main text \(Sections I–VII\) and Appendix VII\-A: Plottery is a human\-operated Jupyter plotting interface with direct manipulation, editable code and a prompt\-to\-code assistant\. Its evaluation studies people switching modalities; the inspected method does not establish an agent observing or operating the GUI, or a CUA execution/recording interface\. Need explicit agent interaction or directly used CUA\-support evidence before core/adjacent inclusion\. Preserve the metadata record; no scope exclusion is proposed\.
+Scope hold after complete v1 main text \(Sections I–VII\) and Appendix VII\-A: Plottery is a human\-operated Jupyter plotting interface with direct manipulation, editable code and a prompt\-to\-code assistant\. Its evaluation studies people switching modalities; agent observation or operation of the GUI and a CUA execution/recording interface remain unestablished\. Need explicit agent interaction or directly used CUA\-support evidence before core/adjacent inclusion\. Preserve the metadata record; no scope exclusion is proposed\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Surveys LLM planning along six performance criteria; web navigation appears only as an example planning task, so how much the survey covers web agents is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Surveys LLM planning along six performance criteria; the abstract leaves open whether web agents receive material coverage beyond the example planning task\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

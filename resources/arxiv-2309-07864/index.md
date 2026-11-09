@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Broad survey of LLM\-based agents covering brain, perception and action plus single\-agent, multi\-agent and human\-agent settings; the abstract does not say how much it covers web or GUI agents\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Broad survey of LLM\-based agents covering brain, perception and action plus single\-agent, multi\-agent and human\-agent settings; the abstract leaves open whether the survey materially covers web or GUI agents\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ Auto-gated Hub release of Mind2Web 2: dev and test task CSVs for long-horizon ag
 
 ## Limitations
 
-The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automatically after a logged-in request) and lists dev_set.csv and test_set.csv as the dev_set and test_set splits, a changelog, and 130 Python files under evaluation_scripts/2025_10_23. The card, changelog and task files sit behind that gate and were not read; the description comes from the project README, which links this dataset as its tasks and judge-agent evaluation scripts and says the scripts for both the public dev set and the test set were released on 2025-10-23. The Hub card metadata declares CC BY 4.0; the repository code is MIT and is not applied to the data. Per the README, scoring with the scripts needs model API keys, and precaching the cited webpages is optional but recommended.
+The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automatically after a logged-in request) and lists dev_set.csv and test_set.csv as the dev_set and test_set splits, a changelog, and 130 Python files under evaluation_scripts/2025_10_23. The description comes from the project README, which links this dataset as its tasks and judge-agent evaluation scripts and says the scripts for both the public dev set and the test set were released on 2025-10-23. The Hub card metadata declares CC BY 4.0; the repository code is MIT and is not applied to the data. Per the README, scoring with the scripts needs model API keys, and precaching the cited webpages is optional but recommended.
 
 - Record JSON: https://awesomecua.com/resources/url-4f4c4f0bf0cec93c59d1/record.json
 
@@ -29,7 +29,7 @@ The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automa
 
 - 130 per-task evaluation scripts — evaluation_scripts/2025_10_23 in osunlp/Mind2Web-2 at revision 54f5b25 (computed) (computed; source: https://huggingface.co/datasets/osunlp/Mind2Web-2/tree/54f5b2546c30b86812d9564f4800c0c6f77deb45/evaluation_scripts/2025_10_23)
 
-The script count is the number of distinct .py files in the pinned tree listing. The dev and test task CSVs are behind the automatic access gate and were not opened, so no per-split task count is recorded.
+The script count is the number of distinct .py files in the pinned tree listing. The automatic access gate leaves the dev and test task CSVs unopened and their per-split task counts unknown.
 
 ## License declarations
 

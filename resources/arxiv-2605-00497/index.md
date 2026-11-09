@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: User\-modeling system that infers life goals from observations of everyday computer use, with an editing interface and field study; the abstract does not say how activity is captured or whether any screen understanding is involved\. An curation proposal is open in pull request \#3281\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: User\-modeling system that infers life goals from observations of everyday computer use, with an editing interface and field study; the abstract leaves open whether activity capture includes screen understanding\. An curation proposal is open in pull request \#3281\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ Inspect-based multi-agent evaluation framework with role, scheduling and communi
 
 ## Limitations
 
-BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task, not SMTP delivery. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.
+BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task and tests the local send condition. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.
 
 - Record JSON: https://awesomecua.com/resources/github-wlanderson0-orbit/record.json
 
@@ -25,7 +25,7 @@ BrowserART tools return accessibility trees, including the screenshot-named refr
 - document: not recorded
 - weights: not recorded
 
-- code review: Record only the publisher's top-level Apache-2.0 declaration for Orbit-original code. NOTICE explicitly preserves per-component terms; neither bundled or external data nor model weights inherit this declaration. Its account of BrowserART licensing is not an independent resolution of upstream conflicting declarations.
+- code review: Record only the publisher's top-level Apache-2.0 declaration for Orbit-original code. NOTICE explicitly preserves per-component terms; neither bundled or external data nor model weights inherit this declaration. Upstream BrowserART licensing declarations remain in conflict; Orbit’s account leaves their resolution open.
   Sources: https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/LICENSE, https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/NOTICE
 
 ## Primary evidence

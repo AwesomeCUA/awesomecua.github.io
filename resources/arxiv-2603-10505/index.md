@@ -14,7 +14,7 @@ Introduces VeriEnv, which recreates websites as executable training environments
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract promises a release upon acceptance; this annotation does not verify artifact availability.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract promises a release upon acceptance.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-10505/record.json
 

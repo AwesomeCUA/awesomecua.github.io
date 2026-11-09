@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Enterprise deep research benchmark spanning productivity software, cloud files, email, chat and the open web; the abstract does not say whether agents operate these apps or query them through APIs\. An curation proposal is open in pull request \#3909\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Enterprise deep research benchmark spanning productivity software, cloud files, email, chat and the open web; the abstract leaves open whether agents operate productivity apps or query them through APIs\. An curation proposal is open in pull request \#3909\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

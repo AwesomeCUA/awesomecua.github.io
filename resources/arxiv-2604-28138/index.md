@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Checkpoint/restore runtime for agent sandboxes, tested on shell\-intensive and code\-repair workloads; unclear whether it serves computer\-use environments or only coding agents\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Checkpoint/restore runtime for agent sandboxes, tested on shell\-intensive and code\-repair workloads; the abstract leaves open whether checkpoint/restore serves computer\-use environments or coding agents\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

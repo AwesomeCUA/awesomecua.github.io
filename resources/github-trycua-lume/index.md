@@ -14,7 +14,7 @@ Virtual machine management for local computer-use environments.
 
 ## Limitations
 
-Lume is a component of the Cua repository. The legacy repository URL now serves the Cua monorepo README; counted as a component, not an independent project.
+Lume is a component of the Cua repository. The legacy repository URL now serves the Cua monorepo README; Lume is counted as a component.
 
 - Record JSON: https://awesomecua.com/resources/github-trycua-lume/record.json
 

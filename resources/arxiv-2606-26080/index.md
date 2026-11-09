@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Derives an annotation\-free step\-level advantage from RL\-trained policies for scoring LLM agent steps\. The abstract names no web\-page, GUI or device environment, so this is a generic agent method\. An open pull request \(\#3141\) proposes to curate it, so the scope needs a decision\. The retained record is v1; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Derives an annotation\-free step\-level advantage from RL\-trained policies for scoring LLM agent steps; the abstract leaves open whether step\-level advantage applies to computer\-use agents\. The abstract names no web\-page, GUI or device environment, so this is a generic agent method\. An open pull request \(\#3141\) proposes to curate it, so the scope needs a decision\. The retained record is v1; reconcile its metadata before approval\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

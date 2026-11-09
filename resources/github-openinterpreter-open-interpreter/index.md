@@ -14,7 +14,7 @@ Assistant framework combining code execution and computer interaction.
 
 ## Limitations
 
-The repository has evolved substantially; computer-use functionality is documented in its Computer Use section. Do not infer parity with historical releases.
+The repository has evolved substantially; computer-use functionality is documented in its Computer Use section.
 
 - Record JSON: https://awesomecua.com/resources/github-openinterpreter-open-interpreter/record.json
 

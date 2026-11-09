@@ -14,7 +14,7 @@ CAD screen recordings paired with action logs and target model images for studyi
 
 ## Limitations
 
-Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1.0 dataset declaration. Archive count is not a video or trajectory count. The author repository documents the action and video formats, and Section 3 of the v2 paper identifies the recorded Onshape browser interface. No archives or training samples were downloaded; operating-system coverage is unspecified.
+Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1.0 dataset declaration. Archive counts, video counts and trajectory counts are different units. The author repository documents the action and video formats, and Section 3 of the v2 paper identifies the recorded Onshape browser interface. No archives or training samples were downloaded; operating-system coverage is unspecified.
 
 - Record JSON: https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/record.json
 
@@ -29,7 +29,7 @@ Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1
 
 - > 41,000 video recordings — VideoCAD published collection (reported; source: https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK)
 
-The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape; operating-system compatibility is not established.
+The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape.
 
 ## License declarations
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Multi\-agent LLM system that writes Blender Python code to generate and edit 3D assets\. This 3D content generation through code does not involve agents operating graphical interfaces or web pages\. The other marked it borderline: LLM agents build 3D assets by writing and debugging Blender Python scripts; unclear whether script\-driven 3D content creation counts as application automation \(adjacent\) or plain graphics code generation \(out of scope\)\. An exclusion proposal is open in pull request \#4017\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether the 3D generation through code fits application automation\. One read it as outside the scope: Multi\-agent LLM system that writes Blender Python code to generate and edit 3D assets\. This work generates 3D content through code; its application\-automation fit remains open\. The other marked it borderline: LLM agents build 3D assets by writing and debugging Blender Python scripts; unclear whether script\-driven 3D content creation counts as application automation \(adjacent\) or plain graphics code generation \(out of scope\)\. An exclusion proposal is open in pull request \#4017\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

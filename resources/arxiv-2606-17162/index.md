@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Memory framework for personalized slide\-generation agents with tool\-based local revision; the abstract does not say whether edits drive presentation software or are plain content generation\. An exclusion proposal is open in pull request \#3015\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Memory framework for personalized slide\-generation agents with tool\-based local revision; the abstract leaves open whether edits drive presentation software or generate content\. An exclusion proposal is open in pull request \#3015\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

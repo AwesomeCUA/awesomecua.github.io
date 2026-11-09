@@ -14,7 +14,7 @@ Gated Hub release of the OSWorld 2.0 benchmark's Python task classes, which hold
 
 ## Limitations
 
-The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automatically after a logged-in request) and 147 files: 108 task_*.py classes, 34 task implementation notes, a task-hash manifest and the card. The card and files sit behind that gate and were not read; the description comes from the OSWorld-V2 README, which links this dataset as its data and downloads it into evaluation_examples/task_class. The README pins task, asset and website snapshots per benchmark release (osworld-v2.1 recommended, plus osworld-v2-2026.08.08 and osworld-v2-2026.06.24), so the main-branch file count is not a release's task count. Task assets are in the separate gated xlangai/osworld_v2_assets_gated dataset and anonymous runtime assets in xlangai/osworld_v2_assets; neither is covered here. The code repository github.com/xlang-ai/OSWorld-V2 is not an active record, so no component relation is recorded. The card metadata declares Apache-2.0.
+The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automatically after a logged-in request) and 147 files: 108 task_*.py classes, 34 task implementation notes, a task-hash manifest and the card. The card and files sit behind the gate; the description comes from the OSWorld-V2 README, which links this dataset as its data and downloads it into evaluation_examples/task_class. The README pins task, asset and website snapshots per benchmark release (osworld-v2.1 recommended, plus osworld-v2-2026.08.08 and osworld-v2-2026.06.24); main-branch file counts are distinct from release task counts. Task assets are in the separate gated xlangai/osworld_v2_assets_gated dataset and anonymous runtime assets in xlangai/osworld_v2_assets; neither is covered here. The code repository github.com/xlang-ai/OSWorld-V2 is not an active record, so no component relation is recorded. The card metadata declares Apache-2.0.
 
 - Record JSON: https://awesomecua.com/resources/url-1c4a0389ace7c5cb8a4b/record.json
 
@@ -30,7 +30,7 @@ The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automa
 - 108 task class files — task_*.py on the main branch at revision 0a1aadad (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks)
 - 34 implementation note files — implementation_notes/task_*.md on the main branch at revision 0a1aadad (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks)
 
-Counts are files in the public main-branch manifest. Benchmark releases are pinned to their own tags, which were not inspected because the files are gated, so these are not release task counts.
+Counts are files in the public main-branch manifest. Benchmark releases are pinned to their own tags; these are main-branch counts.
 
 ## License declarations
 

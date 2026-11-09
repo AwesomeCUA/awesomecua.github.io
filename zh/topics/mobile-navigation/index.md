@@ -41,7 +41,7 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
 - [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://awesomecua.com/resources/arxiv-2610-19900/) — 2026-10-14
   Introduces GraceBench, using application transition graphs and recorded interaction evidence to diagnose deviations, loops, and recovery that final task-success scores can hide.
 - [Learning How to Remember: Memory Modality Selection for GUI Agents](https://awesomecua.com/resources/arxiv-2610-17928/) — 2026-10-13
-  Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step instead of fixing one memory modality for a task.
+  Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step.
 - [PrivacyGuard: Source-Linked Sanitization and Locally Resolvable PII References for Cloud GUI Agents](https://awesomecua.com/resources/arxiv-2610-16778/) — 2026-10-12
   Introduces PrivacyGuard, which sanitizes source-linked personal information and maintains locally resolvable references across mobile-agent turns to reduce exposure to remote planners.
 - [OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools](https://awesomecua.com/resources/arxiv-2610-14157/) — 2026-10-09
@@ -177,7 +177,7 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
 - [Do Phone-Use Agents Respect Your Privacy?](https://awesomecua.com/resources/arxiv-2604-00986/) — 2026-04-01
   Introduces MyPhoneBench to verify whether phone-use agents minimize personal data disclosure when filling forms during benign mobile tasks.
 - [PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent](https://awesomecua.com/resources/arxiv-2603-29318/) — 2026-03-31
-  PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences rather than measuring generic task completion alone.
+  PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences.
 - [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://awesomecua.com/resources/arxiv-2603-24533/) — 2026-03-25
   Introduces a two-stage mobile GUI learner that first co-evolves trajectories and policies through rejection fine-tuning. Group Relative Self-Distillation then uses successful rollout branches to provide step-level supervision for failed trajectories, evaluated on AndroidWorld.
 - [MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation](https://awesomecua.com/resources/arxiv-2603-20351/) — 2026-03-20
@@ -343,7 +343,7 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
 - [GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs](https://awesomecua.com/resources/arxiv-2506-07385/) — 2025-06-09
   Introduces GUIPilot, which compares mobile design mock-ups with implemented screens through widget alignment and tests expected transitions by executing inferred UI actions. It evaluates both visual inconsistencies and workflow-specific bugs.
 - [Scenario-Guided LLM-based Mobile App GUI Testing](https://awesomecua.com/resources/arxiv-2506-05079/) — 2025-06-05
-  ScenGen organizes mobile GUI testing around business scenarios rather than unrestricted exploration. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
+  ScenGen organizes mobile GUI testing around business scenarios. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
 - [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://awesomecua.com/resources/arxiv-2506-01391/) — 2025-06-02
   Combines grounding pretraining, bilingual interaction trajectories, and reinforcement fine-tuning for mobile GUI actions.
 - [Agent-SAMA: State-Aware Mobile Assistant](https://awesomecua.com/resources/arxiv-2505-23596/) — 2025-05-29
@@ -389,7 +389,7 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
 - [Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study](https://awesomecua.com/resources/arxiv-2503-16788/) — 2025-03-21
   This study compares matched reasoning and non-reasoning vision-language models on static mobile GUI tasks and interactive AndroidWorld navigation. It finds that chain-of-thought effects vary across tasks and model families.
 - [Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://awesomecua.com/resources/arxiv-2503-15937/) — 2025-03-20
-  Introduces V-Droid, which verifies candidate actions in a discrete action space rather than directly generating each mobile operation.
+  Introduces V-Droid, which verifies candidate actions in a discrete action space.
 - [FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data](https://awesomecua.com/resources/arxiv-2503-05143/) — 2025-03-07
   Introduces a benchmark for federated mobile-agent training under heterogeneous user and application distributions, combining datasets, algorithms, and base models.
 - [CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning](https://awesomecua.com/resources/arxiv-2503-03743/) — 2025-03-05

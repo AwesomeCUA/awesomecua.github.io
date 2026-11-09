@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Fine\-tunes LLMs to write Blender CAD scripts; it is application scripting with no GUI agent, falling between code generation and application automation\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Fine\-tunes LLMs to write Blender CAD scripts; the abstract leaves open whether Blender scripting fits adjacent application automation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

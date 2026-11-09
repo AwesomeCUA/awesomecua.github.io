@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Builds MCP tool\-use data and models; a web agent is used to discover servers, but the trained agents call MCP functions, so it is unclear whether the web component is material\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Builds MCP tool\-use data and models; the abstract leaves open whether the web discovery component is material to evaluated agents\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

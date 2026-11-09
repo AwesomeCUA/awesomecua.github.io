@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Video\-stream personal agent with frame gating and skill evolution; its workspace benchmark runs Codex and Claude Code backends, but the abstract does not say whether agents operate a computer beyond files and executable checks\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Video\-stream personal agent with frame gating and skill evolution; the abstract leaves open whether workspace agents operate a computer beyond files and executable checks\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

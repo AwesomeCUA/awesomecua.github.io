@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Omni\-modal tool\-use benchmark run through MCP servers that contrasts itself with computer\-use evaluation; the abstract does not say whether any of its tools operate a GUI, browser or desktop\. An exclusion proposal is open in pull request \#3023\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Omni\-modal tool\-use benchmark run through MCP servers that contrasts itself with computer\-use evaluation; the abstract leaves open whether MCP tools operate a GUI, browser or desktop\. An exclusion proposal is open in pull request \#3023\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

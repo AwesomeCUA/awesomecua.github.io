@@ -82,7 +82,7 @@
           "contextual-integrity compliance of computer-use agents",
           "information disclosure across personal apps"
         ],
-        "notes": "Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test, so the two splits are not added; seeds share no IDs with either.",
+        "notes": "Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test; seeds share separate IDs.",
         "observations": [
           "decoded app states",
           "rendered app UI (live-UI subset)",
@@ -340,7 +340,7 @@
           "side effects",
           "repetition"
         ],
-        "notes": "Counts refer to the paper study; current Hub package files are not converted into trajectory totals.",
+        "notes": "Counts refer to the paper study.",
         "observations": [
           "web trajectories",
           "screenshots",
@@ -405,7 +405,7 @@
           "finish"
         ],
         "counts": [],
-        "evaluation": "The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Full reference-dependent evaluation coverage cannot be assumed because complete annotated action sequences are not released.",
+        "evaluation": "The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Complete annotated action sequences are pending release; reference-dependent evaluation currently has limited coverage.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/README.md",
           "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/README.md",
@@ -418,7 +418,7 @@
           "multi-step Android tasks",
           "cross-app workflows and instruction constraints"
         ],
-        "notes": "README states that task instructions are released but annotated action sequences, apart from the calendar example, will come later. Environment setup targets Android API 33 with uiautomator2 and manual Google-account setup. Public task YAML and evaluator code exist, but benchmark execution and full reference coverage were not verified. No task total is derived from app YAML file counts. Code and data licenses remain unknown.",
+        "notes": "README states that task instructions are released but annotated action sequences, apart from the calendar example, will come later. Environment setup targets Android API 33 with uiautomator2 and manual Google-account setup. Public task YAML and evaluator code exist. No task total is derived from app YAML file counts. Code and data licenses remain unknown.",
         "observations": [
           "UI hierarchy text",
           "screenshots",
@@ -574,7 +574,7 @@
           "single-step Android GUI action prediction",
           "element grounding against target boxes"
         ],
-        "notes": "Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals and are not summed with these.",
+        "notes": "Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals; these counts are reported separately.",
         "observations": [
           "screenshots",
           "task goals",
@@ -709,7 +709,7 @@
           "subgoal completion",
           "operation efficiency"
         ],
-        "notes": "The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks, not the separately released Android Instruct training set.",
+        "notes": "The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks; Android Instruct is a separately released training set.",
         "observations": [
           "UI XML",
           "set-of-marks views"
@@ -794,7 +794,7 @@
         "focus": [
           "mobile task completion"
         ],
-        "notes": "Random parameters produce many instances from the same task definitions. Preserve seeds and parameterization; 116 is not a count of all possible task instances.",
+        "notes": "Random parameters produce many instances from the same task definitions. Preserve seeds and parameterization; 116 counts task definitions, while random parameters produce many task instances.",
         "observations": [
           "screenshots",
           "accessibility information"
@@ -885,7 +885,7 @@
         "focus": [
           "mobile task completion"
         ],
-        "notes": "Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions are not the platform being evaluated.",
+        "notes": "Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions describe setup; the evaluated platform is separate.",
         "observations": [
           "mobile interfaces"
         ],
@@ -968,7 +968,7 @@
           "interactive coding",
           "cross-app tool use"
         ],
-        "notes": "This is an adjacent API/coding benchmark, not a screenshot-only task suite. Preserve the named release; task counts here refer to the original paper.",
+        "notes": "This is an adjacent API/coding benchmark. Preserve the named release; task counts here refer to the original paper.",
         "observations": [
           "API documentation",
           "execution feedback"
@@ -1073,7 +1073,7 @@
           "grounding infotainment UI elements from test-action commands",
           "judging expected-result statements as passed or failed"
         ],
-        "notes": "Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows). The 2.5 GB of Parquet shards were not downloaded.",
+        "notes": "Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows).",
         "observations": [
           "photographs and screenshots of in-vehicle infotainment displays",
           "English test-action or expected-result text"
@@ -1167,7 +1167,7 @@
           {
             "basis": "computed",
             "evidence_url": "https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1",
-            "population": "asset/tasks/**/*.textproto in retained release/ver.3 tree; not a paper test-task total",
+            "population": "asset/tasks/**/*.textproto in retained release/ver.3 tree; source-file inventory distinct from the paper test-task total",
             "qualifier": "exact",
             "unit": "task-definition files",
             "value": 131
@@ -1202,7 +1202,7 @@
           "Android control across visual/device variation",
           "generalization across environment snapshots"
         ],
-        "notes": "Current source inventory differs in grain from published experiment subsets: do not multiply 131 definitions by 35/10 configuration rows or label the product as evaluated tasks. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.",
+        "notes": "Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.",
         "observations": [
           "screenshot pixels",
           "XML view hierarchy",
@@ -1392,7 +1392,7 @@
           "shared browser-agent evaluation interface",
           "benchmark adapters with separate task definitions"
         ],
-        "notes": "A framework with interactive browser adapters and a static WebLINX evaluation integration, so the profile setting is mixed. README-listed integrations are not added as disjoint tasks or datasets. Core requires Playwright/Chromium; individual benchmarks have their own setup, credentials, licenses and validation rules. Apache-2.0 covers repository code only. No browser tasks or third-party project code were executed.",
+        "notes": "A framework with interactive browser adapters and a static WebLINX evaluation integration, so the profile setting is mixed. README-listed integrations are components of this framework; their tasks and datasets are separate inventories. Core requires Playwright/Chromium; individual benchmarks have their own setup, credentials, licenses and validation rules. Apache-2.0 covers repository code only. No browser tasks or third-party project code were executed.",
         "observations": [
           "browser screenshot",
           "DOM snapshot",
@@ -1646,7 +1646,7 @@
           "long-horizon mobile task completion",
           "multi-path graph interaction"
         ],
-        "notes": "The interaction environment replays graph states rather than running real user accounts. The 101 and 74 subsets partition the reported 175 tasks; do not add the three counts.",
+        "notes": "The interaction environment replays graph states. The 101 and 74 subsets partition the reported 175 tasks.",
         "observations": [
           "mobile screenshots represented as graph states"
         ],
@@ -1736,7 +1736,7 @@
             "value": 615
           }
         ],
-        "evaluation": "After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the backend that aggregates them is not in the repository.",
+        "evaluation": "After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the aggregation backend remains outside this repository.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv",
           "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/frontend/src/components/Arena/eval.tsx",
@@ -1845,7 +1845,7 @@
         "focus": [
           "cross-environment tasks"
         ],
-        "notes": "CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0, not every environment that can be created with the framework.",
+        "notes": "CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0.",
         "observations": [],
         "setting": "interactive"
       },
@@ -1939,7 +1939,7 @@
           "verifier-human agreement",
           "process quality"
         ],
-        "notes": "Trajectory rows and reviewer rows have different grains. Internal task labels do not make the released Parquet files private. No payload data was downloaded.",
+        "notes": "Trajectory rows and reviewer rows have different grains. The released Parquet files are public despite internal task labels. No payload data was downloaded.",
         "observations": [
           "screenshots",
           "action logs",
@@ -2127,7 +2127,7 @@
           "mobile-agent federated training",
           "data heterogeneity"
         ],
-        "notes": "The dataset-family count does not count tasks, apps, screenshots or client instances. Code and data licenses are unknown; external image sources are required.",
+        "notes": "The dataset-family count measures dataset families. Code and data licenses are unknown; external image sources are required.",
         "observations": [
           "mobile-agent examples with externally sourced screenshots"
         ],
@@ -2219,7 +2219,7 @@
             "value": 3957
           }
         ],
-        "evaluation": "The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.",
+        "evaluation": "The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.",
         "evidence_urls": [
           "https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md",
           "https://huggingface.co/api/datasets/agent-studio/GroundUI-18K/revision/f061eba2b7e3fffcf511694f15ad3ca38898ab9e",
@@ -2230,7 +2230,7 @@
         "focus": [
           "instruction-conditioned GUI element grounding"
         ],
-        "notes": "Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; it is not counted here.",
+        "notes": "Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; this count covers the full set.",
         "observations": [
           "screenshots",
           "natural-language instructions"
@@ -2379,7 +2379,7 @@
             "value": 300
           }
         ],
-        "evaluation": "The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.",
+        "evaluation": "The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.",
         "evidence_urls": [
           "https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md",
           "https://huggingface.co/api/datasets/agent-studio/GroundUI-1K/revision/5d18efc3085902648b7031bf747a1090356a1b17",
@@ -2390,7 +2390,7 @@
         "focus": [
           "instruction-conditioned GUI element grounding"
         ],
-        "notes": "Subset of GroundUI-18K sampled for efficient benchmarking; the larger set is a separate Hub repository and is not counted here. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.",
+        "notes": "Subset of GroundUI-18K sampled for efficient benchmarking; this count covers the subset, while the larger set is a separate Hub repository. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.",
         "observations": [
           "screenshots",
           "natural-language instructions"
@@ -2520,7 +2520,7 @@
             "value": 283
           }
         ],
-        "evaluation": "eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy does not measure end-to-end task success.",
+        "evaluation": "eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.",
         "evidence_urls": [
           "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md",
           "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml",
@@ -2680,7 +2680,7 @@
           "short-term intent prediction",
           "help need and help content prediction"
         ],
-        "notes": "Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. Segment counts per task were not computed because the annotation files sit behind the access gate.",
+        "notes": "Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. The access gate leaves segment counts per task uncomputed from the annotation files.",
         "observations": [
           "screen-recording video segments"
         ],
@@ -2798,7 +2798,7 @@
           "planning fidelity on privacy-protected screenshots",
           "click grounding under visual privacy protection"
         ],
-        "notes": "Counts describe dataset_example/, the repository's review subset for smoke tests, not the benchmark; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units and are not summed.",
+        "notes": "Counts describe dataset_example/, the repository's review subset for smoke tests; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units; these counts are reported separately.",
         "observations": [
           "recorded trajectory screenshots",
           "task instructions",
@@ -2932,7 +2932,7 @@
           "agent planning fidelity on privacy-protected screenshots",
           "click grounding under visual privacy protection"
         ],
-        "notes": "Trajectories, screenshots and annotations are different units and are not summed. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once, not retained) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.",
+        "notes": "Trajectories, screenshots and annotations are different units and are counted separately. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.",
         "observations": [
           "recorded trajectory screenshots",
           "task goals",
@@ -3040,7 +3040,7 @@
             "value": 1000
           }
         ],
-        "evaluation": "Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage because missing predictions are not independently enumerated by evaluate_dataset.",
+        "evaluation": "Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md",
           "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/src/metrics.py",
@@ -3052,7 +3052,7 @@
           "GUI page-element detection",
           "element-description consistency"
         ],
-        "notes": "Each annotation entry represents a page, not one UI element. README’s illustrative num_samples=4796 output is not adopted as a corpus count. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer; payload availability/integrity was not tested by downloading images. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.",
+        "notes": "Each annotation entry represents a page. README illustrates num_samples=4796 as example output; the corpus count remains unspecified. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.",
         "observations": [
           "page screenshot"
         ],
@@ -3182,7 +3182,7 @@
           "long-horizon computer use in professional and enterprise software",
           "conversion of arbitrary applications into agent environments"
         ],
-        "notes": "The paper's application and task totals and the repository's verified manifest are different populations and are not reconciled. Per-environment split files list train and test tasks, but several cover variant folders of one application, so their entries are not summed. Paper-reported results, including CUA-World-Long, were not reproduced.",
+        "notes": "The paper's application and task totals and the repository's verified manifest are different populations; these counts are reported separately. Per-environment split files list train and test tasks, and several cover variant folders of one application; these counts are reported separately.",
         "observations": [
           "screen frames",
           "UI tree (some macOS environments)"
@@ -3313,7 +3313,7 @@
           {
             "basis": "reported",
             "evidence_url": "https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md",
-            "population": "ClawBench shared task pool (not stored in this repository)",
+            "population": "ClawBench shared task pool, held in the separate ClawBench repository",
             "qualifier": "exact",
             "unit": "tasks",
             "value": 153
@@ -3588,7 +3588,7 @@
           "demonstration-conditioned mobile GUI task execution",
           "k-shot (k = 1, 2, 3) support demonstrations with instruction, UI and action similarity scores"
         ],
-        "notes": "Task, step-action, application and file counts are different units and are not summed. Each k-shot table row reuses the same split tasks with a different number of support demonstrations, so the 1-, 2- and 3-shot rows are not additional tasks.",
+        "notes": "Task, step-action, application and file counts are different units; these counts are reported separately. Each k-shot table row reuses the same split tasks with a different number of support demonstrations; the 1-, 2- and 3-shot rows describe those same tasks.",
         "observations": [
           "step screenshots",
           "high-level and low-level instructions",
@@ -3713,7 +3713,7 @@
             "value": 46
           }
         ],
-        "evaluation": "Checks whether the recorded execution visits all annotated essential states rather than requiring an identical action sequence.",
+        "evaluation": "Checks whether the recorded execution visits all annotated essential states.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md"
         ],
@@ -3721,7 +3721,7 @@
           "mobile task completion",
           "essential-state evaluation"
         ],
-        "notes": "Application coverage refers to the self-constructed subset. Task execution and essential-state annotation are separate components; counts are publisher-reported, not a fresh task-file recount.",
+        "notes": "Application coverage refers to the self-constructed subset. Task execution and essential-state annotation are separate components; counts are publisher-reported.",
         "observations": [
           "screenshots",
           "view hierarchies",
@@ -3805,7 +3805,7 @@
           "macOS task completion",
           "cross-application workflows"
         ],
-        "notes": "The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framework skills and interfaces affect the task setting; the inspected README does not define one universal observation representation.",
+        "notes": "The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framework skills and interfaces affect the task setting, with observation representation varying by framework.",
         "observations": [],
         "setting": "interactive"
       },
@@ -3908,7 +3908,7 @@
           "memory-intensive mobile GUI tasks",
           "cross-app long-horizon tasks"
         ],
-        "notes": "Counts come from the pinned CSV files and match the README badges (128 tasks, 26 apps, 89.8% memory-intensive). The full set has 48, 42 and 38 tasks at difficulty levels 1, 2 and 3, and its golden steps average about 36. The 40-task file is a subset of the 128 tasks, so the two counts are not summed. Leaderboard settings fix the judge models; debugging runs may use others.",
+        "notes": "Counts come from the pinned CSV files and match the README badges (128 tasks, 26 apps, 89.8% memory-intensive). The full set has 48, 42 and 38 tasks at difficulty levels 1, 2 and 3, and its golden steps average about 36. The 40-task file is a subset of the 128 tasks. Leaderboard settings fix the judge models; debugging runs may use others.",
         "observations": [
           "screenshots"
         ],
@@ -4038,7 +4038,7 @@
           "web action prediction",
           "generalization to unseen sites and domains"
         ],
-        "notes": "These are reported split inventories, not online task-success measurements. Original Mind2Web, Multimodal-Mind2Web, and Online-Mind2Web have different inputs/protocols. The authors require macro-average metrics for comparison with the paper; test archives remain upstream.",
+        "notes": "These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, and Online-Mind2Web have different inputs/protocols. The authors require macro-average metrics for comparison with the paper; test archives remain upstream.",
         "observations": [
           "task instructions",
           "HTML",
@@ -4119,7 +4119,7 @@
         "focus": [
           "small web interaction tasks"
         ],
-        "notes": "The README gives a lower bound, not an exact active-environment inventory. Action presets expose different capabilities, so comparisons must identify the preset. Environment-specific reward details are not normalized here. The repository is in maintenance mode.",
+        "notes": "The README gives a lower bound for the active-environment inventory. Action presets expose different capabilities, so comparisons must identify the preset. The repository is in maintenance mode.",
         "observations": [
           "task instructions",
           "screenshots",
@@ -4219,7 +4219,7 @@
           "task automation",
           "task collaboration"
         ],
-        "notes": "The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. Do not treat every level as the same evaluator or a complete implemented interface.",
+        "notes": "The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. The README documents four levels; release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration.",
         "observations": [
           "screenshots"
         ],
@@ -4272,7 +4272,7 @@
             "value": 50
           }
         ],
-        "evaluation": "The publisher reports a fifty-task real-device evaluation; the inspected release does not establish an automatic correctness judge.",
+        "evaluation": "The publisher reports a fifty-task real-device evaluation.",
         "evidence_urls": [
           "https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md"
         ],
@@ -4415,7 +4415,7 @@
         "focus": [
           "long-horizon multi-app Android task execution"
         ],
-        "notes": "Features are task_id, instruction, type, apps, scenario, rubrics and human-reference operation strings. A task record is not an action count or recorded screenshot trajectory. Public Parquet inventory was checked but no sample rows were downloaded; companion README limits the tested agent platform to Android.",
+        "notes": "Features are task_id, instruction, type, apps, scenario, rubrics and human-reference operation strings. A task record contains task-definition fields and human-reference operation strings; the counted unit is tasks. Public Parquet inventory was checked but no sample rows were downloaded; companion README limits the tested agent platform to Android.",
         "observations": [
           "task instructions",
           "app/scenario metadata"
@@ -4518,7 +4518,7 @@
             "value": 40
           }
         ],
-        "evaluation": "Published task definitions include preconditions and clarification requirements; the metadata review does not independently validate the reported agent scores.",
+        "evaluation": "Published task definitions include preconditions and clarification requirements.",
         "evidence_urls": [
           "https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md"
         ],
@@ -4620,7 +4620,7 @@
           "mobile GUI task completion in simulation",
           "state verification and parallel training"
         ],
-        "notes": "The split-ID inventory is not a count of sampled trajectories, live Android apps or real user accounts. Extra runtime/data dependencies and third-party content terms remain distinct.",
+        "notes": "The split-ID inventory counts task IDs. Extra runtime/data dependencies and third-party content terms remain distinct.",
         "observations": [
           "simulated mobile screenshots",
           "structured simulator state for judges"
@@ -4794,7 +4794,7 @@
           "task-specific shortcut actions"
         ],
         "counts": [],
-        "evaluation": "Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results are not a single generic success-rate metric.",
+        "evaluation": "Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results include separate goal-achievement, harm-prevention, risk-detection and completion-progress measures.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/README.md",
           "https://api.github.com/repos/jylee425/mobilesafetybench/git/trees/release/ver.3?recursive=1",
@@ -4806,7 +4806,7 @@
           "mobile task helpfulness",
           "harm prevention during Android interaction"
         ],
-        "notes": "Inspected release/ver.3 branch exposes task definitions, Android environment and per-task evaluators. It requires Android API 34, Appium/ADB and documented third-party app versions; those APKs/accounts were not acquired. The action parser includes semantic shortcuts in addition to screen gestures, so this is not a strictly coordinate-only action setting. No corpus task total is inferred from evaluator-module or file counts. Apache-2.0 applies to repository code, not automatically app/data assets.",
+        "notes": "Inspected release/ver.3 branch exposes task definitions, Android environment and per-task evaluators. It requires Android API 34, Appium/ADB and documented third-party app versions. The action parser includes semantic shortcuts in addition to screen gestures. No corpus task total is inferred from evaluator-module or file counts. Apache-2.0 applies to repository code, not automatically app/data assets.",
         "observations": [
           "screenshot pixels",
           "parsed UI hierarchy text",
@@ -5147,7 +5147,7 @@
         "focus": [
           "offline desktop/web action-script generation"
         ],
-        "notes": "This released split table totals 9,799 examples; it is not silently substituted for any paper-level collection size. Public files include train/test/val JSON indexes, task/image archives, and eval.py. Evaluation is offline script comparison, not execution success on a live desktop. MIT is the Hub data declaration; original app/content rights are not resolved by it.",
+        "notes": "This released split table totals 9,799 examples; paper-level collection size is a separate population. Public files include train/test/val JSON indexes, task/image archives, and eval.py. Evaluation uses offline script comparison. MIT is the Hub data declaration; original app/content rights are not resolved by it.",
         "observations": [
           "screenshot",
           "natural-language task"
@@ -5252,7 +5252,7 @@
         "focus": [
           "live-web task completion"
         ],
-        "notes": "Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema; a constant headline task count does not imply an unchanged test set.",
+        "notes": "Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema because tasks are actively replaced when websites or requirements become invalid.",
         "observations": [],
         "setting": "interactive"
       },
@@ -5465,7 +5465,7 @@
           "UI-agent reliability under environment variation",
           "state-based browser task evaluation"
         ],
-        "notes": "Preserve the code/tag, app state, theme/layout/content choices, goal variant and action/observation configuration. Current main refactors the paper-era appearance surface, and the v1.0-paper tag includes post-publication fixes that may move rewards. The environments run as browser apps; phone/tablet viewports are not native Android/iOS environments.",
+        "notes": "Preserve the code/tag, app state, theme/layout/content choices, goal variant and action/observation configuration. Current main refactors the paper-era appearance surface, and the v1.0-paper tag includes post-publication fixes that may move rewards. The environments run as browser apps with phone/tablet viewports.",
         "observations": [
           "screenshots",
           "accessibility trees",
@@ -5569,7 +5569,7 @@
         "focus": [
           "GUI critic prediction"
         ],
-        "notes": "No sample count is inferred from the n<1K Hub size band. Evaluation code availability does not establish the release of OS-Oracle training data or weights.",
+        "notes": "No sample count is inferred from the n<1K Hub size band. OS-Oracle training data and weights remain pending; released evaluation code covers a separate component.",
         "observations": [
           "benchmark JSONL",
           "UI screenshots"
@@ -5634,7 +5634,7 @@
           {
             "basis": "reported",
             "evidence_url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md",
-            "population": "reported benchmark total; not a recount of unique released task IDs",
+            "population": "reported benchmark total; unique released task IDs use a separate count",
             "qualifier": "exact",
             "unit": "tasks as reported by the paper/README",
             "value": 150
@@ -5664,7 +5664,7 @@
             "value": 50
           }
         ],
-        "evaluation": "Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark, not a single offline grounding score.",
+        "evaluation": "Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md",
           "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/run.py",
@@ -5677,7 +5677,7 @@
           "prompt-injection safety",
           "unintended harmful behavior during normal tasks"
         ],
-        "notes": "README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, so the released ID inventory is not a direct recount of paper settings; the complete expanded total was not reconstructed. Judge agreement F1 values in the README measure agreement with human labels, not agent success. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.",
+        "notes": "README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.",
         "observations": [
           "screenshot",
           "accessibility tree",
@@ -5795,7 +5795,7 @@
           "breadth of desktop task coverage",
           "depth of desktop task execution"
         ],
-        "notes": "416 category/task pairs are unique, but only 412 bare ID strings are unique across categories. This is a manifest-reference count, not a claim of 416 semantically distinct tasks. Main runtime documentation specifies Ubuntu; the subdirectory README retains older Windows-only wording.",
+        "notes": "416 category/task pairs are unique, but only 412 bare ID strings are unique across categories. This is a manifest-reference count. Main runtime documentation specifies Ubuntu; the subdirectory README retains older Windows-only wording.",
         "observations": [
           "desktop observations from an Ubuntu virtual machine"
         ],
@@ -5897,7 +5897,7 @@
           "reliability of VLM judges and reward models on computer-use trajectories",
           "binary success verdicts"
         ],
-        "notes": "Counts are as the README reports them for the Hugging Face release; they were not recounted from the dataset. Screenshot window, history mode, markers and temperature are evaluator defaults that can be changed by flags.",
+        "notes": "Counts are as the README reports them for the Hugging Face release. Screenshot window, history mode, markers and temperature are evaluator defaults that can be changed by flags.",
         "observations": [
           "task instruction",
           "full thought and action history",
@@ -6074,7 +6074,7 @@
           "refusal represented by negative coordinates in the evaluator"
         ],
         "counts": [],
-        "evaluation": "The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding, not OSWorld task-execution success.",
+        "evaluation": "The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding; OSWorld task-execution success is a separate measure.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/README.md",
           "https://api.github.com/repos/xlang-ai/OSWorld-G/git/trees/main?recursive=1",
@@ -6085,7 +6085,7 @@
           "desktop GUI grounding",
           "infeasible-target refusal"
         ],
-        "notes": "The repository retains original OSWorld-G.json and refined OSWorld-G_refined.json instructions; treat them as alternative benchmark versions, not additional disjoint tasks. Refined instructions reduce requirements beyond grounding. The same repository also contains Jedi training/rendering material, which is excluded from benchmark counts. The standalone generic eval.py entry point is a stub; the named model runner supplies image_size to its geometry helper. No task count or successful execution is inferred from repository file totals. Apache-2.0 is recorded for code only.",
+        "notes": "The repository retains original OSWorld-G.json and refined OSWorld-G_refined.json instructions as alternative benchmark versions. Refined instructions reduce requirements beyond grounding. The same repository also contains Jedi training/rendering material, which is excluded from benchmark counts. The standalone generic eval.py entry point is a stub; the named model runner supplies image_size to its geometry helper. No task count or successful execution is inferred from repository file totals. Apache-2.0 is recorded for code only.",
         "observations": [
           "screenshot",
           "instruction"
@@ -6325,7 +6325,7 @@
           "pixel-precise editor cursor placement",
           "multi-turn visual self-correction"
         ],
-        "notes": "The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light) and screenshot files. Partitions are not train/test splits or independent task totals. README’s initial field table calls bbox pixel coordinates, but the evaluation-format section and actual ratio_h/ratio_w=dimension/1000 code use normalized target boxes; profile follows the inspected evaluator and retains the inconsistency. Source/images were not executed or downloaded as a dataset. MIT is recorded for repository code only.",
+        "notes": "The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light) and screenshot files. The four editor/theme partitions (Cursor/VS Code × dark/light) are separate from train/test splits and task totals. README’s initial field table calls bbox pixel coordinates, but the evaluation-format section and actual ratio_h/ratio_w=dimension/1000 code use normalized target boxes; profile follows the inspected evaluator and retains the inconsistency. MIT is recorded for repository code only.",
         "observations": [
           "code-editor screenshot",
           "cursor-location instruction",
@@ -6417,7 +6417,7 @@
           "web-agent safety",
           "task completion"
         ],
-        "notes": "Use SafeArena-specific containers rather than ordinary WebArena instances. The documented task splits require access approval; the profile does not imply unrestricted dataset access.",
+        "notes": "Use SafeArena-specific containers. The documented task splits require access approval.",
         "observations": [],
         "setting": "interactive"
       },
@@ -6500,7 +6500,7 @@
           "scientific-software desktop workflows",
           "GUI and code-assisted scientific tasks"
         ],
-        "notes": "Manifest count 169 matches the official verifier audit. Other Raw/Dual definitions can represent alternative execution modes of the same problems and are not added. Official Docker migration documents a 20-task acceptance subset, not a full-suite performance result; legacy VMware remains. External service sign-in/rate limits, amd64 binaries and ChimeraX redistribution terms limit portability. Only code MIT is established; VM, scientific data and bundled apps need their own terms.",
+        "notes": "Manifest count 169 matches the official verifier audit. Other Raw/Dual definitions can represent alternative execution modes of the same problems. Official Docker migration documents a 20-task acceptance subset; full-suite performance uses a different scope, and legacy VMware remains. External service sign-in/rate limits, amd64 binaries and ChimeraX redistribution terms limit portability. Only code MIT is established; VM, scientific data and bundled apps need their own terms.",
         "observations": [
           "desktop screenshots",
           "accessibility-tree observations",
@@ -6594,7 +6594,7 @@
           {
             "basis": "reported",
             "evidence_url": "https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md",
-            "population": "Hub test split at 0be08781; not unique screenshots",
+            "population": "Hub test split at 0be08781; row count distinct from unique screenshots",
             "qualifier": "exact",
             "unit": "instruction–target examples",
             "value": 1272
@@ -6721,7 +6721,7 @@
         "focus": [
           "GUI grounding"
         ],
-        "notes": "Language, instruction style, and positive/negative target configuration are explicit evaluator options. This profile describes target localization, not end-to-end workflow completion. The target count is computed from the card table, not from expanded language/style evaluation instances.",
+        "notes": "Language, instruction style, and positive/negative target configuration are explicit evaluator options. This profile describes target localization. The target count uses card-table targets; expanded language/style evaluation instances use a different count.",
         "observations": [
           "high-resolution screenshots",
           "target instructions"
@@ -6803,7 +6803,7 @@
         "focus": [
           "single-step GUI grounding on the ScreenSpot-v2 release"
         ],
-        "notes": "The public Hub revision 5efbb1f1 contains three platform JSON annotation files and an image ZIP; its card only declares Apache-2.0. No sample total or equivalence to the original ScreenSpot test count is asserted. Keep v2 separate from v1 and retain evaluator/version and coordinate conversion when comparing results. Files were listed, not downloaded as data.",
+        "notes": "The public Hub revision 5efbb1f1 contains three platform JSON annotation files and an image ZIP; its card only declares Apache-2.0. No sample total or equivalence to the original ScreenSpot test count is asserted. Keep v2 separate from v1 and retain evaluator/version and coordinate conversion when comparing results.",
         "observations": [
           "screenshot",
           "instruction"
@@ -6913,7 +6913,7 @@
           "instruction-form robustness",
           "negative grounding requests"
         ],
-        "notes": "Reuses ScreenSpot-v2 imagery. Image-file count is not treated as a count of independent screenshots or tasks.",
+        "notes": "Reuses ScreenSpot-v2 imagery. Image-file counts, independent screenshots and tasks are different units.",
         "observations": [
           "screenshots",
           "instructions"
@@ -7084,7 +7084,7 @@
           "robustness to pop-ups and ads",
           "ambiguous instructions"
         ],
-        "notes": "The repository has no task files; task counts belong to the Hugging Face data release and are not restated here. Scoring rules are taken from eval.py at the reviewed commit, which has no separate scorer for the ambiguous split.",
+        "notes": "The task files and counts belong to the Hugging Face data release; this repository contains the code. Scoring rules are taken from eval.py at the reviewed commit, which has no separate scorer for the ambiguous split.",
         "observations": [
           "recorded Android screenshots with element boxes drawn from the page XML",
           "element centre coordinates (Mobile-Agent-v2 runner)",
@@ -8018,7 +8018,7 @@
         "focus": [
           "multimodal web task completion"
         ],
-        "notes": "The 233 demonstration trajectories are not the full 910-task evaluation set. Observation modes and captioning components differ across baseline agents.",
+        "notes": "The 233 demonstration trajectories and the full 910-task evaluation set are different populations. Observation modes and captioning components differ across baseline agents.",
         "observations": [
           "screenshots with set-of-mark annotations",
           "caption-augmented accessibility tree"
@@ -8064,7 +8064,7 @@
           "ACT selector, text/label, accessible role/name, DOM index, Stagehand reference or screenshot point, according to the representation"
         ],
         "counts": [],
-        "evaluation": "READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics, not completed-task success.",
+        "evaluation": "READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/README.md",
           "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/METHODOLOGY.md",
@@ -8075,7 +8075,7 @@
           "Factual READ accuracy",
           "ACT target-element selection"
         ],
-        "notes": "Fixed local-page observations; the reported run uses claude-sonnet-5 and a shared prompt, without scrolling or an agent loop. Browser Use disables its viewport cutoff and sends untruncated text; Stagehand uses a separate matched browser load. Short-string representability labels are approximate. Offline does not mean API-free. Third-party snapshot redistribution remains unresolved; results were not reproduced.",
+        "notes": "Fixed local-page observations; the reported run uses claude-sonnet-5 and a shared prompt, without scrolling or an agent loop. Browser Use disables its viewport cutoff and sends untruncated text; Stagehand uses a separate matched browser load. Short-string representability labels are approximate. The offline evaluation uses model API calls. Third-party snapshot redistribution remains unresolved.",
         "observations": [
           "Top-document HTML",
           "Markdown converted from HTML",
@@ -8626,7 +8626,7 @@
         "focus": [
           "instruction-conditioned web localization"
         ],
-        "notes": "The card reports more than 100 websites but does not provide a precise website total. Grounding accuracy does not establish task completion.",
+        "notes": "The card reports more than 100 websites. Grounding accuracy and task completion are separate measures.",
         "observations": [
           "web screenshots",
           "instructions"
@@ -8706,7 +8706,7 @@
           "conversational web navigation",
           "next-action prediction"
         ],
-        "notes": "The figures are rounded descriptions from the original paper. WebLINX 1.1 / BrowserGym removes some demonstrations and changes evaluated steps, including tab actions; do not mix those results or counts with the original release. This profile does not treat replayed demonstration steps as live task completion.",
+        "notes": "The figures are rounded descriptions from the original paper. WebLINX 1.1 / BrowserGym removes some demonstrations and changes evaluated steps, including tab actions; its results and counts have a different scope from the original release. This profile covers replayed demonstration steps; live task completion is a separate measure.",
         "observations": [
           "dialogue history",
           "HTML",
@@ -8879,7 +8879,7 @@
           "conversational web navigation",
           "next-action prediction from recorded demonstration states"
         ],
-        "notes": "A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries, so files were not counted. No agent was run.",
+        "notes": "A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries. No agent was run.",
         "observations": [
           "screenshot",
           "DOM snapshot",
@@ -8983,7 +8983,7 @@
         "focus": [
           "web process-reward evaluation"
         ],
-        "notes": "The current Hub row count and project case-count claim use unresolved counting units. Candidate lists mean a row must not be assumed to equal one task or one pair.",
+        "notes": "The current Hub row count and project case-count claim use unresolved counting units. Candidate lists make rows a different unit from tasks or pairs.",
         "observations": [
           "page screenshots",
           "text observations",
@@ -9068,7 +9068,7 @@
           "instruction-conditioned product selection",
           "web navigation"
         ],
-        "notes": "This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations. Detailed reward semantics are not normalized in this profile.",
+        "notes": "This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations.",
         "observations": [
           "HTML pages",
           "simplified text views"
@@ -9236,7 +9236,7 @@
           "live web task completion",
           "unsafe-request refusal"
         ],
-        "notes": "V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are task definitions, not independently verified runnable website states.",
+        "notes": "V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are task definitions.",
         "observations": [
           "web pages"
         ],
@@ -9315,7 +9315,7 @@
           "web functionality testing",
           "latent permission and business constraints"
         ],
-        "notes": "The 100 archive files are not counted as 100 independent test tasks or defects. Backend/tool versions and deployment settings affect reproducibility.",
+        "notes": "The 100 archive files form an artifact inventory. Backend/tool versions and deployment settings affect reproducibility.",
         "observations": [
           "web application interface",
           "development instruction"
@@ -9603,7 +9603,7 @@
             "value": 20
           }
         ],
-        "evaluation": "Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator is not automatically the full benchmark size.",
+        "evaluation": "Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator counts trajectory files in the evaluated run, with the full benchmark size recorded separately.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md",
           "https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/src/win-arena-container/client/run.py",
@@ -9615,7 +9615,7 @@
           "Windows desktop task execution",
           "revised task evaluators"
         ],
-        "notes": "README sample config uses max_steps=30. The shipped selected-task index has 20 IDs, not 141; preserve the selected task list, trial ID, score coverage and VM snapshot when comparing runs. Docker/Windows-11 setup is required. No VM or benchmark was executed.",
+        "notes": "README sample config uses max_steps=30. The shipped selected-task index has 20 IDs; the 141-task figure has a different scope. Preserve the selected task list, trial ID, score coverage and VM snapshot when comparing runs. Docker/Windows-11 setup is required. No VM or benchmark was executed.",
         "observations": [
           "screenshot",
           "accessibility tree",
@@ -9739,7 +9739,7 @@
           "multi-application Windows workflows",
           "intermediate-state and final-goal completion"
         ],
-        "notes": "Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md, whose distribution links and payloads were not inspected for this profile. Checkpoint counts and application counts are not extra tasks. Apache-2.0 is recorded for repository code; Windows, apps and VM artifacts retain separate terms.",
+        "notes": "Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code; Windows, apps and VM artifacts retain separate terms.",
         "observations": [
           "screenshot",
           "accessibility tree",
@@ -9837,7 +9837,7 @@
             "value": 724
           }
         ],
-        "evaluation": "Task-specific scripts evaluate six workflow-understanding task types; model outputs are not treated as successful interactive execution.",
+        "evaluation": "Task-specific scripts evaluate six workflow-understanding task types.",
         "evidence_urls": [
           "https://raw.githubusercontent.com/HazyResearch/wonderbread/HEAD/README.md",
           "https://zenodo.org/api/records/14094162"

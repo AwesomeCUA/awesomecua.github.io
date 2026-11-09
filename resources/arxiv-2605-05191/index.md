@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Elastic context management for long\-horizon search agents trained on synthesized trajectories and evaluated on BrowseComp and BrowseComp\-ZH; web research browsing rather than GUI control\. An open pull request \(\#3177\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Elastic context management for long\-horizon search agents trained on synthesized trajectories and evaluated on BrowseComp and BrowseComp\-ZH; the abstract leaves open whether web research browsing fits adjacent scope\. An open pull request \(\#3177\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -1,6 +1,6 @@
 # Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents
 
-Studies how to route different parts of GUI experience into model weights or runtime context rather than treating whole trajectories as a single unit. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
+Studies how to route different parts of GUI experience into model weights or runtime context. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2610-01787/
 - Original source: https://arxiv.org/abs/2610.01787

@@ -14,7 +14,7 @@ Introduces WONDERBREAD, a benchmark pairing human WebArena workflow demonstratio
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The demonstrations were rehearsed, so their completion rate is not a zero-shot human performance estimate.
+Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The demonstrations were rehearsed; their completion rate measures rehearsed human performance.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-13264/record.json
 

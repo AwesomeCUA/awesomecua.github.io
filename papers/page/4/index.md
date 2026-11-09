@@ -76,7 +76,7 @@ Evaluates whether deceptive UI content steers mobile agents away from instructio
 
 ### Limitations
 
-The commercial-app protocol uses fixed screenshots and context for selection decisions, rather than live end-to-end transactions. Android is supported by the paper's emulator setup. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Benchmark components; 3.2 Instance generation; 3.3 Paired protocol/metrics; 5 Limitations/Ethics; Appendix B (Android emulator setup)).
+The commercial-app protocol uses fixed screenshots and context for selection decisions. Android is supported by the paper's emulator setup. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Benchmark components; 3.2 Instance generation; 3.3 Paired protocol/metrics; 5 Limitations/Ethics; Appendix B (Android emulator setup)).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-06898/record.json
 
@@ -909,7 +909,7 @@ LongPuzzleBench evaluates coherent long-horizon planning on persistent visual pu
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Agents execute real GUI moves in six puzzle games; the tasks diagnose computer-control planning but remain game-based rather than general productivity workflows.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Agents execute real GUI moves in six puzzle games; the tasks diagnose computer-control planning in game-based workflows.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-34769/record.json
 
@@ -1221,7 +1221,7 @@ Inspect-based framework that varies multi-agent roles, communication, attacks an
 
 ### Limitations
 
-BrowserART uses an accessibility-tree action interface, while the desktop adapter uses mouse, keyboard and screenshots. The adapted tasks are not claimed to preserve the constructs of their source benchmarks. Experiments cover a representative configuration slice with fixed attack templates; the OS-Harm results are imported from prior work using a different model and stack. Browser defense tables also differ in baseline versus defended judges and in judged benign denominators. Human judge validation used one grader. These results do not establish a universally effective defense. The linked repository and its code/data licenses were not independently inspected, and no experiment was run.
+BrowserART uses an accessibility-tree action interface, while the desktop adapter uses mouse, keyboard and screenshots. The adapted tasks have constructs defined by their adaptations; preservation of source-benchmark constructs remains unestablished. Experiments cover a representative configuration slice with fixed attack templates; the OS-Harm results are imported from prior work using a different model and stack. Browser defense tables also differ in baseline versus defended judges and in judged benign denominators. Human judge validation used one grader. The linked repository code and data license terms remain unverified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-33102/record.json
 
@@ -1481,7 +1481,7 @@ ShareMem consolidates reusable experience across users while keeping preference 
 
 ### Limitations
 
-Main Mind2Web evaluation uses 252 recorded tasks assigned to 20 simulated users, frozen demonstration-derived memory and task-macro step metrics; it is not a live-browser completion test. The main split withholds same-site local experience, and sharing gains shrink when local coverage rises. Mind2Web has no preference channel; preference claims come from separate service and coding settings. User-bound retrieval is not a demonstrated privacy or security guarantee.
+Main Mind2Web evaluation uses 252 recorded tasks assigned to 20 simulated users, frozen demonstration-derived memory and task-macro step metrics. The main split withholds same-site local experience, and sharing gains shrink when local coverage rises. Mind2Web has no preference channel; preference claims come from separate service and coding settings.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-32511/record.json
 
@@ -1831,7 +1831,7 @@ Zhenhao Zhang, Zhaoyu Fan, Haohan Ying, Jingwen Hu, Hancen Fan, Junhao Zhou, Zit
 
 ## OpenVAM: Open-World Visual Attention Modeling with VLMs
 
-Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales rather than agent actions.
+Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales on static inputs.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2609-31364/
 - Original source: https://arxiv.org/abs/2609.31364
@@ -1845,7 +1845,7 @@ Combines dense saliency prediction with explanations of attended elements, inclu
 
 ### Limitations
 
-Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment do not establish causal explanations of gaze or temporal scanpaths. Several baseline scores come from prior papers.
+Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment measure agreement; causal explanations of gaze and temporal scanpaths remain unestablished. Several baseline scores come from prior papers.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-31364/record.json
 
@@ -1874,7 +1874,7 @@ Kiana Hooshanfar, Amirhossein Kazerouni, Alireza Hosseini, Michael Brudno, Babak
 - document: CC-BY-4.0 — https://arxiv.org/html/2609.31364v1
 - weights: not recorded
 
-- document review: Document declaration only. The paper does not establish code, model-weight or underlying dataset permissions through this license.
+- document review: Document declaration only. This license covers the paper document; code, model-weight and underlying dataset permissions have separate scopes.
   Sources: https://arxiv.org/html/2609.31364v1
 
 ### Primary evidence
@@ -1900,7 +1900,7 @@ GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-s
 
 ### Limitations
 
-Reviewed the complete retained Atom abstract and selected exact-v1 full text. The Atom has incomplete clauses; its text/hash remain unchanged and this annotation uses the explicit methods. Evaluation is Android-only, with a selected real-app subset. Landing-Activity verification is not task completion. Model/catalog release is prospective in the paper.
+Reviewed the complete retained Atom abstract and selected exact-v1 full text. The Atom has incomplete clauses; its text/hash remain unchanged and this annotation uses the explicit methods. Evaluation is Android-only, with a selected real-app subset. Landing-Activity verification measures the landing activity. Model/catalog release is prospective in the paper.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-30887/record.json
 
@@ -2057,7 +2057,7 @@ Trains a mobile planner with supervised trajectories and competence-adaptive RL,
 
 ### Limitations
 
-Primarily typed tool actions and structured feedback, not pixel-coordinate GUI control; backends combine programmatic sandboxes, LLM simulation and selected real-device sessions. No specific OS is established. Model/harness updates are reviewed offline, not autonomous serving-time changes. Co-evolution scores use an evolve/development set; output-cost estimates exclude input, tools, devices and harness processing. Memory comparisons differ in history access and processing cost; user authorization relies on trusted upstream services.
+The actions are primarily typed tool actions with structured feedback; backends combine programmatic sandboxes, LLM simulation and selected real-device sessions. No specific OS is established. Model/harness updates are reviewed offline; autonomous serving-time changes remain unestablished. Co-evolution scores use an evolve/development set; output-cost estimates exclude input, tools, devices and harness processing. Memory comparisons differ in history access and processing cost; user authorization relies on trusted upstream services.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-29892/record.json
 
@@ -2670,7 +2670,7 @@ Shuai Bai, Jiayong Deng, Sicheng Fan, Yikun Fu, Chang Gao, Xuhao Hu, Mianqiu Hua
 
 ## A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents
 
-Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
+Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2609-19843/
 - Original source: https://arxiv.org/abs/2609.19843

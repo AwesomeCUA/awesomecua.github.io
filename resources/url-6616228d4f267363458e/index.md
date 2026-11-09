@@ -14,7 +14,7 @@ Mobile agent checkpoint with a Qwen3-VL architecture, released with OpenMobile a
 
 ## Limitations
 
-The Hub model card (README.md) is empty, so identity and purpose come from the OpenMobile code README, which links this repository as the model, lists fine-tuned checkpoints based on OpenMobile data, and uses OpenMobile-8B as the example model for AndroidWorld evaluation. The project page reports AndroidWorld, AndroidLab and MobileWorld results for its Qwen3-VL-8B variant; these were not reproduced. No base-model ID is declared on the Hub. The manifest lists four Safetensors shards and an index; weights were not downloaded.
+The Hub model card (README.md) is empty, so identity and purpose come from the OpenMobile code README, which links this repository as the model, lists fine-tuned checkpoints based on OpenMobile data, and uses OpenMobile-8B as the example model for AndroidWorld evaluation. The project page reports AndroidWorld, AndroidLab and MobileWorld results for its Qwen3-VL-8B variant. No base-model ID is declared on the Hub. The manifest lists four Safetensors shards and an index.
 
 - Record JSON: https://awesomecua.com/resources/url-6616228d4f267363458e/record.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Survey of resource\-efficient agentic AI on mobile and embedded devices; GUI agents appear only among motivating applications, so how much it covers them is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Survey of resource\-efficient agentic AI on mobile and embedded devices; the abstract leaves open whether GUI agents receive material coverage beyond motivating examples\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

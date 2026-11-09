@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Proposes a Kylin\-based multi\-agent operating system in which LLM agents serve or replace application software; the abstract does not say whether the agents operate GUIs, terminals or only internal system APIs\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Proposes a Kylin\-based multi\-agent operating system in which LLM agents serve or replace application software; the abstract leaves open whether the agents operate GUIs, terminals or internal system APIs\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

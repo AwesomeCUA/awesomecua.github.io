@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Position paper on evaluating personal LLM agents with persistent memory, skills and tool settings; the abstract does not say whether these agents operate devices, GUIs or only tools\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Position paper on evaluating personal LLM agents with persistent memory, skills and tool settings; the abstract leaves open whether these agents operate devices, GUIs or only tools\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

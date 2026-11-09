@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 250 tasks — safe split (reported; source: https://arxiv.org/abs/2503.04957)
 - 250 tasks — harmful split (reported; source: https://arxiv.org/abs/2503.04957)
 
-Use SafeArena-specific containers rather than ordinary WebArena instances. The documented task splits require access approval; the profile does not imply unrestricted dataset access.
+Use SafeArena-specific containers. The documented task splits require access approval.
 
 ## License declarations
 

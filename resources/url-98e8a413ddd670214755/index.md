@@ -14,7 +14,7 @@ Dense screen-parsing data that labels the visible UI elements of rendered web sc
 
 ## Limitations
 
-The main branch holds the v2 release, which the card describes as using leaf-element annotations, stricter quality filtering and varied viewport resolutions; the first release stays on the repository's v1 branch and is not described here. Labels come from DOM extraction refined by Qwen3-VL-8B-Instruct and VLM-as-a-judge filtering, not from human annotation. CC-BY-4.0 is the card's data declaration and does not establish rights to the crawled websites' content. The Parquet shards were not downloaded.
+The main branch holds the v2 release, which the card describes as using leaf-element annotations, stricter quality filtering and varied viewport resolutions; the first release stays on the repository's v1 branch, outside this record. Labels come from DOM extraction refined by Qwen3-VL-8B-Instruct and VLM-as-a-judge filtering. CC-BY-4.0 is the card's data declaration and does not establish rights to the crawled websites' content.
 
 - Record JSON: https://awesomecua.com/resources/url-98e8a413ddd670214755/record.json
 
@@ -32,7 +32,7 @@ The main branch holds the v2 release, which the card describes as using leaf-ele
 - 55 UI element classes — ScreenParse v2 label set (reported; source: https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md)
 - 1,448 Parquet shards — Hub manifest at revision bc0113f9 (computed) (computed; source: https://huggingface.co/api/datasets/docling-project/screenparse)
 
-Screenshots, element annotations, classes and shards are different units and are not summed. Screenshot and annotation counts are the card's v2 figures; the shard count is computed from the Hub file manifest.
+Screenshots, element annotations, classes and shards are different units and are counted separately. Screenshot and annotation counts are the card's v2 figures; the shard count is computed from the Hub file manifest.
 
 ## License declarations
 

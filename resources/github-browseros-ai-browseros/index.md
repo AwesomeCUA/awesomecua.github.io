@@ -14,7 +14,7 @@ Chromium-based browser implementations for external agent control and built-in a
 
 ## Limitations
 
-The one repository includes BrowserOS neo and BrowserOS; they are retained as one source-bundle resource. Official release metadata lists desktop installers, but none were downloaded. The repository declares AGPL-3.0 and retains separate Chromium-related licensing. Publisher privacy and performance claims were not independently verified.
+The one repository includes BrowserOS neo and BrowserOS; they are retained as one source-bundle resource. Official release metadata lists desktop installers, but none were downloaded. The repository declares AGPL-3.0 and retains separate Chromium-related licensing.
 
 - Record JSON: https://awesomecua.com/resources/github-browseros-ai-browseros/record.json
 

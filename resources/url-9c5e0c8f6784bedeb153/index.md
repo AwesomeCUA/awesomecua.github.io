@@ -14,7 +14,7 @@ OS-Atlas action checkpoint fine-tuned from OS-Atlas-Base-7B that reads a screens
 
 ## Limitations
 
-Hub API at revision 6c0135de lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card says the checkpoint is fine-tuned from OS-Atlas-Base-7B and is the Pro model of the paper's Section 5.4, while the Hub base_model metadata names Qwen/Qwen2-VL-7B-Instruct. The card's inference example loads weights from local paths rather than this Hub ID. The card declares Apache-2.0 for the checkpoint.
+Hub API at revision 6c0135de lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card says the checkpoint is fine-tuned from OS-Atlas-Base-7B and is the Pro model of the paper's Section 5.4, while the Hub base_model metadata names Qwen/Qwen2-VL-7B-Instruct. The card's inference example loads weights from local paths; this Hub ID is absent from the example. The card declares Apache-2.0 for the checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-9c5e0c8f6784bedeb153/record.json
 

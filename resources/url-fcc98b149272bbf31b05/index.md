@@ -29,7 +29,7 @@ Five public Parquet shards are present. This collection provides checklist-gener
 
 - 3,630 rows — Hub split named test (reported; source: https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_checklist_generation/raw/main/README.md)
 
-This is the checklist-generation release rather than the separate preference-pair collection. No unique-task count or data permission is inferred.
+This is the checklist-generation release. No unique-task count or data permission is inferred.
 
 ## License declarations
 

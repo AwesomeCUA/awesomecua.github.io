@@ -14,7 +14,7 @@ Q4_K_M GGUF release of the Holo4-27B computer-use model with a separate F16 visi
 
 ## Limitations
 
-Hub metadata marks this repository as a quantized derivative of Hcompany/Holo4-27B. It holds one Q4_K_M language-model GGUF file and an F16 multimodal projector GGUF; the Hub's GGUF metadata reports the qwen35 architecture, 26,895,998,464 parameters and an importance-matrix quantization. The card text is shared with the BF16 release, so its specification and its OSWorld and other scores describe Holo4-27B rather than this 4-bit build; none were reproduced and no weights were loaded. The card declares CC BY-NC 4.0 for the weights and also ships the base model's Apache-2.0 text.
+Hub metadata marks this repository as a quantized derivative of Hcompany/Holo4-27B. It holds one Q4_K_M language-model GGUF file and an F16 multimodal projector GGUF; the Hub's GGUF metadata reports the qwen35 architecture, 26,895,998,464 parameters and an importance-matrix quantization. The card text is shared with the BF16 release, so its specification and its OSWorld and other scores describe Holo4-27B. The card declares CC BY-NC 4.0 for the weights and also ships the base model's Apache-2.0 text.
 
 - Record JSON: https://awesomecua.com/resources/url-acfd6d395d67ce8011bb/record.json
 

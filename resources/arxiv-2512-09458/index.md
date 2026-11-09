@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Chapter on reliability\-oriented architectures for agentic AI; web agents are one category in its taxonomy, but the abstract gives no detail on how far it covers browser or GUI interaction\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Chapter on reliability\-oriented architectures for agentic AI; the abstract leaves open whether browser or GUI interaction receives material coverage\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

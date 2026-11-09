@@ -14,7 +14,7 @@
 
 ## Limitations
 
-Hub API at revision 3f061c2c lists two BF16 safetensors shards plus an index (about 4.44B parameters) in the Qwen3VLForConditionalGeneration architecture; the repository is not gated. The card is written for the whole GUI-Owl 1.5 family (instruct and thinking variants from 2B to 32B) and links the X-PLUG/MobileAgent repository; its tool/MCP, memory and multi-agent claims are family-level. For this checkpoint the card reports 48.2 on OSWorld-Verified, 69.8 on AndroidWorld, 31.7 on OSWorld-MCP, 32.3 on Mobile-World and 29.4 on WindowsAA; these are publisher measurements and were not reproduced. The card declares MIT for the checkpoint; it gives no Hub base_model metadata.
+Hub API at revision 3f061c2c lists two BF16 safetensors shards plus an index (about 4.44B parameters) in the Qwen3VLForConditionalGeneration architecture; access is open. The card is written for the whole GUI-Owl 1.5 family (instruct and thinking variants from 2B to 32B) and links the X-PLUG/MobileAgent repository; its tool/MCP, memory and multi-agent claims are family-level. For this checkpoint the card reports 48.2 on OSWorld-Verified, 69.8 on AndroidWorld, 31.7 on OSWorld-MCP, 32.3 on Mobile-World and 29.4 on WindowsAA; these are publisher measurements. The card declares MIT for the checkpoint; it gives no Hub base_model metadata.
 
 - Record JSON: https://awesomecua.com/resources/url-17a0422036ebea8d4e93/record.json
 

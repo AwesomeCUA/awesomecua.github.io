@@ -14,7 +14,7 @@ Configurable browser apps and task rewards for testing computer-use agents under
 
 ## Limitations
 
-Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and explicitly says even that tag is not a byte-exact snapshot of the published runs. CC-BY-NC-4.0 is the repository’s declared code license; third-party WebShop, map and icon content retain separate terms. No commercial-use permission or fixed downloadable task total is inferred.
+Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and says even that tag differs at the byte level from the published runs. CC-BY-NC-4.0 is the repository’s declared code license; third-party WebShop, map and icon content retain separate terms. No commercial-use permission or fixed downloadable task total is inferred.
 
 - Record JSON: https://awesomecua.com/resources/github-facebookresearch-openapps/record.json
 
@@ -30,7 +30,7 @@ Public code includes app/task/configuration and agent-launching implementations.
 
 No count recorded.
 
-Preserve the code/tag, app state, theme/layout/content choices, goal variant and action/observation configuration. Current main refactors the paper-era appearance surface, and the v1.0-paper tag includes post-publication fixes that may move rewards. The environments run as browser apps; phone/tablet viewports are not native Android/iOS environments.
+Preserve the code/tag, app state, theme/layout/content choices, goal variant and action/observation configuration. Current main refactors the paper-era appearance surface, and the v1.0-paper tag includes post-publication fixes that may move rewards. The environments run as browser apps with phone/tablet viewports.
 
 ## License declarations
 

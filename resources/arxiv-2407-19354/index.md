@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Survey of security and privacy threats to LLM agents with case studies; the abstract does not say how much it covers web, GUI or computer\-use agents\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Survey of security and privacy threats to LLM agents with case studies; the abstract leaves open how much it covers web, GUI or computer\-use agents\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

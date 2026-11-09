@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: General long\-horizon agentic model evaluated mostly on science and reasoning benchmarks; BrowseComp is the only browsing evaluation, and the abstract does not show web browsing as a material focus\. An exclusion proposal is open in pull request \#2923\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: General long\-horizon agentic model evaluated mostly on science and reasoning benchmarks; the abstract leaves open whether BrowseComp makes web browsing a material focus\. An exclusion proposal is open in pull request \#2923\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

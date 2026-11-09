@@ -1,6 +1,6 @@
 # Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents
 
-Studies persistent web-agent memory contamination introduced through environmental observations instead of direct memory access. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
+Studies persistent web-agent memory contamination introduced through environmental observations. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2604-02623/
 - Original source: https://arxiv.org/abs/2604.02623

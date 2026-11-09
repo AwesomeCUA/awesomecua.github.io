@@ -1,6 +1,6 @@
 # Computer-use agent frameworks
 
-> 625 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T11:08:26Z.
+> 625 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
 
 HTML page: https://awesomecua.com/categories/framework/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -126,7 +126,7 @@ Computer-use training framework with VeriGen task synthesis, adaptive rollout sa
 
 ### Limitations
 
-A distinct project from OpenGVLab/ScaleCUA, which documents arXiv:2509.15221. Similar names do not establish a shared project identity.
+A distinct project from OpenGVLab/ScaleCUA, which documents arXiv:2509.15221.
 
 - Record JSON: https://awesomecua.com/resources/github-thudm-scale-cua/record.json
 
@@ -417,7 +417,7 @@ The repository provides training, evaluation, and a custom mask decoder. Its cod
 
 ## Skyvern
 
-Browser workflow automation that relies on vision LLMs and a swarm of agents instead of fixed XPath selectors, offered as a Playwright-compatible SDK and a no-code workflow builder.
+Browser workflow automation using vision LLMs and a swarm of agents, offered as a Playwright-compatible SDK and a no-code workflow builder.
 
 - Catalog URL: https://awesomecua.com/resources/github-skyvern-ai-skyvern/
 - Original source: https://github.com/Skyvern-AI/skyvern
@@ -498,7 +498,7 @@ Published MAI-UI grounding and navigation-agent implementations with inference d
 
 ### Limitations
 
-The original implementation is in the MAI-UI/ subdirectory, with an Apache-2.0 LICENSE there. The current root README also promotes Qwen-UI-Agent, but that follow-up directory contains only documentation/display assets in the inspected tree. This entry does not claim the follow-up runtime, training system or weights are released.
+The original implementation is in the MAI-UI/ subdirectory, with an Apache-2.0 LICENSE there. The current root README also promotes Qwen-UI-Agent, but that follow-up directory contains only documentation/display assets in the inspected tree. The original MAI-UI/ implementation is released; the follow-up Qwen-UI-Agent directory contains documentation/display assets in the inspected tree.
 
 - Record JSON: https://awesomecua.com/resources/github-tongyi-mai-mai-ui/record.json
 
@@ -509,7 +509,7 @@ The original implementation is in the MAI-UI/ subdirectory, with an Apache-2.0 L
 - document: not recorded
 - weights: not recorded
 
-- code review: The implementation and LICENSE live under MAI-UI/. A root-level missing license or the follow-up Qwen-UI-Agent documentation should not change the scoped declaration.
+- code review: The implementation and LICENSE live under MAI-UI/. The Apache-2.0 declaration is scoped to MAI-UI/ implementation and LICENSE.
   Sources: https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/LICENSE, https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/README.md
 
 ### Primary evidence
@@ -604,7 +604,7 @@ Official ScreenParse code: the Webshot toolkit that renders websites with Playwr
 
 ### Limitations
 
-The README calls this the official code release for the ICML 2026 paper and links the ScreenParse dataset and the ScreenVLM and ScreenParser checkpoints on Hugging Face; none of them is stored in this repository, and the only training script, scripts/train.py, trains Ultralytics YOLO detectors. At commit b294659b, webshot/src/webshot/worker.py drives Chromium through Playwright, dismisses cookie banners and overlays, and records each visible DOM element's tag, role, attributes, text, bounding rectangle and parent and child indices with a screenshot; vlm_refine.py and vlm_quality_score.py relabel elements and score annotation quality with Qwen3-VL-8B-Instruct by default through vLLM. The evaluation CLI runs YOLO, RT-DETR, OmniParser weights, Qwen3-VL, InternVL3, Gemini, PaddleOCR-VL and ScreenVLM on YOLO-format, GroundCUA or ScreenSpot data and reports PageIoU, label PageIoU, mAP, recall and NED. The Webshot README's 771K-screenshot and 21M-element figures describe the dataset and were not checked here. MIT covers this code only; dataset and checkpoint terms are declared on their own Hub pages.
+The README calls this the official code release for the ICML 2026 paper and links the ScreenParse dataset and the ScreenVLM and ScreenParser checkpoints on Hugging Face; none of them is stored in this repository, and the only training script, scripts/train.py, trains Ultralytics YOLO detectors. At commit b294659b, webshot/src/webshot/worker.py drives Chromium through Playwright, dismisses cookie banners and overlays, and records each visible DOM element's tag, role, attributes, text, bounding rectangle and parent and child indices with a screenshot; vlm_refine.py and vlm_quality_score.py relabel elements and score annotation quality with Qwen3-VL-8B-Instruct by default through vLLM. The evaluation CLI runs YOLO, RT-DETR, OmniParser weights, Qwen3-VL, InternVL3, Gemini, PaddleOCR-VL and ScreenVLM on YOLO-format, GroundCUA or ScreenSpot data and reports PageIoU, label PageIoU, mAP, recall and NED. The Webshot README reports 771K screenshots and 21M elements for the dataset. MIT covers this code only; dataset and checkpoint terms are declared on their own Hub pages.
 
 - Record JSON: https://awesomecua.com/resources/github-saidgurbuz-screenparse/record.json
 
@@ -645,7 +645,7 @@ Training and evaluation code for a mobile-agent framework that iteratively gener
 
 ### Limitations
 
-The tree contains ms-swift-based training and AndroidControl evaluation scripts. The README says AndroidLab/Android Arena scripts and the 72B checkpoint are still forthcoming; these are not claimed released. It declares MIT but links a root LICENSE absent from the inspected tree, so the exact code-license scope remains unresolved. Separate Hub weights and data have their own declarations.
+The tree contains ms-swift-based training and AndroidControl evaluation scripts. The README says AndroidLab/Android Arena scripts and the 72B checkpoint are still forthcoming. It declares MIT but links a root LICENSE absent from the inspected tree, so the exact code-license scope remains unresolved. Separate Hub weights and data have their own declarations.
 
 - Record JSON: https://awesomecua.com/resources/github-euphoria16-ui-genie/record.json
 
@@ -656,7 +656,7 @@ The tree contains ms-swift-based training and AndroidControl evaluation scripts.
 - document: not recorded
 - weights: not recorded
 
-- code review: The README declares MIT and links a root LICENSE, but the complete retained tree has no root LICENSE; bundled ms-swift has its own license. Preserve this unresolved scope instead of treating a component license as the whole project license.
+- code review: The README declares MIT and links a root LICENSE, but the complete retained tree has no root LICENSE; bundled ms-swift has its own license. The README declares MIT and links a root LICENSE absent from the retained tree; the bundled ms-swift license covers that component.
   Sources: https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md, https://api.github.com/repos/Euphoria16/UI-Genie/git/trees/main?recursive=1
 
 ### Primary evidence
@@ -1472,7 +1472,7 @@ Research scripts that generate screen descriptions, action reasoning and expecte
 
 ### Limitations
 
-The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with API-backed model configuration. This verifies a released annotation/prediction implementation, not a live phone controller or a released checkpoint. AiTZ screens/annotations are linked through external Drive/Baidu bundles whose complete download inventory was not verified here. The README has an Apache-2.0 badge, but no license file or explicit component grant is present; code/data/weight rights remain unestablished.
+The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with API-backed model configuration. The released annotation/prediction implementation covers API-backed processing; live phone control and checkpoint release remain unverified. AiTZ screens/annotations are linked through external Drive/Baidu bundles. The README has an Apache-2.0 badge, but no license file or explicit component grant is present; code/data/weight rights remain unestablished.
 
 - Record JSON: https://awesomecua.com/resources/github-imnearth-coat/record.json
 
@@ -1578,7 +1578,7 @@ A security-testing framework whose attack gateways wrap BrowserGym, OSWorld, tau
 
 ### Limitations
 
-The inspected tree contains separately installable packages for the core attack library and for BrowserGym, OSWorld, tau-bench, MCP, mail-agent and promptceptor integrations, with web attacks (banner, pop-up, injected div and user-generated content) and an OSWorld pop-up inpainting attack. Running the BrowserGym and OSWorld integrations requires those environments and model API keys; attack success rates reported by the authors were not reproduced. Apache-2.0 covers this repository's code; wrapped benchmarks keep their own terms. Project page: https://servicenow.github.io/DoomArena/.
+The inspected tree contains separately installable packages for the core attack library and for BrowserGym, OSWorld, tau-bench, MCP, mail-agent and promptceptor integrations, with web attacks (banner, pop-up, injected div and user-generated content) and an OSWorld pop-up inpainting attack. Running the BrowserGym and OSWorld integrations requires those environments and model API keys. Apache-2.0 covers this repository's code; wrapped benchmarks keep their own terms. Project page: https://servicenow.github.io/DoomArena/.
 
 - Record JSON: https://awesomecua.com/resources/github-servicenow-doomarena/record.json
 
@@ -2264,7 +2264,7 @@ MemGUI-Agent training and offline evaluation tools provide trajectory conversion
 
 ### Limitations
 
-The inspected release documentation describes dataset utilities, a LoRA SFT template and gold-step offline evaluation; live Android rollouts are explicitly outside that evaluator and linked to separate benchmark repositories. Executable source files, external datasets/checkpoints and reported results were not independently verified in this bounded review.
+The inspected release documentation describes dataset utilities, a LoRA SFT template and gold-step offline evaluation; live Android rollouts are explicitly outside that evaluator and linked to separate benchmark repositories.
 
 - Record JSON: https://awesomecua.com/resources/github-kwai-memgui-agent/record.json
 
@@ -2275,7 +2275,7 @@ The inspected release documentation describes dataset utilities, a LoRA SFT temp
 - document: not recorded
 - weights: not recorded
 
-- code review: The README declares Apache-2.0, but the inspected LICENSE is a short notice and link rather than the complete terms; the code license remains unconfirmed.
+- code review: The README declares Apache-2.0; the inspected LICENSE is a short notice and link, leaving the code license unconfirmed.
   Sources: https://raw.githubusercontent.com/kwai/MemGUI-Agent/main/LICENSE, https://raw.githubusercontent.com/kwai/MemGUI-Agent/main/README.md
 
 ### Primary evidence
@@ -2472,7 +2472,7 @@ Android GUI-agent adaptation framework combining app exploration, generated curr
 
 ### Limitations
 
-The root README describes MobileGym exploration/feedback and HiFPO optimization. The training README limits its public training path to the Qwen3-VL-8B experiment. Linked model and dataset collections, executable source completeness and benchmark results were not independently verified; the repository code license is not a model or dataset license.
+The root README describes MobileGym exploration/feedback and HiFPO optimization. The training README limits its public training path to the Qwen3-VL-8B experiment. The repository code license applies to code; linked model and dataset collections have separate rights.
 
 - Record JSON: https://awesomecua.com/resources/github-kwai-mobileforge/record.json
 
@@ -2889,7 +2889,7 @@ A browser-agent training system that proposes tasks, collects visual interaction
 
 ### Limitations
 
-Source code and browser-environment modules are present. The repository LICENSE is CC-BY-NC-4.0, while its README describes that license as applying to a dataset, leaving code scope ambiguous. The separately linked dataset is gated and was not accessed; model and dataset terms must be checked separately.
+Source code and browser-environment modules are present. The repository LICENSE is CC-BY-NC-4.0, while its README describes that license as applying to a dataset, leaving code scope ambiguous. The separately linked dataset is gated; model and dataset terms require separate checks.
 
 - Record JSON: https://awesomecua.com/resources/github-amazon-science-pae/record.json
 
@@ -3127,7 +3127,7 @@ A computer-control research implementation that retrieves example trajectories f
 
 ### Limitations
 
-Training, memory-building and evaluation scripts for MiniWoB++ and Mind2Web are present. External benchmark data, model/API credentials and legacy dependencies are still required. License remains unknown: the README shows MIT, while LICENSE is an NTUITIVE non-commercial agreement that both permits some distribution and separately says distribution is prohibited. No interpretation resolves those contradictions, and no commercial or non-commercial permission is asserted. This admission confirms the released GUI implementation, not a licensing grant.
+Training, memory-building and evaluation scripts for MiniWoB++ and Mind2Web are present. External benchmark data, model/API credentials and legacy dependencies are still required. License remains unknown: the README shows MIT, while LICENSE is an NTUITIVE non-commercial agreement that both permits some distribution and separately says distribution is prohibited. No interpretation resolves those contradictions, and no commercial or non-commercial permission is asserted. This admission confirms the released GUI implementation.
 
 - Record JSON: https://awesomecua.com/resources/github-ltzheng-synapse/record.json
 
@@ -3138,7 +3138,7 @@ Training, memory-building and evaluation scripts for MiniWoB++ and Mind2Web are 
 - document: not recorded
 - weights: not recorded
 
-- code review: Unresolved conflict between README MIT badge and NTUITIVE non-commercial LICENSE, including inconsistent redistribution clauses. Keep permissions unknown rather than choose an interpretation.
+- code review: Unresolved conflict between README MIT badge and NTUITIVE non-commercial LICENSE, including inconsistent redistribution clauses. The README MIT badge and NTUITIVE non-commercial LICENSE conflict, including redistribution clauses; permissions remain unresolved.
   Sources: https://raw.githubusercontent.com/ltzheng/synapse/HEAD/README.md, https://raw.githubusercontent.com/ltzheng/Synapse/HEAD/LICENSE
 
 ### Primary evidence
@@ -3269,7 +3269,7 @@ Training, evaluation and integration tooling for dialogue-guided web agents, inc
 
 ### Limitations
 
-The manifest contains modeling/training code, BrowserGym examples, documentation and a results viewer. The README distinguishes currently available components from planned additional benchmarks and deployment integrations. It requests citation of WebLINX as the foundation for data, training and evaluation; this is not a claim that the WebLINX paper first introduced every later WebLlama component. MIT applies to repository code, subject to file-header exceptions; weights and datasets have their own terms.
+The manifest contains modeling/training code, BrowserGym examples, documentation and a results viewer. The README distinguishes currently available components from planned additional benchmarks and deployment integrations. It requests citation of WebLINX as the foundation for data, training and evaluation. MIT applies to repository code, subject to file-header exceptions; weights and datasets have their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-webllama/record.json
 
@@ -4503,7 +4503,7 @@ Android GUI-agent framework that keeps long-running task context in structured p
 
 ### Limitations
 
-Public tree contains the agentprog package, CLI, program/context-management code and AndroidWorld evaluation integration. README announces AW-Extend, but this record is the framework rather than a separately audited benchmark release. External model services and Android device/emulator setup are required. Apache-2.0 covers code, not external model weights, apps or VM images.
+Public tree contains the agentprog package, CLI, program/context-management code and AndroidWorld evaluation integration. README announces AW-Extend; this record covers the framework. External model services and Android device/emulator setup are required. Apache-2.0 covers code, not external model weights, apps or VM images.
 
 - Record JSON: https://awesomecua.com/resources/github-mobilellm-agentprog/record.json
 
@@ -4610,7 +4610,7 @@ Generates synthetic computer-use tasks and records trajectories in OSWorld deskt
 
 ### Limitations
 
-Released code includes task-generation and training-format conversion scripts. OSWorld/InSTA environments and model services require separate setup; the repository is not a bundled VM or model checkpoint. Code and the separately published dataset have distinct license declarations.
+Released code includes task-generation and training-format conversion scripts. OSWorld/InSTA environments and model services require separate setup. Code and the separately published dataset have distinct license declarations.
 
 - Record JSON: https://awesomecua.com/resources/github-sunblaze-ucb-agentsynth/record.json
 
@@ -4916,7 +4916,7 @@ A public Android GUI evaluation framework with action-history, summary and ancho
 
 ### Limitations
 
-The source tree releases inference backends and evaluation scripts under evaluation/. The separately hosted benchmark is gated=auto and its raw card returned 401; no access request was made and it is not approved here as a directly accessible dataset. The README explicitly credits missing screenshots as AUTO_PASS/correct, so incomplete local image inventories can inflate scores. Its TCR is an offline anchor/dependency score and is not presented here as independently verified live task success.
+The source tree releases inference backends and evaluation scripts under evaluation/. The separately hosted benchmark is gated=auto and its raw card returned 401. The README explicitly credits missing screenshots as AUTO_PASS/correct, so incomplete local image inventories can inflate scores. Its TCR is an offline anchor/dependency score.
 
 - Record JSON: https://awesomecua.com/resources/github-cvc2233-androtmem/record.json
 
@@ -5295,7 +5295,7 @@ Replay-based policy-optimization framework for GUI agents, with distributed OSWo
 
 ### Limitations
 
-Official GitHub API resolves the former dvlab-research/ARPO URL to JIA-Lab-research/ARPO with the same numeric repository ID. Training/evaluation scripts are released; OSWorld environments and the separate model checkpoint are not bundled into this code record.
+Official GitHub API resolves the former dvlab-research/ARPO URL to JIA-Lab-research/ARPO with the same numeric repository ID. Training/evaluation scripts are released; OSWorld environments and the separate model checkpoint require separate setup.
 
 - Record JSON: https://awesomecua.com/resources/github-jia-lab-research-arpo/record.json
 
@@ -5711,7 +5711,7 @@ AutoGUI's functionality-annotation pipeline (collect, reject, annotate from acce
 
 ### Limitations
 
-Official AutoGUI code. autogui_anno/ is a self-contained reimplementation of the paper's web and mobile annotation pipeline: it gathers screenshots and accessibility trees, rejects unpredictable elements, has an OpenAI-compatible LLM describe each element's function from before/after accessibility-tree changes, verifies descriptions by re-grounding them, and composes grounding tasks at several image scales; web collection uses Playwright. finetune/ trains Qwen-VL-Chat with LoRA on the released AutoGUI training data, and the adapted lmms_eval package runs FuncPred, ScreenSpot, ScreenSpot-v2, RefExp, MOTIF and VisualWebBench grounding tasks for models the README lists, including Qwen-VL-Chat, Qwen2-VL, LLaVA, CogAgent, Ferret-UI, UGround and OS-Atlas. The README links the 702K training set on the Hub, a 2K FuncPred test split on Google Drive and an AutoGUI-Qwen checkpoint. The arXiv abstract points to autogui-project.github.io, the repository's homepage, which links this code; that page's own Paper link points to an unrelated arXiv ID. The README's clone command uses the former BraveGroup/AutoGUI address. Code was read, not run.
+Official AutoGUI code. autogui_anno/ is a self-contained reimplementation of the paper's web and mobile annotation pipeline: it gathers screenshots and accessibility trees, rejects unpredictable elements, has an OpenAI-compatible LLM describe each element's function from before/after accessibility-tree changes, verifies descriptions by re-grounding them, and composes grounding tasks at several image scales; web collection uses Playwright. finetune/ trains Qwen-VL-Chat with LoRA on the released AutoGUI training data, and the adapted lmms_eval package runs FuncPred, ScreenSpot, ScreenSpot-v2, RefExp, MOTIF and VisualWebBench grounding tasks for models the README lists, including Qwen-VL-Chat, Qwen2-VL, LLaVA, CogAgent, Ferret-UI, UGround and OS-Atlas. The README links the 702K training set on the Hub, a 2K FuncPred test split on Google Drive and an AutoGUI-Qwen checkpoint. The arXiv abstract points to autogui-project.github.io, the repository's homepage, which links this code; that page's own Paper link points to an unrelated arXiv ID. The README's clone command uses the former BraveGroup/AutoGUI address.
 
 - Record JSON: https://awesomecua.com/resources/github-zjulihongxin-autogui/record.json
 
@@ -5853,7 +5853,7 @@ Rust toolkit, CLI and MCP server for scripting reusable GUI operations on macOS,
 
 ### Limitations
 
-The README states that AUV is not a computer-use agent and ships no agent or harness: an agent calls the auv CLI or the MCP server, or writes reusable Rust or JavaScript/TypeScript operations against the versioned Protobuf/gRPC daemon API; a first-party Python SDK is listed as planned. The capability matrix lists native desktop drivers for macOS, Linux and Windows, with Android and iOS planned, and background pointer input on macOS only. Integrations under supported/ cover desktop apps such as Apple Music and games such as Balatro. evals/osworld only provisions an OSWorld Ubuntu desktop on Kubernetes; its README leaves task setup, evaluation and AUV pairing as separate work. The workspace version in Cargo.toml at the inspected commit is 0.0.35. Code was read, not run.
+The README states that AUV is not a computer-use agent and ships no agent or harness: an agent calls the auv CLI or the MCP server, or writes reusable Rust or JavaScript/TypeScript operations against the versioned Protobuf/gRPC daemon API; a first-party Python SDK is listed as planned. The capability matrix lists native desktop drivers for macOS, Linux and Windows, with Android and iOS planned, and background pointer input on macOS only. Integrations under supported/ cover desktop apps such as Apple Music and games such as Balatro. evals/osworld only provisions an OSWorld Ubuntu desktop on Kubernetes; its README leaves task setup, evaluation and AUV pairing as separate work. The workspace version in Cargo.toml at the inspected commit is 0.0.35.
 
 - Record JSON: https://awesomecua.com/resources/github-moeru-ai-auv/record.json
 
@@ -6602,7 +6602,7 @@ Self-hosted browser-agent platform with a JS SDK and REST API: a planner sets hi
 
 ### Limitations
 
-Inspected at commit a3af19a6 (27 August 2025). The README sets up a Docker Compose stack (UI server, tasks server, MongoDB, Redis and MinIO) in which the user supplies one LLM key (Gemini, OpenAI or Claude) and a Steel or Hyperbrowser key; tasks/services/browser.js also accepts Browserbase or the repository's own browser service, which launches Playwright Chromium. In tasks/agents/browserable.js the act-on-tab action calls simpleActionHelper, whose loop takes a plain page screenshot and the current chunk of DOM elements with XPaths, asks a planner for high-level steps (replanning after five steps), and asks a runner for a Playwright method, arguments and element number; the older DOM-only and vision act helpers are commented out at that call site. The repository also contains deep-research and generative agents. The README's 90.4% WebVoyager figure is publisher-reported and was not reproduced. The README names Stagehand among the open-source projects it builds on. No code was run.
+Inspected at commit a3af19a6 (27 August 2025). The README sets up a Docker Compose stack (UI server, tasks server, MongoDB, Redis and MinIO) in which the user supplies one LLM key (Gemini, OpenAI or Claude) and a Steel or Hyperbrowser key; tasks/services/browser.js also accepts Browserbase or the repository's own browser service, which launches Playwright Chromium. In tasks/agents/browserable.js the act-on-tab action calls simpleActionHelper, whose loop takes a plain page screenshot and the current chunk of DOM elements with XPaths, asks a planner for high-level steps (replanning after five steps), and asks a runner for a Playwright method, arguments and element number; the older DOM-only and vision act helpers are commented out at that call site. The repository also contains deep-research and generative agents. The README's 90.4% WebVoyager figure is publisher-reported. The README names Stagehand among the open-source projects it builds on. No code was run.
 
 - Record JSON: https://awesomecua.com/resources/github-browserable-browserable/record.json
 
@@ -7245,7 +7245,7 @@ Mobile automation framework that uses reusable basis subtasks to constrain and r
 
 ### Limitations
 
-The README says the complete CHOP-ZH dataset remains unreleased. Android and HarmonyOS compatibility is publisher-documented and has not been runtime-tested here.
+The README says the complete CHOP-ZH dataset remains unreleased. Android and HarmonyOS compatibility is publisher-documented.
 
 - Record JSON: https://awesomecua.com/resources/github-yuqi-zhou-chop/record.json
 
@@ -8354,7 +8354,7 @@ Experimental monorepo for computer-control agents with a tmux terminal environme
 
 ### Limitations
 
-Adjacent: a heterogeneous research repository rather than a packaged agent. Besides the tmux environment (tmux_trials/lib.py) and the GUI/terminal recorder, it holds many exploratory experiments (action encoders, HID and physical input control, VM recording) and AGI manifesto text. Linked datasets on Hugging Face, ModelScope and Kaggle and the separate Vimgolf-Gym, CTF-Gym and Cybergod-Gym repositories are not part of this record. The Cybergod paper is a self-published PDF release asset, not an arXiv record. No license file was found, so code rights stay unknown. Code was read, not run.
+Adjacent: a heterogeneous research repository. Besides the tmux environment (tmux_trials/lib.py) and the GUI/terminal recorder, it holds many exploratory experiments (action encoders, HID and physical input control, VM recording) and AGI manifesto text. Linked datasets on Hugging Face, ModelScope and Kaggle and the separate Vimgolf-Gym, CTF-Gym and Cybergod-Gym repositories are separate resources. The Cybergod paper is a self-published PDF release asset. No license file was found, so code rights stay unknown.
 
 - Record JSON: https://awesomecua.com/resources/github-james4ever0-agi-computer-control/record.json
 
@@ -8389,7 +8389,7 @@ Offline prompting and evaluation code for Dynamic Planning of Thoughts on Androi
 
 ### Limitations
 
-README describes AITW test sampling and preprocessing reused from Auto-GUI, followed by prediction/action-extraction/evaluation scripts. This is not claimed as a ready-to-run interactive phone controller. No project-level license declaration appears in the inspected README/API/non-truncated tree; code, dataset and model rights remain unestablished here.
+README describes AITW test sampling and preprocessing reused from Auto-GUI, followed by prediction/action-extraction/evaluation scripts. README describes AITW test sampling and preprocessing reused from Auto-GUI, followed by prediction, action-extraction and evaluation scripts. No project-level license declaration appears in the inspected README/API/non-truncated tree; code, dataset and model rights remain unestablished here.
 
 - Record JSON: https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/record.json
 
@@ -9842,7 +9842,7 @@ Microsoft monorepo for InfiniteWeb website and task-evaluator synthesis, the UI-
 
 ### Limitations
 
-The repository was renamed from microsoft/E2I-Synth; both API names return repository 919941789, and the UI-Evol README still clones the old address. InfiniteWeb/ synthesizes multi-page websites with data, APIs, user tasks and dense reward evaluators from a website seed, validates them with generated tests, and includes an OSWorld integration; its README links arXiv 2601.04126 and a Hub dataset. UI-E2I-Synth/ holds only i2e-bench-eval.py, which scores point predictions from an OpenAI-compatible model against UI-I2E-Bench boxes, and the leaderboard site; the instruction-synthesis pipeline itself is not in this tree. UI-Evol/ re-traces actions from screenshot sequences and has an LLM critic refine task knowledge, configured for Azure OpenAI. The root LICENSE is MIT; InfiniteWeb/ and the leaderboard folder carry their own license files. Code was read, not run; paper results were not reproduced.
+The repository was renamed from microsoft/E2I-Synth; both API names return repository 919941789, and the UI-Evol README still clones the old address. InfiniteWeb/ synthesizes multi-page websites with data, APIs, user tasks and dense reward evaluators from a website seed, validates them with generated tests, and includes an OSWorld integration; its README links arXiv 2601.04126 and a Hub dataset. UI-E2I-Synth/ holds only i2e-bench-eval.py, which scores point predictions from an OpenAI-compatible model against UI-I2E-Bench boxes, and the leaderboard site; the instruction-synthesis pipeline itself is not in this tree. UI-Evol/ re-traces actions from screenshot sequences and has an LLM critic refine task knowledge, configured for Azure OpenAI. The root LICENSE is MIT; InfiniteWeb/ and the leaderboard folder carry their own license files. Code was read.
 
 - Record JSON: https://awesomecua.com/resources/github-microsoft-five-ui-evol/record.json
 
@@ -9853,7 +9853,7 @@ The repository was renamed from microsoft/E2I-Synth; both API names return repos
 - document: not recorded
 - weights: not recorded
 
-- code review: The root LICENSE is the MIT permission text under a 'The MIT License (MIT)' title, which enrich does not detect; recorded for the repository's code. InfiniteWeb/ and the leaderboard folder carry their own license files, and no data or weights license is inferred.
+- code review: The root LICENSE is the MIT permission text under a 'The MIT License (MIT)' title; recorded for the repository's code. InfiniteWeb/ and the leaderboard folder carry their own license files, and no data or weights license is inferred.
   Sources: https://raw.githubusercontent.com/microsoft/FIVE-UI-Evol/a07e8ecfad9203c202ba04557f8c5ad9f58d61f1/LICENSE
 
 ### Primary evidence
@@ -9987,7 +9987,7 @@ Swift package for local computer use on Apple silicon that reads forms in runnin
 
 ### Limitations
 
-Published by FluidInference; the package targets macOS 14 or later. AccessibilityFormDriver snapshots the focused window of another running app through the macOS Accessibility API into form elements addressed by tokens, writes values through AXValue and presses buttons and checkboxes with AXPress; for Safari, Chrome, Edge, Brave, Arc, Firefox and similar browsers it sends real key events instead, because those apply AXValue writes to the focused field. WebFormDriver does the same for an embedded WKWebView through an injected script. FormSchema renders each field's context and a fixed option list (fill Label: value for each document entity, check, click, skip) for a model to score, and decodes the chosen option into an action. The README's form model is CUA-S1-FORMS, a 706K-parameter form specialist from Cua converted to Core ML; its manager (CuaS1FormsManager) comes from the FluidAudio package dependency, not from this tree. Most of the package consists of on-device Core ML runtimes for general typed-decision, classification, embedding and OCR models (laya, GLiNER 2.5, Kev, Clef, Intern-Decision, SigLIP2 and others) and demos such as Tetris and 2048 players, which do not operate GUIs. Latency and accuracy figures in the README are publisher measurements. Root LICENSE is Apache-2.0; not a fork, not archived; the latest release, v0.3.0, predates the inspected commit. Code was read, not run.
+Published by FluidInference; the package targets macOS 14 or later. AccessibilityFormDriver snapshots the focused window of another running app through the macOS Accessibility API into form elements addressed by tokens, writes values through AXValue and presses buttons and checkboxes with AXPress; for Safari, Chrome, Edge, Brave, Arc, Firefox and similar browsers it sends real key events instead, because those apply AXValue writes to the focused field. WebFormDriver does the same for an embedded WKWebView through an injected script. FormSchema renders each field's context and a fixed option list (fill Label: value for each document entity, check, click, skip) for a model to score, and decodes the chosen option into an action. The README's form model is CUA-S1-FORMS, a 706K-parameter form specialist from Cua converted to Core ML; its manager (CuaS1FormsManager) comes from the FluidAudio package dependency. Most of the package consists of on-device Core ML runtimes for general typed-decision, classification, embedding and OCR models (laya, GLiNER 2.5, Kev, Clef, Intern-Decision, SigLIP2 and others) and demos such as Tetris and 2048 players; their scope lies outside GUI operation. Latency and accuracy figures in the README are publisher measurements. Root LICENSE is Apache-2.0; the latest release, v0.3.0, predates the inspected commit.
 
 - Record JSON: https://awesomecua.com/resources/github-fluidinference-fluiduse/record.json
 
@@ -10610,7 +10610,7 @@ A desktop trajectory-generation framework that moves from stochastic GUI explora
 
 ### Limitations
 
-The inspected source tree contains the random walker, desktop environment integration and run_rewalk.sh. The documented runnable setup uses OSWorld and OmniParser. The README also discusses mobile data and a GUI-ReWalk-7B model, but no separately published corpus or model checkpoint was verified; those are not counted as released assets. Apache-2.0 is scoped to the implementation.
+The inspected source tree contains the random walker, desktop environment integration and run_rewalk.sh. The documented runnable setup uses OSWorld and OmniParser. The README also discusses mobile data and a GUI-ReWalk-7B model. Apache-2.0 is scoped to the implementation.
 
 - Record JSON: https://awesomecua.com/resources/github-bytedance-gui-rewalk/record.json
 
@@ -10682,7 +10682,7 @@ Synthesizes Android agent trajectories without a device: an image model behind a
 
 ### Limitations
 
-The README says its arXiv paper is still to come; the GUIGuard project page presents this repository as that paper's trajectory-synthesis workflow, which is the basis for the paper link. In virtual_env_gemini3.py each step sends the previous screenshot and an action description to a chat-completions endpoint and decodes the returned image as the next screen; the code's default model is google/gemini-2.0-flash-exp:free, while the README examples use google/gemini-3-pro-image-preview. The adapter mocks the accessibility tree and ADB calls. The runner defines 57 social-app task goals whose simplified task class reports success as 1.0 without any check, so generated trajectories are not verified outcomes. Nothing was run.
+The README says its arXiv paper is still to come; the GUIGuard project page presents this repository as that paper's trajectory-synthesis workflow, which is the basis for the paper link. In virtual_env_gemini3.py each step sends the previous screenshot and an action description to a chat-completions endpoint and decodes the returned image as the next screen; the code's default model is google/gemini-2.0-flash-exp:free, while the README examples use google/gemini-3-pro-image-preview. The adapter mocks the accessibility tree and ADB calls. The runner defines 57 social-app task goals whose simplified task class reports success as 1.0 without a check; generated trajectories therefore have unverified outcomes. Nothing was run.
 
 - Record JSON: https://awesomecua.com/resources/github-futuresis-gui-trajectory-virtual/record.json
 
@@ -10755,7 +10755,7 @@ Query-inference training tools connecting screenshot grounding with GUI action r
 
 ### Limitations
 
-The repository releases preprocessing/refinement/evaluation code and multipart ShareGPT-format JSON annotations. Evaluation matches recorded single-step action predictions on AndroidControl and AITZ; it does not run live device tasks. The README links a UIBERT training-JSON path that is not a standalone file in this revision; annotations are packaged in data/GUI.z01, data/GUI.z02 and data/GUI.zip. Original UIBERT/OS-Atlas, AITZ and AndroidControl images must be obtained separately. This entry does not claim a released trained checkpoint or transfer the GPL-3.0 code license to third-party datasets and images.
+The repository releases preprocessing/refinement/evaluation code and multipart ShareGPT-format JSON annotations. Evaluation matches recorded single-step action predictions on AndroidControl and AITZ. The README links a UIBERT training-JSON path, while annotations in this revision are packaged in data/GUI.z01, data/GUI.z02 and data/GUI.zip. Original UIBERT/OS-Atlas, AITZ and AndroidControl images must be obtained separately. The repository releases preprocessing/refinement/evaluation code and annotations; trained checkpoint status and third-party image rights remain separate.
 
 - Record JSON: https://awesomecua.com/resources/github-zrw00-guipivot/record.json
 
@@ -12266,7 +12266,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 ## look-decide-act
 
-Drives live web applications over CDP through a closed-loop visual look-decide-act cycle rather than brittle script replay.
+Drives live web applications over CDP through a closed-loop visual look-decide-act cycle in place of script replay.
 
 - Catalog URL: https://awesomecua.com/resources/github-ivanposel-look-decide-act/
 - Original source: https://github.com/ivanposel/look-decide-act
@@ -12416,7 +12416,7 @@ A TypeScript browser-agent framework in which a visually grounded model returns 
 
 ### Limitations
 
-This is GitHub repository 952018616 (magnitudedev/browser-agent, created 2025-03-20). The name magnitudedev/magnitude now belongs to a separate inference-engine repository (1267145484), so it is not recorded as an alias. The inspected tree contains magnitude-core, magnitude-test, magnitude-extract, magnitude-mcp and create-magnitude-app packages plus basic and WebVoyager evaluation folders. The README requires a separately configured visually grounded model; its WebVoyager score is a publisher claim that was not reproduced. Apache-2.0 applies to repository code only.
+This is GitHub repository 952018616 (magnitudedev/browser-agent, created 2025-03-20). The name magnitudedev/magnitude now belongs to a separate inference-engine repository (1267145484). The inspected tree contains magnitude-core, magnitude-test, magnitude-extract, magnitude-mcp and create-magnitude-app packages plus basic and WebVoyager evaluation folders. The README requires a separately configured visually grounded model; its WebVoyager score is a publisher claim. Apache-2.0 applies to repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-magnitudedev-browser-agent/record.json
 
@@ -12961,7 +12961,7 @@ MirrorGuard pipeline that synthesizes risky and benign computer-use trajectories
 
 ### Limitations
 
-Official WhitzardAgent code for the MirrorGuard paper. MirrorWorld task generation (task_generation/) and an LLM-driven GUI simulator (simulator.py) produce text-only trajectories; dataset_generation/safe_thought.py rewrites unsafe thoughts and prepare_dataset.py packages ShareGPT-style training files. The repository includes dataset_generation/train.jsonl (about 86 MB) and test.jsonl (2,439 lines, of which 16 are not valid standalone JSON), each holding a system prompt and a conversation. Integration examples cover replacement steering for a ReAct agent, prefilling steering for UI-TARS, and an Owl agent reference, written as OSWorld-style agent files; examples/shared/correction_runtime.py calls the deployed corrector through an OpenAI-compatible endpoint with the screenshot, history and original thought. The released MirrorGuard VLM is on Hugging Face. Unsafe-rate and OSWorld figures in the README are paper results and were not reproduced; code was read, not run.
+Official WhitzardAgent code for the MirrorGuard paper. MirrorWorld task generation (task_generation/) and an LLM-driven GUI simulator (simulator.py) produce text-only trajectories; dataset_generation/safe_thought.py rewrites unsafe thoughts and prepare_dataset.py packages ShareGPT-style training files. The repository includes dataset_generation/train.jsonl (about 86 MB) and test.jsonl (2,439 lines, of which 16 are invalid standalone JSON), each holding a system prompt and a conversation. Integration examples cover replacement steering for a ReAct agent, prefilling steering for UI-TARS, and an Owl agent reference, written as OSWorld-style agent files; examples/shared/correction_runtime.py calls the deployed corrector through an OpenAI-compatible endpoint with the screenshot, history and original thought. The released MirrorGuard VLM is on Hugging Face. Unsafe-rate and OSWorld figures in the README are paper results; code was read.
 
 - Record JSON: https://awesomecua.com/resources/github-whitzardagent-mirrorguard/record.json
 
@@ -14254,7 +14254,7 @@ Python browser-automation framework whose CodeAgent shows a model indexed DOM st
 
 ### Limitations
 
-Published on PyPI as openbrowser-ai. The CodeAgent (src/openbrowser/code_use/service.py) sends a compact serialized DOM state with element indices and, unless vision is turned off, a JPEG screenshot; the model replies with Python that the executor runs in a persistent namespace. The MCP server exposes a single execute_code tool over the same namespace, and a CLI daemon keeps a browser session alive between commands. The repository also holds a hosted-platform backend and frontend, and infra/training with SFT, online GRPO and diffusion-language-model RL code for FormFactory form filling; the README links the two related papers on ResearchGate, not arXiv. Token and latency comparisons with other browser tools are publisher-reported and were not reproduced. Code was read, not run.
+Published on PyPI as openbrowser-ai. The CodeAgent (src/openbrowser/code_use/service.py) sends a compact serialized DOM state with element indices and, unless vision is turned off, a JPEG screenshot; the model replies with Python that the executor runs in a persistent namespace. The MCP server exposes a single execute_code tool over the same namespace, and a CLI daemon keeps a browser session alive between commands. The repository also holds a hosted-platform backend and frontend, and infra/training with SFT, online GRPO and diffusion-language-model RL code for FormFactory form filling; the README links the two related papers on ResearchGate. Token and latency comparisons with other browser tools are publisher-reported.
 
 - Record JSON: https://awesomecua.com/resources/github-billy-enrizky-openbrowser-ai/record.json
 
@@ -14560,7 +14560,7 @@ OpenMobile pipeline for AndroidWorld: random-walk exploration, memory-based task
 
 ### Limitations
 
-Official code of the OpenMobile paper (COLM 2026 per the README). AndroidWorld/ holds a modified AndroidWorld copy with exploration (random_walk_aw.py), rollout (run_diy.py), post-processing and evaluation scripts; task_synthesis/ builds screen context and environment memory and generates and judges instructions with a strong multimodal model; LlamaFactory/ registers the four released data splits and gives Qwen3-VL and Qwen3.5 SFT configs. The tree also contains an Android-Lab folder. The Qwen3VL agent in AndroidWorld/android_world/agents/seeact_v.py sends recent plain screenshots to an OpenAI-compatible endpoint and executes the returned mobile_use tool calls; UI-element metadata is saved for post-processing only. The policy-switching mode lets a strong model monitor a weaker actor and take over. The README's AndroidWorld success rates (including Qwen3.5-9B results it says were not reproducible under vLLM) were not reproduced; code was read, not run.
+Official code of the OpenMobile paper (COLM 2026 per the README). AndroidWorld/ holds a modified AndroidWorld copy with exploration (random_walk_aw.py), rollout (run_diy.py), post-processing and evaluation scripts; task_synthesis/ builds screen context and environment memory and generates and judges instructions with a strong multimodal model; LlamaFactory/ registers the four released data splits and gives Qwen3-VL and Qwen3.5 SFT configs. The tree also contains an Android-Lab folder. The Qwen3VL agent in AndroidWorld/android_world/agents/seeact_v.py sends recent plain screenshots to an OpenAI-compatible endpoint and executes the returned mobile_use tool calls; UI-element metadata is saved for post-processing only. The policy-switching mode lets a strong model monitor a weaker actor and take over. The README's AndroidWorld success rates include Qwen3.5-9B results it identifies as unreproducible under vLLM.
 
 - Record JSON: https://awesomecua.com/resources/github-njucckevin-openmobile-code/record.json
 
@@ -14803,7 +14803,7 @@ Inspect-based multi-agent evaluation framework with role, scheduling and communi
 
 ### Limitations
 
-BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task, not SMTP delivery. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.
+BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task and tests the local send condition. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.
 
 - Record JSON: https://awesomecua.com/resources/github-wlanderson0-orbit/record.json
 
@@ -14814,7 +14814,7 @@ BrowserART tools return accessibility trees, including the screenshot-named refr
 - document: not recorded
 - weights: not recorded
 
-- code review: Record only the publisher's top-level Apache-2.0 declaration for Orbit-original code. NOTICE explicitly preserves per-component terms; neither bundled or external data nor model weights inherit this declaration. Its account of BrowserART licensing is not an independent resolution of upstream conflicting declarations.
+- code review: Record only the publisher's top-level Apache-2.0 declaration for Orbit-original code. NOTICE explicitly preserves per-component terms; neither bundled or external data nor model weights inherit this declaration. Upstream BrowserART licensing declarations remain in conflict; Orbit’s account leaves their resolution open.
   Sources: https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/LICENSE, https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/NOTICE
 
 ### Primary evidence
@@ -15489,7 +15489,7 @@ Mobile-agent harness that crawls an app into a YAML map of screens, replays comp
 
 ### Limitations
 
-Formerly published as HKUDS/OpenPhone; that address now resolves to this repository. phonecli/ is the iOS harness (WebDriverAgent) with prebuilt app maps, and phonecli_android/ runs the AndroidLab suite with compiled maps and a pure-VLM baseline. The repository also holds OpenPhone-3B training and synthetic-data pipelines and vLLM serving scripts; the weights and dataset are published separately on Hugging Face and are not covered here. Its evaluation replaces AndroidLab's rule-based checks with an LLM judge. The LICENSE names AndroidLab's author as a copyright holder. Reported success rates were not reproduced. Code was read, not run.
+Formerly published as HKUDS/OpenPhone; that address now resolves to this repository. phonecli/ is the iOS harness (WebDriverAgent) with prebuilt app maps, and phonecli_android/ runs the AndroidLab suite with compiled maps and a pure-VLM baseline. The repository also holds OpenPhone-3B training and synthetic-data pipelines and vLLM serving scripts; the weights and dataset are separate Hugging Face releases outside this repository record. Its evaluation replaces AndroidLab's rule-based checks with an LLM judge. The LICENSE names AndroidLab's author as a copyright holder.
 
 - Record JSON: https://awesomecua.com/resources/github-hkuds-phonecli/record.json
 
@@ -16507,7 +16507,7 @@ A controlled testing framework that combines desktop virtual machines and replic
 
 ### Limitations
 
-The release includes environment code, adversarial scenario configuration and RTC-Bench task-generation assets. The project declares Apache-2.0, while incorporated environments retain their licenses. It distinguishes full task runs from tests initialized at injection locations; those settings must not be treated as interchangeable results.
+The release includes environment code, adversarial scenario configuration and RTC-Bench task-generation assets. The project declares Apache-2.0, while incorporated environments retain their licenses. It distinguishes full task runs from tests initialized at injection locations.
 
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-redteamcua/record.json
 
@@ -17187,7 +17187,7 @@ A shared evaluation harness for GUI-model perception, offline action prediction 
 
 ### Limitations
 
-The publisher states that the suite compares the underlying multimodal models rather than full agent implementations. Public source includes benchmark adapters and registry code. Multi-step environments require Docker and KVM; constituent datasets, remote model services and OSWorld account-dependent tasks retain their own setup and terms. Apache-2.0 is scoped to this repository code.
+The publisher states that the suite compares the underlying multimodal models. Public source includes benchmark adapters and registry code. Multi-step environments require Docker and KVM; constituent datasets, remote model services and OSWorld account-dependent tasks retain their own setup and terms. Apache-2.0 is scoped to this repository code.
 
 - Record JSON: https://awesomecua.com/resources/github-huggingface-screensuite/record.json
 
@@ -18014,7 +18014,7 @@ Hugging Face recipe that converts Aguvis GUI data into one normalized action spa
 
 ### Limitations
 
-The README is the project write-up. The inspected tree contains recipe.ipynb, action-conversion and Aguvis preprocessing code, a function parser, an action-space converter, a collator and evaluation prompts. The README names derived datasets (smolagents/aguvis-stage-1 and smolagents/aguvis-stage-2), the SmolVLM2-2.2B-Instruct-Agentic-GUI checkpoint and a demo Space; those Hub assets are not separate records here, and their licenses were not reviewed. The uses relations record that the recipe transforms the xlangai Aguvis stage 1 and stage 2 releases. ScreenSpot-v2 results are publisher-reported. The repository has no license file, so code permissions are unknown.
+The README is the project write-up. The inspected tree contains recipe.ipynb, action-conversion and Aguvis preprocessing code, a function parser, an action-space converter, a collator and evaluation prompts. The README names derived datasets (smolagents/aguvis-stage-1 and smolagents/aguvis-stage-2), the SmolVLM2-2.2B-Instruct-Agentic-GUI checkpoint and a demo Space as separate Hub assets outside this record. The uses relations record that the recipe transforms the xlangai Aguvis stage 1 and stage 2 releases. ScreenSpot-v2 results are publisher-reported. The repository has no license file, so code permissions are unknown.
 
 - Record JSON: https://awesomecua.com/resources/github-huggingface-smol2operator/record.json
 
@@ -18555,7 +18555,7 @@ Framework that puts System 1 decision models such as Jev, Laya or Cua-S1 in open
 
 ### Limitations
 
-Adjacent because browser and desktop control are two of several shipped domains; the package (s1a) is equally aimed at games, ALFWorld, ticket routing and an injection-guard rail. On a decision turn the System 1 model answers typed choice questions while a chat model keeps planning, typed values and the final answer. The browser front runs a stock openJiuwen browser subagent (pinned ThinkFlowLab fork of agent-core) over @playwright/mcp; its in-page probe numbers the visible controls of the top document's light DOM, and the decision model chooses an element plus an operation head (CLICK, TYPE_TEXT, PRESS_ENTER, SELECT, scrolling). OmniJev instead receives a page screenshot. The desktop agent drives a Windows or macOS app window through the external Cua Driver over MCP, clicking accessibility elements bound to a window snapshot. Decision models are reached through TypeSafe, OpenRouter or served endpoints; Cua-S1 Nano runs in process from a pinned trycua/cua subdirectory. Speed and cost tables in the README are the publisher's single-episode comparisons. The browser files carry Huawei copyright notices with ThinkFlowLab modifications under Apache-2.0. Code was read, not run.
+Adjacent because browser and desktop control are two of several shipped domains; the package (s1a) is equally aimed at games, ALFWorld, ticket routing and an injection-guard rail. On a decision turn the System 1 model answers typed choice questions while a chat model keeps planning, typed values and the final answer. The browser front runs a stock openJiuwen browser subagent (pinned ThinkFlowLab fork of agent-core) over @playwright/mcp; its in-page probe numbers the visible controls of the top document's light DOM, and the decision model chooses an element plus an operation head (CLICK, TYPE_TEXT, PRESS_ENTER, SELECT, scrolling). OmniJev instead receives a page screenshot. The desktop agent drives a Windows or macOS app window through the external Cua Driver over MCP, clicking accessibility elements bound to a window snapshot. Decision models are reached through TypeSafe, OpenRouter or served endpoints; Cua-S1 Nano runs in process from a pinned trycua/cua subdirectory. Speed and cost tables in the README are the publisher's single-episode comparisons. The browser files carry Huawei copyright notices with ThinkFlowLab modifications under Apache-2.0.
 
 - Record JSON: https://awesomecua.com/resources/github-thinkflowlab-system1-agents/record.json
 
@@ -19103,7 +19103,7 @@ Training configurations, preprocessing and inference examples for tutorial-train
 
 ### Limitations
 
-The public tree includes training configs, preprocessing, inference and serving examples. The project still marks release of all experiment/evaluation scripts as work in progress. This entry covers the implementation rather than counting its 3B/7B/32B model-size variants as separate new projects. The inspected project tree has no root source license; linked frameworks, data and checkpoints retain their own terms.
+The public tree includes training configs, preprocessing, inference and serving examples. The project still marks release of all experiment/evaluation scripts as work in progress. This entry covers the implementation and its 3B/7B/32B model-size variants. The inspected project tree has no root source license; linked frameworks, data and checkpoints retain their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-tongui-agent-tongui-agent/record.json
 
@@ -19884,7 +19884,7 @@ Training code that learns a value environment model from offline Android interac
 
 ### Limitations
 
-The public tree includes critic-training configurations, policy training and offline/online evaluation scripts. The README obtains base models and AITW imagery separately, then instructs users to train critic and policy checkpoints locally; this entry does not claim that VEM-trained weights are released. MIT applies to repository code only.
+The public tree includes critic-training configurations, policy training and offline/online evaluation scripts. The README obtains base models and AITW imagery separately, then instructs users to train critic and policy checkpoints locally. MIT applies to repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-microsoft-gui-agent-rl/record.json
 
@@ -19956,7 +19956,7 @@ Research code for proactive human–GUI-agent verification, including offline in
 
 ### Limitations
 
-The released scripts evaluate recorded task inputs; the retained README does not establish a live Android execution environment.
+The released scripts evaluate recorded task inputs; a live Android execution environment remains unestablished by the retained README.
 
 - Record JSON: https://awesomecua.com/resources/github-wuzheng02-verios/record.json
 
@@ -19989,7 +19989,7 @@ Runtime verification framework for Android GUI agents that checks proposed actio
 
 ### Limitations
 
-The verification method requires developers to supply app-state predicates and transition hooks. The paper-to-repository relation is supported by the exact-version paper, not inferred from the repository name.
+The verification method requires developers to supply app-state predicates and transition hooks. The exact-version paper supports the paper-to-repository relation.
 
 - Record JSON: https://awesomecua.com/resources/github-verisafeagent-verisafeagent/record.json
 
@@ -20090,7 +20090,7 @@ VideoCADFormer training, action-log preprocessing and evaluation code for learni
 
 ### Limitations
 
-The paper links this author repository. Onshape is a browser-based CAD environment; supported operating systems are not inferred. The full dataset and a checkpoint are linked separately, and their payloads were not downloaded for this review. MIT is recorded only for this repository code; external data and weight licenses remain unknown.
+The paper links this author repository. Onshape is a browser-based CAD environment. The full dataset and a checkpoint are linked separately. MIT is recorded only for this repository code; external data and weight licenses remain unknown.
 
 - Record JSON: https://awesomecua.com/resources/github-ghadinehme-videocad/record.json
 
@@ -20101,7 +20101,7 @@ The paper links this author repository. Onshape is a browser-based CAD environme
 - document: not recorded
 - weights: not recorded
 
-- code review: MIT declaration in the author repository LICENSE; separate data, weights and document scopes are not inferred.
+- code review: The author repository LICENSE declares MIT for repository code; data, weights and document rights have separate scopes.
   Sources: https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/LICENSE
 
 ### Primary evidence
@@ -20163,7 +20163,7 @@ Code for the ViMo GUI world model: Gemini-based next-screen text prediction, AIT
 
 ### Limitations
 
-The README describes ViMo as a GUI world model that predicts the next GUI state as image and text. UI_text_prediction.py runs the text-prediction step with Gemini (gemini-2.0-flash), with a GPT-4o variant in the same file. data/ holds the selected Android in the Wild and AndroidControl episode IDs with annotations; images must be downloaded from the original releases, then generate_ocr.py and check_fix.py prepare the symbolic text representation. Graphic prediction is trained by following the InstructPix2Pix project, with edit_cli.py and generate.yaml for inference; no trained weights are in the repository. 'ViMo-Empowered Agent' is a copy of AndroidWorld (with its own Apache-2.0 LICENSE) whose vimo modules post the current screenshot and a candidate action to a world-model server and score the predicted screen when choosing actions. The README does not cite the paper; the project page links this repository and arXiv 2504.13936. No license file is at the repository root. Code was read, not run.
+The README describes ViMo as a GUI world model that predicts the next GUI state as image and text. UI_text_prediction.py runs the text-prediction step with Gemini (gemini-2.0-flash), with a GPT-4o variant in the same file. data/ holds the selected Android in the Wild and AndroidControl episode IDs with annotations; images must be downloaded from the original releases, then generate_ocr.py and check_fix.py prepare the symbolic text representation. Graphic prediction is trained by following the InstructPix2Pix project, with edit_cli.py and generate.yaml for inference; no trained weights are in the repository. 'ViMo-Empowered Agent' is a copy of AndroidWorld (with its own Apache-2.0 LICENSE) whose vimo modules post the current screenshot and a candidate action to a world-model server and score the predicted screen when choosing actions. The project page links this repository and arXiv 2504.13936. No license file is at the repository root.
 
 - Record JSON: https://awesomecua.com/resources/github-ai-agents-2030-vimo/record.json
 
@@ -20440,7 +20440,7 @@ VSC-RL training code for Android in the Wild tasks: Gemini-generated subgoals co
 
 ### Limitations
 
-The README presents the repository as the implementation for reproducing VSC-RL on the AitW benchmarks, built on DigiRL, and names vscrl/algorithms/vscrl/trainer.py and subgoal_generator.py as the core files, with example generated subgoals for the general task set. The README does not cite the paper; the project page links this repository and arXiv 2502.07949. subgoal_generator.py prompts Gemini with a downscaled screenshot and a one-shot example to split a task into subtasks. The Android environment (vscrl/environment/android/env.py) drives emulators through Appium and returns screenshots; evaluate.py judges task completion with Gemini 1.5 Pro from the final screenshots. The default config selects the AitW general or web-shopping task set, Auto-UI-Base as the policy and roberta-base as the critic; emulator setup follows DigiRL's instructions. No license file is present. Code was read, not run.
+The README presents the repository as the implementation for reproducing VSC-RL on the AitW benchmarks, built on DigiRL, and names vscrl/algorithms/vscrl/trainer.py and subgoal_generator.py as the core files, with example generated subgoals for the general task set. The project page links this repository and arXiv 2502.07949. subgoal_generator.py prompts Gemini with a downscaled screenshot and a one-shot example to split a task into subtasks. The Android environment (vscrl/environment/android/env.py) drives emulators through Appium and returns screenshots; evaluate.py judges task completion with Gemini 1.5 Pro from the final screenshots. The default config selects the AitW general or web-shopping task set, Auto-UI-Base as the policy and roberta-base as the critic; emulator setup follows DigiRL's instructions. No license file is present.
 
 - Record JSON: https://awesomecua.com/resources/github-ai-agents-2030-vsc-rl/record.json
 
@@ -20756,7 +20756,7 @@ Component for web-agent trajectory collection, supervised-data preparation and w
 
 ### Limitations
 
-Scoped to the WebEvolver directory; the repository also hosts WebCoT and VScan, which are not merged into this resource. Training and model services require separate setup. Root License.txt explicitly declares MIT for SelfEvolvingAgent and separately identifies CogKernel’s Apache-2.0 dependency terms.
+This resource covers the WebEvolver directory; the repository also hosts WebCoT and VScan as separate resources. Training and model services require separate setup. Root License.txt explicitly declares MIT for SelfEvolvingAgent and separately identifies CogKernel’s Apache-2.0 dependency terms.
 
 - Record JSON: https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/record.json
 
@@ -20967,7 +20967,7 @@ Training and evaluation code for question-guided website navigation that combine
 
 ### Limitations
 
-The released tree contains navigation models, an environment wrapper, scoring utilities and train/eval scripts. Full WebVLN-v1 data and pretrained files are linked through an external Drive folder; their complete contents and data/weight terms were not verified, so no separate benchmark download or checkpoint is approved here. The README MIT badge has no matching repository license file or explicit component scope; code permissions remain unestablished.
+The released tree contains navigation models, an environment wrapper, scoring utilities and train/eval scripts. Full WebVLN-v1 data and pretrained files are linked through an external Drive folder. The README MIT badge has no matching repository license file or explicit component scope; code permissions remain unestablished.
 
 - Record JSON: https://awesomecua.com/resources/github-webvln-webvln/record.json
 
@@ -21039,7 +21039,7 @@ GUI-grounding training and evaluation code with same-family distillation, GRPO r
 
 ### Limitations
 
-The Windows-style environment is win11React in Playwright, not native Windows control. The repository documents its predecessor trajectory pipeline but explicitly omits the final corpus harvester. The inspected ScreenSpot evaluator defaults to a privileged ground-truth-center demonstration; --no-demo and --official-prompt select other modes, so evaluation results require their prompt and coordinate settings. Linked datasets, weights and reported scores were not independently verified; MIT applies to inspected repository code.
+The Windows-style environment is win11React in Playwright. The repository documents its predecessor trajectory pipeline but explicitly omits the final corpus harvester. The inspected ScreenSpot evaluator defaults to a privileged ground-truth-center demonstration; --no-demo and --official-prompt select other modes, so evaluation results require their prompt and coordinate settings. MIT applies to inspected repository code.
 
 - Record JSON: https://awesomecua.com/resources/github-chenghengli-windom/record.json
 
@@ -21185,7 +21185,7 @@ Research code that learns browser-control policies by constraining exploration w
 
 ### Limitations
 
-The released repository includes training policies, experiment configuration and a MiniWoB sandbox extended for the 2018 paper. This is the WGE implementation, not another copy of the already cataloged Farama MiniWoB++ benchmark and not the original OpenAI MiniWoB release. Its documented dependency is PyTorch 0.1.12, and current runtime compatibility was not tested. Stanford code declares Apache-2.0; bundled third-party browser tasks and externally downloaded demonstration/embedding data retain their own terms.
+The released repository includes training policies, experiment configuration and a MiniWoB sandbox extended for the 2018 paper. This is the WGE implementation, a separate project from the Farama MiniWoB++ benchmark and original OpenAI MiniWoB release. Its documented dependency is PyTorch 0.1.12. Stanford code declares Apache-2.0; bundled third-party browser tasks and externally downloaded demonstration/embedding data retain their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-stanfordnlp-wge/record.json
 
@@ -21225,7 +21225,7 @@ Web-task reward functions, WorkArena data processing and GRPO training configura
 
 ### Limitations
 
-The release contains WorkArena preprocessing and training source. The inspected root has no explicit project license; dependencies retain their own terms. Although the README discusses trained 7B/14B models, it does not provide a verified checkpoint release, so this is cataloged only as a framework.
+The release contains WorkArena preprocessing and training source. The inspected root has no explicit project license; dependencies retain their own terms. The README discusses trained 7B/14B models; this entry is cataloged as a framework.
 
 - Record JSON: https://awesomecua.com/resources/github-night-chen-workforceagent-r1/record.json
 

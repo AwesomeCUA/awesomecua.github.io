@@ -14,7 +14,7 @@ Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from na
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. This is an application-specific automation benchmark grounded in recorded Excel user actions. Its execution interface is OfficeScripts, so it is adjacent rather than a visual GUI navigation benchmark.
+Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. This is an application-specific automation benchmark grounded in recorded Excel user actions. Its execution interface is OfficeScripts, making it adjacent to visual GUI navigation benchmarks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-14495/record.json
 

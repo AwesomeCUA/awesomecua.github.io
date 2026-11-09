@@ -14,7 +14,7 @@ Compact Seg2Click checkpoint with a merged Qwen3.5 backbone and an action-mask d
 
 ## Limitations
 
-License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; mask-to-click inference requires those components beyond a generic text-generation pipeline.
 
 - Record JSON: https://awesomecua.com/resources/url-7405463ba56f9a41e79a/record.json
 

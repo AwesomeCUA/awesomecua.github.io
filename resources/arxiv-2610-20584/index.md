@@ -1,6 +1,6 @@
 # Player-1: Learning to Play from Synthetic Experience
 
-Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games rather than ordinary productivity workflows.
+Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2610-20584/
 - Original source: https://arxiv.org/abs/2610.20584

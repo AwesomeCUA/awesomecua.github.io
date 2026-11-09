@@ -14,7 +14,7 @@ An archived Gym-compatible client that exposes screen observations and keyboard/
 
 ## Limitations
 
-GitHub marks this repository archived, and the README declares the library deprecated. It contains the client side of Universe; the README says remote-environment source repositories would be released separately. Original MiniWoB task-server or container availability was not established: alpha.openai.com no longer resolved in this audit and the official Quay tag metadata endpoint returned 401. This entry records the released client infrastructure, not a currently runnable original MiniWoB benchmark. Legacy host requirements are documented; no container or code was executed.
+GitHub marks this repository archived, and the README declares the library deprecated. It contains the client side of Universe; the README says remote-environment source repositories would be released separately. Original MiniWoB task-server or container availability was not established: alpha.openai.com no longer resolved in this audit and the official Quay tag metadata endpoint returned 401. This entry records the released client infrastructure. Legacy host requirements are documented; no container or code was executed.
 
 - Record JSON: https://awesomecua.com/resources/github-openai-universe/record.json
 

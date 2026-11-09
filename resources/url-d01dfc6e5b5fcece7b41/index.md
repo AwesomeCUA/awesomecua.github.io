@@ -14,7 +14,7 @@ Instruct variant of the 8B GUI-Owl 1.5 native GUI agent model, built on Qwen3-VL
 
 ## Limitations
 
-The card describes instruct models as the variants for fast inference and edge deployment; the thinking 8B checkpoint is a separate repository. The Hub manifest lists four Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 8,767,123,696 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported and were not reproduced. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
+The card describes instruct models as the variants for fast inference and edge deployment; the thinking 8B checkpoint is a separate repository. The Hub manifest lists four Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 8,767,123,696 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
 
 - Record JSON: https://awesomecua.com/resources/url-d01dfc6e5b5fcece7b41/record.json
 

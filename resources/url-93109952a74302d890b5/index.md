@@ -14,7 +14,7 @@ Anthropic agentic coding tool for terminal, IDE, desktop and web, with an opt-in
 
 ## Limitations
 
-A general coding agent, so the scope is adjacent. GUI control is an opt-in research preview for Pro and Max plans, provided in the CLI by a built-in computer-use MCP server on macOS and in the Desktop app on macOS and Windows. Claude Code tries MCP servers, Bash and the Claude in Chrome integration first and reserves screen control for apps those cannot reach. Browser automation runs through the separately cataloged Claude for Chrome extension (url:07b6bbce7ce26a847f79). The docs.anthropic.com address redirects to code.claude.com/docs. Availability was not independently tested.
+A general coding agent, so the scope is adjacent. GUI control is an opt-in research preview for Pro and Max plans, provided in the CLI by a built-in computer-use MCP server on macOS and in the Desktop app on macOS and Windows. Claude Code tries MCP servers, Bash and the Claude in Chrome integration first and reserves screen control for remaining apps. Browser automation runs through the separately cataloged Claude for Chrome extension (url:07b6bbce7ce26a847f79). The docs.anthropic.com address redirects to code.claude.com/docs.
 
 - Record JSON: https://awesomecua.com/resources/url-93109952a74302d890b5/record.json
 

@@ -14,7 +14,7 @@ Analyzes security boundaries in computer-use agents through a risk taxonomy and 
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. This is a threat analysis with case studies; the annotation does not imply a standardized public benchmark or independently validated defenses.
+Reviewed against the complete retained original arXiv abstract. This is a threat analysis with case studies.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-05445/record.json
 

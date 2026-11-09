@@ -14,7 +14,7 @@ Presents visual GUI test scripts that use images to specify actions and expected
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. This is a separate visual-testing contribution from the 2009 Sikuli paper, not another version of the same article. MIT PDF download returned HTTP 429; its complete institutional abstract and citation metadata remain the retained review source.
+The annotation was reviewed against retained primary publication sources. This is a separate visual-testing contribution from the 2009 Sikuli paper. MIT PDF download returned HTTP 429; its complete institutional abstract and citation metadata remain the retained review source.
 
 - Record JSON: https://awesomecua.com/resources/url-6262c757080f8838e62c/record.json
 

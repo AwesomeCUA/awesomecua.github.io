@@ -1,6 +1,6 @@
 # Computer-use agent infrastructure
 
-> 90 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T11:08:26Z.
+> 90 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -1143,7 +1143,7 @@ Seven preconfigured Pixel 6 emulator images for Android API 33 (arm64) with an A
 
 ### Limitations
 
-The Hub dataset repository at revision 4d2be380 has no card and no license declaration. It lists 143 files, about 130 GB by listed sizes: seven AVD directories (MineAndroid plus auto, general-user, manual, senior, student and travel variants), their .ini pointers and install_avd.sh. Every config.ini targets android-33 with arm64-v8a on a Pixel 6 profile and Play Store disabled. The script requires an Apple Silicon Mac, installs the android-33 Google APIs arm64-v8a system image through sdkmanager, and warns that -wipe-data erases the installed apps. Which apps each variant holds is not documented, and the images were not downloaded or booted. The OpenMobile2-Code README links this repository as 'Extended Android AVDs' in its release list; that repository's Apache-2.0 license does not cover these images or the Android system image.
+The Hub dataset repository at revision 4d2be380 has no card and no license declaration. It lists 143 files, about 130 GB by listed sizes: seven AVD directories (MineAndroid plus auto, general-user, manual, senior, student and travel variants), their .ini pointers and install_avd.sh. Every config.ini targets android-33 with arm64-v8a on a Pixel 6 profile and Play Store disabled. The script requires an Apple Silicon Mac, installs the android-33 Google APIs arm64-v8a system image through sdkmanager, and warns that -wipe-data erases the installed apps. The variants' app contents remain undocumented; the images remain uninspected. The OpenMobile2-Code README links this repository as 'Extended Android AVDs' in its release list; that repository's Apache-2.0 license does not cover these images or the Android system image.
 
 - Record JSON: https://awesomecua.com/resources/url-f039da43799772645c92/record.json
 
@@ -1182,7 +1182,7 @@ Hub host of OSWorld's prebuilt Ubuntu virtual machines: VMware archives for x86 
 
 ### Limitations
 
-Adjacent: environment images that the curated OSWorld benchmark boots, not a benchmark or training set by itself. At revision a5d9c3ea the manifest holds Ubuntu-x86.zip, Ubuntu-arm.zip and Ubuntu.qcow2.zip (about 12 GB each), two further qcow2 images (Ubuntu_claude.qcow2 and Ubuntu_claude2.qcow2, about 23.7 GB each) that the card does not describe, and aliyun_config.sh. OSWorld's VMware provider picks the x86 or arm64 archive by host architecture, and its Docker provider fetches Ubuntu.qcow2.zip. The card also mentions task examples in evaluation_examples.zip, which the manifest does not contain. Apache-2.0 is the card's metadata declaration and does not relicense Ubuntu or bundled applications. The images were not downloaded or booted.
+Adjacent: environment images that the curated OSWorld benchmark boots; this asset is an image release. At revision a5d9c3ea the manifest holds Ubuntu-x86.zip, Ubuntu-arm.zip and Ubuntu.qcow2.zip (about 12 GB each), two further qcow2 images (Ubuntu_claude.qcow2 and Ubuntu_claude2.qcow2, about 23.7 GB each) left undescribed by the card, and aliyun_config.sh. OSWorld's VMware provider picks the x86 or arm64 archive by host architecture, and its Docker provider fetches Ubuntu.qcow2.zip. The card also mentions task examples in evaluation_examples.zip, which the manifest does not contain. Apache-2.0 is the card's metadata declaration and does not relicense Ubuntu or bundled applications.
 
 - Record JSON: https://awesomecua.com/resources/url-346ca54794cbdffc8797/record.json
 
@@ -1220,7 +1220,7 @@ A prebuilt Ubuntu virtual-machine archive containing the software environment us
 
 ### Limitations
 
-The public Hub manifest contains VM.zip. This is an environment image, not neural model weights despite its Hub namespace. The card declares MIT metadata for the hosted release, but that does not relicense Ubuntu or included applications. The archive was not downloaded or booted; VMware’s own terms are separate.
+The public Hub manifest contains VM.zip. This is an environment image hosted in a Hub model namespace. The card declares MIT metadata for the hosted release, but that does not relicense Ubuntu or included applications. VMware’s own terms apply separately.
 
 - Record JSON: https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/record.json
 
@@ -1231,7 +1231,7 @@ The public Hub manifest contains VM.zip. This is an environment image, not neura
 - document: not recorded
 - weights: not recorded
 
-- weights review: This resource is a prebuilt Ubuntu VMware environment archive (VM.zip), not neural model weights. MIT Hub metadata in a model namespace cannot establish a weights license or relicense the guest OS and bundled applications.
+- weights review: This resource is a prebuilt Ubuntu VMware environment archive (VM.zip). MIT Hub metadata in a model namespace cannot establish a weights license or relicense the guest OS and bundled applications.
   Sources: https://huggingface.co/OS-Copilot/ScienceBoard-Env/raw/main/README.md, https://huggingface.co/api/models/OS-Copilot/ScienceBoard-Env
 
 ### Primary evidence
@@ -1293,7 +1293,7 @@ An archived Gym-compatible client that exposes screen observations and keyboard/
 
 ### Limitations
 
-GitHub marks this repository archived, and the README declares the library deprecated. It contains the client side of Universe; the README says remote-environment source repositories would be released separately. Original MiniWoB task-server or container availability was not established: alpha.openai.com no longer resolved in this audit and the official Quay tag metadata endpoint returned 401. This entry records the released client infrastructure, not a currently runnable original MiniWoB benchmark. Legacy host requirements are documented; no container or code was executed.
+GitHub marks this repository archived, and the README declares the library deprecated. It contains the client side of Universe; the README says remote-environment source repositories would be released separately. Original MiniWoB task-server or container availability was not established: alpha.openai.com no longer resolved in this audit and the official Quay tag metadata endpoint returned 401. This entry records the released client infrastructure. Legacy host requirements are documented; no container or code was executed.
 
 - Record JSON: https://awesomecua.com/resources/github-openai-universe/record.json
 
@@ -1732,7 +1732,7 @@ Chromium-based browser implementations for external agent control and built-in a
 
 ### Limitations
 
-The one repository includes BrowserOS neo and BrowserOS; they are retained as one source-bundle resource. Official release metadata lists desktop installers, but none were downloaded. The repository declares AGPL-3.0 and retains separate Chromium-related licensing. Publisher privacy and performance claims were not independently verified.
+The one repository includes BrowserOS neo and BrowserOS; they are retained as one source-bundle resource. Official release metadata lists desktop installers, but none were downloaded. The repository declares AGPL-3.0 and retains separate Chromium-related licensing.
 
 - Record JSON: https://awesomecua.com/resources/github-browseros-ai-browseros/record.json
 
@@ -2380,7 +2380,7 @@ Virtual machine management for local computer-use environments.
 
 ### Limitations
 
-Lume is a component of the Cua repository. The legacy repository URL now serves the Cua monorepo README; counted as a component, not an independent project.
+Lume is a component of the Cua repository. The legacy repository URL now serves the Cua monorepo README; Lume is counted as a component.
 
 - Record JSON: https://awesomecua.com/resources/github-trycua-lume/record.json
 
@@ -2550,7 +2550,7 @@ Hub host of the Ubuntu virtual machine archive that OSWorld's VirtualBox provide
 
 ### Limitations
 
-Adjacent: an environment image that the curated OSWorld benchmark boots when run with VirtualBox, not a benchmark or training set by itself. At revision c4e80049 the repository holds only Ubuntu.zip (12,395,902,743 bytes) and .gitattributes; there is no dataset card, so it names no paper and declares no license, and every license slot stays unknown. At OSWorld commit b138d348 the VirtualBox provider downloads this archive on x86 hosts, extracts it and imports Ubuntu/Ubuntu.ovf from the extracted files with VBoxManage, supports only Ubuntu tasks, and refuses macOS hosts. The name is editorial, taken from that provider. The image was not downloaded or booted.
+Adjacent: an environment image that the curated OSWorld benchmark boots when run with VirtualBox; this asset is an image release. At revision c4e80049 the repository holds only Ubuntu.zip (12,395,902,743 bytes) and .gitattributes; there is no dataset card, so it names no paper and declares no license, and every license slot stays unknown. At OSWorld commit b138d348 the VirtualBox provider downloads this archive on x86 hosts, extracts it and imports Ubuntu/Ubuntu.ovf from the extracted files with VBoxManage, supports only Ubuntu tasks, and refuses macOS hosts. The name is editorial, taken from that provider.
 
 - Record JSON: https://awesomecua.com/resources/url-ce775111626bae220596/record.json
 
@@ -2585,7 +2585,7 @@ Hub host of OSWorld's prebuilt Windows 10 virtual machines: a VMware archive and
 
 ### Limitations
 
-Adjacent: environment images that the curated OSWorld benchmark boots for its Windows tasks, not a benchmark or training set by itself. At revision 6afc3324 the manifest holds Windows-x86.zip (about 26.2 GB) and Windows-10-x64.qcow2.zip (about 27.7 GB), plus two unpacked qcow2 images, Windows 10 x64.qcow2 and Windows 10 x64 - copy.qcow2 (about 49.2 GB each), that the card does not describe. At OSWorld commit b138d348 the VMware provider downloads Windows-x86.zip for Windows tasks on x86 hosts and the Docker provider downloads Windows-10-x64.qcow2.zip; the VirtualBox provider supports only Ubuntu. The card is a generic OSWorld card: its mention of task examples in evaluation_examples.zip and of VirtualBox and arm64 snapshots does not match this manifest. Apache-2.0 is the card's metadata declaration and does not relicense Windows or bundled applications. The images were not downloaded or booted.
+Adjacent: environment images that the curated OSWorld benchmark boots for its Windows tasks; this asset is an image release. At revision 6afc3324 the manifest holds Windows-x86.zip (about 26.2 GB) and Windows-10-x64.qcow2.zip (about 27.7 GB), plus two unpacked qcow2 images, Windows 10 x64.qcow2 and Windows 10 x64 - copy.qcow2 (about 49.2 GB each), left undescribed by the card. At OSWorld commit b138d348 the VMware provider downloads Windows-x86.zip for Windows tasks on x86 hosts and the Docker provider downloads Windows-10-x64.qcow2.zip; the VirtualBox provider supports only Ubuntu. The card is a generic OSWorld card: its mention of task examples in evaluation_examples.zip and of VirtualBox and arm64 snapshots does not match this manifest. Apache-2.0 is the card's metadata declaration and does not relicense Windows or bundled applications.
 
 - Record JSON: https://awesomecua.com/resources/url-232a1698849e2fea425c/record.json
 
@@ -2624,7 +2624,7 @@ Native macOS client of a Chromium browser whose agent Spaces let the built-in as
 
 ### Limitations
 
-This is the open macOS client (Swift, AppKit and SwiftUI). Building it requires the prebuilt Phi Framework, the publisher's own Chromium build, whose source is not published and which the Apache-2.0 license does not cover; the built-in assistant's models, prompts and pipelines are server-side and not in this repository, and a self-built copy does not reach Phi Cloud. Sources/ChromiumBridge/AgentCDP/AgentCDPListener.swift owns a Unix-domain socket through which agent tools reach the browser's DevTools endpoint after per-agent user consent. tools/phi-browser-skill (SKILL.md, scripts/lib/cdp.mjs) is an Agent Skill that drives agent Spaces: hidden windows on a chosen profile that the user can watch, take over and hand back, or off-screen shadow windows. Privacy and local-model statements are publisher claims. Code was read, not run.
+This is the open macOS client (Swift, AppKit and SwiftUI). Building it requires the prebuilt Phi Framework, the publisher's own Chromium build, whose source is not published and which the Apache-2.0 license does not cover; the built-in assistant's models, prompts and pipelines are server-side and not in this repository, and a self-built copy does not reach Phi Cloud. Sources/ChromiumBridge/AgentCDP/AgentCDPListener.swift owns a Unix-domain socket through which agent tools reach the browser's DevTools endpoint after per-agent user consent. tools/phi-browser-skill (SKILL.md, scripts/lib/cdp.mjs) is an Agent Skill that drives agent Spaces: hidden windows on a chosen profile that the user can watch, take over and hand back, or off-screen shadow windows. Privacy and local-model statements are publisher claims.
 
 - Record JSON: https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/record.json
 
@@ -3069,7 +3069,7 @@ Electron/Chromium browser built as a visible runtime for agents: a local MCP ser
 
 ### Limitations
 
-Published under the Quanta Intellect name (repository homepage). Built on Electron 40 with SolidJS; Linux AppImage, Snap and npm installs are offered, and the README calls Linux the most mature target, with macOS packaging from source. The MCP server (default port 3100, bearer token in ~/.config/vessel/mcp-auth.json, vessel-browser-mcp --stdio proxy) is meant for harnesses such as Hermes Agent, OpenClaw or Codex; its interaction tools click, type and select by the element index from the page-content listing, with CSS selector or visible-text fallbacks. Page extraction numbers interactive elements and infers a page schema (page type, form fields, action buttons). The built-in sidebar assistant uses the same tools with Anthropic, OpenAI, Ollama, llama.cpp or other OpenAI-compatible providers. Supervisor controls cover approvals per action, run or domain, pausing, checkpoints, named sessions and undo of the last mutating action. Skills, screenshot analysis, the credential vault, Obsidian memory and parts of the Research Desk require a paid Premium subscription. Root LICENSE is MIT. Not a fork, not archived. Code was read, not run.
+Published under the Quanta Intellect name (repository homepage). Built on Electron 40 with SolidJS; Linux AppImage, Snap and npm installs are offered, and the README calls Linux the most mature target, with macOS packaging from source. The MCP server (default port 3100, bearer token in ~/.config/vessel/mcp-auth.json, vessel-browser-mcp --stdio proxy) is meant for harnesses such as Hermes Agent, OpenClaw or Codex; its interaction tools click, type and select by the element index from the page-content listing, with CSS selector or visible-text fallbacks. Page extraction numbers interactive elements and infers a page schema (page type, form fields, action buttons). The built-in sidebar assistant uses the same tools with Anthropic, OpenAI, Ollama, llama.cpp or other OpenAI-compatible providers. Supervisor controls cover approvals per action, run or domain, pausing, checkpoints, named sessions and undo of the last mutating action. Skills, screenshot analysis, the credential vault, Obsidian memory and parts of the Research Desk require a paid Premium subscription. Root LICENSE is MIT.
 
 - Record JSON: https://awesomecua.com/resources/github-unmodeled-tyler-vessel-browser/record.json
 

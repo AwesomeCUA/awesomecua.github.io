@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Position survey on agentic deep research that moves from static web search to reasoning agents; the abstract stresses iterative retrieval and does not say whether covered agents browse and read pages\. An exclusion proposal is open in pull request \#4023\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Position survey on agentic deep research that moves from static web search to reasoning agents; the abstract leaves open whether covered agents browse and read pages\. An exclusion proposal is open in pull request \#4023\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

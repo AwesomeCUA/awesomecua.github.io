@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Benchmark for generating runnable multi\-route web apps from static UI screenshots, scoring whether models infer interactions; a screenshot\-to\-code task rather than agent GUI control\. An open pull request \(\#2621\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Benchmark for generating runnable multi\-route web apps from static UI screenshots, scoring whether models infer interactions; the abstract leaves open whether screenshot\-to\-code work fits GUI\-agent support\. An open pull request \(\#2621\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

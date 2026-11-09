@@ -1,6 +1,6 @@
 # AskUI
 
-Agentic test-automation platform running plain-language test cases from pixels rather than selectors on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
+Agentic test-automation platform running plain-language test cases from pixels on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
 
 - Catalog URL: https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/
 - Original source: https://www.askui.com/

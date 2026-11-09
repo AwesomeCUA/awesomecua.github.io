@@ -14,7 +14,7 @@ Web screenshot and interface data for UI research.
 
 ## Limitations
 
-The card links the WebUI project's ACM publication (DOI 10.1145/3544548.3581158) and website, not an arXiv record or a catalogued repository, so no paper or family relation is recorded.
+The card links the WebUI project's ACM publication (DOI 10.1145/3544548.3581158) and website, so no paper or family relation is recorded.
 
 - Record JSON: https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/record.json
 

@@ -700,7 +700,7 @@ Training-free protocol that turns a teacher model's offline reasoning traces int
 
 ### Limitations
 
-The annotation was reviewed against the publisher PDF and the Crossref deposit for its DOI. Experiments have not been independently reproduced. The method, In-Context Learning Guidance (ICLG), has GPT-5.1 solve tasks offline and appends only its reasoning fields, not its low-level actions, to the student prompt; the teacher is not called while the student runs. Evaluation serves the 130 MiniWoB++ tasks locally, caps each run at 5 minutes and 25 interaction steps, counts a score of at least 0.5 as solved, and reports single runs: seven of ten students improve and three lose one task. Retry and refined-prompt ablations cover three students. The paper names no code release or arXiv version.
+The annotation was reviewed against the publisher PDF and the Crossref deposit for its DOI. The method, In-Context Learning Guidance (ICLG), has GPT-5.1 solve tasks offline and appends its reasoning fields alone to the student prompt; the teacher's low-level actions stay outside that prompt, and teacher calls precede the student run. Evaluation serves the 130 MiniWoB++ tasks locally, caps each run at 5 minutes and 25 interaction steps, counts a score of at least 0.5 as solved, and reports single runs: seven of ten students improve and three lose one task. Retry and refined-prompt ablations cover three students. The paper names no code release or arXiv version.
 
 - Record JSON: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/record.json
 
@@ -814,7 +814,7 @@ WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface task
 
 ### Limitations
 
-Reviewed the complete abstract and selected v1 synthesis, training and evaluation sections. The system uses hybrid GUI/MCP/CLI interfaces. Evaluation includes benchmark subsets and model-based judgments, so reported scores are not treated as directly comparable GUI-only results.
+Reviewed the complete abstract and selected v1 synthesis, training and evaluation sections. The system uses hybrid GUI/MCP/CLI interfaces. Evaluation includes benchmark subsets and model-based judgments; comparisons depend on those settings.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26828/record.json
 
@@ -867,7 +867,7 @@ MAP annotates computer-use traces at linked operation, function/consequence, met
 
 ### Limitations
 
-Reviewed the complete abstract and selected v1 taxonomy, annotation, evaluation and limitations sections. MAP analyzes existing human/agent traces rather than deploying a new acting policy. Annotation and timing coverage depend on the source datasets; manual agreement reflects a particular labeling scheme. Behavioral findings do not establish a privacy guarantee.
+Reviewed the complete abstract and selected v1 taxonomy, annotation, evaluation and limitations sections. MAP analyzes existing human/agent traces. Annotation and timing coverage depend on the source datasets; manual agreement reflects a particular labeling scheme.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26703/record.json
 
@@ -920,7 +920,7 @@ Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point sta
 
 ### Limitations
 
-Reviewed the complete abstract and selected v1 system/evaluation sections. Main latency measurements replay recorded requests and exclude app execution; the paper also reports instrumented real tasks. These are serving-time, energy and action-fidelity results, not a claimed task-success improvement. Hardware, cooling and model configurations matter.
+Reviewed the complete abstract and selected v1 system/evaluation sections. Main latency measurements replay recorded requests and exclude app execution; the paper also reports instrumented real tasks. These are serving-time, energy and action-fidelity results. Hardware, cooling and model configurations matter.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26660/record.json
 
@@ -1079,7 +1079,7 @@ FocusGUI learns step-specific weights over screenshot, audio, video and interact
 
 ### Limitations
 
-Reviewed the complete retained abstract and selected v1 method/evaluation sections. OmniGUI uses episode-disjoint reference-action evaluation; Type Match, Exact Match and Goal Progress are not presented as independently demonstrated live task-success gains. The Android role is explicit in Appendix D.1.
+Reviewed the complete retained abstract and selected v1 method/evaluation sections. OmniGUI uses episode-disjoint reference-action evaluation with Type Match, Exact Match and Goal Progress; live task-success gains remain unestablished. The Android role is explicit in Appendix D.1.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26203/record.json
 
@@ -1132,7 +1132,7 @@ CUA-Lite unifies environment interfaces, supervised data formats and per-model h
 
 ### Limitations
 
-Reviewed the complete official abstract and selected v1 methods, training and limitations sections. WebVoyager uses offline mirrors; VM-free sandboxes are Linux-only, and reported desktop/mobile gains do not establish unseen-app transfer.
+Reviewed the complete official abstract and selected v1 methods, training and limitations sections. WebVoyager uses offline mirrors; VM-free sandboxes use Linux as their sole reported platform, and reported desktop/mobile gains cover the evaluated apps.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26071/record.json
 
@@ -1341,7 +1341,7 @@ Separates next-screen prediction from action evaluation in GUI lookahead and tra
 
 ### Limitations
 
-The matched augmentation experiment measures offline ranking; AndroidWorld task-success comparisons use differently trained evaluators and do not isolate prediction value. A separate web evaluator is trained on Mind2Web, and web results do not uniformly favor direct scoring. The main study concerns one-step selection.
+The matched augmentation experiment measures offline ranking; AndroidWorld task-success comparisons use differently trained evaluators, leaving prediction value unisolated. A separate web evaluator is trained on Mind2Web, with mixed web results for direct scoring. The main study concerns one-step selection.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-24372/record.json
 
@@ -1446,7 +1446,7 @@ MobileInject evaluates visual/textual observation injection in stateful Android 
 
 ### Limitations
 
-Reviewed the complete abstract and selected v1 construction, threat-model and evaluation sections. The attacker modifies observation surfaces, not system instructions, model parameters or the OS. State oracles are distinct from emitted-rationale diagnoses, whose labels include outcome-dependent constraints. Those diagnostics are not independent evidence of hidden-reasoning causality.
+Reviewed the complete abstract and selected v1 construction, threat-model and evaluation sections. The attacker controls observation surfaces; system instructions, model parameters and the OS remain outside attacker control. State oracles are distinct from emitted-rationale diagnoses, whose labels include outcome-dependent constraints. Those diagnostics use outcome-dependent labels; hidden-reasoning causality remains unestablished.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-23307/record.json
 
@@ -1499,7 +1499,7 @@ MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-lik
 
 ### Limitations
 
-Reviewed the complete retained abstract and selected exact-v1 threat-model, construction and evaluation sections. Execution uses a browser-based Android-like simulator, not real Android isolation or live services. The attacker controls instructions and designated carriers, not privileged simulator state/APIs or system/model/harness internals. Rates depend on release, budget and adjudication coverage. SAF labels track observable expressions and actions, not latent reasoning; unresolved episodes are excluded from rate denominators.
+Reviewed the complete retained abstract and selected exact-v1 threat-model, construction and evaluation sections. Execution uses a browser-based Android-like simulator. The attacker controls instructions and designated carriers; privileged simulator state/APIs and system/model/harness internals remain outside attacker control. Rates depend on release, budget and adjudication coverage. SAF labels track observable expressions and actions; rate denominators exclude unresolved episodes.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-23303/record.json
 
@@ -1605,7 +1605,7 @@ PersonaCUABench varies simulated user requests and clarification dialogue over f
 
 ### Limitations
 
-Reviewed the complete retained abstract and selected exact-v1 construction, evaluation and limitations sections. Main interactions and satisfaction ratings use LLM-simulated personas; human annotators validate selected outputs. The harness observes page text, with screenshots only for auditing. Results are not evidence about real demographic populations or desktop agents.
+Reviewed the complete retained abstract and selected exact-v1 construction, evaluation and limitations sections. Main interactions and satisfaction ratings use LLM-simulated personas; human annotators validate selected outputs. The harness observes page text, with screenshots only for auditing. Results concern the evaluated simulated populations and agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-22990/record.json
 
@@ -1710,7 +1710,7 @@ TAG-Nav supplies Android GUI agents with destination and route memory distilled 
 
 ### Limitations
 
-The controlled cohort has 84 tasks across six apps; the broader inventory spans 20 apps. Main results use human destination labels. DroidTask and SPA-Bench are converted to navigation-only protocols. Some comparison cells received another graph condition’s memory, with sensitivity analyses reported. Cross-family runs differ in app versions, state and denominators. A small stale-graph probe does not establish robustness.
+The controlled cohort has 84 tasks across six apps; the broader inventory spans 20 apps. Main results use human destination labels. DroidTask and SPA-Bench are converted to navigation-only protocols. Some comparison cells received another graph condition’s memory, with sensitivity analyses reported. Cross-family runs differ in app versions, state and denominators. A small stale-graph probe measures performance under its tested stale-graph conditions.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-22672/record.json
 
@@ -1762,7 +1762,7 @@ WebMix uses a scout-produced interface manual to route mixtures of source-traine
 
 ### Limitations
 
-Reviewed the complete retained abstract and selected exact-v1 method, evaluation and analysis sections. Adapter-bank and router training use source demonstrations. Domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free. No target-time gradients does not mean no target task information.
+Reviewed the complete retained abstract and selected exact-v1 method, evaluation and analysis sections. Adapter-bank and router training use source demonstrations. Domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free. Target-time domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-22539/record.json
 
@@ -2023,7 +2023,7 @@ Benchmarks agents creating editable Blender projects through shell, Python and M
 
 ### Limitations
 
-The evaluated agents use Linux shell/Python/MCP tools and can inspect viewport screenshots; graphical CUA control and Windows/macOS are future work. Each agent is run once per task, with different Codex/Claude Code harnesses across systems. Scores combine weighted rubric satisfaction and model-rated visual quality. Tool counts include unsuccessful calls and do not establish matched compute or successful actions.
+The evaluated agents use Linux shell/Python/MCP tools and can inspect viewport screenshots; graphical CUA control and Windows/macOS are future work. Each agent is run once per task, with different Codex/Claude Code harnesses across systems. Scores combine weighted rubric satisfaction and model-rated visual quality. Tool counts include unsuccessful calls; matched compute and successful-action counts remain unestablished.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-23986/record.json
 
@@ -2217,7 +2217,7 @@ Haofei Yu, Yixing Chen, Yining Zhao, Xuyan Ye, Yuxiang Liu, Zhigang Hua, Yan Xie
 
 ## Player-1: Learning to Play from Synthetic Experience
 
-Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games rather than ordinary productivity workflows.
+Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2610-20584/
 - Original source: https://arxiv.org/abs/2610.20584
@@ -2544,7 +2544,7 @@ Builds trajectory-guided visual-injection tests for web, desktop and mobile obse
 
 ### Limitations
 
-ASR measures predicted coordinates inside an annotated target or compromised generated content; actual clicks, environment changes and downstream harm are not verified. SCR additionally counts adopted adversarial intent or task/schema disruption. Clean-task and attacked-trajectory denominators differ, including 42 clean desktop tasks versus 209 adversarial desktop trajectories. Payloads and injection points are fixed, and neutral prompts change both compliance cues and instruction-priority guidance. GPT-5 judging has a 300-trajectory human-label check, with borderline disagreements. Android-style mobile dialogs do not establish an Android runtime.
+ASR measures predicted coordinates inside an annotated target or compromised generated content; actual clicks, environment changes and downstream harm remain unverified. SCR additionally counts adopted adversarial intent or task/schema disruption. Clean-task and attacked-trajectory denominators differ, including 42 clean desktop tasks versus 209 adversarial desktop trajectories. Payloads and injection points are fixed, and neutral prompts change both compliance cues and instruction-priority guidance. GPT-5 judging has a 300-trajectory human-label check, with borderline disagreements. The mobile dialogs use an Android-style interface; the runtime platform remains unspecified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-19384/record.json
 
@@ -2599,7 +2599,7 @@ Surveys multimodal memory using representation and management axes, distinguishi
 
 ### Limitations
 
-A broad literature synthesis spanning images, video, audio, GUI and embodied settings. Its GUI section compares interface-state retention, action outcomes, cross-session reuse and visual evidence, but the paper does not provide a new GUI-agent experiment. Taxonomy corpus counts and benchmark classifications are authors' annotations, not independently audited field coverage. Updating stored content alone does not establish the survey's self-evolving-policy tier; endpoint task success does not isolate memory use. Lifecycle, resource-budget and provenance recommendations are proposed evaluation directions rather than demonstrated guarantees. Platform facets stay unspecified; cited systems and releases were not independently verified.
+A broad literature synthesis spanning images, video, audio, GUI and embodied settings. Its GUI section compares interface-state retention, action outcomes, cross-session reuse and visual evidence; the paper is a literature synthesis. Taxonomy corpus counts and benchmark classifications are authors’ annotations. Updating stored content is one memory operation; the survey’s self-evolving-policy tier and memory’s contribution to endpoint task success require separate evidence. Lifecycle, resource-budget and provenance recommendations are proposed evaluation directions. Platform facets remain unspecified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-19366/record.json
 
@@ -2810,7 +2810,7 @@ Pairs factual probes with next-action choices on frozen agent traces, including 
 
 ### Limitations
 
-Adjacent diagnostic research across simulators, policies, tools, coding and an offline Mind2Web subset. Models choose among supplied admissible actions; they do not generate actions or execute a closed-loop browser policy in the reported evaluation. The paired probes measure selected visible facts, not complete understanding or internal causation. Pooled results are not a web-only leaderboard, and the paper reports coverage limits and label-sensitivity analyses. No benchmark release, code, data or weights were independently inspected.
+Adjacent diagnostic research across simulators, policies, tools, coding and an offline Mind2Web subset. Models choose among supplied admissible actions in the reported evaluation. The paired probes measure selected visible facts. Pooled results cover multiple settings, and the paper reports coverage limits and label-sensitivity analyses. No benchmark release, code, data or weights were independently inspected.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-18579/record.json
 
@@ -2917,7 +2917,7 @@ Synthesizes resettable workspaces with files, application observations and skill
 
 ### Limitations
 
-App WorkEnvs expose UI observations and interaction interfaces alongside file and tool workflows; no specific operating system or pixel-control success is established. Verifier shaping depends on deterministic-check and dependency coverage. External reference scores use differing harnesses or subsets; GDPval Elo is not comparable to percentage metrics. A successful-trace analysis subset is separate from online RL outcomes.
+App WorkEnvs expose UI observations and interaction interfaces alongside file and tool workflows; no specific operating system or pixel-control success is established. Verifier shaping depends on deterministic-check and dependency coverage. External reference scores use differing harnesses or subsets; GDPval Elo and percentage metrics use different scales. A successful-trace analysis subset is separate from online RL outcomes.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-18067/record.json
 
@@ -2958,7 +2958,7 @@ Hang He, Linting Wang, Guanming Liu, Bo Mao, Jinxiu Liu, Yiran Suo, Maosen Zhou,
 
 ## Learning How to Remember: Memory Modality Selection for GUI Agents
 
-Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step instead of fixing one memory modality for a task.
+Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2610-17928/
 - Original source: https://arxiv.org/abs/2610.17928

@@ -25,7 +25,7 @@ The official API resolves the former Droidrun Portal path to mobilerun-portal. R
 - document: not recorded
 - weights: not recorded
 
-- code review: GitHub classifies this license as NOASSERTION, but the actual program-specific notice is explicit. Do not reduce the permission to a generic unknown or silently transfer the framework MIT declaration.
+- code review: GitHub classifies this license as NOASSERTION, but the actual program-specific notice is explicit. GitHub classifies this license as NOASSERTION, while the program-specific notice states its permissions; the framework MIT declaration covers a separate component.
   Sources: https://raw.githubusercontent.com/droidrun/mobilerun-portal/HEAD/LICENSE
 
 ## Primary evidence

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract benchmarks VLMs that write procedural code to build 3D models in modeling software\. This 3D code\-generation work does not involve agents operating graphical interfaces, web pages or devices\. The other marked it borderline: Benchmarks VLM agents writing procedural code against 3D modeling software APIs; unclear whether this script\-based use of desktop software counts as application automation or plain 3D content generation\. An exclusion proposal is open in pull request \#2987\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether 3D code generation fits application automation\. One read it as outside the scope: The abstract benchmarks VLMs that write procedural code to build 3D models in modeling software\. This work generates 3D content through code; its application\-automation fit remains open\. The other marked it borderline: Benchmarks VLM agents writing procedural code against 3D modeling software APIs; unclear whether this script\-based use of desktop software counts as application automation or plain 3D content generation\. An exclusion proposal is open in pull request \#2987\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

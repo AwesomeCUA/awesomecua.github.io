@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Review of AI agent paradigms, architectures and enterprise or personal applications; the abstract does not say whether GUI, web or computer\-use agents are covered\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Review of AI agent paradigms, architectures and enterprise or personal applications; the abstract leaves open whether GUI, web or computer\-use agents are covered\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -30,7 +30,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - 120 tasks — CRAB Benchmark-v0 (paper) (reported; source: https://arxiv.org/abs/2407.01511)
 
-CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0, not every environment that can be created with the framework.
+CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0.
 
 ## License declarations
 

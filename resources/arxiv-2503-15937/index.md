@@ -1,6 +1,6 @@
 # Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment
 
-Introduces V-Droid, which verifies candidate actions in a discrete action space rather than directly generating each mobile operation.
+Introduces V-Droid, which verifies candidate actions in a discrete action space.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2503-15937/
 - Original source: https://arxiv.org/abs/2503.15937

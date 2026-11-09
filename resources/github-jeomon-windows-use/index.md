@@ -14,7 +14,7 @@ A Python agent that drives Windows applications through the UI Automation tree, 
 
 ## Limitations
 
-github.com/CursorTouch/Windows-Use now redirects to Jeomon/Windows-Use; the GitHub API resolves both names to repository 1177532603, created 2026-03-10, and the former name is recorded as a repository alias. The inspected tree contains the windows_use package (agent loop, UI Automation bindings, tools, model providers, CLI) and unit tests. The README documents pip installation, warns that the agent has no sandbox or isolation layer and states that anonymized telemetry is on unless disabled. Model providers need separate credentials; task success was not independently tested. MIT applies to the repository code only.
+github.com/CursorTouch/Windows-Use now redirects to Jeomon/Windows-Use; the GitHub API resolves both names to repository 1177532603, created 2026-03-10, and the former name is recorded as a repository alias. The inspected tree contains the windows_use package (agent loop, UI Automation bindings, tools, model providers, CLI) and unit tests. The README documents pip installation, warns that the agent has no sandbox or isolation layer and states that anonymized telemetry is on unless disabled. Model providers need separate credentials. MIT applies to the repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-jeomon-windows-use/record.json
 

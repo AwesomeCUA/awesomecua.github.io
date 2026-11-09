@@ -14,7 +14,7 @@
 
 ## Limitations
 
-Hub API at revision 2bdb9285 lists 26 BF16 safetensors shards (about 35.1B parameters) in the Qwen3_5MoeForConditionalGeneration architecture; the repository is not gated. The card is written for the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes while its prose says the Qwen 3.5 family, so base_model is unset. FP8, NVFP4 and GGUF quantizations are separate Hub repositories and are not added here. Benchmark results appear only as images and are not recorded. The card declares Apache-2.0 for the weights.
+Hub API at revision 2bdb9285 lists 26 BF16 safetensors shards (about 35.1B parameters) in the Qwen3_5MoeForConditionalGeneration architecture; access is open. The card is written for the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes while its prose says the Qwen 3.5 family, so base_model is unset. FP8, NVFP4 and GGUF quantizations are separate Hub repositories outside this record. Benchmark results appear only as images and are not recorded. The card declares Apache-2.0 for the weights.
 
 - Record JSON: https://awesomecua.com/resources/url-0c9ce9f220b2fdfd70b0/record.json
 

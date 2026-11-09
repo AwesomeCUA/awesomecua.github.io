@@ -1,6 +1,6 @@
 # Computer-use agent publishers
 
-> 19 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T11:08:26Z.
+> 19 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
 
 HTML page: https://awesomecua.com/categories/company/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -24,7 +24,7 @@ Publisher or product brand associated with Anthropic computer-use or browser aut
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-anthropic/record.json
 
@@ -57,7 +57,7 @@ Publisher or product brand associated with AskUI computer-use or browser automat
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-askui/record.json
 
@@ -90,7 +90,7 @@ Publisher or product brand associated with Browser Use computer-use or browser a
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-browser-use/record.json
 
@@ -123,7 +123,7 @@ Publisher or product brand associated with BrowserAct computer-use or browser au
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-browseract/record.json
 
@@ -156,7 +156,7 @@ Publisher or product brand associated with Browserbase computer-use or browser a
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-browserbase/record.json
 
@@ -189,7 +189,7 @@ Publisher or product brand associated with Browserless computer-use or browser a
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-browserless/record.json
 
@@ -255,7 +255,7 @@ Publisher or product brand associated with E2B computer-use or browser automatio
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-e2b/record.json
 
@@ -288,7 +288,7 @@ Publisher or product brand associated with Google computer-use or browser automa
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-google/record.json
 
@@ -321,7 +321,7 @@ Publisher or product brand associated with H computer-use or browser automation 
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-h/record.json
 
@@ -387,7 +387,7 @@ Publisher or product brand associated with Hyperbrowser computer-use or browser 
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-hyperbrowser/record.json
 
@@ -420,7 +420,7 @@ Publisher or product brand associated with Manus computer-use or browser automat
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-manus/record.json
 
@@ -453,7 +453,7 @@ Publisher or product brand associated with Microsoft computer-use or browser aut
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-microsoft/record.json
 
@@ -486,7 +486,7 @@ Publisher or product brand associated with OpenAI computer-use or browser automa
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-openai/record.json
 
@@ -519,7 +519,7 @@ Publisher or product brand associated with Simular computer-use or browser autom
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-simular/record.json
 
@@ -552,7 +552,7 @@ Publisher or product brand associated with Skyvern computer-use or browser autom
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-skyvern/record.json
 
@@ -585,7 +585,7 @@ Publisher or product brand associated with Steel computer-use or browser automat
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-steel/record.json
 
@@ -618,7 +618,7 @@ Publisher or product brand associated with TinyFish computer-use or browser auto
 
 ### Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-tinyfish/record.json
 

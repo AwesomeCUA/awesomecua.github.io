@@ -14,7 +14,7 @@ GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-s
 
 ## Limitations
 
-Reviewed the complete retained Atom abstract and selected exact-v1 full text. The Atom has incomplete clauses; its text/hash remain unchanged and this annotation uses the explicit methods. Evaluation is Android-only, with a selected real-app subset. Landing-Activity verification is not task completion. Model/catalog release is prospective in the paper.
+Reviewed the complete retained Atom abstract and selected exact-v1 full text. The Atom has incomplete clauses; its text/hash remain unchanged and this annotation uses the explicit methods. Evaluation is Android-only, with a selected real-app subset. Landing-Activity verification measures the landing activity. Model/catalog release is prospective in the paper.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-30887/record.json
 

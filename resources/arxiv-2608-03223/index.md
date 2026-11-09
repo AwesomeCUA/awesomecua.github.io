@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Proposes token\-level credit assignment from self\-distilled, skill\-conditioned scores for multi\-turn LLM agent RL; the abstract never names its three interactive benchmarks, so whether any involve web or GUI tasks is unclear\. An curation proposal is open in pull request \#2325\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Proposes token\-level credit assignment from self\-distilled, skill\-conditioned scores for multi\-turn LLM agent RL; the abstract leaves its three interactive benchmarks unnamed and leaves open whether any involve web or GUI tasks\. An curation proposal is open in pull request \#2325\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ GUI grounding set that merges Aria-UI, OmniAct, Widget Caption, UI-Vision and OS
 
 ## Limitations
 
-Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; the repository is not gated. The card names desktop, web, mobile and operating-system interfaces without naming a mobile OS. Each row keeps a source-dataset tag and the original caption; the card does not describe how the description, function and combined instruction fields were produced, and no rows were downloaded. The card asks users to cite GTA1 and the five source datasets but does not say which GTA1 checkpoint was trained on this release. No license is declared for the compilation itself.
+Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; access is open. The card names desktop, web, mobile and operating-system interfaces without naming a mobile OS. Each row keeps a source-dataset tag and the original caption; the card does not describe how the description, function and combined instruction fields were produced, and no rows were downloaded. The card asks users to cite GTA1 and the five source datasets but does not say which GTA1 checkpoint was trained on this release. No license is declared for the compilation itself.
 
 - Record JSON: https://awesomecua.com/resources/url-1001251b5a7729988118/record.json
 
@@ -29,7 +29,7 @@ Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; the repository
 
 - 70,688 examples — train split at Hub revision 0bf2eb71 (reported; source: https://huggingface.co/datasets/Salesforce/grounding_dataset/raw/0bf2eb71734353da92f137f8b26e27c2f75efcfc/README.md)
 
-The count is the card's dataset_info num_examples for the train split and was not recounted from the 75 Parquet shards. An example is one screenshot-target pair with its instructions, not a unique screen. Rows are tagged ariaui, omniact, widget_caption, ui_vision or os_altas by source.
+The count is the card's dataset_info num_examples for the train split. An example is one screenshot-target pair with its instructions. Rows are tagged ariaui, omniact, widget_caption, ui_vision or os_altas by source.
 
 ## License declarations
 

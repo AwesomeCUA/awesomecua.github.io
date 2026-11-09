@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Proposes policy languages so browsers can enforce users' cookie and data\-use preferences\. This web privacy\-governance vision has no agent that reads or operates web pages; Web agents appear only as future users\. The other marked it borderline: Vision for policy\-language cookie governance that browsers enforce on users' behalf, citing Web agents only as a future user\. Unclear whether any agent acting on web pages is involved\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether agents act on web pages in the browser\-policy vision\. One read it as outside the scope: Proposes policy languages so browsers can enforce users' cookie and data\-use preferences\. This web privacy\-governance vision has no agent that reads or operates web pages; Web agents appear only as future users\. The other marked it borderline: Vision for policy\-language cookie governance that browsers enforce on users' behalf, citing Web agents only as a future user\. Unclear whether any agent acting on web pages is involved\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

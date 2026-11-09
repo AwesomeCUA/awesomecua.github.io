@@ -14,7 +14,7 @@ Separates next-screen prediction from action evaluation in GUI lookahead and tra
 
 ## Limitations
 
-The matched augmentation experiment measures offline ranking; AndroidWorld task-success comparisons use differently trained evaluators and do not isolate prediction value. A separate web evaluator is trained on Mind2Web, and web results do not uniformly favor direct scoring. The main study concerns one-step selection.
+The matched augmentation experiment measures offline ranking; AndroidWorld task-success comparisons use differently trained evaluators, leaving prediction value unisolated. A separate web evaluator is trained on Mind2Web, with mixed web results for direct scoring. The main study concerns one-step selection.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-24372/record.json
 

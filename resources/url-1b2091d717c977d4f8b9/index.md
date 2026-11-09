@@ -14,7 +14,7 @@ Official Hub release of AMEX: Android app screenshots annotated for interactive-
 
 ## Limitations
 
-The card calls this the official dataset repository of the AMEX paper. The full release sits under AMEX/ as element_anno.zip, instruction_anno.zip and a screenshot archive split into eight 10 GiB parts plus a final zip (about 93.5 GB together); a sample/ folder holds one episode's five screenshots with its annotations. The card adds ScreenSpot mobile-subset and AndroidControl results that are not in the arXiv paper; they are publisher figures and were not reproduced. The card does not link the AMEX-codebase training-code repository, but the AMEX project page links both this dataset and that repository, which the catalog holds as the AMEX record github:yuxiangchai/amex-codebase; this release is recorded as its component. CC-BY-4.0 is the card's data declaration; that repository's Apache-2.0 code license is separate.
+The card calls this the official dataset repository of the AMEX paper. The full release sits under AMEX/ as element_anno.zip, instruction_anno.zip and a screenshot archive split into eight 10 GiB parts plus a final zip (about 93.5 GB together); a sample/ folder holds one episode's five screenshots with its annotations. The card adds publisher figures for ScreenSpot mobile-subset and AndroidControl beyond the arXiv paper. The AMEX project page links both this dataset and the AMEX-codebase training-code repository, which the catalog holds as the AMEX record github:yuxiangchai/amex-codebase; this release is recorded as its component. CC-BY-4.0 is the card's data declaration; that repository's Apache-2.0 code license is separate.
 
 - Record JSON: https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/record.json
 
@@ -31,7 +31,7 @@ The card calls this the official dataset repository of the AMEX paper. The full 
 - 3,046 instruction episodes — AMEX/instruction_anno.zip at revision 17196b29 (one JSON file per episode, unique episode_id) (computed) (computed; source: https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip)
 - 38,709 action steps — steps lists of the 3,046 instruction episodes in AMEX/instruction_anno.zip at revision 17196b29 (computed) (computed; source: https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip)
 
-Episode and step counts were computed with a script from the instruction archive; screenshots and element annotations were not downloaded, so the screenshot figure is the paper's reported scale. Each step records the action type, touch and lift coordinates, typed text, package name and screenshot path. No train/test split is published.
+Episode and step counts were computed with a script from the instruction archive; the screenshot figure is the paper's reported scale. Each step records the action type, touch and lift coordinates, typed text, package name and screenshot path. No train/test split is published.
 
 ## License declarations
 

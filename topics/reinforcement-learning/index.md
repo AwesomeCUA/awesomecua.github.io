@@ -43,7 +43,7 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
 - [Co-Evolving Acting and Forecasting for Language Agents](https://awesomecua.com/resources/arxiv-2610-20597/) — 2026-10-14
   Introduces CoPE, which trains language agents to forecast later actions from earlier histories during RL; WebShop is one of five evaluation benchmarks.
 - [Player-1: Learning to Play from Synthetic Experience](https://awesomecua.com/resources/arxiv-2610-20584/) — 2026-10-14
-  Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games rather than ordinary productivity workflows.
+  Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games.
 - [GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning](https://awesomecua.com/resources/arxiv-2610-19100/) — 2026-10-13
   Introduces ScreenRef screenshot grounding data and a training sequence from supervised learning through teacher-guided distillation to reinforcement learning for GroundGUI-8B.
 - [WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution](https://awesomecua.com/resources/arxiv-2610-18067/) — 2026-10-13
@@ -121,7 +121,7 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
 - [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2608-05891/) — 2026-08-06
   AppDeltaWorld predicts executable code updates for the next mobile UI state, using transition-constrained retrieval and rendered visual assets. It evaluates reconstruction fidelity separately from policy training and adaptation using generated environments.
 - [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](https://awesomecua.com/resources/arxiv-2608-03327/) — 2026-08-04
-  This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing why changed action preferences alone need not improve held-out accuracy.
+  This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing that changed action preferences can coexist with unchanged held-out accuracy.
 - [Qwen-CUA: Native Computer Use for (almost) Everything](https://awesomecua.com/resources/arxiv-2608-02352/) — 2026-08-03
   Qwen-CUA operates through screenshots and keyboard/mouse events while compressing older visual history into reusable context blocks. Its report combines verifiable task generation, trajectory-based training and separate browser and Bash-augmented studies.
 - [RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS for Web Agent Reinforcement Learning](https://awesomecua.com/resources/arxiv-2608-00335/) — 2026-07-31
@@ -616,7 +616,7 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
 - [GUI-Libra 8B](https://awesomecua.com/resources/url-6694391b0cf50389d2e9/) — Date not recorded
   GUI-Libra checkpoint fine-tuned from Qwen3-VL-8B-Instruct (about 8.77B BF16 parameters) that turns a screenshot, task and action history into a <thinking> reasoning block and a JSON action with point_2d coordinates.
 - [GUI-Owl 7B Desktop-RL](https://awesomecua.com/resources/url-b01a78c76299196e3df1/) — Date not recorded
-  GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements rather than for production.
+  GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements, with production use outside its stated purpose.
 - [GUI-R1](https://awesomecua.com/resources/github-ritzz-ai-gui-r1/) — Date not recorded
   GUI action-model training and evaluation code with verifiable rewards, plus linked reinforcement-learning data and checkpoints.
 - [GUI-R1 checkpoint bundle](https://awesomecua.com/resources/url-61a5321db10fc8a312b9/) — Date not recorded

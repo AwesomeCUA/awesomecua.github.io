@@ -14,7 +14,7 @@ Windows tray utility that records primary-display screenshots, keyboard key code
 
 ## Limitations
 
-Recording is started and stopped from the tray; screenshots use a five-second timer. The manual Upload Data action uses a built-in third-party demonstration endpoint unless changed in code, sending recorded files as base64 JSON. Successful uploads move files into uploaded subfolders rather than delete them; no automatic expiry policy was found in the inspected capture/upload path. Sensitive-application filters are listed as future work. The README's .NET version requirements are inconsistent, and long-session behavior was not established. No license declaration was found in the inspected files or complete tree's license-file names, so code permission remains unknown. No activity was captured and no uploader or executable was run.
+Recording is started and stopped from the tray; screenshots use a five-second timer. The manual Upload Data action uses a built-in third-party demonstration endpoint unless changed in code, sending recorded files as base64 JSON. Successful uploads move files into uploaded subfolders; the inspected capture/upload path leaves file expiry unspecified. Sensitive-application filters are listed as future work. The README gives inconsistent .NET version requirements; long-session behavior remains unverified. No license declaration was found in the inspected files or complete tree's license-file names, so code permission remains unknown. No activity was captured and no uploader or executable was run.
 
 - Record JSON: https://awesomecua.com/resources/github-anikasomaia-local-activity-recorder/record.json
 
@@ -25,7 +25,7 @@ Recording is started and stopped from the tray; screenshots use a five-second ti
 - document: not recorded
 - weights: not recorded
 
-- code review: No license declaration was found in the inspected README/C# files, and the complete pinned tree has no LICENSE, LICENCE or COPYING-named file. Public source access does not establish reuse permission.
+- code review: No license declaration was found in the inspected README/C# files, and the complete pinned tree has no LICENSE, LICENCE or COPYING-named file. Reuse permission remains unestablished for the public source.
   Sources: https://api.github.com/repos/anikasomaia/local-activity-recorder/git/trees/f7ec5b6ecf0ba1bfe6362d7f2bfb0f1af5ac6bc7?recursive=1
 
 ## Primary evidence

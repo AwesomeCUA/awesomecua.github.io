@@ -14,7 +14,7 @@ Gated OS-Genesis web release holding one JSONL file of reverse-task-synthesis tr
 
 ## Limitations
 
-Access is auto-gated, so the card body was not read; the Hub API reports MIT in the card metadata for this data release. The manifest at revision 0080190f holds os_genesis_web_training.jsonl and os_genesis_web_screenshots.zip; no record count is asserted. The raw web triples the README links on Google Drive and the separate mobile data release are not part of this asset.
+Access is auto-gated; the Hub API reports MIT in the card metadata for this data release. The manifest at revision 0080190f holds os_genesis_web_training.jsonl and os_genesis_web_screenshots.zip; no record count is asserted. The raw web triples linked by the README on Google Drive and the separate mobile data release are separate assets outside this record.
 
 - Record JSON: https://awesomecua.com/resources/url-31768421b4ecd1ad89f7/record.json
 

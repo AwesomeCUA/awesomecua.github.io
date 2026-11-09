@@ -29,7 +29,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-The repository links distinct AndroidControl-oriented, AndroidWorld-oriented, and web training files plus raw pre-state/action/post-state triples. These are training artifacts, not a documented train/test split, and related representations are not disjoint corpus totals. No numerical inventory is asserted from release names or linked archives.
+The repository links distinct AndroidControl-oriented, AndroidWorld-oriented, and web training files plus raw pre-state/action/post-state triples. These are training artifacts with related representations of the same corpus; the release documents no train/test split. No numerical inventory is asserted from release names or linked archives.
 
 ## License declarations
 

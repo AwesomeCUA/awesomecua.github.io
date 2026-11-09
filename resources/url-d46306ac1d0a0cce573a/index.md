@@ -1,6 +1,6 @@
 # GTA1 cleaned grounding dataset
 
-Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box does not match an OmniParser-detected element.
+Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box and an OmniParser-detected element differ.
 
 - Catalog URL: https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/
 - Original source: https://huggingface.co/datasets/HelloKKMe/grounding_dataset
@@ -14,7 +14,7 @@ Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly 
 
 ## Limitations
 
-Hub revision 5c0836a5 lists the card, inp.json and ten split image archive parts (image.part.aa to image.part.aj); the repository is not gated and has no card metadata. The card describes desktop and web grounding sources and names no paper; the GTA1 repository README links this repository as GTA1's training data and cleaned dataset, which supports the paper relation. Salesforce later published a separate grounding release with a different field schema and more source datasets; this record covers only this upload. The license comes from the GTA1 README, not the card.
+Hub revision 5c0836a5 lists the card, inp.json and ten split image archive parts (image.part.aa to image.part.aj); the repository is not gated and has no card metadata. The card describes desktop and web grounding sources and names no paper; the GTA1 repository README links this repository as GTA1's training data and cleaned dataset, which supports the paper relation. Salesforce later published a separate grounding release with a different field schema and more source datasets; this record covers only this upload. The license comes from the GTA1 README.
 
 - Record JSON: https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/record.json
 

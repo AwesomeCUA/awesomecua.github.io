@@ -33,7 +33,7 @@ Sparks Solutions publishes one ungated test split of 22 Parquet shards at revisi
 - 2,269 annotations — Test Action rows in the test split, from the Hub dataset viewer's column statistics (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test)
 - 1,939 annotations — Expected Result rows in the test split (1,375 passed, 564 failed), from the Hub dataset viewer's column statistics (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test)
 
-Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows). The 2.5 GB of Parquet shards were not downloaded.
+Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows).
 
 ## License declarations
 

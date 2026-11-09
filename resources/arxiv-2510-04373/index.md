@@ -1,6 +1,6 @@
 # JEF-Hinter: Leveraging Offline Knowledge for Improving Web Agents Adaptation
 
-Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps rather than full demonstration replay.
+Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2510-04373/
 - Original source: https://arxiv.org/abs/2510.04373

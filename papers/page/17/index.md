@@ -1064,7 +1064,7 @@ Introduces CORE, which divides mobile UI hierarchies into semantic blocks and sh
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. XML screen hierarchies do not by themselves establish Android deployment.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. XML screen hierarchies appear in the abstract; Android deployment remains unspecified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-15455/record.json
 
@@ -1428,7 +1428,7 @@ Introduces Hi-Agent, jointly training a high-level reasoning model and a low-lev
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. This Hi-Agent has a distinct author team and method from the earlier HiAgent working-memory paper; the shared project-name prefix is not treated as an identity match.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. This Hi-Agent has a distinct author team and method from the earlier HiAgent working-memory paper.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-14388/record.json
 
@@ -2260,7 +2260,7 @@ Guides UI agents with symbolic planning over a UI transition graph initialized f
 
 ### Limitations
 
-Planning guarantees are relative to the modeled graph and selected target. They do not establish complete graphs, correct grounding or faithful goal translation. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 UI Automation to Classical Planning; 4.1 UTG Builder; 4.2 Node Selector; 4.3 Plan Generator; 4.4 UI Explorer; 5.1 Datasets).
+Planning guarantees are relative to the modeled graph and selected target. Planning guarantees are relative to the modeled graph and selected target; graph completeness, grounding correctness and goal translation remain unestablished. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 UI Automation to Classical Planning; 4.1 UTG Builder; 4.2 Node Selector; 4.3 Plan Generator; 4.4 UI Explorer; 5.1 Datasets).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-06042/record.json
 
@@ -2559,7 +2559,7 @@ Jenny T. Liang, Titus Barik, Jeffrey Nichols, Eldon Schoop, Ruijia Cheng
 
 ## JEF-Hinter: Leveraging Offline Knowledge for Improving Web Agents Adaptation
 
-Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps rather than full demonstration replay.
+Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2510-04373/
 - Original source: https://arxiv.org/abs/2510.04373

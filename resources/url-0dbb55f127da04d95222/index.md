@@ -31,7 +31,7 @@ Train, validation and test Parquet files are publicly listed. The compilation li
 - 7,944 rows — validation split (reported; source: https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md)
 - 7,938 rows — test split (reported; source: https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md)
 
-Card-reported row counts are not unique-screen counts. The source field is important for the per-image license terms; the compilation does not relicense original images.
+Card-reported row counts and unique-screen counts are different units. The source field is important for the per-image license terms; the compilation does not relicense original images.
 
 ## License declarations
 

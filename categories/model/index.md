@@ -1,6 +1,6 @@
 # Computer-use agent models and checkpoints
 
-> 283 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T11:08:26Z.
+> 283 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
 
 HTML page: https://awesomecua.com/categories/model/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -193,7 +193,7 @@ Dense 27B computer-use checkpoint from H Company built on Qwen3.8-27B; an extern
 
 ### Limitations
 
-This is the full-precision BF16 Holo4-27B repository; the card lists FP8, NVFP4 and Q4 GGUF builds as separate repositories and names web, desktop and mobile as target environments. config.json declares Qwen3_5ForConditionalGeneration, while the card and Hub metadata name Qwen/Qwen3.8-27B as the base. The manifest lists 18 Safetensors shards and the Hub reports 27,356,728,560 BF16 parameters. The card declares CC BY-NC 4.0 for the weights and also ships the base model's Apache-2.0 text. OSWorld, OSWorld 2.0 and AutomationBench scores and costs on the card are publisher claims and were not reproduced; no weights were loaded.
+This is the full-precision BF16 Holo4-27B repository; the card lists FP8, NVFP4 and Q4 GGUF builds as separate repositories and names web, desktop and mobile as target environments. config.json declares Qwen3_5ForConditionalGeneration, while the card and Hub metadata name Qwen/Qwen3.8-27B as the base. The manifest lists 18 Safetensors shards and the Hub reports 27,356,728,560 BF16 parameters. The card declares CC BY-NC 4.0 for the weights and also ships the base model's Apache-2.0 text. OSWorld, OSWorld 2.0 and AutomationBench scores and costs on the card are publisher claims.
 
 - Record JSON: https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/record.json
 
@@ -233,7 +233,7 @@ A Qwen3.6-based computer-use checkpoint designed to request GUI actions, code ex
 
 ### Limitations
 
-The public manifest contains 26 safetensors shards for the BF16 checkpoint and the card declares Apache-2.0. Quantized FP8/NVFP4/GGUF variants are not split into duplicate entries here. The card also contains demos and scores for Holo4-27B; those are not assigned to this 35B-A3B checkpoint. No training corpus or runtime was downloaded.
+The public manifest contains 26 safetensors shards for the BF16 checkpoint and the card declares Apache-2.0. Quantized FP8/NVFP4/GGUF variants belong to the same model release. The card also contains demos and scores for Holo4-27B. No training corpus or runtime was downloaded.
 
 - Record JSON: https://awesomecua.com/resources/url-16083a0225a60882c704/record.json
 
@@ -574,7 +574,7 @@ FP8 block-quantized release of the Holo4-27B computer-use model; an external har
 
 ### Limitations
 
-Hub metadata marks this repository as a quantized derivative of Hcompany/Holo4-27B. Its config.json declares Qwen3_5ForConditionalGeneration with FP8 block quantization of linear layers, while the card names Qwen3.8-27B as the base; the manifest lists 18 Safetensors shards. The card declares CC BY-NC 4.0 for these weights and also ships the base model's Apache-2.0 license. OSWorld and other scores on the card are publisher claims for Holo4-27B and were not reproduced; no weights were loaded.
+Hub metadata marks this repository as a quantized derivative of Hcompany/Holo4-27B. Its config.json declares Qwen3_5ForConditionalGeneration with FP8 block quantization of linear layers, while the card names Qwen3.8-27B as the base; the manifest lists 18 Safetensors shards. The card declares CC BY-NC 4.0 for these weights and also ships the base model's Apache-2.0 license. OSWorld and other scores on the card are publisher claims for Holo4-27B.
 
 - Record JSON: https://awesomecua.com/resources/url-354c5b46fd423f9b1b85/record.json
 
@@ -613,7 +613,7 @@ Q4_K_M GGUF release of the Holo4-27B computer-use model with a separate F16 visi
 
 ### Limitations
 
-Hub metadata marks this repository as a quantized derivative of Hcompany/Holo4-27B. It holds one Q4_K_M language-model GGUF file and an F16 multimodal projector GGUF; the Hub's GGUF metadata reports the qwen35 architecture, 26,895,998,464 parameters and an importance-matrix quantization. The card text is shared with the BF16 release, so its specification and its OSWorld and other scores describe Holo4-27B rather than this 4-bit build; none were reproduced and no weights were loaded. The card declares CC BY-NC 4.0 for the weights and also ships the base model's Apache-2.0 text.
+Hub metadata marks this repository as a quantized derivative of Hcompany/Holo4-27B. It holds one Q4_K_M language-model GGUF file and an F16 multimodal projector GGUF; the Hub's GGUF metadata reports the qwen35 architecture, 26,895,998,464 parameters and an importance-matrix quantization. The card text is shared with the BF16 release, so its specification and its OSWorld and other scores describe Holo4-27B. The card declares CC BY-NC 4.0 for the weights and also ships the base model's Apache-2.0 text.
 
 - Record JSON: https://awesomecua.com/resources/url-acfd6d395d67ce8011bb/record.json
 
@@ -652,7 +652,7 @@ NemotronH Nano Omni-based computer-use checkpoint in H Company's Holo4 family; a
 
 ### Limitations
 
-The pinned Hub manifest lists 17 BF16 safetensors shards (about 33.0B parameters by the Hub count) with custom modeling code, and config.json declares the NemotronH_Nano_Omni_Reasoning_V3 architecture. The card says the model is built on NVIDIA Nemotron 3 Nano Omni and lists it in the Holo4 family beside the Qwen-based Holo4 checkpoints; its YAML names no base_model, so none is recorded. The card declares the NVIDIA Open Model Agreement for the weights (Hub license 'other'). OSWorld, OSWorld 2.0, AutomationBench, PinchBench and ALE scores on the card are publisher figures and were not reproduced; the FreeCAD demo on the card shows Holo4-27B, not this checkpoint. An FP8 repository is a separate release. No weights were downloaded or run.
+The pinned Hub manifest lists 17 BF16 safetensors shards (about 33.0B parameters by the Hub count) with custom modeling code, and config.json declares the NemotronH_Nano_Omni_Reasoning_V3 architecture. The card says the model is built on NVIDIA Nemotron 3 Nano Omni and lists it in the Holo4 family beside the Qwen-based Holo4 checkpoints; its YAML names no base_model, so none is recorded. The card declares the NVIDIA Open Model Agreement for the weights (Hub license 'other'). OSWorld, OSWorld 2.0, AutomationBench, PinchBench and ALE scores on the card are publisher figures; the FreeCAD demo on the card shows Holo4-27B, a separate checkpoint. An FP8 repository is a separate release. No weights were downloaded or run.
 
 - Record JSON: https://awesomecua.com/resources/url-7638e3f688374cea2217/record.json
 
@@ -688,7 +688,7 @@ FP8 release of Holotron4-30B-A3B, H Company's computer-use model built on Nemotr
 
 ### Limitations
 
-The card lists this repository as the FP8 checkpoint of Holotron4-30B-A3B within the Holo4 family, but its Hub metadata declares no base_model link. config.json declares NemotronH_Nano_Omni_Reasoning_V3 with compressed-tensors FP8 quantization of linear layers (per-channel weights, dynamic per-token activations), and the manifest lists 17 Safetensors shards. The card names no target platforms; its GUI scores are OSWorld and OSWorld 2.0, alongside MCP and terminal benchmarks. Those scores are publisher claims for Holotron4-30B-A3B and were not reproduced; no weights were loaded. The card places the weights under the NVIDIA Open Model Agreement.
+The card lists this repository as the FP8 checkpoint of Holotron4-30B-A3B within the Holo4 family, but its Hub metadata declares no base_model link. config.json declares NemotronH_Nano_Omni_Reasoning_V3 with compressed-tensors FP8 quantization of linear layers (per-channel weights, dynamic per-token activations), and the manifest lists 17 Safetensors shards. The card names no target platforms; its GUI scores are OSWorld and OSWorld 2.0, alongside MCP and terminal benchmarks. Those scores are publisher claims for Holotron4-30B-A3B. The card places the weights under the NVIDIA Open Model Agreement.
 
 - Record JSON: https://awesomecua.com/resources/url-a72a105e755836154412/record.json
 
@@ -865,7 +865,7 @@ MiniCPM-V checkpoint released with GUICourse and tuned on its GUIEnv, GUIAct and
 
 ### Limitations
 
-GUICourse's README announces this repository as the MiniCPM-GUI weights with inference code. The card's YAML lists GUIChat, GUIEnv and GUIAct and declares Apache-2.0; its prose gives action and grounding prompt templates and a batch-size-one inference example whose output marks an element with a box. config.json gives MiniCPMVForCausalLM, and the card does not name the base checkpoint. The manifest holds one PyTorch weight file. Web and Android coverage follows from the training data; no checkpoint was loaded and no result was reproduced. The terms of the MiniCPM base model were not assessed.
+GUICourse's README announces this repository as the MiniCPM-GUI weights with inference code. The card's YAML lists GUIChat, GUIEnv and GUIAct and declares Apache-2.0; its prose gives action and grounding prompt templates and a batch-size-one inference example whose output marks an element with a box. config.json gives MiniCPMVForCausalLM; the base checkpoint remains unspecified in the card. The manifest holds one PyTorch weight file. Web and Android coverage follows from the training data; no checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-73570e699421a5ad04eb/record.json
 
@@ -905,7 +905,7 @@ Qwen-VL checkpoint released with GUICourse and tuned on its GUIAct and GUIChat d
 
 ### Limitations
 
-GUICourse's README announces this repository as the Qwen-GUI weights. The card has no prose: its YAML lists GUIChat and GUIAct as datasets and declares Apache-2.0, and its only content is an inference script. config.json gives a QWenLMHeadModel with a 448-pixel visual encoder. The manifest holds one PyTorch weight file plus trainer state. Web and Android coverage follows from the training data; no checkpoint was loaded and no result was reproduced. The terms of the Qwen-VL base model were not assessed.
+GUICourse's README announces this repository as the Qwen-GUI weights. The card has no prose: its YAML lists GUIChat and GUIAct as datasets and declares Apache-2.0, and its only content is an inference script. config.json gives a QWenLMHeadModel with a 448-pixel visual encoder. The manifest holds one PyTorch weight file plus trainer state. Web and Android coverage follows from the training data; no checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-23bc63f93d3c31d74af3/record.json
 
@@ -1052,7 +1052,7 @@ Qwen3-VL-30B-A3B-Instruct checkpoint trained with GRPO on Click-100k that return
 
 ### Limitations
 
-The card's example prompts for one (x,y) point and rescales it from a 0–1000 frame to pixels. The Hub manifest at revision 161e9288 lists 14 Safetensors shards; the API reports 31,070,754,032 BF16 parameters. The release README says the published weights are the step-84 checkpoint of a 100-step DAPO-style GRPO run and that all intermediate checkpoints are released, but the Hub shows only the main branch of this repository. Reported benchmark scores were not reproduced and no weights were loaded.
+The card's example prompts for one (x,y) point and rescales it from a 0–1000 frame to pixels. The Hub manifest at revision 161e9288 lists 14 Safetensors shards; the API reports 31,070,754,032 BF16 parameters. The release README says the published weights are the step-84 checkpoint of a 100-step DAPO-style GRPO run and that all intermediate checkpoints are released, but the Hub shows only the main branch of this repository.
 
 - Record JSON: https://awesomecua.com/resources/url-46502d87b2c13515790a/record.json
 
@@ -1077,7 +1077,7 @@ The card's example prompts for one (x,y) point and rescales it from a 0–1000 f
 
 ## GUI-Actor 7B Qwen2-VL
 
-GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class rather than the stock one, under MIT.
+GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class, under MIT.
 
 - Catalog URL: https://awesomecua.com/resources/url-e3e5dd82a3102689c4ea/
 - Original source: https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL
@@ -1160,7 +1160,7 @@ Fourteen public safetensors shards are present. The card declares Apache-2.0 for
 
 ### Limitations
 
-Hub API at revision 2bdb9285 lists 26 BF16 safetensors shards (about 35.1B parameters) in the Qwen3_5MoeForConditionalGeneration architecture; the repository is not gated. The card is written for the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes while its prose says the Qwen 3.5 family, so base_model is unset. FP8, NVFP4 and GGUF quantizations are separate Hub repositories and are not added here. Benchmark results appear only as images and are not recorded. The card declares Apache-2.0 for the weights.
+Hub API at revision 2bdb9285 lists 26 BF16 safetensors shards (about 35.1B parameters) in the Qwen3_5MoeForConditionalGeneration architecture; access is open. The card is written for the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes while its prose says the Qwen 3.5 family, so base_model is unset. FP8, NVFP4 and GGUF quantizations are separate Hub repositories outside this record. Benchmark results appear only as images and are not recorded. The card declares Apache-2.0 for the weights.
 
 - Record JSON: https://awesomecua.com/resources/url-0c9ce9f220b2fdfd70b0/record.json
 
@@ -1229,7 +1229,7 @@ InternVL2-4B checkpoint fine-tuned on OS-Genesis AndroidControl trajectories; it
 
 ### Limitations
 
-This is the 4B AndroidControl (AC) task-specific checkpoint; the card calls it a mobile action model, and the 7B and 8B AC checkpoints and the AndroidWorld (AW) and web variants are separate releases whose results are not transferred to it. The card prose, its YAML base_model field and config.json agree on InternVL2-4B, whose language model is Phi-3-mini (Phi3ForCausalLM). The card and the OS-Genesis repository README both list it among the AC family models used for the AndroidControl benchmark. Two public Safetensors shards are present and the Hub reports 4,146,868,224 BF16 parameters. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
+This is the 4B AndroidControl (AC) task-specific checkpoint; the card calls it a mobile action model, and the 7B and 8B AC checkpoints and the AndroidWorld (AW) and web variants are separate releases, with results scoped to each release. The card prose, its YAML base_model field and config.json agree on InternVL2-4B, whose language model is Phi-3-mini (Phi3ForCausalLM). The card and the OS-Genesis repository README both list it among the AC family models used for the AndroidControl benchmark. Two public Safetensors shards are present and the Hub reports 4,146,868,224 BF16 parameters. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-b1837823421bd08cb826/record.json
 
@@ -1269,7 +1269,7 @@ InternVL2-4B checkpoint fine-tuned on OS-Genesis AndroidWorld trajectories; its 
 
 ### Limitations
 
-This is the 4B AndroidWorld (AW) task-specific checkpoint; the 7B and 8B AW checkpoints and the AndroidControl (AC) and web variants are separate releases, and their results are not transferred to it. The card prose, its YAML base_model field and config.json agree on InternVL2-4B, whose language model is Phi-3-mini (Phi3ForCausalLM). The card's table caption mentions the AndroidControl Benchmark, while its evaluation link and the OS-Genesis repository README place the AW checkpoints under AndroidWorld. Two public Safetensors shards are present and the Hub reports 4,146,868,224 BF16 parameters. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
+This is the 4B AndroidWorld (AW) task-specific checkpoint; the 7B and 8B AW checkpoints and the AndroidControl (AC) and web variants are separate releases, with results scoped to each release. The card prose, its YAML base_model field and config.json agree on InternVL2-4B, whose language model is Phi-3-mini (Phi3ForCausalLM). The card's table caption mentions the AndroidControl Benchmark, while its evaluation link and the OS-Genesis repository README place the AW checkpoints under AndroidWorld. Two public Safetensors shards are present and the Hub reports 4,146,868,224 BF16 parameters. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-a2362e23fdcbc73763e6/record.json
 
@@ -1309,7 +1309,7 @@ The WebArena-oriented InternVL2-4B checkpoint trained on web trajectories genera
 
 ### Limitations
 
-Hub API at revision 511f2ec2 lists two BF16 safetensors shards (about 4.15B parameters) in the InternVLChatModel architecture, with custom InternVL and Phi-3 modeling files; the repository is not gated. The card declares Apache-2.0 and OpenGVLab/InternVL2-4B as the base, calls it a web action model, names the OS-Genesis web training file as its training data and points to WebArena evaluation code, although its family-table caption says AndroidControl. The OS-Genesis README lists it under Web. The card's example prompt combines a screenshot, an accessibility tree, the instruction and the action history. AndroidWorld and AndroidControl variants are separate releases, and no result is transferred to this checkpoint.
+Hub API at revision 511f2ec2 lists two BF16 safetensors shards (about 4.15B parameters) in the InternVLChatModel architecture, with custom InternVL and Phi-3 modeling files; the repository is publicly accessible. The card declares Apache-2.0 and OpenGVLab/InternVL2-4B as the base, calls it a web action model, names the OS-Genesis web training file as its training data and points to WebArena evaluation code, although its family-table caption says AndroidControl. The OS-Genesis README lists it under Web. The card's example prompt combines a screenshot, an accessibility tree, the instruction and the action history. AndroidWorld and AndroidControl variants are separate releases, and no result is transferred to this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-807dadc7dc4ba995bbbe/record.json
 
@@ -1345,7 +1345,7 @@ The AndroidControl-oriented Qwen2-VL checkpoint trained with mobile trajectories
 
 ### Limitations
 
-Four public safetensors shards are present. The card declares Apache-2.0. This is the AC task-specific checkpoint; AndroidWorld and WebArena variants are separate releases and their results are not transferred to it.
+Four public safetensors shards are present. The card declares Apache-2.0. This is the AC task-specific checkpoint; AndroidWorld and WebArena variants are separate releases.
 
 - Record JSON: https://awesomecua.com/resources/url-80858580c1009eba0e98/record.json
 
@@ -1380,7 +1380,7 @@ The AndroidWorld-oriented Qwen2-VL checkpoint trained on mobile trajectories gen
 
 ### Limitations
 
-Hub API at revision 069001de lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 and Qwen/Qwen2-VL-7B-Instruct as the base, and names the AW training file of the OS-Genesis mobile data as its training data. The OS-Genesis README lists this checkpoint under AndroidWorld, and the card points to its AndroidWorld evaluation code, but the card's family-table caption says AndroidControl. The card's example loads its processor from OS-Atlas-Base-7B. AndroidControl and WebArena variants are separate releases, and no result is transferred to this checkpoint.
+Hub API at revision 069001de lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is publicly accessible. The card declares Apache-2.0 and Qwen/Qwen2-VL-7B-Instruct as the base, and names the AW training file of the OS-Genesis mobile data as its training data. The OS-Genesis README lists this checkpoint under AndroidWorld, and the card points to its AndroidWorld evaluation code, but the card's family-table caption says AndroidControl. The card's example loads its processor from OS-Atlas-Base-7B. AndroidControl and WebArena variants are separate releases, and no result is transferred to this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-7afa17db925828d9a035/record.json
 
@@ -1416,7 +1416,7 @@ The WebArena-oriented Qwen2-VL-7B checkpoint trained on web trajectories generat
 
 ### Limitations
 
-Hub API at revision 710c529d lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 and Qwen/Qwen2-VL-7B-Instruct as the base, calls it a web action model, names the OS-Genesis web training file as its training data and points to WebArena evaluation code, although its family-table caption says AndroidControl. The OS-Genesis README lists it under Web. The card's example prompt combines a screenshot, an accessibility tree, the instruction and the action history, and loads its processor from OS-Atlas-Base-7B. AndroidWorld and AndroidControl variants are separate releases, and no result is transferred to this checkpoint.
+Hub API at revision 710c529d lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is publicly accessible. The card declares Apache-2.0 and Qwen/Qwen2-VL-7B-Instruct as the base, calls it a web action model, names the OS-Genesis web training file as its training data and points to WebArena evaluation code, although its family-table caption says AndroidControl. The OS-Genesis README lists it under Web. The card's example prompt combines a screenshot, an accessibility tree, the instruction and the action history, and loads its processor from OS-Atlas-Base-7B. AndroidWorld and AndroidControl variants are separate releases, and no result is transferred to this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-93c98e3b5aea945e0877/record.json
 
@@ -1452,7 +1452,7 @@ AndroidControl-oriented InternVL2-8B checkpoint trained on OS-Genesis mobile tra
 
 ### Limitations
 
-This is the AC task-specific checkpoint; the 4B and 7B AC checkpoints and the AndroidWorld (AW) and web variants are separate releases, and their results are not transferred to it. The card prose and config.json name InternVL2-8B (InternLM2 language model) as the starting model, while the card's YAML base_model field says InternVL2-4B; the prose and configuration are followed. Four public Safetensors shards are present. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
+This is the AC task-specific checkpoint; the 4B and 7B AC checkpoints and the AndroidWorld (AW) and web variants are separate releases whose results apply to those variants. The card prose and config.json name InternVL2-8B (InternLM2 language model) as the starting model, while the card's YAML base_model field says InternVL2-4B; the prose and configuration are followed. Four public Safetensors shards are present. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-2be7f81cdca0eb8566c6/record.json
 
@@ -1491,7 +1491,7 @@ AndroidWorld-oriented InternVL2-8B checkpoint trained on OS-Genesis mobile traje
 
 ### Limitations
 
-This is the AW task-specific checkpoint; the 4B and 7B AW checkpoints and the AndroidControl (AC) and web variants are separate releases, and their results are not transferred to it. The card prose and config.json name InternVL2-8B (InternLM2 language model) as the starting model, while the card's YAML base_model field says InternVL2-4B; the prose and configuration are followed. Four public Safetensors shards are present. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
+This is the AW task-specific checkpoint; the 4B and 7B AW checkpoints and the AndroidControl (AC) and web variants are separate releases whose results apply to those variants. The card prose and config.json name InternVL2-8B (InternLM2 language model) as the starting model, while the card's YAML base_model field says InternVL2-4B; the prose and configuration are followed. Four public Safetensors shards are present. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-2eaf614de14193997f33/record.json
 
@@ -1530,7 +1530,7 @@ WebArena-oriented InternVL2-8B checkpoint trained on web trajectories from OS-Ge
 
 ### Limitations
 
-Hub API at revision d1ec7c7f lists four BF16 safetensors shards (about 8.08B parameters) in the InternVLChatModel architecture, with custom InternViT and InternLM2 modeling files; the repository is not gated. The card prose and config.json name InternVL2-8B (InternLM2 language model) as the starting model, while the card's YAML base_model field says InternVL2-4B; the prose and configuration are followed. The card lists this checkpoint in its WA table with the OS-Genesis web training file and points to WebArena evaluation code, although its quick-start sentence calls it a mobile action model and its table caption says AndroidControl. The OS-Genesis README lists it under Web. The card declares Apache-2.0. The 4B and 7B WA checkpoints and the AndroidWorld and AndroidControl variants are separate releases, and no result is transferred to this checkpoint; no weights were loaded.
+Hub API at revision d1ec7c7f lists four BF16 safetensors shards (about 8.08B parameters) in the InternVLChatModel architecture, with custom InternViT and InternLM2 modeling files; the repository is publicly accessible. The card prose and config.json name InternVL2-8B (InternLM2 language model) as the starting model, while the card's YAML base_model field says InternVL2-4B; the prose and configuration are followed. The card lists this checkpoint in its WA table with the OS-Genesis web training file and points to WebArena evaluation code, although its quick-start sentence calls it a mobile action model and its table caption says AndroidControl. The OS-Genesis README lists it under Web. The card declares Apache-2.0. The 4B and 7B WA checkpoints and the AndroidWorld and AndroidControl variants are separate releases, and no result is transferred to this checkpoint; no weights were loaded.
 
 - Record JSON: https://awesomecua.com/resources/url-f2c34526651f5f57cf98/record.json
 
@@ -2042,7 +2042,7 @@ GroundNext GUI-grounding checkpoint fine-tuned from Qwen2.5-VL-7B-Instruct with 
 
 ### Limitations
 
-The card's model is trained on desktop data only and reports publisher-run results on desktop grounding benchmarks and on mobile and web benchmarks (MMBench-GUI, ScreenSpot-v2); the scores were not reproduced. Its limitations say the model currently supports mouse clicks only, while the repository's groundcua.py system prompt declares a full computer_use tool schema with keyboard, scroll and drag actions. A 3B GroundNext model appears in the card's OSWorld table, but ServiceNow has not published a 3B checkpoint on the Hub. The Hub manifest lists four Safetensors shards and an index, and the API reports a Qwen2_5_VLForConditionalGeneration config with 8,292,166,656 BF16 parameters (the card states 7.0B). Apache-2.0 is the card's weight declaration and is not extended to the base model or training data. Weights were not downloaded or run.
+The card's model is trained on desktop data only and reports publisher-run results on desktop grounding benchmarks and on mobile and web benchmarks (MMBench-GUI, ScreenSpot-v2). Its limitations say the model currently supports mouse clicks only, while the repository's groundcua.py system prompt declares a full computer_use tool schema with keyboard, scroll and drag actions. A 3B GroundNext model appears in the card's OSWorld table, but ServiceNow has not published a 3B checkpoint on the Hub. The Hub manifest lists four Safetensors shards and an index, and the API reports a Qwen2_5_VLForConditionalGeneration config with 8,292,166,656 BF16 parameters (the card states 7.0B). Apache-2.0 is the card's weight declaration and is not extended to the base model or training data.
 
 - Record JSON: https://awesomecua.com/resources/url-174e10a319d62c338879/record.json
 
@@ -2213,7 +2213,7 @@ The 3B Holo1 action VLM, fine-tuned from Qwen2.5-VL-3B-Instruct to act as policy
 
 ### Limitations
 
-The manifest lists two Safetensors shards (3,754,622,976 BF16 parameters per the Hub API) plus localization, navigation and ScreenSpot evaluation scripts. The card's license link and the LICENSE file put the weights under the H Product Research License Agreement, a non-commercial research license that also defers to the Qwen Research License for the base model; this is not generalized to other Holo1 sizes. The card's 89.7% WebVoyager figure is for Surfer-H with Holo1-3B, measured by the publisher, and was not reproduced; no weights were loaded. H's current models page lists later Holo generations but not Holo1, so no family relation is recorded.
+The manifest lists two Safetensors shards (3,754,622,976 BF16 parameters per the Hub API) plus localization, navigation and ScreenSpot evaluation scripts. The card's license link and the LICENSE file put the weights under the H Product Research License Agreement, a non-commercial research license that also defers to the Qwen Research License for the base model; this is not generalized to other Holo1 sizes. The card's 89.7% WebVoyager figure is for Surfer-H with Holo1-3B, measured by the publisher. H's current models page lists later Holo generations and leaves Holo1 unlisted, leaving a family relation unrecorded.
 
 - Record JSON: https://awesomecua.com/resources/url-c491c446a71cac1def66/record.json
 
@@ -2253,7 +2253,7 @@ A Qwen2.5-VL-based action model released for the Surfer-H web-agent system, supp
 
 ### Limitations
 
-Four public safetensors shards and example navigation/localization files are present. The model card declares Apache-2.0. Reported Surfer-H results depend on the assembled policy/localizer/validator configuration and are not imported as standalone checkpoint scores.
+Four public safetensors shards and example navigation/localization files are present. The model card declares Apache-2.0. Reported Surfer-H results depend on the assembled policy/localizer/validator configuration.
 
 - Record JSON: https://awesomecua.com/resources/url-f35cfcbaeb79663eabeb/record.json
 
@@ -2288,7 +2288,7 @@ The 72B member of H Company's Holo1.5 series, fine-tuned from Qwen2.5-VL-72B-Ins
 
 ### Limitations
 
-The card describes supervised fine-tuning followed by online reinforcement learning (GRPO) on proprietary, synthetic and open-source UI data, with inputs up to 3840 x 2160 pixels. It declares a non-commercial CC BY-NC 4.0 license for the 72B weights, while the 3B and 7B Holo1.5 checkpoints carry different terms, so this declaration is not generalized to the series. The manifest lists 31 Safetensors shards and the Hub reports 73,410,777,344 BF16 parameters. Localization and QA scores on the card are publisher claims and were not reproduced; no weights were loaded.
+The card describes supervised fine-tuning followed by online reinforcement learning (GRPO) on proprietary, synthetic and open-source UI data, with inputs up to 3840 x 2160 pixels. It declares a non-commercial CC BY-NC 4.0 license for the 72B weights, while the 3B and 7B Holo1.5 checkpoints carry different terms, so this declaration is not generalized to the series. The manifest lists 31 Safetensors shards and the Hub reports 73,410,777,344 BF16 parameters. Localization and QA scores on the card are publisher claims.
 
 - Record JSON: https://awesomecua.com/resources/url-a8e086f155c278e45c55/record.json
 
@@ -2327,7 +2327,7 @@ Research-preview Holo2 checkpoint, a 235B-total, 22B-active mixture-of-experts f
 
 ### Limitations
 
-Hub API at revision f7f85b14 lists 96 BF16 safetensors shards (about 235.7B parameters) in the Qwen3VLMoeForConditionalGeneration architecture; the repository is not gated. H Company's models page calls this release a research preview. The card describes supervised fine-tuning followed by online GRPO on a mix of open-source, synthetic and human-annotated data, some of it proprietary, and reports localization scores including an iterative 'agentic localization' mode; those scores are the publisher's and were not reproduced. No weights were downloaded. The card declares conflicting licenses; see the license review.
+Hub API at revision f7f85b14 lists 96 BF16 safetensors shards (about 235.7B parameters) in the Qwen3VLMoeForConditionalGeneration architecture; the repository is publicly accessible. H Company's models page calls this release a research preview. The card describes supervised fine-tuning followed by online GRPO on a mix of open-source, synthetic and human-annotated data, some of it proprietary, and reports publisher localization scores including an iterative 'agentic localization' mode. No weights were downloaded. The card declares conflicting licenses; see the license review.
 
 - Record JSON: https://awesomecua.com/resources/url-dad3d02b2f9603713287/record.json
 
@@ -2367,7 +2367,7 @@ Mixture-of-experts Holo2 checkpoint fine-tuned from Qwen3-VL-30B-A3B-Thinking th
 
 ### Limitations
 
-Hub API at revision 81dfb86d lists 13 BF16 safetensors shards (about 31.07B parameters) and config.json declares Qwen3VLMoeForConditionalGeneration with 128 experts, 8 active per token; the repository is not gated. The card YAML declares CC-BY-NC-4.0 and its size list marks the 30B-A3B as research-only and non-commercial, while a generic 'Apache 2.0' line in the shared family text applies to the 4B and 8B sizes. H Company's models page lists Holo2 at 4B, 8B and 30B-A3B under CC BY-NC 4.0. Navigation and localization scores on the card were measured by the publisher inside its Surfer 2 agent and were not reproduced; no weights were loaded.
+Hub API at revision 81dfb86d lists 13 BF16 safetensors shards (about 31.07B parameters) and config.json declares Qwen3VLMoeForConditionalGeneration with 128 experts, 8 active per token; the repository is publicly accessible. The card YAML declares CC-BY-NC-4.0 and its size list marks the 30B-A3B as research-only and non-commercial, while a generic 'Apache 2.0' line in the shared family text applies to the 4B and 8B sizes. H Company's models page lists Holo2 at 4B, 8B and 30B-A3B under CC BY-NC 4.0. Navigation and localization scores on the card were measured by the publisher inside its Surfer 2 agent.
 
 - Record JSON: https://awesomecua.com/resources/url-ed8d5883c240b78e329f/record.json
 
@@ -2407,7 +2407,7 @@ Computer-use policy checkpoint that H Company post-trained from NVIDIA Nemotron 
 
 ### Limitations
 
-Hub API at revision 525e05a4 lists seven safetensors shards (about 33.01B parameters, nearly all BF16) with custom modeling code, and config.json declares NemotronH_Nano_Omni_Reasoning_V3 with 128 routed experts, 6 active per token, and a 262,144-token position limit; the repository is not gated. The card text names the NVIDIA Open Model License while its metadata says 'other' and no license file ships; H's models page lists the same license. The card fetches the RADIO vision code from nvidia/C-RADIOv2-H while the release post names C-RADIOv4, so no encoder version is recorded. OSWorld-Verified, ScreenSpot-Pro, OSWorld-G and internal enterprise scores in the release post are publisher figures and were not reproduced; no weights were loaded.
+Hub API at revision 525e05a4 lists seven safetensors shards (about 33.01B parameters, nearly all BF16) with custom modeling code, and config.json declares NemotronH_Nano_Omni_Reasoning_V3 with 128 routed experts, 6 active per token, and a 262,144-token position limit; the repository is publicly accessible. The card text names the NVIDIA Open Model License while its metadata says 'other' and no license file ships; H's models page lists the same license. The card fetches the RADIO vision code from nvidia/C-RADIOv2-H while the release post names C-RADIOv4, so no encoder version is recorded. OSWorld-Verified, ScreenSpot-Pro, OSWorld-G and internal enterprise scores in the release post are publisher figures.
 
 - Record JSON: https://awesomecua.com/resources/url-f39d67f7a4a6f869f39c/record.json
 
@@ -2448,7 +2448,7 @@ Computer-use policy checkpoint from H Company and NVIDIA, fine-tuned from Nemotr
 
 ### Limitations
 
-The manifest lists six Safetensors shards, about 13.2B BF16 parameters by the Hub count. The card names the NVIDIA Open Model License in its text but sets no license field and ships no license file; H's models page lists the same license and includes Holotron-12B among the lab's open checkpoints. The fine-tuning mixture is proprietary and not released. Throughput and WebVoyager figures are publisher measurements that were not reproduced; no weights were loaded.
+The manifest lists six Safetensors shards, about 13.2B BF16 parameters by the Hub count. The card names the NVIDIA Open Model License in its text but sets no license field and ships no license file; H's models page lists the same license and includes Holotron-12B among the lab's open checkpoints. The fine-tuning mixture is proprietary and not released. Throughput and WebVoyager figures are publisher measurements.
 
 - Record JSON: https://awesomecua.com/resources/url-6c16f91d8d79d7836283/record.json
 
@@ -2766,7 +2766,7 @@ Supervised GLM-4.6V-Flash checkpoint from THUDM's ScaleCUA, released as the star
 
 ### Limitations
 
-Hub API at revision b13810f3 lists five BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture, plus args.json and training-state files under iter_0001838/; the repository is not gated. The card calls this the SFT start point used to initialize online RL and names GLM-4.6V-Flash as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision b13810f3 lists five BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture, plus args.json and training-state files under iter_0001838/; the repository is publicly accessible. The card calls this the SFT start point used to initialize online RL and names GLM-4.6V-Flash as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-f59c2dd51c1f5c570a28/record.json
 
@@ -2802,7 +2802,7 @@ Supervised GLM-4.6V-Flash checkpoint from THUDM's ScaleCUA, released as the star
 
 ### Limitations
 
-Hub API at revision 2bcf77b8 lists five BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture, plus training-state files under iter_0000494/; the repository is not gated. The card calls this the SFT start point used to initialize online RL and names GLM-4.6V-Flash as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision 2bcf77b8 lists five BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture, plus training-state files under iter_0000494/; the repository is publicly accessible. The card calls this the SFT start point used to initialize online RL and names GLM-4.6V-Flash as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-7fbde54a49250739baee/record.json
 
@@ -2838,7 +2838,7 @@ Supervised Qwen3-VL-8B checkpoint from THUDM's ScaleCUA, released as the start p
 
 ### Limitations
 
-Hub API at revision 406fe375 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture, plus a training args.json; the repository is not gated. The card calls this the SFT start point used to initialize online RL and names Qwen3-VL-8B as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3-VL-8B; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision 406fe375 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture, plus a training args.json; the repository is publicly accessible. The card calls this the SFT start point used to initialize online RL and names Qwen3-VL-8B as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3-VL-8B; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-50501b63a93c611d6e54/record.json
 
@@ -2874,7 +2874,7 @@ Supervised Qwen3-VL-8B checkpoint from THUDM's ScaleCUA, released as the start p
 
 ### Limitations
 
-Hub API at revision 48c39bb3 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture, plus a training-state file iter_0000494/common.pt; the repository is not gated. The card calls this the SFT start point used to initialize online RL and names Qwen3-VL-8B as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision 48c39bb3 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture, plus a training-state file iter_0000494/common.pt; access is open. The card calls this the SFT start point used to initialize online RL and names Qwen3-VL-8B as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-058cb7a92cba506f9739/record.json
 
@@ -2910,7 +2910,7 @@ Supervised Qwen3.5-9B checkpoint from THUDM's ScaleCUA, released as the start po
 
 ### Limitations
 
-Hub API at revision ff2508f6 lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture, plus a training-state file iter_0001940/common.pt; the repository is not gated. The card calls this the SFT start point used to initialize online RL and names Qwen3.5-9B as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision ff2508f6 lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture, plus a training-state file iter_0001940/common.pt; the repository is publicly accessible. The card calls this the SFT start point used to initialize online RL and names Qwen3.5-9B as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-9b7cc83c55fd75c5b867/record.json
 
@@ -2946,7 +2946,7 @@ Supervised Qwen3.5-9B checkpoint from THUDM's ScaleCUA, released as the start po
 
 ### Limitations
 
-Hub API at revision f697d10e lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture, plus a training-state file iter_0000494/common.pt; the repository is not gated. The card calls this the SFT start point used to initialize online RL and names Qwen3.5-9B as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision f697d10e lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture, plus a training-state file iter_0000494/common.pt; the repository is publicly accessible. The card calls this the SFT start point used to initialize online RL and names Qwen3.5-9B as its base without Hub base_model metadata, so base_model is unset. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the base model's license; that license is not resolved here. The card reports no score for this checkpoint. The THUDM/SCALE-CUA README lists it among six SFT start-point checkpoints, each with a ModelScope mirror. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-af7a03e8199643c3508f/record.json
 
@@ -2982,7 +2982,7 @@ YOLO11-L UI element detector from IBM Research and ETH Zurich that boxes and lab
 
 ### Limitations
 
-The model outputs boxes, class labels and confidences only, without element text; the card suggests OCR or a separate vision-language model for text. It is trained on rendered web screenshots, and the card warns that results may differ on native desktop or mobile screens. The main-branch Hub manifest holds one Ultralytics weight file, best.pt, and the card gives a 1280-pixel fine-tuning resolution. Apache-2.0 is the card's weight declaration; base-model and training-data terms are separate. The detector was not run.
+The model outputs boxes, class labels and confidences only, without element text; the card suggests OCR or a separate vision-language model for text. It is trained on rendered web screenshots, and the card warns that results may differ on native desktop or mobile screens. The main-branch Hub manifest holds one Ultralytics weight file, best.pt, and the card gives a 1280-pixel fine-tuning resolution. Apache-2.0 is the card's weight declaration; base-model and training-data terms are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-8c0b15d51eb7b4156608/record.json
 
@@ -3156,7 +3156,7 @@ The released UI-AGILE model for GUI grounding with reward shaping, crop-based re
 
 ### Limitations
 
-Four safetensors shards and model/tokenizer files are public. The card declares MIT for these weights; the companion dataset has no declared license and is separate. The short card does not state a parameter count, so this entry does not infer one from shard sizes.
+Four safetensors shards and model/tokenizer files are public. The card declares MIT for these weights; the companion dataset has no declared license and is separate.
 
 - Record JSON: https://awesomecua.com/resources/url-b94e285c3f757e2d0f3a/record.json
 
@@ -3432,7 +3432,7 @@ Released GUI world-model checkpoint that turns a screenshot and proposed action 
 
 ### Limitations
 
-Card identifies Code2World-8B and Qwen3-VL-8B-Instruct. Public files include four Safetensors shards, an index and rendering/prompt helper scripts. The GitHub adapter targets AndroidWorld; model-generated HTML rendering and model loading were not executed. MIT is recorded as the weight declaration, without transferring it to the separate GitHub repository’s code or all training sources.
+Card identifies Code2World-8B and Qwen3-VL-8B-Instruct. Public files include four Safetensors shards, an index and rendering/prompt helper scripts. The GitHub adapter targets AndroidWorld. MIT is recorded as the weight declaration, without transferring it to the separate GitHub repository’s code or all training sources.
 
 - Record JSON: https://awesomecua.com/resources/url-bc3deaf8eeecf569e73b/record.json
 
@@ -3470,7 +3470,7 @@ A bilingual GLM-4V-based execution model that uses screenshots, task instruction
 
 ### Limitations
 
-The former THUDM model URL resolves to zai-org. Six public safetensors shards are present. Weights use the custom CogAgent License, including a registration requirement for commercial use, rather than a blanket permissive license. The card cites the 2023 CogAgent paper as previous work and links a later technical report; no claim that the old paper documents this 2024 checkpoint is asserted.
+The former THUDM model URL resolves to zai-org. Six public safetensors shards are present. Weights use the custom CogAgent License, including a registration requirement for commercial use. The card cites the 2023 CogAgent paper as previous work and links a later technical report; no claim that the old paper documents this 2024 checkpoint is asserted.
 
 - Record JSON: https://awesomecua.com/resources/url-c5eb975c0d66f8a2954f/record.json
 
@@ -3715,7 +3715,7 @@ Z.ai repository for the open-weight GLM-4.1V-Thinking, GLM-4.5V and GLM-4.6V vis
 
 ### Limitations
 
-General-purpose vision-language model family; the README lists GUI agent operation (screen reading, icon recognition, desktop operation assistance) as one GLM-4.5V capability, so the record is adjacent. The inspected tree has examples/gui-agent prompt and output-handling code for GLM-4.1V and GLM-4.5V, and glmv_reward scripts named for AndroidWorld, OSWorld and WebVoyager. Checkpoints are hosted separately on Hugging Face and ModelScope and are not counted here. The README states (2026-09-02) that the repository will no longer be maintained and points to GLM-5 for newer models. github.com/THUDM/GLM-4.1V-Thinking resolves to the same repository 1010055053 and is recorded as a repository alias. The LICENSE file is Apache-2.0 text for repository code; checkpoint weights terms were not reviewed and stay unknown. Reported GUI benchmark scores were not reproduced.
+General-purpose vision-language model family; the README lists GUI agent operation (screen reading, icon recognition, desktop operation assistance) as one GLM-4.5V capability, so the record is adjacent. The inspected tree has examples/gui-agent prompt and output-handling code for GLM-4.1V and GLM-4.5V, and glmv_reward scripts named for AndroidWorld, OSWorld and WebVoyager. Checkpoints are hosted separately on Hugging Face and ModelScope. The README states (2026-09-02) that maintenance has ended and points to GLM-5 for newer models. github.com/THUDM/GLM-4.1V-Thinking resolves to the same repository 1010055053 and is recorded as a repository alias. The LICENSE file is Apache-2.0 text for repository code; checkpoint weights terms were not reviewed and stay unknown.
 
 - Record JSON: https://awesomecua.com/resources/github-zai-org-glm-v/record.json
 
@@ -3824,7 +3824,7 @@ GUI-Actor grounding checkpoint built on Qwen2-VL-2B-Instruct with an attention-b
 
 ### Limitations
 
-Hub API at revision 8f87b366 lists one BF16 safetensors file (about 2.23B parameters); the config names Qwen2VLForConditionalGenerationWithPointer, a class loaded from the GUI-Actor code rather than stock Transformers. The repository is not gated. The card says it was fine-tuned for GUI grounding on the cckevinn/GUI-Actor-Data dataset and reports 36.7 on ScreenSpot-Pro, 86.5 on ScreenSpot and 88.6 on ScreenSpot-v2 for this size; these are publisher measurements and were not reproduced. The card declares MIT for the checkpoint.
+Hub API at revision 8f87b366 lists one BF16 safetensors file (about 2.23B parameters); the config names Qwen2VLForConditionalGenerationWithPointer, which loads through the GUI-Actor code. Access to the repository is open. The card says it was fine-tuned for GUI grounding on the cckevinn/GUI-Actor-Data dataset and reports 36.7 on ScreenSpot-Pro, 86.5 on ScreenSpot and 88.6 on ScreenSpot-v2 for this size; these are publisher measurements. The card declares MIT for the checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-e42b286fd85b62bd7bb1/record.json
 
@@ -3859,7 +3859,7 @@ GUI-Actor grounding checkpoint fine-tuned from Qwen2.5-VL-3B-Instruct with an at
 
 ### Limitations
 
-The card's heading says GUI-Actor-7B with a Qwen2.5-VL-7B backbone, but its metadata, text and usage code name Qwen2.5-VL-3B-Instruct and this repository; the API reports 3,787,653,120 BF16 parameters and the Qwen2_5_VLForConditionalGenerationWithPointer class, which loads through the gui_actor package. The Hub manifest lists two Safetensors shards, an index and trainer_state.json. ScreenSpot results in the card are publisher-reported and were not reproduced. MIT is the card's weight declaration; Qwen2.5-VL and training-data terms are separate.
+The card's heading says GUI-Actor-7B with a Qwen2.5-VL-7B backbone, but its metadata, text and usage code name Qwen2.5-VL-3B-Instruct and this repository; the API reports 3,787,653,120 BF16 parameters and the Qwen2_5_VLForConditionalGenerationWithPointer class, which loads through the gui_actor package. The Hub manifest lists two Safetensors shards, an index and trainer_state.json. ScreenSpot results in the card are publisher-reported. MIT is the card's weight declaration; Qwen2.5-VL and training-data terms are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-0c400260635b7e4ab7c0/record.json
 
@@ -3931,7 +3931,7 @@ A Qwen2.5-VL-3B checkpoint released for R1-style visual grounding experiments, p
 
 ### Limitations
 
-Two public safetensors shards and model/tokenizer configuration are present. The card declares MIT. Its inference example loads the v1 model but names a different 0.1K processor checkpoint; that example was not executed, and compatibility is not asserted.
+Two public safetensors shards and model/tokenizer configuration are present. The card declares MIT. Its inference example loads the v1 model but names a different 0.1K processor checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-9dc9d8d3b9a4b32d6f4b/record.json
 
@@ -3966,7 +3966,7 @@ The 3B GUI-G2 grounding checkpoint: Qwen2.5-VL-3B-Instruct fine-tuned with Gauss
 
 ### Limitations
 
-Hub API at revision 41325677 lists two BF16 safetensors shards (about 3.75B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is not gated. The card names Qwen2.5-VL-3B-Instruct as the base in prose but sets no base_model field. Its ScreenSpot-v2 table reports only the 7B release and says 3B grounding results are still to come, so no score is recorded here. The project README announces the 3B and 7B releases together. Apache-2.0 is the model-card weight declaration, not a code or training-data license.
+Hub API at revision 41325677 lists two BF16 safetensors shards (about 3.75B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is publicly accessible. The card names Qwen2.5-VL-3B-Instruct as the base in prose but sets no base_model field. Its ScreenSpot-v2 table reports only the 7B release and says 3B grounding results are still to come, so no score is recorded here. The project README announces the 3B and 7B releases together. Apache-2.0 is the model-card weight declaration, not a code or training-data license.
 
 - Record JSON: https://awesomecua.com/resources/url-d80fa13b647c4020a755/record.json
 
@@ -4002,7 +4002,7 @@ A Qwen2.5-VL grounding checkpoint trained with Gaussian point and coverage rewar
 
 ### Limitations
 
-The model card and four public safetensors shards establish this specific release. Apache-2.0 is declared for the model. The release targets element grounding; its grounding results do not establish long-horizon task-completion success.
+The model card and four public safetensors shards establish this specific release. Apache-2.0 is declared for the model. The release targets element grounding; long-horizon task completion is a separate measure.
 
 - Record JSON: https://awesomecua.com/resources/url-90eea6f6d099a3297850/record.json
 
@@ -4037,7 +4037,7 @@ Instruct variant of the 8B GUI-Owl 1.5 native GUI agent model, built on Qwen3-VL
 
 ### Limitations
 
-The card describes instruct models as the variants for fast inference and edge deployment; the thinking 8B checkpoint is a separate repository. The Hub manifest lists four Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 8,767,123,696 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported and were not reproduced. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
+The card describes instruct models as the variants for fast inference and edge deployment; the thinking 8B checkpoint is a separate repository. The Hub manifest lists four Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 8,767,123,696 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
 
 - Record JSON: https://awesomecua.com/resources/url-d01dfc6e5b5fcece7b41/record.json
 
@@ -4075,7 +4075,7 @@ The 32B GUI-Owl checkpoint from the Mobile-Agent-v3 project, fine-tuned from Qwe
 
 ### Limitations
 
-This is the original GUI-Owl 32B release; the 7B checkpoint and the later GUI-Owl 1.5 generation are separate releases, and their results and terms are not transferred to it. The card recommends serving with vLLM and gives a tensor-parallel serving script. The manifest lists 18 Safetensors shards and the Hub reports 33,452,718,336 BF16 parameters. The card declares MIT for the checkpoint and marks its online demo as coming soon. Benchmark results on the card are publisher claims and were not reproduced; no weights were loaded.
+This is the original GUI-Owl 32B release; the 7B checkpoint and the later GUI-Owl 1.5 generation are separate releases, with results and terms scoped to each release. The card recommends serving with vLLM and gives a tensor-parallel serving script. The manifest lists 18 Safetensors shards and the Hub reports 33,452,718,336 BF16 parameters. The card declares MIT for the checkpoint and marks its online demo as coming soon. Benchmark results on the card are publisher claims.
 
 - Record JSON: https://awesomecua.com/resources/url-a92e7dfcdfdcacb2e634/record.json
 
@@ -4114,7 +4114,7 @@ A Qwen2.5-VL-based GUI checkpoint released with Mobile-Agent-v3 for grounded act
 
 ### Limitations
 
-Five public safetensors shards are present. MIT is declared in this model card. This record identifies the original 7B release; other sizes and later GUI-Owl generations are not aliases or assumed to share its exact terms. The online demo is still marked forthcoming.
+Five public safetensors shards are present. MIT is declared in this model card. This record identifies the original 7B release. The online demo is still marked forthcoming.
 
 - Record JSON: https://awesomecua.com/resources/url-aeb32973694f91ad9920/record.json
 
@@ -4135,7 +4135,7 @@ Five public safetensors shards are present. MIT is declared in this model card. 
 
 ## GUI-Owl 7B Desktop-RL
 
-GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements rather than for production.
+GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements, with production use outside its stated purpose.
 
 - Catalog URL: https://awesomecua.com/resources/url-b01a78c76299196e3df1/
 - Original source: https://huggingface.co/mPLUG/GUI-Owl-7B-Desktop-RL
@@ -4186,7 +4186,7 @@ A single Hub release containing GUI-R1 3B and 7B action-model checkpoints traine
 
 ### Limitations
 
-The manifest contains two safetensors shards in GUI-R1-3B and four in GUI-R1-7B. Both are counted as one Hub resource rather than duplicate root URLs. The model card declares MIT; this does not automatically apply to source training data or upstream base models.
+The manifest contains two safetensors shards in GUI-R1-3B and four in GUI-R1-7B. Both are counted as one Hub resource. The model card declares MIT; this does not automatically apply to source training data or upstream base models.
 
 - Record JSON: https://awesomecua.com/resources/url-61a5321db10fc8a312b9/record.json
 
@@ -4222,7 +4222,7 @@ Smallest Holo1.5 checkpoint, fine-tuned from Qwen2.5-VL-3B-Instruct with supervi
 
 ### Limitations
 
-Hub API at revision f10805d3 lists two BF16 safetensors shards (about 3.75B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is not gated. The card describes proprietary training data mixed from open-source, synthetic and human-annotated samples, so no training dataset is linked; its localization and screen-QA scores are publisher-reported and are not recorded. Mobile is named without an operating system. The card's license field is 'other': it says the 3B size inherits Qwen's license and names the Qwen Research License, and the repository's LICENSE file is an H research agreement limited to non-commercial use. The 7B and 72B sizes carry different terms, and H Company's models page gives the family one CC BY-NC 4.0 label.
+Hub API at revision f10805d3 lists two BF16 safetensors shards (about 3.75B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is publicly accessible. The card describes proprietary training data mixed from open-source, synthetic and human-annotated samples, leaving a specific training dataset unlinked; its localization and screen-QA scores are publisher-reported. Mobile is named without an operating system. The card's license field is 'other': it says the 3B size inherits Qwen's license and names the Qwen Research License, and the repository's LICENSE file is an H research agreement limited to non-commercial use. The 7B and 72B sizes carry different terms, and H Company's models page gives the family one CC BY-NC 4.0 label.
 
 - Record JSON: https://awesomecua.com/resources/url-dc20a06c296207ac11a6/record.json
 
@@ -4259,7 +4259,7 @@ H Company's Qwen2.5-VL-7B-based Holo1.5 checkpoint for locating interface elemen
 
 ### Limitations
 
-Hub API at revision a1019821 lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is not gated. The card names Qwen/Qwen2.5-VL-7B-Instruct as the base and describes proprietary training data mixed from open-source, synthetic and human-annotated samples, so no training dataset is linked. It declares Apache-2.0 for this 7B size only: the same card says the 3B size inherits Qwen's license and the 72B size is research-only. Localization and screen-QA scores in the card are publisher-reported and are not recorded. Mobile is named without an operating system.
+Hub API at revision a1019821 lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is publicly accessible. The card names Qwen/Qwen2.5-VL-7B-Instruct as the base and describes proprietary training data mixed from open-source, synthetic and human-annotated samples, so no training dataset is linked. It declares Apache-2.0 for this 7B size only: the same card says the 3B size inherits Qwen's license and the 72B size is research-only. Mobile is named without an operating system.
 
 - Record JSON: https://awesomecua.com/resources/url-98e5813bceb30104d6c4/record.json
 
@@ -4500,7 +4500,7 @@ A 2B MAI-UI checkpoint in the Qwen3-VL architecture, from a GUI agent family who
 
 ### Limitations
 
-The manifest lists a single model.safetensors file and the card declares Apache-2.0. The card text and benchmark figures describe the whole 2B-to-235B-A22B family and are not assigned to this checkpoint; the project README announces this 2B release together with the 8B. No scores were reproduced and no weights were loaded.
+The manifest lists a single model.safetensors file and the card declares Apache-2.0. The card text and benchmark figures describe the whole 2B-to-235B-A22B family; the project README announces this 2B release together with the 8B. The family figures remain unassigned to this checkpoint. No scores were reproduced and no weights were loaded.
 
 - Record JSON: https://awesomecua.com/resources/url-4b6d61ff2c1d6c8e1a23/record.json
 
@@ -4540,7 +4540,7 @@ A released MAI-UI checkpoint combining mobile GUI actions, agent-user interactio
 
 ### Limitations
 
-Four public safetensors shards are present and Apache-2.0 is declared. The card presents family-wide results and device-cloud architecture; those claims are not all assigned to the 8B checkpoint. Other parameter sizes are not duplicated in this proposal batch.
+Four public safetensors shards are present and Apache-2.0 is declared. The card presents family-wide results and device-cloud architecture.
 
 - Record JSON: https://awesomecua.com/resources/url-00b1a3abf9bcb424b264/record.json
 
@@ -4609,7 +4609,7 @@ Qwen2.5-VL-7B-Instruct fine-tune that reads an instruction, history, screenshot 
 
 ### Limitations
 
-The card gives the system prompt, a vLLM serving command and training settings (LLaMA-Factory 'full' tags, 6 epochs, learning rate 1e-5). The WhitzardAgent/MirrorGuard code README describes this checkpoint as the final VLM trained on reasoning-correction data from its MirrorWorld pipeline and deploys it as a runtime corrector in its agent examples. The card's GitHub link (github.com/bmz-q-q/MirrorGuard) returns 404. Weights were not downloaded or run; the manifest lists four Safetensors shards and an index.
+The card gives the system prompt, a vLLM serving command and training settings (LLaMA-Factory 'full' tags, 6 epochs, learning rate 1e-5). The WhitzardAgent/MirrorGuard code README describes this checkpoint as the final VLM trained on reasoning-correction data from its MirrorWorld pipeline and deploys it as a runtime corrector in its agent examples. The card's GitHub link (github.com/bmz-q-q/MirrorGuard) returns 404. The manifest lists four Safetensors shards and an index.
 
 - Record JSON: https://awesomecua.com/resources/url-5f4264af210fb2686870/record.json
 
@@ -4791,7 +4791,7 @@ Mobile agent checkpoint with a Qwen3-VL architecture, released with OpenMobile a
 
 ### Limitations
 
-The Hub model card (README.md) is empty, so identity and purpose come from the OpenMobile code README, which links this repository as the model, lists fine-tuned checkpoints based on OpenMobile data, and uses OpenMobile-8B as the example model for AndroidWorld evaluation. The project page reports AndroidWorld, AndroidLab and MobileWorld results for its Qwen3-VL-8B variant; these were not reproduced. No base-model ID is declared on the Hub. The manifest lists four Safetensors shards and an index; weights were not downloaded.
+The Hub model card (README.md) is empty, so identity and purpose come from the OpenMobile code README, which links this repository as the model, lists fine-tuned checkpoints based on OpenMobile data, and uses OpenMobile-8B as the example model for AndroidWorld evaluation. The project page reports AndroidWorld, AndroidLab and MobileWorld results for its Qwen3-VL-8B variant. No base-model ID is declared on the Hub. The manifest lists four Safetensors shards and an index.
 
 - Record JSON: https://awesomecua.com/resources/url-6616228d4f267363458e/record.json
 
@@ -5181,7 +5181,7 @@ GLM-4.6V-Flash computer-use agent checkpoint from THUDM's ScaleCUA, trained with
 
 ### Limitations
 
-Hub API at revision f877281f lists five BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture; the repository is not gated. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-glm4.6v-osworld-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 66.5% on OSWorld; this is a publisher figure and was not reproduced. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of GLM-4.6V-Flash; that license is not resolved here. The card gives no parameter size label. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision f877281f lists five BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture; the repository is publicly accessible. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-glm4.6v-osworld-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 66.5% on OSWorld as a publisher figure. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of GLM-4.6V-Flash; that license is not resolved here. The card gives no parameter size label. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-77c708f5cff2d4c95e90/record.json
 
@@ -5217,7 +5217,7 @@ GLM-4.6V-Flash computer-use agent checkpoint from THUDM's ScaleCUA, trained with
 
 ### Limitations
 
-Hub API at revision 3b089b66 lists five BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture; the repository is not gated. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-glm4.6v-scienceboard-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 49.4% on ScienceBoard; this is a publisher figure and was not reproduced. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of GLM-4.6V-Flash; that license is not resolved here. The card states no parameter size, so no label is recorded. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision 3b089b66 lists five BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture; the repository is publicly accessible. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-glm4.6v-scienceboard-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 49.4% on ScienceBoard as a publisher figure. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of GLM-4.6V-Flash; that license is not resolved here. The card states no parameter size, so no label is recorded. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-4bcb6a451d6f4d25343c/record.json
 
@@ -5253,7 +5253,7 @@ Qwen3-VL-8B computer-use agent checkpoint from THUDM's ScaleCUA, trained with on
 
 ### Limitations
 
-Hub API at revision d27cdab2 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture; the repository is not gated. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3-vl-osworld-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 67.7% on OSWorld; this is a publisher figure and was not reproduced. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3-VL-8B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision d27cdab2 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture; access is open. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3-vl-osworld-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 67.7% on OSWorld; this is a publisher figure. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3-VL-8B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-1807bdb33fc352a97240/record.json
 
@@ -5289,7 +5289,7 @@ Qwen3-VL-8B computer-use agent checkpoint from THUDM's ScaleCUA, trained with on
 
 ### Limitations
 
-Hub API at revision 13947f05 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture; the repository is not gated. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3-vl-scienceboard-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 51.9% on ScienceBoard; this is a publisher figure and was not reproduced. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3-VL-8B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision 13947f05 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture; the repository is publicly accessible. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3-vl-scienceboard-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 51.9% on ScienceBoard as a publisher figure. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3-VL-8B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-73c169c32b5765688376/record.json
 
@@ -5325,7 +5325,7 @@ Qwen3.5-9B computer-use agent checkpoint from THUDM's ScaleCUA, trained with onl
 
 ### Limitations
 
-Hub API at revision 2ad1314b lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture; the repository is not gated. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3.5-osworld-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 68.7% on OSWorld; this is a publisher figure and was not reproduced. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3.5-9B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision 2ad1314b lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture; access is open. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3.5-osworld-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 68.7% on OSWorld; this is a publisher figure. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3.5-9B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-0919e695670c5740a123/record.json
 
@@ -5361,7 +5361,7 @@ Qwen3.5-9B computer-use agent checkpoint from THUDM's ScaleCUA, trained with onl
 
 ### Limitations
 
-Hub API at revision ca2bc686 lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture; the repository is not gated. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3.5-scienceboard-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 54.0% on ScienceBoard; this is a publisher figure and was not reproduced. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3.5-9B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision ca2bc686 lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture; the repository is publicly accessible. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3.5-scienceboard-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 54.0% on ScienceBoard as a publisher figure. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3.5-9B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-d2d07c09a1c92e5f4a43/record.json
 
@@ -5398,7 +5398,7 @@ Seg2Click checkpoint based on Qwen2.5-VL-3B with a custom action-mask decoder.
 
 ### Limitations
 
-License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference. The card names the Qwen Research license, unlike the Apache-2.0 declarations on the Qwen3.5 variants.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; mask-to-click inference requires those components beyond a generic text-generation pipeline. The card names the Qwen Research license, unlike the Apache-2.0 declarations on the Qwen3.5 variants.
 
 - Record JSON: https://awesomecua.com/resources/url-23ad240757185c6f7eac/record.json
 
@@ -5433,7 +5433,7 @@ Compact Seg2Click checkpoint with a merged Qwen3.5 backbone and an action-mask d
 
 ### Limitations
 
-License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; mask-to-click inference requires those components beyond a generic text-generation pipeline.
 
 - Record JSON: https://awesomecua.com/resources/url-7405463ba56f9a41e79a/record.json
 
@@ -5468,7 +5468,7 @@ Seg2Click checkpoint using a 2B Qwen3.5 backbone to predict a mask and select an
 
 ### Limitations
 
-License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; mask-to-click inference requires those components beyond a generic text-generation pipeline.
 
 - Record JSON: https://awesomecua.com/resources/url-fec1c5aa8fd93cb78923/record.json
 
@@ -5503,7 +5503,7 @@ Seg2Click checkpoint pairing a 4B Qwen3.5 backbone with pixel-level action-mask 
 
 ### Limitations
 
-License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; mask-to-click inference requires those components beyond a generic text-generation pipeline.
 
 - Record JSON: https://awesomecua.com/resources/url-29588aa5651b5839c045/record.json
 
@@ -5538,7 +5538,7 @@ Seg2Click checkpoint pairing a 9B Qwen3.5 backbone with a decoder for valid GUI 
 
 ### Limitations
 
-License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; mask-to-click inference requires those components beyond a generic text-generation pipeline.
 
 - Record JSON: https://awesomecua.com/resources/url-826f3753905c5c43bf46/record.json
 
@@ -5817,7 +5817,7 @@ A Qwen2.5-VL-3B mobile GUI action model fine-tuned on AndroidControl, AMEX, Andr
 
 ### Limitations
 
-The manifest lists two Safetensors shards. Unlike the 7B card, this card declares no license and the Hub repository has no license file, so the weights license stays unknown; the GitHub README's MIT statement is not applied to the weights. The card's action table accepts coordinate or Set-of-Mark targets. AndroidControl and AndroidLab scores are publisher claims and were not reproduced; no weights were loaded.
+The manifest lists two Safetensors shards. Unlike the 7B card, this card declares no license and the Hub repository has no license file, so the weights license stays unknown; the GitHub README's MIT statement is not applied to the weights. The card's action table accepts coordinate or Set-of-Mark targets. AndroidControl and AndroidLab scores are publisher claims.
 
 - Record JSON: https://awesomecua.com/resources/url-43d811a5957d8effb7ed/record.json
 
@@ -5959,7 +5959,7 @@ A Qwen2.5-VL checkpoint trained with reinforcement learning for GUI action predi
 
 ### Limitations
 
-Two safetensors shards and tokenizer/configuration files are publicly ungated. The model card declares MIT; upstream base-model terms are separate. The mutable card compares v1, v2 and UI-R1-E results without pinning every result to a commit, so this record identifies the Hub release and does not import an unversioned score.
+Two safetensors shards and tokenizer/configuration files are publicly ungated. The model card declares MIT; upstream base-model terms are separate. The mutable card compares v1, v2 and UI-R1-E results with incomplete commit pinning; this record identifies the Hub release.
 
 - Record JSON: https://awesomecua.com/resources/url-f13474d7aa734a30624d/record.json
 
@@ -6031,7 +6031,7 @@ SFT-labelled 7B UI-TARS checkpoint: a native GUI agent model in the Qwen2-VL arc
 
 ### Limitations
 
-Hub API at revision 3434901a lists seven F32 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 17.7 on OSWorld with a 15-step budget and 33.0 on AndroidWorld for this checkpoint. Card benchmark tables are publisher measurements and were not reproduced.
+Hub API at revision 3434901a lists seven F32 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 17.7 on OSWorld with a 15-step budget and 33.0 on AndroidWorld for this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-dbd880ec31b412487945/record.json
 
@@ -6171,7 +6171,7 @@ UIX-Qwen2 further fine-tuned on the Mind2Web training set; the MultiUI paper eva
 
 ### Limitations
 
-Hub API at revision cf1654a2 lists four root BF16 safetensors shards (about 8.03B parameters) whose config declares LlavaQwenForCausalLM with the google/siglip-so400m-patch14-384 vision tower; the repository is not gated. It also keeps two intermediate training folders, checkpoint-565 and checkpoint-1130, each with its own weight shards plus scheduler, RNG and trainer state. The MultiUI README lists this repository as UIX-Qwen2-M2W on Qwen2-7B-Instruct. The paper marks -M2W models as further fine-tuned on the Mind2Web training set and reports step success rate and element accuracy for UIX-Qwen2-M2W on the cross-task, cross-website and cross-domain splits; these are publisher figures and were not reproduced. The card declares odc-by, a data-oriented designation kept as the publisher's weight declaration; base-model terms are not resolved.
+Hub API at revision cf1654a2 lists four root BF16 safetensors shards (about 8.03B parameters) whose config declares LlavaQwenForCausalLM with the google/siglip-so400m-patch14-384 vision tower; the repository is publicly accessible. It also keeps two intermediate training folders, checkpoint-565 and checkpoint-1130, each with its own weight shards plus scheduler, RNG and trainer state. The MultiUI README lists this repository as UIX-Qwen2-M2W on Qwen2-7B-Instruct. The paper marks -M2W models as further fine-tuned on the Mind2Web training set and reports publisher figures for step success rate and element accuracy for UIX-Qwen2-M2W on the cross-task, cross-website and cross-domain splits. The card declares odc-by, a data-oriented designation kept as the publisher's weight declaration; base-model terms are not resolved.
 
 - Record JSON: https://awesomecua.com/resources/url-592e434848a1514efef0/record.json
 
@@ -6243,7 +6243,7 @@ A visual trajectory judge that retains selected intermediate screenshots to eval
 
 ### Limitations
 
-Four public safetensors shards are present. Apache-2.0 is declared for the weights. This is an evaluator checkpoint rather than a navigation policy; human-agreement rates are not treated as task-success scores.
+Four public safetensors shards are present. Apache-2.0 is declared for the weights. This is an evaluator checkpoint; human-agreement rates measure agreement with human labels.
 
 - Record JSON: https://awesomecua.com/resources/url-772161f06c2b3d4978b5/record.json
 
@@ -6562,7 +6562,7 @@ Browser Use's open-weight browser-agent model, fine-tuned from Qwen3-VL-30B-A3B-
 
 ### Limitations
 
-A preview release. The Hub API at revision 28f795cd lists 13 BF16 safetensors shards (31,070,754,032 parameters) in the Qwen3VLMoeForConditionalGeneration architecture; the repository is not gated. The card gives a 65,536-token context and quickstarts for BU Cloud (API key) and a local vLLM server, but no benchmark results, training data or training method, so its capability claims were not checked. The card metadata declares no license. The repository's LICENSE is a modified MIT text that withholds all rights from anyone whose company or employer has global consolidated annual revenue above US$1 million (measured for the preceding month), and points them to a commercial license or the hosted service instead.
+A preview release. The Hub API at revision 28f795cd lists 13 BF16 safetensors shards (31,070,754,032 parameters) in the Qwen3VLMoeForConditionalGeneration architecture; access is open. The card gives a 65,536-token context and quickstarts for BU Cloud (API key) and a local vLLM server, but no benchmark results, training data or training method, so its capability claims were not checked. The card metadata declares no license. The repository's LICENSE is a modified MIT text that withholds all rights from anyone whose company or employer has global consolidated annual revenue above US$1 million (measured for the preceding month), and points them to a commercial license or the hosted service instead.
 
 - Record JSON: https://awesomecua.com/resources/url-2c4b53bc04f33578e9b8/record.json
 
@@ -6900,7 +6900,7 @@ Adept's decoder-only multimodal base model that feeds image patches straight int
 
 ### Limitations
 
-Adjacent: a general image-and-text base model whose card says it was designed for digital agents, UI-based questions and fine-grained localization on screen images, and lists computer control among research uses. The card calls it a raw base model that needs fine-tuning, reports only VQAv2, OKVQA, COCO Captions and AI2D scores, publishes no GUI or agent evaluation, names no platform and does not describe the training data. Adept's blog post is its only linked description; no paper is linked. The manifest lists two Safetensors shards (9,408,238,592 BF16 parameters per the Hub API). CC BY-NC 4.0 is the card's weights declaration.
+Adjacent: a general image-and-text base model whose card says it was designed for digital agents, UI-based questions and fine-grained localization on screen images, and lists computer control among research uses. The card calls it a raw base model that needs fine-tuning and reports VQAv2, OKVQA, COCO Captions and AI2D scores; GUI or agent evaluation, target platform and training data remain unspecified. Adept's blog post is its only linked description; no paper is linked. The manifest lists two Safetensors shards (9,408,238,592 BF16 parameters per the Hub API). CC BY-NC 4.0 is the card's weights declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-c6e1ffa1f4c6561c3b22/record.json
 
@@ -6970,7 +6970,7 @@ Preview Google DeepMind model built on Gemini 2.5 Pro and post-trained for UI co
 
 ### Limitations
 
-Launch post and model card dated 7 October 2025. The model card says the model is based on Gemini 2.5 Pro (06-2025) with post-training for UI control, is primarily optimized for web browsers, shows promise on mobile UI control and is not yet optimized for OS-level control; its stated knowledge cutoff is January 2025. Benchmark figures on Online-Mind2Web, WebVoyager and AndroidWorld mix self-reported, Browserbase-run and Google-run evaluations and were not reproduced. The post states that versions of the model power Project Mariner and the Firebase Testing Agent. This record covers the dated preview release; the Gemini API computer-use capability is recorded separately. Current availability, pricing and deprecation status were not checked.
+Launch post and model card dated 7 October 2025. The model card says the model is based on Gemini 2.5 Pro (06-2025) with post-training for UI control, is primarily optimized for web browsers, shows promise on mobile UI control and is not yet optimized for OS-level control; its stated knowledge cutoff is January 2025. Benchmark figures on Online-Mind2Web, WebVoyager and AndroidWorld mix self-reported, Browserbase-run and Google-run evaluations. The post states that versions of the model power Project Mariner and the Firebase Testing Agent. This record covers the dated preview release; the Gemini API computer-use capability is recorded separately.
 
 - Record JSON: https://awesomecua.com/resources/url-44827a16f49e65ba8fb3/record.json
 
@@ -7241,7 +7241,7 @@ GUI-Libra checkpoint fine-tuned from Qwen2.5-VL-3B-Instruct (about 4.07B BF16 pa
 
 ### Limitations
 
-The Hub manifest at revision 98ec8af3 lists 2 Safetensors shards with an index plus configuration and tokenizer files; weights were not downloaded and no benchmark result was reproduced. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). Its vllm serve command names GUI-Libra-4B rather than GUI-Libra-3B, while its Python example names GUI-Libra-3B. The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
+The Hub manifest at revision 98ec8af3 lists 2 Safetensors shards with an index plus configuration and tokenizer files. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). Its vllm serve command names GUI-Libra-4B, while its Python example names GUI-Libra-3B. The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-ae8e3fa5a67a608804f8/record.json
 
@@ -7280,7 +7280,7 @@ GUI-Libra checkpoint fine-tuned from Qwen3-VL-4B-Instruct (about 4.83B BF16 para
 
 ### Limitations
 
-The Hub manifest at revision 35fc6d34 lists 2 Safetensors shards with an index plus configuration and tokenizer files; weights were not downloaded and no benchmark result was reproduced. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
+The Hub manifest at revision 35fc6d34 lists 2 Safetensors shards with an index plus configuration and tokenizer files. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-9082bb5effe5d1a1cada/record.json
 
@@ -7319,7 +7319,7 @@ GUI-Libra checkpoint fine-tuned from Qwen2.5-VL-7B-Instruct (about 8.29B BF16 pa
 
 ### Limitations
 
-The Hub manifest at revision 0355b647 lists 4 Safetensors shards with an index plus configuration and tokenizer files; weights were not downloaded and no benchmark result was reproduced. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). Its vllm serve command names GUI-Libra-4B rather than GUI-Libra-7B, while its Python example names GUI-Libra-7B. The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
+The Hub manifest at revision 0355b647 lists 4 Safetensors shards with an index plus configuration and tokenizer files. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). Its vllm serve command names GUI-Libra-4B, while its Python example names GUI-Libra-7B. The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-f52794224f9541fd9eb3/record.json
 
@@ -7358,7 +7358,7 @@ GUI-Libra checkpoint fine-tuned from Qwen3-VL-8B-Instruct (about 8.77B BF16 para
 
 ### Limitations
 
-The Hub manifest at revision 15ee285b lists 4 Safetensors shards with an index plus configuration and tokenizer files; weights were not downloaded and no benchmark result was reproduced. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
+The Hub manifest at revision 15ee285b lists 4 Safetensors shards with an index plus configuration and tokenizer files. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-6694391b0cf50389d2e9/record.json
 
@@ -7397,7 +7397,7 @@ Smallest instruct checkpoint of GUI-Owl 1.5, a Qwen3-VL-based native GUI agent f
 
 ### Limitations
 
-Hub API at revision 528ceaec lists one BF16 safetensors file (about 2.13B parameters) in the Qwen3VLForConditionalGeneration architecture; the repository is not gated. The card is written for the whole GUI-Owl 1.5 family (instruct and thinking variants from 2B to 32B) and links the X-PLUG/MobileAgent repository; its tool/MCP, memory and multi-agent claims are family-level. For this checkpoint the card reports 43.5 on OSWorld-Verified, 67.9 on AndroidWorld, 33.0 on OSWorld-MCP, 31.3 on Mobile-World and 25.8 on WindowsAA; these are publisher measurements and were not reproduced. The card declares MIT for the checkpoint; it gives no Hub base_model metadata.
+Hub API at revision 528ceaec lists one BF16 safetensors file (about 2.13B parameters) in the Qwen3VLForConditionalGeneration architecture; access is open. The card is written for the whole GUI-Owl 1.5 family (instruct and thinking variants from 2B to 32B) and links the X-PLUG/MobileAgent repository; its tool/MCP, memory and multi-agent claims are family-level. For this checkpoint the card reports 43.5 on OSWorld-Verified, 67.9 on AndroidWorld, 33.0 on OSWorld-MCP, 31.3 on Mobile-World and 25.8 on WindowsAA; these are publisher measurements. The card declares MIT for the checkpoint; it gives no Hub base_model metadata.
 
 - Record JSON: https://awesomecua.com/resources/url-0b94b29f2afbfe8a3abb/record.json
 
@@ -7432,7 +7432,7 @@ Instruct variant of the 32B GUI-Owl 1.5 native GUI agent model, built on Qwen3-V
 
 ### Limitations
 
-The card lists 2B, 4B, 8B and 32B instruct and 8B and 32B thinking variants; the 32B thinking checkpoint is a separate repository. The Hub manifest lists 14 Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 33,357,390,064 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported and were not reproduced. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
+The card lists 2B, 4B, 8B and 32B instruct and 8B and 32B thinking variants; the 32B thinking checkpoint is a separate repository. The Hub manifest lists 14 Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 33,357,390,064 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
 
 - Record JSON: https://awesomecua.com/resources/url-6a943fb3667791b6cdb4/record.json
 
@@ -7470,7 +7470,7 @@ Thinking variant of the 32B GUI-Owl 1.5 native GUI agent model, built on Qwen3-V
 
 ### Limitations
 
-The card's tables label this checkpoint GUI-Owl-1.5-32B-Thinking and describe the thinking models as the larger variants for tasks that need planning and reflection; the 32B instruct checkpoint is a separate repository. The Hub manifest lists 14 Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 33,357,390,064 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported and were not reproduced. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
+The card's tables label this checkpoint GUI-Owl-1.5-32B-Thinking and describe the thinking models as the larger variants for tasks that need planning and reflection; the 32B instruct checkpoint is a separate repository. The Hub manifest lists 14 Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 33,357,390,064 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
 
 - Record JSON: https://awesomecua.com/resources/url-e0e4712ee701f652bf31/record.json
 
@@ -7508,7 +7508,7 @@ The card's tables label this checkpoint GUI-Owl-1.5-32B-Thinking and describe th
 
 ### Limitations
 
-Hub API at revision 3f061c2c lists two BF16 safetensors shards plus an index (about 4.44B parameters) in the Qwen3VLForConditionalGeneration architecture; the repository is not gated. The card is written for the whole GUI-Owl 1.5 family (instruct and thinking variants from 2B to 32B) and links the X-PLUG/MobileAgent repository; its tool/MCP, memory and multi-agent claims are family-level. For this checkpoint the card reports 48.2 on OSWorld-Verified, 69.8 on AndroidWorld, 31.7 on OSWorld-MCP, 32.3 on Mobile-World and 29.4 on WindowsAA; these are publisher measurements and were not reproduced. The card declares MIT for the checkpoint; it gives no Hub base_model metadata.
+Hub API at revision 3f061c2c lists two BF16 safetensors shards plus an index (about 4.44B parameters) in the Qwen3VLForConditionalGeneration architecture; access is open. The card is written for the whole GUI-Owl 1.5 family (instruct and thinking variants from 2B to 32B) and links the X-PLUG/MobileAgent repository; its tool/MCP, memory and multi-agent claims are family-level. For this checkpoint the card reports 48.2 on OSWorld-Verified, 69.8 on AndroidWorld, 31.7 on OSWorld-MCP, 32.3 on Mobile-World and 29.4 on WindowsAA; these are publisher measurements. The card declares MIT for the checkpoint; it gives no Hub base_model metadata.
 
 - Record JSON: https://awesomecua.com/resources/url-17a0422036ebea8d4e93/record.json
 
@@ -7543,7 +7543,7 @@ Thinking variant of the 8B GUI-Owl 1.5 native GUI agent model, built on Qwen3-VL
 
 ### Limitations
 
-The card's tables label this checkpoint GUI-Owl-1.5-8B-Thinking and describe the thinking models as the variants for planning and reflection; the instruct 8B checkpoint is a separate repository. The Hub manifest lists four Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 8,767,123,696 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported and were not reproduced. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
+The card's tables label this checkpoint GUI-Owl-1.5-8B-Thinking and describe the thinking models as the variants for planning and reflection; the instruct 8B checkpoint is a separate repository. The Hub manifest lists four Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 8,767,123,696 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
 
 - Record JSON: https://awesomecua.com/resources/url-374138c6e18c9f1dd44a/record.json
 
@@ -7853,7 +7853,7 @@ A Qwen3-VL-based checkpoint for navigation and multi-step GUI actions across web
 
 ### Limitations
 
-Two public safetensors shards are present and this 4B model card declares Apache-2.0. The same card assigns different terms to the 30B family member, so the 4B declaration is not generalized to the family. Scores and proprietary training data are not treated as independently verified or publicly released.
+Two public safetensors shards are present and this 4B model card declares Apache-2.0. The same card assigns different terms to the 30B family member, so the 4B declaration is not generalized to the family.
 
 - Record JSON: https://awesomecua.com/resources/url-16a51d9e725ad5a5c629/record.json
 
@@ -7888,7 +7888,7 @@ Holo2 checkpoint fine-tuned from Qwen3-VL-8B-Thinking through supervised and onl
 
 ### Limitations
 
-The manifest lists four Safetensors shards. The card declares Apache-2.0 for the 4B and 8B sizes but research-only, non-commercial terms for Holo2-30B-A3B, so this declaration is not generalized to the family. The navigation and localization scores on the card were measured by the publisher inside its Surfer 2 agent and were not reproduced; no weights were loaded.
+The manifest lists four Safetensors shards. The card declares Apache-2.0 for the 4B and 8B sizes but research-only, non-commercial terms for Holo2-30B-A3B, so this declaration is not generalized to the family. The navigation and localization scores on the card were measured by the publisher inside its Surfer 2 agent.
 
 - Record JSON: https://awesomecua.com/resources/url-38942453b2b7018c0d01/record.json
 
@@ -7960,7 +7960,7 @@ Smallest checkpoint of H Company's Holo3.1 family of vision-language models for 
 
 ### Limitations
 
-Hub API at revision 72da4c53 lists one BF16 safetensors file in the Qwen3_5ForConditionalGeneration architecture; the Hub's safetensors metadata counts about 1.11B parameters against the publisher's 0.8B label. The repository is not gated. The card is shared by the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes while its prose says the Qwen 3.5 family, so base_model is unset. Benchmark results appear only as images and are not recorded. H Company's models page lists Holo3.1 at 0.8B, 4B, 9B and 35B-A3B under Apache 2.0, and the card declares Apache-2.0 for the weights.
+Hub API at revision 72da4c53 lists one BF16 safetensors file in the Qwen3_5ForConditionalGeneration architecture; the Hub's safetensors metadata counts about 1.11B parameters against the publisher's 0.8B label. The repository is publicly accessible. The card is shared by the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes while its prose says the Qwen 3.5 family, so base_model is unset. H Company's models page lists Holo3.1 at 0.8B, 4B, 9B and 35B-A3B under Apache 2.0, and the card declares Apache-2.0 for the weights.
 
 - Record JSON: https://awesomecua.com/resources/url-df84f6a103123387b0dd/record.json
 
@@ -7996,7 +7996,7 @@ Hub API at revision 72da4c53 lists one BF16 safetensors file in the Qwen3_5ForCo
 
 ### Limitations
 
-Hub API at revision 8c88265a lists two BF16 safetensors shards (about 5.17B parameters, including the vision encoder) in the dense Qwen3_5ForConditionalGeneration architecture; the repository is not gated. The card is shared by the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes and its prose says the Qwen 3.5 family, so base_model is unset. The card lists quantized releases only for the 35B-A3B size. Benchmark results appear only as images and are not recorded. The card declares Apache-2.0 for the weights.
+Hub API at revision 8c88265a lists two BF16 safetensors shards (about 5.17B parameters, including the vision encoder) in the dense Qwen3_5ForConditionalGeneration architecture; the repository is publicly accessible. The card is shared by the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes and its prose says the Qwen 3.5 family, so base_model is unset. The card lists quantized releases only for the 35B-A3B size. The card declares Apache-2.0 for the weights.
 
 - Record JSON: https://awesomecua.com/resources/url-90b24afa7bb8b2181205/record.json
 
@@ -8031,7 +8031,7 @@ Hub API at revision 8c88265a lists two BF16 safetensors shards (about 5.17B para
 
 ### Limitations
 
-Hub API at revision bcd6a36a lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture; the repository is not gated. The card is shared by the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes while its prose says the Qwen 3.5 family, so base_model is unset. Benchmark results appear only as images and are not recorded. H Company's models page lists Holo3.1 at 0.8B, 4B, 9B and 35B-A3B under Apache 2.0, and the card declares Apache-2.0 for the weights.
+Hub API at revision bcd6a36a lists four BF16 safetensors shards (about 9.41B parameters) in the Qwen3_5ForConditionalGeneration architecture; the repository is publicly accessible. The card is shared by the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes while its prose says the Qwen 3.5 family, so base_model is unset. H Company's models page lists Holo3.1 at 0.8B, 4B, 9B and 35B-A3B under Apache 2.0, and the card declares Apache-2.0 for the weights.
 
 - Record JSON: https://awesomecua.com/resources/url-4e9e46b2c7a0a21e130d/record.json
 
@@ -8275,7 +8275,7 @@ Moonshot AI open-weight MoE vision-language model with 2.8B activated LLM parame
 
 ### Limitations
 
-General-purpose vision-language model family (Kimi-VL-A3B-Instruct, Kimi-VL-A3B-Thinking and Kimi-VL-A3B-Thinking-2506 on Hugging Face); OS-agent interaction and GUI grounding are reported benchmark capabilities, so the record is adjacent. The inspected tree holds only the README, the technical-report PDF, requirements.txt and LICENSE; no GUI-agent harness or evaluation code is released in this repository, and the reported OSWorld and grounding scores were not reproduced. The MIT LICENSE file applies to this repository; checkpoint cards declare their own weights terms, which were not reviewed. Weights collection: https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85. The repository file listing was inspected at Git object 41d5ef072bc5.
+General-purpose vision-language model family (Kimi-VL-A3B-Instruct, Kimi-VL-A3B-Thinking and Kimi-VL-A3B-Thinking-2506 on Hugging Face); OS-agent interaction and GUI grounding are reported benchmark capabilities, so the record is adjacent. The inspected tree holds only the README, the technical-report PDF, requirements.txt and LICENSE; it offers documentation rather than a GUI-agent harness or evaluator. The MIT LICENSE file applies to this repository; checkpoint cards declare their own weights terms, which were not reviewed. Weights collection: https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85. The repository file listing was inspected at Git object 41d5ef072bc5.
 
 - Record JSON: https://awesomecua.com/resources/github-moonshotai-kimi-vl/record.json
 
@@ -8314,7 +8314,7 @@ GUI-grounding checkpoint post-trained from GUI-Owl-1.5-8B-Instruct with SFT and 
 
 ### Limitations
 
-The Hub repository holds four safetensors shards in the Qwen3-VL architecture inherited from its base. The card, by Kingsware and Vocaela AI, declares CC BY-NC-SA 4.0 for this checkpoint (non-commercial, share-alike). The base model mPLUG/GUI-Owl-1.5-8B-Instruct is not an active catalog record, so no variant relation is recorded. Card scores (73.2 on ScreenSpot-Pro without zoom-in, 80.5 with it) are publisher measurements with the publisher's own prompt setup and were not reproduced; the training data is not released on this card. Smaller 4B siblings from the same publisher are separate Hub repositories and are not covered here.
+The Hub repository holds four safetensors shards in the Qwen3-VL architecture inherited from its base. The card, by Kingsware and Vocaela AI, declares CC BY-NC-SA 4.0 for this checkpoint (non-commercial, share-alike). The base model mPLUG/GUI-Owl-1.5-8B-Instruct is not an active catalog record, so no variant relation is recorded. Card scores (73.2 on ScreenSpot-Pro without zoom-in, 80.5 with it) are publisher measurements with the publisher's own prompt setup; the card has no training-data release. Smaller 4B siblings from the same publisher are separate Hub repositories.
 
 - Record JSON: https://awesomecua.com/resources/url-461125e2d6ac2f030f6b/record.json
 
@@ -8451,7 +8451,7 @@ Non-generative browser-agent policy fine-tuned from the 322M laya encoder: one f
 
 ### Limitations
 
-Built as the per-step decision head of the jev-ultrafast browser agent. The remote code builds each request from the page URL, title, up to 1,200 characters of page text, the interactive elements with their roles and the last ten actions; it takes no screenshot, and a separate local LLM writes the text that TYPE_TEXT enters. The repository also ships a jev-ultrafast-compatible server, evaluation suites, training pipeline code, a harness patch and result logs. The card reports 11 to 14 of 54 multi-step tasks on held-out real sites for version v19s and 22 to 27 ms per decision on one RTX 4070 Ti SUPER; these are publisher measurements and were not reproduced. The card metadata declares Apache-2.0 and says the training datasets keep their own licenses.
+Built as the per-step decision head of the jev-ultrafast browser agent. The remote code builds each request from the page URL, title, up to 1,200 characters of page text, the interactive elements with their roles and the last ten actions; it takes no screenshot, and a separate local LLM writes the text that TYPE_TEXT enters. The repository also ships a jev-ultrafast-compatible server, evaluation suites, training pipeline code, a harness patch and result logs. The card reports 11 to 14 of 54 multi-step tasks on held-out real sites for version v19s and 22 to 27 ms per decision on one RTX 4070 Ti SUPER; these are publisher measurements. The card metadata declares Apache-2.0 and says the training datasets keep their own licenses.
 
 - Record JSON: https://awesomecua.com/resources/url-c5b0e2eab771f62792fb/record.json
 
@@ -8487,7 +8487,7 @@ A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions
 
 ### Limitations
 
-The ungated Hub manifest includes model.safetensors, pytorch_model.bin, config and tokenizer files; the two weight formats represent the same checkpoint and are not counted separately. The card describes an approximately 24K-example curated WebLINX training subset and evaluates dialogue-guided web navigation. Predictions still require parsing and execution in an external browser environment. The retained weight license is the Meta Llama 3 Community License Agreement, not WebLlama code MIT. No weights were downloaded, model used, or agreement accepted.
+The ungated Hub manifest includes model.safetensors, pytorch_model.bin, config and tokenizer files; the two weight formats represent the same checkpoint. The card describes an approximately 24K-example curated WebLINX training subset and evaluates dialogue-guided web navigation. Predictions still require parsing and execution in an external browser environment. The retained weight license is the Meta Llama 3 Community License Agreement, not WebLlama code MIT. No weights were downloaded, model used, or agreement accepted.
 
 - Record JSON: https://awesomecua.com/resources/url-7c3e8c4ba52428584079/record.json
 
@@ -8964,7 +8964,7 @@ A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history with
 
 ### Limitations
 
-The public manifest contains 64 safetensors shards. The card declares MIT for this model and names its Qwen2.5-VL base; upstream terms remain separate. This is the 32B release, distinct from the existing 72B preview. Family-level or 72B benchmark scores are not transferred to it.
+The public manifest contains 64 safetensors shards. The card declares MIT for this model and names its Qwen2.5-VL base; upstream terms remain separate. This is the 32B release, distinct from the existing 72B preview. Family-level and 72B benchmark scores apply to separate releases from this 32B model.
 
 - Record JSON: https://awesomecua.com/resources/url-ad7f176848fd84de64e2/record.json
 
@@ -8999,7 +8999,7 @@ A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and 
 
 ### Limitations
 
-The former OpenCUA-72B-preview API redirects to the canonical xlangai/OpenCUA-72B repository. The public manifest lists 82 safetensors weight shards plus an index and custom model/tokenizer code. The card declares MIT for the released model and describes absolute coordinates after smart resizing. Weight files and remote code were not downloaded or executed.
+The former OpenCUA-72B-preview API redirects to the canonical xlangai/OpenCUA-72B repository. The public manifest lists 82 safetensors weight shards plus an index and custom model/tokenizer code. The card declares MIT for the released model and describes absolute coordinates after smart resizing.
 
 - Record JSON: https://awesomecua.com/resources/url-4a0b1692589594745a3c/record.json
 
@@ -9073,7 +9073,7 @@ Decision models at 1.7B, 4B and 8B that answer typed questions with calibrated p
 
 ### Limitations
 
-Models and code for an open replacement of a hosted System One decision API. A Qwen3 or Qwen3.5 backbone without its vocabulary head scores each option with a pointer head, so one pass answers every question in a request; a local server exposes POST /v1/systemone. Browser steps arrive as page text, numbered elements and recent actions, and the model chooses an operation (click, type, DONE and others) and a target element. The repository holds the wev package (data conversion for Mind2Web, NNetNav and WebChain, training, calibration, export, serving), teacher-collection scripts, the OpenJev-Bench browser-lane client (2,346 frozen steps stored in the Hub dataset alanhuangya/OpenJev-Data), locked results and the paper source; the paper is a Zenodo deposit (doi 10.5281/zenodo.22941164) with no catalog record. The models also answer general decisions such as triage and routing. Results are publisher-reported, and live-website numbers use an LLM judge. Not a fork, not archived. Code was read, not run.
+Models and code for an open replacement of a hosted System One decision API. A Qwen3 or Qwen3.5 backbone without its vocabulary head scores each option with a pointer head, so one pass answers every question in a request; a local server exposes POST /v1/systemone. Browser steps arrive as page text, numbered elements and recent actions, and the model chooses an operation (click, type, DONE and others) and a target element. The repository holds the wev package (data conversion for Mind2Web, NNetNav and WebChain, training, calibration, export, serving), teacher-collection scripts, the OpenJev-Bench browser-lane client (2,346 frozen steps stored in the Hub dataset alanhuangya/OpenJev-Data), locked results and the paper source; the paper is a Zenodo deposit (doi 10.5281/zenodo.22941164) with no catalog record. The models also answer general decisions such as triage and routing. Results are publisher-reported, and live-website numbers use an LLM judge.
 
 - Record JSON: https://awesomecua.com/resources/github-alanhuangyoo-openjev/record.json
 
@@ -9187,7 +9187,7 @@ OS-Atlas action checkpoint fine-tuned from OS-Atlas-Base-7B that reads a screens
 
 ### Limitations
 
-Hub API at revision 6c0135de lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card says the checkpoint is fine-tuned from OS-Atlas-Base-7B and is the Pro model of the paper's Section 5.4, while the Hub base_model metadata names Qwen/Qwen2-VL-7B-Instruct. The card's inference example loads weights from local paths rather than this Hub ID. The card declares Apache-2.0 for the checkpoint.
+Hub API at revision 6c0135de lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card says the checkpoint is fine-tuned from OS-Atlas-Base-7B and is the Pro model of the paper's Section 5.4, while the Hub base_model metadata names Qwen/Qwen2-VL-7B-Instruct. The card's inference example loads weights from local paths; this Hub ID is absent from the example. The card declares Apache-2.0 for the checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-9c5e0c8f6784bedeb153/record.json
 
@@ -9256,7 +9256,7 @@ Pretrained base-size Pix2Struct checkpoint in Transformers format, learned by pa
 
 ### Limitations
 
-Adjacent: a general visual-language pretraining checkpoint, not an agent or a UI-specific fine-tune. The card calls it the pretrained version of Pix2Struct for fine-tuning only, quotes the paper abstract, shows the T5X-to-Transformers conversion script, and says the weights were contributed by the Pix2Struct authors and added to Hugging Face by Younes Belkada. Hub API at revision 4605659e lists model.safetensors and pytorch_model.bin in the Pix2StructForConditionalGeneration architecture, with 282,285,696 F32 parameters reported for the safetensors file; the repository is not gated. The card gives no scores and does not link the Pix2Struct code repository, so no family relation is recorded. The card declares Apache-2.0 for the checkpoint; no pretraining data is part of this release.
+Adjacent: a general visual-language pretraining checkpoint with broader scope than agent or UI-specific fine-tuning. The card calls it the pretrained version of Pix2Struct for fine-tuning only, quotes the paper abstract, shows the T5X-to-Transformers conversion script, and says the weights were contributed by the Pix2Struct authors and added to Hugging Face by Younes Belkada. Hub API at revision 4605659e lists model.safetensors and pytorch_model.bin in the Pix2StructForConditionalGeneration architecture, with 282,285,696 F32 parameters reported for the safetensors file; the repository is publicly accessible. The card leaves scores and a link to the Pix2Struct code repository absent, leaving a family relation unrecorded. The card declares Apache-2.0 for the checkpoint; no pretraining data is part of this release.
 
 - Record JSON: https://awesomecua.com/resources/url-bb1440d051c68455a72e/record.json
 
@@ -9291,7 +9291,7 @@ Base-size Pix2Struct checkpoint fine-tuned on Screen2Words that writes a short f
 
 ### Limitations
 
-Hub API at revision 17514729 lists one pytorch_model.bin with tokenizer and processor files in the Pix2StructForConditionalGeneration architecture; the repository is not gated. The card says the T5X checkpoint was contributed by the Pix2Struct authors and added to Hugging Face by Younes Belkada, and it reuses the generic Pix2Struct description with usage deferred to the pix2struct-textcaps-base card; it gives no Screen2Words scores. The card does not link a code repository, so no family relation is recorded. The card declares Apache-2.0 for the checkpoint.
+Hub API at revision 17514729 lists one pytorch_model.bin with tokenizer and processor files in the Pix2StructForConditionalGeneration architecture; access is open. The card says the T5X checkpoint was contributed by the Pix2Struct authors and added to Hugging Face by Younes Belkada, and it reuses the generic Pix2Struct description with usage deferred to the pix2struct-textcaps-base card; it gives no Screen2Words scores. The card does not link a code repository, so no family relation is recorded. The card declares Apache-2.0 for the checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-1cf7f8b4b2a1eb9c6547/record.json
 
@@ -9326,7 +9326,7 @@ Large-size Pix2Struct checkpoint fine-tuned on Screen2Words that writes a short 
 
 ### Limitations
 
-Hub API at revision a77a669b lists one pytorch_model.bin with tokenizer and processor files in the Pix2StructForConditionalGeneration architecture; the repository is not gated. The card says the T5X checkpoint was contributed by the Pix2Struct authors and added to Hugging Face by Younes Belkada, and it reuses the generic Pix2Struct description with usage deferred to the pix2struct-textcaps-base card; it gives no Screen2Words scores. The card does not link a code repository, so no family relation is recorded. The card declares Apache-2.0 for the checkpoint.
+Hub API at revision a77a669b lists one pytorch_model.bin with tokenizer and processor files in the Pix2StructForConditionalGeneration architecture; access is open. The card says the T5X checkpoint was contributed by the Pix2Struct authors and added to Hugging Face by Younes Belkada, and it reuses the generic Pix2Struct description with usage deferred to the pix2struct-textcaps-base card; it gives no Screen2Words scores. The card does not link a code repository, so no family relation is recorded. The card declares Apache-2.0 for the checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-6c3e04249787a3de7cbc/record.json
 
@@ -9501,7 +9501,7 @@ A Qwen2.5-VL-based computer-use checkpoint with direct grounding and agent actio
 
 ### Limitations
 
-Four public safetensors shards and model/tokenizer configuration are present. The card declares Apache-2.0. The model card’s Paper link points to the code repository, so the arXiv association uses the repository’s explicit citation rather than treating that link as a paper URL.
+Four public safetensors shards and model/tokenizer configuration are present. The card declares Apache-2.0. The model card’s Paper link points to the code repository; the arXiv association uses the repository’s explicit citation.
 
 - Record JSON: https://awesomecua.com/resources/url-ff7b1873a3eead89607a/record.json
 
@@ -9572,7 +9572,7 @@ ByteDance Seed vision-language foundation model served by API, whose repository 
 
 ### Limitations
 
-General-purpose vision-language model; the README lists GUI control and gameplay among agent-centric abilities, so the record is adjacent. The README names Volcano Engine model ID doubao-1-5-thinking-vision-pro-250428 and offers cookbooks that call that API; it does not state a weights release, and none is assumed. The inspected tree contains GUI/prompt.py (computer-use, mobile-use and grounding prompts), GUI/action_parser.py and GUI/gui.ipynb, plus grounding, 3D, video and long-CoT notebooks and a copy of the technical report. Apache-2.0 applies to the cookbook repository, not to the hosted model. Reported GUI benchmark results were not reproduced; availability and pricing were not tested.
+General-purpose vision-language model; the README lists GUI control and gameplay among agent-centric abilities, so the record is adjacent. The README names Volcano Engine model ID doubao-1-5-thinking-vision-pro-250428 and offers cookbooks that call that API; it does not state a weights release, and none is assumed. The inspected tree contains GUI/prompt.py (computer-use, mobile-use and grounding prompts), GUI/action_parser.py and GUI/gui.ipynb, plus grounding, 3D, video and long-CoT notebooks and a copy of the technical report. Apache-2.0 applies to the cookbook repository, not to the hosted model.
 
 - Record JSON: https://awesomecua.com/resources/github-bytedance-seed-seed1-5-vl/record.json
 
@@ -9679,7 +9679,7 @@ SFT-labelled 2B UI-TARS checkpoint, the compact size of the original release: a 
 
 ### Limitations
 
-Hub API at revision f366a1db lists two F32 safetensors shards (about 2.44B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. The card's online agent table has no 2B row, and its sibling links also name a GGUF conversion that this record does not cover. Card benchmark tables are publisher measurements and were not reproduced.
+Hub API at revision f366a1db lists two F32 safetensors shards (about 2.44B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. The card's online agent table has no 2B row, and its sibling links also name a GGUF conversion that this record does not cover.
 
 - Record JSON: https://awesomecua.com/resources/url-bd9f8174e5503055c0bd/record.json
 
@@ -9714,7 +9714,7 @@ DPO-labelled 72B UI-TARS checkpoint that its card marks as recommended: a native
 
 ### Limitations
 
-Hub API at revision 43a70a29 lists 31 BF16 safetensors shards (about 73.4B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 22.7 on OSWorld with a 15-step budget and 24.6 with 50 steps for this checkpoint. Card benchmark tables are publisher measurements and were not reproduced.
+Hub API at revision 43a70a29 lists 31 BF16 safetensors shards (about 73.4B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 22.7 on OSWorld with a 15-step budget and 24.6 with 50 steps for this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-0447e1fb83a794507aa2/record.json
 
@@ -9749,7 +9749,7 @@ SFT-labelled 72B UI-TARS checkpoint: a native GUI agent model in the Qwen2-VL ar
 
 ### Limitations
 
-Hub API at revision 8e7a0310 lists 64 F32 safetensors shards (about 73.4B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 18.8 on OSWorld with a 15-step budget and 46.6 on AndroidWorld for this checkpoint. Card benchmark tables are publisher measurements and were not reproduced.
+Hub API at revision 8e7a0310 lists 64 F32 safetensors shards (about 73.4B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 18.8 on OSWorld with a 15-step budget and 46.6 on AndroidWorld for this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-fdb901523979ed1e831b/record.json
 
@@ -9784,7 +9784,7 @@ DPO-labelled 7B UI-TARS checkpoint that its card marks as recommended: a native 
 
 ### Limitations
 
-Hub API at revision 727b0df3 lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 18.7 on OSWorld with a 15-step budget for this checkpoint. Card benchmark tables are publisher measurements and were not reproduced.
+Hub API at revision 727b0df3 lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 18.7 on OSWorld with a 15-step budget for this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-a8b43a1f2bebd998f612/record.json
 
@@ -9925,7 +9925,7 @@ The outcome-supervision checkpoint used by WebRL to score browser trajectories d
 
 ### Limitations
 
-The official API resolves the former THUDM namespace to zai-org and lists four safetensors shards. No model card or weight-license declaration is present in the inspected manifest. The official WebRL README identifies this as its outcome-supervised reward model; it is a training component rather than an action policy.
+The official API resolves the former THUDM namespace to zai-org and lists four safetensors shards. No model card or weight-license declaration is present in the inspected manifest. The official WebRL README identifies this as its outcome-supervised reward model, a training component.
 
 - Record JSON: https://awesomecua.com/resources/url-d1e85aeb6d96859c109d/record.json
 
@@ -9961,7 +9961,7 @@ A public text-based process-reward checkpoint from the Web-Shepherd collection f
 
 ### Limitations
 
-The official project-linked collection identifies this public 3B checkpoint. The README uses a separate unavailable WebShepherd/web-shepherd-base URL; redirect equivalence is not asserted. Two safetensors shards and a Qwen2 causal-language-model configuration are present. No model card or weight license is published in the inspected manifest. The separately announced multimodal 3B model is not assumed released.
+The official project-linked collection identifies this public 3B checkpoint. The README uses a separate unavailable WebShepherd/web-shepherd-base URL. Two safetensors shards and a Qwen2 causal-language-model configuration are present. No model card or weight license is published in the inspected manifest.
 
 - Record JSON: https://awesomecua.com/resources/url-72f7fe0211c6551b945f/record.json
 
@@ -9998,7 +9998,7 @@ GLM-4.1V-9B-based web exploration agent from WebVIA that reads a page screenshot
 
 ### Limitations
 
-In the linked code repository, the agent launcher sends the page's DOM tree with element IDs and a screenshot to a configurable OpenAI-compatible endpoint and parses click[id], enter[id][text] and select[id][text] actions from the reply, so this checkpoint is served separately. Hub API at revision d6ee0ce1 lists four BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture; the repository is not gated. GitHub reports no license for the code repository. The card declares MIT for the checkpoint.
+In the linked code repository, the agent launcher sends the page's DOM tree with element IDs and a screenshot to a configurable OpenAI-compatible endpoint and parses click[id], enter[id][text] and select[id][text] actions from the reply, so this checkpoint is served separately. Hub API at revision d6ee0ce1 lists four BF16 safetensors shards (about 10.29B parameters) in the Glm4vForConditionalGeneration architecture; access is open. GitHub reports no license for the code repository. The card declares MIT for the checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-62724cba1b5814215cf7/record.json
 

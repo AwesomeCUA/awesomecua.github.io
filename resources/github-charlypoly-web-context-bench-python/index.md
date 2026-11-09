@@ -14,14 +14,14 @@ Local-page benchmark comparing six browser representations on token use, factual
 
 ## Limitations
 
-This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only.
+This is a single-snapshot representation evaluation on local fixtures and captured pages. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/record.json
 
 ## Structured profile
 
 - actions: READ text answer, ACT selector, text/label, accessible role/name, DOM index, Stagehand reference or screenshot point, according to the representation
-- evaluation: READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics, not completed-task success.
+- evaluation: READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics.
 - focus: Browser-representation token use, Factual READ accuracy, ACT target-element selection
 - observations: Top-document HTML, Markdown converted from HTML, Playwright accessibility snapshot, Browser Use indexed DOM, Stagehand hybrid snapshot, Viewport screenshot
 - setting: offline
@@ -30,7 +30,7 @@ This is a single-snapshot representation evaluation on local fixtures and captur
 
 No count recorded.
 
-Fixed local-page observations; the reported run uses claude-sonnet-5 and a shared prompt, without scrolling or an agent loop. Browser Use disables its viewport cutoff and sends untruncated text; Stagehand uses a separate matched browser load. Short-string representability labels are approximate. Offline does not mean API-free. Third-party snapshot redistribution remains unresolved; results were not reproduced.
+Fixed local-page observations; the reported run uses claude-sonnet-5 and a shared prompt, without scrolling or an agent loop. Browser Use disables its viewport cutoff and sends untruncated text; Stagehand uses a separate matched browser load. Short-string representability labels are approximate. The offline evaluation uses model API calls. Third-party snapshot redistribution remains unresolved.
 
 ## License declarations
 

@@ -19,9 +19,9 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
 - [WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness](https://awesomecua.com/resources/arxiv-2610-02617/) — 2026-10-02
   Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
 - [OpenVAM: Open-World Visual Attention Modeling with VLMs](https://awesomecua.com/resources/arxiv-2609-31364/) — 2026-09-25
-  Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales rather than agent actions.
+  Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales on static inputs.
 - [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2609-19843/) — 2026-09-17
-  Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
+  Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility.
 - [Affora: A Design System for Agent-Friendly Interfaces](https://awesomecua.com/resources/arxiv-2609-19125/) — 2026-09-16
   Presents Affora, a design system with reusable components and executable checks for interfaces used by computer-use agents, informed by studies of components and visual variation.
 - [WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://awesomecua.com/resources/arxiv-2608-06474/) — 2026-08-06

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Benchmark for proactive personal\-assistant agents with hidden intents over multi\-turn tasks, motivated by OpenClaw; the abstract does not say whether agents act through a computer, GUI, browser or only dialogue and tools\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Benchmark for proactive personal\-assistant agents with hidden intents over multi\-turn tasks, motivated by OpenClaw; the abstract leaves open whether agents act through a computer, GUI, browser, dialogue or tools\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

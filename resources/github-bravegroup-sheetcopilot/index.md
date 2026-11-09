@@ -14,7 +14,7 @@ Spreadsheet automation agent for Windows/Excel, with benchmark assets and a sepa
 
 ## Limitations
 
-The original agent and the later Ubuntu evaluator have different roles; the repository does not establish that the original agent runs on Ubuntu. Code licensing is unresolved because the retained README and LICENSE contain conflicting declarations.
+The original agent and the later Ubuntu evaluator have different roles. Code licensing is unresolved because the retained README and LICENSE contain conflicting declarations.
 
 - Record JSON: https://awesomecua.com/resources/github-bravegroup-sheetcopilot/record.json
 

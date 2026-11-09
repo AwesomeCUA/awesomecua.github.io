@@ -14,7 +14,7 @@ Generates synthetic computer-use tasks and records trajectories in OSWorld deskt
 
 ## Limitations
 
-Released code includes task-generation and training-format conversion scripts. OSWorld/InSTA environments and model services require separate setup; the repository is not a bundled VM or model checkpoint. Code and the separately published dataset have distinct license declarations.
+Released code includes task-generation and training-format conversion scripts. OSWorld/InSTA environments and model services require separate setup. Code and the separately published dataset have distinct license declarations.
 
 - Record JSON: https://awesomecua.com/resources/github-sunblaze-ucb-agentsynth/record.json
 

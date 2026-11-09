@@ -14,7 +14,7 @@ A visual trajectory judge that retains selected intermediate screenshots to eval
 
 ## Limitations
 
-Four public safetensors shards are present. Apache-2.0 is declared for the weights. This is an evaluator checkpoint rather than a navigation policy; human-agreement rates are not treated as task-success scores.
+Four public safetensors shards are present. Apache-2.0 is declared for the weights. This is an evaluator checkpoint; human-agreement rates measure agreement with human labels.
 
 - Record JSON: https://awesomecua.com/resources/url-772161f06c2b3d4978b5/record.json
 

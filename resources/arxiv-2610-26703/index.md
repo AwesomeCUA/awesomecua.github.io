@@ -14,7 +14,7 @@ MAP annotates computer-use traces at linked operation, function/consequence, met
 
 ## Limitations
 
-Reviewed the complete abstract and selected v1 taxonomy, annotation, evaluation and limitations sections. MAP analyzes existing human/agent traces rather than deploying a new acting policy. Annotation and timing coverage depend on the source datasets; manual agreement reflects a particular labeling scheme. Behavioral findings do not establish a privacy guarantee.
+Reviewed the complete abstract and selected v1 taxonomy, annotation, evaluation and limitations sections. MAP analyzes existing human/agent traces. Annotation and timing coverage depend on the source datasets; manual agreement reflects a particular labeling scheme.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26703/record.json
 

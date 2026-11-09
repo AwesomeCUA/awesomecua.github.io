@@ -14,7 +14,7 @@ Gelato-30B-A3B and GTA1-32B OS-World agent runs, three trials each in the same G
 
 ## Limitations
 
-The dataset card holds only license metadata; the description and scope come from the official Gelato README, which says this repository provides all of the agent's OS-World trajectories from runs on a fixed OS-World snapshot with GPT-5 as planner and a 50-step limit. The file list also holds the GTA1-32B baseline runs from the same harness, which the README compares but does not name as part of this release. The README reports 58.71 ± 0.66% automated and 61.85 ± 0.79% human-corrected success for Gelato-30B-A3B, against 56.97 ± 1.47% and 59.47 ± 1.27% for GTA1-32B; these were not reproduced. The GitHub repository has no license file; MIT is the dataset card's declaration. Files were not downloaded.
+The dataset card holds only license metadata; the description and scope come from the official Gelato README, which says this repository provides all of the agent's OS-World trajectories from runs on a fixed OS-World snapshot with GPT-5 as planner and a 50-step limit. The file list also holds the GTA1-32B baseline runs from the same harness, which the README compares as separate baseline material. The README reports 58.71 ± 0.66% automated and 61.85 ± 0.79% human-corrected success for Gelato-30B-A3B, against 56.97 ± 1.47% and 59.47 ± 1.27% for GTA1-32B. The GitHub repository has no license file; MIT is the dataset card's declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-aed610c413d6bb9f1caa/record.json
 
@@ -32,7 +32,7 @@ The dataset card holds only license metadata; the description and scope come fro
 - 361 distinct OS-World tasks — each run directory at Hub revision b9495a8e (the same task set in all six) (computed) (computed; source: https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618)
 - 34,598 PNG screenshots — six run directories at Hub revision b9495a8e (computed) (computed; source: https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618)
 
-Counts come from a script over the pinned Hub file list. Every task directory holds traj.jsonl, result.txt, an initial screenshot and step screenshots; the 361 tasks span 10 OS-World domain folders. Results are the automated evaluation; the README's human re-check of 20 tasks lives in the GitHub repository, not here. Directories, tasks and screenshots are different units and are not summed.
+Counts come from a script over the pinned Hub file list. Every task directory holds traj.jsonl, result.txt, an initial screenshot and step screenshots; the 361 tasks span 10 OS-World domain folders. Results are the automated evaluation; the README's human re-check of 20 tasks lives in the GitHub repository. Directories, tasks and screenshots are different units and are counted separately.
 
 ## License declarations
 

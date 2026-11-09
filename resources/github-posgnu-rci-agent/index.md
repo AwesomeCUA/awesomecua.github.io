@@ -14,7 +14,7 @@ A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improv
 
 ## Limitations
 
-The public release includes the agent, prompting utilities and a bundled MiniWoB++ environment wrapper. Its README documents older hosted model names and an OpenAI-key setup; contemporary endpoint compatibility was not tested. The repository notes that its MiniWoB++ dependency is not officially supported on Windows. MIT applies to repository code; no new trained weights are claimed.
+The public release includes the agent, prompting utilities and a bundled MiniWoB++ environment wrapper. Its README documents older hosted model names and an OpenAI-key setup. The repository notes that its MiniWoB++ dependency is not officially supported on Windows. MIT applies to repository code; no new trained weights are claimed.
 
 - Record JSON: https://awesomecua.com/resources/github-posgnu-rci-agent/record.json
 

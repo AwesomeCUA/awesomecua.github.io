@@ -2246,7 +2246,7 @@ Mianqiu Huang, Taofeng Xue, Chong Peng, Jinrui Ding, Jie Yang, Sicheng Fan, Jial
 
 ## WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation
 
-WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success does not translate into useful task completion.
+WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success and useful task completion diverge.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2607-06118/
 - Original source: https://arxiv.org/abs/2607.06118
@@ -2572,7 +2572,7 @@ Introduces NeXUI, an assistive UI-agent benchmark that evaluates navigation toge
 
 ### Limitations
 
-Packaged tasks use recorded linear transition graphs. Reported model experiments use a text-input validation subset, so their results are not evidence of screenshot-based navigation performance. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 Interface states and task annotations; 3.4 Evaluation; 4.1 Models and experimental setup; 5 Discussion).
+Packaged tasks use recorded linear transition graphs. Reported model experiments use a text-input validation subset; their results measure that subset. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 Interface states and task annotations; 3.4 Evaluation; 4.1 Models and experimental setup; 5 Discussion).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-09944/record.json
 

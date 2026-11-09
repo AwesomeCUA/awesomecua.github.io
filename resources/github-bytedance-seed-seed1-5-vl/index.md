@@ -14,7 +14,7 @@ ByteDance Seed vision-language foundation model served by API, whose repository 
 
 ## Limitations
 
-General-purpose vision-language model; the README lists GUI control and gameplay among agent-centric abilities, so the record is adjacent. The README names Volcano Engine model ID doubao-1-5-thinking-vision-pro-250428 and offers cookbooks that call that API; it does not state a weights release, and none is assumed. The inspected tree contains GUI/prompt.py (computer-use, mobile-use and grounding prompts), GUI/action_parser.py and GUI/gui.ipynb, plus grounding, 3D, video and long-CoT notebooks and a copy of the technical report. Apache-2.0 applies to the cookbook repository, not to the hosted model. Reported GUI benchmark results were not reproduced; availability and pricing were not tested.
+General-purpose vision-language model; the README lists GUI control and gameplay among agent-centric abilities, so the record is adjacent. The README names Volcano Engine model ID doubao-1-5-thinking-vision-pro-250428 and offers cookbooks that call that API; it does not state a weights release, and none is assumed. The inspected tree contains GUI/prompt.py (computer-use, mobile-use and grounding prompts), GUI/action_parser.py and GUI/gui.ipynb, plus grounding, 3D, video and long-CoT notebooks and a copy of the technical report. Apache-2.0 applies to the cookbook repository, not to the hosted model.
 
 - Record JSON: https://awesomecua.com/resources/github-bytedance-seed-seed1-5-vl/record.json
 

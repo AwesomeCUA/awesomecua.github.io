@@ -14,7 +14,7 @@ A cross-platform GUI-critic benchmark with mobile, desktop and web JSONL splits 
 
 ## Limitations
 
-The Hub card provides split/format/license metadata, while the official OS-Oracle README establishes critic-evaluation purpose and platform scope. The repository currently releases only benchmark inference/scoring components; data-synthesis code, training datasets and model checkpoints remain unchecked TODOs and are not counted as released assets. Apache-2.0 is recorded for benchmark data only; the evaluation code has no inspected license declaration.
+The Hub card provides split/format/license metadata, while the official OS-Oracle README establishes critic-evaluation purpose and platform scope. The repository currently releases benchmark inference/scoring components; data-synthesis code, training datasets and model checkpoints remain unchecked TODOs. Apache-2.0 is recorded for benchmark data only; the evaluation code has no inspected license declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-c73ba0618d1b3c505887/record.json
 
@@ -30,7 +30,7 @@ The Hub card provides split/format/license metadata, while the official OS-Oracl
 
 - 3 platform JSONL splits — mobile/desktop/web configurations in the Hub card (computed) (computed; source: https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md)
 
-No sample count is inferred from the n<1K Hub size band. Evaluation code availability does not establish the release of OS-Oracle training data or weights.
+No sample count is inferred from the n<1K Hub size band. OS-Oracle training data and weights remain pending; released evaluation code covers a separate component.
 
 ## License declarations
 

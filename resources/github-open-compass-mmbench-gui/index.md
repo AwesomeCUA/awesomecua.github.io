@@ -30,7 +30,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - > 8,000 tasks — reported multi-level benchmark (reported; source: https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md)
 
-The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. Do not treat every level as the same evaluator or a complete implemented interface.
+The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. The README documents four levels; release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration.
 
 ## License declarations
 

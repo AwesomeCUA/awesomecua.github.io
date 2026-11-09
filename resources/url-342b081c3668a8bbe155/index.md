@@ -14,7 +14,7 @@ Task definitions for Mobile-Agent-E’s long-horizon, multi-app Android evaluati
 
 ## Limitations
 
-The public Hub manifest contains one test Parquet file. This resource is the benchmark’s task-definition package, not a bundled phone environment or agent. Card metadata supplies rubrics/reference-operation fields but no data-license declaration or verified automated scorer; the code repository’s MIT license is not transferred to these records.
+The public Hub manifest contains one test Parquet file. This resource is the benchmark’s task-definition package. Card metadata supplies rubrics/reference-operation fields but no data-license declaration or verified automated scorer; the code repository’s MIT license is not transferred to these records.
 
 - Record JSON: https://awesomecua.com/resources/url-342b081c3668a8bbe155/record.json
 
@@ -30,7 +30,7 @@ The public Hub manifest contains one test Parquet file. This resource is the ben
 
 - 25 task-definition records — Hub test split at revision b8eca829 (reported; source: https://huggingface.co/datasets/mikewang/mobile_eval_e/raw/b8eca82988ed8d4f9dec01eaa9d51abf4b35aa83/README.md)
 
-Features are task_id, instruction, type, apps, scenario, rubrics and human-reference operation strings. A task record is not an action count or recorded screenshot trajectory. Public Parquet inventory was checked but no sample rows were downloaded; companion README limits the tested agent platform to Android.
+Features are task_id, instruction, type, apps, scenario, rubrics and human-reference operation strings. A task record contains task-definition fields and human-reference operation strings; the counted unit is tasks. Public Parquet inventory was checked but no sample rows were downloaded; companion README limits the tested agent platform to Android.
 
 ## License declarations
 

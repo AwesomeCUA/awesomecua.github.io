@@ -1,6 +1,6 @@
 # GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding
 
-Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
+Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2511-00810/
 - Original source: https://arxiv.org/abs/2511.00810

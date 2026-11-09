@@ -14,14 +14,14 @@ AgentStudio's full GUI grounding test set: 18,026 instruction and target-box exa
 
 ## Limitations
 
-The card calls this the full GroundUI-18K of AgentStudio and a test set not to be used for training, although the single Hub split is named train. One split in 19 Parquet shards carries image, image_path, instruction, bbox, resolution, source and platform fields. Platform and source tallies come from the Hugging Face dataset-viewer statistics, not a download. Source labels are three Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. The AgentStudio evaluation README says GroundUI-18K was recaptioned with CogVLM2, while the card does not say which instruction version is published. MIT is the dataset-card declaration; screenshots drawn from upstream datasets keep their own terms.
+The card calls this the full GroundUI-18K of AgentStudio and a test set reserved from training, although the single Hub split is named train. One split in 19 Parquet shards carries image, image_path, instruction, bbox, resolution, source and platform fields. Platform and source tallies come from the Hugging Face dataset-viewer statistics. Source labels are three Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. The AgentStudio evaluation README says GroundUI-18K was recaptioned with CogVLM2; the published instruction version remains unspecified in the card. MIT is the dataset-card declaration; screenshots drawn from upstream datasets keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/record.json
 
 ## Structured profile
 
 - actions: click coordinate
-- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.
+- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
 - focus: instruction-conditioned GUI element grounding
 - observations: screenshots, natural-language instructions
 - setting: offline
@@ -33,7 +33,7 @@ The card calls this the full GroundUI-18K of AgentStudio and a test set not to b
 - 2,476 examples — platform label desktop (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train)
 - 3,957 examples — platform label mobile (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train)
 
-Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; it is not counted here.
+Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; this count covers the full set.
 
 ## License declarations
 

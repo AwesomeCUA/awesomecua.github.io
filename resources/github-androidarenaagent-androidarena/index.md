@@ -21,7 +21,7 @@ Inclusion does not establish reproducibility or endorsement.
 ## Structured profile
 
 - actions: app launch/stop, click/double-click/long-click, text input, swipe/drag and Android navigation, finish
-- evaluation: The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Full reference-dependent evaluation coverage cannot be assumed because complete annotated action sequences are not released.
+- evaluation: The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Complete annotated action sequences are pending release; reference-dependent evaluation currently has limited coverage.
 - focus: multi-step Android tasks, cross-app workflows and instruction constraints
 - observations: UI hierarchy text, screenshots, combined text/image observations
 - setting: interactive
@@ -30,7 +30,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-README states that task instructions are released but annotated action sequences, apart from the calendar example, will come later. Environment setup targets Android API 33 with uiautomator2 and manual Google-account setup. Public task YAML and evaluator code exist, but benchmark execution and full reference coverage were not verified. No task total is derived from app YAML file counts. Code and data licenses remain unknown.
+README states that task instructions are released but annotated action sequences, apart from the calendar example, will come later. Environment setup targets Android API 33 with uiautomator2 and manual Google-account setup. Public task YAML and evaluator code exist. No task total is derived from app YAML file counts. Code and data licenses remain unknown.
 
 ## License declarations
 

@@ -14,7 +14,7 @@ Public-ladder release of GUIGuard-Bench: 121 Android and Linux desktop agent tra
 
 ## Limitations
 
-This Hub repository is the public-ladder subset: the paper and project page describe 241 trajectories with 4,080 screenshots, while this card's evaluation set has 121. The reference_virtual_android and reference_virtual_pc folders (emulated Android and Windows trajectories without privacy labels) are reference-only and not part of the evaluation. The card is an anonymous-review version without a citation; the paper link comes from the project page that the paper's abstract links. Screenshots contain personal information, and the card limits use to research.
+This Hub repository is the public-ladder subset: the paper and project page describe 241 trajectories with 4,080 screenshots, while this card's evaluation set has 121. The reference_virtual_android and reference_virtual_pc folders contain emulated Android and Windows trajectories without privacy labels as reference material outside the evaluation. The card is an anonymous-review version without a citation; the paper link comes from the project page that the paper's abstract links. Screenshots contain personal information, and the card limits use to research.
 
 - Record JSON: https://awesomecua.com/resources/url-61860953a680776ffe53/record.json
 
@@ -34,7 +34,7 @@ This Hub repository is the public-ladder subset: the paper and project page desc
 - 68 Android task directories — Android/ at revision c2b5ca41 (computed) (computed; source: https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920)
 - 53 PC task directories — PC/ at revision c2b5ca41 (computed) (computed; source: https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920)
 
-Trajectories, screenshots and annotations are different units and are not summed. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once, not retained) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.
+Trajectories, screenshots and annotations are different units and are counted separately. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.
 
 ## License declarations
 

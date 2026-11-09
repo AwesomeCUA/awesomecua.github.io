@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) found it outside the scope: Closed\-loop memory optimization for software\-engineering agents that resolve repository issues\. This coding\-agent work does not involve operating graphical interfaces, web pages or devices\. The retained record is v1, so the scope decision waits until that snapshot is reconciled\. An exclusion proposal is open in pull request \#3007\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) found it outside the scope: Closed\-loop memory optimization for software\-engineering agents that resolve repository issues\. This coding\-agent work concerns repository issue resolution; the retained v1 scope decision awaits reconciliation with the screened v2 abstract\. The retained record is v1, so the scope decision waits until that snapshot is reconciled\. An exclusion proposal is open in pull request \#3007\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

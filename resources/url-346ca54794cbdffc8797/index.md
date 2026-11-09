@@ -14,7 +14,7 @@ Hub host of OSWorld's prebuilt Ubuntu virtual machines: VMware archives for x86 
 
 ## Limitations
 
-Adjacent: environment images that the curated OSWorld benchmark boots, not a benchmark or training set by itself. At revision a5d9c3ea the manifest holds Ubuntu-x86.zip, Ubuntu-arm.zip and Ubuntu.qcow2.zip (about 12 GB each), two further qcow2 images (Ubuntu_claude.qcow2 and Ubuntu_claude2.qcow2, about 23.7 GB each) that the card does not describe, and aliyun_config.sh. OSWorld's VMware provider picks the x86 or arm64 archive by host architecture, and its Docker provider fetches Ubuntu.qcow2.zip. The card also mentions task examples in evaluation_examples.zip, which the manifest does not contain. Apache-2.0 is the card's metadata declaration and does not relicense Ubuntu or bundled applications. The images were not downloaded or booted.
+Adjacent: environment images that the curated OSWorld benchmark boots; this asset is an image release. At revision a5d9c3ea the manifest holds Ubuntu-x86.zip, Ubuntu-arm.zip and Ubuntu.qcow2.zip (about 12 GB each), two further qcow2 images (Ubuntu_claude.qcow2 and Ubuntu_claude2.qcow2, about 23.7 GB each) left undescribed by the card, and aliyun_config.sh. OSWorld's VMware provider picks the x86 or arm64 archive by host architecture, and its Docker provider fetches Ubuntu.qcow2.zip. The card also mentions task examples in evaluation_examples.zip, which the manifest does not contain. Apache-2.0 is the card's metadata declaration and does not relicense Ubuntu or bundled applications.
 
 - Record JSON: https://awesomecua.com/resources/url-346ca54794cbdffc8797/record.json
 

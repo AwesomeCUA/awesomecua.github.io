@@ -1,6 +1,6 @@
 # MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation
 
-MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness rather than treating all response tokens equally. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
+MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2607-29320/
 - Original source: https://arxiv.org/abs/2607.29320

@@ -1,6 +1,6 @@
 # Learning How to Remember: Memory Modality Selection for GUI Agents
 
-Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step instead of fixing one memory modality for a task.
+Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2610-17928/
 - Original source: https://arxiv.org/abs/2610.17928

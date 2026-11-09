@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Title calls it a computer\-use benchmark, but the abstract only describes expert\-built financial modeling tasks and rubric grading of LLMs, without saying whether models work through a GUI, spreadsheet software, code or text\. An curation proposal is open in pull request \#3325\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: The benchmark uses expert\-built financial modeling tasks and rubric grading of LLMs; the abstract leaves open whether models work through a GUI, spreadsheet software, code or text\. An curation proposal is open in pull request \#3325\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

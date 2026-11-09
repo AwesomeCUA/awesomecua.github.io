@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Safety monitor for testing autonomous agents such as AutoGPT on the open internet; the abstract does not specify whether the agents browse web pages, use a GUI or only call tools\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Safety monitor for testing autonomous agents such as AutoGPT on the open internet; the abstract leaves open whether the agents browse pages, use a GUI or call tools\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

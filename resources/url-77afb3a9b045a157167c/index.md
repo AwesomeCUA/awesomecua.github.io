@@ -14,7 +14,7 @@ WebLINX 1.1, a reprocessed release of WebLINX's conversational web-navigation de
 
 ## Limitations
 
-The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for BrowserGym and AgentLab: some demonstrations were removed and tab actions were added to the evaluated steps, so results should be reported as WebLINX-1.1, WebLINX-BrowserGym or WebLINX-BG, not compared with WebLINX 1.0. Each demonstration folder holds accessibility trees, DOM snapshots, element properties and boxes, page HTML and screenshots, with per-demonstration ZIP archives alongside. The task loader and scorer live in the separate McGill-NLP/weblinx-browsergym extension repository, which declares no license. CC-BY-NC-SA-4.0 is the card's data declaration, with added terms of use.
+The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for BrowserGym and AgentLab: some demonstrations were removed and tab actions were added to the evaluated steps; results should be reported as WebLINX-1.1, WebLINX-BrowserGym or WebLINX-BG and compared within that release. Each demonstration folder holds accessibility trees, DOM snapshots, element properties and boxes, page HTML and screenshots, with per-demonstration ZIP archives alongside. The task loader and scorer live in the separate McGill-NLP/weblinx-browsergym extension repository, which declares no license. CC-BY-NC-SA-4.0 is the card's data declaration, with added terms of use.
 
 - Record JSON: https://awesomecua.com/resources/url-77afb3a9b045a157167c/record.json
 
@@ -38,7 +38,7 @@ The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for
 - 10,407 single-step tasks — test_vis split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
 - 5,467 single-step tasks — test_web split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
 
-A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries, so files were not counted. No agent was run.
+A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries. No agent was run.
 
 ## License declarations
 

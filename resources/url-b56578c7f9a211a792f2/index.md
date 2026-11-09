@@ -14,7 +14,7 @@ AI browser from The Browser Company for macOS and Windows whose assistant reads 
 
 ## Limitations
 
-The homepage presents Dia as a work browser: a morning brief, reports and slide decks assembled from tabs and connected tools such as Slack, Notion, Teams and GSuite, plus profiles, split views and tab grouping. The security page describes the agent's safeguards: a chat starts without access to other tabs or write actions until the user grants them, form fills and email drafts are shown for approval before they are inserted, irreversible actions stay as drafts, agentic mode sees only approved context and cannot navigate to another website on its own, and password fields and irreversible action buttons are hidden from it. The same page names GPT, Claude and Gemini as the underlying models and says The Browser Company is part of Atlassian. Agent capabilities and reliability were not independently tested.
+The homepage presents Dia as a work browser: a morning brief, reports and slide decks assembled from tabs and connected tools such as Slack, Notion, Teams and GSuite, plus profiles, split views and tab grouping. The security page describes the agent's safeguards: each chat starts with access limited to its current tab and read actions until the user grants more, form fills and email drafts are shown for approval before insertion, irreversible actions stay as drafts, agentic mode sees approved context and stays on the approved website, and password fields and irreversible action buttons are hidden from it. The same page names GPT, Claude and Gemini as the underlying models and says The Browser Company is part of Atlassian.
 
 - Record JSON: https://awesomecua.com/resources/url-b56578c7f9a211a792f2/record.json
 

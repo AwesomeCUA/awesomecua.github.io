@@ -1751,7 +1751,7 @@ Introduces IconDesc, which generates mobile icon alt-text from partial UI contex
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. This is a UI accessibility and element-description method; autonomous GUI control is not evaluated.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. This is a UI accessibility and element-description method.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-18060/record.json
 
@@ -2274,7 +2274,7 @@ Orienter detects interactable GUI elements in XR applications by interpreting sc
 
 ### Limitations
 
-Reviewed against the complete official arXiv abstract. The described environment is XR/VR applications; the operating system is not specified in the abstract.
+Reviewed against the complete official arXiv abstract. The described environment is XR/VR applications.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-10811/record.json
 
@@ -2927,7 +2927,7 @@ Measures how irrelevant GUI content affects multimodal agents using a simulated 
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes a simulated dataset; real-browser deployment is not asserted.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes a simulated dataset.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2408-02544/record.json
 
@@ -3031,7 +3031,7 @@ Presents OpenWebAgent, a web automation toolkit that pairs a Chrome plugin with 
 
 ### Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and the proceedings PDF. The PDF exceeds the catalog's 10 MB fetch budget, so only the landing page is a retained receipt. Experiments have not been independently reproduced. The abstract states that the framework, Chrome plugin and demo video are published in an author GitHub repository, which was not part of this paper review.
+The annotation was reviewed against the ACL Anthology landing page and the proceedings PDF. The PDF exceeds the catalog's 10 MB fetch budget, so only the landing page is a retained receipt. The abstract states that the framework, Chrome plugin and demo video are published in an author GitHub repository.
 
 - Record JSON: https://awesomecua.com/resources/url-6e436831f76a1337ea8b/record.json
 

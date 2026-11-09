@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Multimodal deep\-research web agent trained on synthetic trajectories with RL, plus BrowseComp\-VL, a browsing benchmark mixing visual and textual information seeking\. An open pull request \(\#4073\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Multimodal deep\-research web agent trained on synthetic trajectories with RL, plus BrowseComp\-VL, a browsing benchmark mixing visual and textual information seeking; the abstract leaves open whether the visual and textual browsing work fits adjacent scope\. An open pull request \(\#4073\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

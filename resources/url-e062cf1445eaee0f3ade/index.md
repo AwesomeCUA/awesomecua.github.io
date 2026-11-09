@@ -29,7 +29,7 @@ The dataset card requires coordinate scaling to stay aligned with the image proc
 
 No count recorded.
 
-Coordinates were resized for a specified Qwen2.5-VL image processor and must remain aligned with image resizing. AGUVIS++ material requires images from upstream AGUVIS and OS-Atlas releases; this repository is not a self-contained copy of every referenced image collection.
+Coordinates were resized for a specified Qwen2.5-VL image processor and must remain aligned with image resizing. AGUVIS++ material requires images from upstream AGUVIS and OS-Atlas releases.
 
 ## License declarations
 

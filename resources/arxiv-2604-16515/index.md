@@ -14,7 +14,7 @@ Introduces PriceBlind, a visual perturbation method for controlled screenshot-ba
 
 ## Limitations
 
-Scope is screenshot-based interface understanding and safety. The retained abstract does not establish a specific operating system or live transaction execution.
+Scope is screenshot-based interface understanding and safety. The retained abstract leaves the operating system and live transaction execution unspecified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-16515/record.json
 

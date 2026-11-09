@@ -14,7 +14,7 @@ Introduces a benchmark for binary GUI-toggle instructions and State-aware Reason
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-13615/record.json
 

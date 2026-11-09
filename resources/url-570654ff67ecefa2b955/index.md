@@ -14,7 +14,7 @@ Video-derived mobile navigation annotations that pair scene boundaries and scree
 
 ## Limitations
 
-The ungated Hub publishes four Parquet splits containing video identifiers and annotations. Original videos and extracted screenshots must be obtained separately; the code README explains that consumers download source videos from YouTube. A Windows Mobile unseen-OS test split is documented but is not labeled desktop Windows here. The companion code has an Apache-2.0 file, while the data card declares no data license and the repository defers third-party materials to original terms. Training scripts, pretrained checkpoints and the full generation pipeline remain planned updates.
+The ungated Hub publishes four Parquet splits containing video identifiers and annotations. Original videos and extracted screenshots must be obtained separately; the code README explains that consumers download source videos from YouTube. A Windows Mobile unseen-OS test split is documented. The companion code has an Apache-2.0 file, while the data card declares no data license and the repository defers third-party materials to original terms. Training scripts, pretrained checkpoints and the full generation pipeline remain planned updates.
 
 - Record JSON: https://awesomecua.com/resources/url-570654ff67ecefa2b955/record.json
 
@@ -34,7 +34,7 @@ The ungated Hub publishes four Parquet splits containing video identifiers and a
 - ≈ 333,000 detected scenes — publisher overview of MONDAY (reported; source: https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md)
 - ≈ 313,000 identified actions — publisher overview of MONDAY (reported; source: https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md)
 
-Split counts are video-annotation rows; scene and action totals are rounded publisher reports and are not added to row counts. Source videos/images are not included in the Hub files.
+Split counts are video-annotation rows; scene and action totals are rounded publisher reports. Source videos/images are not included in the Hub files.
 
 ## License declarations
 

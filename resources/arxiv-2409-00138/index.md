@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Reviewer hold: the retained abstract and full\-text Sections 3\.2–3\.3 describe ToolEmu/GPT\-4\-emulated tool trajectories and final\-action privacy evaluation\. They do not establish direct GUI or browser interaction for this method\. Preserve the bibliographic record as metadata\-only pending an explicit adjacent\-scope justification\.
+Reviewer hold: the retained abstract and full\-text Sections 3\.2–3\.3 describe ToolEmu/GPT\-4\-emulated tool trajectories and final\-action privacy evaluation\. The retained abstract and full\-text Sections 3\.2–3\.3 leave direct GUI or browser interaction unestablished for this method\. Preserve the bibliographic record as metadata\-only pending an explicit adjacent\-scope justification\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

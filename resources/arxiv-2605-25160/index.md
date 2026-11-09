@@ -14,7 +14,7 @@ Introduces ScaleWoB, which synthesizes interactive GUI environments as backend-f
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Mobile, desktop and automotive interfaces are simulated as webpages; this does not assert native deployment on those platforms.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Mobile, desktop and automotive interfaces are simulated as webpages.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-25160/record.json
 

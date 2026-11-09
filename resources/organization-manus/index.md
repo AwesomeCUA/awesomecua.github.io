@@ -14,7 +14,7 @@ Publisher or product brand associated with Manus computer-use or browser automat
 
 ## Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-manus/record.json
 

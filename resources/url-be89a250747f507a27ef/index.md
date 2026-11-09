@@ -14,7 +14,7 @@ Android app GUI crawl with per-app navigation graphs that link screen IDs throug
 
 ## Limitations
 
-The card carries only the license, links and citation requests (MobA, META-GUI, CAM-GUI and a MoGUI/MoCon technical report); the complete report it announces as coming soon is not linked, so no paper relation is recorded. The repository's MoGUI_Paper_v0.1.pdf is a two-page pre-release announcement without methods or statistics. Android is established by the metadata: Google Play package names, android.widget element classes and Android permission-controller screens. At revision 19639219 the manifest holds 200 metadata JSON shards, 200 moguidata tar.gz shards totalling about 1.14 TB, and an apk_infos.json file of Google Play listing fields per package. Metadata shard 1 alone holds navigation graphs for 1,084 app packages listing 13,726 valid screens; other shards were not counted. A streamed read of the start of the first tar.gz shard showed per-app folders of PNG screenshots with same-named XML files; the archives were not downloaded. CC BY-NC-SA 4.0 is the card's data declaration and does not establish rights to the third-party apps shown. The sibling MoCon dataset is a separate release.
+The card carries the license, links and citation requests (MobA, META-GUI, CAM-GUI and a MoGUI/MoCon technical report); the announced complete report remains unlinked, leaving the paper relation unrecorded. The repository's MoGUI_Paper_v0.1.pdf is a two-page pre-release announcement without methods or statistics. Android is established by the metadata: Google Play package names, android.widget element classes and Android permission-controller screens. At revision 19639219 the manifest holds 200 metadata JSON shards, 200 moguidata tar.gz shards totalling about 1.14 TB, and an apk_infos.json file of Google Play listing fields per package. Metadata shard 1 alone holds navigation graphs for 1,084 app packages listing 13,726 valid screens. A streamed read of the start of the first tar.gz shard showed per-app folders of PNG screenshots with same-named XML files. CC BY-NC-SA 4.0 is the card's data declaration and does not establish rights to the third-party apps shown. The sibling MoCon dataset is a separate release.
 
 - Record JSON: https://awesomecua.com/resources/url-be89a250747f507a27ef/record.json
 
@@ -29,7 +29,7 @@ The card carries only the license, links and citation requests (MobA, META-GUI, 
 
 No count recorded.
 
-Each metadata shard maps an app package to a root screen, a valid-screen list and a navigation graph whose nodes are screen hashes with next screens and the triggering actions. No total app, screen or transition count is stated by the publisher; only metadata shard 1 was counted, and file counts are not sample counts.
+Each metadata shard maps an app package to a root screen, a valid-screen list and a navigation graph whose nodes are screen hashes with next screens and the triggering actions. Only metadata shard 1 was counted; total app, screen and transition counts remain unspecified by the publisher, and file counts are a separate unit from samples.
 
 ## License declarations
 

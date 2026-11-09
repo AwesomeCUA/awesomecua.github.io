@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Decomposes reliability gains of an enterprise agent on SpreadsheetBench, BullshitBench and GAIA; the abstract does not say whether it browses web pages or edits spreadsheets through an interface or code\. An exclusion proposal is open in pull request \#2397\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Decomposes reliability gains of an enterprise agent on SpreadsheetBench, BullshitBench and GAIA; the abstract leaves open whether it browses web pages or edits spreadsheets through an interface or code\. An exclusion proposal is open in pull request \#2397\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: RealClawBench turns real OpenClaw developer\-agent sessions into reproducible, automatically scored tasks; evaluation of claw\-style OS agents with no GUI interaction described\. An open pull request \(\#3139\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: RealClawBench turns real OpenClaw developer\-agent sessions into reproducible, automatically scored tasks; the abstract leaves open whether OpenClaw developer sessions include GUI interaction\. An open pull request \(\#3139\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ GUI dragging data with screen observations, prior state, and continuous pointer 
 
 ## Limitations
 
-Raw and Parquet folders are alternative views of the same data and should not be counted as independent samples. The inspected card did not state a license.
+Raw and Parquet folders are alternative views of the same data. The inspected card did not state a license.
 
 - Record JSON: https://awesomecua.com/resources/url-fe43af1801032be708cc/record.json
 

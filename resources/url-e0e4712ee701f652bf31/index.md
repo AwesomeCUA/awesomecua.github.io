@@ -14,7 +14,7 @@ Thinking variant of the 32B GUI-Owl 1.5 native GUI agent model, built on Qwen3-V
 
 ## Limitations
 
-The card's tables label this checkpoint GUI-Owl-1.5-32B-Thinking and describe the thinking models as the larger variants for tasks that need planning and reflection; the 32B instruct checkpoint is a separate repository. The Hub manifest lists 14 Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 33,357,390,064 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported and were not reproduced. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
+The card's tables label this checkpoint GUI-Owl-1.5-32B-Thinking and describe the thinking models as the larger variants for tasks that need planning and reflection; the 32B instruct checkpoint is a separate repository. The Hub manifest lists 14 Safetensors shards and an index, and the API reports a Qwen3VLForConditionalGeneration config with 33,357,390,064 BF16 parameters. The card defers usage to a cookbook outside this repository and shows vLLM serving. Benchmark scores in the card are publisher-reported. MIT is the card's weight declaration and is not extended to Qwen3-VL or training data.
 
 - Record JSON: https://awesomecua.com/resources/url-e0e4712ee701f652bf31/record.json
 

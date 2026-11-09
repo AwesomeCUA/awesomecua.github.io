@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Report on LLM agents that write and refine graphics code, with a taxonomy and literature tool; the abstract does not say whether covered systems operate graphics applications through GUIs or scripting APIs\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Report on LLM agents that write and refine graphics code, with a taxonomy and literature tool; the abstract leaves open whether covered systems operate graphics applications through GUIs or scripting APIs\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -1,6 +1,6 @@
 # pc-screen-control
 
-Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data in place of screenshots.
 
 - Catalog URL: https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/
 - Original source: https://github.com/desteny-dev/pc-screen-control

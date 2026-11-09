@@ -14,7 +14,7 @@ Mixture-of-experts Holo2 checkpoint fine-tuned from Qwen3-VL-30B-A3B-Thinking th
 
 ## Limitations
 
-Hub API at revision 81dfb86d lists 13 BF16 safetensors shards (about 31.07B parameters) and config.json declares Qwen3VLMoeForConditionalGeneration with 128 experts, 8 active per token; the repository is not gated. The card YAML declares CC-BY-NC-4.0 and its size list marks the 30B-A3B as research-only and non-commercial, while a generic 'Apache 2.0' line in the shared family text applies to the 4B and 8B sizes. H Company's models page lists Holo2 at 4B, 8B and 30B-A3B under CC BY-NC 4.0. Navigation and localization scores on the card were measured by the publisher inside its Surfer 2 agent and were not reproduced; no weights were loaded.
+Hub API at revision 81dfb86d lists 13 BF16 safetensors shards (about 31.07B parameters) and config.json declares Qwen3VLMoeForConditionalGeneration with 128 experts, 8 active per token; the repository is publicly accessible. The card YAML declares CC-BY-NC-4.0 and its size list marks the 30B-A3B as research-only and non-commercial, while a generic 'Apache 2.0' line in the shared family text applies to the 4B and 8B sizes. H Company's models page lists Holo2 at 4B, 8B and 30B-A3B under CC BY-NC 4.0. Navigation and localization scores on the card were measured by the publisher inside its Surfer 2 agent.
 
 - Record JSON: https://awesomecua.com/resources/url-ed8d5883c240b78e329f/record.json
 

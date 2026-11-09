@@ -32,7 +32,7 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train-with-Synthetic, w
 - 3,297 synthetic variant samples — augmented samples in the release (reported; source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md)
 - 4,036 PNG files — data/ at Hub revision 3deedc5d (computed) (computed; source: https://huggingface.co/api/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/revision/3deedc5d3667696aff317e5e8a3b47d83b9fb48c)
 
-Computed from samples.json at this revision (15.7 MB, read once, not retained as a receipt): 4,036 samples, of which 739 have plain timestamp file names and 3,297 carry a hash suffix; sample tags give 1,884 tritanopia, 942 color_inverted and 471 task_description_augmented variants, and 370 train plus 369 val originals; 17,916 keypoints in all, counted again on each variant; platform labels 3,721 macOS, 205 Mobile and 110 blank. Variants duplicate the annotations of their source screenshots, so samples are not independent examples. Samples, files and keypoints are different units and are not summed.
+Computed from samples.json at this revision (15.7 MB, read once): 4,036 samples, of which 739 have plain timestamp file names and 3,297 carry a hash suffix; sample tags give 1,884 tritanopia, 942 color_inverted and 471 task_description_augmented variants, and 370 train plus 369 val originals; 17,916 keypoints in all, counted again on each variant; platform labels 3,721 macOS, 205 Mobile and 110 blank. Variants duplicate the annotations of their source screenshots; sample counts include those repeated annotations. Samples, files and keypoints are different units; these counts are reported separately.
 
 ## License declarations
 

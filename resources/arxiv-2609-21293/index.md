@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Benchmark of autonomous software generation for browser games with source\-level and browser\-executed checks\. The agents write game code; the browser checks are scripted evaluation, not agents operating interfaces\. The other marked it borderline: Benchmarks coding agents that generate browser games, verified by browser\-executed checks with real input; unclear whether the evaluated agents operate the browser themselves or only write code, so it sits between code generation and web interaction\. An exclusion proposal is open in pull request \#2361\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed on scope\. One read it as outside the scope: Benchmark of autonomous software generation for browser games with source\-level and browser\-executed checks\. The agents write game code; browser checks are scripted evaluation, leaving agent browser operation open\. The other marked it borderline: Benchmarks coding agents that generate browser games, verified by browser\-executed checks with real input; unclear whether the evaluated agents operate the browser themselves or only write code, so it sits between code generation and web interaction\. An exclusion proposal is open in pull request \#2361\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

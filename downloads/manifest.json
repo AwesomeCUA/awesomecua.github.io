@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "89f6f2970316b6859f4215aa06d686bed474f06a10ec450faf82935fed457811",
+  "catalog_sha256": "5b1589065870a8b7b7eb0ef5d2385d44cfbee6c96d64a3969fe1567bf66e91fa",
   "source_repository": "https://github.com/reacher-z/Awesome-CUA",
   "source_catalog": "/downloads/catalog.jsonl",
   "publication_build_info": "/data/build-info.json",
@@ -22,12 +22,12 @@
       "format": "JSONL",
       "media_type": "application/x-ndjson",
       "count": {
-        "value": 5470,
+        "value": 5472,
         "unit": "resources"
       },
       "scope": "active",
-      "bytes": 13571632,
-      "sha256": "89f6f2970316b6859f4215aa06d686bed474f06a10ec450faf82935fed457811"
+      "bytes": 13541260,
+      "sha256": "5b1589065870a8b7b7eb0ef5d2385d44cfbee6c96d64a3969fe1567bf66e91fa"
     },
     {
       "id": "catalog-json",
@@ -44,12 +44,12 @@
       "format": "JSON",
       "media_type": "application/json",
       "count": {
-        "value": 5470,
+        "value": 5472,
         "unit": "resources"
       },
       "scope": "active",
-      "bytes": 13000373,
-      "sha256": "93ca652e2ac5a7ebfecf67659f762d4f19aec2223d739ecbf920195b7aa812f7"
+      "bytes": 12969951,
+      "sha256": "3773cd2eee46e1485b90ed72b45f770066b3fd71d74e3e27afca6f4220213c50"
     },
     {
       "id": "catalog-sqlite",
@@ -66,12 +66,12 @@
       "format": "SQLite",
       "media_type": "application/vnd.sqlite3",
       "count": {
-        "value": 5470,
+        "value": 5472,
         "unit": "resources"
       },
       "scope": "active",
-      "bytes": 26120192,
-      "sha256": "84b8adcb3190340a39400b40a6462d07e30417b07df97eedb2230b4c11a248ae"
+      "bytes": 26087424,
+      "sha256": "0b364c14a483866a8448ea9ee630c4527063677019cd2526d5e164ea61565b75"
     },
     {
       "id": "rag-reviewed",
@@ -92,8 +92,8 @@
         "unit": "documents"
       },
       "scope": "reviewed",
-      "bytes": 16355430,
-      "sha256": "152784acb2fdfe3a8eebce31da35be84918141e6413d48910cef4502f9b46941"
+      "bytes": 16314490,
+      "sha256": "33b19797dde8f81419b0a70c04e3f33aed5b60ae762a708a53d80131151521d0"
     },
     {
       "id": "rag-all",
@@ -110,12 +110,12 @@
       "format": "JSONL",
       "media_type": "application/x-ndjson",
       "count": {
-        "value": 5470,
+        "value": 5472,
         "unit": "documents"
       },
       "scope": "active",
-      "bytes": 19373188,
-      "sha256": "926264437364251458f10dd6477fe81961f27f15b198ac5ad84a0282499a161a"
+      "bytes": 19337614,
+      "sha256": "d3bde7efc42508f1f34432eea8176eddaa5412ce277c1fe6609023f8caba749a"
     },
     {
       "id": "rag-manifest",
@@ -137,7 +137,7 @@
       },
       "scope": "provenance",
       "bytes": 958,
-      "sha256": "f50f936256b89baf30a06c10b99f10803fd8c7353c8c829ea21a6a1f1fbd2a93"
+      "sha256": "5581baea42c0b8465ecf971152f3ca5ca8457fbe78b78d12c450612b357b6140"
     },
     {
       "id": "citations-bib",
@@ -198,12 +198,12 @@
       "format": "BibTeX",
       "media_type": "application/x-bibtex",
       "count": {
-        "value": 2601,
+        "value": 2603,
         "unit": "citations"
       },
       "scope": "active",
-      "bytes": 1980691,
-      "sha256": "35f524adc39b012d9f3354924b153dc119e7f1f47baa5c80fd1a72a55f9d3215"
+      "bytes": 1981960,
+      "sha256": "0e9eee286cb09838a54ea427a701f9b77329e250e2cec1d4b9f953f9abe3c35d"
     },
     {
       "id": "citations-all-csl-json",
@@ -220,12 +220,12 @@
       "format": "CSL JSON",
       "media_type": "application/vnd.citationstyles.csl+json",
       "count": {
-        "value": 2601,
+        "value": 2603,
         "unit": "citations"
       },
       "scope": "active",
-      "bytes": 4975363,
-      "sha256": "0274e63cbd7c3e18b35abedbf82454b6fc13ed6c8851b506ba2cc5c4212f1f19"
+      "bytes": 4978718,
+      "sha256": "043a2b895e7f69918a5e938f048c1233a3b1911849d39cc84aab90d14eb9e05f"
     },
     {
       "id": "publication-citations-bib",
@@ -291,7 +291,7 @@
       },
       "scope": "provenance",
       "bytes": 3596,
-      "sha256": "e4b96400406551383925c557430afda5a5e6f02eb89c146c0622e673a212d7db"
+      "sha256": "14a655c6008119b3eb825ec52f28a9e5f6b685a97d57b1d49d7dd9fab28b0f84"
     },
     {
       "id": "topics",
@@ -313,7 +313,7 @@
       },
       "scope": "reviewed",
       "bytes": 556133,
-      "sha256": "a545bb6344832ee5e8bb1cc82efae5732abaaa31d39504c3f46d5e277655d677"
+      "sha256": "3244d9f2f50decdc49660b52569d87eff94afe733683423a45d78bd9aab39916"
     },
     {
       "id": "benchmarks-profiles",
@@ -334,8 +334,8 @@
         "unit": "profiles"
       },
       "scope": "reviewed",
-      "bytes": 430928,
-      "sha256": "0c3ea183af0f989490f628c6fe8164380d2ffe534d478c446574bf732ce814d5"
+      "bytes": 429291,
+      "sha256": "c1a0bde1d5905186d21542c486f3713347e6e08d2d08f5dbf6c54fcf0494b1da"
     },
     {
       "id": "datasets-profiles",
@@ -356,8 +356,8 @@
         "unit": "profiles"
       },
       "scope": "reviewed",
-      "bytes": 506433,
-      "sha256": "af23359c4d03b40c49592abf512d5de1a8826e20ec3a766e81f9f4f452d54301"
+      "bytes": 504297,
+      "sha256": "3557f9e32955d2e73c0d2228e75e5a2fe1118017fb1309a924698045138de13c"
     },
     {
       "id": "relationships",
@@ -400,8 +400,8 @@
         "unit": "reports"
       },
       "scope": "provenance",
-      "bytes": 527525,
-      "sha256": "d8e87608a1225ad79479bb3130ef9afcf00b91caa16e1b55add19128ec113604"
+      "bytes": 530239,
+      "sha256": "312b7e416f51f730b46a4257b4ec0e7e9211a1f47efa4c7a355eb8924c96c5aa"
     },
     {
       "id": "sources",
@@ -462,12 +462,12 @@
       "format": "JSONL",
       "media_type": "application/x-ndjson",
       "count": {
-        "value": 3856,
+        "value": 3858,
         "unit": "papers"
       },
       "scope": "archive",
-      "bytes": 8061436,
-      "sha256": "8db938e96ee59416b594cf48cfd3c2c248d5b201bf7e5f9e9ba1961076808377"
+      "bytes": 8064407,
+      "sha256": "e99d380ac231398869b53080f41efe208de02a5c4a1c96701605be22f14e0118"
     },
     {
       "id": "publications",
@@ -555,7 +555,7 @@
       },
       "scope": "candidate-observations",
       "bytes": 342319,
-      "sha256": "7f8e3456b8fdaa1a2591c9502893aee9179a28a8f3b07648ea4620c2b2a3b166"
+      "sha256": "d31da4f1a35a6681eb26c12224d437cdd28de8ddcc2b38e7466c6ec80eef50ab"
     },
     {
       "id": "resource-schema-json",

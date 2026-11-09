@@ -14,7 +14,7 @@ Announced GUI trajectory synthesis resources for recovery from policy-induced er
 
 ## Limitations
 
-The 800k figure describes training samples in the study, not an independently counted public download. The repository code-license declaration does not establish terms for an unreleased dataset.
+The 800k figure describes training samples in the study. The repository code-license declaration does not establish terms for an unreleased dataset.
 
 - Record JSON: https://awesomecua.com/resources/github-alibabaresearch-rots/record.json
 
@@ -27,9 +27,9 @@ The 800k figure describes training samples in the study, not an independently co
 
 ### Count observations
 
-- ≈ 800,000 training samples — paper-described synthesis output; not a released file inventory (reported; source: https://raw.githubusercontent.com/AlibabaResearch/RoTS/HEAD/README.md)
+- ≈ 800,000 training samples — paper-described synthesis output (reported; source: https://raw.githubusercontent.com/AlibabaResearch/RoTS/HEAD/README.md)
 
-The inspected README marks the dataset and collection pipelines as in preparation. This profile records an announced research asset, not a verified downloadable corpus; file formats, splits, and release-specific data terms remain unknown.
+The inspected README marks the dataset and collection pipelines as in preparation. The inspected README marks the dataset and collection pipelines as in preparation; file formats, splits and release-specific data terms remain unknown.
 
 ## License declarations
 

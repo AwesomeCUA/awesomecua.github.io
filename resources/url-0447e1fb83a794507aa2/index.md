@@ -14,7 +14,7 @@ DPO-labelled 72B UI-TARS checkpoint that its card marks as recommended: a native
 
 ## Limitations
 
-Hub API at revision 43a70a29 lists 31 BF16 safetensors shards (about 73.4B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 22.7 on OSWorld with a 15-step budget and 24.6 with 50 steps for this checkpoint. Card benchmark tables are publisher measurements and were not reproduced.
+Hub API at revision 43a70a29 lists 31 BF16 safetensors shards (about 73.4B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 22.7 on OSWorld with a 15-step budget and 24.6 with 50 steps for this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-0447e1fb83a794507aa2/record.json
 

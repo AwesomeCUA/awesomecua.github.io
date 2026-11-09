@@ -14,7 +14,7 @@ Discontinued Google browser-agent research prototype built with Gemini 2.0 that 
 
 ## Limitations
 
-Historical product entry. The primary source is the Project Mariner section of Google's December 2024 Gemini 2.0 announcement, which describes an early research prototype tested by trusted testers. The Google Labs page at this URL states that Project Mariner was shut down on 4 May 2026, and the former deepmind.google Project Mariner pages redirect to the DeepMind home page. Do not infer current availability.
+Historical product entry. The primary source is the Project Mariner section of Google's December 2024 Gemini 2.0 announcement, which describes an early research prototype tested by trusted testers. The Google Labs page at this URL states that Project Mariner was shut down on 4 May 2026, and the former deepmind.google Project Mariner pages redirect to the DeepMind home page.
 
 - Record JSON: https://awesomecua.com/resources/url-12d789d450207bd6d5da/record.json
 

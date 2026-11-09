@@ -14,7 +14,7 @@ High-resolution professional interface screenshots and target annotations for ev
 
 ## Limitations
 
-This is the benchmark data asset, distinct from its evaluation-code repository. Target counts are not unique image counts.
+This is the benchmark data asset, distinct from its evaluation-code repository. Target counts and unique image counts are different units.
 
 - Record JSON: https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/record.json
 
@@ -29,7 +29,7 @@ This is the benchmark data asset, distinct from its evaluation-code repository. 
 
 - 1,581 target annotations — sum of icon/text counts in the published card table (computed) (computed; source: https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md)
 
-Counts describe target annotations, not unique screenshots or expanded language/style variants. The evaluation code can reuse a target across configurations.
+Counts describe target annotations; unique screenshots and expanded language/style variants use different units. The evaluation code can reuse a target across configurations.
 
 ## License declarations
 

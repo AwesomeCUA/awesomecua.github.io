@@ -14,7 +14,7 @@ UI-AGILE training annotations and screenshots together with converted GUI-ground
 
 ## Limitations
 
-Public JSON, image archives and Parquet evaluation files are present. The card has no data-license declaration; the model’s MIT declaration is not inherited. The publisher describes fixes to AndroidControl action parameters, but those corrections were not independently reproduced or applied to upstream resources.
+Public JSON, image archives and Parquet evaluation files are present. The card has no data-license declaration; the model’s MIT declaration is not inherited. The publisher describes fixes to AndroidControl action parameters.
 
 - Record JSON: https://awesomecua.com/resources/url-41abb1b7206689cf5057/record.json
 

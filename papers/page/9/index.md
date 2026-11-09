@@ -1272,7 +1272,7 @@ Backdoor attack that fine-tunes GUI agents on teacher-written malicious trajecto
 
 ### Limitations
 
-The annotation was reviewed against the CVF open-access landing page and PDF. Experiments have not been independently reproduced. A teacher model (for example Gemini 2.5 Pro) writes malicious reasoning trajectories drawn from a five-category malicious action library, and the agent learns them by supervised fine-tuning, which the paper calls Context-Aware Behavioral Imitation. Main results fine-tune Qwen2-VL-2B and Qwen2-VL-7B at a 0.1 poisoning ratio with a blended visual trigger; an AndroidWorld emulator deployment through Mobile-Agent-v3 is described in the supplementary material. The paper links no code release or arXiv version.
+The annotation was reviewed against the CVF open-access landing page and PDF. A teacher model (for example Gemini 2.5 Pro) writes malicious reasoning trajectories drawn from a five-category malicious action library, and the agent learns them by supervised fine-tuning, which the paper calls Context-Aware Behavioral Imitation. Main results fine-tune Qwen2-VL-2B and Qwen2-VL-7B at a 0.1 poisoning ratio with a blended visual trigger; an AndroidWorld emulator deployment through Mobile-Agent-v3 is described in the supplementary material. The paper links no code release or arXiv version.
 
 - Record JSON: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/record.json
 
@@ -2484,7 +2484,7 @@ Describes asynchronous reinforcement-learning infrastructure using parallel clou
 
 ### Limitations
 
-The implemented stage uses selected tasks, an external judge and heuristic history management. Autonomous curricula, verification and memory are roadmap directions, not completed capabilities established by this record. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (2 Agent-Environment Interface and Policy Optimisation; 3 Scalable Asynchronous Mobile Environment; 3.2 Persistent State Management; 3.3 Task Lifecycle; 4.2 Rollout and Optimisation; 4.3 Anatomy of the Self-Evolving Agent).
+The implemented stage uses selected tasks, an external judge and heuristic history management. Autonomous curricula, verification and memory are roadmap directions. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (2 Agent-Environment Interface and Policy Optimisation; 3 Scalable Asynchronous Mobile Environment; 3.2 Persistent State Management; 3.3 Task Lifecycle; 4.2 Rollout and Optimisation; 4.3 Anatomy of the Self-Evolving Agent).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-20622/record.json
 
@@ -2797,7 +2797,7 @@ Introduces MobileGym, a browser-hosted simulation of mobile app interactions who
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The simulator is browser-hosted; the abstract does not identify a native mobile operating system.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The simulator is browser-hosted.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-26114/record.json
 
@@ -2953,7 +2953,7 @@ Presents CUA-Gym, which co-generates instructions, initial and target states, an
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract promises future open sourcing; this annotation does not independently verify artifact release or licensing.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract promises future open sourcing.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-25624/record.json
 
@@ -3005,7 +3005,7 @@ Introduces ScaleWoB, which synthesizes interactive GUI environments as backend-f
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Mobile, desktop and automotive interfaces are simulated as webpages; this does not assert native deployment on those platforms.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Mobile, desktop and automotive interfaces are simulated as webpages.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-25160/record.json
 
@@ -3109,7 +3109,7 @@ VISTA evaluates coding agents that turn design handoffs into working web and And
 
 ### Limitations
 
-Reviewed against the complete retained official abstract. Adjacent GUI-application generation benchmark with real component interaction probes; its main evaluated agents are application coders, not general GUI task executors.
+Reviewed against the complete retained official abstract. Adjacent GUI-application generation benchmark with real component interaction probes; its main evaluated agents are application coders.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-26144/record.json
 

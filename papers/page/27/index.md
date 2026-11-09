@@ -510,7 +510,7 @@ Frames conversational and on-screen reference resolution as language modeling, a
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. This is reference resolution involving screen entities, not an evaluated end-to-end GUI controller.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. This is reference resolution involving screen entities.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2403-20329/record.json
 
@@ -1694,7 +1694,7 @@ Presents a conceptual perception–reasoning–action framework and 12 potential
 
 ### Limitations
 
-Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent, rather than an implemented attack benchmark. Scope was checked against the retained abstract and full-text Sections 2.4 and 3.
+Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent. Scope was checked against the retained abstract and full-text Sections 2.4 and 3.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-10196/record.json
 
@@ -3076,7 +3076,7 @@ Presents LLMPA, a mobile process-automation architecture that decomposes request
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract names Alipay but does not establish Android or iOS specifically.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract names Alipay.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2312-06677/record.json
 

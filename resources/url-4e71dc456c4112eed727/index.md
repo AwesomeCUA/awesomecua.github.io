@@ -14,7 +14,7 @@ Desktop grounding prompts selected from GroundCUA and formatted for click-based 
 
 ## Limitations
 
-The card declares MIT and attributes the source examples to GroundCUA. Its separate claim about UI-Vision overlap is not independently validated by this catalog.
+The card declares MIT and attributes the source examples to GroundCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-4e71dc456c4112eed727/record.json
 
@@ -31,7 +31,7 @@ The card declares MIT and attributes the source examples to GroundCUA. Its separ
 - 11,205 screenshots — RL training corpus (reported; source: https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md)
 - 87 desktop applications — RL training corpus (reported; source: https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md)
 
-Publisher-reported counts cover a selection and reformatting of GroundCUA, not a new disjoint image collection. No independent image-overlap audit was performed.
+Publisher-reported counts cover a selection and reformatting of GroundCUA. No independent image-overlap audit was performed.
 
 ## License declarations
 

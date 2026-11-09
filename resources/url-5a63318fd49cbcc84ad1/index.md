@@ -14,7 +14,7 @@ No-code platform that turns plain-language goals into scheduled business agents,
 
 ## Limitations
 
-Twin Labs SAS, a Paris company, provides the service under its terms. Agents prefer APIs and built-in tools; the Web Agent takes over only when no API, or no API scope, covers a step, and the documentation calls it the most expensive and least reliable execution mode. It runs in an embedded browser on an isolated cloud computer dedicated to the agent, not in the user's local browser. It scrapes the target page first, asks for approval of the planned browser task during the build phase, and shows a live view while it navigates, clicks and fills forms. On login pages it pauses so the user can sign in, then stores the session cookies for later runs. Pricing, availability and reliability were not independently tested.
+Twin Labs SAS, a Paris company, provides the service under its terms. Agents prefer APIs and built-in tools; the Web Agent takes over only when no API, or no API scope, covers a step, and the documentation calls it the most expensive and least reliable execution mode. It runs in an embedded browser on an isolated cloud computer dedicated to the agent. It scrapes the target page first, asks for approval of the planned browser task during the build phase, and shows a live view while it navigates, clicks and fills forms. On login pages it pauses so the user can sign in, then stores the session cookies for later runs.
 
 - Record JSON: https://awesomecua.com/resources/url-5a63318fd49cbcc84ad1/record.json
 

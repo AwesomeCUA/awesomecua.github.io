@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Survey of lifelong learning for LLM agents organized by perception, memory and action modules; the abstract does not say whether web, GUI or mobile agents are among the covered environments\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Survey of lifelong learning for LLM agents organized by perception, memory and action modules; the abstract leaves open whether web, GUI or mobile agents are among the covered environments\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

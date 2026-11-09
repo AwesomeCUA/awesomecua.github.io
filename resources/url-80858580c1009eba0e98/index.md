@@ -14,7 +14,7 @@ The AndroidControl-oriented Qwen2-VL checkpoint trained with mobile trajectories
 
 ## Limitations
 
-Four public safetensors shards are present. The card declares Apache-2.0. This is the AC task-specific checkpoint; AndroidWorld and WebArena variants are separate releases and their results are not transferred to it.
+Four public safetensors shards are present. The card declares Apache-2.0. This is the AC task-specific checkpoint; AndroidWorld and WebArena variants are separate releases.
 
 - Record JSON: https://awesomecua.com/resources/url-80858580c1009eba0e98/record.json
 

@@ -14,7 +14,7 @@ Presents LLMPA, a mobile process-automation architecture that decomposes request
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract names Alipay but does not establish Android or iOS specifically.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract names Alipay.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2312-06677/record.json
 

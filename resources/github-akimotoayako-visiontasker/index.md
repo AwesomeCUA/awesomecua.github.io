@@ -14,7 +14,7 @@ An Android automation implementation that translates screenshot-based UI underst
 
 ## Limitations
 
-The official lowercase readme.md and source tree expose automatic and step-by-step entry points. The documented setup uses a Windows host and an Android phone connected through ADB; it also requires separately obtained detection/CLIP models and model/OCR services. GPL-3.0 is recorded for the code only. External model download links were not used to infer weight licenses or verify a separate checkpoint release.
+The official lowercase readme.md and source tree expose automatic and step-by-step entry points. The documented setup uses a Windows host and an Android phone connected through ADB; it also requires separately obtained detection/CLIP models and model/OCR services. GPL-3.0 is recorded for the code only.
 
 - Record JSON: https://awesomecua.com/resources/github-akimotoayako-visiontasker/record.json
 

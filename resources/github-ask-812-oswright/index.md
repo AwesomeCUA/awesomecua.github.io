@@ -1,6 +1,6 @@
 # OSWright
 
-Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.
 
 - Catalog URL: https://awesomecua.com/resources/github-ask-812-oswright/
 - Original source: https://github.com/Ask-812/oswright

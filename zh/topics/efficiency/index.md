@@ -65,7 +65,7 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 - [When to Compile a Computer-Use Agent? Measuring Payback and Making Compilation Decisions for Token Efficiency](https://awesomecua.com/resources/arxiv-2610-02932/) — 2026-10-02
   Introduces PACE, a protocol and online decision rule for deciding when repeated GUI procedures are worth compiling into programs. It accounts for failed compilation attempts, measured per-use savings, uncertain reuse, and execution costs under an explicit cumulative budget.
 - [Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents](https://awesomecua.com/resources/arxiv-2610-01787/) — 2026-10-01
-  Studies how to route different parts of GUI experience into model weights or runtime context rather than treating whole trajectories as a single unit. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
+  Studies how to route different parts of GUI experience into model weights or runtime context. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
 - [cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents](https://awesomecua.com/resources/arxiv-2609-40284/) — 2026-09-30
   Standardizes virtual machines, interaction pipelines, and agent interfaces to compare computer-use speed, cost, and task performance.
 - [Neuro-Symbolic Computer Use: Learning Reusable Policies for Reliable and Efficient Execution](https://awesomecua.com/resources/arxiv-2609-36927/) — 2026-09-29
@@ -129,7 +129,7 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 - [StepReflect: Structured UI Transition Reflection for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2608-05587/) — 2026-08-06
   StepReflect predicts structured per-action reflections from transition specifications and paired visual evidence. The paper distinguishes offline transition-label accuracy from online task success when the reflection model is integrated into mobile agents.
 - [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](https://awesomecua.com/resources/arxiv-2608-03327/) — 2026-08-04
-  This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing why changed action preferences alone need not improve held-out accuracy.
+  This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing that changed action preferences can coexist with unchanged held-out accuracy.
 - [SPECTRA: On-Device Cognitive Perturbation and Trajectory Analysis for Autonomous Edge-Cloud GUI Grounding](https://awesomecua.com/resources/arxiv-2609-35775/) — 2026-07-31
   Introduces SPECTRA, an edge-cloud GUI grounding framework that uses visual perturbations and trajectory analysis to decide when to request a cloud model.
 - [RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS for Web Agent Reinforcement Learning](https://awesomecua.com/resources/arxiv-2608-00335/) — 2026-07-31
@@ -219,7 +219,7 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 - [Step-level Optimization for Efficient Computer-use Agents](https://awesomecua.com/resources/arxiv-2604-27151/) — 2026-04-29
   Proposes a step-level model cascade that runs a smaller computer-use policy until learned monitors flag stalled progress or semantic drift. Separate history-based stuck detection and milestone checks determine when to escalate for recovery or verification without retraining the larger model.
 - [SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents](https://awesomecua.com/resources/arxiv-2604-25562/) — 2026-04-28
-  SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings, rather than establishing universal runtime prevention.
+  SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings.
 - [Odysseys: Benchmarking Web Agents on Realistic Long Horizon Tasks](https://awesomecua.com/resources/arxiv-2604-24964/) — 2026-04-27
   Introduces Odysseys, a live-web benchmark of long, multi-site tasks derived from browsing sessions. Graded task rubrics and a rubric-score-per-step measure evaluate both partial progress and trajectory efficiency.
 - [OS-SPEAR: A Toolkit for the Safety, Performance,Efficiency, and Robustness Analysis of OS Agents](https://awesomecua.com/resources/arxiv-2604-24348/) — 2026-04-27
@@ -313,7 +313,7 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 - [An Efficient Training Pipeline for Reasoning Graphical User Interface Agents](https://awesomecua.com/resources/arxiv-2511-08172/) — 2025-11-11
   A GUI grounding pipeline filters 4.8M synthetic examples to 12K training instances and adapts a 3B vision-language model, evaluated on ScreenSpot, Multimodal-Mind2Web, and AndroidControl.
 - [GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding](https://awesomecua.com/resources/arxiv-2511-00810/) — 2025-11-02
-  Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
+  Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 - [OpenPhone: Mobile Agentic Foundation Models](https://awesomecua.com/resources/arxiv-2510-22009/) — 2025-10-24
   OpenPhone trains a compact mobile policy with supervised learning followed by GRPO on synthetic GUI data, incorporating reasoning and memory management. Its device-cloud design handles routine work locally and delegates complex subtasks, with online evaluation on AndroidLab.
 - [Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](https://awesomecua.com/resources/arxiv-2510-20707/) — 2025-10-23
@@ -369,7 +369,7 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 - [Less is More: Empowering GUI Agent with Context-Aware Simplification](https://awesomecua.com/resources/arxiv-2507-03730/) — 2025-07-04
   SimpAgent prunes distracting interface elements with visual masks and compresses interaction history using consistency-based guidance. The study evaluates these two forms of context reduction during GUI navigation in web and mobile environments.
 - [LineRetriever: Planning-Aware Observation Reduction for Web Agents](https://awesomecua.com/resources/arxiv-2507-00210/) — 2025-06-30
-  LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
+  LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon.
 - [ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding](https://awesomecua.com/resources/arxiv-2506-23491/) — 2025-06-30
   ZonUI-3B trains GUI grounding with a curated 24,000-example collection of mobile, desktop, and web screenshots. Its two-stage procedure first learns across platforms and then specializes on high-resolution images, with ablations on data diversity and redundant examples.
 - [OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-16042/) — 2025-06-19
@@ -389,7 +389,7 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 - [Inducing Programmatic Skills for Agentic Tasks](https://awesomecua.com/resources/arxiv-2504-06821/) — 2025-04-09
   Introduces agent skill induction (ASI), which creates, checks, and reuses program-based skills for web tasks by combining primitive actions into higher-level routines.
 - [Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://awesomecua.com/resources/arxiv-2503-15937/) — 2025-03-20
-  Introduces V-Droid, which verifies candidate actions in a discrete action space rather than directly generating each mobile operation.
+  Introduces V-Droid, which verifies candidate actions in a discrete action space.
 - [Think Twice, Click Once: Enhancing GUI Grounding via Fast and Slow Systems](https://awesomecua.com/resources/arxiv-2503-06470/) — 2025-03-09
   Combines rapid target prediction with deliberate interface analysis, adaptively selecting the grounding process according to task complexity.
 - [Language Models can Self-Improve at State-Value Estimation for Better Search](https://awesomecua.com/resources/arxiv-2503-02878/) — 2025-03-04
@@ -899,7 +899,7 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 - [Orynn](https://awesomecua.com/resources/github-robomohit-orynn/) — Date not recorded
   Orynn is a Windows desktop agent that controls native applications by UI Automation control names without screenshot loops.
 - [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/) — Date not recorded
-  Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+  Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.
 - [Owl Browser Claude Code Plugin](https://awesomecua.com/resources/github-olib-ai-owl-browser-claude-plugin/) — Date not recorded
   Claude Code plugin for Owl Browser providing handle-indexed page reading and agent-native browser automation.
 - [PageKit](https://awesomecua.com/resources/github-ken-u-pagekit/) — Date not recorded
@@ -909,7 +909,7 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 - [parallel-browser-mcp](https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/) — Date not recorded
   Model Context Protocol server for parallel multi-session browser automation across local and cloud browser providers.
 - [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/) — Date not recorded
-  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data in place of screenshots.
 - [pebkac](https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/) — Date not recorded
   Self-hosted web co-browser in which a smolagents code agent on a local llama.cpp model writes Python that drives Chrome through Zendriver: navigation, CSS-selector clicks and typing, Trafilatura text extraction and tabs.
 - [perceive](https://awesomecua.com/resources/github-gauthierpiarrette-perceive/) — Date not recorded

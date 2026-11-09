@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Scope hold after v1 Sections 3\.3, 4\.1 and Appendices A\.3\-A\.4: the OpenClaw service/workspace evaluation does not establish GUI/browser interaction\. Need concrete observation/action interfaces and execution\-trace evidence to decide core or adjacent relevance\. Retain metadata; this is not an abstract\-only exclusion\.
+Scope hold after v1 Sections 3\.3, 4\.1 and Appendices A\.3\-A\.4: the OpenClaw service/workspace evaluation leaves GUI/browser interaction unestablished\. Need concrete observation/action interfaces and execution\-trace evidence to decide core or adjacent relevance\. Retain this record as metadata while the concrete observation/action interfaces and execution traces remain open\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ CLI and MCP server that lets agents operate the user's signed-in Chrome, Brave o
 
 ## Limitations
 
-Source-available under the Elastic License 2.0 with separate commercial terms; GitHub reports NOASSERTION. Browser work goes through Interceptor's own extension rather than a separately launched automated browser, and can also read page traffic and rich-editor scenes. macOS release packages target Apple silicon and the native bridge needs macOS 15+; Windows 11 24H2+ and Linux Full packages add native app control. iPhone automation needs a paired iPhone in Developer Mode, a Mac and Xcode with a developer team. Browser and Mac sessions can be recorded and exported as replay plans. No model API key is required; the calling agent supplies the model. Code was read, not run.
+Source-available under the Elastic License 2.0 with separate commercial terms; GitHub reports NOASSERTION. Browser work goes through Interceptor's own extension and can also read page traffic and rich-editor scenes. macOS release packages target Apple silicon and the native bridge needs macOS 15+; Windows 11 24H2+ and Linux Full packages add native app control. iPhone automation needs a paired iPhone in Developer Mode, a Mac and Xcode with a developer team. Browser and Mac sessions can be recorded and exported as replay plans. No model API key is required; the calling agent supplies the model.
 
 - Record JSON: https://awesomecua.com/resources/github-hacker-valley-media-interceptor/record.json
 

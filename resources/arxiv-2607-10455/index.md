@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Auditor agent plays persistent malicious users to stress\-test CLI agents that run shell commands, browse the web and manage cloud infrastructure on illegal tasks; terminal\-agent safety without a GUI\. An open pull request \(\#2805\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Auditor agent plays persistent malicious users to stress\-test CLI agents that run shell commands, browse the web and manage cloud infrastructure on illegal tasks; the abstract leaves open whether CLI agent safety fits adjacent computer\-use scope\. An open pull request \(\#2805\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

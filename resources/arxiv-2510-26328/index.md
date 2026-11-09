@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Shows prompt injections hidden in Agent Skill files that make a coding agent exfiltrate local files or passwords; unclear whether this counts as a computer\-operating CLI agent, and no GUI or web interaction is named\. An exclusion proposal is open in pull request \#3889\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Shows prompt injections hidden in Agent Skill files that make a coding agent exfiltrate local files or passwords; the abstract leaves open whether coding\-agent file access fits terminal computer\-use scope\. An exclusion proposal is open in pull request \#3889\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

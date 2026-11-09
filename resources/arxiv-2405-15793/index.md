@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Designs an agent\-computer interface for repository\-level coding on SWE\-bench; the agent works through custom shell\-style commands, so it sits between out\-of\-scope coding agents and adjacent terminal computer use\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Designs an agent\-computer interface for repository\-level coding on SWE\-bench; the abstract leaves open whether the custom shell\-style commands fit adjacent terminal computer use\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

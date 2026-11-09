@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Training\-free procedural memory for agents framed as computer\-use, tested on GAIA2/ARE and AppWorld; the abstract describes app and tool calls, not whether any GUI is operated\. An curation proposal is open in pull request \#2587\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Training\-free procedural memory for agents framed as computer\-use, tested on GAIA2/ARE and AppWorld; the abstract describes app and tool calls and leaves open whether any GUI is operated\. An curation proposal is open in pull request \#2587\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

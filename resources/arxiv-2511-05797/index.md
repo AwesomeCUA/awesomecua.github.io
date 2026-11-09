@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Measures prompt\-injection risks in website chatbot plugins, including injected third\-party page content they scrape; the chatbots do not navigate or act on pages, so the relation to web agents is unclear\. An exclusion proposal is open in pull request \#3777\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Measures prompt\-injection risks in website chatbot plugins, including injected third\-party page content they scrape; the abstract leaves open whether chatbot page scraping fits adjacent web\-agent scope\. An exclusion proposal is open in pull request \#3777\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

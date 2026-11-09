@@ -1,6 +1,6 @@
 # Context manipulation attacks : Web agents are susceptible to corrupted memory
 
-Studies context manipulation in web agents by altering stored task representations rather than webpage prompts alone. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
+Studies context manipulation in web agents by altering stored task representations. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2506-17318/
 - Original source: https://arxiv.org/abs/2506.17318

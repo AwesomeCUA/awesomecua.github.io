@@ -14,7 +14,7 @@ Reports architectural and security lessons from building a browser agent, includ
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Broader claims about the safety of general-purpose browsing are the paper's position, not a catalog conclusion.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Broader claims about the safety of general-purpose browsing are the paper's position.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-19477/record.json
 

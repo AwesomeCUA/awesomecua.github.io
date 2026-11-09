@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: DeltaBox adds millisecond sandbox checkpoint and rollback for agents, evaluated on SWE\-bench; the abstract does not tie it to GUI or desktop agents, so its fit as agent execution infrastructure is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: DeltaBox adds millisecond sandbox checkpoint and rollback for agents, evaluated on SWE\-bench; the abstract leaves open whether the sandbox serves GUI or desktop agents\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

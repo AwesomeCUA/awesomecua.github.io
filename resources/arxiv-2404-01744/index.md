@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v7 abstract \(5 November 2026\) could not settle the scope: On\-device function\-calling model for agents; the abstract mentions edge devices and software workflows but not whether the calls automate phone apps or generic APIs, so its relation to device automation is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v7 abstract \(5 November 2026\) left the scope open: On\-device function\-calling model for agents; the abstract leaves open whether the calls automate phone apps or generic APIs\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -180,7 +180,7 @@ Introduces WiserUI-Bench, pairing real UI variants from industry A/B tests with 
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. This benchmark measures UI/UX design understanding from static image pairs; it does not measure autonomous GUI action execution.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. This benchmark measures UI/UX design understanding from static image pairs.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-05026/record.json
 
@@ -336,7 +336,7 @@ Introduces OSUniverse, a desktop GUI benchmark spanning precise clicks through m
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-03570/record.json
 
@@ -388,7 +388,7 @@ Trains a 0.4B SAM-initialized GUI grounding model on 0.5M auto-collected web scr
 
 ### Limitations
 
-Reviewed against the ICLR 2025 proceedings page and PDF; the OpenReview forum lists it as an ICLR 2025 Poster. Experiments were not reproduced. The grounding model, AssistGUIGrounder (AGG), pairs a SAM-pretrained ViT image encoder and a transformer query encoder with a two-layer box decoder. The data engine loads Common Crawl pages from 118 domains in a browser such as Chrome, scrolls them with Page Down and reads element data through UI Automation; grounding training used 0.36M web images with 22M annotations after smoothing, plus 27K mobile screenshots from WidgetCaption and RICO. ScreenSpot grounding covers mobile, desktop and web screenshots; agent fine-tuning covers MiniWob, AITW and Mind2Web. The paper gives github.com/showlab/AssistGUIGround for code and data; that repository returned HTTP 404 on 2026-10-19. No arXiv version was found.
+Reviewed against the ICLR 2025 proceedings page and PDF; the OpenReview forum lists it as an ICLR 2025 Poster. The grounding model, AssistGUIGrounder (AGG), pairs a SAM-pretrained ViT image encoder and a transformer query encoder with a two-layer box decoder. The data engine loads Common Crawl pages from 118 domains in a browser such as Chrome, scrolls them with Page Down and reads element data through UI Automation; grounding training used 0.36M web images with 22M annotations after smoothing, plus 27K mobile screenshots from WidgetCaption and RICO. ScreenSpot grounding covers mobile, desktop and web screenshots; agent fine-tuning covers MiniWob, AITW and Mind2Web. The paper gives github.com/showlab/AssistGUIGround for code and data; that repository returned HTTP 404 on 2026-10-19. No arXiv version was found.
 
 - Record JSON: https://awesomecua.com/resources/url-dca82e9214c5926109f1/record.json
 
@@ -449,7 +449,7 @@ Trains a separate language model to rewrite lengthy web page observations into f
 
 ### Limitations
 
-Reviewed against the ICLR 2025 proceedings page and PDF; the OpenReview forum lists it as an ICLR 2025 Poster. Experiments were not reproduced. LCoW's contextualization module reads the task, previous actions and a raw page observation such as an accessibility tree, and is retrained each iteration by supervised fine-tuning on the sampled rewrites that let several LLM agents recover the ground-truth action in successful trajectories. Appendix B fine-tunes Phi-3-mini-Instruct for WebShop and Llama-3.1-8B-Instruct for WorkArena and WebArena. WebShop and WorkArena are the main benchmarks; a 165-task WebArena subset tests generalization to unseen task types. The same paper is posted on arXiv as 2503.10689 with the comment "Accepted to ICLR 2025". The paper points to lcowiclr2025.github.io for code, which was not reviewed here.
+Reviewed against the ICLR 2025 proceedings page and PDF; the OpenReview forum lists it as an ICLR 2025 Poster. LCoW's contextualization module reads the task, previous actions and a raw page observation such as an accessibility tree, and is retrained each iteration by supervised fine-tuning on the sampled rewrites that let several LLM agents recover the ground-truth action in successful trajectories. Appendix B fine-tunes Phi-3-mini-Instruct for WebShop and Llama-3.1-8B-Instruct for WorkArena and WebArena. WebShop and WorkArena are the main benchmarks; a 165-task WebArena subset tests generalization to unseen task types. The same paper is posted on arXiv as 2503.10689 with the comment "Accepted to ICLR 2025". The paper points to lcowiclr2025.github.io for code.
 
 - Record JSON: https://awesomecua.com/resources/url-60a2dc930fa11860858a/record.json
 
@@ -600,7 +600,7 @@ Jing Huang, Zhixiong Zeng, Wenkang Han, Yufeng Zhong, Liming Zheng, Shuai Fu, Ji
 
 ## WebThinker: Empowering Large Reasoning Models with Deep Research Capability
 
-Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
+Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2504-21776/
 - Original source: https://arxiv.org/abs/2504.21776
@@ -771,7 +771,7 @@ Presents a position paper on privacy and security evaluation for GUI agents, ide
 
 ### Limitations
 
-Reviewed against the complete retained original arXiv abstract. This is a position paper proposing an evaluation framework; the abstract does not report a new benchmark or empirical validation of the proposed framework.
+Reviewed against the complete retained original arXiv abstract. This is a position paper proposing an evaluation framework.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-17934/record.json
 
@@ -875,7 +875,7 @@ Introduces PixelWeb, a webpage GUI dataset with element images, contours, and pi
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-16419/record.json
 
@@ -979,7 +979,7 @@ Guides visual GUI agents at inference time with a process-reward model that eval
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-16073/record.json
 
@@ -1031,7 +1031,7 @@ Introduces UFO2, a Windows desktop agent architecture combining a coordinating H
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-14603/record.json
 

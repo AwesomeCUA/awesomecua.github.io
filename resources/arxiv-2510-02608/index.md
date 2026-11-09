@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract studies cross\-modal attention imbalance and a data fix evaluated on vision\-language benchmarks\. Computer\-use agents appear only as motivation; the work makes no GUI or agent\-interaction contribution\. The other marked it borderline: General study of cross\-modal attention imbalance in foundation models; computer\-use agents are cited only as motivation, and the abstract does not say whether any GUI or screen data is evaluated\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether GUI or screen data is evaluated beyond motivation\. One read it as outside the scope: The abstract studies cross\-modal attention imbalance and a data fix evaluated on vision\-language benchmarks\. Computer\-use agents appear only as motivation; the work makes no GUI or agent\-interaction contribution\. The other marked it borderline: General study of cross\-modal attention imbalance in foundation models; computer\-use agents are cited as motivation, and the abstract leaves open whether GUI or screen data is evaluated\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

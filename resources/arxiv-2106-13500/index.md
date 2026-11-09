@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Detects table regions in spreadsheets with a CNN over cell features and active learning\. This spreadsheet data\-analysis work does not involve agents operating graphical interfaces, web pages or devices\. The other marked it borderline: Detects table regions in spreadsheets with a CNN for spreadsheet intelligence; office\-document structure analysis with no stated agent or automation use, so its fit as office\-automation support is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether spreadsheet structure analysis fits the office\-automation scope\. One read it as outside the scope: Detects table regions in spreadsheets with a CNN over cell features and active learning\. This spreadsheet data\-analysis work detects table regions; its fit with office\-automation support remains open\. The other marked it borderline: Detects table regions in spreadsheets with a CNN for spreadsheet intelligence; office\-document structure analysis with no stated agent or automation use, so its fit as office\-automation support is unclear\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ Published MAI-UI grounding and navigation-agent implementations with inference d
 
 ## Limitations
 
-The original implementation is in the MAI-UI/ subdirectory, with an Apache-2.0 LICENSE there. The current root README also promotes Qwen-UI-Agent, but that follow-up directory contains only documentation/display assets in the inspected tree. This entry does not claim the follow-up runtime, training system or weights are released.
+The original implementation is in the MAI-UI/ subdirectory, with an Apache-2.0 LICENSE there. The current root README also promotes Qwen-UI-Agent, but that follow-up directory contains only documentation/display assets in the inspected tree. The original MAI-UI/ implementation is released; the follow-up Qwen-UI-Agent directory contains documentation/display assets in the inspected tree.
 
 - Record JSON: https://awesomecua.com/resources/github-tongyi-mai-mai-ui/record.json
 
@@ -25,7 +25,7 @@ The original implementation is in the MAI-UI/ subdirectory, with an Apache-2.0 L
 - document: not recorded
 - weights: not recorded
 
-- code review: The implementation and LICENSE live under MAI-UI/. A root-level missing license or the follow-up Qwen-UI-Agent documentation should not change the scoped declaration.
+- code review: The implementation and LICENSE live under MAI-UI/. The Apache-2.0 declaration is scoped to MAI-UI/ implementation and LICENSE.
   Sources: https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/LICENSE, https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/README.md
 
 ## Primary evidence

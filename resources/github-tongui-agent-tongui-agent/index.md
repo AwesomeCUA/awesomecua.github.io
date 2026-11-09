@@ -14,7 +14,7 @@ Training configurations, preprocessing and inference examples for tutorial-train
 
 ## Limitations
 
-The public tree includes training configs, preprocessing, inference and serving examples. The project still marks release of all experiment/evaluation scripts as work in progress. This entry covers the implementation rather than counting its 3B/7B/32B model-size variants as separate new projects. The inspected project tree has no root source license; linked frameworks, data and checkpoints retain their own terms.
+The public tree includes training configs, preprocessing, inference and serving examples. The project still marks release of all experiment/evaluation scripts as work in progress. This entry covers the implementation and its 3B/7B/32B model-size variants. The inspected project tree has no root source license; linked frameworks, data and checkpoints retain their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-tongui-agent-tongui-agent/record.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Surveys large multimodal agents, their components, collaboration and evaluation; the abstract does not say how much it covers GUI, web or mobile agents\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Surveys large multimodal agents, their components, collaboration and evaluation; the abstract leaves open whether the survey materially covers GUI, web or mobile agents\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

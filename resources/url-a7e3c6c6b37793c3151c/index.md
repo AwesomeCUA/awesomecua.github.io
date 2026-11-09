@@ -14,7 +14,7 @@ Ai2's synthetic GUI grounding set of about 36K code-rendered desktop, mobile and
 
 ## Limitations
 
-Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6 wrote, so the Windows, macOS, Linux, iOS and Android labels describe simulated interfaces, not captures of real systems; the card says this content is subject to Anthropic's terms. Each example keeps its source HTML and generation metadata. The Hub repository also holds the MolmoPoint paper PDF; the generation pipeline and the companion pointing model are released separately.
+Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6 wrote, so the Windows, macOS, Linux, iOS and Android labels describe simulated interfaces; the card says this content is subject to Anthropic's terms. Each example keeps its source HTML and generation metadata. The Hub repository also holds the MolmoPoint paper PDF; the generation pipeline and the companion pointing model are released separately.
 
 - Record JSON: https://awesomecua.com/resources/url-a7e3c6c6b37793c3151c/record.json
 
@@ -34,7 +34,7 @@ Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6
 - 256 screenshot examples — web validation split in the card metadata (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
 - ≈ 10,500 screenshot examples — mobile subset as described in the card prose (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
 
-The card metadata gives split sizes for the desktop and web configurations only; the mobile configuration's sizes appear only as the prose figure of 10.5K. The prose figures for desktop (16.6K) and web (10.2K) differ slightly from the metadata split totals (16,488 and 10,086). Each element carries a name, five intents and center/size coordinates; the card reports an average of 54 annotated elements per image. Annotations are LLM-generated and were not human-verified by this review.
+The card metadata gives split sizes for the desktop and web configurations only; the mobile configuration's sizes appear only as the prose figure of 10.5K. The prose figures for desktop (16.6K) and web (10.2K) differ slightly from the metadata split totals (16,488 and 10,086). Each element carries a name, five intents and center/size coordinates; the card reports an average of 54 annotated elements per image. Annotations are LLM-generated.
 
 ## License declarations
 

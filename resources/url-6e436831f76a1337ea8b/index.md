@@ -14,7 +14,7 @@ Presents OpenWebAgent, a web automation toolkit that pairs a Chrome plugin with 
 
 ## Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and the proceedings PDF. The PDF exceeds the catalog's 10 MB fetch budget, so only the landing page is a retained receipt. Experiments have not been independently reproduced. The abstract states that the framework, Chrome plugin and demo video are published in an author GitHub repository, which was not part of this paper review.
+The annotation was reviewed against the ACL Anthology landing page and the proceedings PDF. The PDF exceeds the catalog's 10 MB fetch budget, so only the landing page is a retained receipt. The abstract states that the framework, Chrome plugin and demo video are published in an author GitHub repository.
 
 - Record JSON: https://awesomecua.com/resources/url-6e436831f76a1337ea8b/record.json
 

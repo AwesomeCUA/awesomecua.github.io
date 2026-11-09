@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Survey of efficiency in agent memory, tool learning and planning; the abstract does not say whether it covers web, GUI or computer\-use agents\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Survey of efficiency in agent memory, tool learning and planning; the abstract leaves open whether it covers web, GUI or computer\-use agents\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

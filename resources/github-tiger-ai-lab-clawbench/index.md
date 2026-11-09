@@ -14,7 +14,7 @@ Everyday-task benchmark on live websites that runs browser agents in containeriz
 
 ## Limitations
 
-Renamed from reacher-z/ClawBench; both API names return repository 1206519531 (TIGER-AI-Lab/ClawBench), which is not a fork and not archived. Counts and scoring rules were read at commit 07eb50a3. The tree also holds v1-lite, claw-eval and environmental-observation task folders, which are not counted here. Task definitions and execution traces are also published as Hugging Face datasets (NAIL-Group/ClawBench, NAIL-Group/ClawBenchV1Trace, TIGER-Lab/ClawBenchV2Trace), whose cards and licenses were not reviewed for this record. Apache-2.0 is recorded for repository code only. Nothing was installed or run.
+Renamed from reacher-z/ClawBench; both API names return repository 1206519531 (TIGER-AI-Lab/ClawBench), which remains active as the same repository. Counts and scoring rules were read at commit 07eb50a3. The tree also holds v1-lite, claw-eval and environmental-observation task folders; this record’s counts cover the stated task set. Task definitions and execution traces are also published as Hugging Face datasets (NAIL-Group/ClawBench, NAIL-Group/ClawBenchV1Trace, TIGER-Lab/ClawBenchV2Trace); their data licenses remain unverified in this record. Apache-2.0 is recorded for repository code only. Nothing was installed or run.
 
 - Record JSON: https://awesomecua.com/resources/github-tiger-ai-lab-clawbench/record.json
 

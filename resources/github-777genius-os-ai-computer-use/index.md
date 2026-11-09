@@ -14,7 +14,7 @@ Local desktop agent that sends plain screenshots to OpenAI's or Anthropic's comp
 
 ## Limitations
 
-Provider adapters call the OpenAI Responses API with its computer tool (batched actions) or Anthropic's computer-use tool (single actions with zoom); packages/core/src/os_ai_core/tools/computer.py captures the screen and executes actions through per-OS driver ports. macOS uses PyAutoGUI with a Quartz event path for Enter and an AppKit overlay; Windows and Linux (X11 or XWayland) use PyAutoGUI. A Flutter client (macOS, Windows, Linux, web) talks to a local backend; the CLI runs tasks directly. The README headline of 75.0% on OSWorld is a model-provider figure, not a measurement of this repository, and was not reproduced. The repository was formerly iliyaZelenko/os-ai-computer-use (same GitHub repository ID). Code was read, not run.
+Provider adapters call the OpenAI Responses API with its computer tool (batched actions) or Anthropic's computer-use tool (single actions with zoom); packages/core/src/os_ai_core/tools/computer.py captures the screen and executes actions through per-OS driver ports. macOS uses PyAutoGUI with a Quartz event path for Enter and an AppKit overlay; Windows and Linux (X11 or XWayland) use PyAutoGUI. A Flutter client (macOS, Windows, Linux, web) talks to a local backend; the CLI runs tasks directly. The README headline of 75.0% on OSWorld is a model-provider figure. The repository was formerly iliyaZelenko/os-ai-computer-use (same GitHub repository ID).
 
 - Record JSON: https://awesomecua.com/resources/github-777genius-os-ai-computer-use/record.json
 

@@ -14,7 +14,7 @@ Released dataset used to train PC-Agent-E, linked by the official pipeline for r
 
 ## Limitations
 
-Hub release contains data.zip. The archive was not downloaded and its internal schema/example total were not independently inspected. Training-purpose and platform descriptions come from the official pipeline README; the brief card establishes the paper association and MIT data declaration.
+Hub release contains data.zip. Training-purpose and platform descriptions come from the official pipeline README; the brief card establishes the paper association and MIT data declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-14449fe321e0a1ca34ea/record.json
 
@@ -29,7 +29,7 @@ Hub release contains data.zip. The archive was not downloaded and its internal s
 
 No count recorded.
 
-Public manifest exposes data.zip; the internal file schema and number of examples remain unverified. Supervision describes the publisher’s refinement/thought-completion/trajectory-boost pipeline, not an independently sampled data-quality audit.
+Public manifest exposes data.zip; the internal file schema and number of examples remain unverified. Supervision describes the publisher’s refinement/thought-completion/trajectory-boost pipeline.
 
 ## License declarations
 

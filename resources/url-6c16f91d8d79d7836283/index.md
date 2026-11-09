@@ -14,7 +14,7 @@ Computer-use policy checkpoint from H Company and NVIDIA, fine-tuned from Nemotr
 
 ## Limitations
 
-The manifest lists six Safetensors shards, about 13.2B BF16 parameters by the Hub count. The card names the NVIDIA Open Model License in its text but sets no license field and ships no license file; H's models page lists the same license and includes Holotron-12B among the lab's open checkpoints. The fine-tuning mixture is proprietary and not released. Throughput and WebVoyager figures are publisher measurements that were not reproduced; no weights were loaded.
+The manifest lists six Safetensors shards, about 13.2B BF16 parameters by the Hub count. The card names the NVIDIA Open Model License in its text but sets no license field and ships no license file; H's models page lists the same license and includes Holotron-12B among the lab's open checkpoints. The fine-tuning mixture is proprietary and not released. Throughput and WebVoyager figures are publisher measurements.
 
 - Record JSON: https://awesomecua.com/resources/url-6c16f91d8d79d7836283/record.json
 

@@ -14,7 +14,7 @@ The 32B GUI-Owl checkpoint from the Mobile-Agent-v3 project, fine-tuned from Qwe
 
 ## Limitations
 
-This is the original GUI-Owl 32B release; the 7B checkpoint and the later GUI-Owl 1.5 generation are separate releases, and their results and terms are not transferred to it. The card recommends serving with vLLM and gives a tensor-parallel serving script. The manifest lists 18 Safetensors shards and the Hub reports 33,452,718,336 BF16 parameters. The card declares MIT for the checkpoint and marks its online demo as coming soon. Benchmark results on the card are publisher claims and were not reproduced; no weights were loaded.
+This is the original GUI-Owl 32B release; the 7B checkpoint and the later GUI-Owl 1.5 generation are separate releases, with results and terms scoped to each release. The card recommends serving with vLLM and gives a tensor-parallel serving script. The manifest lists 18 Safetensors shards and the Hub reports 33,452,718,336 BF16 parameters. The card declares MIT for the checkpoint and marks its online demo as coming soon. Benchmark results on the card are publisher claims.
 
 - Record JSON: https://awesomecua.com/resources/url-a92e7dfcdfdcacb2e634/record.json
 

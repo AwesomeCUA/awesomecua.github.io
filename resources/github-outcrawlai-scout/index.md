@@ -14,7 +14,7 @@ TypeScript browser agent that drives any Chromium over CDP in a look-act-check l
 
 ## Limitations
 
-Published by Outcrawl; the GitHub description calls the repository an automatic mirror of Outcrawl's production repository. Packages: scout (entry point), runtime (agent loop), model (prompts and provider-neutral clients), scout-core, scout-cdp (DevTools-protocol driver) and agenthands (local pointer and keyboard planning). It runs against a local browser, any CDP endpoint or Outcrawl's hosted browser, which needs an Outcrawl key and adds residential connections, captcha solving and replays. The README's 92.5% page reach on Browser Use's 80-site benchmark is publisher-reported and was not reproduced. Root code is Apache-2.0; packages/agenthands keeps its own MIT license. Code was read, not run.
+Published by Outcrawl; the GitHub description calls the repository an automatic mirror of Outcrawl's production repository. Packages: scout (entry point), runtime (agent loop), model (prompts and provider-neutral clients), scout-core, scout-cdp (DevTools-protocol driver) and agenthands (local pointer and keyboard planning). It runs against a local browser, any CDP endpoint or Outcrawl's hosted browser, which needs an Outcrawl key and adds residential connections, captcha solving and replays. The README reports 92.5% page reach on Browser Use's 80-site benchmark. Root code is Apache-2.0; packages/agenthands keeps its own MIT license.
 
 - Record JSON: https://awesomecua.com/resources/github-outcrawlai-scout/record.json
 

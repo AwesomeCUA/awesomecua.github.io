@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Position paper on communication challenges between users and autonomous tool\-using agents; the abstract does not say whether the agents it considers operate GUIs, web pages or only tools\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Position paper on communication challenges between users and autonomous tool\-using agents; the abstract leaves open whether the agents operate GUIs, web pages or tools\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

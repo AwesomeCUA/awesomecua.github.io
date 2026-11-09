@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Releases a 9K\-question deep\-research dataset with agent trajectories and an RL framework for agents that explore the web over many steps and turns to answer multi\-hop questions\. An open pull request \(\#3349\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Releases a 9K\-question deep\-research dataset with agent trajectories and an RL framework for agents that explore the web over many steps and turns to answer multi\-hop questions; the abstract leaves open whether multi\-step web exploration fits adjacent browsing scope\. An open pull request \(\#3349\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

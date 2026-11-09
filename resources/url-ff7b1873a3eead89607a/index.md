@@ -14,7 +14,7 @@ A Qwen2.5-VL-based computer-use checkpoint with direct grounding and agent actio
 
 ## Limitations
 
-Four public safetensors shards and model/tokenizer configuration are present. The card declares Apache-2.0. The model card’s Paper link points to the code repository, so the arXiv association uses the repository’s explicit citation rather than treating that link as a paper URL.
+Four public safetensors shards and model/tokenizer configuration are present. The card declares Apache-2.0. The model card’s Paper link points to the code repository; the arXiv association uses the repository’s explicit citation.
 
 - Record JSON: https://awesomecua.com/resources/url-ff7b1873a3eead89607a/record.json
 

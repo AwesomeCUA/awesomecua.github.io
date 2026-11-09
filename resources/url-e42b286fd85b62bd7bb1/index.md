@@ -14,7 +14,7 @@ GUI-Actor grounding checkpoint built on Qwen2-VL-2B-Instruct with an attention-b
 
 ## Limitations
 
-Hub API at revision 8f87b366 lists one BF16 safetensors file (about 2.23B parameters); the config names Qwen2VLForConditionalGenerationWithPointer, a class loaded from the GUI-Actor code rather than stock Transformers. The repository is not gated. The card says it was fine-tuned for GUI grounding on the cckevinn/GUI-Actor-Data dataset and reports 36.7 on ScreenSpot-Pro, 86.5 on ScreenSpot and 88.6 on ScreenSpot-v2 for this size; these are publisher measurements and were not reproduced. The card declares MIT for the checkpoint.
+Hub API at revision 8f87b366 lists one BF16 safetensors file (about 2.23B parameters); the config names Qwen2VLForConditionalGenerationWithPointer, which loads through the GUI-Actor code. Access to the repository is open. The card says it was fine-tuned for GUI grounding on the cckevinn/GUI-Actor-Data dataset and reports 36.7 on ScreenSpot-Pro, 86.5 on ScreenSpot and 88.6 on ScreenSpot-v2 for this size; these are publisher measurements. The card declares MIT for the checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-e42b286fd85b62bd7bb1/record.json
 

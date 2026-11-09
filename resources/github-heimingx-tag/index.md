@@ -14,7 +14,7 @@ Grounding and evaluation code that aggregates a pretrained vision-language model
 
 ## Limitations
 
-The release contains grounding and benchmark evaluation code. The inspected root repository metadata does not declare a code license. It uses external pretrained models rather than publishing a new trained checkpoint, and the README restricts redistribution of unzipped benchmark data.
+The release contains grounding and benchmark evaluation code. The inspected root repository metadata does not declare a code license. It uses external pretrained models, and the README restricts redistribution of unzipped benchmark data.
 
 - Record JSON: https://awesomecua.com/resources/github-heimingx-tag/record.json
 

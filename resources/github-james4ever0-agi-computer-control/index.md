@@ -14,7 +14,7 @@ Experimental monorepo for computer-control agents with a tmux terminal environme
 
 ## Limitations
 
-Adjacent: a heterogeneous research repository rather than a packaged agent. Besides the tmux environment (tmux_trials/lib.py) and the GUI/terminal recorder, it holds many exploratory experiments (action encoders, HID and physical input control, VM recording) and AGI manifesto text. Linked datasets on Hugging Face, ModelScope and Kaggle and the separate Vimgolf-Gym, CTF-Gym and Cybergod-Gym repositories are not part of this record. The Cybergod paper is a self-published PDF release asset, not an arXiv record. No license file was found, so code rights stay unknown. Code was read, not run.
+Adjacent: a heterogeneous research repository. Besides the tmux environment (tmux_trials/lib.py) and the GUI/terminal recorder, it holds many exploratory experiments (action encoders, HID and physical input control, VM recording) and AGI manifesto text. Linked datasets on Hugging Face, ModelScope and Kaggle and the separate Vimgolf-Gym, CTF-Gym and Cybergod-Gym repositories are separate resources. The Cybergod paper is a self-published PDF release asset. No license file was found, so code rights stay unknown.
 
 - Record JSON: https://awesomecua.com/resources/github-james4ever0-agi-computer-control/record.json
 

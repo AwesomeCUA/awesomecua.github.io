@@ -1,6 +1,6 @@
 # GUI-Actor 7B Qwen2-VL
 
-GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class rather than the stock one, under MIT.
+GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class, under MIT.
 
 - Catalog URL: https://awesomecua.com/resources/url-e3e5dd82a3102689c4ea/
 - Original source: https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL

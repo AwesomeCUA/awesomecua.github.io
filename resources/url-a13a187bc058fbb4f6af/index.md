@@ -14,7 +14,7 @@ Flattened web-interaction training records with accessibility-tree observations,
 
 ## Limitations
 
-The public release contains nine Parquet shards. The short card supplies schema and split metadata but no license declaration; the official README describes successful and unsuccessful trajectories processed for fine-tuning. The raw screenshot/HTML corpus is a separate release and is not claimed to be included here.
+The public release contains nine Parquet shards. The short card supplies schema and split metadata but no license declaration; the official README describes successful and unsuccessful trajectories processed for fine-tuning. The raw screenshot/HTML corpus is a separate release.
 
 - Record JSON: https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/record.json
 
@@ -29,7 +29,7 @@ The public release contains nine Parquet shards. The short card supplies schema 
 
 - 164,533 step records — train split (reported; source: https://huggingface.co/datasets/apurvaga/go-browse-wa/raw/main/README.md)
 
-The card count is flattened step records, not trajectories or independent tasks. Both successful and unsuccessful trajectories are included according to the project README; no license is declared.
+The card count is flattened step records. Both successful and unsuccessful trajectories are included according to the project README; no license is declared.
 
 ## License declarations
 

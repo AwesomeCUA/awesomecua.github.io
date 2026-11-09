@@ -14,7 +14,7 @@ Recorded MemGUI-Bench runs of mobile GUI agents and models, packaged as per-agen
 
 ## Limitations
 
-The card says each attempt holds step screenshots, a log.json action sequence, evaluation_summary.json and final_decision.json, and action visualizations. The MemGUI-Bench README asks submitters to add a gzip JSON preview and MP4 under site/trajs/ through Hub pull requests. Archive names identify the agent or model, such as M3A, T3A, Mobile-Agent-E, Agent-S2, GUI-Owl-7B and several API models. The card's usage section shows an older run.py interface. Archives were not downloaded. The card's apache-2.0 declaration does not settle rights to app screenshots.
+The card says each attempt holds step screenshots, a log.json action sequence, evaluation_summary.json and final_decision.json, and action visualizations. The MemGUI-Bench README asks submitters to add a gzip JSON preview and MP4 under site/trajs/ through Hub pull requests. Archive names identify the agent or model, such as M3A, T3A, Mobile-Agent-E, Agent-S2, GUI-Owl-7B and several API models. The card's usage section shows an older run.py interface. The card's apache-2.0 declaration does not settle rights to app screenshots.
 
 - Record JSON: https://awesomecua.com/resources/url-2b7363c3a20d8022b319/record.json
 

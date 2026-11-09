@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Evaluation infrastructure porting 80\+ agentic benchmarks plus a curated hard subset, run with Terminus\-2 and native harnesses; the abstract does not say whether the tasks involve terminal, web or GUI computer operation\. An exclusion proposal is open in pull request \#2481\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Evaluation infrastructure porting 80\+ agentic benchmarks plus a curated hard subset, run with Terminus\-2 and native harnesses; the abstract leaves open whether the tasks involve terminal, web or GUI computer operation\. An exclusion proposal is open in pull request \#2481\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ Electron desktop browser whose built-in agents, imported from Eko-based npm pack
 
 ## Limitations
 
-The repository holds the Next.js and Electron app: tabs as Electron WebContentsView instances (electron/main/services/tab-manager.ts), scheduling, memory, settings, and the agent wiring in electron/main/services/eko-service.ts. The BrowserAgent and FileAgent themselves are imported from the npm packages @jarvis-agent/core and @jarvis-agent/electron (0.3.x), which the README describes as based on Eko; their npm metadata names FellouAI as author and a placeholder repository URL, and their source is not in this tree. In Deep Explore mode the user confirms or edits the generated workflow, and the agent can ask questions during a run. The README calls it a learning project developed and tested mainly with DeepSeek models. Releases ship macOS and Windows installers. Code was read, not run.
+The repository holds the Next.js and Electron app: tabs as Electron WebContentsView instances (electron/main/services/tab-manager.ts), scheduling, memory, settings, and the agent wiring in electron/main/services/eko-service.ts. The BrowserAgent and FileAgent themselves are imported from the npm packages @jarvis-agent/core and @jarvis-agent/electron (0.3.x), which the README describes as based on Eko; their npm metadata names FellouAI as author and a placeholder repository URL, and their source is not in this tree. In Deep Explore mode the user confirms or edits the generated workflow, and the agent can ask questions during a run. The README calls it a learning project developed and tested mainly with DeepSeek models. Releases ship macOS and Windows installers.
 
 - Record JSON: https://awesomecua.com/resources/github-deepfundai-ai-browser/record.json
 

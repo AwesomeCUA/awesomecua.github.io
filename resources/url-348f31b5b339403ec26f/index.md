@@ -29,7 +29,7 @@ The repository contains only JPEG frames packed in tar shards (671 for part16, 8
 
 - 1,922 screenshot tar shards — Hub repository at revision 8d31cbd4 (parts 16-19) (computed) (computed; source: https://huggingface.co/api/datasets/joker-112/WildGUI_Screenshots/revision/8d31cbd45c9cb82683bbd5dea767782bb604fbcd)
 
-Shard count computed by script from the pinned Hub API file list; it counts files, not frames. The card says each shard holds up to about 20,000 frames; the number of frames was not counted.
+Shard count computed by script from the pinned Hub API file list; it counts files. The card says each shard holds up to about 20,000 frames; the number of frames was not counted.
 
 ## License declarations
 

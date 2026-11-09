@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Builds an automatically evolved, rubric\-verified benchmark of 500 deep research tasks; the abstract does not say whether agents browse and read web pages or only use retrieval, so its web\-agent relevance is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Builds an automatically evolved, rubric\-verified benchmark of 500 deep research tasks; the abstract leaves open whether agents browse and read web pages or only use retrieval\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

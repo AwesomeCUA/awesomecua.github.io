@@ -29,7 +29,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-Official README calls this a partial training release and says app data will be uploaded gradually. Its training-JSON and test-data links point to separate Hub repositories; those artifacts are not counted as files or splits of xwk123/Mobile3M. Public revision 3df26694 lists app-graph archives; their names do not establish a three-million-example downloadable inventory. Precise inner record/modalities schema is not inspected. The card YAML says Apache-2.0 while its prose and official README assign CC-BY-NC-SA-4.0 to data and Apache to code; the existing data-license value remains unknown with the conflict documented.
+Official README calls this a partial training release and says app data will be uploaded gradually. Its training-JSON and test-data links point to separate Hub repositories with separate file and split inventories. Public revision 3df26694 lists app-graph archives; the downloadable example count remains unspecified. The card YAML says Apache-2.0 while its prose and official README assign CC-BY-NC-SA-4.0 to data and Apache to code; the existing data-license value remains unknown with the conflict documented.
 
 ## License declarations
 

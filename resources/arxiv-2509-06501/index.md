@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Synthesizes hard information\-seeking queries through exploration to train a long\-horizon web agent, evaluated on browsing benchmarks such as BrowseComp and WebWalkerQA\. An open pull request \(\#4005\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Synthesizes hard information\-seeking queries through exploration to train a long\-horizon web agent, evaluated on browsing benchmarks such as BrowseComp and WebWalkerQA; the abstract leaves open whether long\-horizon browsing fits adjacent scope\. An open pull request \(\#4005\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

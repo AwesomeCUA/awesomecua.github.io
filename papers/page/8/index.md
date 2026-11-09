@@ -336,7 +336,7 @@ TUA-Bench evaluates terminal-use agents on general digital tasks, including docu
 
 ### Limitations
 
-Reviewed against the complete retained official abstract. Adjacent general computer-operation benchmark: the evaluated interface is a terminal; GUI benchmarks are a contrast, not its execution modality.
+Reviewed against the complete retained official abstract. Adjacent general computer-operation benchmark evaluated through a terminal.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-28480/record.json
 
@@ -426,7 +426,7 @@ Minbyul Jeong
 
 ## Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning
 
-PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone does not ensure planning generalization across websites.
+PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone falls short of planning generalization across websites.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2606-27330/
 - Original source: https://arxiv.org/abs/2606.27330
@@ -1778,7 +1778,7 @@ Ziyan Jiang, Li An, Yujian Liu, Jiabao Ji, Qiucheng Wu, Jacob Andreas, Yang Zhan
 
 ## Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding
 
-Proposes quality-aware self-distillation for GUI coordinate generation under student-produced prefixes. A correctness-aware gate suppresses coordinate-token supervision that cannot reach the target box, while teacher-probability scaling adjusts the remaining signal strength.
+Proposes quality-aware self-distillation for GUI coordinate generation under student-produced prefixes. A correctness-aware gate suppresses coordinate-token supervision outside the target box, while teacher-probability scaling adjusts the remaining signal strength.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2606-18101/
 - Original source: https://arxiv.org/abs/2606.18101
@@ -2870,7 +2870,7 @@ Jaewoo Lee, Zaid Khan, Archiki Prasad, Justin Chih-Yao Chen, Supriyo Chakraborty
 
 ## Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields
 
-Workflow-GYM evaluates long GUI workflows in professional software rather than isolated interface actions. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
+Workflow-GYM evaluates long GUI workflows in professional software. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2606-11042/
 - Original source: https://arxiv.org/abs/2606.11042

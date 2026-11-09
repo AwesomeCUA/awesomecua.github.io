@@ -14,7 +14,7 @@ Published AgentSynth task definitions and recorded GUI trajectories, with OSWorl
 
 ## Limitations
 
-Public Hub manifest contains JSONL task files and trajectory ZIP packages. Counts describe the publisher-reported task collection, not independently counted archive rows or numbers inferred from ZIP filenames.
+Public Hub manifest contains JSONL task files and trajectory ZIP packages. Counts describe the publisher-reported task collection; independently counted archive-row and ZIP-filename totals remain unavailable.
 
 - Record JSON: https://awesomecua.com/resources/url-58a209f2b3b970916396/record.json
 
@@ -27,9 +27,9 @@ Public Hub manifest contains JSONL task files and trajectory ZIP packages. Count
 
 ### Count observations
 
-- > 6,000 tasks — collection described in the dataset card; not an independently counted release-row total (reported; source: https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md)
+- > 6,000 tasks — The count is the collection total described by the dataset card; the released-row count remains unverified. (reported; source: https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md)
 
-Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jsonl. Six difficulty levels and trajectory screenshots/thoughts/commands are documented. ZIP file labels are not trajectory counts; configurations and composed-task levels are not assumed disjoint.
+Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jsonl. Six difficulty levels and trajectory screenshots/thoughts/commands are documented. ZIP file labels identify files; trajectory totals are unspecified, and configurations and composed-task levels may overlap.
 
 ## License declarations
 

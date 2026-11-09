@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 12,087 instructions — crowd-sourced instruction collection (reported; source: https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md)
 - ≈ 1,180,000 products — full product inventory (reported; source: https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md)
 
-This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations. Detailed reward semantics are not normalized in this profile.
+This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations.
 
 ## License declarations
 

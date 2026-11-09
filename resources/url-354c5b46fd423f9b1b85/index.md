@@ -14,7 +14,7 @@ FP8 block-quantized release of the Holo4-27B computer-use model; an external har
 
 ## Limitations
 
-Hub metadata marks this repository as a quantized derivative of Hcompany/Holo4-27B. Its config.json declares Qwen3_5ForConditionalGeneration with FP8 block quantization of linear layers, while the card names Qwen3.8-27B as the base; the manifest lists 18 Safetensors shards. The card declares CC BY-NC 4.0 for these weights and also ships the base model's Apache-2.0 license. OSWorld and other scores on the card are publisher claims for Holo4-27B and were not reproduced; no weights were loaded.
+Hub metadata marks this repository as a quantized derivative of Hcompany/Holo4-27B. Its config.json declares Qwen3_5ForConditionalGeneration with FP8 block quantization of linear layers, while the card names Qwen3.8-27B as the base; the manifest lists 18 Safetensors shards. The card declares CC BY-NC 4.0 for these weights and also ships the base model's Apache-2.0 license. OSWorld and other scores on the card are publisher claims for Holo4-27B.
 
 - Record JSON: https://awesomecua.com/resources/url-354c5b46fd423f9b1b85/record.json
 

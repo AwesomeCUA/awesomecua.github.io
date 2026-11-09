@@ -14,7 +14,7 @@ GUI-Actor grounding checkpoint fine-tuned from Qwen2.5-VL-3B-Instruct with an at
 
 ## Limitations
 
-The card's heading says GUI-Actor-7B with a Qwen2.5-VL-7B backbone, but its metadata, text and usage code name Qwen2.5-VL-3B-Instruct and this repository; the API reports 3,787,653,120 BF16 parameters and the Qwen2_5_VLForConditionalGenerationWithPointer class, which loads through the gui_actor package. The Hub manifest lists two Safetensors shards, an index and trainer_state.json. ScreenSpot results in the card are publisher-reported and were not reproduced. MIT is the card's weight declaration; Qwen2.5-VL and training-data terms are separate.
+The card's heading says GUI-Actor-7B with a Qwen2.5-VL-7B backbone, but its metadata, text and usage code name Qwen2.5-VL-3B-Instruct and this repository; the API reports 3,787,653,120 BF16 parameters and the Qwen2_5_VLForConditionalGenerationWithPointer class, which loads through the gui_actor package. The Hub manifest lists two Safetensors shards, an index and trainer_state.json. ScreenSpot results in the card are publisher-reported. MIT is the card's weight declaration; Qwen2.5-VL and training-data terms are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-0c400260635b7e4ab7c0/record.json
 

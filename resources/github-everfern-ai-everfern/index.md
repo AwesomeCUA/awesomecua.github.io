@@ -14,7 +14,7 @@ Electron desktop agent whose LangGraph orchestrator runs a screenshot-driven com
 
 ## Limitations
 
-package.json at the inspected commit names the app desktop, version 1.3.0, MIT. computer-use.ts captures the screen through Electron, downscales screenshots to 1280 px wide, asks a configurable vision model for the next action (its class defaults name bytedance/ui-tars-1.5-7b as the action model), maps the returned normalized coordinates to the screen and executes mouse and keyboard input with @jitsi/robotjs. The Navis browser agent has an extension mode, whose companion extension is published in a separate repository, and a Playwright mode (browser-control-adapter.ts). The README lists Ollama, LM Studio and cloud providers, and describes runtime tool synthesis behind human approval, saved skills, peer-agent debate and shell commands run in an isolated Linux VM. Code was read, not run.
+package.json at the inspected commit names the app desktop, version 1.3.0, MIT. computer-use.ts captures the screen through Electron, downscales screenshots to 1280 px wide, asks a configurable vision model for the next action (its class defaults name bytedance/ui-tars-1.5-7b as the action model), maps the returned normalized coordinates to the screen and executes mouse and keyboard input with @jitsi/robotjs. The Navis browser agent has an extension mode, whose companion extension is published in a separate repository, and a Playwright mode (browser-control-adapter.ts). The README lists Ollama, LM Studio and cloud providers, and describes runtime tool synthesis behind human approval, saved skills, peer-agent debate and shell commands run in an isolated Linux VM.
 
 - Record JSON: https://awesomecua.com/resources/github-everfern-ai-everfern/record.json
 

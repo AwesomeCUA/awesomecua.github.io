@@ -14,7 +14,7 @@ Introduces reasoning gates that require agents to solve generated, verifiable pu
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The contribution is an access-cost mechanism spanning websites and MCP servers, not a GUI navigation policy.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The contribution is an access-cost mechanism spanning websites and MCP servers.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-01619/record.json
 

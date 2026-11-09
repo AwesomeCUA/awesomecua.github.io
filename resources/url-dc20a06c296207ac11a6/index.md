@@ -14,7 +14,7 @@ Smallest Holo1.5 checkpoint, fine-tuned from Qwen2.5-VL-3B-Instruct with supervi
 
 ## Limitations
 
-Hub API at revision f10805d3 lists two BF16 safetensors shards (about 3.75B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is not gated. The card describes proprietary training data mixed from open-source, synthetic and human-annotated samples, so no training dataset is linked; its localization and screen-QA scores are publisher-reported and are not recorded. Mobile is named without an operating system. The card's license field is 'other': it says the 3B size inherits Qwen's license and names the Qwen Research License, and the repository's LICENSE file is an H research agreement limited to non-commercial use. The 7B and 72B sizes carry different terms, and H Company's models page gives the family one CC BY-NC 4.0 label.
+Hub API at revision f10805d3 lists two BF16 safetensors shards (about 3.75B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is publicly accessible. The card describes proprietary training data mixed from open-source, synthetic and human-annotated samples, leaving a specific training dataset unlinked; its localization and screen-QA scores are publisher-reported. Mobile is named without an operating system. The card's license field is 'other': it says the 3B size inherits Qwen's license and names the Qwen Research License, and the repository's LICENSE file is an H research agreement limited to non-commercial use. The 7B and 72B sizes carry different terms, and H Company's models page gives the family one CC BY-NC 4.0 label.
 
 - Record JSON: https://awesomecua.com/resources/url-dc20a06c296207ac11a6/record.json
 

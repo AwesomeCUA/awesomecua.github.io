@@ -14,7 +14,7 @@ XLang's gated release of OSWorld 2.0 agent runs: 21 ZIP result archives named by
 
 ## Limitations
 
-The repository is gated with automatic approval; its card could not be read without accepting the gate, and the Hub API carries no card metadata or license. The OSWorld-V2 README links it as the benchmark's trajectory download beside a hosted trajectory viewer. Some archive names carry the v2.1 label, a release the README dates after the paper, and step budgets of 150, 300 or 500, so the runs are not limited to the paper's evaluation. The ZIP archives were not downloaded, and scores in the result files were not re-checked.
+The repository is gated with automatic approval; its card could not be read without accepting the gate, and the Hub API carries no card metadata or license. The OSWorld-V2 README links it as the benchmark's trajectory download beside a hosted trajectory viewer. Some archive names carry the v2.1 label, a release the README dates after the paper, and step budgets of 150, 300 or 500; the runs include evaluations beyond the paper.
 
 - Record JSON: https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/record.json
 
@@ -37,7 +37,7 @@ The repository is gated with automatic approval; its card could not be read with
 - 107 task folders — website_demo/gpt-5.6/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.6/tasks)
 - 108 task folders — website_demo/qwen3.7/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/qwen3.7/tasks)
 
-Counts come from the Hub tree listings at the pinned revision. A task folder is one model's run of one task, so folders across models are not summed; gpt-5.6 has 107 folders and the others 108. The inspected folder website_demo/MiniMax-M3/tasks/001 holds traj.jsonl, 501 PNG step screenshots, result and per-step-budget result files, eval and runtime logs, checkpoint results and API usage. ZIP archive contents and their trajectory counts are unknown.
+Counts come from the Hub tree listings at the pinned revision. A task folder is one model's run of one task; folders across models overlap by task, with 107 folders for gpt-5.6 and 108 for the others. The inspected folder website_demo/MiniMax-M3/tasks/001 holds traj.jsonl, 501 PNG step screenshots, result and per-step-budget result files, eval and runtime logs, checkpoint results and API usage. ZIP archive contents and their trajectory counts are unknown.
 
 ## License declarations
 

@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 557 tasks — AppSim-Bench paper-described release (reported; source: https://arxiv.org/abs/2609.07712)
 - 17 applications — published simulated app set (reported; source: https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md)
 
-Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions are not the platform being evaluated.
+Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions describe setup; the evaluated platform is separate.
 
 ## License declarations
 

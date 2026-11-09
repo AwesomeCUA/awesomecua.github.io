@@ -14,7 +14,7 @@ NemotronH Nano Omni-based computer-use checkpoint in H Company's Holo4 family; a
 
 ## Limitations
 
-The pinned Hub manifest lists 17 BF16 safetensors shards (about 33.0B parameters by the Hub count) with custom modeling code, and config.json declares the NemotronH_Nano_Omni_Reasoning_V3 architecture. The card says the model is built on NVIDIA Nemotron 3 Nano Omni and lists it in the Holo4 family beside the Qwen-based Holo4 checkpoints; its YAML names no base_model, so none is recorded. The card declares the NVIDIA Open Model Agreement for the weights (Hub license 'other'). OSWorld, OSWorld 2.0, AutomationBench, PinchBench and ALE scores on the card are publisher figures and were not reproduced; the FreeCAD demo on the card shows Holo4-27B, not this checkpoint. An FP8 repository is a separate release. No weights were downloaded or run.
+The pinned Hub manifest lists 17 BF16 safetensors shards (about 33.0B parameters by the Hub count) with custom modeling code, and config.json declares the NemotronH_Nano_Omni_Reasoning_V3 architecture. The card says the model is built on NVIDIA Nemotron 3 Nano Omni and lists it in the Holo4 family beside the Qwen-based Holo4 checkpoints; its YAML names no base_model, so none is recorded. The card declares the NVIDIA Open Model Agreement for the weights (Hub license 'other'). OSWorld, OSWorld 2.0, AutomationBench, PinchBench and ALE scores on the card are publisher figures; the FreeCAD demo on the card shows Holo4-27B, a separate checkpoint. An FP8 repository is a separate release. No weights were downloaded or run.
 
 - Record JSON: https://awesomecua.com/resources/url-7638e3f688374cea2217/record.json
 

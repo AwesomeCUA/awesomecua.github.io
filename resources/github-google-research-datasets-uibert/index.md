@@ -14,7 +14,7 @@ Two Rico-derived UI component retrieval datasets: AppSim pairs semantically simi
 
 ## Limitations
 
-The archived repository retains TFRecord train/dev/test files for AppSim and RefExp. These are annotation and UI-structure records with Rico image identifiers, not a republished complete screenshot collection or a UIBert checkpoint. The README’s 72k figure describes the upstream Rico source, not the number of released AppSim/RefExp examples; no sample total is inferred. The publisher explicitly assigns CC-BY-4.0 to these datasets.
+The archived repository retains TFRecord train/dev/test files for AppSim and RefExp. These are annotation and UI-structure records with Rico image identifiers. The README’s 72k figure describes the upstream Rico source. The publisher explicitly assigns CC-BY-4.0 to these datasets.
 
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-uibert/record.json
 

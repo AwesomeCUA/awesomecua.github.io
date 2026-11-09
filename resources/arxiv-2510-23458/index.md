@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Confidence\-guided test\-time scaling for LLM search agents; the title says web agents, but the abstract does not say whether they open and read pages or only query search tools\. An exclusion proposal is open in pull request \#3939\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Confidence\-guided test\-time scaling for LLM search agents; the abstract leaves open whether agents open and read pages or query search tools\. An exclusion proposal is open in pull request \#3939\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ Inspect-based framework that varies multi-agent roles, communication, attacks an
 
 ## Limitations
 
-BrowserART uses an accessibility-tree action interface, while the desktop adapter uses mouse, keyboard and screenshots. The adapted tasks are not claimed to preserve the constructs of their source benchmarks. Experiments cover a representative configuration slice with fixed attack templates; the OS-Harm results are imported from prior work using a different model and stack. Browser defense tables also differ in baseline versus defended judges and in judged benign denominators. Human judge validation used one grader. These results do not establish a universally effective defense. The linked repository and its code/data licenses were not independently inspected, and no experiment was run.
+BrowserART uses an accessibility-tree action interface, while the desktop adapter uses mouse, keyboard and screenshots. The adapted tasks have constructs defined by their adaptations; preservation of source-benchmark constructs remains unestablished. Experiments cover a representative configuration slice with fixed attack templates; the OS-Harm results are imported from prior work using a different model and stack. Browser defense tables also differ in baseline versus defended judges and in judged benign denominators. Human judge validation used one grader. The linked repository code and data license terms remain unverified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-33102/record.json
 

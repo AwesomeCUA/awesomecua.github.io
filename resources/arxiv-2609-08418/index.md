@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Trains open\-weight cyber agents on coding, CTF, exploit and device\-backed environments; unclear whether this shell\-based security work counts as terminal computer use or as out\-of\-scope coding agents\. An exclusion proposal is open in pull request \#2447\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Trains open\-weight cyber agents on coding, CTF, exploit and device\-backed environments; whether this shell\-based security work counts as terminal computer use or coding\-agent work remains open\. An exclusion proposal is open in pull request \#2447\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

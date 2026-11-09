@@ -30,7 +30,7 @@ Inclusion does not establish reproducibility or endorsement.
 - > 15,000 demonstrations — AndroidControl collection (reported; source: https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md)
 - 833 applications — AndroidControl collection (reported; source: https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md)
 
-Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; do not count repeated step instructions as independent task goals.
+Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; step instructions can repeat across multiple actions.
 
 ## License declarations
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Benchmark for generating deployable Dify or Coze workflow definitions from language; it is workflow\-automation generation without GUI operation, so its fit as automation infrastructure versus LLM\-framework work is unclear\. An exclusion proposal is open in pull request \#3347\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Benchmark for generating deployable Dify or Coze workflow definitions from language; the abstract leaves open whether workflow\-definition generation fits automation infrastructure\. An exclusion proposal is open in pull request \#3347\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

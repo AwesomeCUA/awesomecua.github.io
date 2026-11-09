@@ -1,6 +1,6 @@
 # AwesomeCUA curated catalog
 
-> All 4,587 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-09T11:08:26Z. Metadata-only bibliography records and unreviewed candidates are excluded.
+> All 4,587 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-09T16:17:01Z. Metadata-only bibliography records and unreviewed candidates are excluded.
 
 Each entry links its catalog page. Append `index.md` to that URL for the full annotation with evidence fingerprints, or `record.json` for the complete record. Full annotations by kind: [Models and checkpoints](https://awesomecua.com/categories/model/index.md), [Datasets](https://awesomecua.com/categories/dataset/index.md), [Benchmarks](https://awesomecua.com/categories/benchmark/index.md), [Agents](https://awesomecua.com/categories/agent/index.md), [Frameworks](https://awesomecua.com/categories/framework/index.md), [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md), [Tools](https://awesomecua.com/categories/tool/index.md), [Products](https://awesomecua.com/categories/product/index.md), [Publishers](https://awesomecua.com/categories/company/index.md), [Learning resources](https://awesomecua.com/categories/learning/index.md), [Surveys](https://awesomecua.com/categories/survey/index.md), [Research library](https://awesomecua.com/papers/index.md).
 
@@ -415,7 +415,7 @@ GUI-Actor grounding checkpoint fine-tuned from Qwen2.5-VL-3B-Instruct with an at
 
 ### GUI-Actor 7B Qwen2-VL
 
-GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class rather than the stock one, under MIT.
+GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class, under MIT.
 
 - https://awesomecua.com/resources/url-e3e5dd82a3102689c4ea/ · source: https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL
 - Licenses: weights mit
@@ -567,7 +567,7 @@ A Qwen2.5-VL-based GUI checkpoint released with Mobile-Agent-v3 for grounded act
 
 ### GUI-Owl 7B Desktop-RL
 
-GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements rather than for production.
+GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements, with production use outside its stated purpose.
 
 - https://awesomecua.com/resources/url-b01a78c76299196e3df1/ · source: https://huggingface.co/mPLUG/GUI-Owl-7B-Desktop-RL
 - Licenses: weights mit
@@ -2279,7 +2279,7 @@ The public training archive linked by the Phi-Ground project for its Phi-Ground-
 
 ### GTA1 cleaned grounding dataset
 
-Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box does not match an OmniParser-detected element.
+Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box and an OmniParser-detected element differ.
 
 - https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/ · source: https://huggingface.co/datasets/HelloKKMe/grounding_dataset
 - Licenses: data CC-BY-NC-SA-4.0
@@ -2561,7 +2561,7 @@ Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 G
 
 ### MoCon
 
-Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; images not included.
+Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; the release supplies annotations separately from the referenced images.
 
 - https://awesomecua.com/resources/url-c7489f15e7883a695832/ · source: https://huggingface.co/datasets/OpenDFM/MoCon
 - Licenses: data cc-by-nc-sa-4.0
@@ -3598,7 +3598,7 @@ A graph-based mobile GUI benchmark that evaluates long tasks through screenshot 
 
 ### Computer Agent Arena
 
-Crowdsourced arena where users pit two computer-use agents against each other on Ubuntu or Windows VMs; the repository holds the voting frontend, setup presets and 2,010 verified battle sessions, not the backend.
+Crowdsourced arena where users pit two computer-use agents against each other on Ubuntu or Windows VMs; the repository holds the voting frontend, setup presets and 2,010 verified battle sessions.
 
 - https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/ · source: https://github.com/xlang-ai/computer-agent-arena
 
@@ -9867,7 +9867,7 @@ LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify
 
 ### look-decide-act
 
-Drives live web applications over CDP through a closed-loop visual look-decide-act cycle rather than brittle script replay.
+Drives live web applications over CDP through a closed-loop visual look-decide-act cycle in place of script replay.
 
 - https://awesomecua.com/resources/github-ivanposel-look-decide-act/ · source: https://github.com/ivanposel/look-decide-act
 - Licenses: code MIT
@@ -11238,7 +11238,7 @@ A web-agent framework that explores sites, synthesizes reusable interaction APIs
 
 ### Skyvern
 
-Browser workflow automation that relies on vision LLMs and a swarm of agents instead of fixed XPath selectors, offered as a Playwright-compatible SDK and a no-code workflow builder.
+Browser workflow automation using vision LLMs and a swarm of agents, offered as a Playwright-compatible SDK and a no-code workflow builder.
 
 - https://awesomecua.com/resources/github-skyvern-ai-skyvern/ · source: https://github.com/Skyvern-AI/skyvern
 
@@ -16780,7 +16780,7 @@ Native Windows MCP server combining UI Automation, dark-theme-aware OCR, visual 
 
 ### OSWright
 
-Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.
 
 - https://awesomecua.com/resources/github-ask-812-oswright/ · source: https://github.com/Ask-812/oswright
 - Licenses: code MIT
@@ -16876,7 +16876,7 @@ Local bridge connecting Paseo AI agents to the user's logged-in Chrome browser.
 
 ### pc-screen-control
 
-Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data in place of screenshots.
 
 - https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/ · source: https://github.com/desteny-dev/pc-screen-control
 - Licenses: code MIT
@@ -17040,7 +17040,7 @@ Parameterized UI/UX flow testing suite with Model Context Protocol integration a
 
 ### Playwright MCP
 
-MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
+MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots, with opt-in vision, PDF and devtools capabilities.
 
 - https://awesomecua.com/resources/github-microsoft-playwright-mcp/ · source: https://github.com/microsoft/playwright-mcp
 - Licenses: code Apache-2.0
@@ -18712,7 +18712,7 @@ AWS service for building and deploying agents that automate browser-based UI wor
 
 ### AskUI
 
-Agentic test-automation platform running plain-language test cases from pixels rather than selectors on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
+Agentic test-automation platform running plain-language test cases from pixels on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
 
 - https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/ · source: https://www.askui.com/
 
@@ -19722,7 +19722,7 @@ Introduces DeskIF-Bench to study how desktop application interfaces affect agent
 
 ### A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents
 
-Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
+Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility.
 
 - https://awesomecua.com/resources/arxiv-2609-19843/ · source: https://arxiv.org/abs/2609.19843v1
 - Published: 2026-09-17
@@ -19988,7 +19988,7 @@ Introduces CollabUIAgents, a multi-agent RL framework that assigns LLM-based pro
 
 ### Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment
 
-Introduces V-Droid, which verifies candidate actions in a discrete action space rather than directly generating each mobile operation.
+Introduces V-Droid, which verifies candidate actions in a discrete action space.
 
 - https://awesomecua.com/resources/arxiv-2503-15937/ · source: https://arxiv.org/abs/2503.15937v5
 - Published: 2025-03-20
@@ -22011,7 +22011,7 @@ BreakingWeb pairs solvable browser tasks with controlled environment interventio
 
 ### Context manipulation attacks : Web agents are susceptible to corrupted memory
 
-Studies context manipulation in web agents by altering stored task representations rather than webpage prompts alone. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
+Studies context manipulation in web agents by altering stored task representations. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
 
 - https://awesomecua.com/resources/arxiv-2506-17318/ · source: https://arxiv.org/abs/2506.17318v1
 - Published: 2025-06-18
@@ -22879,7 +22879,7 @@ Audits sources of ambiguity and operational variation in WebVoyager evaluation a
 
 ### Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning
 
-PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone does not ensure planning generalization across websites.
+PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone falls short of planning generalization across websites.
 
 - https://awesomecua.com/resources/arxiv-2606-27330/ · source: https://arxiv.org/abs/2606.27330v1
 - Published: 2026-06-25
@@ -22935,7 +22935,7 @@ Introduces Hierarchical Memory Tree (HMT), which organizes web-agent trajectorie
 
 ### EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents
 
-Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks rather than screenshot similarity alone.
+Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks.
 
 - https://awesomecua.com/resources/arxiv-2601-17722/ · source: https://arxiv.org/abs/2601.17722v1
 - Published: 2026-01-25
@@ -23761,7 +23761,7 @@ Uses an attention-based action head and a verifier to select relevant screen reg
 
 ### GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding
 
-Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
+Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 
 - https://awesomecua.com/resources/arxiv-2511-00810/ · source: https://arxiv.org/abs/2511.00810v4
 - Published: 2025-11-02
@@ -24013,7 +24013,7 @@ Introduces annotated website task trajectories with screenshots, prior actions, 
 
 ### GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis
 
-GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces rather than relying on one holistic trajectory score.
+GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces.
 
 - https://awesomecua.com/resources/arxiv-2604-04399/ · source: https://arxiv.org/abs/2604.04399v1
 - Published: 2026-04-06
@@ -24742,7 +24742,7 @@ JarvisGUI composes typed input-output task transformations into dynamic workflow
 
 ### JEF-Hinter: Leveraging Offline Knowledge for Improving Web Agents Adaptation
 
-Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps rather than full demonstration replay.
+Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps.
 
 - https://awesomecua.com/resources/arxiv-2510-04373/ · source: https://arxiv.org/abs/2510.04373v2
 - Published: 2025-10-05
@@ -25022,7 +25022,7 @@ GUI-Cursor treats GUI grounding as a sequence of cursor movements guided by visi
 
 ### Learning How to Remember: Memory Modality Selection for GUI Agents
 
-Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step instead of fixing one memory modality for a task.
+Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step.
 
 - https://awesomecua.com/resources/arxiv-2610-17928/ · source: https://arxiv.org/abs/2610.17928v1
 - Published: 2026-10-13
@@ -25162,7 +25162,7 @@ LiMAC combines a compact Action Transformer with a fine-tuned vision-language mo
 
 ### LineRetriever: Planning-Aware Observation Reduction for Web Agents
 
-LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
+LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon.
 
 - https://awesomecua.com/resources/arxiv-2507-00210/ · source: https://arxiv.org/abs/2507.00210v1
 - Published: 2025-06-30
@@ -25372,7 +25372,7 @@ MAG jointly evaluates browser task actions and user-facing guides grounded in sc
 
 ### MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation
 
-MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness rather than treating all response tokens equally. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
+MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
 
 - https://awesomecua.com/resources/arxiv-2607-29320/ · source: https://arxiv.org/abs/2607.29320v1
 - Published: 2026-07-31
@@ -25694,7 +25694,7 @@ Introduces MemHarness, which trains agents to critique and reconstruct retrieved
 
 ### MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks
 
-MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions.
 
 - https://awesomecua.com/resources/arxiv-2602-16313/ · source: https://arxiv.org/abs/2602.16313v2
 - Published: 2026-02-18
@@ -26472,7 +26472,7 @@ Generates browser-agent demonstrations through autonomous exploration and retros
 
 ### Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents
 
-Studies how to route different parts of GUI experience into model weights or runtime context rather than treating whole trajectories as a single unit. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
+Studies how to route different parts of GUI experience into model weights or runtime context. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
 
 - https://awesomecua.com/resources/arxiv-2610-01787/ · source: https://arxiv.org/abs/2610.01787v1
 - Published: 2026-10-01
@@ -26745,7 +26745,7 @@ OpenPhone trains a compact mobile policy with supervised learning followed by GR
 
 ### OpenVAM: Open-World Visual Attention Modeling with VLMs
 
-Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales rather than agent actions.
+Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales on static inputs.
 
 - https://awesomecua.com/resources/arxiv-2609-31364/ · source: https://arxiv.org/abs/2609.31364v1
 - Published: 2026-09-25
@@ -27215,7 +27215,7 @@ PlayEval measures whether generated GUI applications remain logically playable, 
 
 ### Player-1: Learning to Play from Synthetic Experience
 
-Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games rather than ordinary productivity workflows.
+Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games.
 
 - https://awesomecua.com/resources/arxiv-2610-20584/ · source: https://arxiv.org/abs/2610.20584v1
 - Published: 2026-10-14
@@ -27271,7 +27271,7 @@ Demonstrates clean-text visual backdoor attacks (VIBMA) that compromise fine-tun
 
 ### Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents
 
-Studies persistent web-agent memory contamination introduced through environmental observations instead of direct memory access. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
+Studies persistent web-agent memory contamination introduced through environmental observations. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
 
 - https://awesomecua.com/resources/arxiv-2604-02623/ · source: https://arxiv.org/abs/2604.02623v2
 - Published: 2026-04-03
@@ -27299,7 +27299,7 @@ Introduces PPT-Eval, a benchmark of PowerPoint creation and editing tasks for co
 
 ### PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion
 
-Evaluates multi-turn PowerPoint creation and editing, scoring the resulting presentation files rather than requiring a fixed API sequence.
+Evaluates multi-turn PowerPoint creation and editing by scoring the resulting presentation files.
 
 - https://awesomecua.com/resources/arxiv-2311-01767/ · source: https://arxiv.org/abs/2311.01767v2
 - Published: 2023-11-03
@@ -27495,7 +27495,7 @@ Introduces Prune4Web, where generated scoring programs filter DOM elements accor
 
 ### PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent
 
-PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences rather than measuring generic task completion alone.
+PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences.
 
 - https://awesomecua.com/resources/arxiv-2603-29318/ · source: https://arxiv.org/abs/2603.29318v1
 - Published: 2026-03-31
@@ -28155,7 +28155,7 @@ HyperTrack provides mobile GUI navigation tasks across Chinese apps, while GUIEv
 
 ### Scenario-Guided LLM-based Mobile App GUI Testing
 
-ScenGen organizes mobile GUI testing around business scenarios rather than unrestricted exploration. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
+ScenGen organizes mobile GUI testing around business scenarios. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
 
 - https://awesomecua.com/resources/arxiv-2506-05079/ · source: https://arxiv.org/abs/2506.05079v4
 - Published: 2025-06-05
@@ -28267,7 +28267,7 @@ ScreenSearch explores desktop GUI states by indexing and deduplicating UIA-tree 
 
 ### Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents
 
-This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing why changed action preferences alone need not improve held-out accuracy.
+This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing that changed action preferences can coexist with unchanged held-out accuracy.
 
 - https://awesomecua.com/resources/arxiv-2608-03327/ · source: https://arxiv.org/abs/2608.03327v2
 - Published: 2026-08-04
@@ -28393,7 +28393,7 @@ Reports Seed1.5-VL, a general vision-language model evaluated on GUI control and
 
 ### Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps
 
-Trident combines exploration, monitoring, and detection agents to identify functional bugs that do not crash a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
+Trident combines exploration, monitoring, and detection agents to identify functional bugs in a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
 
 - https://awesomecua.com/resources/arxiv-2407-03037/ · source: https://arxiv.org/abs/2407.03037v2
 - Published: 2024-07-03
@@ -28638,7 +28638,7 @@ Uses inference of possible user queries from screenshots and target coordinates 
 
 ### SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents
 
-SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings, rather than establishing universal runtime prevention.
+SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings.
 
 - https://awesomecua.com/resources/arxiv-2604-25562/ · source: https://arxiv.org/abs/2604.25562v1
 - Published: 2026-04-28
@@ -29590,7 +29590,7 @@ Combines hierarchical screen parsing with spatially enriched element description
 
 ### Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding
 
-Proposes quality-aware self-distillation for GUI coordinate generation under student-produced prefixes. A correctness-aware gate suppresses coordinate-token supervision that cannot reach the target box, while teacher-probability scaling adjusts the remaining signal strength.
+Proposes quality-aware self-distillation for GUI coordinate generation under student-produced prefixes. A correctness-aware gate suppresses coordinate-token supervision outside the target box, while teacher-probability scaling adjusts the remaining signal strength.
 
 - https://awesomecua.com/resources/arxiv-2606-18101/ · source: https://arxiv.org/abs/2606.18101v2
 - Published: 2026-06-16
@@ -30725,7 +30725,7 @@ Introduces question answering over individual screens, multiple web pages, and n
 
 ### WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation
 
-WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success does not translate into useful task completion.
+WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success and useful task completion diverge.
 
 - https://awesomecua.com/resources/arxiv-2607-06118/ · source: https://arxiv.org/abs/2607.06118v1
 - Published: 2026-07-07
@@ -30837,7 +30837,7 @@ WebTestPilot turns natural-language requirements into web test steps with inferr
 
 ### WebThinker: Empowering Large Reasoning Models with Deep Research Capability
 
-Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
+Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler.
 
 - https://awesomecua.com/resources/arxiv-2504-21776/ · source: https://arxiv.org/abs/2504.21776v2
 - Published: 2025-04-30
@@ -31271,7 +31271,7 @@ Introduces enterprise web tasks on ServiceNow and BrowserGym interfaces for eval
 
 ### Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields
 
-Workflow-GYM evaluates long GUI workflows in professional software rather than isolated interface actions. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
+Workflow-GYM evaluates long GUI workflows in professional software. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
 
 - https://awesomecua.com/resources/arxiv-2606-11042/ · source: https://arxiv.org/abs/2606.11042v4
 - Published: 2026-06-09

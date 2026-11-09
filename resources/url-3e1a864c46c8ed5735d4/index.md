@@ -14,7 +14,7 @@ Touch-gesture and motion-sensor recordings of people and mobile GUI agents doing
 
 ## Limitations
 
-The Hub repository has no dataset card or license file; the arXiv paper and its code repository link it as the released data. The paper reports that all sessions ran on one Xiaomi Mi Max 2 phone with MIUI 11.0.2.0. Recording archives were not downloaded, so per-archive contents are not verified. Event totals are the paper's figures, not recounts.
+The Hub repository has no dataset card or license file; the arXiv paper and its code repository link it as the released data. The paper reports that all sessions ran on one Xiaomi Mi Max 2 phone with MIUI 11.0.2.0. Per-archive contents remain unverified because the recording archives were outside the reviewed evidence. Event totals are the paper's figures.
 
 - Record JSON: https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/record.json
 
@@ -38,7 +38,7 @@ The Hub repository has no dataset card or license file; the arXiv paper and its 
 - 280,320,486 motion and sensor events — humanized agents without fake actions (paper Table 5) (reported; source: https://arxiv.org/html/2604.09574v1)
 - 154,704,094 motion and sensor events — humanized agents with fake actions (paper Table 5) (reported; source: https://arxiv.org/html/2604.09574v1)
 
-Computed counts come from a script over the pinned Hub file list and tasks.csv. tasks.csv names 20 apps while the paper reports 21. The task texts are in Chinese. The code repository says the metadata workbook holds agent, task, timestamp and success-scoring fields; it was not opened. Event counts are per sensor or touch event, not per task, and the four totals are separate populations, not to be summed.
+Computed counts come from a script over the pinned Hub file list and tasks.csv. tasks.csv names 20 apps while the paper reports 21. The task texts are in Chinese. The code repository says the metadata workbook holds agent, task, timestamp and success-scoring fields. Event counts are per sensor or touch event, and the four totals are separate populations; these counts are reported separately.
 
 ## License declarations
 

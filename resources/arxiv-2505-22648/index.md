@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Trains a ReAct web information\-seeking agent with browsing data, SFT and RL, evaluated on GAIA and WebWalkerQA; deep\-search browsing rather than GUI control\. An open pull request \(\#4145\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Trains a ReAct web information\-seeking agent with browsing data, SFT and RL, evaluated on GAIA and WebWalkerQA; the abstract leaves open whether the deep\-search browsing work fits adjacent scope\. An open pull request \(\#4145\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

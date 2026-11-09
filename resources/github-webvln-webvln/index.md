@@ -14,7 +14,7 @@ Training and evaluation code for question-guided website navigation that combine
 
 ## Limitations
 
-The released tree contains navigation models, an environment wrapper, scoring utilities and train/eval scripts. Full WebVLN-v1 data and pretrained files are linked through an external Drive folder; their complete contents and data/weight terms were not verified, so no separate benchmark download or checkpoint is approved here. The README MIT badge has no matching repository license file or explicit component scope; code permissions remain unestablished.
+The released tree contains navigation models, an environment wrapper, scoring utilities and train/eval scripts. Full WebVLN-v1 data and pretrained files are linked through an external Drive folder. The README MIT badge has no matching repository license file or explicit component scope; code permissions remain unestablished.
 
 - Record JSON: https://awesomecua.com/resources/github-webvln-webvln/record.json
 

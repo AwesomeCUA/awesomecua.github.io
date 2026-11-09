@@ -14,7 +14,7 @@ Microsoft monorepo for InfiniteWeb website and task-evaluator synthesis, the UI-
 
 ## Limitations
 
-The repository was renamed from microsoft/E2I-Synth; both API names return repository 919941789, and the UI-Evol README still clones the old address. InfiniteWeb/ synthesizes multi-page websites with data, APIs, user tasks and dense reward evaluators from a website seed, validates them with generated tests, and includes an OSWorld integration; its README links arXiv 2601.04126 and a Hub dataset. UI-E2I-Synth/ holds only i2e-bench-eval.py, which scores point predictions from an OpenAI-compatible model against UI-I2E-Bench boxes, and the leaderboard site; the instruction-synthesis pipeline itself is not in this tree. UI-Evol/ re-traces actions from screenshot sequences and has an LLM critic refine task knowledge, configured for Azure OpenAI. The root LICENSE is MIT; InfiniteWeb/ and the leaderboard folder carry their own license files. Code was read, not run; paper results were not reproduced.
+The repository was renamed from microsoft/E2I-Synth; both API names return repository 919941789, and the UI-Evol README still clones the old address. InfiniteWeb/ synthesizes multi-page websites with data, APIs, user tasks and dense reward evaluators from a website seed, validates them with generated tests, and includes an OSWorld integration; its README links arXiv 2601.04126 and a Hub dataset. UI-E2I-Synth/ holds only i2e-bench-eval.py, which scores point predictions from an OpenAI-compatible model against UI-I2E-Bench boxes, and the leaderboard site; the instruction-synthesis pipeline itself is not in this tree. UI-Evol/ re-traces actions from screenshot sequences and has an LLM critic refine task knowledge, configured for Azure OpenAI. The root LICENSE is MIT; InfiniteWeb/ and the leaderboard folder carry their own license files. Code was read.
 
 - Record JSON: https://awesomecua.com/resources/github-microsoft-five-ui-evol/record.json
 
@@ -25,7 +25,7 @@ The repository was renamed from microsoft/E2I-Synth; both API names return repos
 - document: not recorded
 - weights: not recorded
 
-- code review: The root LICENSE is the MIT permission text under a 'The MIT License (MIT)' title, which enrich does not detect; recorded for the repository's code. InfiniteWeb/ and the leaderboard folder carry their own license files, and no data or weights license is inferred.
+- code review: The root LICENSE is the MIT permission text under a 'The MIT License (MIT)' title; recorded for the repository's code. InfiniteWeb/ and the leaderboard folder carry their own license files, and no data or weights license is inferred.
   Sources: https://raw.githubusercontent.com/microsoft/FIVE-UI-Evol/a07e8ecfad9203c202ba04557f8c5ad9f58d61f1/LICENSE
 
 ## Primary evidence

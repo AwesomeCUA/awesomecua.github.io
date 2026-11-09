@@ -31,7 +31,7 @@ Primarily API and coding interaction; included as an adjacent comparison for GUI
 - 750 tasks — original AppWorld benchmark (2024 paper) (reported; source: https://arxiv.org/abs/2407.18901)
 - 9 applications — original AppWorld environment (2024 paper) (reported; source: https://arxiv.org/abs/2407.18901)
 
-This is an adjacent API/coding benchmark, not a screenshot-only task suite. Preserve the named release; task counts here refer to the original paper.
+This is an adjacent API/coding benchmark. Preserve the named release; task counts here refer to the original paper.
 
 ## License declarations
 

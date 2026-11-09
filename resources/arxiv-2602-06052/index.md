@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Survey of agent memory that names computer use among motivating long\-horizon settings; the abstract does not show how much it covers memory for GUI or computer\-use agents\. An curation proposal is open in pull request \#3740\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) left the scope open: Survey of agent memory that names computer use among motivating long\-horizon settings; the abstract leaves open whether memory for GUI or computer\-use agents receives material coverage\. An curation proposal is open in pull request \#3740\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

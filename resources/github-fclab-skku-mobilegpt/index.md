@@ -14,7 +14,7 @@ An Android client and Python-server agent that learns reusable app subtasks thro
 
 ## Limitations
 
-The old mobilegptsys repository resolves to fclab-skku/MobileGPT. Public Android client and Python server sources require Android SDK 33+, Accessibility Service setup and external service credentials. The README explicitly omits the random explorer and human-in-the-loop memory repair from the open-source version. Its benchmark description differs from the retained arXiv snapshot, so no dataset counts or reproduction claim are merged into this code record. External benchmark data was not approved as a separate release.
+The old mobilegptsys repository resolves to fclab-skku/MobileGPT. Public Android client and Python server sources require Android SDK 33+, Accessibility Service setup and external service credentials. The README explicitly omits the random explorer and human-in-the-loop memory repair from the open-source version. Its benchmark description differs from the retained arXiv snapshot, so no dataset counts or reproduction claim are merged into this code record.
 
 - Record JSON: https://awesomecua.com/resources/github-fclab-skku-mobilegpt/record.json
 

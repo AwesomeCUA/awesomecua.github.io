@@ -14,7 +14,7 @@ An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment 
 
 ## Limitations
 
-Public task manifests, agent runner and evaluator code are present, and the linked ungated Hub manifest lists Ubuntu0.zip and task files. The main setup supports x86 VMware Workstation and says ARM/Docker alternatives are still in development. An inherited evaluation-examples README still mentions Windows 10 and under-construction status; those statements are retained as a documentation inconsistency, not interpreted as verified Windows support. The manifest has 416 category/task references but 412 globally distinct ID strings.
+Public task manifests, agent runner and evaluator code are present, and the linked ungated Hub manifest lists Ubuntu0.zip and task files. The main setup supports x86 VMware Workstation and says ARM/Docker alternatives are still in development. An inherited evaluation-examples README still mentions Windows 10 and under-construction status; those statements are retained as a documentation inconsistency. The manifest has 416 category/task references but 412 globally distinct ID strings.
 
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-map/record.json
 
@@ -30,7 +30,7 @@ Public task manifests, agent runner and evaluator code are present, and the link
 
 - 416 category/task references — evaluation_examples/all.json (computed) (computed; source: https://raw.githubusercontent.com/OS-Copilot/OS-Map/HEAD/evaluation_examples/all.json)
 
-416 category/task pairs are unique, but only 412 bare ID strings are unique across categories. This is a manifest-reference count, not a claim of 416 semantically distinct tasks. Main runtime documentation specifies Ubuntu; the subdirectory README retains older Windows-only wording.
+416 category/task pairs are unique, but only 412 bare ID strings are unique across categories. This is a manifest-reference count. Main runtime documentation specifies Ubuntu; the subdirectory README retains older Windows-only wording.
 
 ## License declarations
 

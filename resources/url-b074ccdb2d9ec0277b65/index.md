@@ -14,7 +14,7 @@ Hosted agent combining browser interaction, tools, and computer-based tasks.
 
 ## Limitations
 
-The launch page identifies itself as outdated. This entry records the product introduction, not current availability, limits, or pricing.
+The launch page identifies itself as outdated. This entry records the product introduction.
 
 - Record JSON: https://awesomecua.com/resources/url-b074ccdb2d9ec0277b65/record.json
 

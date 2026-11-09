@@ -14,7 +14,7 @@ MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-lik
 
 ## Limitations
 
-Reviewed the complete retained abstract and selected exact-v1 threat-model, construction and evaluation sections. Execution uses a browser-based Android-like simulator, not real Android isolation or live services. The attacker controls instructions and designated carriers, not privileged simulator state/APIs or system/model/harness internals. Rates depend on release, budget and adjudication coverage. SAF labels track observable expressions and actions, not latent reasoning; unresolved episodes are excluded from rate denominators.
+Reviewed the complete retained abstract and selected exact-v1 threat-model, construction and evaluation sections. Execution uses a browser-based Android-like simulator. The attacker controls instructions and designated carriers; privileged simulator state/APIs and system/model/harness internals remain outside attacker control. Rates depend on release, budget and adjudication coverage. SAF labels track observable expressions and actions; rate denominators exclude unresolved episodes.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-23303/record.json
 

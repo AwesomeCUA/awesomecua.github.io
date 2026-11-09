@@ -14,14 +14,14 @@ AgentStudio's 1,000-example GUI grounding test set, sampled from GroundUI-18K: w
 
 ## Limitations
 
-The card calls this a test set and asks that it not be used for training, although the Hub split is named train. One Parquet split in two shards carries image, instruction, raw_instruction, bbox, resolution, source and platform fields; platform and source tallies come from the Hugging Face dataset-viewer statistics, not a download. Source labels name Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. MIT is the dataset-card declaration, and screenshots drawn from upstream datasets keep their own terms.
+The card calls this a test set and asks that it be reserved from training, although the Hub split is named train. One Parquet split in two shards carries image, instruction, raw_instruction, bbox, resolution, source and platform fields; platform and source tallies come from the Hugging Face dataset-viewer statistics. Source labels name Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. MIT is the dataset-card declaration, and screenshots drawn from upstream datasets keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/url-d86f55753bfea45fe313/record.json
 
 ## Structured profile
 
 - actions: click coordinate
-- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.
+- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
 - focus: instruction-conditioned GUI element grounding
 - observations: screenshots, natural-language instructions
 - setting: offline
@@ -33,7 +33,7 @@ The card calls this a test set and asks that it not be used for training, althou
 - 300 examples — platform label desktop (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train)
 - 300 examples — platform label mobile (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train)
 
-Subset of GroundUI-18K sampled for efficient benchmarking; the larger set is a separate Hub repository and is not counted here. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.
+Subset of GroundUI-18K sampled for efficient benchmarking; this count covers the subset, while the larger set is a separate Hub repository. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.
 
 ## License declarations
 

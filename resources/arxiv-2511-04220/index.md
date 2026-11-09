@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Defines a probabilistic reward and penalty model for scoring workflow quality in automation systems\. This formal workflow evaluation work does not involve agents operating interfaces\. The other marked it borderline: Defines a reward\-and\-penalty model for scoring automation workflows; the abstract does not say whether these workflows operate software interfaces \(RPA\-like\) or only orchestrate services\. An exclusion proposal is open in pull request \#3781\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether workflow evaluation includes agents operating interfaces\. One read it as outside the scope: Defines a probabilistic reward and penalty model for scoring workflow quality in automation systems\. This work evaluates formal workflows; agent interface operation remains unspecified\. The other marked it borderline: Defines a reward\-and\-penalty model for scoring automation workflows; the abstract leaves open whether these workflows operate software interfaces \(RPA\-like\) or orchestrate services\. An exclusion proposal is open in pull request \#3781\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

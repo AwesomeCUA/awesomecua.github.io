@@ -27,7 +27,7 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
 - [Terminal Agents Suffice for Enterprise Automation](https://awesomecua.com/resources/arxiv-2604-00073/) — 2026-03-31
   Studies enterprise automation by terminal agents that call platform APIs, comparing their task results and cost with other agent approaches, including web agents using graphical interfaces.
 - [EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents](https://awesomecua.com/resources/arxiv-2601-17722/) — 2026-01-25
-  Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks rather than screenshot similarity alone.
+  Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks.
 - [ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments](https://awesomecua.com/resources/arxiv-2601-02399/) — 2025-12-30
   ProSoftArena evaluates 436 professional-software tasks across six disciplines and 13 applications in a Windows 11 virtual-machine environment. Its capability hierarchy, execution-based checks, and human-in-the-loop evaluation cover precise GUI operations and multi-software workflows.
 - [Using GUI Agent for Electronic Design Automation](https://awesomecua.com/resources/arxiv-2512-11611/) — 2025-12-12

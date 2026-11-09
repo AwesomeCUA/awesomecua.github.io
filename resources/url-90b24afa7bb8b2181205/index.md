@@ -14,7 +14,7 @@
 
 ## Limitations
 
-Hub API at revision 8c88265a lists two BF16 safetensors shards (about 5.17B parameters, including the vision encoder) in the dense Qwen3_5ForConditionalGeneration architecture; the repository is not gated. The card is shared by the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes and its prose says the Qwen 3.5 family, so base_model is unset. The card lists quantized releases only for the 35B-A3B size. Benchmark results appear only as images and are not recorded. The card declares Apache-2.0 for the weights.
+Hub API at revision 8c88265a lists two BF16 safetensors shards (about 5.17B parameters, including the vision encoder) in the dense Qwen3_5ForConditionalGeneration architecture; the repository is publicly accessible. The card is shared by the whole Holo3.1 family (0.8B, 4B, 9B and 35B-A3B) and names web, desktop and mobile without a mobile operating system. Its YAML base_model lists Qwen3.6-35B-A3B and three Qwen3.5 sizes and its prose says the Qwen 3.5 family, so base_model is unset. The card lists quantized releases only for the 35B-A3B size. The card declares Apache-2.0 for the weights.
 
 - Record JSON: https://awesomecua.com/resources/url-90b24afa7bb8b2181205/record.json
 

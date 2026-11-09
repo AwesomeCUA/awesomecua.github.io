@@ -14,7 +14,7 @@ A Qwen2.5-VL-3B mobile GUI action model fine-tuned on AndroidControl, AMEX, Andr
 
 ## Limitations
 
-The manifest lists two Safetensors shards. Unlike the 7B card, this card declares no license and the Hub repository has no license file, so the weights license stays unknown; the GitHub README's MIT statement is not applied to the weights. The card's action table accepts coordinate or Set-of-Mark targets. AndroidControl and AndroidLab scores are publisher claims and were not reproduced; no weights were loaded.
+The manifest lists two Safetensors shards. Unlike the 7B card, this card declares no license and the Hub repository has no license file, so the weights license stays unknown; the GitHub README's MIT statement is not applied to the weights. The card's action table accepts coordinate or Set-of-Mark targets. AndroidControl and AndroidLab scores are publisher claims.
 
 - Record JSON: https://awesomecua.com/resources/url-43d811a5957d8effb7ed/record.json
 

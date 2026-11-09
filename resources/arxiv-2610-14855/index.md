@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Scope hold after v1 Methodology, Evaluation and Appendices A \(On\-Device Deployment\), B and D\. PEAM generates background network\-configuration rules and reports real cellular/Wi\-Fi switching on Android 16; active rules execute after explicit user acceptance\. The inspected work does not establish GUI observation/action control or a component actually used by a CUA workflow\. Native network switching alone does not establish that broader role\. Need direct interface/control or CUA\-support evidence before inclusion\. Preserve metadata; no permanent exclusion is proposed\.
+Scope hold after v1 Methodology, Evaluation and Appendices A \(On\-Device Deployment\), B and D\. PEAM generates background network\-configuration rules and reports real cellular/Wi\-Fi switching on Android 16; active rules execute after explicit user acceptance\. The inspected work leaves GUI observation/action control and CUA workflow use unestablished\. Native network switching is the documented capability; GUI observation/action control and CUA workflow use remain open\. Need direct interface/control or CUA\-support evidence before inclusion\. Preserve metadata; no permanent exclusion is proposed\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

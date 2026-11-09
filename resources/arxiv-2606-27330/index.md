@@ -1,6 +1,6 @@
 # Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning
 
-PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone does not ensure planning generalization across websites.
+PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone falls short of planning generalization across websites.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2606-27330/
 - Original source: https://arxiv.org/abs/2606.27330

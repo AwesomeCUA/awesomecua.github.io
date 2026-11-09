@@ -31,7 +31,7 @@ The short card says the four JSON files are LLaMA-Factory training files and raw
 - ≈ 34,000 action steps — OpenMobile dataset (project page) (reported; source: https://njucckevin.github.io/openmobile/)
 - 20 Android apps — OpenMobile dataset (project page) (reported; source: https://njucckevin.github.io/openmobile/)
 
-Instruction, step and app counts are the project page's headline figures. Streaming the four split files at revision 8ed12d1 gave 7,393, 6,767, 9,345 and 3,855 step-level samples (27,360 in total), each with one screenshot path into raw_dumps, a system prompt with the mobile_use tool, the task and step history, an assistant thought with a tool call, and a target bounding box; the files exceed the receipt budget, so these computed counts are not recorded as count observations. Steps in the files and the page's action steps are not reconciled. The four split names are training files, not train/test splits.
+Instruction, step and app counts are the project page's headline figures. Streaming the four split files at revision 8ed12d1 gave 7,393, 6,767, 9,345 and 3,855 step-level samples (27,360 in total), each with one screenshot path into raw_dumps, a system prompt with the mobile_use tool, the task and step history, an assistant thought with a tool call, and a target bounding box; the files exceed the receipt budget, leaving these computed counts outside count observations. Steps in the files and the page's action steps are not reconciled. The four split names are training files.
 
 ## License declarations
 

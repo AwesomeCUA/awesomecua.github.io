@@ -14,14 +14,14 @@ Step-level web grounding benchmark that re-renders Mind2Web pages with style, zo
 
 ## Limitations
 
-The card YAML at revision 727c857b lists one eval split of 3,120 examples in four Parquet shards, with screenshot, instruction, gt_bbox, visual_variant, instruction_type, task_id and step_index fields. Hugging Face dataset-viewer statistics show 780 rows for each of four visual variants (labelled original, style, precision and text_shrink; the card calls the first one baseline) and 1,560 rows for each of the direct and relational instruction types, so the card's per-variant sample size of 390 covers one instruction type. The card states that the set is for evaluation, not training, and that the pages come from Mind2Web MHTML archives. eval.yaml names point-in-bbox accuracy. The card declares CC BY 4.0 for the dataset. The linked generation code repository was not inspected, and no rows were downloaded.
+The card YAML at revision 727c857b lists one eval split of 3,120 examples in four Parquet shards, with screenshot, instruction, gt_bbox, visual_variant, instruction_type, task_id and step_index fields. Hugging Face dataset-viewer statistics show 780 rows for each of four visual variants (labelled original, style, precision and text_shrink; the card calls the first one baseline) and 1,560 rows for each of the direct and relational instruction types, so the card's per-variant sample size of 390 covers one instruction type. The card designates the set for evaluation and asks that it be reserved from training; the pages come from Mind2Web MHTML archives. eval.yaml names point-in-bbox accuracy. The card declares CC BY 4.0 for the dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/record.json
 
 ## Structured profile
 
 - actions: predicted target location
-- evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy does not measure end-to-end task success.
+- evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
 - focus: step-level web GUI element localization, robustness to visual and instruction perturbations
 - observations: rendered web-page screenshots, natural-language instructions
 - setting: offline

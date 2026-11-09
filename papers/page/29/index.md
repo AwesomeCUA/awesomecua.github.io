@@ -1537,7 +1537,7 @@ Introduces Rousillon, which generalizes a demonstration of collecting one hierar
 
 ### Limitations
 
-The annotation was reviewed against retained primary publication sources. This is browser interaction learned from demonstrations, rather than a generic server-side crawling library.
+The annotation was reviewed against retained primary publication sources. This is browser interaction learned from demonstrations.
 
 - Record JSON: https://awesomecua.com/resources/url-97c0b1896525632434e2/record.json
 
@@ -1899,7 +1899,7 @@ Presents visual GUI test scripts that use images to specify actions and expected
 
 ### Limitations
 
-The annotation was reviewed against retained primary publication sources. This is a separate visual-testing contribution from the 2009 Sikuli paper, not another version of the same article. MIT PDF download returned HTTP 429; its complete institutional abstract and citation metadata remain the retained review source.
+The annotation was reviewed against retained primary publication sources. This is a separate visual-testing contribution from the 2009 Sikuli paper. MIT PDF download returned HTTP 429; its complete institutional abstract and citation metadata remain the retained review source.
 
 - Record JSON: https://awesomecua.com/resources/url-6262c757080f8838e62c/record.json
 
@@ -2017,7 +2017,7 @@ Introduces Koala, a collaborative web automation system that records browser int
 
 ### Limitations
 
-The annotation was reviewed against retained primary publication sources. This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record.
+The annotation was reviewed against retained primary publication sources. This proposal is the specific Koala paper.
 
 - Record JSON: https://awesomecua.com/resources/url-cccd967aa993404d74d0/record.json
 
@@ -2138,7 +2138,7 @@ Describes Eager, which detects repeated HyperCard interactions, generalizes them
 
 ### Limitations
 
-The annotation was reviewed against retained primary publication sources. The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS.
+The annotation was reviewed against retained primary publication sources. The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop.
 
 - Record JSON: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/record.json
 

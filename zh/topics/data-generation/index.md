@@ -31,7 +31,7 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
 - [Adaptation of Computer Use Agents to New Software with User Manuals](https://awesomecua.com/resources/arxiv-2610-23012/) — 2026-10-16
   MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.
 - [Player-1: Learning to Play from Synthetic Experience](https://awesomecua.com/resources/arxiv-2610-20584/) — 2026-10-14
-  Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games rather than ordinary productivity workflows.
+  Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games.
 - [Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents](https://awesomecua.com/resources/arxiv-2610-19834/) — 2026-10-14
   Introduces WebKD, which repairs failed student web-agent trajectories with minimal teacher edits and trains on corrections that preserve the student's reasoning style.
 - [GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning](https://awesomecua.com/resources/arxiv-2610-19100/) — 2026-10-13
@@ -69,7 +69,7 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
 - [CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs](https://awesomecua.com/resources/arxiv-2609-31957/) — 2026-09-25
   Introduces CaptchaArena, a dataset of execution-verified interactive CAPTCHA solutions with screenshot–action trajectories, reasoning annotations, and pixel masks for irregular targets. The work trains a single policy across CAPTCHA types using supervised learning followed by verifier-reward reinforcement learning.
 - [OpenVAM: Open-World Visual Attention Modeling with VLMs](https://awesomecua.com/resources/arxiv-2609-31364/) — 2026-09-25
-  Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales rather than agent actions.
+  Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales on static inputs.
 - [From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks](https://awesomecua.com/resources/arxiv-2609-30887/) — 2026-09-25
   GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-screen descriptions, hybrid trajectory training and reinforcement learning to select navigation shortcuts and recover through GUI control.
 - [Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents](https://awesomecua.com/resources/arxiv-2609-29892/) — 2026-09-24
@@ -143,7 +143,7 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
 - [GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://awesomecua.com/resources/arxiv-2606-29705/) — 2026-06-29
   GUICrafter first learns grounding from large collections of unannotated screenshots and webpages, then uses a smaller high-quality dataset for reinforcement-learning calibration. The curriculum targets reduced dependence on manually annotated GUI training data.
 - [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://awesomecua.com/resources/arxiv-2606-27330/) — 2026-06-25
-  PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone does not ensure planning generalization across websites.
+  PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone falls short of planning generalization across websites.
 - [WinDOM: Self-Family Distillation for Small-Model GUI Grounding](https://awesomecua.com/resources/arxiv-2606-25964/) — 2026-06-24
   WinDOM obtains bounding-box supervision from a Windows 11 web reimplementation driven through Playwright, and studies rejection-sampling distillation for small GUI grounders. It treats the depth of the supervised cold start as a GRPO choice, comparing same-size EMA and larger same-family teachers.
 - [GUI agent: Guided Exploration of User-Sensitive Screens](https://awesomecua.com/resources/arxiv-2606-25705/) — 2026-06-24
@@ -787,7 +787,7 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
 - [Grounding-Anything-GUI](https://awesomecua.com/resources/url-d1830de02226155ee16d/) — Date not recorded
   The public training archive linked by the Phi-Ground project for its Phi-Ground-Any model.
 - [GTA1 cleaned grounding dataset](https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/) — Date not recorded
-  Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box does not match an OmniParser-detected element.
+  Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box and an OmniParser-detected element differ.
 - [GUI-360](https://awesomecua.com/resources/url-0b590d03a3d5103a79e4/) — Date not recorded
   Desktop GUI trajectory data supporting multiple interface understanding tasks.
 - [GUI-Action Narrator](https://awesomecua.com/resources/github-showlab-gui-action-narrator/) — Date not recorded
@@ -843,7 +843,7 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
 - [Mobile-GUI-Worldmodel-SFT](https://awesomecua.com/resources/url-e041226738f8ea43a878/) — Date not recorded
   A mobile GUI dataset for world-model training and evaluation. Its trajectory archives pair screenshots with page-state text and action-formatted training examples.
 - [MoCon](https://awesomecua.com/resources/url-c7489f15e7883a695832/) — Date not recorded
-  Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; images not included.
+  Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; the release supplies annotations separately from the referenced images.
 - [MoGUI](https://awesomecua.com/resources/url-be89a250747f507a27ef/) — Date not recorded
   Android app GUI crawl with per-app navigation graphs that link screen IDs through the UI action taken, plus 200 archive shards of the captured screens.
 - [MolmoPoint-GUISyn](https://awesomecua.com/resources/url-a7e3c6c6b37793c3151c/) — Date not recorded

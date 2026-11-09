@@ -14,7 +14,7 @@ Purified AndroidControl test set that scores predicted clicks against target ele
 
 ## Limitations
 
-The Hub repository holds five benchmark JSON files, three screenshot tar.gz archives (about 18 GB in total) and the project's web-page assets; the card declares no data license. The point-format files keep coordinate targets, the bbox files add element boxes, and the high-level task-improved file adds revised task text and corrected labels from the paper's LLM-plus-human review; the evaluation script runs that file by default. The GitHub repository batechworks/AndroidControl_Curated carries JSON files with the same names and the vLLM evaluation code. Archives were not downloaded and scores were not reproduced.
+The Hub repository holds five benchmark JSON files, three screenshot tar.gz archives (about 18 GB in total) and the project's web-page assets; the card declares no data license. The point-format files keep coordinate targets, the bbox files add element boxes, and the high-level task-improved file adds revised task text and corrected labels from the paper's LLM-plus-human review; the evaluation script runs that file by default. The GitHub repository batechworks/AndroidControl_Curated carries JSON files with the same names and the vLLM evaluation code.
 
 - Record JSON: https://awesomecua.com/resources/url-dda8a0f1413a6bc7c26f/record.json
 
@@ -34,7 +34,7 @@ The Hub repository holds five benchmark JSON files, three screenshot tar.gz arch
 - 85 step records with corrected ground-truth actions — android_control_high_task-improved.json (gpt_corrected true) (computed) (computed; source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json)
 - 8,377 step records — android_control_low_bbox.json (step instructions) (computed) (computed; source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json)
 
-Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals and are not summed with these.
+Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals; these counts are reported separately.
 
 ## License declarations
 

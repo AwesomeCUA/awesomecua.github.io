@@ -29,7 +29,7 @@ Public JSON annotations and image archives are present. The card has no data-lic
 
 No count recorded.
 
-Public Hub revision 5a0b35fb includes six bbox JSON files and associated image archives. The training configuration names six input paths with sampling_strategy=all; those input paths are not six disjoint datasets or a verified example count. The card’s source-list wording and mismatched hyperlinks remain unresolved, so its approximately 1M screenshots/10M elements headline is not adopted as a release inventory. No data license is established by the card, and the model repository license is not transferred to these data.
+Public Hub revision 5a0b35fb includes six bbox JSON files and associated image archives. The training configuration names six input paths with sampling_strategy=all; path count and verified example count are different units. No data license is established by the card, and the model repository license is not transferred to these data.
 
 ## License declarations
 

@@ -14,7 +14,7 @@ Python benchmark package for prompt-injection security of tool-calling agents, w
 
 ## Limitations
 
-Agents interact with simulated applications through function calls, not graphical interfaces; it is included as an adjacent security benchmark for comparison with GUI and browser-agent safety work. The inspected v1 suite directory lists banking, slack, travel and workspace; later suite versions (v1_1 to v1_2_2) exist alongside it, so record the suite version with any score. The README warns that the package API may still change. Publisher results on the documentation site were not reproduced. MIT applies to the repository code.
+Agents interact with simulated applications through function calls; it is included as an adjacent security benchmark for comparison with GUI and browser-agent safety work. The inspected v1 suite directory lists banking, slack, travel and workspace; later suite versions (v1_1 to v1_2_2) exist alongside it, so record the suite version with any score. The README warns that the package API may still change. MIT applies to the repository code.
 
 - Record JSON: https://awesomecua.com/resources/github-ethz-spylab-agentdojo/record.json
 

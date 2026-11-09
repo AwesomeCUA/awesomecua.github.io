@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Multimodal program repair agent that grounds regions of GUI screenshots to fix visual software issues on SWE\-bench Multimodal; it reads UI screenshots to produce code fixes rather than operating the interface\. An open pull request \(\#3259\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Multimodal program repair agent that grounds regions of GUI screenshots to fix visual software issues on SWE\-bench Multimodal; the abstract leaves open whether GUI screenshot grounding for code repair fits adjacent scope\. An open pull request \(\#3259\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

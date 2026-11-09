@@ -14,7 +14,7 @@ FP8 release of Holotron4-30B-A3B, H Company's computer-use model built on Nemotr
 
 ## Limitations
 
-The card lists this repository as the FP8 checkpoint of Holotron4-30B-A3B within the Holo4 family, but its Hub metadata declares no base_model link. config.json declares NemotronH_Nano_Omni_Reasoning_V3 with compressed-tensors FP8 quantization of linear layers (per-channel weights, dynamic per-token activations), and the manifest lists 17 Safetensors shards. The card names no target platforms; its GUI scores are OSWorld and OSWorld 2.0, alongside MCP and terminal benchmarks. Those scores are publisher claims for Holotron4-30B-A3B and were not reproduced; no weights were loaded. The card places the weights under the NVIDIA Open Model Agreement.
+The card lists this repository as the FP8 checkpoint of Holotron4-30B-A3B within the Holo4 family, but its Hub metadata declares no base_model link. config.json declares NemotronH_Nano_Omni_Reasoning_V3 with compressed-tensors FP8 quantization of linear layers (per-channel weights, dynamic per-token activations), and the manifest lists 17 Safetensors shards. The card names no target platforms; its GUI scores are OSWorld and OSWorld 2.0, alongside MCP and terminal benchmarks. Those scores are publisher claims for Holotron4-30B-A3B. The card places the weights under the NVIDIA Open Model Agreement.
 
 - Record JSON: https://awesomecua.com/resources/url-a72a105e755836154412/record.json
 

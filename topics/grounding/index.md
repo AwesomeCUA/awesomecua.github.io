@@ -115,7 +115,7 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
 - [SPECTRA: On-Device Cognitive Perturbation and Trajectory Analysis for Autonomous Edge-Cloud GUI Grounding](https://awesomecua.com/resources/arxiv-2609-35775/) — 2026-07-31
   Introduces SPECTRA, an edge-cloud GUI grounding framework that uses visual perturbations and trajectory analysis to decide when to request a cloud model.
 - [MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation](https://awesomecua.com/resources/arxiv-2607-29320/) — 2026-07-31
-  MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness rather than treating all response tokens equally. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
+  MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
 - [StepX-Edge: An On-Device UI Vision-Language Model via Architecture-Training-Deployment Co-Design](https://awesomecua.com/resources/arxiv-2607-22708/) — 2026-07-20
   Introduces StepX-Edge, an on-device UI vision-language model for screen understanding, OCR, question answering, and element grounding on mobile chips.
 - [Teach it to stop, not just to click](https://awesomecua.com/resources/arxiv-2607-17136/) — 2026-07-19
@@ -139,7 +139,7 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
 - [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://awesomecua.com/resources/arxiv-2606-25760/) — 2026-06-24
   Argus benchmarks post-hoc uncertainty methods for single-step GUI grounding across open-weight and closed-source observation regimes. It tests calibration, rejection, error severity and conformal click regions, finding that uncertainty rankings transfer less reliably across model/interface regimes than across datasets for one model.
 - [Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding](https://awesomecua.com/resources/arxiv-2606-18101/) — 2026-06-16
-  Proposes quality-aware self-distillation for GUI coordinate generation under student-produced prefixes. A correctness-aware gate suppresses coordinate-token supervision that cannot reach the target box, while teacher-probability scaling adjusts the remaining signal strength.
+  Proposes quality-aware self-distillation for GUI coordinate generation under student-produced prefixes. A correctness-aware gate suppresses coordinate-token supervision outside the target box, while teacher-probability scaling adjusts the remaining signal strength.
 - [VISTA: View-Consistent Self-Verified Training for GUI Grounding](https://awesomecua.com/resources/arxiv-2606-14579/) — 2026-06-12
   VISTA forms GRPO comparison groups from target-preserving crops of the same GUI instance with exactly remapped target boxes. A conditional, advantage-weighted cross-view anchor supplies additional supervision without entering the group baseline, and evaluation includes view-consistency robustness.
 - [Naive Visual Memory is Not Enough: A Failure-Mode Study of GUI Agents](https://awesomecua.com/resources/arxiv-2606-14106/) — 2026-06-12
@@ -311,7 +311,7 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
 - [GUI-360$^\circ$: A Comprehensive Dataset and Benchmark for Computer-Using Agents](https://awesomecua.com/resources/arxiv-2511-04307/) — 2025-11-06
   Collects Windows application trajectories with screenshots and action traces for grounding, screen parsing, and action prediction.
 - [GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding](https://awesomecua.com/resources/arxiv-2511-00810/) — 2025-11-02
-  Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
+  Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 - [UI-Hawk: Unleashing the Screen Stream Understanding for Mobile GUI Agents](https://awesomecua.com/resources/url-9113270916a36b4b76f1/) — 2025-11
   Mobile GUI agent whose history-aware visual encoder reads earlier screenshots with the current one, trained by a curriculum from grounding, referring, screen QA and summarization to navigation; adds the FunUI benchmark.
 - [Enhancing Trustworthy GUI Grounding via Self-Critiqued Reinforcement Learning](https://awesomecua.com/resources/arxiv-2510-27266/) — 2025-10-31
@@ -711,7 +711,7 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
 - [Grounding-Anything-GUI](https://awesomecua.com/resources/url-d1830de02226155ee16d/) — Date not recorded
   The public training archive linked by the Phi-Ground project for its Phi-Ground-Any model.
 - [GTA1 cleaned grounding dataset](https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/) — Date not recorded
-  Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box does not match an OmniParser-detected element.
+  Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box and an OmniParser-detected element differ.
 - [GUI-360](https://awesomecua.com/resources/url-0b590d03a3d5103a79e4/) — Date not recorded
   Desktop GUI trajectory data supporting multiple interface understanding tasks.
 - [GUI-Actor data](https://awesomecua.com/resources/url-66096ad4057a3d3726f5/) — Date not recorded
@@ -874,7 +874,7 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
 - [GUI-Actor 3B Qwen2.5-VL](https://awesomecua.com/resources/url-0c400260635b7e4ab7c0/) — Date not recorded
   GUI-Actor grounding checkpoint fine-tuned from Qwen2.5-VL-3B-Instruct with an attention-based action head, with about 3.8B BF16 parameters and a config naming a pointer variant of the Qwen2.5-VL class, under MIT.
 - [GUI-Actor 7B Qwen2-VL](https://awesomecua.com/resources/url-e3e5dd82a3102689c4ea/) — Date not recorded
-  GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class rather than the stock one, under MIT.
+  GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class, under MIT.
 - [GUI-Actor-7B-Qwen2.5-VL](https://awesomecua.com/resources/url-3e58eecd59c404508757/) — Date not recorded
   A Qwen2.5-VL-7B checkpoint for locating instructed GUI targets in screenshots. Its attention-based action head predicts click points, with inference code shown in the card.
 - [GUI-Actor-Verifier-2B](https://awesomecua.com/resources/url-9b653775f6b9270304d3/) — Date not recorded
@@ -1455,7 +1455,7 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
 - [Local Grounding MCP](https://awesomecua.com/resources/github-archie-ib-dev-local-grounding-mcp/) — Date not recorded
   Local Grounding MCP provides privacy-first local visual grounding fallback and DOM-visual hybrid routing for MCP browser agents on Apple Silicon.
 - [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/) — Date not recorded
-  Drives live web applications over CDP through a closed-loop visual look-decide-act cycle rather than brittle script replay.
+  Drives live web applications over CDP through a closed-loop visual look-decide-act cycle in place of script replay.
 - [Lusipad Browser Agent](https://awesomecua.com/resources/github-lusipad-browser-agent/) — Date not recorded
   Chrome sidebar autonomous AI browser agent featuring visual ROI perception, dual-process fast/slow cognition, and local LLM support.
 - [macOS Control CLI](https://awesomecua.com/resources/github-ferdinandl007-macos-control-cli/) — Date not recorded

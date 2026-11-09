@@ -1,6 +1,6 @@
 # Computer-use agent learning resources
 
-> 26 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T11:08:26Z.
+> 26 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
 
 HTML page: https://awesomecua.com/categories/learning/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -92,7 +92,7 @@ A curated reading list of computer GUI use research and software, linking to age
 
 ### Limitations
 
-The README links to individual projects and papers and includes brief descriptions of several frameworks. It is a collection of references rather than a software release.
+The README links to individual projects and papers and includes brief descriptions of several frameworks. It is a collection of references to individual projects and papers.
 
 - Record JSON: https://awesomecua.com/resources/github-philfung-awesome-computer-use/record.json
 
@@ -659,7 +659,7 @@ Browser-agent course with worked lessons on structured web extraction and multi-
 
 ### Limitations
 
-Review covers the public syllabus and complete published transcripts of the simple-agent and autonomous-agent lessons, not the whole course or its video frames. The first uses Playwright and structured HTML extraction; the second uses a MultiOn session API and shows missed steps, continuations and clarifications. Hosted notebooks and helper files were not retrieved, and current service access was not tested. No account, enrollment, terms acceptance, installation or execution occurred. Course and example-code reuse terms remain unknown.
+Review covers the public syllabus and complete published transcripts of the simple-agent and autonomous-agent lessons. The first uses Playwright and structured HTML extraction; the second uses a MultiOn session API and shows missed steps, continuations and clarifications. No account, enrollment, terms acceptance, installation or execution occurred. Course and example-code reuse terms remain unknown.
 
 - Record JSON: https://awesomecua.com/resources/url-aa693ca3e8948623f31e/record.json
 
@@ -861,7 +861,7 @@ Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium brows
 
 ### Limitations
 
-The reviewed v1.26.0 page matches all eight code blocks in its commit-pinned Markdown source. It uses InferenceClientModel and a vision model, unlike the retained v1.8.0 example. The shown setup starts a local visible Chrome session, and its installation command does not pin dependency versions. Runtime API compatibility, model-provider access and example outcomes were not tested. The inspected repository root contains Apache-2.0 terms, but explicit applicability to this Markdown tutorial was not established from retained sources; document reuse terms remain unknown. Model weights, visited websites and hosted-service terms are separate. No installation or notebook execution occurred.
+The reviewed v1.26.0 page matches all eight code blocks in its commit-pinned Markdown source. It uses InferenceClientModel and a vision model, unlike the retained v1.8.0 example. The shown setup starts a local visible Chrome session with unpinned dependency versions in its installation command. The inspected repository root contains Apache-2.0 terms, but explicit applicability to this Markdown tutorial was not established from retained sources; document reuse terms remain unknown. Model weights, visited websites and hosted-service terms are separate. No installation or notebook execution occurred.
 
 - Record JSON: https://awesomecua.com/resources/url-5857c840372512cfe3fc/record.json
 
@@ -872,7 +872,7 @@ The reviewed v1.26.0 page matches all eight code blocks in its commit-pinned Mar
 - document: not recorded
 - weights: not recorded
 
-- document review: The retained repository-root file contains Apache-2.0 terms, but the reviewed Markdown has no license notice and the retained sources do not explicitly establish that this license applies to the tutorial document. Document reuse terms remain unknown; this is not a claim that no license exists. Code, data, weights and hosted-service terms are not inferred.
+- document review: The retained repository-root file contains Apache-2.0 terms, but the reviewed Markdown has no license notice and the retained sources do not explicitly establish that this license applies to the tutorial document. Document reuse terms remain unknown. Code, data, weights and hosted-service terms remain separate from the document declaration.
   Sources: https://raw.githubusercontent.com/huggingface/smolagents/12c1bc820eca50ace6f80a21d90426d41d74f845/docs/source/en/examples/web_browser.md, https://raw.githubusercontent.com/huggingface/smolagents/12c1bc820eca50ace6f80a21d90426d41d74f845/LICENSE
 
 ### Primary evidence

@@ -14,7 +14,7 @@ Instruction-to-function-call examples for learning Android intent invocation, wi
 
 ## Limitations
 
-The release provides JSONL data and API annotations. This is Android intent-calling supervision rather than screenshot-and-click trajectories, so it is marked adjacent. The dataset card declares Apache-2.0; the companion repository’s MIT code license is a separate declaration.
+The release provides JSONL data and API annotations. This is Android intent-calling supervision, marked adjacent to screenshot-and-click trajectories. The dataset card declares Apache-2.0; the companion repository’s MIT code license is a separate declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-ae8f5208eea9e7f1f606/record.json
 

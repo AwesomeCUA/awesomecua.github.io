@@ -14,7 +14,7 @@
 
 ## Limitations
 
-The card says the videos were sourced from the internet, trimmed to screen-recording segments and stripped of audio, and are meant for training and evaluating computer-use agents. Per-folder metadata.jsonl files give file name, category, trimmed duration and segment count only; there are no actions, cursor events or instructions. At Hub revision b50aecce the manifest lists 48,477 MP4 files, one fewer than the card (Excel has 8,110 against 8,111). The repository also holds descriptions.parquet and 48,473 per-video JSON files under descriptions/ that the card does not document; the one inspected file gives the source video's title and channel, transcript text in 10-second windows and a short step description or NO_TASK per window. The card's CC-BY-4.0 declaration does not establish rights to the third-party videos. Videos were not downloaded.
+The card says the videos were sourced from the internet, trimmed to screen-recording segments and stripped of audio, and are meant for training and evaluating computer-use agents. Per-folder metadata.jsonl files give file name, category, trimmed duration and segment count only; there are no actions, cursor events or instructions. At Hub revision b50aecce the manifest lists 48,477 MP4 files, one fewer than the card (Excel has 8,110 against 8,111). The repository also holds descriptions.parquet and 48,473 per-video JSON files under descriptions/, beyond the card's documented files; the one inspected file gives the source video's title and channel, transcript text in 10-second windows and a short step description or NO_TASK per window. The card's CC-BY-4.0 declaration does not establish rights to the third-party videos.
 
 - Record JSON: https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/record.json
 
@@ -33,7 +33,7 @@ The card says the videos were sourced from the internet, trimmed to screen-recor
 - 48,477 MP4 files — data/ at Hub revision b50aecce (computed) (computed; source: https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9)
 - 48,473 per-video description JSON files — descriptions/ at Hub revision b50aecce (computed) (computed; source: https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9)
 
-File counts come from a script over the pinned Hub manifest; the card's per-category table gives Excel 8,111 videos where the manifest has 8,110 MP4 files. The description files are not described by the card; their content was checked in one file only. Videos, hours, categories and files are different units and are not summed. Each category is one configuration with a single train split.
+File counts come from a script over the pinned Hub manifest; the card's per-category table gives Excel 8,111 videos where the manifest has 8,110 MP4 files. The card leaves the description files undocumented; their content was checked in one file only. Videos, hours, categories and files are different units; these counts are reported separately. Each category is one configuration with a single train split.
 
 ## License declarations
 

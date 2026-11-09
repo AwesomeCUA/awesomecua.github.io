@@ -14,7 +14,7 @@ Browser Use's open-weight browser-agent model, fine-tuned from Qwen3-VL-30B-A3B-
 
 ## Limitations
 
-A preview release. The Hub API at revision 28f795cd lists 13 BF16 safetensors shards (31,070,754,032 parameters) in the Qwen3VLMoeForConditionalGeneration architecture; the repository is not gated. The card gives a 65,536-token context and quickstarts for BU Cloud (API key) and a local vLLM server, but no benchmark results, training data or training method, so its capability claims were not checked. The card metadata declares no license. The repository's LICENSE is a modified MIT text that withholds all rights from anyone whose company or employer has global consolidated annual revenue above US$1 million (measured for the preceding month), and points them to a commercial license or the hosted service instead.
+A preview release. The Hub API at revision 28f795cd lists 13 BF16 safetensors shards (31,070,754,032 parameters) in the Qwen3VLMoeForConditionalGeneration architecture; access is open. The card gives a 65,536-token context and quickstarts for BU Cloud (API key) and a local vLLM server, but no benchmark results, training data or training method, so its capability claims were not checked. The card metadata declares no license. The repository's LICENSE is a modified MIT text that withholds all rights from anyone whose company or employer has global consolidated annual revenue above US$1 million (measured for the preceding month), and points them to a commercial license or the hosted service instead.
 
 - Record JSON: https://awesomecua.com/resources/url-2c4b53bc04f33578e9b8/record.json
 

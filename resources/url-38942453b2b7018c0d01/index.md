@@ -14,7 +14,7 @@ Holo2 checkpoint fine-tuned from Qwen3-VL-8B-Thinking through supervised and onl
 
 ## Limitations
 
-The manifest lists four Safetensors shards. The card declares Apache-2.0 for the 4B and 8B sizes but research-only, non-commercial terms for Holo2-30B-A3B, so this declaration is not generalized to the family. The navigation and localization scores on the card were measured by the publisher inside its Surfer 2 agent and were not reproduced; no weights were loaded.
+The manifest lists four Safetensors shards. The card declares Apache-2.0 for the 4B and 8B sizes but research-only, non-commercial terms for Holo2-30B-A3B, so this declaration is not generalized to the family. The navigation and localization scores on the card were measured by the publisher inside its Surfer 2 agent.
 
 - Record JSON: https://awesomecua.com/resources/url-38942453b2b7018c0d01/record.json
 

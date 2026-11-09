@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Measures resource use, latency, energy and datacenter power of tool\-using LLM agents under test\-time scaling\. This AI infrastructure analysis does not involve agents operating graphical interfaces, web pages or devices\. An open pull request \(\#4237\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Measures resource use, latency, energy and datacenter power of tool\-using LLM agents under test\-time scaling; the abstract leaves open whether tool\-using agents operate graphical interfaces, web pages or devices\. This analysis measures AI infrastructure resource use; its interface\-agent relevance remains open\. An open pull request \(\#4237\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ Copilot Studio agent tool that operates websites and Windows desktop apps on a c
 
 ## Limitations
 
-Microsoft announced computer use for Copilot Studio on 15 April 2025 as an early-access research preview covering Edge, Chrome and Firefox and desktop apps on Microsoft-hosted infrastructure. The current Learn page requires agents with generative orchestration, runs tasks on a Windows machine selected through Power Automate, and lists OpenAI's Computer-Using Agent as generally available, with Anthropic Claude Sonnet 4.5 as generally available and Claude Sonnet 4.6 and Claude Opus 4.6 as experimental model options. The page notes that access control limits actions but does not stop the model from opening other sites or apps, and that some app types (for example Electron, Java, Citrix) may not support stored credentials. Licensing, pricing and regional availability were not checked, and task success was not independently tested.
+Microsoft announced computer use for Copilot Studio on 15 April 2025 as an early-access research preview covering Edge, Chrome and Firefox and desktop apps on Microsoft-hosted infrastructure. The current Learn page requires agents with generative orchestration, runs tasks on a Windows machine selected through Power Automate, and lists OpenAI's Computer-Using Agent as generally available, with Anthropic Claude Sonnet 4.5 as generally available and Claude Sonnet 4.6 and Claude Opus 4.6 as experimental model options. The page notes that access control limits actions but does not stop the model from opening other sites or apps, and that some app types (for example Electron, Java, Citrix) may not support stored credentials.
 
 - Record JSON: https://awesomecua.com/resources/url-80052633107401ebfba7/record.json
 

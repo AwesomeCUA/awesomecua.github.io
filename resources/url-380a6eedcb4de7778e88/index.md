@@ -14,7 +14,7 @@ Hub release of Mind2Web's crowdsourced web-task demonstrations: train-split JSON
 
 ## Limitations
 
-This is the Hub data release, distinct from the code and benchmark repository github:osu-nlp-group/mind2web. The Hub API at revision 17ece8eb reports an ungated repository holding 11 train JSON shards, test.zip and scores_all_data.pkl. The card declares CC BY 4.0 for the data; the code repository's MIT license is not applied to it. Multimodal-Mind2Web (paired screenshots) and the raw trace dump are separate releases and are not covered here.
+This is the Hub data release, distinct from the code and benchmark repository github:osu-nlp-group/mind2web. The Hub API at revision 17ece8eb reports an ungated repository holding 11 train JSON shards, test.zip and scores_all_data.pkl. The card declares CC BY 4.0 for the data; the code repository's MIT license is not applied to it. Multimodal-Mind2Web (paired screenshots) and the raw trace dump are separate releases outside this record.
 
 - Record JSON: https://awesomecua.com/resources/url-380a6eedcb4de7778e88/record.json
 
@@ -35,7 +35,7 @@ This is the Hub data release, distinct from the code and benchmark repository gi
 - 177 task instances — cross-website test split (test_website) (reported; source: https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md)
 - 912 task instances — cross-domain test split (test_domain) (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md)
 
-Each instance is one task with its multi-step action sequence, so instance counts are not step counts. The card prints the cross-domain size as '9,12'; the repository README gives 912. The test splits are released only as a ZIP whose password the README publishes, with a request not to redistribute the unzipped files. scores_all_data.pkl holds candidate-ranking outputs of a tuned DeBERTa-v3-base model, not annotations.
+Each instance is one task with its multi-step action sequence; step counts use a different unit. The card prints the cross-domain size as '9,12'; the repository README gives 912. The test splits are released only as a ZIP whose password the README publishes, with a request not to redistribute the unzipped files. scores_all_data.pkl holds candidate-ranking outputs of a tuned DeBERTa-v3-base model, not annotations.
 
 ## License declarations
 

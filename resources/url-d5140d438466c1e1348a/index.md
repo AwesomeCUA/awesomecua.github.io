@@ -14,7 +14,7 @@ Human-annotated browser-agent trajectories for comparing automated task-success 
 
 ## Limitations
 
-Public Parquet configs separate trajectories from per-reviewer annotations. The card declares MIT. The two splits have different review stages: Online-Mind2Web includes blind and verifier-informed annotations, whereas the internal split is blind-only. This measures verifier agreement rather than agent task success.
+Public Parquet configs separate trajectories from per-reviewer annotations. The card declares MIT. The two splits have different review stages: Online-Mind2Web includes blind and verifier-informed annotations, whereas the internal split is blind-only. This measures verifier agreement.
 
 - Record JSON: https://awesomecua.com/resources/url-d5140d438466c1e1348a/record.json
 
@@ -33,7 +33,7 @@ Public Parquet configs separate trajectories from per-reviewer annotations. The 
 - 215 annotation rows — fara7b_om2w_browserbase split (reported; source: https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md)
 - 154 annotation rows — internal split (reported; source: https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md)
 
-Trajectory rows and reviewer rows have different grains. Internal task labels do not make the released Parquet files private. No payload data was downloaded.
+Trajectory rows and reviewer rows have different grains. The released Parquet files are public despite internal task labels. No payload data was downloaded.
 
 ## License declarations
 

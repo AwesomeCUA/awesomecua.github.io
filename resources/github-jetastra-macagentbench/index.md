@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 676 tasks — documented MacAgentBench suite (reported; source: https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md)
 - 25 applications — documented application coverage (reported; source: https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md)
 
-The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framework skills and interfaces affect the task setting; the inspected README does not define one universal observation representation.
+The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framework skills and interfaces affect the task setting, with observation representation varying by framework.
 
 ## License declarations
 

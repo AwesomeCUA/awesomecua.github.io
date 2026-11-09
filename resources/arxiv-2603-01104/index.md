@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Smart\-glasses assistant orchestrating perception and web tools for egocentric QA; its web\-native design centres on WebRTC streaming, and the abstract does not say whether it browses or acts on web pages\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Smart\-glasses assistant orchestrating perception and web tools for egocentric QA; the abstract leaves open whether the assistant browses or acts on web pages\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

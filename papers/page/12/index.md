@@ -76,7 +76,7 @@ Presents MolmoWebMix, combining synthetic browser trajectories, human demonstrat
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract states that artifacts will be released; this annotation does not independently verify release status or licenses.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract states that artifacts will be released.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-08516/record.json
 
@@ -998,7 +998,7 @@ Zijun Wang, Haoqin Tu, Letian Zhang, Hardy Chen, Juncheng Wu, Xiangyan Liu, Zhen
 
 ## GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis
 
-GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces rather than relying on one holistic trajectory score.
+GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2604-04399/
 - Original source: https://arxiv.org/abs/2604.04399
@@ -1258,7 +1258,7 @@ Yunhao Feng, Yifan Ding, Yingshui Tan, Xingjun Ma, Yige Li, Yutao Wu, Yifeng Gao
 
 ## Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents
 
-Studies persistent web-agent memory contamination introduced through environmental observations instead of direct memory access. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
+Studies persistent web-agent memory contamination introduced through environmental observations. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2604-02623/
 - Original source: https://arxiv.org/abs/2604.02623
@@ -1532,7 +1532,7 @@ PixelPrune removes pixel-redundant patches before the vision encoder, reducing b
 
 ### Limitations
 
-Reviewed against the complete retained official abstract. Adjacent cross-domain VLM compression method with actual GUI-benchmark evaluation; the abstract does not establish a full computer-use policy.
+Reviewed against the complete retained official abstract. Adjacent cross-domain VLM compression method with GUI-benchmark evaluation.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-00886/record.json
 
@@ -1622,7 +1622,7 @@ Patrice Bechard, Orlando Marquez Ayala, Emily Chen, Jordan Skelton, Sagar Davasa
 
 ## PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent
 
-PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences rather than measuring generic task completion alone.
+PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2603-29318/
 - Original source: https://arxiv.org/abs/2603.29318
@@ -2780,7 +2780,7 @@ Turns draft web-agent skills into structured executable artifacts that support d
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract limits its portability evidence to transfer within a benchmark family, not generalization across arbitrary benchmarks.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract limits its portability evidence to transfer within a benchmark family.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-20340/record.json
 

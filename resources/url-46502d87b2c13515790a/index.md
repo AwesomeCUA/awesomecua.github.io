@@ -14,7 +14,7 @@ Qwen3-VL-30B-A3B-Instruct checkpoint trained with GRPO on Click-100k that return
 
 ## Limitations
 
-The card's example prompts for one (x,y) point and rescales it from a 0–1000 frame to pixels. The Hub manifest at revision 161e9288 lists 14 Safetensors shards; the API reports 31,070,754,032 BF16 parameters. The release README says the published weights are the step-84 checkpoint of a 100-step DAPO-style GRPO run and that all intermediate checkpoints are released, but the Hub shows only the main branch of this repository. Reported benchmark scores were not reproduced and no weights were loaded.
+The card's example prompts for one (x,y) point and rescales it from a 0–1000 frame to pixels. The Hub manifest at revision 161e9288 lists 14 Safetensors shards; the API reports 31,070,754,032 BF16 parameters. The release README says the published weights are the step-84 checkpoint of a 100-step DAPO-style GRPO run and that all intermediate checkpoints are released, but the Hub shows only the main branch of this repository.
 
 - Record JSON: https://awesomecua.com/resources/url-46502d87b2c13515790a/record.json
 

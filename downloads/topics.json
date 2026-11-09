@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "89f6f2970316b6859f4215aa06d686bed474f06a10ec450faf82935fed457811",
+  "catalog_sha256": "5b1589065870a8b7b7eb0ef5d2385d44cfbee6c96d64a3969fe1567bf66e91fa",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "A resource can belong to several topics.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
@@ -273,8 +273,8 @@
         {
           "url": "/downloads/topics/action-prediction/records.jsonl",
           "records": 240,
-          "bytes": 769586,
-          "sha256": "4a1a13f89dafcd06ff1570243a097a8eb453b19029a62c2c0ff7efaf56fc37aa"
+          "bytes": 765832,
+          "sha256": "b7d4ff7d0d71c39d4896315c43bdc6e773295933a10192c180c68a1924901153"
         },
         {
           "url": "/downloads/topics/action-prediction/citations.bib",
@@ -1650,8 +1650,8 @@
         {
           "url": "/downloads/topics/automation/records.jsonl",
           "records": 1335,
-          "bytes": 2514884,
-          "sha256": "7ad5a3a1ed9c67ac3ea14e683f26eb21a30c5691fe1afacea8b1142cc3a92bd7"
+          "bytes": 2509479,
+          "sha256": "b9b35f36b1607f3c3ffd90ed8e3bf63815bd4eee169eed23fca412d4fc1f823c"
         },
         {
           "url": "/downloads/topics/automation/citations.bib",
@@ -1779,8 +1779,8 @@
         {
           "url": "/downloads/topics/cross-app/records.jsonl",
           "records": 87,
-          "bytes": 309155,
-          "sha256": "d5366ca86af7ed96cb071c91ec93e91c99ebf0d194dc10dc6b8746aa93b938ac"
+          "bytes": 307960,
+          "sha256": "bd40435c957ad154ab206c36acf53e90ea87e3a140b713dda16997c49aff3c9f"
         },
         {
           "url": "/downloads/topics/cross-app/citations.bib",
@@ -2399,8 +2399,8 @@
         {
           "url": "/downloads/topics/data-generation/records.jsonl",
           "records": 578,
-          "bytes": 1841777,
-          "sha256": "bcfe9ddcfaf91392918d35bf4be0fd4615fead3ec84d9032db02fa379e6042ce"
+          "bytes": 1836890,
+          "sha256": "dcbb1e514e02581480f9c87eb90cecdc8264e0a8673dd679c0785301cb2cd48e"
         },
         {
           "url": "/downloads/topics/data-generation/citations.bib",
@@ -2959,8 +2959,8 @@
         {
           "url": "/downloads/topics/efficiency/records.jsonl",
           "records": 518,
-          "bytes": 1207712,
-          "sha256": "882b91ceebf43f7efd46ad165fb1d094b63704536b75d72e80773e8b4fc752d1"
+          "bytes": 1205879,
+          "sha256": "cd41f1dde09fc3d414ddc0742b94cd08a9b3ea9422d4f0918fc314bfe76e1e93"
         },
         {
           "url": "/downloads/topics/efficiency/citations.bib",
@@ -4387,8 +4387,8 @@
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
           "records": 1386,
-          "bytes": 4088595,
-          "sha256": "ff455ba2167f6aab339059a87b2ef22894ca81a69ef59356e4c2cb9a33b09d6b"
+          "bytes": 4078365,
+          "sha256": "6dae6ff6c61f4dfbcad5cbf25a260b3dd50b7a683eb8b4cec84ece69992ea9ee"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
@@ -5307,8 +5307,8 @@
         {
           "url": "/downloads/topics/grounding/records.jsonl",
           "records": 878,
-          "bytes": 2343980,
-          "sha256": "033eed148049bd1fd8df63113cf4a49cdc3fc68d54008266b846d5adabdade01"
+          "bytes": 2335039,
+          "sha256": "d27de7bb7fce0f7f10a51acfd226a62e799b98333131365bec3837e03a32c54e"
         },
         {
           "url": "/downloads/topics/grounding/citations.bib",
@@ -5363,8 +5363,8 @@
         {
           "url": "/downloads/topics/history/records.jsonl",
           "records": 14,
-          "bytes": 39620,
-          "sha256": "322f56507dc6143f996189e1361643040bc1883ed811aabec04507a4eb498043"
+          "bytes": 39102,
+          "sha256": "60e0bfe2f8dc782e4659b18bb15a79f0733c706184c7a372b80ba1ca69904843"
         },
         {
           "url": "/downloads/topics/history/citations.bib",
@@ -5716,8 +5716,8 @@
         {
           "url": "/downloads/topics/human-in-the-loop/records.jsonl",
           "records": 311,
-          "bytes": 785670,
-          "sha256": "e9e72b4185447c07e99b9173a8baff2c24283fef5aeb61241a8b3ed4c8b9e77e"
+          "bytes": 782873,
+          "sha256": "2b588e23dba1e55f4af43d62082eb128f391109d1956d152f84e3eae345ec9ed"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.bib",
@@ -5931,8 +5931,8 @@
         {
           "url": "/downloads/topics/imitation-learning/records.jsonl",
           "records": 173,
-          "bytes": 585599,
-          "sha256": "f202995eb35b769b58e13642a10885931f6c8b5c06b8ac87b962201bc6cbfd53"
+          "bytes": 583070,
+          "sha256": "5b59e283c0fad6515f429d4b47ed6aba011074ef6c1c048c9917433c6177817f"
         },
         {
           "url": "/downloads/topics/imitation-learning/citations.bib",
@@ -6039,8 +6039,8 @@
         {
           "url": "/downloads/topics/industry/records.jsonl",
           "records": 66,
-          "bytes": 151779,
-          "sha256": "b6a50747ec9eb6159a19debe5f6806bd53ac042f32c1414a7529cebfd82c80de"
+          "bytes": 149953,
+          "sha256": "60a3551de6429dedf07140ce7a38db58ce5f47198acab7cdee854447dedcb89f"
         },
         {
           "url": "/downloads/topics/industry/citations.bib",
@@ -6187,8 +6187,8 @@
         {
           "url": "/downloads/topics/interaction-history/records.jsonl",
           "records": 106,
-          "bytes": 324680,
-          "sha256": "38b97aa62c9001a4feb84f0e32a63508024a15611407ad81fdcfe7ec6826a5b9"
+          "bytes": 324061,
+          "sha256": "434ac8f9f2af8ddcd9908362715b26c8c2eb76951b3763e74468d1d3727936af"
         },
         {
           "url": "/downloads/topics/interaction-history/citations.bib",
@@ -6460,8 +6460,8 @@
         {
           "url": "/downloads/topics/long-horizon/records.jsonl",
           "records": 231,
-          "bytes": 719432,
-          "sha256": "df210603c70dd5300830ddcbf0efe9a2b6eb06d73e853f3eaef4ce8fa5f69a45"
+          "bytes": 717895,
+          "sha256": "54554d93c2b1f8b97053d75f809719ecbbfd569cf222a6f98f849bacead0e42f"
         },
         {
           "url": "/downloads/topics/long-horizon/citations.bib",
@@ -6843,8 +6843,8 @@
         {
           "url": "/downloads/topics/memory/records.jsonl",
           "records": 341,
-          "bytes": 970962,
-          "sha256": "22e3264b884d5510b0e84f9705b812cdddbf01848b99798a46bdd86dc1e4ef90"
+          "bytes": 968557,
+          "sha256": "0b9442739cd48129c97a5b94f9df54e3baa356a59322522b051ae081acb5f024"
         },
         {
           "url": "/downloads/topics/memory/citations.bib",
@@ -7441,8 +7441,8 @@
         {
           "url": "/downloads/topics/mobile-navigation/records.jsonl",
           "records": 556,
-          "bytes": 1653840,
-          "sha256": "e5f92ed8d8d0fe667d1d79963de8c9d3411807b9b89de4077f0dc451501bf619"
+          "bytes": 1648401,
+          "sha256": "fcea7dc5bc16f7bbfbc704cdd2afd5c7812bc2d5771f80b3e1d9cd57a0157979"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.bib",
@@ -7683,8 +7683,8 @@
         {
           "url": "/downloads/topics/observability/records.jsonl",
           "records": 200,
-          "bytes": 472505,
-          "sha256": "a3b625a312a5894e32485bdca84cb64549f081441178430af66b414ca6018610"
+          "bytes": 471600,
+          "sha256": "d62175f834db3b22bd06d43a4020ae67b14a31f125b3cab49094bff6efbeaacb"
         },
         {
           "url": "/downloads/topics/observability/citations.bib",
@@ -8257,8 +8257,8 @@
         {
           "url": "/downloads/topics/planning/records.jsonl",
           "records": 532,
-          "bytes": 1467604,
-          "sha256": "2668240c1ce0824a90d66a254e2cb6e49ae97e45fc3a3b07a06e7411d5e2c805"
+          "bytes": 1464709,
+          "sha256": "71cdeb89b85cecc2f861bafc5e2d54dd7be722509385ca12cbb96310166cd5a7"
         },
         {
           "url": "/downloads/topics/planning/citations.bib",
@@ -8464,8 +8464,8 @@
         {
           "url": "/downloads/topics/recording/records.jsonl",
           "records": 165,
-          "bytes": 343105,
-          "sha256": "da1887f8111b6fa40c3dde22300bcb07cb69567e7727f72d35bca3ab79a9ba2f"
+          "bytes": 342179,
+          "sha256": "0705b45ddd34de2ca5f7b6877e1d2b8219dcbbf00c78ce521803ce8f69d26b06"
         },
         {
           "url": "/downloads/topics/recording/citations.bib",
@@ -8920,8 +8920,8 @@
         {
           "url": "/downloads/topics/reinforcement-learning/records.jsonl",
           "records": 414,
-          "bytes": 1210363,
-          "sha256": "ee6084cbb77b9a70f0bf5fe65cb1db47777ed3b7bfe136fdf63dd13c67b2afe9"
+          "bytes": 1207282,
+          "sha256": "1ed4376dc4ded3d221f6f4c666ccc275fd265ca98658e07c0218be956b573e56"
         },
         {
           "url": "/downloads/topics/reinforcement-learning/citations.bib",
@@ -9065,8 +9065,8 @@
         {
           "url": "/downloads/topics/reward-models/records.jsonl",
           "records": 103,
-          "bytes": 321497,
-          "sha256": "b1bd43573088503212058f8c5e5b87658a81ed890b5c4293e2e695086dff3701"
+          "bytes": 320621,
+          "sha256": "449d5deb3323432ec73f01ea3c89b9ece53c42d499d4a737d743c0aefb9366b9"
         },
         {
           "url": "/downloads/topics/reward-models/citations.bib",
@@ -9397,8 +9397,8 @@
         {
           "url": "/downloads/topics/robustness/records.jsonl",
           "records": 290,
-          "bytes": 835875,
-          "sha256": "1a0a04f648d1fee7ef4ffae0ab47ecdd51d2e4afb6e26ef65925c28c045d90c0"
+          "bytes": 834584,
+          "sha256": "574bdf49a5de49a01addeef01b13bd424db3e1918e2e4e43c01fbcf8c7337856"
         },
         {
           "url": "/downloads/topics/robustness/citations.bib",
@@ -9949,8 +9949,8 @@
         {
           "url": "/downloads/topics/safety-security/records.jsonl",
           "records": 510,
-          "bytes": 1311328,
-          "sha256": "9522d50271f4aebce6fbc123079c293feb4ad477e71dc8b9d37267bde0e1bdf4"
+          "bytes": 1308168,
+          "sha256": "8ca02a2aa00779bf9ca7bbe7584d45b2d41e8bd7fea31193534876120823b055"
         },
         {
           "url": "/downloads/topics/safety-security/citations.bib",
@@ -10319,8 +10319,8 @@
         {
           "url": "/downloads/topics/sandbox/records.jsonl",
           "records": 328,
-          "bytes": 681737,
-          "sha256": "5924ea0e9ac0a98c316046d248561fcddf03a076489bd5e1e4e6c5b52223da80"
+          "bytes": 680102,
+          "sha256": "386e1f93aed0c95ccdcf6f07a116f5ea71aa005f0882f34280639de0d8500649"
         },
         {
           "url": "/downloads/topics/sandbox/citations.bib",
@@ -10405,8 +10405,8 @@
         {
           "url": "/downloads/topics/science/records.jsonl",
           "records": 44,
-          "bytes": 149500,
-          "sha256": "e7d18f0d0a8694b90dee89fa2020ccb511c522fe31fcf8bac545326b58f8db85"
+          "bytes": 148999,
+          "sha256": "0acc2b6096158a336f15beb3f15a53911fd1eea818d794cd9d05ba44cc2696c6"
         },
         {
           "url": "/downloads/topics/science/citations.bib",
@@ -11263,8 +11263,8 @@
         {
           "url": "/downloads/topics/screen-understanding/records.jsonl",
           "records": 816,
-          "bytes": 1958335,
-          "sha256": "5d43384e2ce57e9abf8eeb87429bda7d430f38b49aaad76e15ba5c153f539262"
+          "bytes": 1953448,
+          "sha256": "2a999ea1c1dadc3a07e86fe3fe0fe9fcdce4876ae6d8d0fa208d142a0be4f184"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.bib",
@@ -11446,8 +11446,8 @@
         {
           "url": "/downloads/topics/self-reflection/records.jsonl",
           "records": 141,
-          "bytes": 342331,
-          "sha256": "393f02ae7c0c955c2ed9ed1f82c8a7cc4e98025347266671d9bd03077c22b663"
+          "bytes": 341991,
+          "sha256": "a74a1c4f67039ca80d272042f1f2f0c5dafd4b4343ba01efb68ce3b85bee7d02"
         },
         {
           "url": "/downloads/topics/self-reflection/citations.bib",
@@ -11616,8 +11616,8 @@
         {
           "url": "/downloads/topics/state-tracking/records.jsonl",
           "records": 128,
-          "bytes": 340421,
-          "sha256": "6ad109ed67e2bb15e0ce79d980007a02985e0c1fe18a0d3e0c21b66350830257"
+          "bytes": 340035,
+          "sha256": "77ff6e038391ac1295a67318bbec62065ca610904d471973aad449126c1bc936"
         },
         {
           "url": "/downloads/topics/state-tracking/citations.bib",
@@ -11708,8 +11708,8 @@
         {
           "url": "/downloads/topics/survey/records.jsonl",
           "records": 50,
-          "bytes": 146207,
-          "sha256": "d0477c70289b03b156e883ef824816a9906309c14b21a4c6a60e96508cee2a5b"
+          "bytes": 145994,
+          "sha256": "b7da8b3824a8f8a226c6dcd52f34451040ea102aa3879fc16f83fb55a46acf25"
         },
         {
           "url": "/downloads/topics/survey/citations.bib",
@@ -12964,8 +12964,8 @@
         {
           "url": "/downloads/topics/tool-integration/records.jsonl",
           "records": 1214,
-          "bytes": 2370466,
-          "sha256": "a39cb9877587e2a840129e6e6cea49083a96b29a4413f82676f6c659bd71c2ec"
+          "bytes": 2365526,
+          "sha256": "25ccc2faea6a0efbbb9facc1edde9e99f9f1aa29077308c5547eccb2739cba8f"
         },
         {
           "url": "/downloads/topics/tool-integration/citations.bib",
@@ -13070,8 +13070,8 @@
         {
           "url": "/downloads/topics/training-free/records.jsonl",
           "records": 64,
-          "bytes": 182887,
-          "sha256": "eebd30caeeb89aa67ca5e368f58c53b5253d1965b9ecb4b7d56c8c9dd5d88b81"
+          "bytes": 182461,
+          "sha256": "64a13c8a0c927e7140dc21ead2a2b301a421c14553332d532ff28aad87d81d72"
         },
         {
           "url": "/downloads/topics/training-free/citations.bib",
@@ -13221,8 +13221,8 @@
         {
           "url": "/downloads/topics/ui-design/records.jsonl",
           "records": 109,
-          "bytes": 274725,
-          "sha256": "7998bf64f7de5216eada727dfa70f5ec4cfd0e75275a184420684faadd62d819"
+          "bytes": 274285,
+          "sha256": "8cebb8795e67b26547484aeb4f56d423b2fe1025576572e64583b2179ea9c5e5"
         },
         {
           "url": "/downloads/topics/ui-design/citations.bib",
@@ -13342,8 +13342,8 @@
         {
           "url": "/downloads/topics/video/records.jsonl",
           "records": 79,
-          "bytes": 250930,
-          "sha256": "b8ccc38ec919127b89d084d033a305d52a1df0f68780a73c987aea6c534eafd3"
+          "bytes": 250118,
+          "sha256": "ebbb14052fc2c4625db49fcbf90ec32e9087a9249ba4a5bd8badd4454cf47960"
         },
         {
           "url": "/downloads/topics/video/citations.bib",
@@ -14873,8 +14873,8 @@
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
           "records": 1489,
-          "bytes": 3389588,
-          "sha256": "e0de34f6ab39ad04e6e6878f30265bc2bec490e0d0ccbf69a90ea84774eaeae4"
+          "bytes": 3380017,
+          "sha256": "4fd322a0b2669616a2b89fb792df34349528559a30a7fa8ec1b3a7d8254a60c6"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",
@@ -15411,8 +15411,8 @@
         {
           "url": "/downloads/topics/workflow/records.jsonl",
           "records": 496,
-          "bytes": 1092249,
-          "sha256": "adedda6125809d0c3d0cb022c0f3214a946060235b717edaab494632d8ccd3a5"
+          "bytes": 1089112,
+          "sha256": "610cc7a28969d7d9066795d4c448e1a6a4afbd633dc5dbcb89077f5d3a4a98a4"
         },
         {
           "url": "/downloads/topics/workflow/citations.bib",
@@ -15529,8 +15529,8 @@
         {
           "url": "/downloads/topics/world-models/records.jsonl",
           "records": 76,
-          "bytes": 214163,
-          "sha256": "d69753d75b52b1efd1a160c503d4588a823347842ebbb7d200519565a32984dd"
+          "bytes": 213938,
+          "sha256": "f10b230426a577d0488f570a42e9a4b6585f77fa859d10e4c953173dfc6f8019"
         },
         {
           "url": "/downloads/topics/world-models/citations.bib",

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) could not settle the scope: Egocentric video benchmark for operating physical control interfaces such as appliance panels and embedded GUIs; it is embodied rather than screen\-based, so its fit with GUI agents is unclear\. An exclusion proposal is open in pull request \#3815\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) left the scope open: Egocentric video benchmark for operating physical control interfaces such as appliance panels and embedded GUIs; the abstract leaves open whether physical control interfaces fit GUI\-agent scope\. An exclusion proposal is open in pull request \#3815\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

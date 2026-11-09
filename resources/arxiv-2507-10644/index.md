@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Narrative survey tracing the Web of Agents from multi\-agent systems and the Semantic Web to LLM agents and protocols; computer\-use agents are among the classified systems, but their share of coverage is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) left the scope open: Narrative survey tracing the Web of Agents from multi\-agent systems and the Semantic Web to LLM agents and protocols; the abstract leaves open whether computer\-use agents receive material coverage\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

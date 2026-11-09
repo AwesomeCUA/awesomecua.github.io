@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Automated state\-based benchmark builder for claw\-style personal agents in personal\-computing environments, scored by final system state; no GUI is described\. An open pull request \(\#3045\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Automated state\-based benchmark builder for claw\-style personal agents in personal\-computing environments, scored by final system state; the abstract leaves open whether claw\-style personal computing fits adjacent scope\. An open pull request \(\#3045\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

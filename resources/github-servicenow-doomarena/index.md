@@ -14,7 +14,7 @@ A security-testing framework whose attack gateways wrap BrowserGym, OSWorld, tau
 
 ## Limitations
 
-The inspected tree contains separately installable packages for the core attack library and for BrowserGym, OSWorld, tau-bench, MCP, mail-agent and promptceptor integrations, with web attacks (banner, pop-up, injected div and user-generated content) and an OSWorld pop-up inpainting attack. Running the BrowserGym and OSWorld integrations requires those environments and model API keys; attack success rates reported by the authors were not reproduced. Apache-2.0 covers this repository's code; wrapped benchmarks keep their own terms. Project page: https://servicenow.github.io/DoomArena/.
+The inspected tree contains separately installable packages for the core attack library and for BrowserGym, OSWorld, tau-bench, MCP, mail-agent and promptceptor integrations, with web attacks (banner, pop-up, injected div and user-generated content) and an OSWorld pop-up inpainting attack. Running the BrowserGym and OSWorld integrations requires those environments and model API keys. Apache-2.0 covers this repository's code; wrapped benchmarks keep their own terms. Project page: https://servicenow.github.io/DoomArena/.
 
 - Record JSON: https://awesomecua.com/resources/github-servicenow-doomarena/record.json
 

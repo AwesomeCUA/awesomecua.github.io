@@ -30,7 +30,7 @@ The maintainer README identifies MiniWoB++ as the extension introduced in the 20
 
 - > 100 web environments — README collection size (reported; source: https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md)
 
-The README gives a lower bound, not an exact active-environment inventory. Action presets expose different capabilities, so comparisons must identify the preset. Environment-specific reward details are not normalized here. The repository is in maintenance mode.
+The README gives a lower bound for the active-environment inventory. Action presets expose different capabilities, so comparisons must identify the preset. The repository is in maintenance mode.
 
 ## License declarations
 

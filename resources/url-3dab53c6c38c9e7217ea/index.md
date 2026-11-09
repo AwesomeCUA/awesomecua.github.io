@@ -14,7 +14,7 @@ Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, p
 
 ## Limitations
 
-Public Parquet chunks and LeRobot metadata are present. The card names a v3.0 revision in its usage example; this review verifies the main manifest and does not assert that tag’s compatibility. No data license is declared. Hub size-category bands are not treated as episode counts.
+Public Parquet chunks and LeRobot metadata are present. The card names a v3.0 revision in its usage example. No data license is declared. Hub size-category bands describe storage size; episode counts use a different unit.
 
 - Record JSON: https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/record.json
 
@@ -29,7 +29,7 @@ Public Parquet chunks and LeRobot metadata are present. The card names a v3.0 re
 
 No count recorded.
 
-No sample or episode count is inferred from the size tag or package manifest. Main-branch files were inspected; the card’s v3.0 usage example was not executed.
+No sample or episode count is inferred from the size tag or package manifest. Main-branch files were inspected.
 
 ## License declarations
 

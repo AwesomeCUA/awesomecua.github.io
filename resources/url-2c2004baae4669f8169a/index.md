@@ -29,7 +29,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - 83 software applications — paper-described benchmark coverage (reported; source: https://huggingface.co/datasets/ServiceNow/ui-vision/raw/main/README.md)
 
-This is an offline evaluation dataset. Application coverage is not a sample count. The inspected file-layout documentation describes grounding annotations and images; it does not establish a common split or complete action-trajectory inventory.
+This is an offline evaluation dataset. Application coverage and sample counts are different units. The inspected file-layout documentation describes grounding annotations and images; it does not establish a common split or complete action-trajectory inventory.
 
 ## License declarations
 

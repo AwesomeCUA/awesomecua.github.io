@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Distills zoom\-in region supervision into MLLMs for fine\-grained perception; GUI agent benchmarks are mentioned only briefly among results, so screen understanding is not clearly material\. An curation proposal is open in pull request \#3519\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Distills zoom\-in region supervision into MLLMs for fine\-grained perception; the abstract leaves open whether GUI benchmarks make screen understanding a material result\. An curation proposal is open in pull request \#3519\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

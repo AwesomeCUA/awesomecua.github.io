@@ -14,7 +14,7 @@ A maintained continuation of SikuliX that locates on-screen targets with image m
 
 ## Limitations
 
-The official stable-release API lists v4.0.0 with platform-specific API/IDE JARs and an MCP server JAR; no binary was downloaded. The default README still advertises 3.0.3, so release-specific compatibility follows the release notes rather than that older badge. The RaiMan/SikuliX1 API resolves to oculix-org/SikuliX1, whose README calls itself a historical mirror and directs current users here; it is not separately counted. MIT describes the project source. Retained dependency notices also include GPL/LGPL, Apache, BSD and MPL declarations; a bundled artifact is not asserted to be uniformly MIT.
+The official stable-release API lists v4.0.0 with platform-specific API/IDE JARs and an MCP server JAR; no binary was downloaded. The default README still advertises 3.0.3, while release-specific compatibility follows the release notes. The RaiMan/SikuliX1 API resolves to oculix-org/SikuliX1, whose README calls itself a historical mirror and directs current users here. MIT describes the project source. Retained dependency notices also include GPL/LGPL, Apache, BSD and MPL declarations; a bundled artifact is not asserted to be uniformly MIT.
 
 - Record JSON: https://awesomecua.com/resources/github-oculix-org-oculix/record.json
 

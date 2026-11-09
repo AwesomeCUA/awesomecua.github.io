@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 116 task definitions — parameterized AndroidWorld tasks (reported; source: https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md)
 - 20 applications — documented AndroidWorld app set (reported; source: https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md)
 
-Random parameters produce many instances from the same task definitions. Preserve seeds and parameterization; 116 is not a count of all possible task instances.
+Random parameters produce many instances from the same task definitions. Preserve seeds and parameterization; 116 counts task definitions, while random parameters produce many task instances.
 
 ## License declarations
 

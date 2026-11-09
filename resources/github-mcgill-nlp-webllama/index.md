@@ -14,7 +14,7 @@ Training, evaluation and integration tooling for dialogue-guided web agents, inc
 
 ## Limitations
 
-The manifest contains modeling/training code, BrowserGym examples, documentation and a results viewer. The README distinguishes currently available components from planned additional benchmarks and deployment integrations. It requests citation of WebLINX as the foundation for data, training and evaluation; this is not a claim that the WebLINX paper first introduced every later WebLlama component. MIT applies to repository code, subject to file-header exceptions; weights and datasets have their own terms.
+The manifest contains modeling/training code, BrowserGym examples, documentation and a results viewer. The README distinguishes currently available components from planned additional benchmarks and deployment integrations. It requests citation of WebLINX as the foundation for data, training and evaluation. MIT applies to repository code, subject to file-header exceptions; weights and datasets have their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-webllama/record.json
 

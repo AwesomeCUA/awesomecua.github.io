@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Cloud\-edge memory and insight sharing for weak LLM agents described as web agents; the abstract does not name its five benchmarks or say whether the agents navigate web pages\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Cloud\-edge memory and insight sharing for weak LLM agents described as web agents; the abstract leaves open whether the five benchmarks include web\-page navigation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

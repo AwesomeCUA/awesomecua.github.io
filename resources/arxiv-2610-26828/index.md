@@ -14,7 +14,7 @@ WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface task
 
 ## Limitations
 
-Reviewed the complete abstract and selected v1 synthesis, training and evaluation sections. The system uses hybrid GUI/MCP/CLI interfaces. Evaluation includes benchmark subsets and model-based judgments, so reported scores are not treated as directly comparable GUI-only results.
+Reviewed the complete abstract and selected v1 synthesis, training and evaluation sections. The system uses hybrid GUI/MCP/CLI interfaces. Evaluation includes benchmark subsets and model-based judgments; comparisons depend on those settings.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26828/record.json
 

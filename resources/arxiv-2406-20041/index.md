@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract describes a multi\-agent planning and execution framework for industrial task automation\. RPA is only named as a possible application and no GUI, web or desktop interaction is described, so this generic framework is outside scope\. The other marked it borderline: Generic multi\-agent task\-automation framework for industrial use; it names robotic process automation as a target application but does not say whether agents operate GUIs, desktop software or only APIs\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether the industrial framework includes GUI, web or desktop interaction\. One read it as outside the scope: The abstract describes a multi\-agent planning and execution framework for industrial task automation\. RPA is only named as a possible application and no GUI, web or desktop interaction is described, so this generic framework is outside scope\. The other marked it borderline: Generic multi\-agent task\-automation framework for industrial use; it names robotic process automation as a target application, and the abstract leaves open whether agents operate GUIs, desktop software or APIs\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

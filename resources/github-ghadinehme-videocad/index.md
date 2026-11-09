@@ -14,7 +14,7 @@ VideoCADFormer training, action-log preprocessing and evaluation code for learni
 
 ## Limitations
 
-The paper links this author repository. Onshape is a browser-based CAD environment; supported operating systems are not inferred. The full dataset and a checkpoint are linked separately, and their payloads were not downloaded for this review. MIT is recorded only for this repository code; external data and weight licenses remain unknown.
+The paper links this author repository. Onshape is a browser-based CAD environment. The full dataset and a checkpoint are linked separately. MIT is recorded only for this repository code; external data and weight licenses remain unknown.
 
 - Record JSON: https://awesomecua.com/resources/github-ghadinehme-videocad/record.json
 
@@ -25,7 +25,7 @@ The paper links this author repository. Onshape is a browser-based CAD environme
 - document: not recorded
 - weights: not recorded
 
-- code review: MIT declaration in the author repository LICENSE; separate data, weights and document scopes are not inferred.
+- code review: The author repository LICENSE declares MIT for repository code; data, weights and document rights have separate scopes.
   Sources: https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/LICENSE
 
 ## Primary evidence

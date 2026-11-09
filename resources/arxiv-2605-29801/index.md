@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Trains lightweight guard models for agent safety with a taxonomy covering OpenClaw and Codex execution risks; claw\-style and coding agents in Docker environments, with no GUI named\. An open pull request \(\#2997\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Trains lightweight guard models for agent safety with a taxonomy covering OpenClaw and Codex execution risks; the abstract leaves open whether the guard models cover GUI agent execution\. An open pull request \(\#2997\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

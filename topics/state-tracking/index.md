@@ -109,7 +109,7 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
 - [Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction](https://awesomecua.com/resources/arxiv-2604-05477/) — 2026-04-07
   Introduces VeriGUI, which checks expected action effects and reasons about recovery before subsequent GUI actions. Training combines synthetic failure trajectories with verification-weighted GRPO, evaluated on an AndroidControl-based robustness benchmark.
 - [GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis](https://awesomecua.com/resources/arxiv-2604-04399/) — 2026-04-06
-  GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces rather than relying on one holistic trajectory score.
+  GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces.
 - [PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents](https://awesomecua.com/resources/arxiv-2603-08013/) — 2026-03-09
   PIRA-Bench evaluates proactive intent recommendations from noisy GUI screenshot sequences containing interleaved tasks and user context. Its PIRF baseline combines memory and state tracking to maintain multiple task threads and identify opportunities to assist.
 - [Atomicity for Agents: Exposing, Exploiting, and Mitigating TOCTOU Vulnerabilities in Browser-Use Agents](https://awesomecua.com/resources/arxiv-2603-00476/) — 2026-02-28
@@ -153,7 +153,7 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
 - [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://awesomecua.com/resources/arxiv-2407-13032/) — 2024-07-17
   Agent-E combines hierarchical web-task control with DOM distillation and observations of interface changes. WebVoyager experiments inform a broader discussion of primitive skills, observation reduction, and self-improvement in agent architecture.
 - [Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps](https://awesomecua.com/resources/arxiv-2407-03037/) — 2024-07-03
-  Trident combines exploration, monitoring, and detection agents to identify functional bugs that do not crash a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
+  Trident combines exploration, monitoring, and detection agents to identify functional bugs in a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
 - [Latent State Estimation Helps UI Agents to Reason](https://awesomecua.com/resources/arxiv-2405-11120/) — 2024-05-17
   Studies explicit textual estimates of latent UI state, including whether commanded actions occurred and how far a task has progressed. The experiments compare agents that reason with these estimates against agents that omit them across public and internal task benchmarks.
 - [LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation](https://awesomecua.com/resources/arxiv-2404-16054/) — 2024-04-12
@@ -236,7 +236,7 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
 - [OpenAdapt Agent](https://awesomecua.com/resources/github-openadaptai-openadapt-agent/) — Date not recorded
   OpenAdapt Agent exposes demonstrated application workflows as callable tools for AI agents. It enters values in an app and checks the record before and after saving.
 - [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/) — Date not recorded
-  Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+  Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.
 - [outlive](https://awesomecua.com/resources/github-sy-d-outlive/) — Date not recorded
   Checkpoints and resumes long-running Solari cloud browser sessions across 10-minute container timeouts.
 - [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/) — Date not recorded

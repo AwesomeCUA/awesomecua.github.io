@@ -14,7 +14,7 @@ TAG-Nav supplies Android GUI agents with destination and route memory distilled 
 
 ## Limitations
 
-The controlled cohort has 84 tasks across six apps; the broader inventory spans 20 apps. Main results use human destination labels. DroidTask and SPA-Bench are converted to navigation-only protocols. Some comparison cells received another graph condition’s memory, with sensitivity analyses reported. Cross-family runs differ in app versions, state and denominators. A small stale-graph probe does not establish robustness.
+The controlled cohort has 84 tasks across six apps; the broader inventory spans 20 apps. Main results use human destination labels. DroidTask and SPA-Bench are converted to navigation-only protocols. Some comparison cells received another graph condition’s memory, with sensitivity analyses reported. Cross-family runs differ in app versions, state and denominators. A small stale-graph probe measures performance under its tested stale-graph conditions.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-22672/record.json
 

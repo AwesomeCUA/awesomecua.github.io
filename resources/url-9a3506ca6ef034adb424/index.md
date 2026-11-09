@@ -14,7 +14,7 @@ Conversation-formatted supervision released for fine-tuning AutoDroid V2, with t
 
 ## Limitations
 
-The public Hub manifest lists AutoDroid-V2-Dataset.json; no training records were downloaded. The card contains only an MIT metadata declaration, so the description and intended training use come from the official repository training guide. Sample count, split sizes and third-party-content rights remain unverified; the training command max_samples value is not treated as a dataset count.
+The public Hub manifest lists AutoDroid-V2-Dataset.json; no training records were downloaded. The card contains only an MIT metadata declaration, so the description and intended training use come from the official repository training guide.
 
 - Record JSON: https://awesomecua.com/resources/url-9a3506ca6ef034adb424/record.json
 

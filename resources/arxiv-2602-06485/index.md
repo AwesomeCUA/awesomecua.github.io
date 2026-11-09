@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Trains a compact 4B agent for long\-horizon exploration and reports GAIA results; the abstract does not say whether the agent browses web pages or only calls search and other tools\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Trains a compact 4B agent for long\-horizon exploration and reports GAIA results; the abstract leaves open whether the agent browses pages or calls search and other tools\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

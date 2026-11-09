@@ -14,7 +14,7 @@ Simular's per-task evidence from two complete 108-task OSWorld-V2 runs of its Sa
 
 ## Limitations
 
-The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks and run2 (2026-08-20) at 0.7329 with 33, both 108/108 scored with anthropic/claude-opus-5 at max thinking, a 500-step limit and claude-sonnet-4-6 as evaluator and user simulator; these are publisher measurements and were not reproduced. The run manifests record an Ubuntu 1920x1080 VM on AWS, screenshot observations, the pyautogui action space, benchmark release osworld-v2-2026.06.24 and a separate grounding model (simular-ui-venus-15-30b-a3b-rtx6000). Each run root's manifest describes its last partial invocation (a one-task backfill for run1, a three-task infrastructure rerun for run2), not the whole run. Superseded attempt directories are kept beside the canonical three-digit task directories. The card names a RUNS.md index that is absent at this revision. The Hub license is `other` with no license text.
+The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks and run2 (2026-08-20) at 0.7329 with 33, both 108/108 scored with anthropic/claude-opus-5 at max thinking, a 500-step limit and claude-sonnet-4-6 as evaluator and user simulator; these are publisher measurements. The run manifests record an Ubuntu 1920x1080 VM on AWS, screenshot observations, the pyautogui action space, benchmark release osworld-v2-2026.06.24 and a separate grounding model (simular-ui-venus-15-30b-a3b-rtx6000). Each run root's manifest describes its last partial invocation (a one-task backfill for run1, a three-task infrastructure rerun for run2). Superseded attempt directories are kept beside the canonical three-digit task directories. The card names a RUNS.md index that is absent at this revision. The Hub license is `other` with no license text.
 
 - Record JSON: https://awesomecua.com/resources/url-e0180b9651fec04d0308/record.json
 
@@ -33,7 +33,7 @@ The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks 
 - 23 superseded attempt directories — run1/ at Hub revision fb621da2 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a)
 - 4 superseded attempt directories — run2/ at Hub revision fb621da2 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a)
 
-Counts come from a script over the pinned Hub file list: a canonical directory has a three-digit task name; suffixed names (_infra_, _hung_, _attempt1 and similar) are superseded attempts that the card keeps as evidence. Screenshots, observation images and recordings were removed by the publisher, so the trajectories cannot be replayed visually. Scores come from an LLM evaluator and are not independent quality labels; no task file was downloaded beyond the run manifests and score tables.
+Counts come from a script over the pinned Hub file list: a canonical directory has a three-digit task name; suffixed names (_infra_, _hung_, _attempt1 and similar) are superseded attempts that the card keeps as evidence. Screenshots, observation images and recordings were removed by the publisher. Scores come from an LLM evaluator; the run manifests and score tables were read, leaving task files outside this inspection.
 
 ## License declarations
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmark of 100 PhD\-level tasks for deep research agents that explore the web and write cited reports, with report and citation evaluation methods\. An open pull request \(\#4095\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Benchmark of 100 PhD\-level tasks for deep research agents that explore the web and write cited reports, with report and citation evaluation methods; the abstract leaves open whether deep\-research web exploration fits adjacent browsing scope\. An open pull request \(\#4095\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Trains a multimodal search agent with SFT and RL to use text search, image search and web browsing over long horizons, plus a multimodal search benchmark\. An open pull request \(\#3333\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Trains a multimodal search agent with SFT and RL to use text search, image search and web browsing over long horizons, plus a multimodal search benchmark; the abstract leaves open whether web browsing is a material evaluated tool\. An open pull request \(\#3333\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

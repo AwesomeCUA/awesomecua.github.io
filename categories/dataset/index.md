@@ -1,6 +1,6 @@
 # Computer-use agent datasets
 
-> 195 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T11:08:26Z.
+> 195 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
 
 HTML page: https://awesomecua.com/categories/dataset/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -24,7 +24,7 @@ High-resolution professional interface screenshots and target annotations for ev
 
 ### Limitations
 
-This is the benchmark data asset, distinct from its evaluation-code repository. Target counts are not unique image counts.
+This is the benchmark data asset, distinct from its evaluation-code repository. Target counts and unique image counts are different units.
 
 - Record JSON: https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/record.json
 
@@ -39,7 +39,7 @@ This is the benchmark data asset, distinct from its evaluation-code repository. 
 
 - 1,581 target annotations — sum of icon/text counts in the published card table (computed) (computed; source: https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md)
 
-Counts describe target annotations, not unique screenshots or expanded language/style variants. The evaluation code can reuse a target across configurations.
+Counts describe target annotations; unique screenshots and expanded language/style variants use different units. The evaluation code can reuse a target across configurations.
 
 ### License declarations
 
@@ -89,7 +89,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-The repository links distinct AndroidControl-oriented, AndroidWorld-oriented, and web training files plus raw pre-state/action/post-state triples. These are training artifacts, not a documented train/test split, and related representations are not disjoint corpus totals. No numerical inventory is asserted from release names or linked archives.
+The repository links distinct AndroidControl-oriented, AndroidWorld-oriented, and web training files plus raw pre-state/action/post-state triples. These are training artifacts with related representations of the same corpus; the release documents no train/test split. No numerical inventory is asserted from release names or linked archives.
 
 ### License declarations
 
@@ -122,7 +122,7 @@ Official Hub release of AMEX: Android app screenshots annotated for interactive-
 
 ### Limitations
 
-The card calls this the official dataset repository of the AMEX paper. The full release sits under AMEX/ as element_anno.zip, instruction_anno.zip and a screenshot archive split into eight 10 GiB parts plus a final zip (about 93.5 GB together); a sample/ folder holds one episode's five screenshots with its annotations. The card adds ScreenSpot mobile-subset and AndroidControl results that are not in the arXiv paper; they are publisher figures and were not reproduced. The card does not link the AMEX-codebase training-code repository, but the AMEX project page links both this dataset and that repository, which the catalog holds as the AMEX record github:yuxiangchai/amex-codebase; this release is recorded as its component. CC-BY-4.0 is the card's data declaration; that repository's Apache-2.0 code license is separate.
+The card calls this the official dataset repository of the AMEX paper. The full release sits under AMEX/ as element_anno.zip, instruction_anno.zip and a screenshot archive split into eight 10 GiB parts plus a final zip (about 93.5 GB together); a sample/ folder holds one episode's five screenshots with its annotations. The card adds publisher figures for ScreenSpot mobile-subset and AndroidControl beyond the arXiv paper. The AMEX project page links both this dataset and the AMEX-codebase training-code repository, which the catalog holds as the AMEX record github:yuxiangchai/amex-codebase; this release is recorded as its component. CC-BY-4.0 is the card's data declaration; that repository's Apache-2.0 code license is separate.
 
 - Record JSON: https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/record.json
 
@@ -139,7 +139,7 @@ The card calls this the official dataset repository of the AMEX paper. The full 
 - 3,046 instruction episodes — AMEX/instruction_anno.zip at revision 17196b29 (one JSON file per episode, unique episode_id) (computed) (computed; source: https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip)
 - 38,709 action steps — steps lists of the 3,046 instruction episodes in AMEX/instruction_anno.zip at revision 17196b29 (computed) (computed; source: https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip)
 
-Episode and step counts were computed with a script from the instruction archive; screenshots and element annotations were not downloaded, so the screenshot figure is the paper's reported scale. Each step records the action type, touch and lift coordinates, typed text, package name and screenshot path. No train/test split is published.
+Episode and step counts were computed with a script from the instruction archive; the screenshot figure is the paper's reported scale. Each step records the action type, touch and lift coordinates, typed text, package name and screenshot path. No train/test split is published.
 
 ### License declarations
 
@@ -209,7 +209,7 @@ Desktop GUI-grounding data from the GroundCUA project: PNG screenshots of 87 app
 
 ### Limitations
 
-At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshots under images/ and 51,175 JSON annotation files with the same hashes under data/, in 87 application folders. The project's GitHub README reports 56K screenshots and about 3.56M element annotations, so the Hub file count and the reported screenshot count differ. The card says categories are approximate and present only for some elements. The repository root also holds an instruction_tuning.tar.gz archive (about 202 MB) that the card does not describe. The card names Windows, macOS and Linux for the applications but does not label each screenshot's operating system. MIT is the card's data declaration and does not establish rights to the captured applications' content. Files were not downloaded.
+At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshots under images/ and 51,175 JSON annotation files with the same hashes under data/, in 87 application folders. The project's GitHub README reports 56K screenshots and about 3.56M element annotations, so the Hub file count and the reported screenshot count differ. The card says categories are approximate and present only for some elements. The repository root also holds an instruction_tuning.tar.gz archive (about 202 MB). The card names Windows, macOS and Linux for the applications but does not label each screenshot's operating system. MIT is the card's data declaration and does not establish rights to the captured applications' content.
 
 - Record JSON: https://awesomecua.com/resources/url-f6c88faa4392848f81b6/record.json
 
@@ -227,7 +227,7 @@ At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshot
 - ≈ 56,000 screenshots — GroundCUA dataset as described in the project README (reported; source: https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md)
 - ≈ 3,560,000 element annotations — GroundCUA dataset as described in the project README (reported; source: https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md)
 
-Screenshots, file pairs, folders and element annotations are different units and are not summed. The pair count was computed by paging the recursive Hub tree of data/ and images/ at revision 5d6845b0; the listed receipt records the 87 application folders. The README figures describe the project dataset and were not reconciled with the Hub file count. No train/test split is declared.
+Screenshots, file pairs, folders and element annotations are different units and are counted separately. The pair count was computed by paging the recursive Hub tree of data/ and images/ at revision 5d6845b0; the listed receipt records the 87 application folders. The README figures describe the project dataset. No train/test split is declared.
 
 ### License declarations
 
@@ -278,7 +278,7 @@ Public JSON annotations and image archives are present. The card has no data-lic
 
 No count recorded.
 
-Public Hub revision 5a0b35fb includes six bbox JSON files and associated image archives. The training configuration names six input paths with sampling_strategy=all; those input paths are not six disjoint datasets or a verified example count. The card’s source-list wording and mismatched hyperlinks remain unresolved, so its approximately 1M screenshots/10M elements headline is not adopted as a release inventory. No data license is established by the card, and the model repository license is not transferred to these data.
+Public Hub revision 5a0b35fb includes six bbox JSON files and associated image archives. The training configuration names six input paths with sampling_strategy=all; path count and verified example count are different units. No data license is established by the card, and the model repository license is not transferred to these data.
 
 ### License declarations
 
@@ -393,7 +393,7 @@ Original Hub upload of GUI Odyssey: 7,735 cross-app Android navigation episodes 
 
 ### Limitations
 
-The card now asks users to switch to the newer hflqf88888/GUIOdyssey release, which reports a different episode total; this record keeps the earlier OpenGVLab upload, whose card still links the GUI-Odyssey repository and paper. Hub API at revision 71e0e7e2: not gated, with all_anno.json, 7,735 annotation JSON files, four split files and screenshot folders; its sibling list stops at 100,000 entries. A paginated Hub tree listing at the same revision counted 118,791 PNG files in 100 screenshot folders; zipped copies of annotations and screenshots sit under zips/. The card declares CC-BY-4.0 for the data.
+The card now asks users to switch to the newer hflqf88888/GUIOdyssey release, which reports a different episode total; this record keeps the earlier OpenGVLab upload, whose card still links the GUI-Odyssey repository and paper. Hub API at revision 71e0e7e2: open access, with all_anno.json, 7,735 annotation JSON files, four split files and screenshot folders; its sibling list stops at 100,000 entries. A paginated Hub tree listing at the same revision counted 118,791 PNG files in 100 screenshot folders; zipped copies of annotations and screenshots sit under zips/. The card declares CC-BY-4.0 for the data.
 
 - Record JSON: https://awesomecua.com/resources/url-5f7e55313246edf727bf/record.json
 
@@ -409,7 +409,7 @@ The card now asks users to switch to the newer hflqf88888/GUIOdyssey release, wh
 - 7,735 episodes — original OpenGVLab/GUI-Odyssey release (reported; source: https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey/raw/71e0e7e2d169c642e7a99c264d82ffecadf67889/README.md)
 - 7,735 annotation JSON files — annotations/ at revision 71e0e7e2 (computed) (computed; source: https://huggingface.co/api/datasets/OpenGVLab/GUI-Odyssey/revision/71e0e7e2d169c642e7a99c264d82ffecadf67889)
 
-Each annotation file is one episode keyed by episode_id, with device, task (category, apps, meta-task, instruction) and per-step screenshot, action, info and ps fields; actions are CLICK, SCROLL, LONG_PRESS, TYPE, COMPLETE, IMPOSSIBLE, HOME and BACK, with coordinates normalized to 0-1000. Each split file lists train and test episode IDs. Screenshots were not counted from a retained receipt.
+Each annotation file is one episode keyed by episode_id, with device, task (category, apps, meta-task, instruction) and per-step screenshot, action, info and ps fields; actions are CLICK, SCROLL, LONG_PRESS, TYPE, COMPLETE, IMPOSSIBLE, HOME and BACK, with coordinates normalized to 0-1000. Each split file lists train and test episode IDs.
 
 ### License declarations
 
@@ -458,7 +458,7 @@ Public JSON annotations and Parquet image packages are present. The project READ
 - ≈ 67,000 action instructions — single-step portion (reported; source: https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md)
 - ≈ 15,000 action instructions — multi-step portion (reported; source: https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md)
 
-Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.
+Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 
 ### License declarations
 
@@ -494,7 +494,7 @@ Gated Hub release of the Online-Mind2Web task set: one JSON test split of tasks 
 
 ### Limitations
 
-The Hub API at revision eacad896 reports gated 'auto' (access is approved automatically after a logged-in request) and one data file, Online_Mind2Web.json, configured as the test split. The card and the task file sit behind that gate and were not read for this record; the description and counts come from the project README, which links this dataset as its data. The Hub card metadata declares CC BY 4.0, matching the README's dataset license; the repository code is MIT and is not applied to the data. The publishers replace invalid tasks over time (36 on 2025-11-03), so a result needs the dataset revision.
+The Hub API at revision eacad896 reports gated 'auto' (access is approved automatically after a logged-in request) and one data file, Online_Mind2Web.json, configured as the test split. The card and task file sit behind the gate; the description and counts come from the project README, which links this dataset as its data. The Hub card metadata declares CC BY 4.0, matching the README's dataset license; the repository code is MIT and is not applied to the data. The publishers replace invalid tasks over time (36 on 2025-11-03), so a result needs the dataset revision.
 
 - Record JSON: https://awesomecua.com/resources/url-a252b36bf1c440269a2e/record.json
 
@@ -510,7 +510,7 @@ The Hub API at revision eacad896 reports gated 'auto' (access is approved automa
 - 300 tasks — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
 - 136 websites — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
 
-Counts are the README's description of the task set, not a count of the gated file, which was not downloaded. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
+Counts describe the task set according to the README; the gated file count remains unknown. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
 
 ### License declarations
 
@@ -560,7 +560,7 @@ Inclusion does not establish reproducibility or endorsement.
 - > 3,000,000 UI elements — SeeClick-derived web subset (reported; source: https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md)
 - ≥ 1,600,000 images — FineWeb-derived subset (reported; source: https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md)
 
-These are subset-specific counts, not a total for the full OS-Atlas release. Raw boxes use 0–1 coordinates; the documented training wrapper scales them to 0–1000.
+These are subset-specific counts for OS-Atlas. Raw boxes use 0–1 coordinates; the documented training wrapper scales them to 0–1000.
 
 ### License declarations
 
@@ -627,7 +627,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 ### Limitations
 
-Sources named by the card: ShowUI (web and desktop), AutoGUI, PC-Agent-E, WaveUI, OS-Atlas, UGround, PixMo Points, SeeClick, UI-Vision, a Jedi spreadsheet subset and frames from professional-application tutorial videos labelled with Claude 4 Sonnet (the card says 85 videos, the release README 80+). Each source was capped at 50k instances, and noisy or trivial samples were removed with OmniParser and grounding-model filters. The card says SeeClick, PixMo and UGround samples were excluded during RL training, so the training subset is smaller than the release. The release declares no data license, and the upstream sources keep their own terms. The training config names the dataset mlfoundations/clicks-100k, a spelling that differs from this Hub ID. Parquet files were not downloaded.
+Sources named by the card: ShowUI (web and desktop), AutoGUI, PC-Agent-E, WaveUI, OS-Atlas, UGround, PixMo Points, SeeClick, UI-Vision, a Jedi spreadsheet subset and frames from professional-application tutorial videos labelled with Claude 4 Sonnet (the card says 85 videos, the release README 80+). Each source was capped at 50k instances, and noisy or trivial samples were removed with OmniParser and grounding-model filters. The card says SeeClick, PixMo and UGround samples were excluded during RL training, so the training subset is smaller than the release. The release declares no data license, and the upstream sources keep their own terms. The training config names the dataset mlfoundations/clicks-100k, a spelling that differs from this Hub ID.
 
 - Record JSON: https://awesomecua.com/resources/url-bf847949766b2b257d1c/record.json
 
@@ -696,7 +696,7 @@ Public JSON annotations and Parquet image packages are present. The project READ
 - ≈ 44,000 QA pairs — single-turn portion (reported; source: https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md)
 - ≈ 6,000 dialogues — multi-turn portion (reported; source: https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md)
 
-Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.
+Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 
 ### License declarations
 
@@ -732,7 +732,7 @@ The released local-supervision portion of GUIEnv, pairing webpage regions and te
 
 ### Limitations
 
-Public JSON annotations and Parquet image packages are present. The project README declares CC-BY-4.0 for datasets, while this Hub card declares Apache-2.0; these conflicting declarations are retained without asserting a single confirmed data license. The project code’s MIT declaration is separate. Only GUIEnv-local is marked released; the advertised 10M-example GUIEnv-global pretraining collection is still unchecked and is not counted here.
+Public JSON annotations and Parquet image packages are present. The project README declares CC-BY-4.0 for datasets, while this Hub card declares Apache-2.0; these conflicting declarations are retained without asserting a single confirmed data license. The project code’s MIT declaration is separate. GUIEnv-local is released; the advertised 10M-example GUIEnv-global pretraining collection is still unchecked.
 
 - Record JSON: https://awesomecua.com/resources/url-0af07e00658a430cee6a/record.json
 
@@ -747,7 +747,7 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 - ≈ 700,000 region-text QA pairs — GUIEnv-local SFT data (reported; source: https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md)
 
-Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.
+Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 
 ### License declarations
 
@@ -783,7 +783,7 @@ Hub release of Mind2Web's crowdsourced web-task demonstrations: train-split JSON
 
 ### Limitations
 
-This is the Hub data release, distinct from the code and benchmark repository github:osu-nlp-group/mind2web. The Hub API at revision 17ece8eb reports an ungated repository holding 11 train JSON shards, test.zip and scores_all_data.pkl. The card declares CC BY 4.0 for the data; the code repository's MIT license is not applied to it. Multimodal-Mind2Web (paired screenshots) and the raw trace dump are separate releases and are not covered here.
+This is the Hub data release, distinct from the code and benchmark repository github:osu-nlp-group/mind2web. The Hub API at revision 17ece8eb reports an ungated repository holding 11 train JSON shards, test.zip and scores_all_data.pkl. The card declares CC BY 4.0 for the data; the code repository's MIT license is not applied to it. Multimodal-Mind2Web (paired screenshots) and the raw trace dump are separate releases outside this record.
 
 - Record JSON: https://awesomecua.com/resources/url-380a6eedcb4de7778e88/record.json
 
@@ -804,7 +804,7 @@ This is the Hub data release, distinct from the code and benchmark repository gi
 - 177 task instances — cross-website test split (test_website) (reported; source: https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md)
 - 912 task instances — cross-domain test split (test_domain) (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md)
 
-Each instance is one task with its multi-step action sequence, so instance counts are not step counts. The card prints the cross-domain size as '9,12'; the repository README gives 912. The test splits are released only as a ZIP whose password the README publishes, with a request not to redistribute the unzipped files. scores_all_data.pkl holds candidate-ranking outputs of a tuned DeBERTa-v3-base model, not annotations.
+Each instance is one task with its multi-step action sequence; step counts use a different unit. The card prints the cross-domain size as '9,12'; the repository README gives 912. The test splits are released only as a ZIP whose password the README publishes, with a request not to redistribute the unzipped files. scores_all_data.pkl holds candidate-ranking outputs of a tuned DeBERTa-v3-base model, not annotations.
 
 ### License declarations
 
@@ -838,7 +838,7 @@ Task files for the WebCanvas live-web benchmark: 438 training and 104 test tasks
 
 ### Limitations
 
-The files hold task instructions, reference task lengths and key-node evaluation functions (URL inclusion or exact match, element path and value matches, and semantic URL and value matches), not trajectories or page snapshots. Agents run on live websites through the WebCanvas framework, so results depend on site changes, location and time. The test file was revised on 2024-10-24; the 2024-05-28 test file stays under old_version with 104 tasks and 444 key nodes, which with the 1,995 training key nodes gives the 2,439 states the WebCanvas README reports. The card itself links only the WebCanvas repository and declares CC-BY-4.0.
+The files hold task instructions, reference task lengths and key-node evaluation functions (URL inclusion or exact match, element path and value matches, and semantic URL and value matches); trajectories and page snapshots are separate data types. Agents run on live websites through the WebCanvas framework, so results depend on site changes, location and time. The test file was revised on 2024-10-24; the 2024-05-28 test file stays under old_version with 104 tasks and 444 key nodes, which with the 1,995 training key nodes gives the 2,439 states the WebCanvas README reports. The card itself links only the WebCanvas repository and declares CC-BY-4.0.
 
 - Record JSON: https://awesomecua.com/resources/url-03ffa3f28413bc2edb1b/record.json
 
@@ -940,7 +940,7 @@ Mobile-agent supervision from emulator and simulator trajectories, plus executab
 
 ### Limitations
 
-The reviewed card contains no explicit license declaration, so data-license status remains unknown. The repository code license is not inherited. The current code README points to the v2 dataset; an older project-page URL was not counted as a separate asset.
+The reviewed card contains no explicit license declaration, so data-license status remains unknown. The repository code license is not inherited. The current code README points to the v2 dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-546e6c95825d1318c98d/record.json
 
@@ -957,7 +957,7 @@ The reviewed card contains no explicit license declaration, so data-license stat
 - 118,582 decision steps — SFT collection (reported; source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md)
 - 2,475 executable tasks — RL collection (reported; source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md)
 
-These are publisher-reported totals at three distinct grains, not values to sum. Earlier screenshots may be collapsed; each SFT example keeps at most three images. The card and repository disagree on the singular/plural RL filename, so consumers should inspect the actual file manifest.
+These are publisher-reported totals at three distinct grains. Earlier screenshots may be collapsed; each SFT example keeps at most three images. The card and repository disagree on the singular/plural RL filename, so consumers should inspect the actual file manifest.
 
 ### License declarations
 
@@ -1008,7 +1008,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 8,614 question-answer pairs — original ScreenQA validation split (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md)
 - 8,419 question-answer pairs — original ScreenQA test split (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md)
 
-All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. Do not add these variants as independent original examples.
+All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. ScreenQA Short reuses the same questions and screens; ComplexQA is a separate extension.
 
 ### License declarations
 
@@ -1104,7 +1104,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - 83 software applications — paper-described benchmark coverage (reported; source: https://huggingface.co/datasets/ServiceNow/ui-vision/raw/main/README.md)
 
-This is an offline evaluation dataset. Application coverage is not a sample count. The inspected file-layout documentation describes grounding annotations and images; it does not establish a common split or complete action-trajectory inventory.
+This is an offline evaluation dataset. Application coverage and sample counts are different units. The inspected file-layout documentation describes grounding annotations and images; it does not establish a common split or complete action-trajectory inventory.
 
 ### License declarations
 
@@ -1152,7 +1152,7 @@ The manifest contains grounding JSON annotations and packaged images. The card d
 
 No count recorded.
 
-Stage 1 grounding release, Hub revision 5d11f8f5. JSON annotations and ZIP/multipart TAR image packages are publicly listed. The official training configuration groups web, desktop and mobile inputs and selects all rows of its configured inputs; this is a training recipe, not a release sample count or held-out split. The config names omniact.json while the Hub manifest lists omniact_fix.json, so local paths need reconciliation. No sample total is inferred from names such as webui350k. Apache-2.0 is the release card declaration; upstream source rights remain separate.
+Stage 1 grounding release, Hub revision 5d11f8f5. JSON annotations and ZIP/multipart TAR image packages are publicly listed. The official training configuration groups web, desktop and mobile inputs and selects all rows of its configured inputs. The config names omniact.json while the Hub manifest lists omniact_fix.json, so local paths need reconciliation. No sample total is inferred from names such as webui350k. Apache-2.0 is the release card declaration; upstream source rights remain separate.
 
 ### License declarations
 
@@ -1472,7 +1472,7 @@ Video-derived mobile navigation annotations that pair scene boundaries and scree
 
 ### Limitations
 
-The ungated Hub publishes four Parquet splits containing video identifiers and annotations. Original videos and extracted screenshots must be obtained separately; the code README explains that consumers download source videos from YouTube. A Windows Mobile unseen-OS test split is documented but is not labeled desktop Windows here. The companion code has an Apache-2.0 file, while the data card declares no data license and the repository defers third-party materials to original terms. Training scripts, pretrained checkpoints and the full generation pipeline remain planned updates.
+The ungated Hub publishes four Parquet splits containing video identifiers and annotations. Original videos and extracted screenshots must be obtained separately; the code README explains that consumers download source videos from YouTube. A Windows Mobile unseen-OS test split is documented. The companion code has an Apache-2.0 file, while the data card declares no data license and the repository defers third-party materials to original terms. Training scripts, pretrained checkpoints and the full generation pipeline remain planned updates.
 
 - Record JSON: https://awesomecua.com/resources/url-570654ff67ecefa2b955/record.json
 
@@ -1492,7 +1492,7 @@ The ungated Hub publishes four Parquet splits containing video identifiers and a
 - ≈ 333,000 detected scenes — publisher overview of MONDAY (reported; source: https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md)
 - ≈ 313,000 identified actions — publisher overview of MONDAY (reported; source: https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md)
 
-Split counts are video-annotation rows; scene and action totals are rounded publisher reports and are not added to row counts. Source videos/images are not included in the Hub files.
+Split counts are video-annotation rows; scene and action totals are rounded publisher reports. Source videos/images are not included in the Hub files.
 
 ### License declarations
 
@@ -1585,7 +1585,7 @@ Gated Hub release of the MultiUI web-UI training data, about 7.3 million samples
 
 ### Limitations
 
-The Hub API at revision c17e5f29 reports gated 'auto' and lists stage1_data.json (about 5.2 GB), stage2_data_to_be_combined_with_general_data.json (about 0.25 GB) and 21 TAR parts in three groups: v0.6_5M (12 parts), v0.7_exclude_v0.6 (4) and v0.8_exclude_v0.7 (5), about 955 GB in all. The card and files sit behind the gate and were not read; the description comes from the project README, which links this dataset as its 7.3-million-sample training set and says the data was built from webpages linked in FineWeb or generated by LLMs. The card metadata declares ODC-BY for the data; the GitHub repository has no license file, so its code terms stay unknown.
+The Hub API at revision c17e5f29 reports gated 'auto' and lists stage1_data.json (about 5.2 GB), stage2_data_to_be_combined_with_general_data.json (about 0.25 GB) and 21 TAR parts in three groups: v0.6_5M (12 parts), v0.7_exclude_v0.6 (4) and v0.8_exclude_v0.7 (5), about 955 GB in all. The card and files sit behind the gate; the description comes from the project README, which links this dataset as its 7.3-million-sample training set and says the data was built from webpages linked in FineWeb or generated by LLMs. The card metadata declares ODC-BY for the data; the GitHub repository has no license file, so its code terms stay unknown.
 
 - Record JSON: https://awesomecua.com/resources/url-8cd911654653a6ba8521/record.json
 
@@ -1601,7 +1601,7 @@ The Hub API at revision c17e5f29 reports gated 'auto' and lists stage1_data.json
 - ≈ 7,300,000 samples — MultiUI training dataset as described in the project README (reported; source: https://raw.githubusercontent.com/neulab/multiui/e261d8ad3d329a8b6e719cfd4f6a6d8e6df3cede/README.md)
 - 21 TAR archive parts — Hub file manifest at revision c17e5f29 (computed) (computed; source: https://huggingface.co/api/datasets/neulab/MultiUI/tree/c17e5f297392be76741dcc3599e8fedc4304b386)
 
-The sample count is the README's rounded figure, not a count of the gated files, which were not downloaded. Archive parts are package files, not samples. The versioned archive names (v0.7 excluding v0.6, v0.8 excluding v0.7) suggest incremental releases, but the card that would explain them is gated.
+The sample count is the README's rounded figure; the gated files remain uncounted. Archive parts are package files. The versioned archive names (v0.7 excluding v0.6, v0.8 excluding v0.7) suggest incremental releases, but the card that would explain them is gated.
 
 ### License declarations
 
@@ -1686,7 +1686,7 @@ The short card says the four JSON files are LLaMA-Factory training files and raw
 - ≈ 34,000 action steps — OpenMobile dataset (project page) (reported; source: https://njucckevin.github.io/openmobile/)
 - 20 Android apps — OpenMobile dataset (project page) (reported; source: https://njucckevin.github.io/openmobile/)
 
-Instruction, step and app counts are the project page's headline figures. Streaming the four split files at revision 8ed12d1 gave 7,393, 6,767, 9,345 and 3,855 step-level samples (27,360 in total), each with one screenshot path into raw_dumps, a system prompt with the mobile_use tool, the task and step history, an assistant thought with a tool call, and a target bounding box; the files exceed the receipt budget, so these computed counts are not recorded as count observations. Steps in the files and the page's action steps are not reconciled. The four split names are training files, not train/test splits.
+Instruction, step and app counts are the project page's headline figures. Streaming the four split files at revision 8ed12d1 gave 7,393, 6,767, 9,345 and 3,855 step-level samples (27,360 in total), each with one screenshot path into raw_dumps, a system prompt with the mobile_use tool, the task and step history, an assistant thought with a tool call, and a target bounding box; the files exceed the receipt budget, leaving these computed counts outside count observations. Steps in the files and the page's action steps are not reconciled. The four split names are training files.
 
 ### License declarations
 
@@ -1723,7 +1723,7 @@ Gated Hub release of the OSWorld 2.0 benchmark's Python task classes, which hold
 
 ### Limitations
 
-The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automatically after a logged-in request) and 147 files: 108 task_*.py classes, 34 task implementation notes, a task-hash manifest and the card. The card and files sit behind that gate and were not read; the description comes from the OSWorld-V2 README, which links this dataset as its data and downloads it into evaluation_examples/task_class. The README pins task, asset and website snapshots per benchmark release (osworld-v2.1 recommended, plus osworld-v2-2026.08.08 and osworld-v2-2026.06.24), so the main-branch file count is not a release's task count. Task assets are in the separate gated xlangai/osworld_v2_assets_gated dataset and anonymous runtime assets in xlangai/osworld_v2_assets; neither is covered here. The code repository github.com/xlang-ai/OSWorld-V2 is not an active record, so no component relation is recorded. The card metadata declares Apache-2.0.
+The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automatically after a logged-in request) and 147 files: 108 task_*.py classes, 34 task implementation notes, a task-hash manifest and the card. The card and files sit behind the gate; the description comes from the OSWorld-V2 README, which links this dataset as its data and downloads it into evaluation_examples/task_class. The README pins task, asset and website snapshots per benchmark release (osworld-v2.1 recommended, plus osworld-v2-2026.08.08 and osworld-v2-2026.06.24); main-branch file counts are distinct from release task counts. Task assets are in the separate gated xlangai/osworld_v2_assets_gated dataset and anonymous runtime assets in xlangai/osworld_v2_assets; neither is covered here. The code repository github.com/xlang-ai/OSWorld-V2 is not an active record, so no component relation is recorded. The card metadata declares Apache-2.0.
 
 - Record JSON: https://awesomecua.com/resources/url-1c4a0389ace7c5cb8a4b/record.json
 
@@ -1739,7 +1739,7 @@ The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automa
 - 108 task class files — task_*.py on the main branch at revision 0a1aadad (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks)
 - 34 implementation note files — implementation_notes/task_*.md on the main branch at revision 0a1aadad (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks)
 
-Counts are files in the public main-branch manifest. Benchmark releases are pinned to their own tags, which were not inspected because the files are gated, so these are not release task counts.
+Counts are files in the public main-branch manifest. Benchmark releases are pinned to their own tags; these are main-branch counts.
 
 ### License declarations
 
@@ -1787,7 +1787,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - 6 platform categories — Linux, macOS, Windows, Android, iOS, and Web (reported; source: https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md)
 
-The six categories include Web, so they are not six operating systems. Grounding and trajectory annotations follow different collection processes. No sample total or train/test division is inferred from archive-part counts or Hub size tags.
+The six categories include Web. Grounding and trajectory annotations follow different collection processes. No sample total or train/test division is inferred from archive-part counts or Hub size tags.
 
 ### License declarations
 
@@ -1854,7 +1854,7 @@ GUI dragging data with screen observations, prior state, and continuous pointer 
 
 ### Limitations
 
-Raw and Parquet folders are alternative views of the same data and should not be counted as independent samples. The inspected card did not state a license.
+Raw and Parquet folders are alternative views of the same data. The inspected card did not state a license.
 
 - Record JSON: https://awesomecua.com/resources/url-fe43af1801032be708cc/record.json
 
@@ -1901,7 +1901,7 @@ Dense screen-parsing data that labels the visible UI elements of rendered web sc
 
 ### Limitations
 
-The main branch holds the v2 release, which the card describes as using leaf-element annotations, stricter quality filtering and varied viewport resolutions; the first release stays on the repository's v1 branch and is not described here. Labels come from DOM extraction refined by Qwen3-VL-8B-Instruct and VLM-as-a-judge filtering, not from human annotation. CC-BY-4.0 is the card's data declaration and does not establish rights to the crawled websites' content. The Parquet shards were not downloaded.
+The main branch holds the v2 release, which the card describes as using leaf-element annotations, stricter quality filtering and varied viewport resolutions; the first release stays on the repository's v1 branch, outside this record. Labels come from DOM extraction refined by Qwen3-VL-8B-Instruct and VLM-as-a-judge filtering. CC-BY-4.0 is the card's data declaration and does not establish rights to the crawled websites' content.
 
 - Record JSON: https://awesomecua.com/resources/url-98e8a413ddd670214755/record.json
 
@@ -1919,7 +1919,7 @@ The main branch holds the v2 release, which the card describes as using leaf-ele
 - 55 UI element classes — ScreenParse v2 label set (reported; source: https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md)
 - 1,448 Parquet shards — Hub manifest at revision bc0113f9 (computed) (computed; source: https://huggingface.co/api/datasets/docling-project/screenparse)
 
-Screenshots, element annotations, classes and shards are different units and are not summed. Screenshot and annotation counts are the card's v2 figures; the shard count is computed from the Hub file manifest.
+Screenshots, element annotations, classes and shards are different units and are counted separately. Screenshot and annotation counts are the card's v2 figures; the shard count is computed from the Hub file manifest.
 
 ### License declarations
 
@@ -1967,7 +1967,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - 7,496 examples — train split declared in the dataset card (reported; source: https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md)
 
-The 8K release name is not an exact record count; the card declares 7,496 examples. Images and original annotations come from OmniAct and are augmented with generated descriptions. Examples are not asserted to be unique screenshots.
+The card declares 7,496 examples for the 8K release. Images and original annotations come from OmniAct and are augmented with generated descriptions. Examples are not asserted to be unique screenshots.
 
 ### License declarations
 
@@ -2017,7 +2017,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-Public API revision 33325877 lists Parquet assets but gated=auto; the pinned raw card returned HTTP 401 and no access was requested. Official README identifies this as V1 training data; the API excerpt also announces a Web-Hybrid bounding-box variant with coordinates normalized to [0,999]. That does not establish every shard schema or a release-wide point/bbox count. No train/test partition, example total, or unrestricted downloadability is claimed. Preserve the recorded CC-BY-NC-SA-4.0 data declaration separately from model/code terms.
+Public API revision 33325877 lists Parquet assets but gated=auto; the pinned raw card returned HTTP 401 and no access was requested. Official README identifies this as V1 training data; the API excerpt also announces a Web-Hybrid bounding-box variant with coordinates normalized to [0,999]. The public API excerpt documents a Web-Hybrid bounding-box variant; shard schemas and a release-wide point/bbox count remain unspecified. No train/test partition, example total, or unrestricted downloadability is claimed. Preserve the recorded CC-BY-NC-SA-4.0 data declaration separately from model/code terms.
 
 ### License declarations
 
@@ -2050,7 +2050,7 @@ UI-AGILE training annotations and screenshots together with converted GUI-ground
 
 ### Limitations
 
-Public JSON, image archives and Parquet evaluation files are present. The card has no data-license declaration; the model’s MIT declaration is not inherited. The publisher describes fixes to AndroidControl action parameters, but those corrections were not independently reproduced or applied to upstream resources.
+Public JSON, image archives and Parquet evaluation files are present. The card has no data-license declaration; the model’s MIT declaration is not inherited. The publisher describes fixes to AndroidControl action parameters.
 
 - Record JSON: https://awesomecua.com/resources/url-41abb1b7206689cf5057/record.json
 
@@ -2084,7 +2084,7 @@ A 24,978-example subset of an ~80k UI element collection, pairing screenshots an
 
 ### Limitations
 
-The card describes this as a subset of a collection of about 80k preprocessed examples built from WebUI, RoboFlow website screenshots and GroundUI-18K, filtered for duplicates, overlaps, low quality and many text elements, with added annotation fields. The publisher's agentsea/wave-ui dataset (Wave UI) has the same 13 fields and 79,412 rows across three splits; the 25k card does not name it, so the component link rests on that match. Dataset-viewer statistics over 12,493 of the rows (partial) show platform values web, desktop and mobile and source labels including roboflow, webui, mind2web_test_*, omniact, motif, screenspot and agent_studio. The repository declares no license, and the source datasets' terms are not inferred.
+The card describes this as a subset of a collection of about 80k preprocessed examples built from WebUI, RoboFlow website screenshots and GroundUI-18K, filtered for duplicates, overlaps, low quality and many text elements, with added annotation fields. The publisher's agentsea/wave-ui dataset (Wave UI) has the same 13 fields and 79,412 rows across three splits; the component link rests on that match. Dataset-viewer statistics over 12,493 of the rows (partial) show platform values web, desktop and mobile and source labels including roboflow, webui, mind2web_test_*, omniact, motif, screenspot and agent_studio. The repository declares no license, and the source datasets' terms are not inferred.
 
 - Record JSON: https://awesomecua.com/resources/url-f2cf4ec32aa0b3ba6b95/record.json
 
@@ -2099,7 +2099,7 @@ The card describes this as a subset of a collection of about 80k preprocessed ex
 
 - 24,978 rows — train split (reported; source: https://huggingface.co/datasets/agentsea/wave-ui-25k/raw/1b77b749cb4c9936f35838ed8cb0f1b69957ad08/README.md)
 
-The row count comes from the card's dataset_info metadata; rows are labeled element examples, not unique screens. The annotation fields are name, description, type, OCR, language, purpose and expectation.
+The row count comes from the card's dataset_info metadata; rows count labeled element examples, a separate unit from unique screens. The annotation fields are name, description, type, OCR, language, purpose and expectation.
 
 ### License declarations
 
@@ -2137,7 +2137,7 @@ WildGUI release from Video2GUI: per-task JSONL trajectories mined from Internet 
 
 ### Limitations
 
-The card describes this as a personally reprocessed annotation release: records were regenerated and cleaned following the annotation workflow, then split so that each JSONL line holds one task with its ordered action trajectory; action parameters are omitted when grounding is unreliable (use_grounding false). The Video2GUI project README links this repository as the WildGUI dataset and names the joker-112/WildGUI_Screenshots repository as the host of the part16-part19 frames. Its figures of about 12M trajectories over more than 1,500 applications and websites describe WildGUI in the paper; the 19 JSONL shards (about 78 GB) were not downloaded, so the Hub record count is not established. The project README says trajectories and grounding boxes were produced by Gemini-3-Pro, so labels are model-generated, not human annotations. The data license is the card's CC-BY-NC-4.0 declaration; the source videos and screenshots keep their own rights, and the Apache-2.0 license of the project repository is not transferred to the data.
+The card describes this as a personally reprocessed annotation release: records were regenerated and cleaned following the annotation workflow, then split so that each JSONL line holds one task with its ordered action trajectory; action parameters are omitted when grounding is unreliable (use_grounding false). The Video2GUI project README links this repository as the WildGUI dataset and names the joker-112/WildGUI_Screenshots repository as the host of the part16-part19 frames. Its figures of about 12M trajectories over more than 1,500 applications and websites describe WildGUI in the paper; the 19 JSONL shards (about 78 GB) were not downloaded, so the Hub record count is not established. The project README says trajectories and grounding boxes were produced by Gemini-3-Pro, so labels are model-generated. The data license is the card's CC-BY-NC-4.0 declaration; the source videos and screenshots keep their own rights, and the Apache-2.0 license of the project repository is not transferred to the data.
 
 - Record JSON: https://awesomecua.com/resources/url-daf52475338f385b9310/record.json
 
@@ -2154,7 +2154,7 @@ The card describes this as a personally reprocessed annotation release: records 
 - 4,137 screenshot tar shards — Hub repository at revision 75287698 (parts 1-15) (computed) (computed; source: https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769)
 - ≈ 12,000,000 interaction trajectories — WildGUI as described in the Video2GUI project README; not recounted in this Hub release (reported; source: https://raw.githubusercontent.com/WeiminXiong/Video2GUI/02f61de0c329f6763ce1b130596a650e4a9291f1/README.md)
 
-Shard counts were computed by script from the pinned Hub API file list; they are files, not records. Each JSONL line is one task with its ordered action trajectory; the number of lines was not counted. The reported trajectory figure comes from the project README and may differ from the reprocessed Hub release. Frames for parts 16-19 are in a separate repository.
+Shard counts were computed by script from the pinned Hub API file list; they count files. Each JSONL line is one task with its ordered action trajectory; the number of lines was not counted. The reported trajectory figure comes from the project README and may differ from the reprocessed Hub release. Frames for parts 16-19 are in a separate repository.
 
 ### License declarations
 
@@ -2203,7 +2203,7 @@ The repository contains only JPEG frames packed in tar shards (671 for part16, 8
 
 - 1,922 screenshot tar shards — Hub repository at revision 8d31cbd4 (parts 16-19) (computed) (computed; source: https://huggingface.co/api/datasets/joker-112/WildGUI_Screenshots/revision/8d31cbd45c9cb82683bbd5dea767782bb604fbcd)
 
-Shard count computed by script from the pinned Hub API file list; it counts files, not frames. The card says each shard holds up to about 20,000 frames; the number of frames was not counted.
+Shard count computed by script from the pinned Hub API file list; it counts files. The card says each shard holds up to about 20,000 frames; the number of frames was not counted.
 
 ### License declarations
 
@@ -2252,7 +2252,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - ≈ 22,600 tasks — AgentNet collection (reported; source: https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md)
 
-The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. Generated labels are not independent human quality acceptance records.
+The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. The card distinguishes human task instructions from generated summaries, reasoning, reflections and quality fields; generated labels use a different acceptance process from independent human quality records.
 
 ### License declarations
 
@@ -2355,7 +2355,7 @@ HTML and annotation release used for Code2World’s action-conditioned GUI-state
 
 ### Limitations
 
-The Hub card is license-only; semantic description and reported scale come from the official Code2World README. The public manifest contains HTML files, Android-Control train/test JSON files and extraction/loading scripts. It does not list standalone screenshot image files, and embedded/reference image packaging was not inspected. MIT is the data-card declaration, not a grant for every upstream source dataset.
+The Hub card is license-only; semantic description and reported scale come from the official Code2World README. The public manifest contains HTML files, Android-Control train/test JSON files and extraction/loading scripts. The public manifest lists HTML files, Android-Control train/test JSON files and scripts; standalone screenshot image files are absent from that listing, and embedded/reference image packaging is unspecified. MIT is the data-card declaration, not a grant for every upstream source dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-cf4d2d45a7314cb16acb/record.json
 
@@ -2368,9 +2368,9 @@ The Hub card is license-only; semantic description and reported scale come from 
 
 #### Count observations
 
-- > 80,000 screen–action pairs — AndroidCode corpus described by Code2World README; released JSON rows not recounted (reported; source: https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md)
+- > 80,000 screen–action pairs — AndroidCode corpus described by Code2World README; the released JSON-row count remains unverified. (reported; source: https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md)
 
-The manifest lists 58,953 HTML files, which are not converted into transition/example counts. The reported >80k pairs and the HTML-file inventory have different units. The card itself has no sample schema or count; archive/image completeness and JSON contents were not audited.
+The manifest lists 58,953 HTML files; the >80k reported pairs use a different unit. The reported >80k pairs and the HTML-file inventory have different units. The card supplies neither a sample schema nor a count; archive/image completeness and JSON contents remain unverified.
 
 ### License declarations
 
@@ -2406,7 +2406,7 @@ Episode-based mobile GUI grounding data released with Aria-UI for incorporating 
 
 ### Limitations
 
-The publisher reports approximately 992K instruction-output pairs in its repository. The Hub card contains only a license declaration; schema quality and exact sample counts were not independently verified.
+The publisher reports approximately 992K instruction-output pairs in its repository. The Hub card contains a license declaration; schema quality and exact sample counts remain unverified.
 
 - Record JSON: https://awesomecua.com/resources/url-07b65dc937756ddff4a1/record.json
 
@@ -2474,7 +2474,7 @@ The publisher flags original desktop files as deprecated because of screenshot-m
 - ≈ 150,000 instructions — desktop subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
 - ≈ 7,800 images — desktop subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
 
-The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are not interchangeable.
+The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are different units.
 
 ### License declarations
 
@@ -2506,7 +2506,7 @@ Screenshot-based grounding and captioning samples with UI functionality descript
 
 ### Limitations
 
-The row count is not a unique-screen count. The data card documents image scaling conventions that affect coordinate interpretation.
+The row count and unique-screen count are different units. The data card documents image scaling conventions that affect coordinate interpretation.
 
 - Record JSON: https://awesomecua.com/resources/url-79287058342289aa5d45/record.json
 
@@ -2521,7 +2521,7 @@ The row count is not a unique-screen count. The data card documents image scalin
 
 - 701,864 training rows — default/train in the dataset card metadata (reported; source: https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md)
 
-Rows are not unique screenshots. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.
+Rows and unique screenshots are different units. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.
 
 ### License declarations
 
@@ -2655,7 +2655,7 @@ Instruction-to-function-call examples for learning Android intent invocation, wi
 
 ### Limitations
 
-The release provides JSONL data and API annotations. This is Android intent-calling supervision rather than screenshot-and-click trajectories, so it is marked adjacent. The dataset card declares Apache-2.0; the companion repository’s MIT code license is a separate declaration.
+The release provides JSONL data and API annotations. This is Android intent-calling supervision, marked adjacent to screenshot-and-click trajectories. The dataset card declares Apache-2.0; the companion repository’s MIT code license is a separate declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-ae8f5208eea9e7f1f606/record.json
 
@@ -2726,7 +2726,7 @@ Gelato-30B-A3B and GTA1-32B OS-World agent runs, three trials each in the same G
 
 ### Limitations
 
-The dataset card holds only license metadata; the description and scope come from the official Gelato README, which says this repository provides all of the agent's OS-World trajectories from runs on a fixed OS-World snapshot with GPT-5 as planner and a 50-step limit. The file list also holds the GTA1-32B baseline runs from the same harness, which the README compares but does not name as part of this release. The README reports 58.71 ± 0.66% automated and 61.85 ± 0.79% human-corrected success for Gelato-30B-A3B, against 56.97 ± 1.47% and 59.47 ± 1.27% for GTA1-32B; these were not reproduced. The GitHub repository has no license file; MIT is the dataset card's declaration. Files were not downloaded.
+The dataset card holds only license metadata; the description and scope come from the official Gelato README, which says this repository provides all of the agent's OS-World trajectories from runs on a fixed OS-World snapshot with GPT-5 as planner and a 50-step limit. The file list also holds the GTA1-32B baseline runs from the same harness, which the README compares as separate baseline material. The README reports 58.71 ± 0.66% automated and 61.85 ± 0.79% human-corrected success for Gelato-30B-A3B, against 56.97 ± 1.47% and 59.47 ± 1.27% for GTA1-32B. The GitHub repository has no license file; MIT is the dataset card's declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-aed610c413d6bb9f1caa/record.json
 
@@ -2744,7 +2744,7 @@ The dataset card holds only license metadata; the description and scope come fro
 - 361 distinct OS-World tasks — each run directory at Hub revision b9495a8e (the same task set in all six) (computed) (computed; source: https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618)
 - 34,598 PNG screenshots — six run directories at Hub revision b9495a8e (computed) (computed; source: https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618)
 
-Counts come from a script over the pinned Hub file list. Every task directory holds traj.jsonl, result.txt, an initial screenshot and step screenshots; the 361 tasks span 10 OS-World domain folders. Results are the automated evaluation; the README's human re-check of 20 tasks lives in the GitHub repository, not here. Directories, tasks and screenshots are different units and are not summed.
+Counts come from a script over the pinned Hub file list. Every task directory holds traj.jsonl, result.txt, an initial screenshot and step screenshots; the 361 tasks span 10 OS-World domain folders. Results are the automated evaluation; the README's human re-check of 20 tasks lives in the GitHub repository. Directories, tasks and screenshots are different units and are counted separately.
 
 ### License declarations
 
@@ -2780,7 +2780,7 @@ Flattened web-interaction training records with accessibility-tree observations,
 
 ### Limitations
 
-The public release contains nine Parquet shards. The short card supplies schema and split metadata but no license declaration; the official README describes successful and unsuccessful trajectories processed for fine-tuning. The raw screenshot/HTML corpus is a separate release and is not claimed to be included here.
+The public release contains nine Parquet shards. The short card supplies schema and split metadata but no license declaration; the official README describes successful and unsuccessful trajectories processed for fine-tuning. The raw screenshot/HTML corpus is a separate release.
 
 - Record JSON: https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/record.json
 
@@ -2795,7 +2795,7 @@ The public release contains nine Parquet shards. The short card supplies schema 
 
 - 164,533 step records — train split (reported; source: https://huggingface.co/datasets/apurvaga/go-browse-wa/raw/main/README.md)
 
-The card count is flattened step records, not trajectories or independent tasks. Both successful and unsuccessful trajectories are included according to the project README; no license is declared.
+The card count is flattened step records. Both successful and unsuccessful trajectories are included according to the project README; no license is declared.
 
 ### License declarations
 
@@ -2863,7 +2863,7 @@ Desktop grounding prompts selected from GroundCUA and formatted for click-based 
 
 ### Limitations
 
-The card declares MIT and attributes the source examples to GroundCUA. Its separate claim about UI-Vision overlap is not independently validated by this catalog.
+The card declares MIT and attributes the source examples to GroundCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-4e71dc456c4112eed727/record.json
 
@@ -2880,7 +2880,7 @@ The card declares MIT and attributes the source examples to GroundCUA. Its separ
 - 11,205 screenshots — RL training corpus (reported; source: https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md)
 - 87 desktop applications — RL training corpus (reported; source: https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md)
 
-Publisher-reported counts cover a selection and reformatting of GroundCUA, not a new disjoint image collection. No independent image-overlap audit was performed.
+Publisher-reported counts cover a selection and reformatting of GroundCUA. No independent image-overlap audit was performed.
 
 ### License declarations
 
@@ -2982,7 +2982,7 @@ The published GUI-Lasagne training-data collection used for SpiritSight, distrib
 
 ### Limitations
 
-Public archive shards are present. The dataset card declares Apache-2.0; it does not resolve rights in third-party interface content. The short card supplies no reliable sample count or explicit train/test partition, so these remain unspecified. The dataset card and archive inventory do not establish its platform distribution; the associated model's platform coverage is not inherited. An associated SpiritSight model card still describes dataset release as forthcoming; the independent dataset card and public archive manifest establish this release's availability.
+Public archive shards are present. The dataset card declares Apache-2.0; it does not resolve rights in third-party interface content. The short card supplies no reliable sample count or explicit train/test partition, so these remain unspecified. An associated SpiritSight model card still describes dataset release as forthcoming; the independent dataset card and public archive manifest establish this release's availability.
 
 - Record JSON: https://awesomecua.com/resources/url-0c5659ca9e59d942aea3/record.json
 
@@ -3034,7 +3034,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 6 GUI scenario categories — dataset taxonomy (reported; source: https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md)
 - 8 question types — dataset taxonomy (reported; source: https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md)
 
-Taxonomy counts describe coverage, not the number of videos or questions. Cases include Android, iOS, desktop software, websites, multi-application use, and XR. Keyframe-selection settings affect evaluation; exact sample inventories are not reported here.
+Taxonomy counts describe coverage; video and question counts use different units. Cases include Android, iOS, desktop software, websites, multi-application use, and XR. Keyframe-selection settings affect evaluation.
 
 ### License declarations
 
@@ -3068,7 +3068,7 @@ Hub release of GUI-World: GUI screen-recording videos from six scenarios (Androi
 
 ### Limitations
 
-This is the Hub data release; the repository record github:dongping-chen/gui-world covers the evaluation and GUI-Vid code and case studies, and its README calls this dataset the canonical train and test release. The Hub API at revision 7901fa3f reports an ungated repository with 12 annotation JSONL files (benchmark and train for each scenario) and 12,379 MP4 or MOV video files in per-scenario folders. The card has no license metadata field; its License section states CC BY 4.0. The GUI-Vid checkpoint is a separate Hub model and is not covered here.
+This is the Hub data release; the repository record github:dongping-chen/gui-world covers the evaluation and GUI-Vid code and case studies, and its README calls this dataset the canonical train and test release. The Hub API at revision 7901fa3f reports an ungated repository with 12 annotation JSONL files (benchmark and train for each scenario) and 12,379 MP4 or MOV video files in per-scenario folders. The card has no license metadata field; its License section states CC BY 4.0. The GUI-Vid checkpoint is a separate Hub model.
 
 - Record JSON: https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/record.json
 
@@ -3086,7 +3086,7 @@ This is the Hub data release; the repository record github:dongping-chen/gui-wor
 - 6 GUI scenario categories — dataset taxonomy (reported; source: https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md)
 - 8 question types — dataset taxonomy (reported; source: https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md)
 
-Video files were counted from the Hub file manifest, not by opening them, and are not question or annotation counts. The annotation files were not downloaded, so the number of questions per split is not recorded.
+Video files were counted from the Hub file manifest; video, question and annotation counts use different units.
 
 ### License declarations
 
@@ -3095,7 +3095,7 @@ Video files were counted from the Hub file manifest, not by opening them, and ar
 - document: not recorded
 - weights: not recorded
 
-- data review: The card states that the work is licensed under CC BY 4.0. Because the declaration is prose rather than card metadata, enrich does not extract it, so it is recorded here.
+- data review: The card states that the work is licensed under CC BY 4.0. The declaration is recorded in prose because enrich only extracts card metadata.
   Sources: https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md
 
 ### Primary evidence
@@ -3170,7 +3170,7 @@ The dataset card requires coordinate scaling to stay aligned with the image proc
 
 No count recorded.
 
-Coordinates were resized for a specified Qwen2.5-VL image processor and must remain aligned with image resizing. AGUVIS++ material requires images from upstream AGUVIS and OS-Atlas releases; this repository is not a self-contained copy of every referenced image collection.
+Coordinates were resized for a specified Qwen2.5-VL image processor and must remain aligned with image resizing. AGUVIS++ material requires images from upstream AGUVIS and OS-Atlas releases.
 
 ### License declarations
 
@@ -3339,7 +3339,7 @@ Recorded MemGUI-Bench runs of mobile GUI agents and models, packaged as per-agen
 
 ### Limitations
 
-The card says each attempt holds step screenshots, a log.json action sequence, evaluation_summary.json and final_decision.json, and action visualizations. The MemGUI-Bench README asks submitters to add a gzip JSON preview and MP4 under site/trajs/ through Hub pull requests. Archive names identify the agent or model, such as M3A, T3A, Mobile-Agent-E, Agent-S2, GUI-Owl-7B and several API models. The card's usage section shows an older run.py interface. Archives were not downloaded. The card's apache-2.0 declaration does not settle rights to app screenshots.
+The card says each attempt holds step screenshots, a log.json action sequence, evaluation_summary.json and final_decision.json, and action visualizations. The MemGUI-Bench README asks submitters to add a gzip JSON preview and MP4 under site/trajs/ through Hub pull requests. Archive names identify the agent or model, such as M3A, T3A, Mobile-Agent-E, Agent-S2, GUI-Owl-7B and several API models. The card's usage section shows an older run.py interface. The card's apache-2.0 declaration does not settle rights to app screenshots.
 
 - Record JSON: https://awesomecua.com/resources/url-2b7363c3a20d8022b319/record.json
 
@@ -3390,7 +3390,7 @@ Hub release of META-GUI, task-oriented dialogues in which an agent operates mobi
 
 ### Limitations
 
-The card only links the paper and the X-LANCE/META-GUI-baseline repository, which documents the raw dialog folders (dialog.json, per-turn actions.json, PNG screenshots and XML view hierarchies) and the processed data.json fields. The Hub manifest at revision 12660de5 holds train.tar and test.tar (about 14.3 GB and 1.8 GB); the baseline README instead describes train and dev folders from an Amazon S3 archive, and the split correspondence is not established. No source names the mobile operating system. The archives were not downloaded, so no dialogue or turn counts are recorded. Apache-2.0 is the Hub card's data declaration; the baseline code's MIT license is separate.
+The card only links the paper and the X-LANCE/META-GUI-baseline repository, which documents the raw dialog folders (dialog.json, per-turn actions.json, PNG screenshots and XML view hierarchies) and the processed data.json fields. The Hub manifest at revision 12660de5 holds train.tar and test.tar (about 14.3 GB and 1.8 GB); the baseline README instead describes train and dev folders from an Amazon S3 archive, and the split correspondence is not established. No source names the mobile operating system. Apache-2.0 is the Hub card's data declaration; the baseline code's MIT license is separate.
 
 - Record JSON: https://awesomecua.com/resources/url-05a9a7c592089d1ddd46/record.json
 
@@ -3405,7 +3405,7 @@ The card only links the paper and the X-LANCE/META-GUI-baseline repository, whic
 
 No count recorded.
 
-Splits are the two Hub archive names; the baseline README's processed data uses train and dev folders. Formats inside the archives come from the baseline README's raw-data description and were not inspected directly.
+Splits are the two Hub archive names; the baseline README's processed data uses train and dev folders. Formats inside the archives come from the baseline README's raw-data description.
 
 ### License declarations
 
@@ -3439,7 +3439,7 @@ Auto-gated Hub release of Mind2Web 2: dev and test task CSVs for long-horizon ag
 
 ### Limitations
 
-The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automatically after a logged-in request) and lists dev_set.csv and test_set.csv as the dev_set and test_set splits, a changelog, and 130 Python files under evaluation_scripts/2025_10_23. The card, changelog and task files sit behind that gate and were not read; the description comes from the project README, which links this dataset as its tasks and judge-agent evaluation scripts and says the scripts for both the public dev set and the test set were released on 2025-10-23. The Hub card metadata declares CC BY 4.0; the repository code is MIT and is not applied to the data. Per the README, scoring with the scripts needs model API keys, and precaching the cited webpages is optional but recommended.
+The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automatically after a logged-in request) and lists dev_set.csv and test_set.csv as the dev_set and test_set splits, a changelog, and 130 Python files under evaluation_scripts/2025_10_23. The description comes from the project README, which links this dataset as its tasks and judge-agent evaluation scripts and says the scripts for both the public dev set and the test set were released on 2025-10-23. The Hub card metadata declares CC BY 4.0; the repository code is MIT and is not applied to the data. Per the README, scoring with the scripts needs model API keys, and precaching the cited webpages is optional but recommended.
 
 - Record JSON: https://awesomecua.com/resources/url-4f4c4f0bf0cec93c59d1/record.json
 
@@ -3454,7 +3454,7 @@ The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automa
 
 - 130 per-task evaluation scripts — evaluation_scripts/2025_10_23 in osunlp/Mind2Web-2 at revision 54f5b25 (computed) (computed; source: https://huggingface.co/datasets/osunlp/Mind2Web-2/tree/54f5b2546c30b86812d9564f4800c0c6f77deb45/evaluation_scripts/2025_10_23)
 
-The script count is the number of distinct .py files in the pinned tree listing. The dev and test task CSVs are behind the automatic access gate and were not opened, so no per-split task count is recorded.
+The script count is the number of distinct .py files in the pinned tree listing. The automatic access gate leaves the dev and test task CSVs unopened and their per-split task counts unknown.
 
 ### License declarations
 
@@ -3488,7 +3488,7 @@ Mind2Web steps repackaged by the MultiUI authors as JPEG screenshots with per-st
 
 ### Limitations
 
-The Hub API at revision b089ea88 lists two ZIP archives (about 6.25 GB and 14.4 GB) beside a card that declares ODC-By; the repository is not gated. The card only names this the Mind2Web evaluation set for the MultiUI paper. The MultiUI README calls it its processed Mind2Web evaluation dataset, places it under its Mind2Web-SeeAct offline-experiment directory and runs eval_m2w.py on test_task, test_website or test_domain. Archive contents were read from their ZIP central directories and one sample query, not unpacked: each step folder, named by Mind2Web annotation and action IDs, holds a queries.jsonl with the task, previous actions, target operation and positive and negative candidate elements with bounding boxes, plus JPEG images. The archive named for ground-truth crops also has a train split; the paper's Appendix H says screenshots are randomly cropped around the target element. Mind2Web's own data terms are not resolved here; ODC-By is the card declaration.
+The Hub API at revision b089ea88 lists two ZIP archives (about 6.25 GB and 14.4 GB) beside a card that declares ODC-By; the repository is publicly accessible. The card only names this the Mind2Web evaluation set for the MultiUI paper. The MultiUI README calls it its processed Mind2Web evaluation dataset, places it under its Mind2Web-SeeAct offline-experiment directory and runs eval_m2w.py on test_task, test_website or test_domain. Archive contents were read from their ZIP central directories and one sample query: each step folder, named by Mind2Web annotation and action IDs, holds a queries.jsonl with the task, previous actions, target operation and positive and negative candidate elements with bounding boxes, plus JPEG images. The archive named for ground-truth crops also has a train split; the paper's Appendix H says screenshots are randomly cropped around the target element. Mind2Web's own data terms are not resolved here; ODC-By is the card declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-56b5936190d20fa3d1c1/record.json
 
@@ -3503,7 +3503,7 @@ The Hub API at revision b089ea88 lists two ZIP archives (about 6.25 GB and 14.4 
 
 No count recorded.
 
-Counts were taken with a script from the archives' ZIP central directories at revision b089ea88 and have no retained receipt, so they are kept here rather than as count observations. bbox_generate_gt_crop_offline_data_-1choices.zip: 16,715 step folders with one JPEG each (train 7,357; test_task 2,093; test_website 1,370; test_domain 5,895). offline_data_-1choices.zip: 9,364 step folders with 27,967 JPEGs, test splits only (test_task 2,093; test_website 1,373; test_domain 5,898). Step folders are not tasks; distinct annotation IDs per split are train 1,009, test_task 252, test_website 177 and test_domain 912, with the same test counts in both archives.
+Counts were taken with a script from the archives' ZIP central directories at revision b089ea88 and have no retained receipt, so they are kept here rather than as count observations. bbox_generate_gt_crop_offline_data_-1choices.zip: 16,715 step folders with one JPEG each (train 7,357; test_task 2,093; test_website 1,370; test_domain 5,895). offline_data_-1choices.zip: 9,364 step folders with 27,967 JPEGs, test splits only (test_task 2,093; test_website 1,373; test_domain 5,898). Step folders and tasks are different units; distinct annotation IDs per split are train 1,009, test_task 252, test_website 177 and test_domain 912, with the same test counts in both archives.
 
 ### License declarations
 
@@ -3554,7 +3554,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-Official README calls this a partial training release and says app data will be uploaded gradually. Its training-JSON and test-data links point to separate Hub repositories; those artifacts are not counted as files or splits of xwk123/Mobile3M. Public revision 3df26694 lists app-graph archives; their names do not establish a three-million-example downloadable inventory. Precise inner record/modalities schema is not inspected. The card YAML says Apache-2.0 while its prose and official README assign CC-BY-NC-SA-4.0 to data and Apache to code; the existing data-license value remains unknown with the conflict documented.
+Official README calls this a partial training release and says app data will be uploaded gradually. Its training-JSON and test-data links point to separate Hub repositories with separate file and split inventories. Public revision 3df26694 lists app-graph archives; the downloadable example count remains unspecified. The card YAML says Apache-2.0 while its prose and official README assign CC-BY-NC-SA-4.0 to data and Apache to code; the existing data-license value remains unknown with the conflict documented.
 
 ### License declarations
 
@@ -3607,7 +3607,7 @@ Inclusion does not establish reproducibility or endorsement.
 - > 600,000 screenshot–view-hierarchy pairs — publisher-reported MobileViews-600K first release (reported; source: https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md)
 - > 20,000 Android apps — publisher-reported MobileViews-600K first release (reported; source: https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md)
 
-Counts describe the card’s first-release claim, not an independently counted archive inventory. The card distinguishes globally image-hash-deduplicated screenshot/VH pairs from the November 2024 complete-app traces; trace state counts must not be added as new unique screens. JPEG/JSON and Parquet are alternative representations. Listed filename ranges are examples, not a complete count proof. No train/validation/test split is documented. Hub revision c734715e is ungated; MIT is its data declaration, without resolving third-party app content rights.
+Counts describe the card’s first-release claim. The card distinguishes globally image-hash-deduplicated screenshot/VH pairs from November 2024 complete-app traces; trace states reuse the screen population. JPEG/JSON and Parquet are alternative representations. Listed filename ranges are examples; a complete corpus count requires a separate inventory. No train/validation/test split is documented. Hub revision c734715e is ungated; MIT is its data declaration, without resolving third-party app content rights.
 
 ### License declarations
 
@@ -3626,7 +3626,7 @@ Counts describe the card’s first-release claim, not an independently counted a
 
 ## MoCon
 
-Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; images not included.
+Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; the release supplies annotations separately from the referenced images.
 
 - Catalog URL: https://awesomecua.com/resources/url-c7489f15e7883a695832/
 - Original source: https://huggingface.co/datasets/OpenDFM/MoCon
@@ -3640,7 +3640,7 @@ Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 1
 
 ### Limitations
 
-The card, shared with its sibling crawl release, carries only the license, links and citation requests, and the pre-release PDF it links is a two-page announcement framed around mobile GUI agents without methods or statistics. Contents were read from the 15.6 MB mocondata.zip (SHA-256 98463d69…, matching the Hub LFS object): one LabelMe 4.5.9 JSON file per screenshot whose imagePath names a JPEG that is not in the repository and whose imageData is empty. A script counted 364,352 rectangles: 212,342 labelled icon with one of the 154 icon.csv classes (in Chinese or English) and 152,010 text boxes labelled with a font family (sans, fantasy, serif, cursive, mono or math) and the transcribed text. Image sizes are mostly 1080×1920 and 540×960 portrait. No operating system is named, so the environment stays unspecified. CC BY-NC-SA 4.0 is the card's data declaration.
+The card, shared with its sibling crawl release, carries only the license, links and citation requests, and the pre-release PDF it links is a two-page announcement framed around mobile GUI agents without methods or statistics. Contents were read from the 15.6 MB mocondata.zip (SHA-256 98463d69…, matching the Hub LFS object): one LabelMe 4.5.9 JSON file per screenshot whose imagePath names a JPEG outside this repository and whose imageData is empty. A script counted 364,352 rectangles: 212,342 labelled icon with one of the 154 icon.csv classes (in Chinese or English) and 152,010 text boxes labelled with a font family (sans, fantasy, serif, cursive, mono or math) and the transcribed text. Image sizes are mostly 1080×1920 and 540×960 portrait. No operating system is named, so the environment stays unspecified. CC BY-NC-SA 4.0 is the card's data declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-c7489f15e7883a695832/record.json
 
@@ -3658,7 +3658,7 @@ The card, shared with its sibling crawl release, carries only the license, links
 - 2,249 annotated screenshots — MoCon test split (computed) (computed; source: https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv)
 - 154 icon classes — icon.csv class table (Chinese and English names) (computed) (computed; source: https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/icon.csv)
 
-split.csv assigns each of the 10,364 annotation IDs to exactly one split, and the IDs match the JSON file names in mocondata.zip one to one. Screenshot images are referenced by file name but not released, so the annotations cannot be paired with pixels from this repository alone. The publisher states no counts; all counts were computed from the released files.
+split.csv assigns each of the 10,364 annotation IDs to exactly one split, and the IDs match the JSON file names in mocondata.zip one to one. Screenshot images are referenced by file name; pairing the annotations with pixels requires images from outside this repository. The publisher states no counts; all counts were computed from the released files.
 
 ### License declarations
 
@@ -3695,7 +3695,7 @@ Android app GUI crawl with per-app navigation graphs that link screen IDs throug
 
 ### Limitations
 
-The card carries only the license, links and citation requests (MobA, META-GUI, CAM-GUI and a MoGUI/MoCon technical report); the complete report it announces as coming soon is not linked, so no paper relation is recorded. The repository's MoGUI_Paper_v0.1.pdf is a two-page pre-release announcement without methods or statistics. Android is established by the metadata: Google Play package names, android.widget element classes and Android permission-controller screens. At revision 19639219 the manifest holds 200 metadata JSON shards, 200 moguidata tar.gz shards totalling about 1.14 TB, and an apk_infos.json file of Google Play listing fields per package. Metadata shard 1 alone holds navigation graphs for 1,084 app packages listing 13,726 valid screens; other shards were not counted. A streamed read of the start of the first tar.gz shard showed per-app folders of PNG screenshots with same-named XML files; the archives were not downloaded. CC BY-NC-SA 4.0 is the card's data declaration and does not establish rights to the third-party apps shown. The sibling MoCon dataset is a separate release.
+The card carries the license, links and citation requests (MobA, META-GUI, CAM-GUI and a MoGUI/MoCon technical report); the announced complete report remains unlinked, leaving the paper relation unrecorded. The repository's MoGUI_Paper_v0.1.pdf is a two-page pre-release announcement without methods or statistics. Android is established by the metadata: Google Play package names, android.widget element classes and Android permission-controller screens. At revision 19639219 the manifest holds 200 metadata JSON shards, 200 moguidata tar.gz shards totalling about 1.14 TB, and an apk_infos.json file of Google Play listing fields per package. Metadata shard 1 alone holds navigation graphs for 1,084 app packages listing 13,726 valid screens. A streamed read of the start of the first tar.gz shard showed per-app folders of PNG screenshots with same-named XML files. CC BY-NC-SA 4.0 is the card's data declaration and does not establish rights to the third-party apps shown. The sibling MoCon dataset is a separate release.
 
 - Record JSON: https://awesomecua.com/resources/url-be89a250747f507a27ef/record.json
 
@@ -3710,7 +3710,7 @@ The card carries only the license, links and citation requests (MobA, META-GUI, 
 
 No count recorded.
 
-Each metadata shard maps an app package to a root screen, a valid-screen list and a navigation graph whose nodes are screen hashes with next screens and the triggering actions. No total app, screen or transition count is stated by the publisher; only metadata shard 1 was counted, and file counts are not sample counts.
+Each metadata shard maps an app package to a root screen, a valid-screen list and a navigation graph whose nodes are screen hashes with next screens and the triggering actions. Only metadata shard 1 was counted; total app, screen and transition counts remain unspecified by the publisher, and file counts are a separate unit from samples.
 
 ### License declarations
 
@@ -3761,7 +3761,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-The raw collection mixes action, language, exploration, and unusable/other traces. These groups have different annotation coverage; not every raw trace is a valid task demonstration.
+The raw collection mixes action, language, exploration, and unusable/other traces. These groups have different annotation coverage; valid task demonstrations are a subset of raw traces.
 
 ### License declarations
 
@@ -3895,7 +3895,7 @@ XLang's gated release of OSWorld 2.0 agent runs: 21 ZIP result archives named by
 
 ### Limitations
 
-The repository is gated with automatic approval; its card could not be read without accepting the gate, and the Hub API carries no card metadata or license. The OSWorld-V2 README links it as the benchmark's trajectory download beside a hosted trajectory viewer. Some archive names carry the v2.1 label, a release the README dates after the paper, and step budgets of 150, 300 or 500, so the runs are not limited to the paper's evaluation. The ZIP archives were not downloaded, and scores in the result files were not re-checked.
+The repository is gated with automatic approval; its card could not be read without accepting the gate, and the Hub API carries no card metadata or license. The OSWorld-V2 README links it as the benchmark's trajectory download beside a hosted trajectory viewer. Some archive names carry the v2.1 label, a release the README dates after the paper, and step budgets of 150, 300 or 500; the runs include evaluations beyond the paper.
 
 - Record JSON: https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/record.json
 
@@ -3918,7 +3918,7 @@ The repository is gated with automatic approval; its card could not be read with
 - 107 task folders — website_demo/gpt-5.6/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.6/tasks)
 - 108 task folders — website_demo/qwen3.7/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/qwen3.7/tasks)
 
-Counts come from the Hub tree listings at the pinned revision. A task folder is one model's run of one task, so folders across models are not summed; gpt-5.6 has 107 folders and the others 108. The inspected folder website_demo/MiniMax-M3/tasks/001 holds traj.jsonl, 501 PNG step screenshots, result and per-step-budget result files, eval and runtime logs, checkpoint results and API usage. ZIP archive contents and their trajectory counts are unknown.
+Counts come from the Hub tree listings at the pinned revision. A task folder is one model's run of one task; folders across models overlap by task, with 107 folders for gpt-5.6 and 108 for the others. The inspected folder website_demo/MiniMax-M3/tasks/001 holds traj.jsonl, 501 PNG step screenshots, result and per-step-budget result files, eval and runtime logs, checkpoint results and API usage. ZIP archive contents and their trajectory counts are unknown.
 
 ### License declarations
 
@@ -3964,7 +3964,7 @@ Gated Hub release of OSWorld-Science task definitions, staged inputs, grader ref
 
 ### Limitations
 
-Access requires manual approval by the publisher, so the dataset card and file contents were not read; the record rests on the public Hub metadata and file list, the paper and the benchmark README. The paper says the release holds all question sets and images and carries a contamination watermark; the benchmark README says it includes answer keys. The Windows/ANSYS image is not part of the release. Hub metadata declares CC-BY-NC-4.0 for the data; bundled scientific software and third-party inputs keep their own terms.
+Access requires manual approval by the publisher; the record rests on the public Hub metadata and file list, the paper and the benchmark README. The paper says the release holds all question sets and images and carries a contamination watermark; the benchmark README says it includes answer keys. The Windows/ANSYS image is not part of the release. Hub metadata declares CC-BY-NC-4.0 for the data; bundled scientific software and third-party inputs keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/url-263e82b29d4fca964463/record.json
 
@@ -3982,7 +3982,7 @@ Access requires manual approval by the publisher, so the dataset card and file c
 - 11 QCOW2 VM images — files at Hub revision 9b8de9ad (computed) (computed; source: https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681)
 - 2,759 files — Hub repository at revision 9b8de9ad (computed) (computed; source: https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681)
 
-All counts come from a script over the pinned Hub file list; no file was downloaded. The paper and README report 146 tasks in seven domains, while the listing has 153 task files in eight domain folders, including six econ tasks; a task file is a definition, not an agent run. Task files, translated variants, images and files are different units and are not summed.
+All counts come from a script over the pinned Hub file list; no file was downloaded. The paper and README report 146 tasks in seven domains, while the listing has 153 task files in eight domain folders, including six econ tasks; a task file is a definition, while an agent run is a different unit. Task files, translated variants, images and files are different units and are counted separately.
 
 ### License declarations
 
@@ -4016,7 +4016,7 @@ Released dataset used to train PC-Agent-E, linked by the official pipeline for r
 
 ### Limitations
 
-Hub release contains data.zip. The archive was not downloaded and its internal schema/example total were not independently inspected. Training-purpose and platform descriptions come from the official pipeline README; the brief card establishes the paper association and MIT data declaration.
+Hub release contains data.zip. Training-purpose and platform descriptions come from the official pipeline README; the brief card establishes the paper association and MIT data declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-14449fe321e0a1ca34ea/record.json
 
@@ -4031,7 +4031,7 @@ Hub release contains data.zip. The archive was not downloaded and its internal s
 
 No count recorded.
 
-Public manifest exposes data.zip; the internal file schema and number of examples remain unverified. Supervision describes the publisher’s refinement/thought-completion/trajectory-boost pipeline, not an independently sampled data-quality audit.
+Public manifest exposes data.zip; the internal file schema and number of examples remain unverified. Supervision describes the publisher’s refinement/thought-completion/trajectory-boost pipeline.
 
 ### License declarations
 
@@ -4067,7 +4067,7 @@ Planner and action-executor training examples for WebArena-Lite and WebVoyager, 
 
 ### Limitations
 
-The public manifest exposes JSON/JSONL data for planner and actor roles, including train and validation variants. The card declares MIT. Its loading examples use a different Hub repository identifier and omit the data/ prefix for one file; use the inspected xTRam1 manifest rather than copying those examples verbatim. Third-party site content retains its own terms.
+The public manifest exposes JSON/JSONL data for planner and actor roles, including train and validation variants. The card declares MIT. Its loading examples use a different Hub repository identifier and omit the data/ prefix for one file; the inspected xTRam1 manifest records the file layout. Third-party site content retains its own terms.
 
 - Record JSON: https://awesomecua.com/resources/url-ba6453cfdae0eb049ced/record.json
 
@@ -4134,7 +4134,7 @@ Released by Paradigm Shift AI. The card reports 2,220 browser and 947 computer t
 - 3,167 video files — videos/*.mp4 at revision 0e1b7c63 (computed) (computed; source: https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4)
 - 1,766 DOM snapshot archives — dom_snaps/*.zip at revision 0e1b7c63 (computed) (computed; source: https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4)
 
-Rows carry task name, category (browser or computer task), sub-categories, application or website, difficulty, OS label, login requirement, completion time, screenshots, video and DOM file paths, event JSON, reasoning steps and system metadata. Tasks share template IDs across vendors. Deduplicate on unique_data_id. Parquet rows were not recounted.
+Rows carry task name, category (browser or computer task), sub-categories, application or website, difficulty, OS label, login requirement, completion time, screenshots, video and DOM file paths, event JSON, reasoning steps and system metadata. Tasks share template IDs across vendors. Deduplicate on unique_data_id.
 
 ### License declarations
 
@@ -4167,7 +4167,7 @@ Google Research release of ScreenAI's Screen Annotation data: train, validation 
 
 ### Limitations
 
-Each CSV row pairs a Rico screen ID with one text serialization of the screen's UI elements, nested by containment; screenshots are not redistributed and come from Rico, which the Rico paper describes as Android apps. The README says the labels were produced automatically and then verified and corrected by human raters, and that the splits follow Screen2Words. Its per-split figures (15,743, 2,364 and 4,310 screenshots) are larger than the rows in the CSVs at commit 053a4a1c: 15,548 train, 2,311 valid and 4,217 test. The README names the columns image_id and label, while the files use screen_id and screen_annotation. CC BY 4.0 is the README's dataset declaration; the repository has no LICENSE file, and Rico screenshots keep their own terms.
+Each CSV row pairs a Rico screen ID with one text serialization of the screen's UI elements, nested by containment; screenshots come from Rico, which the Rico paper describes as Android apps. The README says the labels were produced automatically and then verified and corrected by human raters, and that the splits follow Screen2Words. Its per-split figures (15,743, 2,364 and 4,310 screenshots) are larger than the rows in the CSVs at commit 053a4a1c: 15,548 train, 2,311 valid and 4,217 test. The README names the columns image_id and label, while the files use screen_id and screen_annotation. CC BY 4.0 is the README's dataset declaration; the repository has no LICENSE file, and Rico screenshots keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/record.json
 
@@ -4287,7 +4287,7 @@ The card declares restricted academic research use and no redistribution. Annota
 - 633,369 annotation rows — full recipe (reported; source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md)
 - 610,894 annotation rows — point recipe (reported; source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md)
 
-The recipes reuse source images and are not additive datasets. This download contains no screenshots. Counts are publisher-reported; rows named for trajectories are independent decision examples, not full trajectories.
+The recipes reuse source images and represent related views of the same dataset. This download contains no screenshots. Counts are publisher-reported; rows named for trajectories are independent decision examples.
 
 ### License declarations
 
@@ -4366,7 +4366,7 @@ Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, p
 
 ### Limitations
 
-Public Parquet chunks and LeRobot metadata are present. The card names a v3.0 revision in its usage example; this review verifies the main manifest and does not assert that tag’s compatibility. No data license is declared. Hub size-category bands are not treated as episode counts.
+Public Parquet chunks and LeRobot metadata are present. The card names a v3.0 revision in its usage example. No data license is declared. Hub size-category bands describe storage size; episode counts use a different unit.
 
 - Record JSON: https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/record.json
 
@@ -4381,7 +4381,7 @@ Public Parquet chunks and LeRobot metadata are present. The card names a v3.0 re
 
 No count recorded.
 
-No sample or episode count is inferred from the size tag or package manifest. Main-branch files were inspected; the card’s v3.0 usage example was not executed.
+No sample or episode count is inferred from the size tag or package manifest. Main-branch files were inspected.
 
 ### License declarations
 
@@ -4447,7 +4447,7 @@ Mobile GUI reward annotations released for training UI-Genie’s trajectory-asse
 
 ### Limitations
 
-The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is not converted into a verified sample count, and complete image packaging is not inferred from the JSONL filename.
+The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is a release name; verified sample count and complete image packaging remain unspecified.
 
 - Record JSON: https://awesomecua.com/resources/url-84e5aeeffaf561baa966/record.json
 
@@ -4462,7 +4462,7 @@ The public manifest contains reward_data.jsonl but no separately packaged image 
 
 No count recorded.
 
-The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is not converted into a verified sample count, and complete image packaging is not inferred from the JSONL filename.
+The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is a release name; verified sample count and complete image packaging remain unspecified.
 
 ### License declarations
 
@@ -4496,7 +4496,7 @@ Synthetic mobile GUI trajectory supervision and screenshots released with the UI
 
 ### Limitations
 
-Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels; this review does not infer a reliable trajectory count from them.
+Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels.
 
 - Record JSON: https://awesomecua.com/resources/url-2e1927450da2183a5abe/record.json
 
@@ -4511,7 +4511,7 @@ Public JSONL annotations and screenshots are present. MIT is declared in the dat
 
 No count recorded.
 
-Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels; this review does not infer a reliable trajectory count from them.
+Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels.
 
 ### License declarations
 
@@ -4597,7 +4597,7 @@ The release contains train_1000.jsonl and images.parquet. The official README ex
 
 - 1,000 training examples — public example subset (reported; source: https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md)
 
-The count is explicitly reported by the publisher, not inferred from the filename. Full training data remains outside this release.
+The count is explicitly reported by the publisher. Full training data remains outside this release.
 
 ### License declarations
 
@@ -4631,7 +4631,7 @@ Two Rico-derived UI component retrieval datasets: AppSim pairs semantically simi
 
 ### Limitations
 
-The archived repository retains TFRecord train/dev/test files for AppSim and RefExp. These are annotation and UI-structure records with Rico image identifiers, not a republished complete screenshot collection or a UIBert checkpoint. The README’s 72k figure describes the upstream Rico source, not the number of released AppSim/RefExp examples; no sample total is inferred. The publisher explicitly assigns CC-BY-4.0 to these datasets.
+The archived repository retains TFRecord train/dev/test files for AppSim and RefExp. These are annotation and UI-structure records with Rico image identifiers. The README’s 72k figure describes the upstream Rico source. The publisher explicitly assigns CC-BY-4.0 to these datasets.
 
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-uibert/record.json
 
@@ -4770,7 +4770,7 @@ Train, validation and test Parquet files are publicly listed. The compilation li
 - 7,944 rows — validation split (reported; source: https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md)
 - 7,938 rows — test split (reported; source: https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md)
 
-Card-reported row counts are not unique-screen counts. The source field is important for the per-image license terms; the compilation does not relicense original images.
+Card-reported row counts and unique-screen counts are different units. The source field is important for the per-image license terms; the compilation does not relicense original images.
 
 ### License declarations
 
@@ -4808,7 +4808,7 @@ Passing runs of three browser agents on 13 WebArena-Infinity web apps generated 
 
 ### Limitations
 
-Released by the web-arena-x organization. The card cites a project page (webarena.dev/webarena-infinity) instead of a paper, and the environment-generation pipeline is the separate repository github.com/web-arena-x/webarena-infinity, which this record does not cover. Only trajectories that passed the programmatic state checks in a three-repetition final run are included, so it is not a balanced success/failure sample. In the sampled history files, Gemini 2.5 Flash (Browser Use harness) acts on indexed DOM elements, while Kimi K2.5 and Qwen 2.5 VL Plus trajectories store clicks as absolute pixel coordinates next to the model's raw output. MIT is the card's data declaration and does not establish rights to the products the environments are modeled on.
+Released by the web-arena-x organization. The card cites a project page (webarena.dev/webarena-infinity); the environment-generation pipeline is the separate repository github.com/web-arena-x/webarena-infinity. Only trajectories that passed the programmatic state checks in a three-repetition final run are included; the sample contains successful trajectories. In the sampled history files, Gemini 2.5 Flash (Browser Use harness) acts on indexed DOM elements, while Kimi K2.5 and Qwen 2.5 VL Plus trajectories store clicks as absolute pixel coordinates next to the model's raw output. MIT is the card's data declaration and does not establish rights to the products the environments are modeled on.
 
 - Record JSON: https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/record.json
 
@@ -4827,7 +4827,7 @@ Released by the web-arena-x organization. The card cites a project page (webaren
 - 25,503 agent steps (sum of the manifest steps field) — manifest.json at revision 73cf7f57 (computed) (computed; source: https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json)
 - 2,195 trajectory folders with history.json — Hub file tree at revision 73cf7f57 (computed) (computed; source: https://huggingface.co/api/datasets/webarena-x/webarena-infinity-trajectories/revision/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe)
 
-Trajectories, tasks, environments, steps and folders are different units and are not summed. Each agent has at most one trajectory per task. Manifest difficulty labels: 604 easy, 508 medium, 1,217 hard. The manifest lists 134 Gemini trajectories (89 gitlab-plan-and-track, 45 gmail) whose folders are absent from the file tree at this revision, so 2,195 trajectories have files. Screenshots were not downloaded; two history files were sampled.
+Trajectories, tasks, environments, steps and folders are different units and are counted separately. Each agent has at most one trajectory per task. Manifest difficulty labels: 604 easy, 508 medium, 1,217 hard. The manifest lists 134 Gemini trajectories (89 gitlab-plan-and-track, 45 gmail) whose folders are absent from the file tree at this revision, so 2,195 trajectories have files. Two history files were sampled.
 
 ### License declarations
 
@@ -4863,7 +4863,7 @@ Original WebChain release of human-annotated trajectories on live websites, with
 
 ### Limitations
 
-The publisher's cleaned v2 release is a separate Hub repository (webagentlab/webchain) whose card calls this repository the original release with the least-processed artifacts and earlier high- and low-level formulations; v2 reports different counts after cleaning. Here the image and full-page screenshot folders are split ZIP sets, and the card says full-page screenshots cover only some steps. Rationales come from synthetic generation, not annotators. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content. Files were not downloaded.
+The publisher's cleaned v2 release is a separate Hub repository (webagentlab/webchain) whose card calls this repository the original release with the least-processed artifacts and earlier high- and low-level formulations; v2 reports different counts after cleaning. Here the image and full-page screenshot folders are split ZIP sets, and the card says full-page screenshots cover only some steps. Rationales come from synthetic generation. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content.
 
 - Record JSON: https://awesomecua.com/resources/url-116431f8ea32dbc6d637/record.json
 
@@ -4881,7 +4881,7 @@ The publisher's cleaned v2 release is a separate Hub repository (webagentlab/web
 - 428 web domains — WebChain corpus as stated on the original-release card (reported; source: https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md)
 - 13 Parquet files — processed/high_parquet (2) and processed/low_parquet (11) at revision bd569907 (computed) (computed; source: https://huggingface.co/api/datasets/webagentlab/webchain-legacy)
 
-Trajectories, steps, domains and files are different units and are not summed. The trajectory, step and domain figures match the paper's statistics; the v2 card says they describe the corpus before final cleaning. The file count comes from the Hub manifest; Parquet row counts were not computed.
+Trajectories, steps, domains and files are different units and are counted separately. The trajectory, step and domain figures match the paper's statistics; the v2 card says they describe the corpus before final cleaning. The file count comes from the Hub manifest.
 
 ### License declarations
 
@@ -4915,7 +4915,7 @@ Cleaned v2 release of WebChain's human web trajectories, packaged as trajectory-
 
 ### Limitations
 
-The card calls this the cleaned, training-ready release and points to the publisher's separate original release (Hub repository webagentlab/webchain-legacy) for raw JSON records, split screenshot archives and the earlier high- and low-level formulations. Its counts (31,675 trajectories, 317,682 steps) are after cleaning; the paper's 31,725 trajectories and 317,993 steps describe the corpus before it. Annotators executed tasks on live websites; tasks were synthesized from site schemas and reasoning text was added in post-processing. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content. Files were not downloaded.
+The card calls this the cleaned, training-ready release and points to the publisher's separate original release (Hub repository webagentlab/webchain-legacy) for raw JSON records, split screenshot archives and the earlier high- and low-level formulations. Its counts (31,675 trajectories, 317,682 steps) are after cleaning; the paper's 31,725 trajectories and 317,993 steps describe the corpus before it. Annotators executed tasks on live websites; tasks were synthesized from site schemas and reasoning text was added in post-processing. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content.
 
 - Record JSON: https://awesomecua.com/resources/url-56f08987cc19b82dc607/record.json
 
@@ -4936,7 +4936,7 @@ The card calls this the cleaned, training-ready release and points to the publis
 - 48 data parts per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft (computed) (computed; source: https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce)
 - 71 SFT Parquet shards per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft (computed) (computed; source: https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce)
 
-Trajectories, steps, windows, turns, parts and shards are different units and are not summed. Trace SFT has one row per cleaned trajectory; Seed/Demo SFT re-cuts the same trajectories into bounded windows, so the two formats are not additional data. The 150-trace subset is a stratified sample for loader checks and compact offline evaluation; the card does not say it is held out from the parts. The part and shard counts from the manifest match the card. Row counts were not recomputed.
+Trajectories, steps, windows, turns, parts and shards are different units and are counted separately. Trace SFT has one row per cleaned trajectory; Seed/Demo SFT re-cuts the same trajectories into bounded windows, so the formats overlap. The 150-trace subset is a stratified sample for loader checks and compact offline evaluation; the card does not say it is held out from the parts. The part and shard counts from the manifest match the card.
 
 ### License declarations
 
@@ -5003,7 +5003,7 @@ Hub data of WebLINX 1.0: conversational web-navigation demonstrations preprocess
 
 ### Limitations
 
-The WebLINX repository README calls this the official dataset page and its library loads the data. The main revision a30ff2cb holds the preprocessed chat and reranking configurations, per-split CSV files, splits.json and prompt templates; the card points to a separate McGill-NLP/WebLINX-full repository for the complete raw demonstrations, which are not covered here. The card describes WebLINX 1.1, a reprocessed BrowserGym release in another Hub repository, and links this original release as the v1.0 tag. CC-BY-NC-SA-4.0 with added terms of use is the card's data declaration; the code repository's Apache-2.0 license is separate.
+The WebLINX repository README calls this the official dataset page and its library loads the data. The main revision a30ff2cb holds the preprocessed chat and reranking configurations, per-split CSV files, splits.json and prompt templates; the card points to a separate McGill-NLP/WebLINX-full repository for the complete raw demonstrations outside this record. The card describes WebLINX 1.1, a reprocessed BrowserGym release in another Hub repository, and links this original release as the v1.0 tag. CC-BY-NC-SA-4.0 with added terms of use is the card's data declaration; the code repository's Apache-2.0 license is separate.
 
 - Record JSON: https://awesomecua.com/resources/url-1517e989c470563bd08d/record.json
 
@@ -5031,7 +5031,7 @@ The WebLINX repository README calls this the official dataset page and its libra
 - 5,971 chat-config turn records — test_cat split, data/chat/test_cat.json.gz at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_cat.json.gz)
 - 4,856 chat-config turn records — test_web split, data/chat/test_web.json.gz at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_web.json.gz)
 
-Counts were computed with a script. Demonstrations come from splits.json, whose seven splits are disjoint; its iid_all list is the union of valid and test_iid and is not counted separately. Turn records are rows of the chat configuration, one per evaluated navigator turn, a different unit from demonstrations; the train file exceeds the catalog's 10 MB evidence budget, so its turn records are not recorded. The card's extra test split duplicates test_iid. Reranking files and CSVs were not counted. Screenshots are not in this repository.
+Counts were computed with a script. Demonstrations come from splits.json, whose seven splits are disjoint; its iid_all list is the union of valid and test_iid and overlaps those splits. Turn records are rows of the chat configuration, one per evaluated navigator turn, a different unit from demonstrations; the train file exceeds the catalog's 10 MB evidence budget, leaving its turn-record count unrecorded. The card's extra test split duplicates test_iid. The counts cover demonstrations and chat turn records; reranking files and CSVs fall outside those counts. Screenshots are not in this repository.
 
 ### License declarations
 
@@ -5072,7 +5072,7 @@ Checklist-annotated web decision records with page observations, prior actions, 
 
 ### Limitations
 
-Ten public Parquet shards are present. The card names its split test and reports 9,460 rows; the project’s 40K-plus preference-annotation claim is a different grain and is not substituted for this row count. A row can contain multiple rejected alternatives. No data-license declaration is present.
+Ten public Parquet shards are present. The card names its split test and reports 9,460 rows; the project’s 40K-plus preference-annotation claim uses a different grain. A row can contain multiple rejected alternatives. No data-license declaration is present.
 
 - Record JSON: https://awesomecua.com/resources/url-8dfc84eb4016204fe70a/record.json
 
@@ -5087,7 +5087,7 @@ Ten public Parquet shards are present. The card names its split test and reports
 
 - 9,460 rows — Hub split named test (reported; source: https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md)
 
-Preserves the publisher’s split label despite the collection’s training purpose. Rows are not individual preference pairs because rejected is a list. Data license is unknown.
+Preserves the publisher’s split label despite the collection’s training purpose. Rows contain lists of rejected candidates. Data license is unknown.
 
 ### License declarations
 
@@ -5120,7 +5120,7 @@ Webpage segments, questions, answers, HTML, screenshots and layout metadata for 
 
 ### Limitations
 
-Public release includes train+dev and test ZIP packages plus a test-answer JSON file. The v1.0 card’s exact split table differs from the older project-page headline of 0.44M questions/6.5K pages; counts are kept with their sources. This is static webpage understanding, not an interactive browser-agent trajectory dataset. CC-BY-4.0 is the data-card declaration.
+Public release includes train+dev and test ZIP packages plus a test-answer JSON file. The v1.0 card’s exact split table differs from the older project-page headline of 0.44M questions/6.5K pages; counts are kept with their sources. This is a static webpage-understanding dataset. CC-BY-4.0 is the data-card declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-e0ba328ae1a643b0a5aa/record.json
 
@@ -5140,7 +5140,7 @@ Public release includes train+dev and test ZIP packages plus a test-answer JSON 
 - 40,357 question–answer examples — WebSRC v1.0 test (reported; source: https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md)
 - 985 web pages — WebSRC v1.0 test (reported; source: https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md)
 
-Each dataset.csv row is a QA example; web pages and QA examples are different units. Use the v1.0 split table rather than merging the older project headline into it. The card retains email-evaluation instructions, while the manifest now includes test answers; no submission was made. Payload archives were not downloaded.
+Each dataset.csv row is a QA example; web pages and QA examples are different units. Use the v1.0 split table for this release. The card retains email-evaluation instructions, while the manifest now includes test answers; no submission was made.
 
 ### License declarations
 
@@ -5295,7 +5295,7 @@ Touch-gesture and motion-sensor recordings of people and mobile GUI agents doing
 
 ### Limitations
 
-The Hub repository has no dataset card or license file; the arXiv paper and its code repository link it as the released data. The paper reports that all sessions ran on one Xiaomi Mi Max 2 phone with MIUI 11.0.2.0. Recording archives were not downloaded, so per-archive contents are not verified. Event totals are the paper's figures, not recounts.
+The Hub repository has no dataset card or license file; the arXiv paper and its code repository link it as the released data. The paper reports that all sessions ran on one Xiaomi Mi Max 2 phone with MIUI 11.0.2.0. Per-archive contents remain unverified because the recording archives were outside the reviewed evidence. Event totals are the paper's figures.
 
 - Record JSON: https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/record.json
 
@@ -5319,7 +5319,7 @@ The Hub repository has no dataset card or license file; the arXiv paper and its 
 - 280,320,486 motion and sensor events — humanized agents without fake actions (paper Table 5) (reported; source: https://arxiv.org/html/2604.09574v1)
 - 154,704,094 motion and sensor events — humanized agents with fake actions (paper Table 5) (reported; source: https://arxiv.org/html/2604.09574v1)
 
-Computed counts come from a script over the pinned Hub file list and tasks.csv. tasks.csv names 20 apps while the paper reports 21. The task texts are in Chinese. The code repository says the metadata workbook holds agent, task, timestamp and success-scoring fields; it was not opened. Event counts are per sensor or touch event, not per task, and the four totals are separate populations, not to be summed.
+Computed counts come from a script over the pinned Hub file list and tasks.csv. tasks.csv names 20 apps while the paper reports 21. The task texts are in Chinese. The code repository says the metadata workbook holds agent, task, timestamp and success-scoring fields. Event counts are per sensor or touch event, and the four totals are separate populations; these counts are reported separately.
 
 ### License declarations
 
@@ -5357,7 +5357,7 @@ Published AgentSynth task definitions and recorded GUI trajectories, with OSWorl
 
 ### Limitations
 
-Public Hub manifest contains JSONL task files and trajectory ZIP packages. Counts describe the publisher-reported task collection, not independently counted archive rows or numbers inferred from ZIP filenames.
+Public Hub manifest contains JSONL task files and trajectory ZIP packages. Counts describe the publisher-reported task collection; independently counted archive-row and ZIP-filename totals remain unavailable.
 
 - Record JSON: https://awesomecua.com/resources/url-58a209f2b3b970916396/record.json
 
@@ -5370,9 +5370,9 @@ Public Hub manifest contains JSONL task files and trajectory ZIP packages. Count
 
 #### Count observations
 
-- > 6,000 tasks — collection described in the dataset card; not an independently counted release-row total (reported; source: https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md)
+- > 6,000 tasks — The count is the collection total described by the dataset card; the released-row count remains unverified. (reported; source: https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md)
 
-Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jsonl. Six difficulty levels and trajectory screenshots/thoughts/commands are documented. ZIP file labels are not trajectory counts; configurations and composed-task levels are not assumed disjoint.
+Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jsonl. Six difficulty levels and trajectory screenshots/thoughts/commands are documented. ZIP file labels identify files; trajectory totals are unspecified, and configurations and composed-task levels may overlap.
 
 ### License declarations
 
@@ -5456,7 +5456,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - > 104,000 screenshots — AMEX collection described in the paper (reported; source: https://arxiv.org/abs/2407.17490)
 
-The main repository contains companion training code. The scale and annotation levels here come from the paper, not an independent download or completeness audit.
+The main repository contains companion training code. The scale and annotation levels here come from the paper.
 
 ### License declarations
 
@@ -5588,7 +5588,7 @@ Inclusion does not establish reproducibility or endorsement.
 - > 15,000 demonstrations — AndroidControl collection (reported; source: https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md)
 - 833 applications — AndroidControl collection (reported; source: https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md)
 
-Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; do not count repeated step instructions as independent task goals.
+Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; step instructions can repeat across multiple actions.
 
 ### License declarations
 
@@ -5653,7 +5653,7 @@ Conversation-formatted supervision released for fine-tuning AutoDroid V2, with t
 
 ### Limitations
 
-The public Hub manifest lists AutoDroid-V2-Dataset.json; no training records were downloaded. The card contains only an MIT metadata declaration, so the description and intended training use come from the official repository training guide. Sample count, split sizes and third-party-content rights remain unverified; the training command max_samples value is not treated as a dataset count.
+The public Hub manifest lists AutoDroid-V2-Dataset.json; no training records were downloaded. The card contains only an MIT metadata declaration, so the description and intended training use come from the official repository training guide.
 
 - Record JSON: https://awesomecua.com/resources/url-9a3506ca6ef034adb424/record.json
 
@@ -5807,7 +5807,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 ### Limitations
 
-The card says the videos were sourced from the internet, trimmed to screen-recording segments and stripped of audio, and are meant for training and evaluating computer-use agents. Per-folder metadata.jsonl files give file name, category, trimmed duration and segment count only; there are no actions, cursor events or instructions. At Hub revision b50aecce the manifest lists 48,477 MP4 files, one fewer than the card (Excel has 8,110 against 8,111). The repository also holds descriptions.parquet and 48,473 per-video JSON files under descriptions/ that the card does not document; the one inspected file gives the source video's title and channel, transcript text in 10-second windows and a short step description or NO_TASK per window. The card's CC-BY-4.0 declaration does not establish rights to the third-party videos. Videos were not downloaded.
+The card says the videos were sourced from the internet, trimmed to screen-recording segments and stripped of audio, and are meant for training and evaluating computer-use agents. Per-folder metadata.jsonl files give file name, category, trimmed duration and segment count only; there are no actions, cursor events or instructions. At Hub revision b50aecce the manifest lists 48,477 MP4 files, one fewer than the card (Excel has 8,110 against 8,111). The repository also holds descriptions.parquet and 48,473 per-video JSON files under descriptions/, beyond the card's documented files; the one inspected file gives the source video's title and channel, transcript text in 10-second windows and a short step description or NO_TASK per window. The card's CC-BY-4.0 declaration does not establish rights to the third-party videos.
 
 - Record JSON: https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/record.json
 
@@ -5826,7 +5826,7 @@ The card says the videos were sourced from the internet, trimmed to screen-recor
 - 48,477 MP4 files — data/ at Hub revision b50aecce (computed) (computed; source: https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9)
 - 48,473 per-video description JSON files — descriptions/ at Hub revision b50aecce (computed) (computed; source: https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9)
 
-File counts come from a script over the pinned Hub manifest; the card's per-category table gives Excel 8,111 videos where the manifest has 8,110 MP4 files. The description files are not described by the card; their content was checked in one file only. Videos, hours, categories and files are different units and are not summed. Each category is one configuration with a single train split.
+File counts come from a script over the pinned Hub manifest; the card's per-category table gives Excel 8,111 videos where the manifest has 8,110 MP4 files. The card leaves the description files undocumented; their content was checked in one file only. Videos, hours, categories and files are different units; these counts are reported separately. Each category is one configuration with a single train split.
 
 ### License declarations
 
@@ -5863,7 +5863,7 @@ File counts come from a script over the pinned Hub manifest; the card's per-cate
 
 ### Limitations
 
-The Hub API at revision de58c88b reports an ungated repository with 16 Parquet shards for the train split and 313 MP4 files under recordings/<domain>/. The card's 160 rows match its per-domain table, but the recording folders hold 313 files with a different domain mix, so some recordings may not belong to a published row; this was not checked. Every row has score 1.0 because only fully successful runs were kept, so the set is not a success-rate sample. The card credits a 'ComputerRL' evaluation framework at github.com/anthropics/ComputerRL, which the GitHub API did not resolve on 2026-10-18. The card declares Apache-2.0 for the dataset.
+The Hub API at revision de58c88b reports an ungated repository with 16 Parquet shards for the train split and 313 MP4 files under recordings/<domain>/. The card's 160 rows match its per-domain table, but the recording folders hold 313 files with a different domain mix, so some recordings may not belong to a published row; this was not checked. Every row has score 1.0 because only fully successful runs were kept; the set samples successful runs. The card credits a 'ComputerRL' evaluation framework at github.com/anthropics/ComputerRL, which the GitHub API did not resolve on 2026-10-18. The card declares Apache-2.0 for the dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-5a073f50270c4f316ce5/record.json
 
@@ -5881,7 +5881,7 @@ The Hub API at revision de58c88b reports an ungated repository with 16 Parquet s
 - 10 application domains — train split (reported; source: https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md)
 - 313 MP4 recording files — recordings/ at revision de58c88b (computed) (computed; source: https://huggingface.co/api/datasets/markov-ai/computer-use)
 
-Rows are agent runs filtered to score 1.0, not human demonstrations. Step and row counts are the card's figures; the Parquet files were not downloaded. Recording files were counted from the Hub manifest and do not equal the row count.
+Rows are agent runs filtered to score 1.0. Step and row counts are the card's figures. Recording files were counted from the Hub manifest; the recording-file and row counts differ.
 
 ### License declarations
 
@@ -5914,7 +5914,7 @@ Trajectory archives and per-task results from CUA Speedrun evaluations of comput
 
 ### Limitations
 
-The publishing account is anonymous (anonymousmypcbench). The card names the benchmark sets used by CUA Speedrun but cites no paper, and neither the cua-speedrun paper, its project page nor its GitHub README links this repository, so no relation to the paper is asserted. Scores, task times and costs are the publisher's measurements and were not reproduced; several costs are API-equivalent token estimates rather than bills, and the card keeps two Kimi K3 OSWorld2 evaluations as billing-affected recordings. Screenshots for five September evaluations were deleted before publication. No license is declared. Archives were not downloaded.
+The publishing account is anonymous (anonymousmypcbench). The card names the benchmark sets used by CUA Speedrun but cites no paper, and neither the cua-speedrun paper, its project page nor its GitHub README links this repository, so no relation to the paper is asserted. Scores, task times and costs are the publisher's measurements; several costs are API-equivalent token estimates, and the card keeps two Kimi K3 OSWorld2 evaluations as billing-affected recordings. Screenshots for five September evaluations were deleted before publication. No license is declared.
 
 - Record JSON: https://awesomecua.com/resources/url-099451a33699510476df/record.json
 
@@ -5931,7 +5931,7 @@ The publishing account is anonymous (anonymousmypcbench). The card names the ben
 - 14 per-evaluation cost evidence JSON files — COST-*.json files at Hub revision 447ff4cd (computed) (computed; source: https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c)
 - 295 OSWorld tasks — Unanimous-295 set, with per-task metrics for nine models in one JSON file (reported; source: https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories/raw/447ff4cd77230ee06ee5b0e864873c43ceb0138c/README.md)
 
-Archive and cost-file counts come from a script over the pinned Hub file list; the card's tables link 39 of the 97 archives, so an archive count is not an evaluation count for one benchmark set. The sets differ in size (295, 50, 52, 26 and 38 tasks) and some tables use different tracks and measurement contracts, which the card says limits comparison across them. Mean scores include verifier partial credit; strict passes use recorded verdicts.
+Archive and cost-file counts come from a script over the pinned Hub file list; the card's tables link 39 of the 97 archives, so one benchmark set uses a subset of the archives. The sets differ in size (295, 50, 52, 26 and 38 tasks) and some tables use different tracks and measurement contracts, which the card says limits comparison across them. Mean scores include verifier partial credit; strict passes use recorded verdicts.
 
 ### License declarations
 
@@ -6068,7 +6068,7 @@ Six families of JSONL partitions of AndroidControl and AitW mobile-agent episode
 
 ### Limitations
 
-The Hub manifest at revision 4596a060 holds 41 JSONL partition files in six folders (Basic-AC 15, Category-Level 7, App-Level 5, Basic-AitW 5, Step-Episode 5, ScaleApp 4), plus split JSON files, an overview PDF and .DS_Store files; three folder names end with a trailing space. Inspected records are episode-level, with an instruction, step sub-instructions, original and converted actions, and image paths on the authors' machine. The FedMABench README says unpacked screenshots are not distributed and gives scripts to rebuild them from AndroidControl and AitW. Neither the card nor the Hub metadata declares a license, so the data license stays unknown. Partitions overlap, so their records are not summed.
+The Hub manifest at revision 4596a060 holds 41 JSONL partition files in six folders (Basic-AC 15, Category-Level 7, App-Level 5, Basic-AitW 5, Step-Episode 5, ScaleApp 4), plus split JSON files, an overview PDF and .DS_Store files; three folder names end with a trailing space. Inspected records are episode-level, with an instruction, step sub-instructions, original and converted actions, and image paths on the authors' machine. The FedMABench README says unpacked screenshots are not distributed and gives scripts to rebuild them from AndroidControl and AitW. Neither the card nor the Hub metadata declares a license, so the data license stays unknown. Partitions overlap; these counts are reported separately.
 
 - Record JSON: https://awesomecua.com/resources/url-86b3c2ee65911daf84a8/record.json
 
@@ -6086,7 +6086,7 @@ The Hub manifest at revision 4596a060 holds 41 JSONL partition files in six fold
 - > 800 apps — apps across five categories (reported; source: https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md)
 - 41 JSONL partition files — Hub manifest at revision 4596a060 (computed) (computed; source: https://huggingface.co/api/datasets/wwh0411/FedMABench/revision/4596a0608a24dddc3f6ba96fb326e915d9632f0b)
 
-A partition file is not a task, episode or client count. Screenshots are external dependencies that users rebuild from AndroidControl and AitW.
+A partition file, a task, an episode and a client count are different units. Screenshots are external dependencies that users rebuild from AndroidControl and AitW.
 
 ### License declarations
 
@@ -6119,7 +6119,7 @@ A partition file is not a task, episode or client count. Screenshots are externa
 
 ### Limitations
 
-First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub now resolves to this repository. Per the card, the dataset curator captured and annotated the screenshots with the GUI annotation tool it links, between July 22 and August 8, 2025, mostly on macOS in Arc and Chrome. It is a small training set, not a benchmark; files other than samples.json and metadata.json were not downloaded.
+First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub now resolves to this repository. Per the card, the dataset curator captured and annotated the screenshots with the GUI annotation tool it links, between July 22 and August 8, 2025, mostly on macOS in Arc and Chrome. It is a small training set; samples.json and metadata.json were read.
 
 - Record JSON: https://awesomecua.com/resources/url-f0eac3ad813245645492/record.json
 
@@ -6134,7 +6134,7 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub no
 
 - 739 annotated screenshots — training set described by the card at revision ec67c2bf (reported; source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md)
 
-The Hub manifest at this revision lists 739 PNG files under data/. Computed from samples.json at this revision (26 MB, not retained as a receipt): 2,397 interaction keypoints (1,960 click, 185 hover, 158 select, 48 type, 46 drag) and platform labels of 704 macOS, 23 Mobile and 12 blank. Samples also carry a screenparser_preds detection field that the card does not describe; it is not counted as human annotation.
+The Hub manifest at this revision lists 739 PNG files under data/. Computed from samples.json at this revision (26 MB): 2,397 interaction keypoints (1,960 click, 185 hover, 158 select, 48 type, 46 drag) and platform labels of 704 macOS, 23 Mobile and 12 blank. Samples also carry a screenparser_preds detection field that the card does not describe; it is not counted as human annotation.
 
 ### License declarations
 
@@ -6191,7 +6191,7 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train-with-Synthetic, w
 - 3,297 synthetic variant samples — augmented samples in the release (reported; source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md)
 - 4,036 PNG files — data/ at Hub revision 3deedc5d (computed) (computed; source: https://huggingface.co/api/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/revision/3deedc5d3667696aff317e5e8a3b47d83b9fb48c)
 
-Computed from samples.json at this revision (15.7 MB, read once, not retained as a receipt): 4,036 samples, of which 739 have plain timestamp file names and 3,297 carry a hash suffix; sample tags give 1,884 tritanopia, 942 color_inverted and 471 task_description_augmented variants, and 370 train plus 369 val originals; 17,916 keypoints in all, counted again on each variant; platform labels 3,721 macOS, 205 Mobile and 110 blank. Variants duplicate the annotations of their source screenshots, so samples are not independent examples. Samples, files and keypoints are different units and are not summed.
+Computed from samples.json at this revision (15.7 MB, read once): 4,036 samples, of which 739 have plain timestamp file names and 3,297 carry a hash suffix; sample tags give 1,884 tritanopia, 942 color_inverted and 471 task_description_augmented variants, and 370 train plus 369 val originals; 17,916 keypoints in all, counted again on each variant; platform labels 3,721 macOS, 205 Mobile and 110 blank. Variants duplicate the annotations of their source screenshots; sample counts include those repeated annotations. Samples, files and keypoints are different units; these counts are reported separately.
 
 ### License declarations
 
@@ -6249,7 +6249,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 ## GTA1 cleaned grounding dataset
 
-Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box does not match an OmniParser-detected element.
+Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box and an OmniParser-detected element differ.
 
 - Catalog URL: https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/
 - Original source: https://huggingface.co/datasets/HelloKKMe/grounding_dataset
@@ -6263,7 +6263,7 @@ Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly 
 
 ### Limitations
 
-Hub revision 5c0836a5 lists the card, inp.json and ten split image archive parts (image.part.aa to image.part.aj); the repository is not gated and has no card metadata. The card describes desktop and web grounding sources and names no paper; the GTA1 repository README links this repository as GTA1's training data and cleaned dataset, which supports the paper relation. Salesforce later published a separate grounding release with a different field schema and more source datasets; this record covers only this upload. The license comes from the GTA1 README, not the card.
+Hub revision 5c0836a5 lists the card, inp.json and ten split image archive parts (image.part.aa to image.part.aj); the repository is not gated and has no card metadata. The card describes desktop and web grounding sources and names no paper; the GTA1 repository README links this repository as GTA1's training data and cleaned dataset, which supports the paper relation. Salesforce later published a separate grounding release with a different field schema and more source datasets; this record covers only this upload. The license comes from the GTA1 README.
 
 - Record JSON: https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/record.json
 
@@ -6363,7 +6363,7 @@ Original repository URL redirects to showlab/GUI-Narrator.
 
 - 4,189 video-captioning samples — Act2Cap benchmark described in the paper (reported; source: https://arxiv.org/abs/2406.13719)
 
-A captioning sample is not necessarily a unique video or complete task trajectory. Package layout and split sizes were not established by the inspected sources.
+Captioning samples, unique videos and complete task trajectories are different units.
 
 ### License declarations
 
@@ -6410,7 +6410,7 @@ The official project explicitly links this corpus, and the ungated Hub API lists
 
 No count recorded.
 
-Purpose is established by the official project, not by API tags. No sample records were downloaded; count and data-license fields remain unknown.
+Purpose is established by the official project. No sample records were downloaded; count and data-license fields remain unknown.
 
 ### License declarations
 
@@ -6478,7 +6478,7 @@ SFT release of GUI-Libra-81K: per-step reasoning traces and coordinate-grounded 
 
 ### Limitations
 
-The thin card only describes the annotation files and split image archives; the paper link, training role and data format come from the official GUI-Libra repository, whose SFT guide downloads this dataset. Annotations re-annotate screenshots from public sources (Mind2Web, GUIAct web, AITW, AMEX, AndroidControl, GUI-Odyssey, Android in the Zoo). Files were not downloaded; the 81K figure is the repository's.
+The thin card only describes the annotation files and split image archives; the paper link, training role and data format come from the official GUI-Libra repository, whose SFT guide downloads this dataset. Annotations re-annotate screenshots from public sources (Mind2Web, GUIAct web, AITW, AMEX, AndroidControl, GUI-Odyssey, Android in the Zoo). The 81K figure is the repository's.
 
 - Record JSON: https://awesomecua.com/resources/url-f6e1a7527f9346ed1c1d/record.json
 
@@ -6495,7 +6495,7 @@ The thin card only describes the annotation files and split image archives; the 
 - 32 JSON annotation files — data/annotations at revision 05bb2c5f: 8 source subsets, each with full, no-reasoning, 1,000-sample and 1,000-sample no-reasoning variants (computed) (computed; source: https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23)
 - 8 image archive groups — data/images at revision 05bb2c5f, stored as 9 split .tar.gz part files (computed) (computed; source: https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23)
 
-Steps, files and archive groups are different units and are not summed. Variant files overlap: the 1,000-sample and no-reasoning files are subsets or reformulations of the same source data, not additional examples. Per-file sample counts were not computed.
+Steps, files and archive groups are different units and are counted separately. Variant files overlap: the 1,000-sample and no-reasoning files are subsets or reformulations of the same source data and share examples.
 
 ### License declarations
 
@@ -6548,7 +6548,7 @@ The ungated manifest lists JSON annotations and multipart image archives. Traini
 
 - ≈ 1,000,000 training trajectories — TongUI-collected GUI-Net-1M data, excluding added external mixtures (reported; source: https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/docs/train.md)
 
-The source reports an approximate trajectory total; it does not establish per-platform counts or a complete test-split inventory.
+The source reports an approximate trajectory total.
 
 ### License declarations
 
@@ -6585,7 +6585,7 @@ TongUI training mixture: about 143K samples from WikiHow, Baidu Experience and G
 
 ### Limitations
 
-The card is titled TongUI-143K. The TongUI training docs list this repository beside GUI-Net-1M as 143k TongUI-collected samples plus about 240k from previous work, used for scaling experiments, and their default 3B configuration, which they say reproduces the paper's results, names 13 datasets whose dataset_info.json files are exactly this repository's 13 annotation files. A streaming script over those files counts 143,856 records in the three TongUI-collected files (WikiHow, Baidu Experience, GUI video) and 379,517 in the ten files reprocessed from AITW, AMEX, GUIAct, Mind2Web, MiniWoB and ShowUI; the card's 237K 'Other' figure matches the 237,564 records in eight of those ten, leaving out the AMEX element and ShowUI web grounding files (141,953 records). Records are LLaMA-Factory conversations: coordinate-prediction grounding turns, or navigation steps with a thought and a JSON action in a smartphone, computer or website action space depending on the file. Screenshots come as 24 split ZIP parts (about 254 GB in the manifest) that were not downloaded. Apache-2.0 is the card's declaration; the reprocessed datasets and the tutorial and video content keep their own terms.
+The card is titled TongUI-143K. The TongUI training docs list this repository beside GUI-Net-1M as 143k TongUI-collected samples plus about 240k from previous work, used for scaling experiments, and their default 3B configuration, which they say reproduces the paper's results, names 13 datasets whose dataset_info.json files are exactly this repository's 13 annotation files. A streaming script over those files counts 143,856 records in the three TongUI-collected files (WikiHow, Baidu Experience, GUI video) and 379,517 in the ten files reprocessed from AITW, AMEX, GUIAct, Mind2Web, MiniWoB and ShowUI; the card's 237K 'Other' figure matches the 237,564 records in eight of those ten, leaving out the AMEX element and ShowUI web grounding files (141,953 records). Records are LLaMA-Factory conversations: coordinate-prediction grounding turns, or navigation steps with a thought and a JSON action in a smartphone, computer or website action space depending on the file. Screenshots come as 24 split ZIP parts (about 254 GB in the manifest). Apache-2.0 is the card's declaration; the reprocessed datasets and the tutorial and video content keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/url-0627940da1b988739f75/record.json
 
@@ -6603,7 +6603,7 @@ The card is titled TongUI-143K. The TongUI training docs list this repository be
 - 13 JSON annotation files — Hub manifest at revision 7c1ed0cd (computed) (computed; source: https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12)
 - 24 split ZIP image archive parts — Hub manifest at revision 7c1ed0cd (computed) (computed; source: https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12)
 
-The card states numbers without a unit; the training docs call them training data. Record counts computed by streaming the 13 annotation files are in the record notes; the card's two figures and the file counts are different populations and units and are not summed. No validation or test split is published.
+The card states numbers without a unit; the training docs call them training data. Record counts computed by streaming the 13 annotation files are in the record notes; the card's two figures and the file counts are different populations and units and are counted separately. No validation or test split is published.
 
 ### License declarations
 
@@ -6638,7 +6638,7 @@ Per-app Android exploration videos with screenshot and action sequences, view hi
 
 ### Limitations
 
-The paper's arXiv HTML links github.com/921112343/GUI-Xplore, whose README names this Hub dataset as the release; the card itself does not cite the paper. View-hierarchy files use Android uiautomator classes and Android package names, and the paper describes collection with DroidBot and crowd workers on cloud mobile devices. The card's summary line gives 32,569 QA pairs while its split table totals 35,316. The repository README lists the Xplore-Agent model, checkpoints and evaluation scripts as not yet released. Data license is CC-BY-4.0 per card metadata; it does not settle rights in third-party app content.
+The paper's arXiv HTML links github.com/921112343/GUI-Xplore, whose README names this Hub dataset as the release; the paper link comes from the repository README. View-hierarchy files use Android uiautomator classes and Android package names, and the paper describes collection with DroidBot and crowd workers on cloud mobile devices. The card's summary line gives 32,569 QA pairs while its split table totals 35,316. The repository README lists the Xplore-Agent model, checkpoints and evaluation scripts as not yet released. Data license is CC-BY-4.0 per card metadata; it does not settle rights in third-party app content.
 
 - Record JSON: https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/record.json
 
@@ -6660,7 +6660,7 @@ The paper's arXiv HTML links github.com/921112343/GUI-Xplore, whose README names
 - > 115 hours of exploration video — all apps (reported; source: https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md)
 - 312 MP4 exploration videos — files at Hub revision ebac33a0 (207 auto, 85 manual_train, 20 manual_test) (computed) (computed; source: https://huggingface.co/api/datasets/9211sun/GUI-Xplore/revision/ebac33a0fb368e005af499b5594db4278f49d3da)
 
-Reported counts come from the card's split table. A script over the 15 QA JSON files at revision ebac33a0 counted 15,934 auto, 16,744 manual_train and 2,634 manual_test entries (35,312 in total), so the card's manual_test figure is four higher than the released files. Apps, screenshots, actions, QA samples and video hours are different units and are not summed.
+Reported counts come from the card's split table. A script over the 15 QA JSON files at revision ebac33a0 counted 15,934 auto, 16,744 manual_train and 2,634 manual_test entries (35,312 in total), so the card's manual_test figure is four higher than the released files. Apps, screenshots, actions, QA samples and video hours are different units and are counted separately.
 
 ### License declarations
 
@@ -6745,7 +6745,7 @@ The public manifest includes GUIMid.json, mavis.tar.gz, GUI_trajectory.json, tra
 
 No count recorded.
 
-Do not treat Hub size bands or the inconsistent introductory task count as a sample total. Some constituent-domain image packages remain forthcoming.
+Hub size bands and the inconsistent introductory task count use different units from a verified sample total. Some constituent-domain image packages remain forthcoming.
 
 ### License declarations
 
@@ -6782,7 +6782,7 @@ macOS screenshots paired with generated instructions and a ground-truth click or
 
 ### Limitations
 
-Each record holds the full screenshot, a cropped app-window image, the window's accessibility JSON, the element data (bounding box for clicks, insertion location and text for typing) and task/element categories. The card says GPT-4 agents drafted the tasks during crawling, so instructions are model-generated rather than human-written. The data license is CC-BY-NC-4.0 per card metadata and the bundled LICENSE; the separate MacPaw/GUIrilla code repository's MIT license is not transferred to the data. Sample rows were not downloaded.
+Each record holds the full screenshot, a cropped app-window image, the window's accessibility JSON, the element data (bounding box for clicks, insertion location and text for typing) and task/element categories. The card says GPT-4 agents drafted the tasks during crawling, so instructions are model-generated. The data license is CC-BY-NC-4.0 per card metadata and the bundled LICENSE; the separate MacPaw/GUIrilla code repository's MIT license is not transferred to the data.
 
 - Record JSON: https://awesomecua.com/resources/url-afe8260e6db2617b72ec/record.json
 
@@ -6799,7 +6799,7 @@ Each record holds the full screenshot, a cropped app-window image, the window's 
 - 1,565 examples — test split at Hub revision ec4853a2 (reported; source: https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md)
 - 101 Parquet shards — data/ files at Hub revision ec4853a2 (96 train, 5 test) (computed) (computed; source: https://huggingface.co/api/datasets/macpaw-research/GUIrilla-Task/revision/ec4853a26f96e1c8adcc31670054f58a67a87297)
 
-The card states the splits are application-level disjoint. Example counts come from the card's dataset_info and split table; shard counts were computed from the pinned Hub file list. An example is one screenshot-instruction-action triple, not a multi-step trajectory.
+The card states the splits are application-level disjoint. Example counts come from the card's dataset_info and split table; shard counts were computed from the pinned Hub file list. An example is one screenshot-instruction-action triple; multi-step trajectories use a different unit.
 
 ### License declarations
 
@@ -6833,7 +6833,7 @@ About 150k web navigation tasks from the InSTA project, each giving a website do
 
 ### Limitations
 
-The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agents) and points to an LLM judge in the separate data-for-agents/insta code repository, which is not part of this record. Rows are text task specifications, not agent trajectories or screenshots. The card declares MIT for the dataset.
+The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agents) and points to an LLM judge in the separate data-for-agents/insta code repository; this record covers the task data. Rows contain text task specifications alone, with agent trajectories and screenshots outside this release. The card declares MIT for the dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-a80c7330dbfd4f897693/record.json
 
@@ -6851,7 +6851,7 @@ The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agen
 - 2,933 examples — test split (reported; source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md)
 - 2,933 distinct website domains — test split (computed) (computed; source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet)
 
-Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file; the train file was not downloaded.
+Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file.
 
 ### License declarations
 
@@ -6942,7 +6942,7 @@ The card describes this release as an open-sourced sample: the full Mobile-R1 da
 - 3,899 trajectory step entries — Mobile-R1 Hub release at revision c3904f0 (computed) (computed; source: https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl)
 - 3,924 PNG files under images/ — Mobile-R1 Hub release at revision c3904f0 (computed) (computed; source: https://huggingface.co/api/datasets/Mobile-R1/Mobile-R1/revision/c3904f0fdad03a3a4191492880312bda5ad36516)
 
-Counts in different units are not summed. The card's 3,924 samples equal the number of PNG files in the manifest, but data.jsonl references 3,899 distinct images, all present, leaving 25 files unreferenced. The rows use 30 non-empty app_name strings, including variant spellings of the same app (B站 and 哔哩哔哩), plus 5 rows with an empty name, so the card's 28 applications was not recomputed. No train/test split is declared.
+Counts use different units; these counts are reported separately. The card's 3,924 samples equal the number of PNG files in the manifest, but data.jsonl references 3,899 distinct images, all present, leaving 25 files unreferenced. The rows use 30 non-empty app_name strings, including variant spellings of the same app (B站 and 哔哩哔哩), plus 5 rows with an empty name; the card reports 28 applications. No train/test split is declared.
 
 ### License declarations
 
@@ -6976,7 +6976,7 @@ Ai2's synthetic GUI grounding set of about 36K code-rendered desktop, mobile and
 
 ### Limitations
 
-Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6 wrote, so the Windows, macOS, Linux, iOS and Android labels describe simulated interfaces, not captures of real systems; the card says this content is subject to Anthropic's terms. Each example keeps its source HTML and generation metadata. The Hub repository also holds the MolmoPoint paper PDF; the generation pipeline and the companion pointing model are released separately.
+Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6 wrote, so the Windows, macOS, Linux, iOS and Android labels describe simulated interfaces; the card says this content is subject to Anthropic's terms. Each example keeps its source HTML and generation metadata. The Hub repository also holds the MolmoPoint paper PDF; the generation pipeline and the companion pointing model are released separately.
 
 - Record JSON: https://awesomecua.com/resources/url-a7e3c6c6b37793c3151c/record.json
 
@@ -6996,7 +6996,7 @@ Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6
 - 256 screenshot examples — web validation split in the card metadata (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
 - ≈ 10,500 screenshot examples — mobile subset as described in the card prose (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
 
-The card metadata gives split sizes for the desktop and web configurations only; the mobile configuration's sizes appear only as the prose figure of 10.5K. The prose figures for desktop (16.6K) and web (10.2K) differ slightly from the metadata split totals (16,488 and 10,086). Each element carries a name, five intents and center/size coordinates; the card reports an average of 54 annotated elements per image. Annotations are LLM-generated and were not human-verified by this review.
+The card metadata gives split sizes for the desktop and web configurations only; the mobile configuration's sizes appear only as the prose figure of 10.5K. The prose figures for desktop (16.6K) and web (10.2K) differ slightly from the metadata split totals (16,488 and 10,086). Each element carries a name, five intents and center/size coordinates; the card reports an average of 54 annotated elements per image. Annotations are LLM-generated.
 
 ### License declarations
 
@@ -7088,7 +7088,7 @@ The ungated Hub manifest contains train, test-task, test-website and test-subdom
 - 218 dialogue turns — test-website (reported; source: https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md)
 - 216 dialogue turns — test-subdomain (reported; source: https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md)
 
-Conversation, dialogue-turn and action-step units differ. The released file manifest is inspected; underlying examples were not downloaded.
+Conversation, dialogue-turn and action-step units differ. The released file manifest is inspected.
 
 ### License declarations
 
@@ -7159,7 +7159,7 @@ Reverse-task-synthesis mobile trajectories released in separate AndroidControl a
 
 ### Limitations
 
-The public manifest contains AC/AW JSONL training annotations and a screenshot archive. MIT is declared for the data in its own card, separately from Apache-2.0 declarations on some model checkpoints. The gated web-data release is not included in this asset.
+The public manifest contains AC/AW JSONL training annotations and a screenshot archive. MIT is declared for the data in its own card, separately from Apache-2.0 declarations on some model checkpoints. The gated web-data release is a separate asset.
 
 - Record JSON: https://awesomecua.com/resources/url-d3ec5122a2b52fd5ae4b/record.json
 
@@ -7208,7 +7208,7 @@ Gated OS-Genesis web release holding one JSONL file of reverse-task-synthesis tr
 
 ### Limitations
 
-Access is auto-gated, so the card body was not read; the Hub API reports MIT in the card metadata for this data release. The manifest at revision 0080190f holds os_genesis_web_training.jsonl and os_genesis_web_screenshots.zip; no record count is asserted. The raw web triples the README links on Google Drive and the separate mobile data release are not part of this asset.
+Access is auto-gated; the Hub API reports MIT in the card metadata for this data release. The manifest at revision 0080190f holds os_genesis_web_training.jsonl and os_genesis_web_screenshots.zip; no record count is asserted. The raw web triples linked by the README on Google Drive and the separate mobile data release are separate assets outside this record.
 
 - Record JSON: https://awesomecua.com/resources/url-31768421b4ecd1ad89f7/record.json
 
@@ -7256,7 +7256,7 @@ Hub-hosted copy of the files that OSWorld's Ubuntu task configurations download 
 
 ### Limitations
 
-Adjacent: a file host that the curated OSWorld benchmark depends on, not a benchmark or training set by itself. OSWorld task JSON (for example os/5c1075ca, which fetches setup.sh and eval.sh) points at this repository. The Hub API at revision 1e112283 reports an ungated repository with 720 files, most of them in application/task-ID folders, plus a fonts archive. The card metadata declares Apache-2.0, while its License section says the files follow the original OSWorld project's terms.
+Adjacent: a file host that the curated OSWorld benchmark depends on; this asset hosts benchmark files. OSWorld task JSON (for example os/5c1075ca, which fetches setup.sh and eval.sh) points at this repository. The Hub API at revision 1e112283 reports an ungated repository with 720 files, most of them in application/task-ID folders, plus a fonts archive. The card metadata declares Apache-2.0, while its License section says the files follow the original OSWorld project's terms.
 
 - Record JSON: https://awesomecua.com/resources/url-c885712b9c69579ac591/record.json
 
@@ -7272,7 +7272,7 @@ Adjacent: a file host that the curated OSWorld benchmark depends on, not a bench
 - 720 files — Hub manifest at revision 1e112283 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache)
 - 262 application/task-ID folders — Hub manifest at revision 1e112283 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache)
 
-Counts come from the Hub file manifest. A task folder is not an OSWorld task definition, and not every OSWorld task has a folder here. Files were not downloaded.
+Counts come from the Hub file manifest. A task folder is not an OSWorld task definition, and not every OSWorld task has a folder here.
 
 ### License declarations
 
@@ -7306,7 +7306,7 @@ Self-reported OSWorld-V2 run of a Codex-based harness with gpt-5.6-sol on all 10
 
 ### Limitations
 
-The card calls this a self-reported trajectory package; it links no paper or harness code, and the run was not listed in the official OSWorld-V2 leaderboard data when checked on 2026-10-18. run_manifest.json records benchmark release osworld-v2-2026.06.24, a Docker provider with a QEMU backend at 1920x1080, a 400-step limit, a screenshot at every step with accessibility tree and OCR on demand, and a multi-attempt policy with one reported result per task. Per task_results.csv, 83 reported results come from initial attempts, 22 from recovery attempts and 3 from retries; the preview table names a different selected attempt for 6 tasks, and the manifest and summary.json give different recovery limits (2 and 3). Each attempt has a card written as instructions to the agent: the solution card opened for task 001 lists the exact schedule entries to enter, the events to delete and the final checks, and the recovery card opened for task 002 plans a guided retry from its parent attempt. summary.json reports a mean score of 0.661 and 43 binary passes over 108 tasks (the preview table marks 44 because task 015 scores 0.9999999999999999); these are publisher measurements from guided, multi-attempt runs and were not reproduced. Linux is established from the Ubuntu Calendar target and /home/user shell commands in task 001. The card declares no license.
+The card calls this a self-reported trajectory package; it links no paper or harness code, and the run was not listed in the official OSWorld-V2 leaderboard data when checked on 2026-10-18. run_manifest.json records benchmark release osworld-v2-2026.06.24, a Docker provider with a QEMU backend at 1920x1080, a 400-step limit, a screenshot at every step with accessibility tree and OCR on demand, and a multi-attempt policy with one reported result per task. Per task_results.csv, 83 reported results come from initial attempts, 22 from recovery attempts and 3 from retries; the preview table names a different selected attempt for 6 tasks, and the manifest and summary.json give different recovery limits (2 and 3). Each attempt has a card written as instructions to the agent: the solution card opened for task 001 lists the exact schedule entries to enter, the events to delete and the final checks, and the recovery card opened for task 002 plans a guided retry from its parent attempt. summary.json reports a mean score of 0.661 and 43 binary passes over 108 tasks (the preview table marks 44 because task 015 scores 0.9999999999999999); these are publisher measurements from guided, multi-attempt runs. Linux is established from the Ubuntu Calendar target and /home/user shell commands in task 001. The card declares no license.
 
 - Record JSON: https://awesomecua.com/resources/url-9112dfcb201f2de7241f/record.json
 
@@ -7327,7 +7327,7 @@ The card calls this a self-reported trajectory package; it links no paper or har
 - 12,868 PNG screenshots in reported task folders — Hub manifest at revision 523e49b9 (computed) (computed; source: https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2)
 - 16,400 PNG screenshots in earlier-attempt folders — Hub manifest at revision 523e49b9 (computed) (computed; source: https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2)
 
-Counts come from a script over the pinned Hub file list; tasks, folders, cards and screenshots are different units and are not summed. The manifest's own card totals (132 solution, 51 recovery) match the file list. The preview Parquet and CSV tables are derived indexes of the same trajectories. Scores come from the benchmark evaluator as reported by the publisher; no trajectory was replayed.
+Counts come from a script over the pinned Hub file list; tasks, folders, cards and screenshots are different units and are counted separately. The manifest's own card totals (132 solution, 51 recovery) match the file list. The preview Parquet and CSV tables are derived indexes of the same trajectories. Scores come from the benchmark evaluator as reported by the publisher; no trajectory was replayed.
 
 ### License declarations
 
@@ -7369,7 +7369,7 @@ Archived OSWorld-Verified evaluation runs of many computer-use agents and step b
 
 ### Limitations
 
-The OSWorld project page says all verified trajectories are published in this dataset. Hub API at revision 5473c39e: not gated, 100 run archives (99 zip, one tar.gz) plus a README and root all_result.json and args.json files that belong to a single run. Archive names identify the agent or model and often the step budget. The card's totals (15+ model variants, 1000+ episodes, last updated August 2025) predate later uploads, and it calls training on these runs not recommended. Archives were not downloaded. The card declares MIT for the data; outputs of third-party models keep their own terms.
+The OSWorld project page says all verified trajectories are published in this dataset. Hub API at revision 5473c39e: open access, 100 run archives (99 zip, one tar.gz) plus a README and root all_result.json and args.json files that belong to a single run. Archive names identify the agent or model and often the step budget. The card's totals (15+ model variants, 1000+ episodes, last updated August 2025) predate later uploads, and it calls training on these runs not recommended. The card declares MIT for the data; outputs of third-party models keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/url-2c99f0de2840277abc72/record.json
 
@@ -7384,7 +7384,7 @@ The OSWorld project page says all verified trajectories are published in this da
 
 - 100 run archives — zip and tar.gz files at revision 5473c39e (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_verified_trajs/revision/5473c39e42a538a187a9b2c2b499db59d560fd8c)
 
-A run archive is one agent configuration evaluated on OSWorld-Verified, not one task or episode. Step budgets in archive names range over 15, 50, 100 and more steps, and several agents have one archive per budget. Episode and task counts inside archives were not recounted.
+A run archive is one agent configuration evaluated on OSWorld-Verified; task and episode counts use different units. Step budgets in archive names range over 15, 50, 100 and more steps, and several agents have one archive per budget.
 
 ### License declarations
 
@@ -7519,7 +7519,7 @@ Mobile app screenshots, view hierarchies, and interaction traces for UI research
 
 ### Limitations
 
-The official project page cites the 2017 Rico paper. The project page reports more than 66,000 screens, while the original publication reports more than 72,000. These source-specific counts are kept separate; the reason for the difference is not established by these sources. App counts also differ: the official project page reports more than 9.3k Android apps and the retained published abstract more than 9.7k. Profile counts use the project-page scope; no reconciliation is inferred.
+The official project page cites the 2017 Rico paper. The project page reports more than 66,000 screens, while the original publication reports more than 72,000. The retained paper and project page report separate screen and app counts; the reason for their difference remains unresolved. App counts also differ: the official project page reports more than 9.3k Android apps and the retained published abstract more than 9.7k. Profile counts use the project-page scope; no reconciliation is inferred.
 
 - Record JSON: https://awesomecua.com/resources/url-0b134b082a7bd507fc6a/record.json
 
@@ -7536,7 +7536,7 @@ The official project page cites the 2017 Rico paper. The project page reports mo
 - > 9,300 Android apps — original Rico collection described on the project page (reported; source: https://www.interactionmining.org/archive/rico)
 - 10,811 human interaction traces — crowd-worker collection before automated exploration (reported; source: https://www.interactionmining.org/archive/rico)
 
-Project-page scope: screenshots paired with augmented view hierarchies, gesture coordinates, layout vectors and metadata. These observations are not action/task totals. The later semantic-annotation download is a related augmentation of screens, not an additional disjoint corpus. The retained original paper reports more than 72k screens from more than 9.7k apps while this project page says more than 66k screens and more than 9.3k apps; the difference is unresolved. Profile counts follow the project page and do not merge these populations. No train/validation/test partition or data license is established here; archives were not downloaded.
+Project-page scope: screenshots paired with augmented view hierarchies, gesture coordinates, layout vectors and metadata. These observations describe screens paired with metadata; action and task totals use different units. The later semantic-annotation download augments the same screen corpus. The retained original paper reports more than 72k screens from more than 9.7k apps while this project page says more than 66k screens and more than 9.3k apps; the difference is unresolved. Profile counts follow the project page; the paper reports a separate screen and app population. No train/validation/test partition or data license is established here; archives were not downloaded.
 
 ### License declarations
 
@@ -7841,7 +7841,7 @@ Announced GUI trajectory synthesis resources for recovery from policy-induced er
 
 ### Limitations
 
-The 800k figure describes training samples in the study, not an independently counted public download. The repository code-license declaration does not establish terms for an unreleased dataset.
+The 800k figure describes training samples in the study. The repository code-license declaration does not establish terms for an unreleased dataset.
 
 - Record JSON: https://awesomecua.com/resources/github-alibabaresearch-rots/record.json
 
@@ -7854,9 +7854,9 @@ The 800k figure describes training samples in the study, not an independently co
 
 #### Count observations
 
-- ≈ 800,000 training samples — paper-described synthesis output; not a released file inventory (reported; source: https://raw.githubusercontent.com/AlibabaResearch/RoTS/HEAD/README.md)
+- ≈ 800,000 training samples — paper-described synthesis output (reported; source: https://raw.githubusercontent.com/AlibabaResearch/RoTS/HEAD/README.md)
 
-The inspected README marks the dataset and collection pipelines as in preparation. This profile records an announced research asset, not a verified downloadable corpus; file formats, splits, and release-specific data terms remain unknown.
+The inspected README marks the dataset and collection pipelines as in preparation. The inspected README marks the dataset and collection pipelines as in preparation; file formats, splits and release-specific data terms remain unknown.
 
 ### License declarations
 
@@ -7889,7 +7889,7 @@ Simular's 134 clean runs of its Sai computer-use agent on the 108 OSWorld v2.1 t
 
 ### Limitations
 
-The card reports agent model anthropic/claude-opus-5 at max thinking effort on a cocoon microVM built from the official OSWorld v2.1 reference image (Ubuntu 22.04.3), and five guest image builds (ref4, ref5, ref7, ref8, ref9) that differ only in environment fixes. A run is clean under the card's own rule: a numeric score, infra ok or proxy_missing, and no disk-full, driver-timeout or forced-zero replay-render failure. Headline scores are the publisher's and were not reproduced. Text files are redacted copies (proxy, credentials, per-run GitLab passwords, host names); images and video are unchanged and show masked GitLab login fields and an internal GitLab address in two tasks. The Hub owner simular-ai is the account named Simular, whose site presents Sai as its agent. No license is declared.
+The card reports agent model anthropic/claude-opus-5 at max thinking effort on a cocoon microVM built from the official OSWorld v2.1 reference image (Ubuntu 22.04.3), and five guest image builds (ref4, ref5, ref7, ref8, ref9) that differ only in environment fixes. A run is clean under the card's own rule: a numeric score, infra ok or proxy_missing, and no disk-full, driver-timeout or forced-zero replay-render failure. Headline scores are the publisher's. Text files are redacted copies (proxy, credentials, per-run GitLab passwords, host names); images and video are unchanged and show masked GitLab login fields and an internal GitLab address in two tasks. The Hub owner simular-ai is the account named Simular, whose site presents Sai as its agent. No license is declared.
 
 - Record JSON: https://awesomecua.com/resources/url-a19a076a4808a80f6ac8/record.json
 
@@ -7908,7 +7908,7 @@ The card reports agent model anthropic/claude-opus-5 at max thinking effort on a
 - 18 batch directories — runs/ at Hub revision abfb5852 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658)
 - 134 per-run media TAR archives — media/ at Hub revision abfb5852 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658)
 
-Computed counts come from a script over the pinned Hub file list. A run is one task execution; some tasks ran more than once, so 134 run directories cover 108 tasks, grouped under 18 batch directories. Card headline: 0.7731 mean over tasks of each task's mean clean score (first clean run 0.7674, best 0.7938), from the benchmark grader, not independent labels. No task file or media archive was downloaded.
+Computed counts come from a script over the pinned Hub file list. A run is one task execution; some tasks ran more than once, so 134 run directories cover 108 tasks, grouped under 18 batch directories. Card headline: 0.7731 mean over tasks of each task's mean clean score (first clean run 0.7674, best 0.7938), from the benchmark grader. No task file or media archive was downloaded.
 
 ### License declarations
 
@@ -7943,7 +7943,7 @@ Simular's per-task evidence from two complete 108-task OSWorld-V2 runs of its Sa
 
 ### Limitations
 
-The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks and run2 (2026-08-20) at 0.7329 with 33, both 108/108 scored with anthropic/claude-opus-5 at max thinking, a 500-step limit and claude-sonnet-4-6 as evaluator and user simulator; these are publisher measurements and were not reproduced. The run manifests record an Ubuntu 1920x1080 VM on AWS, screenshot observations, the pyautogui action space, benchmark release osworld-v2-2026.06.24 and a separate grounding model (simular-ui-venus-15-30b-a3b-rtx6000). Each run root's manifest describes its last partial invocation (a one-task backfill for run1, a three-task infrastructure rerun for run2), not the whole run. Superseded attempt directories are kept beside the canonical three-digit task directories. The card names a RUNS.md index that is absent at this revision. The Hub license is `other` with no license text.
+The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks and run2 (2026-08-20) at 0.7329 with 33, both 108/108 scored with anthropic/claude-opus-5 at max thinking, a 500-step limit and claude-sonnet-4-6 as evaluator and user simulator; these are publisher measurements. The run manifests record an Ubuntu 1920x1080 VM on AWS, screenshot observations, the pyautogui action space, benchmark release osworld-v2-2026.06.24 and a separate grounding model (simular-ui-venus-15-30b-a3b-rtx6000). Each run root's manifest describes its last partial invocation (a one-task backfill for run1, a three-task infrastructure rerun for run2). Superseded attempt directories are kept beside the canonical three-digit task directories. The card names a RUNS.md index that is absent at this revision. The Hub license is `other` with no license text.
 
 - Record JSON: https://awesomecua.com/resources/url-e0180b9651fec04d0308/record.json
 
@@ -7962,7 +7962,7 @@ The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks 
 - 23 superseded attempt directories — run1/ at Hub revision fb621da2 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a)
 - 4 superseded attempt directories — run2/ at Hub revision fb621da2 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a)
 
-Counts come from a script over the pinned Hub file list: a canonical directory has a three-digit task name; suffixed names (_infra_, _hung_, _attempt1 and similar) are superseded attempts that the card keeps as evidence. Screenshots, observation images and recordings were removed by the publisher, so the trajectories cannot be replayed visually. Scores come from an LLM evaluator and are not independent quality labels; no task file was downloaded beyond the run manifests and score tables.
+Counts come from a script over the pinned Hub file list: a canonical directory has a three-digit task name; suffixed names (_infra_, _hung_, _attempt1 and similar) are superseded attempts that the card keeps as evidence. Screenshots, observation images and recordings were removed by the publisher. Scores come from an LLM evaluator; the run manifests and score tables were read, leaving task files outside this inspection.
 
 ### License declarations
 
@@ -8000,7 +8000,7 @@ GUI grounding set that merges Aria-UI, OmniAct, Widget Caption, UI-Vision and OS
 
 ### Limitations
 
-Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; the repository is not gated. The card names desktop, web, mobile and operating-system interfaces without naming a mobile OS. Each row keeps a source-dataset tag and the original caption; the card does not describe how the description, function and combined instruction fields were produced, and no rows were downloaded. The card asks users to cite GTA1 and the five source datasets but does not say which GTA1 checkpoint was trained on this release. No license is declared for the compilation itself.
+Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; access is open. The card names desktop, web, mobile and operating-system interfaces without naming a mobile OS. Each row keeps a source-dataset tag and the original caption; the card does not describe how the description, function and combined instruction fields were produced, and no rows were downloaded. The card asks users to cite GTA1 and the five source datasets but does not say which GTA1 checkpoint was trained on this release. No license is declared for the compilation itself.
 
 - Record JSON: https://awesomecua.com/resources/url-1001251b5a7729988118/record.json
 
@@ -8015,7 +8015,7 @@ Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; the repository
 
 - 70,688 examples — train split at Hub revision 0bf2eb71 (reported; source: https://huggingface.co/datasets/Salesforce/grounding_dataset/raw/0bf2eb71734353da92f137f8b26e27c2f75efcfc/README.md)
 
-The count is the card's dataset_info num_examples for the train split and was not recounted from the 75 Parquet shards. An example is one screenshot-target pair with its instructions, not a unique screen. Rows are tagged ariaui, omniact, widget_caption, ui_vision or os_altas by source.
+The count is the card's dataset_info num_examples for the train split. An example is one screenshot-target pair with its instructions. Rows are tagged ariaui, omniact, widget_caption, ui_vision or os_altas by source.
 
 ### License declarations
 
@@ -8050,7 +8050,7 @@ Desktop computer-use trajectories with per-step screenshots and success, safety 
 
 ### Limitations
 
-The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl files with zipped or tarred step screenshots in three configs: Capability (tasks from SCOPE-Gen), Safety-v2 (safe completions and refusals on attack-injected Capability tasks) and a legacy Safety archive generated through RiOSWorld rollouts that keeps risky outcomes. Each record has chat-format messages whose assistant turns hold an action description and a coordinate action, plus success, safety, reward and attack fields. The card declares Apache-2.0 for the data; screenshots show third-party desktop applications whose own terms are not addressed. Thunderbird and VLC capability files are present but not listed in the capability config. The Safactory report (arXiv 2605.06230, v2) describes SATraj-OS as produced with its OSGym environment and reports 10,496 trajectories and 158,196 steps. That paper is not yet in the retained archive, so no paper relation is recorded. Publisher model results trained on the data were not reproduced.
+The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl files with zipped or tarred step screenshots in three configs: Capability (tasks from SCOPE-Gen), Safety-v2 (safe completions and refusals on attack-injected Capability tasks) and a legacy Safety archive generated through RiOSWorld rollouts that keeps risky outcomes. Each record has chat-format messages whose assistant turns hold an action description and a coordinate action, plus success, safety, reward and attack fields. The card declares Apache-2.0 for the data; screenshots show third-party desktop applications whose own terms are not addressed. Thunderbird and VLC capability files are present outside the capability config. The Safactory report (arXiv 2605.06230, v2) describes SATraj-OS as produced with its OSGym environment and reports 10,496 trajectories and 158,196 steps. That paper is not yet in the retained archive, so no paper relation is recorded.
 
 - Record JSON: https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/record.json
 
@@ -8070,7 +8070,7 @@ The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl file
 - 6,152 trajectories — legacy Safety archive (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
 - 88,496 interaction steps — legacy Safety archive (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
 
-Counts are publisher-reported on the card and were not recomputed from the JSONL files. The card's headline 4,885 trajectories and 71,626 steps cover Capability plus Safety-v2 only. The Safactory report's 10,496 trajectories match Capability plus the legacy Safety archive, but its 158,196 steps do not equal the card's step totals for those sets. A trajectory is a multi-step episode, not a screenshot count.
+Counts are publisher-reported on the card. The card's headline 4,885 trajectories and 71,626 steps cover Capability plus Safety-v2 only. The Safactory report's 10,496 trajectories match Capability plus the legacy Safety archive, but its 158,196 steps do not equal the card's step totals for those sets. A trajectory is a multi-step episode; screenshot counts use a different unit.
 
 ### License declarations
 
@@ -8104,7 +8104,7 @@ Archives of ScienceBoard agent evaluation runs, separated by agent configuration
 
 ### Limitations
 
-The manifest exposes six ZIP archives but no README card or data-license declaration. The official project announces evaluation-result trajectories; this record does not label them as a training corpus or infer a trajectory count from archive names. Internal schemas and complete payload contents were not inspected.
+The manifest exposes six ZIP archives but no README card or data-license declaration. The official project announces evaluation-result trajectories.
 
 - Record JSON: https://awesomecua.com/resources/url-4784f63cd7117f64a2a3/record.json
 
@@ -8119,7 +8119,7 @@ The manifest exposes six ZIP archives but no README card or data-license declara
 
 No count recorded.
 
-Observation modes follow publisher archive labels rather than inspected record schemas. No count or training-use permission is inferred.
+Observation modes follow publisher archive labels. No count or training-use permission is inferred.
 
 ### License declarations
 
@@ -8153,7 +8153,7 @@ Training data for BAMI's local correction model: pairs of cropped GUI screenshot
 
 ### Limitations
 
-In each sample, the first crop marks the grounding model's initial box and the second the box found after masking and regrounding; both are crops around the candidate, not full screenshots. Labels come from IoU of at least 0.5 or a center point inside the ground-truth box, with box 1 chosen when both or neither qualify, so the classes are imbalanced. The card names GUIAct web data and an unnamed Windows/macOS desktop set as sources. The 12,849-sample validation split that the card and dataset_infos.json report is not in the repository at revision a09c08da, although the bundled loader expects a validation folder. Apache-2.0 is the card's data declaration and does not settle rights in the upstream screenshots. Appendix C.3 of the BAMI paper (v1 HTML) describes training its LoRA Qwen3-VL-8B corrector on 128,487 such samples.
+In each sample, the first crop marks the grounding model's initial box and the second the box found after masking and regrounding; both are crops around the candidate. Labels come from IoU of at least 0.5 or a center point inside the ground-truth box, with box 1 chosen when both or neither qualify, so the classes are imbalanced. The card names GUIAct web data and an unnamed Windows/macOS desktop set as sources. The 12,849-sample validation split that the card and dataset_infos.json report is not in the repository at revision a09c08da, although the bundled loader expects a validation folder. Apache-2.0 is the card's data declaration and does not settle rights in the upstream screenshots. Appendix C.3 of the BAMI paper (v1 HTML) describes training its LoRA Qwen3-VL-8B corrector on 128,487 such samples.
 
 - Record JSON: https://awesomecua.com/resources/url-e7c3d3d49bf977b49996/record.json
 
@@ -8170,7 +8170,7 @@ In each sample, the first crop marks the grounding model's initial box and the s
 - 12,849 two-box samples — validation split as reported; no validation files at revision a09c08da (reported; source: https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json)
 - 128,487 two-box samples — train plus validation as reported by dataset_infos.json and the card (reported; source: https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json)
 
-Each sample has two image files, so image and sample counts differ. The train metadata has 27,934 distinct command strings; per its original-path columns, 98,369 train rows come from a desktop-named source folder and 17,269 from another folder. The card's per-source figures (about 70K GUIAct and 423K desktop samples) describe the pool before balancing, not this release. Image files were not downloaded or counted.
+Each sample has two image files, so image and sample counts differ. The train metadata has 27,934 distinct command strings; per its original-path columns, 98,369 train rows come from a desktop-named source folder and 17,269 from another folder. The card's per-source figures (about 70K GUIAct and 423K desktop samples) describe the pool before balancing; this release is the balanced set.
 
 ### License declarations
 
@@ -8272,7 +8272,7 @@ Mobile-interface critiques and quality ratings with region coordinates and RICO 
 
 ### Limitations
 
-The published CSV contains critique text, normalized boxes, ratings and RICO IDs; screenshots are referenced through RICO. The README explicitly licenses the work CC-BY-4.0. Its current 1,000-screen, 11,344-critique release differs from the original paper population. The README cites an ACM DOI rather than an arXiv ID, so no paper relation is asserted here. Its README establishes mobile interfaces without naming an operating system.
+The published CSV contains critique text, normalized boxes, ratings and RICO IDs; screenshots are referenced through RICO. The README explicitly licenses the work CC-BY-4.0. Its current 1,000-screen, 11,344-critique release differs from the original paper population. The README cites an ACM DOI. Its README establishes mobile interfaces without naming an operating system.
 
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-uicrit/record.json
 
@@ -8357,7 +8357,7 @@ Desktop trajectories from the UI-MOPD training data, collected in OSWorld enviro
 
 ### Limitations
 
-The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajectories plus cleaned OpenCUA and OpenMobile trajectories; its composition table rounds the self-collected desktop part to about 7K trajectories and 95K steps, so this repository (2,685 trajectories and about 36K steps per the card) holds a portion of it. Per the paper, desktop queries were generated with Kimi-K2.6 from functional points of initialized OSWorld environments, Kimi-K2.6 produced the rollouts and Gemini-3.1-Pro cleaned them, so these are not human demonstrations. Every folder name ends in an OSWorld task ID: a script over the manifest finds 245 distinct IDs, all present in OSWorld's test_all.json, with up to 19 trajectories each. Two opened task.json files for the same OSWorld task label it 'OSWorld'; one repeats that task's instruction verbatim and the other paraphrases it, so the data overlaps OSWorld's test tasks. Both carry verified: false and task_completed: true, while the card's example shows verified: true; 160 folders also hold a result.txt. Linux is inferred from the paper's use of OSWorld environments and the Linux terminal and /home/user paths in the opened queries. Apache-2.0 is the card's declaration and does not cover third-party application content in screenshots. Only two task.json files and one result.txt were opened.
+The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajectories plus cleaned OpenCUA and OpenMobile trajectories; its composition table rounds the self-collected desktop part to about 7K trajectories and 95K steps, so this repository (2,685 trajectories and about 36K steps per the card) holds a portion of it. Per the paper, desktop queries were generated with Kimi-K2.6 from functional points of initialized OSWorld environments, Kimi-K2.6 produced the rollouts and Gemini-3.1-Pro cleaned them; these are model-generated demonstrations. Every folder name ends in an OSWorld task ID: a script over the manifest finds 245 distinct IDs, all present in OSWorld's test_all.json, with up to 19 trajectories each. Two opened task.json files for the same OSWorld task label it 'OSWorld'; one repeats that task's instruction verbatim and the other paraphrases it, so the data overlaps OSWorld's test tasks. Both carry verified: false and task_completed: true, while the card's example shows verified: true; 160 folders also hold a result.txt. Linux is inferred from the paper's use of OSWorld environments and the Linux terminal and /home/user paths in the opened queries. Apache-2.0 is the card's declaration and does not cover third-party application content in screenshots. Only two task.json files and one result.txt were opened.
 
 - Record JSON: https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/record.json
 
@@ -8377,7 +8377,7 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 - 38,283 PNG screenshot files — Hub manifest at revision 92ef5917 (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62)
 - 245 distinct OSWorld task IDs in trajectory folder names — Hub manifest at revision 92ef5917, matched against OSWorld test_all.json (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62)
 
-Trajectories, steps, application categories, files and task IDs are different units and are not summed. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 999] on a 1920x1080 screen. No train/test split is declared.
+Trajectories, steps, application categories, files and task IDs are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest. Coordinates are normalized to [0, 999] on a 1920x1080 screen. No train/test split is declared.
 
 ### License declarations
 
@@ -8414,7 +8414,7 @@ Self-collected phone trajectories from the UI-MOPD training data: 871 tasks acro
 
 ### Limitations
 
-The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajectories plus cleaned OpenCUA and OpenMobile trajectories; this repository is the self-collected mobile part (the paper's composition table rounds it to about 1K trajectories and 17K steps, the card reports about 14K steps). Per the paper, teacher models produced the rollouts, an automatic judge kept only successful ones, and reasoning traces were rewritten into one format, so these are not human demonstrations. The card says only 'mobile'; Android is inferred from the adb commands in its step records and the paper's use of AndroidWorld and MobileWorld environments for mobile queries. Apache-2.0 is the card's declaration and does not cover third-party app content in screenshots. Files were not downloaded.
+The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajectories plus cleaned OpenCUA and OpenMobile trajectories; this repository is the self-collected mobile part (the paper's composition table rounds it to about 1K trajectories and 17K steps, the card reports about 14K steps). Per the paper, teacher models produced the rollouts, an automatic judge kept only successful ones, and reasoning traces were rewritten into one format. The card says only 'mobile'; Android is inferred from the adb commands in its step records and the paper's use of AndroidWorld and MobileWorld environments for mobile queries. Apache-2.0 is the card's declaration and does not cover third-party app content in screenshots.
 
 - Record JSON: https://awesomecua.com/resources/url-93278fa5b9e6bd0cbcef/record.json
 
@@ -8433,7 +8433,7 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 - 871 task.json trajectory files — Hub manifest at revision 45244387 (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838)
 - 14,275 PNG screenshot files — Hub manifest at revision 45244387 (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838)
 
-Trajectories, steps, app categories and files are different units and are not summed. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 999] on a 1080x2400 screen. No train/test split is declared.
+Trajectories, steps, app categories and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest. Coordinates are normalized to [0, 999] on a 1080x2400 screen. No train/test split is declared.
 
 ### License declarations
 
@@ -8467,7 +8467,7 @@ Android trajectories on 19 open-source apps from the UI-MOPD training data, coll
 
 ### Limitations
 
-The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned public OpenCUA and OpenMobile (arxiv:2604.15093) trajectories, and its composition table lists a mobile OpenMobile part of about 2.7K trajectories and 35K steps; this repository's name and 2,640 trajectories match that part, though its card describes the data only as collected on open-source apps via AndroidWorld and reports about 25.9K steps. Episode IDs carry split1 to split4 prefixes. Every folder also has a result.json (a sampled one holds the goal and raw per-step model responses with tool calls), and 1,913 folders have a metadata.json that was not opened. Apache-2.0 is the card's declaration and does not settle rights to the upstream trajectories or app content.
+The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned public OpenCUA and OpenMobile (arxiv:2604.15093) trajectories, and its composition table lists a mobile OpenMobile part of about 2.7K trajectories and 35K steps; this repository's name and 2,640 trajectories match that part, though its card describes the data only as collected on open-source apps via AndroidWorld and reports about 25.9K steps. Episode IDs carry split1 to split4 prefixes. Every folder also has a result.json (a sampled one holds the goal and raw per-step model responses with tool calls), and 1,913 folders have a metadata.json. Apache-2.0 is the card's declaration and does not settle rights to the upstream trajectories or app content.
 
 - Record JSON: https://awesomecua.com/resources/url-66a0adb854eff694965d/record.json
 
@@ -8486,7 +8486,7 @@ The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned pu
 - 2,640 task.json trajectory files — Hub manifest at revision 774eb20f (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38)
 - 34,344 PNG screenshot files — Hub manifest at revision 774eb20f (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38)
 
-Trajectories, steps, apps and files are different units and are not summed. The task.json count from the manifest matches the card's trajectory count, and the card's per-app counts sum to 2,640 trajectories. Screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 1000] on a 1080x2400 screen. No train/test split is declared; the split1 to split4 episode prefixes (727, 603, 793 and 517 trajectories) are not documented as splits.
+Trajectories, steps, apps and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count, and the card's per-app counts sum to 2,640 trajectories. Screenshot files were counted from the manifest. Coordinates are normalized to [0, 1000] on a 1080x2400 screen. No train/test split is declared; the split1 to split4 episode prefixes (727, 603, 793 and 517 trajectories) are not documented as splits.
 
 ### License declarations
 
@@ -8521,7 +8521,7 @@ CAD screen recordings paired with action logs and target model images for studyi
 
 ### Limitations
 
-Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1.0 dataset declaration. Archive count is not a video or trajectory count. The author repository documents the action and video formats, and Section 3 of the v2 paper identifies the recorded Onshape browser interface. No archives or training samples were downloaded; operating-system coverage is unspecified.
+Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1.0 dataset declaration. Archive counts, video counts and trajectory counts are different units. The author repository documents the action and video formats, and Section 3 of the v2 paper identifies the recorded Onshape browser interface. No archives or training samples were downloaded; operating-system coverage is unspecified.
 
 - Record JSON: https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/record.json
 
@@ -8536,7 +8536,7 @@ Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1
 
 - > 41,000 video recordings — VideoCAD published collection (reported; source: https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK)
 
-The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape; operating-system compatibility is not established.
+The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape.
 
 ### License declarations
 
@@ -8570,7 +8570,7 @@ Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordi
 
 ### Limitations
 
-At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in total and about 26.1 GB. The card describes each archive as task folders with an action_log.json (instruction, platform and timestamped actions) and a 1920x1080 MP4 recording with its metadata; each action carries a groundcua_id that the card says identifies the matching annotated GroundCUA screenshot. Frame extraction into trajectories and LLM-written chain-of-thought steps come from a pipeline in the GroundCUA GitHub repository, so this release holds raw recordings and logs, not reasoning annotations. The card names no operating system. Its license section links a LICENSE file that the repository does not contain; MIT is the card's metadata declaration and does not establish rights to the recorded applications' content. Task, hour and frame figures are publisher-reported; the archives were not downloaded.
+At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in total and about 26.1 GB. The card describes each archive as task folders with an action_log.json (instruction, platform and timestamped actions) and a 1920x1080 MP4 recording with its metadata; each action carries a groundcua_id that the card says identifies the matching annotated GroundCUA screenshot. Frame extraction into trajectories and LLM-written chain-of-thought steps come from a pipeline in the GroundCUA GitHub repository; this release holds raw recordings and logs as source material. The card names no operating system. Its license section links a LICENSE file that the repository does not contain; MIT is the card's metadata declaration and does not establish rights to the recorded applications' content. Task, hour and frame figures are publisher-reported.
 
 - Record JSON: https://awesomecua.com/resources/url-78adf6919bdbce42bc24/record.json
 
@@ -8588,7 +8588,7 @@ At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in tota
 - ≈ 6,000,000 video frames — VideoCUA corpus as stated on the card (reported; source: https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md)
 - 87 per-application ZIP archives — raw_data/ at revision 6ecc530d (computed) (computed; source: https://huggingface.co/api/datasets/ServiceNow/VideoCUA/tree/6ecc530df848f916bf0d195c66823ef8363abb93/raw_data)
 
-Tasks, hours, frames and archives are different units and are not summed. The archive count is computed from the Hub tree listing; the card also reports 87 applications. No train/test split is declared.
+Tasks, hours, frames and archives are different units and are counted separately. The archive count is computed from the Hub tree listing; the card also reports 87 applications. No train/test split is declared.
 
 ### License declarations
 
@@ -8656,7 +8656,7 @@ Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and
 
 ### Limitations
 
-The card and public manifest identify separate policy-model and world-model JSONL files. No row total or complete record schema is documented in the inspected card; the files were not downloaded as training samples. MIT is the publisher’s data declaration.
+The card and public manifest identify separate policy-model and world-model JSONL files. The inspected card leaves the row total and complete record schema unstated. MIT is the publisher’s data declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/record.json
 
@@ -8671,7 +8671,7 @@ The card and public manifest identify separate policy-model and world-model JSON
 
 No count recorded.
 
-Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevolver_world_model_sft.jsonl. They are not assumed disjoint train/test splits, and no modality or example count is inferred from filenames alone.
+Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevolver_world_model_sft.jsonl. The files serve policy-model and world-model purposes; their split relationship, modality and example count remain unspecified.
 
 ### License declarations
 
@@ -8722,7 +8722,7 @@ Five public Parquet shards are present. This collection provides checklist-gener
 
 - 3,630 rows — Hub split named test (reported; source: https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_checklist_generation/raw/main/README.md)
 
-This is the checklist-generation release rather than the separate preference-pair collection. No unique-task count or data permission is inferred.
+This is the checklist-generation release. No unique-task count or data permission is inferred.
 
 ### License declarations
 
@@ -8825,7 +8825,7 @@ Web screenshot and interface data for UI research.
 
 ### Limitations
 
-The card links the WebUI project's ACM publication (DOI 10.1145/3544548.3581158) and website, not an arXiv record or a catalogued repository, so no paper or family relation is recorded.
+The card links the WebUI project's ACM publication (DOI 10.1145/3544548.3581158) and website, so no paper or family relation is recorded.
 
 - Record JSON: https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/record.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Multimodal program repair that parses bug\-report screenshots into GUI\-element scene graphs for a coding agent on SWE\-bench M; UI parsing supports code repair rather than GUI operation\. An open pull request \(\#3666\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Multimodal program repair that parses bug\-report screenshots into GUI\-element scene graphs for a coding agent on SWE\-bench M; the abstract leaves open whether screenshot\-guided code repair fits GUI\-agent support\. An open pull request \(\#3666\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

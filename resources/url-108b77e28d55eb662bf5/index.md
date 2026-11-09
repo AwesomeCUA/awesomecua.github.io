@@ -14,7 +14,7 @@ Service whose browser agent navigates a customer's SaaS product to check whether
 
 ## Limitations
 
-Customers send their documentation as it is together with an account for the product, and the agent checks the materials against the live product. The page's FAQ, rendered from its script bundle, calls Cekura an AI web agent that keeps SaaS product documentation up to date for knowledge and customer success teams, says the team sets up the service personally, and says model providers retain no data. The page publishes no self-serve signup, pricing or technical documentation; contact is by email or a booked call. A separate site, cekura.ai, presents a Cekura product for testing voice and chat AI agents; cekura.io does not state how the two relate. Nothing was run.
+Customers send their documentation as it is together with an account for the product, and the agent checks the materials against the live product. The page's FAQ, rendered from its script bundle, calls Cekura an AI web agent that keeps SaaS product documentation up to date for knowledge and customer success teams, says the team sets up the service personally, and says model providers retain no data. The page publishes no self-serve signup, pricing or technical documentation; contact is by email or a booked call. A separate site, cekura.ai, presents a Cekura product for testing voice and chat AI agents; the relationship to cekura.io remains unspecified. Nothing was run.
 
 - Record JSON: https://awesomecua.com/resources/url-108b77e28d55eb662bf5/record.json
 

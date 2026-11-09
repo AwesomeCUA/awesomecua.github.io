@@ -14,7 +14,7 @@ Hub-hosted copy of the files that OSWorld's Ubuntu task configurations download 
 
 ## Limitations
 
-Adjacent: a file host that the curated OSWorld benchmark depends on, not a benchmark or training set by itself. OSWorld task JSON (for example os/5c1075ca, which fetches setup.sh and eval.sh) points at this repository. The Hub API at revision 1e112283 reports an ungated repository with 720 files, most of them in application/task-ID folders, plus a fonts archive. The card metadata declares Apache-2.0, while its License section says the files follow the original OSWorld project's terms.
+Adjacent: a file host that the curated OSWorld benchmark depends on; this asset hosts benchmark files. OSWorld task JSON (for example os/5c1075ca, which fetches setup.sh and eval.sh) points at this repository. The Hub API at revision 1e112283 reports an ungated repository with 720 files, most of them in application/task-ID folders, plus a fonts archive. The card metadata declares Apache-2.0, while its License section says the files follow the original OSWorld project's terms.
 
 - Record JSON: https://awesomecua.com/resources/url-c885712b9c69579ac591/record.json
 
@@ -30,7 +30,7 @@ Adjacent: a file host that the curated OSWorld benchmark depends on, not a bench
 - 720 files — Hub manifest at revision 1e112283 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache)
 - 262 application/task-ID folders — Hub manifest at revision 1e112283 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache)
 
-Counts come from the Hub file manifest. A task folder is not an OSWorld task definition, and not every OSWorld task has a folder here. Files were not downloaded.
+Counts come from the Hub file manifest. A task folder is not an OSWorld task definition, and not every OSWorld task has a folder here.
 
 ## License declarations
 

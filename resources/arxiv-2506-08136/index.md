@@ -14,7 +14,7 @@ Introduces EconWebArena, a curated benchmark of economic-data tasks requiring li
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-08136/record.json
 

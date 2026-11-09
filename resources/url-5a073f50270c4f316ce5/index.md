@@ -14,7 +14,7 @@
 
 ## Limitations
 
-The Hub API at revision de58c88b reports an ungated repository with 16 Parquet shards for the train split and 313 MP4 files under recordings/<domain>/. The card's 160 rows match its per-domain table, but the recording folders hold 313 files with a different domain mix, so some recordings may not belong to a published row; this was not checked. Every row has score 1.0 because only fully successful runs were kept, so the set is not a success-rate sample. The card credits a 'ComputerRL' evaluation framework at github.com/anthropics/ComputerRL, which the GitHub API did not resolve on 2026-10-18. The card declares Apache-2.0 for the dataset.
+The Hub API at revision de58c88b reports an ungated repository with 16 Parquet shards for the train split and 313 MP4 files under recordings/<domain>/. The card's 160 rows match its per-domain table, but the recording folders hold 313 files with a different domain mix, so some recordings may not belong to a published row; this was not checked. Every row has score 1.0 because only fully successful runs were kept; the set samples successful runs. The card credits a 'ComputerRL' evaluation framework at github.com/anthropics/ComputerRL, which the GitHub API did not resolve on 2026-10-18. The card declares Apache-2.0 for the dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-5a073f50270c4f316ce5/record.json
 
@@ -32,7 +32,7 @@ The Hub API at revision de58c88b reports an ungated repository with 16 Parquet s
 - 10 application domains — train split (reported; source: https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md)
 - 313 MP4 recording files — recordings/ at revision de58c88b (computed) (computed; source: https://huggingface.co/api/datasets/markov-ai/computer-use)
 
-Rows are agent runs filtered to score 1.0, not human demonstrations. Step and row counts are the card's figures; the Parquet files were not downloaded. Recording files were counted from the Hub manifest and do not equal the row count.
+Rows are agent runs filtered to score 1.0. Step and row counts are the card's figures. Recording files were counted from the Hub manifest; the recording-file and row counts differ.
 
 ## License declarations
 

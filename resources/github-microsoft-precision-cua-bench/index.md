@@ -30,7 +30,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light) and screenshot files. Partitions are not train/test splits or independent task totals. README’s initial field table calls bbox pixel coordinates, but the evaluation-format section and actual ratio_h/ratio_w=dimension/1000 code use normalized target boxes; profile follows the inspected evaluator and retains the inconsistency. Source/images were not executed or downloaded as a dataset. MIT is recorded for repository code only.
+The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light) and screenshot files. The four editor/theme partitions (Cursor/VS Code × dark/light) are separate from train/test splits and task totals. README’s initial field table calls bbox pixel coordinates, but the evaluation-format section and actual ratio_h/ratio_w=dimension/1000 code use normalized target boxes; profile follows the inspected evaluator and retains the inconsistency. MIT is recorded for repository code only.
 
 ## License declarations
 

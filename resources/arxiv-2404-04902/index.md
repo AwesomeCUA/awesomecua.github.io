@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Visual IDE for building LLM agent applications; a plugin for human\-like web browsing is showcased, but the abstract gives no evaluation of web or GUI interaction\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Visual IDE for building LLM agent applications; the abstract leaves open whether the showcased browsing plugin has evaluated web or GUI interaction\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

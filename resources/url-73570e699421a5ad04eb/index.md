@@ -14,7 +14,7 @@ MiniCPM-V checkpoint released with GUICourse and tuned on its GUIEnv, GUIAct and
 
 ## Limitations
 
-GUICourse's README announces this repository as the MiniCPM-GUI weights with inference code. The card's YAML lists GUIChat, GUIEnv and GUIAct and declares Apache-2.0; its prose gives action and grounding prompt templates and a batch-size-one inference example whose output marks an element with a box. config.json gives MiniCPMVForCausalLM, and the card does not name the base checkpoint. The manifest holds one PyTorch weight file. Web and Android coverage follows from the training data; no checkpoint was loaded and no result was reproduced. The terms of the MiniCPM base model were not assessed.
+GUICourse's README announces this repository as the MiniCPM-GUI weights with inference code. The card's YAML lists GUIChat, GUIEnv and GUIAct and declares Apache-2.0; its prose gives action and grounding prompt templates and a batch-size-one inference example whose output marks an element with a box. config.json gives MiniCPMVForCausalLM; the base checkpoint remains unspecified in the card. The manifest holds one PyTorch weight file. Web and Android coverage follows from the training data; no checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-73570e699421a5ad04eb/record.json
 

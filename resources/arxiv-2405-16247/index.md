@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: LLM agents build rule\-based manuals through environment interaction; web navigation is mentioned only as an example domain and the abstract reports results only on ALFWorld\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) left the scope open: LLM agents build rule\-based manuals through environment interaction; the abstract leaves open whether web navigation is evaluated beyond the ALFWorld results\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

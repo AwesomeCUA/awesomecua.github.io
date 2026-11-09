@@ -29,7 +29,7 @@ The official project explicitly links this corpus, and the ungated Hub API lists
 
 No count recorded.
 
-Purpose is established by the official project, not by API tags. No sample records were downloaded; count and data-license fields remain unknown.
+Purpose is established by the official project. No sample records were downloaded; count and data-license fields remain unknown.
 
 ## License declarations
 

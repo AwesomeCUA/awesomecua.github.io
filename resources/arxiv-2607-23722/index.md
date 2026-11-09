@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract benchmarks LLM agents composing state\-changing tool calls over synthetic product databases graded by state diffs\. Agents act through tool APIs, not GUIs, web pages or devices\. The other marked it borderline: Benchmarks multi\-step tool\-use agents on synthetic backends of consumer products \(a game, QQ Music, Tencent Meeting\); agents act only through tool calls, so it is unclear whether this is app automation or plain function calling\. An exclusion proposal is open in pull request \#2335\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed on scope\. One read it as outside the scope: The abstract benchmarks LLM agents composing state\-changing tool calls over synthetic product databases graded by state diffs\. Agents act through tool APIs; GUI, web\-page and device interaction fall outside the described action space\. The other marked it borderline: Benchmarks multi\-step tool\-use agents on synthetic backends of consumer products \(a game, QQ Music, Tencent Meeting\); agents act only through tool calls, so it is unclear whether this is app automation or plain function calling\. An exclusion proposal is open in pull request \#2335\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

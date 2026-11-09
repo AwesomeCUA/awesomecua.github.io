@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Turn\-level credit assignment for long\-horizon search agents evaluated on BrowseComp\-Plus and open\-web benchmarks; unclear whether the agent browses pages or only calls a search tool\. An exclusion proposal is open in pull request \#2607\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Turn\-level credit assignment for long\-horizon search agents evaluated on BrowseComp\-Plus and open\-web benchmarks; the abstract leaves open whether the agent browses pages or calls a search tool\. An exclusion proposal is open in pull request \#2607\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

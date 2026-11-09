@@ -1,6 +1,6 @@
 # WebThinker: Empowering Large Reasoning Models with Deep Research Capability
 
-Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
+Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2504-21776/
 - Original source: https://arxiv.org/abs/2504.21776

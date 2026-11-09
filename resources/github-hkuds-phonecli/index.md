@@ -14,7 +14,7 @@ Mobile-agent harness that crawls an app into a YAML map of screens, replays comp
 
 ## Limitations
 
-Formerly published as HKUDS/OpenPhone; that address now resolves to this repository. phonecli/ is the iOS harness (WebDriverAgent) with prebuilt app maps, and phonecli_android/ runs the AndroidLab suite with compiled maps and a pure-VLM baseline. The repository also holds OpenPhone-3B training and synthetic-data pipelines and vLLM serving scripts; the weights and dataset are published separately on Hugging Face and are not covered here. Its evaluation replaces AndroidLab's rule-based checks with an LLM judge. The LICENSE names AndroidLab's author as a copyright holder. Reported success rates were not reproduced. Code was read, not run.
+Formerly published as HKUDS/OpenPhone; that address now resolves to this repository. phonecli/ is the iOS harness (WebDriverAgent) with prebuilt app maps, and phonecli_android/ runs the AndroidLab suite with compiled maps and a pure-VLM baseline. The repository also holds OpenPhone-3B training and synthetic-data pipelines and vLLM serving scripts; the weights and dataset are separate Hugging Face releases outside this repository record. Its evaluation replaces AndroidLab's rule-based checks with an LLM judge. The LICENSE names AndroidLab's author as a copyright holder.
 
 - Record JSON: https://awesomecua.com/resources/github-hkuds-phonecli/record.json
 

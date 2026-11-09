@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Scope hold after complete v1 Sections 1–4: this benchmark pairs speech with video keyframes or synthesized substitute frames to test ambiguous\-word transcription\. Examples include map text, an outdoor scene and a game scene; metrics are WER, keyword recall and normalized visual gain\. The inspected work does not establish an agent\-command task, operational UI understanding/action interface, or evaluated downstream CUA use\. Need direct interface\-assistant evidence before core/adjacent inclusion\. Keep bibliography metadata\-only; this is not a permanent scope exclusion\.
+Scope hold after complete v1 Sections 1–4: this benchmark pairs speech with video keyframes or synthesized substitute frames to test ambiguous\-word transcription\. Examples include map text, an outdoor scene and a game scene; metrics are WER, keyword recall and normalized visual gain\. The inspected work leaves agent\-command tasks, operational UI understanding/action interfaces and evaluated downstream CUA use unestablished\. Need direct interface\-assistant evidence before core/adjacent inclusion\. Keep the bibliography metadata\-only pending direct interface\-assistant evidence\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

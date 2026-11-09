@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: RL environment where LLM agents research topics and produce HTML slide decks through tools, rewarded by rendering, aesthetic and inverse\-specification checks; slide generation via code rather than GUI operation\. An open pull request \(\#3277\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: RL environment where LLM agents research topics and produce HTML slide decks through tools, rewarded by rendering, aesthetic and inverse\-specification checks; the abstract leaves open whether HTML slide generation via code fits office automation\. An open pull request \(\#3277\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

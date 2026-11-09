@@ -14,7 +14,7 @@ Python browser-automation framework whose CodeAgent shows a model indexed DOM st
 
 ## Limitations
 
-Published on PyPI as openbrowser-ai. The CodeAgent (src/openbrowser/code_use/service.py) sends a compact serialized DOM state with element indices and, unless vision is turned off, a JPEG screenshot; the model replies with Python that the executor runs in a persistent namespace. The MCP server exposes a single execute_code tool over the same namespace, and a CLI daemon keeps a browser session alive between commands. The repository also holds a hosted-platform backend and frontend, and infra/training with SFT, online GRPO and diffusion-language-model RL code for FormFactory form filling; the README links the two related papers on ResearchGate, not arXiv. Token and latency comparisons with other browser tools are publisher-reported and were not reproduced. Code was read, not run.
+Published on PyPI as openbrowser-ai. The CodeAgent (src/openbrowser/code_use/service.py) sends a compact serialized DOM state with element indices and, unless vision is turned off, a JPEG screenshot; the model replies with Python that the executor runs in a persistent namespace. The MCP server exposes a single execute_code tool over the same namespace, and a CLI daemon keeps a browser session alive between commands. The repository also holds a hosted-platform backend and frontend, and infra/training with SFT, online GRPO and diffusion-language-model RL code for FormFactory form filling; the README links the two related papers on ResearchGate. Token and latency comparisons with other browser tools are publisher-reported.
 
 - Record JSON: https://awesomecua.com/resources/github-billy-enrizky-openbrowser-ai/record.json
 

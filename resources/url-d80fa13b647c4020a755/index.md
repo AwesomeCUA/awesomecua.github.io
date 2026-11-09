@@ -14,7 +14,7 @@ The 3B GUI-G2 grounding checkpoint: Qwen2.5-VL-3B-Instruct fine-tuned with Gauss
 
 ## Limitations
 
-Hub API at revision 41325677 lists two BF16 safetensors shards (about 3.75B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is not gated. The card names Qwen2.5-VL-3B-Instruct as the base in prose but sets no base_model field. Its ScreenSpot-v2 table reports only the 7B release and says 3B grounding results are still to come, so no score is recorded here. The project README announces the 3B and 7B releases together. Apache-2.0 is the model-card weight declaration, not a code or training-data license.
+Hub API at revision 41325677 lists two BF16 safetensors shards (about 3.75B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is publicly accessible. The card names Qwen2.5-VL-3B-Instruct as the base in prose but sets no base_model field. Its ScreenSpot-v2 table reports only the 7B release and says 3B grounding results are still to come, so no score is recorded here. The project README announces the 3B and 7B releases together. Apache-2.0 is the model-card weight declaration, not a code or training-data license.
 
 - Record JSON: https://awesomecua.com/resources/url-d80fa13b647c4020a755/record.json
 

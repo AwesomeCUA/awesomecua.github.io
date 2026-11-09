@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Research\-paper verification system that uses web agents to score claim credibility; the abstract does not say whether these agents browse pages or how they interact with the web\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Research\-paper verification system that uses web agents to score claim credibility; the abstract leaves open whether the web agents browse pages and how they interact with the web\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

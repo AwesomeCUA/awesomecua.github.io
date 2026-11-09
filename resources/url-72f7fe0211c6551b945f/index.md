@@ -14,7 +14,7 @@ A public text-based process-reward checkpoint from the Web-Shepherd collection f
 
 ## Limitations
 
-The official project-linked collection identifies this public 3B checkpoint. The README uses a separate unavailable WebShepherd/web-shepherd-base URL; redirect equivalence is not asserted. Two safetensors shards and a Qwen2 causal-language-model configuration are present. No model card or weight license is published in the inspected manifest. The separately announced multimodal 3B model is not assumed released.
+The official project-linked collection identifies this public 3B checkpoint. The README uses a separate unavailable WebShepherd/web-shepherd-base URL. Two safetensors shards and a Qwen2 causal-language-model configuration are present. No model card or weight license is published in the inspected manifest.
 
 - Record JSON: https://awesomecua.com/resources/url-72f7fe0211c6551b945f/record.json
 

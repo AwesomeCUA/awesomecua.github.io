@@ -14,7 +14,7 @@ Adept's decoder-only multimodal base model that feeds image patches straight int
 
 ## Limitations
 
-Adjacent: a general image-and-text base model whose card says it was designed for digital agents, UI-based questions and fine-grained localization on screen images, and lists computer control among research uses. The card calls it a raw base model that needs fine-tuning, reports only VQAv2, OKVQA, COCO Captions and AI2D scores, publishes no GUI or agent evaluation, names no platform and does not describe the training data. Adept's blog post is its only linked description; no paper is linked. The manifest lists two Safetensors shards (9,408,238,592 BF16 parameters per the Hub API). CC BY-NC 4.0 is the card's weights declaration.
+Adjacent: a general image-and-text base model whose card says it was designed for digital agents, UI-based questions and fine-grained localization on screen images, and lists computer control among research uses. The card calls it a raw base model that needs fine-tuning and reports VQAv2, OKVQA, COCO Captions and AI2D scores; GUI or agent evaluation, target platform and training data remain unspecified. Adept's blog post is its only linked description; no paper is linked. The manifest lists two Safetensors shards (9,408,238,592 BF16 parameters per the Hub API). CC BY-NC 4.0 is the card's weights declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-c6e1ffa1f4c6561c3b22/record.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v7 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract surveys VLM architectures, benchmarks and post\-training through 2026\. This general vision\-language survey does not name GUI agents, screen understanding or agents operating interfaces\. The other marked it borderline: Broad VLM survey that mentions agentic workflows and perception\-action loops but emphasizes architectures, OCR, VQA, video and embodied benchmarks; the abstract does not say whether GUI agents or screen understanding are covered\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v7 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether the VLM survey covers GUI agents or screen understanding\. One read it as outside the scope: The abstract surveys VLM architectures, benchmarks and post\-training through 2026\. The survey covers VLM architectures, benchmarks and post\-training; GUI\-agent and screen\-understanding coverage remains open\. The other marked it borderline: Broad VLM survey that mentions agentic workflows and perception\-action loops but emphasizes architectures, OCR, VQA, video and embodied benchmarks; the abstract leaves open whether GUI agents or screen understanding are covered\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -21,7 +21,7 @@ Inclusion does not establish reproducibility or endorsement.
 ## Structured profile
 
 - actions: device actions through AgentEnv
-- evaluation: Checks whether the recorded execution visits all annotated essential states rather than requiring an identical action sequence.
+- evaluation: Checks whether the recorded execution visits all annotated essential states.
 - focus: mobile task completion, essential-state evaluation
 - observations: screenshots, view hierarchies, Android activity names
 - setting: interactive
@@ -33,7 +33,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 393 tasks — self-constructed subset (reported; source: https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md)
 - 46 Android applications — self-constructed subset (reported; source: https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md)
 
-Application coverage refers to the self-constructed subset. Task execution and essential-state annotation are separate components; counts are publisher-reported, not a fresh task-file recount.
+Application coverage refers to the self-constructed subset. Task execution and essential-state annotation are separate components; counts are publisher-reported.
 
 ## License declarations
 

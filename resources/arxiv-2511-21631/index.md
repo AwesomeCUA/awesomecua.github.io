@@ -14,7 +14,7 @@ Describes the Qwen3-VL dense and MoE vision-language models, with 256K-token int
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract, which positions the models for agentic decision-making but names no GUI environment; the GUI-operation claim comes from the curated Qwen3-VL repository README. Experimental findings have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract, which positions the models for agentic decision-making but names no GUI environment; the GUI-operation claim comes from the curated Qwen3-VL repository README.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-21631/record.json
 

@@ -14,7 +14,7 @@ Introduces WiserUI-Bench, pairing real UI variants from industry A/B tests with 
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. This benchmark measures UI/UX design understanding from static image pairs; it does not measure autonomous GUI action execution.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. This benchmark measures UI/UX design understanding from static image pairs.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-05026/record.json
 

@@ -1,6 +1,6 @@
 # Scenario-Guided LLM-based Mobile App GUI Testing
 
-ScenGen organizes mobile GUI testing around business scenarios rather than unrestricted exploration. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
+ScenGen organizes mobile GUI testing around business scenarios. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2506-05079/
 - Original source: https://arxiv.org/abs/2506.05079

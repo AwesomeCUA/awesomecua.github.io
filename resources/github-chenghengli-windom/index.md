@@ -14,7 +14,7 @@ GUI-grounding training and evaluation code with same-family distillation, GRPO r
 
 ## Limitations
 
-The Windows-style environment is win11React in Playwright, not native Windows control. The repository documents its predecessor trajectory pipeline but explicitly omits the final corpus harvester. The inspected ScreenSpot evaluator defaults to a privileged ground-truth-center demonstration; --no-demo and --official-prompt select other modes, so evaluation results require their prompt and coordinate settings. Linked datasets, weights and reported scores were not independently verified; MIT applies to inspected repository code.
+The Windows-style environment is win11React in Playwright. The repository documents its predecessor trajectory pipeline but explicitly omits the final corpus harvester. The inspected ScreenSpot evaluator defaults to a privileged ground-truth-center demonstration; --no-demo and --official-prompt select other modes, so evaluation results require their prompt and coordinate settings. MIT applies to inspected repository code.
 
 - Record JSON: https://awesomecua.com/resources/github-chenghengli-windom/record.json
 

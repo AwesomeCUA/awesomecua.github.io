@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Introduces indirect prompt injection against LLM\-integrated apps such as Bing Chat via retrieved content; the abstract does not involve agents navigating or acting on web pages, so its CUA relevance is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Introduces indirect prompt injection against LLM\-integrated apps such as Bing Chat via retrieved content; the abstract leaves open whether agents navigate or act on web pages in this work\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

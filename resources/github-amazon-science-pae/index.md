@@ -14,7 +14,7 @@ A browser-agent training system that proposes tasks, collects visual interaction
 
 ## Limitations
 
-Source code and browser-environment modules are present. The repository LICENSE is CC-BY-NC-4.0, while its README describes that license as applying to a dataset, leaving code scope ambiguous. The separately linked dataset is gated and was not accessed; model and dataset terms must be checked separately.
+Source code and browser-environment modules are present. The repository LICENSE is CC-BY-NC-4.0, while its README describes that license as applying to a dataset, leaving code scope ambiguous. The separately linked dataset is gated; model and dataset terms require separate checks.
 
 - Record JSON: https://awesomecua.com/resources/github-amazon-science-pae/record.json
 

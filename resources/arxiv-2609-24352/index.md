@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Probes how few\-shot demonstrations shift LLM in\-context world representations on graph tracking; web agent tasks appear only as one briefly listed downstream evaluation\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Probes how few\-shot demonstrations shift LLM in\-context world representations on graph tracking; web agent tasks appear as one briefly listed downstream evaluation, leaving catalog fit open\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

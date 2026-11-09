@@ -128,7 +128,7 @@ Presents MobiAgent, combining MobiMind agent models, the AgentRR acceleration fr
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-00531/record.json
 
@@ -336,7 +336,7 @@ Introduces Morae, a UI agent that detects decision points and pauses for user ch
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-21456/record.json
 
@@ -804,7 +804,7 @@ Introduces PerPilot and the PerInstruct dataset for completing user-specific mob
 
 ### Limitations
 
-Personalization depends on the validity of stored or inferred user information and retrieval access. This is instruction completion with interaction, not demonstrated permanent model-weight personalization. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (The Framework of PerPilot; Personalization Perception; Personalization Completion; PerInstruct Data Construction).
+Personalization depends on the validity of stored or inferred user information and retrieval access. This is instruction completion with interaction. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (The Framework of PerPilot; Personalization Perception; Personalization Completion; PerInstruct Data Construction).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-18040/record.json
 
@@ -2089,7 +2089,7 @@ Introduces GuirlVG, an empirical study of reinforcement fine-tuning for GUI visu
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-04389/record.json
 
@@ -2974,7 +2974,7 @@ Studies proactive assistance in visual-analytics interfaces, using interaction l
 
 ### Limitations
 
-Adjacent work on embedded assistance in two instrumented visual-analytics systems. Its in-lab user-study evidence is context-specific, and the paper discusses clarification and intervention-control trade-offs. General GUI-agent performance is not inferred. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (5.3 User study; 5.3.2 Observed issues; 6.1 Design trade-off; 6.2 Limitations).
+Adjacent work on embedded assistance in two instrumented visual-analytics systems. Its in-lab user-study evidence is context-specific, and the paper discusses clarification and intervention-control trade-offs. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (5.3 User study; 5.3.2 Observed issues; 6.1 Design trade-off; 6.2 Limitations).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-18165/record.json
 

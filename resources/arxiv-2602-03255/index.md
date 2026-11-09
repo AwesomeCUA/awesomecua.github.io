@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Framed as safety for computer\-use agents, but its 570 cases run in simulated MCP\-style toolkits; the abstract does not show agents operating GUIs, browsers or desktops\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Its 570 safety cases for computer\-use agents run in simulated MCP\-style toolkits; the abstract leaves open whether simulated MCP\-style cases fit computer\-use agent scope\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

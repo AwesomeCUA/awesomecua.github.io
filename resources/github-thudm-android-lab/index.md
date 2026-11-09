@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 138 tasks — benchmark task collection (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
 - 9 applications — benchmark application set (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
 
-The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks, not the separately released Android Instruct training set.
+The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks; Android Instruct is a separately released training set.
 
 ## License declarations
 

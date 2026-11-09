@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Survey framing LLM\-agent safety through isolation boundaries, including environment\-originated context; the abstract does not say how far it covers web or GUI agents\. An curation proposal is open in pull request \#2837\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Survey framing LLM\-agent safety through isolation boundaries, including environment\-originated context; the abstract leaves open whether web or GUI agents receive material coverage\. An curation proposal is open in pull request \#2837\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

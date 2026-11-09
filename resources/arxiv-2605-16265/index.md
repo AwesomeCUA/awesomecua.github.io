@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Runtime policy and audit layer for local agents such as Claude Code, Cursor and OpenClaw that run shell commands, edit files and browse on a real machine; OS\-level agent safety without GUI operation\. An open pull request \(\#3327\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Runtime policy and audit layer for local agents such as Claude Code, Cursor and OpenClaw that run shell commands, edit files and browse on a real machine; the abstract leaves open whether OS\-level agent safety fits adjacent computer\-use scope\. An open pull request \(\#3327\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

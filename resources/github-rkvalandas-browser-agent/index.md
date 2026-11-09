@@ -14,7 +14,7 @@ Python agent that attaches Playwright to a local Chrome over CDP, maps visible i
 
 ## Limitations
 
-Single-author personal project. browser/browser_setup.py connects to Chrome on localhost:9222 through connect_over_cdp and launches Chrome with remote debugging when none is running. browser/analyzers/page_analyzer.py runs a DOM script that classifies elements by tag and ARIA role, builds unique selectors and detects modal overlays; no screenshots are taken. docs/BROWSER_TOOLS.md documents the tool set (analyze_page, navigate, go_back, scroll, click, type, select_option, keyboard_action, ask_user). LLM backends are OpenAI, Azure OpenAI, Groq or Anthropic (agent/llm_providers.py). No evaluation results are published. Code was read, not run.
+Single-author personal project. browser/browser_setup.py connects to Chrome on localhost:9222 through connect_over_cdp and launches Chrome with remote debugging when none is running. browser/analyzers/page_analyzer.py runs a DOM script that classifies elements by tag and ARIA role, builds unique selectors and detects modal overlays; no screenshots are taken. docs/BROWSER_TOOLS.md documents the tool set (analyze_page, navigate, go_back, scroll, click, type, select_option, keyboard_action, ask_user). LLM backends are OpenAI, Azure OpenAI, Groq or Anthropic (agent/llm_providers.py). No evaluation results are published.
 
 - Record JSON: https://awesomecua.com/resources/github-rkvalandas-browser-agent/record.json
 

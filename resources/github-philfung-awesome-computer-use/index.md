@@ -14,7 +14,7 @@ A curated reading list of computer GUI use research and software, linking to age
 
 ## Limitations
 
-The README links to individual projects and papers and includes brief descriptions of several frameworks. It is a collection of references rather than a software release.
+The README links to individual projects and papers and includes brief descriptions of several frameworks. It is a collection of references to individual projects and papers.
 
 - Record JSON: https://awesomecua.com/resources/github-philfung-awesome-computer-use/record.json
 

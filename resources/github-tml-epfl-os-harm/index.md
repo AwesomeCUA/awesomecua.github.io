@@ -14,26 +14,26 @@ Benchmark for safety of computer-use agents across misuse, prompt injection, and
 
 ## Limitations
 
-The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior IDs. Prompt-injection execution expands vectors/goals; the reported 150-task total must not be read as 150 unique released IDs.
+The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior IDs. Prompt-injection execution expands vectors/goals; the reported 150-task total and released IDs have different grains.
 
 - Record JSON: https://awesomecua.com/resources/github-tml-epfl-os-harm/record.json
 
 ## Structured profile
 
 - actions: OSWorld/PyAutoGUI desktop interaction
-- evaluation: Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark, not a single offline grounding score.
+- evaluation: Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark.
 - focus: deliberate misuse, prompt-injection safety, unintended harmful behavior during normal tasks
 - observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
 - setting: interactive
 
 ### Count observations
 
-- 150 tasks as reported by the paper/README — reported benchmark total; not a recount of unique released task IDs (reported; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md)
+- 150 tasks as reported by the paper/README — reported benchmark total; unique released task IDs use a separate count (reported; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md)
 - 50 task IDs — released misuse task-ID list; before injection/goal expansion (computed) (computed; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misuse.json)
 - 10 task IDs — released injection task-ID list; before injection/goal expansion (computed) (computed; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json)
 - 50 task IDs — released misbehavior task-ID list; before injection/goal expansion (computed) (computed; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json)
 
-README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, so the released ID inventory is not a direct recount of paper settings; the complete expanded total was not reconstructed. Judge agreement F1 values in the README measure agreement with human labels, not agent success. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.
+README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.
 
 ## License declarations
 

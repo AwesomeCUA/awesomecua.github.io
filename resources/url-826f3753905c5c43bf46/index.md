@@ -14,7 +14,7 @@ Seg2Click checkpoint pairing a 9B Qwen3.5 backbone with a decoder for valid GUI 
 
 ## Limitations
 
-License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; mask-to-click inference requires those components beyond a generic text-generation pipeline.
 
 - Record JSON: https://awesomecua.com/resources/url-826f3753905c5c43bf46/record.json
 

@@ -29,7 +29,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-The raw collection mixes action, language, exploration, and unusable/other traces. These groups have different annotation coverage; not every raw trace is a valid task demonstration.
+The raw collection mixes action, language, exploration, and unusable/other traces. These groups have different annotation coverage; valid task demonstrations are a subset of raw traces.
 
 ## License declarations
 

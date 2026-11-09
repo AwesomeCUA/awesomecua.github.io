@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: General learn\-from\-mistakes adapter method evaluated on GAIA, Claw\-Eval and Terminal\-Bench; these involve research, tool workflows and terminal use, but the abstract names no GUI or web\-page interaction\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: General learn\-from\-mistakes adapter method evaluated on GAIA, Claw\-Eval and Terminal\-Bench; these involve research, tool workflows and terminal use, leaving GUI or web\-page interaction open\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

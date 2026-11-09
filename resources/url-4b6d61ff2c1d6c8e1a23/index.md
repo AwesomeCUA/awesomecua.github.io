@@ -14,7 +14,7 @@ A 2B MAI-UI checkpoint in the Qwen3-VL architecture, from a GUI agent family who
 
 ## Limitations
 
-The manifest lists a single model.safetensors file and the card declares Apache-2.0. The card text and benchmark figures describe the whole 2B-to-235B-A22B family and are not assigned to this checkpoint; the project README announces this 2B release together with the 8B. No scores were reproduced and no weights were loaded.
+The manifest lists a single model.safetensors file and the card declares Apache-2.0. The card text and benchmark figures describe the whole 2B-to-235B-A22B family; the project README announces this 2B release together with the 8B. The family figures remain unassigned to this checkpoint. No scores were reproduced and no weights were loaded.
 
 - Record JSON: https://awesomecua.com/resources/url-4b6d61ff2c1d6c8e1a23/record.json
 

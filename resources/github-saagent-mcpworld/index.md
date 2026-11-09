@@ -14,7 +14,7 @@ Evaluation environment combining computer interaction with tool access.
 
 ## Limitations
 
-The retained paper reports 201 tasks, whereas the retained repository README describes approximately 170. These are separate source descriptions; their release/version difference has not been established.
+The retained paper reports 201 tasks, whereas the retained repository README describes approximately 170. The retained paper reports 201 tasks, whereas the retained repository README describes approximately 170.
 
 - Record JSON: https://awesomecua.com/resources/github-saagent-mcpworld/record.json
 

@@ -14,7 +14,7 @@ Released data for the GUIDE benchmark: annotated segments of narrated novice scr
 
 ## Limitations
 
-Formerly published as saelyne/GuideBench; the Hub API redirects that name to this repository with the same object ID. Access is gated with automatic approval. The Hub manifest at revision 783caa86 holds three annotation JSON files (one per task), 40 task-description Markdown files, 120 think-aloud transcription JSON files and two CSV files under videos/; no video files are hosted in the repository. The project page lists Photoshop, GIMP, Figma, Canva, PowerPoint, Google Slides, Premiere Pro, CapCut, Google Sheets and Excel without naming operating systems; the environment facets follow from those applications. Models are evaluated on video snippets without the narrations. CC-BY-4.0 is the Hub data declaration; annotation files were not downloaded and scores were not reproduced.
+Formerly published as saelyne/GuideBench; the Hub API redirects that name to this repository with the same object ID. Access is gated with automatic approval. The Hub manifest at revision 783caa86 holds three annotation JSON files (one per task), 40 task-description Markdown files, 120 think-aloud transcription JSON files and two CSV files under videos/; no video files are hosted in the repository. The project page lists Photoshop, GIMP, Figma, Canva, PowerPoint, Google Slides, Premiere Pro, CapCut, Google Sheets and Excel without naming operating systems; the environment facets follow from those applications. Models are evaluated on video snippets without the narrations. CC-BY-4.0 is the Hub data declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/record.json
 
@@ -36,7 +36,7 @@ Formerly published as saelyne/GuideBench; the Hub API redirects that name to thi
 - 120 transcription files — Hub manifest at revision 783caa86 (transcriptions/) (computed) (computed; source: https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1)
 - 40 task-description files — Hub manifest at revision 783caa86 (tasks/) (computed) (computed; source: https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1)
 
-Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. Segment counts per task were not computed because the annotation files sit behind the access gate.
+Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. The access gate leaves segment counts per task uncomputed from the annotation files.
 
 ## License declarations
 

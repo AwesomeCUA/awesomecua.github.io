@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Structure\-aware HTML segmentation with index prediction to extract query\-relevant webpage content for web agents and RAG; evaluated only as a RAG step and on extraction accuracy, with no agent browsing or acting on pages\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Structure\-aware HTML segmentation with index prediction to extract query\-relevant webpage content for web agents and RAG; the abstract leaves open whether HTML extraction is used by browsing agents beyond RAG evaluation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -29,7 +29,7 @@ The public manifest includes GUIMid.json, mavis.tar.gz, GUI_trajectory.json, tra
 
 No count recorded.
 
-Do not treat Hub size bands or the inconsistent introductory task count as a sample total. Some constituent-domain image packages remain forthcoming.
+Hub size bands and the inconsistent introductory task count use different units from a verified sample total. Some constituent-domain image packages remain forthcoming.
 
 ## License declarations
 

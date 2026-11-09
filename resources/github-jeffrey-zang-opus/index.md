@@ -14,7 +14,7 @@ Electron app for macOS whose OpenAI Agents SDK loop operates apps through AppleS
 
 ## Limitations
 
-Not related to Anthropic's Claude Opus models. initAgents.ts defines an app-selection agent and an action agent, both configured with gpt-4.1-mini through the OpenAI Agents SDK, so an OpenAI API key is required. Each action step receives the target app's AppleScript dictionary, a list of clickable Accessibility elements (role, title, value, help and description) and, when captured, a screenshot (runAgents.ts). Swift helpers under app/swift read the Accessibility tree, click, send keys and move the app window to a separate virtual display so the agent can work in the background. The repository also contains the tryop.us landing site and a small server. Code was read, not run.
+initAgents.ts defines an app-selection agent and an action agent, both configured with gpt-4.1-mini through the OpenAI Agents SDK; the name is unrelated to Anthropic's Claude Opus models, and an OpenAI API key is required. Each action step receives the target app's AppleScript dictionary, a list of clickable Accessibility elements (role, title, value, help and description) and, when captured, a screenshot (runAgents.ts). Swift helpers under app/swift read the Accessibility tree, click, send keys and move the app window to a separate virtual display so the agent can work in the background. The repository also contains the tryop.us landing site and a small server.
 
 - Record JSON: https://awesomecua.com/resources/github-jeffrey-zang-opus/record.json
 

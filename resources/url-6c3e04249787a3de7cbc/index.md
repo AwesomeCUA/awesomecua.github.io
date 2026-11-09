@@ -14,7 +14,7 @@ Large-size Pix2Struct checkpoint fine-tuned on Screen2Words that writes a short 
 
 ## Limitations
 
-Hub API at revision a77a669b lists one pytorch_model.bin with tokenizer and processor files in the Pix2StructForConditionalGeneration architecture; the repository is not gated. The card says the T5X checkpoint was contributed by the Pix2Struct authors and added to Hugging Face by Younes Belkada, and it reuses the generic Pix2Struct description with usage deferred to the pix2struct-textcaps-base card; it gives no Screen2Words scores. The card does not link a code repository, so no family relation is recorded. The card declares Apache-2.0 for the checkpoint.
+Hub API at revision a77a669b lists one pytorch_model.bin with tokenizer and processor files in the Pix2StructForConditionalGeneration architecture; access is open. The card says the T5X checkpoint was contributed by the Pix2Struct authors and added to Hugging Face by Younes Belkada, and it reuses the generic Pix2Struct description with usage deferred to the pix2struct-textcaps-base card; it gives no Screen2Words scores. The card does not link a code repository, so no family relation is recorded. The card declares Apache-2.0 for the checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-6c3e04249787a3de7cbc/record.json
 

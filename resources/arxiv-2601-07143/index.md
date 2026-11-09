@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: VLM agent that edits 3D scenes in Blender with plan\-and\-ReAct control and a new benchmark; the abstract does not say whether it acts through Blender's GUI or its scripting API\. An exclusion proposal is open in pull request \#3708\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: VLM agent that edits 3D scenes in Blender with plan\-and\-ReAct control and a new benchmark; the abstract leaves open whether the agent acts through Blender’s GUI or scripting API\. An exclusion proposal is open in pull request \#3708\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

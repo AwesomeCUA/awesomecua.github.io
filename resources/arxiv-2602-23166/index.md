@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Benchmark for generalist multimodal agents using hybrid tools that include web search, image search and page navigation alongside code; web browsing is one part of the tool mix\. An open pull request \(\#3505\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Benchmark for generalist multimodal agents using hybrid tools that include web search, image search and page navigation alongside code; the abstract leaves open whether page navigation is a material part of the tool mix\. An open pull request \(\#3505\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

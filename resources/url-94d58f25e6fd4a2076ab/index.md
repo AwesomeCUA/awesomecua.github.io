@@ -14,7 +14,7 @@ Opera's subscription agentic browser whose Neon Do agent opens, closes and acts 
 
 ## Limitations
 
-Opera's release notes dated 30 September 2025 announce the first invitation-based release. They describe Neon Do acting inside the user's local browser session with visible, pausable actions, say that it was previewed earlier as Browser Operator, and say the Make feature runs on a virtual machine on Opera's European servers. The inspected homepage says agentic features need a subscription (stated as $19.90/month), describes MCP and CLI connection paths for external agents, and states that credentials stay on the device. These are publisher statements; pricing, availability and agent reliability were not independently checked. No Opera publisher record exists yet, so no published_by relation is asserted.
+Opera's release notes dated 30 September 2025 announce the first invitation-based release. They describe Neon Do acting inside the user's local browser session with visible, pausable actions, say that it was previewed earlier as Browser Operator, and say the Make feature runs on a virtual machine on Opera's European servers. The inspected homepage says agentic features need a subscription (stated as $19.90/month), describes MCP and CLI connection paths for external agents, and states that credentials stay on the device. No Opera publisher record exists yet, so no published_by relation is asserted.
 
 - Record JSON: https://awesomecua.com/resources/url-94d58f25e6fd4a2076ab/record.json
 

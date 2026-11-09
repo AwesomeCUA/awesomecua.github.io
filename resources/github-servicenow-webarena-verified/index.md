@@ -14,7 +14,7 @@ An audited re-release of WebArena's 812 web tasks with corrected reference answe
 
 ## Limitations
 
-The README describes this as the verified release of WebArena and keeps the original task file (assets/dataset/test.raw.json) for reference; scores on it are not interchangeable with original WebArena results. The cited paper is a NeurIPS 2025 Scaling Environments for Agents workshop paper on OpenReview (94tlGxmqkN) with no arXiv identifier, so no paper record is linked. The task file is also published as the Hugging Face dataset AmineHA/WebArena-Verified, which was not reviewed here; Apache-2.0 is the repository code license and is not applied to the task data or to the self-hosted site images. Docker images and a PyPI package are documented but were not run.
+The README describes this as the verified release of WebArena and keeps the original task file (assets/dataset/test.raw.json) for reference; scores on it are not interchangeable with original WebArena results. The cited paper is a NeurIPS 2025 Scaling Environments for Agents workshop paper on OpenReview (94tlGxmqkN) with no arXiv identifier, so no paper record is linked. The task file is also published as the Hugging Face dataset AmineHA/WebArena-Verified, which was not reviewed here; Apache-2.0 is the repository code license and is not applied to the task data or to the self-hosted site images. Docker images and a PyPI package are documented.
 
 - Record JSON: https://awesomecua.com/resources/github-servicenow-webarena-verified/record.json
 

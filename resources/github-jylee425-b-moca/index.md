@@ -28,11 +28,11 @@ Inclusion does not establish reproducibility or endorsement.
 
 ### Count observations
 
-- 131 task-definition files — asset/tasks/**/*.textproto in retained release/ver.3 tree; not a paper test-task total (computed) (computed; source: https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1)
+- 131 task-definition files — asset/tasks/**/*.textproto in retained release/ver.3 tree; source-file inventory distinct from the paper test-task total (computed) (computed; source: https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1)
 - 35 environment configuration rows — environments_train.csv, retained release/ver.3 snapshot (computed) (computed; source: https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv)
 - 10 environment configuration rows — environments_test.csv, retained release/ver.3 snapshot (computed) (computed; source: https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv)
 
-Current source inventory differs in grain from published experiment subsets: do not multiply 131 definitions by 35/10 configuration rows or label the product as evaluated tasks. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.
+Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.
 
 ## License declarations
 

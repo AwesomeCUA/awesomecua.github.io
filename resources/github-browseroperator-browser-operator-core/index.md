@@ -14,7 +14,7 @@ Chromium-based AI browser whose DevTools panel runs a multi-agent framework (web
 
 ## Limitations
 
-The repository is a modified Chrome DevTools frontend (not flagged as a GitHub fork); the AI Chat panel holds the agent framework, accessibility-tree and extraction tools, memory, MCP client and evaluation code, and agent-server is a Node.js HTTP and WebSocket wrapper that sends tasks to agents and captures pages over CDP. The README offers macOS 10.15+ and Windows 10+ builds; the latest release is v0.6.0 (2025-12-11) and the last push was 2026-03-19. The LICENSE is the Chromium Authors' BSD-3-Clause text inherited from DevTools; third_party components keep their own terms. Code was read, not run.
+The repository is a modified Chrome DevTools frontend; the AI Chat panel holds the agent framework, accessibility-tree and extraction tools, memory, MCP client and evaluation code, and agent-server is a Node.js HTTP and WebSocket wrapper that sends tasks to agents and captures pages over CDP. The README offers macOS 10.15+ and Windows 10+ builds; the latest release is v0.6.0 (2025-12-11) and the last push was 2026-03-19. The LICENSE is the Chromium Authors' BSD-3-Clause text inherited from DevTools; third_party components keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-browseroperator-browser-operator-core/record.json
 

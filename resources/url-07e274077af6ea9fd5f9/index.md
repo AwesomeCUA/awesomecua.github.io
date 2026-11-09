@@ -14,7 +14,7 @@ Presents WebOlympus, an open platform that runs web agents on live websites from
 
 ## Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Experiments have not been independently reproduced. The platform observes HTML and screenshots and grounds actions through textual choices, set-of-mark overlays or pixel coordinates. On 50 Mind2Web tasks run on live websites, the paper reports SeeAct success of 48% with textual choices and 56% with set-of-mark grounding. The paper says code will be released for research under an OPEN-RAIL license; no release was checked in this review.
+The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. The platform observes HTML and screenshots and grounds actions through textual choices, set-of-mark overlays or pixel coordinates. On 50 Mind2Web tasks run on live websites, the paper reports SeeAct success of 48% with textual choices and 56% with set-of-mark grounding. The paper says code will be released for research under an OPEN-RAIL license; no release was checked in this review.
 
 - Record JSON: https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/record.json
 

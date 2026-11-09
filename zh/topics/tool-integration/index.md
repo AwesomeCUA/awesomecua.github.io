@@ -75,7 +75,7 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
 - [WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance](https://awesomecua.com/resources/arxiv-2608-06704/) — 2026-08-07
   Introduces WebRider, a live-web agent that maintains intent contracts while carrying out guarded browser actions, and RiderBench for auditing those contracts across websites.
 - [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](https://awesomecua.com/resources/arxiv-2608-03327/) — 2026-08-04
-  This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing why changed action preferences alone need not improve held-out accuracy.
+  This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing that changed action preferences can coexist with unchanged held-out accuracy.
 - [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://awesomecua.com/resources/arxiv-2607-28227/) — 2026-07-30
   Describes a foundation GUI agent with combined GUI and command-line actions, large-scale interaction infrastructure, and iterative environment and task generation.
 - [Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification](https://awesomecua.com/resources/arxiv-2607-25904/) — 2026-07-28
@@ -237,7 +237,7 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
 - [InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction](https://awesomecua.com/resources/arxiv-2505-10887/) — 2025-05-16
   Introduces InfantAgent-Next, a modular multimodal computer agent that combines tool-based and vision agents for stepwise tasks, with evaluation on OSWorld and other benchmarks.
 - [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://awesomecua.com/resources/arxiv-2504-21776/) — 2025-04-30
-  Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
+  Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler.
 - [UFO2: The Desktop AgentOS](https://awesomecua.com/resources/arxiv-2504-14603/) — 2025-04-20
   Introduces UFO2, a Windows desktop agent architecture combining a coordinating HostAgent, application-specialized agents, and a shared GUI/API action layer. It integrates UI Automation, visual parsing, speculative planning, and an isolated picture-in-picture desktop.
 - [SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](https://awesomecua.com/resources/arxiv-2504-07079/) — 2025-04-09
@@ -287,7 +287,7 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
 - [GAIA: a benchmark for General AI Assistants](https://awesomecua.com/resources/arxiv-2311-12983/) — 2023-11-21
   Introduces questions that test assistant reasoning, multimodal understanding, browsing, and tool use beyond screen-action execution alone.
 - [PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion](https://awesomecua.com/resources/arxiv-2311-01767/) — 2023-11-03
-  Evaluates multi-turn PowerPoint creation and editing, scoring the resulting presentation files rather than requiring a fixed API sequence.
+  Evaluates multi-turn PowerPoint creation and editing by scoring the resulting presentation files.
 - [WebWISE: Web Interface Control and Sequential Exploration with Large Language Models](https://awesomecua.com/resources/arxiv-2310-16042/) — 2023-10-24
   WebWISE filters DOM elements into observations and generates short programs for click, scroll, and text-entry steps. It evaluates in-context learning from either one supplied example or an example collected during a successful zero-shot MiniWoB++ trial.
 - [OpenAgents: An Open Platform for Language Agents in the Wild](https://awesomecua.com/resources/arxiv-2310-10634/) — 2023-10-16
@@ -1839,7 +1839,7 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
 - [OS-Copilot](https://awesomecua.com/resources/github-os-copilot-os-copilot/) — Date not recorded
   Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.
 - [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/) — Date not recorded
-  Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+  Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.
 - [Overlay Companion MCP](https://awesomecua.com/resources/github-ryansopensourcerice-overlay-companion-mcp/) — Date not recorded
   Overlay Companion MCP provides a transparent on-screen visual overlay and MCP server for human-in-the-loop computer-use interaction.
 - [OWL (Optimized Workforce Learning)](https://awesomecua.com/resources/github-camel-ai-owl/) — Date not recorded
@@ -1871,7 +1871,7 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
 - [PatchBridge Agent](https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/) — Date not recorded
   Lightweight in-browser AI agent framework that retrofits natural-language automation onto legacy enterprise web portals.
 - [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/) — Date not recorded
-  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data in place of screenshots.
 - [pcbridge](https://awesomecua.com/resources/github-eymistaken-pcbridge/) — Date not recorded
   Turns a Linux desktop into a Model Context Protocol server for shell execution, window management, and GUI automation.
 - [pdlgen](https://awesomecua.com/resources/github-chromedp-pdlgen/) — Date not recorded
@@ -1923,7 +1923,7 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
 - [Playwright Flow Tester MCP](https://awesomecua.com/resources/github-sadiuysal-playwright-flow-tester/) — Date not recorded
   Parameterized UI/UX flow testing suite with Model Context Protocol integration and structured execution logging over Playwright.
 - [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) — Date not recorded
-  MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
+  MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots, with opt-in vision, PDF and devtools capabilities.
 - [Playwright MCP Server (ExecuteAutomation)](https://awesomecua.com/resources/github-executeautomation-mcp-playwright/) — Date not recorded
   Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.
 - [Playwright Pool MCP](https://awesomecua.com/resources/github-zbrooklyn-claude-labs-playwright-pool/) — Date not recorded

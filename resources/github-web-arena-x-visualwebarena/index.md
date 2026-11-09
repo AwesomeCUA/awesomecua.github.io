@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 910 tasks — full VWA suite (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
 - 233 human trajectories — one task from each template type (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
 
-The 233 demonstration trajectories are not the full 910-task evaluation set. Observation modes and captioning components differ across baseline agents.
+The 233 demonstration trajectories and the full 910-task evaluation set are different populations. Observation modes and captioning components differ across baseline agents.
 
 ## License declarations
 

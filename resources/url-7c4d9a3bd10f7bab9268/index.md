@@ -14,7 +14,7 @@ Chrome extension that brings chat models to any web page for summaries and writi
 
 ## Limitations
 
-Recorded as adjacent: the publisher's getting-started guide presents HARPA mainly as a page-aware AI chat for summarizing, writing and search, with an AUTOMATE tab for page monitors and scheduled commands. The reviewed guides describe page actions as user-built command steps (NAVIGATE, CLICK, PASTE, SCROLL, EXTRACT, RUN JS) that run in the open tab and can be combined with GPT steps, rather than a model that plans clicks from screenshots. The homepage is not used as a receipt because its email-obfuscation markup changes on every request.
+Recorded as adjacent: the publisher's getting-started guide presents HARPA mainly as a page-aware AI chat for summarizing, writing and search, with an AUTOMATE tab for page monitors and scheduled commands. The reviewed guides describe page actions as user-built command steps (NAVIGATE, CLICK, PASTE, SCROLL, EXTRACT, RUN JS) that run in the open tab and can be combined with GPT steps. The homepage's email-obfuscation markup changes on every request.
 
 - Record JSON: https://awesomecua.com/resources/url-7c4d9a3bd10f7bab9268/record.json
 

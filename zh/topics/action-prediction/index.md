@@ -222,7 +222,7 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
 - [GUI-Owl 7B](https://awesomecua.com/resources/url-aeb32973694f91ad9920/) — Date not recorded
   A Qwen2.5-VL-based GUI checkpoint released with Mobile-Agent-v3 for grounded actions and specialized roles in its agent framework.
 - [GUI-Owl 7B Desktop-RL](https://awesomecua.com/resources/url-b01a78c76299196e3df1/) — Date not recorded
-  GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements rather than for production.
+  GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements, with production use outside its stated purpose.
 - [GUI-R1 checkpoint bundle](https://awesomecua.com/resources/url-61a5321db10fc8a312b9/) — Date not recorded
   A single Hub release containing GUI-R1 3B and 7B action-model checkpoints trained with reinforcement learning across interface platforms.
 - [gWorld (GuiWorld)](https://awesomecua.com/resources/github-trillion-labs-gworld/) — Date not recorded

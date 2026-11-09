@@ -440,7 +440,7 @@ Studies repeated rejected edits while optimizing a screenshot-only GUI agent, co
 
 ### Limitations
 
-The downstream test uses one screenshot-only agent, nine synthetic apps and 60 cached development items, with TAP-tag or text-answer outputs; this is not demonstrated live-app completion. Two catalogs reword the same 40 edits. Re-proposal effects do not establish internal causal mechanisms or task-success gains. Main serving providers were unpinned; rationale labels came from LLM annotators.
+The downstream test uses one screenshot-only agent, nine synthetic apps and 60 cached development items, with TAP-tag or text-answer outputs. Two catalogs reword the same 40 edits. Re-proposal effects measure repeat selection; internal causal mechanisms and task-success gains remain unestablished. Main serving providers were unpinned; rationale labels came from LLM annotators.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-15738/record.json
 
@@ -860,7 +860,7 @@ Evaluates Jev as a bounded action selector inside three AndroidWorld agents and 
 
 ### Limitations
 
-The mobile evaluation uses text UI observations and one fixed instance for each of 116 AndroidWorld task types; three repeats share seed 0. Five agent families use different budgets, with candidate-interface and tool-call granularity changes in some variants. Reported costs use fixed experimental prices, and outcome-selected trace labels are not population failure rates. Faster selection does not imply faster or more reliable task completion.
+The mobile evaluation uses text UI observations and one fixed instance for each of 116 AndroidWorld task types; three repeats share seed 0. Five agent families use different budgets, with candidate-interface and tool-call granularity changes in some variants. Reported costs use fixed experimental prices; outcome-selected trace labels describe the selected traces. Faster selection measures decision speed; task completion speed and reliability require separate results.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-13092/record.json
 
@@ -1120,7 +1120,7 @@ Tests natural-language no-code fixes through GUI execution in Linux Brave. Scrip
 
 ### Limitations
 
-The evaluation reuses 322 fixes from 12 generation configurations and is restricted to nine of 51 candidate issues after environment setup and sanity checks. Resolution counts any success in three runs with a 20-step episode limit; executor harnesses and decoding settings differ. Opening the update page triggers a harness-controlled switch to the fixed browser build. Checker behavior, reconstructed starting states and the two-author human reference limit interpretation. The replication package was linked by the paper but was not inspected.
+The evaluation reuses 322 fixes from 12 generation configurations and is restricted to nine of 51 candidate issues after environment setup and sanity checks. Resolution counts any success in three runs with a 20-step episode limit; executor harnesses and decoding settings differ. Opening the update page triggers a harness-controlled switch to the fixed browser build. Checker behavior, reconstructed starting states and the two-author human reference limit interpretation.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-11963/record.json
 
@@ -1380,7 +1380,7 @@ Evaluates duration following, runtime forecasts and elapsed-time estimates in na
 
 ### Limitations
 
-This cross-domain suite includes 16 OSWorld 2.0 tasks among 222 tasks from 18 sources. A single run per task and requested duration, provider effects and incomplete native grades limit comparisons; elapsed time is not evidence of productive work. The OSWorld task 092 video judge was skipped without an API key. The inspected repository README identifies desktop-VM timing and states that the current 222-task forecasting runs will be added; its existing forecasting code covers an earlier study, and transcript work/wait labels are not public. No code or benchmark was executed and no license was verified.
+This cross-domain suite includes 16 OSWorld 2.0 tasks among 222 tasks from 18 sources. A single run per task and requested duration, provider effects and incomplete native grades limit comparisons; elapsed time measures duration, with productive work requiring separate evidence. The OSWorld task 092 video judge was skipped without an API key. The inspected repository README identifies desktop-VM timing and says the current 222-task forecasting runs will be added; existing forecasting code covers an earlier study, while transcript work/wait labels remain private. No code or benchmark was executed and no license was verified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-09944/record.json
 
@@ -2421,7 +2421,7 @@ Introduces an execution-based benchmark for generated web interfaces, with a hea
 
 ### Limitations
 
-Adjacent evaluation infrastructure: the target is generated WebUI functionality, not a general score for computer-use agents. This annotation is based on the complete retained abstract.
+Adjacent evaluation infrastructure: the target is generated WebUI functionality. This annotation is based on the complete retained abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-02617/record.json
 
@@ -2535,7 +2535,7 @@ Compares fine-tuned, retrieval-based and hybrid language-model world models for 
 
 ### Limitations
 
-Adjacent cross-domain study with WebShop as its web evaluation. WebShop uses text-rendered search/product pages and an explicit valid-action menu, not screenshot control or live purchases. A frozen policy proposes five actions; a world model predicts their next observations and the policy scores them before one is executed in the simulator. Utility is normalized environment reward, while fidelity uses a model judge; neither is a universal GUI task-success rate. Fine-tuning and retrieval use collected training experience; the hybrid masks same-episode retrieval, which does not establish general contamination freedom. The retained Atom and v1 HTML abstract wording differs; original bibliographic metadata and its abstract digest are preserved.
+Adjacent cross-domain study with WebShop as its web evaluation. WebShop uses text-rendered search/product pages and an explicit valid-action menu. A frozen policy proposes five actions; a world model predicts their next observations and the policy scores them before one is executed in the simulator. Utility is normalized environment reward, while fidelity uses a model judge; neither is a universal GUI task-success rate. Fine-tuning and retrieval use collected training experience; the hybrid masks same-episode retrieval. The retained Atom and v1 HTML abstract wording differs; original bibliographic metadata and its abstract digest are preserved.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-02542/record.json
 
@@ -2628,7 +2628,7 @@ A. Said Gurbuz, Ahmed Nassar, Sunghwan Hong, Marc Pollefeys, Peter W. J. Staar
 
 ## Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents
 
-Studies how to route different parts of GUI experience into model weights or runtime context rather than treating whole trajectories as a single unit. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
+Studies how to route different parts of GUI experience into model weights or runtime context. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2610-01787/
 - Original source: https://arxiv.org/abs/2610.01787

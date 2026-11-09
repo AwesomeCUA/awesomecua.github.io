@@ -14,7 +14,7 @@ AWS managed agent platform whose Browser tool runs isolated cloud browser sessio
 
 ## Limitations
 
-A general agent hosting platform, so the scope is adjacent. Its computer-interaction component is AgentCore Browser: a containerized browser reached through a WebSocket automation endpoint (usable from Strands, Nova Act or Playwright) and a live-view endpoint where a person can watch the session and interact with it directly. Sessions default to 15 minutes and last at most 8 hours. Session recording, available for custom browsers, stores DOM changes, user actions, console logs and network events in the customer's S3 bucket. Amazon Nova Act (url:dec156cbf0cb1181f7b6) is cataloged separately. The landing URL redirects to its trailing-slash form over plain HTTP, so evidence is read from the HTTPS trailing-slash address. Availability and pricing were not independently tested.
+A general agent hosting platform, so the scope is adjacent. Its computer-interaction component is AgentCore Browser: a containerized browser reached through a WebSocket automation endpoint (usable from Strands, Nova Act or Playwright) and a live-view endpoint where a person can watch the session and interact with it directly. Sessions default to 15 minutes and last at most 8 hours. Session recording, available for custom browsers, stores DOM changes, user actions, console logs and network events in the customer's S3 bucket. Amazon Nova Act (url:dec156cbf0cb1181f7b6) is cataloged separately. The landing URL redirects to its trailing-slash form over plain HTTP, so evidence is read from the HTTPS trailing-slash address.
 
 - Record JSON: https://awesomecua.com/resources/url-ecf89236d4e75b05c7b4/record.json
 

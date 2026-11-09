@@ -14,7 +14,7 @@ Introduces WinSpot, a Windows GUI grounding benchmark of 5,000 manually validate
 
 ## Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Experiments have not been independently reproduced. This short paper is separate from the WinClick preprint arxiv:2503.04730, which also introduces WinSpot and which the paper cites as prior work. Screenshots come from Bing image search over popular Microsoft Store apps, filtered with Phi-3-vision, labeled by an in-house icon detector and aligned with instructions by GPT-4o. The abstract counts 5,000 coordinate-instruction pairs, while the benchmark section describes over 5,000 annotated screenshots from 14 Windows applications. The benchmark repository linked from the paper was not part of this review.
+The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. This short paper is separate from the WinClick preprint arxiv:2503.04730, which also introduces WinSpot and which the paper cites as prior work. Screenshots come from Bing image search over popular Microsoft Store apps, filtered with Phi-3-vision, labeled by an in-house icon detector and aligned with instructions by GPT-4o. The abstract counts 5,000 coordinate-instruction pairs, while the benchmark section describes over 5,000 annotated screenshots from 14 Windows applications.
 
 - Record JSON: https://awesomecua.com/resources/url-b5cab56e1a439ca8e524/record.json
 

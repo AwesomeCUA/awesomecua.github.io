@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Fusion 360 plugin that synthesizes CAD assembly programs through the application's API; unclear whether this CAD design synthesis counts as application automation for the catalog\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Fusion 360 plugin that synthesizes CAD assembly programs through the application's API; the abstract leaves open whether CAD design synthesis through the Fusion 360 API fits application automation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -79,7 +79,7 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
 - [Constructing Challenging Browser-Use Tasks by Controlled Environment Interventions](https://awesomecua.com/resources/arxiv-2609-35814/) — 2026-09-20
   BreakingWeb pairs solvable browser tasks with controlled environment interventions that preserve the goal, target and backend success criterion. The paired evaluations isolate robustness failures, including agents declaring completion without the required state change.
 - [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2609-19843/) — 2026-09-17
-  Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
+  Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility.
 - [ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software](https://awesomecua.com/resources/arxiv-2609-17885/) — 2026-09-15
   ERPBench evaluates screenshot-only agents in enterprise software using database values to check the business records produced by their actions. It pairs these state-based checks with a harness for human approval and analyzes cases where visible completion masks incorrect persisted data.
 - [Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents](https://awesomecua.com/resources/arxiv-2609-17653/) — 2026-09-15
@@ -187,7 +187,7 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
 - [Speculative Rollback Correction for Quality-Diverse Web Agent Imitation](https://awesomecua.com/resources/arxiv-2606-12485/) — 2026-06-10
   Speculative Rollback Correction lets a student web agent execute short branches before teacher review localizes harmful deviations. Verified continuations and localized corrections feed supervised training while an archive retains diverse successful solutions.
 - [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://awesomecua.com/resources/arxiv-2606-11042/) — 2026-06-09
-  Workflow-GYM evaluates long GUI workflows in professional software rather than isolated interface actions. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
+  Workflow-GYM evaluates long GUI workflows in professional software. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
 - [GUI-AC: Enhancing Continual Learning in GUI Agents](https://awesomecua.com/resources/arxiv-2606-10522/) — 2026-06-09
   GUI-AC uses grounding certainty to adjust advantage weighting and policy-clipping bounds during continual reinforcement fine-tuning. Its mechanisms aim to suppress noisy confidence updates while retaining exploration under shifting GUI domains and resolutions.
 - [MacArena: Benchmarking Computer Use Agents on an Online macOS Environment](https://awesomecua.com/resources/arxiv-2606-06560/) — 2026-06-04

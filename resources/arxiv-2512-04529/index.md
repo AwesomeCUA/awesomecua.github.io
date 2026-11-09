@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Multi\-agent system that composes editable PPTX decks from scientific papers through a layout library; slide creation via APIs, an office\-automation precedent, without GUI operation\. An open pull request \(\#3811\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Multi\-agent system that composes editable PPTX decks from scientific papers through a layout library; the abstract leaves open whether PPTX creation through layout APIs fits office automation\. An open pull request \(\#3811\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

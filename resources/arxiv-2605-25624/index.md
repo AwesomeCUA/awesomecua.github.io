@@ -14,7 +14,7 @@ Presents CUA-Gym, which co-generates instructions, initial and target states, an
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract promises future open sourcing; this annotation does not independently verify artifact release or licensing.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract promises future open sourcing.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-25624/record.json
 

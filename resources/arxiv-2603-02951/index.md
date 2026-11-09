@@ -14,7 +14,7 @@ Combines supervised and reinforcement fine-tuning for continual GUI learning, us
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes artifact release as future work; this annotation does not assert current availability.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes artifact release as future work.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-02951/record.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Surveys 211 benchmarks for multimodal LLMs across understanding, reasoning, generation and application\. This general benchmark survey indicates no GUI, screen or agent\-interaction coverage\. The other marked it borderline: Surveys 211 MLLM benchmarks spanning understanding, reasoning, generation and application; the abstract does not say whether GUI, screen\-understanding or web\-agent benchmarks are among those covered\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether the surveyed benchmarks include GUI, screen or agent\-interaction work\. One read it as outside the scope: Surveys 211 benchmarks for multimodal LLMs across understanding, reasoning, generation and application\. This general benchmark survey indicates no GUI, screen or agent\-interaction coverage\. The other marked it borderline: Surveys 211 MLLM benchmarks spanning understanding, reasoning, generation and application; the abstract leaves open whether GUI, screen\-understanding or web\-agent benchmarks are among those covered\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

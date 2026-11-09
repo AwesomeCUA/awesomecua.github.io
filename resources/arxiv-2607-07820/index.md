@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Self\-distillation for deep search agents in a verifiable environment with search and page\-reading tools, evaluated on BrowseComp and GAIA; browsing\-based research rather than GUI control\. An open pull request \(\#2613\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Self\-distillation for deep search agents in a verifiable environment with search and page\-reading tools, evaluated on BrowseComp and GAIA; the abstract leaves open whether page\-reading tools fit adjacent browsing scope\. An open pull request \(\#2613\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

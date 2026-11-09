@@ -14,7 +14,7 @@ Argues for compiling web tasks into predefined execution graphs before exposing 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Directly analyzes browser-agent prompt-injection boundaries and WebArena task structure, but advocates typed website operations rather than demonstrating a new GUI-control policy.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Directly analyzes browser-agent prompt-injection boundaries and WebArena task structure, advocating typed website operations.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-14290/record.json
 

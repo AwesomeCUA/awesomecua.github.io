@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Indirect prompt injection benchmark for agent defenses with Shopping, GitHub and Daily Life suites; the abstract does not say whether the agents act through web pages or through tool APIs\. An exclusion proposal is open in pull request \#3682\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Indirect prompt injection benchmark for agent defenses with Shopping, GitHub and Daily Life suites; the abstract leaves open whether the agents act through web pages or tool APIs\. An exclusion proposal is open in pull request \#3682\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

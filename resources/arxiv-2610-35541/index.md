@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Benchmarks how commercial agents calling agent\-facing backends of web applications can realize existing web vulnerabilities; the agents invoke service operations instead of navigating pages, so fit to web\-agent scope is unclear\. The retained record is v2; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Benchmarks how commercial agents calling agent\-facing backends of web applications can realize existing web vulnerabilities; the agents invoke service operations, leaving web\-agent fit open\. The retained record is v2; reconcile its metadata before approval\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

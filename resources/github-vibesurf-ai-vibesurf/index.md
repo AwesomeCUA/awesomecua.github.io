@@ -14,7 +14,7 @@ Browser assistant with a Chrome-extension UI that runs parallel Browser Use agen
 
 ## Limitations
 
-pyproject.toml pins browser-use 0.9.5; the README also credits LangGraph and Langflow, and the tree vendors a langflow directory. It installs as a uv tool, a Windows installer or a Docker image with noVNC; from Chrome 142 the extension must be loaded manually. Integrations include Composio and site APIs for Xiaohongshu, Douyin, Weibo and YouTube. The README's token-saving and speed claims were not tested. The LICENSE is a 'VibeSurf Open Source License' that adds multi-tenant, SaaS, frontend-logo and contributor conditions to Apache-2.0, while pyproject.toml declares plain Apache-2.0, so the code license is left unknown. Latest release 0.5.18 (2026-01-17). Code was read, not run.
+pyproject.toml pins browser-use 0.9.5; the README also credits LangGraph and Langflow, and the tree vendors a langflow directory. It installs as a uv tool, a Windows installer or a Docker image with noVNC; from Chrome 142 the extension must be loaded manually. Integrations include Composio and site APIs for Xiaohongshu, Douyin, Weibo and YouTube. The LICENSE is a 'VibeSurf Open Source License' that adds multi-tenant, SaaS, frontend-logo and contributor conditions to Apache-2.0, while pyproject.toml declares plain Apache-2.0, so the code license is left unknown. Latest release 0.5.18 (2026-01-17).
 
 - Record JSON: https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/record.json
 

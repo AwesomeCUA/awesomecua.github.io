@@ -14,7 +14,7 @@ Android trajectories on 19 open-source apps from the UI-MOPD training data, coll
 
 ## Limitations
 
-The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned public OpenCUA and OpenMobile (arxiv:2604.15093) trajectories, and its composition table lists a mobile OpenMobile part of about 2.7K trajectories and 35K steps; this repository's name and 2,640 trajectories match that part, though its card describes the data only as collected on open-source apps via AndroidWorld and reports about 25.9K steps. Episode IDs carry split1 to split4 prefixes. Every folder also has a result.json (a sampled one holds the goal and raw per-step model responses with tool calls), and 1,913 folders have a metadata.json that was not opened. Apache-2.0 is the card's declaration and does not settle rights to the upstream trajectories or app content.
+The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned public OpenCUA and OpenMobile (arxiv:2604.15093) trajectories, and its composition table lists a mobile OpenMobile part of about 2.7K trajectories and 35K steps; this repository's name and 2,640 trajectories match that part, though its card describes the data only as collected on open-source apps via AndroidWorld and reports about 25.9K steps. Episode IDs carry split1 to split4 prefixes. Every folder also has a result.json (a sampled one holds the goal and raw per-step model responses with tool calls), and 1,913 folders have a metadata.json. Apache-2.0 is the card's declaration and does not settle rights to the upstream trajectories or app content.
 
 - Record JSON: https://awesomecua.com/resources/url-66a0adb854eff694965d/record.json
 
@@ -33,7 +33,7 @@ The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned pu
 - 2,640 task.json trajectory files — Hub manifest at revision 774eb20f (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38)
 - 34,344 PNG screenshot files — Hub manifest at revision 774eb20f (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38)
 
-Trajectories, steps, apps and files are different units and are not summed. The task.json count from the manifest matches the card's trajectory count, and the card's per-app counts sum to 2,640 trajectories. Screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 1000] on a 1080x2400 screen. No train/test split is declared; the split1 to split4 episode prefixes (727, 603, 793 and 517 trajectories) are not documented as splits.
+Trajectories, steps, apps and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count, and the card's per-app counts sum to 2,640 trajectories. Screenshot files were counted from the manifest. Coordinates are normalized to [0, 1000] on a 1080x2400 screen. No train/test split is declared; the split1 to split4 episode prefixes (727, 603, 793 and 517 trajectories) are not documented as splits.
 
 ## License declarations
 

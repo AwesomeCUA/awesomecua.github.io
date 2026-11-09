@@ -14,7 +14,7 @@ Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordi
 
 ## Limitations
 
-At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in total and about 26.1 GB. The card describes each archive as task folders with an action_log.json (instruction, platform and timestamped actions) and a 1920x1080 MP4 recording with its metadata; each action carries a groundcua_id that the card says identifies the matching annotated GroundCUA screenshot. Frame extraction into trajectories and LLM-written chain-of-thought steps come from a pipeline in the GroundCUA GitHub repository, so this release holds raw recordings and logs, not reasoning annotations. The card names no operating system. Its license section links a LICENSE file that the repository does not contain; MIT is the card's metadata declaration and does not establish rights to the recorded applications' content. Task, hour and frame figures are publisher-reported; the archives were not downloaded.
+At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in total and about 26.1 GB. The card describes each archive as task folders with an action_log.json (instruction, platform and timestamped actions) and a 1920x1080 MP4 recording with its metadata; each action carries a groundcua_id that the card says identifies the matching annotated GroundCUA screenshot. Frame extraction into trajectories and LLM-written chain-of-thought steps come from a pipeline in the GroundCUA GitHub repository; this release holds raw recordings and logs as source material. The card names no operating system. Its license section links a LICENSE file that the repository does not contain; MIT is the card's metadata declaration and does not establish rights to the recorded applications' content. Task, hour and frame figures are publisher-reported.
 
 - Record JSON: https://awesomecua.com/resources/url-78adf6919bdbce42bc24/record.json
 
@@ -32,7 +32,7 @@ At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in tota
 - ≈ 6,000,000 video frames — VideoCUA corpus as stated on the card (reported; source: https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md)
 - 87 per-application ZIP archives — raw_data/ at revision 6ecc530d (computed) (computed; source: https://huggingface.co/api/datasets/ServiceNow/VideoCUA/tree/6ecc530df848f916bf0d195c66823ef8363abb93/raw_data)
 
-Tasks, hours, frames and archives are different units and are not summed. The archive count is computed from the Hub tree listing; the card also reports 87 applications. No train/test split is declared.
+Tasks, hours, frames and archives are different units and are counted separately. The archive count is computed from the Hub tree listing; the card also reports 87 applications. No train/test split is declared.
 
 ## License declarations
 

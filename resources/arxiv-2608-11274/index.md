@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Position paper arguing for harness\-enforced runtime safety contracts for agents that run code and change files; the abstract does not say whether GUI, browser or terminal computer\-use agents fall within its scope\. An curation proposal is open in pull request \#2571\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Position paper arguing for harness\-enforced runtime safety contracts for agents that run code and change files; the abstract leaves open whether GUI, browser or terminal computer\-use agents fall within its scope\. An curation proposal is open in pull request \#2571\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

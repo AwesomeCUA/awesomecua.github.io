@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Multi\-day benchmark for coworker agents acting on sandboxed filesystem, email, calendar, knowledge\-base and spreadsheet services; claw\-style service actions rather than GUI operation\. An open pull request \(\#3432\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Multi\-day benchmark for coworker agents acting on sandboxed filesystem, email, calendar, knowledge\-base and spreadsheet services; the abstract leaves open whether business\-service actions fit adjacent computer\-use scope\. An open pull request \(\#3432\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

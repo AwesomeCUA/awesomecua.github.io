@@ -14,7 +14,7 @@ H Company's Qwen2.5-VL-7B-based Holo1.5 checkpoint for locating interface elemen
 
 ## Limitations
 
-Hub API at revision a1019821 lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is not gated. The card names Qwen/Qwen2.5-VL-7B-Instruct as the base and describes proprietary training data mixed from open-source, synthetic and human-annotated samples, so no training dataset is linked. It declares Apache-2.0 for this 7B size only: the same card says the 3B size inherits Qwen's license and the 72B size is research-only. Localization and screen-QA scores in the card are publisher-reported and are not recorded. Mobile is named without an operating system.
+Hub API at revision a1019821 lists four BF16 safetensors shards (about 8.29B parameters) in the Qwen2_5_VLForConditionalGeneration architecture; the repository is publicly accessible. The card names Qwen/Qwen2.5-VL-7B-Instruct as the base and describes proprietary training data mixed from open-source, synthetic and human-annotated samples, so no training dataset is linked. It declares Apache-2.0 for this 7B size only: the same card says the 3B size inherits Qwen's license and the 72B size is research-only. Mobile is named without an operating system.
 
 - Record JSON: https://awesomecua.com/resources/url-98e5813bceb30104d6c4/record.json
 

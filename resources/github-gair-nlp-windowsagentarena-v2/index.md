@@ -14,14 +14,14 @@ Windows benchmark revision with task/evaluator fixes and VM-initialization suppo
 
 ## Limitations
 
-Repository contains executable evaluation code and task definitions. README links a separate Windows 11 VM snapshot; that image and its software licenses/access were not validated by downloading it. MIT is recorded for repository code only. Default task selection and the reported full suite have different scopes.
+Repository contains executable evaluation code and task definitions. README links a separate Windows 11 VM snapshot. MIT is recorded for repository code only. Default task selection and the reported full suite have different scopes.
 
 - Record JSON: https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/record.json
 
 ## Structured profile
 
 - actions: PyAutoGUI
-- evaluation: Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator is not automatically the full benchmark size.
+- evaluation: Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator counts trajectory files in the evaluated run, with the full benchmark size recorded separately.
 - focus: Windows desktop task execution, revised task evaluators
 - observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
 - setting: interactive
@@ -32,7 +32,7 @@ Repository contains executable evaluation code and task definitions. README link
 - 11 Windows applications — full suite coverage reported by README (reported; source: https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md)
 - 20 task IDs — shipped test_custom.json selection (computed) (computed; source: https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_custom.json)
 
-README sample config uses max_steps=30. The shipped selected-task index has 20 IDs, not 141; preserve the selected task list, trial ID, score coverage and VM snapshot when comparing runs. Docker/Windows-11 setup is required. No VM or benchmark was executed.
+README sample config uses max_steps=30. The shipped selected-task index has 20 IDs; the 141-task figure has a different scope. Preserve the selected task list, trial ID, score coverage and VM snapshot when comparing runs. Docker/Windows-11 setup is required. No VM or benchmark was executed.
 
 ## License declarations
 

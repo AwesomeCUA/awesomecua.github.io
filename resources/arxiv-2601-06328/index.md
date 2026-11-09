@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Billed as a computer\-use agent environment creator, but its action space is unified API tools across 204 applications; the abstract shows no GUI, browser or screen interaction\. An exclusion proposal is open in pull request \#3649\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Its action space is unified API tools across 204 applications; the abstract leaves open whether API\-only application environments fit adjacent scope\. An exclusion proposal is open in pull request \#3649\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

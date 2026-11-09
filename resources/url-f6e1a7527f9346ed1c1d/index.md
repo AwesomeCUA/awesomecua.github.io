@@ -14,7 +14,7 @@ SFT release of GUI-Libra-81K: per-step reasoning traces and coordinate-grounded 
 
 ## Limitations
 
-The thin card only describes the annotation files and split image archives; the paper link, training role and data format come from the official GUI-Libra repository, whose SFT guide downloads this dataset. Annotations re-annotate screenshots from public sources (Mind2Web, GUIAct web, AITW, AMEX, AndroidControl, GUI-Odyssey, Android in the Zoo). Files were not downloaded; the 81K figure is the repository's.
+The thin card only describes the annotation files and split image archives; the paper link, training role and data format come from the official GUI-Libra repository, whose SFT guide downloads this dataset. Annotations re-annotate screenshots from public sources (Mind2Web, GUIAct web, AITW, AMEX, AndroidControl, GUI-Odyssey, Android in the Zoo). The 81K figure is the repository's.
 
 - Record JSON: https://awesomecua.com/resources/url-f6e1a7527f9346ed1c1d/record.json
 
@@ -31,7 +31,7 @@ The thin card only describes the annotation files and split image archives; the 
 - 32 JSON annotation files — data/annotations at revision 05bb2c5f: 8 source subsets, each with full, no-reasoning, 1,000-sample and 1,000-sample no-reasoning variants (computed) (computed; source: https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23)
 - 8 image archive groups — data/images at revision 05bb2c5f, stored as 9 split .tar.gz part files (computed) (computed; source: https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23)
 
-Steps, files and archive groups are different units and are not summed. Variant files overlap: the 1,000-sample and no-reasoning files are subsets or reformulations of the same source data, not additional examples. Per-file sample counts were not computed.
+Steps, files and archive groups are different units and are counted separately. Variant files overlap: the 1,000-sample and no-reasoning files are subsets or reformulations of the same source data and share examples.
 
 ## License declarations
 

@@ -14,7 +14,7 @@ No-code web scraping and monitoring platform whose robots replay recorded clicks
 
 ## Limitations
 
-The help center describes two ways to train a robot: Table Studio, where AI builds the data table from a URL, and Robot Studio, where the user shows the robot what to capture through visual point-and-click training; the llms.txt file also lists a Chrome extension for robot training. Trained robots mimic a user to sign in with stored credentials, fill forms and searches, click buttons, toggles and dropdowns, paginate and scroll, capture screenshots and run on schedules or in bulk, and the llms.txt file states cloud-based execution. The interactions serve data extraction and change monitoring. Prices, usage figures and reliability are publisher statements and were not independently tested.
+The help center describes two ways to train a robot: Table Studio, where AI builds the data table from a URL, and Robot Studio, where the user shows the robot what to capture through visual point-and-click training; the llms.txt file also lists a Chrome extension for robot training. Trained robots mimic a user to sign in with stored credentials, fill forms and searches, click buttons, toggles and dropdowns, paginate and scroll, capture screenshots and run on schedules or in bulk, and the llms.txt file states cloud-based execution. The interactions serve data extraction and change monitoring. Prices, usage figures and reliability are publisher statements.
 
 - Record JSON: https://awesomecua.com/resources/url-307838fec5f74218b032/record.json
 

@@ -30,7 +30,7 @@ Public JSON annotations and Parquet image packages are present. The project READ
 - ≈ 44,000 QA pairs — single-turn portion (reported; source: https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md)
 - ≈ 6,000 dialogues — multi-turn portion (reported; source: https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md)
 
-Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.
+Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 
 ## License declarations
 

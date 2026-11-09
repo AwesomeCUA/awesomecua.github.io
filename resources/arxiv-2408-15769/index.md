@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract surveys evaluation tasks, benchmarks and metrics for multimodal LLMs; AI agents appear only as one item in a long list\. This general MLLM review has no GUI or screen focus\. The other marked it borderline: Surveys MLLM evaluation and lists AI\-agent applications among many domains; the abstract does not say whether GUI or web agent benchmarks are covered or to what extent\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether GUI or web\-agent benchmarks are covered materially\. One read it as outside the scope: The abstract surveys evaluation tasks, benchmarks and metrics for multimodal LLMs; AI agents appear only as one item in a long list\. This general MLLM review has no GUI or screen focus\. The other marked it borderline: Surveys MLLM evaluation and lists AI\-agent applications among many domains; the abstract leaves open whether GUI or web agent benchmarks are covered or to what extent\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

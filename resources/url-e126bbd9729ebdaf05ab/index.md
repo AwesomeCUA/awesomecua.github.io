@@ -14,7 +14,7 @@ Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and
 
 ## Limitations
 
-The card and public manifest identify separate policy-model and world-model JSONL files. No row total or complete record schema is documented in the inspected card; the files were not downloaded as training samples. MIT is the publisher’s data declaration.
+The card and public manifest identify separate policy-model and world-model JSONL files. The inspected card leaves the row total and complete record schema unstated. MIT is the publisher’s data declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/record.json
 
@@ -29,7 +29,7 @@ The card and public manifest identify separate policy-model and world-model JSON
 
 No count recorded.
 
-Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevolver_world_model_sft.jsonl. They are not assumed disjoint train/test splits, and no modality or example count is inferred from filenames alone.
+Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevolver_world_model_sft.jsonl. The files serve policy-model and world-model purposes; their split relationship, modality and example count remain unspecified.
 
 ## License declarations
 

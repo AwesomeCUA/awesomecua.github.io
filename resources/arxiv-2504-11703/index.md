@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Reviewer hold: the retained abstract and full\-text Sections 8–9 evaluate typed tool\-call policies on AgentDojo/ASB and MCP integrations\. Section 9 explicitly excludes graphical\-interface tool calls from the current method\. Preserve the bibliographic record as metadata\-only; do not describe this as a web/GUI defense\.
+Reviewer hold: the retained abstract and full\-text Sections 8–9 evaluate typed tool\-call policies on AgentDojo/ASB and MCP integrations\. Section 9 explicitly excludes graphical\-interface tool calls from the current method\. Preserve the bibliographic record as metadata\-only; the current method excludes graphical\-interface tool calls\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

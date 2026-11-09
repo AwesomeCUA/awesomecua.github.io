@@ -14,7 +14,7 @@ Rust toolkit, CLI and MCP server for scripting reusable GUI operations on macOS,
 
 ## Limitations
 
-The README states that AUV is not a computer-use agent and ships no agent or harness: an agent calls the auv CLI or the MCP server, or writes reusable Rust or JavaScript/TypeScript operations against the versioned Protobuf/gRPC daemon API; a first-party Python SDK is listed as planned. The capability matrix lists native desktop drivers for macOS, Linux and Windows, with Android and iOS planned, and background pointer input on macOS only. Integrations under supported/ cover desktop apps such as Apple Music and games such as Balatro. evals/osworld only provisions an OSWorld Ubuntu desktop on Kubernetes; its README leaves task setup, evaluation and AUV pairing as separate work. The workspace version in Cargo.toml at the inspected commit is 0.0.35. Code was read, not run.
+The README states that AUV is not a computer-use agent and ships no agent or harness: an agent calls the auv CLI or the MCP server, or writes reusable Rust or JavaScript/TypeScript operations against the versioned Protobuf/gRPC daemon API; a first-party Python SDK is listed as planned. The capability matrix lists native desktop drivers for macOS, Linux and Windows, with Android and iOS planned, and background pointer input on macOS only. Integrations under supported/ cover desktop apps such as Apple Music and games such as Balatro. evals/osworld only provisions an OSWorld Ubuntu desktop on Kubernetes; its README leaves task setup, evaluation and AUV pairing as separate work. The workspace version in Cargo.toml at the inspected commit is 0.0.35.
 
 - Record JSON: https://awesomecua.com/resources/github-moeru-ai-auv/record.json
 

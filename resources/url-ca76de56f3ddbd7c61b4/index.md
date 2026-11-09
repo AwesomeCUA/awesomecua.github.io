@@ -14,7 +14,7 @@ Trains small Android automation agents from demonstrations, using macro actions 
 
 ## Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Experiments have not been independently reproduced. Screens are represented from the Android accessibility tree or from pixel-based screen understanding, chosen by heuristics. Evaluation uses the public MoTIF dataset and a demonstration study of 43 tasks across 128 Android apps and websites. An arXiv preprint of the same work (2312.10170) is not retained in the catalog archive, so this record follows the publisher edition.
+The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Screens are represented from the Android accessibility tree or from pixel-based screen understanding, chosen by heuristics. Evaluation uses the public MoTIF dataset and a demonstration study of 43 tasks across 128 Android apps and websites. This record follows the publisher edition of the work; an arXiv preprint is 2312.10170.
 
 - Record JSON: https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/record.json
 

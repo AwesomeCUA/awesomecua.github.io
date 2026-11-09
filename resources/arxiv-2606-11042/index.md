@@ -1,6 +1,6 @@
 # Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields
 
-Workflow-GYM evaluates long GUI workflows in professional software rather than isolated interface actions. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
+Workflow-GYM evaluates long GUI workflows in professional software. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2606-11042/
 - Original source: https://arxiv.org/abs/2606.11042

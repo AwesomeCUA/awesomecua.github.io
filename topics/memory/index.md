@@ -37,7 +37,7 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
 - [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](https://awesomecua.com/resources/arxiv-2610-18784/) — 2026-10-13
   Introduces CarryOn, which maintains evidence-linked task objects and remaining-work context across history compression, with evaluations on desktop tasks and web research.
 - [Learning How to Remember: Memory Modality Selection for GUI Agents](https://awesomecua.com/resources/arxiv-2610-17928/) — 2026-10-13
-  Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step instead of fixing one memory modality for a task.
+  Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step.
 - [Web$hell: A Unified Interface for Agentic Web Access](https://awesomecua.com/resources/arxiv-2610-13416/) — 2026-10-09
   Introduces Web$hell, an interface that compiles live pages into persistent information and action objects so agents can gather evidence, navigate websites, and reuse acquired content through shared operations.
 - [DeltaReplay: Task-Relative Memory Reuse for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2610-11707/) — 2026-10-08
@@ -49,7 +49,7 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
 - [TeleTune: Evolving Agent Skills From Offline Telemetry](https://awesomecua.com/resources/arxiv-2610-05437/) — 2026-10-04
   Introduces TeleTune, which edits a textual skill library using held-out action prediction on offline software-use logs with missing goals or interleaved tasks. The learned workflows also guide retrieval of demonstrations for subsequent web-agent execution.
 - [Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents](https://awesomecua.com/resources/arxiv-2610-01787/) — 2026-10-01
-  Studies how to route different parts of GUI experience into model weights or runtime context rather than treating whole trajectories as a single unit. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
+  Studies how to route different parts of GUI experience into model weights or runtime context. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
 - [Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories](https://awesomecua.com/resources/arxiv-2610-01491/) — 2026-10-01
   Audits WebArena-Lite outcomes and trajectories with human review to identify automatic-evaluator false negatives and the first consequential execution errors. It also studies explicit execution-state memory and procedural guidance, showing why final task scores can miss substantial differences in agent behavior.
 - [Learning Reliable GUI Agents under Imperfect Priors](https://awesomecua.com/resources/arxiv-2609-39547/) — 2026-09-30
@@ -221,7 +221,7 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
 - [Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw](https://awesomecua.com/resources/arxiv-2604-04759/) — 2026-04-06
   Introduces a safety evaluation of OpenClaw and the CIK taxonomy for analyzing how changes to a personal agent's persistent state affect attacks on its local and service access.
 - [Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents](https://awesomecua.com/resources/arxiv-2604-02623/) — 2026-04-03
-  Studies persistent web-agent memory contamination introduced through environmental observations instead of direct memory access. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
+  Studies persistent web-agent memory contamination introduced through environmental observations. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
 - [CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare](https://awesomecua.com/resources/arxiv-2603-24157/) — 2026-03-25
   CareFlow benchmarks long healthcare-software workflows, while CarePilot coordinates action proposals, execution checks and corrective feedback using short- and long-term memory. Its actor consumes visual interfaces and system state to select semantic actions.
 - [AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents](https://awesomecua.com/resources/arxiv-2603-18429/) — 2026-03-19
@@ -247,7 +247,7 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
 - [Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History](https://awesomecua.com/resources/arxiv-2602-17003/) — 2026-02-19
   Persona2Web tests whether web agents can resolve ambiguous requests using preferences implicit in a user’s history. Its reasoning-aware evaluation compares agent architectures and history-access strategies on personalized tasks on the open web.
 - [MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://awesomecua.com/resources/arxiv-2602-16313/) — 2026-02-18
-  MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+  MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions.
 - [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://awesomecua.com/resources/arxiv-2602-16855/) — 2026-02-15
   Presents GUI-Owl-1.5 variants and a hybrid data pipeline for multimodal GUI interaction, tool use, memory, and multi-platform tasks.
 - [TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution](https://awesomecua.com/resources/arxiv-2602-09662/) — 2026-02-10
@@ -317,7 +317,7 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
 - [ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation](https://awesomecua.com/resources/arxiv-2510-07988/) — 2025-10-09
   Introduces ReInAgent, coordinating information management, planning, and reflection around a shared memory for mobile tasks. It proactively asks users for information and checks consistency when instructions are ambiguous or change during execution.
 - [JEF-Hinter: Leveraging Offline Knowledge for Improving Web Agents Adaptation](https://awesomecua.com/resources/arxiv-2510-04373/) — 2025-10-05
-  Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps rather than full demonstration replay.
+  Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps.
 - [PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](https://awesomecua.com/resources/arxiv-2510-00413/) — 2025-10-01
   PAL-UI combines observation/action summaries with selective retrieval of historical screenshots during planning. It trains mobile navigation models from step-level supervision and evaluates transfer to web navigation without additional training.
 - [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://awesomecua.com/resources/arxiv-2509-25140/) — 2025-09-29
@@ -349,7 +349,7 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
 - [Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation](https://awesomecua.com/resources/arxiv-2506-18158/) — 2025-06-22
   Chain-of-Memory explicitly records action descriptions and task-relevant screen information in short- and long-term memory for GUI navigation. GUI Odyssey-CoM provides 111,000 screen-action pairs with memory annotations for learning and evaluating information retention across applications.
 - [Context manipulation attacks : Web agents are susceptible to corrupted memory](https://awesomecua.com/resources/arxiv-2506-17318/) — 2025-06-18
-  Studies context manipulation in web agents by altering stored task representations rather than webpage prompts alone. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
+  Studies context manipulation in web agents by altering stored task representations. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
 - [Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills](https://awesomecua.com/resources/arxiv-2506-10387/) — 2025-06-12
   Mirage-1 organizes interaction trajectories into execution, core, and meta-skills, then uses them to guide Monte Carlo tree search during online GUI tasks. It introduces AndroidLH for long-horizon evaluation and tests the approach on Android and web-navigation benchmarks.
 - [VerificAgent: Domain-Specific Memory Verification for Scalable Oversight of Aligned Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-02539/) — 2025-06-03

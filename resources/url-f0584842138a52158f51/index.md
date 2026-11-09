@@ -14,7 +14,7 @@ Historical OpenAI browser-agent research preview.
 
 ## Limitations
 
-Historical product entry; the official page describes its integration into ChatGPT agent. Do not infer current standalone availability.
+Historical product entry; the official page describes its integration into ChatGPT agent.
 
 - Record JSON: https://awesomecua.com/resources/url-f0584842138a52158f51/record.json
 

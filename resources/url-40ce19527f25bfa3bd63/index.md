@@ -14,7 +14,7 @@ Hub release of GUI-World: GUI screen-recording videos from six scenarios (Androi
 
 ## Limitations
 
-This is the Hub data release; the repository record github:dongping-chen/gui-world covers the evaluation and GUI-Vid code and case studies, and its README calls this dataset the canonical train and test release. The Hub API at revision 7901fa3f reports an ungated repository with 12 annotation JSONL files (benchmark and train for each scenario) and 12,379 MP4 or MOV video files in per-scenario folders. The card has no license metadata field; its License section states CC BY 4.0. The GUI-Vid checkpoint is a separate Hub model and is not covered here.
+This is the Hub data release; the repository record github:dongping-chen/gui-world covers the evaluation and GUI-Vid code and case studies, and its README calls this dataset the canonical train and test release. The Hub API at revision 7901fa3f reports an ungated repository with 12 annotation JSONL files (benchmark and train for each scenario) and 12,379 MP4 or MOV video files in per-scenario folders. The card has no license metadata field; its License section states CC BY 4.0. The GUI-Vid checkpoint is a separate Hub model.
 
 - Record JSON: https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/record.json
 
@@ -32,7 +32,7 @@ This is the Hub data release; the repository record github:dongping-chen/gui-wor
 - 6 GUI scenario categories — dataset taxonomy (reported; source: https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md)
 - 8 question types — dataset taxonomy (reported; source: https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md)
 
-Video files were counted from the Hub file manifest, not by opening them, and are not question or annotation counts. The annotation files were not downloaded, so the number of questions per split is not recorded.
+Video files were counted from the Hub file manifest; video, question and annotation counts use different units.
 
 ## License declarations
 
@@ -41,7 +41,7 @@ Video files were counted from the Hub file manifest, not by opening them, and ar
 - document: not recorded
 - weights: not recorded
 
-- data review: The card states that the work is licensed under CC BY 4.0. Because the declaration is prose rather than card metadata, enrich does not extract it, so it is recorded here.
+- data review: The card states that the work is licensed under CC BY 4.0. The declaration is recorded in prose because enrich only extracts card metadata.
   Sources: https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md
 
 ## Primary evidence

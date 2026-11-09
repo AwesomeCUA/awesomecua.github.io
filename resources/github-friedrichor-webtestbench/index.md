@@ -14,7 +14,7 @@ An end-to-end web-testing benchmark where agents derive test checklists from dev
 
 ## Limitations
 
-Public evaluation/deployment scripts accompany an ungated Hub release with JSON/JSONL metadata and 100 application ZIP files. The ZIP count is an artifact inventory, not an asserted test-case or defect count. The documented baseline uses Claude Agent SDK and a pinned Playwright MCP version with external model credentials; these were not installed or run. Code and data Apache-2.0 declarations are retained separately.
+Public evaluation/deployment scripts accompany an ungated Hub release with JSON/JSONL metadata and 100 application ZIP files. The ZIP count is an artifact inventory. The documented baseline uses Claude Agent SDK and a pinned Playwright MCP version with external model credentials. Code and data Apache-2.0 declarations are retained separately.
 
 - Record JSON: https://awesomecua.com/resources/github-friedrichor-webtestbench/record.json
 
@@ -31,7 +31,7 @@ Public evaluation/deployment scripts accompany an ungated Hub release with JSON/
 - 7 application categories — publisher benchmark overview (reported; source: https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md)
 - 100 web-application archives — Hub file manifest (computed) (computed; source: https://huggingface.co/api/datasets/friedrichor/WebTestBench)
 
-The 100 archive files are not counted as 100 independent test tasks or defects. Backend/tool versions and deployment settings affect reproducibility.
+The 100 archive files form an artifact inventory. Backend/tool versions and deployment settings affect reproducibility.
 
 ## License declarations
 

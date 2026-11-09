@@ -14,7 +14,7 @@ Android GUI-agent adaptation framework combining app exploration, generated curr
 
 ## Limitations
 
-The root README describes MobileGym exploration/feedback and HiFPO optimization. The training README limits its public training path to the Qwen3-VL-8B experiment. Linked model and dataset collections, executable source completeness and benchmark results were not independently verified; the repository code license is not a model or dataset license.
+The root README describes MobileGym exploration/feedback and HiFPO optimization. The training README limits its public training path to the Qwen3-VL-8B experiment. The repository code license applies to code; linked model and dataset collections have separate rights.
 
 - Record JSON: https://awesomecua.com/resources/github-kwai-mobileforge/record.json
 

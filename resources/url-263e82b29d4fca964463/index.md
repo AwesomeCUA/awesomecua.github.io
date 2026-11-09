@@ -14,7 +14,7 @@ Gated Hub release of OSWorld-Science task definitions, staged inputs, grader ref
 
 ## Limitations
 
-Access requires manual approval by the publisher, so the dataset card and file contents were not read; the record rests on the public Hub metadata and file list, the paper and the benchmark README. The paper says the release holds all question sets and images and carries a contamination watermark; the benchmark README says it includes answer keys. The Windows/ANSYS image is not part of the release. Hub metadata declares CC-BY-NC-4.0 for the data; bundled scientific software and third-party inputs keep their own terms.
+Access requires manual approval by the publisher; the record rests on the public Hub metadata and file list, the paper and the benchmark README. The paper says the release holds all question sets and images and carries a contamination watermark; the benchmark README says it includes answer keys. The Windows/ANSYS image is not part of the release. Hub metadata declares CC-BY-NC-4.0 for the data; bundled scientific software and third-party inputs keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/url-263e82b29d4fca964463/record.json
 
@@ -32,7 +32,7 @@ Access requires manual approval by the publisher, so the dataset card and file c
 - 11 QCOW2 VM images — files at Hub revision 9b8de9ad (computed) (computed; source: https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681)
 - 2,759 files — Hub repository at revision 9b8de9ad (computed) (computed; source: https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681)
 
-All counts come from a script over the pinned Hub file list; no file was downloaded. The paper and README report 146 tasks in seven domains, while the listing has 153 task files in eight domain folders, including six econ tasks; a task file is a definition, not an agent run. Task files, translated variants, images and files are different units and are not summed.
+All counts come from a script over the pinned Hub file list; no file was downloaded. The paper and README report 146 tasks in seven domains, while the listing has 153 task files in eight domain folders, including six econ tasks; a task file is a definition, while an agent run is a different unit. Task files, translated variants, images and files are different units and are counted separately.
 
 ## License declarations
 

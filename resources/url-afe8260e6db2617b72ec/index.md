@@ -14,7 +14,7 @@ macOS screenshots paired with generated instructions and a ground-truth click or
 
 ## Limitations
 
-Each record holds the full screenshot, a cropped app-window image, the window's accessibility JSON, the element data (bounding box for clicks, insertion location and text for typing) and task/element categories. The card says GPT-4 agents drafted the tasks during crawling, so instructions are model-generated rather than human-written. The data license is CC-BY-NC-4.0 per card metadata and the bundled LICENSE; the separate MacPaw/GUIrilla code repository's MIT license is not transferred to the data. Sample rows were not downloaded.
+Each record holds the full screenshot, a cropped app-window image, the window's accessibility JSON, the element data (bounding box for clicks, insertion location and text for typing) and task/element categories. The card says GPT-4 agents drafted the tasks during crawling, so instructions are model-generated. The data license is CC-BY-NC-4.0 per card metadata and the bundled LICENSE; the separate MacPaw/GUIrilla code repository's MIT license is not transferred to the data.
 
 - Record JSON: https://awesomecua.com/resources/url-afe8260e6db2617b72ec/record.json
 
@@ -31,7 +31,7 @@ Each record holds the full screenshot, a cropped app-window image, the window's 
 - 1,565 examples — test split at Hub revision ec4853a2 (reported; source: https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md)
 - 101 Parquet shards — data/ files at Hub revision ec4853a2 (96 train, 5 test) (computed) (computed; source: https://huggingface.co/api/datasets/macpaw-research/GUIrilla-Task/revision/ec4853a26f96e1c8adcc31670054f58a67a87297)
 
-The card states the splits are application-level disjoint. Example counts come from the card's dataset_info and split table; shard counts were computed from the pinned Hub file list. An example is one screenshot-instruction-action triple, not a multi-step trajectory.
+The card states the splits are application-level disjoint. Example counts come from the card's dataset_info and split table; shard counts were computed from the pinned Hub file list. An example is one screenshot-instruction-action triple; multi-step trajectories use a different unit.
 
 ## License declarations
 

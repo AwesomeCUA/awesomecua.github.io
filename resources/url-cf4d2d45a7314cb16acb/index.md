@@ -14,7 +14,7 @@ HTML and annotation release used for Code2World’s action-conditioned GUI-state
 
 ## Limitations
 
-The Hub card is license-only; semantic description and reported scale come from the official Code2World README. The public manifest contains HTML files, Android-Control train/test JSON files and extraction/loading scripts. It does not list standalone screenshot image files, and embedded/reference image packaging was not inspected. MIT is the data-card declaration, not a grant for every upstream source dataset.
+The Hub card is license-only; semantic description and reported scale come from the official Code2World README. The public manifest contains HTML files, Android-Control train/test JSON files and extraction/loading scripts. The public manifest lists HTML files, Android-Control train/test JSON files and scripts; standalone screenshot image files are absent from that listing, and embedded/reference image packaging is unspecified. MIT is the data-card declaration, not a grant for every upstream source dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-cf4d2d45a7314cb16acb/record.json
 
@@ -27,9 +27,9 @@ The Hub card is license-only; semantic description and reported scale come from 
 
 ### Count observations
 
-- > 80,000 screen–action pairs — AndroidCode corpus described by Code2World README; released JSON rows not recounted (reported; source: https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md)
+- > 80,000 screen–action pairs — AndroidCode corpus described by Code2World README; the released JSON-row count remains unverified. (reported; source: https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md)
 
-The manifest lists 58,953 HTML files, which are not converted into transition/example counts. The reported >80k pairs and the HTML-file inventory have different units. The card itself has no sample schema or count; archive/image completeness and JSON contents were not audited.
+The manifest lists 58,953 HTML files; the >80k reported pairs use a different unit. The reported >80k pairs and the HTML-file inventory have different units. The card supplies neither a sample schema nor a count; archive/image completeness and JSON contents remain unverified.
 
 ## License declarations
 

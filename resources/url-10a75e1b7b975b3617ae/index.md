@@ -33,7 +33,7 @@ Released by Paradigm Shift AI. The card reports 2,220 browser and 947 computer t
 - 3,167 video files — videos/*.mp4 at revision 0e1b7c63 (computed) (computed; source: https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4)
 - 1,766 DOM snapshot archives — dom_snaps/*.zip at revision 0e1b7c63 (computed) (computed; source: https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4)
 
-Rows carry task name, category (browser or computer task), sub-categories, application or website, difficulty, OS label, login requirement, completion time, screenshots, video and DOM file paths, event JSON, reasoning steps and system metadata. Tasks share template IDs across vendors. Deduplicate on unique_data_id. Parquet rows were not recounted.
+Rows carry task name, category (browser or computer task), sub-categories, application or website, difficulty, OS label, login requirement, completion time, screenshots, video and DOM file paths, event JSON, reasoning steps and system metadata. Tasks share template IDs across vendors. Deduplicate on unique_data_id.
 
 ## License declarations
 

@@ -10,7 +10,7 @@ Reviews are AI-assisted inspections of primary sources. Code, data, weights and 
 
 ## PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion
 
-Evaluates multi-turn PowerPoint creation and editing, scoring the resulting presentation files rather than requiring a fixed API sequence.
+Evaluates multi-turn PowerPoint creation and editing by scoring the resulting presentation files.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2311-01767/
 - Original source: https://arxiv.org/abs/2311.01767
@@ -232,7 +232,7 @@ Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from na
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. This is an application-specific automation benchmark grounded in recorded Excel user actions. Its execution interface is OfficeScripts, so it is adjacent rather than a visual GUI navigation benchmark.
+Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. This is an application-specific automation benchmark grounded in recorded Excel user actions. Its execution interface is OfficeScripts, making it adjacent to visual GUI navigation benchmarks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-14495/record.json
 
@@ -596,7 +596,7 @@ Introduces UReader, which combines unified instruction tuning, auxiliary text-re
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The interface connection is static webpage-screenshot understanding; browser control is not claimed.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The interface connection is static webpage-screenshot understanding.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-05126/record.json
 
@@ -1525,7 +1525,7 @@ Presents ResponsibleTA, a coordinator-executor framework that checks command fea
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. UI task automation is stated in the abstract, but its platform and detailed evaluation protocol are not identified.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. UI task automation is stated in the abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2306-01242/record.json
 
@@ -1648,7 +1648,7 @@ Introduces SheetCopilot, an agent that steers spreadsheet software via atomic vi
 
 ### Limitations
 
-The contribution was reviewed from the retained paper abstract. The original Windows/Excel implementation is identified in the separately retained project README; the later Ubuntu evaluator is not treated as a paper result.
+The contribution was reviewed from the retained paper abstract. The separately retained project README identifies the original Windows/Excel implementation; the Ubuntu evaluator is later.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2305-19308/record.json
 
@@ -2536,7 +2536,7 @@ Pix2Struct pretrains an image-to-text model by reconstructing simplified HTML fr
 
 ### Limitations
 
-Reviewed against the complete official arXiv abstract. Adjacent visual-language pretraining: webpage screenshot parsing and explicit UI evaluation support interface understanding; the paper does not establish an autonomous GUI policy.
+Reviewed against the complete official arXiv abstract. Adjacent visual-language pretraining: webpage screenshot parsing and explicit UI evaluation support interface understanding.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2210-03347/record.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Safety benchmark for OpenClaw\-style personal agents with local\-machine privileges, injecting attacks through skill files, emails and web pages; claw\-style agents without GUI operation\. An open pull request \(\#3477\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Safety benchmark for OpenClaw\-style personal agents with local\-machine privileges, injecting attacks through skill files, emails and web pages; the abstract leaves open whether claw\-style personal agents fit adjacent computer\-use scope\. An open pull request \(\#3477\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

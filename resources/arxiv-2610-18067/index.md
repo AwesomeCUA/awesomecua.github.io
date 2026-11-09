@@ -14,7 +14,7 @@ Synthesizes resettable workspaces with files, application observations and skill
 
 ## Limitations
 
-App WorkEnvs expose UI observations and interaction interfaces alongside file and tool workflows; no specific operating system or pixel-control success is established. Verifier shaping depends on deterministic-check and dependency coverage. External reference scores use differing harnesses or subsets; GDPval Elo is not comparable to percentage metrics. A successful-trace analysis subset is separate from online RL outcomes.
+App WorkEnvs expose UI observations and interaction interfaces alongside file and tool workflows; no specific operating system or pixel-control success is established. Verifier shaping depends on deterministic-check and dependency coverage. External reference scores use differing harnesses or subsets; GDPval Elo and percentage metrics use different scales. A successful-trace analysis subset is separate from online RL outcomes.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-18067/record.json
 

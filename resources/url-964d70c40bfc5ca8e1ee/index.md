@@ -29,7 +29,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - ≈ 22,600 tasks — AgentNet collection (reported; source: https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md)
 
-The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. Generated labels are not independent human quality acceptance records.
+The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. The card distinguishes human task instructions from generated summaries, reasoning, reflections and quality fields; generated labels use a different acceptance process from independent human quality records.
 
 ## License declarations
 

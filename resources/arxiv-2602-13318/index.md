@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmarks multi\-agent systems that generate and edit academic slide decks via HTML; this is content generation rather than operating presentation software, so its fit as office automation is unclear\. An exclusion proposal is open in pull request \#3541\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Benchmarks multi\-agent systems that generate and edit academic slide decks via HTML; the abstract leaves open whether slide generation via HTML fits office automation\. An exclusion proposal is open in pull request \#3541\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

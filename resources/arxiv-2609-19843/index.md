@@ -1,6 +1,6 @@
 # A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents
 
-Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
+Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2609-19843/
 - Original source: https://arxiv.org/abs/2609.19843

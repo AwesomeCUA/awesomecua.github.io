@@ -33,7 +33,7 @@ The inspected code release is v0.1.0, with a separately listed data-v0.1.0 archi
 - 160 task identifiers — bench_env/splits/train.txt (computed) (computed; source: https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt)
 - 256 task identifiers — bench_env/splits/test.txt (computed) (computed; source: https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt)
 
-The split-ID inventory is not a count of sampled trajectories, live Android apps or real user accounts. Extra runtime/data dependencies and third-party content terms remain distinct.
+The split-ID inventory counts task IDs. Extra runtime/data dependencies and third-party content terms remain distinct.
 
 ## License declarations
 

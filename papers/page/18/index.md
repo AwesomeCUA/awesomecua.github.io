@@ -77,7 +77,7 @@ Introduces WAInjectBench with a threat-model taxonomy and malicious and benign t
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The reported contribution evaluates attack detection; end-to-end prevention of browser-agent compromise is not inferred.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The reported contribution evaluates attack detection.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-01354/record.json
 
@@ -2002,7 +2002,7 @@ Introduces a benchmark for binary GUI-toggle instructions and State-aware Reason
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-13615/record.json
 
@@ -2523,7 +2523,7 @@ Introduces VeriOS-Agent, which learns when to execute GUI actions autonomously a
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-07553/record.json
 
@@ -2679,7 +2679,7 @@ Introduces SparkUI-Parser, which adds continuous coordinate decoding and a rejec
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-04908/record.json
 
@@ -3096,7 +3096,7 @@ Introduces reasoning gates that require agents to solve generated, verifiable pu
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The contribution is an access-cost mechanism spanning websites and MCP servers, not a GUI navigation policy.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The contribution is an access-cost mechanism spanning websites and MCP servers.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-01619/record.json
 

@@ -14,7 +14,7 @@ About 150k web navigation tasks from the InSTA project, each giving a website do
 
 ## Limitations
 
-The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agents) and points to an LLM judge in the separate data-for-agents/insta code repository, which is not part of this record. Rows are text task specifications, not agent trajectories or screenshots. The card declares MIT for the dataset.
+The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agents) and points to an LLM judge in the separate data-for-agents/insta code repository; this record covers the task data. Rows contain text task specifications alone, with agent trajectories and screenshots outside this release. The card declares MIT for the dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-a80c7330dbfd4f897693/record.json
 
@@ -32,7 +32,7 @@ The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agen
 - 2,933 examples — test split (reported; source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md)
 - 2,933 distinct website domains — test split (computed) (computed; source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet)
 
-Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file; the train file was not downloaded.
+Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file.
 
 ## License declarations
 

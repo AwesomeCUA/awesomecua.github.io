@@ -14,7 +14,7 @@ WebMix uses a scout-produced interface manual to route mixtures of source-traine
 
 ## Limitations
 
-Reviewed the complete retained abstract and selected exact-v1 method, evaluation and analysis sections. Adapter-bank and router training use source demonstrations. Domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free. No target-time gradients does not mean no target task information.
+Reviewed the complete retained abstract and selected exact-v1 method, evaluation and analysis sections. Adapter-bank and router training use source demonstrations. Domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free. Target-time domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-22539/record.json
 

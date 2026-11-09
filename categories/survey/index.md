@@ -1,6 +1,6 @@
 # Computer-use agent surveys
 
-> 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T11:08:26Z.
+> 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
 
 HTML page: https://awesomecua.com/categories/survey/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/papers.json
 
@@ -354,7 +354,7 @@ Presents a conceptual perception–reasoning–action framework and 12 potential
 
 ### Limitations
 
-Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent, rather than an implemented attack benchmark. Scope was checked against the retained abstract and full-text Sections 2.4 and 3.
+Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent. Scope was checked against the retained abstract and full-text Sections 2.4 and 3.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-10196/record.json
 
@@ -909,7 +909,7 @@ Organizes security risks and defenses for persistent agent memory into six lifec
 
 ### Limitations
 
-Adjacent memory-security survey. Full-text Sections 3.1 and 3.3 discuss poisoned web observations persisted into later agent actions; the work is broader than GUI agents and does not establish a platform implementation.
+Adjacent memory-security survey. Full-text Sections 3.1 and 3.3 discuss poisoned web observations persisted into later agent actions; the work covers a broader agent setting.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-16548/record.json
 
@@ -1805,7 +1805,7 @@ Surveys multimodal memory using representation and management axes, distinguishi
 
 ### Limitations
 
-A broad literature synthesis spanning images, video, audio, GUI and embodied settings. Its GUI section compares interface-state retention, action outcomes, cross-session reuse and visual evidence, but the paper does not provide a new GUI-agent experiment. Taxonomy corpus counts and benchmark classifications are authors' annotations, not independently audited field coverage. Updating stored content alone does not establish the survey's self-evolving-policy tier; endpoint task success does not isolate memory use. Lifecycle, resource-budget and provenance recommendations are proposed evaluation directions rather than demonstrated guarantees. Platform facets stay unspecified; cited systems and releases were not independently verified.
+A broad literature synthesis spanning images, video, audio, GUI and embodied settings. Its GUI section compares interface-state retention, action outcomes, cross-session reuse and visual evidence; the paper is a literature synthesis. Taxonomy corpus counts and benchmark classifications are authors’ annotations. Updating stored content is one memory operation; the survey’s self-evolving-policy tier and memory’s contribution to endpoint task success require separate evidence. Lifecycle, resource-budget and provenance recommendations are proposed evaluation directions. Platform facets remain unspecified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-19366/record.json
 

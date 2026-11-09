@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Sandbox for cross\-user personal\-agent collaboration and attacks over file and record workspaces; the framing is claw\-style but only tool calls are described, so OS\-level computer use is unclear\. An exclusion proposal is open in pull request \#2379\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Sandbox for cross\-user personal\-agent collaboration and attacks over file and record workspaces; the framing is claw\-style and the abstract describes tool calls, leaving OS\-level computer use open\. An exclusion proposal is open in pull request \#2379\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

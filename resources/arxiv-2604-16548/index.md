@@ -14,7 +14,7 @@ Organizes security risks and defenses for persistent agent memory into six lifec
 
 ## Limitations
 
-Adjacent memory-security survey. Full-text Sections 3.1 and 3.3 discuss poisoned web observations persisted into later agent actions; the work is broader than GUI agents and does not establish a platform implementation.
+Adjacent memory-security survey. Full-text Sections 3.1 and 3.3 discuss poisoned web observations persisted into later agent actions; the work covers a broader agent setting.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-16548/record.json
 

@@ -14,7 +14,7 @@ Describes asynchronous reinforcement-learning infrastructure using parallel clou
 
 ## Limitations
 
-The implemented stage uses selected tasks, an external judge and heuristic history management. Autonomous curricula, verification and memory are roadmap directions, not completed capabilities established by this record. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (2 Agent-Environment Interface and Policy Optimisation; 3 Scalable Asynchronous Mobile Environment; 3.2 Persistent State Management; 3.3 Task Lifecycle; 4.2 Rollout and Optimisation; 4.3 Anatomy of the Self-Evolving Agent).
+The implemented stage uses selected tasks, an external judge and heuristic history management. Autonomous curricula, verification and memory are roadmap directions. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (2 Agent-Environment Interface and Policy Optimisation; 3 Scalable Asynchronous Mobile Environment; 3.2 Persistent State Management; 3.3 Task Lifecycle; 4.2 Rollout and Optimisation; 4.3 Anatomy of the Self-Evolving Agent).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-20622/record.json
 

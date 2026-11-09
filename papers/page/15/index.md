@@ -76,7 +76,7 @@ Uses execution uncertainty to trigger retrieval from application documentation, 
 
 ### Limitations
 
-The curiosity signal is a model-based proxy, not a calibrated probability of failure. Accurate external app information is a dependency, and AndroidWorld is the reported evaluation environment. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Problem Formulation; 3.2 Curiosity-Driven Information Gain Estimation; 3.3 Retrieving and Embedding External Knowledge).
+The curiosity signal is a model-based proxy for failure, with calibration unspecified. Accurate external app information is a dependency, and AndroidWorld is the reported evaluation environment. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Problem Formulation; 3.2 Curiosity-Driven Information Gain Estimation; 3.3 Retrieving and Embedding External Knowledge).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-19306/record.json
 
@@ -427,7 +427,7 @@ Nan Chen, Jing Lu, Zilong Wang, Luna K. Qiu, Siming Chen, Yuqing Yang
 
 ## EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents
 
-Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks rather than screenshot similarity alone.
+Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2601-17722/
 - Original source: https://arxiv.org/abs/2601.17722

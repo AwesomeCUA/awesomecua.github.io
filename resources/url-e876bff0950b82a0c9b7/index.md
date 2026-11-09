@@ -14,7 +14,7 @@ Backdoor attack that fine-tunes GUI agents on teacher-written malicious trajecto
 
 ## Limitations
 
-The annotation was reviewed against the CVF open-access landing page and PDF. Experiments have not been independently reproduced. A teacher model (for example Gemini 2.5 Pro) writes malicious reasoning trajectories drawn from a five-category malicious action library, and the agent learns them by supervised fine-tuning, which the paper calls Context-Aware Behavioral Imitation. Main results fine-tune Qwen2-VL-2B and Qwen2-VL-7B at a 0.1 poisoning ratio with a blended visual trigger; an AndroidWorld emulator deployment through Mobile-Agent-v3 is described in the supplementary material. The paper links no code release or arXiv version.
+The annotation was reviewed against the CVF open-access landing page and PDF. A teacher model (for example Gemini 2.5 Pro) writes malicious reasoning trajectories drawn from a five-category malicious action library, and the agent learns them by supervised fine-tuning, which the paper calls Context-Aware Behavioral Imitation. Main results fine-tune Qwen2-VL-2B and Qwen2-VL-7B at a 0.1 poisoning ratio with a blended visual trigger; an AndroidWorld emulator deployment through Mobile-Agent-v3 is described in the supplementary material. The paper links no code release or arXiv version.
 
 - Record JSON: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/record.json
 

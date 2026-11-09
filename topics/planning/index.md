@@ -107,7 +107,7 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 - [StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure](https://awesomecua.com/resources/arxiv-2607-11388/) — 2026-07-13
   StructAgent maintains compact task state and regulates long-horizon execution through verified transitions and progress checkpoints. Its workflow supports evidence-based completion and targeted recovery, with desktop computer-use evaluation and a separate Minecraft extension.
 - [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://awesomecua.com/resources/arxiv-2606-27330/) — 2026-06-25
-  PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone does not ensure planning generalization across websites.
+  PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone falls short of planning generalization across websites.
 - [OctoNest: Adaptive Cross-Device Execution through Stateful Control](https://awesomecua.com/resources/arxiv-2606-20487/) — 2026-06-18
   Introduces OctoNest, which coordinates device agents, revises task assignments from execution feedback, and switches local interaction modalities; CAPEBench evaluates cross-device tasks.
 - [Skill-Guided Continuation Distillation for GUI Agents](https://awesomecua.com/resources/arxiv-2606-18890/) — 2026-06-17
@@ -203,7 +203,7 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 - [IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2602-17049/) — 2026-02-19
   IntentCUA coordinates planner and critic agents through shared intent-aligned memory, retrieving reusable skills for long-horizon automation across desktop applications.
 - [MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://awesomecua.com/resources/arxiv-2602-16313/) — 2026-02-18
-  MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+  MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions.
 - [HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents](https://awesomecua.com/resources/arxiv-2602-16165/) — 2026-02-18
   HiPER trains interactive LLM agents with separate subgoal planning and multi-step execution, assigning reinforcement-learning credit at both levels.
 - [World-Model-Augmented Web Agents with Action Correction](https://awesomecua.com/resources/arxiv-2602-15384/) — 2026-02-17
@@ -369,7 +369,7 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 - [WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis](https://awesomecua.com/resources/arxiv-2507-04370/) — 2025-07-06
   Introduces WebSynthesis, which uses a learned web world model and tree-based planning to synthesize interaction trajectories for training web agents.
 - [LineRetriever: Planning-Aware Observation Reduction for Web Agents](https://awesomecua.com/resources/arxiv-2507-00210/) — 2025-06-30
-  LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
+  LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon.
 - [Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents](https://awesomecua.com/resources/arxiv-2506-21252/) — 2025-06-26
   Introduces Agent-RewardBench to evaluate step-level reward models for multimodal agents across perception, planning, and safety; web navigation is among its scenarios.
 - [Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](https://awesomecua.com/resources/arxiv-2506-17913/) — 2025-06-22
@@ -387,7 +387,7 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 - [BIMgent: Towards Autonomous Building Modeling via Computer-use Agents](https://awesomecua.com/resources/arxiv-2506-07217/) — 2025-06-08
   BIMgent plans software-specific workflows and executes GUI actions for building-information modeling. It evaluates multimodal building design and reconstruction tasks in professional authoring software.
 - [Scenario-Guided LLM-based Mobile App GUI Testing](https://awesomecua.com/resources/arxiv-2506-05079/) — 2025-06-05
-  ScenGen organizes mobile GUI testing around business scenarios rather than unrestricted exploration. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
+  ScenGen organizes mobile GUI testing around business scenarios. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
 - [Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation](https://awesomecua.com/resources/arxiv-2506-04614/) — 2025-06-05
   Uses a pre-execution critic and reinforcement training to evaluate proposed GUI actions and provide corrective suggestions before execution.
 - [ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing](https://awesomecua.com/resources/arxiv-2506-00520/) — 2025-05-31
@@ -415,7 +415,7 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 - [ScaleTrack: Scaling and back-tracking Automated GUI Agents](https://awesomecua.com/resources/arxiv-2505-00416/) — 2025-05-01
   ScaleTrack combines a unified collection of GUI grounding samples with a planning objective that predicts the next action while reconstructing prior actions. This backward prediction links the current screenshot to interaction history during agent training.
 - [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://awesomecua.com/resources/arxiv-2504-21776/) — 2025-04-30
-  Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
+  Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler.
 - [WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model](https://awesomecua.com/resources/arxiv-2504-21024/) — 2025-04-23
   WebEvolver trains a co-evolving world model to predict web observations and generate additional agent-training trajectories. The same model supports look-ahead action selection at inference, with evaluation on live web-task benchmarks.
 - [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://awesomecua.com/resources/arxiv-2504-14239/) — 2025-04-19
@@ -441,7 +441,7 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 - [Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study](https://awesomecua.com/resources/arxiv-2503-16788/) — 2025-03-21
   This study compares matched reasoning and non-reasoning vision-language models on static mobile GUI tasks and interactive AndroidWorld navigation. It finds that chain-of-thought effects vary across tasks and model families.
 - [Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://awesomecua.com/resources/arxiv-2503-15937/) — 2025-03-20
-  Introduces V-Droid, which verifies candidate actions in a discrete action space rather than directly generating each mobile operation.
+  Introduces V-Droid, which verifies candidate actions in a discrete action space.
 - [WebNav: An Intelligent Agent for Voice-Controlled Web Navigation](https://awesomecua.com/resources/arxiv-2503-13843/) — 2025-03-18
   Introduces WebNav, a web navigation agent that turns natural-language commands into GUI actions using screenshot context, DOM labels, and separate LLMs for planning and action parameters.
 - [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](https://awesomecua.com/resources/arxiv-2503-09572/) — 2025-03-12

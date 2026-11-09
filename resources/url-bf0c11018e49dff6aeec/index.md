@@ -14,7 +14,7 @@ Describes Eager, which detects repeated HyperCard interactions, generalizes them
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS.
+The annotation was reviewed against retained primary publication sources. The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop.
 
 - Record JSON: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/record.json
 

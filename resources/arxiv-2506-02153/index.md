@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-This is a general position on small language models in agentic architectures\. The abstract does not establish a specific computer\-interface application for adjacent inclusion\.
+This is a general position on small language models in agentic architectures\. The abstract presents a general position on small language models in agentic architectures; a specific computer\-interface application remains unspecified\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

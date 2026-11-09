@@ -14,7 +14,7 @@ Screenshot-driven agent implementation for MiniWoB++ and WebShop, using a visual
 
 ## Limitations
 
-Code is released for the two named browser benchmarks. Visual-observer checkpoints are linked separately through Google Drive and were not downloaded or access-tested. Root LICENSE begins with GNU AGPL v3 and includes third-party notices; this code declaration is not transferred to bundled/generated data or external weights.
+Code is released for the two named browser benchmarks. Visual-observer checkpoints are linked separately through Google Drive. Root LICENSE begins with GNU AGPL v3 and includes third-party notices; this code declaration is not transferred to bundled/generated data or external weights.
 
 - Record JSON: https://awesomecua.com/resources/github-caap-agent-caap-agent/record.json
 

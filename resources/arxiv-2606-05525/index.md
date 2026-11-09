@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Reusable skills help CLI coding agents such as Codex and Claude Code drive scientific applications like ParaView and napari through scripted workflows; application automation via code rather than GUI operation\. An open pull request \(\#2931\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Reusable skills help CLI coding agents such as Codex and Claude Code drive scientific applications like ParaView and napari through scripted workflows; the abstract leaves open whether scripted workflows fit application automation\. An open pull request \(\#2931\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

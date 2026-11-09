@@ -14,7 +14,7 @@ Computer-use MCP server and CLI for macOS, Linux and Windows exposing nine share
 
 ## Limitations
 
-Distinct from E2B's Open Computer Use agent (github:e2b-dev/open-computer-use). The README presents it as an open-source counterpart to Codex Computer Use and gives install commands for Codex, Claude Code, Gemini CLI, opencode and DeepSeek Harness. The tree holds a Swift macOS runtime, Go-based Linux and Windows runtimes, an npm launcher and an agent skill; the skill says select_text and query are macOS-only. macOS 14 or later with Accessibility and Screen Recording permission is required there. Task reliability was not tested.
+Distinct from E2B's Open Computer Use agent (github:e2b-dev/open-computer-use). The README presents it as an open-source counterpart to Codex Computer Use and gives install commands for Codex, Claude Code, Gemini CLI, opencode and DeepSeek Harness. The tree holds a Swift macOS runtime, Go-based Linux and Windows runtimes, an npm launcher and an agent skill; the skill says select_text and query are macOS-only. macOS 14 or later with Accessibility and Screen Recording permission is required there.
 
 - Record JSON: https://awesomecua.com/resources/github-ifuryst-open-computer-use/record.json
 

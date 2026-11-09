@@ -14,7 +14,7 @@ Gated Hub release of the Online-Mind2Web task set: one JSON test split of tasks 
 
 ## Limitations
 
-The Hub API at revision eacad896 reports gated 'auto' (access is approved automatically after a logged-in request) and one data file, Online_Mind2Web.json, configured as the test split. The card and the task file sit behind that gate and were not read for this record; the description and counts come from the project README, which links this dataset as its data. The Hub card metadata declares CC BY 4.0, matching the README's dataset license; the repository code is MIT and is not applied to the data. The publishers replace invalid tasks over time (36 on 2025-11-03), so a result needs the dataset revision.
+The Hub API at revision eacad896 reports gated 'auto' (access is approved automatically after a logged-in request) and one data file, Online_Mind2Web.json, configured as the test split. The card and task file sit behind the gate; the description and counts come from the project README, which links this dataset as its data. The Hub card metadata declares CC BY 4.0, matching the README's dataset license; the repository code is MIT and is not applied to the data. The publishers replace invalid tasks over time (36 on 2025-11-03), so a result needs the dataset revision.
 
 - Record JSON: https://awesomecua.com/resources/url-a252b36bf1c440269a2e/record.json
 
@@ -30,7 +30,7 @@ The Hub API at revision eacad896 reports gated 'auto' (access is approved automa
 - 300 tasks — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
 - 136 websites — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
 
-Counts are the README's description of the task set, not a count of the gated file, which was not downloaded. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
+Counts describe the task set according to the README; the gated file count remains unknown. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
 
 ## License declarations
 

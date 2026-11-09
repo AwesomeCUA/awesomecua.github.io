@@ -14,7 +14,7 @@ Chrome side-panel extension agent that completes a typed task on websites, choos
 
 ## Limitations
 
-Published by Normal Computing; the former name normal-computing/fuji-web returns the same GitHub repository ID 710539769, and the README still links that address. The README credits UFO for its image-annotation method and reuses UI code from TaxyAI's browser extension. The tree also has a per-site custom knowledge base. Model names in the code are 2024 models (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro). The latest release is v2.2.1 (2024-09-20); later commits are maintenance only. Benchmarks are deferred to the publisher's blog, which was not reviewed. Code was read, not run.
+Published by Normal Computing; the former name normal-computing/fuji-web returns the same GitHub repository ID 710539769, and the README still links that address. The README credits UFO for its image-annotation method and reuses UI code from TaxyAI's browser extension. The tree also has a per-site custom knowledge base. Model names in the code are 2024 models (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro). The latest release is v2.2.1 (2024-09-20); later commits are maintenance only. Benchmarks are deferred to the publisher's blog.
 
 - Record JSON: https://awesomecua.com/resources/github-normal-computing-oss-fuji-web/record.json
 

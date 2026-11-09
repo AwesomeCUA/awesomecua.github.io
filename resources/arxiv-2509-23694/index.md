@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v6 abstract \(5 November 2026\) could not settle the scope: Automated red\-teaming of LLM search agents fed unreliable search results; the abstract does not say whether these agents open and read web pages or only consume search\-API results\. An exclusion proposal is open in pull request \#3975\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v6 abstract \(5 November 2026\) left the scope open: Automated red\-teaming of LLM search agents fed unreliable search results; the abstract leaves open whether the agents open and read pages or consume search\-API results\. An exclusion proposal is open in pull request \#3975\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

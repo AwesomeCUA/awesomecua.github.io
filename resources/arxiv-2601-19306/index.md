@@ -14,7 +14,7 @@ Uses execution uncertainty to trigger retrieval from application documentation, 
 
 ## Limitations
 
-The curiosity signal is a model-based proxy, not a calibrated probability of failure. Accurate external app information is a dependency, and AndroidWorld is the reported evaluation environment. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Problem Formulation; 3.2 Curiosity-Driven Information Gain Estimation; 3.3 Retrieving and Embedding External Knowledge).
+The curiosity signal is a model-based proxy for failure, with calibration unspecified. Accurate external app information is a dependency, and AndroidWorld is the reported evaluation environment. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Problem Formulation; 3.2 Curiosity-Driven Information Gain Estimation; 3.3 Retrieving and Embedding External Knowledge).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-19306/record.json
 

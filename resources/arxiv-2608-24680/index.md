@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Grounds and removes game HUD overlays from gameplay videos to train video world models; game\-screen UI grounding is present, but no agent operates an interface, so catalog relevance is unclear\. An exclusion proposal is open in pull request \#2453\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Grounds and removes game HUD overlays from gameplay videos to train video world models; game\-screen UI grounding is present, and whether an agent operates an interface remains open\. An exclusion proposal is open in pull request \#2453\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

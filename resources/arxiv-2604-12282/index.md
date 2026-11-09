@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Multi\-agent spreadsheet reasoning that inspects sheet regions via code execution, images and LaTeX, scored on SpreadsheetBench against ChatGPT Agent; office automation through code rather than a GUI\. An open pull request \(\#3424\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Multi\-agent spreadsheet reasoning that inspects sheet regions via code execution, images and LaTeX, scored on SpreadsheetBench against ChatGPT Agent; the abstract leaves open whether spreadsheet reasoning through code fits office automation\. An open pull request \(\#3424\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

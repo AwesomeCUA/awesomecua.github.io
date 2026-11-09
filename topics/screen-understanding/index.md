@@ -51,7 +51,7 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 - [Recurrent Latent Visual Search for GUI Grounding](https://awesomecua.com/resources/arxiv-2610-05185/) — 2026-10-04
   Introduces ReLaViS, which performs recurrent visual search inside a grounding model by repeatedly querying screenshot tokens and feeding the resulting spatial evidence back into the model. Coarse-to-fine supervision is constructed from existing interface-element annotations.
 - [OpenVAM: Open-World Visual Attention Modeling with VLMs](https://awesomecua.com/resources/arxiv-2609-31364/) — 2026-09-25
-  Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales rather than agent actions.
+  Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales on static inputs.
 - [Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents](https://awesomecua.com/resources/arxiv-2609-27461/) — 2026-09-23
   MVCAP-Bench tests live browser CAPTCHAs whose foreground meaning emerges through motion against dynamic backgrounds. A foreground-only control separates temporal camouflage difficulty from answer format and browser interaction.
 - [RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection](https://awesomecua.com/resources/arxiv-2609-18690/) — 2026-09-16
@@ -149,7 +149,7 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 - [Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations](https://awesomecua.com/resources/arxiv-2604-26148/) — 2026-04-28
   AniMINT evaluates how VLMs perceive, explain and interpret UI animations using densely annotated videos. The study distinguishes basic motion recognition from higher-level animation meaning and probes motion, context and perceptual cues.
 - [SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents](https://awesomecua.com/resources/arxiv-2604-25562/) — 2026-04-28
-  SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings, rather than establishing universal runtime prevention.
+  SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings.
 - [AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark](https://awesomecua.com/resources/arxiv-2604-24441/) — 2026-04-27
   AutoGUI-v2 evaluates interface functionality, grounding and predicted interaction outcomes using hierarchical regions derived through VLM-human annotation. Its tasks span multiple operating systems and expose differences between functional localization, captioning and transition-logic understanding.
 - [PageGuide: Browser extension to assist users in navigating a webpage and locating information](https://awesomecua.com/resources/arxiv-2604-23772/) — 2026-04-26
@@ -223,7 +223,7 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 - [MEGA-GUI: Multi-stage Enhanced Grounding Agents for GUI Elements](https://awesomecua.com/resources/arxiv-2511-13087/) — 2025-11-17
   Introduces MEGA-GUI, which separates coarse region selection from fine-grained interface-element grounding. Bidirectional zooming and context-aware instruction rewriting coordinate specialized vision-language agents across visual scales.
 - [GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding](https://awesomecua.com/resources/arxiv-2511-00810/) — 2025-11-02
-  Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
+  Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 - [UI-Hawk: Unleashing the Screen Stream Understanding for Mobile GUI Agents](https://awesomecua.com/resources/url-9113270916a36b4b76f1/) — 2025-11
   Mobile GUI agent whose history-aware visual encoder reads earlier screenshots with the current one, trained by a curriculum from grounding, referring, screen QA and summarization to navigation; adds the FunUI benchmark.
 - [GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks](https://awesomecua.com/resources/arxiv-2510-26098/) — 2025-10-30
@@ -359,7 +359,7 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 - [AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2407-17490/) — 2024-07-03
   Introduces Android screenshots with element locations, functionality descriptions, and instructions linked to sequences of GUI actions.
 - [Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps](https://awesomecua.com/resources/arxiv-2407-03037/) — 2024-07-03
-  Trident combines exploration, monitoring, and detection agents to identify functional bugs that do not crash a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
+  Trident combines exploration, monitoring, and detection agents to identify functional bugs in a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
 - [RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation](https://awesomecua.com/resources/url-a998ab1efc741ba69d82/) — 2024-07
   Introduces RealWeb, a Chinese benchmark of 11,739 instructions on 40 real websites with annotated screenshots and slot trees, plus a baseline that detects page regions, parses instructions and acts on the pages.
 - [Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding](https://awesomecua.com/resources/arxiv-2406-19263/) — 2024-06-27
@@ -561,7 +561,7 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 - [MobileViews](https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/) — Date not recorded
   Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 Google Play apps, collected with an optimized DroidBot, with complete per-app traces.
 - [MoCon](https://awesomecua.com/resources/url-c7489f15e7883a695832/) — Date not recorded
-  Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; images not included.
+  Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; the release supplies annotations separately from the referenced images.
 - [MoGUI](https://awesomecua.com/resources/url-be89a250747f507a27ef/) — Date not recorded
   Android app GUI crawl with per-app navigation graphs that link screen IDs through the UI action taken, plus 200 archive shards of the captured screens.
 - [MultiUI](https://awesomecua.com/resources/github-neulab-multiui/) — Date not recorded
@@ -1185,7 +1185,7 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 - [LongHorizonUI](https://awesomecua.com/resources/github-kane2kang-longhorizonui/) — Date not recorded
   Code for the LongHorizonUI Android agent: OCR plus OmniParser icon detection yields numbered element boxes for an LLM, and failed taps fall back from element index to relative and absolute points with rollback.
 - [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/) — Date not recorded
-  Drives live web applications over CDP through a closed-loop visual look-decide-act cycle rather than brittle script replay.
+  Drives live web applications over CDP through a closed-loop visual look-decide-act cycle in place of script replay.
 - [Lucy Screen Agent](https://awesomecua.com/resources/github-alzin-lucy-screen-agent/) — Date not recorded
   Lucy is a voice-and-screen Android agent that perceives live app screens with Gemini vision and executes taps, swipes, and text input.
 - [mac-use-mcp](https://awesomecua.com/resources/github-antbotlab-mac-use-mcp/) — Date not recorded
@@ -1339,7 +1339,7 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 - [Ossabellator Bounded Computer-Use Runtime](https://awesomecua.com/resources/github-ossabellator-computer-use/) — Date not recorded
   Bounded computer-use runtime and semantic browser engine with explicit capability and policy enforcement.
 - [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/) — Date not recorded
-  Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+  Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.
 - [PageLens](https://awesomecua.com/resources/github-heinevwinston-bot-pagelens/) — Date not recorded
   Read-only Claude browser assistant that inspects live webpages and suggests UX and accessibility improvements.
 - [pagewatch-mcp](https://awesomecua.com/resources/github-toolshedlabs-hash-pagewatch-mcp/) — Date not recorded
@@ -1347,7 +1347,7 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 - [PANOPTES Screen MCP Server](https://awesomecua.com/resources/github-yxpil-panoptes/) — Date not recorded
   Streamable HTTP Model Context Protocol server exposing 9 screen capture and mouse/keyboard control tools to AI agents.
 - [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/) — Date not recorded
-  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data in place of screenshots.
 - [pcbridge](https://awesomecua.com/resources/github-eymistaken-pcbridge/) — Date not recorded
   Turns a Linux desktop into a Model Context Protocol server for shell execution, window management, and GUI automation.
 - [perceive](https://awesomecua.com/resources/github-gauthierpiarrette-perceive/) — Date not recorded

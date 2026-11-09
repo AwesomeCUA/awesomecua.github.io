@@ -14,7 +14,7 @@ Released inference and evaluation code for demonstration-conditioned mobile GUI 
 
 ## Limitations
 
-At the retained README snapshot, LearnGUI-Online code and the real-world deployment implementation were marked coming soon. The mobile operating system is not established by the reviewed release instructions; no code was executed.
+At the retained README snapshot, LearnGUI-Online code and the real-world deployment implementation were marked coming soon. The reviewed release instructions leave the mobile operating system unspecified.
 
 - Record JSON: https://awesomecua.com/resources/github-lgy0404-learnact/record.json
 

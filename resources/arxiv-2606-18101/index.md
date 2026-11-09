@@ -1,6 +1,6 @@
 # Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding
 
-Proposes quality-aware self-distillation for GUI coordinate generation under student-produced prefixes. A correctness-aware gate suppresses coordinate-token supervision that cannot reach the target box, while teacher-probability scaling adjusts the remaining signal strength.
+Proposes quality-aware self-distillation for GUI coordinate generation under student-produced prefixes. A correctness-aware gate suppresses coordinate-token supervision outside the target box, while teacher-probability scaling adjusts the remaining signal strength.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2606-18101/
 - Original source: https://arxiv.org/abs/2606.18101

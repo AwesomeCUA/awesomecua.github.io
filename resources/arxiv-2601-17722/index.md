@@ -1,6 +1,6 @@
 # EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents
 
-Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks rather than screenshot similarity alone.
+Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2601-17722/
 - Original source: https://arxiv.org/abs/2601.17722

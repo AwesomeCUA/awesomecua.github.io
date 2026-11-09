@@ -14,7 +14,7 @@
 
 ## Limitations
 
-First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub now resolves to this repository. Per the card, the dataset curator captured and annotated the screenshots with the GUI annotation tool it links, between July 22 and August 8, 2025, mostly on macOS in Arc and Chrome. It is a small training set, not a benchmark; files other than samples.json and metadata.json were not downloaded.
+First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub now resolves to this repository. Per the card, the dataset curator captured and annotated the screenshots with the GUI annotation tool it links, between July 22 and August 8, 2025, mostly on macOS in Arc and Chrome. It is a small training set; samples.json and metadata.json were read.
 
 - Record JSON: https://awesomecua.com/resources/url-f0eac3ad813245645492/record.json
 
@@ -29,7 +29,7 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub no
 
 - 739 annotated screenshots — training set described by the card at revision ec67c2bf (reported; source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md)
 
-The Hub manifest at this revision lists 739 PNG files under data/. Computed from samples.json at this revision (26 MB, not retained as a receipt): 2,397 interaction keypoints (1,960 click, 185 hover, 158 select, 48 type, 46 drag) and platform labels of 704 macOS, 23 Mobile and 12 blank. Samples also carry a screenparser_preds detection field that the card does not describe; it is not counted as human annotation.
+The Hub manifest at this revision lists 739 PNG files under data/. Computed from samples.json at this revision (26 MB): 2,397 interaction keypoints (1,960 click, 185 hover, 158 select, 48 type, 46 drag) and platform labels of 704 macOS, 23 Mobile and 12 blank. Samples also carry a screenparser_preds detection field that the card does not describe; it is not counted as human annotation.
 
 ## License declarations
 

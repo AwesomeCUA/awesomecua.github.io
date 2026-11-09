@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: LLM multi\-agent framework automating ERP finance workflows such as wire transfers; the abstract does not say whether agents operate ERP interfaces or only back\-end services\. An exclusion proposal is open in pull request \#4155\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: LLM multi\-agent framework automating ERP finance workflows such as wire transfers; the abstract leaves open whether agents operate ERP interfaces or back\-end services\. An exclusion proposal is open in pull request \#4155\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

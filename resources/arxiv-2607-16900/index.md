@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Synthesizes stateful API\-calling trajectories with an LLM world model and evaluates on AppWorld and OfficeBench, i\.e\. app and office automation through APIs rather than GUI actions\. An open pull request \(\#2421\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Synthesizes stateful API\-calling trajectories with an LLM world model and evaluates on AppWorld and OfficeBench through app and office APIs; the abstract leaves open whether API\-based app and office automation fits adjacent scope\. An open pull request \(\#2421\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ A containerized Android evaluation environment with GUI-only, agent-user interac
 
 ## Limitations
 
-This is Tongyi-MAI/MobileWorld, distinct from jacklishufan/MobileWorld (MobileWorldBench). Public source includes task definitions, verification logic and environment orchestration. The README reports 201 tasks across 20 applications; this is not an independent count of the evolving task tree. Linux/KVM or WSL2/KVM is required by the documented host setup, with macOS support in progress. MCP and simulated-user settings can require separate external services.
+This is Tongyi-MAI/MobileWorld, distinct from jacklishufan/MobileWorld (MobileWorldBench). Public source includes task definitions, verification logic and environment orchestration. The README reports 201 tasks across 20 applications. Linux/KVM or WSL2/KVM is required by the documented host setup, with macOS support in progress. MCP and simulated-user settings can require separate external services.
 
 - Record JSON: https://awesomecua.com/resources/github-tongyi-mai-mobileworld/record.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Memory and planning framework for deep research agents that search and analyze information; the abstract does not say whether the agents open and read web pages or only call search tools\. An exclusion proposal is open in pull request \#3361\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) left the scope open: Memory and planning framework for deep research agents that search and analyze information; the abstract leaves open whether agents open and read pages or call search tools\. An exclusion proposal is open in pull request \#3361\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

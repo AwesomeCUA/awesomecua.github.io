@@ -21,7 +21,7 @@ Inclusion does not establish reproducibility or endorsement.
 ## Structured profile
 
 - actions: tap/long-tap/swipe, navigation buttons and text editing, refuse, ask-consent and complete, task-specific shortcut actions
-- evaluation: Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results are not a single generic success-rate metric.
+- evaluation: Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results include separate goal-achievement, harm-prevention, risk-detection and completion-progress measures.
 - focus: mobile task helpfulness, harm prevention during Android interaction
 - observations: screenshot pixels, parsed UI hierarchy text, task instruction and interaction history
 - setting: interactive
@@ -30,7 +30,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-Inspected release/ver.3 branch exposes task definitions, Android environment and per-task evaluators. It requires Android API 34, Appium/ADB and documented third-party app versions; those APKs/accounts were not acquired. The action parser includes semantic shortcuts in addition to screen gestures, so this is not a strictly coordinate-only action setting. No corpus task total is inferred from evaluator-module or file counts. Apache-2.0 applies to repository code, not automatically app/data assets.
+Inspected release/ver.3 branch exposes task definitions, Android environment and per-task evaluators. It requires Android API 34, Appium/ADB and documented third-party app versions. The action parser includes semantic shortcuts in addition to screen gestures. No corpus task total is inferred from evaluator-module or file counts. Apache-2.0 applies to repository code, not automatically app/data assets.
 
 ## License declarations
 

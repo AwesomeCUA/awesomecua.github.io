@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Orchestrates multi\-agent systems through agent\-to\-agent communication instead of fixed workflows, evaluated on GAIA\. The abstract names no web\-page or GUI interaction\. The other marked it borderline: Multi\-agent orchestration via agent\-to\-agent messaging, evaluated on GAIA against OWL; the abstract does not say whether the agents browse web pages or only call tools, so web interaction is unclear\. An curation proposal is open in pull request \#3728\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether the agents browse web pages or call tools\. One read it as outside the scope: Orchestrates multi\-agent systems through agent\-to\-agent communication, evaluated on GAIA\. The abstract names no web\-page or GUI interaction\. The other marked it borderline: Multi\-agent orchestration via agent\-to\-agent messaging, evaluated on GAIA against OWL; the abstract leaves open whether the agents browse web pages or call tools\. An curation proposal is open in pull request \#3728\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

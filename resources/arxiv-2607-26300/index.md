@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: The abstract presents a human\-facing dashboard for monitoring and steering long\-running agent sessions, so GUI names the tool itself\. The steered agents are generic and no web, GUI or device operation by agents is described\. An open pull request \(\#2533\) proposes to curate it, so the scope needs a decision\. The retained record is v2; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: The abstract presents a human\-facing dashboard for monitoring and steering long\-running agent sessions, so GUI names the tool itself; whether the steered agents operate web pages, GUIs or devices remains open\. The steered agents are generic and no web, GUI or device operation by agents is described\. An open pull request \(\#2533\) proposes to curate it, so the scope needs a decision\. The retained record is v2; reconcile its metadata before approval\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

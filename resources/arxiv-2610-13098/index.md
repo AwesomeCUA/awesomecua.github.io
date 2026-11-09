@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Execution\-trace refinement for agents that edit Blender scenes through programs on BlenderGym; unclear whether scripted 3D\-application editing counts as application automation, since no GUI is operated\. An exclusion proposal is open in pull request \#2551\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Execution\-trace refinement for agents that edit Blender scenes through programs on BlenderGym; whether scripted 3D\-application editing counts as application automation remains open\. An exclusion proposal is open in pull request \#2551\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

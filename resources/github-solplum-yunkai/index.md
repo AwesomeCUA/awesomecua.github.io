@@ -14,7 +14,7 @@ Android phone assistant combining model-driven tool use with accessibility-tree 
 
 ## Limitations
 
-The Android AccessibilityService contains concrete screen-reading and action paths. The inspected HarmonyOS accessibility extension is a lifecycle/event scaffold with its screen-content probe disabled; HDC appears in an external UI-test driver, so Harmony GUI-control parity is not established by this review. Setup requires a configured OpenAI-compatible model endpoint and API key: local storage does not establish offline inference or a no-transmission guarantee. Documented approval and privacy mechanisms are not independently tested security guarantees. No app, device test or model inference was run.
+The Android AccessibilityService contains concrete screen-reading and action paths. The inspected HarmonyOS accessibility extension is a lifecycle/event scaffold with its screen-content probe disabled; HDC appears in an external UI-test driver. Setup requires a configured OpenAI-compatible model endpoint and API key; local storage and the endpoint have separate data paths, with offline inference and transmission behavior unspecified. No app, device test or model inference was run.
 
 - Record JSON: https://awesomecua.com/resources/github-solplum-yunkai/record.json
 

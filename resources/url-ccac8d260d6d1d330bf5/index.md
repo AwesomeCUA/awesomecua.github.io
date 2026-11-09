@@ -14,7 +14,7 @@ Passing runs of three browser agents on 13 WebArena-Infinity web apps generated 
 
 ## Limitations
 
-Released by the web-arena-x organization. The card cites a project page (webarena.dev/webarena-infinity) instead of a paper, and the environment-generation pipeline is the separate repository github.com/web-arena-x/webarena-infinity, which this record does not cover. Only trajectories that passed the programmatic state checks in a three-repetition final run are included, so it is not a balanced success/failure sample. In the sampled history files, Gemini 2.5 Flash (Browser Use harness) acts on indexed DOM elements, while Kimi K2.5 and Qwen 2.5 VL Plus trajectories store clicks as absolute pixel coordinates next to the model's raw output. MIT is the card's data declaration and does not establish rights to the products the environments are modeled on.
+Released by the web-arena-x organization. The card cites a project page (webarena.dev/webarena-infinity); the environment-generation pipeline is the separate repository github.com/web-arena-x/webarena-infinity. Only trajectories that passed the programmatic state checks in a three-repetition final run are included; the sample contains successful trajectories. In the sampled history files, Gemini 2.5 Flash (Browser Use harness) acts on indexed DOM elements, while Kimi K2.5 and Qwen 2.5 VL Plus trajectories store clicks as absolute pixel coordinates next to the model's raw output. MIT is the card's data declaration and does not establish rights to the products the environments are modeled on.
 
 - Record JSON: https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/record.json
 
@@ -33,7 +33,7 @@ Released by the web-arena-x organization. The card cites a project page (webaren
 - 25,503 agent steps (sum of the manifest steps field) — manifest.json at revision 73cf7f57 (computed) (computed; source: https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json)
 - 2,195 trajectory folders with history.json — Hub file tree at revision 73cf7f57 (computed) (computed; source: https://huggingface.co/api/datasets/webarena-x/webarena-infinity-trajectories/revision/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe)
 
-Trajectories, tasks, environments, steps and folders are different units and are not summed. Each agent has at most one trajectory per task. Manifest difficulty labels: 604 easy, 508 medium, 1,217 hard. The manifest lists 134 Gemini trajectories (89 gitlab-plan-and-track, 45 gmail) whose folders are absent from the file tree at this revision, so 2,195 trajectories have files. Screenshots were not downloaded; two history files were sampled.
+Trajectories, tasks, environments, steps and folders are different units and are counted separately. Each agent has at most one trajectory per task. Manifest difficulty labels: 604 easy, 508 medium, 1,217 hard. The manifest lists 134 Gemini trajectories (89 gitlab-plan-and-track, 45 gmail) whose folders are absent from the file tree at this revision, so 2,195 trajectories have files. Two history files were sampled.
 
 ## License declarations
 

@@ -14,7 +14,7 @@ Benchmark harness that holds the base model fixed and runs six browser-agent har
 
 ## Limitations
 
-Sister project of ClawBench. The repository holds the harness-bench CLI (harness x model x task matrix expansion with credential gating, run, batch and a leaderboard renderer over ClawBench result summaries), six harness adapters (openclaw, hermes, claw-code, browser-use, stagehand, coze-studio), each a Dockerfile, setup script and run script built on the clawbench-base image, and a one-task smoke fixture. The tasks, the five-layer recording and the judge belong to ClawBench and are not in this repository; the run and batch commands call clawbench.run_case, which the code says needs clawbench-eval 0.2.0 or later. At the inspected commit the README's fixtures/lite.txt 20-task subset is absent from the tree, the browser-use run script calls a run-browser-use.py that neither the tree nor its Dockerfile supplies, and the leaderboard and demo videos are placeholders. stagehand and coze-studio need BrowserBase or Coze credentials. Not a fork, not archived. Code was read, not run.
+Sister project of ClawBench. The repository holds the harness-bench CLI (harness x model x task matrix expansion with credential gating, run, batch and a leaderboard renderer over ClawBench result summaries), six harness adapters (openclaw, hermes, claw-code, browser-use, stagehand, coze-studio), each a Dockerfile, setup script and run script built on the clawbench-base image, and a one-task smoke fixture. The tasks, the five-layer recording and the judge belong to ClawBench; this repository holds the harness, whose run and batch commands call clawbench.run_case and require clawbench-eval 0.2.0 or later. At the inspected commit the README's fixtures/lite.txt 20-task subset is absent from the tree, the browser-use run script calls a run-browser-use.py that neither the tree nor its Dockerfile supplies, and the leaderboard and demo videos are placeholders. stagehand and coze-studio need BrowserBase or Coze credentials.
 
 - Record JSON: https://awesomecua.com/resources/github-reacher-z-harnessbench/record.json
 
@@ -28,7 +28,7 @@ Sister project of ClawBench. The repository holds the harness-bench CLI (harness
 
 ### Count observations
 
-- 153 tasks — ClawBench shared task pool (not stored in this repository) (reported; source: https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md)
+- 153 tasks — ClawBench shared task pool, held in the separate ClawBench repository (reported; source: https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md)
 - 6 harness adapters — clawbench.harnesses entry points registered in pyproject.toml (computed) (computed; source: https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml)
 
 Task definitions and judge prompts live in ClawBench. Cloud harnesses without credentials are reported as skipped, not scored as zero. No results were published at the inspected commit.

@@ -14,7 +14,7 @@ A released MAI-UI checkpoint combining mobile GUI actions, agent-user interactio
 
 ## Limitations
 
-Four public safetensors shards are present and Apache-2.0 is declared. The card presents family-wide results and device-cloud architecture; those claims are not all assigned to the 8B checkpoint. Other parameter sizes are not duplicated in this proposal batch.
+Four public safetensors shards are present and Apache-2.0 is declared. The card presents family-wide results and device-cloud architecture.
 
 - Record JSON: https://awesomecua.com/resources/url-00b1a3abf9bcb424b264/record.json
 

@@ -14,7 +14,7 @@ Android agent code that explores apps over ADB, mines transition-aware knowledge
 
 ## Limitations
 
-The repository was renamed from JiuTian-VL/GUI-explorer and is archived; the README still links the old address. It ships exploration, retrieval and demo code that needs an OpenAI API key and an ADB-connected Android device or emulator. The prebuilt knowledge_base release asset (knowledge_data.pkl) was not downloaded. SPA-Bench, AndroidWorld and GUI-KRB results appear only as README images, so no scores are recorded. The root MIT license covers code; it is not extended to the knowledge-base asset or external models.
+The repository was renamed from JiuTian-VL/GUI-explorer and is archived; the README still links the old address. It ships exploration, retrieval and demo code that needs an OpenAI API key and an ADB-connected Android device or emulator. SPA-Bench, AndroidWorld and GUI-KRB results appear only as README images, so no scores are recorded. The root MIT license covers code; it is not extended to the knowledge-base asset or external models.
 
 - Record JSON: https://awesomecua.com/resources/github-ilearn-lab-acl25-gui-explorer/record.json
 

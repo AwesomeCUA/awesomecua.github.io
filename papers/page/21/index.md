@@ -563,7 +563,7 @@ Introduces synthetic CAD interaction videos, a model for learning interface acti
 
 ### Limitations
 
-The contribution was reviewed from the retained abstract. Sections 1 and 3 of the exact-version v2 paper identify Onshape as the browser-based interaction environment; the use of pixel-level input does not make the operated surface a desktop application.
+The contribution was reviewed from the retained abstract. Sections 1 and 3 of the exact-version v2 paper identify Onshape as the browser-based interaction environment with pixel-level input.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-24838/record.json
 
@@ -720,7 +720,7 @@ Models mobile application execution as a finite-state machine to support plannin
 
 ### Limitations
 
-Hugging Face discovery used the label MAPLE for this ID; the record follows the current primary arXiv title, Agent-SAMA. The secondary-title discrepancy is not treated as proof of a historical rename.
+Hugging Face discovery used the label MAPLE for this ID; the record follows the current primary arXiv title, Agent-SAMA.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-23596/record.json
 
@@ -1344,7 +1344,7 @@ Trains ScreenExplorer with reinforcement learning in dynamic GUI environments, u
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-19095/record.json
 

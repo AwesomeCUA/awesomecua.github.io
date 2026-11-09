@@ -14,7 +14,7 @@ Live-web task definitions and rubrics for evaluating computer-use agents, with p
 
 ## Limitations
 
-Public TSV files contain V1, V2 and refusal task definitions. The card declares MIT for the dataset. V1 and V2 share the same 609 task identities and must not be summed as distinct tasks. The May 2026 refresh supersedes calendar-bound task wording; live-site availability is not established by this metadata review.
+Public TSV files contain V1, V2 and refusal task definitions. The card declares MIT for the dataset. V1 and V2 share the same 609 task identities. The May 2026 refresh supersedes calendar-bound task wording.
 
 - Record JSON: https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/record.json
 
@@ -31,7 +31,7 @@ Public TSV files contain V1, V2 and refusal task definitions. The card declares 
 - 609 task identities — main V1/V2 suite (shared identities) (reported; source: https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md)
 - 111 tasks — refusal suite (reported; source: https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md)
 
-V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are task definitions, not independently verified runnable website states.
+V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are task definitions.
 
 ## License declarations
 

@@ -14,7 +14,7 @@ Qwen-VL checkpoint released with GUICourse and tuned on its GUIAct and GUIChat d
 
 ## Limitations
 
-GUICourse's README announces this repository as the Qwen-GUI weights. The card has no prose: its YAML lists GUIChat and GUIAct as datasets and declares Apache-2.0, and its only content is an inference script. config.json gives a QWenLMHeadModel with a 448-pixel visual encoder. The manifest holds one PyTorch weight file plus trainer state. Web and Android coverage follows from the training data; no checkpoint was loaded and no result was reproduced. The terms of the Qwen-VL base model were not assessed.
+GUICourse's README announces this repository as the Qwen-GUI weights. The card has no prose: its YAML lists GUIChat and GUIAct as datasets and declares Apache-2.0, and its only content is an inference script. config.json gives a QWenLMHeadModel with a 448-pixel visual encoder. The manifest holds one PyTorch weight file plus trainer state. Web and Android coverage follows from the training data; no checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-23bc63f93d3c31d74af3/record.json
 

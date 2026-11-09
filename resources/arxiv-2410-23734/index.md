@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) found it outside the scope: The abstract gives a classical simulation algorithm for measurement\-based quantum computation using Bell polytopes\. This quantum information work does not involve agents operating graphical interfaces, web pages or devices\. The retained record is v1, so the scope decision waits until that snapshot is reconciled\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) found it outside the scope: The abstract gives a classical simulation algorithm for measurement\-based quantum computation using Bell polytopes\. This quantum information work gives a classical simulation algorithm for measurement\-based quantum computation using Bell polytopes; the retained v1 scope decision awaits reconciliation with the screened v2 abstract\. The retained record is v1, so the scope decision waits until that snapshot is reconciled\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

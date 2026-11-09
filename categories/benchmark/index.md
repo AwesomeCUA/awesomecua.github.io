@@ -1,6 +1,6 @@
 # Computer-use agent benchmarks
 
-> 264 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T11:08:26Z.
+> 264 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -142,7 +142,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 116 task definitions — parameterized AndroidWorld tasks (reported; source: https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md)
 - 20 applications — documented AndroidWorld app set (reported; source: https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md)
 
-Random parameters produce many instances from the same task definitions. Preserve seeds and parameterization; 116 is not a count of all possible task instances.
+Random parameters produce many instances from the same task definitions. Preserve seeds and parameterization; 116 counts task definitions, while random parameters produce many task instances.
 
 ### License declarations
 
@@ -191,7 +191,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-A framework with interactive browser adapters and a static WebLINX evaluation integration, so the profile setting is mixed. README-listed integrations are not added as disjoint tasks or datasets. Core requires Playwright/Chromium; individual benchmarks have their own setup, credentials, licenses and validation rules. Apache-2.0 covers repository code only. No browser tasks or third-party project code were executed.
+A framework with interactive browser adapters and a static WebLINX evaluation integration, so the profile setting is mixed. README-listed integrations are components of this framework; their tasks and datasets are separate inventories. Core requires Playwright/Chromium; individual benchmarks have their own setup, credentials, licenses and validation rules. Apache-2.0 covers repository code only. No browser tasks or third-party project code were executed.
 
 ### License declarations
 
@@ -242,7 +242,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - 1,581 target annotations — sum of icon/text counts in the published card table (computed) (computed; source: https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md)
 
-Language, instruction style, and positive/negative target configuration are explicit evaluator options. This profile describes target localization, not end-to-end workflow completion. The target count is computed from the card table, not from expanded language/style evaluation instances.
+Language, instruction style, and positive/negative target configuration are explicit evaluator options. This profile describes target localization. The target count uses card-table targets; expanded language/style evaluation instances use a different count.
 
 ### License declarations
 
@@ -295,7 +295,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 177 task instances — cross-website test split (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md)
 - 912 task instances — cross-domain test split (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md)
 
-These are reported split inventories, not online task-success measurements. Original Mind2Web, Multimodal-Mind2Web, and Online-Mind2Web have different inputs/protocols. The authors require macro-average metrics for comparison with the paper; test archives remain upstream.
+These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, and Online-Mind2Web have different inputs/protocols. The authors require macro-average metrics for comparison with the paper; test archives remain upstream.
 
 ### License declarations
 
@@ -345,7 +345,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 910 tasks — full VWA suite (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
 - 233 human trajectories — one task from each template type (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
 
-The 233 demonstration trajectories are not the full 910-task evaluation set. Observation modes and captioning components differ across baseline agents.
+The 233 demonstration trajectories and the full 910-task evaluation set are different populations. Observation modes and captioning components differ across baseline agents.
 
 ### License declarations
 
@@ -393,7 +393,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 138 tasks — benchmark task collection (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
 - 9 applications — benchmark application set (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
 
-The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks, not the separately released Android Instruct training set.
+The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks; Android Instruct is a separately released training set.
 
 ### License declarations
 
@@ -443,7 +443,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 12,087 instructions — crowd-sourced instruction collection (reported; source: https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md)
 - ≈ 1,180,000 products — full product inventory (reported; source: https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md)
 
-This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations. Detailed reward semantics are not normalized in this profile.
+This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations.
 
 ### License declarations
 
@@ -527,7 +527,7 @@ A containerized Android evaluation environment with GUI-only, agent-user interac
 
 ### Limitations
 
-This is Tongyi-MAI/MobileWorld, distinct from jacklishufan/MobileWorld (MobileWorldBench). Public source includes task definitions, verification logic and environment orchestration. The README reports 201 tasks across 20 applications; this is not an independent count of the evolving task tree. Linux/KVM or WSL2/KVM is required by the documented host setup, with macOS support in progress. MCP and simulated-user settings can require separate external services.
+This is Tongyi-MAI/MobileWorld, distinct from jacklishufan/MobileWorld (MobileWorldBench). Public source includes task definitions, verification logic and environment orchestration. The README reports 201 tasks across 20 applications. Linux/KVM or WSL2/KVM is required by the documented host setup, with macOS support in progress. MCP and simulated-user settings can require separate external services.
 
 - Record JSON: https://awesomecua.com/resources/github-tongyi-mai-mobileworld/record.json
 
@@ -614,14 +614,14 @@ AgentStudio's 1,000-example GUI grounding test set, sampled from GroundUI-18K: w
 
 ### Limitations
 
-The card calls this a test set and asks that it not be used for training, although the Hub split is named train. One Parquet split in two shards carries image, instruction, raw_instruction, bbox, resolution, source and platform fields; platform and source tallies come from the Hugging Face dataset-viewer statistics, not a download. Source labels name Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. MIT is the dataset-card declaration, and screenshots drawn from upstream datasets keep their own terms.
+The card calls this a test set and asks that it be reserved from training, although the Hub split is named train. One Parquet split in two shards carries image, instruction, raw_instruction, bbox, resolution, source and platform fields; platform and source tallies come from the Hugging Face dataset-viewer statistics. Source labels name Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. MIT is the dataset-card declaration, and screenshots drawn from upstream datasets keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/url-d86f55753bfea45fe313/record.json
 
 ### Structured profile
 
 - actions: click coordinate
-- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.
+- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
 - focus: instruction-conditioned GUI element grounding
 - observations: screenshots, natural-language instructions
 - setting: offline
@@ -633,7 +633,7 @@ The card calls this a test set and asks that it not be used for training, althou
 - 300 examples — platform label desktop (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train)
 - 300 examples — platform label mobile (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train)
 
-Subset of GroundUI-18K sampled for efficient benchmarking; the larger set is a separate Hub repository and is not counted here. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.
+Subset of GroundUI-18K sampled for efficient benchmarking; this count covers the subset, while the larger set is a separate Hub repository. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.
 
 ### License declarations
 
@@ -676,7 +676,7 @@ Inclusion does not establish reproducibility or endorsement.
 ### Structured profile
 
 - actions: click point or box center, refusal represented by negative coordinates in the evaluator
-- evaluation: The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding, not OSWorld task-execution success.
+- evaluation: The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding; OSWorld task-execution success is a separate measure.
 - focus: desktop GUI grounding, infeasible-target refusal
 - observations: screenshot, instruction
 - setting: offline
@@ -685,7 +685,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-The repository retains original OSWorld-G.json and refined OSWorld-G_refined.json instructions; treat them as alternative benchmark versions, not additional disjoint tasks. Refined instructions reduce requirements beyond grounding. The same repository also contains Jedi training/rendering material, which is excluded from benchmark counts. The standalone generic eval.py entry point is a stub; the named model runner supplies image_size to its geometry helper. No task count or successful execution is inferred from repository file totals. Apache-2.0 is recorded for code only.
+The repository retains original OSWorld-G.json and refined OSWorld-G_refined.json instructions as alternative benchmark versions. Refined instructions reduce requirements beyond grounding. The same repository also contains Jedi training/rendering material, which is excluded from benchmark counts. The standalone generic eval.py entry point is a stub; the named model runner supplies image_size to its geometry helper. No task count or successful execution is inferred from repository file totals. Apache-2.0 is recorded for code only.
 
 ### License declarations
 
@@ -736,7 +736,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-The public Hub revision 5efbb1f1 contains three platform JSON annotation files and an image ZIP; its card only declares Apache-2.0. No sample total or equivalence to the original ScreenSpot test count is asserted. Keep v2 separate from v1 and retain evaluator/version and coordinate conversion when comparing results. Files were listed, not downloaded as data.
+The public Hub revision 5efbb1f1 contains three platform JSON annotation files and an image ZIP; its card only declares Apache-2.0. No sample total or equivalence to the original ScreenSpot test count is asserted. Keep v2 separate from v1 and retain evaluator/version and coordinate conversion when comparing results.
 
 ### License declarations
 
@@ -771,7 +771,7 @@ A web-interface localization benchmark with screenshot instructions and target b
 
 ### Limitations
 
-Four public test Parquet shards are present. The dataset card declares Apache-2.0. This is an offline localization test, not an end-to-end web-task success benchmark; reported screenshots and samples are not summed as different populations.
+Four public test Parquet shards are present. The dataset card declares Apache-2.0. This is an offline localization test; reported screenshots and samples are different units.
 
 - Record JSON: https://awesomecua.com/resources/url-5e2bd1b3398974b79c9c/record.json
 
@@ -787,7 +787,7 @@ Four public test Parquet shards are present. The dataset card declares Apache-2.
 
 - 1,639 examples — test split (reported; source: https://huggingface.co/datasets/Hcompany/WebClick/raw/main/README.md)
 
-The card reports more than 100 websites but does not provide a precise website total. Grounding accuracy does not establish task completion.
+The card reports more than 100 websites. Grounding accuracy and task completion are separate measures.
 
 ### License declarations
 
@@ -920,7 +920,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 300 tasks — documented Online-Mind2Web suite (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
 - 136 websites — documented site coverage (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
 
-Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema; a constant headline task count does not imply an unchanged test set.
+Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema because tasks are actively replaced when websites or requirements become invalid.
 
 ### License declarations
 
@@ -968,7 +968,7 @@ The maintainer README identifies MiniWoB++ as the extension introduced in the 20
 
 - > 100 web environments — README collection size (reported; source: https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md)
 
-The README gives a lower bound, not an exact active-environment inventory. Action presets expose different capabilities, so comparisons must identify the preset. Environment-specific reward details are not normalized here. The repository is in maintenance mode.
+The README gives a lower bound for the active-environment inventory. Action presets expose different capabilities, so comparisons must identify the preset. The repository is in maintenance mode.
 
 ### License declarations
 
@@ -1054,7 +1054,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 169 VM task definitions — tasks/VM/**/*.json at tree 21b5eb0f; excludes tasks/Raw and tasks/Dual (computed) (computed; source: https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1)
 - 6 application families — VM suite: Celestia, ChimeraX, GrassGIS, KAlgebra, Lean, TeXstudio (reported; source: https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md)
 
-Manifest count 169 matches the official verifier audit. Other Raw/Dual definitions can represent alternative execution modes of the same problems and are not added. Official Docker migration documents a 20-task acceptance subset, not a full-suite performance result; legacy VMware remains. External service sign-in/rate limits, amd64 binaries and ChimeraX redistribution terms limit portability. Only code MIT is established; VM, scientific data and bundled apps need their own terms.
+Manifest count 169 matches the official verifier audit. Other Raw/Dual definitions can represent alternative execution modes of the same problems. Official Docker migration documents a 20-task acceptance subset; full-suite performance uses a different scope, and legacy VMware remains. External service sign-in/rate limits, amd64 binaries and ChimeraX redistribution terms limit portability. Only code MIT is established; VM, scientific data and bundled apps need their own terms.
 
 ### License declarations
 
@@ -1104,7 +1104,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 #### Count observations
 
-- 1,272 instruction–target examples — Hub test split at 0be08781; not unique screenshots (reported; source: https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md)
+- 1,272 instruction–target examples — Hub test split at 0be08781; row count distinct from unique screenshots (reported; source: https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md)
 
 Offline, zero-shot evaluation across mobile, desktop, and web. The card explicitly excludes training use in its intended-use description. Public API reports ungated Parquet files and canonical Hub id bevaya/ScreenSpot; the catalog identity is preserved. Apache-2.0 is the Hub data declaration. No runtime or underlying screenshot rights audit was performed.
 
@@ -1176,7 +1176,7 @@ An audited re-release of WebArena's 812 web tasks with corrected reference answe
 
 ### Limitations
 
-The README describes this as the verified release of WebArena and keeps the original task file (assets/dataset/test.raw.json) for reference; scores on it are not interchangeable with original WebArena results. The cited paper is a NeurIPS 2025 Scaling Environments for Agents workshop paper on OpenReview (94tlGxmqkN) with no arXiv identifier, so no paper record is linked. The task file is also published as the Hugging Face dataset AmineHA/WebArena-Verified, which was not reviewed here; Apache-2.0 is the repository code license and is not applied to the task data or to the self-hosted site images. Docker images and a PyPI package are documented but were not run.
+The README describes this as the verified release of WebArena and keeps the original task file (assets/dataset/test.raw.json) for reference; scores on it are not interchangeable with original WebArena results. The cited paper is a NeurIPS 2025 Scaling Environments for Agents workshop paper on OpenReview (94tlGxmqkN) with no arXiv identifier, so no paper record is linked. The task file is also published as the Hugging Face dataset AmineHA/WebArena-Verified, which was not reviewed here; Apache-2.0 is the repository code license and is not applied to the task data or to the self-hosted site images. Docker images and a PyPI package are documented.
 
 - Record JSON: https://awesomecua.com/resources/github-servicenow-webarena-verified/record.json
 
@@ -1248,7 +1248,7 @@ Inclusion does not establish reproducibility or endorsement.
 - ≈ 2,300 expert demonstrations — original paper benchmark (reported; source: https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50)
 - > 150 websites — original paper benchmark (reported; source: https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50)
 
-The figures are rounded descriptions from the original paper. WebLINX 1.1 / BrowserGym removes some demonstrations and changes evaluated steps, including tab actions; do not mix those results or counts with the original release. This profile does not treat replayed demonstration steps as live task completion.
+The figures are rounded descriptions from the original paper. WebLINX 1.1 / BrowserGym removes some demonstrations and changes evaluated steps, including tab actions; its results and counts have a different scope from the original release. This profile covers replayed demonstration steps; live task completion is a separate measure.
 
 ### License declarations
 
@@ -1470,7 +1470,7 @@ Memory-centric Android benchmark of 128 tasks across 26 apps, run in Dockerized 
 
 ### Limitations
 
-Official benchmark code for the MemGUI-Bench paper (ACM MM 2026 per the README). The mg CLI pulls a prebuilt Docker runtime with the Android emulator and the MemGUI AVD snapshot, launches parallel backend containers on a Linux host with KVM, runs agents through MobileWorld's agent interface (src/mobile_world) and writes MobileWorld-format trajectories with screenshots. MemGUI-Eval (memgui_eval/) describes each step with a multimodal model and makes a final decision with a second model; the leaderboard uses Gemini 2.5 Flash and Gemini 2.5 Pro for these roles. Each task CSV row gives the app(s), difficulty, whether UI memory is required and golden steps; the default step budget is int(golden_steps * 2.5 + 1). The Hugging Face dataset lgy0404/MemGUI-Bench holds the same two task CSV files (byte-identical at revisions 217713e and 3fb01b6), so it is recorded as an alias. Agent results in the README and leaderboard were not reproduced.
+Official benchmark code for the MemGUI-Bench paper (ACM MM 2026 per the README). The mg CLI pulls a prebuilt Docker runtime with the Android emulator and the MemGUI AVD snapshot, launches parallel backend containers on a Linux host with KVM, runs agents through MobileWorld's agent interface (src/mobile_world) and writes MobileWorld-format trajectories with screenshots. MemGUI-Eval (memgui_eval/) describes each step with a multimodal model and makes a final decision with a second model; the leaderboard uses Gemini 2.5 Flash and Gemini 2.5 Pro for these roles. Each task CSV row gives the app(s), difficulty, whether UI memory is required and golden steps; the default step budget is int(golden_steps * 2.5 + 1). The Hugging Face dataset lgy0404/MemGUI-Bench holds the same two task CSV files (byte-identical at revisions 217713e and 3fb01b6), so it is recorded as an alias.
 
 - Record JSON: https://awesomecua.com/resources/github-lgy0404-memgui-bench/record.json
 
@@ -1489,7 +1489,7 @@ Official benchmark code for the MemGUI-Bench paper (ACM MM 2026 per the README).
 - 26 applications — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark) (computed) (computed; source: https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv)
 - 115 tasks marked as requiring UI memory — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark) (computed) (computed; source: https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv)
 
-Counts come from the pinned CSV files and match the README badges (128 tasks, 26 apps, 89.8% memory-intensive). The full set has 48, 42 and 38 tasks at difficulty levels 1, 2 and 3, and its golden steps average about 36. The 40-task file is a subset of the 128 tasks, so the two counts are not summed. Leaderboard settings fix the judge models; debugging runs may use others.
+Counts come from the pinned CSV files and match the README badges (128 tasks, 26 apps, 89.8% memory-intensive). The full set has 48, 42 and 38 tasks at difficulty levels 1, 2 and 3, and its golden steps average about 36. The 40-task file is a subset of the 128 tasks. Leaderboard settings fix the judge models; debugging runs may use others.
 
 ### License declarations
 
@@ -1547,7 +1547,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - > 8,000 tasks — reported multi-level benchmark (reported; source: https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md)
 
-The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. Do not treat every level as the same evaluator or a complete implemented interface.
+The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. The README documents four levels; release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration.
 
 ### License declarations
 
@@ -1597,7 +1597,7 @@ The inspected code release is v0.1.0, with a separately listed data-v0.1.0 archi
 - 160 task identifiers — bench_env/splits/train.txt (computed) (computed; source: https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt)
 - 256 task identifiers — bench_env/splits/test.txt (computed) (computed; source: https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt)
 
-The split-ID inventory is not a count of sampled trajectories, live Android apps or real user accounts. Extra runtime/data dependencies and third-party content terms remain distinct.
+The split-ID inventory counts task IDs. Extra runtime/data dependencies and third-party content terms remain distinct.
 
 ### License declarations
 
@@ -1676,7 +1676,7 @@ Instruction variants over ScreenSpot-v2 screenshots that distinguish original co
 
 ### Limitations
 
-Public image files and desktop/mobile/web annotation JSON files are listed. This is a changed instruction set over an existing screenshot collection, not an independent new screenshot corpus. No data license or precise example count is declared in the card; no paper relationship is inferred from its generic project/PDF links.
+Public image files and desktop/mobile/web annotation JSON files are listed. This is a changed instruction set over an existing screenshot collection. No data license or precise example count is declared in the card; no paper relationship is inferred from its generic project/PDF links.
 
 - Record JSON: https://awesomecua.com/resources/url-17729e1c532ba7043404/record.json
 
@@ -1692,7 +1692,7 @@ Public image files and desktop/mobile/web annotation JSON files are listed. This
 
 - 4 instruction types — instruction-variant design (reported; source: https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md)
 
-Reuses ScreenSpot-v2 imagery. Image-file count is not treated as a count of independent screenshots or tasks.
+Reuses ScreenSpot-v2 imagery. Image-file counts, independent screenshots and tasks are different units.
 
 ### License declarations
 
@@ -1772,7 +1772,7 @@ Web-agent benchmark on self-hosted Wiki, News and Shop sites, each with six era-
 
 ### Limitations
 
-Code for the TimeWarp paper, which the README's citation lists as to appear in the NeurIPS 2026 Evaluations and Datasets Track. env/ holds Flask apps for Wiki and News and an adapted copy of WebShop for Shop (with WebShop's MIT license text), plus a homepage app; each loads one of six numbered UI themes styled after different eras (the Wiki app also registers a seventh 'modern' theme), and new themes can be added as folders. Site data is downloaded from the Hugging Face dataset sparklabutah/timewarp-env-data. src/browsergym/timewarp registers timewarp.1 to timewarp.231 with BrowserGym; its task file has 231 tasks: 70 Wiki-only, 64 Shop-only, 47 News-only and 50 spanning two or three sites. Agents answer in free text, which is normalized and checked by string_match, number_match and list_match verifiers (AND-combined per task); 2 tasks use only the LLM judge (GPT-5 by default, or a locally served Gemma model). scripts/ runs AgentLab studies per site and sweeps models and UI versions; collectTeacherTraj/ provides a modified AgentLab loop and agent that save teacher trajectories, llamafactory/ has full and LoRA fine-tuning configs for training on them, and the README points to GPT-5 traces on Hugging Face. scripts/annotation holds the verifier authoring and audit tooling, results/ has page-measurement and visual-information validation data, and proofs/ has Lean 4 proofs of the appendix theory. The README shows an MIT badge without a link, and the tree has no root license file. Not a fork, not archived; no release. Code was read, not run.
+Code for the TimeWarp paper, which the README's citation lists as to appear in the NeurIPS 2026 Evaluations and Datasets Track. env/ holds Flask apps for Wiki and News and an adapted copy of WebShop for Shop (with WebShop's MIT license text), plus a homepage app; each loads one of six numbered UI themes styled after different eras (the Wiki app also registers a seventh 'modern' theme), and new themes can be added as folders. Site data is downloaded from the Hugging Face dataset sparklabutah/timewarp-env-data. src/browsergym/timewarp registers timewarp.1 to timewarp.231 with BrowserGym; its task file has 231 tasks: 70 Wiki-only, 64 Shop-only, 47 News-only and 50 spanning two or three sites. Agents answer in free text, which is normalized and checked by string_match, number_match and list_match verifiers (AND-combined per task); 2 tasks use only the LLM judge (GPT-5 by default, or a locally served Gemma model). scripts/ runs AgentLab studies per site and sweeps models and UI versions; collectTeacherTraj/ provides a modified AgentLab loop and agent that save teacher trajectories, llamafactory/ has full and LoRA fine-tuning configs for training on them, and the README points to GPT-5 traces on Hugging Face. scripts/annotation holds the verifier authoring and audit tooling, results/ has page-measurement and visual-information validation data, and proofs/ has Lean 4 proofs of the appendix theory. The README shows an MIT badge without a link, and the tree has no root license file. Not a fork, not archived; no release.
 
 - Record JSON: https://awesomecua.com/resources/github-sparklabutah-timewarp/record.json
 
@@ -1869,7 +1869,7 @@ WebLINX 1.1, a reprocessed release of WebLINX's conversational web-navigation de
 
 ### Limitations
 
-The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for BrowserGym and AgentLab: some demonstrations were removed and tab actions were added to the evaluated steps, so results should be reported as WebLINX-1.1, WebLINX-BrowserGym or WebLINX-BG, not compared with WebLINX 1.0. Each demonstration folder holds accessibility trees, DOM snapshots, element properties and boxes, page HTML and screenshots, with per-demonstration ZIP archives alongside. The task loader and scorer live in the separate McGill-NLP/weblinx-browsergym extension repository, which declares no license. CC-BY-NC-SA-4.0 is the card's data declaration, with added terms of use.
+The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for BrowserGym and AgentLab: some demonstrations were removed and tab actions were added to the evaluated steps; results should be reported as WebLINX-1.1, WebLINX-BrowserGym or WebLINX-BG and compared within that release. Each demonstration folder holds accessibility trees, DOM snapshots, element properties and boxes, page HTML and screenshots, with per-demonstration ZIP archives alongside. The task loader and scorer live in the separate McGill-NLP/weblinx-browsergym extension repository, which declares no license. CC-BY-NC-SA-4.0 is the card's data declaration, with added terms of use.
 
 - Record JSON: https://awesomecua.com/resources/url-77afb3a9b045a157167c/record.json
 
@@ -1893,7 +1893,7 @@ The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for
 - 10,407 single-step tasks — test_vis split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
 - 5,467 single-step tasks — test_web split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
 
-A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries, so files were not counted. No agent was run.
+A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries. No agent was run.
 
 ### License declarations
 
@@ -2099,7 +2099,7 @@ A benchmark and evaluation toolkit for comparing automatic web-agent judges agai
 
 ### Limitations
 
-The public repository contains judges, evaluation utilities and annotation files; the linked Hub hosts trajectory/screenshot manifests. No root code license is declared. Dataset Terms of Use are custom and retain third-party restrictions rather than declaring an SPDX license. The paper-reported 1,302 trajectories describe its reviewed study population, not a count recomputed from current Hub files.
+The public repository contains judges, evaluation utilities and annotation files; the linked Hub hosts trajectory/screenshot manifests. No root code license is declared. Dataset Terms of Use are custom and retain third-party restrictions rather than declaring an SPDX license. The paper-reported 1,302 trajectories describe its reviewed study population.
 
 - Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-agent-reward-bench/record.json
 
@@ -2115,7 +2115,7 @@ The public repository contains judges, evaluation utilities and annotation files
 
 - 1,302 trajectories — paper-reported expert-reviewed set (reported; source: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending)
 
-Counts refer to the paper study; current Hub package files are not converted into trajectory totals.
+Counts refer to the paper study.
 
 ### License declarations
 
@@ -2205,7 +2205,7 @@ Primarily API and coding interaction; included as an adjacent comparison for GUI
 - 750 tasks — original AppWorld benchmark (2024 paper) (reported; source: https://arxiv.org/abs/2407.18901)
 - 9 applications — original AppWorld environment (2024 paper) (reported; source: https://arxiv.org/abs/2407.18901)
 
-This is an adjacent API/coding benchmark, not a screenshot-only task suite. Preserve the named release; task counts here refer to the original paper.
+This is an adjacent API/coding benchmark. Preserve the named release; task counts here refer to the original paper.
 
 ### License declarations
 
@@ -2271,7 +2271,7 @@ Everyday-task benchmark on live websites that runs browser agents in containeriz
 
 ### Limitations
 
-Renamed from reacher-z/ClawBench; both API names return repository 1206519531 (TIGER-AI-Lab/ClawBench), which is not a fork and not archived. Counts and scoring rules were read at commit 07eb50a3. The tree also holds v1-lite, claw-eval and environmental-observation task folders, which are not counted here. Task definitions and execution traces are also published as Hugging Face datasets (NAIL-Group/ClawBench, NAIL-Group/ClawBenchV1Trace, TIGER-Lab/ClawBenchV2Trace), whose cards and licenses were not reviewed for this record. Apache-2.0 is recorded for repository code only. Nothing was installed or run.
+Renamed from reacher-z/ClawBench; both API names return repository 1206519531 (TIGER-AI-Lab/ClawBench), which remains active as the same repository. Counts and scoring rules were read at commit 07eb50a3. The tree also holds v1-lite, claw-eval and environmental-observation task folders; this record’s counts cover the stated task set. Task definitions and execution traces are also published as Hugging Face datasets (NAIL-Group/ClawBench, NAIL-Group/ClawBenchV1Trace, TIGER-Lab/ClawBenchV2Trace); their data licenses remain unverified in this record. Apache-2.0 is recorded for repository code only. Nothing was installed or run.
 
 - Record JSON: https://awesomecua.com/resources/github-tiger-ai-lab-clawbench/record.json
 
@@ -2328,7 +2328,7 @@ Human-annotated browser-agent trajectories for comparing automated task-success 
 
 ### Limitations
 
-Public Parquet configs separate trajectories from per-reviewer annotations. The card declares MIT. The two splits have different review stages: Online-Mind2Web includes blind and verifier-informed annotations, whereas the internal split is blind-only. This measures verifier agreement rather than agent task success.
+Public Parquet configs separate trajectories from per-reviewer annotations. The card declares MIT. The two splits have different review stages: Online-Mind2Web includes blind and verifier-informed annotations, whereas the internal split is blind-only. This measures verifier agreement.
 
 - Record JSON: https://awesomecua.com/resources/url-d5140d438466c1e1348a/record.json
 
@@ -2347,7 +2347,7 @@ Public Parquet configs separate trajectories from per-reviewer annotations. The 
 - 215 annotation rows — fara7b_om2w_browserbase split (reported; source: https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md)
 - 154 annotation rows — internal split (reported; source: https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md)
 
-Trajectory rows and reviewer rows have different grains. Internal task labels do not make the released Parquet files private. No payload data was downloaded.
+Trajectory rows and reviewer rows have different grains. The released Parquet files are public despite internal task labels. No payload data was downloaded.
 
 ### License declarations
 
@@ -2382,7 +2382,7 @@ A federated mobile-agent training and evaluation suite that varies user-data het
 
 ### Limitations
 
-The public Hub lists six dataset families of JSON/JSONL partition annotations. The repository explicitly says unpacked screenshots are not provided and must be reconstructed from original AndroidControl and AITW sources. This is offline training/evaluation infrastructure rather than a live Android task environment. No repository license file or dataset-license declaration was found in the inspected sources; neither is inferred from the underlying ms-swift project.
+The public Hub lists six dataset families of JSON/JSONL partition annotations. The repository says unpacked screenshots must be reconstructed from original AndroidControl and AITW sources. This is offline training/evaluation infrastructure. No repository license file or dataset-license declaration was found in the inspected sources; neither is inferred from the underlying ms-swift project.
 
 - Record JSON: https://awesomecua.com/resources/github-wwh0411-fedmabench/record.json
 
@@ -2400,7 +2400,7 @@ The public Hub lists six dataset families of JSON/JSONL partition annotations. T
 - 3 heterogeneity types — publisher benchmark overview (reported; source: https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md)
 - 8 federated learning algorithms — publisher benchmark overview (reported; source: https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md)
 
-The dataset-family count does not count tasks, apps, screenshots or client instances. Code and data licenses are unknown; external image sources are required.
+The dataset-family count measures dataset families. Code and data licenses are unknown; external image sources are required.
 
 ### License declarations
 
@@ -2435,7 +2435,7 @@ Public-ladder release of GUIGuard-Bench: 121 Android and Linux desktop agent tra
 
 ### Limitations
 
-This Hub repository is the public-ladder subset: the paper and project page describe 241 trajectories with 4,080 screenshots, while this card's evaluation set has 121. The reference_virtual_android and reference_virtual_pc folders (emulated Android and Windows trajectories without privacy labels) are reference-only and not part of the evaluation. The card is an anonymous-review version without a citation; the paper link comes from the project page that the paper's abstract links. Screenshots contain personal information, and the card limits use to research.
+This Hub repository is the public-ladder subset: the paper and project page describe 241 trajectories with 4,080 screenshots, while this card's evaluation set has 121. The reference_virtual_android and reference_virtual_pc folders contain emulated Android and Windows trajectories without privacy labels as reference material outside the evaluation. The card is an anonymous-review version without a citation; the paper link comes from the project page that the paper's abstract links. Screenshots contain personal information, and the card limits use to research.
 
 - Record JSON: https://awesomecua.com/resources/url-61860953a680776ffe53/record.json
 
@@ -2455,7 +2455,7 @@ This Hub repository is the public-ladder subset: the paper and project page desc
 - 68 Android task directories — Android/ at revision c2b5ca41 (computed) (computed; source: https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920)
 - 53 PC task directories — PC/ at revision c2b5ca41 (computed) (computed; source: https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920)
 
-Trajectories, screenshots and annotations are different units and are not summed. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once, not retained) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.
+Trajectories, screenshots and annotations are different units and are counted separately. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.
 
 ### License declarations
 
@@ -2492,7 +2492,7 @@ Benchmark harness that holds the base model fixed and runs six browser-agent har
 
 ### Limitations
 
-Sister project of ClawBench. The repository holds the harness-bench CLI (harness x model x task matrix expansion with credential gating, run, batch and a leaderboard renderer over ClawBench result summaries), six harness adapters (openclaw, hermes, claw-code, browser-use, stagehand, coze-studio), each a Dockerfile, setup script and run script built on the clawbench-base image, and a one-task smoke fixture. The tasks, the five-layer recording and the judge belong to ClawBench and are not in this repository; the run and batch commands call clawbench.run_case, which the code says needs clawbench-eval 0.2.0 or later. At the inspected commit the README's fixtures/lite.txt 20-task subset is absent from the tree, the browser-use run script calls a run-browser-use.py that neither the tree nor its Dockerfile supplies, and the leaderboard and demo videos are placeholders. stagehand and coze-studio need BrowserBase or Coze credentials. Not a fork, not archived. Code was read, not run.
+Sister project of ClawBench. The repository holds the harness-bench CLI (harness x model x task matrix expansion with credential gating, run, batch and a leaderboard renderer over ClawBench result summaries), six harness adapters (openclaw, hermes, claw-code, browser-use, stagehand, coze-studio), each a Dockerfile, setup script and run script built on the clawbench-base image, and a one-task smoke fixture. The tasks, the five-layer recording and the judge belong to ClawBench; this repository holds the harness, whose run and batch commands call clawbench.run_case and require clawbench-eval 0.2.0 or later. At the inspected commit the README's fixtures/lite.txt 20-task subset is absent from the tree, the browser-use run script calls a run-browser-use.py that neither the tree nor its Dockerfile supplies, and the leaderboard and demo videos are placeholders. stagehand and coze-studio need BrowserBase or Coze credentials.
 
 - Record JSON: https://awesomecua.com/resources/github-reacher-z-harnessbench/record.json
 
@@ -2506,7 +2506,7 @@ Sister project of ClawBench. The repository holds the harness-bench CLI (harness
 
 #### Count observations
 
-- 153 tasks — ClawBench shared task pool (not stored in this repository) (reported; source: https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md)
+- 153 tasks — ClawBench shared task pool, held in the separate ClawBench repository (reported; source: https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md)
 - 6 harness adapters — clawbench.harnesses entry points registered in pyproject.toml (computed) (computed; source: https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml)
 
 Task definitions and judge prompts live in ClawBench. Cloud harnesses without credentials are reported as skipped, not scored as zero. No results were published at the inspected commit.
@@ -2573,7 +2573,7 @@ The Hub repository holds data only: multi-part offline screenshot archives, elem
 - 101 task instruction files — online/low_level_instructions at the inspected revision (computed) (computed; source: https://huggingface.co/api/datasets/lgy0404/LearnGUI)
 - 101 screen recordings — online/raw_data at the inspected revision (computed) (computed; source: https://huggingface.co/api/datasets/lgy0404/LearnGUI)
 
-Task, step-action, application and file counts are different units and are not summed. Each k-shot table row reuses the same split tasks with a different number of support demonstrations, so the 1-, 2- and 3-shot rows are not additional tasks.
+Task, step-action, application and file counts are different units; these counts are reported separately. Each k-shot table row reuses the same split tasks with a different number of support demonstrations; the 1-, 2- and 3-shot rows describe those same tasks.
 
 ### License declarations
 
@@ -2617,7 +2617,7 @@ Inclusion does not establish reproducibility or endorsement.
 ### Structured profile
 
 - actions: device actions through AgentEnv
-- evaluation: Checks whether the recorded execution visits all annotated essential states rather than requiring an identical action sequence.
+- evaluation: Checks whether the recorded execution visits all annotated essential states.
 - focus: mobile task completion, essential-state evaluation
 - observations: screenshots, view hierarchies, Android activity names
 - setting: interactive
@@ -2629,7 +2629,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 393 tasks — self-constructed subset (reported; source: https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md)
 - 46 Android applications — self-constructed subset (reported; source: https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md)
 
-Application coverage refers to the self-constructed subset. Task execution and essential-state annotation are separate components; counts are publisher-reported, not a fresh task-file recount.
+Application coverage refers to the self-constructed subset. Task execution and essential-state annotation are separate components; counts are publisher-reported.
 
 ### License declarations
 
@@ -2678,7 +2678,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 676 tasks — documented MacAgentBench suite (reported; source: https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md)
 - 25 applications — documented application coverage (reported; source: https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md)
 
-The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framework skills and interfaces affect the task setting; the inspected README does not define one universal observation representation.
+The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framework skills and interfaces affect the task setting, with observation representation varying by framework.
 
 ### License declarations
 
@@ -2764,14 +2764,14 @@ Mobile-app task definitions covering everyday scenarios, with annotated precondi
 
 ### Limitations
 
-Public task files are available as JSONL and XLSX with documentation. The card explicitly declares Apache-2.0 for the dataset, despite having no license field in its YAML metadata. It identifies mobile apps without fixing an operating-system taxonomy; model scores are not imported.
+Public task files are available as JSONL and XLSX with documentation. The card explicitly declares Apache-2.0 for the dataset, despite having no license field in its YAML metadata. It identifies mobile apps across an unspecified operating-system taxonomy.
 
 - Record JSON: https://awesomecua.com/resources/url-d7a4f34a6a5202af5f64/record.json
 
 ### Structured profile
 
 - actions: mobile interface operations, clarification requests
-- evaluation: Published task definitions include preconditions and clarification requirements; the metadata review does not independently validate the reported agent scores.
+- evaluation: Published task definitions include preconditions and clarification requirements.
 - focus: mobile task completion, clarification behavior, cross-app tasks
 - observations: mobile app interfaces
 - setting: interactive
@@ -2813,7 +2813,7 @@ Browser-rendered mobile simulation with resettable app state and a shared task s
 
 ### Limitations
 
-These clients simulate named commercial applications and are not those commercial products. The code and simulator data have distinct license files. No benchmark run was performed. The README describes a phone that runs in the browser, and the Android-emulator playground is a separate OpenMobile2 release, so the platform facet is web rather than a mobile operating system.
+These clients simulate named commercial applications. The code and simulator data have distinct license files. No benchmark run was performed. The README describes a phone that runs in the browser, and the Android-emulator playground is a separate OpenMobile2 release, so the platform facet is web.
 
 - Record JSON: https://awesomecua.com/resources/github-openmobile2-mobilegym-plusplus/record.json
 
@@ -2899,7 +2899,7 @@ The repository ships the harness, tasks, rubrics, persona metadata and documenta
 
 ### Limitations
 
-Each task has a SHA-1 ID, a prompt, a starting URL, a difficulty level, a reference step count, numbered rubric items with requirement and verification text, and SimilarWeb category tags. The README runs tasks with the OSWorld runner (Chrome in an Ubuntu VM, 100-step budget) after converting them with convert_odysseys_to_osworld.py, whose OSWorld evaluator is a placeholder; scoring is done afterwards by run_full_trajectory_per_rubric.py, which asks an LLM judge (by default gemini-3.1-flash-lite-preview, the model the README uses, or an OpenAI-compatible model) whether any step satisfies each rubric item. Reported metrics are the averaged rubric score, the perfect rate and trajectory efficiency. The README says the starting URL is always Google, but 70 of the 200 tasks in odysseys.json start at another site, and the converter opens each task's own URL. Tasks run on live websites, so results can drift. README results are paper figures and were not reproduced.
+Each task has a SHA-1 ID, a prompt, a starting URL, a difficulty level, a reference step count, numbered rubric items with requirement and verification text, and SimilarWeb category tags. The README runs tasks with the OSWorld runner (Chrome in an Ubuntu VM, 100-step budget) after converting them with convert_odysseys_to_osworld.py, whose OSWorld evaluator is a placeholder; scoring is done afterwards by run_full_trajectory_per_rubric.py, which asks an LLM judge (by default gemini-3.1-flash-lite-preview, the model the README uses, or an OpenAI-compatible model) whether any step satisfies each rubric item. Reported metrics are the averaged rubric score, the perfect rate and trajectory efficiency. The README says the starting URL is always Google, but 70 of the 200 tasks in odysseys.json start at another site, and the converter opens each task's own URL. Tasks run on live websites, so results can drift. README results are paper figures.
 
 - Record JSON: https://awesomecua.com/resources/github-ljang0-odysseys/record.json
 
@@ -2974,7 +2974,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 2,020 task examples — test split, HF revision 5e4bcb26 (reported; source: https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md)
 - 991 task examples — val split, HF revision 5e4bcb26 (reported; source: https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md)
 
-This released split table totals 9,799 examples; it is not silently substituted for any paper-level collection size. Public files include train/test/val JSON indexes, task/image archives, and eval.py. Evaluation is offline script comparison, not execution success on a live desktop. MIT is the Hub data declaration; original app/content rights are not resolved by it.
+This released split table totals 9,799 examples; paper-level collection size is a separate population. Public files include train/test/val JSON indexes, task/image archives, and eval.py. Evaluation uses offline script comparison. MIT is the Hub data declaration; original app/content rights are not resolved by it.
 
 ### License declarations
 
@@ -3008,26 +3008,26 @@ Benchmark for safety of computer-use agents across misuse, prompt injection, and
 
 ### Limitations
 
-The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior IDs. Prompt-injection execution expands vectors/goals; the reported 150-task total must not be read as 150 unique released IDs.
+The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior IDs. Prompt-injection execution expands vectors/goals; the reported 150-task total and released IDs have different grains.
 
 - Record JSON: https://awesomecua.com/resources/github-tml-epfl-os-harm/record.json
 
 ### Structured profile
 
 - actions: OSWorld/PyAutoGUI desktop interaction
-- evaluation: Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark, not a single offline grounding score.
+- evaluation: Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark.
 - focus: deliberate misuse, prompt-injection safety, unintended harmful behavior during normal tasks
 - observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
 - setting: interactive
 
 #### Count observations
 
-- 150 tasks as reported by the paper/README — reported benchmark total; not a recount of unique released task IDs (reported; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md)
+- 150 tasks as reported by the paper/README — reported benchmark total; unique released task IDs use a separate count (reported; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md)
 - 50 task IDs — released misuse task-ID list; before injection/goal expansion (computed) (computed; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misuse.json)
 - 10 task IDs — released injection task-ID list; before injection/goal expansion (computed) (computed; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json)
 - 50 task IDs — released misbehavior task-ID list; before injection/goal expansion (computed) (computed; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json)
 
-README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, so the released ID inventory is not a direct recount of paper settings; the complete expanded total was not reconstructed. Judge agreement F1 values in the README measure agreement with human labels, not agent success. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.
+README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.
 
 ### License declarations
 
@@ -3443,7 +3443,7 @@ An offline preference-evaluation set for web process reward models, pairing page
 
 ### Limitations
 
-Two public Parquet shards are present. Card metadata reports 776 test rows, whereas the project describes 1,000-plus test cases without reconciling that count to rows. Both observations are retained as a grain/coverage caveat rather than treating either as a confirmed number of independent tasks. No data license is declared.
+Two public Parquet shards are present. Card metadata reports 776 test rows, whereas the project describes 1,000-plus test cases without reconciling that count to rows. The 776 test rows and 1,000-plus project cases use unresolved counting units; neither establishes a count of independent tasks. No data license is declared.
 
 - Record JSON: https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/record.json
 
@@ -3459,7 +3459,7 @@ Two public Parquet shards are present. Card metadata reports 776 test rows, wher
 
 - 776 rows — Hub test split (reported; source: https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench/raw/main/README.md)
 
-The current Hub row count and project case-count claim use unresolved counting units. Candidate lists mean a row must not be assumed to equal one task or one pair.
+The current Hub row count and project case-count claim use unresolved counting units. Candidate lists make rows a different unit from tasks or pairs.
 
 ### License declarations
 
@@ -3492,7 +3492,7 @@ Live-web task definitions and rubrics for evaluating computer-use agents, with p
 
 ### Limitations
 
-Public TSV files contain V1, V2 and refusal task definitions. The card declares MIT for the dataset. V1 and V2 share the same 609 task identities and must not be summed as distinct tasks. The May 2026 refresh supersedes calendar-bound task wording; live-site availability is not established by this metadata review.
+Public TSV files contain V1, V2 and refusal task definitions. The card declares MIT for the dataset. V1 and V2 share the same 609 task identities. The May 2026 refresh supersedes calendar-bound task wording.
 
 - Record JSON: https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/record.json
 
@@ -3509,7 +3509,7 @@ Public TSV files contain V1, V2 and refusal task definitions. The card declares 
 - 609 task identities — main V1/V2 suite (shared identities) (reported; source: https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md)
 - 111 tasks — refusal suite (reported; source: https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md)
 
-V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are task definitions, not independently verified runnable website states.
+V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are task definitions.
 
 ### License declarations
 
@@ -3781,7 +3781,7 @@ Contextual-integrity benchmark for computer-use agents: 117 synthetic multi-app 
 
 ### Limitations
 
-Each scenario is a JSON snapshot of app states in the OpenApps workspace (messenger, todo, calendar, code editor, maps and shopping apps) with a task prompt and a disclosure policy. The card's test split serves the state-grounded reasoning track; test_e2e is a 50-scenario subset of it (all IDs overlap) for runs in the rendered UI, which the code README describes as a local multi-app web environment driven through Playwright; seeds holds 36 disjoint hand-written scenarios. The card says source is seed or mcts, but every released row reads seed or legacy_pilot_seed. The code repository linked as ukplab/arxiv2026-agentcibench now resolves to UKPLab/emnlp2026-agentcibench (GitHub API), and the card's second code link, agentcibench/agentcibench, returns 404. The 67.9% average leakage over 15 agents is a publisher figure and was not reproduced. CC BY 4.0 is the card's data declaration; the code is a separate Apache-2.0 release.
+Each scenario is a JSON snapshot of app states in the OpenApps workspace (messenger, todo, calendar, code editor, maps and shopping apps) with a task prompt and a disclosure policy. The card's test split serves the state-grounded reasoning track; test_e2e is a 50-scenario subset of it (all IDs overlap) for runs in the rendered UI, which the code README describes as a local multi-app web environment driven through Playwright; seeds holds 36 disjoint hand-written scenarios. The card says source is seed or mcts, but every released row reads seed or legacy_pilot_seed. The code repository linked as ukplab/arxiv2026-agentcibench now resolves to UKPLab/emnlp2026-agentcibench (GitHub API), and the card's second code link, agentcibench/agentcibench, returns 404. The 67.9% average leakage over 15 agents is a publisher figure. CC BY 4.0 is the card's data declaration; the code is a separate Apache-2.0 release.
 
 - Record JSON: https://awesomecua.com/resources/url-d7f35409d35584385097/record.json
 
@@ -3802,7 +3802,7 @@ Each scenario is a JSON snapshot of app states in the OpenApps workspace (messen
 - 24 scenarios — test split, failure mode recipient_misalignment (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
 - 18 scenarios — test split, failure mode visual_co_location (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
 
-Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test, so the two splits are not added; seeds share no IDs with either.
+Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test; seeds share separate IDs.
 
 ### License declarations
 
@@ -3874,7 +3874,7 @@ Python benchmark package for prompt-injection security of tool-calling agents, w
 
 ### Limitations
 
-Agents interact with simulated applications through function calls, not graphical interfaces; it is included as an adjacent security benchmark for comparison with GUI and browser-agent safety work. The inspected v1 suite directory lists banking, slack, travel and workspace; later suite versions (v1_1 to v1_2_2) exist alongside it, so record the suite version with any score. The README warns that the package API may still change. Publisher results on the documentation site were not reproduced. MIT applies to the repository code.
+Agents interact with simulated applications through function calls; it is included as an adjacent security benchmark for comparison with GUI and browser-agent safety work. The inspected v1 suite directory lists banking, slack, travel and workspace; later suite versions (v1_1 to v1_2_2) exist alongside it, so record the suite version with any score. The README warns that the package API may still change. MIT applies to the repository code.
 
 - Record JSON: https://awesomecua.com/resources/github-ethz-spylab-agentdojo/record.json
 
@@ -4036,7 +4036,7 @@ Inclusion does not establish reproducibility or endorsement.
 ### Structured profile
 
 - actions: app launch/stop, click/double-click/long-click, text input, swipe/drag and Android navigation, finish
-- evaluation: The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Full reference-dependent evaluation coverage cannot be assumed because complete annotated action sequences are not released.
+- evaluation: The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Complete annotated action sequences are pending release; reference-dependent evaluation currently has limited coverage.
 - focus: multi-step Android tasks, cross-app workflows and instruction constraints
 - observations: UI hierarchy text, screenshots, combined text/image observations
 - setting: interactive
@@ -4045,7 +4045,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-README states that task instructions are released but annotated action sequences, apart from the calendar example, will come later. Environment setup targets Android API 33 with uiautomator2 and manual Google-account setup. Public task YAML and evaluator code exist, but benchmark execution and full reference coverage were not verified. No task total is derived from app YAML file counts. Code and data licenses remain unknown.
+README states that task instructions are released but annotated action sequences, apart from the calendar example, will come later. Environment setup targets Android API 33 with uiautomator2 and manual Google-account setup. Public task YAML and evaluator code exist. No task total is derived from app YAML file counts. Code and data licenses remain unknown.
 
 ### License declarations
 
@@ -4081,7 +4081,7 @@ Purified AndroidControl test set that scores predicted clicks against target ele
 
 ### Limitations
 
-The Hub repository holds five benchmark JSON files, three screenshot tar.gz archives (about 18 GB in total) and the project's web-page assets; the card declares no data license. The point-format files keep coordinate targets, the bbox files add element boxes, and the high-level task-improved file adds revised task text and corrected labels from the paper's LLM-plus-human review; the evaluation script runs that file by default. The GitHub repository batechworks/AndroidControl_Curated carries JSON files with the same names and the vLLM evaluation code. Archives were not downloaded and scores were not reproduced.
+The Hub repository holds five benchmark JSON files, three screenshot tar.gz archives (about 18 GB in total) and the project's web-page assets; the card declares no data license. The point-format files keep coordinate targets, the bbox files add element boxes, and the high-level task-improved file adds revised task text and corrected labels from the paper's LLM-plus-human review; the evaluation script runs that file by default. The GitHub repository batechworks/AndroidControl_Curated carries JSON files with the same names and the vLLM evaluation code.
 
 - Record JSON: https://awesomecua.com/resources/url-dda8a0f1413a6bc7c26f/record.json
 
@@ -4101,7 +4101,7 @@ The Hub repository holds five benchmark JSON files, three screenshot tar.gz arch
 - 85 step records with corrected ground-truth actions — android_control_high_task-improved.json (gpt_corrected true) (computed) (computed; source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json)
 - 8,377 step records — android_control_low_bbox.json (step instructions) (computed) (computed; source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json)
 
-Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals and are not summed with these.
+Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals; these counts are reported separately.
 
 ### License declarations
 
@@ -4154,7 +4154,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 557 tasks — AppSim-Bench paper-described release (reported; source: https://arxiv.org/abs/2609.07712)
 - 17 applications — published simulated app set (reported; source: https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md)
 
-Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions are not the platform being evaluated.
+Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions describe setup; the evaluated platform is separate.
 
 ### License declarations
 
@@ -4239,7 +4239,7 @@ Sparks Solutions publishes one ungated test split of 22 Parquet shards at revisi
 - 2,269 annotations — Test Action rows in the test split, from the Hub dataset viewer's column statistics (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test)
 - 1,939 annotations — Expected Result rows in the test split (1,375 passed, 564 failed), from the Hub dataset viewer's column statistics (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test)
 
-Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows). The 2.5 GB of Parquet shards were not downloaded.
+Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows).
 
 ### License declarations
 
@@ -4287,11 +4287,11 @@ Inclusion does not establish reproducibility or endorsement.
 
 #### Count observations
 
-- 131 task-definition files — asset/tasks/**/*.textproto in retained release/ver.3 tree; not a paper test-task total (computed) (computed; source: https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1)
+- 131 task-definition files — asset/tasks/**/*.textproto in retained release/ver.3 tree; source-file inventory distinct from the paper test-task total (computed) (computed; source: https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1)
 - 35 environment configuration rows — environments_train.csv, retained release/ver.3 snapshot (computed) (computed; source: https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv)
 - 10 environment configuration rows — environments_test.csv, retained release/ver.3 snapshot (computed) (computed; source: https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv)
 
-Current source inventory differs in grain from published experiment subsets: do not multiply 131 definitions by 35/10 configuration rows or label the product as evaluated tasks. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.
+Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.
 
 ### License declarations
 
@@ -4497,7 +4497,7 @@ OpenAI's 1,266-question benchmark for browsing agents, whose short, verifiable a
 
 ### Limitations
 
-This record covers the BrowseComp reference implementation and question set that OpenAI publishes in simple-evals. The launch page (https://openai.com/index/browsecomp/) answered HTTP 403 to the catalog's client and was not used as evidence. The paper (arXiv 2504.12516) is not in the retained archive and no curated receipt cites its arXiv ID, so it is not linked yet. The simple-evals README says the repository is no longer updated for new models but continues to host the BrowseComp reference implementation. The README lists BrowseComp next to an MIT License link, but this record does not treat that as a declaration for the question data, so the data license stays unknown. The derivative BrowseComp-Plus (fixed-corpus retrieval rather than live browsing) is a separate resource and is not covered here.
+This record covers the BrowseComp reference implementation and question set that OpenAI publishes in simple-evals. The catalog's client received HTTP 403 from the launch page (https://openai.com/index/browsecomp/). The paper (arXiv 2504.12516) is not in the retained archive and no curated receipt cites its arXiv ID, so it is not linked yet. The simple-evals README says updates for new models have ended and the repository continues to host the BrowseComp reference implementation. The README lists BrowseComp next to an MIT License link, but this record does not treat that as a declaration for the question data, so the data license stays unknown. The derivative BrowseComp-Plus uses fixed-corpus retrieval and is a separate resource; this record covers BrowseComp.
 
 - Record JSON: https://awesomecua.com/resources/component-openai-simple-evals-browsecomp/record.json
 
@@ -4994,7 +4994,7 @@ A graph-based mobile GUI benchmark that evaluates long tasks through screenshot 
 
 ### Limitations
 
-The source tree contains graph and task JSON files plus construction/evaluation code; the linked ungated Hub provides the screenshot archive. The environment is static but interactive and graph-based, not a live-device deployment. Counts are publisher-reported task/app inventories. Apache-2.0 declarations for repository code and the Hub dataset are separately retained; third-party application visuals are not granted additional rights by this catalog.
+The source tree contains graph and task JSON files plus construction/evaluation code; the linked ungated Hub provides the screenshot archive. The environment is static, interactive and graph-based. Counts are publisher-reported task/app inventories. Apache-2.0 declarations for repository code and the Hub dataset are separately retained; third-party application visuals are not granted additional rights by this catalog.
 
 - Record JSON: https://awesomecua.com/resources/github-madeagents-colorbench/record.json
 
@@ -5013,7 +5013,7 @@ The source tree contains graph and task JSON files plus construction/evaluation 
 - 74 single-app tasks — reported ColorBench benchmark (reported; source: https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md)
 - 21 mobile applications — reported ColorBench benchmark (reported; source: https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md)
 
-The interaction environment replays graph states rather than running real user accounts. The 101 and 74 subsets partition the reported 175 tasks; do not add the three counts.
+The interaction environment replays graph states. The 101 and 74 subsets partition the reported 175 tasks.
 
 ### License declarations
 
@@ -5041,7 +5041,7 @@ The interaction environment replays graph states rather than running real user a
 
 ## Computer Agent Arena
 
-Crowdsourced arena where users pit two computer-use agents against each other on Ubuntu or Windows VMs; the repository holds the voting frontend, setup presets and 2,010 verified battle sessions, not the backend.
+Crowdsourced arena where users pit two computer-use agents against each other on Ubuntu or Windows VMs; the repository holds the voting frontend, setup presets and 2,010 verified battle sessions.
 
 - Catalog URL: https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/
 - Original source: https://github.com/xlang-ai/computer-agent-arena
@@ -5055,14 +5055,14 @@ Crowdsourced arena where users pit two computer-use agents against each other on
 
 ### Limitations
 
-Platform code from the xlang-ai organization; the repository description and README name ICLR 2026. At the reviewed commit (the second of two) the tree holds the React/TypeScript frontend (dual-agent chat and evaluation panels, a bundled noVNC desktop viewer, trajectory player, ranking and Prolific pages), quick-setup presets for Chrome, LibreOffice and other apps, setup notes for OSWorld's in-VM server and for AWS, VMware and VirtualBox providers, backend/requirements.txt and backend/scripts/sessions_clean_filtered.csv. Although the README describes the full stack, the tree has no Python source: there is no backend/main.py, the server notes refer to main.py and pyxcursor.py files that are absent, and backend/agents is a git submodule pointing to xlang-ai/computer-agent-arena-hub, which the GitHub API did not return at review (404). The CSV has 2,010 verified two-agent sessions started between 2025-02-13 and 2025-05-15 (1,070 Windows, 940 Ubuntu; 653 distinct user IDs) with user-written task instructions, each agent's model and method, per-step feedback and the battle result (751 and 644 wins for the first and second agent, 615 ties). Agents in it are Claude 3.5 and 3.7 Sonnet computer use, OpenAI computer-use-preview, UI-TARS-1.5, a Qwen2.5-VL-72B agent, and GPT-4.1, GPT-4o, o3, o4-mini and Gemini models through a base agent. The frontend evaluation form asks for each agent's correctness (correct, partially correct, wrong) and a pairwise preference (A better, tie, B better, tie with both bad). The README shows an MIT badge and links a LICENSE file, but the tree has no root license file; its only license texts are those of the bundled noVNC viewer. Not a fork, not archived; no release. Code was read, not run.
+Platform code from the xlang-ai organization; the repository description and README name ICLR 2026. At the reviewed commit (the second of two) the tree holds the React/TypeScript frontend (dual-agent chat and evaluation panels, a bundled noVNC desktop viewer, trajectory player, ranking and Prolific pages), quick-setup presets for Chrome, LibreOffice and other apps, setup notes for OSWorld's in-VM server and for AWS, VMware and VirtualBox providers, backend/requirements.txt and backend/scripts/sessions_clean_filtered.csv. Although the README describes the full stack, the tree has no Python source: there is no backend/main.py, the server notes refer to main.py and pyxcursor.py files that are absent, and backend/agents is a git submodule pointing to xlang-ai/computer-agent-arena-hub, which the GitHub API did not return at review (404). The CSV has 2,010 verified two-agent sessions started between 2025-02-13 and 2025-05-15 (1,070 Windows, 940 Ubuntu; 653 distinct user IDs) with user-written task instructions, each agent's model and method, per-step feedback and the battle result (751 and 644 wins for the first and second agent, 615 ties). Agents in it are Claude 3.5 and 3.7 Sonnet computer use, OpenAI computer-use-preview, UI-TARS-1.5, a Qwen2.5-VL-72B agent, and GPT-4.1, GPT-4o, o3, o4-mini and Gemini models through a base agent. The frontend evaluation form asks for each agent's correctness (correct, partially correct, wrong) and a pairwise preference (A better, tie, B better, tie with both bad). The README shows an MIT badge and links a LICENSE file, but the tree has no root license file; its only license texts are those of the bundled noVNC viewer. Not a fork, not archived; no release.
 
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/record.json
 
 ### Structured profile
 
 - actions: agent-defined desktop actions
-- evaluation: After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the backend that aggregates them is not in the repository.
+- evaluation: After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the aggregation backend remains outside this repository.
 - focus: human pairwise preference between computer-use agents, open-ended user-written tasks
 - observations: live Ubuntu or Windows virtual machine desktop shown to the user through VNC, agent-defined observations of that desktop
 - setting: interactive
@@ -5130,7 +5130,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - 120 tasks — CRAB Benchmark-v0 (paper) (reported; source: https://arxiv.org/abs/2407.01511)
 
-CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0, not every environment that can be created with the framework.
+CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0.
 
 ### License declarations
 
@@ -6159,14 +6159,14 @@ AgentStudio's full GUI grounding test set: 18,026 instruction and target-box exa
 
 ### Limitations
 
-The card calls this the full GroundUI-18K of AgentStudio and a test set not to be used for training, although the single Hub split is named train. One split in 19 Parquet shards carries image, image_path, instruction, bbox, resolution, source and platform fields. Platform and source tallies come from the Hugging Face dataset-viewer statistics, not a download. Source labels are three Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. The AgentStudio evaluation README says GroundUI-18K was recaptioned with CogVLM2, while the card does not say which instruction version is published. MIT is the dataset-card declaration; screenshots drawn from upstream datasets keep their own terms.
+The card calls this the full GroundUI-18K of AgentStudio and a test set reserved from training, although the single Hub split is named train. One split in 19 Parquet shards carries image, image_path, instruction, bbox, resolution, source and platform fields. Platform and source tallies come from the Hugging Face dataset-viewer statistics. Source labels are three Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. The AgentStudio evaluation README says GroundUI-18K was recaptioned with CogVLM2; the published instruction version remains unspecified in the card. MIT is the dataset-card declaration; screenshots drawn from upstream datasets keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/record.json
 
 ### Structured profile
 
 - actions: click coordinate
-- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.
+- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
 - focus: instruction-conditioned GUI element grounding
 - observations: screenshots, natural-language instructions
 - setting: offline
@@ -6178,7 +6178,7 @@ The card calls this the full GroundUI-18K of AgentStudio and a test set not to b
 - 2,476 examples — platform label desktop (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train)
 - 3,957 examples — platform label mobile (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train)
 
-Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; it is not counted here.
+Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; this count covers the full set.
 
 ### License declarations
 
@@ -6215,14 +6215,14 @@ Step-level web grounding benchmark that re-renders Mind2Web pages with style, zo
 
 ### Limitations
 
-The card YAML at revision 727c857b lists one eval split of 3,120 examples in four Parquet shards, with screenshot, instruction, gt_bbox, visual_variant, instruction_type, task_id and step_index fields. Hugging Face dataset-viewer statistics show 780 rows for each of four visual variants (labelled original, style, precision and text_shrink; the card calls the first one baseline) and 1,560 rows for each of the direct and relational instruction types, so the card's per-variant sample size of 390 covers one instruction type. The card states that the set is for evaluation, not training, and that the pages come from Mind2Web MHTML archives. eval.yaml names point-in-bbox accuracy. The card declares CC BY 4.0 for the dataset. The linked generation code repository was not inspected, and no rows were downloaded.
+The card YAML at revision 727c857b lists one eval split of 3,120 examples in four Parquet shards, with screenshot, instruction, gt_bbox, visual_variant, instruction_type, task_id and step_index fields. Hugging Face dataset-viewer statistics show 780 rows for each of four visual variants (labelled original, style, precision and text_shrink; the card calls the first one baseline) and 1,560 rows for each of the direct and relational instruction types, so the card's per-variant sample size of 390 covers one instruction type. The card designates the set for evaluation and asks that it be reserved from training; the pages come from Mind2Web MHTML archives. eval.yaml names point-in-bbox accuracy. The card declares CC BY 4.0 for the dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/record.json
 
 ### Structured profile
 
 - actions: predicted target location
-- evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy does not measure end-to-end task success.
+- evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
 - focus: step-level web GUI element localization, robustness to visual and instruction perturbations
 - observations: rendered web-page screenshots, natural-language instructions
 - setting: offline
@@ -6300,7 +6300,7 @@ Released data for the GUIDE benchmark: annotated segments of narrated novice scr
 
 ### Limitations
 
-Formerly published as saelyne/GuideBench; the Hub API redirects that name to this repository with the same object ID. Access is gated with automatic approval. The Hub manifest at revision 783caa86 holds three annotation JSON files (one per task), 40 task-description Markdown files, 120 think-aloud transcription JSON files and two CSV files under videos/; no video files are hosted in the repository. The project page lists Photoshop, GIMP, Figma, Canva, PowerPoint, Google Slides, Premiere Pro, CapCut, Google Sheets and Excel without naming operating systems; the environment facets follow from those applications. Models are evaluated on video snippets without the narrations. CC-BY-4.0 is the Hub data declaration; annotation files were not downloaded and scores were not reproduced.
+Formerly published as saelyne/GuideBench; the Hub API redirects that name to this repository with the same object ID. Access is gated with automatic approval. The Hub manifest at revision 783caa86 holds three annotation JSON files (one per task), 40 task-description Markdown files, 120 think-aloud transcription JSON files and two CSV files under videos/; no video files are hosted in the repository. The project page lists Photoshop, GIMP, Figma, Canva, PowerPoint, Google Slides, Premiere Pro, CapCut, Google Sheets and Excel without naming operating systems; the environment facets follow from those applications. Models are evaluated on video snippets without the narrations. CC-BY-4.0 is the Hub data declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/record.json
 
@@ -6322,7 +6322,7 @@ Formerly published as saelyne/GuideBench; the Hub API redirects that name to thi
 - 120 transcription files — Hub manifest at revision 783caa86 (transcriptions/) (computed) (computed; source: https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1)
 - 40 task-description files — Hub manifest at revision 783caa86 (tasks/) (computed) (computed; source: https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1)
 
-Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. Segment counts per task were not computed because the annotation files sit behind the access gate.
+Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. The access gate leaves segment counts per task uncomputed from the annotation files.
 
 ### License declarations
 
@@ -6375,7 +6375,7 @@ The README is an anonymous-review version without authors or a citation; the pap
 - 26 PC trajectories — dataset_example/PC at commit 542a902a (reported; source: https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md)
 - 290 next-action grounding samples — dataset_example/grounding_data/manifest.jsonl at commit 542a902a (computed) (computed; source: https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl)
 
-Counts describe dataset_example/, the repository's review subset for smoke tests, not the benchmark; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units and are not summed.
+Counts describe dataset_example/, the repository's review subset for smoke tests; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units; these counts are reported separately.
 
 ### License declarations
 
@@ -6422,7 +6422,7 @@ Inclusion does not establish reproducibility or endorsement.
 ### Structured profile
 
 - actions: list of UI element boxes [x1,y1,x2,y2] and text descriptions
-- evaluation: Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage because missing predictions are not independently enumerated by evaluate_dataset.
+- evaluation: Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage.
 - focus: GUI page-element detection, element-description consistency
 - observations: page screenshot
 - setting: offline
@@ -6432,7 +6432,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 1,000 page-annotation entries — English annotation subset reported by README (reported; source: https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md)
 - 1,000 page-annotation entries — Chinese annotation subset reported by README (reported; source: https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md)
 
-Each annotation entry represents a page, not one UI element. README’s illustrative num_samples=4796 output is not adopted as a corpus count. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer; payload availability/integrity was not tested by downloading images. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.
+Each annotation entry represents a page. README illustrates num_samples=4796 as example output; the corpus count remains unspecified. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.
 
 ### License declarations
 
@@ -6501,7 +6501,7 @@ Runtime and CUA-World task suite that turn real applications on Ubuntu, Windows 
 
 ### Limitations
 
-Official code of the Gym-Anything paper. The README describes three parts that can be used separately: the core runtime (src/gym_anything), the CUA-World benchmark (benchmarks/cua_world) and reference agents for Claude, Gemini, Qwen, Kimi and other models. The inspected environment configs (Moodle, Power BI Desktop, an Android AVD calculator and macOS Finder) declare screen observations with mouse and keyboard actions on Ubuntu GNOME, Windows 11, Android AVD 34 and macOS bases; the Finder config also exposes a UI tree, and macOS environments sit in a separate benchmarks/cua_world-macos suite. A task such as moodle_env/enroll_student pairs setup and export hooks with a verifier.py program check and a VLM checklist file. extras/research/software_as_env/creation_audit implements the paper's environment creation-and-audit pipeline, driven by Claude Code by default or Codex CLI. Runners (Docker, Apptainer, QEMU, AVD, AVF, Modal, local and Sandweave) differ in caching, snapshot and recording support. Code was read, not run; paper results were not reproduced.
+Official code of the Gym-Anything paper. The README describes three parts that can be used separately: the core runtime (src/gym_anything), the CUA-World benchmark (benchmarks/cua_world) and reference agents for Claude, Gemini, Qwen, Kimi and other models. The inspected environment configs (Moodle, Power BI Desktop, an Android AVD calculator and macOS Finder) declare screen observations with mouse and keyboard actions on Ubuntu GNOME, Windows 11, Android AVD 34 and macOS bases; the Finder config also exposes a UI tree, and macOS environments sit in a separate benchmarks/cua_world-macos suite. A task such as moodle_env/enroll_student pairs setup and export hooks with a verifier.py program check and a VLM checklist file. extras/research/software_as_env/creation_audit implements the paper's environment creation-and-audit pipeline, driven by Claude Code by default or Codex CLI. Runners (Docker, Apptainer, QEMU, AVD, AVF, Modal, local and Sandweave) differ in caching, snapshot and recording support. Code was read.
 
 - Record JSON: https://awesomecua.com/resources/github-cmu-l3-gym-anything/record.json
 
@@ -6520,7 +6520,7 @@ Official code of the Gym-Anything paper. The README describes three parts that c
 - 7,150 tasks — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967 (computed) (computed; source: https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json)
 - 191 environments — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967 (computed) (computed; source: https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json)
 
-The paper's application and task totals and the repository's verified manifest are different populations and are not reconciled. Per-environment split files list train and test tasks, but several cover variant folders of one application, so their entries are not summed. Paper-reported results, including CUA-World-Long, were not reproduced.
+The paper's application and task totals and the repository's verified manifest are different populations; these counts are reported separately. Per-environment split files list train and test tasks, and several cover variant folders of one application; these counts are reported separately.
 
 ### License declarations
 
@@ -7220,7 +7220,7 @@ Evaluation environment combining computer interaction with tool access.
 
 ### Limitations
 
-The retained paper reports 201 tasks, whereas the retained repository README describes approximately 170. These are separate source descriptions; their release/version difference has not been established.
+The retained paper reports 201 tasks, whereas the retained repository README describes approximately 170. The retained paper reports 201 tasks, whereas the retained repository README describes approximately 170.
 
 - Record JSON: https://awesomecua.com/resources/github-saagent-mcpworld/record.json
 
@@ -7525,14 +7525,14 @@ A public set of real-device mobile task definitions used to evaluate MobA, with 
 
 ### Limitations
 
-The ungated manifest lists MobBench_tasks_release_v1.0.json and bilingual cards. The card reports fifty tasks; no sample records were downloaded to recount them. This release supplies task definitions and agent setup guidance, not an independently verified automatic judge or a bundled Android environment. The data card declares CC-BY-NC-SA-4.0; code and model licenses are separate.
+The ungated manifest lists MobBench_tasks_release_v1.0.json and bilingual cards. The card reports fifty tasks; no sample records were downloaded to recount them. This release supplies task definitions and agent setup guidance. The data card declares CC-BY-NC-SA-4.0; code and model licenses are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-b53e03a6e4ca4226d126/record.json
 
 ### Structured profile
 
 - actions: mobile GUI actions through a separately configured agent
-- evaluation: The publisher reports a fifty-task real-device evaluation; the inspected release does not establish an automatic correctness judge.
+- evaluation: The publisher reports a fifty-task real-device evaluation.
 - focus: mobile task completion
 - observations: Android device interface
 - setting: interactive
@@ -7610,7 +7610,7 @@ Task definitions for Mobile-Agent-E’s long-horizon, multi-app Android evaluati
 
 ### Limitations
 
-The public Hub manifest contains one test Parquet file. This resource is the benchmark’s task-definition package, not a bundled phone environment or agent. Card metadata supplies rubrics/reference-operation fields but no data-license declaration or verified automated scorer; the code repository’s MIT license is not transferred to these records.
+The public Hub manifest contains one test Parquet file. This resource is the benchmark’s task-definition package. Card metadata supplies rubrics/reference-operation fields but no data-license declaration or verified automated scorer; the code repository’s MIT license is not transferred to these records.
 
 - Record JSON: https://awesomecua.com/resources/url-342b081c3668a8bbe155/record.json
 
@@ -7626,7 +7626,7 @@ The public Hub manifest contains one test Parquet file. This resource is the ben
 
 - 25 task-definition records — Hub test split at revision b8eca829 (reported; source: https://huggingface.co/datasets/mikewang/mobile_eval_e/raw/b8eca82988ed8d4f9dec01eaa9d51abf4b35aa83/README.md)
 
-Features are task_id, instruction, type, apps, scenario, rubrics and human-reference operation strings. A task record is not an action count or recorded screenshot trajectory. Public Parquet inventory was checked but no sample rows were downloaded; companion README limits the tested agent platform to Android.
+Features are task_id, instruction, type, apps, scenario, rubrics and human-reference operation strings. A task record contains task-definition fields and human-reference operation strings; the counted unit is tasks. Public Parquet inventory was checked but no sample rows were downloaded; companion README limits the tested agent platform to Android.
 
 ### License declarations
 
@@ -7737,7 +7737,7 @@ Inclusion does not establish reproducibility or endorsement.
 ### Structured profile
 
 - actions: tap/long-tap/swipe, navigation buttons and text editing, refuse, ask-consent and complete, task-specific shortcut actions
-- evaluation: Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results are not a single generic success-rate metric.
+- evaluation: Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results include separate goal-achievement, harm-prevention, risk-detection and completion-progress measures.
 - focus: mobile task helpfulness, harm prevention during Android interaction
 - observations: screenshot pixels, parsed UI hierarchy text, task instruction and interaction history
 - setting: interactive
@@ -7746,7 +7746,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-Inspected release/ver.3 branch exposes task definitions, Android environment and per-task evaluators. It requires Android API 34, Appium/ADB and documented third-party app versions; those APKs/accounts were not acquired. The action parser includes semantic shortcuts in addition to screen gestures, so this is not a strictly coordinate-only action setting. No corpus task total is inferred from evaluator-module or file counts. Apache-2.0 applies to repository code, not automatically app/data assets.
+Inspected release/ver.3 branch exposes task definitions, Android environment and per-task evaluators. It requires Android API 34, Appium/ADB and documented third-party app versions. The action parser includes semantic shortcuts in addition to screen gestures. No corpus task total is inferred from evaluator-module or file counts. Apache-2.0 applies to repository code, not automatically app/data assets.
 
 ### License declarations
 
@@ -7951,7 +7951,7 @@ Archived Notte Labs harness and results that run web agents eight times on a 30-
 
 ### Limitations
 
-GitHub marks the repository archived. It was published by Notte Labs, the developer of one of the compared agents, and its README ranks Notte first; the results are publisher-run, not independent. The March 2025 runs used Notte v1.3.3 with Gemini 2.0 Flash, Browser-Use 0.1.40 with GPT-4o and Convergence Proxy-lite at a pinned commit, headless, from a residential Swiss IP. Agent handlers in eval/agent_handlers also cover Falco, a Browser-Use API and a mock agent. WebVoyager30 is the publisher's sample of WebVoyager; the repository also carries the full WebVoyager task file and archived variants. Per-run results, summary images and logs for the three providers are committed under WebVoyager30/. Live websites change, so scores are tied to their run dates. No license file is present. The harness was not run.
+GitHub marks the repository archived. Notte Labs, the developer of one of the compared agents, published the results and ranks Notte first in its README; the results are publisher-run. The March 2025 runs used Notte v1.3.3 with Gemini 2.0 Flash, Browser-Use 0.1.40 with GPT-4o and Convergence Proxy-lite at a pinned commit, headless, from a residential Swiss IP. Agent handlers in eval/agent_handlers also cover Falco, a Browser-Use API and a mock agent. WebVoyager30 is the publisher's sample of WebVoyager; the repository also carries the full WebVoyager task file and archived variants. Per-run results, summary images and logs for the three providers are committed under WebVoyager30/. Live websites change, so scores are tied to their run dates. No license file is present.
 
 - Record JSON: https://awesomecua.com/resources/github-nottelabs-open-operator-evals/record.json
 
@@ -8043,7 +8043,7 @@ Configurable browser apps and task rewards for testing computer-use agents under
 
 ### Limitations
 
-Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and explicitly says even that tag is not a byte-exact snapshot of the published runs. CC-BY-NC-4.0 is the repository’s declared code license; third-party WebShop, map and icon content retain separate terms. No commercial-use permission or fixed downloadable task total is inferred.
+Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and says even that tag differs at the byte level from the published runs. CC-BY-NC-4.0 is the repository’s declared code license; third-party WebShop, map and icon content retain separate terms. No commercial-use permission or fixed downloadable task total is inferred.
 
 - Record JSON: https://awesomecua.com/resources/github-facebookresearch-openapps/record.json
 
@@ -8059,7 +8059,7 @@ Public code includes app/task/configuration and agent-launching implementations.
 
 No count recorded.
 
-Preserve the code/tag, app state, theme/layout/content choices, goal variant and action/observation configuration. Current main refactors the paper-era appearance surface, and the v1.0-paper tag includes post-publication fixes that may move rewards. The environments run as browser apps; phone/tablet viewports are not native Android/iOS environments.
+Preserve the code/tag, app state, theme/layout/content choices, goal variant and action/observation configuration. Current main refactors the paper-era appearance surface, and the v1.0-paper tag includes post-publication fixes that may move rewards. The environments run as browser apps with phone/tablet viewports.
 
 ### License declarations
 
@@ -8098,7 +8098,7 @@ A cross-platform GUI-critic benchmark with mobile, desktop and web JSONL splits 
 
 ### Limitations
 
-The Hub card provides split/format/license metadata, while the official OS-Oracle README establishes critic-evaluation purpose and platform scope. The repository currently releases only benchmark inference/scoring components; data-synthesis code, training datasets and model checkpoints remain unchecked TODOs and are not counted as released assets. Apache-2.0 is recorded for benchmark data only; the evaluation code has no inspected license declaration.
+The Hub card provides split/format/license metadata, while the official OS-Oracle README establishes critic-evaluation purpose and platform scope. The repository currently releases benchmark inference/scoring components; data-synthesis code, training datasets and model checkpoints remain unchecked TODOs. Apache-2.0 is recorded for benchmark data only; the evaluation code has no inspected license declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-c73ba0618d1b3c505887/record.json
 
@@ -8114,7 +8114,7 @@ The Hub card provides split/format/license metadata, while the official OS-Oracl
 
 - 3 platform JSONL splits — mobile/desktop/web configurations in the Hub card (computed) (computed; source: https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md)
 
-No sample count is inferred from the n<1K Hub size band. Evaluation code availability does not establish the release of OS-Oracle training data or weights.
+No sample count is inferred from the n<1K Hub size band. OS-Oracle training data and weights remain pending; released evaluation code covers a separate component.
 
 ### License declarations
 
@@ -8152,7 +8152,7 @@ An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment 
 
 ### Limitations
 
-Public task manifests, agent runner and evaluator code are present, and the linked ungated Hub manifest lists Ubuntu0.zip and task files. The main setup supports x86 VMware Workstation and says ARM/Docker alternatives are still in development. An inherited evaluation-examples README still mentions Windows 10 and under-construction status; those statements are retained as a documentation inconsistency, not interpreted as verified Windows support. The manifest has 416 category/task references but 412 globally distinct ID strings.
+Public task manifests, agent runner and evaluator code are present, and the linked ungated Hub manifest lists Ubuntu0.zip and task files. The main setup supports x86 VMware Workstation and says ARM/Docker alternatives are still in development. An inherited evaluation-examples README still mentions Windows 10 and under-construction status; those statements are retained as a documentation inconsistency. The manifest has 416 category/task references but 412 globally distinct ID strings.
 
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-map/record.json
 
@@ -8168,7 +8168,7 @@ Public task manifests, agent runner and evaluator code are present, and the link
 
 - 416 category/task references — evaluation_examples/all.json (computed) (computed; source: https://raw.githubusercontent.com/OS-Copilot/OS-Map/HEAD/evaluation_examples/all.json)
 
-416 category/task pairs are unique, but only 412 bare ID strings are unique across categories. This is a manifest-reference count, not a claim of 416 semantically distinct tasks. Main runtime documentation specifies Ubuntu; the subdirectory README retains older Windows-only wording.
+416 category/task pairs are unique, but only 412 bare ID strings are unique across categories. This is a manifest-reference count. Main runtime documentation specifies Ubuntu; the subdirectory README retains older Windows-only wording.
 
 ### License declarations
 
@@ -8208,7 +8208,7 @@ Evaluator and collection code for OSReward, which tests VLM judges' SUCCESS/FAIL
 
 ### Limitations
 
-Code for the OSReward paper; the trajectories themselves are released separately on Hugging Face as OS-Copilot/OSReward (the README reports 1,019 Full and 284 Hard trajectories with screenshots and human verdicts), alongside the gated OS-Shepherd-100K corpus and OS-Shepherd checkpoints. eval_pipeline/run_judge.py downloads the Full or Hard Parquet split (or reads local traces), sends a judge the full thought and action history and, by default, the last five screenshots with red markers at normalized action points, at temperature 0, through an OpenAI-compatible or native Anthropic API, and parses one 'Judge: SUCCESS' or 'Judge: FAIL' verdict per trajectory. It reports accuracy, balanced accuracy, SUCCESS and FAIL recall and coverage; missing, failed and unparseable outputs count as incorrect. Its subset option offers full, hard and custom, with no OSReward-Multi option, although the README roadmap lists Multi under the evaluation harness. trajectory_collection/ holds the collection pipelines: webtrail for live and self-hosted websites, a Windows Agent Arena based Windows 11 VM pipeline, an AndroidWorld based emulator pipeline, and an OSWorld based Ubuntu pipeline with a screenshot-only tool-call agent (the root README calls Ubuntu 'on the way' and the collection README calls it a placeholder, but its code is in the tree), plus export_judged_sft.py for judge-SFT bundles. benchmarking_analysis/ scores judges against the ground-truth labels of OSWorld, WindowsAgentArena, WebArena and AndroidWorld rollouts, with small samples under data/raw. The OS-Shepherd-100K construction pipeline and the OS-Shepherd training and inference code are listed as not yet released. There is no root LICENSE; the bundled Windows and Android pipelines carry Microsoft's MIT and the Apache-2.0 license texts. Not a fork, not archived; no release. Code was read, not run.
+Code for the OSReward paper; the trajectories themselves are released separately on Hugging Face as OS-Copilot/OSReward (the README reports 1,019 Full and 284 Hard trajectories with screenshots and human verdicts), alongside the gated OS-Shepherd-100K corpus and OS-Shepherd checkpoints. eval_pipeline/run_judge.py downloads the Full or Hard Parquet split (or reads local traces), sends a judge the full thought and action history and, by default, the last five screenshots with red markers at normalized action points, at temperature 0, through an OpenAI-compatible or native Anthropic API, and parses one 'Judge: SUCCESS' or 'Judge: FAIL' verdict per trajectory. It reports accuracy, balanced accuracy, SUCCESS and FAIL recall and coverage; missing, failed and unparseable outputs count as incorrect. Its subset option offers full, hard and custom, with no OSReward-Multi option, although the README roadmap lists Multi under the evaluation harness. trajectory_collection/ holds the collection pipelines: webtrail for live and self-hosted websites, a Windows Agent Arena based Windows 11 VM pipeline, an AndroidWorld based emulator pipeline, and an OSWorld based Ubuntu pipeline with a screenshot-only tool-call agent (the root README calls Ubuntu 'on the way' and the collection README calls it a placeholder, but its code is in the tree), plus export_judged_sft.py for judge-SFT bundles. benchmarking_analysis/ scores judges against the ground-truth labels of OSWorld, WindowsAgentArena, WebArena and AndroidWorld rollouts, with small samples under data/raw. The OS-Shepherd-100K construction pipeline and the OS-Shepherd training and inference code are listed as pending release. There is no root LICENSE; the bundled Windows and Android pipelines carry Microsoft's MIT and the Apache-2.0 license texts. Not a fork, not archived; no release.
 
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-osreward/record.json
 
@@ -8225,7 +8225,7 @@ Code for the OSReward paper; the trajectories themselves are released separately
 - 1,019 trajectories — OSReward Full split on Hugging Face (reported; source: https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md)
 - 284 trajectories — OSReward Hard split on Hugging Face (reported; source: https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md)
 
-Counts are as the README reports them for the Hugging Face release; they were not recounted from the dataset. Screenshot window, history mode, markers and temperature are evaluator defaults that can be changed by flags.
+Counts are as the README reports them for the Hugging Face release. Screenshot window, history mode, markers and temperature are evaluator defaults that can be changed by flags.
 
 ### License declarations
 
@@ -8719,7 +8719,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 No count recorded.
 
-The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light) and screenshot files. Partitions are not train/test splits or independent task totals. README’s initial field table calls bbox pixel coordinates, but the evaluation-format section and actual ratio_h/ratio_w=dimension/1000 code use normalized target boxes; profile follows the inspected evaluator and retains the inconsistency. Source/images were not executed or downloaded as a dataset. MIT is recorded for repository code only.
+The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light) and screenshot files. The four editor/theme partitions (Cursor/VS Code × dark/light) are separate from train/test splits and task totals. README’s initial field table calls bbox pixel coordinates, but the evaluation-format section and actual ratio_h/ratio_w=dimension/1000 code use normalized target boxes; profile follows the inspected evaluator and retains the inconsistency. MIT is recorded for repository code only.
 
 ### License declarations
 
@@ -8974,7 +8974,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 250 tasks — safe split (reported; source: https://arxiv.org/abs/2503.04957)
 - 250 tasks — harmful split (reported; source: https://arxiv.org/abs/2503.04957)
 
-Use SafeArena-specific containers rather than ordinary WebArena instances. The documented task splits require access approval; the profile does not imply unrestricted dataset access.
+Use SafeArena-specific containers. The documented task splits require access approval.
 
 ### License declarations
 
@@ -9110,7 +9110,7 @@ Offline click benchmark from General Agents: 557 human left clicks on macOS scre
 
 ### Limitations
 
-The card describes showdown-clicks as part of General Agents' showdown suite and a 5,679-click collection recorded in late 2024, of which only the 557-click showdown-clicks-dev subset is released; the remainder is not public. Screenshots range from 1280x800 to 1680x1050. The card's results table includes the publisher's own ace-control models; those scores were not reproduced. The card declares MIT and notes that screenshots may contain third-party content. The companion repository github.com/generalagents/showdown was not reviewed.
+The card describes showdown-clicks as part of General Agents' showdown suite and a 5,679-click collection recorded in late 2024, of which only the 557-click showdown-clicks-dev subset is released; the remainder is not public. Screenshots range from 1280x800 to 1680x1050. The card's results table includes the publisher's own ace-control models. The card declares MIT and notes that screenshots may contain third-party content.
 
 - Record JSON: https://awesomecua.com/resources/url-863cc1744cd5d40418be/record.json
 
@@ -9195,7 +9195,7 @@ Evaluation code for SMAN-Bench (Mobile-Bench-v2): AppAgent and Mobile-Agent-v2 r
 
 ### Limitations
 
-SMAN-Bench is the title of the ICLR 2026 edition of the Mobile-Bench-v2 paper; that edition's proceedings PDF gives this repository as its code and data location, and the README's dataset badge links the Hugging Face release xwk123/MobileBench-v2, which holds the task data. The repository itself has code only, no task files. AppAgent runners draw numbered boxes for clickable and scrollable elements, taken from each recorded page's XML, onto the screenshot; Mobile-Agent-v2 runners (memory unit on, reflection off by default) receive the centre coordinates of the same elements. Single-path and ambiguous runs step through the ground-truth page sequence whatever the agent chooses; multi-path runs move through the recorded page graph according to the agent's actions (default limit 20 rounds) and succeed on reaching the goal page. Ambiguous runs prompt with the task's vague instruction and per-step instructions, or with the complete instruction. eval.py has scorers for single-path, multi-path and noisy runs, printing task success rate, action accuracy and action-type accuracy; the noisy scorer checks the ground-truth click or swipe coordinates against the predicted element's bounds and typed text by character-level F1 above 0.5. Model endpoints are set in config/config.yaml. The README shows an MIT badge, but the tree at the reviewed commit has no LICENSE file. Not a fork, not archived; no release. Code was read, not run.
+SMAN-Bench is the title of the ICLR 2026 edition of the Mobile-Bench-v2 paper; that edition's proceedings PDF gives this repository as its code and data location, and the README's dataset badge links the Hugging Face release xwk123/MobileBench-v2, which holds the task data. The repository itself has code only, no task files. AppAgent runners draw numbered boxes for clickable and scrollable elements, taken from each recorded page's XML, onto the screenshot; Mobile-Agent-v2 runners (memory unit on, reflection off by default) receive the centre coordinates of the same elements. Single-path and ambiguous runs step through the ground-truth page sequence whatever the agent chooses; multi-path runs move through the recorded page graph according to the agent's actions (default limit 20 rounds) and succeed on reaching the goal page. Ambiguous runs prompt with the task's vague instruction and per-step instructions, or with the complete instruction. eval.py has scorers for single-path, multi-path and noisy runs, printing task success rate, action accuracy and action-type accuracy; the noisy scorer checks the ground-truth click or swipe coordinates against the predicted element's bounds and typed text by character-level F1 above 0.5. Model endpoints are set in config/config.yaml. The README shows an MIT badge, but the tree at the reviewed commit has no LICENSE file. Not a fork, not archived; no release.
 
 - Record JSON: https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/record.json
 
@@ -9211,7 +9211,7 @@ SMAN-Bench is the title of the ICLR 2026 edition of the Mobile-Bench-v2 paper; t
 
 No count recorded.
 
-The repository has no task files; task counts belong to the Hugging Face data release and are not restated here. Scoring rules are taken from eval.py at the reviewed commit, which has no separate scorer for the ambiguous split.
+The task files and counts belong to the Hugging Face data release; this repository contains the code. Scoring rules are taken from eval.py at the reviewed commit, which has no separate scorer for the ambiguous split.
 
 ### License declarations
 
@@ -9371,7 +9371,7 @@ Issue-resolution benchmark for visual JavaScript and TypeScript software, where 
 
 ### Limitations
 
-Adjacent scope: agents resolve issues by producing code patches and are not required to operate a graphical interface, but every instance requires interpreting interface screenshots, recordings or renderings of front-end software. The card's prose describes 612 issue-pull request pairs (102 dev, 510 test) from 17 repositories, while the card's dataset_info and the Hub dataset viewer report 100 dev and 480 test rows for the released Parquet files; the published rows are counted here and the difference is unexplained. The card's eval.yaml describes 517 issues with visual elements and the paper abstract reports 617 task instances. The card declares no data license, so data terms remain unknown. An older copy exists at princeton-nlp/SWE-bench_Multimodal and was not reviewed. Evaluation uses the SWE-bench harness and per-instance Docker images; nothing was run here.
+Adjacent scope: agents resolve issues by producing code patches, and every instance requires interpreting interface screenshots, recordings or renderings of front-end software; code-only operation is allowed. The card's prose describes 612 issue-pull request pairs (102 dev, 510 test) from 17 repositories, while the card's dataset_info and the Hub dataset viewer report 100 dev and 480 test rows for the released Parquet files; the published rows are counted here and the difference is unexplained. The card's eval.yaml describes 517 issues with visual elements and the paper abstract reports 617 task instances. The card declares no data license, so data terms remain unknown. An older copy exists at princeton-nlp/SWE-bench_Multimodal. Evaluation uses the SWE-bench harness and per-instance Docker images; nothing was run here.
 
 - Record JSON: https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/record.json
 
@@ -10043,14 +10043,14 @@ Local-page benchmark comparing six browser representations on token use, factual
 
 ### Limitations
 
-This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only.
+This is a single-snapshot representation evaluation on local fixtures and captured pages. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/record.json
 
 ### Structured profile
 
 - actions: READ text answer, ACT selector, text/label, accessible role/name, DOM index, Stagehand reference or screenshot point, according to the representation
-- evaluation: READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics, not completed-task success.
+- evaluation: READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics.
 - focus: Browser-representation token use, Factual READ accuracy, ACT target-element selection
 - observations: Top-document HTML, Markdown converted from HTML, Playwright accessibility snapshot, Browser Use indexed DOM, Stagehand hybrid snapshot, Viewport screenshot
 - setting: offline
@@ -10059,7 +10059,7 @@ This is a single-snapshot representation evaluation on local fixtures and captur
 
 No count recorded.
 
-Fixed local-page observations; the reported run uses claude-sonnet-5 and a shared prompt, without scrolling or an agent loop. Browser Use disables its viewport cutoff and sends untruncated text; Stagehand uses a separate matched browser load. Short-string representability labels are approximate. Offline does not mean API-free. Third-party snapshot redistribution remains unresolved; results were not reproduced.
+Fixed local-page observations; the reported run uses claude-sonnet-5 and a shared prompt, without scrolling or an agent loop. Browser Use disables its viewport cutoff and sends untruncated text; Stagehand uses a separate matched browser load. Short-string representability labels are approximate. The offline evaluation uses model API calls. Third-party snapshot redistribution remains unresolved.
 
 ### License declarations
 
@@ -10391,7 +10391,7 @@ Website reconstruction benchmark: agents explore a production-level site through
 
 ### Limitations
 
-Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 tasks and 46,916 hidden cases were checked by summing the docs/tasks.md table. The README's paper badge has no link, so no paper relation is recorded. Apache-2.0 is the README's statement for benchmark code, task definitions and verifier. Leaderboard scores were not checked. Nothing was installed or run.
+Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 tasks and 46,916 hidden cases were checked by summing the docs/tasks.md table. The README's paper badge has no link, so no paper relation is recorded. Apache-2.0 is the README's statement for benchmark code, task definitions and verifier. Nothing was installed or run.
 
 - Record JSON: https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/record.json
 
@@ -10441,7 +10441,7 @@ An end-to-end web-testing benchmark where agents derive test checklists from dev
 
 ### Limitations
 
-Public evaluation/deployment scripts accompany an ungated Hub release with JSON/JSONL metadata and 100 application ZIP files. The ZIP count is an artifact inventory, not an asserted test-case or defect count. The documented baseline uses Claude Agent SDK and a pinned Playwright MCP version with external model credentials; these were not installed or run. Code and data Apache-2.0 declarations are retained separately.
+Public evaluation/deployment scripts accompany an ungated Hub release with JSON/JSONL metadata and 100 application ZIP files. The ZIP count is an artifact inventory. The documented baseline uses Claude Agent SDK and a pinned Playwright MCP version with external model credentials. Code and data Apache-2.0 declarations are retained separately.
 
 - Record JSON: https://awesomecua.com/resources/github-friedrichor-webtestbench/record.json
 
@@ -10458,7 +10458,7 @@ Public evaluation/deployment scripts accompany an ungated Hub release with JSON/
 - 7 application categories — publisher benchmark overview (reported; source: https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md)
 - 100 web-application archives — Hub file manifest (computed) (computed; source: https://huggingface.co/api/datasets/friedrichor/WebTestBench)
 
-The 100 archive files are not counted as 100 independent test tasks or defects. Backend/tool versions and deployment settings affect reproducibility.
+The 100 archive files form an artifact inventory. Backend/tool versions and deployment settings affect reproducibility.
 
 ### License declarations
 
@@ -10567,14 +10567,14 @@ Windows benchmark revision with task/evaluator fixes and VM-initialization suppo
 
 ### Limitations
 
-Repository contains executable evaluation code and task definitions. README links a separate Windows 11 VM snapshot; that image and its software licenses/access were not validated by downloading it. MIT is recorded for repository code only. Default task selection and the reported full suite have different scopes.
+Repository contains executable evaluation code and task definitions. README links a separate Windows 11 VM snapshot. MIT is recorded for repository code only. Default task selection and the reported full suite have different scopes.
 
 - Record JSON: https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/record.json
 
 ### Structured profile
 
 - actions: PyAutoGUI
-- evaluation: Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator is not automatically the full benchmark size.
+- evaluation: Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator counts trajectory files in the evaluated run, with the full benchmark size recorded separately.
 - focus: Windows desktop task execution, revised task evaluators
 - observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
 - setting: interactive
@@ -10585,7 +10585,7 @@ Repository contains executable evaluation code and task definitions. README link
 - 11 Windows applications — full suite coverage reported by README (reported; source: https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md)
 - 20 task IDs — shipped test_custom.json selection (computed) (computed; source: https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_custom.json)
 
-README sample config uses max_steps=30. The shipped selected-task index has 20 IDs, not 141; preserve the selected task list, trial ID, score coverage and VM snapshot when comparing runs. Docker/Windows-11 setup is required. No VM or benchmark was executed.
+README sample config uses max_steps=30. The shipped selected-task index has 20 IDs; the 141-task figure has a different scope. Preserve the selected task list, trial ID, score coverage and VM snapshot when comparing runs. Docker/Windows-11 setup is required. No VM or benchmark was executed.
 
 ### License declarations
 
@@ -10642,7 +10642,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 181 tasks — WindowsWorld benchmark described in the retained README (reported; source: https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md)
 - 17 desktop applications — WindowsWorld coverage described in the retained README (reported; source: https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md)
 
-Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md, whose distribution links and payloads were not inspected for this profile. Checkpoint counts and application counts are not extra tasks. Apache-2.0 is recorded for repository code; Windows, apps and VM artifacts retain separate terms.
+Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code; Windows, apps and VM artifacts retain separate terms.
 
 ### License declarations
 
@@ -10675,14 +10675,14 @@ An offline benchmark of workflow documentation, quality assessment and knowledge
 
 ### Limitations
 
-The repository contains evaluation and collection code; the linked Zenodo release exposes the full, gold and debug demonstration archives and metadata. This measures workflow understanding rather than interactive agent task completion. Zenodo declares CC-BY-4.0 for that dataset; no repository-level code license was found. Archives and human demonstration records were not downloaded.
+The repository contains evaluation and collection code; the linked Zenodo release exposes the full, gold and debug demonstration archives and metadata. This measures workflow understanding. Zenodo declares CC-BY-4.0 for that dataset; no repository-level code license was found.
 
 - Record JSON: https://awesomecua.com/resources/github-hazyresearch-wonderbread/record.json
 
 ### Structured profile
 
 - actions: generate procedures, segment demonstrations, answer workflow questions, validate and rank procedures
-- evaluation: Task-specific scripts evaluate six workflow-understanding task types; model outputs are not treated as successful interactive execution.
+- evaluation: Task-specific scripts evaluate six workflow-understanding task types.
 - focus: workflow documentation, workflow quality assessment, workflow knowledge transfer
 - observations: screen recordings, action traces, screenshots, written standard operating procedures
 - setting: offline

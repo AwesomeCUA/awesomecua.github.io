@@ -29,7 +29,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - 6 platform categories — Linux, macOS, Windows, Android, iOS, and Web (reported; source: https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md)
 
-The six categories include Web, so they are not six operating systems. Grounding and trajectory annotations follow different collection processes. No sample total or train/test division is inferred from archive-part counts or Hub size tags.
+The six categories include Web. Grounding and trajectory annotations follow different collection processes. No sample total or train/test division is inferred from archive-part counts or Hub size tags.
 
 ## License declarations
 

@@ -14,7 +14,7 @@ Measures how irrelevant GUI content affects multimodal agents using a simulated 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes a simulated dataset; real-browser deployment is not asserted.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes a simulated dataset.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2408-02544/record.json
 

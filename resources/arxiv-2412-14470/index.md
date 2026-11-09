@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Reviewer hold after a separate follow\-up review of the prior adjacent approval: the retained abstract and full\-text Section 3\.2\.1 and Appendix C describe JSON\-schema/Python simulated tool environments and content\-safety cases, without a specific GUI or browser execution basis\. Preserve the bibliography as metadata\-only pending a supported adjacent\-scope rationale; this is not a scope exclusion\.
+Reviewer hold after a separate follow\-up review of the prior adjacent approval: the retained abstract and full\-text Section 3\.2\.1 and Appendix C describe JSON\-schema/Python simulated tool environments and content\-safety cases, without a specific GUI or browser execution basis\. The bibliography remains metadata\-only pending a supported adjacent\-scope rationale; the review hold remains open\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

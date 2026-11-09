@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: SpreadsheetLLM compresses spreadsheets into compact encodings for LLM table detection and QA\. This data\-understanding work does not automate or operate spreadsheet applications, web pages or devices\. The other marked it borderline: Encodes spreadsheet content compactly for LLM table detection and spreadsheet QA; unclear whether spreadsheet understanding without operating the application fits the office\-automation precedent or is general table NLP\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether spreadsheet understanding fits office\-automation support\. One read it as outside the scope: SpreadsheetLLM compresses spreadsheets into compact encodings for LLM table detection and QA\. This data\-understanding work encodes spreadsheets for table detection and QA; its office\-automation fit remains open\. The other marked it borderline: Encodes spreadsheet content compactly for LLM table detection and spreadsheet QA; unclear whether spreadsheet understanding without operating the application fits the office\-automation precedent or is general table NLP\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

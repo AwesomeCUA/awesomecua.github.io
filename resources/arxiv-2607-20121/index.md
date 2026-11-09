@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Safety benchmark of risky third\-party skills executed by CLI agent frameworks in sandboxes; terminal\-level computer agents rather than GUI agents\. An open pull request \(\#2367\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Safety benchmark of risky third\-party skills executed by CLI agent frameworks in sandboxes; the described action surface is terminal operation, leaving catalog fit open\. An open pull request \(\#2367\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

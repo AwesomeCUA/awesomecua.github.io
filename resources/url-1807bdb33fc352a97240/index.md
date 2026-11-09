@@ -14,7 +14,7 @@ Qwen3-VL-8B computer-use agent checkpoint from THUDM's ScaleCUA, trained with on
 
 ## Limitations
 
-Hub API at revision d27cdab2 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture; the repository is not gated. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3-vl-osworld-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 67.7% on OSWorld; this is a publisher figure and was not reproduced. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3-VL-8B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
+Hub API at revision d27cdab2 lists four BF16 safetensors shards (about 8.77B parameters) in the Qwen3VLForConditionalGeneration architecture; access is open. The card calls this the online-RL (RLVR) checkpoint and names extreme1228/ScaleCUA-qwen3-vl-osworld-sft as its start point, which is also its Hub base_model. The card and the THUDM/SCALE-CUA README report 67.7% on OSWorld; this is a publisher figure. The card YAML declares license 'other' and its prose says the weights are released for research and inherit the license of Qwen3-VL-8B; that license is not resolved here. This project is distinct from OpenGVLab/ScaleCUA.
 
 - Record JSON: https://awesomecua.com/resources/url-1807bdb33fc352a97240/record.json
 

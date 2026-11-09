@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Benchmarks the visual design quality of websites produced by AI text\-to\-app tools through expert pairwise judgments; UI design evaluation rather than agents operating interfaces\. An open pull request \(\#4031\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Benchmarks the visual design quality of websites produced by AI text\-to\-app tools through expert pairwise judgments; the abstract leaves open whether website design evaluation fits adjacent GUI scope\. An open pull request \(\#4031\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

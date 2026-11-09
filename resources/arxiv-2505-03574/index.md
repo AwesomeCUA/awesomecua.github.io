@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: General guardrail framework against prompt injection, misalignment and insecure code in LLM agents; webpages appear only as an untrusted input source, and the abstract does not say whether web or GUI agents are evaluated\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: General guardrail framework against prompt injection, misalignment and insecure code in LLM agents; the abstract leaves open whether web or GUI agents are evaluated beyond webpage input examples\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

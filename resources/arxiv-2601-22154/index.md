@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Reasoning reward model for agentic RL evaluated on 12 benchmarks including GAIA and the WebWalkerQA web\-browsing benchmark; browsing is one material setting of a general agent method\. An open pull request \(\#3631\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Reasoning reward model for agentic RL evaluated on 12 benchmarks including GAIA and the WebWalkerQA web\-browsing benchmark; the abstract leaves open whether web browsing is a material setting of the reward model\. An open pull request \(\#3631\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

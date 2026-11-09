@@ -29,7 +29,7 @@ The release contains train_1000.jsonl and images.parquet. The official README ex
 
 - 1,000 training examples — public example subset (reported; source: https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md)
 
-The count is explicitly reported by the publisher, not inferred from the filename. Full training data remains outside this release.
+The count is explicitly reported by the publisher. Full training data remains outside this release.
 
 ## License declarations
 

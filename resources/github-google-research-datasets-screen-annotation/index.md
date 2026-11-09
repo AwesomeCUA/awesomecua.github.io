@@ -14,7 +14,7 @@ Google Research release of ScreenAI's Screen Annotation data: train, validation 
 
 ## Limitations
 
-Each CSV row pairs a Rico screen ID with one text serialization of the screen's UI elements, nested by containment; screenshots are not redistributed and come from Rico, which the Rico paper describes as Android apps. The README says the labels were produced automatically and then verified and corrected by human raters, and that the splits follow Screen2Words. Its per-split figures (15,743, 2,364 and 4,310 screenshots) are larger than the rows in the CSVs at commit 053a4a1c: 15,548 train, 2,311 valid and 4,217 test. The README names the columns image_id and label, while the files use screen_id and screen_annotation. CC BY 4.0 is the README's dataset declaration; the repository has no LICENSE file, and Rico screenshots keep their own terms.
+Each CSV row pairs a Rico screen ID with one text serialization of the screen's UI elements, nested by containment; screenshots come from Rico, which the Rico paper describes as Android apps. The README says the labels were produced automatically and then verified and corrected by human raters, and that the splits follow Screen2Words. Its per-split figures (15,743, 2,364 and 4,310 screenshots) are larger than the rows in the CSVs at commit 053a4a1c: 15,548 train, 2,311 valid and 4,217 test. The README names the columns image_id and label, while the files use screen_id and screen_annotation. CC BY 4.0 is the README's dataset declaration; the repository has no LICENSE file, and Rico screenshots keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/record.json
 

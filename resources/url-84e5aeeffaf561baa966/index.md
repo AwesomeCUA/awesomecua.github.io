@@ -14,7 +14,7 @@ Mobile GUI reward annotations released for training UI-Genie’s trajectory-asse
 
 ## Limitations
 
-The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is not converted into a verified sample count, and complete image packaging is not inferred from the JSONL filename.
+The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is a release name; verified sample count and complete image packaging remain unspecified.
 
 - Record JSON: https://awesomecua.com/resources/url-84e5aeeffaf561baa966/record.json
 
@@ -29,7 +29,7 @@ The public manifest contains reward_data.jsonl but no separately packaged image 
 
 No count recorded.
 
-The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is not converted into a verified sample count, and complete image packaging is not inferred from the JSONL filename.
+The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is a release name; verified sample count and complete image packaging remain unspecified.
 
 ## License declarations
 

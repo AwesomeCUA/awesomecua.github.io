@@ -14,7 +14,7 @@ An archived Browser Use project that lets an LLM operate macOS apps by reading t
 
 ## Limitations
 
-The GitHub API reports the repository as archived; the last push was on 5 March 2025. The tree contains the mlx_use package (agent loop, controller, macOS accessibility tree, element actions), examples and a Gradio demo. The README documents the pip package name mlx-use and OpenAI, Anthropic or Gemini API keys. It warns that the agent may use stored credentials, will not stop at CAPTCHAs and should not run unsupervised. Local MLX inference and iPhone support were roadmap items, not released features. MIT applies to the repository code only.
+The GitHub API reports the repository as archived; the last push was on 5 March 2025. The tree contains the mlx_use package (agent loop, controller, macOS accessibility tree, element actions), examples and a Gradio demo. The README documents the pip package name mlx-use and OpenAI, Anthropic or Gemini API keys. It warns that the agent may use stored credentials, will not stop at CAPTCHAs and should not run unsupervised. Local MLX inference and iPhone support were roadmap items. MIT applies to the repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-browser-use-macos-use/record.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract jailbreaks long\-context LMs by padding harmful goals with benign generated text, tested on HarmBench\. Computer\-use agents appear only as motivation; no agent operating interfaces is studied\. The other marked it borderline: Studies a long\-context jailbreak evaluated on HarmBench; computer\-use agents appear only as a motivating long\-context use case, and the abstract reports no agent or GUI experiments\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether the disputed work includes interface agents\. One read it as outside the scope: The abstract jailbreaks long\-context LMs by padding harmful goals with benign generated text, tested on HarmBench\. Computer\-use agents appear only as motivation; no agent operating interfaces is studied\. The other marked it borderline: Studies a long\-context jailbreak evaluated on HarmBench; computer\-use agents appear only as a motivating long\-context use case, and the abstract reports no agent or GUI experiments\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

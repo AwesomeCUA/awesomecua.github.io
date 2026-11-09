@@ -14,14 +14,14 @@ An offline benchmark of workflow documentation, quality assessment and knowledge
 
 ## Limitations
 
-The repository contains evaluation and collection code; the linked Zenodo release exposes the full, gold and debug demonstration archives and metadata. This measures workflow understanding rather than interactive agent task completion. Zenodo declares CC-BY-4.0 for that dataset; no repository-level code license was found. Archives and human demonstration records were not downloaded.
+The repository contains evaluation and collection code; the linked Zenodo release exposes the full, gold and debug demonstration archives and metadata. This measures workflow understanding. Zenodo declares CC-BY-4.0 for that dataset; no repository-level code license was found.
 
 - Record JSON: https://awesomecua.com/resources/github-hazyresearch-wonderbread/record.json
 
 ## Structured profile
 
 - actions: generate procedures, segment demonstrations, answer workflow questions, validate and rank procedures
-- evaluation: Task-specific scripts evaluate six workflow-understanding task types; model outputs are not treated as successful interactive execution.
+- evaluation: Task-specific scripts evaluate six workflow-understanding task types.
 - focus: workflow documentation, workflow quality assessment, workflow knowledge transfer
 - observations: screen recordings, action traces, screenshots, written standard operating procedures
 - setting: offline

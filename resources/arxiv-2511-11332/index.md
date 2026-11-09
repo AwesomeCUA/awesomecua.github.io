@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: UFO3 orchestrates agents across desktops, servers, phones and edge devices through a task DAG and protocol; the abstract does not say whether the device agents act through GUIs, shells or APIs\. An curation proposal is open in pull request \#3819\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: UFO3 orchestrates agents across desktops, servers, phones and edge devices through a task DAG and protocol; the abstract leaves open whether device agents act through GUIs, shells or APIs\. An curation proposal is open in pull request \#3819\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

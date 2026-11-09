@@ -606,7 +606,7 @@ Presents Halligan, a VLM agent that abstracts visual CAPTCHAs into frames, eleme
 
 ### Limitations
 
-Reviewed against the USENIX Security 2025 proceedings PDF and the authors' project page halligan.pages.dev, which the paper names as its website; experiments were not reproduced. In the benchmark comparison Halligan used GPT-4o and acted through PyAutoGUI on CAPTCHAs replayed from a local Flask server. The paper reports 1,577 of 2,600 benchmark challenges solved (60.7%) and a 70.6% average solve rate on previously unseen CAPTCHAs over a 30-day field study run through human-driven CAPTCHA farms. It names Zenodo record 10.5281/zenodo.15580923 for its source code and benchmark; that archive was not reviewed here. No arXiv version was found.
+Reviewed against the USENIX Security 2025 proceedings PDF and the authors' project page halligan.pages.dev, which the paper names as its website. In the benchmark comparison Halligan used GPT-4o and acted through PyAutoGUI on CAPTCHAs replayed from a local Flask server. The paper reports 1,577 of 2,600 benchmark challenges solved (60.7%) and a 70.6% average solve rate on previously unseen CAPTCHAs over a 30-day field study run through human-driven CAPTCHA farms. It names Zenodo record 10.5281/zenodo.15580923 for its source code and benchmark. No arXiv version was found.
 
 - Record JSON: https://awesomecua.com/resources/url-6942e8211a0f59eb7878/record.json
 
@@ -2726,7 +2726,7 @@ Presents WebOlympus, an open platform that runs web agents on live websites from
 
 ### Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Experiments have not been independently reproduced. The platform observes HTML and screenshots and grounds actions through textual choices, set-of-mark overlays or pixel coordinates. On 50 Mind2Web tasks run on live websites, the paper reports SeeAct success of 48% with textual choices and 56% with set-of-mark grounding. The paper says code will be released for research under an OPEN-RAIL license; no release was checked in this review.
+The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. The platform observes HTML and screenshots and grounds actions through textual choices, set-of-mark overlays or pixel coordinates. On 50 Mind2Web tasks run on live websites, the paper reports SeeAct success of 48% with textual choices and 56% with set-of-mark grounding. The paper says code will be released for research under an OPEN-RAIL license; no release was checked in this review.
 
 - Record JSON: https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/record.json
 

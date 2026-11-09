@@ -14,7 +14,7 @@ MemGUI-Agent training and offline evaluation tools provide trajectory conversion
 
 ## Limitations
 
-The inspected release documentation describes dataset utilities, a LoRA SFT template and gold-step offline evaluation; live Android rollouts are explicitly outside that evaluator and linked to separate benchmark repositories. Executable source files, external datasets/checkpoints and reported results were not independently verified in this bounded review.
+The inspected release documentation describes dataset utilities, a LoRA SFT template and gold-step offline evaluation; live Android rollouts are explicitly outside that evaluator and linked to separate benchmark repositories.
 
 - Record JSON: https://awesomecua.com/resources/github-kwai-memgui-agent/record.json
 
@@ -25,7 +25,7 @@ The inspected release documentation describes dataset utilities, a LoRA SFT temp
 - document: not recorded
 - weights: not recorded
 
-- code review: The README declares Apache-2.0, but the inspected LICENSE is a short notice and link rather than the complete terms; the code license remains unconfirmed.
+- code review: The README declares Apache-2.0; the inspected LICENSE is a short notice and link, leaving the code license unconfirmed.
   Sources: https://raw.githubusercontent.com/kwai/MemGUI-Agent/main/LICENSE, https://raw.githubusercontent.com/kwai/MemGUI-Agent/main/README.md
 
 ## Primary evidence

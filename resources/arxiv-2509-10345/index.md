@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Survey of visual grounding in general\-purpose VLMs that mentions control in simulated and real environments; the abstract does not say whether GUI grounding is covered\. An curation proposal is open in pull request \#3961\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Survey of visual grounding in general\-purpose VLMs that mentions control in simulated and real environments; the abstract leaves open whether GUI grounding is covered\. An curation proposal is open in pull request \#3961\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

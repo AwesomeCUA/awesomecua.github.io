@@ -14,14 +14,14 @@ A public set of real-device mobile task definitions used to evaluate MobA, with 
 
 ## Limitations
 
-The ungated manifest lists MobBench_tasks_release_v1.0.json and bilingual cards. The card reports fifty tasks; no sample records were downloaded to recount them. This release supplies task definitions and agent setup guidance, not an independently verified automatic judge or a bundled Android environment. The data card declares CC-BY-NC-SA-4.0; code and model licenses are separate.
+The ungated manifest lists MobBench_tasks_release_v1.0.json and bilingual cards. The card reports fifty tasks; no sample records were downloaded to recount them. This release supplies task definitions and agent setup guidance. The data card declares CC-BY-NC-SA-4.0; code and model licenses are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-b53e03a6e4ca4226d126/record.json
 
 ## Structured profile
 
 - actions: mobile GUI actions through a separately configured agent
-- evaluation: The publisher reports a fifty-task real-device evaluation; the inspected release does not establish an automatic correctness judge.
+- evaluation: The publisher reports a fifty-task real-device evaluation.
 - focus: mobile task completion
 - observations: Android device interface
 - setting: interactive

@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 8,614 question-answer pairs — original ScreenQA validation split (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md)
 - 8,419 question-answer pairs — original ScreenQA test split (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md)
 
-All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. Do not add these variants as independent original examples.
+All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. ScreenQA Short reuses the same questions and screens; ComplexQA is a separate extension.
 
 ## License declarations
 

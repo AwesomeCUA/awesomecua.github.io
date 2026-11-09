@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Agent that researches sources and assembles slides into narrated presentation videos; unclear whether its source gathering or slide building involves web browsing or application automation\. An exclusion proposal is open in pull request \#3073\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Agent that researches sources and assembles slides into narrated presentation videos; the abstract leaves open whether source gathering or slide building involves web browsing or application automation\. An exclusion proposal is open in pull request \#3073\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

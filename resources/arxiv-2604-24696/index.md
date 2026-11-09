@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Neuroimaging research agent that runs toolchains in managed Python and Docker environments; the abstract does not say whether it operates a computer like a terminal or claw\-style agent or acts as a domain coding pipeline\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Neuroimaging research agent that runs toolchains in managed Python and Docker environments; the abstract leaves open whether the agent operates a terminal or runs a domain coding pipeline\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ TUA-Bench evaluates terminal-use agents on general digital tasks, including docu
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Adjacent general computer-operation benchmark: the evaluated interface is a terminal; GUI benchmarks are a contrast, not its execution modality.
+Reviewed against the complete retained official abstract. Adjacent general computer-operation benchmark evaluated through a terminal.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-28480/record.json
 

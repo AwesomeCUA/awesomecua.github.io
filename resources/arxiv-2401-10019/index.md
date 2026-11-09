@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Benchmark of agent interaction records for judging safety risks across five application categories; the abstract does not say whether any records involve web, app or GUI operation\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Benchmark of agent interaction records for judging safety risks across five application categories; the abstract leaves open whether the interaction records include web, app or GUI operation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

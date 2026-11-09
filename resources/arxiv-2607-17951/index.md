@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Restructures a self\-hosted computer\-use agent for real\-time UAV control through contract\-bound skill calls; the agent commands a drone rather than a GUI, so catalog fit is unclear\. An exclusion proposal is open in pull request \#2389\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Restructures a self\-hosted computer\-use agent for real\-time UAV control through contract\-bound skill calls; the described action surface is drone control, leaving catalog fit open\. An exclusion proposal is open in pull request \#2389\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

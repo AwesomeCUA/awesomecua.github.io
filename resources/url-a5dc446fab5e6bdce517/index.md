@@ -14,7 +14,7 @@ Training-free protocol that turns a teacher model's offline reasoning traces int
 
 ## Limitations
 
-The annotation was reviewed against the publisher PDF and the Crossref deposit for its DOI. Experiments have not been independently reproduced. The method, In-Context Learning Guidance (ICLG), has GPT-5.1 solve tasks offline and appends only its reasoning fields, not its low-level actions, to the student prompt; the teacher is not called while the student runs. Evaluation serves the 130 MiniWoB++ tasks locally, caps each run at 5 minutes and 25 interaction steps, counts a score of at least 0.5 as solved, and reports single runs: seven of ten students improve and three lose one task. Retry and refined-prompt ablations cover three students. The paper names no code release or arXiv version.
+The annotation was reviewed against the publisher PDF and the Crossref deposit for its DOI. The method, In-Context Learning Guidance (ICLG), has GPT-5.1 solve tasks offline and appends its reasoning fields alone to the student prompt; the teacher's low-level actions stay outside that prompt, and teacher calls precede the student run. Evaluation serves the 130 MiniWoB++ tasks locally, caps each run at 5 minutes and 25 interaction steps, counts a score of at least 0.5 as solved, and reports single runs: seven of ten students improve and three lose one task. Retry and refined-prompt ablations cover three students. The paper names no code release or arXiv version.
 
 - Record JSON: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/record.json
 

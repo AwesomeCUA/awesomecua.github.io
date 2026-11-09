@@ -14,7 +14,7 @@ Archived Laminar browser agent in Python that drives Playwright Chromium with vi
 
 ## Limitations
 
-GitHub reports the repository as archived, with the last push on 2025-06-09. The tree holds the agent, Playwright browser and controller modules (actions include give_human_control and spreadsheet-cell clicks), providers for Anthropic, Bedrock, Gemini, Vertex, OpenAI and Groq, and two structured-output eval scripts rather than a benchmark. The README also advertises a hosted serverless Index API and chat UI run by Laminar; their current availability was not checked. Apache-2.0 covers repository code only.
+GitHub reports the repository as archived, with the last push on 2025-06-09. The tree holds the agent, Playwright browser and controller modules (actions include give_human_control and spreadsheet-cell clicks), providers for Anthropic, Bedrock, Gemini, Vertex, OpenAI and Groq, and two structured-output eval scripts. The README also advertises a hosted serverless Index API and chat UI run by Laminar. Apache-2.0 covers repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-lmnr-ai-index/record.json
 

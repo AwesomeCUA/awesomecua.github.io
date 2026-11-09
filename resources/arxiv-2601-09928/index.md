@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Client\-side browser extension pairing a learned user\-behavior model with a small LM for search suggestions; it is unclear whether it reads or acts on pages beyond search assistance\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Client\-side browser extension pairing a learned user\-behavior model with a small LM for search suggestions; the abstract leaves open whether the browser extension reads or acts on pages beyond search assistance\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Dataset of web pages with prompt injections hidden in HTML attributes such as meta, aria\-label and alt, fed through a browser automation pipeline to LLM summarizers; web\-content security, not agents acting on pages\. An open pull request \(\#4021\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Dataset of web pages with prompt injections hidden in HTML attributes such as meta, aria\-label and alt, fed through a browser automation pipeline to LLM summarizers; the abstract leaves open whether web\-content security via browser automation fits adjacent scope\. An open pull request \(\#4021\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

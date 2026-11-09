@@ -14,7 +14,7 @@ Released GUI world-model checkpoint that turns a screenshot and proposed action 
 
 ## Limitations
 
-Card identifies Code2World-8B and Qwen3-VL-8B-Instruct. Public files include four Safetensors shards, an index and rendering/prompt helper scripts. The GitHub adapter targets AndroidWorld; model-generated HTML rendering and model loading were not executed. MIT is recorded as the weight declaration, without transferring it to the separate GitHub repository’s code or all training sources.
+Card identifies Code2World-8B and Qwen3-VL-8B-Instruct. Public files include four Safetensors shards, an index and rendering/prompt helper scripts. The GitHub adapter targets AndroidWorld. MIT is recorded as the weight declaration, without transferring it to the separate GitHub repository’s code or all training sources.
 
 - Record JSON: https://awesomecua.com/resources/url-bc3deaf8eeecf569e73b/record.json
 

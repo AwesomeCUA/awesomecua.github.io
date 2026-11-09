@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Steers simulated user traits through activation directions to stress\-test conversational agents on τ\-Bench domains such as airline and retail\. These API\-based customer\-service agents do not operate graphical interfaces or web pages\. This is the class Codex review disputed in this screening: the paper concerns application or workflow tasks carried out through scripts, APIs or tools, which the adjacent category may cover, and the abstract does not settle it\. An exclusion proposal is open in pull request \#3879\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Steers simulated user traits through activation directions to stress\-test conversational agents on τ\-Bench domains such as airline and retail; whether API\-based application workflows fit the adjacent category remains open\. These customer\-service agents use APIs for airline and retail tasks\. Codex review disputed this class of exclusions: the adjacent category may cover application or workflow tasks carried out through scripts, APIs or tools, and the abstract leaves the fit open\. An exclusion proposal is open in pull request \#3879\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ Hugging Face recipe that converts Aguvis GUI data into one normalized action spa
 
 ## Limitations
 
-The README is the project write-up. The inspected tree contains recipe.ipynb, action-conversion and Aguvis preprocessing code, a function parser, an action-space converter, a collator and evaluation prompts. The README names derived datasets (smolagents/aguvis-stage-1 and smolagents/aguvis-stage-2), the SmolVLM2-2.2B-Instruct-Agentic-GUI checkpoint and a demo Space; those Hub assets are not separate records here, and their licenses were not reviewed. The uses relations record that the recipe transforms the xlangai Aguvis stage 1 and stage 2 releases. ScreenSpot-v2 results are publisher-reported. The repository has no license file, so code permissions are unknown.
+The README is the project write-up. The inspected tree contains recipe.ipynb, action-conversion and Aguvis preprocessing code, a function parser, an action-space converter, a collator and evaluation prompts. The README names derived datasets (smolagents/aguvis-stage-1 and smolagents/aguvis-stage-2), the SmolVLM2-2.2B-Instruct-Agentic-GUI checkpoint and a demo Space as separate Hub assets outside this record. The uses relations record that the recipe transforms the xlangai Aguvis stage 1 and stage 2 releases. ScreenSpot-v2 results are publisher-reported. The repository has no license file, so code permissions are unknown.
 
 - Record JSON: https://awesomecua.com/resources/github-huggingface-smol2operator/record.json
 

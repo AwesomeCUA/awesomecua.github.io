@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: The abstract mines recurring tool\-call sequences into deterministic meta\-tools to cut LLM calls in agent workflows\. This tool\-workflow optimization names no web\-page, GUI, mobile or desktop interaction\. An open pull request \(\#3724\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: The abstract mines recurring tool\-call sequences into deterministic meta\-tools to cut LLM calls in agent workflows; the abstract leaves open whether agent workflows include computer\-use interfaces\. This tool\-workflow optimization names no web\-page, GUI, mobile or desktop interaction\. An open pull request \(\#3724\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

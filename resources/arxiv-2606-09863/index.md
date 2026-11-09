@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Characterizes false task\-completion claims by LLM agents on tau2\-bench and AppWorld API\-call traces and tests cheap detectors\. These are tool and API settings with no GUI, web\-page or device interaction\. This is the class Codex review disputed in this screening: the paper concerns application or workflow tasks carried out through scripts, APIs or tools, which the adjacent category may cover, and the abstract does not settle it\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Characterizes false task\-completion claims by LLM agents on tau2\-bench and AppWorld API\-call traces and tests cheap detectors; whether API\-based application workflows fit the adjacent category remains open\. These are tool and API settings with no GUI, web\-page or device interaction\. Codex review disputed this class of exclusions: the adjacent category may cover application or workflow tasks carried out through scripts, APIs or tools, and the abstract leaves the fit open\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

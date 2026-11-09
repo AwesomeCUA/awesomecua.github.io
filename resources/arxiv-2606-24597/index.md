@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Language world models that simulate agent environments in seven unnamed domains for RL and warm\-up training; the abstract does not say whether web, GUI or mobile environments are among them\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Language world models that simulate agent environments in seven unnamed domains for RL and warm\-up training; the abstract leaves open whether the seven domains include web, GUI or mobile environments\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Tool\-agent benchmark spanning atomic tool use and open\-ended productivity workflows, testing harnesses such as Manus and OpenClaw; the abstract does not say whether tasks involve browsers, GUIs or only tool APIs\. An exclusion proposal is open in pull request \#3372\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Tool\-agent benchmark spanning atomic tool use and open\-ended productivity workflows, testing harnesses such as Manus and OpenClaw; the abstract leaves open whether tasks involve browsers, GUIs or tool APIs\. An exclusion proposal is open in pull request \#3372\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

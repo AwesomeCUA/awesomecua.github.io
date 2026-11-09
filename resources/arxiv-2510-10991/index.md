@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Survey of agentic multimodal LLMs covering planning, tool use and action in virtual or physical environments; the abstract does not say how much it covers GUI or web agents\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Survey of agentic multimodal LLMs covering planning, tool use and action in virtual or physical environments; the abstract leaves open whether GUI or web agents receive material coverage\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

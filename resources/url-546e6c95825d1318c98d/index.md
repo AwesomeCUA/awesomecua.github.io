@@ -14,7 +14,7 @@ Mobile-agent supervision from emulator and simulator trajectories, plus executab
 
 ## Limitations
 
-The reviewed card contains no explicit license declaration, so data-license status remains unknown. The repository code license is not inherited. The current code README points to the v2 dataset; an older project-page URL was not counted as a separate asset.
+The reviewed card contains no explicit license declaration, so data-license status remains unknown. The repository code license is not inherited. The current code README points to the v2 dataset.
 
 - Record JSON: https://awesomecua.com/resources/url-546e6c95825d1318c98d/record.json
 
@@ -31,7 +31,7 @@ The reviewed card contains no explicit license declaration, so data-license stat
 - 118,582 decision steps — SFT collection (reported; source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md)
 - 2,475 executable tasks — RL collection (reported; source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md)
 
-These are publisher-reported totals at three distinct grains, not values to sum. Earlier screenshots may be collapsed; each SFT example keeps at most three images. The card and repository disagree on the singular/plural RL filename, so consumers should inspect the actual file manifest.
+These are publisher-reported totals at three distinct grains. Earlier screenshots may be collapsed; each SFT example keeps at most three images. The card and repository disagree on the singular/plural RL filename, so consumers should inspect the actual file manifest.
 
 ## License declarations
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Systematizes security work on sandboxes, access control, TOCTOU and MCP for coding agents that run shell commands; unclear whether this execution layer counts as computer\-operating agent safety or coding\-agent work\. An exclusion proposal is open in pull request \#2609\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Systematizes security work on sandboxes, access control, TOCTOU and MCP for coding agents that run shell commands; the abstract leaves open whether coding\-agent execution layers fit computer\-use safety scope\. An exclusion proposal is open in pull request \#2609\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

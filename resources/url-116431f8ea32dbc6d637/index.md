@@ -14,7 +14,7 @@ Original WebChain release of human-annotated trajectories on live websites, with
 
 ## Limitations
 
-The publisher's cleaned v2 release is a separate Hub repository (webagentlab/webchain) whose card calls this repository the original release with the least-processed artifacts and earlier high- and low-level formulations; v2 reports different counts after cleaning. Here the image and full-page screenshot folders are split ZIP sets, and the card says full-page screenshots cover only some steps. Rationales come from synthetic generation, not annotators. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content. Files were not downloaded.
+The publisher's cleaned v2 release is a separate Hub repository (webagentlab/webchain) whose card calls this repository the original release with the least-processed artifacts and earlier high- and low-level formulations; v2 reports different counts after cleaning. Here the image and full-page screenshot folders are split ZIP sets, and the card says full-page screenshots cover only some steps. Rationales come from synthetic generation. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content.
 
 - Record JSON: https://awesomecua.com/resources/url-116431f8ea32dbc6d637/record.json
 
@@ -32,7 +32,7 @@ The publisher's cleaned v2 release is a separate Hub repository (webagentlab/web
 - 428 web domains — WebChain corpus as stated on the original-release card (reported; source: https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md)
 - 13 Parquet files — processed/high_parquet (2) and processed/low_parquet (11) at revision bd569907 (computed) (computed; source: https://huggingface.co/api/datasets/webagentlab/webchain-legacy)
 
-Trajectories, steps, domains and files are different units and are not summed. The trajectory, step and domain figures match the paper's statistics; the v2 card says they describe the corpus before final cleaning. The file count comes from the Hub manifest; Parquet row counts were not computed.
+Trajectories, steps, domains and files are different units and are counted separately. The trajectory, step and domain figures match the paper's statistics; the v2 card says they describe the corpus before final cleaning. The file count comes from the Hub manifest.
 
 ## License declarations
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Agentic auditor for tasks in 168 agent and LLM benchmarks, with results highlighted on SWE\-bench Verified and Terminal\-Bench 2; the abstract does not say whether GUI or web\-agent benchmarks are among those audited\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Agentic auditor for tasks in 168 agent and LLM benchmarks, with results highlighted on SWE\-bench Verified and Terminal\-Bench 2; the abstract leaves open whether GUI or web\-agent benchmarks are among the 168 audited\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

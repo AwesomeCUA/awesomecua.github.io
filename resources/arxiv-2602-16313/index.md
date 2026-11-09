@@ -1,6 +1,6 @@
 # MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks
 
-MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2602-16313/
 - Original source: https://arxiv.org/abs/2602.16313

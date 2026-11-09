@@ -14,7 +14,7 @@ Self-collected phone trajectories from the UI-MOPD training data: 871 tasks acro
 
 ## Limitations
 
-The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajectories plus cleaned OpenCUA and OpenMobile trajectories; this repository is the self-collected mobile part (the paper's composition table rounds it to about 1K trajectories and 17K steps, the card reports about 14K steps). Per the paper, teacher models produced the rollouts, an automatic judge kept only successful ones, and reasoning traces were rewritten into one format, so these are not human demonstrations. The card says only 'mobile'; Android is inferred from the adb commands in its step records and the paper's use of AndroidWorld and MobileWorld environments for mobile queries. Apache-2.0 is the card's declaration and does not cover third-party app content in screenshots. Files were not downloaded.
+The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajectories plus cleaned OpenCUA and OpenMobile trajectories; this repository is the self-collected mobile part (the paper's composition table rounds it to about 1K trajectories and 17K steps, the card reports about 14K steps). Per the paper, teacher models produced the rollouts, an automatic judge kept only successful ones, and reasoning traces were rewritten into one format. The card says only 'mobile'; Android is inferred from the adb commands in its step records and the paper's use of AndroidWorld and MobileWorld environments for mobile queries. Apache-2.0 is the card's declaration and does not cover third-party app content in screenshots.
 
 - Record JSON: https://awesomecua.com/resources/url-93278fa5b9e6bd0cbcef/record.json
 
@@ -33,7 +33,7 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 - 871 task.json trajectory files — Hub manifest at revision 45244387 (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838)
 - 14,275 PNG screenshot files — Hub manifest at revision 45244387 (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838)
 
-Trajectories, steps, app categories and files are different units and are not summed. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 999] on a 1080x2400 screen. No train/test split is declared.
+Trajectories, steps, app categories and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest. Coordinates are normalized to [0, 999] on a 1080x2400 screen. No train/test split is declared.
 
 ## License declarations
 

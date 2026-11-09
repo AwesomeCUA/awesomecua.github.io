@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: General survey of LLM\-based agents covering planning, memory and tool use; the abstract does not indicate whether web or GUI agents are covered\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: General survey of LLM\-based agents covering planning, memory and tool use; the abstract leaves open whether the survey covers web or GUI agents\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Guideline for authoring adversarial, difficult and legible Terminal\-Bench tasks for terminal agents doing coding and system administration; shell\-based computer operation without a GUI\. An open pull request \(\#3335\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Guideline for authoring adversarial, difficult and legible Terminal\-Bench tasks for terminal agents doing coding and system administration; the abstract leaves open whether terminal task authoring fits adjacent computer\-use scope\. An open pull request \(\#3335\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

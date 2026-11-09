@@ -14,7 +14,7 @@ Guides UI agents with symbolic planning over a UI transition graph initialized f
 
 ## Limitations
 
-Planning guarantees are relative to the modeled graph and selected target. They do not establish complete graphs, correct grounding or faithful goal translation. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 UI Automation to Classical Planning; 4.1 UTG Builder; 4.2 Node Selector; 4.3 Plan Generator; 4.4 UI Explorer; 5.1 Datasets).
+Planning guarantees are relative to the modeled graph and selected target. Planning guarantees are relative to the modeled graph and selected target; graph completeness, grounding correctness and goal translation remain unestablished. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 UI Automation to Classical Planning; 4.1 UTG Builder; 4.2 Node Selector; 4.3 Plan Generator; 4.4 UI Explorer; 5.1 Datasets).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-06042/record.json
 

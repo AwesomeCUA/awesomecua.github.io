@@ -14,7 +14,7 @@ SFT-labelled 72B UI-TARS checkpoint: a native GUI agent model in the Qwen2-VL ar
 
 ## Limitations
 
-Hub API at revision 8e7a0310 lists 64 F32 safetensors shards (about 73.4B parameters) in the Qwen2VLForConditionalGeneration architecture; the repository is not gated. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 18.8 on OSWorld with a 15-step budget and 46.6 on AndroidWorld for this checkpoint. Card benchmark tables are publisher measurements and were not reproduced.
+Hub API at revision 8e7a0310 lists 64 F32 safetensors shards (about 73.4B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. Its card reports 18.8 on OSWorld with a 15-step budget and 46.6 on AndroidWorld for this checkpoint.
 
 - Record JSON: https://awesomecua.com/resources/url-fdb901523979ed1e831b/record.json
 

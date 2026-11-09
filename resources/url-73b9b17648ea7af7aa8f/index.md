@@ -14,7 +14,7 @@ Desktop computer-use trajectories with per-step screenshots and success, safety 
 
 ## Limitations
 
-The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl files with zipped or tarred step screenshots in three configs: Capability (tasks from SCOPE-Gen), Safety-v2 (safe completions and refusals on attack-injected Capability tasks) and a legacy Safety archive generated through RiOSWorld rollouts that keeps risky outcomes. Each record has chat-format messages whose assistant turns hold an action description and a coordinate action, plus success, safety, reward and attack fields. The card declares Apache-2.0 for the data; screenshots show third-party desktop applications whose own terms are not addressed. Thunderbird and VLC capability files are present but not listed in the capability config. The Safactory report (arXiv 2605.06230, v2) describes SATraj-OS as produced with its OSGym environment and reports 10,496 trajectories and 158,196 steps. That paper is not yet in the retained archive, so no paper relation is recorded. Publisher model results trained on the data were not reproduced.
+The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl files with zipped or tarred step screenshots in three configs: Capability (tasks from SCOPE-Gen), Safety-v2 (safe completions and refusals on attack-injected Capability tasks) and a legacy Safety archive generated through RiOSWorld rollouts that keeps risky outcomes. Each record has chat-format messages whose assistant turns hold an action description and a coordinate action, plus success, safety, reward and attack fields. The card declares Apache-2.0 for the data; screenshots show third-party desktop applications whose own terms are not addressed. Thunderbird and VLC capability files are present outside the capability config. The Safactory report (arXiv 2605.06230, v2) describes SATraj-OS as produced with its OSGym environment and reports 10,496 trajectories and 158,196 steps. That paper is not yet in the retained archive, so no paper relation is recorded.
 
 - Record JSON: https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/record.json
 
@@ -34,7 +34,7 @@ The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl file
 - 6,152 trajectories — legacy Safety archive (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
 - 88,496 interaction steps — legacy Safety archive (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
 
-Counts are publisher-reported on the card and were not recomputed from the JSONL files. The card's headline 4,885 trajectories and 71,626 steps cover Capability plus Safety-v2 only. The Safactory report's 10,496 trajectories match Capability plus the legacy Safety archive, but its 158,196 steps do not equal the card's step totals for those sets. A trajectory is a multi-step episode, not a screenshot count.
+Counts are publisher-reported on the card. The card's headline 4,885 trajectories and 71,626 steps cover Capability plus Safety-v2 only. The Safactory report's 10,496 trajectories match Capability plus the legacy Safety archive, but its 158,196 steps do not equal the card's step totals for those sets. A trajectory is a multi-step episode; screenshot counts use a different unit.
 
 ## License declarations
 

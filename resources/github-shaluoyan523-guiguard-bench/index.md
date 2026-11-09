@@ -32,7 +32,7 @@ The README is an anonymous-review version without authors or a citation; the pap
 - 26 PC trajectories — dataset_example/PC at commit 542a902a (reported; source: https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md)
 - 290 next-action grounding samples — dataset_example/grounding_data/manifest.jsonl at commit 542a902a (computed) (computed; source: https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl)
 
-Counts describe dataset_example/, the repository's review subset for smoke tests, not the benchmark; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units and are not summed.
+Counts describe dataset_example/, the repository's review subset for smoke tests; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units; these counts are reported separately.
 
 ## License declarations
 

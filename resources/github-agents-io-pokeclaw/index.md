@@ -14,7 +14,7 @@ Android app that runs a phone-control agent on the device, reading the UI tree t
 
 ## Limitations
 
-Also called PocketClaw. The task loop runs inside the installed APK rather than on a host over ADB. Local mode runs Gemma 4 through LiteRT-LM after a model download of about 2.6 GB; Cloud mode calls a hosted model. The tool registry also has notification, clipboard, call, file and knowledge-base tools, plus a separate D-pad tool set for Android TV devices. The README's pass rates (for example 18 of 20 cloud tasks on a Pixel 8 Pro) are the author's own trials and were not reproduced. Code was read, not run.
+Also called PocketClaw. The task loop runs inside the installed APK; ADB control from a host is outside this architecture. Local mode runs Gemma 4 through LiteRT-LM after a model download of about 2.6 GB; Cloud mode calls a hosted model. The tool registry also has notification, clipboard, call, file and knowledge-base tools, plus a separate D-pad tool set for Android TV devices. The README reports pass rates, for example 18 of 20 cloud tasks on a Pixel 8 Pro, from the author's trials.
 
 - Record JSON: https://awesomecua.com/resources/github-agents-io-pokeclaw/record.json
 

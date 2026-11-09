@@ -14,7 +14,7 @@ A web-interface localization benchmark with screenshot instructions and target b
 
 ## Limitations
 
-Four public test Parquet shards are present. The dataset card declares Apache-2.0. This is an offline localization test, not an end-to-end web-task success benchmark; reported screenshots and samples are not summed as different populations.
+Four public test Parquet shards are present. The dataset card declares Apache-2.0. This is an offline localization test; reported screenshots and samples are different units.
 
 - Record JSON: https://awesomecua.com/resources/url-5e2bd1b3398974b79c9c/record.json
 
@@ -30,7 +30,7 @@ Four public test Parquet shards are present. The dataset card declares Apache-2.
 
 - 1,639 examples — test split (reported; source: https://huggingface.co/datasets/Hcompany/WebClick/raw/main/README.md)
 
-The card reports more than 100 websites but does not provide a precise website total. Grounding accuracy does not establish task completion.
+The card reports more than 100 websites. Grounding accuracy and task completion are separate measures.
 
 ## License declarations
 

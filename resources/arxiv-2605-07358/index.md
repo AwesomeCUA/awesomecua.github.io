@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Survey of reusable agent skills that cites OpenClaw and Claude Code as exemplars; the abstract does not say how far its coverage extends to GUI, web or computer\-use agents\. An exclusion proposal is open in pull request \#3187\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Survey of reusable agent skills that cites OpenClaw and Claude Code as exemplars; the abstract leaves open whether GUI, web or computer\-use agents receive material coverage\. An exclusion proposal is open in pull request \#3187\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

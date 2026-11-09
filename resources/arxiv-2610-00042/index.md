@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Presents a WebAssembly agent\-memory store with knowledge, session and context\-assembly tiers that runs in a browser tab\. The browser is only the runtime; no agent navigates or acts on web pages\. The other marked it borderline: In\-browser WebAssembly memory engine for LLM agents \(knowledge, session tracking, context assembly\)\. The abstract says the agents run in a browser tab but not whether they act on web pages or only converse\. An exclusion proposal is open in pull request \#2487\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed on scope\. One read it as outside the scope: Presents a WebAssembly agent\-memory store with knowledge, session and context\-assembly tiers that runs in a browser tab\. The browser is only the runtime; no agent navigates or acts on web pages\. The other marked it borderline: In\-browser WebAssembly memory engine for LLM agents \(knowledge, session tracking, context assembly\)\. The abstract says the agents run in a browser tab and leaves open whether they act on web pages or only converse\. An exclusion proposal is open in pull request \#2487\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

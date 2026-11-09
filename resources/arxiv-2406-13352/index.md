@@ -14,7 +14,7 @@ Introduces AgentDojo, an extensible environment of tool-calling tasks over untru
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract (version 3). Agents act through tool calls on simulated email, banking and travel services rather than through screenshots or page DOMs, so the paper is adjacent to GUI-agent safety. Experimental findings have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract (version 3). Agents act through tool calls on simulated email, banking and travel services; the paper is adjacent to GUI-agent safety.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-13352/record.json
 

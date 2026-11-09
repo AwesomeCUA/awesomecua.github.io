@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2609.35889",
+  "citation-key": "arxiv_2609_35889",
+  "type": "article",
+  "title": "SINGED: Correct Outputs Do Not Certify Safe Execution in LLM Agents",
+  "URL": "https://arxiv.org/abs/2609.35889v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.35889",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.35889",
+    "identifiers": {
+      "arxiv": "2609.35889"
+    },
+    "first_published_at": "2026-09-27",
+    "record_updated_at": "2026-09-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e38f9cc6cd0a00cbb25c15a65ef4d14ccfa3a49923206de96197c1ad08e3897f",
+      "submitted_at": "2026-09-27T06:37:04Z",
+      "updated_at": "2026-09-27T06:37:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.35889v1"
+    }
+  },
+  "note": "First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T06:37:04Z.",
+  "author": [
+    {
+      "literal": "Xiaoyu Xu"
+    },
+    {
+      "literal": "Zi Liang"
+    },
+    {
+      "literal": "Minxin Du"
+    },
+    {
+      "literal": "Qipeng Xie"
+    },
+    {
+      "literal": "Qingqing Ye"
+    },
+    {
+      "literal": "Yuyuan Li"
+    },
+    {
+      "literal": "Haibo Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.35889",
+  "genre": "preprint",
+  "version": "1"
+}

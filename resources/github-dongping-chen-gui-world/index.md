@@ -30,7 +30,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 6 GUI scenario categories — dataset taxonomy (reported; source: https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md)
 - 8 question types — dataset taxonomy (reported; source: https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md)
 
-Taxonomy counts describe coverage, not the number of videos or questions. Cases include Android, iOS, desktop software, websites, multi-application use, and XR. Keyframe-selection settings affect evaluation; exact sample inventories are not reported here.
+Taxonomy counts describe coverage; video and question counts use different units. Cases include Android, iOS, desktop software, websites, multi-application use, and XR. Keyframe-selection settings affect evaluation.
 
 ## License declarations
 

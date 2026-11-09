@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Dataset of non\-factoid research questions mined from search logs and pitched at LLM web agents; the abstract evaluates answering strategies rather than agents that browse pages\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Dataset of non\-factoid research questions mined from search logs and pitched at LLM web agents; the abstract leaves open whether the evaluated answering strategies include agents that browse pages\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

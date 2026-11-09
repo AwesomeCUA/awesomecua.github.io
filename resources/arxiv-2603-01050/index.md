@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Multimodal deep\-research agent trained with search\-tool trajectories and an offline search engine; the abstract does not say whether it opens and reads web pages beyond search calls\. An exclusion proposal is open in pull request \#3311\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Multimodal deep\-research agent trained with search\-tool trajectories and an offline search engine; the abstract leaves open whether the agent opens and reads pages beyond search calls\. An exclusion proposal is open in pull request \#3311\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

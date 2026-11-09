@@ -14,7 +14,7 @@ Screenshot-based grounding and captioning samples with UI functionality descript
 
 ## Limitations
 
-The row count is not a unique-screen count. The data card documents image scaling conventions that affect coordinate interpretation.
+The row count and unique-screen count are different units. The data card documents image scaling conventions that affect coordinate interpretation.
 
 - Record JSON: https://awesomecua.com/resources/url-79287058342289aa5d45/record.json
 
@@ -29,7 +29,7 @@ The row count is not a unique-screen count. The data card documents image scalin
 
 - 701,864 training rows — default/train in the dataset card metadata (reported; source: https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md)
 
-Rows are not unique screenshots. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.
+Rows and unique screenshots are different units. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.
 
 ## License declarations
 

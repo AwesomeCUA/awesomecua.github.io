@@ -14,7 +14,7 @@ An offline preference-evaluation set for web process reward models, pairing page
 
 ## Limitations
 
-Two public Parquet shards are present. Card metadata reports 776 test rows, whereas the project describes 1,000-plus test cases without reconciling that count to rows. Both observations are retained as a grain/coverage caveat rather than treating either as a confirmed number of independent tasks. No data license is declared.
+Two public Parquet shards are present. Card metadata reports 776 test rows, whereas the project describes 1,000-plus test cases without reconciling that count to rows. The 776 test rows and 1,000-plus project cases use unresolved counting units; neither establishes a count of independent tasks. No data license is declared.
 
 - Record JSON: https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/record.json
 
@@ -30,7 +30,7 @@ Two public Parquet shards are present. Card metadata reports 776 test rows, wher
 
 - 776 rows — Hub test split (reported; source: https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench/raw/main/README.md)
 
-The current Hub row count and project case-count claim use unresolved counting units. Candidate lists mean a row must not be assumed to equal one task or one pair.
+The current Hub row count and project case-count claim use unresolved counting units. Candidate lists make rows a different unit from tasks or pairs.
 
 ## License declarations
 

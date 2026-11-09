@@ -1,6 +1,6 @@
 # look-decide-act
 
-Drives live web applications over CDP through a closed-loop visual look-decide-act cycle rather than brittle script replay.
+Drives live web applications over CDP through a closed-loop visual look-decide-act cycle in place of script replay.
 
 - Catalog URL: https://awesomecua.com/resources/github-ivanposel-look-decide-act/
 - Original source: https://github.com/ivanposel/look-decide-act

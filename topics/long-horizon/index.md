@@ -137,7 +137,7 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 - [A History-Aware Visually Grounded Critic for Computer Use Agents](https://awesomecua.com/resources/arxiv-2606-11078/) — 2026-06-09
   HiViG combines a compact history of completed actions with a visually grounded critic that checks proposed coordinates before execution. Its evaluations separate history-related planning failures from errors caused by targeting the wrong screen element.
 - [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://awesomecua.com/resources/arxiv-2606-11042/) — 2026-06-09
-  Workflow-GYM evaluates long GUI workflows in professional software rather than isolated interface actions. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
+  Workflow-GYM evaluates long GUI workflows in professional software. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
 - [WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces](https://awesomecua.com/resources/arxiv-2606-09426/) — 2026-06-08
   WeaveBench requires agents to combine GUI, command-line and code operations within long tasks on an Ubuntu desktop. A trajectory-aware judge checks deliverables and interaction evidence, including shortcut behavior that outcome-only grading can miss.
 - [Self-evolving LLM agents with in-distribution Optimization](https://awesomecua.com/resources/arxiv-2606-07367/) — 2026-06-05
@@ -199,7 +199,7 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 - [Gym-Anything: Turn any Software into an Agent Environment](https://awesomecua.com/resources/arxiv-2604-06126/) — 2026-04-07
   Introduces Gym-Anything, where a setup agent configures software environments and an independent auditor checks the resulting evidence. CUA-World supplies long-horizon tasks across professional applications, with experiments on trajectory distillation and test-time auditing.
 - [GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis](https://awesomecua.com/resources/arxiv-2604-04399/) — 2026-04-06
-  GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces rather than relying on one holistic trajectory score.
+  GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces.
 - [The Art of Building Verifiers for Computer Use Agents](https://awesomecua.com/resources/arxiv-2604-06240/) — 2026-04-05
   Describes a web-trajectory verifier built around structured rubrics, separate process and outcome judgments, and explicit treatment of uncontrollable failures. CUAVerifierBench supplies human labels for evaluating these choices and screenshot-based context management.
 - [AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-02947/) — 2026-04-03
@@ -223,7 +223,7 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 - [IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2602-17049/) — 2026-02-19
   IntentCUA coordinates planner and critic agents through shared intent-aligned memory, retrieving reusable skills for long-horizon automation across desktop applications.
 - [MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://awesomecua.com/resources/arxiv-2602-16313/) — 2026-02-18
-  MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+  MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions.
 - [HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents](https://awesomecua.com/resources/arxiv-2602-16165/) — 2026-02-18
   HiPER trains interactive LLM agents with separate subgoal planning and multi-step execution, assigning reinforcement-learning credit at both levels.
 - [ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents](https://awesomecua.com/resources/arxiv-2602-10863/) — 2026-02-11

@@ -14,7 +14,7 @@ A Qwen3.6-based computer-use checkpoint designed to request GUI actions, code ex
 
 ## Limitations
 
-The public manifest contains 26 safetensors shards for the BF16 checkpoint and the card declares Apache-2.0. Quantized FP8/NVFP4/GGUF variants are not split into duplicate entries here. The card also contains demos and scores for Holo4-27B; those are not assigned to this 35B-A3B checkpoint. No training corpus or runtime was downloaded.
+The public manifest contains 26 safetensors shards for the BF16 checkpoint and the card declares Apache-2.0. Quantized FP8/NVFP4/GGUF variants belong to the same model release. The card also contains demos and scores for Holo4-27B. No training corpus or runtime was downloaded.
 
 - Record JSON: https://awesomecua.com/resources/url-16083a0225a60882c704/record.json
 

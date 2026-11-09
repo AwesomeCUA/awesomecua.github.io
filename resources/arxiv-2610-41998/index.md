@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Trains LLMs against prompt injection with a new preference loss and adversarial training, evaluated on AgentDojo tool calling\. This model\-level defense names no web\-page, GUI or device interaction by agents, so it is outside scope\. The other marked it borderline: Adversarially trains an LLM against prompt injection from email, documents and websites but evaluates agents only on AgentDojo tool calling; unclear whether web or GUI agents are covered beyond listing websites as a source\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed on scope\. One read it as outside the scope: Trains LLMs against prompt injection with a new preference loss and adversarial training, evaluated on AgentDojo tool calling\. This model\-level defense names no web\-page, GUI or device interaction by agents, so it is outside scope\. The other marked it borderline: Adversarially trains an LLM against prompt injection from email, documents and websites but evaluates agents only on AgentDojo tool calling; unclear whether web or GUI agents are covered beyond listing websites as a source\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

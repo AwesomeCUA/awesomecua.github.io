@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: LLM agent writes Blender Python scripts to build 3D scenes; it automates a desktop application only through its scripting API, so whether this counts as application automation or 3D generation is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: LLM agent writes Blender Python scripts to build 3D scenes; the abstract leaves open whether Blender scripting fits application automation or 3D generation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

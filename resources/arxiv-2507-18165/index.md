@@ -14,7 +14,7 @@ Studies proactive assistance in visual-analytics interfaces, using interaction l
 
 ## Limitations
 
-Adjacent work on embedded assistance in two instrumented visual-analytics systems. Its in-lab user-study evidence is context-specific, and the paper discusses clarification and intervention-control trade-offs. General GUI-agent performance is not inferred. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (5.3 User study; 5.3.2 Observed issues; 6.1 Design trade-off; 6.2 Limitations).
+Adjacent work on embedded assistance in two instrumented visual-analytics systems. Its in-lab user-study evidence is context-specific, and the paper discusses clarification and intervention-control trade-offs. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (5.3 User study; 5.3.2 Observed issues; 6.1 Design trade-off; 6.2 Limitations).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-18165/record.json
 

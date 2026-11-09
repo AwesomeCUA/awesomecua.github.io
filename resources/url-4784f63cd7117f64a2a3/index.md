@@ -14,7 +14,7 @@ Archives of ScienceBoard agent evaluation runs, separated by agent configuration
 
 ## Limitations
 
-The manifest exposes six ZIP archives but no README card or data-license declaration. The official project announces evaluation-result trajectories; this record does not label them as a training corpus or infer a trajectory count from archive names. Internal schemas and complete payload contents were not inspected.
+The manifest exposes six ZIP archives but no README card or data-license declaration. The official project announces evaluation-result trajectories.
 
 - Record JSON: https://awesomecua.com/resources/url-4784f63cd7117f64a2a3/record.json
 
@@ -29,7 +29,7 @@ The manifest exposes six ZIP archives but no README card or data-license declara
 
 No count recorded.
 
-Observation modes follow publisher archive labels rather than inspected record schemas. No count or training-use permission is inferred.
+Observation modes follow publisher archive labels. No count or training-use permission is inferred.
 
 ## License declarations
 

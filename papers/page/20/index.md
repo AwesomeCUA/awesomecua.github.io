@@ -648,7 +648,7 @@ Analyzes security boundaries in computer-use agents through a risk taxonomy and 
 
 ### Limitations
 
-Reviewed against the complete retained original arXiv abstract. This is a threat analysis with case studies; the annotation does not imply a standardized public benchmark or independently validated defenses.
+Reviewed against the complete retained original arXiv abstract. This is a threat analysis with case studies.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-05445/record.json
 
@@ -1012,7 +1012,7 @@ Studies chain-level risk detection for mobile multimodal agents and a language-m
 
 ### Limitations
 
-The reviewed evaluation uses Android emulation and a specific MobileSafetyBench-derived setup. Its judge and score threshold are evaluator choices, not universal safety measurements, and its task population is not the whole later MobileSafetyBench corpus. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (II.B Defense objective; III Chain-level guard and GPTJudge; IV.B Evaluation setup; V.D Judge validity).
+The reviewed evaluation uses Android emulation and a specific MobileSafetyBench-derived setup. Its judge and score threshold are evaluator choices, and its task population is a subset of the later MobileSafetyBench corpus. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (II.B Defense objective; III Chain-level guard and GPTJudge; IV.B Evaluation setup; V.D Judge validity).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-00841/record.json
 
@@ -1065,7 +1065,7 @@ Introduces WinSpot, a Windows GUI grounding benchmark of 5,000 manually validate
 
 ### Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Experiments have not been independently reproduced. This short paper is separate from the WinClick preprint arxiv:2503.04730, which also introduces WinSpot and which the paper cites as prior work. Screenshots come from Bing image search over popular Microsoft Store apps, filtered with Phi-3-vision, labeled by an in-house icon detector and aligned with instructions by GPT-4o. The abstract counts 5,000 coordinate-instruction pairs, while the benchmark section describes over 5,000 annotated screenshots from 14 Windows applications. The benchmark repository linked from the paper was not part of this review.
+The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. This short paper is separate from the WinClick preprint arxiv:2503.04730, which also introduces WinSpot and which the paper cites as prior work. Screenshots come from Bing image search over popular Microsoft Store apps, filtered with Phi-3-vision, labeled by an in-house icon detector and aligned with instructions by GPT-4o. The abstract counts 5,000 coordinate-instruction pairs, while the benchmark section describes over 5,000 annotated screenshots from 14 Windows applications.
 
 - Record JSON: https://awesomecua.com/resources/url-b5cab56e1a439ca8e524/record.json
 
@@ -1112,7 +1112,7 @@ Zheng Hui, Yinheng Li, Dan Zhao, Colby Banbury, Tianyi Chen, Kazuhito Koishida
 
 ## LineRetriever: Planning-Aware Observation Reduction for Web Agents
 
-LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
+LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2507-00210/
 - Original source: https://arxiv.org/abs/2507.00210
@@ -1580,7 +1580,7 @@ Reyna Abhyankar, Qi Qi, Yiying Zhang
 
 ## Context manipulation attacks : Web agents are susceptible to corrupted memory
 
-Studies context manipulation in web agents by altering stored task representations rather than webpage prompts alone. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
+Studies context manipulation in web agents by altering stored task representations. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2506-17318/
 - Original source: https://arxiv.org/abs/2506.17318
@@ -2375,7 +2375,7 @@ Introduces EconWebArena, a curated benchmark of economic-data tasks requiring li
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-08136/record.json
 
@@ -2584,7 +2584,7 @@ Introduces GUIPilot, which compares mobile design mock-ups with implemented scre
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-07385/record.json
 
@@ -2674,7 +2674,7 @@ Zihan Deng, Changyu Du, Stavros Nousias, André Borrmann
 
 ## Scenario-Guided LLM-based Mobile App GUI Testing
 
-ScenGen organizes mobile GUI testing around business scenarios rather than unrestricted exploration. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
+ScenGen organizes mobile GUI testing around business scenarios. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2506-05079/
 - Original source: https://arxiv.org/abs/2506.05079

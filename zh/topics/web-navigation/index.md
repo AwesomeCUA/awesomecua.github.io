@@ -147,7 +147,7 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
 - [Prismata: Confining Cross-Site Prompt Injection in Web Agents](https://awesomecua.com/resources/arxiv-2607-08147/) — 2026-07-09
   Introduces Prismata, a defense for web agents that assigns trust labels to page content and enforces them by redacting content and restricting agent actions.
 - [WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation](https://awesomecua.com/resources/arxiv-2607-06118/) — 2026-07-07
-  WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success does not translate into useful task completion.
+  WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success and useful task completion diverge.
 - [Untrusted Content Masking for Web Agents with Security Guarantees](https://awesomecua.com/resources/arxiv-2607-05277/) — 2026-07-06
   Untrusted Content Masking uses DOM structure to redact untrusted webpage regions before agent observation. A sandboxed interaction interface separates privileges so browser actions can proceed under the proposed trust-boundary model without exposing protected content to the planner.
 - [Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents](https://awesomecua.com/resources/arxiv-2608-09944/) — 2026-07-01
@@ -155,7 +155,7 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
 - [Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents](https://awesomecua.com/resources/arxiv-2606-27595/) — 2026-06-25
   Introduces Ko-WideSearch, a Korean web-agent benchmark that asks agents to find every member of a set and fill a table of attributes for each member.
 - [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://awesomecua.com/resources/arxiv-2606-27330/) — 2026-06-25
-  PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone does not ensure planning generalization across websites.
+  PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone falls short of planning generalization across websites.
 - [Fara-1.5: Scalable Learning Environments for Computer Use Agents](https://awesomecua.com/resources/arxiv-2606-20785/) — 2026-06-18
   Builds browser-agent training trajectories with live and synthetic environments, solvers, user simulation, and complementary correctness and efficiency verifiers.
 - [When Web Agents Finish but Still Fail: Reproducible Triggers and Trace Diagnostics for Parallel Web Exploration](https://awesomecua.com/resources/arxiv-2606-20724/) — 2026-06-16
@@ -255,7 +255,7 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
 - [The Tool Illusion: Rethinking Tool Use in Web Agents](https://awesomecua.com/resources/arxiv-2604-03465/) — 2026-04-03
   Presents a controlled study of higher-level tool use in web agents across tool sources, backbone models, frameworks, and evaluation benchmarks.
 - [Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents](https://awesomecua.com/resources/arxiv-2604-02623/) — 2026-04-03
-  Studies persistent web-agent memory contamination introduced through environmental observations instead of direct memory access. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
+  Studies persistent web-agent memory contamination introduced through environmental observations. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
 - [Read More, Think More: Revisiting Observation Reduction for Web Agents](https://awesomecua.com/resources/arxiv-2604-01535/) — 2026-04-02
   Studies HTML and accessibility-tree observations for web agents, relating their usefulness to model capability and thinking budget, and proposes diff-based observation history to save tokens.
 - [When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation](https://awesomecua.com/resources/arxiv-2604-00892/) — 2026-04-01
@@ -395,7 +395,7 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
 - [WARC-Bench: Web Archive Based Benchmark for GUI Subtask Executions](https://awesomecua.com/resources/arxiv-2510-09872/) — 2025-10-10
   WARC-Bench packages dynamic web pages as replayable archives and evaluates short navigation subtasks involving components such as date pickers and scrollable containers. It also studies supervised training followed by reinforcement learning with verifiable rewards on these browser interactions.
 - [JEF-Hinter: Leveraging Offline Knowledge for Improving Web Agents Adaptation](https://awesomecua.com/resources/arxiv-2510-04373/) — 2025-10-05
-  Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps rather than full demonstration replay.
+  Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps.
 - [Cross-Modal Content Optimization for Steering Web Agent Preferences](https://awesomecua.com/resources/arxiv-2510-03612/) — 2025-10-04
   Introduces Cross-Modal Preference Steering (CPS), a black-box attack that edits a listing's images and text to steer VLM-based web agents' selections.
 - [BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks](https://awesomecua.com/resources/arxiv-2510-02418/) — 2025-10-02
@@ -459,7 +459,7 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
 - [WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks](https://awesomecua.com/resources/arxiv-2507-00938/) — 2025-07-01
   WebArxiv provides 510 static-snapshot tasks with deterministic answers for scholarly browsing, including constrained paper retrieval, content extraction, and cross-paper comparison. The study also tests dynamic retrieval of interaction history to address repetitive or incomplete agent reasoning.
 - [LineRetriever: Planning-Aware Observation Reduction for Web Agents](https://awesomecua.com/resources/arxiv-2507-00210/) — 2025-06-30
-  LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
+  LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon.
 - [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://awesomecua.com/resources/arxiv-2506-21506/) — 2025-06-26
   Introduces Mind2Web 2, 130 long-horizon tasks requiring live web browsing and information synthesis, plus an Agent-as-a-Judge framework for grading answers and sources.
 - [Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence](https://awesomecua.com/resources/arxiv-2506-15677/) — 2025-06-18
@@ -507,7 +507,7 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
 - [Visual Test-time Scaling for GUI Agent Grounding](https://awesomecua.com/resources/arxiv-2505-00684/) — 2025-05-01
   RegionFocus adds visual test-time scaling by zooming into selected screenshot regions and maintaining an image-based map of landmarks and actions. It evaluates this grounding procedure with UI-TARS and Qwen2.5-VL on ScreenSpot-Pro and WebVoyager.
 - [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://awesomecua.com/resources/arxiv-2504-21776/) — 2025-04-30
-  Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
+  Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler.
 - [WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model](https://awesomecua.com/resources/arxiv-2504-21024/) — 2025-04-23
   WebEvolver trains a co-evolving world model to predict web observations and generate additional agent-training trajectories. The same model supports look-ahead action selection at inference, with evaluation on live web-task benchmarks.
 - [WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks](https://awesomecua.com/resources/arxiv-2504-18575/) — 2025-04-22
@@ -2137,7 +2137,7 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
 - [Lolaplex .agents/browser](https://awesomecua.com/resources/github-lolaplex-agents-browser/) — Date not recorded
   Zero-Node Python Chrome DevTools Protocol browser MCP server for AI coding agents.
 - [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/) — Date not recorded
-  Drives live web applications over CDP through a closed-loop visual look-decide-act cycle rather than brittle script replay.
+  Drives live web applications over CDP through a closed-loop visual look-decide-act cycle in place of script replay.
 - [LOVI AI Browser](https://awesomecua.com/resources/github-shubh2moon-hub-lovi-ai-browser/) — Date not recorded
   Privacy-first autonomous AI companion browser powered by local Qwen 2.5 models.
 - [Lumen browser agent](https://awesomecua.com/resources/github-omxyz-lumen/) — Date not recorded

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Off\-the\-shelf agents control robots through a virtual visual interface with mouse\-like probing tools; unclear whether this GUI\-mediated robot control counts as interface operation or as out\-of\-scope robotics\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Off\-the\-shelf agents control robots through a virtual visual interface with mouse\-like probing tools; the abstract leaves open whether GUI\-mediated robot control fits interface operation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

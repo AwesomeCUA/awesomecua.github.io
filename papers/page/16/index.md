@@ -180,7 +180,7 @@ Presents a privacy evaluation framework for browser agents covering component we
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes artifact release as planned; the annotation does not independently verify availability.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes artifact release as planned.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-07725/record.json
 
@@ -908,7 +908,7 @@ Describes the Qwen3-VL dense and MoE vision-language models, with 256K-token int
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract, which positions the models for agentic decision-making but names no GUI environment; the GUI-operation claim comes from the curated Qwen3-VL repository README. Experimental findings have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract, which positions the models for agentic decision-making but names no GUI environment; the GUI-operation claim comes from the curated Qwen3-VL repository README.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-21631/record.json
 
@@ -1324,7 +1324,7 @@ Reports architectural and security lessons from building a browser agent, includ
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Broader claims about the safety of general-purpose browsing are the paper's position, not a catalog conclusion.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Broader claims about the safety of general-purpose browsing are the paper's position.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-19477/record.json
 
@@ -2558,7 +2558,7 @@ Zhaorun Chen, Zhuokai Zhao, Kai Zhang, Bo Liu, Qi Qi, Yifan Wu, Tarun Kalluri, S
 
 ## GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding
 
-Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
+Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2511-00810/
 - Original source: https://arxiv.org/abs/2511.00810
@@ -2624,7 +2624,7 @@ Mobile GUI agent whose history-aware visual encoder reads earlier screenshots wi
 
 ### Limitations
 
-Reviewed against the EMNLP 2025 proceedings page and the full proceedings PDF; experiments were not reproduced. The PDF (10.9 MB) exceeds the receipt size limit, so the retained receipt is the landing page with its complete abstract. Per the PDF, UI-Hawk replaces TextHawk's language model with Qwen2-7B and encodes each history screenshot at a quarter of its size in 144 visual tokens; FunUI holds 2,150 Chinese and 9,347 English Android screens, and navigation is evaluated on GUI-Odyssey+ (GUIOdyssey clicks re-annotated with element boxes) and the authors' Chinese GUI-Zouwu episodes. An earlier version titled 'UI-Hawk: Unleashing the Screen Stream Understanding for GUI Agents' was posted on Preprints.org on 30 August 2024 (DOI 10.20944/preprints202408.2137.v1) by the same six authors. The paper points to github.com/IMNearth/UIHawk for code and data, which was not reviewed here.
+Reviewed against the EMNLP 2025 proceedings page and the full proceedings PDF. The PDF (10.9 MB) exceeds the receipt size limit, so the retained receipt is the landing page with its complete abstract. Per the PDF, UI-Hawk replaces TextHawk's language model with Qwen2-7B and encodes each history screenshot at a quarter of its size in 144 visual tokens; FunUI holds 2,150 Chinese and 9,347 English Android screens, and navigation is evaluated on GUI-Odyssey+ (GUIOdyssey clicks re-annotated with element boxes) and the authors' Chinese GUI-Zouwu episodes. An earlier version titled 'UI-Hawk: Unleashing the Screen Stream Understanding for GUI Agents' was posted on Preprints.org on 30 August 2024 (DOI 10.20944/preprints202408.2137.v1) by the same six authors. The paper points to github.com/IMNearth/UIHawk for code and data.
 
 - Record JSON: https://awesomecua.com/resources/url-9113270916a36b4b76f1/record.json
 

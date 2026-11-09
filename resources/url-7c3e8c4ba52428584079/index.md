@@ -14,7 +14,7 @@ A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions
 
 ## Limitations
 
-The ungated Hub manifest includes model.safetensors, pytorch_model.bin, config and tokenizer files; the two weight formats represent the same checkpoint and are not counted separately. The card describes an approximately 24K-example curated WebLINX training subset and evaluates dialogue-guided web navigation. Predictions still require parsing and execution in an external browser environment. The retained weight license is the Meta Llama 3 Community License Agreement, not WebLlama code MIT. No weights were downloaded, model used, or agreement accepted.
+The ungated Hub manifest includes model.safetensors, pytorch_model.bin, config and tokenizer files; the two weight formats represent the same checkpoint. The card describes an approximately 24K-example curated WebLINX training subset and evaluates dialogue-guided web navigation. Predictions still require parsing and execution in an external browser environment. The retained weight license is the Meta Llama 3 Community License Agreement, not WebLlama code MIT. No weights were downloaded, model used, or agreement accepted.
 
 - Record JSON: https://awesomecua.com/resources/url-7c3e8c4ba52428584079/record.json
 

@@ -14,7 +14,7 @@ Introduces RealWeb, a Chinese benchmark of 11,739 instructions on 40 real websit
 
 ## Limitations
 
-The annotation was reviewed against the IEEE Xplore abstract page, the Crossref-deposited citation and the authors' Gitee repository README. Experiments have not been independently reproduced. The abstract counts 110 pages and names the baseline WeServe, reporting a 68.61% success rate; the README counts 119 pages across 15 domains. At the inspected commit the repository's Codes folder holds only a placeholder file, while the dataset files are present. No arXiv version was found.
+The annotation was reviewed against the IEEE Xplore abstract page, the Crossref-deposited citation and the authors' Gitee repository README. The abstract counts 110 pages and names the baseline WeServe, reporting a 68.61% success rate; the README counts 119 pages across 15 domains. At the inspected commit the repository's Codes folder holds only a placeholder file, while the dataset files are present. No arXiv version was found.
 
 - Record JSON: https://awesomecua.com/resources/url-a998ab1efc741ba69d82/record.json
 

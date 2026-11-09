@@ -14,7 +14,7 @@ Instruction variants over ScreenSpot-v2 screenshots that distinguish original co
 
 ## Limitations
 
-Public image files and desktop/mobile/web annotation JSON files are listed. This is a changed instruction set over an existing screenshot collection, not an independent new screenshot corpus. No data license or precise example count is declared in the card; no paper relationship is inferred from its generic project/PDF links.
+Public image files and desktop/mobile/web annotation JSON files are listed. This is a changed instruction set over an existing screenshot collection. No data license or precise example count is declared in the card; no paper relationship is inferred from its generic project/PDF links.
 
 - Record JSON: https://awesomecua.com/resources/url-17729e1c532ba7043404/record.json
 
@@ -30,7 +30,7 @@ Public image files and desktop/mobile/web annotation JSON files are listed. This
 
 - 4 instruction types — instruction-variant design (reported; source: https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md)
 
-Reuses ScreenSpot-v2 imagery. Image-file count is not treated as a count of independent screenshots or tasks.
+Reuses ScreenSpot-v2 imagery. Image-file counts, independent screenshots and tasks are different units.
 
 ## License declarations
 

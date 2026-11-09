@@ -14,7 +14,7 @@ A prebuilt Ubuntu virtual-machine archive containing the software environment us
 
 ## Limitations
 
-The public Hub manifest contains VM.zip. This is an environment image, not neural model weights despite its Hub namespace. The card declares MIT metadata for the hosted release, but that does not relicense Ubuntu or included applications. The archive was not downloaded or booted; VMware’s own terms are separate.
+The public Hub manifest contains VM.zip. This is an environment image hosted in a Hub model namespace. The card declares MIT metadata for the hosted release, but that does not relicense Ubuntu or included applications. VMware’s own terms apply separately.
 
 - Record JSON: https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/record.json
 
@@ -25,7 +25,7 @@ The public Hub manifest contains VM.zip. This is an environment image, not neura
 - document: not recorded
 - weights: not recorded
 
-- weights review: This resource is a prebuilt Ubuntu VMware environment archive (VM.zip), not neural model weights. MIT Hub metadata in a model namespace cannot establish a weights license or relicense the guest OS and bundled applications.
+- weights review: This resource is a prebuilt Ubuntu VMware environment archive (VM.zip). MIT Hub metadata in a model namespace cannot establish a weights license or relicense the guest OS and bundled applications.
   Sources: https://huggingface.co/OS-Copilot/ScienceBoard-Env/raw/main/README.md, https://huggingface.co/api/models/OS-Copilot/ScienceBoard-Env
 
 ## Primary evidence

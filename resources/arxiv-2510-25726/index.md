@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Toolathlon benchmarks agents on 32 real software applications through MCP tools; this application automation via APIs may be adjacent, but no GUI or web\-page operation is described\. An curation proposal is open in pull request \#4035\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Toolathlon benchmarks agents on 32 real software applications through MCP tools; the abstract leaves open whether MCP application automation fits adjacent scope\. An curation proposal is open in pull request \#4035\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

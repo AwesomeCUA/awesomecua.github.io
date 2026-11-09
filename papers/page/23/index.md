@@ -10,7 +10,7 @@ Reviews are AI-assisted inspections of primary sources. Code, data, weights and 
 
 ## Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment
 
-Introduces V-Droid, which verifies candidate actions in a discrete action space rather than directly generating each mobile operation.
+Introduces V-Droid, which verifies candidate actions in a discrete action space.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2503-15937/
 - Original source: https://arxiv.org/abs/2503.15937
@@ -1405,7 +1405,7 @@ Analyzes web-agent vulnerabilities at the component level, examining goal placem
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-20383/record.json
 
@@ -3002,7 +3002,7 @@ Introduces CowPilot, a web-navigation framework where agents suggest actions and
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-16609/record.json
 

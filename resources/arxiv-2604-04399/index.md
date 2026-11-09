@@ -1,6 +1,6 @@
 # GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis
 
-GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces rather than relying on one holistic trajectory score.
+GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2604-04399/
 - Original source: https://arxiv.org/abs/2604.04399

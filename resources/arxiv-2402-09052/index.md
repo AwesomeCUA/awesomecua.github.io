@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Language agent builds 3D meshes by trial and error through Blender API calls; it is mainly 3D generation, and whether this application automation via API counts as adjacent is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Language agent builds 3D meshes by trial and error through Blender API calls; the abstract leaves open whether Blender API automation fits adjacent application automation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

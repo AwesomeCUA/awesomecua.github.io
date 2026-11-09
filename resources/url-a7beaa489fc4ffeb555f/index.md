@@ -40,7 +40,7 @@ The Hub repository holds data only: multi-part offline screenshot archives, elem
 - 101 task instruction files — online/low_level_instructions at the inspected revision (computed) (computed; source: https://huggingface.co/api/datasets/lgy0404/LearnGUI)
 - 101 screen recordings — online/raw_data at the inspected revision (computed) (computed; source: https://huggingface.co/api/datasets/lgy0404/LearnGUI)
 
-Task, step-action, application and file counts are different units and are not summed. Each k-shot table row reuses the same split tasks with a different number of support demonstrations, so the 1-, 2- and 3-shot rows are not additional tasks.
+Task, step-action, application and file counts are different units; these counts are reported separately. Each k-shot table row reuses the same split tasks with a different number of support demonstrations; the 1-, 2- and 3-shot rows describe those same tasks.
 
 ## License declarations
 

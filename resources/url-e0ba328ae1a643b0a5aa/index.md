@@ -14,7 +14,7 @@ Webpage segments, questions, answers, HTML, screenshots and layout metadata for 
 
 ## Limitations
 
-Public release includes train+dev and test ZIP packages plus a test-answer JSON file. The v1.0 card’s exact split table differs from the older project-page headline of 0.44M questions/6.5K pages; counts are kept with their sources. This is static webpage understanding, not an interactive browser-agent trajectory dataset. CC-BY-4.0 is the data-card declaration.
+Public release includes train+dev and test ZIP packages plus a test-answer JSON file. The v1.0 card’s exact split table differs from the older project-page headline of 0.44M questions/6.5K pages; counts are kept with their sources. This is a static webpage-understanding dataset. CC-BY-4.0 is the data-card declaration.
 
 - Record JSON: https://awesomecua.com/resources/url-e0ba328ae1a643b0a5aa/record.json
 
@@ -34,7 +34,7 @@ Public release includes train+dev and test ZIP packages plus a test-answer JSON 
 - 40,357 question–answer examples — WebSRC v1.0 test (reported; source: https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md)
 - 985 web pages — WebSRC v1.0 test (reported; source: https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md)
 
-Each dataset.csv row is a QA example; web pages and QA examples are different units. Use the v1.0 split table rather than merging the older project headline into it. The card retains email-evaluation instructions, while the manifest now includes test answers; no submission was made. Payload archives were not downloaded.
+Each dataset.csv row is a QA example; web pages and QA examples are different units. Use the v1.0 split table for this release. The card retains email-evaluation instructions, while the manifest now includes test answers; no submission was made.
 
 ## License declarations
 

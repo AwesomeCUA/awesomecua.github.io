@@ -14,14 +14,14 @@ Mobile-app task definitions covering everyday scenarios, with annotated precondi
 
 ## Limitations
 
-Public task files are available as JSONL and XLSX with documentation. The card explicitly declares Apache-2.0 for the dataset, despite having no license field in its YAML metadata. It identifies mobile apps without fixing an operating-system taxonomy; model scores are not imported.
+Public task files are available as JSONL and XLSX with documentation. The card explicitly declares Apache-2.0 for the dataset, despite having no license field in its YAML metadata. It identifies mobile apps across an unspecified operating-system taxonomy.
 
 - Record JSON: https://awesomecua.com/resources/url-d7a4f34a6a5202af5f64/record.json
 
 ## Structured profile
 
 - actions: mobile interface operations, clarification requests
-- evaluation: Published task definitions include preconditions and clarification requirements; the metadata review does not independently validate the reported agent scores.
+- evaluation: Published task definitions include preconditions and clarification requirements.
 - focus: mobile task completion, clarification behavior, cross-app tasks
 - observations: mobile app interfaces
 - setting: interactive

@@ -1,6 +1,6 @@
 # LineRetriever: Planning-Aware Observation Reduction for Web Agents
 
-LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
+LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2507-00210/
 - Original source: https://arxiv.org/abs/2507.00210

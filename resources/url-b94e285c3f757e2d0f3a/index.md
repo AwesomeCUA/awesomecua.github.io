@@ -14,7 +14,7 @@ The released UI-AGILE model for GUI grounding with reward shaping, crop-based re
 
 ## Limitations
 
-Four safetensors shards and model/tokenizer files are public. The card declares MIT for these weights; the companion dataset has no declared license and is separate. The short card does not state a parameter count, so this entry does not infer one from shard sizes.
+Four safetensors shards and model/tokenizer files are public. The card declares MIT for these weights; the companion dataset has no declared license and is separate.
 
 - Record JSON: https://awesomecua.com/resources/url-b94e285c3f757e2d0f3a/record.json
 

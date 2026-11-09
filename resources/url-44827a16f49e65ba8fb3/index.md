@@ -14,7 +14,7 @@ Preview Google DeepMind model built on Gemini 2.5 Pro and post-trained for UI co
 
 ## Limitations
 
-Launch post and model card dated 7 October 2025. The model card says the model is based on Gemini 2.5 Pro (06-2025) with post-training for UI control, is primarily optimized for web browsers, shows promise on mobile UI control and is not yet optimized for OS-level control; its stated knowledge cutoff is January 2025. Benchmark figures on Online-Mind2Web, WebVoyager and AndroidWorld mix self-reported, Browserbase-run and Google-run evaluations and were not reproduced. The post states that versions of the model power Project Mariner and the Firebase Testing Agent. This record covers the dated preview release; the Gemini API computer-use capability is recorded separately. Current availability, pricing and deprecation status were not checked.
+Launch post and model card dated 7 October 2025. The model card says the model is based on Gemini 2.5 Pro (06-2025) with post-training for UI control, is primarily optimized for web browsers, shows promise on mobile UI control and is not yet optimized for OS-level control; its stated knowledge cutoff is January 2025. Benchmark figures on Online-Mind2Web, WebVoyager and AndroidWorld mix self-reported, Browserbase-run and Google-run evaluations. The post states that versions of the model power Project Mariner and the Firebase Testing Agent. This record covers the dated preview release; the Gemini API computer-use capability is recorded separately.
 
 - Record JSON: https://awesomecua.com/resources/url-44827a16f49e65ba8fb3/record.json
 

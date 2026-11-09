@@ -109,7 +109,7 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
 - [PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions](https://awesomecua.com/resources/arxiv-2606-14832/) — 2026-06-12
   PhoneHarness routes phone workflows across GUI actions, device-side commands and host tools while retaining auditable execution traces. Its accompanying benchmark checks observable task side effects, separating mixed-action execution from plausible final-answer generation.
 - [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://awesomecua.com/resources/arxiv-2606-11042/) — 2026-06-09
-  Workflow-GYM evaluates long GUI workflows in professional software rather than isolated interface actions. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
+  Workflow-GYM evaluates long GUI workflows in professional software. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
 - [WebChallenger: A Reliable and Efficient Generalist Web Agent](https://awesomecua.com/resources/arxiv-2606-10423/) — 2026-06-09
   WebChallenger builds a hierarchical DOM-derived page representation for selective observation, reusable site maps and compound actions. The framework combines these mechanisms without model fine-tuning and evaluates generalization across multiple web-agent benchmarks.
 - [WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces](https://awesomecua.com/resources/arxiv-2606-09426/) — 2026-06-08
@@ -191,7 +191,7 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
 - [From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use](https://awesomecua.com/resources/arxiv-2601-18092/) — 2026-01-26
   Introduces AskEase, an on-demand assistant that combines contextual information to provide screen-reader-friendly computer-use guidance. A study with screen-reader users evaluates task completion and perceived workload while preserving human control of the interaction.
 - [EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents](https://awesomecua.com/resources/arxiv-2601-17722/) — 2026-01-25
-  Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks rather than screenshot similarity alone.
+  Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks.
 - [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://awesomecua.com/resources/arxiv-2601-11868/) — 2026-01-17
   Terminal-Bench 2.0 benchmarks agents on 89 workflow-inspired tasks in computer terminal environments, with a distinct environment, human solution and verification tests for each task.
 - [ShowUI-Aloha: Human-Taught GUI Agent](https://awesomecua.com/resources/arxiv-2601-07181/) — 2026-01-12
@@ -437,7 +437,7 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
 - [Apply Lens](https://awesomecua.com/resources/github-mangeshraut712-apply-lens/) — Date not recorded
   Solari browser agent that cross-examines job postings against live product websites to verify engineering roles.
 - [AskUI](https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/) — Date not recorded
-  Agentic test-automation platform running plain-language test cases from pixels rather than selectors on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
+  Agentic test-automation platform running plain-language test cases from pixels on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
 - [Asteroid](https://awesomecua.com/resources/url-a0a0c389d4def8e2d13a/) — Date not recorded
   Hosted healthcare automation platform whose agents operate EHRs, payer portals and Windows, Linux or Citrix apps from the screen, then turn repeat runs into scripts or private-API calls served as an API.
 - [AstronRPA](https://awesomecua.com/resources/github-iflytek-astron-rpa/) — Date not recorded
@@ -915,7 +915,7 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
 - [skillproof](https://awesomecua.com/resources/github-hccccc01333-skillproof/) — Date not recorded
   skillproof records a human browser demonstration once and compiles it into a replayable agent skill paired with an explicit completion verifier.
 - [Skyvern](https://awesomecua.com/resources/github-skyvern-ai-skyvern/) — Date not recorded
-  Browser workflow automation that relies on vision LLMs and a swarm of agents instead of fixed XPath selectors, offered as a Playwright-compatible SDK and a no-code workflow builder.
+  Browser workflow automation using vision LLMs and a swarm of agents, offered as a Playwright-compatible SDK and a no-code workflow builder.
 - [Skyvern Cloud](https://awesomecua.com/resources/url-15ed5fd3cd950d837f98/) — Date not recorded
   Hosted Skyvern service for AI browser workflows such as invoice downloads and form filling, with built-in CAPTCHA and 2FA handling, proxy geotargeting, run explanations and JSON or CSV output.
 - [Social Browser Publisher for Codex](https://awesomecua.com/resources/github-jacky391977-social-browser-publisher/) — Date not recorded

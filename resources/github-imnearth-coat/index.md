@@ -14,7 +14,7 @@ Research scripts that generate screen descriptions, action reasoning and expecte
 
 ## Limitations
 
-The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with API-backed model configuration. This verifies a released annotation/prediction implementation, not a live phone controller or a released checkpoint. AiTZ screens/annotations are linked through external Drive/Baidu bundles whose complete download inventory was not verified here. The README has an Apache-2.0 badge, but no license file or explicit component grant is present; code/data/weight rights remain unestablished.
+The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with API-backed model configuration. The released annotation/prediction implementation covers API-backed processing; live phone control and checkpoint release remain unverified. AiTZ screens/annotations are linked through external Drive/Baidu bundles. The README has an Apache-2.0 badge, but no license file or explicit component grant is present; code/data/weight rights remain unestablished.
 
 - Record JSON: https://awesomecua.com/resources/github-imnearth-coat/record.json
 

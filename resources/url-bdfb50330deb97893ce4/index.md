@@ -36,7 +36,7 @@ The ungated Hub manifest contains train, test-task, test-website and test-subdom
 - 218 dialogue turns — test-website (reported; source: https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md)
 - 216 dialogue turns — test-subdomain (reported; source: https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md)
 
-Conversation, dialogue-turn and action-step units differ. The released file manifest is inspected; underlying examples were not downloaded.
+Conversation, dialogue-turn and action-step units differ. The released file manifest is inspected.
 
 ## License declarations
 

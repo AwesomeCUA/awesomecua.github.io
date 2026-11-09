@@ -34,7 +34,7 @@ The publisher flags original desktop files as deprecated because of screenshot-m
 - ≈ 150,000 instructions — desktop subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
 - ≈ 7,800 images — desktop subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
 
-The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are not interchangeable.
+The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are different units.
 
 ## License declarations
 

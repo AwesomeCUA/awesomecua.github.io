@@ -14,7 +14,7 @@ Enterprise generalist agent harness that plans over APIs and MCP or OpenAPI tool
 
 ## Limitations
 
-The README calls it a Configurable Generalist Agent built with IBM; IBM's papers expand the name as Computer Using Generalist Agent. The default task mode is API-only; web and hybrid modes run the browser agent (planner, action agent with click, type, select, go-back and scroll tools, and page understanding) through a browser extension. NOTICE lists files derived from BrowserGym. The README cites arXiv 2510.23856 for its WebArena result; that paper is not in the catalog, and the curated arxiv:2503.01861 describes the CUGA system without naming this repository, so no relation is recorded. Benchmark figures are the publisher's and were not reproduced. Code was read, not run.
+The README calls it a Configurable Generalist Agent built with IBM; IBM's papers expand the name as Computer Using Generalist Agent. The default task mode is API-only; web and hybrid modes run the browser agent (planner, action agent with click, type, select, go-back and scroll tools, and page understanding) through a browser extension. NOTICE lists files derived from BrowserGym. The README cites arXiv 2510.23856 for its WebArena result; that paper is not in the catalog, and the curated arxiv:2503.01861 describes the CUGA system without naming this repository, so no relation is recorded.
 
 - Record JSON: https://awesomecua.com/resources/github-cuga-project-cuga-agent/record.json
 

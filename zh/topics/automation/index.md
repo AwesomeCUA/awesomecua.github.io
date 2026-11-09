@@ -37,7 +37,7 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
 - [Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay](https://awesomecua.com/resources/arxiv-2608-05784/) — 2026-08-06
   Introduces Activity Frames, a deterministic pipeline that turns captured screen activity into typed episodes for computer-use agent memory and routine replay.
 - [MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation](https://awesomecua.com/resources/arxiv-2607-29320/) — 2026-07-31
-  MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness rather than treating all response tokens equally. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
+  MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
 - [Tactile: Giving Computer-Using Agents Hands and Feet](https://awesomecua.com/resources/arxiv-2607-14443/) — 2026-07-16
   Tactile turns accessibility, OCR and visual evidence into explicit desktop targets with executable actions and verification cues. Its execution loop chooses semantic actions or coordinate fallbacks while retaining provenance for replay and diagnosis.
 - [LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents](https://awesomecua.com/resources/arxiv-2606-30697/) — 2026-06-29
@@ -137,7 +137,7 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
 - [Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation](https://awesomecua.com/resources/arxiv-2506-19998/) — 2025-06-24
   Introduces Doc2Agent, a pipeline that generates and refines Python tools from API documentation for tool-using agents, with WebArena APIs among its evaluations.
 - [Scenario-Guided LLM-based Mobile App GUI Testing](https://awesomecua.com/resources/arxiv-2506-05079/) — 2025-06-05
-  ScenGen organizes mobile GUI testing around business scenarios rather than unrestricted exploration. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
+  ScenGen organizes mobile GUI testing around business scenarios. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
 - [ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing](https://awesomecua.com/resources/arxiv-2506-00520/) — 2025-05-31
   Introduces ResTest, which uses coverage reports and a state transition graph to infer untested web functions, then directs a GUI agent to execute them.
 - [LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS](https://awesomecua.com/resources/arxiv-2505-18829/) — 2025-05-24
@@ -201,7 +201,7 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
 - [AUITestAgent: Automatic Requirements Oriented GUI Function Testing](https://awesomecua.com/resources/arxiv-2407-09018/) — 2024-07-12
   Automates mobile GUI tests from natural-language requirements, combining action generation with verification based on interaction traces.
 - [Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps](https://awesomecua.com/resources/arxiv-2407-03037/) — 2024-07-03
-  Trident combines exploration, monitoring, and detection agents to identify functional bugs that do not crash a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
+  Trident combines exploration, monitoring, and detection agents to identify functional bugs in a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
 - [SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation](https://awesomecua.com/resources/arxiv-2406-14991/) — 2024-06-21
   SpreadsheetBench evaluates LLM spreadsheet manipulation with 912 questions from Excel forums and multiple spreadsheet files as test cases for each instruction.
 - [Practical, Automated Scenario-based Mobile App Testing](https://awesomecua.com/resources/arxiv-2406-08340/) — 2024-06-12
@@ -1601,7 +1601,7 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
 - [Lom Desktop (麓鸣)](https://awesomecua.com/resources/github-rfdiosuao-lom-desktop/) — Date not recorded
   Lom is an open-source multi-agent workspace coordinating desktop coding agents with cross-device Android phone execution.
 - [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/) — Date not recorded
-  Drives live web applications over CDP through a closed-loop visual look-decide-act cycle rather than brittle script replay.
+  Drives live web applications over CDP through a closed-loop visual look-decide-act cycle in place of script replay.
 - [LOVI AI Browser](https://awesomecua.com/resources/github-shubh2moon-hub-lovi-ai-browser/) — Date not recorded
   Privacy-first autonomous AI companion browser powered by local Qwen 2.5 models.
 - [Lucy Screen Agent](https://awesomecua.com/resources/github-alzin-lucy-screen-agent/) — Date not recorded
@@ -1999,7 +1999,7 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
 - [PC-Agent-E training and deployment](https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/) — Date not recorded
   Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.
 - [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/) — Date not recorded
-  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data in place of screenshots.
 - [pcbridge](https://awesomecua.com/resources/github-eymistaken-pcbridge/) — Date not recorded
   Turns a Linux desktop into a Model Context Protocol server for shell execution, window management, and GUI automation.
 - [pdlgen](https://awesomecua.com/resources/github-chromedp-pdlgen/) — Date not recorded
@@ -2043,7 +2043,7 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
 - [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) — Date not recorded
   Browser automation library used as an execution layer by agents.
 - [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) — Date not recorded
-  MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
+  MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots, with opt-in vision, PDF and devtools capabilities.
 - [Playwright MCP](https://awesomecua.com/resources/url-9900690ea9b418a1a7c6/) — Date not recorded
   An MCP server that gives LLM clients browser navigation and interaction tools. It identifies page elements through structured accessibility snapshots.
 - [Playwright MCP Server (ExecuteAutomation)](https://awesomecua.com/resources/github-executeautomation-mcp-playwright/) — Date not recorded

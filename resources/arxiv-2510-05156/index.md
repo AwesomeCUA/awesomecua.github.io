@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Gives LLM agents formally verified safety policies plus runtime action monitoring, motivated by domains like healthcare\. Generic agent safety work that names no web\-page, GUI or device interaction\. An open pull request \(\#3885\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Gives LLM agents formally verified safety policies plus runtime action monitoring, motivated by domains like healthcare; the abstract leaves open whether runtime monitoring includes computer\-use interfaces\. Generic agent safety work that names no web\-page, GUI or device interaction\. An open pull request \(\#3885\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

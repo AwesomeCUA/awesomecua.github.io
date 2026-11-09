@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Omni\-modal benchmark and tool\-integrated agent for reasoning over video, audio and images\. The abstract describes only tool calls and names no web\-page browsing, GUI or device interaction\. The other marked it borderline: Omni\-modal agent benchmark and agent trained for multi\-turn tool use on real\-world multi\-hop queries; the abstract does not say whether the tools include web browsing or page navigation\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether the multi\-hop tools include web browsing or page navigation\. One read it as outside the scope: Omni\-modal benchmark and tool\-integrated agent for reasoning over video, audio and images\. The abstract describes only tool calls and names no web\-page browsing, GUI or device interaction\. The other marked it borderline: Omni\-modal agent benchmark and agent trained for multi\-turn tool use on real\-world multi\-hop queries; the abstract leaves open whether the tools include web browsing or page navigation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

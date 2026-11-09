@@ -606,7 +606,7 @@ This position paper derives interface design principles from terminal-based huma
 
 ### Limitations
 
-Reviewed against the complete retained official abstract. Adjacent conceptual HCI work about agent-facing interfaces; the abstract does not report GUI task experiments or a new evaluated CUA.
+Reviewed against the complete retained official abstract. Adjacent conceptual HCI work about agent-facing interfaces.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-10664/record.json
 
@@ -710,7 +710,7 @@ Introduces VeriEnv, which recreates websites as executable training environments
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract promises a release upon acceptance; this annotation does not verify artifact availability.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract promises a release upon acceptance.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-10505/record.json
 
@@ -1022,7 +1022,7 @@ Presents a Chinese mobile GUI dataset and navigation benchmark together with Sec
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Mobile use is explicit, but the abstract does not identify a mobile operating system.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Mobile use is explicit.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-08533/record.json
 
@@ -1646,7 +1646,7 @@ Combines supervised and reinforcement fine-tuning for continual GUI learning, us
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes artifact release as future work; this annotation does not assert current availability.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes artifact release as future work.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-02951/record.json
 
@@ -2568,7 +2568,7 @@ Serin Kim, Sangam Lee, Dongha Lee
 
 ## MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks
 
-MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2602-16313/
 - Original source: https://arxiv.org/abs/2602.16313

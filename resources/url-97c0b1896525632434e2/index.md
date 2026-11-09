@@ -14,7 +14,7 @@ Introduces Rousillon, which generalizes a demonstration of collecting one hierar
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. This is browser interaction learned from demonstrations, rather than a generic server-side crawling library.
+The annotation was reviewed against retained primary publication sources. This is browser interaction learned from demonstrations.
 
 - Record JSON: https://awesomecua.com/resources/url-97c0b1896525632434e2/record.json
 

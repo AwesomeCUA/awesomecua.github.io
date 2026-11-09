@@ -14,7 +14,7 @@ A computer-control research implementation that retrieves example trajectories f
 
 ## Limitations
 
-Training, memory-building and evaluation scripts for MiniWoB++ and Mind2Web are present. External benchmark data, model/API credentials and legacy dependencies are still required. License remains unknown: the README shows MIT, while LICENSE is an NTUITIVE non-commercial agreement that both permits some distribution and separately says distribution is prohibited. No interpretation resolves those contradictions, and no commercial or non-commercial permission is asserted. This admission confirms the released GUI implementation, not a licensing grant.
+Training, memory-building and evaluation scripts for MiniWoB++ and Mind2Web are present. External benchmark data, model/API credentials and legacy dependencies are still required. License remains unknown: the README shows MIT, while LICENSE is an NTUITIVE non-commercial agreement that both permits some distribution and separately says distribution is prohibited. No interpretation resolves those contradictions, and no commercial or non-commercial permission is asserted. This admission confirms the released GUI implementation.
 
 - Record JSON: https://awesomecua.com/resources/github-ltzheng-synapse/record.json
 
@@ -25,7 +25,7 @@ Training, memory-building and evaluation scripts for MiniWoB++ and Mind2Web are 
 - document: not recorded
 - weights: not recorded
 
-- code review: Unresolved conflict between README MIT badge and NTUITIVE non-commercial LICENSE, including inconsistent redistribution clauses. Keep permissions unknown rather than choose an interpretation.
+- code review: Unresolved conflict between README MIT badge and NTUITIVE non-commercial LICENSE, including inconsistent redistribution clauses. The README MIT badge and NTUITIVE non-commercial LICENSE conflict, including redistribution clauses; permissions remain unresolved.
   Sources: https://raw.githubusercontent.com/ltzheng/synapse/HEAD/README.md, https://raw.githubusercontent.com/ltzheng/Synapse/HEAD/LICENSE
 
 ## Primary evidence

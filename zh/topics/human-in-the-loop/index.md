@@ -226,7 +226,7 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
 - [Baseerat](https://awesomecua.com/resources/github-yas1i-baseerat/) — Date not recorded
   Baseerat benchmarks non-visual oversight of computer-use agents, testing whether screen-reader audio descriptions expose unsafe agent actions.
 - [Computer Agent Arena](https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/) — Date not recorded
-  Crowdsourced arena where users pit two computer-use agents against each other on Ubuntu or Windows VMs; the repository holds the voting frontend, setup presets and 2,010 verified battle sessions, not the backend.
+  Crowdsourced arena where users pit two computer-use agents against each other on Ubuntu or Windows VMs; the repository holds the voting frontend, setup presets and 2,010 verified battle sessions.
 - [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/) — Date not recorded
   Released data for the GUIDE benchmark: annotated segments of narrated novice screen recordings in 10 applications, for predicting user behavior state, short-term intent and whether and how to help.
 - [Intention-in-Interaction (IN3) & Mistral-Interact](https://awesomecua.com/resources/github-openbmb-tell-me-more/) — Date not recorded

@@ -14,7 +14,7 @@ Hub release of META-GUI, task-oriented dialogues in which an agent operates mobi
 
 ## Limitations
 
-The card only links the paper and the X-LANCE/META-GUI-baseline repository, which documents the raw dialog folders (dialog.json, per-turn actions.json, PNG screenshots and XML view hierarchies) and the processed data.json fields. The Hub manifest at revision 12660de5 holds train.tar and test.tar (about 14.3 GB and 1.8 GB); the baseline README instead describes train and dev folders from an Amazon S3 archive, and the split correspondence is not established. No source names the mobile operating system. The archives were not downloaded, so no dialogue or turn counts are recorded. Apache-2.0 is the Hub card's data declaration; the baseline code's MIT license is separate.
+The card only links the paper and the X-LANCE/META-GUI-baseline repository, which documents the raw dialog folders (dialog.json, per-turn actions.json, PNG screenshots and XML view hierarchies) and the processed data.json fields. The Hub manifest at revision 12660de5 holds train.tar and test.tar (about 14.3 GB and 1.8 GB); the baseline README instead describes train and dev folders from an Amazon S3 archive, and the split correspondence is not established. No source names the mobile operating system. Apache-2.0 is the Hub card's data declaration; the baseline code's MIT license is separate.
 
 - Record JSON: https://awesomecua.com/resources/url-05a9a7c592089d1ddd46/record.json
 
@@ -29,7 +29,7 @@ The card only links the paper and the X-LANCE/META-GUI-baseline repository, whic
 
 No count recorded.
 
-Splits are the two Hub archive names; the baseline README's processed data uses train and dev folders. Formats inside the archives come from the baseline README's raw-data description and were not inspected directly.
+Splits are the two Hub archive names; the baseline README's processed data uses train and dev folders. Formats inside the archives come from the baseline README's raw-data description.
 
 ## License declarations
 

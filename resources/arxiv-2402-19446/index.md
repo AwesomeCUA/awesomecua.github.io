@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Hierarchical multi\-turn RL framework for LLM agents; web interaction is named only as an example use case and the abstract does not identify its evaluation tasks\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Hierarchical multi\-turn RL framework for LLM agents; the abstract leaves open whether the evaluation tasks include web interaction\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

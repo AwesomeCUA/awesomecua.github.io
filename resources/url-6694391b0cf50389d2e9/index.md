@@ -14,7 +14,7 @@ GUI-Libra checkpoint fine-tuned from Qwen3-VL-8B-Instruct (about 8.77B BF16 para
 
 ## Limitations
 
-The Hub manifest at revision 15ee285b lists 4 Safetensors shards with an index plus configuration and tokenizer files; weights were not downloaded and no benchmark result was reproduced. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
+The Hub manifest at revision 15ee285b lists 4 Safetensors shards with an index plus configuration and tokenizer files. The card's usage section serves the checkpoint through vLLM as an OpenAI-compatible endpoint and prompts it with a GUI action list (Click, Select, Write, KeyboardPress, Scroll). The paper link and the web and Android evaluation targets come from the official GitHub README, which the card links. Apache-2.0 is the card's weight declaration; the code repository's license and the training data's terms are separate.
 
 - Record JSON: https://awesomecua.com/resources/url-6694391b0cf50389d2e9/record.json
 

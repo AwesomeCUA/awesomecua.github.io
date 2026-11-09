@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - > 3,000,000 UI elements — SeeClick-derived web subset (reported; source: https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md)
 - ≥ 1,600,000 images — FineWeb-derived subset (reported; source: https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md)
 
-These are subset-specific counts, not a total for the full OS-Atlas release. Raw boxes use 0–1 coordinates; the documented training wrapper scales them to 0–1000.
+These are subset-specific counts for OS-Atlas. Raw boxes use 0–1 coordinates; the documented training wrapper scales them to 0–1000.
 
 ## License declarations
 

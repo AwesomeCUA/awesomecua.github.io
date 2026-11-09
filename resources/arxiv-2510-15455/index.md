@@ -14,7 +14,7 @@ Introduces CORE, which divides mobile UI hierarchies into semantic blocks and sh
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. XML screen hierarchies do not by themselves establish Android deployment.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. XML screen hierarchies appear in the abstract; Android deployment remains unspecified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-15455/record.json
 

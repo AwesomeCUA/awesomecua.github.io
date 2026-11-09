@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) could not settle the scope: Synthesizes verifiable file\-workspace environments for professional work agents and reports GDPVal and APEX gains; the abstract does not say whether agents act through a GUI, a terminal or only file tools\. The retained record is v3; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) left the scope open: Synthesizes verifiable file\-workspace environments for professional work agents and reports GDPVal and APEX gains; the abstract leaves open whether agents act through a GUI, a terminal or only file tools\. The retained record is v3; reconcile its metadata before approval\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

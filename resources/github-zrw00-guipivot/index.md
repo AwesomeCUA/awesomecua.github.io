@@ -14,7 +14,7 @@ Query-inference training tools connecting screenshot grounding with GUI action r
 
 ## Limitations
 
-The repository releases preprocessing/refinement/evaluation code and multipart ShareGPT-format JSON annotations. Evaluation matches recorded single-step action predictions on AndroidControl and AITZ; it does not run live device tasks. The README links a UIBERT training-JSON path that is not a standalone file in this revision; annotations are packaged in data/GUI.z01, data/GUI.z02 and data/GUI.zip. Original UIBERT/OS-Atlas, AITZ and AndroidControl images must be obtained separately. This entry does not claim a released trained checkpoint or transfer the GPL-3.0 code license to third-party datasets and images.
+The repository releases preprocessing/refinement/evaluation code and multipart ShareGPT-format JSON annotations. Evaluation matches recorded single-step action predictions on AndroidControl and AITZ. The README links a UIBERT training-JSON path, while annotations in this revision are packaged in data/GUI.z01, data/GUI.z02 and data/GUI.zip. Original UIBERT/OS-Atlas, AITZ and AndroidControl images must be obtained separately. The repository releases preprocessing/refinement/evaluation code and annotations; trained checkpoint status and third-party image rights remain separate.
 
 - Record JSON: https://awesomecua.com/resources/github-zrw00-guipivot/record.json
 

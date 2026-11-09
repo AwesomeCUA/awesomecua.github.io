@@ -14,7 +14,7 @@ Offline click benchmark from General Agents: 557 human left clicks on macOS scre
 
 ## Limitations
 
-The card describes showdown-clicks as part of General Agents' showdown suite and a 5,679-click collection recorded in late 2024, of which only the 557-click showdown-clicks-dev subset is released; the remainder is not public. Screenshots range from 1280x800 to 1680x1050. The card's results table includes the publisher's own ace-control models; those scores were not reproduced. The card declares MIT and notes that screenshots may contain third-party content. The companion repository github.com/generalagents/showdown was not reviewed.
+The card describes showdown-clicks as part of General Agents' showdown suite and a 5,679-click collection recorded in late 2024, of which only the 557-click showdown-clicks-dev subset is released; the remainder is not public. Screenshots range from 1280x800 to 1680x1050. The card's results table includes the publisher's own ace-control models. The card declares MIT and notes that screenshots may contain third-party content.
 
 - Record JSON: https://awesomecua.com/resources/url-863cc1744cd5d40418be/record.json
 

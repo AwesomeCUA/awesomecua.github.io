@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Multi\-agent conversational assistant that manages Google Calendar events from natural language; the abstract does not say whether it acts through the calendar interface or an API, so its fit as application automation is unclear\. An exclusion proposal is open in pull request \#3947\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Multi\-agent conversational assistant that manages Google Calendar events from natural language; the abstract leaves open whether the assistant acts through the calendar interface or an API\. An exclusion proposal is open in pull request \#3947\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

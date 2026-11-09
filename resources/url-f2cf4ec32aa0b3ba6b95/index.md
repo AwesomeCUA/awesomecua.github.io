@@ -14,7 +14,7 @@ A 24,978-example subset of an ~80k UI element collection, pairing screenshots an
 
 ## Limitations
 
-The card describes this as a subset of a collection of about 80k preprocessed examples built from WebUI, RoboFlow website screenshots and GroundUI-18K, filtered for duplicates, overlaps, low quality and many text elements, with added annotation fields. The publisher's agentsea/wave-ui dataset (Wave UI) has the same 13 fields and 79,412 rows across three splits; the 25k card does not name it, so the component link rests on that match. Dataset-viewer statistics over 12,493 of the rows (partial) show platform values web, desktop and mobile and source labels including roboflow, webui, mind2web_test_*, omniact, motif, screenspot and agent_studio. The repository declares no license, and the source datasets' terms are not inferred.
+The card describes this as a subset of a collection of about 80k preprocessed examples built from WebUI, RoboFlow website screenshots and GroundUI-18K, filtered for duplicates, overlaps, low quality and many text elements, with added annotation fields. The publisher's agentsea/wave-ui dataset (Wave UI) has the same 13 fields and 79,412 rows across three splits; the component link rests on that match. Dataset-viewer statistics over 12,493 of the rows (partial) show platform values web, desktop and mobile and source labels including roboflow, webui, mind2web_test_*, omniact, motif, screenspot and agent_studio. The repository declares no license, and the source datasets' terms are not inferred.
 
 - Record JSON: https://awesomecua.com/resources/url-f2cf4ec32aa0b3ba6b95/record.json
 
@@ -29,7 +29,7 @@ The card describes this as a subset of a collection of about 80k preprocessed ex
 
 - 24,978 rows — train split (reported; source: https://huggingface.co/datasets/agentsea/wave-ui-25k/raw/1b77b749cb4c9936f35838ed8cb0f1b69957ad08/README.md)
 
-The row count comes from the card's dataset_info metadata; rows are labeled element examples, not unique screens. The annotation fields are name, description, type, OCR, language, purpose and expectation.
+The row count comes from the card's dataset_info metadata; rows count labeled element examples, a separate unit from unique screens. The annotation fields are name, description, type, OCR, language, purpose and expectation.
 
 ## License declarations
 

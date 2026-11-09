@@ -14,7 +14,7 @@ Runtime verification framework for Android GUI agents that checks proposed actio
 
 ## Limitations
 
-The verification method requires developers to supply app-state predicates and transition hooks. The paper-to-repository relation is supported by the exact-version paper, not inferred from the repository name.
+The verification method requires developers to supply app-state predicates and transition hooks. The exact-version paper supports the paper-to-repository relation.
 
 - Record JSON: https://awesomecua.com/resources/github-verisafeagent-verisafeagent/record.json
 

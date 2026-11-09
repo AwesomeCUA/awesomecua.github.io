@@ -14,7 +14,7 @@ Electron app that runs Claude Code or Codex sessions as browser agents in a sepa
 
 ## Limitations
 
-The README offers a macOS Apple Silicon DMG, a Windows installer and a Linux AppImage, with deb and rpm packages on the releases page. Engines are pluggable adapters in the main process (claude-code is the default; codex and browsercode adapters are also present), and the tree bundles a Browser Harness JavaScript SDK and domain-skill notes for 68 sites. Agent quality depends on the user's Anthropic or OpenAI subscription or API key. The latest non-prerelease is v0.0.31 (2026-05-09) while development continues on main. Code was read, not run.
+The README offers a macOS Apple Silicon DMG, a Windows installer and a Linux AppImage, with deb and rpm packages on the releases page. Engines are pluggable adapters in the main process (claude-code is the default; codex and browsercode adapters are also present), and the tree bundles a Browser Harness JavaScript SDK and domain-skill notes for 68 sites. Agent quality depends on the user's Anthropic or OpenAI subscription or API key. The latest non-prerelease is v0.0.31 (2026-05-09) while development continues on main.
 
 - Record JSON: https://awesomecua.com/resources/github-browser-use-desktop/record.json
 

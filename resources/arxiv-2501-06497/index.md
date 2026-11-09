@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Generates presentation slides from Word documents and narrates them with synthetic speech\. This document\-to\-slide content generation does not involve agents operating graphical interfaces, web pages or devices\. The other marked it borderline: Generates slide decks and narration from Word documents; this is office content automation, but the abstract does not say whether presentation software or slide APIs are operated\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether slide generation through Word documents fits office automation\. One read it as outside the scope: Generates presentation slides from Word documents and narrates them with synthetic speech\. This work generates slides and narration from Word documents; its office\-automation fit remains open\. The other marked it borderline: Generates slide decks and narration from Word documents; the abstract leaves open whether presentation software or slide APIs are operated\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

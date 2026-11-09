@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Small function\-calling models drive a local MacBook assistant that executes user commands; the abstract does not say which desktop applications the calls automate or whether any interface is operated\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Small function\-calling models drive a local MacBook assistant that executes user commands; the abstract leaves open whether the calls automate desktop applications or operate an interface\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

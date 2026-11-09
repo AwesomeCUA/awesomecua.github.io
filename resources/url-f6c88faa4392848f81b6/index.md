@@ -14,7 +14,7 @@ Desktop GUI-grounding data from the GroundCUA project: PNG screenshots of 87 app
 
 ## Limitations
 
-At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshots under images/ and 51,175 JSON annotation files with the same hashes under data/, in 87 application folders. The project's GitHub README reports 56K screenshots and about 3.56M element annotations, so the Hub file count and the reported screenshot count differ. The card says categories are approximate and present only for some elements. The repository root also holds an instruction_tuning.tar.gz archive (about 202 MB) that the card does not describe. The card names Windows, macOS and Linux for the applications but does not label each screenshot's operating system. MIT is the card's data declaration and does not establish rights to the captured applications' content. Files were not downloaded.
+At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshots under images/ and 51,175 JSON annotation files with the same hashes under data/, in 87 application folders. The project's GitHub README reports 56K screenshots and about 3.56M element annotations, so the Hub file count and the reported screenshot count differ. The card says categories are approximate and present only for some elements. The repository root also holds an instruction_tuning.tar.gz archive (about 202 MB). The card names Windows, macOS and Linux for the applications but does not label each screenshot's operating system. MIT is the card's data declaration and does not establish rights to the captured applications' content.
 
 - Record JSON: https://awesomecua.com/resources/url-f6c88faa4392848f81b6/record.json
 
@@ -32,7 +32,7 @@ At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshot
 - ≈ 56,000 screenshots — GroundCUA dataset as described in the project README (reported; source: https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md)
 - ≈ 3,560,000 element annotations — GroundCUA dataset as described in the project README (reported; source: https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md)
 
-Screenshots, file pairs, folders and element annotations are different units and are not summed. The pair count was computed by paging the recursive Hub tree of data/ and images/ at revision 5d6845b0; the listed receipt records the 87 application folders. The README figures describe the project dataset and were not reconciled with the Hub file count. No train/test split is declared.
+Screenshots, file pairs, folders and element annotations are different units and are counted separately. The pair count was computed by paging the recursive Hub tree of data/ and images/ at revision 5d6845b0; the listed receipt records the 87 application folders. The README figures describe the project dataset. No train/test split is declared.
 
 ## License declarations
 

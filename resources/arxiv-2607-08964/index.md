@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Long\-horizon terminal benchmark with dense graded subtasks spanning reproduction, software and scientific computing; agents operate a shell environment rather than a GUI\. An open pull request \(\#2811\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Long\-horizon terminal benchmark with dense graded subtasks spanning reproduction, software and scientific computing; the abstract leaves open whether shell tasks fit terminal computer operation\. An open pull request \(\#2811\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

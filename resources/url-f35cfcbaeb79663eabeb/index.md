@@ -14,7 +14,7 @@ A Qwen2.5-VL-based action model released for the Surfer-H web-agent system, supp
 
 ## Limitations
 
-Four public safetensors shards and example navigation/localization files are present. The model card declares Apache-2.0. Reported Surfer-H results depend on the assembled policy/localizer/validator configuration and are not imported as standalone checkpoint scores.
+Four public safetensors shards and example navigation/localization files are present. The model card declares Apache-2.0. Reported Surfer-H results depend on the assembled policy/localizer/validator configuration.
 
 - Record JSON: https://awesomecua.com/resources/url-f35cfcbaeb79663eabeb/record.json
 

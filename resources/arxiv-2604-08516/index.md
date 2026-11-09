@@ -14,7 +14,7 @@ Presents MolmoWebMix, combining synthetic browser trajectories, human demonstrat
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract states that artifacts will be released; this annotation does not independently verify release status or licenses.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract states that artifacts will be released.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-08516/record.json
 

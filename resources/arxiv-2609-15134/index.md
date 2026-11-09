@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-The abstract trains safety guards from normalized events across Claude Code, Codex, Hermes and OpenClaw\. Browser interaction appears in the general motivation, but it does not identify actual GUI/browser tasks or the execution interface of its evaluated benchmarks\. Harness names and the computer\-use label alone do not establish material GUI evidence\.
+The abstract trains safety guards from normalized events across Claude Code, Codex, Hermes and OpenClaw\. Browser interaction appears in the general motivation; the evaluated benchmarks’ GUI/browser tasks and execution interface are unspecified\. The computer\-use label and harness names leave the material GUI evidence unspecified\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

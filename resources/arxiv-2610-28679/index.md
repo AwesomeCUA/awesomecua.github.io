@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Benchmark for executable verifiers written by agents, drawn from six agent benchmarks; it names tool\-call, state\-based and code categories but not whether any source benchmark involves GUI or web tasks\. The retained record is v1; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Benchmark for executable verifiers written by agents, drawn from six agent benchmarks; it names tool\-call, state\-based and code categories and leaves open whether any source benchmark involves GUI or web tasks\. The retained record is v1; reconcile its metadata before approval\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

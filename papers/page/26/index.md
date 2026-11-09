@@ -533,7 +533,7 @@ Yuxiang Chai, Siyuan Huang, Yazhe Niu, Han Xiao, Liang Liu, Dingyu Zhang, Shuai 
 
 ## Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps
 
-Trident combines exploration, monitoring, and detection agents to identify functional bugs that do not crash a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
+Trident combines exploration, monitoring, and detection agents to identify functional bugs in a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2407-03037/
 - Original source: https://arxiv.org/abs/2407.03037
@@ -773,7 +773,7 @@ Introduces RealWeb, a Chinese benchmark of 11,739 instructions on 40 real websit
 
 ### Limitations
 
-The annotation was reviewed against the IEEE Xplore abstract page, the Crossref-deposited citation and the authors' Gitee repository README. Experiments have not been independently reproduced. The abstract counts 110 pages and names the baseline WeServe, reporting a 68.61% success rate; the README counts 119 pages across 15 domains. At the inspected commit the repository's Codes folder holds only a placeholder file, while the dataset files are present. No arXiv version was found.
+The annotation was reviewed against the IEEE Xplore abstract page, the Crossref-deposited citation and the authors' Gitee repository README. The abstract counts 110 pages and names the baseline WeServe, reporting a 68.61% success rate; the README counts 119 pages across 15 domains. At the inspected commit the repository's Codes folder holds only a placeholder file, while the dataset files are present. No arXiv version was found.
 
 - Record JSON: https://awesomecua.com/resources/url-a998ab1efc741ba69d82/record.json
 
@@ -1234,7 +1234,7 @@ Introduces AgentDojo, an extensible environment of tool-calling tasks over untru
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract (version 3). Agents act through tool calls on simulated email, banking and travel services rather than through screenshots or page DOMs, so the paper is adjacent to GUI-agent safety. Experimental findings have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract (version 3). Agents act through tool calls on simulated email, banking and travel services; the paper is adjacent to GUI-agent safety.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-13352/record.json
 
@@ -1286,7 +1286,7 @@ Introduces WONDERBREAD, a benchmark pairing human WebArena workflow demonstratio
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The demonstrations were rehearsed, so their completion rate is not a zero-shot human performance estimate.
+Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The demonstrations were rehearsed; their completion rate measures rehearsed human performance.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-13264/record.json
 
@@ -1704,7 +1704,7 @@ Introduces GuardAgent, which translates safety requests into executable guardrai
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The web-agent evidence is Mind2Web-SC; the healthcare benchmark does not independently establish GUI control.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The web-agent evidence is Mind2Web-SC.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-09187/record.json
 
@@ -2190,7 +2190,7 @@ Trains small Android automation agents from demonstrations, using macro actions 
 
 ### Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Experiments have not been independently reproduced. Screens are represented from the Android accessibility tree or from pixel-based screen understanding, chosen by heuristics. Evaluation uses the public MoTIF dataset and a demonstration study of 43 tasks across 128 Android apps and websites. An arXiv preprint of the same work (2312.10170) is not retained in the catalog archive, so this record follows the publisher edition.
+The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Screens are represented from the Android accessibility tree or from pixel-based screen understanding, chosen by heuristics. Evaluation uses the public MoTIF dataset and a demonstration study of 43 tasks across 128 Android apps and websites. This record follows the publisher edition of the work; an arXiv preprint is 2312.10170.
 
 - Record JSON: https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/record.json
 
@@ -2251,7 +2251,7 @@ Proposes LVG, which detects and grounds the UI element named by a free-form comm
 
 ### Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Experiments have not been independently reproduced. LVG is trained on the UIBert dataset (16,660 referring expressions on 5,682 Android screenshots) plus 22,617 synthetic expressions for 21,282 Rico screens, and the paper reports evaluation on Android data only. The paper names no code release, and no arXiv version was found.
+The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. LVG is trained on the UIBert dataset (16,660 referring expressions on 5,682 Android screenshots) plus 22,617 synthetic expressions for 21,282 Rico screens, and the paper reports evaluation on Android data only. The paper names no code release, and no arXiv version was found.
 
 - Record JSON: https://awesomecua.com/resources/url-36a7cba41056d46cdcde/record.json
 

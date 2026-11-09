@@ -14,7 +14,7 @@ An Android automation implementation that builds app documentation from explorat
 
 ## Limitations
 
-The repository uses README_minimal.md rather than README.md and includes a documented App Launcher experiment, training setup and DroidTask/LlamaTouch evaluation scripts. Its supplied emulator setup targets x86_64 Linux and Android API 31. No repository-level code license was found; code, APK, data and weight terms are not inferred from one another. Dependencies, external evaluation files and model service are still required; no software was run.
+The repository includes README_minimal.md, a documented App Launcher experiment, training setup and DroidTask/LlamaTouch evaluation scripts. Its supplied emulator setup targets x86_64 Linux and Android API 31. No repository-level code license was found; code, APK, data and weight terms are not inferred from one another. Dependencies, external evaluation files and model service are still required; no software was run.
 
 - Record JSON: https://awesomecua.com/resources/github-mobilellm-autodroid-v2/record.json
 

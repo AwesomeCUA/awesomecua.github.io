@@ -14,7 +14,7 @@ Records browser sessions with a Chrome extension and turns them into exact or LL
 
 ## Limitations
 
-The repository bundles a modified copy of the browser_use package with WAP replay prompts, and run_replay.py drives its Agent. Smart-replay and subgoal generation call OpenAI or DeepSeek models. A desktop WAP Replay Tool is published as release wap-replay-tool-1.0.0 (2025-06-01). The README's license badge and extension links use the former name OTA-Tech-AI/webagentprotocol, which the GitHub API resolves to the same repository ID 985409238. The last commit, eacb1659, is dated 2025-06-03. The 'protocol' is the repository's own event and replay-list format, not an external standard. Code was read, not run.
+The repository bundles a modified copy of the browser_use package with WAP replay prompts, and run_replay.py drives its Agent. Smart-replay and subgoal generation call OpenAI or DeepSeek models. A desktop WAP Replay Tool is published as release wap-replay-tool-1.0.0 (2025-06-01). The README's license badge and extension links use the former name OTA-Tech-AI/webagentprotocol, which the GitHub API resolves to the same repository ID 985409238. The last commit, eacb1659, is dated 2025-06-03. The 'protocol' is the repository's own event and replay-list format.
 
 - Record JSON: https://awesomecua.com/resources/github-ota-tech-ai-web-agent-protocol/record.json
 

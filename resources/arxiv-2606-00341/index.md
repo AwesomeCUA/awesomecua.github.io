@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Corrigibility benchmark for frontier computer\-use agents on realistic tasks; the abstract does not say whether the tasks run through a GUI, a browser, a terminal or tool APIs\. An curation proposal is open in pull request \#3057\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Corrigibility benchmark for frontier computer\-use agents on realistic tasks; the abstract leaves open whether tasks run through a GUI, browser, terminal or tool APIs\. An curation proposal is open in pull request \#3057\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ Publisher or product brand associated with Browserless computer-use or browser a
 
 ## Limitations
 
-Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
+Publisher/brand identity only.
 
 - Record JSON: https://awesomecua.com/resources/organization-browserless/record.json
 

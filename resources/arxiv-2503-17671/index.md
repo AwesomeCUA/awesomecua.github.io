@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Multi\-agent LLM system that writes ComfyUI node workflows from task descriptions; it targets the app's workflow format rather than its interface, so app automation versus code generation is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Multi\-agent LLM system that writes ComfyUI node workflows from task descriptions; the abstract leaves open whether ComfyUI workflow generation fits application automation or code generation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

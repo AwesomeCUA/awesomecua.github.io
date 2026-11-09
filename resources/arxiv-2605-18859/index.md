@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) could not settle the scope: Step\-level LLM routing benchmark for agentic workloads; computer\-use agents are named as a motivating application, but the tracks use SWE\-bench, BFCL, RAG and PinchBench with no GUI tasks described\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) left the scope open: Step\-level LLM routing benchmark for agentic workloads; the abstract leaves open whether computer\-use agents receive evaluated coverage\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

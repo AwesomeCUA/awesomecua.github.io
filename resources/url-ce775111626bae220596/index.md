@@ -14,7 +14,7 @@ Hub host of the Ubuntu virtual machine archive that OSWorld's VirtualBox provide
 
 ## Limitations
 
-Adjacent: an environment image that the curated OSWorld benchmark boots when run with VirtualBox, not a benchmark or training set by itself. At revision c4e80049 the repository holds only Ubuntu.zip (12,395,902,743 bytes) and .gitattributes; there is no dataset card, so it names no paper and declares no license, and every license slot stays unknown. At OSWorld commit b138d348 the VirtualBox provider downloads this archive on x86 hosts, extracts it and imports Ubuntu/Ubuntu.ovf from the extracted files with VBoxManage, supports only Ubuntu tasks, and refuses macOS hosts. The name is editorial, taken from that provider. The image was not downloaded or booted.
+Adjacent: an environment image that the curated OSWorld benchmark boots when run with VirtualBox; this asset is an image release. At revision c4e80049 the repository holds only Ubuntu.zip (12,395,902,743 bytes) and .gitattributes; there is no dataset card, so it names no paper and declares no license, and every license slot stays unknown. At OSWorld commit b138d348 the VirtualBox provider downloads this archive on x86 hosts, extracts it and imports Ubuntu/Ubuntu.ovf from the extracted files with VBoxManage, supports only Ubuntu tasks, and refuses macOS hosts. The name is editorial, taken from that provider.
 
 - Record JSON: https://awesomecua.com/resources/url-ce775111626bae220596/record.json
 

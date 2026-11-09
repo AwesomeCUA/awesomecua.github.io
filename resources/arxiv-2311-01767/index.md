@@ -1,6 +1,6 @@
 # PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion
 
-Evaluates multi-turn PowerPoint creation and editing, scoring the resulting presentation files rather than requiring a fixed API sequence.
+Evaluates multi-turn PowerPoint creation and editing by scoring the resulting presentation files.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2311-01767/
 - Original source: https://arxiv.org/abs/2311.01767

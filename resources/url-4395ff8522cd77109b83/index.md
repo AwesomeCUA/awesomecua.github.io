@@ -14,7 +14,7 @@ Training-free GUI agent that indexes screen elements via icon detection and OCR,
 
 ## Limitations
 
-Reviewed against the ICLR 2026 proceedings page and PDF; the OpenReview forum lists it as an ICLR 2026 Poster. Experiments were not reproduced. LongHorizonUI's components run without fine-tuning, with Gemini 2.5 Pro as the default backbone; Appendix D.6 also reports Gemini 1.5 Flash and Qwen2.5-VL-7B backbones. LongGUIBench tasks need more than 15 steps across games and general apps; the paper states 371 scenarios but gives 207 game scenarios in Section 2.1 and 224 in Appendix D.2, and does not name the benchmark's device platform. Other reported evaluations are ScreenSpot grounding, AndroidControl and GUI-Odyssey, plus zero-shot AndroidWorld and OSWorld runs in Appendix D.5. The paper points to kane2kang.github.io/LongHorizonUI for code, which was not reviewed here. No arXiv version was found.
+Reviewed against the ICLR 2026 proceedings page and PDF; the OpenReview forum lists it as an ICLR 2026 Poster. LongHorizonUI's components run without fine-tuning, with Gemini 2.5 Pro as the default backbone; Appendix D.6 also reports Gemini 1.5 Flash and Qwen2.5-VL-7B backbones. LongGUIBench tasks need more than 15 steps across games and general apps; the paper states 371 scenarios but gives 207 game scenarios in Section 2.1 and 224 in Appendix D.2, leaving the benchmark's device platform unnamed. Other reported evaluations are ScreenSpot grounding, AndroidControl and GUI-Odyssey, plus zero-shot AndroidWorld and OSWorld runs in Appendix D.5. The paper points to kane2kang.github.io/LongHorizonUI for code. No arXiv version was found.
 
 - Record JSON: https://awesomecua.com/resources/url-4395ff8522cd77109b83/record.json
 

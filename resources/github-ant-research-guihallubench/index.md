@@ -21,7 +21,7 @@ Inclusion does not establish reproducibility or endorsement.
 ## Structured profile
 
 - actions: list of UI element boxes [x1,y1,x2,y2] and text descriptions
-- evaluation: Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage because missing predictions are not independently enumerated by evaluate_dataset.
+- evaluation: Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage.
 - focus: GUI page-element detection, element-description consistency
 - observations: page screenshot
 - setting: offline
@@ -31,7 +31,7 @@ Inclusion does not establish reproducibility or endorsement.
 - 1,000 page-annotation entries — English annotation subset reported by README (reported; source: https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md)
 - 1,000 page-annotation entries — Chinese annotation subset reported by README (reported; source: https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md)
 
-Each annotation entry represents a page, not one UI element. README’s illustrative num_samples=4796 output is not adopted as a corpus count. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer; payload availability/integrity was not tested by downloading images. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.
+Each annotation entry represents a page. README illustrates num_samples=4796 as example output; the corpus count remains unspecified. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.
 
 ## License declarations
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Scope hold after v1 Sections3\.1,4\.1 and AppendicesB,D\.2,D\.5,F\. Evaluation uses standardized MCP function calls and simulated service workflows; GUI/browser/OS action evaluation is not established\. Construction agents use browser/OS tools, and failure mining includes file/OS benchmarks, but these are support stages rather than reported CUA policy results\. Need direct interface interaction or a demonstrated CUA consumer before core/adjacent annotation\. Preserve metadata; no permanent exclusion\.
+Scope hold after v1 Sections3\.1,4\.1 and AppendicesB,D\.2,D\.5,F\. Evaluation uses standardized MCP function calls and simulated service workflows; GUI/browser/OS action evaluation remains unestablished\. Construction agents use browser/OS tools, and failure mining includes file/OS benchmarks; these are support stages\. Need direct interface interaction or a demonstrated CUA consumer before core/adjacent annotation\. Preserve metadata; no permanent exclusion\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -14,7 +14,7 @@ Presents a position paper on privacy and security evaluation for GUI agents, ide
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. This is a position paper proposing an evaluation framework; the abstract does not report a new benchmark or empirical validation of the proposed framework.
+Reviewed against the complete retained original arXiv abstract. This is a position paper proposing an evaluation framework.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-17934/record.json
 

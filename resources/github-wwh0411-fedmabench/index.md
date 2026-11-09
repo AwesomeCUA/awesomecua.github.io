@@ -14,7 +14,7 @@ A federated mobile-agent training and evaluation suite that varies user-data het
 
 ## Limitations
 
-The public Hub lists six dataset families of JSON/JSONL partition annotations. The repository explicitly says unpacked screenshots are not provided and must be reconstructed from original AndroidControl and AITW sources. This is offline training/evaluation infrastructure rather than a live Android task environment. No repository license file or dataset-license declaration was found in the inspected sources; neither is inferred from the underlying ms-swift project.
+The public Hub lists six dataset families of JSON/JSONL partition annotations. The repository says unpacked screenshots must be reconstructed from original AndroidControl and AITW sources. This is offline training/evaluation infrastructure. No repository license file or dataset-license declaration was found in the inspected sources; neither is inferred from the underlying ms-swift project.
 
 - Record JSON: https://awesomecua.com/resources/github-wwh0411-fedmabench/record.json
 
@@ -32,7 +32,7 @@ The public Hub lists six dataset families of JSON/JSONL partition annotations. T
 - 3 heterogeneity types — publisher benchmark overview (reported; source: https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md)
 - 8 federated learning algorithms — publisher benchmark overview (reported; source: https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md)
 
-The dataset-family count does not count tasks, apps, screenshots or client instances. Code and data licenses are unknown; external image sources are required.
+The dataset-family count measures dataset families. Code and data licenses are unknown; external image sources are required.
 
 ## License declarations
 

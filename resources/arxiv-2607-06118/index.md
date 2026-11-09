@@ -1,6 +1,6 @@
 # WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation
 
-WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success does not translate into useful task completion.
+WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success and useful task completion diverge.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2607-06118/
 - Original source: https://arxiv.org/abs/2607.06118

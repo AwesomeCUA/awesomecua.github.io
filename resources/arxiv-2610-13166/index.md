@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Synthesizes long\-horizon task environments and trajectories for terminal agents and fine\-tunes a 27B model on them; a terminal\-agent data resource without GUI interaction\. An open pull request \(\#2565\) proposes to exclude it, so the scope needs a decision\. The retained record is v1; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Synthesizes long\-horizon task environments and trajectories for terminal agents and fine\-tunes a 27B model on them; the resource concerns terminal agents, leaving GUI\-agent fit open\. An open pull request \(\#2565\) proposes to exclude it, so the scope needs a decision\. The retained record is v1; reconcile its metadata before approval\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

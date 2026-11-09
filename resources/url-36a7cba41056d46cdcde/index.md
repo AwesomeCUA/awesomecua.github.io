@@ -14,7 +14,7 @@ Proposes LVG, which detects and grounds the UI element named by a free-form comm
 
 ## Limitations
 
-The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. Experiments have not been independently reproduced. LVG is trained on the UIBert dataset (16,660 referring expressions on 5,682 Android screenshots) plus 22,617 synthetic expressions for 21,282 Rico screens, and the paper reports evaluation on Android data only. The paper names no code release, and no arXiv version was found.
+The annotation was reviewed against the ACL Anthology landing page and proceedings PDF. LVG is trained on the UIBert dataset (16,660 referring expressions on 5,682 Android screenshots) plus 22,617 synthetic expressions for 21,282 Rico screens, and the paper reports evaluation on Android data only. The paper names no code release, and no arXiv version was found.
 
 - Record JSON: https://awesomecua.com/resources/url-36a7cba41056d46cdcde/record.json
 

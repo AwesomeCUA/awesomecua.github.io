@@ -34,7 +34,7 @@ The card describes this release as an open-sourced sample: the full Mobile-R1 da
 - 3,899 trajectory step entries — Mobile-R1 Hub release at revision c3904f0 (computed) (computed; source: https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl)
 - 3,924 PNG files under images/ — Mobile-R1 Hub release at revision c3904f0 (computed) (computed; source: https://huggingface.co/api/datasets/Mobile-R1/Mobile-R1/revision/c3904f0fdad03a3a4191492880312bda5ad36516)
 
-Counts in different units are not summed. The card's 3,924 samples equal the number of PNG files in the manifest, but data.jsonl references 3,899 distinct images, all present, leaving 25 files unreferenced. The rows use 30 non-empty app_name strings, including variant spellings of the same app (B站 and 哔哩哔哩), plus 5 rows with an empty name, so the card's 28 applications was not recomputed. No train/test split is declared.
+Counts use different units; these counts are reported separately. The card's 3,924 samples equal the number of PNG files in the manifest, but data.jsonl references 3,899 distinct images, all present, leaving 25 files unreferenced. The rows use 30 non-empty app_name strings, including variant spellings of the same app (B站 and 哔哩哔哩), plus 5 rows with an empty name; the card reports 28 applications. No train/test split is declared.
 
 ## License declarations
 

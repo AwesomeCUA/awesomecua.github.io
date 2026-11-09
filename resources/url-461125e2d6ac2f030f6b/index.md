@@ -14,7 +14,7 @@ GUI-grounding checkpoint post-trained from GUI-Owl-1.5-8B-Instruct with SFT and 
 
 ## Limitations
 
-The Hub repository holds four safetensors shards in the Qwen3-VL architecture inherited from its base. The card, by Kingsware and Vocaela AI, declares CC BY-NC-SA 4.0 for this checkpoint (non-commercial, share-alike). The base model mPLUG/GUI-Owl-1.5-8B-Instruct is not an active catalog record, so no variant relation is recorded. Card scores (73.2 on ScreenSpot-Pro without zoom-in, 80.5 with it) are publisher measurements with the publisher's own prompt setup and were not reproduced; the training data is not released on this card. Smaller 4B siblings from the same publisher are separate Hub repositories and are not covered here.
+The Hub repository holds four safetensors shards in the Qwen3-VL architecture inherited from its base. The card, by Kingsware and Vocaela AI, declares CC BY-NC-SA 4.0 for this checkpoint (non-commercial, share-alike). The base model mPLUG/GUI-Owl-1.5-8B-Instruct is not an active catalog record, so no variant relation is recorded. Card scores (73.2 on ScreenSpot-Pro without zoom-in, 80.5 with it) are publisher measurements with the publisher's own prompt setup; the card has no training-data release. Smaller 4B siblings from the same publisher are separate Hub repositories.
 
 - Record JSON: https://awesomecua.com/resources/url-461125e2d6ac2f030f6b/record.json
 

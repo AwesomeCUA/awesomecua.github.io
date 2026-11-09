@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmarks a user agent coordinating with website\-side content agents for search and QA; agents exchange messages through controlled interfaces rather than browsing pages, so the tie to web agents is unclear\. An exclusion proposal is open in pull request \#3398\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Benchmarks a user agent coordinating with website\-side content agents for search and QA; the abstract leaves open whether message exchange with website\-side agents fits web\-agent scope\. An exclusion proposal is open in pull request \#3398\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

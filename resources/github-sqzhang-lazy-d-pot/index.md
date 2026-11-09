@@ -14,7 +14,7 @@ Offline prompting and evaluation code for Dynamic Planning of Thoughts on Androi
 
 ## Limitations
 
-README describes AITW test sampling and preprocessing reused from Auto-GUI, followed by prediction/action-extraction/evaluation scripts. This is not claimed as a ready-to-run interactive phone controller. No project-level license declaration appears in the inspected README/API/non-truncated tree; code, dataset and model rights remain unestablished here.
+README describes AITW test sampling and preprocessing reused from Auto-GUI, followed by prediction/action-extraction/evaluation scripts. README describes AITW test sampling and preprocessing reused from Auto-GUI, followed by prediction, action-extraction and evaluation scripts. No project-level license declaration appears in the inspected README/API/non-truncated tree; code, dataset and model rights remain unestablished here.
 
 - Record JSON: https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/record.json
 

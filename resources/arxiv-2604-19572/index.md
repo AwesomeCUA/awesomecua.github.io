@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Self\-evolving observation compression for terminal agents, evaluated on TerminalBench and related shell benchmarks; terminal agents with no GUI involved\. An open pull request \(\#3331\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Self\-evolving observation compression for terminal agents, evaluated on TerminalBench and related shell benchmarks; the abstract leaves open whether terminal agents fit adjacent computer operation\. An open pull request \(\#3331\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

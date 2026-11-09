@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Semi\-autonomous Semantic Web agents act online for users with N3 rules and LLM dialogue; the abstract does not say whether they operate web pages or only exchange data with other agents\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Semi\-autonomous Semantic Web agents act online for users with N3 rules and LLM dialogue; the abstract leaves open whether the agents operate web pages or exchange data with other agents\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

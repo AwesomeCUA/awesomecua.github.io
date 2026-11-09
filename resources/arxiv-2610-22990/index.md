@@ -14,7 +14,7 @@ PersonaCUABench varies simulated user requests and clarification dialogue over f
 
 ## Limitations
 
-Reviewed the complete retained abstract and selected exact-v1 construction, evaluation and limitations sections. Main interactions and satisfaction ratings use LLM-simulated personas; human annotators validate selected outputs. The harness observes page text, with screenshots only for auditing. Results are not evidence about real demographic populations or desktop agents.
+Reviewed the complete retained abstract and selected exact-v1 construction, evaluation and limitations sections. Main interactions and satisfaction ratings use LLM-simulated personas; human annotators validate selected outputs. The harness observes page text, with screenshots only for auditing. Results concern the evaluated simulated populations and agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-22990/record.json
 

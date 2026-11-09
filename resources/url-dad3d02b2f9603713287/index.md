@@ -14,7 +14,7 @@ Research-preview Holo2 checkpoint, a 235B-total, 22B-active mixture-of-experts f
 
 ## Limitations
 
-Hub API at revision f7f85b14 lists 96 BF16 safetensors shards (about 235.7B parameters) in the Qwen3VLMoeForConditionalGeneration architecture; the repository is not gated. H Company's models page calls this release a research preview. The card describes supervised fine-tuning followed by online GRPO on a mix of open-source, synthetic and human-annotated data, some of it proprietary, and reports localization scores including an iterative 'agentic localization' mode; those scores are the publisher's and were not reproduced. No weights were downloaded. The card declares conflicting licenses; see the license review.
+Hub API at revision f7f85b14 lists 96 BF16 safetensors shards (about 235.7B parameters) in the Qwen3VLMoeForConditionalGeneration architecture; the repository is publicly accessible. H Company's models page calls this release a research preview. The card describes supervised fine-tuning followed by online GRPO on a mix of open-source, synthetic and human-annotated data, some of it proprietary, and reports publisher localization scores including an iterative 'agentic localization' mode. No weights were downloaded. The card declares conflicting licenses; see the license review.
 
 - Record JSON: https://awesomecua.com/resources/url-dad3d02b2f9603713287/record.json
 

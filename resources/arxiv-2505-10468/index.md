@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) could not settle the scope: Conceptual review contrasting AI agents and agentic AI; its listed applications are non\-GUI, and the abstract does not show whether GUI or web agents are covered\. An exclusion proposal is open in pull request \#4259\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) left the scope open: Conceptual review contrasting AI agents and agentic AI; the abstract leaves open whether GUI or web agents are covered\. An exclusion proposal is open in pull request \#4259\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

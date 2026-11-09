@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Lemur is an open LLM tuned on text and code as a language\-agent backbone; it is evaluated in interactive agent environments, but the abstract never says whether any involve web or GUI tasks\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Lemur is an open LLM tuned on text and code as a language\-agent backbone; the abstract leaves open whether the evaluated interactive environments include web or GUI tasks\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmarks agents that search device\-scale personal file systems to answer user\-centric questions; the abstract does not say whether agents act through a desktop GUI, a shell or file\-retrieval tools\. An exclusion proposal is open in pull request \#3458\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Benchmarks agents that search device\-scale personal file systems to answer user\-centric questions; the abstract leaves open whether agents act through a desktop GUI, shell or file\-retrieval tools\. An exclusion proposal is open in pull request \#3458\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

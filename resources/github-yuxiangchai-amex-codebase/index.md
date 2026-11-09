@@ -29,7 +29,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 - > 104,000 screenshots — AMEX collection described in the paper (reported; source: https://arxiv.org/abs/2407.17490)
 
-The main repository contains companion training code. The scale and annotation levels here come from the paper, not an independent download or completeness audit.
+The main repository contains companion training code. The scale and annotation levels here come from the paper.
 
 ## License declarations
 

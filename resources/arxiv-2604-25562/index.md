@@ -1,6 +1,6 @@
 # SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents
 
-SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings, rather than establishing universal runtime prevention.
+SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2604-25562/
 - Original source: https://arxiv.org/abs/2604.25562

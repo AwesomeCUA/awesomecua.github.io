@@ -14,7 +14,7 @@ InternVL2-4B checkpoint fine-tuned on OS-Genesis AndroidWorld trajectories; its 
 
 ## Limitations
 
-This is the 4B AndroidWorld (AW) task-specific checkpoint; the 7B and 8B AW checkpoints and the AndroidControl (AC) and web variants are separate releases, and their results are not transferred to it. The card prose, its YAML base_model field and config.json agree on InternVL2-4B, whose language model is Phi-3-mini (Phi3ForCausalLM). The card's table caption mentions the AndroidControl Benchmark, while its evaluation link and the OS-Genesis repository README place the AW checkpoints under AndroidWorld. Two public Safetensors shards are present and the Hub reports 4,146,868,224 BF16 parameters. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
+This is the 4B AndroidWorld (AW) task-specific checkpoint; the 7B and 8B AW checkpoints and the AndroidControl (AC) and web variants are separate releases, with results scoped to each release. The card prose, its YAML base_model field and config.json agree on InternVL2-4B, whose language model is Phi-3-mini (Phi3ForCausalLM). The card's table caption mentions the AndroidControl Benchmark, while its evaluation link and the OS-Genesis repository README place the AW checkpoints under AndroidWorld. Two public Safetensors shards are present and the Hub reports 4,146,868,224 BF16 parameters. The card declares Apache-2.0 for the checkpoint. No checkpoint was loaded and no result was reproduced.
 
 - Record JSON: https://awesomecua.com/resources/url-a2362e23fdcbc73763e6/record.json
 

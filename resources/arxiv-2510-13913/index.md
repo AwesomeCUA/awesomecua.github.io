@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Synthesizes progressively harder QA data to train deep\-research web agents that work through online tools, with gains on several web\-based benchmarks\. An open pull request \(\#3979\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Synthesizes progressively harder QA data to train deep\-research web agents that work through online tools, with gains on several web\-based benchmarks; the abstract leaves open whether deep\-research online tools fit adjacent browsing scope\. An open pull request \(\#3979\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

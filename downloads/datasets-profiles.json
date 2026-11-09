@@ -114,7 +114,7 @@
           "motion-sensor readings",
           "task instructions"
         ],
-        "notes": "Computed counts come from a script over the pinned Hub file list and tasks.csv. tasks.csv names 20 apps while the paper reports 21. The task texts are in Chinese. The code repository says the metadata workbook holds agent, task, timestamp and success-scoring fields; it was not opened. Event counts are per sensor or touch event, not per task, and the four totals are separate populations, not to be summed.",
+        "notes": "Computed counts come from a script over the pinned Hub file list and tasks.csv. tasks.csv names 20 apps while the paper reports 21. The task texts are in Chinese. The code repository says the metadata workbook holds agent, task, timestamp and success-scoring fields. Event counts are per sensor or touch event, and the four totals are separate populations; these counts are reported separately.",
         "splits": [],
         "supervision": [
           "source labels for human users and named agent configurations",
@@ -234,7 +234,7 @@
           "actions",
           "generated reasoning"
         ],
-        "notes": "The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. Generated labels are not independent human quality acceptance records.",
+        "notes": "The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. The card distinguishes human task instructions from generated summaries, reasoning, reflections and quality fields; generated labels use a different acceptance process from independent human quality records.",
         "splits": [],
         "supervision": [
           "computer-use trajectories",
@@ -278,7 +278,7 @@
           {
             "basis": "reported",
             "evidence_url": "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md",
-            "population": "collection described in the dataset card; not an independently counted release-row total",
+            "population": "The count is the collection total described by the dataset card; the released-row count remains unverified.",
             "qualifier": "more-than",
             "unit": "tasks",
             "value": 6000
@@ -298,7 +298,7 @@
           "LLM thoughts",
           "commands"
         ],
-        "notes": "Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jsonl. Six difficulty levels and trajectory screenshots/thoughts/commands are documented. ZIP file labels are not trajectory counts; configurations and composed-task levels are not assumed disjoint.",
+        "notes": "Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jsonl. Six difficulty levels and trajectory screenshots/thoughts/commands are documented. ZIP file labels identify files; trajectory totals are unspecified, and configurations and composed-task levels may overlap.",
         "splits": [
           "train (osworld configuration)",
           "train (insta configuration)"
@@ -382,7 +382,7 @@
           "GUI screenshots",
           "grounding annotations"
         ],
-        "notes": "Stage 1 grounding release, Hub revision 5d11f8f5. JSON annotations and ZIP/multipart TAR image packages are publicly listed. The official training configuration groups web, desktop and mobile inputs and selects all rows of its configured inputs; this is a training recipe, not a release sample count or held-out split. The config names omniact.json while the Hub manifest lists omniact_fix.json, so local paths need reconciliation. No sample total is inferred from names such as webui350k. Apache-2.0 is the release card declaration; upstream source rights remain separate.",
+        "notes": "Stage 1 grounding release, Hub revision 5d11f8f5. JSON annotations and ZIP/multipart TAR image packages are publicly listed. The official training configuration groups web, desktop and mobile inputs and selects all rows of its configured inputs. The config names omniact.json while the Hub manifest lists omniact_fix.json, so local paths need reconciliation. No sample total is inferred from names such as webui350k. Apache-2.0 is the release card declaration; upstream source rights remain separate.",
         "splits": [
           "training"
         ],
@@ -610,7 +610,7 @@
           "functionality descriptions",
           "action chains"
         ],
-        "notes": "The main repository contains companion training code. The scale and annotation levels here come from the paper, not an independent download or completeness audit.",
+        "notes": "The main repository contains companion training code. The scale and annotation levels here come from the paper.",
         "splits": [],
         "supervision": [
           "element grounding",
@@ -712,7 +712,7 @@
           "instructions",
           "actions"
         ],
-        "notes": "Episode and step counts were computed with a script from the instruction archive; screenshots and element annotations were not downloaded, so the screenshot figure is the paper's reported scale. Each step records the action type, touch and lift coordinates, typed text, package name and screenshot path. No train/test split is published.",
+        "notes": "Episode and step counts were computed with a script from the instruction archive; the screenshot figure is the paper's reported scale. Each step records the action type, touch and lift coordinates, typed text, package name and screenshot path. No train/test split is published.",
         "splits": [],
         "supervision": [
           "interactive-element grounding",
@@ -896,7 +896,7 @@
           {
             "basis": "reported",
             "evidence_url": "https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md",
-            "population": "AndroidCode corpus described by Code2World README; released JSON rows not recounted",
+            "population": "AndroidCode corpus described by Code2World README; the released JSON-row count remains unverified.",
             "qualifier": "more-than",
             "unit": "screen–action pairs",
             "value": 80000
@@ -916,7 +916,7 @@
           "GUI actions",
           "HTML"
         ],
-        "notes": "The manifest lists 58,953 HTML files, which are not converted into transition/example counts. The reported >80k pairs and the HTML-file inventory have different units. The card itself has no sample schema or count; archive/image completeness and JSON contents were not audited.",
+        "notes": "The manifest lists 58,953 HTML files; the >80k reported pairs use a different unit. The reported >80k pairs and the HTML-file inventory have different units. The card supplies neither a sample schema nor a count; archive/image completeness and JSON contents remain unverified.",
         "splits": [
           "Android-Control train file",
           "Android-Control test file"
@@ -1013,7 +1013,7 @@
           "instructions",
           "JSON actions"
         ],
-        "notes": "Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; do not count repeated step instructions as independent task goals.",
+        "notes": "Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; step instructions can repeat across multiple actions.",
         "splits": [
           "publisher split file"
         ],
@@ -1193,7 +1193,7 @@
           "instructions",
           "element captions"
         ],
-        "notes": "The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are not interchangeable.",
+        "notes": "The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are different units.",
         "splits": [],
         "supervision": [
           "element grounding",
@@ -1346,7 +1346,7 @@
           "functionality labels",
           "bounding boxes"
         ],
-        "notes": "Rows are not unique screenshots. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.",
+        "notes": "Rows and unique screenshots are different units. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.",
         "splits": [
           "train"
         ],
@@ -1572,7 +1572,7 @@
           "screen-recording video",
           "per-video duration metadata"
         ],
-        "notes": "File counts come from a script over the pinned Hub manifest; the card's per-category table gives Excel 8,111 videos where the manifest has 8,110 MP4 files. The description files are not described by the card; their content was checked in one file only. Videos, hours, categories and files are different units and are not summed. Each category is one configuration with a single train split.",
+        "notes": "File counts come from a script over the pinned Hub manifest; the card's per-category table gives Excel 8,111 videos where the manifest has 8,110 MP4 files. The card leaves the description files undocumented; their content was checked in one file only. Videos, hours, categories and files are different units; these counts are reported separately. Each category is one configuration with a single train split.",
         "splits": [
           "train"
         ],
@@ -1711,7 +1711,7 @@
           "execution logs",
           "screen recordings"
         ],
-        "notes": "Rows are agent runs filtered to score 1.0, not human demonstrations. Step and row counts are the card's figures; the Parquet files were not downloaded. Recording files were counted from the Hub manifest and do not equal the row count.",
+        "notes": "Rows are agent runs filtered to score 1.0. Step and row counts are the card's figures. Recording files were counted from the Hub manifest; the recording-file and row counts differ.",
         "splits": [
           "train"
         ],
@@ -1826,7 +1826,7 @@
           "setup and verifier logs",
           "timing and cost records"
         ],
-        "notes": "Archive and cost-file counts come from a script over the pinned Hub file list; the card's tables link 39 of the 97 archives, so an archive count is not an evaluation count for one benchmark set. The sets differ in size (295, 50, 52, 26 and 38 tasks) and some tables use different tracks and measurement contracts, which the card says limits comparison across them. Mean scores include verifier partial credit; strict passes use recorded verdicts.",
+        "notes": "Archive and cost-file counts come from a script over the pinned Hub file list; the card's tables link 39 of the 97 archives, so one benchmark set uses a subset of the archives. The sets differ in size (295, 50, 52, 26 and 38 tasks) and some tables use different tracks and measurement contracts, which the card says limits comparison across them. Mean scores include verifier partial credit; strict passes use recorded verdicts.",
         "splits": [],
         "supervision": [
           "verifier task scores",
@@ -2002,7 +2002,7 @@
           "actions",
           "screenshot paths (images not included)"
         ],
-        "notes": "A partition file is not a task, episode or client count. Screenshots are external dependencies that users rebuild from AndroidControl and AitW.",
+        "notes": "A partition file, a task, an episode and a client count are different units. Screenshots are external dependencies that users rebuild from AndroidControl and AitW.",
         "splits": [
           "federated training partitions",
           "validation sets"
@@ -2106,7 +2106,7 @@
           "task descriptions",
           "interaction keypoints"
         ],
-        "notes": "The Hub manifest at this revision lists 739 PNG files under data/. Computed from samples.json at this revision (26 MB, not retained as a receipt): 2,397 interaction keypoints (1,960 click, 185 hover, 158 select, 48 type, 46 drag) and platform labels of 704 macOS, 23 Mobile and 12 blank. Samples also carry a screenparser_preds detection field that the card does not describe; it is not counted as human annotation.",
+        "notes": "The Hub manifest at this revision lists 739 PNG files under data/. Computed from samples.json at this revision (26 MB): 2,397 interaction keypoints (1,960 click, 185 hover, 158 select, 48 type, 46 drag) and platform labels of 704 macOS, 23 Mobile and 12 blank. Samples also carry a screenparser_preds detection field that the card does not describe; it is not counted as human annotation.",
         "splits": [
           "train"
         ],
@@ -2243,7 +2243,7 @@
           "task descriptions",
           "interaction keypoints"
         ],
-        "notes": "Computed from samples.json at this revision (15.7 MB, read once, not retained as a receipt): 4,036 samples, of which 739 have plain timestamp file names and 3,297 carry a hash suffix; sample tags give 1,884 tritanopia, 942 color_inverted and 471 task_description_augmented variants, and 370 train plus 369 val originals; 17,916 keypoints in all, counted again on each variant; platform labels 3,721 macOS, 205 Mobile and 110 blank. Variants duplicate the annotations of their source screenshots, so samples are not independent examples. Samples, files and keypoints are different units and are not summed.",
+        "notes": "Computed from samples.json at this revision (15.7 MB, read once): 4,036 samples, of which 739 have plain timestamp file names and 3,297 carry a hash suffix; sample tags give 1,884 tritanopia, 942 color_inverted and 471 task_description_augmented variants, and 370 train plus 369 val originals; 17,916 keypoints in all, counted again on each variant; platform labels 3,721 macOS, 205 Mobile and 110 blank. Variants duplicate the annotations of their source screenshots; sample counts include those repeated annotations. Samples, files and keypoints are different units; these counts are reported separately.",
         "splits": [
           "train",
           "val"
@@ -2381,7 +2381,7 @@
           "action trajectories",
           "task results"
         ],
-        "notes": "Counts come from a script over the pinned Hub file list. Every task directory holds traj.jsonl, result.txt, an initial screenshot and step screenshots; the 361 tasks span 10 OS-World domain folders. Results are the automated evaluation; the README's human re-check of 20 tasks lives in the GitHub repository, not here. Directories, tasks and screenshots are different units and are not summed.",
+        "notes": "Counts come from a script over the pinned Hub file list. Every task directory holds traj.jsonl, result.txt, an initial screenshot and step screenshots; the 361 tasks span 10 OS-World domain folders. Results are the automated evaluation; the README's human re-check of 20 tasks lives in the GitHub repository. Directories, tasks and screenshots are different units and are counted separately.",
         "splits": [],
         "supervision": [
           "agent-generated trajectories",
@@ -2467,7 +2467,7 @@
           "accessibility-tree observations",
           "actions"
         ],
-        "notes": "The card count is flattened step records, not trajectories or independent tasks. Both successful and unsuccessful trajectories are included according to the project README; no license is declared.",
+        "notes": "The card count is flattened step records. Both successful and unsuccessful trajectories are included according to the project README; no license is declared.",
         "splits": [
           "train"
         ],
@@ -2565,7 +2565,7 @@
           "desktop screenshots",
           "element annotations"
         ],
-        "notes": "Screenshots, file pairs, folders and element annotations are different units and are not summed. The pair count was computed by paging the recursive Hub tree of data/ and images/ at revision 5d6845b0; the listed receipt records the 87 application folders. The README figures describe the project dataset and were not reconciled with the Hub file count. No train/test split is declared.",
+        "notes": "Screenshots, file pairs, folders and element annotations are different units and are counted separately. The pair count was computed by paging the recursive Hub tree of data/ and images/ at revision 5d6845b0; the listed receipt records the 87 application folders. The README figures describe the project dataset. No train/test split is declared.",
         "splits": [],
         "supervision": [
           "UI element bounding boxes",
@@ -2684,7 +2684,7 @@
           "text",
           "coordinates"
         ],
-        "notes": "Publisher-reported counts cover a selection and reformatting of GroundCUA, not a new disjoint image collection. No independent image-overlap audit was performed.",
+        "notes": "Publisher-reported counts cover a selection and reformatting of GroundCUA. No independent image-overlap audit was performed.",
         "splits": [
           "train"
         ],
@@ -2855,7 +2855,7 @@
           "GUI video",
           "action captions"
         ],
-        "notes": "A captioning sample is not necessarily a unique video or complete task trajectory. Package layout and split sizes were not established by the inspected sources.",
+        "notes": "Captioning samples, unique videos and complete task trajectories are different units.",
         "splits": [],
         "supervision": [
           "GUI action captioning"
@@ -2921,7 +2921,7 @@
           "bounding boxes",
           "grounding annotations"
         ],
-        "notes": "Public Hub revision 5a0b35fb includes six bbox JSON files and associated image archives. The training configuration names six input paths with sampling_strategy=all; those input paths are not six disjoint datasets or a verified example count. The card’s source-list wording and mismatched hyperlinks remain unresolved, so its approximately 1M screenshots/10M elements headline is not adopted as a release inventory. No data license is established by the card, and the model repository license is not transferred to these data.",
+        "notes": "Public Hub revision 5a0b35fb includes six bbox JSON files and associated image archives. The training configuration names six input paths with sampling_strategy=all; path count and verified example count are different units. No data license is established by the card, and the model repository license is not transferred to these data.",
         "splits": [
           "training"
         ],
@@ -3000,7 +3000,7 @@
         "modalities": [
           "text"
         ],
-        "notes": "Purpose is established by the official project, not by API tags. No sample records were downloaded; count and data-license fields remain unknown.",
+        "notes": "Purpose is established by the official project. No sample records were downloaded; count and data-license fields remain unknown.",
         "splits": [],
         "supervision": [
           "synthesized static planning knowledge",
@@ -3110,7 +3110,7 @@
           "reasoning text",
           "actions"
         ],
-        "notes": "Steps, files and archive groups are different units and are not summed. Variant files overlap: the 1,000-sample and no-reasoning files are subsets or reformulations of the same source data, not additional examples. Per-file sample counts were not computed.",
+        "notes": "Steps, files and archive groups are different units and are counted separately. Variant files overlap: the 1,000-sample and no-reasoning files are subsets or reformulations of the same source data and share examples.",
         "splits": [],
         "supervision": [
           "step-level reasoning text",
@@ -3233,7 +3233,7 @@
           "text",
           "screenshots"
         ],
-        "notes": "The source reports an approximate trajectory total; it does not establish per-platform counts or a complete test-split inventory.",
+        "notes": "The source reports an approximate trajectory total.",
         "splits": [
           "training collection"
         ],
@@ -3337,7 +3337,7 @@
           "reasoning traces",
           "actions"
         ],
-        "notes": "The card states numbers without a unit; the training docs call them training data. Record counts computed by streaming the 13 annotation files are in the record notes; the card's two figures and the file counts are different populations and units and are not summed. No validation or test split is published.",
+        "notes": "The card states numbers without a unit; the training docs call them training data. Record counts computed by streaming the 13 annotation files are in the record notes; the card's two figures and the file counts are different populations and units and are counted separately. No validation or test split is published.",
         "splits": [
           "training collection"
         ],
@@ -3553,7 +3553,7 @@
           "click and scroll coordinates",
           "device metadata"
         ],
-        "notes": "Each annotation file is one episode keyed by episode_id, with device, task (category, apps, meta-task, instruction) and per-step screenshot, action, info and ps fields; actions are CLICK, SCROLL, LONG_PRESS, TYPE, COMPLETE, IMPOSSIBLE, HOME and BACK, with coordinates normalized to 0-1000. Each split file lists train and test episode IDs. Screenshots were not counted from a retained receipt.",
+        "notes": "Each annotation file is one episode keyed by episode_id, with device, task (category, apps, meta-task, instruction) and per-step screenshot, action, info and ps fields; actions are CLICK, SCROLL, LONG_PRESS, TYPE, COMPLETE, IMPOSSIBLE, HOME and BACK, with coordinates normalized to 0-1000. Each split file lists train and test episode IDs.",
         "splits": [
           "random",
           "task",
@@ -3658,7 +3658,7 @@
           "frame images",
           "text"
         ],
-        "notes": "Taxonomy counts describe coverage, not the number of videos or questions. Cases include Android, iOS, desktop software, websites, multi-application use, and XR. Keyframe-selection settings affect evaluation; exact sample inventories are not reported here.",
+        "notes": "Taxonomy counts describe coverage; video and question counts use different units. Cases include Android, iOS, desktop software, websites, multi-application use, and XR. Keyframe-selection settings affect evaluation.",
         "splits": [
           "train",
           "test"
@@ -3765,7 +3765,7 @@
           "screen-recording videos",
           "text annotations"
         ],
-        "notes": "Video files were counted from the Hub file manifest, not by opening them, and are not question or annotation counts. The annotation files were not downloaded, so the number of questions per split is not recorded.",
+        "notes": "Video files were counted from the Hub file manifest; video, question and annotation counts use different units.",
         "splits": [
           "train",
           "benchmark"
@@ -3928,7 +3928,7 @@
           "actions",
           "question-answer pairs"
         ],
-        "notes": "Reported counts come from the card's split table. A script over the 15 QA JSON files at revision ebac33a0 counted 15,934 auto, 16,744 manual_train and 2,634 manual_test entries (35,312 in total), so the card's manual_test figure is four higher than the released files. Apps, screenshots, actions, QA samples and video hours are different units and are not summed.",
+        "notes": "Reported counts come from the card's split table. A script over the 15 QA JSON files at revision ebac33a0 counted 15,934 auto, 16,744 manual_train and 2,634 manual_test entries (35,312 in total), so the card's manual_test figure is four higher than the released files. Apps, screenshots, actions, QA samples and video hours are different units and are counted separately.",
         "splits": [
           "auto",
           "manual_train",
@@ -4036,7 +4036,7 @@
           "instructions",
           "actions"
         ],
-        "notes": "Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.",
+        "notes": "Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.",
         "splits": [
           "train",
           "test"
@@ -4111,7 +4111,7 @@
           "text",
           "bounding boxes"
         ],
-        "notes": "Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.",
+        "notes": "Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.",
         "splits": [],
         "supervision": [
           "single-turn question answering",
@@ -4175,7 +4175,7 @@
           "text",
           "bounding boxes"
         ],
-        "notes": "Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.",
+        "notes": "Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.",
         "splits": [
           "train",
           "test"
@@ -4234,7 +4234,7 @@
           "text",
           "images"
         ],
-        "notes": "Do not treat Hub size bands or the inconsistent introductory task count as a sample total. Some constituent-domain image packages remain forthcoming.",
+        "notes": "Hub size bands and the inconsistent introductory task count use different units from a verified sample total. Some constituent-domain image packages remain forthcoming.",
         "splits": [
           "train configurations for named mid-training domains"
         ],
@@ -4443,7 +4443,7 @@
           "instructions",
           "actions"
         ],
-        "notes": "The card states the splits are application-level disjoint. Example counts come from the card's dataset_info and split table; shard counts were computed from the pinned Hub file list. An example is one screenshot-instruction-action triple, not a multi-step trajectory.",
+        "notes": "The card states the splits are application-level disjoint. Example counts come from the card's dataset_info and split table; shard counts were computed from the pinned Hub file list. An example is one screenshot-instruction-action triple; multi-step trajectories use a different unit.",
         "splits": [
           "train",
           "test"
@@ -4565,7 +4565,7 @@
         "modalities": [
           "text"
         ],
-        "notes": "Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file; the train file was not downloaded.",
+        "notes": "Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file.",
         "splits": [
           "train",
           "test"
@@ -4646,7 +4646,7 @@
           "text",
           "coordinates"
         ],
-        "notes": "Coordinates were resized for a specified Qwen2.5-VL image processor and must remain aligned with image resizing. AGUVIS++ material requires images from upstream AGUVIS and OS-Atlas releases; this repository is not a self-contained copy of every referenced image collection.",
+        "notes": "Coordinates were resized for a specified Qwen2.5-VL image processor and must remain aligned with image resizing. AGUVIS++ material requires images from upstream AGUVIS and OS-Atlas releases.",
         "splits": [],
         "supervision": [
           "icon grounding",
@@ -4824,7 +4824,7 @@
           "view hierarchies",
           "actions"
         ],
-        "notes": "Splits are the two Hub archive names; the baseline README's processed data uses train and dev folders. Formats inside the archives come from the baseline README's raw-data description and were not inspected directly.",
+        "notes": "Splits are the two Hub archive names; the baseline README's processed data uses train and dev folders. Formats inside the archives come from the baseline README's raw-data description.",
         "splits": [
           "train",
           "test"
@@ -4941,7 +4941,7 @@
           "text",
           "Python code"
         ],
-        "notes": "The script count is the number of distinct .py files in the pinned tree listing. The dev and test task CSVs are behind the automatic access gate and were not opened, so no per-split task count is recorded.",
+        "notes": "The script count is the number of distinct .py files in the pinned tree listing. The automatic access gate leaves the dev and test task CSVs unopened and their per-split task counts unknown.",
         "splits": [
           "dev_set",
           "test_set"
@@ -5046,7 +5046,7 @@
           "target operations",
           "candidate elements with bounding boxes"
         ],
-        "notes": "Counts were taken with a script from the archives' ZIP central directories at revision b089ea88 and have no retained receipt, so they are kept here rather than as count observations. bbox_generate_gt_crop_offline_data_-1choices.zip: 16,715 step folders with one JPEG each (train 7,357; test_task 2,093; test_website 1,370; test_domain 5,895). offline_data_-1choices.zip: 9,364 step folders with 27,967 JPEGs, test splits only (test_task 2,093; test_website 1,373; test_domain 5,898). Step folders are not tasks; distinct annotation IDs per split are train 1,009, test_task 252, test_website 177 and test_domain 912, with the same test counts in both archives.",
+        "notes": "Counts were taken with a script from the archives' ZIP central directories at revision b089ea88 and have no retained receipt, so they are kept here rather than as count observations. bbox_generate_gt_crop_offline_data_-1choices.zip: 16,715 step folders with one JPEG each (train 7,357; test_task 2,093; test_website 1,370; test_domain 5,895). offline_data_-1choices.zip: 9,364 step folders with 27,967 JPEGs, test splits only (test_task 2,093; test_website 1,373; test_domain 5,898). Step folders and tasks are different units; distinct annotation IDs per split are train 1,009, test_task 252, test_website 177 and test_domain 912, with the same test counts in both archives.",
         "splits": [
           "train",
           "test_task",
@@ -5206,7 +5206,7 @@
           "candidate elements",
           "actions"
         ],
-        "notes": "Each instance is one task with its multi-step action sequence, so instance counts are not step counts. The card prints the cross-domain size as '9,12'; the repository README gives 912. The test splits are released only as a ZIP whose password the README publishes, with a request not to redistribute the unzipped files. scores_all_data.pkl holds candidate-ranking outputs of a tuned DeBERTa-v3-base model, not annotations.",
+        "notes": "Each instance is one task with its multi-step action sequence; step counts use a different unit. The card prints the cross-domain size as '9,12'; the repository README gives 912. The test splits are released only as a ZIP whose password the README publishes, with a request not to redistribute the unzipped files. scores_all_data.pkl holds candidate-ranking outputs of a tuned DeBERTa-v3-base model, not annotations.",
         "splits": [
           "train",
           "test_task",
@@ -5472,7 +5472,7 @@
           "subtask descriptions",
           "actions"
         ],
-        "notes": "Counts in different units are not summed. The card's 3,924 samples equal the number of PNG files in the manifest, but data.jsonl references 3,899 distinct images, all present, leaving 25 files unreferenced. The rows use 30 non-empty app_name strings, including variant spellings of the same app (B站 and 哔哩哔哩), plus 5 rows with an empty name, so the card's 28 applications was not recomputed. No train/test split is declared.",
+        "notes": "Counts use different units; these counts are reported separately. The card's 3,924 samples equal the number of PNG files in the manifest, but data.jsonl references 3,899 distinct images, all present, leaving 25 files unreferenced. The rows use 30 non-empty app_name strings, including variant spellings of the same app (B站 and 哔哩哔哩), plus 5 rows with an empty name; the card reports 28 applications. No train/test split is declared.",
         "splits": [],
         "supervision": [
           "manually annotated trajectories"
@@ -5569,7 +5569,7 @@
           "multipart 7z files"
         ],
         "modalities": [],
-        "notes": "Official README calls this a partial training release and says app data will be uploaded gradually. Its training-JSON and test-data links point to separate Hub repositories; those artifacts are not counted as files or splits of xwk123/Mobile3M. Public revision 3df26694 lists app-graph archives; their names do not establish a three-million-example downloadable inventory. Precise inner record/modalities schema is not inspected. The card YAML says Apache-2.0 while its prose and official README assign CC-BY-NC-SA-4.0 to data and Apache to code; the existing data-license value remains unknown with the conflict documented.",
+        "notes": "Official README calls this a partial training release and says app data will be uploaded gradually. Its training-JSON and test-data links point to separate Hub repositories with separate file and split inventories. Public revision 3df26694 lists app-graph archives; the downloadable example count remains unspecified. The card YAML says Apache-2.0 while its prose and official README assign CC-BY-NC-SA-4.0 to data and Apache to code; the existing data-license value remains unknown with the conflict documented.",
         "splits": [
           "partial training release"
         ],
@@ -5681,7 +5681,7 @@
           "action traces",
           "app metadata"
         ],
-        "notes": "Counts describe the card’s first-release claim, not an independently counted archive inventory. The card distinguishes globally image-hash-deduplicated screenshot/VH pairs from the November 2024 complete-app traces; trace state counts must not be added as new unique screens. JPEG/JSON and Parquet are alternative representations. Listed filename ranges are examples, not a complete count proof. No train/validation/test split is documented. Hub revision c734715e is ungated; MIT is its data declaration, without resolving third-party app content rights.",
+        "notes": "Counts describe the card’s first-release claim. The card distinguishes globally image-hash-deduplicated screenshot/VH pairs from November 2024 complete-app traces; trace states reuse the screen population. JPEG/JSON and Parquet are alternative representations. Listed filename ranges are examples; a complete corpus count requires a separate inventory. No train/validation/test split is documented. Hub revision c734715e is ungated; MIT is its data declaration, without resolving third-party app content rights.",
         "splits": [],
         "supervision": [
           "paired screenshot/view-hierarchy structure",
@@ -5796,7 +5796,7 @@
           "bounding-box annotations",
           "UI text transcriptions"
         ],
-        "notes": "split.csv assigns each of the 10,364 annotation IDs to exactly one split, and the IDs match the JSON file names in mocondata.zip one to one. Screenshot images are referenced by file name but not released, so the annotations cannot be paired with pixels from this repository alone. The publisher states no counts; all counts were computed from the released files.",
+        "notes": "split.csv assigns each of the 10,364 annotation IDs to exactly one split, and the IDs match the JSON file names in mocondata.zip one to one. Screenshot images are referenced by file name; pairing the annotations with pixels requires images from outside this repository. The publisher states no counts; all counts were computed from the released files.",
         "splits": [
           "train",
           "val",
@@ -5880,7 +5880,7 @@
           "screenshots (seen in a partial archive read)",
           "XML view hierarchies (seen in a partial archive read)"
         ],
-        "notes": "Each metadata shard maps an app package to a root screen, a valid-screen list and a navigation graph whose nodes are screen hashes with next screens and the triggering actions. No total app, screen or transition count is stated by the publisher; only metadata shard 1 was counted, and file counts are not sample counts.",
+        "notes": "Each metadata shard maps an app package to a root screen, a valid-screen list and a navigation graph whose nodes are screen hashes with next screens and the triggering actions. Only metadata shard 1 was counted; total app, screen and transition counts remain unspecified by the publisher, and file counts are a separate unit from samples.",
         "splits": [],
         "supervision": [
           "crawled screen-transition navigation graphs"
@@ -6021,7 +6021,7 @@
           "bounding boxes",
           "instructions"
         ],
-        "notes": "The card metadata gives split sizes for the desktop and web configurations only; the mobile configuration's sizes appear only as the prose figure of 10.5K. The prose figures for desktop (16.6K) and web (10.2K) differ slightly from the metadata split totals (16,488 and 10,086). Each element carries a name, five intents and center/size coordinates; the card reports an average of 54 annotated elements per image. Annotations are LLM-generated and were not human-verified by this review.",
+        "notes": "The card metadata gives split sizes for the desktop and web configurations only; the mobile configuration's sizes appear only as the prose figure of 10.5K. The prose figures for desktop (16.6K) and web (10.2K) differ slightly from the metadata split totals (16,488 and 10,086). Each element carries a name, five intents and center/size coordinates; the card reports an average of 54 annotated elements per image. Annotations are LLM-generated.",
         "splits": [
           "desktop train",
           "desktop validation",
@@ -6165,7 +6165,7 @@
           "bounding boxes",
           "action labels"
         ],
-        "notes": "Split counts are video-annotation rows; scene and action totals are rounded publisher reports and are not added to row counts. Source videos/images are not included in the Hub files.",
+        "notes": "Split counts are video-annotation rows; scene and action totals are rounded publisher reports. Source videos/images are not included in the Hub files.",
         "splits": [
           "train",
           "validation",
@@ -6239,7 +6239,7 @@
           "interaction sequences",
           "feasibility labels"
         ],
-        "notes": "The raw collection mixes action, language, exploration, and unusable/other traces. These groups have different annotation coverage; not every raw trace is a valid task demonstration.",
+        "notes": "The raw collection mixes action, language, exploration, and unusable/other traces. These groups have different annotation coverage; valid task demonstrations are a subset of raw traces.",
         "splits": [],
         "supervision": [
           "interaction trajectories",
@@ -6359,7 +6359,7 @@
           "element candidates",
           "actions"
         ],
-        "notes": "Conversation, dialogue-turn and action-step units differ. The released file manifest is inspected; underlying examples were not downloaded.",
+        "notes": "Conversation, dialogue-turn and action-step units differ. The released file manifest is inspected.",
         "splits": [
           "train",
           "test_task",
@@ -6642,7 +6642,7 @@
           "text",
           "accessibility-derived structure"
         ],
-        "notes": "The sample count is the README's rounded figure, not a count of the gated files, which were not downloaded. Archive parts are package files, not samples. The versioned archive names (v0.7 excluding v0.6, v0.8 excluding v0.7) suggest incremental releases, but the card that would explain them is gated.",
+        "notes": "The sample count is the README's rounded figure; the gated files remain uncounted. Archive parts are package files. The versioned archive names (v0.7 excluding v0.6, v0.8 excluding v0.7) suggest incremental releases, but the card that would explain them is gated.",
         "splits": [],
         "supervision": [
           "text-rich web UI understanding tasks"
@@ -6726,7 +6726,7 @@
         "modalities": [
           "text"
         ],
-        "notes": "Counts are the README's description of the task set, not a count of the gated file, which was not downloaded. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.",
+        "notes": "Counts describe the task set according to the README; the gated file count remains unknown. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.",
         "splits": [
           "test"
         ],
@@ -6844,7 +6844,7 @@
           "actions",
           "target element bounding boxes"
         ],
-        "notes": "Instruction, step and app counts are the project page's headline figures. Streaming the four split files at revision 8ed12d1 gave 7,393, 6,767, 9,345 and 3,855 step-level samples (27,360 in total), each with one screenshot path into raw_dumps, a system prompt with the mobile_use tool, the task and step history, an assistant thought with a tool call, and a target bounding box; the files exceed the receipt budget, so these computed counts are not recorded as count observations. Steps in the files and the page's action steps are not reconciled. The four split names are training files, not train/test splits.",
+        "notes": "Instruction, step and app counts are the project page's headline figures. Streaming the four split files at revision 8ed12d1 gave 7,393, 6,767, 9,345 and 3,855 step-level samples (27,360 in total), each with one screenshot path into raw_dumps, a system prompt with the mobile_use tool, the task and step history, an assistant thought with a tool call, and a target bounding box; the files exceed the receipt budget, leaving these computed counts outside count observations. Steps in the files and the page's action steps are not reconciled. The four split names are training files.",
         "splits": [
           "split1",
           "split2",
@@ -6973,7 +6973,7 @@
           "text",
           "tool calls"
         ],
-        "notes": "These are publisher-reported totals at three distinct grains, not values to sum. Earlier screenshots may be collapsed; each SFT example keeps at most three images. The card and repository disagree on the singular/plural RL filename, so consumers should inspect the actual file manifest.",
+        "notes": "These are publisher-reported totals at three distinct grains. Earlier screenshots may be collapsed; each SFT example keeps at most three images. The card and repository disagree on the singular/plural RL filename, so consumers should inspect the actual file manifest.",
         "splits": [
           "sft/train",
           "rl/train"
@@ -7055,7 +7055,7 @@
           "referring expressions",
           "bounding boxes"
         ],
-        "notes": "These are subset-specific counts, not a total for the full OS-Atlas release. Raw boxes use 0–1 coordinates; the documented training wrapper scales them to 0–1000.",
+        "notes": "These are subset-specific counts for OS-Atlas. Raw boxes use 0–1 coordinates; the documented training wrapper scales them to 0–1000.",
         "splits": [],
         "supervision": [
           "element grounding"
@@ -7107,7 +7107,7 @@
           "text",
           "actions"
         ],
-        "notes": "The repository links distinct AndroidControl-oriented, AndroidWorld-oriented, and web training files plus raw pre-state/action/post-state triples. These are training artifacts, not a documented train/test split, and related representations are not disjoint corpus totals. No numerical inventory is asserted from release names or linked archives.",
+        "notes": "The repository links distinct AndroidControl-oriented, AndroidWorld-oriented, and web training files plus raw pre-state/action/post-state triples. These are training artifacts with related representations of the same corpus; the release documents no train/test split. No numerical inventory is asserted from release names or linked archives.",
         "splits": [],
         "supervision": [
           "reverse task synthesis",
@@ -7385,7 +7385,7 @@
           "Python task classes",
           "implementation notes"
         ],
-        "notes": "Counts are files in the public main-branch manifest. Benchmark releases are pinned to their own tags, which were not inspected because the files are gated, so these are not release task counts.",
+        "notes": "Counts are files in the public main-branch manifest. Benchmark releases are pinned to their own tags; these are main-branch counts.",
         "splits": [],
         "supervision": [
           "task setup and evaluator code"
@@ -7558,7 +7558,7 @@
           "result files",
           "API usage records"
         ],
-        "notes": "Counts come from the Hub tree listings at the pinned revision. A task folder is one model's run of one task, so folders across models are not summed; gpt-5.6 has 107 folders and the others 108. The inspected folder website_demo/MiniMax-M3/tasks/001 holds traj.jsonl, 501 PNG step screenshots, result and per-step-budget result files, eval and runtime logs, checkpoint results and API usage. ZIP archive contents and their trajectory counts are unknown.",
+        "notes": "Counts come from the Hub tree listings at the pinned revision. A task folder is one model's run of one task; folders across models overlap by task, with 107 folders for gpt-5.6 and 108 for the others. The inspected folder website_demo/MiniMax-M3/tasks/001 holds traj.jsonl, 501 PNG step screenshots, result and per-step-budget result files, eval and runtime logs, checkpoint results and API usage. ZIP archive contents and their trajectory counts are unknown.",
         "splits": [],
         "supervision": [
           "agent run trajectories",
@@ -7752,7 +7752,7 @@
           "audio and video",
           "scripts"
         ],
-        "notes": "Counts come from the Hub file manifest. A task folder is not an OSWorld task definition, and not every OSWorld task has a folder here. Files were not downloaded.",
+        "notes": "Counts come from the Hub file manifest. A task folder is not an OSWorld task definition, and not every OSWorld task has a folder here.",
         "splits": [],
         "supervision": [
           "task setup and evaluation assets"
@@ -7873,7 +7873,7 @@
           "reference outputs",
           "VM disk images"
         ],
-        "notes": "All counts come from a script over the pinned Hub file list; no file was downloaded. The paper and README report 146 tasks in seven domains, while the listing has 153 task files in eight domain folders, including six econ tasks; a task file is a definition, not an agent run. Task files, translated variants, images and files are different units and are not summed.",
+        "notes": "All counts come from a script over the pinned Hub file list; no file was downloaded. The paper and README report 146 tasks in seven domains, while the listing has 153 task files in eight domain folders, including six econ tasks; a task file is a definition, while an agent run is a different unit. Task files, translated variants, images and files are different units and are counted separately.",
         "splits": [],
         "supervision": [
           "expert-defined task definitions",
@@ -8021,7 +8021,7 @@
           "task guidance cards",
           "scores"
         ],
-        "notes": "Counts come from a script over the pinned Hub file list; tasks, folders, cards and screenshots are different units and are not summed. The manifest's own card totals (132 solution, 51 recovery) match the file list. The preview Parquet and CSV tables are derived indexes of the same trajectories. Scores come from the benchmark evaluator as reported by the publisher; no trajectory was replayed.",
+        "notes": "Counts come from a script over the pinned Hub file list; tasks, folders, cards and screenshots are different units and are counted separately. The manifest's own card totals (132 solution, 51 recovery) match the file list. The preview Parquet and CSV tables are derived indexes of the same trajectories. Scores come from the benchmark evaluator as reported by the publisher; no trajectory was replayed.",
         "splits": [],
         "supervision": [
           "agent-generated trajectories",
@@ -8128,7 +8128,7 @@
           "model reasoning",
           "task results"
         ],
-        "notes": "A run archive is one agent configuration evaluated on OSWorld-Verified, not one task or episode. Step budgets in archive names range over 15, 50, 100 and more steps, and several agents have one archive per budget. Episode and task counts inside archives were not recounted.",
+        "notes": "A run archive is one agent configuration evaluated on OSWorld-Verified; task and episode counts use different units. Step budgets in archive names range over 15, 50, 100 and more steps, and several agents have one archive per budget.",
         "splits": [],
         "supervision": [
           "agent evaluation trajectories"
@@ -8212,7 +8212,7 @@
           "action trajectories",
           "generated reasoning"
         ],
-        "notes": "Public manifest exposes data.zip; the internal file schema and number of examples remain unverified. Supervision describes the publisher’s refinement/thought-completion/trajectory-boost pipeline, not an independently sampled data-quality audit.",
+        "notes": "Public manifest exposes data.zip; the internal file schema and number of examples remain unverified. Supervision describes the publisher’s refinement/thought-completion/trajectory-boost pipeline.",
         "splits": [
           "training"
         ],
@@ -8427,7 +8427,7 @@
           "keyboard and mouse events",
           "task metadata"
         ],
-        "notes": "Rows carry task name, category (browser or computer task), sub-categories, application or website, difficulty, OS label, login requirement, completion time, screenshots, video and DOM file paths, event JSON, reasoning steps and system metadata. Tasks share template IDs across vendors. Deduplicate on unique_data_id. Parquet rows were not recounted.",
+        "notes": "Rows carry task name, category (browser or computer task), sub-categories, application or website, difficulty, OS label, login requirement, completion time, screenshots, video and DOM file paths, event JSON, reasoning steps and system metadata. Tasks share template IDs across vendors. Deduplicate on unique_data_id.",
         "splits": [
           "train"
         ],
@@ -8544,7 +8544,7 @@
           "transition animations",
           "app/UI metadata"
         ],
-        "notes": "Project-page scope: screenshots paired with augmented view hierarchies, gesture coordinates, layout vectors and metadata. These observations are not action/task totals. The later semantic-annotation download is a related augmentation of screens, not an additional disjoint corpus. The retained original paper reports more than 72k screens from more than 9.7k apps while this project page says more than 66k screens and more than 9.3k apps; the difference is unresolved. Profile counts follow the project page and do not merge these populations. No train/validation/test partition or data license is established here; archives were not downloaded.",
+        "notes": "Project-page scope: screenshots paired with augmented view hierarchies, gesture coordinates, layout vectors and metadata. These observations describe screens paired with metadata; action and task totals use different units. The later semantic-annotation download augments the same screen corpus. The retained original paper reports more than 72k screens from more than 9.7k apps while this project page says more than 66k screens and more than 9.3k apps; the difference is unresolved. Profile counts follow the project page; the paper reports a separate screen and app population. No train/validation/test partition or data license is established here; archives were not downloaded.",
         "splits": [],
         "supervision": [
           "UI structure and element properties",
@@ -8603,7 +8603,7 @@
           {
             "basis": "reported",
             "evidence_url": "https://raw.githubusercontent.com/AlibabaResearch/RoTS/HEAD/README.md",
-            "population": "paper-described synthesis output; not a released file inventory",
+            "population": "paper-described synthesis output",
             "qualifier": "approximately",
             "unit": "training samples",
             "value": 800000
@@ -8616,7 +8616,7 @@
         "modalities": [
           "GUI interaction trajectories"
         ],
-        "notes": "The inspected README marks the dataset and collection pipelines as in preparation. This profile records an announced research asset, not a verified downloadable corpus; file formats, splits, and release-specific data terms remain unknown.",
+        "notes": "The inspected README marks the dataset and collection pipelines as in preparation. The inspected README marks the dataset and collection pipelines as in preparation; file formats, splits and release-specific data terms remain unknown.",
         "splits": [],
         "supervision": [
           "recovery trajectory synthesis"
@@ -8739,7 +8739,7 @@
           "harness and grader logs",
           "scores"
         ],
-        "notes": "Computed counts come from a script over the pinned Hub file list. A run is one task execution; some tasks ran more than once, so 134 run directories cover 108 tasks, grouped under 18 batch directories. Card headline: 0.7731 mean over tasks of each task's mean clean score (first clean run 0.7674, best 0.7938), from the benchmark grader, not independent labels. No task file or media archive was downloaded.",
+        "notes": "Computed counts come from a script over the pinned Hub file list. A run is one task execution; some tasks ran more than once, so 134 run directories cover 108 tasks, grouped under 18 batch directories. Card headline: 0.7731 mean over tasks of each task's mean clean score (first clean run 0.7674, best 0.7938), from the benchmark grader. No task file or media archive was downloaded.",
         "splits": [],
         "supervision": [
           "grader task scores",
@@ -8861,7 +8861,7 @@
           "runtime and evaluator logs",
           "scores"
         ],
-        "notes": "Counts come from a script over the pinned Hub file list: a canonical directory has a three-digit task name; suffixed names (_infra_, _hung_, _attempt1 and similar) are superseded attempts that the card keeps as evidence. Screenshots, observation images and recordings were removed by the publisher, so the trajectories cannot be replayed visually. Scores come from an LLM evaluator and are not independent quality labels; no task file was downloaded beyond the run manifests and score tables.",
+        "notes": "Counts come from a script over the pinned Hub file list: a canonical directory has a three-digit task name; suffixed names (_infra_, _hung_, _attempt1 and similar) are superseded attempts that the card keeps as evidence. Screenshots, observation images and recordings were removed by the publisher. Scores come from an LLM evaluator; the run manifests and score tables were read, leaving task files outside this inspection.",
         "splits": [],
         "supervision": [
           "evaluator task scores",
@@ -8979,7 +8979,7 @@
           "instructions",
           "element descriptions"
         ],
-        "notes": "The count is the card's dataset_info num_examples for the train split and was not recounted from the 75 Parquet shards. An example is one screenshot-target pair with its instructions, not a unique screen. Rows are tagged ariaui, omniact, widget_caption, ui_vision or os_altas by source.",
+        "notes": "The count is the card's dataset_info num_examples for the train split. An example is one screenshot-target pair with its instructions. Rows are tagged ariaui, omniact, widget_caption, ui_vision or os_altas by source.",
         "splits": [
           "train"
         ],
@@ -9105,7 +9105,7 @@
           "actions",
           "action descriptions"
         ],
-        "notes": "Counts are publisher-reported on the card and were not recomputed from the JSONL files. The card's headline 4,885 trajectories and 71,626 steps cover Capability plus Safety-v2 only. The Safactory report's 10,496 trajectories match Capability plus the legacy Safety archive, but its 158,196 steps do not equal the card's step totals for those sets. A trajectory is a multi-step episode, not a screenshot count.",
+        "notes": "Counts are publisher-reported on the card. The card's headline 4,885 trajectories and 71,626 steps cover Capability plus Safety-v2 only. The Safactory report's 10,496 trajectories match Capability plus the legacy Safety archive, but its 158,196 steps do not equal the card's step totals for those sets. A trajectory is a multi-step episode; screenshot counts use a different unit.",
         "splits": [
           "capability/train",
           "safety/train",
@@ -9203,7 +9203,7 @@
           "text",
           "actions"
         ],
-        "notes": "The six categories include Web, so they are not six operating systems. Grounding and trajectory annotations follow different collection processes. No sample total or train/test division is inferred from archive-part counts or Hub size tags.",
+        "notes": "The six categories include Web. Grounding and trajectory annotations follow different collection processes. No sample total or train/test division is inferred from archive-part counts or Hub size tags.",
         "splits": [],
         "supervision": [
           "GUI grounding",
@@ -9252,7 +9252,7 @@
           "accessibility trees",
           "text"
         ],
-        "notes": "Observation modes follow publisher archive labels rather than inspected record schemas. No count or training-use permission is inferred.",
+        "notes": "Observation modes follow publisher archive labels. No count or training-use permission is inferred.",
         "splits": [],
         "supervision": [
           "evaluation rollout logs"
@@ -9623,7 +9623,7 @@
           "source URLs",
           "element annotations"
         ],
-        "notes": "Screenshots, element annotations, classes and shards are different units and are not summed. Screenshot and annotation counts are the card's v2 figures; the shard count is computed from the Hub file manifest.",
+        "notes": "Screenshots, element annotations, classes and shards are different units and are counted separately. Screenshot and annotation counts are the card's v2 figures; the shard count is computed from the Hub file manifest.",
         "splits": [
           "train"
         ],
@@ -9742,7 +9742,7 @@
           "screen references",
           "bounding boxes"
         ],
-        "notes": "All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. Do not add these variants as independent original examples.",
+        "notes": "All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. ScreenQA Short reuses the same questions and screens; ComplexQA is a separate extension.",
         "splits": [
           "train",
           "validation",
@@ -9909,7 +9909,7 @@
           "coordinates",
           "image references"
         ],
-        "notes": "The recipes reuse source images and are not additive datasets. This download contains no screenshots. Counts are publisher-reported; rows named for trajectories are independent decision examples, not full trajectories.",
+        "notes": "The recipes reuse source images and represent related views of the same dataset. This download contains no screenshots. Counts are publisher-reported; rows named for trajectories are independent decision examples.",
         "splits": [
           "full/train",
           "point/train"
@@ -9995,7 +9995,7 @@
           "instructions",
           "bounding boxes"
         ],
-        "notes": "Counts describe target annotations, not unique screenshots or expanded language/style variants. The evaluation code can reuse a target across configurations.",
+        "notes": "Counts describe target annotations; unique screenshots and expanded language/style variants use different units. The evaluation code can reuse a target across configurations.",
         "splits": [],
         "supervision": [
           "GUI grounding"
@@ -10082,7 +10082,7 @@
           "bounding boxes",
           "points"
         ],
-        "notes": "The 8K release name is not an exact record count; the card declares 7,496 examples. Images and original annotations come from OmniAct and are augmented with generated descriptions. Examples are not asserted to be unique screenshots.",
+        "notes": "The card declares 7,496 examples for the 8K release. Images and original annotations come from OmniAct and are augmented with generated descriptions. Examples are not asserted to be unique screenshots.",
         "splits": [
           "train"
         ],
@@ -10197,7 +10197,7 @@
           "instructions",
           "actions"
         ],
-        "notes": "No sample or episode count is inferred from the size tag or package manifest. Main-branch files were inspected; the card’s v3.0 usage example was not executed.",
+        "notes": "No sample or episode count is inferred from the size tag or package manifest. Main-branch files were inspected.",
         "splits": [],
         "supervision": [
           "drag trajectories",
@@ -10281,7 +10281,7 @@
           "cropped GUI screenshots with a highlighted candidate box",
           "natural-language click commands"
         ],
-        "notes": "Each sample has two image files, so image and sample counts differ. The train metadata has 27,934 distinct command strings; per its original-path columns, 98,369 train rows come from a desktop-named source folder and 17,269 from another folder. The card's per-source figures (about 70K GUIAct and 423K desktop samples) describe the pool before balancing, not this release. Image files were not downloaded or counted.",
+        "notes": "Each sample has two image files, so image and sample counts differ. The train metadata has 27,934 distinct command strings; per its original-path columns, 98,369 train rows come from a desktop-named source folder and 17,269 from another folder. The card's per-source figures (about 70K GUIAct and 423K desktop samples) describe the pool before balancing; this release is the balanced set.",
         "splits": [
           "train"
         ],
@@ -10389,7 +10389,7 @@
           "GUI screenshots",
           "natural-language grounding descriptions"
         ],
-        "notes": "Public API revision 33325877 lists Parquet assets but gated=auto; the pinned raw card returned HTTP 401 and no access was requested. Official README identifies this as V1 training data; the API excerpt also announces a Web-Hybrid bounding-box variant with coordinates normalized to [0,999]. That does not establish every shard schema or a release-wide point/bbox count. No train/test partition, example total, or unrestricted downloadability is claimed. Preserve the recorded CC-BY-NC-SA-4.0 data declaration separately from model/code terms.",
+        "notes": "Public API revision 33325877 lists Parquet assets but gated=auto; the pinned raw card returned HTTP 401 and no access was requested. Official README identifies this as V1 training data; the API excerpt also announces a Web-Hybrid bounding-box variant with coordinates normalized to [0,999]. The public API excerpt documents a Web-Hybrid bounding-box variant; shard schemas and a release-wide point/bbox count remain unspecified. No train/test partition, example total, or unrestricted downloadability is claimed. Preserve the recorded CC-BY-NC-SA-4.0 data declaration separately from model/code terms.",
         "splits": [],
         "supervision": [
           "GUI visual-grounding training for the UGround-V1 family"
@@ -10467,7 +10467,7 @@
         "modalities": [
           "text"
         ],
-        "notes": "The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is not converted into a verified sample count, and complete image packaging is not inferred from the JSONL filename.",
+        "notes": "The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is a release name; verified sample count and complete image packaging remain unspecified.",
         "splits": [],
         "supervision": [
           "trajectory rewards"
@@ -10545,7 +10545,7 @@
           "text",
           "actions"
         ],
-        "notes": "Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels; this review does not infer a reliable trajectory count from them.",
+        "notes": "Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels.",
         "splits": [],
         "supervision": [
           "GUI action trajectories"
@@ -10632,7 +10632,7 @@
           "text",
           "actions"
         ],
-        "notes": "The count is explicitly reported by the publisher, not inferred from the filename. Full training data remains outside this release.",
+        "notes": "The count is explicitly reported by the publisher. Full training data remains outside this release.",
         "splits": [
           "training example subset"
         ],
@@ -10722,7 +10722,7 @@
           "UI labels",
           "action annotations"
         ],
-        "notes": "This is an offline evaluation dataset. Application coverage is not a sample count. The inspected file-layout documentation describes grounding annotations and images; it does not establish a common split or complete action-trajectory inventory.",
+        "notes": "This is an offline evaluation dataset. Application coverage and sample counts are different units. The inspected file-layout documentation describes grounding annotations and images; it does not establish a common split or complete action-trajectory inventory.",
         "splits": [],
         "supervision": [
           "element grounding",
@@ -10962,7 +10962,7 @@
           "reasoning traces",
           "actions"
         ],
-        "notes": "Trajectories, steps, application categories, files and task IDs are different units and are not summed. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 999] on a 1920x1080 screen. No train/test split is declared.",
+        "notes": "Trajectories, steps, application categories, files and task IDs are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest. Coordinates are normalized to [0, 999] on a 1920x1080 screen. No train/test split is declared.",
         "splits": [],
         "supervision": [
           "teacher-model GUI trajectories cleaned by a filtering pipeline",
@@ -11118,7 +11118,7 @@
           "reasoning traces",
           "actions"
         ],
-        "notes": "Trajectories, steps, app categories and files are different units and are not summed. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 999] on a 1080x2400 screen. No train/test split is declared.",
+        "notes": "Trajectories, steps, app categories and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest. Coordinates are normalized to [0, 999] on a 1080x2400 screen. No train/test split is declared.",
         "splits": [],
         "supervision": [
           "teacher-model GUI trajectories filtered by an automatic success judge",
@@ -11262,7 +11262,7 @@
           "reasoning traces",
           "actions"
         ],
-        "notes": "Trajectories, steps, apps and files are different units and are not summed. The task.json count from the manifest matches the card's trajectory count, and the card's per-app counts sum to 2,640 trajectories. Screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 1000] on a 1080x2400 screen. No train/test split is declared; the split1 to split4 episode prefixes (727, 603, 793 and 517 trajectories) are not documented as splits.",
+        "notes": "Trajectories, steps, apps and files are different units and are counted separately. The task.json count from the manifest matches the card's trajectory count, and the card's per-app counts sum to 2,640 trajectories. Screenshot files were counted from the manifest. Coordinates are normalized to [0, 1000] on a 1080x2400 screen. No train/test split is declared; the split1 to split4 episode prefixes (727, 603, 793 and 517 trajectories) are not documented as splits.",
         "splits": [],
         "supervision": [
           "agent trajectories cleaned and normalized for supervised training",
@@ -11375,7 +11375,7 @@
           "UI action logs",
           "target CAD images"
         ],
-        "notes": "The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape; operating-system compatibility is not established.",
+        "notes": "The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape.",
         "splits": [],
         "supervision": [
           "timestamped UI actions",
@@ -11490,7 +11490,7 @@
           "action logs",
           "instructions"
         ],
-        "notes": "Tasks, hours, frames and archives are different units and are not summed. The archive count is computed from the Hub tree listing; the card also reports 87 applications. No train/test split is declared.",
+        "notes": "Tasks, hours, frames and archives are different units and are counted separately. The archive count is computed from the Hub tree listing; the card also reports 87 applications. No train/test split is declared.",
         "splits": [],
         "supervision": [
           "human expert task demonstrations",
@@ -11600,7 +11600,7 @@
           "bounding boxes",
           "OCR metadata"
         ],
-        "notes": "Card-reported row counts are not unique-screen counts. The source field is important for the per-image license terms; the compilation does not relicense original images.",
+        "notes": "Card-reported row counts and unique-screen counts are different units. The source field is important for the per-image license terms; the compilation does not relicense original images.",
         "splits": [
           "train",
           "validation",
@@ -11676,7 +11676,7 @@
           "bounding boxes",
           "OCR metadata"
         ],
-        "notes": "The row count comes from the card's dataset_info metadata; rows are labeled element examples, not unique screens. The annotation fields are name, description, type, OCR, language, purpose and expectation.",
+        "notes": "The row count comes from the card's dataset_info metadata; rows count labeled element examples, a separate unit from unique screens. The annotation fields are name, description, type, OCR, language, purpose and expectation.",
         "splits": [
           "train"
         ],
@@ -11774,7 +11774,7 @@
           "agent reasoning",
           "actions"
         ],
-        "notes": "Trajectories, tasks, environments, steps and folders are different units and are not summed. Each agent has at most one trajectory per task. Manifest difficulty labels: 604 easy, 508 medium, 1,217 hard. The manifest lists 134 Gemini trajectories (89 gitlab-plan-and-track, 45 gmail) whose folders are absent from the file tree at this revision, so 2,195 trajectories have files. Screenshots were not downloaded; two history files were sampled.",
+        "notes": "Trajectories, tasks, environments, steps and folders are different units and are counted separately. Each agent has at most one trajectory per task. Manifest difficulty labels: 604 easy, 508 medium, 1,217 hard. The manifest lists 134 Gemini trajectories (89 gitlab-plan-and-track, 45 gmail) whose folders are absent from the file tree at this revision, so 2,195 trajectories have files. Two history files were sampled.",
         "splits": [],
         "supervision": [
           "agent-generated successful trajectories",
@@ -11911,7 +11911,7 @@
           "instructions",
           "actions"
         ],
-        "notes": "Trajectories, steps, domains and files are different units and are not summed. The trajectory, step and domain figures match the paper's statistics; the v2 card says they describe the corpus before final cleaning. The file count comes from the Hub manifest; Parquet row counts were not computed.",
+        "notes": "Trajectories, steps, domains and files are different units and are counted separately. The trajectory, step and domain figures match the paper's statistics; the v2 card says they describe the corpus before final cleaning. The file count comes from the Hub manifest.",
         "splits": [
           "high-level train",
           "high-level test",
@@ -12080,7 +12080,7 @@
           "actions",
           "DOM and accessibility-tree references in trace metadata"
         ],
-        "notes": "Trajectories, steps, windows, turns, parts and shards are different units and are not summed. Trace SFT has one row per cleaned trajectory; Seed/Demo SFT re-cuts the same trajectories into bounded windows, so the two formats are not additional data. The 150-trace subset is a stratified sample for loader checks and compact offline evaluation; the card does not say it is held out from the parts. The part and shard counts from the manifest match the card. Row counts were not recomputed.",
+        "notes": "Trajectories, steps, windows, turns, parts and shards are different units and are counted separately. Trace SFT has one row per cleaned trajectory; Seed/Demo SFT re-cuts the same trajectories into bounded windows, so the formats overlap. The 150-trace subset is a stratified sample for loader checks and compact offline evaluation; the card does not say it is held out from the parts. The part and shard counts from the manifest match the card.",
         "splits": [],
         "supervision": [
           "human-executed web task trajectories",
@@ -12166,7 +12166,7 @@
           "JSONL"
         ],
         "modalities": [],
-        "notes": "Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevolver_world_model_sft.jsonl. They are not assumed disjoint train/test splits, and no modality or example count is inferred from filenames alone.",
+        "notes": "Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevolver_world_model_sft.jsonl. The files serve policy-model and world-model purposes; their split relationship, modality and example count remain unspecified.",
         "splits": [],
         "supervision": [
           "agent-policy supervised fine-tuning",
@@ -12368,7 +12368,7 @@
           "action history",
           "viewport size"
         ],
-        "notes": "Counts were computed with a script. Demonstrations come from splits.json, whose seven splits are disjoint; its iid_all list is the union of valid and test_iid and is not counted separately. Turn records are rows of the chat configuration, one per evaluated navigator turn, a different unit from demonstrations; the train file exceeds the catalog's 10 MB evidence budget, so its turn records are not recorded. The card's extra test split duplicates test_iid. Reranking files and CSVs were not counted. Screenshots are not in this repository.",
+        "notes": "Counts were computed with a script. Demonstrations come from splits.json, whose seven splits are disjoint; its iid_all list is the union of valid and test_iid and overlaps those splits. Turn records are rows of the chat configuration, one per evaluated navigator turn, a different unit from demonstrations; the train file exceeds the catalog's 10 MB evidence budget, leaving its turn-record count unrecorded. The card's extra test split duplicates test_iid. The counts cover demonstrations and chat turn records; reranking files and CSVs fall outside those counts. Screenshots are not in this repository.",
         "splits": [
           "train",
           "valid",
@@ -12543,7 +12543,7 @@
           "text",
           "action history"
         ],
-        "notes": "This is the checklist-generation release rather than the separate preference-pair collection. No unique-task count or data permission is inferred.",
+        "notes": "This is the checklist-generation release. No unique-task count or data permission is inferred.",
         "splits": [
           "test"
         ],
@@ -12612,7 +12612,7 @@
           "text",
           "action history"
         ],
-        "notes": "Preserves the publisher’s split label despite the collection’s training purpose. Rows are not individual preference pairs because rejected is a list. Data license is unknown.",
+        "notes": "Preserves the publisher’s split label despite the collection’s training purpose. Rows contain lists of rejected candidates. Data license is unknown.",
         "splits": [
           "test"
         ],
@@ -12733,7 +12733,7 @@
           "screenshots",
           "layout metadata"
         ],
-        "notes": "Each dataset.csv row is a QA example; web pages and QA examples are different units. Use the v1.0 split table rather than merging the older project headline into it. The card retains email-evaluation instructions, while the manifest now includes test answers; no submission was made. Payload archives were not downloaded.",
+        "notes": "Each dataset.csv row is a QA example; web pages and QA examples are different units. Use the v1.0 split table for this release. The card retains email-evaluation instructions, while the manifest now includes test answers; no submission was made.",
         "splits": [
           "train",
           "dev",
@@ -12857,7 +12857,7 @@
           "actions",
           "action rationales"
         ],
-        "notes": "Shard counts were computed by script from the pinned Hub API file list; they are files, not records. Each JSONL line is one task with its ordered action trajectory; the number of lines was not counted. The reported trajectory figure comes from the project README and may differ from the reprocessed Hub release. Frames for parts 16-19 are in a separate repository.",
+        "notes": "Shard counts were computed by script from the pinned Hub API file list; they count files. Each JSONL line is one task with its ordered action trajectory; the number of lines was not counted. The reported trajectory figure comes from the project README and may differ from the reprocessed Hub release. Frames for parts 16-19 are in a separate repository.",
         "splits": [],
         "supervision": [
           "video-derived task instructions and plans",
@@ -12965,7 +12965,7 @@
         "modalities": [
           "screenshots"
         ],
-        "notes": "Shard count computed by script from the pinned Hub API file list; it counts files, not frames. The card says each shard holds up to about 20,000 frames; the number of frames was not counted.",
+        "notes": "Shard count computed by script from the pinned Hub API file list; it counts files. The card says each shard holds up to about 20,000 frames; the number of frames was not counted.",
         "splits": [],
         "supervision": [
           "frames referenced by video-derived trajectory annotations"

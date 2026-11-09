@@ -14,7 +14,7 @@ Moonshot AI open-weight MoE vision-language model with 2.8B activated LLM parame
 
 ## Limitations
 
-General-purpose vision-language model family (Kimi-VL-A3B-Instruct, Kimi-VL-A3B-Thinking and Kimi-VL-A3B-Thinking-2506 on Hugging Face); OS-agent interaction and GUI grounding are reported benchmark capabilities, so the record is adjacent. The inspected tree holds only the README, the technical-report PDF, requirements.txt and LICENSE; no GUI-agent harness or evaluation code is released in this repository, and the reported OSWorld and grounding scores were not reproduced. The MIT LICENSE file applies to this repository; checkpoint cards declare their own weights terms, which were not reviewed. Weights collection: https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85. The repository file listing was inspected at Git object 41d5ef072bc5.
+General-purpose vision-language model family (Kimi-VL-A3B-Instruct, Kimi-VL-A3B-Thinking and Kimi-VL-A3B-Thinking-2506 on Hugging Face); OS-agent interaction and GUI grounding are reported benchmark capabilities, so the record is adjacent. The inspected tree holds only the README, the technical-report PDF, requirements.txt and LICENSE; it offers documentation rather than a GUI-agent harness or evaluator. The MIT LICENSE file applies to this repository; checkpoint cards declare their own weights terms, which were not reviewed. Weights collection: https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85. The repository file listing was inspected at Git object 41d5ef072bc5.
 
 - Record JSON: https://awesomecua.com/resources/github-moonshotai-kimi-vl/record.json
 

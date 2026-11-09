@@ -28,7 +28,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 ### Count observations
 
-- 1,272 instruction–target examples — Hub test split at 0be08781; not unique screenshots (reported; source: https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md)
+- 1,272 instruction–target examples — Hub test split at 0be08781; row count distinct from unique screenshots (reported; source: https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md)
 
 Offline, zero-shot evaluation across mobile, desktop, and web. The card explicitly excludes training use in its intended-use description. Public API reports ungated Parquet files and canonical Hub id bevaya/ScreenSpot; the catalog identity is preserved. Apache-2.0 is the Hub data declaration. No runtime or underlying screenshot rights audit was performed.
 

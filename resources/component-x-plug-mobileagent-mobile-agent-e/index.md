@@ -14,7 +14,7 @@ Android automation component with hierarchical planning, reflection and persiste
 
 ## Limitations
 
-The inspected README explicitly supports Android only, with experiments on Samsung Galaxy A15; host-machine macOS/Linux instructions do not imply control of those operating systems. Agent code, launch scripts and benchmark definitions are present. The root MIT code license does not establish terms for the separately published task dataset or external models.
+The inspected README supports Android only, with experiments on Samsung Galaxy A15; macOS/Linux instructions describe host-machine setup. Agent code, launch scripts and benchmark definitions are present. The root MIT code license does not establish terms for the separately published task dataset or external models.
 
 - Record JSON: https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/record.json
 

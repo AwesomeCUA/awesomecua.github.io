@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmark of email, calendar and ticket tool tasks that scores unauthorized side effects of tool\-using agents\. This tool\-calling safety work names no web\-page, GUI, mobile or desktop interaction\. Codex review disputed this exclusion on that ground: the paper concerns application or workflow tasks carried out through scripts, APIs or tools, which the adjacent category may cover, and the abstract does not settle it\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Benchmark of email, calendar and ticket tool tasks that scores unauthorized side effects of tool\-using agents; whether tool\-based application workflows fit the adjacent category remains open\. This tool\-calling safety work names no web\-page, GUI, mobile or desktop interaction\. Codex review disputed this exclusion: the adjacent category may cover application or workflow tasks carried out through scripts, APIs or tools, and the abstract leaves the fit open\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

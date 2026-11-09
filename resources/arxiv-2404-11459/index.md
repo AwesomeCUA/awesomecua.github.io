@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Sub\-billion on\-device multimodal model with functional tokens for agent applications; the abstract does not say whether its actions are API function calls only or operate device or app interfaces\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Sub\-billion on\-device multimodal model with functional tokens for agent applications; the abstract leaves open whether the actions operate device or app interfaces or call APIs\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

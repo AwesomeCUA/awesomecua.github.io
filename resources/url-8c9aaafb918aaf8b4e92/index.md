@@ -29,7 +29,7 @@ The ungated manifest lists JSON annotations and multipart image archives. Traini
 
 - ≈ 1,000,000 training trajectories — TongUI-collected GUI-Net-1M data, excluding added external mixtures (reported; source: https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/docs/train.md)
 
-The source reports an approximate trajectory total; it does not establish per-platform counts or a complete test-split inventory.
+The source reports an approximate trajectory total.
 
 ## License declarations
 

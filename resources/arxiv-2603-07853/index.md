@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: RL\-trained research agent with synthetic plans on multi\-hop and open\-web benchmarks; the abstract does not say whether it opens and reads web pages or only calls search tools\. An exclusion proposal is open in pull request \#3275\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: RL\-trained research agent with synthetic plans on multi\-hop and open\-web benchmarks; the abstract leaves open whether the agent opens and reads pages or calls search tools\. An exclusion proposal is open in pull request \#3275\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

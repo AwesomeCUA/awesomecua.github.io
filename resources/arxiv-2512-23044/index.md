@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Open\-web video browsing agent and BrowseComp\-style benchmark in which the agent queries video search engines and chooses which videos to inspect; information\-seeking browsing rather than GUI operation\. An open pull request \(\#3680\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) left the scope open: Open\-web video browsing agent and BrowseComp\-style benchmark in which the agent queries video search engines and chooses which videos to inspect; the abstract leaves open whether video browsing fits adjacent information\-seeking scope\. An open pull request \(\#3680\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

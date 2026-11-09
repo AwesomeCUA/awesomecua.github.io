@@ -14,7 +14,7 @@ Desktop chat app whose bots run local Claude, Codex or Grok CLIs and each get a 
 
 ## Limitations
 
-OpenMausBot ships no model: an Electron shell talks to a local harness server that runs the claude, codex and grok CLIs or other ACP engines and normalises their events. Host control uses the bundled Cua Driver and needs explicit opt-in; the README marks it supported on macOS, beta on Ubuntu Xorg and disabled on Wayland. Cloud computers come from the third-party Boat service and connected apps from Composio. The README says the project was formerly OpenGrokBot. Everything outside enterprise/ is Apache-2.0; enterprise/ is source-available under its own license. Code was read, not run.
+OpenMausBot ships no model: an Electron shell talks to a local harness server that runs the claude, codex and grok CLIs or other ACP engines and normalises their events. Host control uses the bundled Cua Driver and needs explicit opt-in; the README marks it supported on macOS, beta on Ubuntu Xorg and disabled on Wayland. Cloud computers come from the third-party Boat service and connected apps from Composio. The README says the project was formerly OpenGrokBot. Everything outside enterprise/ is Apache-2.0; enterprise/ is source-available under its own license.
 
 - Record JSON: https://awesomecua.com/resources/github-milind-soni-openmausbot/record.json
 

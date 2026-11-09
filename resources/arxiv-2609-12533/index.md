@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Plan\-and\-execute tool\-using agent and benchmark for Earth observation workflows\. This scientific tool\-agent work does not involve operating graphical interfaces, web pages or devices\. This is the class Codex review disputed in this screening: the paper concerns application or workflow tasks carried out through scripts, APIs or tools, which the adjacent category may cover, and the abstract does not settle it\. An exclusion proposal is open in pull request \#2405\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Plan\-and\-execute tool\-using agent and benchmark for Earth observation workflows; whether tool\-based application workflows fit the adjacent category remains open\. This scientific work uses tool agents\. Codex review disputed this class of exclusions: the adjacent category may cover application or workflow tasks carried out through scripts, APIs or tools, and the abstract leaves the fit open\. An exclusion proposal is open in pull request \#2405\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

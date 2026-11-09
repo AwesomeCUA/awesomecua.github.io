@@ -1,6 +1,6 @@
 # Computer-use agent tools
 
-> 884 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T11:08:26Z.
+> 884 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
 
 HTML page: https://awesomecua.com/categories/tool/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -10,7 +10,7 @@ Reviews are AI-assisted inspections of primary sources. Code, data, weights and 
 
 ## Playwright MCP
 
-MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
+MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots, with opt-in vision, PDF and devtools capabilities.
 
 - Catalog URL: https://awesomecua.com/resources/github-microsoft-playwright-mcp/
 - Original source: https://github.com/microsoft/playwright-mcp
@@ -469,7 +469,7 @@ A Windows MCP bridge exposing application, window, keyboard and mouse operations
 
 ### Limitations
 
-Public source and official release metadata are present. The README explicitly supports Windows 10 and 11 and includes a browser DOM inspection mode. Code is MIT-licensed. This is an execution tool, not a trained model; runtime behavior and latency claims were not independently tested.
+Public source and official release metadata are present. The README explicitly supports Windows 10 and 11 and includes a browser DOM inspection mode. Code is MIT-licensed. This is an execution tool.
 
 - Record JSON: https://awesomecua.com/resources/github-cursortouch-windows-mcp/record.json
 
@@ -1830,7 +1830,7 @@ Rust CLI (agent-cu) that lets agents snapshot desktop app accessibility trees in
 
 ### Limitations
 
-Published on npm as agent-cu (package.json 0.1.1 at the inspected commit) with precompiled binaries, and also installable as an agent skill (skills/agent-computer-use/SKILL.md). Commands snapshot an app's accessibility tree into @eN refs or query it with a selector DSL (role, name, id, parent-child chains), then click, type, press keys, scroll, drag, move or resize windows, wait for elements, take screenshots, and run JSON batches or YAML workflows; output is JSON by default. Backends: macOS uses AXUIElement with CGEvent input, Windows uses UI Automation, and Linux uses AT-SPI2 over D-Bus with xdotool for input. Electron apps can be driven over the Chrome DevTools Protocol, but automatic Electron detection and relaunch with a debug port is implemented only on macOS (cli/crates/agent-computer-use-cdp/src/detect.rs). The README marks every platform as preview and states that the project is no longer maintained, recommending Cua Driver instead. The repository was formerly named kortix-ai/agent-click (same GitHub repository ID). The tool contains no model or agent loop. Code was read, not run.
+Published on npm as agent-cu (package.json 0.1.1 at the inspected commit) with precompiled binaries, and also installable as an agent skill (skills/agent-computer-use/SKILL.md). Commands snapshot an app's accessibility tree into @eN refs or query it with a selector DSL (role, name, id, parent-child chains), then click, type, press keys, scroll, drag, move or resize windows, wait for elements, take screenshots, and run JSON batches or YAML workflows; output is JSON by default. Backends: macOS uses AXUIElement with CGEvent input, Windows uses UI Automation, and Linux uses AT-SPI2 over D-Bus with xdotool for input. Electron apps can be driven over the Chrome DevTools Protocol, but automatic Electron detection and relaunch with a debug port is implemented only on macOS (cli/crates/agent-computer-use-cdp/src/detect.rs). The README marks every platform as preview and states that the project is no longer maintained, recommending Cua Driver instead. The repository was formerly named kortix-ai/agent-click (same GitHub repository ID). The tool contains no model or agent loop.
 
 - Record JSON: https://awesomecua.com/resources/github-kortix-ai-agent-computer-use/record.json
 
@@ -2753,7 +2753,7 @@ MCP server and local web UI that let an LLM drive an anti-detect Firefox build w
 
 ### Limitations
 
-Installs as a plugin or extension for Claude Code, Codex and Gemini CLI; the standalone web UI calls OpenRouter with the user's key. The tree contains the Python package (MCP server, agent loop, web UI) and an MCP test suite; the browser engine library and fingerprint core are separate repositories, and the engine binary is downloaded from a GitHub release on first start. Its claim of avoiding anti-bot detection and captchas was not tested, and the README asks users to respect site terms. The repository LICENSE is MIT; the README says releases before 2 September 2026 were AGPL-3.0.
+Installs as a plugin or extension for Claude Code, Codex and Gemini CLI; the standalone web UI calls OpenRouter with the user's key. The tree contains the Python package (MCP server, agent loop, web UI) and an MCP test suite; the browser engine library and fingerprint core are separate repositories, and the engine binary is downloaded from a GitHub release on first start. The project claims to avoid anti-bot detection and captchas; the README asks users to respect site terms. The repository LICENSE is MIT; the README says releases before 2 September 2026 were AGPL-3.0.
 
 - Record JSON: https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/record.json
 
@@ -2959,7 +2959,7 @@ Portable agent instructions and integration tooling for local or cloud phone con
 
 ### Limitations
 
-The publisher describes this as a Markdown harness, not an agent runtime.
+The publisher describes this as a Markdown harness.
 
 - Record JSON: https://awesomecua.com/resources/github-droidrun-mobile-harness/record.json
 
@@ -3004,7 +3004,7 @@ The official API resolves the former Droidrun Portal path to mobilerun-portal. R
 - document: not recorded
 - weights: not recorded
 
-- code review: GitHub classifies this license as NOASSERTION, but the actual program-specific notice is explicit. Do not reduce the permission to a generic unknown or silently transfer the framework MIT declaration.
+- code review: GitHub classifies this license as NOASSERTION, but the actual program-specific notice is explicit. GitHub classifies this license as NOASSERTION, while the program-specific notice states its permissions; the framework MIT declaration covers a separate component.
   Sources: https://raw.githubusercontent.com/droidrun/mobilerun-portal/HEAD/LICENSE
 
 ### Primary evidence
@@ -3472,7 +3472,7 @@ macOS app that records screen, audio, input events and accessibility trees on-de
 
 ### Limitations
 
-Requires Apple Silicon, macOS 14 or later and a source build (Swift 6, Rust, XcodeGen). GroundingOracle.swift resolves targets for the Mimicry replay system in four steps: exact accessibility-tree match, fuzzy accessibility match, a local ShowUI-2B model on MLX over a live screenshot, then a vision-model escalation. TrainingDataGenerator.swift turns recorded (screenshot, accessibility state, click) tuples into JSONL grounding examples, and LoRATrainer.swift fine-tunes ShowUI-2B on them through the mlx-vlm Python package once enough new tuples accumulate. The README describes the capture of fourteen signal types, on-device Qwen and Whisper models, a 26-tool agent runtime, and points to a separate computer-use engine from the same publisher for full computer use. Cloud model features are optional with the user's own API key. Code was read, not run.
+Requires Apple Silicon, macOS 14 or later and a source build (Swift 6, Rust, XcodeGen). GroundingOracle.swift resolves targets for the Mimicry replay system in four steps: exact accessibility-tree match, fuzzy accessibility match, a local ShowUI-2B model on MLX over a live screenshot, then a vision-model escalation. TrainingDataGenerator.swift turns recorded (screenshot, accessibility state, click) tuples into JSONL grounding examples, and LoRATrainer.swift fine-tunes ShowUI-2B on them through the mlx-vlm Python package once enough new tuples accumulate. The README describes the capture of fourteen signal types, on-device Qwen and Whisper models, a 26-tool agent runtime, and points to a separate computer-use engine from the same publisher for full computer use. Cloud model features are optional with the user's own API key.
 
 - Record JSON: https://awesomecua.com/resources/github-ghostwright-shadow/record.json
 
@@ -3511,7 +3511,7 @@ Rust CLI, Agent Skill and desktop research agent that drive a signed-in Chrome o
 
 ### Limitations
 
-Adjacent: models call fixed site operations (search, open posts and profiles, expand comments, OCR images, transcribe video, and a few write actions such as comments and replies on Xiaohongshu, X, Instagram and LinkedIn) rather than choosing interface-level actions. Covered sites are Xiaohongshu, Douyin, TikTok, Instagram, LinkedIn, X and WeChat Official Account articles; podcast commands read an indexed library without a browser. core/src/cdp connects to Chrome or Edge through the DevTools Protocol and performs paced navigation, clicks and scrolling, with per-site page scripts under core/src/sites; Firefox and Safari backends are documented as not implemented. The desktop app runs its own tool-calling agent loop (core/src/agent) with OpenAI or Anthropic models, and the CLI installs a Skill for hosts such as Codex and Claude Code. Code was read, not run.
+Adjacent: models call fixed site operations (search, open posts and profiles, expand comments, OCR images, transcribe video, and a few write actions such as comments and replies on Xiaohongshu, X, Instagram and LinkedIn). Covered sites are Xiaohongshu, Douyin, TikTok, Instagram, LinkedIn, X and WeChat Official Account articles; podcast commands read an indexed library without a browser. core/src/cdp connects to Chrome or Edge through the DevTools Protocol and performs paced navigation, clicks and scrolling, with per-site page scripts under core/src/sites; Firefox and Safari backends are documented as not implemented. The desktop app runs its own tool-calling agent loop (core/src/agent) with OpenAI or Anthropic models, and the CLI installs a Skill for hosts such as Codex and Claude Code.
 
 - Record JSON: https://awesomecua.com/resources/github-socai-io-socai/record.json
 
@@ -3584,7 +3584,7 @@ Grounding and evaluation code that aggregates a pretrained vision-language model
 
 ### Limitations
 
-The release contains grounding and benchmark evaluation code. The inspected root repository metadata does not declare a code license. It uses external pretrained models rather than publishing a new trained checkpoint, and the README restricts redistribution of unzipped benchmark data.
+The release contains grounding and benchmark evaluation code. The inspected root repository metadata does not declare a code license. It uses external pretrained models, and the README restricts redistribution of unzipped benchmark data.
 
 - Record JSON: https://awesomecua.com/resources/github-heimingx-tag/record.json
 
@@ -4126,7 +4126,7 @@ Windows tray utility that records primary-display screenshots, keyboard key code
 
 ### Limitations
 
-Recording is started and stopped from the tray; screenshots use a five-second timer. The manual Upload Data action uses a built-in third-party demonstration endpoint unless changed in code, sending recorded files as base64 JSON. Successful uploads move files into uploaded subfolders rather than delete them; no automatic expiry policy was found in the inspected capture/upload path. Sensitive-application filters are listed as future work. The README's .NET version requirements are inconsistent, and long-session behavior was not established. No license declaration was found in the inspected files or complete tree's license-file names, so code permission remains unknown. No activity was captured and no uploader or executable was run.
+Recording is started and stopped from the tray; screenshots use a five-second timer. The manual Upload Data action uses a built-in third-party demonstration endpoint unless changed in code, sending recorded files as base64 JSON. Successful uploads move files into uploaded subfolders; the inspected capture/upload path leaves file expiry unspecified. Sensitive-application filters are listed as future work. The README gives inconsistent .NET version requirements; long-session behavior remains unverified. No license declaration was found in the inspected files or complete tree's license-file names, so code permission remains unknown. No activity was captured and no uploader or executable was run.
 
 - Record JSON: https://awesomecua.com/resources/github-anikasomaia-local-activity-recorder/record.json
 
@@ -4137,7 +4137,7 @@ Recording is started and stopped from the tray; screenshots use a five-second ti
 - document: not recorded
 - weights: not recorded
 
-- code review: No license declaration was found in the inspected README/C# files, and the complete pinned tree has no LICENSE, LICENCE or COPYING-named file. Public source access does not establish reuse permission.
+- code review: No license declaration was found in the inspected README/C# files, and the complete pinned tree has no LICENSE, LICENCE or COPYING-named file. Reuse permission remains unestablished for the public source.
   Sources: https://api.github.com/repos/anikasomaia/local-activity-recorder/git/trees/f7ec5b6ecf0ba1bfe6362d7f2bfb0f1af5ac6bc7?recursive=1
 
 ### Primary evidence
@@ -4845,7 +4845,7 @@ Rust CLI and daemon that let agents snapshot native app accessibility trees as e
 
 ### Limitations
 
-Published on npm as @agent-ctrl/cli (package.json and Cargo.toml 0.1.4; annotated tag v0.1.4 points at the inspected commit), with release binaries for Windows x64 and macOS arm64/x64 and a typed @agent-ctrl/client TypeScript wrapper. agent-ctrl open <surface> starts a per-session daemon; snapshot pins a target window and returns its accessibility tree with @eN action refs and @sN scope refs, which click, type, fill, select, check, scroll, drag, press, wait and find commands consume. Screenshots of a window, region, element or the desktop can be annotated with cached refs. Windows (crates/surface-uia, UI Automation patterns plus SendInput) and macOS (crates/surface-ax, Accessibility plus CGEvent input) have the full action vocabulary; Linux (crates/surface-atspi) only snapshots, finds, inspects and lists windows, and Android and iOS surfaces are planned. The README leaves browser automation to the separate agent-browser project. The tool contains no model or agent loop. Code was read, not run.
+Published on npm as @agent-ctrl/cli (package.json and Cargo.toml 0.1.4; annotated tag v0.1.4 points at the inspected commit), with release binaries for Windows x64 and macOS arm64/x64 and a typed @agent-ctrl/client TypeScript wrapper. agent-ctrl open <surface> starts a per-session daemon; snapshot pins a target window and returns its accessibility tree with @eN action refs and @sN scope refs, which click, type, fill, select, check, scroll, drag, press, wait and find commands consume. Screenshots of a window, region, element or the desktop can be annotated with cached refs. Windows (crates/surface-uia, UI Automation patterns plus SendInput) and macOS (crates/surface-ax, Accessibility plus CGEvent input) have the full action vocabulary; Linux (crates/surface-atspi) only snapshots, finds, inspects and lists windows, and Android and iOS surfaces are planned. The README leaves browser automation to the separate agent-browser project. The tool contains no model or agent loop.
 
 - Record JSON: https://awesomecua.com/resources/github-k4cper-g-agent-ctrl/record.json
 
@@ -8309,7 +8309,7 @@ A Gradio interface for configuring and running Browser Use agents, including per
 
 ### Limitations
 
-The repository publishes UI source and release v3.0.0 under MIT. It is a distinct user interface built on the existing Browser Use framework, not a second framework identity. The UI supports several external model providers whose terms are separate; no dependencies were installed.
+The repository publishes UI source and release v3.0.0 under MIT. It is a distinct user interface built on the existing Browser Use framework. The UI supports several external model providers whose terms are separate; no dependencies were installed.
 
 - Record JSON: https://awesomecua.com/resources/github-browser-use-web-ui/record.json
 
@@ -16482,7 +16482,7 @@ ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt an
 
 ### Limitations
 
-This is an independent harness using ScreenSpot-Pro, not a new dataset or verified leaderboard entry. The read code maps points back to original-image coordinates and scores point-in-box hits; documentation limits comparisons by prompt, model, subset and provider behavior. No OS support, code license or external data/weight license was established in this bounded review.
+This is an independent harness using ScreenSpot-Pro. The read code maps points back to original-image coordinates and scores point-in-box hits; documentation limits comparisons by prompt, model, subset and provider behavior. No OS support, code license or external data/weight license was established in this bounded review.
 
 - Record JSON: https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/record.json
 
@@ -17435,7 +17435,7 @@ CLI and MCP server that lets agents operate the user's signed-in Chrome, Brave o
 
 ### Limitations
 
-Source-available under the Elastic License 2.0 with separate commercial terms; GitHub reports NOASSERTION. Browser work goes through Interceptor's own extension rather than a separately launched automated browser, and can also read page traffic and rich-editor scenes. macOS release packages target Apple silicon and the native bridge needs macOS 15+; Windows 11 24H2+ and Linux Full packages add native app control. iPhone automation needs a paired iPhone in Developer Mode, a Mac and Xcode with a developer team. Browser and Mac sessions can be recorded and exported as replay plans. No model API key is required; the calling agent supplies the model. Code was read, not run.
+Source-available under the Elastic License 2.0 with separate commercial terms; GitHub reports NOASSERTION. Browser work goes through Interceptor's own extension and can also read page traffic and rich-editor scenes. macOS release packages target Apple silicon and the native bridge needs macOS 15+; Windows 11 24H2+ and Linux Full packages add native app control. iPhone automation needs a paired iPhone in Developer Mode, a Mac and Xcode with a developer team. Browser and Mac sessions can be recorded and exported as replay plans. No model API key is required; the calling agent supplies the model.
 
 - Record JSON: https://awesomecua.com/resources/github-hacker-valley-media-interceptor/record.json
 
@@ -20146,7 +20146,7 @@ MCP server that lets an LLM client such as Claude Desktop control a remote Mac t
 
 ### Limitations
 
-Python MCP server published by baryhuang and distributed as the Docker image buryhuang/mcp-remote-macos-use; the target Mac needs only Screen Sharing enabled, with host, username and password passed as environment variables. Its own RFB client (src/vnc_client.py) supports only Apple Authentication (protocol 30). server.py registers eight tools: remote_macos_get_screen (a PNG screenshot), send_keys, mouse_move, mouse_click, mouse_double_click, mouse_scroll, mouse_drag_n_drop and open_application; action handlers scale the client's coordinates to the remote screen size, and open_application types the app name into Spotlight (Command+Space, text, Return). An optional LiveKit handler adds WebRTC screen sharing when LiveKit variables are set. The server has no model of its own; the MCP client's model decides the actions. Root LICENSE is MIT (copyright peakmojo); not a fork, not archived; the default branch was last committed on 30 April 2025. Code was read, not run.
+Python MCP server published by baryhuang and distributed as the Docker image buryhuang/mcp-remote-macos-use; the target Mac needs only Screen Sharing enabled, with host, username and password passed as environment variables. Its own RFB client (src/vnc_client.py) supports only Apple Authentication (protocol 30). server.py registers eight tools: remote_macos_get_screen (a PNG screenshot), send_keys, mouse_move, mouse_click, mouse_double_click, mouse_scroll, mouse_drag_n_drop and open_application; action handlers scale the client's coordinates to the remote screen size, and open_application types the app name into Spotlight (Command+Space, text, Return). An optional LiveKit handler adds WebRTC screen sharing when LiveKit variables are set. The server has no model of its own; the MCP client's model decides the actions. Root LICENSE is MIT (copyright peakmojo); the default branch was last committed on 30 April 2025.
 
 - Record JSON: https://awesomecua.com/resources/github-baryhuang-mcp-remote-macos-use/record.json
 
@@ -20695,7 +20695,7 @@ Local Rust MCP server for operating macOS and Windows apps, Chrome or Electron p
 
 ### Limitations
 
-Distributed through npm (npx native-devtools-mcp; version 0.10.1 in npm/package.json and Cargo.toml at the inspected commit) and as a signed macOS app for Claude Desktop. On macOS it can walk the Accessibility tree and dispatch AXPress, value and selection changes without moving the cursor (src/macos/ax.rs), besides CGEvent input and Vision OCR; Windows uses SendInput, UI Automation and Windows Media OCR. Chrome and Electron pages are driven through the Chrome DevTools Protocol with chromiumoxide (src/cdp/mod.rs), and Android through adb shell input and uiautomator (src/android/input.rs). Optional start_recording captures window frames and hover tracking reports dwell-filtered pointer positions with the element under them (src/tools/hover_tracker.rs). The README states that Linux and iOS are not supported. The server contains no model or agent loop; an MCP client supplies the agent. Code was read, not run.
+Distributed through npm (npx native-devtools-mcp; version 0.10.1 in npm/package.json and Cargo.toml at the inspected commit) and as a signed macOS app for Claude Desktop. On macOS it can walk the Accessibility tree and dispatch AXPress, value and selection changes without moving the cursor (src/macos/ax.rs), besides CGEvent input and Vision OCR; Windows uses SendInput, UI Automation and Windows Media OCR. Chrome and Electron pages are driven through the Chrome DevTools Protocol with chromiumoxide (src/cdp/mod.rs), and Android through adb shell input and uiautomator (src/android/input.rs). Optional start_recording captures window frames and hover tracking reports dwell-filtered pointer positions with the element under them (src/tools/hover_tracker.rs). The README limits support to platforms other than Linux and iOS. The server contains no model or agent loop; an MCP client supplies the agent.
 
 - Record JSON: https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/record.json
 
@@ -21176,7 +21176,7 @@ A maintained continuation of SikuliX that locates on-screen targets with image m
 
 ### Limitations
 
-The official stable-release API lists v4.0.0 with platform-specific API/IDE JARs and an MCP server JAR; no binary was downloaded. The default README still advertises 3.0.3, so release-specific compatibility follows the release notes rather than that older badge. The RaiMan/SikuliX1 API resolves to oculix-org/SikuliX1, whose README calls itself a historical mirror and directs current users here; it is not separately counted. MIT describes the project source. Retained dependency notices also include GPL/LGPL, Apache, BSD and MPL declarations; a bundled artifact is not asserted to be uniformly MIT.
+The official stable-release API lists v4.0.0 with platform-specific API/IDE JARs and an MCP server JAR; no binary was downloaded. The default README still advertises 3.0.3, while release-specific compatibility follows the release notes. The RaiMan/SikuliX1 API resolves to oculix-org/SikuliX1, whose README calls itself a historical mirror and directs current users here. MIT describes the project source. Retained dependency notices also include GPL/LGPL, Apache, BSD and MPL declarations; a bundled artifact is not asserted to be uniformly MIT.
 
 - Record JSON: https://awesomecua.com/resources/github-oculix-org-oculix/record.json
 
@@ -21661,7 +21661,7 @@ Computer-use MCP server and CLI for macOS, Linux and Windows exposing nine share
 
 ### Limitations
 
-Distinct from E2B's Open Computer Use agent (github:e2b-dev/open-computer-use). The README presents it as an open-source counterpart to Codex Computer Use and gives install commands for Codex, Claude Code, Gemini CLI, opencode and DeepSeek Harness. The tree holds a Swift macOS runtime, Go-based Linux and Windows runtimes, an npm launcher and an agent skill; the skill says select_text and query are macOS-only. macOS 14 or later with Accessibility and Screen Recording permission is required there. Task reliability was not tested.
+Distinct from E2B's Open Computer Use agent (github:e2b-dev/open-computer-use). The README presents it as an open-source counterpart to Codex Computer Use and gives install commands for Codex, Claude Code, Gemini CLI, opencode and DeepSeek Harness. The tree holds a Swift macOS runtime, Go-based Linux and Windows runtimes, an npm launcher and an agent skill; the skill says select_text and query are macOS-only. macOS 14 or later with Accessibility and Screen Recording permission is required there.
 
 - Record JSON: https://awesomecua.com/resources/github-ifuryst-open-computer-use/record.json
 
@@ -21936,7 +21936,7 @@ Computer-use MCP server and Python/TypeScript SDKs giving agents Set-of-Marks sc
 
 ### Limitations
 
-Published by VitalOps and unrelated to the openDesk office suite. The Python package opendesk is version 0.3.0 in pyproject.toml at the inspected commit, and the README also documents an npm package, @vitalops/opendesk-sdk. marks.py builds Set-of-Marks screenshots from platform accessibility APIs (AppleScript on macOS, AT-SPI2 on Linux, UI Automation on Windows); the browser tool drives Chrome, Edge or Brave over the DevTools protocol. The README also describes record-and-replay workflows compiled for replay without model calls, scheduling, a local screen-memory index, a safety guard with risk tiers, approvals, prompt-injection scanning and a hash-chained audit log, and encrypted pairing for remote machines. docs/eval.md describes an evaluation harness with macOS smoke and prompt-injection suites; its OSWorld adapter is marked untested and was unit-tested with fakes only. No model is bundled; an MCP client or SDK caller supplies the agent. Code was read, not run.
+Published by VitalOps and unrelated to the openDesk office suite. The Python package opendesk is version 0.3.0 in pyproject.toml at the inspected commit, and the README also documents an npm package, @vitalops/opendesk-sdk. marks.py builds Set-of-Marks screenshots from platform accessibility APIs (AppleScript on macOS, AT-SPI2 on Linux, UI Automation on Windows); the browser tool drives Chrome, Edge or Brave over the DevTools protocol. The README also describes record-and-replay workflows compiled for replay without model calls, scheduling, a local screen-memory index, a safety guard with risk tiers, approvals, prompt-injection scanning and a hash-chained audit log, and encrypted pairing for remote machines. docs/eval.md describes an evaluation harness with macOS smoke and prompt-injection suites; its OSWorld adapter is marked untested and was unit-tested with fakes only. No model is bundled; an MCP client or SDK caller supplies the agent.
 
 - Record JSON: https://awesomecua.com/resources/github-vitalops-opendesk/record.json
 
@@ -22165,7 +22165,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 ## OSWright
 
-Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.
 
 - Catalog URL: https://awesomecua.com/resources/github-ask-812-oswright/
 - Original source: https://github.com/Ask-812/oswright
@@ -22605,7 +22605,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 ## pc-screen-control
 
-Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data in place of screenshots.
 
 - Catalog URL: https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/
 - Original source: https://github.com/desteny-dev/pc-screen-control
@@ -25798,7 +25798,7 @@ The original Sikuli source distribution combines screenshot targets with a Jytho
 
 ### Limitations
 
-This is the retained Sikuli X-1.0rc3 source line, explicitly marked unsupported by its maintainers. Its documented build targets include historical macOS, Linux and Windows setups; present-day build compatibility was not tested. The official documentation cites the 2009 search/automation and 2010 visual-testing papers. Follow-up SikuliX and current OculiX are distinguished from this legacy research implementation. MIT applies to project code; external libraries keep their own terms.
+This is the retained Sikuli X-1.0rc3 source line, explicitly marked unsupported by its maintainers. Its documented build targets include historical macOS, Linux and Windows setups. The official documentation cites the 2009 search/automation and 2010 visual-testing papers. Follow-up SikuliX and current OculiX are distinguished from this legacy research implementation. MIT applies to project code; external libraries keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-sikuli-sikuli/record.json
 
@@ -28450,7 +28450,7 @@ Records browser sessions with a Chrome extension and turns them into exact or LL
 
 ### Limitations
 
-The repository bundles a modified copy of the browser_use package with WAP replay prompts, and run_replay.py drives its Agent. Smart-replay and subgoal generation call OpenAI or DeepSeek models. A desktop WAP Replay Tool is published as release wap-replay-tool-1.0.0 (2025-06-01). The README's license badge and extension links use the former name OTA-Tech-AI/webagentprotocol, which the GitHub API resolves to the same repository ID 985409238. The last commit, eacb1659, is dated 2025-06-03. The 'protocol' is the repository's own event and replay-list format, not an external standard. Code was read, not run.
+The repository bundles a modified copy of the browser_use package with WAP replay prompts, and run_replay.py drives its Agent. Smart-replay and subgoal generation call OpenAI or DeepSeek models. A desktop WAP Replay Tool is published as release wap-replay-tool-1.0.0 (2025-06-01). The README's license badge and extension links use the former name OTA-Tech-AI/webagentprotocol, which the GitHub API resolves to the same repository ID 985409238. The last commit, eacb1659, is dated 2025-06-03. The 'protocol' is the repository's own event and replay-list format.
 
 - Record JSON: https://awesomecua.com/resources/github-ota-tech-ai-web-agent-protocol/record.json
 
@@ -28523,7 +28523,7 @@ Process-reward inference and benchmark-evaluation utilities that use task checkl
 
 ### Limitations
 
-The tree contains src/webprm modules and a WebRewardBench evaluation script. The README’s illustrative folder layout differs from the actual tree, so a complete training pipeline is not claimed. No root code license is declared. Some old checkpoint links are unavailable; current model releases are separately identified through the official Hub collection.
+The tree contains src/webprm modules and a WebRewardBench evaluation script. The README’s illustrative folder layout differs from the actual tree. No root code license is declared. Some old checkpoint links are unavailable; current model releases are separately identified through the official Hub collection.
 
 - Record JSON: https://awesomecua.com/resources/github-kyle8581-web-shepherd/record.json
 
@@ -28694,7 +28694,7 @@ A browser library that labels interactive elements and their boxes for visual pr
 
 ### Limitations
 
-Source and npm release metadata for webmarker-js 0.7.0 are public. The documented mark/unmark API supports screenshot prompts and Playwright interaction, but this utility is not itself a language model or autonomous agent. The WebVoyager/Set-of-Mark references are usage inspiration and are not asserted as papers introducing this library. No package was installed or executed.
+Source and npm release metadata for webmarker-js 0.7.0 are public. The documented mark/unmark API supports screenshot prompts and Playwright interaction. No package was installed or executed.
 
 - Record JSON: https://awesomecua.com/resources/github-reidbarber-webmarker/record.json
 

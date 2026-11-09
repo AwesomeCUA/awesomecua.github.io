@@ -14,7 +14,7 @@ Introduces NeXUI, an assistive UI-agent benchmark that evaluates navigation toge
 
 ## Limitations
 
-Packaged tasks use recorded linear transition graphs. Reported model experiments use a text-input validation subset, so their results are not evidence of screenshot-based navigation performance. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 Interface states and task annotations; 3.4 Evaluation; 4.1 Models and experimental setup; 5 Discussion).
+Packaged tasks use recorded linear transition graphs. Reported model experiments use a text-input validation subset; their results measure that subset. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 Interface states and task annotations; 3.4 Evaluation; 4.1 Models and experimental setup; 5 Discussion).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-09944/record.json
 

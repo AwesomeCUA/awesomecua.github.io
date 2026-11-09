@@ -14,7 +14,7 @@ Introduces SheetCopilot, an agent that steers spreadsheet software via atomic vi
 
 ## Limitations
 
-The contribution was reviewed from the retained paper abstract. The original Windows/Excel implementation is identified in the separately retained project README; the later Ubuntu evaluator is not treated as a paper result.
+The contribution was reviewed from the retained paper abstract. The separately retained project README identifies the original Windows/Excel implementation; the Ubuntu evaluator is later.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2305-19308/record.json
 

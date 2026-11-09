@@ -79,7 +79,7 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
 - [MATE: Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven Trajectory Learning](https://awesomecua.com/resources/arxiv-2609-22724/) — 2026-09-19
   Introduces MATE, a policy-conditioned auditor for mobile-agent trajectories, and MATEBench for evaluating whether those trajectories violate app security policies.
 - [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2609-19843/) — 2026-09-17
-  Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
+  Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility.
 - [The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents](https://awesomecua.com/resources/arxiv-2609-18411/) — 2026-09-16
   Presents the Verifiable Action Card (VAC), a browser approval mechanism that derives confirmations from pending actions and binds user approval to execution.
 - [RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation](https://awesomecua.com/resources/arxiv-2609-16900/) — 2026-09-15
@@ -231,7 +231,7 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
 - [AcademiClaw: When Students Set Challenges for AI Agents](https://awesomecua.com/resources/arxiv-2605-02661/) — 2026-05-04
   AcademiClaw benchmarks OpenClaw agents on long academic workflows, scoring task completion in isolated Docker sandboxes with rubrics and a safety audit.
 - [SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents](https://awesomecua.com/resources/arxiv-2604-25562/) — 2026-04-28
-  SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings, rather than establishing universal runtime prevention.
+  SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings.
 - [OS-SPEAR: A Toolkit for the Safety, Performance,Efficiency, and Robustness Analysis of OS Agents](https://awesomecua.com/resources/arxiv-2604-24348/) — 2026-04-27
   Provides an evaluation toolkit for joint safety, efficiency, and multimodal robustness analysis of operating-system GUI agents.
 - [Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces](https://awesomecua.com/resources/arxiv-2606-13686/) — 2026-04-26
@@ -265,7 +265,7 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
 - [AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-02947/) — 2026-04-03
   Introduces AgentHazard, a benchmark of harmful multi-step behavior by computer-use agents acting through tools, files, and execution environments.
 - [Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents](https://awesomecua.com/resources/arxiv-2604-02623/) — 2026-04-03
-  Studies persistent web-agent memory contamination introduced through environmental observations instead of direct memory access. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
+  Studies persistent web-agent memory contamination introduced through environmental observations. Experiments on WebArena and VisualWebArena examine cross-session effects and how interaction failures alter susceptibility.
 - [Do Phone-Use Agents Respect Your Privacy?](https://awesomecua.com/resources/arxiv-2604-00986/) — 2026-04-01
   Introduces MyPhoneBench to verify whether phone-use agents minimize personal data disclosure when filling forms during benign mobile tasks.
 - ["What Did It Actually Do?": Understanding Risk Awareness and Traceability for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2603-28551/) — 2026-03-30
@@ -441,7 +441,7 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
 - [Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents](https://awesomecua.com/resources/arxiv-2506-21252/) — 2025-06-26
   Introduces Agent-RewardBench to evaluate step-level reward models for multimodal agents across perception, planning, and safety; web navigation is among its scenarios.
 - [Context manipulation attacks : Web agents are susceptible to corrupted memory](https://awesomecua.com/resources/arxiv-2506-17318/) — 2025-06-18
-  Studies context manipulation in web agents by altering stored task representations rather than webpage prompts alone. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
+  Studies context manipulation in web agents by altering stored task representations. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
 - [OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents](https://awesomecua.com/resources/arxiv-2506-14866/) — 2025-06-17
   Extends OSWorld with tasks covering user misuse, prompt injection, and model misbehavior, with assessment of both task success and safety.
 - [Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents](https://awesomecua.com/resources/arxiv-2506-13205/) — 2025-06-16

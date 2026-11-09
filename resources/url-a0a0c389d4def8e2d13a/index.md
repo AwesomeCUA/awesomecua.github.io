@@ -14,7 +14,7 @@ Hosted healthcare automation platform whose agents operate EHRs, payer portals a
 
 ## Limitations
 
-The site footer names Entropy Systems, Inc. as the operator. The homepage describes three execution modes: a frontier model reading the screen and acting on first runs, agent-written deterministic scripts for repeat runs, and direct calls to a portal's private API when one is found; it also describes an agent builder (Astro), approval checkpoints and step-by-step run recordings. An August 2026 company blog post says Asteroid has deployed agents built on Anthropic's computer use tool since February 2026 as an early-access participant, and that its agents run on Linux sandboxes and reach Windows-only EHRs through remote desktop. Customer outcome figures, HIPAA and SOC 2 claims, pricing and reliability are publisher statements and were not independently tested. The asteroidai GitHub organization and docs.asteroid.ai were not reviewed.
+The site footer names Entropy Systems, Inc. as the operator. The homepage describes three execution modes: a frontier model reading the screen and acting on first runs, agent-written deterministic scripts for repeat runs, and direct calls to a portal's private API when one is found; it also describes an agent builder (Astro), approval checkpoints and step-by-step run recordings. An August 2026 company blog post says Asteroid has deployed agents built on Anthropic's computer use tool since February 2026 as an early-access participant, and that its agents run on Linux sandboxes and reach Windows-only EHRs through remote desktop. Customer outcome figures, HIPAA and SOC 2 claims, pricing and reliability are publisher statements.
 
 - Record JSON: https://awesomecua.com/resources/url-a0a0c389d4def8e2d13a/record.json
 

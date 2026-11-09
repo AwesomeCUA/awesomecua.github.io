@@ -1,6 +1,6 @@
 # PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent
 
-PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences rather than measuring generic task completion alone.
+PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2603-29318/
 - Original source: https://arxiv.org/abs/2603.29318

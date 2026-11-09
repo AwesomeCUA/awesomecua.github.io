@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Fine\-tunes VLMs to turn sketched or rendered workflow diagrams into executable enterprise workflows; unclear whether low\-code workflow generation counts as application automation for this catalog\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Fine\-tunes VLMs to turn sketched or rendered workflow diagrams into executable enterprise workflows; the abstract leaves open whether low\-code workflow generation fits application automation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

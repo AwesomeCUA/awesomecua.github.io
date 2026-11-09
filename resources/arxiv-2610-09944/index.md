@@ -14,7 +14,7 @@ Evaluates duration following, runtime forecasts and elapsed-time estimates in na
 
 ## Limitations
 
-This cross-domain suite includes 16 OSWorld 2.0 tasks among 222 tasks from 18 sources. A single run per task and requested duration, provider effects and incomplete native grades limit comparisons; elapsed time is not evidence of productive work. The OSWorld task 092 video judge was skipped without an API key. The inspected repository README identifies desktop-VM timing and states that the current 222-task forecasting runs will be added; its existing forecasting code covers an earlier study, and transcript work/wait labels are not public. No code or benchmark was executed and no license was verified.
+This cross-domain suite includes 16 OSWorld 2.0 tasks among 222 tasks from 18 sources. A single run per task and requested duration, provider effects and incomplete native grades limit comparisons; elapsed time measures duration, with productive work requiring separate evidence. The OSWorld task 092 video judge was skipped without an API key. The inspected repository README identifies desktop-VM timing and says the current 222-task forecasting runs will be added; existing forecasting code covers an earlier study, while transcript work/wait labels remain private. No code or benchmark was executed and no license was verified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-09944/record.json
 

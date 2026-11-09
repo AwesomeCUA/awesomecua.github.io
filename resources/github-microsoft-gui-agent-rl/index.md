@@ -14,7 +14,7 @@ Training code that learns a value environment model from offline Android interac
 
 ## Limitations
 
-The public tree includes critic-training configurations, policy training and offline/online evaluation scripts. The README obtains base models and AITW imagery separately, then instructs users to train critic and policy checkpoints locally; this entry does not claim that VEM-trained weights are released. MIT applies to repository code only.
+The public tree includes critic-training configurations, policy training and offline/online evaluation scripts. The README obtains base models and AITW imagery separately, then instructs users to train critic and policy checkpoints locally. MIT applies to repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-microsoft-gui-agent-rl/record.json
 

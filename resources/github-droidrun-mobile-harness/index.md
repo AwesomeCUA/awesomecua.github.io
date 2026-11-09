@@ -14,7 +14,7 @@ Portable agent instructions and integration tooling for local or cloud phone con
 
 ## Limitations
 
-The publisher describes this as a Markdown harness, not an agent runtime.
+The publisher describes this as a Markdown harness.
 
 - Record JSON: https://awesomecua.com/resources/github-droidrun-mobile-harness/record.json
 

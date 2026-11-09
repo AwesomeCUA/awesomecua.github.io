@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Rewrites unsafe agent trajectories into deceptive cases to test safety judges; web, app and OS settings appear only as deployment context, so GUI involvement is unclear\. An exclusion proposal is open in pull request \#3181\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Rewrites unsafe agent trajectories into deceptive cases to test safety judges; the abstract leaves open whether GUI involvement is material beyond deployment context\. An exclusion proposal is open in pull request \#3181\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

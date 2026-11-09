@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Benchmark and multi\-agent system that generate academic presentation videos with slide generation and cursor grounding; unclear whether any part amounts to GUI grounding or application automation\. An exclusion proposal is open in pull request \#3911\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Benchmark and multi\-agent system that generate academic presentation videos with slide generation and cursor grounding; the abstract leaves open whether cursor grounding or slide generation fits GUI grounding or application automation\. An exclusion proposal is open in pull request \#3911\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

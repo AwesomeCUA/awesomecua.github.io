@@ -14,7 +14,7 @@ The original Sikuli source distribution combines screenshot targets with a Jytho
 
 ## Limitations
 
-This is the retained Sikuli X-1.0rc3 source line, explicitly marked unsupported by its maintainers. Its documented build targets include historical macOS, Linux and Windows setups; present-day build compatibility was not tested. The official documentation cites the 2009 search/automation and 2010 visual-testing papers. Follow-up SikuliX and current OculiX are distinguished from this legacy research implementation. MIT applies to project code; external libraries keep their own terms.
+This is the retained Sikuli X-1.0rc3 source line, explicitly marked unsupported by its maintainers. Its documented build targets include historical macOS, Linux and Windows setups. The official documentation cites the 2009 search/automation and 2010 visual-testing papers. Follow-up SikuliX and current OculiX are distinguished from this legacy research implementation. MIT applies to project code; external libraries keep their own terms.
 
 - Record JSON: https://awesomecua.com/resources/github-sikuli-sikuli/record.json
 

@@ -1273,7 +1273,7 @@ DSAgentBench evaluates end-to-end data-science workflows spanning analysis, mode
 
 ### Limitations
 
-The paper abstract and official project README were reviewed. The README documents an Ubuntu desktop and GUI action interface and includes LLM-assisted evaluators; this annotation does not assert that every evaluator is deterministic.
+The paper abstract and official project README were reviewed. The README documents an Ubuntu desktop and GUI action interface and includes LLM-assisted evaluators.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-10366/record.json
 
@@ -2578,7 +2578,7 @@ Yu Ran, Wentao Zhao
 
 ## Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents
 
-This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing why changed action preferences alone need not improve held-out accuracy.
+This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing that changed action preferences can coexist with unchanged held-out accuracy.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2608-03327/
 - Original source: https://arxiv.org/abs/2608.03327
@@ -3046,7 +3046,7 @@ Yashaswi Malla, Sandra Siby
 
 ## MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation
 
-MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness rather than treating all response tokens equally. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
+MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2607-29320/
 - Original source: https://arxiv.org/abs/2607.29320

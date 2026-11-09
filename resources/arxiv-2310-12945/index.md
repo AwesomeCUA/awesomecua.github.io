@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract uses LLM agents to turn scene descriptions into procedural\-generation parameters for 3D software such as Blender\. This 3D content\-creation work does not involve agents operating graphical interfaces, web pages or devices\. The other marked it borderline: LLM agents perform instruction\-driven procedural 3D modeling and drive Blender for asset creation; unclear whether controlling 3D software through code counts as application automation or falls outside as 3D content generation\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether Blender scripting fits application automation or 3D content generation\. One read it as outside the scope: The abstract uses LLM agents to turn scene descriptions into procedural\-generation parameters for 3D software such as Blender\. This 3D content\-creation work uses LLM agents to generate procedural parameters for Blender; its application\-automation fit remains open\. The other marked it borderline: LLM agents perform instruction\-driven procedural 3D modeling and drive Blender for asset creation; unclear whether controlling 3D software through code counts as application automation or falls outside as 3D content generation\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

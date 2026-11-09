@@ -14,7 +14,7 @@ Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium brows
 
 ## Limitations
 
-The reviewed v1.26.0 page matches all eight code blocks in its commit-pinned Markdown source. It uses InferenceClientModel and a vision model, unlike the retained v1.8.0 example. The shown setup starts a local visible Chrome session, and its installation command does not pin dependency versions. Runtime API compatibility, model-provider access and example outcomes were not tested. The inspected repository root contains Apache-2.0 terms, but explicit applicability to this Markdown tutorial was not established from retained sources; document reuse terms remain unknown. Model weights, visited websites and hosted-service terms are separate. No installation or notebook execution occurred.
+The reviewed v1.26.0 page matches all eight code blocks in its commit-pinned Markdown source. It uses InferenceClientModel and a vision model, unlike the retained v1.8.0 example. The shown setup starts a local visible Chrome session with unpinned dependency versions in its installation command. The inspected repository root contains Apache-2.0 terms, but explicit applicability to this Markdown tutorial was not established from retained sources; document reuse terms remain unknown. Model weights, visited websites and hosted-service terms are separate. No installation or notebook execution occurred.
 
 - Record JSON: https://awesomecua.com/resources/url-5857c840372512cfe3fc/record.json
 
@@ -25,7 +25,7 @@ The reviewed v1.26.0 page matches all eight code blocks in its commit-pinned Mar
 - document: not recorded
 - weights: not recorded
 
-- document review: The retained repository-root file contains Apache-2.0 terms, but the reviewed Markdown has no license notice and the retained sources do not explicitly establish that this license applies to the tutorial document. Document reuse terms remain unknown; this is not a claim that no license exists. Code, data, weights and hosted-service terms are not inferred.
+- document review: The retained repository-root file contains Apache-2.0 terms, but the reviewed Markdown has no license notice and the retained sources do not explicitly establish that this license applies to the tutorial document. Document reuse terms remain unknown. Code, data, weights and hosted-service terms remain separate from the document declaration.
   Sources: https://raw.githubusercontent.com/huggingface/smolagents/12c1bc820eca50ace6f80a21d90426d41d74f845/docs/source/en/examples/web_browser.md, https://raw.githubusercontent.com/huggingface/smolagents/12c1bc820eca50ace6f80a21d90426d41d74f845/LICENSE
 
 ## Primary evidence

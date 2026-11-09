@@ -14,7 +14,7 @@ A graph-based mobile GUI benchmark that evaluates long tasks through screenshot 
 
 ## Limitations
 
-The source tree contains graph and task JSON files plus construction/evaluation code; the linked ungated Hub provides the screenshot archive. The environment is static but interactive and graph-based, not a live-device deployment. Counts are publisher-reported task/app inventories. Apache-2.0 declarations for repository code and the Hub dataset are separately retained; third-party application visuals are not granted additional rights by this catalog.
+The source tree contains graph and task JSON files plus construction/evaluation code; the linked ungated Hub provides the screenshot archive. The environment is static, interactive and graph-based. Counts are publisher-reported task/app inventories. Apache-2.0 declarations for repository code and the Hub dataset are separately retained; third-party application visuals are not granted additional rights by this catalog.
 
 - Record JSON: https://awesomecua.com/resources/github-madeagents-colorbench/record.json
 
@@ -33,7 +33,7 @@ The source tree contains graph and task JSON files plus construction/evaluation 
 - 74 single-app tasks — reported ColorBench benchmark (reported; source: https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md)
 - 21 mobile applications — reported ColorBench benchmark (reported; source: https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md)
 
-The interaction environment replays graph states rather than running real user accounts. The 101 and 74 subsets partition the reported 175 tasks; do not add the three counts.
+The interaction environment replays graph states. The 101 and 74 subsets partition the reported 175 tasks.
 
 ## License declarations
 

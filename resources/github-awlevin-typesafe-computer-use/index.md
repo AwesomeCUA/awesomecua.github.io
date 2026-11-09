@@ -14,7 +14,7 @@ Computer-use loop that reads the screen with OCR and accessibility labels, has t
 
 ## Limitations
 
-Also called jev. The main loop drives macOS through Vision OCR, the accessibility tree and synthetic input; the Windows adapter (UI Automation, SendInput, Windows OCR) is documented as experimental and untested on Windows. An opt-in browser backend reads the DOM over the Chrome DevTools Protocol, and the Linux sandbox runs only that backend. Linux desktop control is through the OSWorld JevAgent adapter inside OSWorld's Ubuntu VM. Every decision calls the hosted TypeSafe API, so a TypeSafe key is required; an Anthropic or OpenAI-compatible writer is optional. Per-step cost and latency comparisons and the OSWorld run logs are the author's and were not reproduced. The README marks the project beta. Code was read, not run.
+Also called jev. The main loop drives macOS through Vision OCR, the accessibility tree and synthetic input; the Windows adapter (UI Automation, SendInput, Windows OCR) is documented as experimental and untested on Windows. An opt-in browser backend reads the DOM over the Chrome DevTools Protocol, and the Linux sandbox runs only that backend. Linux desktop control is through the OSWorld JevAgent adapter inside OSWorld's Ubuntu VM. Every decision calls the hosted TypeSafe API, so a TypeSafe key is required; an Anthropic or OpenAI-compatible writer is optional. Per-step cost and latency comparisons and the OSWorld run logs are the author's. The README marks the project beta.
 
 - Record JSON: https://awesomecua.com/resources/github-awlevin-typesafe-computer-use/record.json
 

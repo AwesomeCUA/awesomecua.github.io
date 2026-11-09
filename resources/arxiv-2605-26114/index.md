@@ -14,7 +14,7 @@ Introduces MobileGym, a browser-hosted simulation of mobile app interactions who
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. The simulator is browser-hosted; the abstract does not identify a native mobile operating system.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The simulator is browser-hosted.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-26114/record.json
 

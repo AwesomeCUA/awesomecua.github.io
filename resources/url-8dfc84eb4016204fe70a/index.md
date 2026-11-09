@@ -14,7 +14,7 @@ Checklist-annotated web decision records with page observations, prior actions, 
 
 ## Limitations
 
-Ten public Parquet shards are present. The card names its split test and reports 9,460 rows; the project’s 40K-plus preference-annotation claim is a different grain and is not substituted for this row count. A row can contain multiple rejected alternatives. No data-license declaration is present.
+Ten public Parquet shards are present. The card names its split test and reports 9,460 rows; the project’s 40K-plus preference-annotation claim uses a different grain. A row can contain multiple rejected alternatives. No data-license declaration is present.
 
 - Record JSON: https://awesomecua.com/resources/url-8dfc84eb4016204fe70a/record.json
 
@@ -29,7 +29,7 @@ Ten public Parquet shards are present. The card names its split test and reports
 
 - 9,460 rows — Hub split named test (reported; source: https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md)
 
-Preserves the publisher’s split label despite the collection’s training purpose. Rows are not individual preference pairs because rejected is a list. Data license is unknown.
+Preserves the publisher’s split label despite the collection’s training purpose. Rows contain lists of rejected candidates. Data license is unknown.
 
 ## License declarations
 

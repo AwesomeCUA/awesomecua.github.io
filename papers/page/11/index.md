@@ -478,7 +478,7 @@ Alice Gao, Weixi Tong, Rishab Vempati, Katharina Reinecke, R. Benjamin Shapiro, 
 
 ## SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents
 
-SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings, rather than establishing universal runtime prevention.
+SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2604-25562/
 - Original source: https://arxiv.org/abs/2604.25562
@@ -1272,7 +1272,7 @@ Crowdsourced arena where users set tasks on cloud Ubuntu or Windows desktops, wa
 
 ### Limitations
 
-Reviewed against the ICLR 2026 proceedings page and abstract, the full proceedings PDF and the platform README at commit 4536036; the OpenReview forum lists it as an ICLR 2026 Poster. Experiments were not reproduced. Two anonymized agents run the same user-written instruction in parallel, identically initialized Ubuntu or Windows virtual machines on AWS EC2, shown to users through a browser VNC view and synchronized replays; the paper turns the pairwise votes into a Bradley-Terry ranking and also collects optional step-level labels. It reports 2,201 filtered votes from 1,058 users over 12 agents, compares pure GUI agents with agents that also call tools or write code, and links github.com/xlang-ai/computer-agent-arena for the platform and a Hugging Face page for the collected data; neither release was reviewed here. No arXiv version was found.
+Reviewed against the ICLR 2026 proceedings page and abstract, the full proceedings PDF and the platform README at commit 4536036; the OpenReview forum lists it as an ICLR 2026 Poster. Two anonymized agents run the same user-written instruction in parallel, identically initialized Ubuntu or Windows virtual machines on AWS EC2, shown to users through a browser VNC view and synchronized replays; the paper turns the pairwise votes into a Bradley-Terry ranking and also collects optional step-level labels. It reports 2,201 filtered votes from 1,058 users over 12 agents, compares pure GUI agents with agents that also call tools or write code, and links github.com/xlang-ai/computer-agent-arena for the platform and a Hugging Face page for the collected data; neither release was reviewed here. No arXiv version was found.
 
 - Record JSON: https://awesomecua.com/resources/url-5cfd441becdfc6ea622b/record.json
 
@@ -1332,7 +1332,7 @@ Training-free GUI agent that indexes screen elements via icon detection and OCR,
 
 ### Limitations
 
-Reviewed against the ICLR 2026 proceedings page and PDF; the OpenReview forum lists it as an ICLR 2026 Poster. Experiments were not reproduced. LongHorizonUI's components run without fine-tuning, with Gemini 2.5 Pro as the default backbone; Appendix D.6 also reports Gemini 1.5 Flash and Qwen2.5-VL-7B backbones. LongGUIBench tasks need more than 15 steps across games and general apps; the paper states 371 scenarios but gives 207 game scenarios in Section 2.1 and 224 in Appendix D.2, and does not name the benchmark's device platform. Other reported evaluations are ScreenSpot grounding, AndroidControl and GUI-Odyssey, plus zero-shot AndroidWorld and OSWorld runs in Appendix D.5. The paper points to kane2kang.github.io/LongHorizonUI for code, which was not reviewed here. No arXiv version was found.
+Reviewed against the ICLR 2026 proceedings page and PDF; the OpenReview forum lists it as an ICLR 2026 Poster. LongHorizonUI's components run without fine-tuning, with Gemini 2.5 Pro as the default backbone; Appendix D.6 also reports Gemini 1.5 Flash and Qwen2.5-VL-7B backbones. LongGUIBench tasks need more than 15 steps across games and general apps; the paper states 371 scenarios but gives 207 game scenarios in Section 2.1 and 224 in Appendix D.2, leaving the benchmark's device platform unnamed. Other reported evaluations are ScreenSpot grounding, AndroidControl and GUI-Odyssey, plus zero-shot AndroidWorld and OSWorld runs in Appendix D.5. The paper points to kane2kang.github.io/LongHorizonUI for code. No arXiv version was found.
 
 - Record JSON: https://awesomecua.com/resources/url-4395ff8522cd77109b83/record.json
 
@@ -1809,7 +1809,7 @@ Organizes security risks and defenses for persistent agent memory into six lifec
 
 ### Limitations
 
-Adjacent memory-security survey. Full-text Sections 3.1 and 3.3 discuss poisoned web observations persisted into later agent actions; the work is broader than GUI agents and does not establish a platform implementation.
+Adjacent memory-security survey. Full-text Sections 3.1 and 3.3 discuss poisoned web observations persisted into later agent actions; the work covers a broader agent setting.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-16548/record.json
 
@@ -2122,7 +2122,7 @@ AgentClick gives terminal-based agents a browser review interface for plans, dra
 
 ### Limitations
 
-Reviewed against the complete retained official abstract. Adjacent supervision interface: the browser UI is for human review of terminal agents; the abstract does not claim that those agents operate graphical interfaces.
+Reviewed against the complete retained official abstract. Adjacent supervision interface: the browser UI supports human review of terminal agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-16520/record.json
 
@@ -2174,7 +2174,7 @@ Introduces PriceBlind, a visual perturbation method for controlled screenshot-ba
 
 ### Limitations
 
-Scope is screenshot-based interface understanding and safety. The retained abstract does not establish a specific operating system or live transaction execution.
+Scope is screenshot-based interface understanding and safety. The retained abstract leaves the operating system and live transaction execution unspecified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-16515/record.json
 

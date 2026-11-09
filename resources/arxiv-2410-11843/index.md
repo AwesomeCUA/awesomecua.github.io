@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) could not settle the scope: LLM\-based semantic file system that lets users or agents manage files by natural\-language prompts through APIs and syscalls; it is OS infrastructure rather than an agent operating interfaces, so its fit is unclear\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) left the scope open: LLM\-based semantic file system that lets users or agents manage files by natural\-language prompts through APIs and syscalls; the abstract leaves open whether semantic\-file\-system infrastructure fits agents operating interfaces\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

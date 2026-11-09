@@ -14,7 +14,7 @@ Computer-use training framework with VeriGen task synthesis, adaptive rollout sa
 
 ## Limitations
 
-A distinct project from OpenGVLab/ScaleCUA, which documents arXiv:2509.15221. Similar names do not establish a shared project identity.
+A distinct project from OpenGVLab/ScaleCUA, which documents arXiv:2509.15221.
 
 - Record JSON: https://awesomecua.com/resources/github-thudm-scale-cua/record.json
 

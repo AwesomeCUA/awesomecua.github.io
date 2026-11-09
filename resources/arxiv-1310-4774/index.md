@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Reviews Internet growth, search engines and crawler or spider programs that harvest web content\. Crawling for search indexing is information retrieval, not agents acting on web pages through an interface\. The other marked it borderline: Reviews web crawlers, spiders and robots that harvest page content for search engines\. It is unclear whether this kind of automated crawling counts as agents acting on web pages or as plain retrieval infrastructure\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Screeners disagreed; the full text leaves open whether automated crawling counts as agents acting on web pages or retrieval infrastructure\. One read it as outside the scope: Reviews Internet growth, search engines and crawler or spider programs that harvest web content\. Crawling for search indexing is information retrieval; whether it counts as agents acting on pages through an interface remains open\. The other marked it borderline: Reviews web crawlers, spiders and robots that harvest page content for search engines\. It is unclear whether this kind of automated crawling counts as agents acting on web pages or as plain retrieval infrastructure\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

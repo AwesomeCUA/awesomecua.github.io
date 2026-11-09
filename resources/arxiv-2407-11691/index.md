@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) could not settle the scope: Open evaluation toolkit for multimodal models; GUI grounding appears as one of several listed evaluation areas, so it is unclear whether screen understanding is a material part\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) left the scope open: Open evaluation toolkit for multimodal models; the abstract leaves open whether GUI grounding is a material evaluation area\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 

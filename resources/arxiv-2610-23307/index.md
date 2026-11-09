@@ -14,7 +14,7 @@ MobileInject evaluates visual/textual observation injection in stateful Android 
 
 ## Limitations
 
-Reviewed the complete abstract and selected v1 construction, threat-model and evaluation sections. The attacker modifies observation surfaces, not system instructions, model parameters or the OS. State oracles are distinct from emitted-rationale diagnoses, whose labels include outcome-dependent constraints. Those diagnostics are not independent evidence of hidden-reasoning causality.
+Reviewed the complete abstract and selected v1 construction, threat-model and evaluation sections. The attacker controls observation surfaces; system instructions, model parameters and the OS remain outside attacker control. State oracles are distinct from emitted-rationale diagnoses, whose labels include outcome-dependent constraints. Those diagnostics use outcome-dependent labels; hidden-reasoning causality remains unestablished.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-23307/record.json
 

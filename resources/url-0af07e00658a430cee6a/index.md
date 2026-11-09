@@ -14,7 +14,7 @@ The released local-supervision portion of GUIEnv, pairing webpage regions and te
 
 ## Limitations
 
-Public JSON annotations and Parquet image packages are present. The project README declares CC-BY-4.0 for datasets, while this Hub card declares Apache-2.0; these conflicting declarations are retained without asserting a single confirmed data license. The project code’s MIT declaration is separate. Only GUIEnv-local is marked released; the advertised 10M-example GUIEnv-global pretraining collection is still unchecked and is not counted here.
+Public JSON annotations and Parquet image packages are present. The project README declares CC-BY-4.0 for datasets, while this Hub card declares Apache-2.0; these conflicting declarations are retained without asserting a single confirmed data license. The project code’s MIT declaration is separate. GUIEnv-local is released; the advertised 10M-example GUIEnv-global pretraining collection is still unchecked.
 
 - Record JSON: https://awesomecua.com/resources/url-0af07e00658a430cee6a/record.json
 
@@ -29,7 +29,7 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 - ≈ 700,000 region-text QA pairs — GUIEnv-local SFT data (reported; source: https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md)
 
-Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.
+Quantities are rounded publisher descriptions. Data-license declarations conflict across first-party sources; no permissive license is inferred.
 
 ## License declarations
 

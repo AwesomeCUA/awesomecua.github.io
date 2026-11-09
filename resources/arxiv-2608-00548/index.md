@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv; relevance review pending.
 
 ## Recorded reviewer hold
 
-Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmark and agentic workflow that rebuild raster figures, slides and posters as editable graphics code; no GUI is operated, and it is unclear whether this counts as office\-document automation or plain image\-to\-code generation\. An exclusion proposal is open in pull request \#2473\. Needs a scope decision from the full text\.
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) left the scope open: Benchmark and agentic workflow that rebuild raster figures, slides and posters as editable graphics code; the workflow uses code, and its fit with office\-document automation remains open\. An exclusion proposal is open in pull request \#2473\. Needs a scope decision from the full text\.
 
 - Review ledger: https://awesomecua.com/downloads/coverage.json
 
