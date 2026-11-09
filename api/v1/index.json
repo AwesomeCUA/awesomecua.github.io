@@ -27,7 +27,7 @@
   },
   "awaiting_review": {
    "metadata_only_records": 453,
-   "unresolved_candidate_identifiers": 1448,
+   "unresolved_candidate_identifiers": 1280,
    "github_candidate_repositories": 10251
   },
   "active_records": 4372,
@@ -64,7 +64,7 @@
    "csv": "https://awesomecua.com/api/v1/categories.csv",
    "count": 47,
    "json_bytes": 16144,
-   "json_sha256": "ef7edaed77343c974fee1ce9cb6ae062cd755f85c39ee6bde34d4c2cba24dff7",
+   "json_sha256": "75cabc7e4701e0577f53518774c55e3397b88345cbf90d6fa84457bdeff9ab8d",
    "csv_bytes": 10953,
    "csv_sha256": "58a95897ebee9bd8130991b2c2665ca585b75845981ed95a0f10e6604eed48d9"
   },
@@ -84,11 +84,11 @@
    "description": "UNREVIEWED rows, clearly flagged: bibliography records awaiting relevance review and discovered identifiers awaiting any review. Not part of the curated catalog.",
    "json": "https://awesomecua.com/api/v1/candidates.json",
    "csv": "https://awesomecua.com/api/v1/candidates.csv",
-   "count": 1924,
-   "json_bytes": 778050,
-   "json_sha256": "3a2c7cdad72191e63b3abe3544151358faf9c58fd6685ddfc295a261a2d6f632",
-   "csv_bytes": 519905,
-   "csv_sha256": "42f1a64a48ce8c10a6a5e29f98f9a5b592971892cefa4fd7a33db3ced5e2609e"
+   "count": 1756,
+   "json_bytes": 727442,
+   "json_sha256": "ad78d97fa53a0344b6131e00de86e32fc0a7055c45e776b218cf63ce438ac413",
+   "csv_bytes": 492143,
+   "csv_sha256": "1e694ac66e443641d9425338bdff2905d2e8c2796ff4459b9b90a5f060994238"
   }
  ],
  "bulk_downloads": {

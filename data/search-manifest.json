@@ -29720,7 +29720,7 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "8a3a12ea603a0436b1fc431a1685b920abcf7b9b6bd774a379c7a02b80d397d5"
+      "sha256": "49cf3c31c54a48424896e71fafd44fee69dcfc63ae427358ea00f106794aca6f"
     },
     {
       "path": "/categories/paper/",
@@ -32395,7 +32395,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "db594856342e19a420fbf41b5c83ee07ed6acb406e2fe37b0cc154b7286577af"
+      "sha256": "ee90f32c0296e21b18557c056d9c9841e8e436bd400aaf581699ef8da932fdce"
     },
     {
       "path": "/agents/",
@@ -32410,7 +32410,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "3fb3b244a1a2cc644ed835d4942b5d5e0c9e1f1258bcaae8815bc2f8847ca9c0"
+      "sha256": "b3b4bfb01af3472d944b56f4fe67fb60f5d6eb957b0870dd9f6915c0fb026505"
     },
     {
       "path": "/badges/",
@@ -32425,12 +32425,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "539db0da1b3f475d1a0c042a1563fc2afb7a54e6498c94dc64430d24ae9412c1"
+      "sha256": "6f4aed64815a4ce8ba9753dffcced9d60a7b0ed357a4ce94b1687b7909748f43"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "fa30da29fc52f423fbfca5cd60e272f88b2e13105a157f94b134aa60c515d491"
+      "sha256": "cae619f19111dc0803117bb77e38b9fef7d6d6d4f6c0715a14a5a4e2062f536b"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -32455,23 +32455,23 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "f06394279b56082bf878348754c8efa9e0d43f66bbf631f017c8532d88135ab1"
+      "sha256": "08c2f6a8f09ad0b6654e717f888ae0cc6fa13aa66f2fdc8aa7c3592ef8c690ae"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "163ba0a56233f6184b5ab933e3f919a9a7dfc33cba7a2ca550749e51a9966e90"
+      "sha256": "e7594e1b041de49264810bf61b4392f55e9968d98e7239f0c9f9f7c4ea31d329"
     },
     {
       "path": "/explore/",
       "indexable": false,
-      "sha256": "74a83f114261dc1b933dbf941720f4b85907131ee06c9ee1119e787d5c5c8088",
+      "sha256": "0128a4b2c0b30c6cd19320c37b200ac5805b969c1a66ae86d1a1684eba3d7485",
       "utility": true
     },
     {
       "path": "/api/",
       "indexable": true,
-      "sha256": "5db6128ccf54ee68cc5d6dfe67d3e37cfa2bb24d33b330fd99c823dbbc6c7c12"
+      "sha256": "e5f94e2e5895f44ff96333d1ef582a61018502b4b4cd417479218586e774dc70"
     }
   ]
 }
