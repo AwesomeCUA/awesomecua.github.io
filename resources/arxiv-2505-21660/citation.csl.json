@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2505.21660",
+  "citation-key": "arxiv_2505_21660",
+  "type": "article",
+  "title": "PreGenie: An Agentic Framework for High-quality Visual Presentation Generation",
+  "URL": "https://arxiv.org/abs/2505.21660v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.21660",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.21660",
+    "identifiers": {
+      "arxiv": "2505.21660"
+    },
+    "first_published_at": "2025-05-27",
+    "record_updated_at": "2025-08-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8f822e6017c8e5eb39ea55876a36bf6120a3008e43997919a48206a2c05377a6",
+      "submitted_at": "2025-05-27T18:36:19Z",
+      "updated_at": "2025-08-31T00:34:05Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.21660v2"
+    }
+  },
+  "note": "First published: 2025-05-27; Recorded arXiv version: v2; Recorded version updated: 2025-08-31T00:34:05Z.",
+  "author": [
+    {
+      "literal": "Xiaojie Xu"
+    },
+    {
+      "literal": "Xinli Xu"
+    },
+    {
+      "literal": "Sirui Chen"
+    },
+    {
+      "literal": "Haoyu Chen"
+    },
+    {
+      "literal": "Fan Zhang"
+    },
+    {
+      "literal": "Ying-Cong Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.21660",
+  "genre": "preprint",
+  "version": "2"
+}

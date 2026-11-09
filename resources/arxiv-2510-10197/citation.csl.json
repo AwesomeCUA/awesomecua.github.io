@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2510.10197",
+  "citation-key": "arxiv_2510_10197",
+  "type": "article",
+  "title": "Don't Just Fine-tune the Agent, Tune the Environment",
+  "URL": "https://arxiv.org/abs/2510.10197v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.10197",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.10197",
+    "identifiers": {
+      "arxiv": "2510.10197"
+    },
+    "first_published_at": "2025-10-11",
+    "record_updated_at": "2026-01-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "defba0fcb2fa4198af2cdc7f545e339e53518f55c4c7848024468dcafc72e6d4",
+      "submitted_at": "2025-10-11T12:35:15Z",
+      "updated_at": "2026-01-30T03:31:04Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.10197v2"
+    }
+  },
+  "note": "First published: 2025-10-11; Recorded arXiv version: v2; Recorded version updated: 2026-01-30T03:31:04Z.",
+  "author": [
+    {
+      "literal": "Siyuan Lu"
+    },
+    {
+      "literal": "Zechuan Wang"
+    },
+    {
+      "literal": "Hongxuan Zhang"
+    },
+    {
+      "literal": "Qintong Wu"
+    },
+    {
+      "literal": "Leilei Gan"
+    },
+    {
+      "literal": "Chenyi Zhuang"
+    },
+    {
+      "literal": "Jinjie Gu"
+    },
+    {
+      "literal": "Tao Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.10197",
+  "genre": "preprint",
+  "version": "2"
+}

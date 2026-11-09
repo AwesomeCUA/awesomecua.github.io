@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2406.06302",
+  "citation-key": "arxiv_2406_06302",
+  "type": "article",
+  "title": "Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks",
+  "URL": "https://arxiv.org/abs/2406.06302v2",
+  "custom": {
+    "catalog_id": "arxiv:2406.06302",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.06302",
+    "identifiers": {
+      "arxiv": "2406.06302"
+    },
+    "first_published_at": "2024-06-10",
+    "record_updated_at": "2024-07-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "693446ee8873c513531c4a267ba349df9dd937867795e8818eefd95bb4e45428",
+      "submitted_at": "2024-06-10T14:18:56Z",
+      "updated_at": "2024-07-03T00:51:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.06302v2"
+    }
+  },
+  "note": "First published: 2024-06-10; Recorded arXiv version: v2; Recorded version updated: 2024-07-03T00:51:21Z.",
+  "author": [
+    {
+      "literal": "Zonghao Ying"
+    },
+    {
+      "literal": "Aishan Liu"
+    },
+    {
+      "literal": "Xianglong Liu"
+    },
+    {
+      "literal": "Dacheng Tao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.06302",
+  "genre": "preprint",
+  "version": "2"
+}

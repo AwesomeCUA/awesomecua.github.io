@@ -1,0 +1,121 @@
+{
+  "id": "arxiv:2609.39601",
+  "citation-key": "arxiv_2609_39601",
+  "type": "article",
+  "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
+  "URL": "https://arxiv.org/abs/2609.39601v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.39601",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.39601",
+    "identifiers": {
+      "arxiv": "2609.39601"
+    },
+    "first_published_at": "2026-09-30",
+    "record_updated_at": "2026-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dd600de633697d6d52d07e3d480eceb97f8500e680f1e35f3291b3c19d38ce80",
+      "submitted_at": "2026-09-30T12:20:54Z",
+      "updated_at": "2026-10-16T12:38:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.39601v2"
+    }
+  },
+  "note": "First published: 2026-09-30; Recorded arXiv version: v2; Recorded version updated: 2026-10-16T12:38:38Z.",
+  "author": [
+    {
+      "literal": "Qize Yu"
+    },
+    {
+      "literal": "Lianrui Fan"
+    },
+    {
+      "literal": "Boyu Chen"
+    },
+    {
+      "literal": "Jiaqi Liang"
+    },
+    {
+      "literal": "Xini Ding"
+    },
+    {
+      "literal": "Yue Chen"
+    },
+    {
+      "literal": "Zetian Song"
+    },
+    {
+      "literal": "Yuran Wang"
+    },
+    {
+      "literal": "Yi Zou"
+    },
+    {
+      "literal": "Kaixuan Wang"
+    },
+    {
+      "literal": "Tianxing Chen"
+    },
+    {
+      "literal": "Wenxuan Song"
+    },
+    {
+      "literal": "Bohan Zhou"
+    },
+    {
+      "literal": "Mingleyang Li"
+    },
+    {
+      "literal": "Siqiao Huang"
+    },
+    {
+      "literal": "Yuqi Ye"
+    },
+    {
+      "literal": "Caigao Jiang"
+    },
+    {
+      "literal": "Wei Wei"
+    },
+    {
+      "literal": "Ruihai Wu"
+    },
+    {
+      "literal": "Hang Zhang"
+    },
+    {
+      "literal": "Yixiao Ge"
+    },
+    {
+      "literal": "Shuchang Zhou"
+    },
+    {
+      "literal": "Shilong Liu"
+    },
+    {
+      "literal": "Xianming Liu"
+    },
+    {
+      "literal": "Ping Luo"
+    },
+    {
+      "literal": "Shiyu Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.39601",
+  "genre": "preprint",
+  "version": "2"
+}

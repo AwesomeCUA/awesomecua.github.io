@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2609.34621",
+  "citation-key": "arxiv_2609_34621",
+  "type": "article",
+  "title": "Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?",
+  "URL": "https://arxiv.org/abs/2609.34621v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.34621",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.34621",
+    "identifiers": {
+      "arxiv": "2609.34621"
+    },
+    "first_published_at": "2026-09-28",
+    "record_updated_at": "2026-09-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bc43886cb4a41f8c11c9abddfd8e68463873e86c4604a536e059e8450f515e93",
+      "submitted_at": "2026-09-28T08:44:04Z",
+      "updated_at": "2026-09-28T08:44:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.34621v1"
+    }
+  },
+  "note": "First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T08:44:04Z.",
+  "author": [
+    {
+      "literal": "Jiangshan Wang"
+    },
+    {
+      "literal": "Zeqiang Lai"
+    },
+    {
+      "literal": "Jiayi Guo"
+    },
+    {
+      "literal": "Xin Yang"
+    },
+    {
+      "literal": "Xin Huang"
+    },
+    {
+      "literal": "Jiarui Chen"
+    },
+    {
+      "literal": "Ziheng Ouyang"
+    },
+    {
+      "literal": "Chunchao Guo"
+    },
+    {
+      "literal": "Xiangyu Yue"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.34621",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2610.22276",
+  "citation-key": "arxiv_2610_22276",
+  "type": "article",
+  "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
+  "URL": "https://arxiv.org/abs/2610.22276v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.22276",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22276",
+    "identifiers": {
+      "arxiv": "2610.22276"
+    },
+    "first_published_at": "2026-10-15",
+    "record_updated_at": "2026-10-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "042a725cc418d9d36efd457c8db5ada1dcb4222ad216cc17910c1ee7f9b8e820",
+      "submitted_at": "2026-10-15T17:37:50Z",
+      "updated_at": "2026-10-26T11:05:56Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.22276v2"
+    }
+  },
+  "note": "First published: 2026-10-15; Recorded arXiv version: v2; Recorded version updated: 2026-10-26T11:05:56Z.",
+  "author": [
+    {
+      "literal": "Luozheng Qin"
+    },
+    {
+      "literal": "Yuhan Zhu"
+    },
+    {
+      "literal": "Changhai Zhou"
+    },
+    {
+      "literal": "Qian Qiao"
+    },
+    {
+      "literal": "Jun Gao"
+    },
+    {
+      "literal": "Yuhua Zhou"
+    },
+    {
+      "literal": "Harry Zhang"
+    },
+    {
+      "literal": "Xiangyu Zeng"
+    },
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Yuxin Lu"
+    },
+    {
+      "literal": "Kaijie Chen"
+    },
+    {
+      "literal": "Andrew Chen"
+    },
+    {
+      "literal": "Pony Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22276",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2609.23142",
+  "citation-key": "arxiv_2609_23142",
+  "type": "article",
+  "title": "CraftBench-UE: Deterministic Evaluation for Coding Agents in Unreal Engine",
+  "URL": "https://arxiv.org/abs/2609.23142v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.23142",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.23142",
+    "identifiers": {
+      "arxiv": "2609.23142"
+    },
+    "first_published_at": "2026-09-19",
+    "record_updated_at": "2026-09-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5c3261e5960367f0555eaaa4e7c566c3732a40ab943bb8be6cafb42225d4c058",
+      "submitted_at": "2026-09-19T17:18:23Z",
+      "updated_at": "2026-09-19T17:18:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.23142v1"
+    }
+  },
+  "note": "First published: 2026-09-19; Recorded arXiv version: v1; Recorded version updated: 2026-09-19T17:18:23Z.",
+  "author": [
+    {
+      "literal": "Shutong Wu"
+    },
+    {
+      "literal": "Kevin Calderone"
+    },
+    {
+      "literal": "Andy Tsen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.23142",
+  "genre": "preprint",
+  "version": "1"
+}

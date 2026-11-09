@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2507.02962",
+  "citation-key": "arxiv_2507_02962",
+  "type": "article",
+  "title": "RAG-R1: Incentivizing the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism",
+  "URL": "https://arxiv.org/abs/2507.02962v6",
+  "custom": {
+    "catalog_id": "arxiv:2507.02962",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.02962",
+    "identifiers": {
+      "arxiv": "2507.02962"
+    },
+    "first_published_at": "2025-06-30",
+    "record_updated_at": "2026-01-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dd71737c7e38bec2350dc33ddc7e46dc504655e630b12e33641b4544ca4b39f1",
+      "submitted_at": "2025-06-30T09:02:45Z",
+      "updated_at": "2026-01-13T06:28:13Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2507.02962v6"
+    }
+  },
+  "note": "First published: 2025-06-30; Recorded arXiv version: v6; Recorded version updated: 2026-01-13T06:28:13Z.",
+  "author": [
+    {
+      "literal": "Zhiwen Tan"
+    },
+    {
+      "literal": "Jiaming Huang"
+    },
+    {
+      "literal": "Qintong Wu"
+    },
+    {
+      "literal": "Hongxuan Zhang"
+    },
+    {
+      "literal": "Chenyi Zhuang"
+    },
+    {
+      "literal": "Jinjie Gu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.02962",
+  "genre": "preprint",
+  "version": "6"
+}

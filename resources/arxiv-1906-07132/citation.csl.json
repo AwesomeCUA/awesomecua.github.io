@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1906.07132",
+  "citation-key": "arxiv_1906_07132",
+  "type": "article",
+  "title": "Avoiding Reasoning Shortcuts: Adversarial Evaluation, Training, and Model Development for Multi-Hop QA",
+  "URL": "https://arxiv.org/abs/1906.07132v1",
+  "custom": {
+    "catalog_id": "arxiv:1906.07132",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1906.07132",
+    "identifiers": {
+      "arxiv": "1906.07132"
+    },
+    "first_published_at": "2019-06-17",
+    "record_updated_at": "2019-06-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "856bb7878dfe4cf210c8095f0708e85fee26c3f5e7e26ef69fd5d04f96f3ce25",
+      "submitted_at": "2019-06-17T17:03:57Z",
+      "updated_at": "2019-06-17T17:03:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1906.07132v1"
+    }
+  },
+  "note": "First published: 2019-06-17; Recorded arXiv version: v1; Recorded version updated: 2019-06-17T17:03:57Z.",
+  "author": [
+    {
+      "literal": "Yichen Jiang"
+    },
+    {
+      "literal": "Mohit Bansal"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1906.07132",
+  "genre": "preprint",
+  "version": "1"
+}

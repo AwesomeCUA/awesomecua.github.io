@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2611.09182",
+  "citation-key": "arxiv_2611_09182",
+  "type": "article",
+  "title": "A Tutorial on Practical QKD Post-Processing Algorithms Using a GUI-Based Simulation Framework",
+  "URL": "https://arxiv.org/abs/2611.09182v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.09182",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.09182",
+    "identifiers": {
+      "arxiv": "2611.09182"
+    },
+    "first_published_at": "2026-11-06",
+    "record_updated_at": "2026-11-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5bac9b40bf88e30e149b6a3a42cdd84deac1ae6f93f854eb35b8ff1abeab7799",
+      "submitted_at": "2026-11-06T09:02:34Z",
+      "updated_at": "2026-11-06T09:02:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.09182v1"
+    }
+  },
+  "note": "First published: 2026-11-06; Recorded arXiv version: v1; Recorded version updated: 2026-11-06T09:02:34Z.",
+  "author": [
+    {
+      "literal": "Ushnik Nath"
+    },
+    {
+      "literal": "Neha Sharma"
+    },
+    {
+      "literal": "Ramniwas Meena"
+    },
+    {
+      "literal": "Neel Kanth Kundu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.09182",
+  "genre": "preprint",
+  "version": "1"
+}

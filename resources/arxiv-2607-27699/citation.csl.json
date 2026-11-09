@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2607.27699",
+  "citation-key": "arxiv_2607_27699",
+  "type": "article",
+  "title": "RefineSVG: Visual Feedback-Driven Reinforcement Learning for Image-to-SVG Generation",
+  "URL": "https://arxiv.org/abs/2607.27699v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.27699",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.27699",
+    "identifiers": {
+      "arxiv": "2607.27699"
+    },
+    "first_published_at": "2026-07-30",
+    "record_updated_at": "2026-07-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8e20160383d4e7c855c188d20d7d46ee45b0c5c1ea5885e391b2331e1af2dc40",
+      "submitted_at": "2026-07-30T05:30:14Z",
+      "updated_at": "2026-07-30T05:30:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.27699v1"
+    }
+  },
+  "note": "First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T05:30:14Z.",
+  "author": [
+    {
+      "literal": "Shaobo Liu"
+    },
+    {
+      "literal": "Feiqiao Mao"
+    },
+    {
+      "literal": "Shuaishuai Zhou"
+    },
+    {
+      "literal": "Yan Zhan"
+    },
+    {
+      "literal": "Weiqi Tan"
+    },
+    {
+      "literal": "Zhiqiong Lu"
+    },
+    {
+      "literal": "Zhengping Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.27699",
+  "genre": "preprint",
+  "version": "1"
+}

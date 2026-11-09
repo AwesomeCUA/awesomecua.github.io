@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2312.03818",
+  "citation-key": "arxiv_2312_03818",
+  "type": "article",
+  "title": "Alpha-CLIP: A CLIP Model Focusing on Wherever You Want",
+  "URL": "https://arxiv.org/abs/2312.03818v2",
+  "custom": {
+    "catalog_id": "arxiv:2312.03818",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.03818",
+    "identifiers": {
+      "arxiv": "2312.03818"
+    },
+    "first_published_at": "2023-12-06",
+    "record_updated_at": "2023-12-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4f7c6d93be58b855ba1e807ccd3e98e03064532098cfe819bfabf645294cbe9d",
+      "submitted_at": "2023-12-06T18:59:30Z",
+      "updated_at": "2023-12-13T05:52:05Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2312.03818v2"
+    }
+  },
+  "note": "First published: 2023-12-06; Recorded arXiv version: v2; Recorded version updated: 2023-12-13T05:52:05Z.",
+  "author": [
+    {
+      "literal": "Zeyi Sun"
+    },
+    {
+      "literal": "Ye Fang"
+    },
+    {
+      "literal": "Tong Wu"
+    },
+    {
+      "literal": "Pan Zhang"
+    },
+    {
+      "literal": "Yuhang Zang"
+    },
+    {
+      "literal": "Shu Kong"
+    },
+    {
+      "literal": "Yuanjun Xiong"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Jiaqi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.03818",
+  "genre": "preprint",
+  "version": "2"
+}

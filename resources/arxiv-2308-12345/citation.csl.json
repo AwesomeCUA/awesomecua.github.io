@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2308.12345",
+  "citation-key": "arxiv_2308_12345",
+  "type": "article",
+  "title": "Probing Early Modification of Gravity with Planck, ACT and SPT",
+  "URL": "https://arxiv.org/abs/2308.12345v2",
+  "custom": {
+    "catalog_id": "arxiv:2308.12345",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.12345",
+    "identifiers": {
+      "arxiv": "2308.12345"
+    },
+    "first_published_at": "2023-08-23",
+    "record_updated_at": "2023-12-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f21b9d5a9bd332c15e822a1cee70fbef9a88ae1099a8462e53c740fed162c6ed",
+      "submitted_at": "2023-08-23T18:00:04Z",
+      "updated_at": "2023-12-13T15:05:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2308.12345v2"
+    }
+  },
+  "note": "First published: 2023-08-23; Recorded arXiv version: v2; Recorded version updated: 2023-12-13T15:05:17Z.",
+  "author": [
+    {
+      "literal": "Guillermo Franco Abellán"
+    },
+    {
+      "literal": "Matteo Braglia"
+    },
+    {
+      "literal": "Mario Ballardini"
+    },
+    {
+      "literal": "Fabio Finelli"
+    },
+    {
+      "literal": "Vivian Poulin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.12345",
+  "genre": "preprint",
+  "version": "2"
+}

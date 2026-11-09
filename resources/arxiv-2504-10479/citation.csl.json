@@ -1,0 +1,196 @@
+{
+  "id": "arxiv:2504.10479",
+  "citation-key": "arxiv_2504_10479",
+  "type": "article",
+  "title": "InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models",
+  "URL": "https://arxiv.org/abs/2504.10479v3",
+  "custom": {
+    "catalog_id": "arxiv:2504.10479",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.10479",
+    "identifiers": {
+      "arxiv": "2504.10479"
+    },
+    "first_published_at": "2025-04-14",
+    "record_updated_at": "2025-04-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f35b0d2a155698a35c66ca1e3de42fe855046c7a9529c1f8f30a7ec2dc8f6e13",
+      "submitted_at": "2025-04-14T17:59:25Z",
+      "updated_at": "2025-04-19T03:47:21Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2504.10479v3"
+    }
+  },
+  "note": "First published: 2025-04-14; Recorded arXiv version: v3; Recorded version updated: 2025-04-19T03:47:21Z.",
+  "author": [
+    {
+      "literal": "Jinguo Zhu"
+    },
+    {
+      "literal": "Weiyun Wang"
+    },
+    {
+      "literal": "Zhe Chen"
+    },
+    {
+      "literal": "Zhaoyang Liu"
+    },
+    {
+      "literal": "Shenglong Ye"
+    },
+    {
+      "literal": "Lixin Gu"
+    },
+    {
+      "literal": "Hao Tian"
+    },
+    {
+      "literal": "Yuchen Duan"
+    },
+    {
+      "literal": "Weijie Su"
+    },
+    {
+      "literal": "Jie Shao"
+    },
+    {
+      "literal": "Zhangwei Gao"
+    },
+    {
+      "literal": "Erfei Cui"
+    },
+    {
+      "literal": "Xuehui Wang"
+    },
+    {
+      "literal": "Yue Cao"
+    },
+    {
+      "literal": "Yangzhou Liu"
+    },
+    {
+      "literal": "Xingguang Wei"
+    },
+    {
+      "literal": "Hongjie Zhang"
+    },
+    {
+      "literal": "Haomin Wang"
+    },
+    {
+      "literal": "Weiye Xu"
+    },
+    {
+      "literal": "Hao Li"
+    },
+    {
+      "literal": "Jiahao Wang"
+    },
+    {
+      "literal": "Nianchen Deng"
+    },
+    {
+      "literal": "Songze Li"
+    },
+    {
+      "literal": "Yinan He"
+    },
+    {
+      "literal": "Tan Jiang"
+    },
+    {
+      "literal": "Jiapeng Luo"
+    },
+    {
+      "literal": "Yi Wang"
+    },
+    {
+      "literal": "Conghui He"
+    },
+    {
+      "literal": "Botian Shi"
+    },
+    {
+      "literal": "Xingcheng Zhang"
+    },
+    {
+      "literal": "Wenqi Shao"
+    },
+    {
+      "literal": "Junjun He"
+    },
+    {
+      "literal": "Yingtong Xiong"
+    },
+    {
+      "literal": "Wenwen Qu"
+    },
+    {
+      "literal": "Peng Sun"
+    },
+    {
+      "literal": "Penglong Jiao"
+    },
+    {
+      "literal": "Han Lv"
+    },
+    {
+      "literal": "Lijun Wu"
+    },
+    {
+      "literal": "Kaipeng Zhang"
+    },
+    {
+      "literal": "Huipeng Deng"
+    },
+    {
+      "literal": "Jiaye Ge"
+    },
+    {
+      "literal": "Kai Chen"
+    },
+    {
+      "literal": "Limin Wang"
+    },
+    {
+      "literal": "Min Dou"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Xizhou Zhu"
+    },
+    {
+      "literal": "Tong Lu"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Jifeng Dai"
+    },
+    {
+      "literal": "Wenhai Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.10479",
+  "genre": "preprint",
+  "version": "3"
+}

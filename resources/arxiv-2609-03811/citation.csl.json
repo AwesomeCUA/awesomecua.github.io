@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2609.03811",
+  "citation-key": "arxiv_2609_03811",
+  "type": "article",
+  "title": "VisCAD: A Foundation Model Suite with Multimodal Industrial CAD Intelligence",
+  "URL": "https://arxiv.org/abs/2609.03811v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.03811",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.03811",
+    "identifiers": {
+      "arxiv": "2609.03811"
+    },
+    "first_published_at": "2026-09-03",
+    "record_updated_at": "2026-09-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8b2f8a54839002e9cb58b80c29e3c737f6a29db67cddf0d29cf2ed76f5370bae",
+      "submitted_at": "2026-09-03T13:14:36Z",
+      "updated_at": "2026-09-04T02:31:25Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.03811v2"
+    }
+  },
+  "note": "First published: 2026-09-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-04T02:31:25Z.",
+  "author": [
+    {
+      "literal": "Guanlin Li"
+    },
+    {
+      "literal": "Zhichao Huang"
+    },
+    {
+      "literal": "Huimu Yu"
+    },
+    {
+      "literal": "Yichen Long"
+    },
+    {
+      "literal": "Hongsen Liu"
+    },
+    {
+      "literal": "Linxin Cai"
+    },
+    {
+      "literal": "Qiuhe Hong"
+    },
+    {
+      "literal": "Ziqi Liu"
+    },
+    {
+      "literal": "Luya Wang"
+    },
+    {
+      "literal": "Wenxiang Wu"
+    },
+    {
+      "literal": "Ning Zhang"
+    },
+    {
+      "literal": "Yuchen Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.03811",
+  "genre": "preprint",
+  "version": "2"
+}

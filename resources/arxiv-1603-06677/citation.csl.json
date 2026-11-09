@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:1603.06677",
+  "citation-key": "arxiv_1603_06677",
+  "type": "article",
+  "title": "Learning Executable Semantic Parsers for Natural Language Understanding",
+  "URL": "https://arxiv.org/abs/1603.06677v1",
+  "custom": {
+    "catalog_id": "arxiv:1603.06677",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1603.06677",
+    "identifiers": {
+      "arxiv": "1603.06677"
+    },
+    "first_published_at": "2016-03-22",
+    "record_updated_at": "2016-03-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d200fe37aa8caa54d61125302c5d70176ab104aa3f752b59c6230640c47ddeb1",
+      "submitted_at": "2016-03-22T05:07:16Z",
+      "updated_at": "2016-03-22T05:07:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1603.06677v1"
+    }
+  },
+  "note": "First published: 2016-03-22; Recorded arXiv version: v1; Recorded version updated: 2016-03-22T05:07:16Z.",
+  "author": [
+    {
+      "literal": "Percy Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1603.06677",
+  "genre": "preprint",
+  "version": "1"
+}

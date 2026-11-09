@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2611.02341",
+  "citation-key": "arxiv_2611_02341",
+  "type": "article",
+  "title": "AgiWorld: An Agentic Video World Model for Building Persistent Worlds",
+  "URL": "https://arxiv.org/abs/2611.02341v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.02341",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.02341",
+    "identifiers": {
+      "arxiv": "2611.02341"
+    },
+    "first_published_at": "2026-11-02",
+    "record_updated_at": "2026-11-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0c86d5c2a55266d8c5edbf1d1a839ab14c006df2ddc582a43f22548ff109bb31",
+      "submitted_at": "2026-11-02T00:39:40Z",
+      "updated_at": "2026-11-02T00:39:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.02341v1"
+    }
+  },
+  "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T00:39:40Z.",
+  "author": [
+    {
+      "literal": "Shaoheng Fang"
+    },
+    {
+      "literal": "Yiqun Mei"
+    },
+    {
+      "literal": "Hanwen Jiang"
+    },
+    {
+      "literal": "Xin Sun"
+    },
+    {
+      "literal": "Haitian Zheng"
+    },
+    {
+      "literal": "Hao Tan"
+    },
+    {
+      "literal": "Kalyan Sunkavalli"
+    },
+    {
+      "literal": "Georgios Pavlakos"
+    },
+    {
+      "literal": "Qixing Huang"
+    },
+    {
+      "literal": "Yiwei Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.02341",
+  "genre": "preprint",
+  "version": "1"
+}

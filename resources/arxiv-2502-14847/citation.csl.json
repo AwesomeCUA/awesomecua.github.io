@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2502.14847",
+  "citation-key": "arxiv_2502_14847",
+  "type": "article",
+  "title": "Red-Teaming LLM Multi-Agent Systems via Communication Attacks",
+  "URL": "https://arxiv.org/abs/2502.14847v2",
+  "custom": {
+    "catalog_id": "arxiv:2502.14847",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.14847",
+    "identifiers": {
+      "arxiv": "2502.14847"
+    },
+    "first_published_at": "2025-02-20",
+    "record_updated_at": "2025-06-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "94d276fd7f313633e59db689c084f27ba0f3b6925a2a532434f85debc1f96626",
+      "submitted_at": "2025-02-20T18:55:39Z",
+      "updated_at": "2025-06-02T01:51:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2502.14847v2"
+    }
+  },
+  "note": "First published: 2025-02-20; Recorded arXiv version: v2; Recorded version updated: 2025-06-02T01:51:09Z.",
+  "author": [
+    {
+      "literal": "Pengfei He"
+    },
+    {
+      "literal": "Yupin Lin"
+    },
+    {
+      "literal": "Shen Dong"
+    },
+    {
+      "literal": "Han Xu"
+    },
+    {
+      "literal": "Yue Xing"
+    },
+    {
+      "literal": "Hui Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.14847",
+  "genre": "preprint",
+  "version": "2"
+}

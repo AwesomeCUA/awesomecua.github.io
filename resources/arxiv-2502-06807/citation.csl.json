@@ -1,0 +1,121 @@
+{
+  "id": "arxiv:2502.06807",
+  "citation-key": "arxiv_2502_06807",
+  "type": "article",
+  "title": "Competitive Programming with Large Reasoning Models",
+  "URL": "https://arxiv.org/abs/2502.06807v2",
+  "custom": {
+    "catalog_id": "arxiv:2502.06807",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.06807",
+    "identifiers": {
+      "arxiv": "2502.06807"
+    },
+    "first_published_at": "2025-02-03",
+    "record_updated_at": "2025-02-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9b466f4aabc7043e7d91bc145447c33297aab74a85d29e072d159c66fa453cb3",
+      "submitted_at": "2025-02-03T23:00:15Z",
+      "updated_at": "2025-02-18T22:21:40Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2502.06807v2"
+    }
+  },
+  "note": "First published: 2025-02-03; Recorded arXiv version: v2; Recorded version updated: 2025-02-18T22:21:40Z.",
+  "author": [
+    {
+      "literal": "OpenAI"
+    },
+    {
+      "literal": ":"
+    },
+    {
+      "literal": "Ahmed El-Kishky"
+    },
+    {
+      "literal": "Alexander Wei"
+    },
+    {
+      "literal": "Andre Saraiva"
+    },
+    {
+      "literal": "Borys Minaiev"
+    },
+    {
+      "literal": "Daniel Selsam"
+    },
+    {
+      "literal": "David Dohan"
+    },
+    {
+      "literal": "Francis Song"
+    },
+    {
+      "literal": "Hunter Lightman"
+    },
+    {
+      "literal": "Ignasi Clavera"
+    },
+    {
+      "literal": "Jakub Pachocki"
+    },
+    {
+      "literal": "Jerry Tworek"
+    },
+    {
+      "literal": "Lorenz Kuhn"
+    },
+    {
+      "literal": "Lukasz Kaiser"
+    },
+    {
+      "literal": "Mark Chen"
+    },
+    {
+      "literal": "Max Schwarzer"
+    },
+    {
+      "literal": "Mostafa Rohaninejad"
+    },
+    {
+      "literal": "Nat McAleese"
+    },
+    {
+      "literal": "o3 contributors"
+    },
+    {
+      "literal": "Oleg Mürk"
+    },
+    {
+      "literal": "Rhythm Garg"
+    },
+    {
+      "literal": "Rui Shu"
+    },
+    {
+      "literal": "Szymon Sidor"
+    },
+    {
+      "literal": "Vineet Kosaraju"
+    },
+    {
+      "literal": "Wenda Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.06807",
+  "genre": "preprint",
+  "version": "2"
+}

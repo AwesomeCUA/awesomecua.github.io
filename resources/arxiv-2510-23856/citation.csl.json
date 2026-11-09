@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2510.23856",
+  "citation-key": "arxiv_2510_23856",
+  "type": "article",
+  "title": "From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production",
+  "URL": "https://arxiv.org/abs/2510.23856v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.23856",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.23856",
+    "identifiers": {
+      "arxiv": "2510.23856"
+    },
+    "first_published_at": "2025-10-27",
+    "record_updated_at": "2025-12-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7efe84edbad7b887f862fda85ca503bf3a909d6417ca9d5ee5354656f231f297",
+      "submitted_at": "2025-10-27T20:55:00Z",
+      "updated_at": "2025-12-09T09:54:49Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.23856v2"
+    }
+  },
+  "note": "First published: 2025-10-27; Recorded arXiv version: v2; Recorded version updated: 2025-12-09T09:54:49Z.",
+  "author": [
+    {
+      "literal": "Segev Shlomov"
+    },
+    {
+      "literal": "Alon Oved"
+    },
+    {
+      "literal": "Sami Marreed"
+    },
+    {
+      "literal": "Ido Levy"
+    },
+    {
+      "literal": "Offer Akrabi"
+    },
+    {
+      "literal": "Avi Yaeli"
+    },
+    {
+      "literal": "Łukasz Strąk"
+    },
+    {
+      "literal": "Elizabeth Koumpan"
+    },
+    {
+      "literal": "Yinon Goldshtein"
+    },
+    {
+      "literal": "Eilam Shapira"
+    },
+    {
+      "literal": "Nir Mashkif"
+    },
+    {
+      "literal": "Asaf Adi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.23856",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "arxiv:2509.13310",
+  "citation-key": "arxiv_2509_13310",
+  "type": "article",
+  "title": "Scaling Agents via Continual Pre-training",
+  "URL": "https://arxiv.org/abs/2509.13310v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.13310",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.13310",
+    "identifiers": {
+      "arxiv": "2509.13310"
+    },
+    "first_published_at": "2025-09-16",
+    "record_updated_at": "2025-09-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c79a2d44474f2700f57a763ffdefe56b47e9f16e40277f912f935b364e35d8c2",
+      "submitted_at": "2025-09-16T17:57:19Z",
+      "updated_at": "2025-09-16T17:57:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.13310v1"
+    }
+  },
+  "note": "First published: 2025-09-16; Recorded arXiv version: v1; Recorded version updated: 2025-09-16T17:57:19Z.",
+  "author": [
+    {
+      "literal": "Liangcai Su"
+    },
+    {
+      "literal": "Zhen Zhang"
+    },
+    {
+      "literal": "Guangyu Li"
+    },
+    {
+      "literal": "Zhuo Chen"
+    },
+    {
+      "literal": "Chenxi Wang"
+    },
+    {
+      "literal": "Maojia Song"
+    },
+    {
+      "literal": "Xinyu Wang"
+    },
+    {
+      "literal": "Kuan Li"
+    },
+    {
+      "literal": "Jialong Wu"
+    },
+    {
+      "literal": "Xuanzhong Chen"
+    },
+    {
+      "literal": "Zile Qiao"
+    },
+    {
+      "literal": "Zhongwang Zhang"
+    },
+    {
+      "literal": "Huifeng Yin"
+    },
+    {
+      "literal": "Shihao Cai"
+    },
+    {
+      "literal": "Runnan Fang"
+    },
+    {
+      "literal": "Zhengwei Tao"
+    },
+    {
+      "literal": "Wenbiao Yin"
+    },
+    {
+      "literal": "Chenxiong Qian"
+    },
+    {
+      "literal": "Yong Jiang"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Jingren Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.13310",
+  "genre": "preprint",
+  "version": "1"
+}

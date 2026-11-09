@@ -1,0 +1,169 @@
+{
+  "id": "arxiv:2412.05271",
+  "citation-key": "arxiv_2412_05271",
+  "type": "article",
+  "title": "Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling",
+  "URL": "https://arxiv.org/abs/2412.05271v5",
+  "custom": {
+    "catalog_id": "arxiv:2412.05271",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.05271",
+    "identifiers": {
+      "arxiv": "2412.05271"
+    },
+    "first_published_at": "2024-12-06",
+    "record_updated_at": "2025-09-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2a74da30357f7b67f384897f948c5a05c81c8baa6b0f5b03707baf575fdd9068",
+      "submitted_at": "2024-12-06T18:57:08Z",
+      "updated_at": "2025-09-26T12:52:41Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2412.05271v5"
+    }
+  },
+  "note": "First published: 2024-12-06; Recorded arXiv version: v5; Recorded version updated: 2025-09-26T12:52:41Z.",
+  "author": [
+    {
+      "literal": "Zhe Chen"
+    },
+    {
+      "literal": "Weiyun Wang"
+    },
+    {
+      "literal": "Yue Cao"
+    },
+    {
+      "literal": "Yangzhou Liu"
+    },
+    {
+      "literal": "Zhangwei Gao"
+    },
+    {
+      "literal": "Erfei Cui"
+    },
+    {
+      "literal": "Jinguo Zhu"
+    },
+    {
+      "literal": "Shenglong Ye"
+    },
+    {
+      "literal": "Hao Tian"
+    },
+    {
+      "literal": "Zhaoyang Liu"
+    },
+    {
+      "literal": "Lixin Gu"
+    },
+    {
+      "literal": "Xuehui Wang"
+    },
+    {
+      "literal": "Qingyun Li"
+    },
+    {
+      "literal": "Yiming Ren"
+    },
+    {
+      "literal": "Zixuan Chen"
+    },
+    {
+      "literal": "Jiapeng Luo"
+    },
+    {
+      "literal": "Jiahao Wang"
+    },
+    {
+      "literal": "Tan Jiang"
+    },
+    {
+      "literal": "Bo Wang"
+    },
+    {
+      "literal": "Conghui He"
+    },
+    {
+      "literal": "Botian Shi"
+    },
+    {
+      "literal": "Xingcheng Zhang"
+    },
+    {
+      "literal": "Han Lv"
+    },
+    {
+      "literal": "Yi Wang"
+    },
+    {
+      "literal": "Wenqi Shao"
+    },
+    {
+      "literal": "Pei Chu"
+    },
+    {
+      "literal": "Zhongying Tu"
+    },
+    {
+      "literal": "Tong He"
+    },
+    {
+      "literal": "Zhiyong Wu"
+    },
+    {
+      "literal": "Huipeng Deng"
+    },
+    {
+      "literal": "Jiaye Ge"
+    },
+    {
+      "literal": "Kai Chen"
+    },
+    {
+      "literal": "Kaipeng Zhang"
+    },
+    {
+      "literal": "Limin Wang"
+    },
+    {
+      "literal": "Min Dou"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Xizhou Zhu"
+    },
+    {
+      "literal": "Tong Lu"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Jifeng Dai"
+    },
+    {
+      "literal": "Wenhai Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.05271",
+  "genre": "preprint",
+  "version": "5"
+}

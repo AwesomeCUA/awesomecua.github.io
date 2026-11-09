@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2605.23527",
+  "citation-key": "arxiv_2605_23527",
+  "type": "article",
+  "title": "LiveFigure: Generating Editable Scientific Illustration with VLM Agents",
+  "URL": "https://arxiv.org/abs/2605.23527v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.23527",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.23527",
+    "identifiers": {
+      "arxiv": "2605.23527"
+    },
+    "first_published_at": "2026-05-22",
+    "record_updated_at": "2026-05-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "794fcc48591d58c42340da4e3b44a05b3139e54d1f9ade47fd7247572fd2901a",
+      "submitted_at": "2026-05-22T11:42:55Z",
+      "updated_at": "2026-05-22T11:42:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.23527v1"
+    }
+  },
+  "note": "First published: 2026-05-22; Recorded arXiv version: v1; Recorded version updated: 2026-05-22T11:42:55Z.",
+  "author": [
+    {
+      "literal": "Chenyang Shao"
+    },
+    {
+      "literal": "Jiahe Liu"
+    },
+    {
+      "literal": "Fengli Xu"
+    },
+    {
+      "literal": "Yong Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.23527",
+  "genre": "preprint",
+  "version": "1"
+}

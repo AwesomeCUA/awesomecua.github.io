@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2412.07472",
+  "citation-key": "arxiv_2412_07472",
+  "type": "article",
+  "title": "SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World",
+  "URL": "https://arxiv.org/abs/2412.07472v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.07472",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.07472",
+    "identifiers": {
+      "arxiv": "2412.07472"
+    },
+    "first_published_at": "2024-12-10",
+    "record_updated_at": "2025-02-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1dc0fdbf3146496f235dd3886296cedffc841f51dbdc8cd4e328856a5e87c576",
+      "submitted_at": "2024-12-10T12:40:35Z",
+      "updated_at": "2025-02-18T09:04:16Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.07472v3"
+    }
+  },
+  "note": "First published: 2024-12-10; Recorded arXiv version: v3; Recorded version updated: 2025-02-18T09:04:16Z.",
+  "author": [
+    {
+      "literal": "Jiaqi Zhang"
+    },
+    {
+      "literal": "Chen Gao"
+    },
+    {
+      "literal": "Liyuan Zhang"
+    },
+    {
+      "literal": "Yong Li"
+    },
+    {
+      "literal": "Hongzhi Yin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.07472",
+  "genre": "preprint",
+  "version": "3"
+}

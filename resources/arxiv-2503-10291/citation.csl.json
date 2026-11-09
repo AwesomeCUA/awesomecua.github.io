@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2503.10291",
+  "citation-key": "arxiv_2503_10291",
+  "type": "article",
+  "title": "VisualPRM: An Effective Process Reward Model for Multimodal Reasoning",
+  "URL": "https://arxiv.org/abs/2503.10291v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.10291",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.10291",
+    "identifiers": {
+      "arxiv": "2503.10291"
+    },
+    "first_published_at": "2025-03-13",
+    "record_updated_at": "2025-03-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4240e5678d125eeaab05b8093120cb77982c5f942f34a3c14519202384b8a28d",
+      "submitted_at": "2025-03-13T12:03:37Z",
+      "updated_at": "2025-03-13T12:03:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.10291v1"
+    }
+  },
+  "note": "First published: 2025-03-13; Recorded arXiv version: v1; Recorded version updated: 2025-03-13T12:03:37Z.",
+  "author": [
+    {
+      "literal": "Weiyun Wang"
+    },
+    {
+      "literal": "Zhangwei Gao"
+    },
+    {
+      "literal": "Lianjie Chen"
+    },
+    {
+      "literal": "Zhe Chen"
+    },
+    {
+      "literal": "Jinguo Zhu"
+    },
+    {
+      "literal": "Xiangyu Zhao"
+    },
+    {
+      "literal": "Yangzhou Liu"
+    },
+    {
+      "literal": "Yue Cao"
+    },
+    {
+      "literal": "Shenglong Ye"
+    },
+    {
+      "literal": "Xizhou Zhu"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Haodong Duan"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Jifeng Dai"
+    },
+    {
+      "literal": "Wenhai Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.10291",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2505.23885",
+  "citation-key": "arxiv_2505_23885",
+  "type": "article",
+  "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+  "URL": "https://arxiv.org/abs/2505.23885v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.23885",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.23885",
+    "identifiers": {
+      "arxiv": "2505.23885"
+    },
+    "first_published_at": "2025-05-29",
+    "record_updated_at": "2025-06-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "04e1310e6296db6e045831ec9ea2dc972791bf113b269a81eef322e1884de891",
+      "submitted_at": "2025-05-29T17:51:58Z",
+      "updated_at": "2025-06-11T01:42:53Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.23885v2"
+    }
+  },
+  "note": "First published: 2025-05-29; Recorded arXiv version: v2; Recorded version updated: 2025-06-11T01:42:53Z.",
+  "author": [
+    {
+      "literal": "Mengkang Hu"
+    },
+    {
+      "literal": "Yuhang Zhou"
+    },
+    {
+      "literal": "Wendong Fan"
+    },
+    {
+      "literal": "Yuzhou Nie"
+    },
+    {
+      "literal": "Bowei Xia"
+    },
+    {
+      "literal": "Tao Sun"
+    },
+    {
+      "literal": "Ziyu Ye"
+    },
+    {
+      "literal": "Zhaoxuan Jin"
+    },
+    {
+      "literal": "Yingru Li"
+    },
+    {
+      "literal": "Qiguang Chen"
+    },
+    {
+      "literal": "Zeyu Zhang"
+    },
+    {
+      "literal": "Yifeng Wang"
+    },
+    {
+      "literal": "Qianshuo Ye"
+    },
+    {
+      "literal": "Bernard Ghanem"
+    },
+    {
+      "literal": "Ping Luo"
+    },
+    {
+      "literal": "Guohao Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.23885",
+  "genre": "preprint",
+  "version": "2"
+}

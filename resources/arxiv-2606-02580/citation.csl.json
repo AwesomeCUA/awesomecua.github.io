@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.02580",
+  "citation-key": "arxiv_2606_02580",
+  "type": "article",
+  "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+  "URL": "https://arxiv.org/abs/2606.02580v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.02580",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.02580",
+    "identifiers": {
+      "arxiv": "2606.02580"
+    },
+    "first_published_at": "2026-06-01",
+    "record_updated_at": "2026-06-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8a2dd4e14a37017aef2576b36b6859c9f56e87d612527a1af9476ddf491f6c71",
+      "submitted_at": "2026-06-01T17:59:53Z",
+      "updated_at": "2026-06-01T17:59:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.02580v1"
+    }
+  },
+  "note": "First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T17:59:53Z.",
+  "author": [
+    {
+      "literal": "Guangzhao He"
+    },
+    {
+      "literal": "Rundong Luo"
+    },
+    {
+      "literal": "Wei-Chiu Ma"
+    },
+    {
+      "literal": "Hadar Averbuch-Elor"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.02580",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2610.10479",
+  "citation-key": "arxiv_2610_10479",
+  "type": "article",
+  "title": "Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies",
+  "URL": "https://arxiv.org/abs/2610.10479v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.10479",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.10479",
+    "identifiers": {
+      "arxiv": "2610.10479"
+    },
+    "first_published_at": "2026-10-07",
+    "record_updated_at": "2026-10-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "64f36b2932eaf742976ee5357b01f0c4caa96de27d4d16f9238fc924a7642775",
+      "submitted_at": "2026-10-07T17:37:20Z",
+      "updated_at": "2026-10-11T15:02:36Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.10479v2"
+    }
+  },
+  "note": "First published: 2026-10-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-11T15:02:36Z.",
+  "author": [
+    {
+      "literal": "Yihan Li"
+    },
+    {
+      "literal": "Yating Feng"
+    },
+    {
+      "literal": "Shengjiu Sun"
+    },
+    {
+      "literal": "Jianing Chen"
+    },
+    {
+      "literal": "Hao Ren"
+    },
+    {
+      "literal": "Bowen Yang"
+    },
+    {
+      "literal": "Weisheng Xu"
+    },
+    {
+      "literal": "Qiwei Wu"
+    },
+    {
+      "literal": "Hui Cheng"
+    },
+    {
+      "literal": "Renjing Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.10479",
+  "genre": "preprint",
+  "version": "2"
+}

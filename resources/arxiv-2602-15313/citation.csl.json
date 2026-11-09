@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2602.15313",
+  "citation-key": "arxiv_2602_15313",
+  "type": "article",
+  "title": "Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory",
+  "URL": "https://arxiv.org/abs/2602.15313v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.15313",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.15313",
+    "identifiers": {
+      "arxiv": "2602.15313"
+    },
+    "first_published_at": "2026-02-17",
+    "record_updated_at": "2026-04-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1cf11ab062660639cbef55ed87e643ef6d70907b1052a44a5c40a7d51d821a91",
+      "submitted_at": "2026-02-17T02:44:03Z",
+      "updated_at": "2026-04-10T04:08:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.15313v2"
+    }
+  },
+  "note": "First published: 2026-02-17; Recorded arXiv version: v2; Recorded version updated: 2026-04-10T04:08:11Z.",
+  "author": [
+    {
+      "literal": "Zihao Tang"
+    },
+    {
+      "literal": "Xin Yu"
+    },
+    {
+      "literal": "Ziyu Xiao"
+    },
+    {
+      "literal": "Zengxuan Wen"
+    },
+    {
+      "literal": "Zelin Li"
+    },
+    {
+      "literal": "Jiaxi Zhou"
+    },
+    {
+      "literal": "Hualei Wang"
+    },
+    {
+      "literal": "Haohua Wang"
+    },
+    {
+      "literal": "Haizhen Huang"
+    },
+    {
+      "literal": "Weiwei Deng"
+    },
+    {
+      "literal": "Feng Sun"
+    },
+    {
+      "literal": "Qi Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.15313",
+  "genre": "preprint",
+  "version": "2"
+}

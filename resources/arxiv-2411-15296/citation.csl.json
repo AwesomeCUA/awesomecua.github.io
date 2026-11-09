@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2411.15296",
+  "citation-key": "arxiv_2411_15296",
+  "type": "article",
+  "title": "MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs",
+  "URL": "https://arxiv.org/abs/2411.15296v2",
+  "custom": {
+    "catalog_id": "arxiv:2411.15296",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.15296",
+    "identifiers": {
+      "arxiv": "2411.15296"
+    },
+    "first_published_at": "2024-11-22",
+    "record_updated_at": "2024-12-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fa41ed3d4766add5881a4f1fc1f787119420ddc2180757b86507fb24844608e2",
+      "submitted_at": "2024-11-22T18:59:54Z",
+      "updated_at": "2024-12-08T04:24:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2411.15296v2"
+    }
+  },
+  "note": "First published: 2024-11-22; Recorded arXiv version: v2; Recorded version updated: 2024-12-08T04:24:31Z.",
+  "author": [
+    {
+      "literal": "Chaoyou Fu"
+    },
+    {
+      "literal": "Yi-Fan Zhang"
+    },
+    {
+      "literal": "Shukang Yin"
+    },
+    {
+      "literal": "Bo Li"
+    },
+    {
+      "literal": "Xinyu Fang"
+    },
+    {
+      "literal": "Sirui Zhao"
+    },
+    {
+      "literal": "Haodong Duan"
+    },
+    {
+      "literal": "Xing Sun"
+    },
+    {
+      "literal": "Ziwei Liu"
+    },
+    {
+      "literal": "Liang Wang"
+    },
+    {
+      "literal": "Caifeng Shan"
+    },
+    {
+      "literal": "Ran He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.15296",
+  "genre": "preprint",
+  "version": "2"
+}

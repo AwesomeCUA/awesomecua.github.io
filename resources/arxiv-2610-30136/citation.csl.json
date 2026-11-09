@@ -1,0 +1,97 @@
+{
+  "id": "arxiv:2610.30136",
+  "citation-key": "arxiv_2610_30136",
+  "type": "article",
+  "title": "Agentic World Action Models",
+  "URL": "https://arxiv.org/abs/2610.30136v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.30136",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.30136",
+    "identifiers": {
+      "arxiv": "2610.30136"
+    },
+    "first_published_at": "2026-10-21",
+    "record_updated_at": "2026-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "36e4d6993fc2a40b6cd837429250f95668ce0f2f19724769296ed72fbf9fd048",
+      "submitted_at": "2026-10-21T17:59:56Z",
+      "updated_at": "2026-10-21T17:59:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.30136v1"
+    }
+  },
+  "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T17:59:56Z.",
+  "author": [
+    {
+      "literal": "Zhuoyang Liu"
+    },
+    {
+      "literal": "Dantong Niu"
+    },
+    {
+      "literal": "Botong Zhang"
+    },
+    {
+      "literal": "Boning Shao"
+    },
+    {
+      "literal": "Jing Wang"
+    },
+    {
+      "literal": "Ruijie Zheng"
+    },
+    {
+      "literal": "Yuvan Sharma"
+    },
+    {
+      "literal": "Runyu Lu"
+    },
+    {
+      "literal": "Jiaming Liu"
+    },
+    {
+      "literal": "Renrui Zhang"
+    },
+    {
+      "literal": "Roei Herzig"
+    },
+    {
+      "literal": "Yutong Bai"
+    },
+    {
+      "literal": "Ken Goldberg"
+    },
+    {
+      "literal": "Danfei Xu"
+    },
+    {
+      "literal": "Yuke Zhu"
+    },
+    {
+      "literal": "Guanzhi Wang"
+    },
+    {
+      "literal": "Linxi \"Jim\" Fan"
+    },
+    {
+      "literal": "Trevor Darrell"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.30136",
+  "genre": "preprint",
+  "version": "1"
+}

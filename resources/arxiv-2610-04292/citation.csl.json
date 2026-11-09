@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2610.04292",
+  "citation-key": "arxiv_2610_04292",
+  "type": "article",
+  "title": "LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures",
+  "URL": "https://arxiv.org/abs/2610.04292v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.04292",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.04292",
+    "identifiers": {
+      "arxiv": "2610.04292"
+    },
+    "first_published_at": "2026-10-03",
+    "record_updated_at": "2026-10-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e7ee3fc624bbf8a31865c29f74d69470a33f1c370a6ad66a4ec04f7fda594b7",
+      "submitted_at": "2026-10-03T04:55:57Z",
+      "updated_at": "2026-10-03T04:55:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.04292v1"
+    }
+  },
+  "note": "First published: 2026-10-03; Recorded arXiv version: v1; Recorded version updated: 2026-10-03T04:55:57Z.",
+  "author": [
+    {
+      "literal": "Jiateng Liu"
+    },
+    {
+      "literal": "Rushi Wang"
+    },
+    {
+      "literal": "Cheng Qian"
+    },
+    {
+      "literal": "Xuejun Zhang"
+    },
+    {
+      "literal": "Sun Li"
+    },
+    {
+      "literal": "Jiayu Liu"
+    },
+    {
+      "literal": "Yifan Shen"
+    },
+    {
+      "literal": "Xu Cao"
+    },
+    {
+      "literal": "Jiarui Yao"
+    },
+    {
+      "literal": "Bingxuan Li"
+    },
+    {
+      "literal": "Ruhi Sarikaya"
+    },
+    {
+      "literal": "Heng Ji"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.04292",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:1703.04247",
+  "citation-key": "arxiv_1703_04247",
+  "type": "article",
+  "title": "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction",
+  "URL": "https://arxiv.org/abs/1703.04247v1",
+  "custom": {
+    "catalog_id": "arxiv:1703.04247",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1703.04247",
+    "identifiers": {
+      "arxiv": "1703.04247"
+    },
+    "first_published_at": "2017-03-13",
+    "record_updated_at": "2017-03-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "156228b3f51791b9c506e39f7df041fcbfeee8095d8a7d5fc24f441124b5eb72",
+      "submitted_at": "2017-03-13T04:55:19Z",
+      "updated_at": "2017-03-13T04:55:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1703.04247v1"
+    }
+  },
+  "note": "First published: 2017-03-13; Recorded arXiv version: v1; Recorded version updated: 2017-03-13T04:55:19Z.",
+  "author": [
+    {
+      "literal": "Huifeng Guo"
+    },
+    {
+      "literal": "Ruiming Tang"
+    },
+    {
+      "literal": "Yunming Ye"
+    },
+    {
+      "literal": "Zhenguo Li"
+    },
+    {
+      "literal": "Xiuqiang He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        3,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1703.04247",
+  "genre": "preprint",
+  "version": "1"
+}

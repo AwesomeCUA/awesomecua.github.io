@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.08995",
+  "citation-key": "arxiv_2610_08995",
+  "type": "article",
+  "title": "PhysEvo: Astra Can Act, Let It",
+  "URL": "https://arxiv.org/abs/2610.08995v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.08995",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.08995",
+    "identifiers": {
+      "arxiv": "2610.08995"
+    },
+    "first_published_at": "2026-10-06",
+    "record_updated_at": "2026-10-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7cfb99d242beb9c0e34ce0a0d2324ab34c74747265b8ce19b012cbd0006e2a58",
+      "submitted_at": "2026-10-06T18:54:15Z",
+      "updated_at": "2026-10-06T18:54:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.08995v1"
+    }
+  },
+  "note": "First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T18:54:15Z.",
+  "author": [
+    {
+      "literal": "Wenqing Tian"
+    },
+    {
+      "literal": "Zeyu Zhang"
+    },
+    {
+      "literal": "Zhaocheng Liu"
+    },
+    {
+      "literal": "Fengwei Liu"
+    },
+    {
+      "literal": "Qiang Liu"
+    },
+    {
+      "literal": "Liang Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.08995",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.01863",
+  "citation-key": "arxiv_2610_01863",
+  "type": "article",
+  "title": "LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction",
+  "URL": "https://arxiv.org/abs/2610.01863v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.01863",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.01863",
+    "identifiers": {
+      "arxiv": "2610.01863"
+    },
+    "first_published_at": "2026-10-01",
+    "record_updated_at": "2026-10-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a4e5e1a4f6fc9a92c86cefebc848cfa4c33ba280bc3480fff4a1345ef38da666",
+      "submitted_at": "2026-10-01T15:25:35Z",
+      "updated_at": "2026-10-01T15:25:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.01863v1"
+    }
+  },
+  "note": "First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T15:25:35Z.",
+  "author": [
+    {
+      "literal": "Zhening Huang"
+    },
+    {
+      "literal": "Yueyan Li"
+    },
+    {
+      "literal": "Johnathan Chiu"
+    },
+    {
+      "literal": "Xiaoyang Lyu"
+    },
+    {
+      "literal": "Matt Zhou"
+    },
+    {
+      "literal": "Yuxin Yao"
+    },
+    {
+      "literal": "Joan Lasenby"
+    },
+    {
+      "literal": "Shangzhe Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.01863",
+  "genre": "preprint",
+  "version": "1"
+}

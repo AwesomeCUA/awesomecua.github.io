@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1507.05717",
+  "citation-key": "arxiv_1507_05717",
+  "type": "article",
+  "title": "An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition",
+  "URL": "https://arxiv.org/abs/1507.05717v1",
+  "custom": {
+    "catalog_id": "arxiv:1507.05717",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1507.05717",
+    "identifiers": {
+      "arxiv": "1507.05717"
+    },
+    "first_published_at": "2015-07-21",
+    "record_updated_at": "2015-07-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3570db1278a122267f5494dad971b10319f76e80382f76d8b7ade6cf515440dc",
+      "submitted_at": "2015-07-21T06:26:32Z",
+      "updated_at": "2015-07-21T06:26:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1507.05717v1"
+    }
+  },
+  "note": "First published: 2015-07-21; Recorded arXiv version: v1; Recorded version updated: 2015-07-21T06:26:32Z.",
+  "author": [
+    {
+      "literal": "Baoguang Shi"
+    },
+    {
+      "literal": "Xiang Bai"
+    },
+    {
+      "literal": "Cong Yao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        7,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1507.05717",
+  "genre": "preprint",
+  "version": "1"
+}

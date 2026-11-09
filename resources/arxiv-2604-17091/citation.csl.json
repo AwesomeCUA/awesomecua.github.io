@@ -1,0 +1,97 @@
+{
+  "id": "arxiv:2604.17091",
+  "citation-key": "arxiv_2604_17091",
+  "type": "article",
+  "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
+  "URL": "https://arxiv.org/abs/2604.17091v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.17091",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.17091",
+    "identifiers": {
+      "arxiv": "2604.17091"
+    },
+    "first_published_at": "2026-04-18",
+    "record_updated_at": "2026-04-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "07b89f8218426dfefd59b66ab95be8dfc661a08406528f34af26bfda54b2b59d",
+      "submitted_at": "2026-04-18T17:59:15Z",
+      "updated_at": "2026-04-18T17:59:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.17091v1"
+    }
+  },
+  "note": "First published: 2026-04-18; Recorded arXiv version: v1; Recorded version updated: 2026-04-18T17:59:15Z.",
+  "author": [
+    {
+      "literal": "Jiaqing Liang"
+    },
+    {
+      "literal": "Jinyi Han"
+    },
+    {
+      "literal": "Weijia Li"
+    },
+    {
+      "literal": "Xinyi Wang"
+    },
+    {
+      "literal": "Zhoujia Zhang"
+    },
+    {
+      "literal": "Zishang Jiang"
+    },
+    {
+      "literal": "Ying Liao"
+    },
+    {
+      "literal": "Tingyun Li"
+    },
+    {
+      "literal": "Ying Huang"
+    },
+    {
+      "literal": "Hao Shen"
+    },
+    {
+      "literal": "Hanyu Wu"
+    },
+    {
+      "literal": "Fang Guo"
+    },
+    {
+      "literal": "Keyi Wang"
+    },
+    {
+      "literal": "Zhonghua Hong"
+    },
+    {
+      "literal": "Zhiyu Lu"
+    },
+    {
+      "literal": "Lipeng Ma"
+    },
+    {
+      "literal": "Sihang Jiang"
+    },
+    {
+      "literal": "Yanghua Xiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.17091",
+  "genre": "preprint",
+  "version": "1"
+}

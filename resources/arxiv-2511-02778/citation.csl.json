@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2511.02778",
+  "citation-key": "arxiv_2511_02778",
+  "type": "article",
+  "title": "VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation",
+  "URL": "https://arxiv.org/abs/2511.02778v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.02778",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.02778",
+    "identifiers": {
+      "arxiv": "2511.02778"
+    },
+    "first_published_at": "2025-11-04",
+    "record_updated_at": "2025-11-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "da105523c47b04aead7db7a109e3b77614eec11297f97b24fc07452a4da885e7",
+      "submitted_at": "2025-11-04T18:00:18Z",
+      "updated_at": "2025-11-04T18:00:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.02778v1"
+    }
+  },
+  "note": "First published: 2025-11-04; Recorded arXiv version: v1; Recorded version updated: 2025-11-04T18:00:18Z.",
+  "author": [
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Yuhao Zheng"
+    },
+    {
+      "literal": "Hangyu Ran"
+    },
+    {
+      "literal": "Dantong Zhu"
+    },
+    {
+      "literal": "Dongxing Mao"
+    },
+    {
+      "literal": "Linjie Li"
+    },
+    {
+      "literal": "Philip Torr"
+    },
+    {
+      "literal": "Alex Jinpeng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.02778",
+  "genre": "preprint",
+  "version": "1"
+}

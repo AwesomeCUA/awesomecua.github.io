@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.36533",
+  "citation-key": "arxiv_2610_36533",
+  "type": "article",
+  "title": "RoboAuto: Autonomous Robot Program Search through Multi-Level Physical Understanding",
+  "URL": "https://arxiv.org/abs/2610.36533v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.36533",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.36533",
+    "identifiers": {
+      "arxiv": "2610.36533"
+    },
+    "first_published_at": "2026-10-27",
+    "record_updated_at": "2026-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ffe9c9a864873dc282fa70c755e89f5f322c1c99a2c2f4225af09046302214b2",
+      "submitted_at": "2026-10-27T02:41:22Z",
+      "updated_at": "2026-10-27T02:41:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.36533v1"
+    }
+  },
+  "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T02:41:22Z.",
+  "author": [
+    {
+      "literal": "Buzhao Liu"
+    },
+    {
+      "literal": "Jianing Ye"
+    },
+    {
+      "literal": "Xiu Yuan"
+    },
+    {
+      "literal": "Yangtong Feng"
+    },
+    {
+      "literal": "Chengsong Huang"
+    },
+    {
+      "literal": "Tyler Dinh"
+    },
+    {
+      "literal": "Yevgeniy Vorobeychik"
+    },
+    {
+      "literal": "Ning Zhang"
+    },
+    {
+      "literal": "Chongjie Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.36533",
+  "genre": "preprint",
+  "version": "1"
+}

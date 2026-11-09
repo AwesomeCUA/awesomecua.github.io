@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2602.05998",
+  "citation-key": "arxiv_2602_05998",
+  "type": "article",
+  "title": "VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation",
+  "URL": "https://arxiv.org/abs/2602.05998v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.05998",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.05998",
+    "identifiers": {
+      "arxiv": "2602.05998"
+    },
+    "first_published_at": "2026-02-05",
+    "record_updated_at": "2026-02-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0310c48127740eccc0f9ea91aef7d77ff781d5e23bc32c7a762bece9d9a5caea",
+      "submitted_at": "2026-02-05T18:45:53Z",
+      "updated_at": "2026-02-05T18:45:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.05998v1"
+    }
+  },
+  "note": "First published: 2026-02-05; Recorded arXiv version: v1; Recorded version updated: 2026-02-05T18:45:53Z.",
+  "author": [
+    {
+      "literal": "Jie Deng"
+    },
+    {
+      "literal": "Kaichun Yao"
+    },
+    {
+      "literal": "Libo Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.05998",
+  "genre": "preprint",
+  "version": "1"
+}

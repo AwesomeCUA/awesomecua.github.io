@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2411.19654",
+  "citation-key": "arxiv_2411_19654",
+  "type": "article",
+  "title": "TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting",
+  "URL": "https://arxiv.org/abs/2411.19654v2",
+  "custom": {
+    "catalog_id": "arxiv:2411.19654",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.19654",
+    "identifiers": {
+      "arxiv": "2411.19654"
+    },
+    "first_published_at": "2024-11-29",
+    "record_updated_at": "2025-03-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "38d54138bc00f85e0c07e9d998cfd0513b7a5901326f430bebdc184dbb2ba421",
+      "submitted_at": "2024-11-29T12:19:39Z",
+      "updated_at": "2025-03-23T17:27:04Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2411.19654v2"
+    }
+  },
+  "note": "First published: 2024-11-29; Recorded arXiv version: v2; Recorded version updated: 2025-03-23T17:27:04Z.",
+  "author": [
+    {
+      "literal": "Bojun Xiong"
+    },
+    {
+      "literal": "Jialun Liu"
+    },
+    {
+      "literal": "Jiakui Hu"
+    },
+    {
+      "literal": "Chenming Wu"
+    },
+    {
+      "literal": "Jinbo Wu"
+    },
+    {
+      "literal": "Xing Liu"
+    },
+    {
+      "literal": "Chen Zhao"
+    },
+    {
+      "literal": "Errui Ding"
+    },
+    {
+      "literal": "Zhouhui Lian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.19654",
+  "genre": "preprint",
+  "version": "2"
+}

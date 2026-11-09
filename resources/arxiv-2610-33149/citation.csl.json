@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2610.33149",
+  "citation-key": "arxiv_2610_33149",
+  "type": "article",
+  "title": "WebUniverse: Scaling Verified Training Data for Agentic Web Development",
+  "URL": "https://arxiv.org/abs/2610.33149v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.33149",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.33149",
+    "identifiers": {
+      "arxiv": "2610.33149"
+    },
+    "first_published_at": "2026-10-23",
+    "record_updated_at": "2026-10-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "173b444f37ac1f333a6fbf487425a28c5da74284654820f703f8db4a9d780263",
+      "submitted_at": "2026-10-23T17:57:32Z",
+      "updated_at": "2026-10-23T17:57:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.33149v1"
+    }
+  },
+  "note": "First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T17:57:32Z.",
+  "author": [
+    {
+      "literal": "Yaorui Ding"
+    },
+    {
+      "literal": "Fengqing Jiang"
+    },
+    {
+      "literal": "Yichen Feng"
+    },
+    {
+      "literal": "Yuetai Li"
+    },
+    {
+      "literal": "Zhangchen Xu"
+    },
+    {
+      "literal": "Kaiyuan Zheng"
+    },
+    {
+      "literal": "Xuanyu Lu"
+    },
+    {
+      "literal": "Bhaskar Ramasubramanian"
+    },
+    {
+      "literal": "Basel Alomair"
+    },
+    {
+      "literal": "Luyao Niu"
+    },
+    {
+      "literal": "Radha Poovendran"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.33149",
+  "genre": "preprint",
+  "version": "1"
+}

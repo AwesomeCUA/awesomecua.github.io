@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2509.13305",
+  "citation-key": "arxiv_2509_13305",
+  "type": "article",
+  "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2509.13305v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.13305",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.13305",
+    "identifiers": {
+      "arxiv": "2509.13305"
+    },
+    "first_published_at": "2025-09-16",
+    "record_updated_at": "2025-09-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1ed5cd2b54a28fc937f53086808f949acd231059b72f2f81b0a18a7fc3a4c66e",
+      "submitted_at": "2025-09-16T17:57:03Z",
+      "updated_at": "2025-09-16T17:57:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.13305v1"
+    }
+  },
+  "note": "First published: 2025-09-16; Recorded arXiv version: v1; Recorded version updated: 2025-09-16T17:57:03Z.",
+  "author": [
+    {
+      "literal": "Kuan Li"
+    },
+    {
+      "literal": "Zhongwang Zhang"
+    },
+    {
+      "literal": "Huifeng Yin"
+    },
+    {
+      "literal": "Rui Ye"
+    },
+    {
+      "literal": "Yida Zhao"
+    },
+    {
+      "literal": "Liwen Zhang"
+    },
+    {
+      "literal": "Litu Ou"
+    },
+    {
+      "literal": "Dingchu Zhang"
+    },
+    {
+      "literal": "Xixi Wu"
+    },
+    {
+      "literal": "Jialong Wu"
+    },
+    {
+      "literal": "Xinyu Wang"
+    },
+    {
+      "literal": "Zile Qiao"
+    },
+    {
+      "literal": "Zhen Zhang"
+    },
+    {
+      "literal": "Yong Jiang"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Jingren Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.13305",
+  "genre": "preprint",
+  "version": "1"
+}

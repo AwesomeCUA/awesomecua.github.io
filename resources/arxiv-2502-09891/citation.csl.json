@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2502.09891",
+  "citation-key": "arxiv_2502_09891",
+  "type": "article",
+  "title": "ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation",
+  "URL": "https://arxiv.org/abs/2502.09891v4",
+  "custom": {
+    "catalog_id": "arxiv:2502.09891",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.09891",
+    "identifiers": {
+      "arxiv": "2502.09891"
+    },
+    "first_published_at": "2025-02-14",
+    "record_updated_at": "2026-05-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "071492429958d253a7019b236eb3ba9d711b66cae26aeb374f7fa0d86578d519",
+      "submitted_at": "2025-02-14T03:28:36Z",
+      "updated_at": "2026-05-11T03:00:07Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2502.09891v4"
+    }
+  },
+  "note": "First published: 2025-02-14; Recorded arXiv version: v4; Recorded version updated: 2026-05-11T03:00:07Z.",
+  "author": [
+    {
+      "literal": "Shu Wang"
+    },
+    {
+      "literal": "Yixiang Fang"
+    },
+    {
+      "literal": "Yingli Zhou"
+    },
+    {
+      "literal": "Xilin Liu"
+    },
+    {
+      "literal": "Yuchi Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.09891",
+  "genre": "preprint",
+  "version": "4"
+}

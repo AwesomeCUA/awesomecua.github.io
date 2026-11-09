@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2609.23103",
+  "citation-key": "arxiv_2609_23103",
+  "type": "article",
+  "title": "DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation",
+  "URL": "https://arxiv.org/abs/2609.23103v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.23103",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.23103",
+    "identifiers": {
+      "arxiv": "2609.23103"
+    },
+    "first_published_at": "2026-09-19",
+    "record_updated_at": "2026-09-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "473f1f3ba8a09e4583516bf054ace4d05b480d8e46efd7d62fbbb93995f72694",
+      "submitted_at": "2026-09-19T16:16:42Z",
+      "updated_at": "2026-09-19T16:16:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.23103v1"
+    }
+  },
+  "note": "First published: 2026-09-19; Recorded arXiv version: v1; Recorded version updated: 2026-09-19T16:16:42Z.",
+  "author": [
+    {
+      "literal": "Guanxiong Chen"
+    },
+    {
+      "literal": "Yiduo Qu"
+    },
+    {
+      "literal": "Qianjun Xia"
+    },
+    {
+      "literal": "Pengyu Jing"
+    },
+    {
+      "literal": "Yixian Cheng"
+    },
+    {
+      "literal": "Bole Ma"
+    },
+    {
+      "literal": "Pengzhi Yang"
+    },
+    {
+      "literal": "Bingyang Zhou"
+    },
+    {
+      "literal": "Ziming Li"
+    },
+    {
+      "literal": "Shashwat Suri"
+    },
+    {
+      "literal": "Gongbo Sun"
+    },
+    {
+      "literal": "Chao Liu"
+    },
+    {
+      "literal": "Peter Yichen Chen"
+    },
+    {
+      "literal": "Ziqiu Zeng"
+    },
+    {
+      "literal": "Fan Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.23103",
+  "genre": "preprint",
+  "version": "1"
+}

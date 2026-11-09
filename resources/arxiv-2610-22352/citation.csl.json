@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.22352",
+  "citation-key": "arxiv_2610_22352",
+  "type": "article",
+  "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
+  "URL": "https://arxiv.org/abs/2610.22352v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.22352",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22352",
+    "identifiers": {
+      "arxiv": "2610.22352"
+    },
+    "first_published_at": "2026-10-15",
+    "record_updated_at": "2026-10-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fd495c1dd5a62cd7caa58fa1ad3c1a51a7ed39da19bc2af7e7a0dce524b71a7f",
+      "submitted_at": "2026-10-15T17:58:02Z",
+      "updated_at": "2026-10-15T17:58:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.22352v1"
+    }
+  },
+  "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:58:02Z.",
+  "author": [
+    {
+      "literal": "Chen Yang"
+    },
+    {
+      "literal": "Jiemin Fang"
+    },
+    {
+      "literal": "Fanpeng Meng"
+    },
+    {
+      "literal": "Zihao Huang"
+    },
+    {
+      "literal": "Jichen Pang"
+    },
+    {
+      "literal": "Guanjun Wu"
+    },
+    {
+      "literal": "Zhikuan Bao"
+    },
+    {
+      "literal": "Qi Tian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22352",
+  "genre": "preprint",
+  "version": "1"
+}

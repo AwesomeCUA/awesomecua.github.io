@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2605.21825",
+  "citation-key": "arxiv_2605_21825",
+  "type": "article",
+  "title": "Toward AI VIS Co-Scientists: A General and End-to-End Agent Harness for Solving Complex Data Visualization Tasks",
+  "URL": "https://arxiv.org/abs/2605.21825v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.21825",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.21825",
+    "identifiers": {
+      "arxiv": "2605.21825"
+    },
+    "first_published_at": "2026-05-20",
+    "record_updated_at": "2026-05-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0e4bbde28ca7396d50c14565825e1a703ae314bb70222c7942b3e980529ad761",
+      "submitted_at": "2026-05-20T23:49:28Z",
+      "updated_at": "2026-05-20T23:49:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.21825v1"
+    }
+  },
+  "note": "First published: 2026-05-20; Recorded arXiv version: v1; Recorded version updated: 2026-05-20T23:49:28Z.",
+  "author": [
+    {
+      "literal": "Haichao Miao"
+    },
+    {
+      "literal": "Zhimin Li"
+    },
+    {
+      "literal": "Kuangshi Ai"
+    },
+    {
+      "literal": "Kaiyuan Tang"
+    },
+    {
+      "literal": "Chaoli Wang"
+    },
+    {
+      "literal": "Peer-Timo Bremer"
+    },
+    {
+      "literal": "Shusen Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.21825",
+  "genre": "preprint",
+  "version": "1"
+}

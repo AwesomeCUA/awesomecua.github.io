@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2610.04432",
+  "citation-key": "arxiv_2610_04432",
+  "type": "article",
+  "title": "Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos",
+  "URL": "https://arxiv.org/abs/2610.04432v3",
+  "custom": {
+    "catalog_id": "arxiv:2610.04432",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.04432",
+    "identifiers": {
+      "arxiv": "2610.04432"
+    },
+    "first_published_at": "2026-10-03",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e83098d84398610cc31e74bbd1de9571661222f3f62fc000c019d6309dd4fe88",
+      "submitted_at": "2026-10-03T10:46:52Z",
+      "updated_at": "2026-10-09T05:21:02Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2610.04432v3"
+    }
+  },
+  "note": "First published: 2026-10-03; Recorded arXiv version: v3; Recorded version updated: 2026-10-09T05:21:02Z.",
+  "author": [
+    {
+      "literal": "Jinzhou Tang"
+    },
+    {
+      "literal": "Zijun Zhang"
+    },
+    {
+      "literal": "Jing Yang"
+    },
+    {
+      "literal": "Yuchen Yan"
+    },
+    {
+      "literal": "Kun Zhou"
+    },
+    {
+      "literal": "Lingjun Mao"
+    },
+    {
+      "literal": "Ruobing Han"
+    },
+    {
+      "literal": "Jinglin Cao"
+    },
+    {
+      "literal": "Wenpeng Xu"
+    },
+    {
+      "literal": "Lukun He"
+    },
+    {
+      "literal": "Minghao Fu"
+    },
+    {
+      "literal": "Fan Feng"
+    },
+    {
+      "literal": "Biwei Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.04432",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2506.16136",
+  "citation-key": "arxiv_2506_16136",
+  "type": "article",
+  "title": "Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing",
+  "URL": "https://arxiv.org/abs/2506.16136v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.16136",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.16136",
+    "identifiers": {
+      "arxiv": "2506.16136"
+    },
+    "first_published_at": "2025-06-19",
+    "record_updated_at": "2025-06-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9019e1afd0a6e30a4215d24abe207cba93503c8ff5525f70abb85a0bb39369e9",
+      "submitted_at": "2025-06-19T08:42:11Z",
+      "updated_at": "2025-06-19T08:42:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.16136v1"
+    }
+  },
+  "note": "First published: 2025-06-19; Recorded arXiv version: v1; Recorded version updated: 2025-06-19T08:42:11Z.",
+  "author": [
+    {
+      "literal": "Kai Huang"
+    },
+    {
+      "literal": "Jian Zhang"
+    },
+    {
+      "literal": "Xiaofei Xie"
+    },
+    {
+      "literal": "Chunyang Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.16136",
+  "genre": "preprint",
+  "version": "1"
+}

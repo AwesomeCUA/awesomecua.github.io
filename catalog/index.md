@@ -1,6 +1,6 @@
 # AwesomeCUA resource directory
 
-> 4,587 curated computer-use agent resources: 1,718 papers and surveys and 2,869 other resources. 451 metadata-only bibliography records await relevance review and are not counted.
+> 4,587 curated computer-use agent resources: 1,718 papers and surveys and 2,869 other resources. 883 metadata-only bibliography records await relevance review and are not counted.
 
 HTML page: https://awesomecua.com/catalog/ · Catalog index: https://awesomecua.com/llms.txt
 

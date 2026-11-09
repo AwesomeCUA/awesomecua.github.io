@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.38642",
+  "citation-key": "arxiv_2609_38642",
+  "type": "article",
+  "title": "ChartRevise: A Dataset and Evaluation Protocol for Exact Chart Editing via Code",
+  "URL": "https://arxiv.org/abs/2609.38642v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.38642",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.38642",
+    "identifiers": {
+      "arxiv": "2609.38642"
+    },
+    "first_published_at": "2026-09-29",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fe85f6d3458f91253962c43e75acd852d8ed3989150493929fb68840c5cef1b0",
+      "submitted_at": "2026-09-29T23:00:05Z",
+      "updated_at": "2026-09-29T23:00:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.38642v1"
+    }
+  },
+  "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T23:00:05Z.",
+  "author": [
+    {
+      "literal": "Jiaxiang Tang"
+    },
+    {
+      "literal": "Yi Zhou"
+    },
+    {
+      "literal": "Chad DeLuca"
+    },
+    {
+      "literal": "Rogerio Feris"
+    },
+    {
+      "literal": "Ahmed Khalil Omran"
+    },
+    {
+      "literal": "Zhi-Li Zhang"
+    },
+    {
+      "literal": "Pengyuan Li"
+    },
+    {
+      "literal": "Ali Anwar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.38642",
+  "genre": "preprint",
+  "version": "1"
+}

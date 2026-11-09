@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2512.13731",
+  "citation-key": "arxiv_2512_13731",
+  "type": "article",
+  "title": "Complex Mathematical Expression Recognition: Benchmark, Large-Scale Dataset and Strong Baseline",
+  "URL": "https://arxiv.org/abs/2512.13731v1",
+  "custom": {
+    "catalog_id": "arxiv:2512.13731",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.13731",
+    "identifiers": {
+      "arxiv": "2512.13731"
+    },
+    "first_published_at": "2025-12-14",
+    "record_updated_at": "2025-12-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d2a0d24598604f7c3e23f2e8e1ecc6229695aa1e1bd9229c5544de8f0771caae",
+      "submitted_at": "2025-12-14T06:10:35Z",
+      "updated_at": "2025-12-14T06:10:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.13731v1"
+    }
+  },
+  "note": "First published: 2025-12-14; Recorded arXiv version: v1; Recorded version updated: 2025-12-14T06:10:35Z.",
+  "author": [
+    {
+      "literal": "Weikang Bai"
+    },
+    {
+      "literal": "Yongkun Du"
+    },
+    {
+      "literal": "Yuchen Su"
+    },
+    {
+      "literal": "Yazhen Xie"
+    },
+    {
+      "literal": "Zhineng Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.13731",
+  "genre": "preprint",
+  "version": "1"
+}

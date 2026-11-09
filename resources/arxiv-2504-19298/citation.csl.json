@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2504.19298",
+  "citation-key": "arxiv_2504_19298",
+  "type": "article",
+  "title": "AndroidGen: Building an Android Language Agent under Data Scarcity",
+  "URL": "https://arxiv.org/abs/2504.19298v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.19298",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.19298",
+    "identifiers": {
+      "arxiv": "2504.19298"
+    },
+    "first_published_at": "2025-04-27",
+    "record_updated_at": "2025-04-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e0dce64346aa416fd9b4c1f4c1a70d1353230b75c022c31301f32687555ce1b",
+      "submitted_at": "2025-04-27T16:30:10Z",
+      "updated_at": "2025-04-27T16:30:10Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.19298v1"
+    }
+  },
+  "note": "First published: 2025-04-27; Recorded arXiv version: v1; Recorded version updated: 2025-04-27T16:30:10Z.",
+  "author": [
+    {
+      "literal": "Hanyu Lai"
+    },
+    {
+      "literal": "Junjie Gao"
+    },
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Yifan Xu"
+    },
+    {
+      "literal": "Shudan Zhang"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.19298",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2604.20855",
+  "citation-key": "arxiv_2604_20855",
+  "type": "article",
+  "title": "Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis",
+  "URL": "https://arxiv.org/abs/2604.20855v3",
+  "custom": {
+    "catalog_id": "arxiv:2604.20855",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.20855",
+    "identifiers": {
+      "arxiv": "2604.20855"
+    },
+    "first_published_at": "2026-02-24",
+    "record_updated_at": "2026-05-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c850ffa64d33cfc5b0af9b99b1054110f2563b00e6650cfffab7204722fb32bf",
+      "submitted_at": "2026-02-24T14:20:53Z",
+      "updated_at": "2026-05-08T05:14:45Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2604.20855v3"
+    }
+  },
+  "note": "First published: 2026-02-24; Recorded arXiv version: v3; Recorded version updated: 2026-05-08T05:14:45Z.",
+  "author": [
+    {
+      "literal": "Jason Liang"
+    },
+    {
+      "literal": "Elliot Meyerson"
+    },
+    {
+      "literal": "Risto Miikkulainen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.20855",
+  "genre": "preprint",
+  "version": "3"
+}

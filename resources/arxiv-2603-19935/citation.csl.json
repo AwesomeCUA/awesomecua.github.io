@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2603.19935",
+  "citation-key": "arxiv_2603_19935",
+  "type": "article",
+  "title": "Memori: A Persistent Memory Layer for Efficient, Context-Aware LLM Agents",
+  "URL": "https://arxiv.org/abs/2603.19935v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.19935",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.19935",
+    "identifiers": {
+      "arxiv": "2603.19935"
+    },
+    "first_published_at": "2026-03-20",
+    "record_updated_at": "2026-03-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "41ef4795c463df8c46f1c41597f243c1c5bffdac5c2ceb6f2b1237eee4f28b9f",
+      "submitted_at": "2026-03-20T13:26:38Z",
+      "updated_at": "2026-03-20T13:26:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.19935v1"
+    }
+  },
+  "note": "First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T13:26:38Z.",
+  "author": [
+    {
+      "literal": "Luiz C. Borro"
+    },
+    {
+      "literal": "Luiz A. B. Macarini"
+    },
+    {
+      "literal": "Gordon Tindall"
+    },
+    {
+      "literal": "Michael Montero"
+    },
+    {
+      "literal": "Adam B. Struck"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.19935",
+  "genre": "preprint",
+  "version": "1"
+}

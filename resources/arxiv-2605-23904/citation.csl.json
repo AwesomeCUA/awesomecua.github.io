@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2605.23904",
+  "citation-key": "arxiv_2605_23904",
+  "type": "article",
+  "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+  "URL": "https://arxiv.org/abs/2605.23904v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.23904",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.23904",
+    "identifiers": {
+      "arxiv": "2605.23904"
+    },
+    "first_published_at": "2026-05-22",
+    "record_updated_at": "2026-05-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "79b71a5af6d21796fd12a9824d9c7c0c75c46ab430bd6fe1044056136f5328ff",
+      "submitted_at": "2026-05-22T17:59:50Z",
+      "updated_at": "2026-05-25T17:58:16Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.23904v2"
+    }
+  },
+  "note": "First published: 2026-05-22; Recorded arXiv version: v2; Recorded version updated: 2026-05-25T17:58:16Z.",
+  "author": [
+    {
+      "literal": "Yifan Yang"
+    },
+    {
+      "literal": "Ziyang Gong"
+    },
+    {
+      "literal": "Weiquan Huang"
+    },
+    {
+      "literal": "Qihao Yang"
+    },
+    {
+      "literal": "Ziwei Zhou"
+    },
+    {
+      "literal": "Zisu Huang"
+    },
+    {
+      "literal": "Yan Li"
+    },
+    {
+      "literal": "Xuemei Gao"
+    },
+    {
+      "literal": "Qi Dai"
+    },
+    {
+      "literal": "Bei Liu"
+    },
+    {
+      "literal": "Kai Qiu"
+    },
+    {
+      "literal": "Yuqing Yang"
+    },
+    {
+      "literal": "Dongdong Chen"
+    },
+    {
+      "literal": "Xue Yang"
+    },
+    {
+      "literal": "Chong Luo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.23904",
+  "genre": "preprint",
+  "version": "2"
+}

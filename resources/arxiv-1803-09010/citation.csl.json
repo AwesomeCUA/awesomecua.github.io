@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:1803.09010",
+  "citation-key": "arxiv_1803_09010",
+  "type": "article",
+  "title": "Datasheets for Datasets",
+  "URL": "https://arxiv.org/abs/1803.09010v8",
+  "custom": {
+    "catalog_id": "arxiv:1803.09010",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1803.09010",
+    "identifiers": {
+      "arxiv": "1803.09010"
+    },
+    "first_published_at": "2018-03-23",
+    "record_updated_at": "2021-12-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9681b4d15f87d78f8d724aacc9e3ca8a6be69535b9210eefd7581c967f7dcd89",
+      "submitted_at": "2018-03-23T23:22:18Z",
+      "updated_at": "2021-12-01T20:29:42Z",
+      "version": 8,
+      "versioned_url": "https://arxiv.org/abs/1803.09010v8"
+    }
+  },
+  "note": "First published: 2018-03-23; Recorded arXiv version: v8; Recorded version updated: 2021-12-01T20:29:42Z.",
+  "author": [
+    {
+      "literal": "Timnit Gebru"
+    },
+    {
+      "literal": "Jamie Morgenstern"
+    },
+    {
+      "literal": "Briana Vecchione"
+    },
+    {
+      "literal": "Jennifer Wortman Vaughan"
+    },
+    {
+      "literal": "Hanna Wallach"
+    },
+    {
+      "literal": "Hal Daumé"
+    },
+    {
+      "literal": "Kate Crawford"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        3,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1803.09010",
+  "genre": "preprint",
+  "version": "8"
+}

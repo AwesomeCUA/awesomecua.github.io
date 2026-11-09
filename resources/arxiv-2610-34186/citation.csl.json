@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2610.34186",
+  "citation-key": "arxiv_2610_34186",
+  "type": "article",
+  "title": "HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience",
+  "URL": "https://arxiv.org/abs/2610.34186v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.34186",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.34186",
+    "identifiers": {
+      "arxiv": "2610.34186"
+    },
+    "first_published_at": "2026-10-25",
+    "record_updated_at": "2026-10-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "572fd9735834525bd7db29128a729a73b87a7f1a691fffeaae3e130e7a86e4bd",
+      "submitted_at": "2026-10-25T09:46:41Z",
+      "updated_at": "2026-10-25T09:46:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.34186v1"
+    }
+  },
+  "note": "First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T09:46:41Z.",
+  "author": [
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Jiacheng Liu"
+    },
+    {
+      "literal": "Hengtao Li"
+    },
+    {
+      "literal": "Yuheng Huang"
+    },
+    {
+      "literal": "Zijian Yang"
+    },
+    {
+      "literal": "Ji Dai"
+    },
+    {
+      "literal": "Maoxin Wang"
+    },
+    {
+      "literal": "Yi Gao"
+    },
+    {
+      "literal": "Qishen Wang"
+    },
+    {
+      "literal": "Baohua Yin"
+    },
+    {
+      "literal": "Peiyang Li"
+    },
+    {
+      "literal": "Shuanghao Bai"
+    },
+    {
+      "literal": "Mingyang Sun"
+    },
+    {
+      "literal": "Pengxiang Ding"
+    },
+    {
+      "literal": "Jianqin Yin"
+    },
+    {
+      "literal": "Lixin Yang"
+    },
+    {
+      "literal": "Donglin Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.34186",
+  "genre": "preprint",
+  "version": "1"
+}

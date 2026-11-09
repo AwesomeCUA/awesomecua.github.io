@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2603.16566",
+  "citation-key": "arxiv_2603_16566",
+  "type": "article",
+  "title": "VideoMatGen: PBR Materials through Joint Generative Modeling",
+  "URL": "https://arxiv.org/abs/2603.16566v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.16566",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.16566",
+    "identifiers": {
+      "arxiv": "2603.16566"
+    },
+    "first_published_at": "2026-03-17",
+    "record_updated_at": "2026-03-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c3a39520d24223fc9562acb421594c89f535dd9ead44ee0cb805e0eb65debbbd",
+      "submitted_at": "2026-03-17T14:24:20Z",
+      "updated_at": "2026-03-17T14:24:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.16566v1"
+    }
+  },
+  "note": "First published: 2026-03-17; Recorded arXiv version: v1; Recorded version updated: 2026-03-17T14:24:20Z.",
+  "author": [
+    {
+      "literal": "Jon Hasselgren"
+    },
+    {
+      "literal": "Zheng Zeng"
+    },
+    {
+      "literal": "Milos Hasan"
+    },
+    {
+      "literal": "Jacob Munkberg"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.16566",
+  "genre": "preprint",
+  "version": "1"
+}

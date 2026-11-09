@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2509.19571",
+  "citation-key": "arxiv_2509_19571",
+  "type": "article",
+  "title": "Agentic Scene Policies",
+  "URL": "https://arxiv.org/abs/2509.19571v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.19571",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.19571",
+    "identifiers": {
+      "arxiv": "2509.19571"
+    },
+    "first_published_at": "2025-09-23",
+    "record_updated_at": "2026-10-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e165083c0b5055dc37f7cba9285f2063c67acf2577844305451bd6f35aec2f98",
+      "submitted_at": "2025-09-23T20:56:00Z",
+      "updated_at": "2026-10-07T01:53:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.19571v2"
+    }
+  },
+  "note": "First published: 2025-09-23; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T01:53:33Z.",
+  "author": [
+    {
+      "literal": "Sacha Morin"
+    },
+    {
+      "literal": "Kumaraditya Gupta"
+    },
+    {
+      "literal": "Mahtab Sandhu"
+    },
+    {
+      "literal": "Charlie Gauthier"
+    },
+    {
+      "literal": "Francesco Argenziano"
+    },
+    {
+      "literal": "Kirsty Ellis"
+    },
+    {
+      "literal": "Liam Paull"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.19571",
+  "genre": "preprint",
+  "version": "2"
+}

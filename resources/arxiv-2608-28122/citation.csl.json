@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2608.28122",
+  "citation-key": "arxiv_2608_28122",
+  "type": "article",
+  "title": "Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities",
+  "URL": "https://arxiv.org/abs/2608.28122v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.28122",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.28122",
+    "identifiers": {
+      "arxiv": "2608.28122"
+    },
+    "first_published_at": "2026-08-28",
+    "record_updated_at": "2026-08-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cc4a41ebcab4ee0c3a40a3ccd6f1cc6b7231d23f0a4e40e1c1cf411be9cd0523",
+      "submitted_at": "2026-08-28T09:35:14Z",
+      "updated_at": "2026-08-28T09:35:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.28122v1"
+    }
+  },
+  "note": "First published: 2026-08-28; Recorded arXiv version: v1; Recorded version updated: 2026-08-28T09:35:14Z.",
+  "author": [
+    {
+      "literal": "Tianfu Wang"
+    },
+    {
+      "literal": "Zhezheng Hao"
+    },
+    {
+      "literal": "Xilin Xia"
+    },
+    {
+      "literal": "Lixin Liu"
+    },
+    {
+      "literal": "Mengkang Hu"
+    },
+    {
+      "literal": "Hongzhang Liu"
+    },
+    {
+      "literal": "Xi Chen"
+    },
+    {
+      "literal": "Ziyan Liu"
+    },
+    {
+      "literal": "Xiankun Lin"
+    },
+    {
+      "literal": "Weijia Zhang"
+    },
+    {
+      "literal": "Nicholas Jing Yuan"
+    },
+    {
+      "literal": "Hui Xiong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.28122",
+  "genre": "preprint",
+  "version": "1"
+}

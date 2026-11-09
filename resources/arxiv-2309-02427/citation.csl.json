@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2309.02427",
+  "citation-key": "arxiv_2309_02427",
+  "type": "article",
+  "title": "Cognitive Architectures for Language Agents",
+  "URL": "https://arxiv.org/abs/2309.02427v3",
+  "custom": {
+    "catalog_id": "arxiv:2309.02427",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.02427",
+    "identifiers": {
+      "arxiv": "2309.02427"
+    },
+    "first_published_at": "2023-09-05",
+    "record_updated_at": "2024-03-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c8210d0fa5eb597e942ff1633d4b4a5296557d81dd56da0ce3ab0cd59a75842c",
+      "submitted_at": "2023-09-05T17:56:20Z",
+      "updated_at": "2024-03-15T15:44:11Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2309.02427v3"
+    }
+  },
+  "note": "First published: 2023-09-05; Recorded arXiv version: v3; Recorded version updated: 2024-03-15T15:44:11Z.",
+  "author": [
+    {
+      "literal": "Theodore R. Sumers"
+    },
+    {
+      "literal": "Shunyu Yao"
+    },
+    {
+      "literal": "Karthik Narasimhan"
+    },
+    {
+      "literal": "Thomas L. Griffiths"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.02427",
+  "genre": "preprint",
+  "version": "3"
+}

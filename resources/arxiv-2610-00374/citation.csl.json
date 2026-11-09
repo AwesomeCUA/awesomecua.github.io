@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.00374",
+  "citation-key": "arxiv_2610_00374",
+  "type": "article",
+  "title": "Faithful Chart Generation for Multimodal Deep Research: Frame-Evidence Co-Adaptation",
+  "URL": "https://arxiv.org/abs/2610.00374v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.00374",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.00374",
+    "identifiers": {
+      "arxiv": "2610.00374"
+    },
+    "first_published_at": "2026-09-30",
+    "record_updated_at": "2026-09-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ca7b4bdc7da5b5a39398f19ac9c6ffa7433c8c558a32add9d1a91d429061abe1",
+      "submitted_at": "2026-09-30T07:33:25Z",
+      "updated_at": "2026-09-30T07:33:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.00374v1"
+    }
+  },
+  "note": "First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T07:33:25Z.",
+  "author": [
+    {
+      "literal": "Yuxin Yue"
+    },
+    {
+      "literal": "Yingchen Zhang"
+    },
+    {
+      "literal": "Ruqing Zhang"
+    },
+    {
+      "literal": "Jiafeng Guo"
+    },
+    {
+      "literal": "Maarten de Rijke"
+    },
+    {
+      "literal": "Xueqi Cheng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.00374",
+  "genre": "preprint",
+  "version": "1"
+}

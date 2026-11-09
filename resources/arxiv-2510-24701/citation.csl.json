@@ -1,0 +1,214 @@
+{
+  "id": "arxiv:2510.24701",
+  "citation-key": "arxiv_2510_24701",
+  "type": "article",
+  "title": "Tongyi DeepResearch Technical Report",
+  "URL": "https://arxiv.org/abs/2510.24701v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.24701",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.24701",
+    "identifiers": {
+      "arxiv": "2510.24701"
+    },
+    "first_published_at": "2025-10-28",
+    "record_updated_at": "2026-05-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a3dac2fe827d34d847422c719ab43954c529c24c271b24ce4372f48cae6bfa13",
+      "submitted_at": "2025-10-28T17:53:02Z",
+      "updated_at": "2026-05-18T04:10:32Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.24701v3"
+    }
+  },
+  "note": "First published: 2025-10-28; Recorded arXiv version: v3; Recorded version updated: 2026-05-18T04:10:32Z.",
+  "author": [
+    {
+      "literal": "Tongyi DeepResearch Team"
+    },
+    {
+      "literal": "Baixuan Li"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Dingchu Zhang"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Guangyu Li"
+    },
+    {
+      "literal": "Guoxin Chen"
+    },
+    {
+      "literal": "Huifeng Yin"
+    },
+    {
+      "literal": "Jialong Wu"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Kuan Li"
+    },
+    {
+      "literal": "Liangcai Su"
+    },
+    {
+      "literal": "Litu Ou"
+    },
+    {
+      "literal": "Liwen Zhang"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Rui Ye"
+    },
+    {
+      "literal": "Wenbiao Yin"
+    },
+    {
+      "literal": "Xinmiao Yu"
+    },
+    {
+      "literal": "Xinyu Wang"
+    },
+    {
+      "literal": "Xixi Wu"
+    },
+    {
+      "literal": "Xuanzhong Chen"
+    },
+    {
+      "literal": "Yida Zhao"
+    },
+    {
+      "literal": "Zhen Zhang"
+    },
+    {
+      "literal": "Zhengwei Tao"
+    },
+    {
+      "literal": "Zhongwang Zhang"
+    },
+    {
+      "literal": "Zile Qiao"
+    },
+    {
+      "literal": "Chenxi Wang"
+    },
+    {
+      "literal": "Donglei Yu"
+    },
+    {
+      "literal": "Gang Fu"
+    },
+    {
+      "literal": "Haiyang Shen"
+    },
+    {
+      "literal": "Jiayin Yang"
+    },
+    {
+      "literal": "Jun Lin"
+    },
+    {
+      "literal": "Junkai Zhang"
+    },
+    {
+      "literal": "Kui Zeng"
+    },
+    {
+      "literal": "Li Yang"
+    },
+    {
+      "literal": "Hailong Yin"
+    },
+    {
+      "literal": "Maojia Song"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Minpeng Liao"
+    },
+    {
+      "literal": "Peng Xia"
+    },
+    {
+      "literal": "Qian Xiao"
+    },
+    {
+      "literal": "Rui Min"
+    },
+    {
+      "literal": "Ruixue Ding"
+    },
+    {
+      "literal": "Runnan Fang"
+    },
+    {
+      "literal": "Shaowei Chen"
+    },
+    {
+      "literal": "Shen Huang"
+    },
+    {
+      "literal": "Shihang Wang"
+    },
+    {
+      "literal": "Shihao Cai"
+    },
+    {
+      "literal": "Weizhou Shen"
+    },
+    {
+      "literal": "Xiaobin Wang"
+    },
+    {
+      "literal": "Xin Guan"
+    },
+    {
+      "literal": "Xinyu Geng"
+    },
+    {
+      "literal": "Yingcheng Shi"
+    },
+    {
+      "literal": "Yuning Wu"
+    },
+    {
+      "literal": "Zhuo Chen"
+    },
+    {
+      "literal": "Zijian Li"
+    },
+    {
+      "literal": "Yong Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.24701",
+  "genre": "preprint",
+  "version": "3"
+}

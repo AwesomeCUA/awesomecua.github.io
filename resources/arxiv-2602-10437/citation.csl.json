@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2602.10437",
+  "citation-key": "arxiv_2602_10437",
+  "type": "article",
+  "title": "Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features",
+  "URL": "https://arxiv.org/abs/2602.10437v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.10437",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.10437",
+    "identifiers": {
+      "arxiv": "2602.10437"
+    },
+    "first_published_at": "2026-02-11",
+    "record_updated_at": "2026-05-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b6dbd6094a70c60d8c328dc9cad11e7fae151b5d45d5942ab4d31c9b27c36636",
+      "submitted_at": "2026-02-11T02:28:49Z",
+      "updated_at": "2026-05-03T22:52:48Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.10437v3"
+    }
+  },
+  "note": "First published: 2026-02-11; Recorded arXiv version: v3; Recorded version updated: 2026-05-03T22:52:48Z.",
+  "author": [
+    {
+      "literal": "Seonglae Cho"
+    },
+    {
+      "literal": "Zekun Wu"
+    },
+    {
+      "literal": "Adriano Koshiyama"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.10437",
+  "genre": "preprint",
+  "version": "3"
+}

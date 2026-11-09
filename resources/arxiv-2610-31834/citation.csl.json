@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2610.31834",
+  "citation-key": "arxiv_2610_31834",
+  "type": "article",
+  "title": "WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations",
+  "URL": "https://arxiv.org/abs/2610.31834v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.31834",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.31834",
+    "identifiers": {
+      "arxiv": "2610.31834"
+    },
+    "first_published_at": "2026-10-22",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "82963da9f66000c195c7399d9c112293d89a7d883237432bae268bdf269b44cc",
+      "submitted_at": "2026-10-22T19:13:05Z",
+      "updated_at": "2026-10-22T19:13:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.31834v1"
+    }
+  },
+  "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T19:13:05Z.",
+  "author": [
+    {
+      "literal": "Tianling Xu"
+    },
+    {
+      "literal": "Weijie Wan"
+    },
+    {
+      "literal": "Honghao Su"
+    },
+    {
+      "literal": "Kailun Su"
+    },
+    {
+      "literal": "Junyuan Tang"
+    },
+    {
+      "literal": "Huichi Zhou"
+    },
+    {
+      "literal": "Haozheng Zhang"
+    },
+    {
+      "literal": "Qi Xiong"
+    },
+    {
+      "literal": "Ping Luo"
+    },
+    {
+      "literal": "Wenbo Ding"
+    },
+    {
+      "literal": "Tianxing Chen"
+    },
+    {
+      "literal": "Yue Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.31834",
+  "genre": "preprint",
+  "version": "1"
+}

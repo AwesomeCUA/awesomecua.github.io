@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.13862",
+  "citation-key": "arxiv_2610_13862",
+  "type": "article",
+  "title": "BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation",
+  "URL": "https://arxiv.org/abs/2610.13862v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.13862",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.13862",
+    "identifiers": {
+      "arxiv": "2610.13862"
+    },
+    "first_published_at": "2026-10-09",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6434f3742fbc8b543c013d51c1ba218dd2732bfa00a7633bb304c464ea164505",
+      "submitted_at": "2026-10-09T17:08:45Z",
+      "updated_at": "2026-10-09T17:08:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.13862v1"
+    }
+  },
+  "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T17:08:45Z.",
+  "author": [
+    {
+      "literal": "Fabio Hübel"
+    },
+    {
+      "literal": "Adam Lilja"
+    },
+    {
+      "literal": "Yue Yin"
+    },
+    {
+      "literal": "Siming He"
+    },
+    {
+      "literal": "Claire Tomlin"
+    },
+    {
+      "literal": "Shankar Sastry"
+    },
+    {
+      "literal": "Jonas Frey"
+    },
+    {
+      "literal": "Marco Pavone"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.13862",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2609.36024",
+  "citation-key": "arxiv_2609_36024",
+  "type": "article",
+  "title": "CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes",
+  "URL": "https://arxiv.org/abs/2609.36024v3",
+  "custom": {
+    "catalog_id": "arxiv:2609.36024",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.36024",
+    "identifiers": {
+      "arxiv": "2609.36024"
+    },
+    "first_published_at": "2026-09-28",
+    "record_updated_at": "2026-10-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "26d6b937741074e29f0e26100ebe1c4e6c350d843d664d61defbe840afa897ca",
+      "submitted_at": "2026-09-28T18:01:23Z",
+      "updated_at": "2026-10-03T09:21:01Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2609.36024v3"
+    }
+  },
+  "note": "First published: 2026-09-28; Recorded arXiv version: v3; Recorded version updated: 2026-10-03T09:21:01Z.",
+  "author": [
+    {
+      "literal": "Shuzhao Xie"
+    },
+    {
+      "literal": "Lelin Wang"
+    },
+    {
+      "literal": "Guying Lin"
+    },
+    {
+      "literal": "Zhi Wang"
+    },
+    {
+      "literal": "Minchen Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.36024",
+  "genre": "preprint",
+  "version": "3"
+}

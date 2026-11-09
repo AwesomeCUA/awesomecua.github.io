@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2408.09869",
+  "citation-key": "arxiv_2408_09869",
+  "type": "article",
+  "title": "Docling Technical Report",
+  "URL": "https://arxiv.org/abs/2408.09869v5",
+  "custom": {
+    "catalog_id": "arxiv:2408.09869",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.09869",
+    "identifiers": {
+      "arxiv": "2408.09869"
+    },
+    "first_published_at": "2024-08-19",
+    "record_updated_at": "2024-12-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3de6c93372ad8e9cf1c69546ac93c254cf1df9a4aa70183f40838c83ab32658f",
+      "submitted_at": "2024-08-19T10:20:06Z",
+      "updated_at": "2024-12-09T09:20:54Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2408.09869v5"
+    }
+  },
+  "note": "First published: 2024-08-19; Recorded arXiv version: v5; Recorded version updated: 2024-12-09T09:20:54Z.",
+  "author": [
+    {
+      "literal": "Christoph Auer"
+    },
+    {
+      "literal": "Maksym Lysak"
+    },
+    {
+      "literal": "Ahmed Nassar"
+    },
+    {
+      "literal": "Michele Dolfi"
+    },
+    {
+      "literal": "Nikolaos Livathinos"
+    },
+    {
+      "literal": "Panos Vagenas"
+    },
+    {
+      "literal": "Cesar Berrospi Ramis"
+    },
+    {
+      "literal": "Matteo Omenetti"
+    },
+    {
+      "literal": "Fabian Lindlbauer"
+    },
+    {
+      "literal": "Kasper Dinkla"
+    },
+    {
+      "literal": "Lokesh Mishra"
+    },
+    {
+      "literal": "Yusik Kim"
+    },
+    {
+      "literal": "Shubham Gupta"
+    },
+    {
+      "literal": "Rafael Teixeira de Lima"
+    },
+    {
+      "literal": "Valery Weber"
+    },
+    {
+      "literal": "Lucas Morin"
+    },
+    {
+      "literal": "Ingmar Meijer"
+    },
+    {
+      "literal": "Viktor Kuropiatnyk"
+    },
+    {
+      "literal": "Peter W. J. Staar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.09869",
+  "genre": "preprint",
+  "version": "5"
+}

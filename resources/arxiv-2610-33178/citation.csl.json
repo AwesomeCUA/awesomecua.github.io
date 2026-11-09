@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.33178",
+  "citation-key": "arxiv_2610_33178",
+  "type": "article",
+  "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+  "URL": "https://arxiv.org/abs/2610.33178v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.33178",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.33178",
+    "identifiers": {
+      "arxiv": "2610.33178"
+    },
+    "first_published_at": "2026-10-23",
+    "record_updated_at": "2026-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b29611081b6e9f5649e09660ed6e760f9267f54acd2d161bb5faae0875248b63",
+      "submitted_at": "2026-10-23T18:20:48Z",
+      "updated_at": "2026-10-27T04:20:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.33178v2"
+    }
+  },
+  "note": "First published: 2026-10-23; Recorded arXiv version: v2; Recorded version updated: 2026-10-27T04:20:10Z.",
+  "author": [
+    {
+      "literal": "Erle Zhu"
+    },
+    {
+      "literal": "Genrui Zhang"
+    },
+    {
+      "literal": "Keyang Hu"
+    },
+    {
+      "literal": "Mingyu Su"
+    },
+    {
+      "literal": "Hongning Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.33178",
+  "genre": "preprint",
+  "version": "2"
+}

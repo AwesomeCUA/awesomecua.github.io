@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2407.05562",
+  "citation-key": "arxiv_2407_05562",
+  "type": "article",
+  "title": "Focus on the Whole Character: Discriminative Character Modeling for Scene Text Recognition",
+  "URL": "https://arxiv.org/abs/2407.05562v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.05562",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.05562",
+    "identifiers": {
+      "arxiv": "2407.05562"
+    },
+    "first_published_at": "2024-07-08",
+    "record_updated_at": "2024-07-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1c2f63bf54c4ee67655c4e7bfa491eddbe0ee03cb9dba3de2b1fc0b8c1310742",
+      "submitted_at": "2024-07-08T02:33:29Z",
+      "updated_at": "2024-07-08T02:33:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.05562v1"
+    }
+  },
+  "note": "First published: 2024-07-08; Recorded arXiv version: v1; Recorded version updated: 2024-07-08T02:33:29Z.",
+  "author": [
+    {
+      "literal": "Bangbang Zhou"
+    },
+    {
+      "literal": "Yadong Qu"
+    },
+    {
+      "literal": "Zixiao Wang"
+    },
+    {
+      "literal": "Zicheng Li"
+    },
+    {
+      "literal": "Boqiang Zhang"
+    },
+    {
+      "literal": "Hongtao Xie"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.05562",
+  "genre": "preprint",
+  "version": "1"
+}

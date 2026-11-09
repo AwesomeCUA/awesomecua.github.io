@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2507.20766",
+  "citation-key": "arxiv_2507_20766",
+  "type": "article",
+  "title": "Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback",
+  "URL": "https://arxiv.org/abs/2507.20766v4",
+  "custom": {
+    "catalog_id": "arxiv:2507.20766",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.20766",
+    "identifiers": {
+      "arxiv": "2507.20766"
+    },
+    "first_published_at": "2025-07-28",
+    "record_updated_at": "2025-08-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "23d6e54b98961fed29681c7ce929a9ffea8d7e203091e19fe4de90d6b8f53fc4",
+      "submitted_at": "2025-07-28T12:21:19Z",
+      "updated_at": "2025-08-07T09:53:15Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2507.20766v4"
+    }
+  },
+  "note": "First published: 2025-07-28; Recorded arXiv version: v4; Recorded version updated: 2025-08-07T09:53:15Z.",
+  "author": [
+    {
+      "literal": "Yang Chen"
+    },
+    {
+      "literal": "Yufan Shen"
+    },
+    {
+      "literal": "Wenxuan Huang"
+    },
+    {
+      "literal": "Sheng Zhou"
+    },
+    {
+      "literal": "Qunshu Lin"
+    },
+    {
+      "literal": "Xinyu Cai"
+    },
+    {
+      "literal": "Zhi Yu"
+    },
+    {
+      "literal": "Jiajun Bu"
+    },
+    {
+      "literal": "Botian Shi"
+    },
+    {
+      "literal": "Yu Qiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.20766",
+  "genre": "preprint",
+  "version": "4"
+}

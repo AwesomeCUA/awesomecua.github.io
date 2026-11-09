@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2307.16789",
+  "citation-key": "arxiv_2307_16789",
+  "type": "article",
+  "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+  "URL": "https://arxiv.org/abs/2307.16789v2",
+  "custom": {
+    "catalog_id": "arxiv:2307.16789",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2307.16789",
+    "identifiers": {
+      "arxiv": "2307.16789"
+    },
+    "first_published_at": "2023-07-31",
+    "record_updated_at": "2023-10-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a5016543b94306b755eefb3cf920eb09c12e6a05da810e06dfc38a2ee71791b6",
+      "submitted_at": "2023-07-31T15:56:53Z",
+      "updated_at": "2023-10-03T14:45:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2307.16789v2"
+    }
+  },
+  "note": "First published: 2023-07-31; Recorded arXiv version: v2; Recorded version updated: 2023-10-03T14:45:48Z.",
+  "author": [
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Shihao Liang"
+    },
+    {
+      "literal": "Yining Ye"
+    },
+    {
+      "literal": "Kunlun Zhu"
+    },
+    {
+      "literal": "Lan Yan"
+    },
+    {
+      "literal": "Yaxi Lu"
+    },
+    {
+      "literal": "Yankai Lin"
+    },
+    {
+      "literal": "Xin Cong"
+    },
+    {
+      "literal": "Xiangru Tang"
+    },
+    {
+      "literal": "Bill Qian"
+    },
+    {
+      "literal": "Sihan Zhao"
+    },
+    {
+      "literal": "Lauren Hong"
+    },
+    {
+      "literal": "Runchu Tian"
+    },
+    {
+      "literal": "Ruobing Xie"
+    },
+    {
+      "literal": "Jie Zhou"
+    },
+    {
+      "literal": "Mark Gerstein"
+    },
+    {
+      "literal": "Dahai Li"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Maosong Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2307.16789",
+  "genre": "preprint",
+  "version": "2"
+}

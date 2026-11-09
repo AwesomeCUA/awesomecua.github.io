@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2508.03680",
+  "citation-key": "arxiv_2508_03680",
+  "type": "article",
+  "title": "Agent Lightning: Train ANY AI Agents with Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2508.03680v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.03680",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.03680",
+    "identifiers": {
+      "arxiv": "2508.03680"
+    },
+    "first_published_at": "2025-08-05",
+    "record_updated_at": "2025-08-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a81d37b37f09ef0e4d07b84c38ef4e16089510f0c228723aab0831805e3bf77f",
+      "submitted_at": "2025-08-05T17:50:13Z",
+      "updated_at": "2025-08-05T17:50:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.03680v1"
+    }
+  },
+  "note": "First published: 2025-08-05; Recorded arXiv version: v1; Recorded version updated: 2025-08-05T17:50:13Z.",
+  "author": [
+    {
+      "literal": "Xufang Luo"
+    },
+    {
+      "literal": "Yuge Zhang"
+    },
+    {
+      "literal": "Zhiyuan He"
+    },
+    {
+      "literal": "Zilong Wang"
+    },
+    {
+      "literal": "Siyun Zhao"
+    },
+    {
+      "literal": "Dongsheng Li"
+    },
+    {
+      "literal": "Luna K. Qiu"
+    },
+    {
+      "literal": "Yuqing Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.03680",
+  "genre": "preprint",
+  "version": "1"
+}

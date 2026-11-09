@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2606.15693",
+  "citation-key": "arxiv_2606_15693",
+  "type": "article",
+  "title": "Imperfect Visual Verification for Code Edition : A Case Study on TikZ",
+  "URL": "https://arxiv.org/abs/2606.15693v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.15693",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.15693",
+    "identifiers": {
+      "arxiv": "2606.15693"
+    },
+    "first_published_at": "2026-04-09",
+    "record_updated_at": "2026-04-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e913967cdd594313e6bdb10d2df6c6c9fe656761c51732a1564cc17b0bb85ab9",
+      "submitted_at": "2026-04-09T12:21:52Z",
+      "updated_at": "2026-04-09T12:21:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.15693v1"
+    }
+  },
+  "note": "First published: 2026-04-09; Recorded arXiv version: v1; Recorded version updated: 2026-04-09T12:21:52Z.",
+  "author": [
+    {
+      "literal": "Charly Reux"
+    },
+    {
+      "literal": "Mathieu Acher"
+    },
+    {
+      "literal": "Djamel Eddine Khelladi"
+    },
+    {
+      "literal": "Clément Quinton"
+    },
+    {
+      "literal": "Olivier Barais"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.15693",
+  "genre": "preprint",
+  "version": "1"
+}

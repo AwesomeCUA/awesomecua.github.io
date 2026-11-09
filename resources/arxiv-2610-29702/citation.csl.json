@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.29702",
+  "citation-key": "arxiv_2610_29702",
+  "type": "article",
+  "title": "CausGround: Causal Interaction Grounding for Adaptive Embodied Planning",
+  "URL": "https://arxiv.org/abs/2610.29702v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.29702",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.29702",
+    "identifiers": {
+      "arxiv": "2610.29702"
+    },
+    "first_published_at": "2026-10-21",
+    "record_updated_at": "2026-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ca7ad534afac86c2528c3994f6bdd975dd73deef5d4667a402eabf733bb7126d",
+      "submitted_at": "2026-10-21T13:16:19Z",
+      "updated_at": "2026-10-21T13:16:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.29702v1"
+    }
+  },
+  "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T13:16:19Z.",
+  "author": [
+    {
+      "literal": "Yijun Shen"
+    },
+    {
+      "literal": "Diqi He"
+    },
+    {
+      "literal": "Jinbang Guo"
+    },
+    {
+      "literal": "Wanyue Zhang"
+    },
+    {
+      "literal": "Jiaming Mi"
+    },
+    {
+      "literal": "Huan Yang"
+    },
+    {
+      "literal": "Zhongyuan Wang"
+    },
+    {
+      "literal": "Zhiwei Yu"
+    },
+    {
+      "literal": "Kai Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.29702",
+  "genre": "preprint",
+  "version": "1"
+}

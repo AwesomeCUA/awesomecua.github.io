@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2609.33208",
+  "citation-key": "arxiv_2609_33208",
+  "type": "article",
+  "title": "WorldAgent: Verification-Guided Agentic Physical World Construction",
+  "URL": "https://arxiv.org/abs/2609.33208v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.33208",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.33208",
+    "identifiers": {
+      "arxiv": "2609.33208"
+    },
+    "first_published_at": "2026-09-27",
+    "record_updated_at": "2026-09-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "05ca7e4c3d724d863e956401664d609b833a2e9285cee8af933ba733cae7fdb8",
+      "submitted_at": "2026-09-27T04:46:03Z",
+      "updated_at": "2026-09-27T04:46:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.33208v1"
+    }
+  },
+  "note": "First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T04:46:03Z.",
+  "author": [
+    {
+      "literal": "Caoliwen Wang"
+    },
+    {
+      "literal": "Mengdi Wang"
+    },
+    {
+      "literal": "Yige Chen"
+    },
+    {
+      "literal": "Zejia Wu"
+    },
+    {
+      "literal": "Bowen Huang"
+    },
+    {
+      "literal": "Siyuan Chen"
+    },
+    {
+      "literal": "Guanxiong Chen"
+    },
+    {
+      "literal": "Lifu Wei"
+    },
+    {
+      "literal": "Heng Zhang"
+    },
+    {
+      "literal": "Qinghai Zhang"
+    },
+    {
+      "literal": "Yin Yang"
+    },
+    {
+      "literal": "Guandao Yang"
+    },
+    {
+      "literal": "Shiying Xiong"
+    },
+    {
+      "literal": "Peng Wang"
+    },
+    {
+      "literal": "Chenfanfu Jiang"
+    },
+    {
+      "literal": "Peter Yichen Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.33208",
+  "genre": "preprint",
+  "version": "1"
+}

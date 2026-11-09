@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2610.22341",
+  "citation-key": "arxiv_2610_22341",
+  "type": "article",
+  "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+  "URL": "https://arxiv.org/abs/2610.22341v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.22341",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22341",
+    "identifiers": {
+      "arxiv": "2610.22341"
+    },
+    "first_published_at": "2026-10-15",
+    "record_updated_at": "2026-10-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9f6f81524ef05fab373ef3f5ac502a41405659fe260a1f7705905ff82519affc",
+      "submitted_at": "2026-10-15T17:56:07Z",
+      "updated_at": "2026-10-15T17:56:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.22341v1"
+    }
+  },
+  "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:56:07Z.",
+  "author": [
+    {
+      "literal": "Yipeng Gao"
+    },
+    {
+      "literal": "Ziyao Zeng"
+    },
+    {
+      "literal": "Jinfa Huang"
+    },
+    {
+      "literal": "Yijiang Li"
+    },
+    {
+      "literal": "Haolin Xiong"
+    },
+    {
+      "literal": "Wang Qin"
+    },
+    {
+      "literal": "Xinlei Yu"
+    },
+    {
+      "literal": "Youheng Yao"
+    },
+    {
+      "literal": "Jie Zhang"
+    },
+    {
+      "literal": "Kun-Yu Lin"
+    },
+    {
+      "literal": "Rong Liu"
+    },
+    {
+      "literal": "Yinyuan Zhao"
+    },
+    {
+      "literal": "Yajie Zhao"
+    },
+    {
+      "literal": "Meiqi Guo"
+    },
+    {
+      "literal": "Jiebo Luo"
+    },
+    {
+      "literal": "Lei Shu"
+    },
+    {
+      "literal": "Yunhao Ge"
+    },
+    {
+      "literal": "Xinyu Hu"
+    },
+    {
+      "literal": "Laurent Itti"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22341",
+  "genre": "preprint",
+  "version": "1"
+}

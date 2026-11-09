@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2609.04034",
+  "citation-key": "arxiv_2609_04034",
+  "type": "article",
+  "title": "Editable Visual Design",
+  "URL": "https://arxiv.org/abs/2609.04034v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.04034",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.04034",
+    "identifiers": {
+      "arxiv": "2609.04034"
+    },
+    "first_published_at": "2026-09-03",
+    "record_updated_at": "2026-09-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "99883827b00d33553c64154a27dcf59e8d27784b113c78af5aebfc7cc1bbda31",
+      "submitted_at": "2026-09-03T16:10:12Z",
+      "updated_at": "2026-09-04T07:34:25Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.04034v2"
+    }
+  },
+  "note": "First published: 2026-09-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-04T07:34:25Z.",
+  "author": [
+    {
+      "literal": "Junyan Ye"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Dongzhi Jiang"
+    },
+    {
+      "literal": "Zichen Wen"
+    },
+    {
+      "literal": "HaoDong Li"
+    },
+    {
+      "literal": "Zhutao Lv"
+    },
+    {
+      "literal": "Jiaxin Lin"
+    },
+    {
+      "literal": "Jinhua Yu"
+    },
+    {
+      "literal": "Jun He"
+    },
+    {
+      "literal": "Zilong Huang"
+    },
+    {
+      "literal": "Rui Chen"
+    },
+    {
+      "literal": "Weijia Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.04034",
+  "genre": "preprint",
+  "version": "2"
+}

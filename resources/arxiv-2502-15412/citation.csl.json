@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2502.15412",
+  "citation-key": "arxiv_2502_15412",
+  "type": "article",
+  "title": "Textual-to-Visual Iterative Self-Verification for Slide Generation",
+  "URL": "https://arxiv.org/abs/2502.15412v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.15412",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.15412",
+    "identifiers": {
+      "arxiv": "2502.15412"
+    },
+    "first_published_at": "2025-02-21",
+    "record_updated_at": "2025-02-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "87da2d32adb5312c621d7b3c5fe289f16d505378ee40e422d6ce661945c6eec8",
+      "submitted_at": "2025-02-21T12:21:09Z",
+      "updated_at": "2025-02-21T12:21:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.15412v1"
+    }
+  },
+  "note": "First published: 2025-02-21; Recorded arXiv version: v1; Recorded version updated: 2025-02-21T12:21:09Z.",
+  "author": [
+    {
+      "literal": "Yunqing Xu"
+    },
+    {
+      "literal": "Xinbei Ma"
+    },
+    {
+      "literal": "Jiyang Qiu"
+    },
+    {
+      "literal": "Hai Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.15412",
+  "genre": "preprint",
+  "version": "1"
+}

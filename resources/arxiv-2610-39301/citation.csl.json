@@ -1,0 +1,133 @@
+{
+  "id": "arxiv:2610.39301",
+  "citation-key": "arxiv_2610_39301",
+  "type": "article",
+  "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
+  "URL": "https://arxiv.org/abs/2610.39301v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.39301",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.39301",
+    "identifiers": {
+      "arxiv": "2610.39301"
+    },
+    "first_published_at": "2026-10-29",
+    "record_updated_at": "2026-10-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "093573f1a80bfd80428487474c5f1f734edd026e2b9c44f76065b6840cc749a0",
+      "submitted_at": "2026-10-29T03:49:25Z",
+      "updated_at": "2026-10-29T03:49:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.39301v1"
+    }
+  },
+  "note": "First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T03:49:25Z.",
+  "author": [
+    {
+      "literal": "Yunhang Shen"
+    },
+    {
+      "literal": "Zhangquan Chen"
+    },
+    {
+      "literal": "Xiaotian Li"
+    },
+    {
+      "literal": "Zhongpeng Cai"
+    },
+    {
+      "literal": "Qing Zhou"
+    },
+    {
+      "literal": "Zekai Zhang"
+    },
+    {
+      "literal": "Kun Zhang"
+    },
+    {
+      "literal": "Zezhong Wu"
+    },
+    {
+      "literal": "Jian Hu"
+    },
+    {
+      "literal": "Haihan Gao"
+    },
+    {
+      "literal": "Heting Gao"
+    },
+    {
+      "literal": "Xin Li"
+    },
+    {
+      "literal": "Yinsong Liu"
+    },
+    {
+      "literal": "Deqian Jiang"
+    },
+    {
+      "literal": "Di Yin"
+    },
+    {
+      "literal": "Haoyu Cao"
+    },
+    {
+      "literal": "Xing Sun"
+    },
+    {
+      "literal": "Bing Liu"
+    },
+    {
+      "literal": "Yanqiu Qu"
+    },
+    {
+      "literal": "Yunfei Wu"
+    },
+    {
+      "literal": "Kun Yin"
+    },
+    {
+      "literal": "Zhixiang Wei"
+    },
+    {
+      "literal": "Yongxiang Hua"
+    },
+    {
+      "literal": "Qianyu Li"
+    },
+    {
+      "literal": "Xiaoxing Hu"
+    },
+    {
+      "literal": "Peiyuan Zhang"
+    },
+    {
+      "literal": "Lijiang Li"
+    },
+    {
+      "literal": "Dong Xu"
+    },
+    {
+      "literal": "Zhenchuan Yang"
+    },
+    {
+      "literal": "Yiliang Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.39301",
+  "genre": "preprint",
+  "version": "1"
+}

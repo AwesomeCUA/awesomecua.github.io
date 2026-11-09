@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2508.02629",
+  "citation-key": "arxiv_2508_02629",
+  "type": "article",
+  "title": "HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents",
+  "URL": "https://arxiv.org/abs/2508.02629v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.02629",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.02629",
+    "identifiers": {
+      "arxiv": "2508.02629"
+    },
+    "first_published_at": "2025-08-04",
+    "record_updated_at": "2025-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c4baacefb4fa90281164f7b762075322597a084a9544760e34d7e5b81e040ae9",
+      "submitted_at": "2025-08-04T17:18:14Z",
+      "updated_at": "2025-08-06T07:24:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.02629v2"
+    }
+  },
+  "note": "First published: 2025-08-04; Recorded arXiv version: v2; Recorded version updated: 2025-08-06T07:24:55Z.",
+  "author": [
+    {
+      "literal": "Yibin Liu"
+    },
+    {
+      "literal": "Zhixuan Liang"
+    },
+    {
+      "literal": "Zanxin Chen"
+    },
+    {
+      "literal": "Tianxing Chen"
+    },
+    {
+      "literal": "Mengkang Hu"
+    },
+    {
+      "literal": "Wanxi Dong"
+    },
+    {
+      "literal": "Congsheng Xu"
+    },
+    {
+      "literal": "Zhaoming Han"
+    },
+    {
+      "literal": "Yusen Qin"
+    },
+    {
+      "literal": "Yao Mu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.02629",
+  "genre": "preprint",
+  "version": "2"
+}

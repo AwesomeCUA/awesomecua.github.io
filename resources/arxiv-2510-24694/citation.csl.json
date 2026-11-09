@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2510.24694",
+  "citation-key": "arxiv_2510_24694",
+  "type": "article",
+  "title": "Repurposing Synthetic Data for Fine-grained Search Agent Supervision",
+  "URL": "https://arxiv.org/abs/2510.24694v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.24694",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.24694",
+    "identifiers": {
+      "arxiv": "2510.24694"
+    },
+    "first_published_at": "2025-10-28",
+    "record_updated_at": "2026-02-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dfc30389047e6fdb9fb0afbbd9657624c12954652f8b4556e591b082fd94917b",
+      "submitted_at": "2025-10-28T17:50:40Z",
+      "updated_at": "2026-02-24T12:55:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.24694v2"
+    }
+  },
+  "note": "First published: 2025-10-28; Recorded arXiv version: v2; Recorded version updated: 2026-02-24T12:55:37Z.",
+  "author": [
+    {
+      "literal": "Yida Zhao"
+    },
+    {
+      "literal": "Kuan Li"
+    },
+    {
+      "literal": "Xixi Wu"
+    },
+    {
+      "literal": "Liwen Zhang"
+    },
+    {
+      "literal": "Dingchu Zhang"
+    },
+    {
+      "literal": "Baixuan Li"
+    },
+    {
+      "literal": "Maojia Song"
+    },
+    {
+      "literal": "Zhuo Chen"
+    },
+    {
+      "literal": "Chenxi Wang"
+    },
+    {
+      "literal": "Xinyu Wang"
+    },
+    {
+      "literal": "Kewei Tu"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Yong Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.24694",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2509.13312",
+  "citation-key": "arxiv_2509_13312",
+  "type": "article",
+  "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+  "URL": "https://arxiv.org/abs/2509.13312v3",
+  "custom": {
+    "catalog_id": "arxiv:2509.13312",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.13312",
+    "identifiers": {
+      "arxiv": "2509.13312"
+    },
+    "first_published_at": "2025-09-16",
+    "record_updated_at": "2025-10-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "909716b92e2ddb6fdcc238b457da772a67e1e13332feb8f1dbcb03338645b1d9",
+      "submitted_at": "2025-09-16T17:57:21Z",
+      "updated_at": "2025-10-07T11:47:57Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2509.13312v3"
+    }
+  },
+  "note": "First published: 2025-09-16; Recorded arXiv version: v3; Recorded version updated: 2025-10-07T11:47:57Z.",
+  "author": [
+    {
+      "literal": "Zijian Li"
+    },
+    {
+      "literal": "Xin Guan"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Shen Huang"
+    },
+    {
+      "literal": "Houquan Zhou"
+    },
+    {
+      "literal": "Shaopeng Lai"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Yong Jiang"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Jun Zhang"
+    },
+    {
+      "literal": "Jingren Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.13312",
+  "genre": "preprint",
+  "version": "3"
+}

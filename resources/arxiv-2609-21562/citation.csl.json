@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2609.21562",
+  "citation-key": "arxiv_2609_21562",
+  "type": "article",
+  "title": "GameLogicBench: Evaluating Coding Agents on Runtime Game Logic with Tick-Level State Assertions",
+  "URL": "https://arxiv.org/abs/2609.21562v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.21562",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.21562",
+    "identifiers": {
+      "arxiv": "2609.21562"
+    },
+    "first_published_at": "2026-09-18",
+    "record_updated_at": "2026-09-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d363f4ca689ea2a9808b0db97bf5abc4581559a3b2deb43ccdaf4bc1f94565e0",
+      "submitted_at": "2026-09-18T09:51:41Z",
+      "updated_at": "2026-09-21T16:56:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.21562v2"
+    }
+  },
+  "note": "First published: 2026-09-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-21T16:56:03Z.",
+  "author": [
+    {
+      "literal": "Xinyu Che"
+    },
+    {
+      "literal": "Yunfei Ge"
+    },
+    {
+      "literal": "Shihao Li"
+    },
+    {
+      "literal": "Yanchen Liu"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Xinping Lei"
+    },
+    {
+      "literal": "Yanghai Wang"
+    },
+    {
+      "literal": "Zixuan Dong"
+    },
+    {
+      "literal": "Yifan Yao"
+    },
+    {
+      "literal": "Qianqian Xie"
+    },
+    {
+      "literal": "Letian Zhu"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.21562",
+  "genre": "preprint",
+  "version": "2"
+}

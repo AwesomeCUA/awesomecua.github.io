@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2410.09713",
+  "citation-key": "arxiv_2410_09713",
+  "type": "article",
+  "title": "Agentic Information Retrieval",
+  "URL": "https://arxiv.org/abs/2410.09713v4",
+  "custom": {
+    "catalog_id": "arxiv:2410.09713",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.09713",
+    "identifiers": {
+      "arxiv": "2410.09713"
+    },
+    "first_published_at": "2024-10-13",
+    "record_updated_at": "2025-02-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c23c25852f70c24ce7d3e8c86eb2682331409ded142143894cdab3fdfbd22aa3",
+      "submitted_at": "2024-10-13T03:45:24Z",
+      "updated_at": "2025-02-23T03:23:46Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2410.09713v4"
+    }
+  },
+  "note": "First published: 2024-10-13; Recorded arXiv version: v4; Recorded version updated: 2025-02-23T03:23:46Z.",
+  "author": [
+    {
+      "literal": "Weinan Zhang"
+    },
+    {
+      "literal": "Junwei Liao"
+    },
+    {
+      "literal": "Ning Li"
+    },
+    {
+      "literal": "Kounianhua Du"
+    },
+    {
+      "literal": "Jianghao Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.09713",
+  "genre": "preprint",
+  "version": "4"
+}

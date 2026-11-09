@@ -1,0 +1,142 @@
+{
+  "id": "arxiv:2610.10409",
+  "citation-key": "arxiv_2610_10409",
+  "type": "article",
+  "title": "RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments",
+  "URL": "https://arxiv.org/abs/2610.10409v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.10409",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.10409",
+    "identifiers": {
+      "arxiv": "2610.10409"
+    },
+    "first_published_at": "2026-10-07",
+    "record_updated_at": "2026-10-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "51afbbfd7c5f2e9ff5a108828d6d6226332caa32520df39abbad1baf862f14a9",
+      "submitted_at": "2026-10-07T16:55:24Z",
+      "updated_at": "2026-10-07T16:55:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.10409v1"
+    }
+  },
+  "note": "First published: 2026-10-07; Recorded arXiv version: v1; Recorded version updated: 2026-10-07T16:55:24Z.",
+  "author": [
+    {
+      "literal": "Zhiqin Yang"
+    },
+    {
+      "literal": "Chenxin Li"
+    },
+    {
+      "literal": "Xiaomeng Hu"
+    },
+    {
+      "literal": "Yibin Liu"
+    },
+    {
+      "literal": "Weidong Huang"
+    },
+    {
+      "literal": "Jiankai Sun"
+    },
+    {
+      "literal": "Haitao Li"
+    },
+    {
+      "literal": "Zijian Wu"
+    },
+    {
+      "literal": "Yuzhi Huang"
+    },
+    {
+      "literal": "Fanding Huang"
+    },
+    {
+      "literal": "Hanwen Sun"
+    },
+    {
+      "literal": "Jiashun Liu"
+    },
+    {
+      "literal": "Jingqi Tong"
+    },
+    {
+      "literal": "Mingxin Huang"
+    },
+    {
+      "literal": "Shaoli Hu"
+    },
+    {
+      "literal": "Shijue Huang"
+    },
+    {
+      "literal": "Tianyi Bai"
+    },
+    {
+      "literal": "Xinyuan Wang"
+    },
+    {
+      "literal": "Yunlong Lin"
+    },
+    {
+      "literal": "Zhengyang Tang"
+    },
+    {
+      "literal": "Zhexin Zhang"
+    },
+    {
+      "literal": "Zhuo Chen"
+    },
+    {
+      "literal": "Xierui Song"
+    },
+    {
+      "literal": "Juntao Dai"
+    },
+    {
+      "literal": "Boyuan Chen"
+    },
+    {
+      "literal": "Jiaming Ji"
+    },
+    {
+      "literal": "Fangneng Zhan"
+    },
+    {
+      "literal": "Mengkang Hu"
+    },
+    {
+      "literal": "Wei Xue"
+    },
+    {
+      "literal": "Yonggang Zhang"
+    },
+    {
+      "literal": "Han Hu"
+    },
+    {
+      "literal": "Tsung-Yi Ho"
+    },
+    {
+      "literal": "Yike Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.10409",
+  "genre": "preprint",
+  "version": "1"
+}

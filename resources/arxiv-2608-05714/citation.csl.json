@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2608.05714",
+  "citation-key": "arxiv_2608_05714",
+  "type": "article",
+  "title": "RA-CAD: Learning Post-Execution Critique for State-Aware Text-to-CAD Generation",
+  "URL": "https://arxiv.org/abs/2608.05714v4",
+  "custom": {
+    "catalog_id": "arxiv:2608.05714",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.05714",
+    "identifiers": {
+      "arxiv": "2608.05714"
+    },
+    "first_published_at": "2026-08-06",
+    "record_updated_at": "2026-10-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9827fcca99ded85362a697c4f1b9e0d3cc03f98d92459c59d1c8cf9fd042b183",
+      "submitted_at": "2026-08-06T07:52:45Z",
+      "updated_at": "2026-10-07T12:50:03Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2608.05714v4"
+    }
+  },
+  "note": "First published: 2026-08-06; Recorded arXiv version: v4; Recorded version updated: 2026-10-07T12:50:03Z.",
+  "author": [
+    {
+      "literal": "Shuhao Yan"
+    },
+    {
+      "literal": "Changhao He"
+    },
+    {
+      "literal": "Peng Hu"
+    },
+    {
+      "literal": "Xi Peng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.05714",
+  "genre": "preprint",
+  "version": "4"
+}

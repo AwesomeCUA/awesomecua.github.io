@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2310.01798",
+  "citation-key": "arxiv_2310_01798",
+  "type": "article",
+  "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+  "URL": "https://arxiv.org/abs/2310.01798v2",
+  "custom": {
+    "catalog_id": "arxiv:2310.01798",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.01798",
+    "identifiers": {
+      "arxiv": "2310.01798"
+    },
+    "first_published_at": "2023-10-03",
+    "record_updated_at": "2024-03-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8484b3932adb437af5434fa7c52119036abcc005b9dadd0c8058bf1736956dcf",
+      "submitted_at": "2023-10-03T04:56:12Z",
+      "updated_at": "2024-03-14T04:27:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2310.01798v2"
+    }
+  },
+  "note": "First published: 2023-10-03; Recorded arXiv version: v2; Recorded version updated: 2024-03-14T04:27:52Z.",
+  "author": [
+    {
+      "literal": "Jie Huang"
+    },
+    {
+      "literal": "Xinyun Chen"
+    },
+    {
+      "literal": "Swaroop Mishra"
+    },
+    {
+      "literal": "Huaixiu Steven Zheng"
+    },
+    {
+      "literal": "Adams Wei Yu"
+    },
+    {
+      "literal": "Xinying Song"
+    },
+    {
+      "literal": "Denny Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.01798",
+  "genre": "preprint",
+  "version": "2"
+}

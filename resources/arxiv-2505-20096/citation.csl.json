@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2505.20096",
+  "citation-key": "arxiv_2505_20096",
+  "type": "article",
+  "title": "MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning",
+  "URL": "https://arxiv.org/abs/2505.20096v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.20096",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.20096",
+    "identifiers": {
+      "arxiv": "2505.20096"
+    },
+    "first_published_at": "2025-05-26",
+    "record_updated_at": "2025-10-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "90ad4a2b8fc563f73ddf4400b9d2db85020149c6b8a61b9e5c93a2dc5301f678",
+      "submitted_at": "2025-05-26T15:05:18Z",
+      "updated_at": "2025-10-11T16:19:57Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.20096v2"
+    }
+  },
+  "note": "First published: 2025-05-26; Recorded arXiv version: v2; Recorded version updated: 2025-10-11T16:19:57Z.",
+  "author": [
+    {
+      "literal": "Thang Nguyen"
+    },
+    {
+      "literal": "Peter Chin"
+    },
+    {
+      "literal": "Yu-Wing Tai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.20096",
+  "genre": "preprint",
+  "version": "2"
+}

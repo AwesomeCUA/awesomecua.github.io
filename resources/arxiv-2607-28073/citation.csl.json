@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2607.28073",
+  "citation-key": "arxiv_2607_28073",
+  "type": "article",
+  "title": "GVR-Coder: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios",
+  "URL": "https://arxiv.org/abs/2607.28073v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.28073",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.28073",
+    "identifiers": {
+      "arxiv": "2607.28073"
+    },
+    "first_published_at": "2026-07-30",
+    "record_updated_at": "2026-07-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3a6cec239b29a1695ae424488151c968c1ba44e73e903a4b19f65cacb03b7a10",
+      "submitted_at": "2026-07-30T11:47:50Z",
+      "updated_at": "2026-07-30T11:47:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.28073v1"
+    }
+  },
+  "note": "First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T11:47:50Z.",
+  "author": [
+    {
+      "literal": "Yiming Xu"
+    },
+    {
+      "literal": "Jihua Kang"
+    },
+    {
+      "literal": "Chunsai Du"
+    },
+    {
+      "literal": "Qifan Zhang"
+    },
+    {
+      "literal": "Wangqiu Zhou"
+    },
+    {
+      "literal": "Yiting Wu"
+    },
+    {
+      "literal": "Tianqi Li"
+    },
+    {
+      "literal": "Qi Song"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.28073",
+  "genre": "preprint",
+  "version": "1"
+}

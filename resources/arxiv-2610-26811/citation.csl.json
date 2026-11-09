@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.26811",
+  "citation-key": "arxiv_2610_26811",
+  "type": "article",
+  "title": "State World Models: Execute the Rules, Generate the Pixels",
+  "URL": "https://arxiv.org/abs/2610.26811v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.26811",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.26811",
+    "identifiers": {
+      "arxiv": "2610.26811"
+    },
+    "first_published_at": "2026-10-19",
+    "record_updated_at": "2026-10-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "03de055f071687e2d14c05e377a8e77e06882854e113ad1e9c78f5fe89db22d6",
+      "submitted_at": "2026-10-19T17:50:32Z",
+      "updated_at": "2026-10-19T17:50:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.26811v1"
+    }
+  },
+  "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T17:50:32Z.",
+  "author": [
+    {
+      "literal": "Chan Yan Ki"
+    },
+    {
+      "literal": "Yanran Zhang"
+    },
+    {
+      "literal": "Wenzhao Zheng"
+    },
+    {
+      "literal": "Xiaofeng Wang"
+    },
+    {
+      "literal": "Zheng Zhu"
+    },
+    {
+      "literal": "Lei Chen"
+    },
+    {
+      "literal": "Jie Zhou"
+    },
+    {
+      "literal": "Jiwen Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.26811",
+  "genre": "preprint",
+  "version": "1"
+}

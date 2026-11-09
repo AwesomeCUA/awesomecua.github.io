@@ -1,0 +1,229 @@
+{
+  "id": "arxiv:2610.22471",
+  "citation-key": "arxiv_2610_22471",
+  "type": "article",
+  "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
+  "URL": "https://arxiv.org/abs/2610.22471v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.22471",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22471",
+    "identifiers": {
+      "arxiv": "2610.22471"
+    },
+    "first_published_at": "2026-10-15",
+    "record_updated_at": "2026-10-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3e185daff2ed2c97e71ee0d653a230c4b5c4d47032da39f6401db561c46ad6fe",
+      "submitted_at": "2026-10-15T18:00:00Z",
+      "updated_at": "2026-10-19T17:20:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.22471v2"
+    }
+  },
+  "note": "First published: 2026-10-15; Recorded arXiv version: v2; Recorded version updated: 2026-10-19T17:20:19Z.",
+  "author": [
+    {
+      "literal": "SenseNova"
+    },
+    {
+      "literal": "Joint Research Team"
+    },
+    {
+      "literal": "Zhongang Cai"
+    },
+    {
+      "literal": "Ziang Cao"
+    },
+    {
+      "literal": "Tailai Chen"
+    },
+    {
+      "literal": "Han Chong Chua"
+    },
+    {
+      "literal": "Linjun Dai"
+    },
+    {
+      "literal": "Hanming Deng"
+    },
+    {
+      "literal": "Hokin Deng"
+    },
+    {
+      "literal": "Haiwen Diao"
+    },
+    {
+      "literal": "Chenjing Ding"
+    },
+    {
+      "literal": "Weichen Fan"
+    },
+    {
+      "literal": "Xiao Fu"
+    },
+    {
+      "literal": "Zerui Gong"
+    },
+    {
+      "literal": "Chenyang Gu"
+    },
+    {
+      "literal": "Zexin He"
+    },
+    {
+      "literal": "Zhi Hou"
+    },
+    {
+      "literal": "Bo Li"
+    },
+    {
+      "literal": "Qinyue Li"
+    },
+    {
+      "literal": "Quanzhou Li"
+    },
+    {
+      "literal": "Xiaowan Li"
+    },
+    {
+      "literal": "Zhichao Liao"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Zilong Lin"
+    },
+    {
+      "literal": "Bo Liu"
+    },
+    {
+      "literal": "Chunxiao Liu"
+    },
+    {
+      "literal": "Pengfei Liu"
+    },
+    {
+      "literal": "Tianqi Liu"
+    },
+    {
+      "literal": "Ziwei Liu"
+    },
+    {
+      "literal": "Chen Change Loy"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Jiapeng Luo"
+    },
+    {
+      "literal": "Yuexiao Ma"
+    },
+    {
+      "literal": "Liang Pan"
+    },
+    {
+      "literal": "Xingang Pan"
+    },
+    {
+      "literal": "Oscar Qian"
+    },
+    {
+      "literal": "Ziyi Shang"
+    },
+    {
+      "literal": "Yuyao Shao"
+    },
+    {
+      "literal": "Dawei Su"
+    },
+    {
+      "literal": "Dacheng Tao"
+    },
+    {
+      "literal": "Qingyi Tao"
+    },
+    {
+      "literal": "Quan Wang"
+    },
+    {
+      "literal": "Ruisi Wang"
+    },
+    {
+      "literal": "Xiaogang Wang"
+    },
+    {
+      "literal": "Ziyi Wang"
+    },
+    {
+      "literal": "Beichen Wen"
+    },
+    {
+      "literal": "Donghao Wu"
+    },
+    {
+      "literal": "Jiaxu Wu"
+    },
+    {
+      "literal": "Silei Wu"
+    },
+    {
+      "literal": "Xiaoming Wu"
+    },
+    {
+      "literal": "Zhonghua Wu"
+    },
+    {
+      "literal": "Hongcan Xiao"
+    },
+    {
+      "literal": "Weiye Xu"
+    },
+    {
+      "literal": "Atsushi Yamashita"
+    },
+    {
+      "literal": "Lei Yang"
+    },
+    {
+      "literal": "Zhe Yang"
+    },
+    {
+      "literal": "Baiqiao Yin"
+    },
+    {
+      "literal": "Wanqi Yin"
+    },
+    {
+      "literal": "Hanfei Zhao"
+    },
+    {
+      "literal": "Tianbo Zhong"
+    },
+    {
+      "literal": "Long Zhuo"
+    },
+    {
+      "literal": "Jing Zuo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22471",
+  "genre": "preprint",
+  "version": "2"
+}

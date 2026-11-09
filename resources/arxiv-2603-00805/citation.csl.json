@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2603.00805",
+  "citation-key": "arxiv_2603_00805",
+  "type": "article",
+  "title": "NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code",
+  "URL": "https://arxiv.org/abs/2603.00805v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.00805",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.00805",
+    "identifiers": {
+      "arxiv": "2603.00805"
+    },
+    "first_published_at": "2026-02-28",
+    "record_updated_at": "2026-02-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b0f2e043df0949b184676a8cc7725a4747f4fdca691d60a54d099779817eda8f",
+      "submitted_at": "2026-02-28T20:57:32Z",
+      "updated_at": "2026-02-28T20:57:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.00805v1"
+    }
+  },
+  "note": "First published: 2026-02-28; Recorded arXiv version: v1; Recorded version updated: 2026-02-28T20:57:32Z.",
+  "author": [
+    {
+      "literal": "Seemandhar Jain"
+    },
+    {
+      "literal": "Keshav Gupta"
+    },
+    {
+      "literal": "Kunal Gupta"
+    },
+    {
+      "literal": "Manmohan Chandraker"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.00805",
+  "genre": "preprint",
+  "version": "1"
+}

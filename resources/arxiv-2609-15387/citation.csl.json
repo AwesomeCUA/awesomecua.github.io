@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2609.15387",
+  "citation-key": "arxiv_2609_15387",
+  "type": "article",
+  "title": "WebCraftBench: Evaluating Web Application Generation from a Software Testing Perspective",
+  "URL": "https://arxiv.org/abs/2609.15387v3",
+  "custom": {
+    "catalog_id": "arxiv:2609.15387",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.15387",
+    "identifiers": {
+      "arxiv": "2609.15387"
+    },
+    "first_published_at": "2026-09-14",
+    "record_updated_at": "2026-09-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cd7a74929e1ee5495bc6e792f9f3432a5d078df5391bdd750d1abcf9c97e9b99",
+      "submitted_at": "2026-09-14T11:14:39Z",
+      "updated_at": "2026-09-20T07:31:58Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2609.15387v3"
+    }
+  },
+  "note": "First published: 2026-09-14; Recorded arXiv version: v3; Recorded version updated: 2026-09-20T07:31:58Z.",
+  "author": [
+    {
+      "literal": "Chenxu Liu"
+    },
+    {
+      "literal": "Zilu Zou"
+    },
+    {
+      "literal": "Peizhong Gao"
+    },
+    {
+      "literal": "Jiawen Tao"
+    },
+    {
+      "literal": "Zhexin Zhang"
+    },
+    {
+      "literal": "Guang Chen"
+    },
+    {
+      "literal": "Haowei Lin"
+    },
+    {
+      "literal": "Ying Zhou"
+    },
+    {
+      "literal": "Tianyi Bai"
+    },
+    {
+      "literal": "Dolly Deng"
+    },
+    {
+      "literal": "Suncong Zheng"
+    },
+    {
+      "literal": "Maxm Pan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.15387",
+  "genre": "preprint",
+  "version": "3"
+}

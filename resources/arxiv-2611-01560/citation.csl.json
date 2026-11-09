@@ -1,0 +1,127 @@
+{
+  "id": "arxiv:2611.01560",
+  "citation-key": "arxiv_2611_01560",
+  "type": "article",
+  "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+  "URL": "https://arxiv.org/abs/2611.01560v2",
+  "custom": {
+    "catalog_id": "arxiv:2611.01560",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.01560",
+    "identifiers": {
+      "arxiv": "2611.01560"
+    },
+    "first_published_at": "2026-11-01",
+    "record_updated_at": "2026-11-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7875ff7d993c00efed6a9c2c566c864bd4075f9e8d171ee5f77359bb576f1cd9",
+      "submitted_at": "2026-11-01T04:32:23Z",
+      "updated_at": "2026-11-03T18:09:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2611.01560v2"
+    }
+  },
+  "note": "First published: 2026-11-01; Recorded arXiv version: v2; Recorded version updated: 2026-11-03T18:09:09Z.",
+  "author": [
+    {
+      "literal": "Jiarui Yuan"
+    },
+    {
+      "literal": "Yuxin Zuo"
+    },
+    {
+      "literal": "Xiaoyu Huang"
+    },
+    {
+      "literal": "Wenbo Zhang"
+    },
+    {
+      "literal": "Kwanyoung Park"
+    },
+    {
+      "literal": "Junlin Yang"
+    },
+    {
+      "literal": "Tianxiang Zhang"
+    },
+    {
+      "literal": "Ruoqu Chen"
+    },
+    {
+      "literal": "Yutao Ouyang"
+    },
+    {
+      "literal": "Bingxiang He"
+    },
+    {
+      "literal": "Xingtai Lv"
+    },
+    {
+      "literal": "Hongjin Wu"
+    },
+    {
+      "literal": "Jiajun Liu"
+    },
+    {
+      "literal": "Jiahao Zhao"
+    },
+    {
+      "literal": "Tianwei Luo"
+    },
+    {
+      "literal": "Haozhan Li"
+    },
+    {
+      "literal": "Cheng Qian"
+    },
+    {
+      "literal": "Jiaxin Ge"
+    },
+    {
+      "literal": "Huan-ang Gao"
+    },
+    {
+      "literal": "Kaisen Yang"
+    },
+    {
+      "literal": "Jiaqi Deng"
+    },
+    {
+      "literal": "Qixin Xu"
+    },
+    {
+      "literal": "Siqiao Huang"
+    },
+    {
+      "literal": "Bowen Zhou"
+    },
+    {
+      "literal": "Mengdi Xu"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Pieter Abbeel"
+    },
+    {
+      "literal": "Ning Ding"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.01560",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2507.15061",
+  "citation-key": "arxiv_2507_15061",
+  "type": "article",
+  "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+  "URL": "https://arxiv.org/abs/2507.15061v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.15061",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.15061",
+    "identifiers": {
+      "arxiv": "2507.15061"
+    },
+    "first_published_at": "2025-07-20",
+    "record_updated_at": "2025-07-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4597150c213578f57f46703c46cc2b886f556ea67366cbfb5edd965586045631",
+      "submitted_at": "2025-07-20T17:53:37Z",
+      "updated_at": "2025-07-20T17:53:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.15061v1"
+    }
+  },
+  "note": "First published: 2025-07-20; Recorded arXiv version: v1; Recorded version updated: 2025-07-20T17:53:37Z.",
+  "author": [
+    {
+      "literal": "Zhengwei Tao"
+    },
+    {
+      "literal": "Jialong Wu"
+    },
+    {
+      "literal": "Wenbiao Yin"
+    },
+    {
+      "literal": "Junkai Zhang"
+    },
+    {
+      "literal": "Baixuan Li"
+    },
+    {
+      "literal": "Haiyang Shen"
+    },
+    {
+      "literal": "Kuan Li"
+    },
+    {
+      "literal": "Liwen Zhang"
+    },
+    {
+      "literal": "Xinyu Wang"
+    },
+    {
+      "literal": "Yong Jiang"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Jingren Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.15061",
+  "genre": "preprint",
+  "version": "1"
+}

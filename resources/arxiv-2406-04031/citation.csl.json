@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2406.04031",
+  "citation-key": "arxiv_2406_04031",
+  "type": "article",
+  "title": "Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt",
+  "URL": "https://arxiv.org/abs/2406.04031v2",
+  "custom": {
+    "catalog_id": "arxiv:2406.04031",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.04031",
+    "identifiers": {
+      "arxiv": "2406.04031"
+    },
+    "first_published_at": "2024-06-06",
+    "record_updated_at": "2024-07-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d27f8f1266408c0db1299f1d8fcd90d344a26e374b52d0de566fe8c5bbf5d6fb",
+      "submitted_at": "2024-06-06T13:00:42Z",
+      "updated_at": "2024-07-01T14:25:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.04031v2"
+    }
+  },
+  "note": "First published: 2024-06-06; Recorded arXiv version: v2; Recorded version updated: 2024-07-01T14:25:23Z.",
+  "author": [
+    {
+      "literal": "Zonghao Ying"
+    },
+    {
+      "literal": "Aishan Liu"
+    },
+    {
+      "literal": "Tianyuan Zhang"
+    },
+    {
+      "literal": "Zhengmin Yu"
+    },
+    {
+      "literal": "Siyuan Liang"
+    },
+    {
+      "literal": "Xianglong Liu"
+    },
+    {
+      "literal": "Dacheng Tao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.04031",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.30679",
+  "citation-key": "arxiv_2610_30679",
+  "type": "article",
+  "title": "AgentDreamer: Agentic 3D Motion Reasoning for Text-Controllable Physics Simulation",
+  "URL": "https://arxiv.org/abs/2610.30679v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.30679",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.30679",
+    "identifiers": {
+      "arxiv": "2610.30679"
+    },
+    "first_published_at": "2026-10-22",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "78517bbdcd8696ee5317effa9818a0f918da27c11b848e7fa39164075cb70170",
+      "submitted_at": "2026-10-22T03:46:22Z",
+      "updated_at": "2026-10-22T03:46:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.30679v1"
+    }
+  },
+  "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T03:46:22Z.",
+  "author": [
+    {
+      "literal": "Mijeong Kim"
+    },
+    {
+      "literal": "Suho Park"
+    },
+    {
+      "literal": "Junha Park"
+    },
+    {
+      "literal": "Bohyung Han"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.30679",
+  "genre": "preprint",
+  "version": "1"
+}

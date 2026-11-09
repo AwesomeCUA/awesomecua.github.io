@@ -1,0 +1,193 @@
+{
+  "id": "arxiv:2211.09110",
+  "citation-key": "arxiv_2211_09110",
+  "type": "article",
+  "title": "Holistic Evaluation of Language Models",
+  "URL": "https://arxiv.org/abs/2211.09110v2",
+  "custom": {
+    "catalog_id": "arxiv:2211.09110",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2211.09110",
+    "identifiers": {
+      "arxiv": "2211.09110"
+    },
+    "first_published_at": "2022-11-16",
+    "record_updated_at": "2023-10-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "79d9822ff756245b64ea6a1ab2ed4eae051edd024a74263e69ce492fbf9306bc",
+      "submitted_at": "2022-11-16T18:51:34Z",
+      "updated_at": "2023-10-01T21:44:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2211.09110v2"
+    }
+  },
+  "note": "First published: 2022-11-16; Recorded arXiv version: v2; Recorded version updated: 2023-10-01T21:44:23Z.",
+  "author": [
+    {
+      "literal": "Percy Liang"
+    },
+    {
+      "literal": "Rishi Bommasani"
+    },
+    {
+      "literal": "Tony Lee"
+    },
+    {
+      "literal": "Dimitris Tsipras"
+    },
+    {
+      "literal": "Dilara Soylu"
+    },
+    {
+      "literal": "Michihiro Yasunaga"
+    },
+    {
+      "literal": "Yian Zhang"
+    },
+    {
+      "literal": "Deepak Narayanan"
+    },
+    {
+      "literal": "Yuhuai Wu"
+    },
+    {
+      "literal": "Ananya Kumar"
+    },
+    {
+      "literal": "Benjamin Newman"
+    },
+    {
+      "literal": "Binhang Yuan"
+    },
+    {
+      "literal": "Bobby Yan"
+    },
+    {
+      "literal": "Ce Zhang"
+    },
+    {
+      "literal": "Christian Cosgrove"
+    },
+    {
+      "literal": "Christopher D. Manning"
+    },
+    {
+      "literal": "Christopher Ré"
+    },
+    {
+      "literal": "Diana Acosta-Navas"
+    },
+    {
+      "literal": "Drew A. Hudson"
+    },
+    {
+      "literal": "Eric Zelikman"
+    },
+    {
+      "literal": "Esin Durmus"
+    },
+    {
+      "literal": "Faisal Ladhak"
+    },
+    {
+      "literal": "Frieda Rong"
+    },
+    {
+      "literal": "Hongyu Ren"
+    },
+    {
+      "literal": "Huaxiu Yao"
+    },
+    {
+      "literal": "Jue Wang"
+    },
+    {
+      "literal": "Keshav Santhanam"
+    },
+    {
+      "literal": "Laurel Orr"
+    },
+    {
+      "literal": "Lucia Zheng"
+    },
+    {
+      "literal": "Mert Yuksekgonul"
+    },
+    {
+      "literal": "Mirac Suzgun"
+    },
+    {
+      "literal": "Nathan Kim"
+    },
+    {
+      "literal": "Neel Guha"
+    },
+    {
+      "literal": "Niladri Chatterji"
+    },
+    {
+      "literal": "Omar Khattab"
+    },
+    {
+      "literal": "Peter Henderson"
+    },
+    {
+      "literal": "Qian Huang"
+    },
+    {
+      "literal": "Ryan Chi"
+    },
+    {
+      "literal": "Sang Michael Xie"
+    },
+    {
+      "literal": "Shibani Santurkar"
+    },
+    {
+      "literal": "Surya Ganguli"
+    },
+    {
+      "literal": "Tatsunori Hashimoto"
+    },
+    {
+      "literal": "Thomas Icard"
+    },
+    {
+      "literal": "Tianyi Zhang"
+    },
+    {
+      "literal": "Vishrav Chaudhary"
+    },
+    {
+      "literal": "William Wang"
+    },
+    {
+      "literal": "Xuechen Li"
+    },
+    {
+      "literal": "Yifan Mai"
+    },
+    {
+      "literal": "Yuhui Zhang"
+    },
+    {
+      "literal": "Yuta Koreeda"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2211.09110",
+  "genre": "preprint",
+  "version": "2"
+}

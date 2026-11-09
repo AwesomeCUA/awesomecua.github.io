@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2406.20094",
+  "citation-key": "arxiv_2406_20094",
+  "type": "article",
+  "title": "Scaling Synthetic Data Creation with 1,000,000,000 Personas",
+  "URL": "https://arxiv.org/abs/2406.20094v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.20094",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.20094",
+    "identifiers": {
+      "arxiv": "2406.20094"
+    },
+    "first_published_at": "2024-06-28",
+    "record_updated_at": "2025-05-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "61cea4b86fafe16778f5b9b6f879b4d0af178dd60cb1182189633deb6707ad6f",
+      "submitted_at": "2024-06-28T17:59:01Z",
+      "updated_at": "2025-05-08T00:24:02Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.20094v3"
+    }
+  },
+  "note": "First published: 2024-06-28; Recorded arXiv version: v3; Recorded version updated: 2025-05-08T00:24:02Z.",
+  "author": [
+    {
+      "literal": "Tao Ge"
+    },
+    {
+      "literal": "Xin Chan"
+    },
+    {
+      "literal": "Xiaoyang Wang"
+    },
+    {
+      "literal": "Dian Yu"
+    },
+    {
+      "literal": "Haitao Mi"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.20094",
+  "genre": "preprint",
+  "version": "3"
+}

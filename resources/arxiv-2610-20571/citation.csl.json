@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2610.20571",
+  "citation-key": "arxiv_2610_20571",
+  "type": "article",
+  "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+  "URL": "https://arxiv.org/abs/2610.20571v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.20571",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.20571",
+    "identifiers": {
+      "arxiv": "2610.20571"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "00b76173d217981da799595d03256a3d83f40fcfb9ac4ea7483d32302fd3b9c1",
+      "submitted_at": "2026-10-14T17:54:18Z",
+      "updated_at": "2026-10-14T17:54:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.20571v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T17:54:18Z.",
+  "author": [
+    {
+      "literal": "Weijie Wang"
+    },
+    {
+      "literal": "Haomin Zhang"
+    },
+    {
+      "literal": "Ye Li"
+    },
+    {
+      "literal": "Akide Liu"
+    },
+    {
+      "literal": "Zeyu Zhang"
+    },
+    {
+      "literal": "Haoyu Zhao"
+    },
+    {
+      "literal": "Yefei He"
+    },
+    {
+      "literal": "Donny Y. Chen"
+    },
+    {
+      "literal": "Feng Chen"
+    },
+    {
+      "literal": "Bohan Zhuang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.20571",
+  "genre": "preprint",
+  "version": "1"
+}

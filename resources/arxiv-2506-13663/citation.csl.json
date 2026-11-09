@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2506.13663",
+  "citation-key": "arxiv_2506_13663",
+  "type": "article",
+  "title": "DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models",
+  "URL": "https://arxiv.org/abs/2506.13663v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.13663",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.13663",
+    "identifiers": {
+      "arxiv": "2506.13663"
+    },
+    "first_published_at": "2025-06-16",
+    "record_updated_at": "2025-06-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fc728a34e3916339ec2a1828cfc70952d39af6867abaf824caa2cf7e4984f0d9",
+      "submitted_at": "2025-06-16T16:20:43Z",
+      "updated_at": "2025-06-16T16:20:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.13663v1"
+    }
+  },
+  "note": "First published: 2025-06-16; Recorded arXiv version: v1; Recorded version updated: 2025-06-16T16:20:43Z.",
+  "author": [
+    {
+      "literal": "Yunnong Chen"
+    },
+    {
+      "literal": "Shixian Ding"
+    },
+    {
+      "literal": "YingYing Zhang"
+    },
+    {
+      "literal": "Wenkai Chen"
+    },
+    {
+      "literal": "Jinzhou Du"
+    },
+    {
+      "literal": "Lingyun Sun"
+    },
+    {
+      "literal": "Liuqing Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.13663",
+  "genre": "preprint",
+  "version": "1"
+}

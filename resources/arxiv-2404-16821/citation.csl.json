@@ -1,0 +1,148 @@
+{
+  "id": "arxiv:2404.16821",
+  "citation-key": "arxiv_2404_16821",
+  "type": "article",
+  "title": "How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites",
+  "URL": "https://arxiv.org/abs/2404.16821v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.16821",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.16821",
+    "identifiers": {
+      "arxiv": "2404.16821"
+    },
+    "first_published_at": "2024-04-25",
+    "record_updated_at": "2024-04-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "35217dc2d0cd82ca24c820eaebcef569ab2236c8fcd2ac1514ed3416840ab21a",
+      "submitted_at": "2024-04-25T17:59:19Z",
+      "updated_at": "2024-04-29T20:24:30Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.16821v2"
+    }
+  },
+  "note": "First published: 2024-04-25; Recorded arXiv version: v2; Recorded version updated: 2024-04-29T20:24:30Z.",
+  "author": [
+    {
+      "literal": "Zhe Chen"
+    },
+    {
+      "literal": "Weiyun Wang"
+    },
+    {
+      "literal": "Hao Tian"
+    },
+    {
+      "literal": "Shenglong Ye"
+    },
+    {
+      "literal": "Zhangwei Gao"
+    },
+    {
+      "literal": "Erfei Cui"
+    },
+    {
+      "literal": "Wenwen Tong"
+    },
+    {
+      "literal": "Kongzhi Hu"
+    },
+    {
+      "literal": "Jiapeng Luo"
+    },
+    {
+      "literal": "Zheng Ma"
+    },
+    {
+      "literal": "Ji Ma"
+    },
+    {
+      "literal": "Jiaqi Wang"
+    },
+    {
+      "literal": "Xiaoyi Dong"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Hewei Guo"
+    },
+    {
+      "literal": "Conghui He"
+    },
+    {
+      "literal": "Botian Shi"
+    },
+    {
+      "literal": "Zhenjiang Jin"
+    },
+    {
+      "literal": "Chao Xu"
+    },
+    {
+      "literal": "Bin Wang"
+    },
+    {
+      "literal": "Xingjian Wei"
+    },
+    {
+      "literal": "Wei Li"
+    },
+    {
+      "literal": "Wenjian Zhang"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Pinlong Cai"
+    },
+    {
+      "literal": "Licheng Wen"
+    },
+    {
+      "literal": "Xiangchao Yan"
+    },
+    {
+      "literal": "Min Dou"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Xizhou Zhu"
+    },
+    {
+      "literal": "Tong Lu"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Jifeng Dai"
+    },
+    {
+      "literal": "Wenhai Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.16821",
+  "genre": "preprint",
+  "version": "2"
+}

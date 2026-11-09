@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.08720",
+  "citation-key": "arxiv_2610_08720",
+  "type": "article",
+  "title": "WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?",
+  "URL": "https://arxiv.org/abs/2610.08720v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.08720",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.08720",
+    "identifiers": {
+      "arxiv": "2610.08720"
+    },
+    "first_published_at": "2026-10-06",
+    "record_updated_at": "2026-10-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3957c532bdf0faa3e60636bc6f2e40a8925431c221fda61658a2810e3f243b17",
+      "submitted_at": "2026-10-06T17:26:26Z",
+      "updated_at": "2026-10-06T17:26:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.08720v1"
+    }
+  },
+  "note": "First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T17:26:26Z.",
+  "author": [
+    {
+      "literal": "Siru Jiang"
+    },
+    {
+      "literal": "Yongzhe Lyu"
+    },
+    {
+      "literal": "Shuo Lu"
+    },
+    {
+      "literal": "Yubin Wang"
+    },
+    {
+      "literal": "Yuxiang Zhang"
+    },
+    {
+      "literal": "Yue Liao"
+    },
+    {
+      "literal": "Bin Wang"
+    },
+    {
+      "literal": "Jian Liang"
+    },
+    {
+      "literal": "Tieniu Tan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.08720",
+  "genre": "preprint",
+  "version": "1"
+}

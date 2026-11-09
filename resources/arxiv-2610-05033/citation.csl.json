@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.05033",
+  "citation-key": "arxiv_2610_05033",
+  "type": "article",
+  "title": "Code2Games: Enabling Coding Agents for Gaming World Generation",
+  "URL": "https://arxiv.org/abs/2610.05033v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.05033",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.05033",
+    "identifiers": {
+      "arxiv": "2610.05033"
+    },
+    "first_published_at": "2026-10-04",
+    "record_updated_at": "2026-10-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b8e077a9fff60dcda8dd58e9b62a969d5824b1803e067f943414787704c38d73",
+      "submitted_at": "2026-10-04T07:54:45Z",
+      "updated_at": "2026-10-04T07:54:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.05033v1"
+    }
+  },
+  "note": "First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T07:54:45Z.",
+  "author": [
+    {
+      "literal": "Wei Wu"
+    },
+    {
+      "literal": "Ziyang Xu"
+    },
+    {
+      "literal": "Zeyu Zhang"
+    },
+    {
+      "literal": "Yang Zhao"
+    },
+    {
+      "literal": "Hao Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.05033",
+  "genre": "preprint",
+  "version": "1"
+}

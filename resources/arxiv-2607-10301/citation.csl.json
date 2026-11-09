@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2607.10301",
+  "citation-key": "arxiv_2607_10301",
+  "type": "article",
+  "title": "ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing",
+  "URL": "https://arxiv.org/abs/2607.10301v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.10301",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.10301",
+    "identifiers": {
+      "arxiv": "2607.10301"
+    },
+    "first_published_at": "2026-07-11",
+    "record_updated_at": "2026-07-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "52ef42b3746aafe5e7b36b55f73a18a153c7bb1c8100657b89a224a0bd0f68df",
+      "submitted_at": "2026-07-11T13:10:32Z",
+      "updated_at": "2026-07-11T13:10:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.10301v1"
+    }
+  },
+  "note": "First published: 2026-07-11; Recorded arXiv version: v1; Recorded version updated: 2026-07-11T13:10:32Z.",
+  "author": [
+    {
+      "literal": "Jiakang Yu"
+    },
+    {
+      "literal": "Yixuan Chai"
+    },
+    {
+      "literal": "Tianci Wang"
+    },
+    {
+      "literal": "Rihui Jin"
+    },
+    {
+      "literal": "Guangkai Xu"
+    },
+    {
+      "literal": "Hongtao Deng"
+    },
+    {
+      "literal": "Xun Zhu"
+    },
+    {
+      "literal": "Wang Gao"
+    },
+    {
+      "literal": "Xinrun Guo"
+    },
+    {
+      "literal": "Haipang Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.10301",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2609.35432",
+  "citation-key": "arxiv_2609_35432",
+  "type": "article",
+  "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
+  "URL": "https://arxiv.org/abs/2609.35432v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.35432",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.35432",
+    "identifiers": {
+      "arxiv": "2609.35432"
+    },
+    "first_published_at": "2026-09-28",
+    "record_updated_at": "2026-09-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "071ab38c5a3c877cffba237ddcffebbdf93dc8111be53305d9a9f8c0d56085b2",
+      "submitted_at": "2026-09-28T15:38:07Z",
+      "updated_at": "2026-09-28T15:38:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.35432v1"
+    }
+  },
+  "note": "First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T15:38:07Z.",
+  "author": [
+    {
+      "literal": "Hongcheng Gao"
+    },
+    {
+      "literal": "Jingjing Zhou"
+    },
+    {
+      "literal": "Zelin Zheng"
+    },
+    {
+      "literal": "Shijia Ge"
+    },
+    {
+      "literal": "Jay Zhu"
+    },
+    {
+      "literal": "Yazhe Wang"
+    },
+    {
+      "literal": "Jianshu Zeng"
+    },
+    {
+      "literal": "Xuan Shangguan"
+    },
+    {
+      "literal": "Di Wu"
+    },
+    {
+      "literal": "Lingyu He"
+    },
+    {
+      "literal": "Zhiqi Jia"
+    },
+    {
+      "literal": "Sihang Wu"
+    },
+    {
+      "literal": "Xiao He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.35432",
+  "genre": "preprint",
+  "version": "1"
+}

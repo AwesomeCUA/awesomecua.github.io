@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2411.10442",
+  "citation-key": "arxiv_2411_10442",
+  "type": "article",
+  "title": "Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization",
+  "URL": "https://arxiv.org/abs/2411.10442v2",
+  "custom": {
+    "catalog_id": "arxiv:2411.10442",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.10442",
+    "identifiers": {
+      "arxiv": "2411.10442"
+    },
+    "first_published_at": "2024-11-15",
+    "record_updated_at": "2025-04-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3312091c08e87b1dad4c8e0a1e32b3f360f055358164c5fe56e610dc5e414c1b",
+      "submitted_at": "2024-11-15T18:59:27Z",
+      "updated_at": "2025-04-07T09:09:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2411.10442v2"
+    }
+  },
+  "note": "First published: 2024-11-15; Recorded arXiv version: v2; Recorded version updated: 2025-04-07T09:09:39Z.",
+  "author": [
+    {
+      "literal": "Weiyun Wang"
+    },
+    {
+      "literal": "Zhe Chen"
+    },
+    {
+      "literal": "Wenhai Wang"
+    },
+    {
+      "literal": "Yue Cao"
+    },
+    {
+      "literal": "Yangzhou Liu"
+    },
+    {
+      "literal": "Zhangwei Gao"
+    },
+    {
+      "literal": "Jinguo Zhu"
+    },
+    {
+      "literal": "Xizhou Zhu"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Jifeng Dai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.10442",
+  "genre": "preprint",
+  "version": "2"
+}

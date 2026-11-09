@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2503.16032",
+  "citation-key": "arxiv_2503_16032",
+  "type": "article",
+  "title": "Agentic Keyframe Search for Video Question Answering",
+  "URL": "https://arxiv.org/abs/2503.16032v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.16032",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.16032",
+    "identifiers": {
+      "arxiv": "2503.16032"
+    },
+    "first_published_at": "2025-03-20",
+    "record_updated_at": "2025-03-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "46683b198a95371001bbf2b7d2ed40a944cc908767b4c1511c689f5ed043e063",
+      "submitted_at": "2025-03-20T10:58:12Z",
+      "updated_at": "2025-03-20T10:58:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.16032v1"
+    }
+  },
+  "note": "First published: 2025-03-20; Recorded arXiv version: v1; Recorded version updated: 2025-03-20T10:58:12Z.",
+  "author": [
+    {
+      "literal": "Sunqi Fan"
+    },
+    {
+      "literal": "Meng-Hao Guo"
+    },
+    {
+      "literal": "Shuojin Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.16032",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.20998",
+  "citation-key": "arxiv_2610_20998",
+  "type": "article",
+  "title": "MoCaP: Mobile Code-as-Policies for Zero-Shot Mobile Manipulation from Passive Human Videos",
+  "URL": "https://arxiv.org/abs/2610.20998v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.20998",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.20998",
+    "identifiers": {
+      "arxiv": "2610.20998"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "474244d0636d9bcedf24c7952b88d32f96cc91a7583b9446ab92b8c4e2e98dc0",
+      "submitted_at": "2026-10-14T22:33:20Z",
+      "updated_at": "2026-10-14T22:33:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.20998v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T22:33:20Z.",
+  "author": [
+    {
+      "literal": "Yiyang Cai"
+    },
+    {
+      "literal": "Tatsuya Kamijo"
+    },
+    {
+      "literal": "Ninghao Lu"
+    },
+    {
+      "literal": "Zijin Hu"
+    },
+    {
+      "literal": "Sherry Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.20998",
+  "genre": "preprint",
+  "version": "1"
+}

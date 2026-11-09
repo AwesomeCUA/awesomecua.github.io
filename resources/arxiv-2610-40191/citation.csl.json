@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2610.40191",
+  "citation-key": "arxiv_2610_40191",
+  "type": "article",
+  "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
+  "URL": "https://arxiv.org/abs/2610.40191v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.40191",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.40191",
+    "identifiers": {
+      "arxiv": "2610.40191"
+    },
+    "first_published_at": "2026-10-29",
+    "record_updated_at": "2026-10-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b4a239591d670c7d41a51d6f2655bf5d8c6089380afc4069f8c222e1db57b149",
+      "submitted_at": "2026-10-29T14:47:39Z",
+      "updated_at": "2026-10-29T14:47:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.40191v1"
+    }
+  },
+  "note": "First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T14:47:39Z.",
+  "author": [
+    {
+      "literal": "Liaoyuan Fan"
+    },
+    {
+      "literal": "Yuhao Zheng"
+    },
+    {
+      "literal": "Dongxing Mao"
+    },
+    {
+      "literal": "Hangyu Ran"
+    },
+    {
+      "literal": "Siyuan Hu"
+    },
+    {
+      "literal": "Weijia Mao"
+    },
+    {
+      "literal": "Rui Zhao"
+    },
+    {
+      "literal": "Weijia Wu"
+    },
+    {
+      "literal": "Guian Fang"
+    },
+    {
+      "literal": "Yanzhe Chen"
+    },
+    {
+      "literal": "Zeyu Zhu"
+    },
+    {
+      "literal": "Yuxin Jiang"
+    },
+    {
+      "literal": "Yiren Song"
+    },
+    {
+      "literal": "Yuchao Gu"
+    },
+    {
+      "literal": "Junchao Yi"
+    },
+    {
+      "literal": "Qi Hu"
+    },
+    {
+      "literal": "Dan Kong"
+    },
+    {
+      "literal": "Alex Jinpeng Wang"
+    },
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    },
+    {
+      "literal": "Wei Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.40191",
+  "genre": "preprint",
+  "version": "1"
+}

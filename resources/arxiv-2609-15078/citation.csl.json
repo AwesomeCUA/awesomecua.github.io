@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2609.15078",
+  "citation-key": "arxiv_2609_15078",
+  "type": "article",
+  "title": "Enabling Creative Exploration for Vibe Design Agents",
+  "URL": "https://arxiv.org/abs/2609.15078v3",
+  "custom": {
+    "catalog_id": "arxiv:2609.15078",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.15078",
+    "identifiers": {
+      "arxiv": "2609.15078"
+    },
+    "first_published_at": "2026-09-14",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3ad1647e6684b0b66e00b1acf5d69ffc89d488d53e6ea3fa4fa68e362ca3b9ac",
+      "submitted_at": "2026-09-14T05:49:45Z",
+      "updated_at": "2026-10-12T06:20:45Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2609.15078v3"
+    }
+  },
+  "note": "First published: 2026-09-14; Recorded arXiv version: v3; Recorded version updated: 2026-10-12T06:20:45Z.",
+  "author": [
+    {
+      "literal": "Yifan Zhang"
+    },
+    {
+      "literal": "Nghi D. Q. Bui"
+    },
+    {
+      "literal": "Georgios Evangelopoulos"
+    },
+    {
+      "literal": "Arnaud Benard"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.15078",
+  "genre": "preprint",
+  "version": "3"
+}

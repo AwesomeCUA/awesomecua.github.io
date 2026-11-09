@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2602.03798",
+  "citation-key": "arxiv_2602_03798",
+  "type": "article",
+  "title": "FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation",
+  "URL": "https://arxiv.org/abs/2602.03798v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.03798",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.03798",
+    "identifiers": {
+      "arxiv": "2602.03798"
+    },
+    "first_published_at": "2026-02-03",
+    "record_updated_at": "2026-02-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e5e5f27f0708fdbd23fc1dc641659f1081891078d5ed826aaed5aaad2465ba63",
+      "submitted_at": "2026-02-03T18:01:34Z",
+      "updated_at": "2026-02-03T18:01:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.03798v1"
+    }
+  },
+  "note": "First published: 2026-02-03; Recorded arXiv version: v1; Recorded version updated: 2026-02-03T18:01:34Z.",
+  "author": [
+    {
+      "literal": "Zimu Lu"
+    },
+    {
+      "literal": "Houxing Ren"
+    },
+    {
+      "literal": "Yunqiao Yang"
+    },
+    {
+      "literal": "Ke Wang"
+    },
+    {
+      "literal": "Zhuofan Zong"
+    },
+    {
+      "literal": "Mingjie Zhan"
+    },
+    {
+      "literal": "Hongsheng Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.03798",
+  "genre": "preprint",
+  "version": "1"
+}

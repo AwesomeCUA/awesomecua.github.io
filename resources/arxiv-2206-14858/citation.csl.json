@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2206.14858",
+  "citation-key": "arxiv_2206_14858",
+  "type": "article",
+  "title": "Solving Quantitative Reasoning Problems with Language Models",
+  "URL": "https://arxiv.org/abs/2206.14858v2",
+  "custom": {
+    "catalog_id": "arxiv:2206.14858",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2206.14858",
+    "identifiers": {
+      "arxiv": "2206.14858"
+    },
+    "first_published_at": "2022-06-29",
+    "record_updated_at": "2022-07-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6de5506f134b832b05b6864011951c18bda3b76b6b2e9d13cc79aa516d7f2336",
+      "submitted_at": "2022-06-29T18:54:49Z",
+      "updated_at": "2022-07-01T02:15:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2206.14858v2"
+    }
+  },
+  "note": "First published: 2022-06-29; Recorded arXiv version: v2; Recorded version updated: 2022-07-01T02:15:12Z.",
+  "author": [
+    {
+      "literal": "Aitor Lewkowycz"
+    },
+    {
+      "literal": "Anders Andreassen"
+    },
+    {
+      "literal": "David Dohan"
+    },
+    {
+      "literal": "Ethan Dyer"
+    },
+    {
+      "literal": "Henryk Michalewski"
+    },
+    {
+      "literal": "Vinay Ramasesh"
+    },
+    {
+      "literal": "Ambrose Slone"
+    },
+    {
+      "literal": "Cem Anil"
+    },
+    {
+      "literal": "Imanol Schlag"
+    },
+    {
+      "literal": "Theo Gutman-Solo"
+    },
+    {
+      "literal": "Yuhuai Wu"
+    },
+    {
+      "literal": "Behnam Neyshabur"
+    },
+    {
+      "literal": "Guy Gur-Ari"
+    },
+    {
+      "literal": "Vedant Misra"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        6,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2206.14858",
+  "genre": "preprint",
+  "version": "2"
+}

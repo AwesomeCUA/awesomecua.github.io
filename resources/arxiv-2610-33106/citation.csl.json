@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2610.33106",
+  "citation-key": "arxiv_2610_33106",
+  "type": "article",
+  "title": "VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team",
+  "URL": "https://arxiv.org/abs/2610.33106v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.33106",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.33106",
+    "identifiers": {
+      "arxiv": "2610.33106"
+    },
+    "first_published_at": "2026-10-22",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b710618b89038c7c525b612a914a57e6a5f2a0b5b00faca6394f723fb7bb8fb5",
+      "submitted_at": "2026-10-22T18:03:17Z",
+      "updated_at": "2026-10-22T18:03:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.33106v1"
+    }
+  },
+  "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T18:03:17Z.",
+  "author": [
+    {
+      "literal": "Wenbo Hu"
+    },
+    {
+      "literal": "Ken Li"
+    },
+    {
+      "literal": "Jiazhe Wei"
+    },
+    {
+      "literal": "Yukang Cao"
+    },
+    {
+      "literal": "Weiyi Hong"
+    },
+    {
+      "literal": "Jiayi Dai"
+    },
+    {
+      "literal": "Chenjun Bai"
+    },
+    {
+      "literal": "Jiajun Liang"
+    },
+    {
+      "literal": "Yucheng Liao"
+    },
+    {
+      "literal": "Ruichuan An"
+    },
+    {
+      "literal": "Zeyu Lou"
+    },
+    {
+      "literal": "Haofan Wang"
+    },
+    {
+      "literal": "Yueming Lyu"
+    },
+    {
+      "literal": "Jingkang Yang"
+    },
+    {
+      "literal": "Ziwei Liu"
+    },
+    {
+      "literal": "Chenyang Si"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.33106",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2610.34527",
+  "citation-key": "arxiv_2610_34527",
+  "type": "article",
+  "title": "LLM4Robot-Bench: How Far Can GPT-6 Astra Go in Robotic Manipulation? A Hierarchical, Paired Sim-Real Benchmark",
+  "URL": "https://arxiv.org/abs/2610.34527v3",
+  "custom": {
+    "catalog_id": "arxiv:2610.34527",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.34527",
+    "identifiers": {
+      "arxiv": "2610.34527"
+    },
+    "first_published_at": "2026-10-25",
+    "record_updated_at": "2026-11-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "19bd8a8bb6a6f9520296e7303dfcc4a8020ed8dca4de94616fc933deeb5576d8",
+      "submitted_at": "2026-10-25T19:41:02Z",
+      "updated_at": "2026-11-03T15:20:16Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2610.34527v3"
+    }
+  },
+  "note": "First published: 2026-10-25; Recorded arXiv version: v3; Recorded version updated: 2026-11-03T15:20:16Z.",
+  "author": [
+    {
+      "literal": "Haibao Yu"
+    },
+    {
+      "literal": "Jiaqi Meng"
+    },
+    {
+      "literal": "Zijian Zhang"
+    },
+    {
+      "literal": "Bowen Jing"
+    },
+    {
+      "literal": "Lei Yang"
+    },
+    {
+      "literal": "Yue Hu"
+    },
+    {
+      "literal": "Chenchen Ge"
+    },
+    {
+      "literal": "Yiming Hou"
+    },
+    {
+      "literal": "Chenbo Xin"
+    },
+    {
+      "literal": "Dawen Ye"
+    },
+    {
+      "literal": "Haifang Qin"
+    },
+    {
+      "literal": "Jin Li"
+    },
+    {
+      "literal": "Weitao Zhou"
+    },
+    {
+      "literal": "Jianing Qiu"
+    },
+    {
+      "literal": "Jiankai Sun"
+    },
+    {
+      "literal": "Dandan Zhang"
+    },
+    {
+      "literal": "Zaiqing Nie"
+    },
+    {
+      "literal": "Ping Luo"
+    },
+    {
+      "literal": "Ding Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.34527",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "arxiv:2209.14375",
+  "citation-key": "arxiv_2209_14375",
+  "type": "article",
+  "title": "Improving alignment of dialogue agents via targeted human judgements",
+  "URL": "https://arxiv.org/abs/2209.14375v1",
+  "custom": {
+    "catalog_id": "arxiv:2209.14375",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2209.14375",
+    "identifiers": {
+      "arxiv": "2209.14375"
+    },
+    "first_published_at": "2022-09-28",
+    "record_updated_at": "2022-09-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0cb052cf6393791d69955ec32851e92bd6468c2a10cda65758757114c82fd273",
+      "submitted_at": "2022-09-28T19:04:43Z",
+      "updated_at": "2022-09-28T19:04:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2209.14375v1"
+    }
+  },
+  "note": "First published: 2022-09-28; Recorded arXiv version: v1; Recorded version updated: 2022-09-28T19:04:43Z.",
+  "author": [
+    {
+      "literal": "Amelia Glaese"
+    },
+    {
+      "literal": "Nat McAleese"
+    },
+    {
+      "literal": "Maja Trębacz"
+    },
+    {
+      "literal": "John Aslanides"
+    },
+    {
+      "literal": "Vlad Firoiu"
+    },
+    {
+      "literal": "Timo Ewalds"
+    },
+    {
+      "literal": "Maribeth Rauh"
+    },
+    {
+      "literal": "Laura Weidinger"
+    },
+    {
+      "literal": "Martin Chadwick"
+    },
+    {
+      "literal": "Phoebe Thacker"
+    },
+    {
+      "literal": "Lucy Campbell-Gillingham"
+    },
+    {
+      "literal": "Jonathan Uesato"
+    },
+    {
+      "literal": "Po-Sen Huang"
+    },
+    {
+      "literal": "Ramona Comanescu"
+    },
+    {
+      "literal": "Fan Yang"
+    },
+    {
+      "literal": "Abigail See"
+    },
+    {
+      "literal": "Sumanth Dathathri"
+    },
+    {
+      "literal": "Rory Greig"
+    },
+    {
+      "literal": "Charlie Chen"
+    },
+    {
+      "literal": "Doug Fritz"
+    },
+    {
+      "literal": "Jaume Sanchez Elias"
+    },
+    {
+      "literal": "Richard Green"
+    },
+    {
+      "literal": "Soňa Mokrá"
+    },
+    {
+      "literal": "Nicholas Fernando"
+    },
+    {
+      "literal": "Boxi Wu"
+    },
+    {
+      "literal": "Rachel Foley"
+    },
+    {
+      "literal": "Susannah Young"
+    },
+    {
+      "literal": "Iason Gabriel"
+    },
+    {
+      "literal": "William Isaac"
+    },
+    {
+      "literal": "John Mellor"
+    },
+    {
+      "literal": "Demis Hassabis"
+    },
+    {
+      "literal": "Koray Kavukcuoglu"
+    },
+    {
+      "literal": "Lisa Anne Hendricks"
+    },
+    {
+      "literal": "Geoffrey Irving"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2209.14375",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2610.31651",
+  "citation-key": "arxiv_2610_31651",
+  "type": "article",
+  "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+  "URL": "https://arxiv.org/abs/2610.31651v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.31651",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.31651",
+    "identifiers": {
+      "arxiv": "2610.31651"
+    },
+    "first_published_at": "2026-10-22",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9d7d98cf50ff0fdecf812ff7ec9b2c6d4515876567a0a8e3cad5f0bcd1213cce",
+      "submitted_at": "2026-10-22T17:57:20Z",
+      "updated_at": "2026-10-22T17:57:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.31651v1"
+    }
+  },
+  "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T17:57:20Z.",
+  "author": [
+    {
+      "literal": "Ava Pun"
+    },
+    {
+      "literal": "Kevin Dai"
+    },
+    {
+      "literal": "Sally Chen"
+    },
+    {
+      "literal": "Maxwell Jones"
+    },
+    {
+      "literal": "Ruixuan Liu"
+    },
+    {
+      "literal": "Kangle Deng"
+    },
+    {
+      "literal": "Changliu Liu"
+    },
+    {
+      "literal": "Maneesh Agrawala"
+    },
+    {
+      "literal": "Deva Ramanan"
+    },
+    {
+      "literal": "Jun-Yan Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.31651",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.18805",
+  "citation-key": "arxiv_2609_18805",
+  "type": "article",
+  "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
+  "URL": "https://arxiv.org/abs/2609.18805v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.18805",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.18805",
+    "identifiers": {
+      "arxiv": "2609.18805"
+    },
+    "first_published_at": "2026-09-16",
+    "record_updated_at": "2026-09-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "29c41634eba0e31b3e64e97d8a366e4ac66271de15b58e4e699d982f737b9441",
+      "submitted_at": "2026-09-16T15:19:05Z",
+      "updated_at": "2026-09-16T15:19:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.18805v1"
+    }
+  },
+  "note": "First published: 2026-09-16; Recorded arXiv version: v1; Recorded version updated: 2026-09-16T15:19:05Z.",
+  "author": [
+    {
+      "literal": "Jeonghye Kim"
+    },
+    {
+      "literal": "Minseon Kim"
+    },
+    {
+      "literal": "Young Jin Kim"
+    },
+    {
+      "literal": "Matheus Pereira"
+    },
+    {
+      "literal": "Marc-Alexandre Côté"
+    },
+    {
+      "literal": "Alessandro Sordoni"
+    },
+    {
+      "literal": "Xingdi Yuan"
+    },
+    {
+      "literal": "Zhengyan Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.18805",
+  "genre": "preprint",
+  "version": "1"
+}

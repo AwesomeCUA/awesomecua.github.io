@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2510.23642",
+  "citation-key": "arxiv_2510_23642",
+  "type": "article",
+  "title": "VisCoder2: Building Multi-Language Visualization Coding Agents",
+  "URL": "https://arxiv.org/abs/2510.23642v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.23642",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.23642",
+    "identifiers": {
+      "arxiv": "2510.23642"
+    },
+    "first_published_at": "2025-10-24",
+    "record_updated_at": "2026-04-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e43f722275a09c2156f9fc1c229826265fafa5f10b9b1f99e1c57789f961348a",
+      "submitted_at": "2025-10-24T18:03:57Z",
+      "updated_at": "2026-04-07T20:59:49Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.23642v2"
+    }
+  },
+  "note": "First published: 2025-10-24; Recorded arXiv version: v2; Recorded version updated: 2026-04-07T20:59:49Z.",
+  "author": [
+    {
+      "literal": "Yuansheng Ni"
+    },
+    {
+      "literal": "Songcheng Cai"
+    },
+    {
+      "literal": "Xiangchao Chen"
+    },
+    {
+      "literal": "Jiarong Liang"
+    },
+    {
+      "literal": "Zhiheng Lyu"
+    },
+    {
+      "literal": "Jiaqi Deng"
+    },
+    {
+      "literal": "Kai Zou"
+    },
+    {
+      "literal": "Ping Nie"
+    },
+    {
+      "literal": "Fei Yuan"
+    },
+    {
+      "literal": "Xiang Yue"
+    },
+    {
+      "literal": "Wenhu Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.23642",
+  "genre": "preprint",
+  "version": "2"
+}

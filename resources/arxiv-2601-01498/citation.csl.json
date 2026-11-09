@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2601.01498",
+  "citation-key": "arxiv_2601_01498",
+  "type": "article",
+  "title": "From Failure to Mastery: Generating Hard Samples for Tool-use Agents",
+  "URL": "https://arxiv.org/abs/2601.01498v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.01498",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.01498",
+    "identifiers": {
+      "arxiv": "2601.01498"
+    },
+    "first_published_at": "2026-01-04",
+    "record_updated_at": "2026-01-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "308bb454c99d1c333f08aae2b31715752ec2d78427a4869788f0ff2eb12d849d",
+      "submitted_at": "2026-01-04T11:56:33Z",
+      "updated_at": "2026-01-04T11:56:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.01498v1"
+    }
+  },
+  "note": "First published: 2026-01-04; Recorded arXiv version: v1; Recorded version updated: 2026-01-04T11:56:33Z.",
+  "author": [
+    {
+      "literal": "Bingguang Hao"
+    },
+    {
+      "literal": "Zengzhuang Xu"
+    },
+    {
+      "literal": "Yuntao Wen"
+    },
+    {
+      "literal": "Xinyi Xu"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Tong Zhao"
+    },
+    {
+      "literal": "Maolin Wang"
+    },
+    {
+      "literal": "Long Chen"
+    },
+    {
+      "literal": "Dong Wang"
+    },
+    {
+      "literal": "Yicheng Chen"
+    },
+    {
+      "literal": "Cunyin Peng"
+    },
+    {
+      "literal": "Xiangyu Zhao"
+    },
+    {
+      "literal": "Chenyi Zhuang"
+    },
+    {
+      "literal": "Ji Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.01498",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.37326",
+  "citation-key": "arxiv_2610_37326",
+  "type": "article",
+  "title": "ScIntBench: Physical Interaction Plausibility in 3D Scene Generation",
+  "URL": "https://arxiv.org/abs/2610.37326v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.37326",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.37326",
+    "identifiers": {
+      "arxiv": "2610.37326"
+    },
+    "first_published_at": "2026-10-27",
+    "record_updated_at": "2026-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "851d461a904628068d059192f46d7f591de2a1be07e127f85052b37cd754a94a",
+      "submitted_at": "2026-10-27T14:36:04Z",
+      "updated_at": "2026-10-27T14:36:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.37326v1"
+    }
+  },
+  "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T14:36:04Z.",
+  "author": [
+    {
+      "literal": "Wendi Ying"
+    },
+    {
+      "literal": "Daochang Liu"
+    },
+    {
+      "literal": "Leonid Sigal"
+    },
+    {
+      "literal": "Ajmal Saeed Mian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.37326",
+  "genre": "preprint",
+  "version": "1"
+}

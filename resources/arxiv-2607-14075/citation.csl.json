@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2607.14075",
+  "citation-key": "arxiv_2607_14075",
+  "type": "article",
+  "title": "VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair",
+  "URL": "https://arxiv.org/abs/2607.14075v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.14075",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.14075",
+    "identifiers": {
+      "arxiv": "2607.14075"
+    },
+    "first_published_at": "2026-07-15",
+    "record_updated_at": "2026-07-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e3eacac96ea82b8332dae74256693d7219a1daecc681e1909a9c89bc79f4ced2",
+      "submitted_at": "2026-07-15T17:48:16Z",
+      "updated_at": "2026-07-15T17:48:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.14075v1"
+    }
+  },
+  "note": "First published: 2026-07-15; Recorded arXiv version: v1; Recorded version updated: 2026-07-15T17:48:16Z.",
+  "author": [
+    {
+      "literal": "Jingyu Xiao"
+    },
+    {
+      "literal": "Zhongyi Zhang"
+    },
+    {
+      "literal": "Haoran Hou"
+    },
+    {
+      "literal": "Yuxuan Wan"
+    },
+    {
+      "literal": "Yuan Jiang"
+    },
+    {
+      "literal": "Yintong Huo"
+    },
+    {
+      "literal": "Michael R. Lyu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.14075",
+  "genre": "preprint",
+  "version": "1"
+}

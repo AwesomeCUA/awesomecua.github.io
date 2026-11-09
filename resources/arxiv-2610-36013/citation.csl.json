@@ -1,0 +1,139 @@
+{
+  "id": "arxiv:2610.36013",
+  "citation-key": "arxiv_2610_36013",
+  "type": "article",
+  "title": "OmniBrain-0: A Unified Agentic Model for Embodied Intelligence",
+  "URL": "https://arxiv.org/abs/2610.36013v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.36013",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.36013",
+    "identifiers": {
+      "arxiv": "2610.36013"
+    },
+    "first_published_at": "2026-10-26",
+    "record_updated_at": "2026-10-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8cf64124ef1548833efbcfde3902e7313d772ff2c09f6a7be5734cdf959db5cb",
+      "submitted_at": "2026-10-26T17:15:41Z",
+      "updated_at": "2026-10-26T17:15:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.36013v1"
+    }
+  },
+  "note": "First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T17:15:41Z.",
+  "author": [
+    {
+      "literal": "Xiaomi Embodied Intelligence Team"
+    },
+    {
+      "literal": "Yuechen Luo"
+    },
+    {
+      "literal": "Chong He"
+    },
+    {
+      "literal": "Fang Li"
+    },
+    {
+      "literal": "Shaoqing Xu"
+    },
+    {
+      "literal": "Jingkai Wang"
+    },
+    {
+      "literal": "Menglun Su"
+    },
+    {
+      "literal": "Jiaxin Liu"
+    },
+    {
+      "literal": "Shengyin Jiang"
+    },
+    {
+      "literal": "Zhiyi Lai"
+    },
+    {
+      "literal": "Long Chen"
+    },
+    {
+      "literal": "Longlong Wang"
+    },
+    {
+      "literal": "Liang Hu"
+    },
+    {
+      "literal": "Haochen Liu"
+    },
+    {
+      "literal": "Yuncheng Jiang"
+    },
+    {
+      "literal": "Hongwei Xie"
+    },
+    {
+      "literal": "Jieming Cui"
+    },
+    {
+      "literal": "Hanbing Li"
+    },
+    {
+      "literal": "Junjie Huang"
+    },
+    {
+      "literal": "Zhixiang Duan"
+    },
+    {
+      "literal": "Hexin Zhang"
+    },
+    {
+      "literal": "Weixiang Liang"
+    },
+    {
+      "literal": "Ying Gong"
+    },
+    {
+      "literal": "Yuhan Wang"
+    },
+    {
+      "literal": "Yong Pan"
+    },
+    {
+      "literal": "Pengna Li"
+    },
+    {
+      "literal": "Kangyi Wu"
+    },
+    {
+      "literal": "Ken Deng"
+    },
+    {
+      "literal": "Kun Ma"
+    },
+    {
+      "literal": "Fuxi Wen"
+    },
+    {
+      "literal": "Zhi-xin Yang"
+    },
+    {
+      "literal": "Hangjun Ye"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.36013",
+  "genre": "preprint",
+  "version": "1"
+}

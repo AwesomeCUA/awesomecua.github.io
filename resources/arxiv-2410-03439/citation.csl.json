@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2410.03439",
+  "citation-key": "arxiv_2410_03439",
+  "type": "article",
+  "title": "ToolGen: Unified Tool Retrieval and Calling via Generation",
+  "URL": "https://arxiv.org/abs/2410.03439v3",
+  "custom": {
+    "catalog_id": "arxiv:2410.03439",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.03439",
+    "identifiers": {
+      "arxiv": "2410.03439"
+    },
+    "first_published_at": "2024-10-04",
+    "record_updated_at": "2025-03-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3beb1e7ca3e939c93a35cad11e1804d894d9ff99298fc40b26c2c9fedb5ea85c",
+      "submitted_at": "2024-10-04T13:52:32Z",
+      "updated_at": "2025-03-29T13:27:51Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.03439v3"
+    }
+  },
+  "note": "First published: 2024-10-04; Recorded arXiv version: v3; Recorded version updated: 2025-03-29T13:27:51Z.",
+  "author": [
+    {
+      "literal": "Renxi Wang"
+    },
+    {
+      "literal": "Xudong Han"
+    },
+    {
+      "literal": "Lei Ji"
+    },
+    {
+      "literal": "Shu Wang"
+    },
+    {
+      "literal": "Timothy Baldwin"
+    },
+    {
+      "literal": "Haonan Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.03439",
+  "genre": "preprint",
+  "version": "3"
+}

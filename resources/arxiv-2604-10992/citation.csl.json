@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2604.10992",
+  "citation-key": "arxiv_2604_10992",
+  "type": "article",
+  "title": "ArtiCAD: Articulated CAD Assembly Design via Multi-Agent Code Generation",
+  "URL": "https://arxiv.org/abs/2604.10992v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.10992",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.10992",
+    "identifiers": {
+      "arxiv": "2604.10992"
+    },
+    "first_published_at": "2026-04-13",
+    "record_updated_at": "2026-04-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bcfdb5b76140c134a8f70eafbb94dc2c89710cc3fce166cf2d4e1cd43d04bdca",
+      "submitted_at": "2026-04-13T04:49:30Z",
+      "updated_at": "2026-04-14T12:18:13Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.10992v2"
+    }
+  },
+  "note": "First published: 2026-04-13; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T12:18:13Z.",
+  "author": [
+    {
+      "literal": "Yuan Shui"
+    },
+    {
+      "literal": "Yandong Guan"
+    },
+    {
+      "literal": "Zhanwei Zhang"
+    },
+    {
+      "literal": "Juncheng Hu"
+    },
+    {
+      "literal": "Jing Zhang"
+    },
+    {
+      "literal": "Dong Xu"
+    },
+    {
+      "literal": "Qian Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.10992",
+  "genre": "preprint",
+  "version": "2"
+}

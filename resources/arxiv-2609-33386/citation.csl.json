@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2609.33386",
+  "citation-key": "arxiv_2609_33386",
+  "type": "article",
+  "title": "Sivia: Learning to Draw, Learning to Learn",
+  "URL": "https://arxiv.org/abs/2609.33386v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.33386",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.33386",
+    "identifiers": {
+      "arxiv": "2609.33386"
+    },
+    "first_published_at": "2026-09-27",
+    "record_updated_at": "2026-10-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cbdc17661242fb459f512a8f47edfed9aceebec43acd82e7764f90887c8ba594",
+      "submitted_at": "2026-09-27T09:07:53Z",
+      "updated_at": "2026-10-13T15:19:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.33386v2"
+    }
+  },
+  "note": "First published: 2026-09-27; Recorded arXiv version: v2; Recorded version updated: 2026-10-13T15:19:33Z.",
+  "author": [
+    {
+      "literal": "Feng Yuan"
+    },
+    {
+      "literal": "Xinyi Gao"
+    },
+    {
+      "literal": "Zijun Sun"
+    },
+    {
+      "literal": "Haoyue Li"
+    },
+    {
+      "literal": "Menglei Hua"
+    },
+    {
+      "literal": "Xiao Li"
+    },
+    {
+      "literal": "Yifan Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.33386",
+  "genre": "preprint",
+  "version": "2"
+}

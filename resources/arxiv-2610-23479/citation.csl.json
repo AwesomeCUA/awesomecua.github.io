@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2610.23479",
+  "citation-key": "arxiv_2610_23479",
+  "type": "article",
+  "title": "HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World",
+  "URL": "https://arxiv.org/abs/2610.23479v3",
+  "custom": {
+    "catalog_id": "arxiv:2610.23479",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.23479",
+    "identifiers": {
+      "arxiv": "2610.23479"
+    },
+    "first_published_at": "2026-10-16",
+    "record_updated_at": "2026-11-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "44755b9f7f5990d195416fbcb58c406171d0cd3b54ecd1208397be2e54ef200d",
+      "submitted_at": "2026-10-16T13:56:16Z",
+      "updated_at": "2026-11-03T20:22:30Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2610.23479v3"
+    }
+  },
+  "note": "First published: 2026-10-16; Recorded arXiv version: v3; Recorded version updated: 2026-11-03T20:22:30Z.",
+  "author": [
+    {
+      "literal": "Hongcheng Gao"
+    },
+    {
+      "literal": "Jianshu Zeng"
+    },
+    {
+      "literal": "Alex Zhou"
+    },
+    {
+      "literal": "Shijia Ge"
+    },
+    {
+      "literal": "Xuan Shangguan"
+    },
+    {
+      "literal": "Yazhe Wang"
+    },
+    {
+      "literal": "Yexing Wan"
+    },
+    {
+      "literal": "Zelin Zheng"
+    },
+    {
+      "literal": "Jay Zhu"
+    },
+    {
+      "literal": "Xiping Li"
+    },
+    {
+      "literal": "Di Wu"
+    },
+    {
+      "literal": "Yongli Wang"
+    },
+    {
+      "literal": "Lingyu He"
+    },
+    {
+      "literal": "Zhiqi Jia"
+    },
+    {
+      "literal": "Sihang Wu"
+    },
+    {
+      "literal": "Xiao He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.23479",
+  "genre": "preprint",
+  "version": "3"
+}

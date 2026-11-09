@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2611.09017",
+  "citation-key": "arxiv_2611_09017",
+  "type": "article",
+  "title": "Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds",
+  "URL": "https://arxiv.org/abs/2611.09017v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.09017",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.09017",
+    "identifiers": {
+      "arxiv": "2611.09017"
+    },
+    "first_published_at": "2026-11-06",
+    "record_updated_at": "2026-11-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9e832f5f61a9f563a657d496b4cfaa42bc17fa640d9e120ed2e76075a73ecb44",
+      "submitted_at": "2026-11-06T05:45:31Z",
+      "updated_at": "2026-11-06T05:45:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.09017v1"
+    }
+  },
+  "note": "First published: 2026-11-06; Recorded arXiv version: v1; Recorded version updated: 2026-11-06T05:45:31Z.",
+  "author": [
+    {
+      "literal": "Xinjie Lin"
+    },
+    {
+      "literal": "Qingle Liu"
+    },
+    {
+      "literal": "Wenyi Li"
+    },
+    {
+      "literal": "John Lam"
+    },
+    {
+      "literal": "Xiaoqiu Wang"
+    },
+    {
+      "literal": "Deyao Hong"
+    },
+    {
+      "literal": "Mingju Gao"
+    },
+    {
+      "literal": "Zheng Jiang"
+    },
+    {
+      "literal": "Yizhe Chi"
+    },
+    {
+      "literal": "Youjie Zheng"
+    },
+    {
+      "literal": "Calvin Xiao"
+    },
+    {
+      "literal": "Kaisen Yang"
+    },
+    {
+      "literal": "Huan-ang Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.09017",
+  "genre": "preprint",
+  "version": "1"
+}

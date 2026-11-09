@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2610.02274",
+  "citation-key": "arxiv_2610_02274",
+  "type": "article",
+  "title": "Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation",
+  "URL": "https://arxiv.org/abs/2610.02274v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.02274",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.02274",
+    "identifiers": {
+      "arxiv": "2610.02274"
+    },
+    "first_published_at": "2026-10-01",
+    "record_updated_at": "2026-10-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "505f1677e099f19e77dbb038c59d259e83dca2585075783d0af7a05ce30e4032",
+      "submitted_at": "2026-10-01T08:38:29Z",
+      "updated_at": "2026-10-01T08:38:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.02274v1"
+    }
+  },
+  "note": "First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T08:38:29Z.",
+  "author": [
+    {
+      "literal": "Awomo-PhysicalRSI Team"
+    },
+    {
+      "literal": "Danjiao Ma"
+    },
+    {
+      "literal": "Enhui Ma"
+    },
+    {
+      "literal": "Haohan Liu"
+    },
+    {
+      "literal": "Heng Jia"
+    },
+    {
+      "literal": "Hui Shan"
+    },
+    {
+      "literal": "Jianhua Xu"
+    },
+    {
+      "literal": "Jiahuan Zhang"
+    },
+    {
+      "literal": "Jiangdi Xu"
+    },
+    {
+      "literal": "Kaiwen Guo"
+    },
+    {
+      "literal": "Kaicheng Yu"
+    },
+    {
+      "literal": "Linwei Zhang"
+    },
+    {
+      "literal": "Liyang Jin"
+    },
+    {
+      "literal": "Maochun Luo"
+    },
+    {
+      "literal": "Pengyao Niu"
+    },
+    {
+      "literal": "Shiwen Li"
+    },
+    {
+      "literal": "Shuangyu Feng"
+    },
+    {
+      "literal": "Tong Zhang"
+    },
+    {
+      "literal": "Tianheng Wang"
+    },
+    {
+      "literal": "Xin Wang"
+    },
+    {
+      "literal": "Xiangru Huang"
+    },
+    {
+      "literal": "Yongqiang Huang"
+    },
+    {
+      "literal": "Zhaozhi Wang"
+    },
+    {
+      "literal": "Zijian Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.02274",
+  "genre": "preprint",
+  "version": "1"
+}

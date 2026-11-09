@@ -1,0 +1,118 @@
+{
+  "id": "arxiv:2408.16500",
+  "citation-key": "arxiv_2408_16500",
+  "type": "article",
+  "title": "CogVLM2: Visual Language Models for Image and Video Understanding",
+  "URL": "https://arxiv.org/abs/2408.16500v1",
+  "custom": {
+    "catalog_id": "arxiv:2408.16500",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.16500",
+    "identifiers": {
+      "arxiv": "2408.16500"
+    },
+    "first_published_at": "2024-08-29",
+    "record_updated_at": "2024-08-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8b1d12721522e3ffdaaccd9caf6e4ae6d921462b3b7da8e8ee7abad98d163044",
+      "submitted_at": "2024-08-29T12:59:12Z",
+      "updated_at": "2024-08-29T12:59:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2408.16500v1"
+    }
+  },
+  "note": "First published: 2024-08-29; Recorded arXiv version: v1; Recorded version updated: 2024-08-29T12:59:12Z.",
+  "author": [
+    {
+      "literal": "Wenyi Hong"
+    },
+    {
+      "literal": "Weihan Wang"
+    },
+    {
+      "literal": "Ming Ding"
+    },
+    {
+      "literal": "Wenmeng Yu"
+    },
+    {
+      "literal": "Qingsong Lv"
+    },
+    {
+      "literal": "Yan Wang"
+    },
+    {
+      "literal": "Yean Cheng"
+    },
+    {
+      "literal": "Shiyu Huang"
+    },
+    {
+      "literal": "Junhui Ji"
+    },
+    {
+      "literal": "Zhao Xue"
+    },
+    {
+      "literal": "Lei Zhao"
+    },
+    {
+      "literal": "Zhuoyi Yang"
+    },
+    {
+      "literal": "Xiaotao Gu"
+    },
+    {
+      "literal": "Xiaohan Zhang"
+    },
+    {
+      "literal": "Guanyu Feng"
+    },
+    {
+      "literal": "Da Yin"
+    },
+    {
+      "literal": "Zihan Wang"
+    },
+    {
+      "literal": "Ji Qi"
+    },
+    {
+      "literal": "Xixuan Song"
+    },
+    {
+      "literal": "Peng Zhang"
+    },
+    {
+      "literal": "Debing Liu"
+    },
+    {
+      "literal": "Bin Xu"
+    },
+    {
+      "literal": "Juanzi Li"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.16500",
+  "genre": "preprint",
+  "version": "1"
+}

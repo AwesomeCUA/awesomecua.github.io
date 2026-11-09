@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2610.35864",
+  "citation-key": "arxiv_2610_35864",
+  "type": "article",
+  "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+  "URL": "https://arxiv.org/abs/2610.35864v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.35864",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.35864",
+    "identifiers": {
+      "arxiv": "2610.35864"
+    },
+    "first_published_at": "2026-10-26",
+    "record_updated_at": "2026-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c7d4ff2457b05c848a3b112341504a15fb0b93ea61cea3daea52a6ecc91696e2",
+      "submitted_at": "2026-10-26T17:59:32Z",
+      "updated_at": "2026-10-27T16:22:04Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.35864v2"
+    }
+  },
+  "note": "First published: 2026-10-26; Recorded arXiv version: v2; Recorded version updated: 2026-10-27T16:22:04Z.",
+  "author": [
+    {
+      "literal": "Muxi Diao"
+    },
+    {
+      "literal": "Wenbin Xu"
+    },
+    {
+      "literal": "Lele Yang"
+    },
+    {
+      "literal": "Xuyang Ma"
+    },
+    {
+      "literal": "Yuzhe Chen"
+    },
+    {
+      "literal": "Jiankang Chen"
+    },
+    {
+      "literal": "Kaiyu Jiang"
+    },
+    {
+      "literal": "Changyi Liu"
+    },
+    {
+      "literal": "Haoyu Zhang"
+    },
+    {
+      "literal": "Hongyi Fu"
+    },
+    {
+      "literal": "Jianxiong Wang"
+    },
+    {
+      "literal": "Tianke Zhang"
+    },
+    {
+      "literal": "Haonan Fan"
+    },
+    {
+      "literal": "Yingxin Li"
+    },
+    {
+      "literal": "Bingyi Li"
+    },
+    {
+      "literal": "Xu Wang"
+    },
+    {
+      "literal": "Xuanyu Zheng"
+    },
+    {
+      "literal": "Bin Wen"
+    },
+    {
+      "literal": "Tingting Gao"
+    },
+    {
+      "literal": "Han Li"
+    },
+    {
+      "literal": "Wentao Zhang"
+    },
+    {
+      "literal": "Weiran Xu"
+    },
+    {
+      "literal": "Kongming Liang"
+    },
+    {
+      "literal": "Zhanyu Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.35864",
+  "genre": "preprint",
+  "version": "2"
+}

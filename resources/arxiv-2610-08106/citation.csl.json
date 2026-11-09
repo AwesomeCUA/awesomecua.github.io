@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.08106",
+  "citation-key": "arxiv_2610_08106",
+  "type": "article",
+  "title": "ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications",
+  "URL": "https://arxiv.org/abs/2610.08106v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.08106",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.08106",
+    "identifiers": {
+      "arxiv": "2610.08106"
+    },
+    "first_published_at": "2026-10-06",
+    "record_updated_at": "2026-10-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6a87d963df8a5d51947a45598de747f71f340714fa755b7fdee3d501b016ea14",
+      "submitted_at": "2026-10-06T10:31:28Z",
+      "updated_at": "2026-10-06T10:31:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.08106v1"
+    }
+  },
+  "note": "First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T10:31:28Z.",
+  "author": [
+    {
+      "literal": "Langxi Huang"
+    },
+    {
+      "literal": "Pingping Zhang"
+    },
+    {
+      "literal": "Lanyun Zhu"
+    },
+    {
+      "literal": "Chunyang Jiang"
+    },
+    {
+      "literal": "Jiawei Shao"
+    },
+    {
+      "literal": "Haocheng Yuan"
+    },
+    {
+      "literal": "Peilin Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.08106",
+  "genre": "preprint",
+  "version": "1"
+}

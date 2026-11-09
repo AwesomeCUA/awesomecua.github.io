@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2604.05839",
+  "citation-key": "arxiv_2604_05839",
+  "type": "article",
+  "title": "Vision-Guided Iterative Refinement for Frontend Code Generation",
+  "URL": "https://arxiv.org/abs/2604.05839v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.05839",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.05839",
+    "identifiers": {
+      "arxiv": "2604.05839"
+    },
+    "first_published_at": "2026-04-07",
+    "record_updated_at": "2026-04-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "322bf172bf36caadf5daf21e67ee487f29d013ee3830c149a77f7f07ec016920",
+      "submitted_at": "2026-04-07T13:06:48Z",
+      "updated_at": "2026-04-07T13:06:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.05839v1"
+    }
+  },
+  "note": "First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T13:06:48Z.",
+  "author": [
+    {
+      "literal": "Hannah Sansford"
+    },
+    {
+      "literal": "Derek H. C. Law"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Abhishek Tripathi"
+    },
+    {
+      "literal": "Niresh Agarwal"
+    },
+    {
+      "literal": "Gerrit J. J. van den Burg"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.05839",
+  "genre": "preprint",
+  "version": "1"
+}

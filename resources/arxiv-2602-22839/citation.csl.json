@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2602.22839",
+  "citation-key": "arxiv_2602_22839",
+  "type": "article",
+  "title": "DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation",
+  "URL": "https://arxiv.org/abs/2602.22839v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.22839",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.22839",
+    "identifiers": {
+      "arxiv": "2602.22839"
+    },
+    "first_published_at": "2026-02-26",
+    "record_updated_at": "2026-04-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e6360ee53b5b3954c96ac292a3a5db81b88dea400ed3eb541dcc68a793b6cd17",
+      "submitted_at": "2026-02-26T10:26:48Z",
+      "updated_at": "2026-04-20T02:43:16Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.22839v3"
+    }
+  },
+  "note": "First published: 2026-02-26; Recorded arXiv version: v3; Recorded version updated: 2026-04-20T02:43:16Z.",
+  "author": [
+    {
+      "literal": "Hao Zheng"
+    },
+    {
+      "literal": "Guozhao Mo"
+    },
+    {
+      "literal": "Xinru Yan"
+    },
+    {
+      "literal": "Qianhao Yuan"
+    },
+    {
+      "literal": "Wenkai Zhang"
+    },
+    {
+      "literal": "Xuanang Chen"
+    },
+    {
+      "literal": "Yaojie Lu"
+    },
+    {
+      "literal": "Hongyu Lin"
+    },
+    {
+      "literal": "Xianpei Han"
+    },
+    {
+      "literal": "Le Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.22839",
+  "genre": "preprint",
+  "version": "3"
+}

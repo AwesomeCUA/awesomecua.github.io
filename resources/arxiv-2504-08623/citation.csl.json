@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2504.08623",
+  "citation-key": "arxiv_2504_08623",
+  "type": "article",
+  "title": "Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies",
+  "URL": "https://arxiv.org/abs/2504.08623v2",
+  "custom": {
+    "catalog_id": "arxiv:2504.08623",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.08623",
+    "identifiers": {
+      "arxiv": "2504.08623"
+    },
+    "first_published_at": "2025-04-11",
+    "record_updated_at": "2025-05-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fcd7a975a390c707c6e4f6f12fbaa5c1ef8c297165d0e32f332b852d762cc4b6",
+      "submitted_at": "2025-04-11T15:25:58Z",
+      "updated_at": "2025-05-02T18:26:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2504.08623v2"
+    }
+  },
+  "note": "First published: 2025-04-11; Recorded arXiv version: v2; Recorded version updated: 2025-05-02T18:26:39Z.",
+  "author": [
+    {
+      "literal": "Vineeth Sai Narajala"
+    },
+    {
+      "literal": "Idan Habler"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.08623",
+  "genre": "preprint",
+  "version": "2"
+}

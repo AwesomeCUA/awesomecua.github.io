@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.12452",
+  "citation-key": "arxiv_2610_12452",
+  "type": "article",
+  "title": "BrickBench: Evaluating Agentic Brick Design",
+  "URL": "https://arxiv.org/abs/2610.12452v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.12452",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.12452",
+    "identifiers": {
+      "arxiv": "2610.12452"
+    },
+    "first_published_at": "2026-10-08",
+    "record_updated_at": "2026-10-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0f0d4f3ae7c597bdf11f962fb0c97c7a8bea6ec4e66a10297f04fccb5203b2b8",
+      "submitted_at": "2026-10-08T17:58:56Z",
+      "updated_at": "2026-10-08T17:58:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.12452v1"
+    }
+  },
+  "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T17:58:56Z.",
+  "author": [
+    {
+      "literal": "Peter Kulits"
+    },
+    {
+      "literal": "Yiqing Xu"
+    },
+    {
+      "literal": "R. Kenny Jones"
+    },
+    {
+      "literal": "Cordelia Schmid"
+    },
+    {
+      "literal": "Jiajun Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.12452",
+  "genre": "preprint",
+  "version": "1"
+}

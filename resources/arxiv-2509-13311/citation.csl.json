@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2509.13311",
+  "citation-key": "arxiv_2509_13311",
+  "type": "article",
+  "title": "Towards General Agentic Intelligence via Environment Scaling",
+  "URL": "https://arxiv.org/abs/2509.13311v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.13311",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.13311",
+    "identifiers": {
+      "arxiv": "2509.13311"
+    },
+    "first_published_at": "2025-09-16",
+    "record_updated_at": "2025-09-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8d693a218f697df0c86a1e3ebdeb985a408a5de691934c259753db15ebad026e",
+      "submitted_at": "2025-09-16T17:57:20Z",
+      "updated_at": "2025-09-16T17:57:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.13311v1"
+    }
+  },
+  "note": "First published: 2025-09-16; Recorded arXiv version: v1; Recorded version updated: 2025-09-16T17:57:20Z.",
+  "author": [
+    {
+      "literal": "Runnan Fang"
+    },
+    {
+      "literal": "Shihao Cai"
+    },
+    {
+      "literal": "Baixuan Li"
+    },
+    {
+      "literal": "Jialong Wu"
+    },
+    {
+      "literal": "Guangyu Li"
+    },
+    {
+      "literal": "Wenbiao Yin"
+    },
+    {
+      "literal": "Xinyu Wang"
+    },
+    {
+      "literal": "Xiaobin Wang"
+    },
+    {
+      "literal": "Liangcai Su"
+    },
+    {
+      "literal": "Zhen Zhang"
+    },
+    {
+      "literal": "Shibin Wu"
+    },
+    {
+      "literal": "Zhengwei Tao"
+    },
+    {
+      "literal": "Yong Jiang"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Jingren Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.13311",
+  "genre": "preprint",
+  "version": "1"
+}

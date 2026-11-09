@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.08621",
+  "citation-key": "arxiv_2610_08621",
+  "type": "article",
+  "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+  "URL": "https://arxiv.org/abs/2610.08621v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.08621",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.08621",
+    "identifiers": {
+      "arxiv": "2610.08621"
+    },
+    "first_published_at": "2026-10-06",
+    "record_updated_at": "2026-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0768f624f3bc6c15c670c3e45a540ee4bae148b4d67bee0fa5196335a8055e7e",
+      "submitted_at": "2026-10-06T16:21:44Z",
+      "updated_at": "2026-10-16T07:23:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.08621v2"
+    }
+  },
+  "note": "First published: 2026-10-06; Recorded arXiv version: v2; Recorded version updated: 2026-10-16T07:23:58Z.",
+  "author": [
+    {
+      "literal": "Jiajun Chen"
+    },
+    {
+      "literal": "Haoyu Wu"
+    },
+    {
+      "literal": "Mingda Jia"
+    },
+    {
+      "literal": "Xihui Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.08621",
+  "genre": "preprint",
+  "version": "2"
+}

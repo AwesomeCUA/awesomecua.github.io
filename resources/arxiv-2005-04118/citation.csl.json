@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2005.04118",
+  "citation-key": "arxiv_2005_04118",
+  "type": "article",
+  "title": "Beyond Accuracy: Behavioral Testing of NLP models with CheckList",
+  "URL": "https://arxiv.org/abs/2005.04118v1",
+  "custom": {
+    "catalog_id": "arxiv:2005.04118",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2005.04118",
+    "identifiers": {
+      "arxiv": "2005.04118"
+    },
+    "first_published_at": "2020-05-08",
+    "record_updated_at": "2020-05-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "df33efadca30fd7331ff4efc396761dba91bca3ba4fa97de9177156d93a61136",
+      "submitted_at": "2020-05-08T15:48:31Z",
+      "updated_at": "2020-05-08T15:48:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2005.04118v1"
+    }
+  },
+  "note": "First published: 2020-05-08; Recorded arXiv version: v1; Recorded version updated: 2020-05-08T15:48:31Z.",
+  "author": [
+    {
+      "literal": "Marco Tulio Ribeiro"
+    },
+    {
+      "literal": "Tongshuang Wu"
+    },
+    {
+      "literal": "Carlos Guestrin"
+    },
+    {
+      "literal": "Sameer Singh"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        5,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2005.04118",
+  "genre": "preprint",
+  "version": "1"
+}

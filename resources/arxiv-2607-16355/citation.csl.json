@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2607.16355",
+  "citation-key": "arxiv_2607_16355",
+  "type": "article",
+  "title": "PhysAgent: Reflective Agentic Physics Control for Physically Plausible Video Generation",
+  "URL": "https://arxiv.org/abs/2607.16355v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.16355",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.16355",
+    "identifiers": {
+      "arxiv": "2607.16355"
+    },
+    "first_published_at": "2026-07-17",
+    "record_updated_at": "2026-07-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3373ad50aebe9cc22b6622a54ff43eb11baedf14593efcc063af600d4821271f",
+      "submitted_at": "2026-07-17T08:55:09Z",
+      "updated_at": "2026-07-17T08:55:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.16355v1"
+    }
+  },
+  "note": "First published: 2026-07-17; Recorded arXiv version: v1; Recorded version updated: 2026-07-17T08:55:09Z.",
+  "author": [
+    {
+      "literal": "Qirui Li"
+    },
+    {
+      "literal": "Jinkun Hao"
+    },
+    {
+      "literal": "Yibo Li"
+    },
+    {
+      "literal": "Ran Yi"
+    },
+    {
+      "literal": "Paul L. Rosin"
+    },
+    {
+      "literal": "Yu-Kun Lai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.16355",
+  "genre": "preprint",
+  "version": "1"
+}

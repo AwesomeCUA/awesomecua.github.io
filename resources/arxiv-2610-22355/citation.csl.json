@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2610.22355",
+  "citation-key": "arxiv_2610_22355",
+  "type": "article",
+  "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+  "URL": "https://arxiv.org/abs/2610.22355v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.22355",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22355",
+    "identifiers": {
+      "arxiv": "2610.22355"
+    },
+    "first_published_at": "2026-10-15",
+    "record_updated_at": "2026-10-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3898bb4227108b8d09ed5cd6244e87a147945594d20055388e4aa6212d3768a3",
+      "submitted_at": "2026-10-15T17:58:04Z",
+      "updated_at": "2026-10-15T17:58:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.22355v1"
+    }
+  },
+  "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:58:04Z.",
+  "author": [
+    {
+      "literal": "Bowei Liu"
+    },
+    {
+      "literal": "Xinchen Zhang"
+    },
+    {
+      "literal": "Xuhuan Li"
+    },
+    {
+      "literal": "Tianlin Zhang"
+    },
+    {
+      "literal": "Kaian Jiang"
+    },
+    {
+      "literal": "Jingwei Liu"
+    },
+    {
+      "literal": "Congyang Zhao"
+    },
+    {
+      "literal": "Yifei Qian"
+    },
+    {
+      "literal": "Junhong Liu"
+    },
+    {
+      "literal": "Zhiheng Li"
+    },
+    {
+      "literal": "Yujiu Yang"
+    },
+    {
+      "literal": "Yang Cai"
+    },
+    {
+      "literal": "Ling Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22355",
+  "genre": "preprint",
+  "version": "1"
+}

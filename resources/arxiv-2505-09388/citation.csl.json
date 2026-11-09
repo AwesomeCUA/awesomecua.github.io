@@ -1,0 +1,223 @@
+{
+  "id": "arxiv:2505.09388",
+  "citation-key": "arxiv_2505_09388",
+  "type": "article",
+  "title": "Qwen3 Technical Report",
+  "URL": "https://arxiv.org/abs/2505.09388v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.09388",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.09388",
+    "identifiers": {
+      "arxiv": "2505.09388"
+    },
+    "first_published_at": "2025-05-14",
+    "record_updated_at": "2025-05-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ae7b317b828eba03a0ee7ebe9dc93af2d63abab42399c97441e5e2b59288faf8",
+      "submitted_at": "2025-05-14T13:41:34Z",
+      "updated_at": "2025-05-14T13:41:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.09388v1"
+    }
+  },
+  "note": "First published: 2025-05-14; Recorded arXiv version: v1; Recorded version updated: 2025-05-14T13:41:34Z.",
+  "author": [
+    {
+      "literal": "An Yang"
+    },
+    {
+      "literal": "Anfeng Li"
+    },
+    {
+      "literal": "Baosong Yang"
+    },
+    {
+      "literal": "Beichen Zhang"
+    },
+    {
+      "literal": "Binyuan Hui"
+    },
+    {
+      "literal": "Bo Zheng"
+    },
+    {
+      "literal": "Bowen Yu"
+    },
+    {
+      "literal": "Chang Gao"
+    },
+    {
+      "literal": "Chengen Huang"
+    },
+    {
+      "literal": "Chenxu Lv"
+    },
+    {
+      "literal": "Chujie Zheng"
+    },
+    {
+      "literal": "Dayiheng Liu"
+    },
+    {
+      "literal": "Fan Zhou"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Feng Hu"
+    },
+    {
+      "literal": "Hao Ge"
+    },
+    {
+      "literal": "Haoran Wei"
+    },
+    {
+      "literal": "Huan Lin"
+    },
+    {
+      "literal": "Jialong Tang"
+    },
+    {
+      "literal": "Jian Yang"
+    },
+    {
+      "literal": "Jianhong Tu"
+    },
+    {
+      "literal": "Jianwei Zhang"
+    },
+    {
+      "literal": "Jianxin Yang"
+    },
+    {
+      "literal": "Jiaxi Yang"
+    },
+    {
+      "literal": "Jing Zhou"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Junyang Lin"
+    },
+    {
+      "literal": "Kai Dang"
+    },
+    {
+      "literal": "Keqin Bao"
+    },
+    {
+      "literal": "Kexin Yang"
+    },
+    {
+      "literal": "Le Yu"
+    },
+    {
+      "literal": "Lianghao Deng"
+    },
+    {
+      "literal": "Mei Li"
+    },
+    {
+      "literal": "Mingfeng Xue"
+    },
+    {
+      "literal": "Mingze Li"
+    },
+    {
+      "literal": "Pei Zhang"
+    },
+    {
+      "literal": "Peng Wang"
+    },
+    {
+      "literal": "Qin Zhu"
+    },
+    {
+      "literal": "Rui Men"
+    },
+    {
+      "literal": "Ruize Gao"
+    },
+    {
+      "literal": "Shixuan Liu"
+    },
+    {
+      "literal": "Shuang Luo"
+    },
+    {
+      "literal": "Tianhao Li"
+    },
+    {
+      "literal": "Tianyi Tang"
+    },
+    {
+      "literal": "Wenbiao Yin"
+    },
+    {
+      "literal": "Xingzhang Ren"
+    },
+    {
+      "literal": "Xinyu Wang"
+    },
+    {
+      "literal": "Xinyu Zhang"
+    },
+    {
+      "literal": "Xuancheng Ren"
+    },
+    {
+      "literal": "Yang Fan"
+    },
+    {
+      "literal": "Yang Su"
+    },
+    {
+      "literal": "Yichang Zhang"
+    },
+    {
+      "literal": "Yinger Zhang"
+    },
+    {
+      "literal": "Yu Wan"
+    },
+    {
+      "literal": "Yuqiong Liu"
+    },
+    {
+      "literal": "Zekun Wang"
+    },
+    {
+      "literal": "Zeyu Cui"
+    },
+    {
+      "literal": "Zhenru Zhang"
+    },
+    {
+      "literal": "Zhipeng Zhou"
+    },
+    {
+      "literal": "Zihan Qiu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.09388",
+  "genre": "preprint",
+  "version": "1"
+}

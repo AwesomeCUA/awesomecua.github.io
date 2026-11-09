@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2609.03445",
+  "citation-key": "arxiv_2609_03445",
+  "type": "article",
+  "title": "OCR-EDR: Rendering-Aware Diagnosis and Repair for Closed-Loop OCR Improvement",
+  "URL": "https://arxiv.org/abs/2609.03445v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.03445",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.03445",
+    "identifiers": {
+      "arxiv": "2609.03445"
+    },
+    "first_published_at": "2026-09-03",
+    "record_updated_at": "2026-09-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1b34963ed507345d1a566b84c5b13ff977e05051a6ea31b53d04a3d523a97654",
+      "submitted_at": "2026-09-03T07:02:17Z",
+      "updated_at": "2026-09-03T07:02:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.03445v1"
+    }
+  },
+  "note": "First published: 2026-09-03; Recorded arXiv version: v1; Recorded version updated: 2026-09-03T07:02:17Z.",
+  "author": [
+    {
+      "literal": "Linnan Zhao"
+    },
+    {
+      "literal": "Kang Liu"
+    },
+    {
+      "literal": "Hao Yu"
+    },
+    {
+      "literal": "Jiabo Zhan"
+    },
+    {
+      "literal": "Chong Sun"
+    },
+    {
+      "literal": "Chen Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.03445",
+  "genre": "preprint",
+  "version": "1"
+}

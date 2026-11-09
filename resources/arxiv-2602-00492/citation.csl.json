@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2602.00492",
+  "citation-key": "arxiv_2602_00492",
+  "type": "article",
+  "title": "HIDAgent: A Toolkit Enabling \"Personal Agents\" on HID-Compatible Devices",
+  "URL": "https://arxiv.org/abs/2602.00492v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.00492",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.00492",
+    "identifiers": {
+      "arxiv": "2602.00492"
+    },
+    "first_published_at": "2026-01-31",
+    "record_updated_at": "2026-01-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1a2b4d59a13eb14cc7bf55bb166c9f8ea7e6587eeece1b3d9c257b56b042f66a",
+      "submitted_at": "2026-01-31T03:36:29Z",
+      "updated_at": "2026-01-31T03:36:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.00492v1"
+    }
+  },
+  "note": "First published: 2026-01-31; Recorded arXiv version: v1; Recorded version updated: 2026-01-31T03:36:29Z.",
+  "author": [
+    {
+      "literal": "Jeffrey P. Bigham"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.00492",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2505.02077",
+  "citation-key": "arxiv_2505_02077",
+  "type": "article",
+  "title": "Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents",
+  "URL": "https://arxiv.org/abs/2505.02077v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.02077",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.02077",
+    "identifiers": {
+      "arxiv": "2505.02077"
+    },
+    "first_published_at": "2025-05-04",
+    "record_updated_at": "2026-04-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "884e78d384ca9490a88077d7cc787b4435e4670f0db16d007997ba0d6f5d9bd5",
+      "submitted_at": "2025-05-04T12:03:29Z",
+      "updated_at": "2026-04-29T10:47:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.02077v2"
+    }
+  },
+  "note": "First published: 2025-05-04; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T10:47:33Z.",
+  "author": [
+    {
+      "literal": "Christian Schroeder de Witt"
+    },
+    {
+      "literal": "Klaudia Krawiecka"
+    },
+    {
+      "literal": "Igor Krawczuk"
+    },
+    {
+      "literal": "Ben Hagag"
+    },
+    {
+      "literal": "William L. Anderson"
+    },
+    {
+      "literal": "Peter Belcak"
+    },
+    {
+      "literal": "Ben Bucknall"
+    },
+    {
+      "literal": "Xiaohong Cai"
+    },
+    {
+      "literal": "Ayush Chopra"
+    },
+    {
+      "literal": "Doron Cohen"
+    },
+    {
+      "literal": "Ron F. Del Rosario"
+    },
+    {
+      "literal": "Andis Draguns"
+    },
+    {
+      "literal": "Annie Gray"
+    },
+    {
+      "literal": "Keren Katz"
+    },
+    {
+      "literal": "Vasilios Mavroudis"
+    },
+    {
+      "literal": "Jaron Mink"
+    },
+    {
+      "literal": "Sumeet Ramesh Motwani"
+    },
+    {
+      "literal": "Jonathan Petit"
+    },
+    {
+      "literal": "Leif-Sebastian Rembeck"
+    },
+    {
+      "literal": "Chandler Smith"
+    },
+    {
+      "literal": "John Sotiropoulos"
+    },
+    {
+      "literal": "Steven Young"
+    },
+    {
+      "literal": "Sarah Scheffler"
+    },
+    {
+      "literal": "Mary Llewellyn"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.02077",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2604.18364",
+  "citation-key": "arxiv_2604_18364",
+  "type": "article",
+  "title": "Training and Agentic Inference Strategies for LLM-based Manim Animation Generation",
+  "URL": "https://arxiv.org/abs/2604.18364v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.18364",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.18364",
+    "identifiers": {
+      "arxiv": "2604.18364"
+    },
+    "first_published_at": "2026-04-20",
+    "record_updated_at": "2026-08-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "37aa38cbb66f6ce090ad83c738839b1451ed1c86ac5fcc16c0b8815b026dd017",
+      "submitted_at": "2026-04-20T14:54:06Z",
+      "updated_at": "2026-08-31T10:08:47Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.18364v2"
+    }
+  },
+  "note": "First published: 2026-04-20; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T10:08:47Z.",
+  "author": [
+    {
+      "literal": "Ravidu Suien Rammuni Silva"
+    },
+    {
+      "literal": "Ahmad Lotfi"
+    },
+    {
+      "literal": "Isibor Kennedy Ihianle"
+    },
+    {
+      "literal": "Golnaz Shahtahmassebi"
+    },
+    {
+      "literal": "Jordan J. Bird"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.18364",
+  "genre": "preprint",
+  "version": "2"
+}

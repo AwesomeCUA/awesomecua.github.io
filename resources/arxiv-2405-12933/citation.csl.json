@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2405.12933",
+  "citation-key": "arxiv_2405_12933",
+  "type": "article",
+  "title": "Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs",
+  "URL": "https://arxiv.org/abs/2405.12933v2",
+  "custom": {
+    "catalog_id": "arxiv:2405.12933",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.12933",
+    "identifiers": {
+      "arxiv": "2405.12933"
+    },
+    "first_published_at": "2024-05-21",
+    "record_updated_at": "2024-06-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "22e4f1a95a3c15e822162edb16ba176f389d1c8942b9f3e1dd72d45449a76fd4",
+      "submitted_at": "2024-05-21T17:04:44Z",
+      "updated_at": "2024-06-02T18:48:56Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2405.12933v2"
+    }
+  },
+  "note": "First published: 2024-05-21; Recorded arXiv version: v2; Recorded version updated: 2024-06-02T18:48:56Z.",
+  "author": [
+    {
+      "literal": "Bilgehan Sel"
+    },
+    {
+      "literal": "Priya Shanmugasundaram"
+    },
+    {
+      "literal": "Mohammad Kachuee"
+    },
+    {
+      "literal": "Kun Zhou"
+    },
+    {
+      "literal": "Ruoxi Jia"
+    },
+    {
+      "literal": "Ming Jin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.12933",
+  "genre": "preprint",
+  "version": "2"
+}

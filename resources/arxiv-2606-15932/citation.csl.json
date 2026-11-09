@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2606.15932",
+  "citation-key": "arxiv_2606_15932",
+  "type": "article",
+  "title": "Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence",
+  "URL": "https://arxiv.org/abs/2606.15932v3",
+  "custom": {
+    "catalog_id": "arxiv:2606.15932",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.15932",
+    "identifiers": {
+      "arxiv": "2606.15932"
+    },
+    "first_published_at": "2026-06-14",
+    "record_updated_at": "2026-08-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fcdfe62e8bce698ed594b611e54dff667d409a3b8ac4d330b4da93ecaa6f1f30",
+      "submitted_at": "2026-06-14T17:21:43Z",
+      "updated_at": "2026-08-30T04:28:48Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2606.15932v3"
+    }
+  },
+  "note": "First published: 2026-06-14; Recorded arXiv version: v3; Recorded version updated: 2026-08-30T04:28:48Z.",
+  "author": [
+    {
+      "literal": "Xuanle Zhao"
+    },
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Jingyu Xiao"
+    },
+    {
+      "literal": "Xuexin Liu"
+    },
+    {
+      "literal": "Haoyue Yang"
+    },
+    {
+      "literal": "Qiaosheng Chen"
+    },
+    {
+      "literal": "Xianzhen Luo"
+    },
+    {
+      "literal": "Jing Huang"
+    },
+    {
+      "literal": "Yufeng Zhong"
+    },
+    {
+      "literal": "Lei Chen"
+    },
+    {
+      "literal": "Shuai Fu"
+    },
+    {
+      "literal": "Zhenlin Wei"
+    },
+    {
+      "literal": "Jinhe Bi"
+    },
+    {
+      "literal": "Lei Jiang"
+    },
+    {
+      "literal": "Haibo Qiu"
+    },
+    {
+      "literal": "Siqi Yang"
+    },
+    {
+      "literal": "Peng Shi"
+    },
+    {
+      "literal": "Jian Hu"
+    },
+    {
+      "literal": "Zhixiong Zeng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.15932",
+  "genre": "preprint",
+  "version": "3"
+}

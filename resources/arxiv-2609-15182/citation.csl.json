@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2609.15182",
+  "citation-key": "arxiv_2609_15182",
+  "type": "article",
+  "title": "VisInteract: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries",
+  "URL": "https://arxiv.org/abs/2609.15182v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.15182",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.15182",
+    "identifiers": {
+      "arxiv": "2609.15182"
+    },
+    "first_published_at": "2026-09-14",
+    "record_updated_at": "2026-09-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c3f8b18e0c0529969f6409c23def02058978a16c53a1007d53457317321f9d62",
+      "submitted_at": "2026-09-14T08:03:37Z",
+      "updated_at": "2026-09-14T08:03:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.15182v1"
+    }
+  },
+  "note": "First published: 2026-09-14; Recorded arXiv version: v1; Recorded version updated: 2026-09-14T08:03:37Z.",
+  "author": [
+    {
+      "literal": "Wenxin Xu"
+    },
+    {
+      "literal": "Jinwei Lu"
+    },
+    {
+      "literal": "Hwanhee Kim"
+    },
+    {
+      "literal": "Chen Jason Zhang"
+    },
+    {
+      "literal": "Xiao-Yong Wei"
+    },
+    {
+      "literal": "Haoyang Li"
+    },
+    {
+      "literal": "Yuanfeng Song"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.15182",
+  "genre": "preprint",
+  "version": "1"
+}

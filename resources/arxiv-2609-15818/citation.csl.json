@@ -1,0 +1,472 @@
+{
+  "id": "arxiv:2609.15818",
+  "citation-key": "arxiv_2609_15818",
+  "type": "article",
+  "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+  "URL": "https://arxiv.org/abs/2609.15818v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.15818",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.15818",
+    "identifiers": {
+      "arxiv": "2609.15818"
+    },
+    "first_published_at": "2026-09-14",
+    "record_updated_at": "2026-09-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7c415777a115a5aadf024feba72e285200c39d9c65627d212aeb6bf80112c2ba",
+      "submitted_at": "2026-09-14T16:22:30Z",
+      "updated_at": "2026-09-17T17:33:02Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.15818v2"
+    }
+  },
+  "note": "First published: 2026-09-14; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T17:33:02Z.",
+  "author": [
+    {
+      "literal": "Honglin Guo"
+    },
+    {
+      "literal": "Tao Gui"
+    },
+    {
+      "literal": "Kun Cai"
+    },
+    {
+      "literal": "Haodong Chen"
+    },
+    {
+      "literal": "Yicheng Chen"
+    },
+    {
+      "literal": "Guanting Dong"
+    },
+    {
+      "literal": "Qiming Ge"
+    },
+    {
+      "literal": "Yuyang Hu"
+    },
+    {
+      "literal": "Zixian Huang"
+    },
+    {
+      "literal": "Jiajie Jin"
+    },
+    {
+      "literal": "Alexander Lam"
+    },
+    {
+      "literal": "Yining Li"
+    },
+    {
+      "literal": "Jiahang Lin"
+    },
+    {
+      "literal": "Yanjiang Liu"
+    },
+    {
+      "literal": "Xinyu Lu"
+    },
+    {
+      "literal": "Haijun Lv"
+    },
+    {
+      "literal": "Zerun Ma"
+    },
+    {
+      "literal": "Junlin Shang"
+    },
+    {
+      "literal": "Qisheng Su"
+    },
+    {
+      "literal": "Guoqiang Wang"
+    },
+    {
+      "literal": "Rui Wang"
+    },
+    {
+      "literal": "Zhecan Wang"
+    },
+    {
+      "literal": "Hao Xiang"
+    },
+    {
+      "literal": "Xinchen Xie"
+    },
+    {
+      "literal": "Shuhao Xing"
+    },
+    {
+      "literal": "Xiaoyu Xing"
+    },
+    {
+      "literal": "Wanghan Xu"
+    },
+    {
+      "literal": "Xinyu Yang"
+    },
+    {
+      "literal": "Yajie Yang"
+    },
+    {
+      "literal": "Chengfeng Zhao"
+    },
+    {
+      "literal": "Haoran Zhao"
+    },
+    {
+      "literal": "Penghao Zhao"
+    },
+    {
+      "literal": "Ruojun Zhou"
+    },
+    {
+      "literal": "Yunhua Zhou"
+    },
+    {
+      "literal": "Dongsheng Zhu"
+    },
+    {
+      "literal": "Yicheng Zou"
+    },
+    {
+      "literal": "Qiye Cai"
+    },
+    {
+      "literal": "Xinmeng Che"
+    },
+    {
+      "literal": "Jiabei Chen"
+    },
+    {
+      "literal": "Jiahao Chen"
+    },
+    {
+      "literal": "Jiayi Chen"
+    },
+    {
+      "literal": "Yujia Chen"
+    },
+    {
+      "literal": "Lizhi Cui"
+    },
+    {
+      "literal": "Youheng Dai"
+    },
+    {
+      "literal": "Xin Deng"
+    },
+    {
+      "literal": "Yi Dong"
+    },
+    {
+      "literal": "Shihan Dou"
+    },
+    {
+      "literal": "Chenya Gu"
+    },
+    {
+      "literal": "Xu Guo"
+    },
+    {
+      "literal": "Ding Han"
+    },
+    {
+      "literal": "Feiyang Hao"
+    },
+    {
+      "literal": "Haotan He"
+    },
+    {
+      "literal": "Jie Hou"
+    },
+    {
+      "literal": "Binze Hu"
+    },
+    {
+      "literal": "Zijian Hu"
+    },
+    {
+      "literal": "Junhao Huang"
+    },
+    {
+      "literal": "Huicheng Jiang"
+    },
+    {
+      "literal": "Jiazhen Jiang"
+    },
+    {
+      "literal": "Shufan Jiang"
+    },
+    {
+      "literal": "Jiahao Kuang"
+    },
+    {
+      "literal": "Bowen Lai"
+    },
+    {
+      "literal": "Bo Li"
+    },
+    {
+      "literal": "Jiaqiang Li"
+    },
+    {
+      "literal": "Peng Li"
+    },
+    {
+      "literal": "Qilong Li"
+    },
+    {
+      "literal": "Zhuoqun Li"
+    },
+    {
+      "literal": "Jiaxiang Liu"
+    },
+    {
+      "literal": "Shuainan Liu"
+    },
+    {
+      "literal": "Tong Liu"
+    },
+    {
+      "literal": "Yi Liu"
+    },
+    {
+      "literal": "Zhonghang Lu"
+    },
+    {
+      "literal": "Jianwen Luo"
+    },
+    {
+      "literal": "Yanyi Luo"
+    },
+    {
+      "literal": "Huijie Lv"
+    },
+    {
+      "literal": "Ningsheng Ma"
+    },
+    {
+      "literal": "Houcheng Min"
+    },
+    {
+      "literal": "Chengjun Pan"
+    },
+    {
+      "literal": "Qiyuan Peng"
+    },
+    {
+      "literal": "Xiaoxuan Peng"
+    },
+    {
+      "literal": "Jianmin Qian"
+    },
+    {
+      "literal": "Jiantao Qiu"
+    },
+    {
+      "literal": "Wanying Ren"
+    },
+    {
+      "literal": "Huayu Sha"
+    },
+    {
+      "literal": "Jifei Shan"
+    },
+    {
+      "literal": "Zixin Shang"
+    },
+    {
+      "literal": "Bing Shao"
+    },
+    {
+      "literal": "Zhuohui Sheng"
+    },
+    {
+      "literal": "Jiayang Shi"
+    },
+    {
+      "literal": "Yang Shu"
+    },
+    {
+      "literal": "Aierpanjiang Simayi"
+    },
+    {
+      "literal": "Sirui Song"
+    },
+    {
+      "literal": "Yuxiao Song"
+    },
+    {
+      "literal": "Zhe Sun"
+    },
+    {
+      "literal": "Zhichao Sun"
+    },
+    {
+      "literal": "Wenzhe Tan"
+    },
+    {
+      "literal": "Wenhui Tian"
+    },
+    {
+      "literal": "Zhongbo Tian"
+    },
+    {
+      "literal": "Hanchen Wang"
+    },
+    {
+      "literal": "Pengbo Wang"
+    },
+    {
+      "literal": "Rui Wang"
+    },
+    {
+      "literal": "Yiding Wang"
+    },
+    {
+      "literal": "Yuhui Wang"
+    },
+    {
+      "literal": "Zhiheng Xi"
+    },
+    {
+      "literal": "Caijun Xu"
+    },
+    {
+      "literal": "Chao Xu"
+    },
+    {
+      "literal": "Yongfeng Xu"
+    },
+    {
+      "literal": "Xiaolei Yang"
+    },
+    {
+      "literal": "Zhixiong Yang"
+    },
+    {
+      "literal": "Qian Yao"
+    },
+    {
+      "literal": "Shihong Yi"
+    },
+    {
+      "literal": "Yuankai Ying"
+    },
+    {
+      "literal": "Jia Yu"
+    },
+    {
+      "literal": "Dingbo Yuan"
+    },
+    {
+      "literal": "Hao Yuan"
+    },
+    {
+      "literal": "Junjie Yuan"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Caixian Zhang"
+    },
+    {
+      "literal": "Qiuyinzhe Zhang"
+    },
+    {
+      "literal": "Jiyuan Zhao"
+    },
+    {
+      "literal": "Ying Zhao"
+    },
+    {
+      "literal": "Pujun Zheng"
+    },
+    {
+      "literal": "Xiaoxue Zhong"
+    },
+    {
+      "literal": "Xiaohao Zhou"
+    },
+    {
+      "literal": "Xinyu Zhou"
+    },
+    {
+      "literal": "Guanru Zhu"
+    },
+    {
+      "literal": "Yulun Zhu"
+    },
+    {
+      "literal": "Yaojie Lu"
+    },
+    {
+      "literal": "Tao Ji"
+    },
+    {
+      "literal": "Hongyu Lin"
+    },
+    {
+      "literal": "Yutao Zhu"
+    },
+    {
+      "literal": "Pengfei Cao"
+    },
+    {
+      "literal": "Guoxiu He"
+    },
+    {
+      "literal": "Xianpei Han"
+    },
+    {
+      "literal": "Ben He"
+    },
+    {
+      "literal": "Zhicheng Dou"
+    },
+    {
+      "literal": "Kang Liu"
+    },
+    {
+      "literal": "Qi Zhang"
+    },
+    {
+      "literal": "Le Sun"
+    },
+    {
+      "literal": "Jun Zhao"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    },
+    {
+      "literal": "Xuanjing Huang"
+    },
+    {
+      "literal": "Yu-Gang Jiang"
+    },
+    {
+      "literal": "Bowen Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.15818",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2610.29014",
+  "citation-key": "arxiv_2610_29014",
+  "type": "article",
+  "title": "GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development",
+  "URL": "https://arxiv.org/abs/2610.29014v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.29014",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.29014",
+    "identifiers": {
+      "arxiv": "2610.29014"
+    },
+    "first_published_at": "2026-10-21",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7464aad90adc684d923b181f7b1b0aa055d1cd9a730b88df7086295cdb441e52",
+      "submitted_at": "2026-10-21T00:28:16Z",
+      "updated_at": "2026-10-22T18:09:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.29014v2"
+    }
+  },
+  "note": "First published: 2026-10-21; Recorded arXiv version: v2; Recorded version updated: 2026-10-22T18:09:19Z.",
+  "author": [
+    {
+      "literal": "William Huang"
+    },
+    {
+      "literal": "David Li"
+    },
+    {
+      "literal": "Xiang 'Anthony' Chen"
+    },
+    {
+      "literal": "Xun Qian"
+    },
+    {
+      "literal": "Nels Numan"
+    },
+    {
+      "literal": "Zhongyi Zhou"
+    },
+    {
+      "literal": "Hyunsung Cho"
+    },
+    {
+      "literal": "Salman Muin Kayser Chishti"
+    },
+    {
+      "literal": "Ding Xia"
+    },
+    {
+      "literal": "Xincheng Huang"
+    },
+    {
+      "literal": "Jiahao Ren"
+    },
+    {
+      "literal": "Faraz Faruqi"
+    },
+    {
+      "literal": "Tianyu Xu"
+    },
+    {
+      "literal": "Yang Zhang"
+    },
+    {
+      "literal": "David Kim"
+    },
+    {
+      "literal": "Ruofei Du"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.29014",
+  "genre": "preprint",
+  "version": "2"
+}

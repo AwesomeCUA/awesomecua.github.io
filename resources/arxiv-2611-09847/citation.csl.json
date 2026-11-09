@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2611.09847",
+  "citation-key": "arxiv_2611_09847",
+  "type": "article",
+  "title": "Computer-Use Agents Are Embodied Generalists",
+  "URL": "https://arxiv.org/abs/2611.09847v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.09847",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.09847",
+    "identifiers": {
+      "arxiv": "2611.09847"
+    },
+    "first_published_at": "2026-11-06",
+    "record_updated_at": "2026-11-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3874e716e15136f055969c464e868f3bcf2d9ceaa069f3e6e4f0a8e8408f5387",
+      "submitted_at": "2026-11-06T18:31:17Z",
+      "updated_at": "2026-11-06T18:31:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.09847v1"
+    }
+  },
+  "note": "First published: 2026-11-06; Recorded arXiv version: v1; Recorded version updated: 2026-11-06T18:31:17Z.",
+  "author": [
+    {
+      "literal": "Pranjal Aggarwal"
+    },
+    {
+      "literal": "Sean Welleck"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.09847",
+  "genre": "preprint",
+  "version": "1"
+}

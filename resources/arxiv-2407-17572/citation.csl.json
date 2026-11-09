@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2407.17572",
+  "citation-key": "arxiv_2407_17572",
+  "type": "article",
+  "title": "CityX: Controllable Procedural Content Generation for Unbounded 3D Cities",
+  "URL": "https://arxiv.org/abs/2407.17572v4",
+  "custom": {
+    "catalog_id": "arxiv:2407.17572",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.17572",
+    "identifiers": {
+      "arxiv": "2407.17572"
+    },
+    "first_published_at": "2024-07-24",
+    "record_updated_at": "2024-12-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b8fe6b386edf69f4eb2b5d7337a9decdeb03668c41732f35773dc9a82aea3ab7",
+      "submitted_at": "2024-07-24T18:05:13Z",
+      "updated_at": "2024-12-09T09:30:26Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2407.17572v4"
+    }
+  },
+  "note": "First published: 2024-07-24; Recorded arXiv version: v4; Recorded version updated: 2024-12-09T09:30:26Z.",
+  "author": [
+    {
+      "literal": "Shougao Zhang"
+    },
+    {
+      "literal": "Mengqi Zhou"
+    },
+    {
+      "literal": "Yuxi Wang"
+    },
+    {
+      "literal": "Chuanchen Luo"
+    },
+    {
+      "literal": "Rongyu Wang"
+    },
+    {
+      "literal": "Yiwei Li"
+    },
+    {
+      "literal": "Zhaoxiang Zhang"
+    },
+    {
+      "literal": "Junran Peng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.17572",
+  "genre": "preprint",
+  "version": "4"
+}

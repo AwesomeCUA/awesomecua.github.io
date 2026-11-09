@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2412.18378",
+  "citation-key": "arxiv_2412_18378",
+  "type": "article",
+  "title": "RaSeRec: Retrieval-Augmented Sequential Recommendation",
+  "URL": "https://arxiv.org/abs/2412.18378v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.18378",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.18378",
+    "identifiers": {
+      "arxiv": "2412.18378"
+    },
+    "first_published_at": "2024-12-24",
+    "record_updated_at": "2025-02-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b757e221f5acd1e2de25daa3696571fd10d9c29b086dd5ff8255c0aad1282f0d",
+      "submitted_at": "2024-12-24T12:07:48Z",
+      "updated_at": "2025-02-13T13:35:51Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.18378v3"
+    }
+  },
+  "note": "First published: 2024-12-24; Recorded arXiv version: v3; Recorded version updated: 2025-02-13T13:35:51Z.",
+  "author": [
+    {
+      "literal": "Xinping Zhao"
+    },
+    {
+      "literal": "Baotian Hu"
+    },
+    {
+      "literal": "Yan Zhong"
+    },
+    {
+      "literal": "Shouzheng Huang"
+    },
+    {
+      "literal": "Zihao Zheng"
+    },
+    {
+      "literal": "Meng Wang"
+    },
+    {
+      "literal": "Haofen Wang"
+    },
+    {
+      "literal": "Min Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.18378",
+  "genre": "preprint",
+  "version": "3"
+}

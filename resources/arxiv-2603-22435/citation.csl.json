@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2603.22435",
+  "citation-key": "arxiv_2603_22435",
+  "type": "article",
+  "title": "CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation",
+  "URL": "https://arxiv.org/abs/2603.22435v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.22435",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.22435",
+    "identifiers": {
+      "arxiv": "2603.22435"
+    },
+    "first_published_at": "2026-03-23",
+    "record_updated_at": "2026-07-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4d52dd9212716159d23e4c9c656b7688ac18a821511deda2720f143b04d9f01c",
+      "submitted_at": "2026-03-23T18:08:10Z",
+      "updated_at": "2026-07-02T17:36:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.22435v2"
+    }
+  },
+  "note": "First published: 2026-03-23; Recorded arXiv version: v2; Recorded version updated: 2026-07-02T17:36:10Z.",
+  "author": [
+    {
+      "literal": "Letian Fu"
+    },
+    {
+      "literal": "Justin Yu"
+    },
+    {
+      "literal": "Karim El-Refai"
+    },
+    {
+      "literal": "Ethan Kou"
+    },
+    {
+      "literal": "Haoru Xue"
+    },
+    {
+      "literal": "Huang Huang"
+    },
+    {
+      "literal": "Wenli Xiao"
+    },
+    {
+      "literal": "Guanzhi Wang"
+    },
+    {
+      "literal": "Dantong Niu"
+    },
+    {
+      "literal": "Fei-Fei Li"
+    },
+    {
+      "literal": "Guanya Shi"
+    },
+    {
+      "literal": "Jiajun Wu"
+    },
+    {
+      "literal": "Shankar Sastry"
+    },
+    {
+      "literal": "Yuke Zhu"
+    },
+    {
+      "literal": "Ken Goldberg"
+    },
+    {
+      "literal": "Linxi \"Jim\" Fan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.22435",
+  "genre": "preprint",
+  "version": "2"
+}

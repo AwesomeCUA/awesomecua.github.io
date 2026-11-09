@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.31841",
+  "citation-key": "arxiv_2610_31841",
+  "type": "article",
+  "title": "FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation",
+  "URL": "https://arxiv.org/abs/2610.31841v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.31841",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.31841",
+    "identifiers": {
+      "arxiv": "2610.31841"
+    },
+    "first_published_at": "2026-10-22",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "77ad0046cc6974105b1ce1a5ebbb447d516f63998caef8d9fb17b34e55a363e3",
+      "submitted_at": "2026-10-22T19:24:48Z",
+      "updated_at": "2026-10-22T19:24:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.31841v1"
+    }
+  },
+  "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T19:24:48Z.",
+  "author": [
+    {
+      "literal": "Xiao Tan"
+    },
+    {
+      "literal": "Yixuan Wang"
+    },
+    {
+      "literal": "Zhexi Wang"
+    },
+    {
+      "literal": "Wenzhen Yuan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.31841",
+  "genre": "preprint",
+  "version": "1"
+}

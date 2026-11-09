@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2308.07107",
+  "citation-key": "arxiv_2308_07107",
+  "type": "article",
+  "title": "Large Language Models for Information Retrieval: A Survey",
+  "URL": "https://arxiv.org/abs/2308.07107v5",
+  "custom": {
+    "catalog_id": "arxiv:2308.07107",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.07107",
+    "identifiers": {
+      "arxiv": "2308.07107"
+    },
+    "first_published_at": "2023-08-14",
+    "record_updated_at": "2025-09-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "28190e28340a2aefda5d3d2f13d6283e40ffa30547d51b4840198059af7446c8",
+      "submitted_at": "2023-08-14T12:47:22Z",
+      "updated_at": "2025-09-17T07:52:25Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2308.07107v5"
+    }
+  },
+  "note": "First published: 2023-08-14; Recorded arXiv version: v5; Recorded version updated: 2025-09-17T07:52:25Z.",
+  "author": [
+    {
+      "literal": "Yutao Zhu"
+    },
+    {
+      "literal": "Huaying Yuan"
+    },
+    {
+      "literal": "Shuting Wang"
+    },
+    {
+      "literal": "Jiongnan Liu"
+    },
+    {
+      "literal": "Wenhan Liu"
+    },
+    {
+      "literal": "Chenlong Deng"
+    },
+    {
+      "literal": "Haonan Chen"
+    },
+    {
+      "literal": "Zheng Liu"
+    },
+    {
+      "literal": "Zhicheng Dou"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.07107",
+  "genre": "preprint",
+  "version": "5"
+}

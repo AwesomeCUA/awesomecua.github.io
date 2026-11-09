@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2505.13934",
+  "citation-key": "arxiv_2505_13934",
+  "type": "article",
+  "title": "RLVR-World: Training World Models with Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2505.13934v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.13934",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.13934",
+    "identifiers": {
+      "arxiv": "2505.13934"
+    },
+    "first_published_at": "2025-05-20",
+    "record_updated_at": "2025-10-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2fdf0595e5b99de84a696a8416584b75027ebeb3fcb66ef7779c108b25c05e83",
+      "submitted_at": "2025-05-20T05:02:53Z",
+      "updated_at": "2025-10-25T02:00:20Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.13934v2"
+    }
+  },
+  "note": "First published: 2025-05-20; Recorded arXiv version: v2; Recorded version updated: 2025-10-25T02:00:20Z.",
+  "author": [
+    {
+      "literal": "Jialong Wu"
+    },
+    {
+      "literal": "Shaofeng Yin"
+    },
+    {
+      "literal": "Ningya Feng"
+    },
+    {
+      "literal": "Mingsheng Long"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.13934",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2605.14398",
+  "citation-key": "arxiv_2605_14398",
+  "type": "article",
+  "title": "ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction",
+  "URL": "https://arxiv.org/abs/2605.14398v3",
+  "custom": {
+    "catalog_id": "arxiv:2605.14398",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.14398",
+    "identifiers": {
+      "arxiv": "2605.14398"
+    },
+    "first_published_at": "2026-05-14",
+    "record_updated_at": "2026-08-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bbf02db3779b766c155ff1f515212f482347921d6a2579c9c2ced13844dbbf76",
+      "submitted_at": "2026-05-14T05:33:41Z",
+      "updated_at": "2026-08-20T17:13:35Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2605.14398v3"
+    }
+  },
+  "note": "First published: 2026-05-14; Recorded arXiv version: v3; Recorded version updated: 2026-08-20T17:13:35Z.",
+  "author": [
+    {
+      "literal": "Hongyu Wang"
+    },
+    {
+      "literal": "Jingquan Wang"
+    },
+    {
+      "literal": "Ashvin Anilkumar"
+    },
+    {
+      "literal": "Bocheng Zou"
+    },
+    {
+      "literal": "Radu Serban"
+    },
+    {
+      "literal": "Dan Negrut"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.14398",
+  "genre": "preprint",
+  "version": "3"
+}

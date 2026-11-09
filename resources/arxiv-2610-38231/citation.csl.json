@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2610.38231",
+  "citation-key": "arxiv_2610_38231",
+  "type": "article",
+  "title": "3DCodeEdit: Benchmarking Instruction-Guided 3D Program Editing",
+  "URL": "https://arxiv.org/abs/2610.38231v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.38231",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.38231",
+    "identifiers": {
+      "arxiv": "2610.38231"
+    },
+    "first_published_at": "2026-10-28",
+    "record_updated_at": "2026-10-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b05f1f030f1a5f19860b73284a594e6c293bb779232c8ce9e8f002a88224e28a",
+      "submitted_at": "2026-10-28T03:29:59Z",
+      "updated_at": "2026-10-28T03:29:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.38231v1"
+    }
+  },
+  "note": "First published: 2026-10-28; Recorded arXiv version: v1; Recorded version updated: 2026-10-28T03:29:59Z.",
+  "author": [
+    {
+      "literal": "Binjie Wang"
+    },
+    {
+      "literal": "Xinran Zhao"
+    },
+    {
+      "literal": "Shoubin Yu"
+    },
+    {
+      "literal": "Xiang Li"
+    },
+    {
+      "literal": "Silong Yong"
+    },
+    {
+      "literal": "Chenyang Yang"
+    },
+    {
+      "literal": "Tianyu Chen"
+    },
+    {
+      "literal": "Ruofei Du"
+    },
+    {
+      "literal": "He He"
+    },
+    {
+      "literal": "Chen Zhao"
+    },
+    {
+      "literal": "Tongshuang Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.38231",
+  "genre": "preprint",
+  "version": "1"
+}

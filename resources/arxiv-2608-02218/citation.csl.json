@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2608.02218",
+  "citation-key": "arxiv_2608_02218",
+  "type": "article",
+  "title": "PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs",
+  "URL": "https://arxiv.org/abs/2608.02218v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.02218",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.02218",
+    "identifiers": {
+      "arxiv": "2608.02218"
+    },
+    "first_published_at": "2026-08-03",
+    "record_updated_at": "2026-08-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b1f1046888ce70ff6f8fe89e2c236306b8057ca157f5f1626bfc63b800f47369",
+      "submitted_at": "2026-08-03T13:39:25Z",
+      "updated_at": "2026-08-03T13:39:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.02218v1"
+    }
+  },
+  "note": "First published: 2026-08-03; Recorded arXiv version: v1; Recorded version updated: 2026-08-03T13:39:25Z.",
+  "author": [
+    {
+      "literal": "Haojie Hu"
+    },
+    {
+      "literal": "Chenhao Dang"
+    },
+    {
+      "literal": "Yaojia Liu"
+    },
+    {
+      "literal": "Hengrui Kang"
+    },
+    {
+      "literal": "Conghui He"
+    },
+    {
+      "literal": "Weijia Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.02218",
+  "genre": "preprint",
+  "version": "1"
+}

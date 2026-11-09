@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2601.02553",
+  "citation-key": "arxiv_2601_02553",
+  "type": "article",
+  "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+  "URL": "https://arxiv.org/abs/2601.02553v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.02553",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.02553",
+    "identifiers": {
+      "arxiv": "2601.02553"
+    },
+    "first_published_at": "2026-01-05",
+    "record_updated_at": "2026-01-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8fd2d358785778c8e2bca1a9320e712055a2a8e7afc2b6472bcde571c130033f",
+      "submitted_at": "2026-01-05T21:02:49Z",
+      "updated_at": "2026-01-29T15:45:24Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.02553v3"
+    }
+  },
+  "note": "First published: 2026-01-05; Recorded arXiv version: v3; Recorded version updated: 2026-01-29T15:45:24Z.",
+  "author": [
+    {
+      "literal": "Jiaqi Liu"
+    },
+    {
+      "literal": "Yaofeng Su"
+    },
+    {
+      "literal": "Peng Xia"
+    },
+    {
+      "literal": "Siwei Han"
+    },
+    {
+      "literal": "Zeyu Zheng"
+    },
+    {
+      "literal": "Cihang Xie"
+    },
+    {
+      "literal": "Mingyu Ding"
+    },
+    {
+      "literal": "Huaxiu Yao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.02553",
+  "genre": "preprint",
+  "version": "3"
+}

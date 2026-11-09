@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.28593",
+  "citation-key": "arxiv_2606_28593",
+  "type": "article",
+  "title": "Animation2Code: Evaluating Temporal Visual Reasoning in Video-to-Code Generation",
+  "URL": "https://arxiv.org/abs/2606.28593v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.28593",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.28593",
+    "identifiers": {
+      "arxiv": "2606.28593"
+    },
+    "first_published_at": "2026-06-26",
+    "record_updated_at": "2026-06-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9c80e5c0e4b24b62dc7788e1f1a1f98cf0e6f17f3a4c15178264ce65c3520571",
+      "submitted_at": "2026-06-26T20:38:04Z",
+      "updated_at": "2026-06-26T20:38:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.28593v1"
+    }
+  },
+  "note": "First published: 2026-06-26; Recorded arXiv version: v1; Recorded version updated: 2026-06-26T20:38:04Z.",
+  "author": [
+    {
+      "literal": "Anya Ji"
+    },
+    {
+      "literal": "Abhijith Varma Mudunuri"
+    },
+    {
+      "literal": "David M. Chan"
+    },
+    {
+      "literal": "Alane Suhr"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.28593",
+  "genre": "preprint",
+  "version": "1"
+}

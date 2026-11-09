@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2202.03286",
+  "citation-key": "arxiv_2202_03286",
+  "type": "article",
+  "title": "Red Teaming Language Models with Language Models",
+  "URL": "https://arxiv.org/abs/2202.03286v1",
+  "custom": {
+    "catalog_id": "arxiv:2202.03286",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2202.03286",
+    "identifiers": {
+      "arxiv": "2202.03286"
+    },
+    "first_published_at": "2022-02-07",
+    "record_updated_at": "2022-02-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "617652b5f21f486dc8de8cbef2057cda633158ac781d94bf355079a4a490da17",
+      "submitted_at": "2022-02-07T15:22:17Z",
+      "updated_at": "2022-02-07T15:22:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2202.03286v1"
+    }
+  },
+  "note": "First published: 2022-02-07; Recorded arXiv version: v1; Recorded version updated: 2022-02-07T15:22:17Z.",
+  "author": [
+    {
+      "literal": "Ethan Perez"
+    },
+    {
+      "literal": "Saffron Huang"
+    },
+    {
+      "literal": "Francis Song"
+    },
+    {
+      "literal": "Trevor Cai"
+    },
+    {
+      "literal": "Roman Ring"
+    },
+    {
+      "literal": "John Aslanides"
+    },
+    {
+      "literal": "Amelia Glaese"
+    },
+    {
+      "literal": "Nat McAleese"
+    },
+    {
+      "literal": "Geoffrey Irving"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2202.03286",
+  "genre": "preprint",
+  "version": "1"
+}

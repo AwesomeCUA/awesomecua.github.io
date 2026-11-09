@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2401.02906",
+  "citation-key": "arxiv_2401_02906",
+  "type": "article",
+  "title": "MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance",
+  "URL": "https://arxiv.org/abs/2401.02906v3",
+  "custom": {
+    "catalog_id": "arxiv:2401.02906",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.02906",
+    "identifiers": {
+      "arxiv": "2401.02906"
+    },
+    "first_published_at": "2024-01-05",
+    "record_updated_at": "2024-06-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d97086aeaec913e88dc16a206b8473dde1d0079a97b24f6d63f2e298acc8fc34",
+      "submitted_at": "2024-01-05T17:05:42Z",
+      "updated_at": "2024-06-17T16:53:49Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2401.02906v3"
+    }
+  },
+  "note": "First published: 2024-01-05; Recorded arXiv version: v3; Recorded version updated: 2024-06-17T16:53:49Z.",
+  "author": [
+    {
+      "literal": "Renjie Pi"
+    },
+    {
+      "literal": "Tianyang Han"
+    },
+    {
+      "literal": "Jianshu Zhang"
+    },
+    {
+      "literal": "Yueqi Xie"
+    },
+    {
+      "literal": "Rui Pan"
+    },
+    {
+      "literal": "Qing Lian"
+    },
+    {
+      "literal": "Hanze Dong"
+    },
+    {
+      "literal": "Jipeng Zhang"
+    },
+    {
+      "literal": "Tong Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.02906",
+  "genre": "preprint",
+  "version": "3"
+}

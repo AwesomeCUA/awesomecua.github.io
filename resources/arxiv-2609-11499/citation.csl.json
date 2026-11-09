@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2609.11499",
+  "citation-key": "arxiv_2609_11499",
+  "type": "article",
+  "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
+  "URL": "https://arxiv.org/abs/2609.11499v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.11499",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.11499",
+    "identifiers": {
+      "arxiv": "2609.11499"
+    },
+    "first_published_at": "2026-09-10",
+    "record_updated_at": "2026-09-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "98594a39c403c6c3bbd1a0e80e375102fbd202465dfefb68c5d8984e58879acf",
+      "submitted_at": "2026-09-10T13:05:06Z",
+      "updated_at": "2026-09-13T02:25:35Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.11499v2"
+    }
+  },
+  "note": "First published: 2026-09-10; Recorded arXiv version: v2; Recorded version updated: 2026-09-13T02:25:35Z.",
+  "author": [
+    {
+      "literal": "Zhiqi Li"
+    },
+    {
+      "literal": "Yuxuan Liao"
+    },
+    {
+      "literal": "Bo Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.11499",
+  "genre": "preprint",
+  "version": "2"
+}

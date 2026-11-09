@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.36852",
+  "citation-key": "arxiv_2610_36852",
+  "type": "article",
+  "title": "When Black-Box Robot Policies Fail: Online Sensor Diagnosis and Repair with a Transparent Surrogate",
+  "URL": "https://arxiv.org/abs/2610.36852v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.36852",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.36852",
+    "identifiers": {
+      "arxiv": "2610.36852"
+    },
+    "first_published_at": "2026-10-27",
+    "record_updated_at": "2026-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "667df7a01bd1c037c55935834d720235e0e2711389efbaf575fc1656503e28e1",
+      "submitted_at": "2026-10-27T08:49:18Z",
+      "updated_at": "2026-10-27T08:49:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.36852v1"
+    }
+  },
+  "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T08:49:18Z.",
+  "author": [
+    {
+      "literal": "Marc Ziegler"
+    },
+    {
+      "literal": "Batu Özen"
+    },
+    {
+      "literal": "Sami Mentes"
+    },
+    {
+      "literal": "Thomas Waschulzik"
+    },
+    {
+      "literal": "Alois Knoll"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.36852",
+  "genre": "preprint",
+  "version": "1"
+}

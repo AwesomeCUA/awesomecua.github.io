@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2609.00194",
+  "citation-key": "arxiv_2609_00194",
+  "type": "article",
+  "title": "ReDeck: Step-Level Render-Grounded Refinement for Document-to-Slide Generation",
+  "URL": "https://arxiv.org/abs/2609.00194v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.00194",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.00194",
+    "identifiers": {
+      "arxiv": "2609.00194"
+    },
+    "first_published_at": "2026-08-31",
+    "record_updated_at": "2026-09-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bcc7f5a28e70ab58f33c7670f1aa8ec47e9277f9fe07a81fc16c75a7a4c9c8f5",
+      "submitted_at": "2026-08-31T18:12:10Z",
+      "updated_at": "2026-09-05T21:02:51Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.00194v2"
+    }
+  },
+  "note": "First published: 2026-08-31; Recorded arXiv version: v2; Recorded version updated: 2026-09-05T21:02:51Z.",
+  "author": [
+    {
+      "literal": "Muzhao Tian"
+    },
+    {
+      "literal": "Zezi Zeng"
+    },
+    {
+      "literal": "Yifan Yang"
+    },
+    {
+      "literal": "Xin Gao"
+    },
+    {
+      "literal": "Yan Li"
+    },
+    {
+      "literal": "Zisu Huang"
+    },
+    {
+      "literal": "Xiaohua Wang"
+    },
+    {
+      "literal": "Changze Lv"
+    },
+    {
+      "literal": "Mingxi Cheng"
+    },
+    {
+      "literal": "Bei Liu"
+    },
+    {
+      "literal": "Kai Qiu"
+    },
+    {
+      "literal": "Qi Dai"
+    },
+    {
+      "literal": "Dong Chen"
+    },
+    {
+      "literal": "Yue Dong"
+    },
+    {
+      "literal": "Xiaoqing Zheng"
+    },
+    {
+      "literal": "Ji Li"
+    },
+    {
+      "literal": "Chong Luo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.00194",
+  "genre": "preprint",
+  "version": "2"
+}

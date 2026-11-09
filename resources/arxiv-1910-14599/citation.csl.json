@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:1910.14599",
+  "citation-key": "arxiv_1910_14599",
+  "type": "article",
+  "title": "Adversarial NLI: A New Benchmark for Natural Language Understanding",
+  "URL": "https://arxiv.org/abs/1910.14599v2",
+  "custom": {
+    "catalog_id": "arxiv:1910.14599",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1910.14599",
+    "identifiers": {
+      "arxiv": "1910.14599"
+    },
+    "first_published_at": "2019-10-31",
+    "record_updated_at": "2020-05-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c9fe357fe095e5751ba145db46056c1b5f5f9508cc0b5aba84a561a4bef4e0af",
+      "submitted_at": "2019-10-31T16:50:43Z",
+      "updated_at": "2020-05-06T17:01:56Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1910.14599v2"
+    }
+  },
+  "note": "First published: 2019-10-31; Recorded arXiv version: v2; Recorded version updated: 2020-05-06T17:01:56Z.",
+  "author": [
+    {
+      "literal": "Yixin Nie"
+    },
+    {
+      "literal": "Adina Williams"
+    },
+    {
+      "literal": "Emily Dinan"
+    },
+    {
+      "literal": "Mohit Bansal"
+    },
+    {
+      "literal": "Jason Weston"
+    },
+    {
+      "literal": "Douwe Kiela"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1910.14599",
+  "genre": "preprint",
+  "version": "2"
+}

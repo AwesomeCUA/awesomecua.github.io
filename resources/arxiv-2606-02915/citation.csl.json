@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.02915",
+  "citation-key": "arxiv_2606_02915",
+  "type": "article",
+  "title": "Any2Poster: Any-Source Poster Generation Across Modalities and Domains",
+  "URL": "https://arxiv.org/abs/2606.02915v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.02915",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.02915",
+    "identifiers": {
+      "arxiv": "2606.02915"
+    },
+    "first_published_at": "2026-06-01",
+    "record_updated_at": "2026-06-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8fdfe1be98604f0bd481501b7ec47a349180d1ab05cb8893f0b12d8be94d8730",
+      "submitted_at": "2026-06-01T21:41:21Z",
+      "updated_at": "2026-06-01T21:41:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.02915v1"
+    }
+  },
+  "note": "First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T21:41:21Z.",
+  "author": [
+    {
+      "literal": "Amogh Vinaykumar"
+    },
+    {
+      "literal": "Aiden Li"
+    },
+    {
+      "literal": "Suozhi Huang"
+    },
+    {
+      "literal": "Shilong Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.02915",
+  "genre": "preprint",
+  "version": "1"
+}
