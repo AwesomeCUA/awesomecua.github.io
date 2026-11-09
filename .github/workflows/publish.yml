@@ -65,7 +65,8 @@ jobs:
     needs: gate
     if: needs.gate.outputs.publish == 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    # The source unit suite alone takes about 20 minutes.
+    timeout-minutes: 40
     outputs:
       source_commit: ${{ steps.source_revision.outputs.source_commit }}
     permissions:
@@ -199,7 +200,7 @@ jobs:
         with:
           python-version: '3.12'
       # awesomecua.com is published by AwesomeCUA/awesomecua.com and can deploy after this repository does.
-      # IndexNow checks the live host against this build, so wait (bounded) until it serves the same source commit.
+      # IndexNow checks the live host against the manifest it submits, so wait (bounded) until it serves the same source commit.
       - name: Wait for awesomecua.com to serve this source commit
         id: live
         env:
@@ -210,7 +211,15 @@ jobs:
           deadline=$((SECONDS + 1200))
           while :; do
             served=$(curl -fsS --max-time 20 -H 'Cache-Control: no-cache' "$host/data/build-info.json?$RANDOM" 2>/dev/null | python3 -c "import json,sys;print(json.load(sys.stdin).get('source_commit',''))" 2>/dev/null || true)
-            if [ "$served" = "$SOURCE_COMMIT" ]; then echo "ready=true" >> "$GITHUB_OUTPUT"; echo "$host serves $SOURCE_COMMIT"; exit 0; fi
+            if [ "$served" = "$SOURCE_COMMIT" ]; then
+              # awesomecua.com is a separate build of the same commit, with star counts read at another moment, so its
+              # page digests can differ from this snapshot's. Notify the pages as served: submit with its manifest.
+              if curl -fsS --max-time 60 -H 'Cache-Control: no-cache' "$host/data/search-manifest.json?$RANDOM" -o served-manifest.json \
+                && python3 -c "import json;json.load(open('served-manifest.json'))"; then
+                mv served-manifest.json data/search-manifest.json
+                echo "ready=true" >> "$GITHUB_OUTPUT"; echo "$host serves $SOURCE_COMMIT"; exit 0
+              fi
+            fi
             if [ "$SECONDS" -ge "$deadline" ]; then
               echo "ready=false" >> "$GITHUB_OUTPUT"
               echo "::warning title=IndexNow deferred::$host still serves '${served:-nothing}' after 20 minutes, not $SOURCE_COMMIT. Accepted state was not advanced; the next publication submits these changes."
@@ -218,8 +227,11 @@ jobs:
             fi
             sleep 30
           done
+      # A refused or unconfirmed submission leaves the accepted state where it was and the next publication retries;
+      # it never marks the publication itself as failed.
       - name: Notify IndexNow after live-site and ownership checks
         if: steps.live.outputs.ready == 'true'
+        continue-on-error: true
         run: |
           python3 .pipeline/source/scripts/submit_indexnow.py --submit \
             --site-dir "$GITHUB_WORKSPACE" \
