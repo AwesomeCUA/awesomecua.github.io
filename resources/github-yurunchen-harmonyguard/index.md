@@ -12,10 +12,6 @@ HarmonyGuard enforces adaptive safety policies and dual-objective utility-securi
 - Evidence checked: 2026-11-04T13:12:48Z
 - ID: github:yurunchen/harmonyguard
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yurunchen-harmonyguard/record.json
 
 ## License declarations

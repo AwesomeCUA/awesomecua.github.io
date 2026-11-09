@@ -12,10 +12,6 @@ Policy-compliant autonomous AI browser agent operating in local context with tra
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:holdtroop/momo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-holdtroop-momo/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Generalist web agent framework for large multimodal models such as GPT-4V, with 
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:osu-nlp-group/seeact
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-seeact/record.json
 
 ## License declarations

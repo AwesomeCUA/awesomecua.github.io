@@ -12,10 +12,6 @@ Headless, agent-controllable browser MCP server designed for testing and inspect
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:nolanbaxter/local-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nolanbaxter-local-browser-mcp/record.json
 
 ## License declarations

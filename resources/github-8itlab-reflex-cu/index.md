@@ -12,10 +12,6 @@ reflex-computer-use is an MCP server for macOS and Windows that reads native UI 
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:8itlab/reflex-cu
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-8itlab-reflex-cu/record.json
 
 ## License declarations

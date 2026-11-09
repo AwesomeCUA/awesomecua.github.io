@@ -20,11 +20,11 @@ Agents interact with simulated applications through function calls; it is includ
 
 ## Structured profile
 
-- actions: function calls to suite tools
-- evaluation: Each user task is checked for utility, and each injection task is checked for whether the attacker goal was executed; the benchmark script combines suites, attacks and defenses.
-- focus: prompt-injection robustness, task utility under attack
-- observations: tool-call results from simulated applications
-- setting: interactive
+- Actions / outputs: function calls to suite tools
+- Evaluation: Each user task is checked for utility, and each injection task is checked for whether the attacker goal was executed; the benchmark script combines suites, attacks and defenses.
+- Focus: prompt-injection robustness, task utility under attack
+- Observations: tool-call results from simulated applications
+- Setting: interactive
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Self-repairing browser automation prototype that detects and adapts to third-par
 - Evidence checked: 2026-11-04T17:20:52Z
 - ID: github:kxvya18/chnage-shield
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kxvya18-chnage-shield/record.json
 
 ## License declarations

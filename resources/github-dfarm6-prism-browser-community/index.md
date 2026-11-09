@@ -12,10 +12,6 @@ Local-first open-source multi-profile fingerprint browser built on Chromium and 
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:dfarm6/prism-browser-community
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dfarm6-prism-browser-community/record.json
 
 ## License declarations

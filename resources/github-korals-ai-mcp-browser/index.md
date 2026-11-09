@@ -12,10 +12,6 @@ Model Context Protocol server giving AI agents a real Chrome browser paired with
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:korals-ai/mcp-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-korals-ai-mcp-browser/record.json
 
 ## License declarations

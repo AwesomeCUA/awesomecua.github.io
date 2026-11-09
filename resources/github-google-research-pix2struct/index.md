@@ -12,10 +12,6 @@ Pix2Struct provides official training and inference code for screenshot-parsing 
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:google-research/pix2struct
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-research-pix2struct/record.json
 
 ## License declarations

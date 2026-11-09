@@ -12,10 +12,6 @@ Vim-grammar command language and text protocol for driving Google Slides in the 
 - Evidence checked: 2026-11-04T18:11:43Z
 - ID: github:jaisharmz/slidevim
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jaisharmz-slidevim/record.json
 
 ## License declarations

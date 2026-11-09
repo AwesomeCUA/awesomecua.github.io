@@ -12,10 +12,6 @@ Screen2AX reconstructs macOS application accessibility trees from screenshots us
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:macpaw/screen2ax
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-macpaw-screen2ax/record.json
 
 ## License declarations

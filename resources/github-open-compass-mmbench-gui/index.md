@@ -12,19 +12,15 @@ Four-level GUI-agent benchmark across six platforms, from content understanding 
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:open-compass/mmbench-gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-open-compass-mmbench-gui/record.json
 
 ## Structured profile
 
-- actions: not recorded
-- evaluation: Level-specific evaluation; Efficiency–Quality Area (EQA) combines navigation quality and efficiency.
-- focus: screen understanding, grounding, task automation, task collaboration
-- observations: screenshots
-- setting: mixed
+- Actions / outputs: not recorded
+- Evaluation: Level-specific evaluation; Efficiency–Quality Area (EQA) combines navigation quality and efficiency.
+- Focus: screen understanding, grounding, task automation, task collaboration
+- Observations: screenshots
+- Setting: mixed
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Local-first Electron controller for multi-model deliberation and evidence-preser
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:zhiheng-zhang-mera/codex-boss
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zhiheng-zhang-mera-codex-boss/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Pix2Act provides JAX/T5X training and evaluation code for pixel-only GUI agents 
 - Evidence checked: 2026-11-04T13:12:15Z
 - ID: github:google-deepmind/pix2act
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-deepmind-pix2act/record.json
 
 ## License declarations

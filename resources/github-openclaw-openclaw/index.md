@@ -12,10 +12,6 @@ OpenClaw is an open-source personal computer-use assistant that executes browser
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:openclaw/openclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openclaw-openclaw/record.json
 
 ## License declarations

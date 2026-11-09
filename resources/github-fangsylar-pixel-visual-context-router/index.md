@@ -12,10 +12,6 @@ Token-aware visual context router that crops, downscales, or replaces full scree
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:fangsylar-pixel/visual-context-router
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fangsylar-pixel-visual-context-router/record.json
 
 ## License declarations

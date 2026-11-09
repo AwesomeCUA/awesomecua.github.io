@@ -12,10 +12,6 @@ Cyberdesk is an open-source virtual desktop orchestration platform and SDK for p
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:cyberdesk-hq/cyberdesk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cyberdesk-hq-cyberdesk/record.json
 
 ## License declarations

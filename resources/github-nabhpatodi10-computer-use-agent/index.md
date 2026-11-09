@@ -12,10 +12,6 @@ LangGraph-based Windows computer-use agent combining UI Automation tree inspecti
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:nabhpatodi10/computer-use-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nabhpatodi10-computer-use-agent/record.json
 
 ## License declarations

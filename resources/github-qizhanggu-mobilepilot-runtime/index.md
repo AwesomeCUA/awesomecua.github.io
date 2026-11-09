@@ -12,10 +12,6 @@ MobilePilot is an auditable Android GUI agent runtime with structured action ver
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:qizhanggu/mobilepilot-runtime
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/record.json
 
 ## License declarations

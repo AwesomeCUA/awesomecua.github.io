@@ -12,10 +12,6 @@ Deskwright is a cross-platform desktop automation toolkit for AI agents combinin
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:tristanmuzzu/deskwright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tristanmuzzu-deskwright/record.json
 
 ## License declarations

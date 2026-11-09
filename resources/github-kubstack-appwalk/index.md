@@ -12,10 +12,6 @@ AI-powered CLI that explores a web application in a browser and compiles the run
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:kubstack/appwalk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kubstack-appwalk/record.json
 
 ## License declarations

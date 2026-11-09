@@ -12,10 +12,6 @@ Desktop AI agent for the real web equipped with a built-in anti-detect fingerpri
 - Evidence checked: 2026-11-04T17:55:16Z
 - ID: github:piskie-dev/piskie
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-piskie-dev-piskie/record.json
 
 ## License declarations

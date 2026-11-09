@@ -12,10 +12,6 @@ Turns a spare Android phone into a headed Chromium instance that AI agents can d
 - Evidence checked: 2026-11-04T18:11:51Z
 - ID: github:doable-team/aibrowser-android
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-doable-team-aibrowser-android/record.json
 
 ## License declarations

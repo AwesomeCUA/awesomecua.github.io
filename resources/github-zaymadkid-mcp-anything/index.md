@@ -12,10 +12,6 @@ Suite of 7 Model Context Protocol servers exposing 228 tools to bridge desktop a
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:zaymadkid/mcp-anything
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zaymadkid-mcp-anything/record.json
 
 ## License declarations

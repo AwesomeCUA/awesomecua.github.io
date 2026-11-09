@@ -12,10 +12,6 @@ Browser companion that lets Grok and other AI agents drive an already-open Chrom
 - Evidence checked: 2026-11-04T17:20:50Z
 - ID: github:xlreon/chrome-actuator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlreon-chrome-actuator/record.json
 
 ## License declarations

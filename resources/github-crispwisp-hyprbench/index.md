@@ -12,10 +12,6 @@ hyprbench is an OSWorld-style computer-use benchmark for the Linux Hyprland Wayl
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:crispwisp/hyprbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-crispwisp-hyprbench/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ LLM-powered Android agent over ADB that reads the screen, executes tap/swipe/typ
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:xdope7137/agentic-android
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xdope7137-agentic-android/record.json
 
 ## License declarations

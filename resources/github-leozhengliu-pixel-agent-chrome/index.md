@@ -12,10 +12,6 @@ Chrome Manifest V3 extension and local MCP bridge enabling coding agents to driv
 - Evidence checked: 2026-11-04T18:11:34Z
 - ID: github:leozhengliu-pixel/agent-chrome
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-leozhengliu-pixel-agent-chrome/record.json
 
 ## License declarations

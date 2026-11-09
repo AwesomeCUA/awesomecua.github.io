@@ -12,10 +12,6 @@ ECLAIR automates enterprise web and desktop workflows from human demonstrations 
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:hazyresearch/eclair-agents
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hazyresearch-eclair-agents/record.json
 
 ## License declarations

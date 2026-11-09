@@ -12,10 +12,6 @@ GUI action-model training and evaluation code with verifiable rewards, plus link
 - Evidence checked: 2026-10-16T10:43:11Z
 - ID: github:ritzz-ai/gui-r1
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ritzz-ai-gui-r1/record.json
 
 ## License declarations

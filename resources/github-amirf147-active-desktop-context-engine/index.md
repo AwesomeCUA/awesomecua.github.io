@@ -12,10 +12,6 @@ Zero-cloud Windows OS perception layer and Model Context Protocol server streami
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:amirf147/active-desktop-context-engine
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amirf147-active-desktop-context-engine/record.json
 
 ## License declarations

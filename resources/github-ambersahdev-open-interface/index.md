@@ -12,10 +12,6 @@ Open Interface is a cross-platform desktop application that translates natural-l
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:ambersahdev/open-interface
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ambersahdev-open-interface/record.json
 
 ## License declarations

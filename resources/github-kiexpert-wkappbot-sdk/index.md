@@ -12,10 +12,6 @@ WKAppBot is an open-source Windows Computer Use and AppBot SDK giving AI agents 
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:kiexpert/wkappbot-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kiexpert-wkappbot-sdk/record.json
 
 ## License declarations

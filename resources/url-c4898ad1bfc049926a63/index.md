@@ -12,18 +12,14 @@ Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subse
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:c4898ad1bfc049926a63
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-c4898ad1bfc049926a63/record.json
 
 ## Structured profile
 
-- formats: Parquet shards
-- modalities: GUI screenshots, natural-language grounding descriptions
-- splits: not recorded
-- supervision: GUI visual-grounding training for the UGround-V1 family
+- Formats: Parquet shards
+- Modalities: GUI screenshots, natural-language grounding descriptions
+- Splits: not recorded
+- Supervision: GUI visual-grounding training for the UGround-V1 family
 
 ### Count observations
 

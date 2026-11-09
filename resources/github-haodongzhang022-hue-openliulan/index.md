@@ -12,10 +12,6 @@ Self-healing browser control framework for DeepSeek Harness featuring semantic p
 - Evidence checked: 2026-11-04T17:20:48Z
 - ID: github:haodongzhang022-hue/openliulan
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-haodongzhang022-hue-openliulan/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ AutoBot-AI is a self-hosted autonomous agent platform combining vision-driven br
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:mrveiss/autobot-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mrveiss-autobot-ai/record.json
 
 ## License declarations

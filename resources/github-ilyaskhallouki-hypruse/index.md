@@ -12,10 +12,6 @@ Model Context Protocol server giving AI agents native window, input, and screens
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:ilyaskhallouki/hypruse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ilyaskhallouki-hypruse/record.json
 
 ## License declarations

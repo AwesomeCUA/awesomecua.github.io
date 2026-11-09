@@ -12,10 +12,6 @@ Maudslay evaluates release readiness and pass^k reliability of computer-use agen
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:theo-ai-lab/maudslay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-theo-ai-lab-maudslay/record.json
 
 ## License declarations

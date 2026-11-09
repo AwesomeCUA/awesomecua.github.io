@@ -12,10 +12,6 @@ Fail-closed capability gating, structured refusal, and adversarial defense middl
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:faxanfm/webmcp-deadbolt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-faxanfm-webmcp-deadbolt/record.json
 
 ## License declarations

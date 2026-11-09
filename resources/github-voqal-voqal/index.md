@@ -12,10 +12,6 @@ Voqal is a voice-first coding assistant plugin for JetBrains IDEs that translate
 - Evidence checked: 2026-11-04T13:12:42Z
 - ID: github:voqal/voqal
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-voqal-voqal/record.json
 
 ## License declarations

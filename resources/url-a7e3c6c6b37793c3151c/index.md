@@ -20,10 +20,10 @@ Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: screenshots, HTML source, bounding boxes, instructions
-- splits: desktop train, desktop validation, mobile train, mobile validation, web train, web validation
-- supervision: synthetic GUI element annotations, element names, natural-language interaction intents
+- Formats: Parquet
+- Modalities: screenshots, HTML source, bounding boxes, instructions
+- Splits: desktop train, desktop validation, mobile train, mobile validation, web train, web validation
+- Supervision: synthetic GUI element annotations, element names, natural-language interaction intents
 
 ### Count observations
 

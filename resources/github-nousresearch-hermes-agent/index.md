@@ -12,10 +12,6 @@ Hermes Agent is a self-improving autonomous agent by Nous Research with procedur
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:nousresearch/hermes-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nousresearch-hermes-agent/record.json
 
 ## License declarations

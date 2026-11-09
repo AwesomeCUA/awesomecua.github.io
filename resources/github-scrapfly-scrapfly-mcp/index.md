@@ -12,10 +12,6 @@ Official Scrapfly Model Context Protocol server providing cloud anti-bot browser
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:scrapfly/scrapfly-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-scrapfly-scrapfly-mcp/record.json
 
 ## License declarations

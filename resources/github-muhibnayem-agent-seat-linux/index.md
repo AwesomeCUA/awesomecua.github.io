@@ -12,10 +12,6 @@ Provides application-scoped Wayland screen capture and isolated input seats for 
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:muhibnayem/agent-seat-linux
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-muhibnayem-agent-seat-linux/record.json
 
 ## License declarations

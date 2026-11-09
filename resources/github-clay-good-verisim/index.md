@@ -12,10 +12,6 @@ Verisim is a coverage certifier and adversarial evaluation suite for testing pre
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:clay-good/verisim
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-clay-good-verisim/record.json
 
 ## License declarations

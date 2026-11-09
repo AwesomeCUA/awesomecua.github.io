@@ -12,10 +12,6 @@ Computer-use model family trained with cross-platform interaction data.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:opengvlab/scalecua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-scalecua/record.json
 
 ## License declarations

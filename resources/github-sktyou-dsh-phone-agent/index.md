@@ -12,10 +12,6 @@ Controls Android phones over LAN via an on-device AccessibilityService app with 
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:sktyou/dsh-phone-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sktyou-dsh-phone-agent/record.json
 
 ## License declarations

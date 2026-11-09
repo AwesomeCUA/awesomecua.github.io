@@ -12,10 +12,6 @@ Reliability CI harness for browser agents that runs identical web tasks across m
 - Evidence checked: 2026-11-04T18:11:30Z
 - ID: github:konuktor/agent-gauntlet
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-konuktor-agent-gauntlet/record.json
 
 ## License declarations

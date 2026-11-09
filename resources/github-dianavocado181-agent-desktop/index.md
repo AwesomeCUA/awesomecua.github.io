@@ -12,10 +12,6 @@ Gives AI computer-use agents a dedicated macOS user account and isolated desktop
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:dianavocado181/agent-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dianavocado181-agent-desktop/record.json
 
 ## License declarations

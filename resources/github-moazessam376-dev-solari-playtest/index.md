@@ -12,10 +12,6 @@ Autonomous playtesting agent and evaluation harness on Solari that builds web ga
 - Evidence checked: 2026-11-04T18:11:32Z
 - ID: github:moazessam376-dev/solari-playtest
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-moazessam376-dev-solari-playtest/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Zero-dependency native C++17 Model Context Protocol server exposing 22 Chrome De
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:ph4ntom-rev/antigravity-chrome-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ph4ntom-rev-antigravity-chrome-bridge/record.json
 
 ## License declarations

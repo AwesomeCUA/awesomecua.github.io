@@ -12,10 +12,6 @@ Open-source Chromium browser automation runtime for AI agents supporting shared 
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:ohmyskyhigh/tabro
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ohmyskyhigh-tabro/record.json
 
 ## License declarations

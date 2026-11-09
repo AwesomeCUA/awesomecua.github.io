@@ -12,10 +12,6 @@ Visual automation toolkit for web, mobile, and desktop interfaces.
 - Evidence checked: 2026-10-16T06:40:53Z
 - ID: github:web-infra-dev/midscene
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-web-infra-dev-midscene/record.json
 
 ## License declarations

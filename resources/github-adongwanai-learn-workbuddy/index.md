@@ -12,10 +12,6 @@
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:adongwanai/learn-workbuddy
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/record.json
 
 ## License declarations

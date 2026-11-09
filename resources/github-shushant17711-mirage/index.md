@@ -12,10 +12,6 @@ Controlled adversarial web environment for measuring how autonomous browser agen
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:shushant17711/mirage
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shushant17711-mirage/record.json
 
 ## License declarations

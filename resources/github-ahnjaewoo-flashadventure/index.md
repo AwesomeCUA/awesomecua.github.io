@@ -12,10 +12,6 @@ FlashAdventure benchmarks GUI agents on solving complete story arcs across 34 Fl
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:ahnjaewoo/flashadventure
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/record.json
 
 ## License declarations

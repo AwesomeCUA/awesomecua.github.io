@@ -12,10 +12,6 @@ A-MEM implements a Zettelkasten-inspired dynamic memory architecture that links 
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:agiresearch/a-mem
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agiresearch-a-mem/record.json
 
 ## License declarations

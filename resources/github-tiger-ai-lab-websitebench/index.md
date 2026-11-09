@@ -20,11 +20,11 @@ Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 task
 
 ## Structured profile
 
-- actions: harness-defined browser actions through the task's local browser service
-- evaluation: Hidden test cases per task. A case passes when its functional checks pass and every visual checkpoint's flat-baseline-normalized RGB SSIM reaches 0.99. A task's reward is passed cases divided by cases, weighted equally.
-- focus: full-stack website reconstruction from browser exploration, without the source code, visual appearance and functional behavior of the rebuilt site
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: harness-defined browser actions through the task's local browser service
+- Evaluation: Hidden test cases per task. A case passes when its functional checks pass and every visual checkpoint's flat-baseline-normalized RGB SSIM reaches 0.99. A task's reward is passed cases divided by cases, weighted equally.
+- Focus: full-stack website reconstruction from browser exploration, without the source code, visual appearance and functional behavior of the rebuilt site
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

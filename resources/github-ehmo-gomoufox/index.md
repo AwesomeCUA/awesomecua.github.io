@@ -12,10 +12,6 @@ Go library, CLI, and Model Context Protocol server for driving Camoufox anti-det
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:ehmo/gomoufox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ehmo-gomoufox/record.json
 
 ## License declarations

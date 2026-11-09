@@ -12,10 +12,6 @@ AgentiTest is a natural-language browser test automation framework built on Pyth
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:kweinmeister/agentitest
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kweinmeister-agentitest/record.json
 
 ## License declarations

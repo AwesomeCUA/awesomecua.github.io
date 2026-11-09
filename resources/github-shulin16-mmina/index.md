@@ -12,10 +12,6 @@ Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hop
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:shulin16/mmina
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shulin16-mmina/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ OneJev is a multimodal System-One decision model based on Qwen that returns cali
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:omnijev/onejev
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-omnijev-onejev/record.json
 
 ## License declarations

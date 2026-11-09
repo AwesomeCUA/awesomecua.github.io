@@ -12,10 +12,6 @@ AGY Computer Use provides native Windows desktop automation combining UI Automat
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:orakulzero/agy-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-orakulzero-agy-computer-use/record.json
 
 ## License declarations

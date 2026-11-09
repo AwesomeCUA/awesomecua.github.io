@@ -12,10 +12,6 @@ Offhand is an offline, accessibility-first desktop agent for macOS and Windows p
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:humzakhan/offhand
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-humzakhan-offhand/record.json
 
 ## License declarations

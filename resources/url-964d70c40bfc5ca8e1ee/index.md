@@ -12,18 +12,14 @@
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:964d70c40bfc5ca8e1ee
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-964d70c40bfc5ca8e1ee/record.json
 
 ## Structured profile
 
-- formats: JSONL, image archives
-- modalities: screenshots, instructions, actions, generated reasoning
-- splits: not recorded
-- supervision: computer-use trajectories, synthesized reasoning
+- Formats: JSONL, image archives
+- Modalities: screenshots, instructions, actions, generated reasoning
+- Splits: not recorded
+- Supervision: computer-use trajectories, synthesized reasoning
 
 ### Count observations
 

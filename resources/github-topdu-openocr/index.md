@@ -12,10 +12,6 @@ OpenOCR is an open-source scene and document text detection, recognition, and VL
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:topdu/openocr
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-topdu-openocr/record.json
 
 ## License declarations

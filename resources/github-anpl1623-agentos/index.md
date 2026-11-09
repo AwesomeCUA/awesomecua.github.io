@@ -12,10 +12,6 @@ Local-first open-source agent runtime for safely executing AI-driven tasks on a 
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:anpl1623/agentos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anpl1623-agentos/record.json
 
 ## License declarations

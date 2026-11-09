@@ -12,10 +12,6 @@ Qontinui is a model-based GUI automation framework that represents application s
 - Evidence checked: 2026-11-04T13:12:32Z
 - ID: github:qontinui/qontinui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qontinui-qontinui/record.json
 
 ## License declarations

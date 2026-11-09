@@ -12,10 +12,6 @@ VNC MCP Server exposes remote desktop screenshots, OCR text localization, and mo
 - Evidence checked: 2026-11-04T13:12:42Z
 - ID: github:volkan-m/vnc-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-volkan-m-vnc-mcp-server/record.json
 
 ## License declarations

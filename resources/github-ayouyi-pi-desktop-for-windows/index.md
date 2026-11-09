@@ -12,10 +12,6 @@ Native Windows desktop GUI client and workspace for the Pi coding and computer-u
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:ayouyi/pi-desktop-for-windows
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ayouyi-pi-desktop-for-windows/record.json
 
 ## License declarations

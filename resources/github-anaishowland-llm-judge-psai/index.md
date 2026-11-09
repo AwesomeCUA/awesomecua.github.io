@@ -12,10 +12,6 @@ LLM-as-a-Judge evaluation harness for assessing computer-use agent trajectories 
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:anaishowland/llm-judge-psai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-llm-judge-psai/record.json
 
 ## License declarations

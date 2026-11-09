@@ -12,10 +12,6 @@ Hybrid computer-use Python framework combining GUI actions, CLIs, APIs, and file
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:accio-org/accio-cu
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-accio-org-accio-cu/record.json
 
 ## License declarations

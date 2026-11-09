@@ -12,10 +12,6 @@ Browser infrastructure SDK for AI agents with user-consent routing and end-to-en
 - Evidence checked: 2026-11-04T16:51:45Z
 - ID: github:52191314/web-agent-proxy-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-52191314-web-agent-proxy-sdk/record.json
 
 ## License declarations

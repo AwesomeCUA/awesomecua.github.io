@@ -12,10 +12,6 @@ Magpie distributes ten macOS Computer Use MCP tools with explicit human-in-the-l
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:sammysnake-d/magpie-computer-use-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sammysnake-d-magpie-computer-use-agent/record.json
 
 ## License declarations

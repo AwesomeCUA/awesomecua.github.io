@@ -12,10 +12,6 @@ Open Computer Use runs open-source vision-language models inside an E2B Desktop 
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:e2b-dev/open-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-e2b-dev-open-computer-use/record.json
 
 ## License declarations

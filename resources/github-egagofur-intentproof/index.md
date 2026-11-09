@@ -12,10 +12,6 @@ AI-driven end-to-end verification orchestrator and interactive browser testing h
 - Evidence checked: 2026-11-04T17:30:40Z
 - ID: github:egagofur/intentproof
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-egagofur-intentproof/record.json
 
 ## License declarations

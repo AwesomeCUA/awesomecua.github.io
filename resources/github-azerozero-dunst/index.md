@@ -12,10 +12,6 @@ Accessibility-first affordance-graph MCP server for macOS combining AX trees, Ap
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:azerozero/dunst
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-azerozero-dunst/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Self-hosted, provider-agnostic AI agent runtime with browser automation, shell e
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:muhtalhakhan/open-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-muhtalhakhan-open-agent/record.json
 
 ## License declarations

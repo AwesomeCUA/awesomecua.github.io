@@ -12,10 +12,6 @@ DeepSeek Harness plugin that lets agents directly control the user's real, logge
 - Evidence checked: 2026-11-04T17:20:48Z
 - ID: github:ahaway1st/dsh-browser-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ahaway1st-dsh-browser-control/record.json
 
 ## License declarations

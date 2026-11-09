@@ -12,10 +12,6 @@ Model Context Protocol server giving AI agents remote control over a dedicated W
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:ghoui/winreach-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ghoui-winreach-mcp/record.json
 
 ## License declarations

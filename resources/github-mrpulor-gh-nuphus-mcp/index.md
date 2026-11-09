@@ -12,10 +12,6 @@ Cross-platform desktop automation MCP server for controlling screens, windows, m
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:mrpulor-gh/nuphus-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mrpulor-gh-nuphus-mcp/record.json
 
 ## License declarations

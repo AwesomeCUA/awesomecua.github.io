@@ -12,10 +12,6 @@ Anti-detect Chromium browser built for agentic web automation and authorized scr
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:virtualfanc/slybrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-virtualfanc-slybrowser/record.json
 
 ## License declarations

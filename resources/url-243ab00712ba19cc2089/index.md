@@ -20,10 +20,10 @@ The card documents post hoc selection of the 286-task OSWorld subset based on mo
 
 ## Structured profile
 
-- formats: MP4, PNG, JSON, JSONL, commented key logs
-- modalities: screen video, screenshots, input events, task text
-- splits: not recorded
-- supervision: human workflow demonstrations, skill induction
+- Formats: MP4, PNG, JSON, JSONL, commented key logs
+- Modalities: screen video, screenshots, input events, task text
+- Splits: not recorded
+- Supervision: human workflow demonstrations, skill induction
 
 ### Count observations
 

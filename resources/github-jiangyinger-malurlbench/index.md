@@ -12,10 +12,6 @@ MalURLBench evaluates the vulnerability of LLM-based web agents to phishing and 
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:jiangyinger/malurlbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jiangyinger-malurlbench/record.json
 
 ## License declarations

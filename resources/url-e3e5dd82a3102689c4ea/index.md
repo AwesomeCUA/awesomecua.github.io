@@ -12,10 +12,6 @@ GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:e3e5dd82a3102689c4ea
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-e3e5dd82a3102689c4ea/record.json
 
 ## License declarations

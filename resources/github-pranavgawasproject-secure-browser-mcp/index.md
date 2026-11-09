@@ -12,10 +12,6 @@ Security-hardened browser-automation MCP server featuring persistent sessions, d
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:pranavgawasproject/secure-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pranavgawasproject-secure-browser-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:60a95f34072aeb2771cc
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-60a95f34072aeb2771cc/record.json
 
 ## License declarations

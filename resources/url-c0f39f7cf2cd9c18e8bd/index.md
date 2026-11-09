@@ -12,10 +12,6 @@ ShowUI vision-language-action checkpoint fine-tuned from Qwen2-VL-2B-Instruct, p
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:c0f39f7cf2cd9c18e8bd
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-c0f39f7cf2cd9c18e8bd/record.json
 
 ## License declarations

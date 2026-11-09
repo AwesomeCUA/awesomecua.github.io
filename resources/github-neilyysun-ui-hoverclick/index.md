@@ -12,10 +12,6 @@ Hoverclick introduces test-time cursor hover verification and visual attention g
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:neilyysun-ui/hoverclick
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-neilyysun-ui-hoverclick/record.json
 
 ## License declarations

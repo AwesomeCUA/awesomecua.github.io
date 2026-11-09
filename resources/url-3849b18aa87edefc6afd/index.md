@@ -20,10 +20,10 @@ The short card says the four JSON files are LLaMA-Factory training files and raw
 
 ## Structured profile
 
-- formats: LLaMA-Factory ShareGPT JSON, tar.gz archive of raw rollouts
-- modalities: screenshots, instructions, step histories, reasoning text, actions, target element bounding boxes
-- splits: split1, split2, split3, split4
-- supervision: synthesized task instructions, agent rollout trajectories with learner/expert policy switching
+- Formats: LLaMA-Factory ShareGPT JSON, tar.gz archive of raw rollouts
+- Modalities: screenshots, instructions, step histories, reasoning text, actions, target element bounding boxes
+- Splits: split1, split2, split3, split4
+- Supervision: synthesized task instructions, agent rollout trajectories with learner/expert policy switching
 
 ### Count observations
 

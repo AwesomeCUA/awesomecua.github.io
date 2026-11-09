@@ -12,10 +12,6 @@ Open Duet is a self-hosted multi-agent workspace where named AI coworkers operat
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:anil-matcha/open-dots
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anil-matcha-open-dots/record.json
 
 ## License declarations

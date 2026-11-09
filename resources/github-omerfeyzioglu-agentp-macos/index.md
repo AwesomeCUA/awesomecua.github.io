@@ -12,10 +12,6 @@ AgentP is a fast macOS computer-use agent where Gemini plans once and a local Je
 - Evidence checked: 2026-11-04T14:41:47Z
 - ID: github:omerfeyzioglu/agentp-macos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-omerfeyzioglu-agentp-macos/record.json
 
 ## License declarations

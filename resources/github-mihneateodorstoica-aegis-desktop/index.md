@@ -12,10 +12,6 @@ Extensible Linux-first desktop-control MCP server with pluggable window, input, 
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:mihneateodorstoica/aegis-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mihneateodorstoica-aegis-desktop/record.json
 
 ## License declarations

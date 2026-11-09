@@ -35,13 +35,13 @@ Difei Gao, Siyuan Hu, Zechen Bai, Qinghong Lin, Mike Zheng Shou
 - Publication source: https://dl.acm.org/doi/abs/10.1145/3664647.3684998
 - Publication BibTeX: https://awesomecua.com/resources/url-377f5418e39ff2da971f/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-377f5418e39ff2da971f/publication-citation.csl.json
-- venue: Proceedings of the 32nd ACM International Conference on Multimedia
-- publisher: ACM
-- pages: 11255-11257
-- doi: 10.1145/3664647.3684998
-- date basis: Crossref issued date 2024-10-28; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACM Multimedia 2024 proceedings paper; the abstract was read from OpenAlex.
+- Venue: Proceedings of the 32nd ACM International Conference on Multimedia
+- Publisher: ACM
+- Pages: 11255-11257
+- DOI: 10.1145/3664647.3684998
+- Date source: Crossref issued date 2024-10-28; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACM Multimedia 2024 proceedings paper; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3664647.3684998, https://api.openalex.org/works/doi:10.1145/3664647.3684998
 
 ## License declarations

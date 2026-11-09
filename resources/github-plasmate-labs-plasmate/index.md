@@ -12,10 +12,6 @@ Plasmate is a Rust browser engine for AI agents that transforms HTML and DOM sta
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:plasmate-labs/plasmate
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate/record.json
 
 ## License declarations

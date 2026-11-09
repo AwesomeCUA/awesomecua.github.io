@@ -12,10 +12,6 @@ Model Context Protocol server for driving isolated, anti-detect Oculr Chromium p
 - Evidence checked: 2026-11-04T16:51:46Z
 - ID: github:oculr-ai/oculr-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-oculr-ai-oculr-mcp/record.json
 
 ## License declarations

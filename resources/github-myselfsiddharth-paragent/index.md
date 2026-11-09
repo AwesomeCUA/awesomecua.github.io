@@ -12,10 +12,6 @@ Stateful browser execution layer that records an agent task once, replays it wit
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:myselfsiddharth/paragent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-myselfsiddharth-paragent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Unified Windows vision and action MCP server for AI agents to inspect desktop wi
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:rusnetru/vision-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rusnetru-vision-bridge/record.json
 
 ## License declarations

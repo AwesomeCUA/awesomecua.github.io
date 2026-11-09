@@ -12,10 +12,6 @@ Computer-vision accessibility-tree (AX/A11Y) generator that synthesizes structur
 - Evidence checked: 2026-11-04T18:11:38Z
 - ID: github:rao-studios/visionax
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rao-studios-visionax/record.json
 
 ## License declarations

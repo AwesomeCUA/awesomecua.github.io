@@ -12,10 +12,6 @@ Collects and labels browser-exploration trajectories for agent training, with co
 - Evidence checked: 2026-10-16T10:42:34Z
 - ID: github:murtyshikhar/nnetnav
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-murtyshikhar-nnetnav/record.json
 
 ## License declarations

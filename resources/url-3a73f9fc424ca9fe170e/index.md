@@ -35,13 +35,13 @@ Seonhoon Kim, Zhiyu Chen, Xin Li, Qun Liu
 - Publication source: https://aclanthology.org/2026.alvr-main.12
 - Publication BibTeX: https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/publication-citation.csl.json
-- venue: Proceedings of the 4th Workshop on Advances in Language and Vision Research (ALVR)
-- publisher: Association for Computational Linguistics
-- pages: 155-163
-- doi: 10.18653/v1/2026.alvr-main.12
-- date basis: Crossref issued date 2026; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACL Anthology edition in the ALVR 2026 workshop proceedings.
+- Venue: Proceedings of the 4th Workshop on Advances in Language and Vision Research (ALVR)
+- Publisher: Association for Computational Linguistics
+- Pages: 155-163
+- DOI: 10.18653/v1/2026.alvr-main.12
+- Date source: Crossref issued date 2026; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACL Anthology edition in the ALVR 2026 workshop proceedings.
 - Publication evidence: https://api.crossref.org/works/10.18653/v1/2026.alvr-main.12, https://aclanthology.org/2026.alvr-main.12/
 
 ## License declarations

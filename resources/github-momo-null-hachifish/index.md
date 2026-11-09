@@ -12,10 +12,6 @@ Hachifish is an on-device Android GUI agent that executes natural-language tasks
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:momo-null/hachifish
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-momo-null-hachifish/record.json
 
 ## License declarations

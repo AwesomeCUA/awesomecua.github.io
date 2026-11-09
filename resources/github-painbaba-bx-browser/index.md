@@ -12,10 +12,6 @@ DOM-first, vision-capable autonomous browser agent that plans and executes multi
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:painbaba/bx-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-painbaba-bx-browser/record.json
 
 ## License declarations

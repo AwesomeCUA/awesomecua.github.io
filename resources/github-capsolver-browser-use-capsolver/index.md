@@ -12,10 +12,6 @@ Official CapSolver integration tools for Browser Use agents to detect and resolv
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:capsolver/browser-use-capsolver
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-capsolver-browser-use-capsolver/record.json
 
 ## License declarations

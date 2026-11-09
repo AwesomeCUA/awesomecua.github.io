@@ -12,10 +12,6 @@ Long-horizon agentic web search benchmark whose Agent-as-a-Judge framework score
 - Evidence checked: 2026-10-17T17:18:21Z
 - ID: github:osu-nlp-group/mind2web-2
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/record.json
 
 ## License declarations

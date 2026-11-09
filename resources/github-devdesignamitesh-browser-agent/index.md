@@ -12,10 +12,6 @@ Autonomous AI web agent that plans and executes multi-step browser interactions 
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:devdesignamitesh/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-devdesignamitesh-browser-agent/record.json
 
 ## License declarations

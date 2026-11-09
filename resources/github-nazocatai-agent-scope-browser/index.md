@@ -12,10 +12,6 @@ AI-agent-dedicated browser MCP server providing semantic page observations and s
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:nazocatai/agent-scope-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nazocatai-agent-scope-browser/record.json
 
 ## License declarations

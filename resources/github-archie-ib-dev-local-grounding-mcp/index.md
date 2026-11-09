@@ -12,10 +12,6 @@ Local Grounding MCP provides privacy-first local visual grounding fallback and D
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:archie-ib-dev/local-grounding-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-archie-ib-dev-local-grounding-mcp/record.json
 
 ## License declarations

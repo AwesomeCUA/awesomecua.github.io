@@ -12,10 +12,6 @@ Modular, user-controlled AI browser kernel for structured web parsing, navigatio
 - Evidence checked: 2026-11-04T17:55:11Z
 - ID: github:artemyx-datascientist/worldline
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-artemyx-datascientist-worldline/record.json
 
 ## License declarations

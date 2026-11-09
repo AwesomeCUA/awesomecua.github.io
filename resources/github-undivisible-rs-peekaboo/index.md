@@ -12,10 +12,6 @@ Rust-native cross-platform computer-use CLI and library for desktop window inspe
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:undivisible/rs_peekaboo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-undivisible-rs-peekaboo/record.json
 
 ## License declarations

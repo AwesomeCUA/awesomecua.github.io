@@ -12,10 +12,6 @@ Local Model Context Protocol server for listing and launching Windows applicatio
 - Evidence checked: 2026-11-04T17:55:11Z
 - ID: github:darkspaz-v1/shortcut-pad-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-darkspaz-v1-shortcut-pad-mcp/record.json
 
 ## License declarations

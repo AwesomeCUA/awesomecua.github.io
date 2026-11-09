@@ -12,10 +12,6 @@ Controlled browser fixture and 10-task computer-use evaluation suite for grading
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:marwanalsiddiq/cua-eval-kit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-marwanalsiddiq-cua-eval-kit/record.json
 
 ## License declarations

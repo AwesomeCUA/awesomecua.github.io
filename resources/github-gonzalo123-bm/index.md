@@ -12,10 +12,6 @@ Conversational grocery shopping TUI agent built with Strands and Amazon Bedrock 
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:gonzalo123/bm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gonzalo123-bm/record.json
 
 ## License declarations

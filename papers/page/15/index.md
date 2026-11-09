@@ -1918,13 +1918,13 @@ Ruozhen He, Zhongnan Qu, Sheng Zhang, Mesut Erhan Unal, Zhuowen Tu, Srikar Appal
 - Publication source: https://aclanthology.org/2026.realm-1.100
 - Publication BibTeX: https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/publication-citation.csl.json
-- venue: Proceedings of the Second Workshop for REsearch on Agent Language Models (REALM 2026)
-- publisher: Association for Computational Linguistics
-- pages: 1444-1470
-- doi: 10.18653/2026.realm-1.100
-- date basis: Crossref issued date 2026; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACL Anthology edition in the REALM 2026 workshop proceedings.
+- Venue: Proceedings of the Second Workshop for REsearch on Agent Language Models (REALM 2026)
+- Publisher: Association for Computational Linguistics
+- Pages: 1444-1470
+- DOI: 10.18653/2026.realm-1.100
+- Date source: Crossref issued date 2026; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACL Anthology edition in the REALM 2026 workshop proceedings.
 - Publication evidence: https://api.crossref.org/works/10.18653/2026.realm-1.100, https://aclanthology.org/2026.realm-1.100/
 
 ### License declarations
@@ -1979,13 +1979,13 @@ Seonhoon Kim, Zhiyu Chen, Xin Li, Qun Liu
 - Publication source: https://aclanthology.org/2026.alvr-main.12
 - Publication BibTeX: https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/publication-citation.csl.json
-- venue: Proceedings of the 4th Workshop on Advances in Language and Vision Research (ALVR)
-- publisher: Association for Computational Linguistics
-- pages: 155-163
-- doi: 10.18653/v1/2026.alvr-main.12
-- date basis: Crossref issued date 2026; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACL Anthology edition in the ALVR 2026 workshop proceedings.
+- Venue: Proceedings of the 4th Workshop on Advances in Language and Vision Research (ALVR)
+- Publisher: Association for Computational Linguistics
+- Pages: 155-163
+- DOI: 10.18653/v1/2026.alvr-main.12
+- Date source: Crossref issued date 2026; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACL Anthology edition in the ALVR 2026 workshop proceedings.
 - Publication evidence: https://api.crossref.org/works/10.18653/v1/2026.alvr-main.12, https://aclanthology.org/2026.alvr-main.12/
 
 ### License declarations
@@ -2040,13 +2040,13 @@ Surgan Jandial, Yinheng Li, Justin Wagle, Kazuhito Koishida
 - Publication source: https://aclanthology.org/2026.findings-eacl.144
 - Publication BibTeX: https://awesomecua.com/resources/url-16f4a8903de0f90d3638/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-16f4a8903de0f90d3638/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: EACL 2026
-- publisher: Association for Computational Linguistics
-- pages: 2772-2785
-- doi: 10.18653/v1/2026.findings-eacl.144
-- date basis: Crossref issued date 2026; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACL Anthology edition in Findings of EACL 2026.
+- Venue: Findings of the Association for Computational Linguistics: EACL 2026
+- Publisher: Association for Computational Linguistics
+- Pages: 2772-2785
+- DOI: 10.18653/v1/2026.findings-eacl.144
+- Date source: Crossref issued date 2026; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACL Anthology edition in Findings of EACL 2026.
 - Publication evidence: https://api.crossref.org/works/10.18653/v1/2026.findings-eacl.144, https://aclanthology.org/2026.findings-eacl.144/
 
 ### License declarations
@@ -2310,12 +2310,12 @@ Phil Cuvin, Hao Zhu, Diyi Yang
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2026/hash/9afca5107064eb89546fabb4abc379a7-Abstract-Conference.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2512-22894/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2512-22894/publication-citation.csl.json
-- venue: International Conference on Learning Representations
-- volume: 2026
-- pages: 95945-95977
-- date basis: Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: the proceedings title is the retained arXiv title without its DECEPTICON: prefix, the same three authors appear in the same order, and the publisher abstract matches the arXiv abstract, including the 700-task DECEPTICON environment (600 generated and 100 real-world tasks).
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The proceedings title omits the DECEPTICON: prefix that the arXiv title carries. Volume 2026 and pages 95945-95977 are explicit publisher citation metadata.
+- Venue: International Conference on Learning Representations
+- Volume: 2026
+- Pages: 95945-95977
+- Date source: Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: the proceedings title is the retained arXiv title without its DECEPTICON: prefix, the same three authors appear in the same order, and the publisher abstract matches the arXiv abstract, including the 700-task DECEPTICON environment (600 generated and 100 real-world tasks).
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The proceedings title omits the DECEPTICON: prefix that the arXiv title carries. Volume 2026 and pages 95945-95977 are explicit publisher citation metadata.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2026/hash/9afca5107064eb89546fabb4abc379a7-Abstract-Conference.html
 
 ### Recorded arXiv snapshot
@@ -2899,12 +2899,12 @@ Yihong Chen, Shuai Wang, Yaqing Wang, Quanming Yao
 - Publication source: https://doi.org/10.36227/techrxiv.176591818.87526814/v1
 - Publication BibTeX: https://awesomecua.com/resources/url-e1842006eb7b4745da03/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-e1842006eb7b4745da03/publication-citation.csl.json
-- venue: TechRxiv
-- publisher: Institute of Electrical and Electronics Engineers (IEEE)
-- doi: 10.36227/techrxiv.176591818.87526814/v1
-- date basis: Crossref posted date for the version 1 DOI is 2025-12-16; precision=day. TechRxiv lists this as version 1 and the latest version.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and title searches of arXiv and OpenAlex found no arXiv version, so this TechRxiv preprint seeds the record.
-- notes: A TechRxiv preprint that has not been peer reviewed. Crossref deposits it as posted content with subtype preprint under the IEEE prefix and a CC BY 4.0 license. The DOI resolves only with its /v1 suffix. TechRxiv answers scripted requests with HTTP 403, so the PDF link is retained as published without a fetched receipt.
+- Venue: TechRxiv
+- Publisher: Institute of Electrical and Electronics Engineers (IEEE)
+- DOI: 10.36227/techrxiv.176591818.87526814/v1
+- Date source: Crossref posted date for the version 1 DOI is 2025-12-16; precision=day. TechRxiv lists this as version 1 and the latest version.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and title searches of arXiv and OpenAlex found no arXiv version, so this TechRxiv preprint seeds the record.
+- Source notes: A TechRxiv preprint that has not been peer reviewed. Crossref deposits it as posted content with subtype preprint under the IEEE prefix and a CC BY 4.0 license. The DOI resolves only with its /v1 suffix. TechRxiv answers scripted requests with HTTP 403, so the PDF link is retained as published without a fetched receipt.
 - Publication evidence: https://api.crossref.org/works/10.36227/techrxiv.176591818.87526814/v1
 
 ### License declarations

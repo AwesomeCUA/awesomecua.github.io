@@ -12,10 +12,6 @@ LLM-in-Sandbox equips language models with virtualized Linux computer sandboxes 
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:llm-in-sandbox/llm-in-sandbox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-llm-in-sandbox-llm-in-sandbox/record.json
 
 ## License declarations

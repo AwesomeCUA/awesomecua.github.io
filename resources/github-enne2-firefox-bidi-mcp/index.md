@@ -12,10 +12,6 @@ Standalone Model Context Protocol server for controlling an already-open Firefox
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:enne2/firefox-bidi-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-enne2-firefox-bidi-mcp/record.json
 
 ## License declarations

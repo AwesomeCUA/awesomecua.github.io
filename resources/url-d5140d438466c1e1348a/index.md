@@ -20,11 +20,11 @@ Public Parquet configs separate trajectories from per-reviewer annotations. The 
 
 ## Structured profile
 
-- actions: success verdict, process score
-- evaluation: Agreement metrics including Cohen’s kappa, accuracy and F1 against human annotations; review stages must be kept distinct.
-- focus: verifier-human agreement, process quality
-- observations: screenshots, action logs, final answers
-- setting: offline
+- Actions / outputs: success verdict, process score
+- Evaluation: Agreement metrics including Cohen’s kappa, accuracy and F1 against human annotations; review stages must be kept distinct.
+- Focus: verifier-human agreement, process quality
+- Observations: screenshots, action logs, final answers
+- Setting: offline
 
 ### Count observations
 

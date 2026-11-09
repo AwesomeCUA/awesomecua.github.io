@@ -12,10 +12,6 @@ vimGPT enables multimodal LLMs to browse the web by overlaying Vimium keyboard s
 - Evidence checked: 2026-11-04T13:12:19Z
 - ID: github:ishan0102/vimgpt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ishan0102-vimgpt/record.json
 
 ## License declarations

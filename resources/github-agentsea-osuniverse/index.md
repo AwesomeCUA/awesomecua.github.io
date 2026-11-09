@@ -12,10 +12,6 @@ OSUniverse is a task-oriented desktop benchmark for evaluating vision-based mult
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:agentsea/osuniverse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentsea-osuniverse/record.json
 
 ## License declarations

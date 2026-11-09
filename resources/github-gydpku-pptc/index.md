@@ -12,10 +12,6 @@ PowerPoint creation and editing benchmark with API-based execution and checks of
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:gydpku/pptc
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gydpku-pptc/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ browser-eval is an evaluation harness for web fetching, deterministic browser tr
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:lexmount/browser-eval
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lexmount-browser-eval/record.json
 
 ## License declarations

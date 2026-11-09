@@ -12,10 +12,6 @@ Computer-use products and research from Simular.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:0bdd6b5ebf2e1f248828
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-0bdd6b5ebf2e1f248828/record.json
 
 ## License declarations

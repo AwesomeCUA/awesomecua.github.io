@@ -12,10 +12,6 @@ Verified Playwright and Puppeteer recipes for connecting AI agents to remote CDP
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:lucprooffirst/cloud-browser-automation-proof
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lucprooffirst-cloud-browser-automation-proof/record.json
 
 ## License declarations

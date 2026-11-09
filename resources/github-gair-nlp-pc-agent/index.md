@@ -12,10 +12,6 @@ Human-cognition-transfer framework for PC agents: PC Tracker logs human computer
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:gair-nlp/pc-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gair-nlp-pc-agent/record.json
 
 ## License declarations

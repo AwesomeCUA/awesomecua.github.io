@@ -12,10 +12,6 @@ Privacy-preserving AI browser agent framework that sanitizes sensitive DOM and s
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:dalwadi-aryan-pranavkumar/sih_26
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dalwadi-aryan-pranavkumar-sih-26/record.json
 
 ## License declarations

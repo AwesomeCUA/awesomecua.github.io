@@ -12,10 +12,6 @@ Discovers legacy banking UI flows with an LLM once, compiles deterministic repla
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:mkhan49/governed-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mkhan49-governed-computer-use/record.json
 
 ## License declarations

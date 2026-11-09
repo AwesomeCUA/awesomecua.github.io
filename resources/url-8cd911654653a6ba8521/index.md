@@ -20,10 +20,10 @@ The Hub API at revision c17e5f29 reports gated 'auto' and lists stage1_data.json
 
 ## Structured profile
 
-- formats: JSON, split TAR archives
-- modalities: webpage UI content, text, accessibility-derived structure
-- splits: not recorded
-- supervision: text-rich web UI understanding tasks
+- Formats: JSON, split TAR archives
+- Modalities: webpage UI content, text, accessibility-derived structure
+- Splits: not recorded
+- Supervision: text-rich web UI understanding tasks
 
 ### Count observations
 

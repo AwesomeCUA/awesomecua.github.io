@@ -12,10 +12,6 @@ AgentGPT is a browser-based platform for configuring and deploying autonomous go
 - Evidence checked: 2026-11-04T13:12:33Z
 - ID: github:reworkd/agentgpt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-reworkd-agentgpt/record.json
 
 ## License declarations

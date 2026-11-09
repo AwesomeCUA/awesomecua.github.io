@@ -12,10 +12,6 @@ Model Context Protocol server providing AI assistants with a stealth-configured 
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:lauyuen/stealth-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lauyuen-stealth-browser-mcp/record.json
 
 ## License declarations

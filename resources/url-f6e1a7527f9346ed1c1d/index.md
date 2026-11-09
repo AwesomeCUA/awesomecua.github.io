@@ -20,10 +20,10 @@ The thin card only describes the annotation files and split image archives; the 
 
 ## Structured profile
 
-- formats: JSON, split tar.gz image archives
-- modalities: screenshots, instructions, interaction history, reasoning text, actions
-- splits: not recorded
-- supervision: step-level reasoning text, demonstrated GUI actions, coordinate-grounded targets
+- Formats: JSON, split tar.gz image archives
+- Modalities: screenshots, instructions, interaction history, reasoning text, actions
+- Splits: not recorded
+- Supervision: step-level reasoning text, demonstrated GUI actions, coordinate-grounded targets
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Valk is a Python library and observable remote-desktop interface for programmati
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:ercbot/valk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ercbot-valk/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Windows-native .NET 9 desktop automation service exposing sub-millisecond named-
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:lessenings-prog/opengui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lessenings-prog-opengui/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Port of OpenAI Codex's `@oai/sky` Computer Use engine to Cursor for screenshot-d
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:wangye520/codex-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wangye520-codex-computer-use/record.json
 
 ## License declarations

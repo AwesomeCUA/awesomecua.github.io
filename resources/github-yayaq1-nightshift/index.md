@@ -12,10 +12,6 @@ Black-box computer-use QA harness on Solari that evaluates live user interfaces 
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:yayaq1/nightshift
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yayaq1-nightshift/record.json
 
 ## License declarations

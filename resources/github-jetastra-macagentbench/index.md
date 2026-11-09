@@ -12,19 +12,15 @@
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:jetastra/macagentbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jetastra-macagentbench/record.json
 
 ## Structured profile
 
-- actions: GUI interactions, command-line operations
-- evaluation: Deterministic rule-based evaluators with intermediate checkpoints.
-- focus: macOS task completion, cross-application workflows
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: GUI interactions, command-line operations
+- Evaluation: Deterministic rule-based evaluators with intermediate checkpoints.
+- Focus: macOS task completion, cross-application workflows
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

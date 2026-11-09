@@ -12,10 +12,6 @@ Microsoft browser-use agent models that act from screenshots by predicting click
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:microsoft/fara
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-fara/record.json
 
 ## License declarations

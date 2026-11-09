@@ -20,11 +20,11 @@ GitHub marks the repository archived. Notte Labs, the developer of one of the co
 
 ## Structured profile
 
-- actions: agent-defined browser actions
-- evaluation: A GPT-4o judge (default model in eval/evaluators/webvoyager.py) receives the task, the agent's final response and up to its last four screenshots under WebVoyager's evaluation prompt and returns SUCCESS, NOT SUCCESS or UNKNOWN; the agent's own success claim is recorded separately. The three published configurations (configs/) run each task 8 times with at most 20 steps and 360 seconds.
-- focus: live-website task completion, agent self-report calibration, run-to-run variance
-- observations: agent-defined browser observations, final screenshots and response for the judge
-- setting: interactive
+- Actions / outputs: agent-defined browser actions
+- Evaluation: A GPT-4o judge (default model in eval/evaluators/webvoyager.py) receives the task, the agent's final response and up to its last four screenshots under WebVoyager's evaluation prompt and returns SUCCESS, NOT SUCCESS or UNKNOWN; the agent's own success claim is recorded separately. The three published configurations (configs/) run each task 8 times with at most 20 steps and 360 seconds.
+- Focus: live-website task completion, agent self-report calibration, run-to-run variance
+- Observations: agent-defined browser observations, final screenshots and response for the judge
+- Setting: interactive
 
 ### Count observations
 

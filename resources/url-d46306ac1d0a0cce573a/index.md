@@ -20,10 +20,10 @@ Hub revision 5c0836a5 lists the card, inp.json and ten split image archive parts
 
 ## Structured profile
 
-- formats: JSON (inp.json), split binary image archive
-- modalities: GUI screenshots, bounding-box annotations
-- splits: training
-- supervision: instruction-to-bounding-box GUI grounding, OmniParser IoU filtering of annotated boxes
+- Formats: JSON (inp.json), split binary image archive
+- Modalities: GUI screenshots, bounding-box annotations
+- Splits: training
+- Supervision: instruction-to-bounding-box GUI grounding, OmniParser IoU filtering of annotated boxes
 
 ### Count observations
 

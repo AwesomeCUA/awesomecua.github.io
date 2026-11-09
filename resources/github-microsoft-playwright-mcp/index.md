@@ -12,10 +12,6 @@ MCP server that lets LLM clients drive Playwright browsers through structured ac
 - Evidence checked: 2026-10-16T06:40:53Z
 - ID: github:microsoft/playwright-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-playwright-mcp/record.json
 
 ## License declarations

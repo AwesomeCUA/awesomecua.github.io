@@ -12,10 +12,6 @@ Attaches local coding agents directly to the user's real signed-in Chrome browse
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:freezetheworld/latch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-freezetheworld-latch/record.json
 
 ## License declarations

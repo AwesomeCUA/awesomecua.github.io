@@ -12,10 +12,6 @@ Local Windows MCP bridge that automates logged-in Doubao web image generation an
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:linxxcat000/autodoubao
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-linxxcat000-autodoubao/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Local computer-use runtime for coding agents exposing desktop inspection and inp
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:caelaxie/crosshands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-caelaxie-crosshands/record.json
 
 ## License declarations

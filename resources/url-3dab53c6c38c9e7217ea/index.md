@@ -20,10 +20,10 @@ Public Parquet chunks and LeRobot metadata are present. The card names a v3.0 re
 
 ## Structured profile
 
-- formats: Parquet, LeRobot metadata
-- modalities: screenshots, instructions, actions
-- splits: not recorded
-- supervision: drag trajectories, click episodes
+- Formats: Parquet, LeRobot metadata
+- Modalities: screenshots, instructions, actions
+- Splits: not recorded
+- Supervision: drag trajectories, click episodes
 
 ### Count observations
 

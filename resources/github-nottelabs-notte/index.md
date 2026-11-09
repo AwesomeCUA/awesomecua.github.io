@@ -12,10 +12,6 @@ Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:nottelabs/notte
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nottelabs-notte/record.json
 
 ## License declarations

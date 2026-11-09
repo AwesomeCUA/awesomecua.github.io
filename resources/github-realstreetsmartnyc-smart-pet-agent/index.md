@@ -12,10 +12,6 @@ Local-first ambient desktop pet agent that observes workspace context and automa
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:realstreetsmartnyc/smart-pet-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-realstreetsmartnyc-smart-pet-agent/record.json
 
 ## License declarations

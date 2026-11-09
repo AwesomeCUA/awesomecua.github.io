@@ -35,15 +35,15 @@ Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zh
 - Publication source: https://proceedings.mlr.press/v267/tan25h.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2403-03186/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2403-03186/publication-citation.csl.json
-- venue: Proceedings of the 42nd International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 267
-- pages: 58658-58725
-- date basis: Explicit publisher metadata: 2025/10/06; precision=day.
-- event dates: 13--19 Jul 2025
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 42nd International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 267
+- Pages: 58658-58725
+- Date source: Explicit publisher metadata: 2025/10/06; precision=day.
+- Event dates: 13--19 Jul 2025
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v267/tan25h.html
 
 ## Recorded arXiv snapshot

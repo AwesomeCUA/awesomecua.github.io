@@ -12,10 +12,6 @@ NestJS browser-automation service that answers prompts by driving web LLM interf
 - Evidence checked: 2026-11-04T17:55:09Z
 - ID: github:klaiderman/hermod
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-klaiderman-hermod/record.json
 
 ## License declarations

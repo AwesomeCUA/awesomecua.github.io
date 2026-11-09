@@ -20,11 +20,11 @@ The README describes this as the verified release of WebArena and keeps the orig
 
 ## Structured profile
 
-- actions: browser interactions on self-hosted WebArena sites
-- evaluation: Deterministic evaluators compare a structured agent response (task type, status, retrieved data) with the reference; 488 of the 812 tasks also check network events from a captured HAR trace, with 663 network-event checks in all. LLM-as-a-judge and substring matching were removed, and runs can be scored offline from saved responses and traces.
-- focus: web task completion, information retrieval from self-hosted websites
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: browser interactions on self-hosted WebArena sites
+- Evaluation: Deterministic evaluators compare a structured agent response (task type, status, retrieved data) with the reference; 488 of the 812 tasks also check network events from a captured HAR trace, with 663 network-event checks in all. LLM-as-a-judge and substring matching were removed, and runs can be scored offline from saved responses and traces.
+- Focus: web task completion, information retrieval from self-hosted websites
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

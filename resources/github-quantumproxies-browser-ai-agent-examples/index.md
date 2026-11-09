@@ -12,10 +12,6 @@ Goal-driven web agent architecture using a cheapest-tier-first cascade across XH
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:quantumproxies/browser-ai-agent-examples
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-quantumproxies-browser-ai-agent-examples/record.json
 
 ## License declarations

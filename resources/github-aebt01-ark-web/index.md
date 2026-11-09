@@ -12,10 +12,6 @@ Manifest V3 Chrome extension and Node.js bridge server enabling AI agents to con
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:aebt01/ark-web
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aebt01-ark-web/record.json
 
 ## License declarations

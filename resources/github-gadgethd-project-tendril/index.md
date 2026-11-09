@@ -12,10 +12,6 @@ Local-first Chromium browser and web-research runtime for autonomous AI agents.
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:gadgethd/project-tendril
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gadgethd-project-tendril/record.json
 
 ## License declarations

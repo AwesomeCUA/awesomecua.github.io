@@ -12,10 +12,6 @@ Neo Lab is a macOS computer-use sandbox for recording demonstrations, replaying 
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:belarusian/neo-lab
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-belarusian-neo-lab/record.json
 
 ## License declarations

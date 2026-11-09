@@ -35,14 +35,14 @@ Rehan Syed, Suriadi Suriadi, Michael Adams, Wasana Bandara, Sander J.J. Leemans,
 - Publication source: https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609
 - Publication BibTeX: https://awesomecua.com/resources/url-2574c6eeee264762a990/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-2574c6eeee264762a990/publication-citation.csl.json
-- venue: Computers in Industry
-- publisher: Elsevier BV
-- volume: 115
-- pages: 103162
-- doi: 10.1016/j.compind.2019.103162
-- date basis: Crossref issued date 2020-2; precision=month.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Computers in Industry journal article; the abstract was read from Semantic Scholar.
+- Venue: Computers in Industry
+- Publisher: Elsevier BV
+- Volume: 115
+- Pages: 103162
+- DOI: 10.1016/j.compind.2019.103162
+- Date source: Crossref issued date 2020-2; precision=month.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Computers in Industry journal article; the abstract was read from Semantic Scholar.
 - Publication evidence: https://api.crossref.org/works/10.1016/j.compind.2019.103162, https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.compind.2019.103162?fields=title,abstract,authors,venue,year,externalIds
 
 ## License declarations

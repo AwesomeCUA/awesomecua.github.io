@@ -12,10 +12,6 @@ OpenMemory provides local-first temporal graph memory, decay scoring, and MCP in
 - Evidence checked: 2026-11-04T13:12:09Z
 - ID: github:caviraoss/openmemory
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-caviraoss-openmemory/record.json
 
 ## License declarations

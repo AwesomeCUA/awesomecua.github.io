@@ -12,10 +12,6 @@ Resilient, cacheable fuzzy UI element identifiers and studio for Codex Computer 
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:pirate/cua-superselector
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pirate-cua-superselector/record.json
 
 ## License declarations

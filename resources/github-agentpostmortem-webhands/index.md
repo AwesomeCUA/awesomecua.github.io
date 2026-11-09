@@ -12,10 +12,6 @@ Webhands is a browser computer-use agent that automates seller and logistics web
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:agentpostmortem/webhands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentpostmortem-webhands/record.json
 
 ## License declarations

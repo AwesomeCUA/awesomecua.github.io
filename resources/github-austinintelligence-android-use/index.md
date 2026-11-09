@@ -12,10 +12,6 @@ MCP server and CLI giving AI agents fast, bounded access to physical Android dev
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:austinintelligence/android-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-austinintelligence-android-use/record.json
 
 ## License declarations

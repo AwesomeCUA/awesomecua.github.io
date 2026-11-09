@@ -12,19 +12,15 @@ Evaluation resources for pixel-precise cursor grounding in code editors.
 - Evidence checked: 2026-10-16T06:40:52Z
 - ID: github:microsoft/precision-cua-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-precision-cua-bench/record.json
 
 ## Structured profile
 
-- actions: pixel (x,y) cursor coordinate
-- evaluation: The inspected evaluator scales target boxes from a 1000×1000 reference grid into image pixels and tests pixel predictions, allowing ±10 pixels around the center along any target dimension narrower than 1 pixel after scaling. It reports cumulative hit accuracy by turn (earlier hits remain correct), miss distances, any-turn hit rate, and a correction rate whose denominator is all successfully processed samples. The default budget is five turns; retain prompt/feedback variant, turn budget, and processed/skipped coverage.
-- focus: pixel-precise editor cursor placement, multi-turn visual self-correction
-- observations: code-editor screenshot, cursor-location instruction, red-cross feedback marking previous incorrect prediction
-- setting: offline
+- Actions / outputs: pixel (x,y) cursor coordinate
+- Evaluation: The inspected evaluator scales target boxes from a 1000×1000 reference grid into image pixels and tests pixel predictions, allowing ±10 pixels around the center along any target dimension narrower than 1 pixel after scaling. It reports cumulative hit accuracy by turn (earlier hits remain correct), miss distances, any-turn hit rate, and a correction rate whose denominator is all successfully processed samples. The default budget is five turns; retain prompt/feedback variant, turn budget, and processed/skipped coverage.
+- Focus: pixel-precise editor cursor placement, multi-turn visual self-correction
+- Observations: code-editor screenshot, cursor-location instruction, red-cross feedback marking previous incorrect prediction
+- Setting: offline
 
 ### Count observations
 

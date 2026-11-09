@@ -12,10 +12,6 @@ Clevrr Computer is a PyAutoGUI-based desktop automation agent that captures scre
 - Evidence checked: 2026-11-04T13:12:10Z
 - ID: github:clevrr-ai/clevrr-computer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-clevrr-ai-clevrr-computer/record.json
 
 ## License declarations

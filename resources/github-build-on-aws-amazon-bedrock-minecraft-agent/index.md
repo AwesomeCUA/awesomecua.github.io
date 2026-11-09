@@ -12,10 +12,6 @@ TypeScript agent built on Amazon Bedrock and Mineflayer that translates natural-
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:build-on-aws/amazon-bedrock-minecraft-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-build-on-aws-amazon-bedrock-minecraft-agent/record.json
 
 ## License declarations

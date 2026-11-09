@@ -35,12 +35,12 @@ Husam Barham, Mohammed Fasha
 - Publication source: https://www.researchsquare.com/article/rs-4653823/v1
 - Publication BibTeX: https://awesomecua.com/resources/url-0eb4d29a37f569e51186/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-0eb4d29a37f569e51186/publication-citation.csl.json
-- venue: Research Square (preprint)
-- publisher: Springer Science and Business Media LLC
-- doi: 10.21203/rs.3.rs-4653823/v1
-- date basis: Research Square posted date 2024-07-22 (citation_publication_date and Crossref posted-content date).
-- identity basis: Crossref DOI record and the Research Square landing page name the same title, authors, DOI and posted date.
-- notes: A preprint; no arXiv version was found. The OS Agents survey (arXiv 2508.04482) cites it as Barham and Fasha (2024) without a link. Relevance awaits editorial review.
+- Venue: Research Square (preprint)
+- Publisher: Springer Science and Business Media LLC
+- DOI: 10.21203/rs.3.rs-4653823/v1
+- Date source: Research Square posted date 2024-07-22 (citation_publication_date and Crossref posted-content date).
+- Identity basis: Crossref DOI record and the Research Square landing page name the same title, authors, DOI and posted date.
+- Source notes: A preprint; no arXiv version was found. The OS Agents survey (arXiv 2508.04482) cites it as Barham and Fasha (2024) without a link. Relevance awaits editorial review.
 - Publication evidence: https://api.crossref.org/works/10.21203/rs.3.rs-4653823/v1, https://www.researchsquare.com/article/rs-4653823/v1
 
 ## License declarations

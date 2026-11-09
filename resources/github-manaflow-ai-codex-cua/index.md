@@ -12,10 +12,6 @@ CLI wrapper for driving macOS desktop applications from the shell using the Comp
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:manaflow-ai/codex-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-manaflow-ai-codex-cua/record.json
 
 ## License declarations

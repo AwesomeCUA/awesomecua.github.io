@@ -12,10 +12,6 @@ GUI Label Tool records and annotates human desktop trajectories inside a Dockeri
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:ethanyxx/gui-label-tool
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ethanyxx-gui-label-tool/record.json
 
 ## License declarations

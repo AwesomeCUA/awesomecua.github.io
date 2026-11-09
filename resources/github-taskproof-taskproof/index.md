@@ -12,10 +12,6 @@ taskproof is an open-source CI harness that tests whether real AI computer-use a
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:taskproof/taskproof
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-taskproof-taskproof/record.json
 
 ## License declarations

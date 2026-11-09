@@ -12,10 +12,6 @@ Cross-platform Rust computer-use MCP server for macOS and Windows combining AX/U
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:bigduu/nova
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bigduu-nova/record.json
 
 ## License declarations

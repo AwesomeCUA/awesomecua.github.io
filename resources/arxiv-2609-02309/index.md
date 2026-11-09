@@ -12,10 +12,6 @@ Surveys GUI-agent efficiency beyond task success: observation, context and memor
 - Evidence checked: 2026-10-16T06:36:32Z
 - ID: arxiv:2609.02309
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-02309/record.json
 
 ## Authors

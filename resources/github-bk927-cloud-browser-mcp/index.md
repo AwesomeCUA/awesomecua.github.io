@@ -12,10 +12,6 @@ Self-hosted Chromium MCP server with isolated browser profiles, OAuth authentica
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:bk927/cloud-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bk927-cloud-browser-mcp/record.json
 
 ## License declarations

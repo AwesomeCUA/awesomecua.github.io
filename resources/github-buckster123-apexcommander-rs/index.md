@@ -12,10 +12,6 @@ AT-SPI-first Linux computer-use CLI and Model Context Protocol server written in
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:buckster123/apexcommander-rs
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-buckster123-apexcommander-rs/record.json
 
 ## License declarations

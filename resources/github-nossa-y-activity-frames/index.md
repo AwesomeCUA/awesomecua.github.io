@@ -12,10 +12,6 @@ Converts continuous local desktop activity into structured, queryable workflow f
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:nossa-y/activity-frames
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nossa-y-activity-frames/record.json
 
 ## License declarations

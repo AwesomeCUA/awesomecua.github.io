@@ -12,10 +12,6 @@ Jet Browser packages WPE WebKit and a Rust WebDriver bridge into an isolated, lo
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:masakaai/jet-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-masakaai-jet-browser/record.json
 
 ## License declarations

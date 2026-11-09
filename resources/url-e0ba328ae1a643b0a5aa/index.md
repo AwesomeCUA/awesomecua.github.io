@@ -20,10 +20,10 @@ Public release includes train+dev and test ZIP packages plus a test-answer JSON 
 
 ## Structured profile
 
-- formats: CSV, HTML, JSON, ZIP packages
-- modalities: questions and answers, HTML, screenshots, layout metadata
-- splits: train, dev, test
-- supervision: extractive or yes/no answers, answer DOM-element references
+- Formats: CSV, HTML, JSON, ZIP packages
+- Modalities: questions and answers, HTML, screenshots, layout metadata
+- Splits: train, dev, test
+- Supervision: extractive or yes/no answers, answer DOM-element references
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Sandbar provisions isolated cloud Ubuntu desktop virtual machines equipped with 
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:jdrolls/sandbar-public
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jdrolls-sandbar-public/record.json
 
 ## License declarations

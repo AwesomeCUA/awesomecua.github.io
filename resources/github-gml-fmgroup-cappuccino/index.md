@@ -12,10 +12,6 @@ Cappuccino is a pure-vision desktop GUI agent that plans and executes multi-step
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:gml-fmgroup/cappuccino
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gml-fmgroup-cappuccino/record.json
 
 ## License declarations

@@ -12,18 +12,14 @@ Code for AMEX Android GUI data that converts its three annotation levels into qu
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:yuxiangchai/amex-codebase
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/record.json
 
 ## Structured profile
 
-- formats: not recorded
-- modalities: screenshots, element annotations, functionality descriptions, action chains
-- splits: not recorded
-- supervision: element grounding, UI functionality, interaction trajectories
+- Formats: not recorded
+- Modalities: screenshots, element annotations, functionality descriptions, action chains
+- Splits: not recorded
+- Supervision: element grounding, UI functionality, interaction trajectories
 
 ### Count observations
 

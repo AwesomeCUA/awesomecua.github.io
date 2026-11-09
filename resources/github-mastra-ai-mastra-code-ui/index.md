@@ -12,10 +12,6 @@ Mastra Code is an Electron desktop coding-agent harness supporting 70+ LLM provi
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:mastra-ai/mastra-code-ui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mastra-ai-mastra-code-ui/record.json
 
 ## License declarations

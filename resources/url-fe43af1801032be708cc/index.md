@@ -20,10 +20,10 @@ Raw and Parquet folders are alternative views of the same data. The inspected ca
 
 ## Structured profile
 
-- formats: Parquet, episode files
-- modalities: screen images, instructions, previous state, continuous actions
-- splits: train, test
-- supervision: continuous GUI dragging
+- Formats: Parquet, episode files
+- Modalities: screen images, instructions, previous state, continuous actions
+- Splits: train, test
+- Supervision: continuous GUI dragging
 
 ### Count observations
 

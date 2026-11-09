@@ -12,10 +12,6 @@ Sandbox environments supporting computer and browser interaction.
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:agent-infra/sandbox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agent-infra-sandbox/record.json
 
 ## License declarations

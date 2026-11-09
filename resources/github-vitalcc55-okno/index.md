@@ -12,10 +12,6 @@ Windows-native Model Context Protocol runtime for AI agents providing desktop wi
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:vitalcc55/okno
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vitalcc55-okno/record.json
 
 ## License declarations

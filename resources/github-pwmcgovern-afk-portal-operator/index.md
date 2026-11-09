@@ -12,10 +12,6 @@ Autonomous browser agent designed to operate legacy insurance carrier web portal
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:pwmcgovern-afk/portal-operator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pwmcgovern-afk-portal-operator/record.json
 
 ## License declarations

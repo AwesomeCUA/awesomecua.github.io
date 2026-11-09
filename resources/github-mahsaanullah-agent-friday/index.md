@@ -12,10 +12,6 @@ Autonomous OS-level desktop assistant powered by LangGraph for multi-step system
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:mahsaanullah/agent_friday
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mahsaanullah-agent-friday/record.json
 
 ## License declarations

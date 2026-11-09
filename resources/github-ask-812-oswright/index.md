@@ -12,10 +12,6 @@ Windows desktop automation MCP server using incremental UI Automation state diff
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:ask-812/oswright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ask-812-oswright/record.json
 
 ## License declarations

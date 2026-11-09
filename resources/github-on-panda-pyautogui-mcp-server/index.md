@@ -12,10 +12,6 @@ pyautogui_mcp_server is a Streamable HTTP Model Context Protocol server for exec
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:on-panda/pyautogui_mcp_server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-on-panda-pyautogui-mcp-server/record.json
 
 ## License declarations

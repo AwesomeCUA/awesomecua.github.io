@@ -12,10 +12,6 @@ Hugging Face dataset release for VisualWebBench spanning seven visual web unders
 - Evidence checked: 2026-11-01T19:22:16Z
 - ID: url:149769d8bf07b7fbabdc
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-149769d8bf07b7fbabdc/record.json
 
 ## License declarations

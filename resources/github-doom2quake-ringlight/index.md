@@ -12,10 +12,6 @@ WebMCP investigation console where browser agents trace entity graphs across liv
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:doom2quake/ringlight
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-doom2quake-ringlight/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ OpenUI lets users and agents generate, preview, and iteratively edit live HTML/T
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:wandb/openui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wandb-openui/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Local Go Model Context Protocol server and Manifest V3 extension for controlling
 - Evidence checked: 2026-11-04T17:55:11Z
 - ID: github:hightemp/mcp-browser-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hightemp-mcp-browser-control/record.json
 
 ## License declarations

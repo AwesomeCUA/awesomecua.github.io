@@ -20,10 +20,10 @@ The card, shared with its sibling crawl release, carries only the license, links
 
 ## Structured profile
 
-- formats: LabelMe JSON, ZIP, CSV
-- modalities: bounding-box annotations, UI text transcriptions
-- splits: train, val, test
-- supervision: icon bounding boxes with class labels, text bounding boxes with transcribed text and font-family labels
+- Formats: LabelMe JSON, ZIP, CSV
+- Modalities: bounding-box annotations, UI text transcriptions
+- Splits: train, val, test
+- Supervision: icon bounding boxes with class labels, text bounding boxes with transcribed text and font-family labels
 
 ### Count observations
 

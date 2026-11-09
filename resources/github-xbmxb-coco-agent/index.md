@@ -12,10 +12,6 @@ Research implementation combining screen and layout perception with conditional 
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:xbmxb/coco-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xbmxb-coco-agent/record.json
 
 ## License declarations

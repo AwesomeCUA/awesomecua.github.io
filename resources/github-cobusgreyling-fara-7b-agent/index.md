@@ -12,10 +12,6 @@ Minimal, fully local agent harness for running Microsoft's Fara-7B computer-use 
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:cobusgreyling/fara-7b-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cobusgreyling-fara-7b-agent/record.json
 
 ## License declarations

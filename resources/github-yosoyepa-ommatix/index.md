@@ -12,10 +12,6 @@ Ommatix is an incremental spatial-indexing perception engine that tracks stable 
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:yosoyepa/ommatix
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yosoyepa-ommatix/record.json
 
 ## License declarations

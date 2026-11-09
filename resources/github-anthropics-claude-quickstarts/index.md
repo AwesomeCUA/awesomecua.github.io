@@ -12,10 +12,6 @@ Anthropic reference implementations including the containerized Claude Computer 
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:anthropics/claude-quickstarts
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anthropics-claude-quickstarts/record.json
 
 ## License declarations

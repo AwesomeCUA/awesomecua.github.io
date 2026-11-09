@@ -12,10 +12,6 @@ DeskCanvas converts live Windows application windows into structured semantic st
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:sorry123luck/desk-canvas
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sorry123luck-desk-canvas/record.json
 
 ## License declarations

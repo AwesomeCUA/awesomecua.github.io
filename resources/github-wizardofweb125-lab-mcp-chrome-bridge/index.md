@@ -12,10 +12,6 @@ Model Context Protocol server for controlling Chrome tabs, forms, console/networ
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:wizardofweb125-lab/mcp-chrome-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-chrome-bridge/record.json
 
 ## License declarations

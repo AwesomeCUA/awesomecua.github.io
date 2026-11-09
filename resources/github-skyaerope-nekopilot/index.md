@@ -12,10 +12,6 @@ NekoPilot is a Manifest V3 Chrome and Edge sidebar browser agent with Chrome Dev
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:skyaerope/nekopilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-skyaerope-nekopilot/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Zhubi is a self-hosted bounding-box annotation and fine-tuning workbench for tra
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:icesword0760/zhubi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-icesword0760-zhubi/record.json
 
 ## License declarations

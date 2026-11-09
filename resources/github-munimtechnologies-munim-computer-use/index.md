@@ -12,10 +12,6 @@ munim-computer-use is a cross-platform Computer Use MCP server combining native 
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:munimtechnologies/munim-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/record.json
 
 ## License declarations

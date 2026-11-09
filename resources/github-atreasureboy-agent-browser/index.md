@@ -12,10 +12,6 @@ Agent-readable semantic browser layer providing token-efficient webpage understa
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:atreasureboy/agent-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-atreasureboy-agent-browser/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ iPhone CUA steers physical iPhones from macOS by pairing an iPhone screen/contro
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:masone/iphone-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-masone-iphone-cua/record.json
 
 ## License declarations

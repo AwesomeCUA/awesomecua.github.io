@@ -12,10 +12,6 @@ Local-first desktop control MCP server combining a Rust native host and Node.js 
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:leaf76/lazy-desktop-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-leaf76-lazy-desktop-mcp/record.json
 
 ## License declarations

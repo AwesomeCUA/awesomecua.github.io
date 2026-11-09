@@ -12,10 +12,6 @@ Modular block-based GUI automation framework combining VLM screen perception, LL
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:sjkncs/gui-agent-framework
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sjkncs-gui-agent-framework/record.json
 
 ## License declarations

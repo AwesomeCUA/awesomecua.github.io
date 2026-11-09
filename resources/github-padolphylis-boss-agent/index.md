@@ -12,10 +12,6 @@ Local job-search browser agent that parses natural-language criteria, drives Chr
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:padolphylis/boss_agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-padolphylis-boss-agent/record.json
 
 ## License declarations

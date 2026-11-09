@@ -35,15 +35,15 @@ Weimin Xiong, Shuhao Gu, Bowen Ye, Zihao Yue, Lei Li, Feifan Song, Sujian Li, Ha
 - Publication source: https://proceedings.mlr.press/v306/xiong26c.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2605-14747/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2605-14747/publication-citation.csl.json
-- venue: Proceedings of the 43rd International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 306
-- pages: 140253-140283
-- date basis: Explicit publisher metadata: 2026/09/29; precision=day.
-- event dates: 06--11 Jul 2026
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: This work already exists as metadata_verified arxiv:2605.14747. The official publication abstract still promises a future release; current release status is not inferred from publication. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 43rd International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 306
+- Pages: 140253-140283
+- Date source: Explicit publisher metadata: 2026/09/29; precision=day.
+- Event dates: 06--11 Jul 2026
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: This work already exists as metadata_verified arxiv:2605.14747. The official publication abstract still promises a future release; current release status is not inferred from publication. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v306/xiong26c.html
 
 ## Recorded arXiv snapshot

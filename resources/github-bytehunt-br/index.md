@@ -12,10 +12,6 @@ Agent-oriented browser CLI powered by Bun WebView with terminal Kitty graphics r
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:bytehunt/br
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bytehunt-br/record.json
 
 ## License declarations

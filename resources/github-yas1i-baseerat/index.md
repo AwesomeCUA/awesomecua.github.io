@@ -12,10 +12,6 @@ Baseerat benchmarks non-visual oversight of computer-use agents, testing whether
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:yas1i/baseerat
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yas1i-baseerat/record.json
 
 ## License declarations

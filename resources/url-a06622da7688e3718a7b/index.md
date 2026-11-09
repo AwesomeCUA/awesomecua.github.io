@@ -12,10 +12,6 @@ Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:a06622da7688e3718a7b
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-a06622da7688e3718a7b/record.json
 
 ## License declarations

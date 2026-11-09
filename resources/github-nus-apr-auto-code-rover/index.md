@@ -12,10 +12,6 @@ AutoCodeRover combines LLMs with AST-aware code search and spectrum-based fault 
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:nus-apr/auto-code-rover
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nus-apr-auto-code-rover/record.json
 
 ## License declarations

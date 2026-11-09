@@ -357,15 +357,15 @@ Xiangjian Zeng, Wenjing Li, Qingqiang Wu, Liang Zhang
 - Publication source: https://ojs.aaai.org/index.php/AAAI/article/view/40038
 - Publication BibTeX: https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/publication-citation.csl.json
-- venue: Proceedings of the AAAI Conference on Artificial Intelligence
-- publisher: Association for the Advancement of Artificial Intelligence (AAAI)
-- volume: 40
-- issue: 33
-- pages: 28122-28130
-- doi: 10.1609/aaai.v40i33.40038
-- date basis: Crossref issued date 2026-3-14; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: AAAI-26 proceedings article; Crossref deposits it as a journal article in Proceedings of the AAAI Conference on Artificial Intelligence.
+- Venue: Proceedings of the AAAI Conference on Artificial Intelligence
+- Publisher: Association for the Advancement of Artificial Intelligence (AAAI)
+- Volume: 40
+- Issue: 33
+- Pages: 28122-28130
+- DOI: 10.1609/aaai.v40i33.40038
+- Date source: Crossref issued date 2026-3-14; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: AAAI-26 proceedings article; Crossref deposits it as a journal article in Proceedings of the AAAI Conference on Artificial Intelligence.
 - Publication evidence: https://api.crossref.org/works/10.1609/aaai.v40i33.40038
 
 ### License declarations

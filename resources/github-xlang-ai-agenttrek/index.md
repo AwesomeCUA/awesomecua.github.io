@@ -12,10 +12,6 @@ Synthesizes browser-agent trajectories by replaying web tutorials as guidance, r
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:xlang-ai/agenttrek
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-agenttrek/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ MM-Eureka provides rule-based multimodal reinforcement learning code, models, an
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:modalminds/mm-eureka
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-modalminds-mm-eureka/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Local Model Context Protocol server enabling Claude Code and Codex to observe an
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:timlai666/wayhand-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-timlai666-wayhand-mcp/record.json
 
 ## License declarations

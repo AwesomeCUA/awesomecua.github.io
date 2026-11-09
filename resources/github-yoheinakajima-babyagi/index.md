@@ -12,10 +12,6 @@ BabyAGI is an autonomous task-management agent framework that iteratively create
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:yoheinakajima/babyagi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yoheinakajima-babyagi/record.json
 
 ## License declarations

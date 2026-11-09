@@ -12,10 +12,6 @@ Keyboard-driven Chromium browser environment with modular workspace panels for d
 - Evidence checked: 2026-11-04T17:30:34Z
 - ID: github:iamrichmack111/richmack-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-iamrichmack111-richmack-browser/record.json
 
 ## License declarations

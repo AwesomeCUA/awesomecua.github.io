@@ -12,10 +12,6 @@ Model Context Protocol server for controlling Dia Browser tabs, pages, and built
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:aissablk1/mcp-dia
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aissablk1-mcp-dia/record.json
 
 ## License declarations

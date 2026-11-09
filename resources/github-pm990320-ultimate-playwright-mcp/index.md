@@ -12,10 +12,6 @@ Multi-agent Playwright MCP server featuring Chrome tab-group isolation so concur
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:pm990320/ultimate-playwright-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pm990320-ultimate-playwright-mcp/record.json
 
 ## License declarations

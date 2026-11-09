@@ -12,10 +12,6 @@ Chrome DevTools Protocol MCP server giving AI agents live browser DOM, console, 
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:jmsa/argus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jmsa-argus/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Discover-once, replay-many computer-use automation framework with deterministic 
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:codelit-io/handrail-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-codelit-io-handrail-cua/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Connects OpenAI Codex and Antigravity via a global sidecar and local CDP to mana
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:guraqwq/codex-dynamic-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-guraqwq-codex-dynamic-bridge/record.json
 
 ## License declarations

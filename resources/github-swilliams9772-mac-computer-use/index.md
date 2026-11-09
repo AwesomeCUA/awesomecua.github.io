@@ -12,10 +12,6 @@ Adapts Anthropic Claude Computer Use for native macOS with extended thinking, Ap
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:swilliams9772/mac_computer_use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-swilliams9772-mac-computer-use/record.json
 
 ## License declarations

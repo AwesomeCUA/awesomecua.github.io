@@ -12,10 +12,6 @@ Extends the WebMCP standard by declaring agent-callable website actions and sema
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:cochinoraptor/webmcpcss
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cochinoraptor-webmcpcss/record.json
 
 ## License declarations

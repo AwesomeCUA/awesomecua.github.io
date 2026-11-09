@@ -12,10 +12,6 @@ Survey of LLM-brained GUI agents that carry out natural-language instructions ac
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2411.18279
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-18279/record.json
 
 ## Authors

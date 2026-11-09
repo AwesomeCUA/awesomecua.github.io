@@ -12,10 +12,6 @@ Records browser walkthroughs once, stores structured locator cues, and replays p
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:supermarioyl/flowcast
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-supermarioyl-flowcast/record.json
 
 ## License declarations

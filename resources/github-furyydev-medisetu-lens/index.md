@@ -12,10 +12,6 @@ Browser agent that searches and compares generic medicine availability and prici
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:furyydev/medisetu-lens
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-furyydev-medisetu-lens/record.json
 
 ## License declarations

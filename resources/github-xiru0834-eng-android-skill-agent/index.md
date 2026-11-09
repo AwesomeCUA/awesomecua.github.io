@@ -12,10 +12,6 @@ Android-Skill-Agent extracts demonstration-guided, parameterized operational ski
 - Evidence checked: 2026-11-04T14:41:47Z
 - ID: github:xiru0834-eng/android-skill-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiru0834-eng-android-skill-agent/record.json
 
 ## License declarations

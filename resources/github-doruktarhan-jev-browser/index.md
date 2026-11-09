@@ -12,10 +12,6 @@ jev-browser is a Claude Code skill and CLI (`jb`) that delegates multi-step web 
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:doruktarhan/jev-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-doruktarhan-jev-browser/record.json
 
 ## License declarations

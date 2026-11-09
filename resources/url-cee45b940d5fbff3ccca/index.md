@@ -12,10 +12,6 @@ Microsoft Phi-Ground GUI grounding checkpoint fine-tuned from Phi-3.5-vision-ins
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:cee45b940d5fbff3ccca
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-cee45b940d5fbff3ccca/record.json
 
 ## License declarations

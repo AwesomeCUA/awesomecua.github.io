@@ -20,10 +20,10 @@ The card calls this a self-reported trajectory package; it links no paper or har
 
 ## Structured profile
 
-- formats: JSONL, JSON, PNG, CSV, Parquet
-- modalities: screenshots, action trajectories, task guidance cards, scores
-- splits: not recorded
-- supervision: agent-generated trajectories, evaluator task scores
+- Formats: JSONL, JSON, PNG, CSV, Parquet
+- Modalities: screenshots, action trajectories, task guidance cards, scores
+- Splits: not recorded
+- Supervision: agent-generated trajectories, evaluator task scores
 
 ### Count observations
 

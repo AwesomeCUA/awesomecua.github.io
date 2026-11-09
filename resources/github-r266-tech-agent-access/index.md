@@ -12,10 +12,6 @@ Universal access layer that routes websites, apps, and repeated workflows into a
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:r266-tech/agent-access
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-r266-tech-agent-access/record.json
 
 ## License declarations

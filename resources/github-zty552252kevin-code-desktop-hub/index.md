@@ -12,10 +12,6 @@ Compact 10-tool (~2.3k token) facade MCP server for macOS desktop automation.
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:zty552252kevin-code/desktop-hub
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zty552252kevin-code-desktop-hub/record.json
 
 ## License declarations

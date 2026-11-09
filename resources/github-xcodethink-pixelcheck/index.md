@@ -12,10 +12,6 @@ Drop-in MCP server providing five visual browser primitives for frontend coding 
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:xcodethink/pixelcheck
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xcodethink-pixelcheck/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ TankWork is a desktop agent framework combining OmniParser visual grounding, OCR
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:agenttankos/tankwork
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agenttankos-tankwork/record.json
 
 ## License declarations

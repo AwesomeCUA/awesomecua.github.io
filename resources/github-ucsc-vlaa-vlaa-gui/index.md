@@ -12,10 +12,6 @@ VLAA-GUI provides a modular GUI automation framework that teaches agents when to
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:ucsc-vlaa/vlaa-gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/record.json
 
 ## License declarations

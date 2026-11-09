@@ -12,10 +12,6 @@ Windows Model Context Protocol server combining DXGI desktop duplication screen 
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:betrayzl/windows-computer-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-betrayzl-windows-computer-use-mcp/record.json
 
 ## License declarations

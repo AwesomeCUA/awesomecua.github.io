@@ -35,13 +35,13 @@ Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexian
 - Publication source: https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2306-00245/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2306-00245/publication-citation.csl.json
-- venue: Advances in Neural Information Processing Systems
-- volume: 36
-- pages: 34354-34370
-- doi: 10.52202/075280-1490
-- date basis: Explicit publisher metadata: 2023-12-15; precision=day.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The NeurIPS landing metadata adds the initial N to Kristina Toutanova; the formal paper title page does not. Publication authors use the PDF. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Advances in Neural Information Processing Systems
+- Volume: 36
+- Pages: 34354-34370
+- DOI: 10.52202/075280-1490
+- Date source: Explicit publisher metadata: 2023-12-15; precision=day.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The NeurIPS landing metadata adds the initial N to Kristina Toutanova; the formal paper title page does not. Publication authors use the PDF. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html, https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf
 
 ## Recorded arXiv snapshot

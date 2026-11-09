@@ -12,10 +12,6 @@ Model Context Protocol server giving coding agents screenshot, tap, swipe, and U
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:void032/android_mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-void032-android-mcp/record.json
 
 ## License declarations

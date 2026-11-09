@@ -12,10 +12,6 @@ Verified browser-automation skill for WorkBuddy and Codex to publish content acr
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:3105059695-rgb/local-life-publisher
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-3105059695-rgb-local-life-publisher/record.json
 
 ## License declarations

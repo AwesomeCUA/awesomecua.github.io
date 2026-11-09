@@ -12,10 +12,6 @@ Windows .NET/C# GUI-automation CLI and Model Context Protocol server for coding 
 - Evidence checked: 2026-11-04T16:51:57Z
 - ID: github:byronjones-elsevier/uictl-win-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-byronjones-elsevier-uictl-win-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Turns existing websites into discoverable, measurable WebMCP capability surfaces
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:signettai/signett
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-signettai-signett/record.json
 
 ## License declarations

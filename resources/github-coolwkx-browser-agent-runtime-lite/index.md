@@ -12,10 +12,6 @@ Lightweight runtime for executing autonomous browser-agent perception and action
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:coolwkx/browser-agent-runtime-lite
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-coolwkx-browser-agent-runtime-lite/record.json
 
 ## License declarations

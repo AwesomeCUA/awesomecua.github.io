@@ -12,10 +12,6 @@ CLI and SDK for automating web workflows, scraping pages, and driving cloud or l
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:rtrvr-ai/rtrvr-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rtrvr-ai-rtrvr-cli/record.json
 
 ## License declarations

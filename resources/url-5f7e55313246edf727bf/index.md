@@ -20,10 +20,10 @@ The card now asks users to switch to the newer hflqf88888/GUIOdyssey release, wh
 
 ## Structured profile
 
-- formats: JSON annotations, PNG screenshots, zip archives
-- modalities: screenshots, instructions, actions, click and scroll coordinates, device metadata
-- splits: random, task, device, app
-- supervision: cross-app trajectories, action grounding
+- Formats: JSON annotations, PNG screenshots, zip archives
+- Modalities: screenshots, instructions, actions, click and scroll coordinates, device metadata
+- Splits: random, task, device, app
+- Supervision: cross-app trajectories, action grounding
 
 ### Count observations
 

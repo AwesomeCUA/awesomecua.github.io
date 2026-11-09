@@ -12,10 +12,6 @@ Framework for GUI agent training, evaluation, and deployment.
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:zju-real/clawgui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zju-real-clawgui/record.json
 
 ## License declarations

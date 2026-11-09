@@ -12,19 +12,15 @@ Web-agent benchmark pairing benign and harmful tasks to study deliberate misuse 
 - Evidence checked: 2026-10-16T09:36:33Z
 - ID: github:mcgill-nlp/safearena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-safearena/record.json
 
 ## Structured profile
 
-- actions: web interactions
-- evaluation: Task outcomes and the Agent Risk Assessment categories evaluate agent behavior on benign and harmful requests.
-- focus: web-agent safety, task completion
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: web interactions
+- Evaluation: Task outcomes and the Agent Risk Assessment categories evaluate agent behavior on benign and harmful requests.
+- Focus: web-agent safety, task completion
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

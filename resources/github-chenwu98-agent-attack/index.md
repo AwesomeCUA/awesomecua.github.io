@@ -12,10 +12,6 @@ Evaluation resources for adversarial attacks on multimodal web agents.
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: github:chenwu98/agent-attack
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chenwu98-agent-attack/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Evaluates typed System-One decision models (Luna Decisions and Jev) driving real
 - Evidence checked: 2026-11-04T14:41:47Z
 - ID: github:humanity-forever/decision-luna-browse-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-humanity-forever-decision-luna-browse-control/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Multi-agent browser MCP runtime in Rust managing isolated, persistent, parallel 
 - Evidence checked: 2026-11-04T16:51:59Z
 - ID: github:scrolldynasty/browsermesh
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-scrolldynasty-browsermesh/record.json
 
 ## License declarations

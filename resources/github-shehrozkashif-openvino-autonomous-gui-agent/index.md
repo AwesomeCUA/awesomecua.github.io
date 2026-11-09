@@ -12,10 +12,6 @@ Fully local desktop GUI agent running five INT4 OpenVINO models for screen perce
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:shehrozkashif/openvino-autonomous-gui-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shehrozkashif-openvino-autonomous-gui-agent/record.json
 
 ## License declarations

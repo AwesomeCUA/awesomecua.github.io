@@ -12,10 +12,6 @@ Agent skill for detecting Cloudflare challenges, CAPTCHAs, and anti-bot walls du
 - Evidence checked: 2026-11-04T18:11:38Z
 - ID: github:alpha-park/genpark-agentic-browser-bot-defense-detector-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alpha-park-genpark-agentic-browser-bot-defense-detector-skill/record.json
 
 ## License declarations

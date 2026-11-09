@@ -12,10 +12,6 @@ Exposes Windows desktop applications to AI agents via structured UI Automation t
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:amitse/uiacli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amitse-uiacli/record.json
 
 ## License declarations

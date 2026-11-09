@@ -12,10 +12,6 @@ Windows desktop action recorder and controlled replay tool that packages human U
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:week833/windows-local-action-recorder
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-week833-windows-local-action-recorder/record.json
 
 ## License declarations

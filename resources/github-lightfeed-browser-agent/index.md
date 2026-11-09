@@ -12,10 +12,6 @@ TypeScript browser agent library that uses an LLM to complete a web navigation w
 - Evidence checked: 2026-11-04T15:03:38Z
 - ID: github:lightfeed/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lightfeed-browser-agent/record.json
 
 ## License declarations

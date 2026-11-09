@@ -20,10 +20,10 @@ Access requires manual approval by the publisher; the record rests on the public
 
 ## Structured profile
 
-- formats: JSON, QCOW2, Python, CSV
-- modalities: task instructions, input files, reference outputs, VM disk images
-- splits: not recorded
-- supervision: expert-defined task definitions, grader reference files
+- Formats: JSON, QCOW2, Python, CSV
+- Modalities: task instructions, input files, reference outputs, VM disk images
+- Splits: not recorded
+- Supervision: expert-defined task definitions, grader reference files
 
 ### Count observations
 

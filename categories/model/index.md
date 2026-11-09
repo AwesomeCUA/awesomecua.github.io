@@ -22,10 +22,6 @@ Native GUI agent models; UI-TARS-1.5 adds reinforcement-learned reasoning before
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:bytedance/ui-tars
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bytedance-ui-tars/record.json
 
 ### License declarations
@@ -55,10 +51,6 @@ GUI grounding model trained to locate visual interface elements.
 - Topics: grounding
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:njucckevin/seeclick
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-njucckevin-seeclick/record.json
 
@@ -124,10 +116,6 @@ Vision-based GUI agent models with unified action representations.
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:xlang-ai/aguvis
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-aguvis/record.json
 
 ### License declarations
@@ -156,10 +144,6 @@ GUI grounding model with attention-based action localization.
 - Topics: grounding
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:microsoft/gui-actor
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-microsoft-gui-actor/record.json
 
@@ -266,10 +250,6 @@ Computer-use model family trained with cross-platform interaction data.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:opengvlab/scalecua
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-scalecua/record.json
 
 ### License declarations
@@ -299,10 +279,6 @@ UI-TARS 1.5 GUI-agent checkpoint in the Qwen2.5-VL architecture with about 8.3B 
 - Topics: grounding, planning
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:4d32ad3682ae2d71c178
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-4d32ad3682ae2d71c178/record.json
 
@@ -470,10 +446,6 @@ Open computer-use research stack including models and training resources.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:xlang-ai/opencua
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-opencua/record.json
 
 ### License declarations
@@ -504,10 +476,6 @@ OS-Atlas GUI action models, including grounding bases fine-tuned from InternVL2-
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:os-copilot/os-atlas
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-atlas/record.json
 
 ### License declarations
@@ -537,10 +505,6 @@ Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, 
 - Topics: grounding, efficiency
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:showlab/showui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-showlab-showui/record.json
 
@@ -725,10 +689,6 @@ Official repository for the Qwen-VL vision-language model series supporting nati
 - Evidence checked: 2026-11-04T13:12:32Z
 - ID: github:qwenlm/qwen3-vl
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qwenlm-qwen3-vl/record.json
 
 ### License declarations
@@ -762,10 +722,6 @@ Code, training data and weights for universal visual grounding of GUI elements f
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:osu-nlp-group/uground
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-uground/record.json
 
 ### License declarations
@@ -796,10 +752,6 @@ CogVLM provides official inference and fine-tuning code for the CogVLM vision-la
 - Evidence checked: 2026-11-04T13:12:39Z
 - ID: github:thudm/cogvlm
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-cogvlm/record.json
 
 ### License declarations
@@ -829,10 +781,6 @@ GUI-Libra provides training and evaluation pipelines for native GUI agents using
 - Topics: reinforcement-learning, grounding, action-prediction
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:gui-libra/gui-libra
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-gui-libra-gui-libra/record.json
 
@@ -977,10 +925,6 @@ Mixture-of-experts GUI grounding model with 3.9B activated parameters that can u
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:ariaui/aria-ui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ariaui-aria-ui/record.json
 
 ### License declarations
@@ -1089,10 +1033,6 @@ GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:e3e5dd82a3102689c4ea
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-e3e5dd82a3102689c4ea/record.json
 
 ### License declarations
@@ -1192,10 +1132,6 @@ Official repository for the InternVL open-source multimodal foundation model fam
 - Topics: screen-understanding, grounding, video
 - Evidence checked: 2026-11-04T13:12:30Z
 - ID: github:opengvlab/internvl
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-internvl/record.json
 
@@ -1599,10 +1535,6 @@ Vision-language-action model and training code for GUI dragging, with links to c
 - Evidence checked: 2026-10-16T11:09:28Z
 - ID: github:showlab/showui-pi
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-showui-pi/record.json
 
 ### License declarations
@@ -1666,10 +1598,6 @@ Multilingual variant of the AutoGLM phone-agent checkpoint for Open-AutoGLM, lik
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:d236e7ec7a2b0028950a
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-d236e7ec7a2b0028950a/record.json
 
 ### License declarations
@@ -1700,10 +1628,6 @@ Visual language model for GUI understanding and interaction.
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:thudm/cogagent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-cogagent/record.json
 
 ### License declarations
@@ -1733,10 +1657,6 @@ CogVLM2 releases high-resolution image and video vision-language models supporti
 - Topics: screen-understanding, video, grounding
 - Evidence checked: 2026-11-04T13:12:40Z
 - ID: github:thudm/cogvlm2
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-thudm-cogvlm2/record.json
 
@@ -1802,10 +1722,6 @@ DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:deskmind-ai/eyes
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-deskmind-ai-eyes/record.json
 
 ### License declarations
@@ -1835,10 +1751,6 @@ WebDreamer model checkpoint that predicts the consequences of web actions from s
 - Topics: world-models, planning
 - Evidence checked: 2026-10-16T11:10:45Z
 - ID: url:e3c1a2a2d556e4728953
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/record.json
 
@@ -1972,10 +1884,6 @@ Computer-use model and training resources from the EvoCUA project.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:meituan/evocua
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-meituan-evocua/record.json
 
 ### License declarations
@@ -2005,10 +1913,6 @@ Microsoft browser-use agent models that act from screenshots by predicting click
 - Topics: planning, web-navigation
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:microsoft/fara
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-microsoft-fara/record.json
 
@@ -2144,10 +2048,6 @@ GUI grounding models at 3B and 7B trained with Gaussian rewards for click proxim
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:zju-real/gui-g2
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zju-real-gui-g2/record.json
 
 ### License declarations
@@ -2176,10 +2076,6 @@ GUI action-model training and evaluation code with verifiable rewards, plus link
 - Topics: reinforcement-learning, grounding
 - Evidence checked: 2026-10-16T10:43:11Z
 - ID: github:ritzz-ai/gui-r1
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ritzz-ai-gui-r1/record.json
 
@@ -2485,10 +2381,6 @@ InfiGUI-G1 3B and 7B grounding models trained with Adaptive Exploration Policy O
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:infixai/infigui-g1
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-infixai-infigui-g1/record.json
 
 ### License declarations
@@ -2552,10 +2444,6 @@ The repository provides model weights and an inference example using Transformer
 - Topics: reinforcement-learning, planning
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:reallm-labs/infigui-r1
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-reallm-labs-infigui-r1/record.json
 
@@ -2662,10 +2550,6 @@ OS-Atlas base checkpoint with about 4.1B parameters, fine-tuned from InternVL2-4
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:30c831a1198b9bc2a0f5
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-30c831a1198b9bc2a0f5/record.json
 
 ### License declarations
@@ -2695,10 +2579,6 @@ OS-Atlas base checkpoint fine-tuned from Qwen2-VL-7B-Instruct, using the standar
 - Topics: grounding
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:82a30f45d9e855f423c7
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-82a30f45d9e855f423c7/record.json
 
@@ -3018,10 +2898,6 @@ ShowUI vision-language-action checkpoint fine-tuned from Qwen2-VL-2B-Instruct, p
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:c0f39f7cf2cd9c18e8bd
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-c0f39f7cf2cd9c18e8bd/record.json
 
 ### License declarations
@@ -3120,10 +2996,6 @@ GUI agent trained by RL with a continuous reward, a simple-thinking reward and c
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:kdegroup/ui-agile
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kdegroup-ui-agile/record.json
 
 ### License declarations
@@ -3190,10 +3062,6 @@ Rule-based reinforcement learning for GUI action prediction, releasing UI-R1-3B,
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:lll6gg/ui-r1
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lll6gg-ui-r1/record.json
 
 ### License declarations
@@ -3223,10 +3091,6 @@ Inclusion does not establish reproducibility or endorsement.
 - Topics: grounding, mobile-navigation
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:openbmb/agentcpm-gui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-openbmb-agentcpm-gui/record.json
 
@@ -3361,10 +3225,6 @@ AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Bas
 - Topics: mobile-navigation
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:c918d5c828a3c6cfbc5d
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-c918d5c828a3c6cfbc5d/record.json
 
@@ -3541,10 +3401,6 @@ Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:60a95f34072aeb2771cc
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-60a95f34072aeb2771cc/record.json
 
 ### License declarations
@@ -3575,10 +3431,6 @@ EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 par
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:2a2682f86dcb8ebc9a80
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-2a2682f86dcb8ebc9a80/record.json
 
 ### License declarations
@@ -3608,10 +3460,6 @@ Microsoft's Fara checkpoint, a Qwen2.5-VL-architecture image-text-to-text model 
 - Topics: planning, web-navigation
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:a4da77ee63f879cc8e63
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-a4da77ee63f879cc8e63/record.json
 
@@ -3678,10 +3526,6 @@ Preview GELab-Zero phone-use agent checkpoint fine-tuned from Qwen3-VL-4B-Instru
 - Topics: mobile-navigation
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:d7ad447ecd712c6d51b8
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-d7ad447ecd712c6d51b8/record.json
 
@@ -4902,10 +4746,6 @@ Microsoft Phi-Ground GUI grounding checkpoint fine-tuned from Phi-3.5-vision-ins
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:cee45b940d5fbff3ccca
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-cee45b940d5fbff3ccca/record.json
 
 ### License declarations
@@ -4936,10 +4776,6 @@ Pix2Struct provides official training and inference code for screenshot-parsing 
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:google-research/pix2struct
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-research-pix2struct/record.json
 
 ### License declarations
@@ -4969,10 +4805,6 @@ Llama-3.3-70B-Instruct-based executor checkpoint from the Plan-and-Act web-agent
 - Topics: planning, action-prediction, web-navigation
 - Evidence checked: 2026-10-17T02:05:41Z
 - ID: url:8a284d122d7dcf23479d
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-8a284d122d7dcf23479d/record.json
 
@@ -5041,10 +4873,6 @@ POINTS-GUI-G-8B GUI grounding model, trained from a POINTS-1.5 base without nati
 - Topics: grounding
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:tencent/points-gui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-tencent-points-gui/record.json
 
@@ -5707,10 +5535,6 @@ UGround-V1 checkpoint fine-tuned from Qwen2-VL-7B, with about 8.3B BF16 paramete
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:e554295a7f3f5c9ad0d6
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-e554295a7f3f5c9ad0d6/record.json
 
 ### License declarations
@@ -6064,10 +5888,6 @@ GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and deskt
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:inclusionai/ui-venus
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-inclusionai-ui-venus/record.json
 
 ### License declarations
@@ -6096,10 +5916,6 @@ UI-Venus 2 GUI-agent checkpoint fine-tuned from Qwen3.5-9B, with about 9.4B BF16
 - Topics: grounding, planning
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:611df37e5f3caa6befd7
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-611df37e5f3caa6befd7/record.json
 
@@ -6527,10 +6343,6 @@ browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps 
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:renezander030/browserground
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-renezander030-browserground/record.json
 
 ### License declarations
@@ -6630,10 +6442,6 @@ Claude tool capability for screenshot-based computer interaction.
 - Topics: planning, grounding
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:57f17b7d0c18b2d7c8bf
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-57f17b7d0c18b2d7c8bf/record.json
 
@@ -6763,10 +6571,6 @@ CombatVLA is a vision-language-action model and action tracker for real-time com
 - Evidence checked: 2026-11-04T13:12:10Z
 - ID: github:chenvoid/combatvla
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chenvoid-combatvla/record.json
 
 ### License declarations
@@ -6829,10 +6633,6 @@ GUI grounding research using modality-aware visual reasoning and test-time scali
 - Topics: grounding, efficiency
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:vivo/dimo-gui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-vivo-dimo-gui/record.json
 
@@ -6934,10 +6734,6 @@ Open mobile GUI agent stack pairing a 4B model that runs on consumer hardware wi
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:stepfun-ai/gelab-zero
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-stepfun-ai-gelab-zero/record.json
 
 ### License declarations
@@ -7002,10 +6798,6 @@ Gemini capability for generating interface actions from screenshots.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:879d4e3e75e83582bde6
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-879d4e3e75e83582bde6/record.json
 
 ### License declarations
@@ -7069,10 +6861,6 @@ GroundAnything is a 4B parallel-decoding diffusion grounding model for low-laten
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:groundingpi/groundanything
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-groundingpi-groundanything/record.json
 
 ### License declarations
@@ -7102,10 +6890,6 @@ GroundingPI is a 4B visual grounding foundation model that unifies bounding-box 
 - Topics: grounding, screen-understanding, action-prediction
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:groundingpi/groundingpi
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-groundingpi-groundingpi/record.json
 
@@ -7204,10 +6988,6 @@ GUI-AIMA aligns intrinsic multimodal attention heads with context anchors for da
 - Topics: grounding, screen-understanding
 - Evidence checked: 2026-11-04T13:12:36Z
 - ID: github:sjz5202/gui-aima
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sjz5202-gui-aima/record.json
 
@@ -7579,10 +7359,6 @@ GUI-Spotlight is a think-with-image GUI visual grounding model that iteratively 
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:bin123apple/gui_spotlight
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bin123apple-gui-spotlight/record.json
 
 ### License declarations
@@ -7649,10 +7425,6 @@ gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step s
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:trillion-labs/gworld
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-trillion-labs-gworld/record.json
 
 ### License declarations
@@ -7715,10 +7487,6 @@ H computer-use model family and its release-specific access options.
 - Topics: planning, grounding
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:c0bd07d82ce25ad1d99d
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-c0bd07d82ce25ad1d99d/record.json
 
@@ -8065,10 +7833,6 @@ HTLM is a compact 350M browser-agent model fine-tuned on Mind2Web for fast on-de
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:espetro/htlm
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-espetro-htlm/record.json
 
 ### License declarations
@@ -8238,10 +8002,6 @@ kev-browser-use is a compact 0.6B System-One action model fine-tuned on Mind2Web
 - Topics: web-navigation, action-prediction, efficiency
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:arbazsiddiqui/kev-browser-use
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-arbazsiddiqui-kev-browser-use/record.json
 
@@ -8415,10 +8175,6 @@ Laya-Android is a compact 322M on-device decision model for Android GUI action s
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:byun11/laya-android
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-byun11-laya-android/record.json
 
 ### License declarations
@@ -8557,10 +8313,6 @@ Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark an
 - Evidence checked: 2026-10-17T17:18:21Z
 - ID: github:microsoft/magma
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-magma/record.json
 
 ### License declarations
@@ -8591,10 +8343,6 @@ Mano-P is an open-source GUI vision-language-action model optimized for edge dev
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:mininglamp-ai/mano-p
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mininglamp-ai-mano-p/record.json
 
 ### License declarations
@@ -8624,10 +8372,6 @@ Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and 
 - Topics: mobile-navigation, efficiency, grounding
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:chayworks/milo-pointer
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-chayworks-milo-pointer/record.json
 
@@ -8692,10 +8436,6 @@ MM-Eureka provides rule-based multimodal reinforcement learning code, models, an
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:modalminds/mm-eureka
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-modalminds-mm-eureka/record.json
 
 ### License declarations
@@ -8726,10 +8466,6 @@ MobileVLM is a vision-language model pre-trained on the Mobile3M UI transition g
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xiaomi/mobilevlm
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiaomi-mobilevlm/record.json
 
 ### License declarations
@@ -8758,10 +8494,6 @@ MP-GUI provides multimodal perception training and evaluation code with graphica
 - Topics: screen-understanding, grounding
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:bigtaige/mp-gui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-bigtaige-mp-gui/record.json
 
@@ -8861,10 +8593,6 @@ OneJev is a multimodal System-One decision model based on Qwen that returns cali
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:omnijev/onejev
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-omnijev-onejev/record.json
 
 ### License declarations
@@ -8894,10 +8622,6 @@ Computer-using model introduced with the Operator research preview.
 - Topics: planning, grounding
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:74eeb7c9fb20674fe6e2
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-74eeb7c9fb20674fe6e2/record.json
 
@@ -9219,10 +8943,6 @@ Microsoft GUI grounding models from an empirical study of grounding training, fr
 - Topics: grounding
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:microsoft/phi-ground
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-microsoft-phi-ground/record.json
 
@@ -9643,10 +9363,6 @@ Textual Foresight pretrains UI representations by predicting textual description
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:aburns4/textualforesight
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aburns4-textualforesight/record.json
 
 ### License declarations
@@ -9850,10 +9566,6 @@ Vision GUI Assistant (VGA) provides image-centric fine-tuning code and datasets 
 - Topics: screen-understanding, grounding
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:linziyang1999/vision-gui-assistant
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-linziyang1999-vision-gui-assistant/record.json
 

@@ -12,10 +12,6 @@ MarkForge provides deterministic, auditable Set-of-Mark badge rendering and coor
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:lannistersyh/markforge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lannistersyh-markforge/record.json
 
 ## License declarations

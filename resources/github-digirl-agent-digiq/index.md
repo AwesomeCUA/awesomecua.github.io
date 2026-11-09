@@ -12,10 +12,6 @@ Offline device-control training code that learns action values and uses them to 
 - Evidence checked: 2026-10-16T11:09:28Z
 - ID: github:digirl-agent/digiq
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-digirl-agent-digiq/record.json
 
 ## License declarations

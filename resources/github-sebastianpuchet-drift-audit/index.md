@@ -12,10 +12,6 @@ Audits and classifies a browser-automation repository's selector maintenance his
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:sebastianpuchet/drift-audit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sebastianpuchet-drift-audit/record.json
 
 ## License declarations

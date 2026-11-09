@@ -12,10 +12,6 @@ Model Context Protocol server for curating, organizing, and driving multi-profil
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:vvzvlad/tabscurator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vvzvlad-tabscurator/record.json
 
 ## License declarations

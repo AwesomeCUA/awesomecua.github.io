@@ -12,10 +12,6 @@ Aeiva is a modular general-purpose AI agent framework adaptable across desktop, 
 - Evidence checked: 2026-11-04T15:03:36Z
 - ID: github:chatsci/aeiva
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chatsci-aeiva/record.json
 
 ## License declarations

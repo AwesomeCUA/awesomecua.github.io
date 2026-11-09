@@ -12,10 +12,6 @@ Coordinates five specialized AI agents sharing a browser workspace to conduct co
 - Evidence checked: 2026-11-04T18:11:43Z
 - ID: github:sanzizlohar/multi-agent-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sanzizlohar-multi-agent-browser/record.json
 
 ## License declarations

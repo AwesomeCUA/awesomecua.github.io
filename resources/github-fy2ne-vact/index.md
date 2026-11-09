@@ -12,10 +12,6 @@ High-frequency GPU screen perception and low-latency input transport protocol fo
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:fy2ne/vact
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fy2ne-vact/record.json
 
 ## License declarations

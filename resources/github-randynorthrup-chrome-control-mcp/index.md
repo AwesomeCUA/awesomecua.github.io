@@ -12,10 +12,6 @@ Visible, secure Chrome control server for AI assistants using MCP, Native Messag
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:randynorthrup/chrome-control-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-randynorthrup-chrome-control-mcp/record.json
 
 ## License declarations

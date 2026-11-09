@@ -12,10 +12,6 @@ LPS-Bench benchmarks the safety awareness of computer-use agents during long-hor
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:tychenn/lps-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tychenn-lps-bench/record.json
 
 ## License declarations

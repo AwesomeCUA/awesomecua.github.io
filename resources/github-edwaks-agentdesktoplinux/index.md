@@ -12,10 +12,6 @@ Linux desktop and VPS computer-use agent for TaskCapitan capable of driving GUI 
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:edwaks/agentdesktoplinux
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-edwaks-agentdesktoplinux/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ invisible_dots is a self-hosted cloud browser-agent workspace pairing isolated K
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:feder-cr/invisible_dots
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-feder-cr-invisible-dots/record.json
 
 ## License declarations

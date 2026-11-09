@@ -35,13 +35,13 @@ Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
 - Publication source: https://aclanthology.org/2024.acl-long.477/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-15057/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-15057/publication-citation.csl.json
-- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 8795-8812
-- doi: 10.18653/v1/2024.acl-long.477
-- date basis: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 8795-8812
+- DOI: 10.18653/v1/2024.acl-long.477
+- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2024.acl-long.477/
 
 ## Recorded arXiv snapshot

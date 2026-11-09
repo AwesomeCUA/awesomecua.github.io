@@ -12,10 +12,6 @@ Open protocol specification and toolkit exposing batch-native website actions to
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:betterwright/webagents
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-betterwright-webagents/record.json
 
 ## License declarations

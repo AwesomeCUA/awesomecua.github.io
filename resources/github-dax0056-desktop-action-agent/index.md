@@ -12,10 +12,6 @@ Sandboxed local computer-automation agent reference architecture with window det
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:dax0056/desktop-action-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dax0056-desktop-action-agent/record.json
 
 ## License declarations

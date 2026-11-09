@@ -12,10 +12,6 @@ OpenBitFun is a Rust-powered desktop agent workspace supporting computer-use, br
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:gcwing/openbitfun
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gcwing-openbitfun/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser-authenticated fetch and existing-browser CDP connection bridge for AI ag
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:f-loat/panerelay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-f-loat-panerelay/record.json
 
 ## License declarations

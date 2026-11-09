@@ -20,11 +20,11 @@ The card calls this the full GroundUI-18K of AgentStudio and a test set reserved
 
 ## Structured profile
 
-- actions: click coordinate
-- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
-- focus: instruction-conditioned GUI element grounding
-- observations: screenshots, natural-language instructions
-- setting: offline
+- Actions / outputs: click coordinate
+- Evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
+- Focus: instruction-conditioned GUI element grounding
+- Observations: screenshots, natural-language instructions
+- Setting: offline
 
 ### Count observations
 

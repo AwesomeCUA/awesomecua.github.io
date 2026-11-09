@@ -12,10 +12,6 @@ Zero-dependency CDP browser driver and hydration-reliability testing framework f
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:daud-khan-qa/ai-agentic-qa-framework
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-daud-khan-qa-ai-agentic-qa-framework/record.json
 
 ## License declarations

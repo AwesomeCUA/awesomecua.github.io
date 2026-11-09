@@ -12,10 +12,6 @@ Reads macOS application windows as compact text affordances (~9 tokens per click
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:kumard3/agentcursor
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kumard3-agentcursor/record.json
 
 ## License declarations

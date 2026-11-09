@@ -20,11 +20,11 @@ The maintainer README identifies MiniWoB++ as the extension introduced in the 20
 
 ## Structured profile
 
-- actions: configurable coordinate actions, element-reference actions, keyboard input
-- evaluation: not recorded
-- focus: small web interaction tasks
-- observations: task instructions, screenshots, visible DOM-element attributes
-- setting: interactive
+- Actions / outputs: configurable coordinate actions, element-reference actions, keyboard input
+- Evaluation: not recorded
+- Focus: small web interaction tasks
+- Observations: task instructions, screenshots, visible DOM-element attributes
+- Setting: interactive
 
 ### Count observations
 

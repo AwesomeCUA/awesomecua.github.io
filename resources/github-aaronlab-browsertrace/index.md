@@ -12,10 +12,6 @@ Local, cloud-free replay debugger that records each Browser Use step's screensho
 - Evidence checked: 2026-10-16T06:36:05Z
 - ID: github:aaronlab/browsertrace
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aaronlab-browsertrace/record.json
 
 ## License declarations

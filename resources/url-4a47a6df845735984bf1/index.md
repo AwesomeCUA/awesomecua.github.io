@@ -12,10 +12,6 @@ H browser extension for executing tasks through website interfaces.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:4a47a6df845735984bf1
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-4a47a6df845735984bf1/record.json
 
 ## License declarations

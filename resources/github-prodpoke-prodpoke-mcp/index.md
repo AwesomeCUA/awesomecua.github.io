@@ -12,10 +12,6 @@ AI QA testing MCP server that launches real browsers to execute exploratory user
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:prodpoke/prodpoke-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-prodpoke-prodpoke-mcp/record.json
 
 ## License declarations

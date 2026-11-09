@@ -12,10 +12,6 @@ Multi-channel web search and browser extraction Agent Skill covering 23 social a
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:simonlin1212/factreach
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-simonlin1212-factreach/record.json
 
 ## License declarations

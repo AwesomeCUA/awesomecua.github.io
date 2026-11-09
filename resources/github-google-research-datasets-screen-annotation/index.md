@@ -20,10 +20,10 @@ Each CSV row pairs a Rico screen ID with one text serialization of the screen's 
 
 ## Structured profile
 
-- formats: CSV
-- modalities: text annotations, bounding-box coordinates, Rico screen IDs
-- splits: train, valid, test
-- supervision: screen annotation: UI element type, location, text and image description
+- Formats: CSV
+- Modalities: text annotations, bounding-box coordinates, Rico screen IDs
+- Splits: train, valid, test
+- Supervision: screen annotation: UI element type, location, text and image description
 
 ### Count observations
 

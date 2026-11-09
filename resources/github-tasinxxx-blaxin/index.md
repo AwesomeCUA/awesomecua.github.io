@@ -12,10 +12,6 @@ Open-source AI desktop agent for Linux that plans, executes, and verifies GUI an
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:tasinxxx/blaxin
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tasinxxx-blaxin/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Mem0 provides a scalable long-term memory layer for AI agents that extracts, con
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:mem0ai/mem0
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mem0ai-mem0/record.json
 
 ## License declarations

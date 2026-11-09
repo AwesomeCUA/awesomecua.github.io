@@ -35,13 +35,13 @@ Dezhi Ran, Hao Wang, Zihe Song, Mengzhou Wu, Yuan Cao, Ying Zhang, Wei Yang, Tao
 - Publication source: https://dl.acm.org/doi/abs/10.1145/3650212.3680334
 - Publication BibTeX: https://awesomecua.com/resources/url-7424d66754ec26d68d83/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-7424d66754ec26d68d83/publication-citation.csl.json
-- venue: Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis
-- publisher: ACM
-- pages: 958-970
-- doi: 10.1145/3650212.3680334
-- date basis: Crossref issued date 2024-9-11; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ISSTA 2024 proceedings paper; the abstract was read from OpenAlex.
+- Venue: Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis
+- Publisher: ACM
+- Pages: 958-970
+- DOI: 10.1145/3650212.3680334
+- Date source: Crossref issued date 2024-9-11; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ISSTA 2024 proceedings paper; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3650212.3680334, https://api.openalex.org/works/doi:10.1145/3650212.3680334
 
 ## License declarations

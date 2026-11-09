@@ -409,12 +409,12 @@ Weixian Lei, Difei Gao, Mike Zheng Shou
 - Publication source: https://openreview.net/forum?id=M9iky9Ruhx
 - Publication BibTeX: https://awesomecua.com/resources/url-dca82e9214c5926109f1/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-dca82e9214c5926109f1/publication-citation.csl.json
-- venue: International Conference on Learning Representations 2025 (ICLR 2025)
-- volume: 2025
-- pages: 19742-19765
-- date basis: Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.
-- identity basis: Same work: the ICLR 2025 proceedings page and PDF carry the same title, three authors and abstract as OpenReview note M9iky9Ruhx (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.
-- notes: The proceedings page metadata lists the authors surname first; the PDF byline order and spelling are retained. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
+- Venue: International Conference on Learning Representations 2025 (ICLR 2025)
+- Volume: 2025
+- Pages: 19742-19765
+- Date source: Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.
+- Identity basis: Same work: the ICLR 2025 proceedings page and PDF carry the same title, three authors and abstract as OpenReview note M9iky9Ruhx (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.
+- Source notes: The proceedings page metadata lists the authors surname first; the PDF byline order and spelling are retained. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2025/hash/31fc85f7461ce71eadf27fb7281973bd-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2025/file/31fc85f7461ce71eadf27fb7281973bd-Paper-Conference.pdf
 
 ### License declarations
@@ -470,12 +470,12 @@ Dongjun Lee, Juyong Lee, Kyuyoung Kim, Jihoon Tack, Jinwoo Shin, Yee Whye Teh, K
 - Publication source: https://openreview.net/forum?id=3Gzz7ZQLiz
 - Publication BibTeX: https://awesomecua.com/resources/url-60a2dc930fa11860858a/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-60a2dc930fa11860858a/publication-citation.csl.json
-- venue: International Conference on Learning Representations 2025 (ICLR 2025)
-- volume: 2025
-- pages: 81039-81072
-- date basis: Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.
-- identity basis: Same work: the ICLR 2025 proceedings page and PDF carry the same title, seven authors and abstract as OpenReview note 3Gzz7ZQLiz (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. An arXiv preprint, 2503.10689, carries the same title, the same seven authors and the comment "Accepted to ICLR 2025".
-- notes: The proceedings page and PDF byline list the same seven authors in the same order. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
+- Venue: International Conference on Learning Representations 2025 (ICLR 2025)
+- Volume: 2025
+- Pages: 81039-81072
+- Date source: Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.
+- Identity basis: Same work: the ICLR 2025 proceedings page and PDF carry the same title, seven authors and abstract as OpenReview note 3Gzz7ZQLiz (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. An arXiv preprint, 2503.10689, carries the same title, the same seven authors and the comment "Accepted to ICLR 2025".
+- Source notes: The proceedings page and PDF byline list the same seven authors in the same order. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2025/hash/c995a913bc20ca39ce2231b8973be90a-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2025/file/c995a913bc20ca39ce2231b8973be90a-Paper-Conference.pdf
 
 ### License declarations
@@ -665,10 +665,6 @@ Formalizes GUI tasks as Markov decision processes and traces agent training from
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2504.20464
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-20464/record.json
 
 ### Authors
@@ -716,10 +712,6 @@ Reviews LLM-driven phone GUI agents with a taxonomy of agent frameworks, prompt-
 - Topics: survey
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2504.19838
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-19838/record.json
 
@@ -1624,13 +1616,13 @@ Xinyi Liu, Xiaoyi Zhang, Ziyun Zhang, Yan Lu
 - Publication source: https://aclanthology.org/2025.findings-acl.809/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2504-11257/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2504-11257/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 15668-15684
-- doi: 10.18653/v1/2025.findings-acl.809
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 15668-15684
+- DOI: 10.18653/v1/2025.findings-acl.809
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.809/
 
 ### Recorded arXiv snapshot
@@ -2504,10 +2496,6 @@ Frames GUI-agent trustworthiness as an execution gap and reviews failures, attac
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2503.23434
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-23434/record.json
 
 ### Authors
@@ -2607,10 +2595,6 @@ Analyzes LLM-based GUI agents through four components (perception, exploration, 
 - Topics: survey
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2504.13865
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-13865/record.json
 

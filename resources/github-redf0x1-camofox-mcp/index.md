@@ -12,10 +12,6 @@ Model Context Protocol server connecting Claude Desktop, Cursor, and OpenClaw to
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:redf0x1/camofox-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-redf0x1-camofox-mcp/record.json
 
 ## License declarations

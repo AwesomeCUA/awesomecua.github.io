@@ -20,10 +20,10 @@ The ungated manifest lists JSON annotations and multipart image archives. Traini
 
 ## Structured profile
 
-- formats: JSON annotations, multipart image archives
-- modalities: text, screenshots
-- splits: training collection
-- supervision: GUI trajectory supervision from multimodal tutorials
+- Formats: JSON annotations, multipart image archives
+- Modalities: text, screenshots
+- Splits: training collection
+- Supervision: GUI trajectory supervision from multimodal tutorials
 
 ### Count observations
 

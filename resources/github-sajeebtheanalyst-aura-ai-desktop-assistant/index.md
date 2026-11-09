@@ -12,10 +12,6 @@ Multilingual frameless desktop AI assistant for Windows supporting voice command
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:sajeebtheanalyst/aura-ai-desktop-assistant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sajeebtheanalyst-aura-ai-desktop-assistant/record.json
 
 ## License declarations

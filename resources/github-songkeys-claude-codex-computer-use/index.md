@@ -12,10 +12,6 @@ Bridge allowing Claude Code to invoke OpenAI Codex's native macOS Computer Use e
 - Evidence checked: 2026-11-04T17:20:50Z
 - ID: github:songkeys/claude-codex-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-songkeys-claude-codex-computer-use/record.json
 
 ## License declarations

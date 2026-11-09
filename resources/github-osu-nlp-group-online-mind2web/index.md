@@ -12,19 +12,15 @@
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:osu-nlp-group/online-mind2web
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/record.json
 
 ## Structured profile
 
-- actions: web interactions
-- evaluation: Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
-- focus: live-web task completion
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: web interactions
+- Evaluation: Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
+- Focus: live-web task completion
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

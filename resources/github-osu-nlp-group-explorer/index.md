@@ -12,10 +12,6 @@ Explorer synthesizes large-scale multimodal web trajectories through autonomous 
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:osu-nlp-group/explorer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-explorer/record.json
 
 ## License declarations

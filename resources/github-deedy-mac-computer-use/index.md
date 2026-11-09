@@ -12,10 +12,6 @@ Adapts the Anthropic Claude Computer Use reference agent to control a native mac
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:deedy/mac_computer_use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-deedy-mac-computer-use/record.json
 
 ## License declarations

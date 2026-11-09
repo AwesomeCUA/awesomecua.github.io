@@ -12,10 +12,6 @@ Persistent daemon and CLI exposing 652 Chrome DevTools Protocol methods directly
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:raystyle/browser-harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raystyle-browser-harness/record.json
 
 ## License declarations

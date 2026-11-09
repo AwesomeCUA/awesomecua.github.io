@@ -35,10 +35,10 @@ Toby Jia-Jun Li, Igor Labutov, Xiaohan Nancy Li, Xiaoyi Zhang, Wenze Shi, Wanlin
 - Publication source: https://ieeexplore.ieee.org/document/8506506
 - Publication BibTeX: https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/publication-citation.csl.json
-- venue: Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing
-- date basis: Supplied year precision: 2018. APPINITE publication citation: VL/HCC 2018
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations. Author-hosted manuscript and institutional publication lists supply the retained evidence. DOI, final page range, and exact publication day remain unknown.
+- Venue: Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing
+- Date source: Supplied year precision: 2018. APPINITE publication citation: VL/HCC 2018
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations. Author-hosted manuscript and institutional publication lists supply the retained evidence. DOI, final page range, and exact publication day remain unknown.
 - Publication evidence: https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf, https://www.cs.cmu.edu/~NatProg/sugilite.html, https://toby.li/publications/
 
 ## License declarations

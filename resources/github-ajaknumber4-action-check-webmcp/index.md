@@ -12,10 +12,6 @@ External state-verification benchmark testing whether WebMCP browser tools actua
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:ajaknumber4/action-check-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ajaknumber4-action-check-webmcp/record.json
 
 ## License declarations

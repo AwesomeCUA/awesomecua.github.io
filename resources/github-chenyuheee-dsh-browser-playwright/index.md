@@ -12,10 +12,6 @@ Snapshot-first Playwright browser automation plugin for DeepSeek Harness using a
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:chenyuheee/dsh-browser-playwright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chenyuheee-dsh-browser-playwright/record.json
 
 ## License declarations

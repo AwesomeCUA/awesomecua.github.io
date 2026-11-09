@@ -20,10 +20,10 @@ Public Parquet annotations, metadata JSON and images.tar.gz are present. The car
 
 ## Structured profile
 
-- formats: Parquet, JSON, TAR.GZ
-- modalities: screenshots, text, bounding boxes, points
-- splits: train
-- supervision: element grounding
+- Formats: Parquet, JSON, TAR.GZ
+- Modalities: screenshots, text, bounding boxes, points
+- Splits: train
+- Supervision: element grounding
 
 ### Count observations
 

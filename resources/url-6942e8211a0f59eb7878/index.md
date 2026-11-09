@@ -35,13 +35,13 @@ Xiwen Teoh, Yun Lin, Siqi Li, Ruofan Liu, Avi Sollomoni, Yaniv Harel, Jin Song D
 - Publication source: https://www.usenix.org/conference/usenixsecurity25/presentation/teoh
 - Publication BibTeX: https://awesomecua.com/resources/url-6942e8211a0f59eb7878/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-6942e8211a0f59eb7878/publication-citation.csl.json
-- venue: Proceedings of the 34th USENIX Security Symposium
-- publisher: USENIX Association
-- pages: 3747-3766
-- date basis: Supplied year precision: 2025. The proceedings PDF cover places the paper in the 34th USENIX Security Symposium; the symposium dates are kept as event dates, not a publication date.
-- event dates: August 13–15, 2025
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint of this work.
-- notes: Open-access USENIX Security 2025 proceedings edition; the cover prints ISBN 978-1-939133-52-6. USENIX assigns no DOI.
+- Venue: Proceedings of the 34th USENIX Security Symposium
+- Publisher: USENIX Association
+- Pages: 3747-3766
+- Date source: Supplied year precision: 2025. The proceedings PDF cover places the paper in the 34th USENIX Security Symposium; the symposium dates are kept as event dates, not a publication date.
+- Event dates: August 13–15, 2025
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint of this work.
+- Source notes: Open-access USENIX Security 2025 proceedings edition; the cover prints ISBN 978-1-939133-52-6. USENIX assigns no DOI.
 - Publication evidence: https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf
 
 ## License declarations

@@ -12,10 +12,6 @@ Deterministic web-field inspector that extracts and verifies single webpage valu
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:aarohim24/scavenge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aarohim24-scavenge/record.json
 
 ## License declarations

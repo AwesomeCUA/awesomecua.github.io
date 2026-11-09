@@ -12,10 +12,6 @@ SpiderCreator records browser interactions and DOM snapshots to automatically sy
 - Evidence checked: 2026-11-04T13:12:09Z
 - ID: github:carlosplanchon/spidercreator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-carlosplanchon-spidercreator/record.json
 
 ## License declarations

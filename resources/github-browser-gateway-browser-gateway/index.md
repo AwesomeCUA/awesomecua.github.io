@@ -12,10 +12,6 @@ browser-gateway is an open control plane and router across cloud browser provide
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:browser-gateway/browser-gateway
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-gateway-browser-gateway/record.json
 
 ## License declarations

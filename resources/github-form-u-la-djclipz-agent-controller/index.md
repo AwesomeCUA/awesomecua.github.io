@@ -12,10 +12,6 @@ Starter kit and controller for driving the DJCLIPZ browser media application pro
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:form-u-la/djclipz-agent-controller
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-form-u-la-djclipz-agent-controller/record.json
 
 ## License declarations

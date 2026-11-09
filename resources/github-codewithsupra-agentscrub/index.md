@@ -12,10 +12,6 @@ Visual session-replay debugger for Browser Use agent runs that lets developers s
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:codewithsupra/agentscrub
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-codewithsupra-agentscrub/record.json
 
 ## License declarations

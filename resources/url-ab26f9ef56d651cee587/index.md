@@ -12,10 +12,6 @@
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:ab26f9ef56d651cee587
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-ab26f9ef56d651cee587/record.json
 
 ## License declarations

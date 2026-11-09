@@ -12,10 +12,6 @@ AskUI Vision Agent Python SDK provides cross-platform visual UI element localiza
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:askui/python-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-askui-python-sdk/record.json
 
 ## License declarations

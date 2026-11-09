@@ -12,10 +12,6 @@ ToolTok introduces atomic directional cursor-movement tokens for multi-step iter
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:zephinuecode/tooltok
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zephinuecode-tooltok/record.json
 
 ## License declarations

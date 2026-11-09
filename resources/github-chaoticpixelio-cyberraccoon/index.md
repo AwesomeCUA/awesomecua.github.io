@@ -12,10 +12,6 @@ Non-invasive physical computer-use agent that captures HDMI video and dispatches
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:chaoticpixelio/cyberraccoon
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chaoticpixelio-cyberraccoon/record.json
 
 ## License declarations

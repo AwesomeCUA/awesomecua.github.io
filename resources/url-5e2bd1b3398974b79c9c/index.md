@@ -20,11 +20,11 @@ Four public test Parquet shards are present. The dataset card declares Apache-2.
 
 ## Structured profile
 
-- actions: click target or bounding box
-- evaluation: Assess localization against annotated targets; agentbrowse, humanbrowse and calendars are distinct source buckets.
-- focus: instruction-conditioned web localization
-- observations: web screenshots, instructions
-- setting: offline
+- Actions / outputs: click target or bounding box
+- Evaluation: Assess localization against annotated targets; agentbrowse, humanbrowse and calendars are distinct source buckets.
+- Focus: instruction-conditioned web localization
+- Observations: web screenshots, instructions
+- Setting: offline
 
 ### Count observations
 

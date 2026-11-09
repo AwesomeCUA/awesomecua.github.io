@@ -12,10 +12,6 @@ QuickDesk is an AI-native remote desktop client and host with a built-in MCP ser
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:barry-ran/quickdesk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-barry-ran-quickdesk/record.json
 
 ## License declarations

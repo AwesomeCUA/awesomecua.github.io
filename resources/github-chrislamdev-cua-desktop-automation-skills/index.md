@@ -12,10 +12,6 @@ Router learning system and macOS desktop automation skill pack for AI agents usi
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:chrislamdev/cua-desktop-automation-skills
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chrislamdev-cua-desktop-automation-skills/record.json
 
 ## License declarations

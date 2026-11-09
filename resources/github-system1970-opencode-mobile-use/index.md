@@ -12,10 +12,6 @@ OpenCode plugin for controlling Android devices with a live phone screen in the 
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:system1970/opencode-mobile-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-system1970-opencode-mobile-use/record.json
 
 ## License declarations

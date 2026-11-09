@@ -12,10 +12,6 @@ Browser bridge allowing Claude Code, Codex, OpenCode, and WorkBuddy agents to op
 - Evidence checked: 2026-11-04T17:55:09Z
 - ID: github:xxjrq/easy-webbridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xxjrq-easy-webbridge/record.json
 
 ## License declarations

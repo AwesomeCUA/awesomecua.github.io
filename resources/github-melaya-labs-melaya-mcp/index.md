@@ -12,10 +12,6 @@ Agent orchestration and Model Context Protocol runtime connecting AI agents to 6
 - Evidence checked: 2026-11-04T17:55:10Z
 - ID: github:melaya-labs/melaya-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-melaya-labs-melaya-mcp/record.json
 
 ## License declarations

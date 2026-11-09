@@ -20,10 +20,10 @@ Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1
 
 ## Structured profile
 
-- formats: ZIP, MP4, JSON, PNG
-- modalities: video, UI action logs, target CAD images
-- splits: not recorded
-- supervision: timestamped UI actions, target model images
+- Formats: ZIP, MP4, JSON, PNG
+- Modalities: video, UI action logs, target CAD images
+- Splits: not recorded
+- Supervision: timestamped UI actions, target model images
 
 ### Count observations
 

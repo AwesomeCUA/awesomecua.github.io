@@ -12,10 +12,6 @@ Jcua is a cross-platform computer-use agent powered by Jev decision models acros
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:1deat0r/jcua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-1deat0r-jcua/record.json
 
 ## License declarations

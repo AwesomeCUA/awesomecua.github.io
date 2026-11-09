@@ -12,19 +12,15 @@ Execution-based evaluation of agents performing tasks in real desktop environmen
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:xlang-ai/osworld
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-osworld/record.json
 
 ## Structured profile
 
-- actions: mouse and keyboard via PyAutoGUI
-- evaluation: Task-specific execution-based evaluators inspect application or system state.
-- focus: task completion, cross-application workflows
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: mouse and keyboard via PyAutoGUI
+- Evaluation: Task-specific execution-based evaluators inspect application or system state.
+- Focus: task completion, cross-application workflows
+- Observations: screenshots
+- Setting: interactive
 
 ### Count observations
 

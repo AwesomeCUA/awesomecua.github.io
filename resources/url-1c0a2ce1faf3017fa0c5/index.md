@@ -35,13 +35,13 @@ Kabir S. Said, Liming Nie, Adekunle A. Ajibode, Xueyi Zhou
 - Publication source: https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf
 - Publication BibTeX: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/publication-citation.csl.json
-- venue: 12th Asia-Pacific Symposium on Internetware
-- publisher: ACM
-- pages: 51-60
-- doi: 10.1145/3457913.3457931
-- date basis: Crossref issued date 2020-11; precision=month.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: The discovered link is the ResearchGate copy of the Internetware 2020 paper; bibliographic facts come from the Crossref record for its ACM DOI and the abstract from OpenAlex.
+- Venue: 12th Asia-Pacific Symposium on Internetware
+- Publisher: ACM
+- Pages: 51-60
+- DOI: 10.1145/3457913.3457931
+- Date source: Crossref issued date 2020-11; precision=month.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: The discovered link is the ResearchGate copy of the Internetware 2020 paper; bibliographic facts come from the Crossref record for its ACM DOI and the abstract from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3457913.3457931, https://api.openalex.org/works/doi:10.1145/3457913.3457931
 
 ## License declarations

@@ -12,10 +12,6 @@ Web navigation agent built on ChatGLM3-6B that simplifies HTML for the model, is
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:thudm/autowebglm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-autowebglm/record.json
 
 ## License declarations

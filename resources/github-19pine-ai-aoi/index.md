@@ -12,10 +12,6 @@ AOI provides an adaptive video and audio perception layer for computer-use agent
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:19pine-ai/aoi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-19pine-ai-aoi/record.json
 
 ## License declarations

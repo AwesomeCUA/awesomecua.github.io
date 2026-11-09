@@ -12,10 +12,6 @@ Accuracy engine for computer-use agents pairing a machine-readable cursor overla
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:dwstar79/agent-cursor
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dwstar79-agent-cursor/record.json
 
 ## License declarations

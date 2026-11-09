@@ -12,10 +12,6 @@ OpenAI browser product integrating ChatGPT and agent capabilities.
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: url:240a05c02f85d4da60dc
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-240a05c02f85d4da60dc/record.json
 
 ## License declarations

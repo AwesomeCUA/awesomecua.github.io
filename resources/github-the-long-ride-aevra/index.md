@@ -12,10 +12,6 @@ Secure Model Context Protocol gateway enabling ChatGPT, Claude, and Grok to remo
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:the-long-ride/aevra
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-the-long-ride-aevra/record.json
 
 ## License declarations

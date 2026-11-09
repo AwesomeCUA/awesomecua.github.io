@@ -12,10 +12,6 @@ Browser workflow automation using vision LLMs and a swarm of agents, offered as 
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:skyvern-ai/skyvern
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-skyvern-ai-skyvern/record.json
 
 ## License declarations

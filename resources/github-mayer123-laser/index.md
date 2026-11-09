@@ -12,10 +12,6 @@ LASER models interactive web navigation as state-space exploration with explicit
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:mayer123/laser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mayer123-laser/record.json
 
 ## License declarations

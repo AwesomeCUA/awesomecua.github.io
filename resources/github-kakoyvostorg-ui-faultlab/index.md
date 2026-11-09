@@ -12,10 +12,6 @@ UI-FaultLab benchmarks auditable agent-versus-application failure attribution in
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:kakoyvostorg/ui-faultlab
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/record.json
 
 ## License declarations

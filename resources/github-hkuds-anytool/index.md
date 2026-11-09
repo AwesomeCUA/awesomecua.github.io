@@ -12,10 +12,6 @@ AnyTool is a universal tool-use layer for AI agents supporting MCP, GUI, web, an
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:hkuds/anytool
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hkuds-anytool/record.json
 
 ## License declarations

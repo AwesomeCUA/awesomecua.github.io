@@ -12,10 +12,6 @@ Native headless and visible web browser automation plugin for DeepSeek Harness.
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:menotbobbybrown/dsh-plugin-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-menotbobbybrown-dsh-plugin-browser/record.json
 
 ## License declarations

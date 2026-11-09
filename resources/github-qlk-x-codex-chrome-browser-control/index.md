@@ -12,10 +12,6 @@ Local-first OpenAI Codex skill and Chrome extension for safe, user-bounded brows
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:qlk-x/codex-chrome-browser-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qlk-x-codex-chrome-browser-control/record.json
 
 ## License declarations

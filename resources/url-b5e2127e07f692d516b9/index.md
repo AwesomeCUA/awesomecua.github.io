@@ -20,10 +20,10 @@ The manifest contains trajectory annotations and archives associated with mobile
 
 ## Structured profile
 
-- formats: JSON annotations, ZIP image packages, multipart TAR image packages
-- modalities: GUI screenshots, natural-language instructions, action trajectories
-- splits: training
-- supervision: GUI trajectory supervised fine-tuning, planning and reasoning with inner monologue
+- Formats: JSON annotations, ZIP image packages, multipart TAR image packages
+- Modalities: GUI screenshots, natural-language instructions, action trajectories
+- Splits: training
+- Supervision: GUI trajectory supervised fine-tuning, planning and reasoning with inner monologue
 
 ### Count observations
 

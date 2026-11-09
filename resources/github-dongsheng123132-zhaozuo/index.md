@@ -12,10 +12,6 @@ Demonstration-driven Windows desktop automation framework compatible with the Ac
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:dongsheng123132/zhaozuo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/record.json
 
 ## License declarations

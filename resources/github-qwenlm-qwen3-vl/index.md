@@ -12,10 +12,6 @@ Official repository for the Qwen-VL vision-language model series supporting nati
 - Evidence checked: 2026-11-04T13:12:32Z
 - ID: github:qwenlm/qwen3-vl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qwenlm-qwen3-vl/record.json
 
 ## License declarations

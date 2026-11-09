@@ -12,10 +12,6 @@ Cloud-browser evaluation harness that tests whether an autonomous AI agent can c
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:williehems/agentready
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-williehems-agentready/record.json
 
 ## License declarations

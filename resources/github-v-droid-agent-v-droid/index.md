@@ -12,10 +12,6 @@ V-Droid pairs a mobile GUI actor with a generative verifier that scores candidat
 - Evidence checked: 2026-11-04T13:12:42Z
 - ID: github:v-droid-agent/v-droid
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-v-droid-agent-v-droid/record.json
 
 ## License declarations

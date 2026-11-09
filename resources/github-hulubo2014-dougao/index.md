@@ -12,10 +12,6 @@ DouGao is an on-device Android AI assistant combining VLM screen control across 
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:hulubo2014/dougao
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hulubo2014-dougao/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Python SDK, CLI, and agent skill for driving cloud Android phones via Volcengine
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:chenjie1129/mobile-use-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chenjie1129-mobile-use-agent/record.json
 
 ## License declarations

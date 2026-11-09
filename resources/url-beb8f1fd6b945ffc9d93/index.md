@@ -35,11 +35,11 @@ Fei Tang, Zhangxuan Gu, Zhengxi Lu, Shangzhan Zhang, Zhengwen Zeng, Shuheng Shen
 - Publication source: https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html
 - Publication BibTeX: https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/publication-citation.csl.json
-- venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-- pages: 13007-13016
-- date basis: Explicit publisher metadata: month = {June}, year = {2026}; precision=month.
-- identity basis: No title/DOI/canonical URL match in the current paper catalog or raw archive; closest substantive same-team works were reread and have different contributions.
-- notes: CVF open-access accepted version; PDF states that the final proceedings version is on IEEE Xplore.
+- Venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- Pages: 13007-13016
+- Date source: Explicit publisher metadata: month = {June}, year = {2026}; precision=month.
+- Identity basis: No title/DOI/canonical URL match in the current paper catalog or raw archive; closest substantive same-team works were reread and have different contributions.
+- Source notes: CVF open-access accepted version; PDF states that the final proceedings version is on IEEE Xplore.
 - Publication evidence: https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html, https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf
 
 ## License declarations

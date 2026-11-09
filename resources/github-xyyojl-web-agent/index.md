@@ -12,10 +12,6 @@ Seven-layer LLM browser agent architecture paired with a 45-task hierarchical be
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:xyyojl/web-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xyyojl-web-agent/record.json
 
 ## License declarations

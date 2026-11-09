@@ -12,10 +12,6 @@ FedGUI benchmarks federated GUI agent training and evaluation across heterogeneo
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:wwh0411/fedgui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wwh0411-fedgui/record.json
 
 ## License declarations

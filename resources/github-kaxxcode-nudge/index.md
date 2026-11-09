@@ -12,10 +12,6 @@ Browser extension that automatically redacts sensitive PII on webpages before AI
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:kaxxcode/nudge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kaxxcode-nudge/record.json
 
 ## License declarations

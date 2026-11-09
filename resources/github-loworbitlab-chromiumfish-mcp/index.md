@@ -12,10 +12,6 @@ Session-aware Model Context Protocol server for driving ChromiumFish browser aut
 - Evidence checked: 2026-11-04T16:51:45Z
 - ID: github:loworbitlab/chromiumfish_mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-loworbitlab-chromiumfish-mcp/record.json
 
 ## License declarations

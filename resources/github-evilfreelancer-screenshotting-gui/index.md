@@ -12,10 +12,6 @@ Agent skill for Claude Code, Codex, and Cursor that captures repeatable, window-
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:evilfreelancer/screenshotting-gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-evilfreelancer-screenshotting-gui/record.json
 
 ## License declarations

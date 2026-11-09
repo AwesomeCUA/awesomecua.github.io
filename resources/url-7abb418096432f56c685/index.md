@@ -12,19 +12,15 @@ GUI grounding test set of 1,272 screenshot instructions from iOS, Android, macOS
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:7abb418096432f56c685
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-7abb418096432f56c685/record.json
 
 ## Structured profile
 
-- actions: predicted click point; a predicted box is reduced to its center
-- evaluation: The SeeClick evaluator scores whether the predicted point falls inside the target box, with platform and text/icon breakdowns. The Hub packaging uses xyxy boxes, whereas the original evaluator reads xywh and converts it; adapt the loader to the chosen release.
-- focus: single-step GUI element grounding
-- observations: screenshot, English instruction
-- setting: offline
+- Actions / outputs: predicted click point; a predicted box is reduced to its center
+- Evaluation: The SeeClick evaluator scores whether the predicted point falls inside the target box, with platform and text/icon breakdowns. The Hub packaging uses xyxy boxes, whereas the original evaluator reads xywh and converts it; adapt the loader to the chosen release.
+- Focus: single-step GUI element grounding
+- Observations: screenshot, English instruction
+- Setting: offline
 
 ### Count observations
 

@@ -12,10 +12,6 @@ On-device local AI and consent-driven Android UI automation runtime with Bangla-
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:soobujmiah/lai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-soobujmiah-lai/record.json
 
 ## License declarations

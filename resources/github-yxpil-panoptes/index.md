@@ -12,10 +12,6 @@ Streamable HTTP Model Context Protocol server exposing 9 screen capture and mous
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:yxpil/panoptes
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yxpil-panoptes/record.json
 
 ## License declarations

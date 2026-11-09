@@ -12,10 +12,6 @@ NaturalGAIA and LightManus provide a hierarchical multi-agent framework with bro
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:keles-coding/naturegaia
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-keles-coding-naturegaia/record.json
 
 ## License declarations

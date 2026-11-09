@@ -20,10 +20,10 @@ Train, validation and test Parquet files are publicly listed. The compilation li
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: images, text, bounding boxes, OCR metadata
-- splits: train, validation, test
-- supervision: instruction-to-target boxes
+- Formats: Parquet
+- Modalities: images, text, bounding boxes, OCR metadata
+- Splits: train, validation, test
+- Supervision: instruction-to-target boxes
 
 ### Count observations
 

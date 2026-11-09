@@ -12,10 +12,6 @@ Avenir-Web trains human-experience-imitating multimodal web agents with mixture-
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:princeton-ai2-lab/avenir-web
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/record.json
 
 ## License declarations

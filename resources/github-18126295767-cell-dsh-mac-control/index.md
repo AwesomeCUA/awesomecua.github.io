@@ -12,10 +12,6 @@ macOS control plugin for DeepSeek Harness enabling browser tab inspection, app s
 - Evidence checked: 2026-11-04T17:20:52Z
 - ID: github:18126295767-cell/dsh-mac-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-18126295767-cell-dsh-mac-control/record.json
 
 ## License declarations

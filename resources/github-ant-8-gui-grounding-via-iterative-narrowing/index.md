@@ -12,10 +12,6 @@ Implements training-free iterative visual crop-and-narrow refinement for improvi
 - Evidence checked: 2026-11-04T14:02:38Z
 - ID: github:ant-8/gui-grounding-via-iterative-narrowing
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ant-8-gui-grounding-via-iterative-narrowing/record.json
 
 ## License declarations

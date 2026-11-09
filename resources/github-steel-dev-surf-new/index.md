@@ -12,10 +12,6 @@ Next.js and FastAPI playground from Steel for trying web agents in a controlled 
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:steel-dev/surf.new
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-steel-dev-surf-new/record.json
 
 ## License declarations

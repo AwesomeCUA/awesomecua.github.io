@@ -20,10 +20,10 @@ The card describes this as a personally reprocessed annotation release: records 
 
 ## Structured profile
 
-- formats: JSONL, tar archives of JPEG frames
-- modalities: screenshots, instructions, plans, actions, action rationales
-- splits: not recorded
-- supervision: video-derived task instructions and plans, model-generated action grounding
+- Formats: JSONL, tar archives of JPEG frames
+- Modalities: screenshots, instructions, plans, actions, action rationales
+- Splits: not recorded
+- Supervision: video-derived task instructions and plans, model-generated action grounding
 
 ### Count observations
 

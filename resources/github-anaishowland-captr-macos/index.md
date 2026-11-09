@@ -12,10 +12,6 @@ Captr for macOS records synchronized screen video, keyboard/mouse input, DOM sna
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:anaishowland/captr_macos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-captr-macos/record.json
 
 ## License declarations

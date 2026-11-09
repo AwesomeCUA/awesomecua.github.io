@@ -12,10 +12,6 @@ Open-source travel planning browser agent that searches and compares flights and
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:prism-shadow/travel-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-prism-shadow-travel-agent/record.json
 
 ## License declarations

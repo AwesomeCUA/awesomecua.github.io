@@ -12,10 +12,6 @@ THEIA (The Human Environment Intelligence Aperture) is a visual perception and U
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:tree-ind/theia-ui-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/record.json
 
 ## License declarations

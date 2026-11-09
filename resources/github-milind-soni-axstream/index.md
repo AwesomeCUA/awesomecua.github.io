@@ -12,10 +12,6 @@ Streaming JSON-lines action language and compiler for macOS computer-use agents.
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:milind-soni/axstream
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-milind-soni-axstream/record.json
 
 ## License declarations

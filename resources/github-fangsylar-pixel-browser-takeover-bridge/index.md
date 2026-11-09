@@ -12,10 +12,6 @@ Local-first browser bridge for securely attaching AI agents to already-open auth
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:fangsylar-pixel/browser-takeover-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fangsylar-pixel-browser-takeover-bridge/record.json
 
 ## License declarations

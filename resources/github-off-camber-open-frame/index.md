@@ -12,10 +12,6 @@ Deterministic desktop automation engine for AI agents implementing a capture-rec
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:off-camber/open-frame
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-off-camber-open-frame/record.json
 
 ## License declarations

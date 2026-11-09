@@ -12,10 +12,6 @@ DeepSeek Harness plugin that records macOS desktop demonstrations via Open Recor
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:humblebanana/dsh-record-replay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-humblebanana-dsh-record-replay/record.json
 
 ## License declarations

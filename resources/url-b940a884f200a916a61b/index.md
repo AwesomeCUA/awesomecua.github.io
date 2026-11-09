@@ -12,10 +12,6 @@ Managed browser infrastructure associated with Steel Browser.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:b940a884f200a916a61b
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-b940a884f200a916a61b/record.json
 
 ## License declarations

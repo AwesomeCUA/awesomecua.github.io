@@ -12,10 +12,6 @@ WebMCP reference console for auditable, human-approved supply-chain actions exec
 - Evidence checked: 2026-11-04T18:11:38Z
 - ID: github:navi-ai-project/supply-recovery-console
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-navi-ai-project-supply-recovery-console/record.json
 
 ## License declarations

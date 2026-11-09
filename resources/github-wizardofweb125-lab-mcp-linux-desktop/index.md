@@ -12,10 +12,6 @@ Model Context Protocol server for full Linux desktop control spanning windows, m
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:wizardofweb125-lab/mcp-linux-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-linux-desktop/record.json
 
 ## License declarations

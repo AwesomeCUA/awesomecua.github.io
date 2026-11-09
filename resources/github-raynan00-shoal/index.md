@@ -12,10 +12,6 @@ Deploys a swarm of concurrent AI browser agents to stress-test websites and visu
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:raynan00/shoal
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raynan00-shoal/record.json
 
 ## License declarations

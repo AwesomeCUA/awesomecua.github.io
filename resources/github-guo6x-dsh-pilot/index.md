@@ -12,10 +12,6 @@ DeepSeek Harness plugin that drives a real Edge or Chrome browser over CDP using
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:guo6x/dsh-pilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-guo6x-dsh-pilot/record.json
 
 ## License declarations

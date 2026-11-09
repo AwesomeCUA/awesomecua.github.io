@@ -12,10 +12,6 @@ MarketBench is a reproducible WebMCP benchmark evaluating browser agents on mult
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:santos-sanz/marketbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-santos-sanz-marketbench/record.json
 
 ## License declarations

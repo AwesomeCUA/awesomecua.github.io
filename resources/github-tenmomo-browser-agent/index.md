@@ -12,10 +12,6 @@ Loopback-only local MCP browser broker and tab-scoped Chrome extension for codin
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:tenmomo/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tenmomo-browser-agent/record.json
 
 ## License declarations

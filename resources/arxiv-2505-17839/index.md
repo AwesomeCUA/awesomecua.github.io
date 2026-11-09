@@ -35,13 +35,13 @@ Tim Rosenbach, David Heidrich, Alexander Weinert
 - Publication source: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10962502
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2505-17839/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2505-17839/publication-citation.csl.json
-- venue: 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
-- publisher: IEEE
-- pages: 103-110
-- doi: 10.1109/icstw64639.2025.10962502
-- date basis: Crossref issued date 2025-3-31; precision=day.
-- identity basis: Same work as the retained arXiv record: matching title and authors, and the arXiv journal reference and DOI name this ICSTW 2025 edition.
-- notes: IEEE ICSTW 2025 workshop edition of the arXiv preprint, whose journal reference and DOI name this edition; Crossref links the DOI to IEEE Xplore document 10962502.
+- Venue: 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+- Publisher: IEEE
+- Pages: 103-110
+- DOI: 10.1109/icstw64639.2025.10962502
+- Date source: Crossref issued date 2025-3-31; precision=day.
+- Identity basis: Same work as the retained arXiv record: matching title and authors, and the arXiv journal reference and DOI name this ICSTW 2025 edition.
+- Source notes: IEEE ICSTW 2025 workshop edition of the arXiv preprint, whose journal reference and DOI name this edition; Crossref links the DOI to IEEE Xplore document 10962502.
 - Publication evidence: https://api.crossref.org/works/10.1109/icstw64639.2025.10962502
 
 ## Recorded arXiv snapshot

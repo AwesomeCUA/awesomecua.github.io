@@ -12,10 +12,6 @@ Zero-dependency in-browser web automation runtime with an embedded sandbox and M
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:loki4agent/loki-auto
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-loki4agent-loki-auto/record.json
 
 ## License declarations

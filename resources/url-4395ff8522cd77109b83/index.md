@@ -35,12 +35,12 @@ Bin Kang, Shaoguo Wen, Yifei Bi, Shunlong Wu, Xinbin Yuan, Rui Shao, Junle Wang,
 - Publication source: https://openreview.net/forum?id=BK7Mk5d4WE
 - Publication BibTeX: https://awesomecua.com/resources/url-4395ff8522cd77109b83/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-4395ff8522cd77109b83/publication-citation.csl.json
-- venue: International Conference on Learning Representations 2026 (ICLR 2026)
-- volume: 2026
-- pages: 59-82
-- date basis: Publisher citation_publication_date metadata on the ICLR proceedings page states 2026-04-20; precision=day.
-- identity basis: Same work: the ICLR 2026 proceedings page and PDF carry the same title, eight authors and abstract as OpenReview note BK7Mk5d4WE (venue ICLR 2026 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.
-- notes: The proceedings page metadata lists the third author as "BI, YIFEI"; the PDF byline prints "Yifei Bi", which is retained. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
+- Venue: International Conference on Learning Representations 2026 (ICLR 2026)
+- Volume: 2026
+- Pages: 59-82
+- Date source: Publisher citation_publication_date metadata on the ICLR proceedings page states 2026-04-20; precision=day.
+- Identity basis: Same work: the ICLR 2026 proceedings page and PDF carry the same title, eight authors and abstract as OpenReview note BK7Mk5d4WE (venue ICLR 2026 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.
+- Source notes: The proceedings page metadata lists the third author as "BI, YIFEI"; the PDF byline prints "Yifei Bi", which is retained. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2026/hash/002a6bef26174b590e4eab95b63feb1b-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2026/file/002a6bef26174b590e4eab95b63feb1b-Paper-Conference.pdf
 
 ## License declarations

@@ -12,10 +12,6 @@ Better AX for Computer Use prunes and formats macOS Accessibility trees and inje
 - Evidence checked: 2026-11-04T13:12:17Z
 - ID: github:hqhq1025/better-ax-for-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hqhq1025-better-ax-for-computer-use/record.json
 
 ## License declarations

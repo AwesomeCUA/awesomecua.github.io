@@ -20,10 +20,10 @@ Original repository URL redirects to showlab/GUI-Narrator.
 
 ## Structured profile
 
-- formats: not recorded
-- modalities: GUI video, action captions
-- splits: not recorded
-- supervision: GUI action captioning
+- Formats: not recorded
+- Modalities: GUI video, action captions
+- Splits: not recorded
+- Supervision: GUI action captioning
 
 ### Count observations
 

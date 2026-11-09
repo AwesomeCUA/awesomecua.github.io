@@ -12,10 +12,6 @@ WebMCP-enabled reading and publishing workspace designed for shared control betw
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:arterialist/webmcp-openai-hackathon
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arterialist-webmcp-openai-hackathon/record.json
 
 ## License declarations

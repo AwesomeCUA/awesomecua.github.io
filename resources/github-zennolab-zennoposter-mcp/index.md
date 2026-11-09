@@ -12,10 +12,6 @@ Official Model Context Protocol server connecting Claude and MCP agents to Zenno
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:zennolab/zennoposter-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zennolab-zennoposter-mcp/record.json
 
 ## License declarations

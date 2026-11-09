@@ -12,10 +12,6 @@ Windows UI Automation toolkit providing a CLI, MCP server, and VS Code extension
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:trsdn/mcp-server-uiautomation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-trsdn-mcp-server-uiautomation/record.json
 
 ## License declarations

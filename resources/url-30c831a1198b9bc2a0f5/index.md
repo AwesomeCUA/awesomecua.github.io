@@ -12,10 +12,6 @@ OS-Atlas base checkpoint with about 4.1B parameters, fine-tuned from InternVL2-4
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:30c831a1198b9bc2a0f5
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-30c831a1198b9bc2a0f5/record.json
 
 ## License declarations

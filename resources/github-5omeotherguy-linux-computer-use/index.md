@@ -12,10 +12,6 @@ Linux desktop toolkit for computer-use agents providing isolated X11 workspaces,
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:5omeotherguy/linux-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-5omeotherguy-linux-computer-use/record.json
 
 ## License declarations

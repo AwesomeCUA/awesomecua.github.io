@@ -12,10 +12,6 @@ Benchmarks dense versus global features across frozen vision backbones for pixel
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:dhruvraval04/do-frozen-vision-backbones-transfer-to-guis
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/record.json
 
 ## License declarations

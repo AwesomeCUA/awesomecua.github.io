@@ -20,11 +20,11 @@ The README and dataset card describe 2,454 tasks on 452 websites (category count
 
 ## Structured profile
 
-- actions: browser interactions on live websites
-- evaluation: The repository releases per-agent result files; the scoring procedure is described in the publisher's technical report rather than an executable evaluator in the repository.
-- focus: live-web task completion, write operations such as account creation, updates and deletions, file downloads
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: browser interactions on live websites
+- Evaluation: The repository releases per-agent result files; the scoring procedure is described in the publisher's technical report rather than an executable evaluator in the repository.
+- Focus: live-web task completion, write operations such as account creation, updates and deletions, file downloads
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

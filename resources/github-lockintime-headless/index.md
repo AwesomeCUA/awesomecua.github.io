@@ -12,10 +12,6 @@ Persistent, safety-enforced browser control runtime for AI agents with a semanti
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:lockintime/headless
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lockintime-headless/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ DeepSeek Harness plugin integrating the AntiBrow anti-detect browser for stealth
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:antibrow/dsh-antibrow
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-antibrow-dsh-antibrow/record.json
 
 ## License declarations

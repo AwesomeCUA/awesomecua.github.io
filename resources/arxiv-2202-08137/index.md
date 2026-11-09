@@ -35,15 +35,15 @@ Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhapari
 - Publication source: https://proceedings.mlr.press/v162/humphreys22a.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2202-08137/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2202-08137/publication-citation.csl.json
-- venue: Proceedings of the 39th International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 162
-- pages: 9466-9482
-- date basis: Explicit publisher metadata: 2022/06/28; precision=day.
-- event dates: 17--23 Jul 2022
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 39th International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 162
+- Pages: 9466-9482
+- Date source: Explicit publisher metadata: 2022/06/28; precision=day.
+- Event dates: 17--23 Jul 2022
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v162/humphreys22a.html, https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf
 
 ## Recorded arXiv snapshot

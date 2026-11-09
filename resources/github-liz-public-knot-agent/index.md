@@ -12,10 +12,6 @@ Journal-first decentralized agent harness where independent browser and desktop 
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:liz-public/knot-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-liz-public-knot-agent/record.json
 
 ## License declarations

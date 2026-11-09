@@ -12,10 +12,6 @@ CAPTCHA Gym is a self-hosted evaluation platform for browser agents featuring co
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:mildchef/muse-captcha-gym
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mildchef-muse-captcha-gym/record.json
 
 ## License declarations

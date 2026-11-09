@@ -12,10 +12,6 @@ Open-source Model Context Protocol server connecting Codex, Claude, and Cursor t
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:luorui-123/agent-chrome-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-luorui-123-agent-chrome-mcp/record.json
 
 ## License declarations

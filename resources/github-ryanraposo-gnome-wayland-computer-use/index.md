@@ -12,10 +12,6 @@ Computer-use bridge for driving Linux GNOME Wayland desktop sessions.
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:ryanraposo/gnome-wayland-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ryanraposo-gnome-wayland-computer-use/record.json
 
 ## License declarations

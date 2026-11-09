@@ -12,10 +12,6 @@ Benchmark of semantic world modeling for mobile agents, with question-answering 
 - Evidence checked: 2026-10-16T06:40:51Z
 - ID: github:jacklishufan/mobileworld
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jacklishufan-mobileworld/record.json
 
 ## License declarations

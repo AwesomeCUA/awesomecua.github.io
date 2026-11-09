@@ -12,10 +12,6 @@ AndroidHowTo provides scripts and annotations for building instructional mobile 
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:debymf/generating_android_howto
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-debymf-generating-android-howto/record.json
 
 ## License declarations

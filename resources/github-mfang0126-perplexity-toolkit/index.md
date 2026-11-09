@@ -12,10 +12,6 @@ Browser-control toolkit and CLI for automating Perplexity AI deep searches and s
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:mfang0126/perplexity-toolkit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mfang0126-perplexity-toolkit/record.json
 
 ## License declarations

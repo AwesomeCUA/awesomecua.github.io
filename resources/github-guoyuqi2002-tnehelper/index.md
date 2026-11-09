@@ -12,10 +12,6 @@ Desktop and browser automation agent that reconciles invoice documents against W
 - Evidence checked: 2026-11-04T18:11:52Z
 - ID: github:guoyuqi2002/tnehelper
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-guoyuqi2002-tnehelper/record.json
 
 ## License declarations

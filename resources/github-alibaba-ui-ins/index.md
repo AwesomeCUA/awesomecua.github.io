@@ -12,10 +12,6 @@ Treats grounding instructions as multiple reasoning perspectives, releasing a da
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:alibaba/ui-ins
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alibaba-ui-ins/record.json
 
 ## License declarations

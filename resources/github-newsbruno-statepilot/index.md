@@ -12,10 +12,6 @@ StatePilot is a predictable browser runtime for AI agents with state validation,
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:newsbruno/statepilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-newsbruno-statepilot/record.json
 
 ## License declarations

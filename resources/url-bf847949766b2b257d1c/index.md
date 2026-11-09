@@ -20,10 +20,10 @@ Sources named by the card: ShowUI (web and desktop), AutoGUI, PC-Agent-E, WaveUI
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: screenshots, instructions, bounding boxes
-- splits: train
-- supervision: element instructions with target bounding boxes
+- Formats: Parquet
+- Modalities: screenshots, instructions, bounding boxes
+- Splits: train
+- Supervision: element instructions with target bounding boxes
 
 ### Count observations
 

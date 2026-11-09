@@ -12,10 +12,6 @@ Ghosthand is a low-latency local voice and computer-use agent for Apple Silicon 
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:ameerhmz/ghosthand
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ameerhmz-ghosthand/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ DeskMind is a local-first macOS computer-use agent that combines accessibility i
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:deskmind-ai/deskmind
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-deskmind-ai-deskmind/record.json
 
 ## License declarations

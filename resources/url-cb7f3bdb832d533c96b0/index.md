@@ -20,11 +20,11 @@ Adjacent scope: agents resolve issues by producing code patches, and every insta
 
 ## Structured profile
 
-- actions: code patch submission
-- evaluation: Submitted patches are applied in per-instance Docker images and judged by the repository's FAIL_TO_PASS and PASS_TO_PASS unit tests through the SWE-bench harness; the reported metric is the percentage of instances resolved.
-- focus: issue resolution in visual JavaScript/TypeScript software, interpreting screenshots and renderings in issue reports
-- observations: repository checkout, issue text, issue and patch images
-- setting: offline
+- Actions / outputs: code patch submission
+- Evaluation: Submitted patches are applied in per-instance Docker images and judged by the repository's FAIL_TO_PASS and PASS_TO_PASS unit tests through the SWE-bench harness; the reported metric is the percentage of instances resolved.
+- Focus: issue resolution in visual JavaScript/TypeScript software, interpreting screenshots and renderings in issue reports
+- Observations: repository checkout, issue text, issue and patch images
+- Setting: offline
 
 ### Count observations
 

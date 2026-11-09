@@ -12,10 +12,6 @@ Official TypeScript Model Context Protocol server wrapping the Undetectable Brow
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:undetectable-io/undetectable-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-undetectable-io-undetectable-browser-mcp/record.json
 
 ## License declarations

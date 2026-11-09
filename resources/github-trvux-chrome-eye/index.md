@@ -12,10 +12,6 @@ Model Context Protocol server exposing 56 structured-JSON Chrome CDP tools to Cl
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:trvux/chrome-eye
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-trvux-chrome-eye/record.json
 
 ## License declarations

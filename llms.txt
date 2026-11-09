@@ -53,6 +53,52 @@ Reviewed papers and surveys, newest publication first, 60 per page with full ann
 - [Page 28](https://awesomecua.com/papers/page/28/index.md): published 2023-11-03 to 2021-12-17
 - [Page 29](https://awesomecua.com/papers/page/29/index.md): published 2021-12-10 to 1991
 
+## 中文页面
+
+- [中文主页](https://awesomecua.com/zh/index.md)：4,587 条已审核记录
+- [资源目录](https://awesomecua.com/zh/catalog/index.md)：4,587 条已审核记录
+- [数据中心](https://awesomecua.com/zh/data/index.md)
+- [模型](https://awesomecua.com/zh/categories/model/index.md)：283 条已审核记录
+- [数据集](https://awesomecua.com/zh/categories/dataset/index.md)：195 条已审核记录
+- [评测基准](https://awesomecua.com/zh/categories/benchmark/index.md)：264 条已审核记录
+- [智能体](https://awesomecua.com/zh/categories/agent/index.md)：413 条已审核记录
+- [框架](https://awesomecua.com/zh/categories/framework/index.md)：625 条已审核记录
+- [基础设施](https://awesomecua.com/zh/categories/infrastructure/index.md)：90 条已审核记录
+- [工具](https://awesomecua.com/zh/categories/tool/index.md)：884 条已审核记录
+- [产品](https://awesomecua.com/zh/categories/product/index.md)：70 条已审核记录
+- [发布方](https://awesomecua.com/zh/categories/company/index.md)：19 条已审核记录
+- [学习资源](https://awesomecua.com/zh/categories/learning/index.md)：26 条已审核记录
+- [综述](https://awesomecua.com/zh/categories/survey/index.md)：37 条已审核记录
+- [论文库第 1 页](https://awesomecua.com/zh/papers/index.md)：2026-11-04 至 2026-10-22
+- [论文库第 2 页](https://awesomecua.com/zh/papers/page/2/index.md)：2026-10-22 至 2026-10-13
+- [论文库第 3 页](https://awesomecua.com/zh/papers/page/3/index.md)：2026-10-12 至 2026-09-30
+- [论文库第 4 页](https://awesomecua.com/zh/papers/page/4/index.md)：2026-09-30 至 2026-09-15
+- [论文库第 5 页](https://awesomecua.com/zh/papers/page/5/index.md)：2026-09-15 至 2026-08-23
+- [论文库第 6 页](https://awesomecua.com/zh/papers/page/6/index.md)：2026-08-23 至 2026-07-31
+- [论文库第 7 页](https://awesomecua.com/zh/papers/page/7/index.md)：2026-07-30 至 2026-06-29
+- [论文库第 8 页](https://awesomecua.com/zh/papers/page/8/index.md)：2026-06-29 至 2026-06-08
+- [论文库第 9 页](https://awesomecua.com/zh/papers/page/9/index.md)：2026-06-08 至 2026-05-22
+- [论文库第 10 页](https://awesomecua.com/zh/papers/page/10/index.md)：2026-05-21 至 2026-05-01
+- [论文库第 11 页](https://awesomecua.com/zh/papers/page/11/index.md)：2026-05-01 至 2026-04-10
+- [论文库第 12 页](https://awesomecua.com/zh/papers/page/12/index.md)：2026-04-09 至 2026-03-18
+- [论文库第 13 页](https://awesomecua.com/zh/papers/page/13/index.md)：2026-03-18 至 2026-02-14
+- [论文库第 14 页](https://awesomecua.com/zh/papers/page/14/index.md)：2026-02-14 至 2026-01-28
+- [论文库第 15 页](https://awesomecua.com/zh/papers/page/15/index.md)：2026-01-28 至 2025-12-12
+- [论文库第 16 页](https://awesomecua.com/zh/papers/page/16/index.md)：2025-12-11 至 2025-10-26
+- [论文库第 17 页](https://awesomecua.com/zh/papers/page/17/index.md)：2025-10-25 至 2025-10-01
+- [论文库第 18 页](https://awesomecua.com/zh/papers/page/18/index.md)：2025-10-01 至 2025-09-01
+- [论文库第 19 页](https://awesomecua.com/zh/papers/page/19/index.md)：2025-09-01 至 2025-07-21
+- [论文库第 20 页](https://awesomecua.com/zh/papers/page/20/index.md)：2025-07-20 至 2025-06-03
+- [论文库第 21 页](https://awesomecua.com/zh/papers/page/21/index.md)：2025-06-03 至 2025-05-11
+- [论文库第 22 页](https://awesomecua.com/zh/papers/page/22/index.md)：2025-05-09 至 2025-03-20
+- [论文库第 23 页](https://awesomecua.com/zh/papers/page/23/index.md)：2025-03-20 至 2025-01-23
+- [论文库第 24 页](https://awesomecua.com/zh/papers/page/24/index.md)：2025-01-23 至 2024-10-24
+- [论文库第 25 页](https://awesomecua.com/zh/papers/page/25/index.md)：2024-10-24 至 2024-07-22
+- [论文库第 26 页](https://awesomecua.com/zh/papers/page/26/index.md)：2024-07-17 至 2024-04-12
+- [论文库第 27 页](https://awesomecua.com/zh/papers/page/27/index.md)：2024-04-12 至 2023-11-13
+- [论文库第 28 页](https://awesomecua.com/zh/papers/page/28/index.md)：2023-11-03 至 2021-12-17
+- [论文库第 29 页](https://awesomecua.com/zh/papers/page/29/index.md)：2021-12-10 至 1991
+
 ## Topics
 
 Reviewed topic membership; resources can belong to several topics, so counts overlap. Chinese topic pages: https://awesomecua.com/zh/topics/
@@ -112,6 +158,7 @@ Versioned JSON and CSV under https://awesomecua.com/api/v1/; every file carries 
 git clone https://github.com/reacher-z/Awesome-CUA.git
 ```
 
+- [Data downloads](https://awesomecua.com/data/index.md)
 - [Agent instructions](https://awesomecua.com/AGENTS.md)
 - [Human and agent guide](https://awesomecua.com/agents/)
 - [中文指南](https://awesomecua.com/zh/agents/)

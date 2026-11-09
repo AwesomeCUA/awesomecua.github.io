@@ -12,10 +12,6 @@ GroundingPI is a 4B visual grounding foundation model that unifies bounding-box 
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:groundingpi/groundingpi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-groundingpi-groundingpi/record.json
 
 ## License declarations

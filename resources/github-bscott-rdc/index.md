@@ -12,10 +12,6 @@ Remote desktop control CLI and bridge allowing a coding agent to capture screens
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:bscott/rdc
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bscott-rdc/record.json
 
 ## License declarations

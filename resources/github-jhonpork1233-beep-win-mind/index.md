@@ -12,10 +12,6 @@ WinMind is a Windows MCP server that lets AI agents inspect and drive desktop ap
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:jhonpork1233-beep/win-mind
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jhonpork1233-beep-win-mind/record.json
 
 ## License declarations

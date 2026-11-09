@@ -12,10 +12,6 @@ Agent skill enabling Claude Code and coding agents to drive the `cmux` terminal 
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:george4data/cmux-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-george4data-cmux-skill/record.json
 
 ## License declarations

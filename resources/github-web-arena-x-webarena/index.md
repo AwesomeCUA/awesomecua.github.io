@@ -12,19 +12,15 @@ Self-hosted web environments and tasks for evaluating autonomous web agents.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:web-arena-x/webarena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-web-arena-x-webarena/record.json
 
 ## Structured profile
 
-- actions: browser element actions
-- evaluation: Functional correctness of completed web tasks.
-- focus: web task completion
-- observations: HTML or accessibility tree
-- setting: interactive
+- Actions / outputs: browser element actions
+- Evaluation: Functional correctness of completed web tasks.
+- Focus: web task completion
+- Observations: HTML or accessibility tree
+- Setting: interactive
 
 ### Count observations
 

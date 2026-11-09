@@ -12,10 +12,6 @@ WebMCP reference application where a browser agent prepares non-binding proposal
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:mikko-lab/kopilotti-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mikko-lab-kopilotti-webmcp/record.json
 
 ## License declarations

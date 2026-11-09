@@ -12,10 +12,6 @@ Ghost in the Droid is an Android GUI agent that combines accessibility trees, sc
 - Evidence checked: 2026-11-04T13:12:15Z
 - ID: github:ghost-in-the-droid/android-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ghost-in-the-droid-android-agent/record.json
 
 ## License declarations

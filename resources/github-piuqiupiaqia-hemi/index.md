@@ -12,10 +12,6 @@ Desktop AI assistant for macOS and Windows featuring voice interaction, screen a
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:piuqiupiaqia/hemi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-piuqiupiaqia-hemi/record.json
 
 ## License declarations

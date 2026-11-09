@@ -12,10 +12,6 @@ Playwright-powered Model Context Protocol server for driving CloakBrowser anti-d
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:swimmwatch/cloakbrowser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-swimmwatch-cloakbrowser-mcp/record.json
 
 ## License declarations

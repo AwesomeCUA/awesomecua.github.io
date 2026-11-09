@@ -12,10 +12,6 @@ Lexbench-Headless-Browser benchmarks 13 headless browser automation runtimes acr
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:lexmount/lexbench-headless-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lexmount-lexbench-headless-browser/record.json
 
 ## License declarations

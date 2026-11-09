@@ -20,11 +20,11 @@ The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for
 
 ## Structured profile
 
-- actions: click, hover, fill, goto, scroll, new_tab, tab_close, tab_focus, send_msg_to_user
-- evaluation: Each task replays one recorded turn and ends after one step. The extension's get_reward compares the predicted action with the reference turn: IoU for click and hover, chrF times IoU for text input, URL F-score for page loads, chrF for messages, a distance score for scrolls, intent match for opening or closing tabs and exact target match for tab switches; unsupported intents score 0.
-- focus: conversational web navigation, next-action prediction from recorded demonstration states
-- observations: screenshot, DOM snapshot, accessibility tree, extra element properties, open tab URLs and titles, chat history and goal
-- setting: offline
+- Actions / outputs: click, hover, fill, goto, scroll, new_tab, tab_close, tab_focus, send_msg_to_user
+- Evaluation: Each task replays one recorded turn and ends after one step. The extension's get_reward compares the predicted action with the reference turn: IoU for click and hover, chrF times IoU for text input, URL F-score for page loads, chrF for messages, a distance score for scrolls, intent match for opening or closing tabs and exact target match for tab switches; unsupported intents score 0.
+- Focus: conversational web navigation, next-action prediction from recorded demonstration states
+- Observations: screenshot, DOM snapshot, accessibility tree, extra element properties, open tab URLs and titles, chat history and goal
+- Setting: offline
 
 ### Count observations
 

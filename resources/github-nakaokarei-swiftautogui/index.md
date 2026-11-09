@@ -12,10 +12,6 @@ SwiftAutoGUI is a native Swift library for macOS GUI automation providing mouse,
 - Evidence checked: 2026-11-04T14:02:37Z
 - ID: github:nakaokarei/swiftautogui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nakaokarei-swiftautogui/record.json
 
 ## License declarations

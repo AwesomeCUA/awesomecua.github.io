@@ -12,10 +12,6 @@ Floating in-page LLM browser assistant for DeepSeek Harness enabling non-technic
 - Evidence checked: 2026-11-04T17:30:38Z
 - ID: github:flymysql/dsh-browser-client
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-flymysql-dsh-browser-client/record.json
 
 ## License declarations

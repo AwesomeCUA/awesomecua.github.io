@@ -12,10 +12,6 @@ Event-driven macOS Accessibility tree streaming server and action bridge for com
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:amaar-mc/axtree-api
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amaar-mc-axtree-api/record.json
 
 ## License declarations

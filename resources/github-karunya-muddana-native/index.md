@@ -12,10 +12,6 @@ Local-first open-source AI agent harness for developers integrating terminal, fi
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:karunya-muddana/native
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-karunya-muddana-native/record.json
 
 ## License declarations

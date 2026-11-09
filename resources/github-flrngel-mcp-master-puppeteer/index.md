@@ -12,10 +12,6 @@ MCP Master Puppeteer is a Puppeteer Model Context Protocol server optimized for 
 - Evidence checked: 2026-11-04T15:03:34Z
 - ID: github:flrngel/mcp-master-puppeteer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-flrngel-mcp-master-puppeteer/record.json
 
 ## License declarations

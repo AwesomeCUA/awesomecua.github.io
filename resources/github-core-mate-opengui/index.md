@@ -12,10 +12,6 @@ OpenGUI is an Android GUI agent framework that combines screen perception, acces
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:core-mate/opengui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-core-mate-opengui/record.json
 
 ## License declarations

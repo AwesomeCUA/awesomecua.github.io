@@ -12,10 +12,6 @@ Local test suite of prompt-injection and instruction-authority boundary scenario
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:larrypeseckis/agentic-browser-boundary-tests
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-larrypeseckis-agentic-browser-boundary-tests/record.json
 
 ## License declarations

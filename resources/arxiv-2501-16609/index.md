@@ -35,13 +35,13 @@ Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, Shuyan Zhou, Jeffrey P. Bi
 - Publication source: https://aclanthology.org/2025.naacl-demo.17/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2501-16609/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2501-16609/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)
-- publisher: Association for Computational Linguistics
-- pages: 163-172
-- doi: 10.18653/v1/2025.naacl-demo.17
-- date basis: The ACL Anthology citation_publication_date is 2025/4, and its visible Month/Year fields state April 2025. Only month precision is supplied; no day is inferred from conference dates.
-- identity basis: The retained arXiv v4 abstract page explicitly links this DOI. The ACL publication has the same complete title and the same seven authors in the same order, and describes the same CowPilot human-agent navigation framework. This attaches the proceedings edition to the existing arXiv identity.
-- notes: The April 2025 proceedings edition is distinct from the retained arXiv v4, last revised on 2026-02-27. The publisher abstract has minor wording and typesetting differences from the retained arXiv abstract; neither its text nor its date replaces the original arXiv snapshot or annotation. Exact publication day, numeric volume, issue and series are not established.
+- Venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)
+- Publisher: Association for Computational Linguistics
+- Pages: 163-172
+- DOI: 10.18653/v1/2025.naacl-demo.17
+- Date source: The ACL Anthology citation_publication_date is 2025/4, and its visible Month/Year fields state April 2025. Only month precision is supplied; no day is inferred from conference dates.
+- Identity basis: The retained arXiv v4 abstract page explicitly links this DOI. The ACL publication has the same complete title and the same seven authors in the same order, and describes the same CowPilot human-agent navigation framework. This attaches the proceedings edition to the existing arXiv identity.
+- Source notes: The April 2025 proceedings edition is distinct from the retained arXiv v4, last revised on 2026-02-27. The publisher abstract has minor wording and typesetting differences from the retained arXiv abstract; neither its text nor its date replaces the original arXiv snapshot or annotation. Exact publication day, numeric volume, issue and series are not established.
 - Publication evidence: https://arxiv.org/abs/2501.16609v4, https://aclanthology.org/2025.naacl-demo.17/
 
 ## Recorded arXiv snapshot

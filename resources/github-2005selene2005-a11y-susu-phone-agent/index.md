@@ -12,10 +12,6 @@ Android device bridge for Claude Code over MCP and Shizuku enabling rootless pho
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:2005selene2005-a11y/susu-phone-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-2005selene2005-a11y-susu-phone-agent/record.json
 
 ## License declarations

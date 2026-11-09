@@ -35,13 +35,13 @@ Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei,
 - Publication source: https://aclanthology.org/2024.findings-emnlp.702/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2403-02713/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2403-02713/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: EMNLP 2024
-- publisher: Association for Computational Linguistics
-- pages: 12016-12031
-- doi: 10.18653/v1/2024.findings-emnlp.702
-- date basis: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Findings of the Association for Computational Linguistics: EMNLP 2024
+- Publisher: Association for Computational Linguistics
+- Pages: 12016-12031
+- DOI: 10.18653/v1/2024.findings-emnlp.702
+- Date source: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2024.findings-emnlp.702/
 
 ## Recorded arXiv snapshot

@@ -12,10 +12,6 @@ Open-source cloud and local sandbox platform for running Claude Code, Codex, or 
 - Evidence checked: 2026-11-04T17:55:14Z
 - ID: github:useagenthq/useagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-useagenthq-useagent/record.json
 
 ## License declarations

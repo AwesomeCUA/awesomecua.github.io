@@ -12,10 +12,6 @@ ModCDP is Browserbase's framework for extending the Chrome DevTools Protocol wit
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:browserbase/modcdp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browserbase-modcdp/record.json
 
 ## License declarations

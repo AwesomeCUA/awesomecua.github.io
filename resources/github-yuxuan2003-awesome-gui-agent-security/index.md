@@ -12,10 +12,6 @@ Bilingual curated reading list of GUI, computer-use, and browser agent security 
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:yuxuan2003/awesome-gui-agent-security
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/record.json
 
 ## License declarations

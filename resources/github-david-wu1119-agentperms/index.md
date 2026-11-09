@@ -12,10 +12,6 @@ Declarative `agent.permissions.yaml` schema, validator, and policy evaluator for
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:david-wu1119/agentperms
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-david-wu1119-agentperms/record.json
 
 ## License declarations

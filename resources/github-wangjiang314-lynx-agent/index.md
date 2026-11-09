@@ -12,10 +12,6 @@ Lynx Agent is a completion-first Android phone-use agent with evidence-based sta
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:wangjiang314/lynx-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wangjiang314-lynx-agent/record.json
 
 ## License declarations

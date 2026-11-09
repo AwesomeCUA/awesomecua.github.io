@@ -12,10 +12,6 @@ Resumable, screen-only computer-use evaluation arena testing whether Codex agent
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:gih10012/astra-game-arena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gih10012-astra-game-arena/record.json
 
 ## License declarations

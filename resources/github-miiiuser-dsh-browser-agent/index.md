@@ -12,10 +12,6 @@ Playwright browser automation and vision grounding toolkit for text-only LLMs on
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:miiiuser/dsh-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-miiiuser-dsh-browser-agent/record.json
 
 ## License declarations

@@ -35,11 +35,11 @@ Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai,
 - Publication source: https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2411-17465/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2411-17465/publication-citation.csl.json
-- venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
-- pages: 19498-19508
-- date basis: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+- Pages: 19498-19508
+- Date source: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html
 
 ## Recorded arXiv snapshot

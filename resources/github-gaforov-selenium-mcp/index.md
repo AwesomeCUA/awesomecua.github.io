@@ -12,10 +12,6 @@ Selenium Model Context Protocol server exposing 41 browser automation tools incl
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:gaforov/selenium-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gaforov-selenium-mcp/record.json
 
 ## License declarations

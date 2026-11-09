@@ -12,10 +12,6 @@ Safety-checking environment and benchmark for mobile agents on AndroidWorld that
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: github:os-copilot/os-sentinel
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-sentinel/record.json
 
 ## License declarations

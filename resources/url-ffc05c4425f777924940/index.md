@@ -35,13 +35,13 @@ Daniel Zimmermann, Anne Koziolek
 - Publication source: https://ieeexplore.ieee.org/abstract/document/10298721
 - Publication BibTeX: https://awesomecua.com/resources/url-ffc05c4425f777924940/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-ffc05c4425f777924940/publication-citation.csl.json
-- venue: 2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)
-- publisher: IEEE
-- pages: 171-174
-- doi: 10.1109/asew60602.2023.00028
-- date basis: Crossref issued date 2023-9-11; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: IEEE/ACM ASE 2023 workshop paper; Crossref links the DOI to IEEE Xplore document 10298721, and the abstract was read from OpenAlex.
+- Venue: 2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)
+- Publisher: IEEE
+- Pages: 171-174
+- DOI: 10.1109/asew60602.2023.00028
+- Date source: Crossref issued date 2023-9-11; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: IEEE/ACM ASE 2023 workshop paper; Crossref links the DOI to IEEE Xplore document 10298721, and the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1109/asew60602.2023.00028, https://api.openalex.org/works/doi:10.1109/asew60602.2023.00028
 
 ## License declarations

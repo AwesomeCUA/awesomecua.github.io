@@ -12,10 +12,6 @@ UGround-V1 checkpoint fine-tuned from Qwen2-VL-7B, with about 8.3B BF16 paramete
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:e554295a7f3f5c9ad0d6
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-e554295a7f3f5c9ad0d6/record.json
 
 ## License declarations

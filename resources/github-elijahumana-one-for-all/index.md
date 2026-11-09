@@ -12,10 +12,6 @@ Unified macOS control plane for AI agents spanning browser automation, native de
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:elijahumana/one-for-all
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-elijahumana-one-for-all/record.json
 
 ## License declarations

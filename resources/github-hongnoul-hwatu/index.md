@@ -12,10 +12,6 @@ Headless verification browser for AI coding agents featuring 35ms one-call UI ch
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:hongnoul/hwatu
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hongnoul-hwatu/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Human-authorized safety and consent pattern for WebMCP browser agents operating 
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:cyberseeds-uk/cyber-seeds-webmcp-challenge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/record.json
 
 ## License declarations

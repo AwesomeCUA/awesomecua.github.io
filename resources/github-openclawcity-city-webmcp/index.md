@@ -12,10 +12,6 @@ Exposes 33 browser-native WebMCP tools for autonomous agents operating inside th
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:openclawcity/city-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openclawcity-city-webmcp/record.json
 
 ## License declarations

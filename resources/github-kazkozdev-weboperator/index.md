@@ -12,10 +12,6 @@ WebOperator is an AI browser agent and MCP server that automates a user's existi
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:kazkozdev/weboperator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kazkozdev-weboperator/record.json
 
 ## License declarations

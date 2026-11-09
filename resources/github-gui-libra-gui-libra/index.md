@@ -12,10 +12,6 @@ GUI-Libra provides training and evaluation pipelines for native GUI agents using
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:gui-libra/gui-libra
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gui-libra-gui-libra/record.json
 
 ## License declarations

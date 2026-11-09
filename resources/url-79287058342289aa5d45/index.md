@@ -20,10 +20,10 @@ The row count and unique-screen count are different units. The data card documen
 
 ## Structured profile
 
-- formats: not recorded
-- modalities: screenshots, instructions, functionality labels, bounding boxes
-- splits: train
-- supervision: element grounding, functionality captioning
+- Formats: not recorded
+- Modalities: screenshots, instructions, functionality labels, bounding boxes
+- Splits: train
+- Supervision: element grounding, functionality captioning
 
 ### Count observations
 

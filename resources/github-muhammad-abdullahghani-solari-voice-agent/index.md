@@ -12,10 +12,6 @@ Voice-directed autonomous computer-use agent built on Solari Desktop and LangGra
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:muhammad-abdullahghani/solari-voice-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-muhammad-abdullahghani-solari-voice-agent/record.json
 
 ## License declarations

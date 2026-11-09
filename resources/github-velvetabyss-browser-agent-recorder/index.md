@@ -12,10 +12,6 @@ Records human browser workflows and exports them as both human-readable SOP docu
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:velvetabyss/browser-agent-recorder
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-velvetabyss-browser-agent-recorder/record.json
 
 ## License declarations

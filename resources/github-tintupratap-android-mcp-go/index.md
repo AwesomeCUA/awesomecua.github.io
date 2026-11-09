@@ -12,10 +12,6 @@ Self-contained Go Model Context Protocol server for Android automation with mana
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:tintupratap/android-mcp-go
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tintupratap-android-mcp-go/record.json
 
 ## License declarations

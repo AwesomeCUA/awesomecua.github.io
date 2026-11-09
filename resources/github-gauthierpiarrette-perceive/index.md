@@ -12,10 +12,6 @@ perceive is a reachability-filtered perception layer for browser agents that pru
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:gauthierpiarrette/perceive
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gauthierpiarrette-perceive/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Visible, agent-driven Electron WebContents browser plugin for DeepSeek Harness.
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:particlelight/dsh-browser-plus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-particlelight-dsh-browser-plus/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Semantic browser automation MCP server providing 27 tools with label-based eleme
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:tylergibbs1/helm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tylergibbs1-helm/record.json
 
 ## License declarations

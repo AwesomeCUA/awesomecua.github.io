@@ -12,10 +12,6 @@ AI-powered browser automation platform combining a REST API, live web dashboard,
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:smouj/agent-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-smouj-agent-browser/record.json
 
 ## License declarations

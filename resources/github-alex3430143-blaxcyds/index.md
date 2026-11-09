@@ -12,10 +12,6 @@ BLAXCY is a policy-gated, self-verifying Linux desktop computer-use agent with a
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:alex3430143/blaxcyds
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alex3430143-blaxcyds/record.json
 
 ## License declarations

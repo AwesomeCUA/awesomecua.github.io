@@ -12,10 +12,6 @@ Autonomous macOS desktop assistant with voice interaction, screen vision, and na
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:shubhransh-gupta/lko-mark-3.4
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shubhransh-gupta-lko-mark-3-4/record.json
 
 ## License declarations

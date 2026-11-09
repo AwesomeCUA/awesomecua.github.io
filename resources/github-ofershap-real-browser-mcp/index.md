@@ -12,10 +12,6 @@ MCP server and Chrome extension giving coding agents control over an already-ope
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:ofershap/real-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ofershap-real-browser-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Model Context Protocol services and APIs for AI agents covering document OCR and
 - Evidence checked: 2026-11-04T18:11:34Z
 - ID: github:auscahq/ausca
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-auscahq-ausca/record.json
 
 ## License declarations

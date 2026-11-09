@@ -12,10 +12,6 @@ Coding-agent plugin and toolkit for auditing, implementing, and verifying WebMCP
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:ora/webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ora-webmcp/record.json
 
 ## License declarations

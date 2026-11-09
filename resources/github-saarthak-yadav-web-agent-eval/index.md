@@ -12,10 +12,6 @@ Evaluates web agents on 102 replica websites from the REAL benchmark under expli
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:saarthak-yadav/web-agent-eval
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/record.json
 
 ## License declarations

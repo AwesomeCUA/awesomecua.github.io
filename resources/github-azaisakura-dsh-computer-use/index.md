@@ -12,10 +12,6 @@ Re-implementation of the OpenAI macOS Computer Use plugin tailored for DeepSeek 
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:azaisakura/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-azaisakura-dsh-computer-use/record.json
 
 ## License declarations

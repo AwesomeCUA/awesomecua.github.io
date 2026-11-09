@@ -12,10 +12,6 @@ WebBridge pairs a Chrome extension and local daemon to let coding agents control
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:kxdds/webbridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kxdds-webbridge/record.json
 
 ## License declarations

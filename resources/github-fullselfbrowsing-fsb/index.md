@@ -12,10 +12,6 @@ Full Self Browsing (FSB) is a DOM-first browser automation runtime for Chrome an
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:fullselfbrowsing/fsb
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fullselfbrowsing-fsb/record.json
 
 ## License declarations

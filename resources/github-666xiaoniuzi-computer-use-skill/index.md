@@ -12,10 +12,6 @@ Cross-agent skill for low-latency, verified desktop, browser, and window control
 - Evidence checked: 2026-11-04T16:51:45Z
 - ID: github:666xiaoniuzi/computer-use-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-666xiaoniuzi-computer-use-skill/record.json
 
 ## License declarations

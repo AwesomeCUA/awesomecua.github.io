@@ -12,10 +12,6 @@ Single-binary Rust Model Context Protocol server for LLM-driven browser automati
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:prokopis3/webrain
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-prokopis3-webrain/record.json
 
 ## License declarations

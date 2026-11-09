@@ -12,10 +12,6 @@ Desktop environments that AI agents control programmatically, run locally with D
 - Evidence checked: 2026-10-16T06:40:53Z
 - ID: github:agentsea/agentdesk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentsea-agentdesk/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Model-guided UI workflow discovery framework with signed human review and determ
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:bgivenb/computer-use-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bgivenb-computer-use-automation/record.json
 
 ## License declarations

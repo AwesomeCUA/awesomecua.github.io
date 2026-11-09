@@ -12,10 +12,6 @@ HTLM is a compact 350M browser-agent model fine-tuned on Mind2Web for fast on-de
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:espetro/htlm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-espetro-htlm/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Local desktop automation plugin for MCP-capable agents on macOS, Linux, and Wind
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:michael-berardi/ultraterm-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-michael-berardi-ultraterm-computer-use/record.json
 
 ## License declarations

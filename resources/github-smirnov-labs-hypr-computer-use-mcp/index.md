@@ -12,10 +12,6 @@ Hyprland/Wayland computer-use MCP server combining screenshot/click/type tools w
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:smirnov-labs/hypr-computer-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-smirnov-labs-hypr-computer-use-mcp/record.json
 
 ## License declarations

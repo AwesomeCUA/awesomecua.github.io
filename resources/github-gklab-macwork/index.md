@@ -12,10 +12,6 @@ MacWork is an open-source macOS computer-use agent and MCP server that drives de
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:gklab/macwork
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gklab-macwork/record.json
 
 ## License declarations

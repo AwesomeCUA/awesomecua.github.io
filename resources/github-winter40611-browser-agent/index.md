@@ -12,10 +12,6 @@ Spring Boot, LangChain4j, and MCP agent backend enabling remote PC and browser a
 - Evidence checked: 2026-11-04T17:20:52Z
 - ID: github:winter40611/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-winter40611-browser-agent/record.json
 
 ## License declarations

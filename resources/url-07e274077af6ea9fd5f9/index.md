@@ -35,13 +35,13 @@ Boyuan Zheng, Boyu Gou, Scott Salisbury, Zheng Du, Huan Sun, Yu Su
 - Publication source: https://aclanthology.org/2024.emnlp-demo.20/
 - Publication BibTeX: https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/publication-citation.csl.json
-- venue: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
-- publisher: Association for Computational Linguistics
-- pages: 187-197
-- doi: 10.18653/v1/2024.emnlp-demo.20
-- date basis: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
-- notes: Publisher proceedings edition (EMNLP 2024 System Demonstrations).
+- Venue: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
+- Publisher: Association for Computational Linguistics
+- Pages: 187-197
+- DOI: 10.18653/v1/2024.emnlp-demo.20
+- Date source: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
+- Source notes: Publisher proceedings edition (EMNLP 2024 System Demonstrations).
 - Publication evidence: https://aclanthology.org/2024.emnlp-demo.20/
 
 ## License declarations

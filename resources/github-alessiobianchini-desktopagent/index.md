@@ -12,10 +12,6 @@ Safety-first local desktop automation agent built on .NET 9 with cross-platform 
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:alessiobianchini/desktopagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alessiobianchini-desktopagent/record.json
 
 ## License declarations

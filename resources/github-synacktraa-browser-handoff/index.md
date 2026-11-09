@@ -12,10 +12,6 @@ Human-in-the-loop handoff utility for browser-use agents that pauses automation 
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:synacktraa/browser-handoff
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-synacktraa-browser-handoff/record.json
 
 ## License declarations

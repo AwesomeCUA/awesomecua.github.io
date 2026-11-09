@@ -12,10 +12,6 @@ Hosted browser-agent platform from Browser Use.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:ef244017b1460269fc68
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-ef244017b1460269fc68/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Manifest V3 Chrome extension bridging Claude Code and MCP agents to live browser
 - Evidence checked: 2026-11-04T17:55:27Z
 - ID: github:xiachaoxia-glitch/pilot-mcp-extension
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiachaoxia-glitch-pilot-mcp-extension/record.json
 
 ## License declarations

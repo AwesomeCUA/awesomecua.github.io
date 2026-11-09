@@ -20,10 +20,10 @@ The card reports a cleaned size of 3.12M without explicitly defining its countin
 
 ## Structured profile
 
-- formats: not recorded
-- modalities: images, prompts, actions, responses
-- splits: not recorded
-- supervision: web-world-model prediction
+- Formats: not recorded
+- Modalities: images, prompts, actions, responses
+- Splits: not recorded
+- Supervision: web-world-model prediction
 
 ### Count observations
 

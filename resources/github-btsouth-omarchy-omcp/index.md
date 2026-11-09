@@ -12,10 +12,6 @@ Exposes an Omarchy Linux desktop session as a live, watchable Model Context Prot
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:btsouth/omarchy-omcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-btsouth-omarchy-omcp/record.json
 
 ## License declarations

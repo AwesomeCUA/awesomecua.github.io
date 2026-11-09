@@ -12,10 +12,6 @@ Clickyy is a macOS desktop automation CLI and MCP server combining native Access
 - Evidence checked: 2026-11-04T13:12:19Z
 - ID: github:jayamitkatariya/clickyyy
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jayamitkatariya-clickyyy/record.json
 
 ## License declarations

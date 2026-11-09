@@ -12,10 +12,6 @@ Eigent is an open-source multi-agent desktop coworker built on CAMEL-AI for para
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:eigent-ai/eigent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-eigent-ai-eigent/record.json
 
 ## License declarations

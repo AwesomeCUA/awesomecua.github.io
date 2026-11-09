@@ -12,10 +12,6 @@ Cross-platform Agent Skill for driving, inspecting, and testing applications acr
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:dxiongya/debug-kit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dxiongya-debug-kit/record.json
 
 ## License declarations

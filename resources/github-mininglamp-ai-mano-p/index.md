@@ -12,10 +12,6 @@ Mano-P is an open-source GUI vision-language-action model optimized for edge dev
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:mininglamp-ai/mano-p
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mininglamp-ai-mano-p/record.json
 
 ## License declarations

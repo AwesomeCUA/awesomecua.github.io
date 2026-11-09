@@ -12,10 +12,6 @@ Perception utilities for web agents that tag interactable elements with typed ID
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:reworkd/tarsier
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-reworkd-tarsier/record.json
 
 ## License declarations

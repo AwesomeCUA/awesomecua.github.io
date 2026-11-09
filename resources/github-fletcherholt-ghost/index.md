@@ -12,10 +12,6 @@ Invisible, non-interfering macOS computer-use tool for Claude Code that drives n
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:fletcherholt/ghost
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fletcherholt-ghost/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Open-source local driver enabling trusted AI agents to control an existing signe
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:castor6/browserrig
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-castor6-browserrig/record.json
 
 ## License declarations

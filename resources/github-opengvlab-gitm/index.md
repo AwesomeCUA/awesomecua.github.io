@@ -12,10 +12,6 @@ Ghost in the Minecraft (GITM) integrates LLMs with text-based knowledge and memo
 - Evidence checked: 2026-11-04T13:12:30Z
 - ID: github:opengvlab/gitm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-gitm/record.json
 
 ## License declarations

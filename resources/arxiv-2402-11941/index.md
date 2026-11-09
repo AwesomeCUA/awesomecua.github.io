@@ -35,13 +35,13 @@ Xinbei Ma, Zhuosheng Zhang, Hai Zhao
 - Publication source: https://aclanthology.org/2024.findings-acl.539
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-11941/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-11941/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2024
-- publisher: Association for Computational Linguistics
-- pages: 9097-9110
-- doi: 10.18653/v1/2024.findings-acl.539
-- date basis: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2024
+- Publisher: Association for Computational Linguistics
+- Pages: 9097-9110
+- DOI: 10.18653/v1/2024.findings-acl.539
+- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2024.findings-acl.539
 
 ## Recorded arXiv snapshot

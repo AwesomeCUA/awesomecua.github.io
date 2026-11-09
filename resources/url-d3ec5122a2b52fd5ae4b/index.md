@@ -20,10 +20,10 @@ The public manifest contains AC/AW JSONL training annotations and a screenshot a
 
 ## Structured profile
 
-- formats: JSONL, ZIP
-- modalities: screenshots, text, actions
-- splits: AndroidControl training, AndroidWorld training
-- supervision: mobile action trajectories
+- Formats: JSONL, ZIP
+- Modalities: screenshots, text, actions
+- Splits: AndroidControl training, AndroidWorld training
+- Supervision: mobile action trajectories
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Local-first Tauri and AgentScope desktop agent workbench with permission approva
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:kavanio/recordagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kavanio-recordagent/record.json
 
 ## License declarations

@@ -35,14 +35,14 @@ Nazmus Sakib, Protoy Barai, Sifat Ishmam Parisa, Anindya Iqbal
 - Publication source: https://ceur-ws.org/Vol-4028/paper8.pdf
 - Publication BibTeX: https://awesomecua.com/resources/url-3fdea133115518f9205a/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-3fdea133115518f9205a/publication-citation.csl.json
-- venue: From Objects to Agents 2025
-- publisher: CEUR-WS.org
-- series: CEUR Workshop Proceedings
-- volume: 4028
-- pages: 106-123
-- date basis: Year from the CEUR-WS Vol-4028 volume page copyright line (2025); no month or day is given.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the PDF and the Vol-4028 table of contents give the same title and authors.
-- notes: Open-access CEUR-WS paper in the From Objects to Agents 2025 volume, pages 106-123, published under CC BY 4.0. The PDF links code, data and trained models.
+- Venue: From Objects to Agents 2025
+- Publisher: CEUR-WS.org
+- Series: CEUR Workshop Proceedings
+- Volume: 4028
+- Pages: 106-123
+- Date source: Year from the CEUR-WS Vol-4028 volume page copyright line (2025); no month or day is given.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the PDF and the Vol-4028 table of contents give the same title and authors.
+- Source notes: Open-access CEUR-WS paper in the From Objects to Agents 2025 volume, pages 106-123, published under CC BY 4.0. The PDF links code, data and trained models.
 - Publication evidence: https://ceur-ws.org/Vol-4028/, https://ceur-ws.org/Vol-4028/paper8.pdf
 
 ## License declarations

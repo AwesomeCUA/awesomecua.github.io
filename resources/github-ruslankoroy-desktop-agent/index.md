@@ -12,10 +12,6 @@ Desktop Agent controls a local computer via screenshot grid overlays, OCR text d
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:ruslankoroy/desktop-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ruslankoroy-desktop-agent/record.json
 
 ## License declarations

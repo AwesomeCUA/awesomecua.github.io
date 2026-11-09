@@ -12,10 +12,6 @@ Headless-first browser automation plugin for DeepSeek Harness.
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:zseven-w/dsh-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zseven-w-dsh-browser/record.json
 
 ## License declarations

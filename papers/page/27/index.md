@@ -97,13 +97,13 @@ Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2404-07972/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2404-07972/publication-citation.csl.json
-- venue: Advances in Neural Information Processing Systems
-- volume: 37
-- pages: 52040-52094
-- doi: 10.52202/079017-1650
-- date basis: Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Advances in Neural Information Processing Systems
+- Volume: 37
+- Pages: 52040-52094
+- DOI: 10.52202/079017-1650
+- Date source: Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html
 
 ### Recorded arXiv snapshot
@@ -739,13 +739,13 @@ Kevin Xu, Yeganeh Kordi, Tanay Nayak, Adi Asija, Yizhong Wang, Kate Sanders, Ada
 - Publication source: https://aclanthology.org/2025.naacl-long.188/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2403-11905/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2403-11905/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 3694-3710
-- doi: 10.18653/v1/2025.naacl-long.188
-- date basis: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 3694-3710
+- DOI: 10.18653/v1/2025.naacl-long.188
+- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.naacl-long.188/
 
 ### Recorded arXiv snapshot
@@ -1225,15 +1225,15 @@ Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zh
 - Publication source: https://proceedings.mlr.press/v267/tan25h.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2403-03186/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2403-03186/publication-citation.csl.json
-- venue: Proceedings of the 42nd International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 267
-- pages: 58658-58725
-- date basis: Explicit publisher metadata: 2025/10/06; precision=day.
-- event dates: 13--19 Jul 2025
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 42nd International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 267
+- Pages: 58658-58725
+- Date source: Explicit publisher metadata: 2025/10/06; precision=day.
+- Event dates: 13--19 Jul 2025
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v267/tan25h.html
 
 ### Recorded arXiv snapshot
@@ -1297,13 +1297,13 @@ Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei,
 - Publication source: https://aclanthology.org/2024.findings-emnlp.702/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2403-02713/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2403-02713/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: EMNLP 2024
-- publisher: Association for Computational Linguistics
-- pages: 12016-12031
-- doi: 10.18653/v1/2024.findings-emnlp.702
-- date basis: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Findings of the Association for Computational Linguistics: EMNLP 2024
+- Publisher: Association for Computational Linguistics
+- Pages: 12016-12031
+- DOI: 10.18653/v1/2024.findings-emnlp.702
+- Date source: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2024.findings-emnlp.702/
 
 ### Recorded arXiv snapshot
@@ -1471,13 +1471,13 @@ Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
 - Publication source: https://aclanthology.org/2024.acl-long.477/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-15057/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-15057/publication-citation.csl.json
-- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 8795-8812
-- doi: 10.18653/v1/2024.acl-long.477
-- date basis: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 8795-8812
+- DOI: 10.18653/v1/2024.acl-long.477
+- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2024.acl-long.477/
 
 ### Recorded arXiv snapshot
@@ -1593,13 +1593,13 @@ Xinbei Ma, Zhuosheng Zhang, Hai Zhao
 - Publication source: https://aclanthology.org/2024.findings-acl.539
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-11941/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-11941/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2024
-- publisher: Association for Computational Linguistics
-- pages: 9097-9110
-- doi: 10.18653/v1/2024.findings-acl.539
-- date basis: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2024
+- Publisher: Association for Computational Linguistics
+- Pages: 9097-9110
+- DOI: 10.18653/v1/2024.findings-acl.539
+- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2024.findings-acl.539
 
 ### Recorded arXiv snapshot
@@ -1924,13 +1924,13 @@ Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Ka
 - Publication source: https://aclanthology.org/2025.naacl-long.26/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-07939/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-07939/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 597-622
-- doi: 10.18653/v1/2025.naacl-long.26
-- date basis: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 597-622
+- DOI: 10.18653/v1/2025.naacl-long.26
+- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.naacl-long.26/
 
 ### Recorded arXiv snapshot
@@ -1994,15 +1994,15 @@ Xing Han Lù, Zdeněk Kasner, Siva Reddy
 - Publication source: https://proceedings.mlr.press/v235/lu24e.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-05930/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-05930/publication-citation.csl.json
-- venue: Proceedings of the 41st International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 235
-- pages: 33007-33056
-- date basis: Explicit publisher metadata: 2024/07/08; precision=day.
-- event dates: 21--27 Jul 2024
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 41st International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 235
+- Pages: 33007-33056
+- Date source: Explicit publisher metadata: 2024/07/08; precision=day.
+- Event dates: 21--27 Jul 2024
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v235/lu24e.html, https://raw.githubusercontent.com/mlresearch/v235/main/assets/lu24e/lu24e.pdf
 
 ### Recorded arXiv snapshot
@@ -2327,13 +2327,13 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzh
 - Publication source: https://aclanthology.org/2024.acl-long.371/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2401-13919/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2401-13919/publication-citation.csl.json
-- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 6864-6890
-- doi: 10.18653/v1/2024.acl-long.371
-- date basis: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 6864-6890
+- DOI: 10.18653/v1/2024.acl-long.371
+- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2024.acl-long.371/
 
 ### Recorded arXiv snapshot
@@ -2397,13 +2397,13 @@ Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huan
 - Publication source: https://aclanthology.org/2024.acl-long.50/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2401-13649/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2401-13649/publication-citation.csl.json
-- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 881-905
-- doi: 10.18653/v1/2024.acl-long.50
-- date basis: Explicit publisher metadata: 2024/8; precision=month.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The formal PDF title adds Visually Grounded; the landing metadata uses Visual Web Tasks. PDF authors include Ming Chong Lim and Ruslan Salakhutdinov; the landing abbreviates them to Ming Lim and Russ Salakhutdinov. Publication title/authors use the PDF; the retained arXiv title remains unchanged. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 881-905
+- DOI: 10.18653/v1/2024.acl-long.50
+- Date source: Explicit publisher metadata: 2024/8; precision=month.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The formal PDF title adds Visually Grounded; the landing metadata uses Visual Web Tasks. PDF authors include Ming Chong Lim and Ruslan Salakhutdinov; the landing abbreviates them to Ming Lim and Russ Salakhutdinov. Publication title/authors use the PDF; the retained arXiv title remains unchanged. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://aclanthology.org/2024.acl-long.50/, https://aclanthology.org/2024.acl-long.50.pdf
 
 ### Recorded arXiv snapshot
@@ -2521,13 +2521,13 @@ Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zh
 - Publication source: https://aclanthology.org/2024.acl-long.505/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2401-10935/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2401-10935/publication-citation.csl.json
-- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 9313-9332
-- doi: 10.18653/v1/2024.acl-long.505
-- date basis: Explicit publisher metadata: 2024/8; precision=month.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The ACL landing metadata spells the fifth author Li YanTao. The formal PDF title page spells Yantao Li; the publication author field uses the PDF. The retained arXiv author list is untouched. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 9313-9332
+- DOI: 10.18653/v1/2024.acl-long.505
+- Date source: Explicit publisher metadata: 2024/8; precision=month.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The ACL landing metadata spells the fifth author Li YanTao. The formal PDF title page spells Yantao Li; the publication author field uses the PDF. The retained arXiv author list is untouched. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://aclanthology.org/2024.acl-long.505/, https://aclanthology.org/2024.acl-long.505.pdf
 
 ### Recorded arXiv snapshot
@@ -2644,15 +2644,15 @@ Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 - Publication source: https://proceedings.mlr.press/v235/zheng24e.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2401-01614/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2401-01614/publication-citation.csl.json
-- venue: Proceedings of the 41st International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 235
-- pages: 61349-61385
-- date basis: Explicit publisher metadata: 2024/07/08; precision=day.
-- event dates: 21--27 Jul 2024
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 41st International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 235
+- Pages: 61349-61385
+- Date source: Explicit publisher metadata: 2024/07/08; precision=day.
+- Event dates: 21--27 Jul 2024
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v235/zheng24e.html
 
 ### Recorded arXiv snapshot
@@ -3028,11 +3028,11 @@ The annotation and scope were reviewed against the primary paper abstract.
 - Publication source: https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2312-08914/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2312-08914/publication-citation.csl.json
-- venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
-- pages: 14281-14290
-- date basis: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier. The publisher PDF title and complete first-page author list were visually checked.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen. Each edition retains its own authors.
+- Venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+- Pages: 14281-14290
+- Date source: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier. The publisher PDF title and complete first-page author list were visually checked.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen. Each edition retains its own authors.
 - Publication evidence: https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html, https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf
 
 ### Recorded arXiv snapshot
@@ -3305,13 +3305,13 @@ Juyeon Yoon, Robert Feldt, Shin Yoo
 - Publication source: https://ieeexplore.ieee.org/abstract/document/10638557
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2311-08649/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2311-08649/publication-citation.csl.json
-- venue: 2024 IEEE Conference on Software Testing, Verification and Validation (ICST)
-- publisher: IEEE
-- pages: 129-139
-- doi: 10.1109/icst60714.2024.00020
-- date basis: Crossref issued date 2024-5-27; precision=day.
-- identity basis: Same work as the retained arXiv record: the arXiv title is a rewording of the ICST title, and both list the same three authors.
-- notes: IEEE ICST 2024 edition of the arXiv preprint; Crossref links the DOI to IEEE Xplore document 10638557.
+- Venue: 2024 IEEE Conference on Software Testing, Verification and Validation (ICST)
+- Publisher: IEEE
+- Pages: 129-139
+- DOI: 10.1109/icst60714.2024.00020
+- Date source: Crossref issued date 2024-5-27; precision=day.
+- Identity basis: Same work as the retained arXiv record: the arXiv title is a rewording of the ICST title, and both list the same three authors.
+- Source notes: IEEE ICST 2024 edition of the arXiv preprint; Crossref links the DOI to IEEE Xplore document 10638557.
 - Publication evidence: https://api.crossref.org/works/10.1109/icst60714.2024.00020
 
 ### Recorded arXiv snapshot

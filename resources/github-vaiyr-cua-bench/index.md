@@ -12,10 +12,6 @@ cua-bench packages containerized ERPNext v15 accounting and enterprise workflows
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:vaiyr/cua-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vaiyr-cua-bench/record.json
 
 ## License declarations

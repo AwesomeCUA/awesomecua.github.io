@@ -12,10 +12,6 @@ Browy is a browser automation agent that drives live Chrome tabs using existing 
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:browyhq/browy
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browyhq-browy/record.json
 
 ## License declarations

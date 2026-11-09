@@ -12,10 +12,6 @@ WebFovea is a vision-based web agent that combines foveated visual crop refineme
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:jianganghan/webfovea
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jianganghan-webfovea/record.json
 
 ## License declarations

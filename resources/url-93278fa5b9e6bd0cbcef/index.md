@@ -20,10 +20,10 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 
 ## Structured profile
 
-- formats: per-trajectory folders with task.json and PNG screenshots
-- modalities: screenshots, task queries, reasoning traces, actions
-- splits: not recorded
-- supervision: teacher-model GUI trajectories filtered by an automatic success judge, structured reasoning traces, normalized mobile actions with adb commands
+- Formats: per-trajectory folders with task.json and PNG screenshots
+- Modalities: screenshots, task queries, reasoning traces, actions
+- Splits: not recorded
+- Supervision: teacher-model GUI trajectories filtered by an automatic success judge, structured reasoning traces, normalized mobile actions with adb commands
 
 ### Count observations
 

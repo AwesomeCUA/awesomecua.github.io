@@ -12,10 +12,6 @@ Focus-free background macOS automation MCP server combining OS APIs, AppleScript
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:prithviseran/hunch-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-prithviseran-hunch-mcp/record.json
 
 ## License declarations

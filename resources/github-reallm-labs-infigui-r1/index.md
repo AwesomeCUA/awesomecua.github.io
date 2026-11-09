@@ -12,10 +12,6 @@
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:reallm-labs/infigui-r1
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-reallm-labs-infigui-r1/record.json
 
 ## License declarations

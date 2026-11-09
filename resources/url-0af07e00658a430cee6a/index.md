@@ -20,10 +20,10 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 ## Structured profile
 
-- formats: JSON, Parquet
-- modalities: screenshots, text, bounding boxes
-- splits: train, test
-- supervision: OCR, region-text grounding
+- Formats: JSON, Parquet
+- Modalities: screenshots, text, bounding boxes
+- Splits: train, test
+- Supervision: OCR, region-text grounding
 
 ### Count observations
 

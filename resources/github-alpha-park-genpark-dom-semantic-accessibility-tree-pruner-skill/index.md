@@ -12,10 +12,6 @@ Agent skill that compresses raw HTML DOM trees into token-efficient semantic acc
 - Evidence checked: 2026-11-04T18:11:50Z
 - ID: github:alpha-park/genpark-dom-semantic-accessibility-tree-pruner-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alpha-park-genpark-dom-semantic-accessibility-tree-pruner-skill/record.json
 
 ## License declarations

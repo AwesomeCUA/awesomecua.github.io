@@ -12,10 +12,6 @@ Model Context Protocol bridge giving OpenCode and MCP clients real Windows GUI c
 - Evidence checked: 2026-11-04T17:30:36Z
 - ID: github:yueqi-wang-795/opencode-gui-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yueqi-wang-795-opencode-gui-bridge/record.json
 
 ## License declarations

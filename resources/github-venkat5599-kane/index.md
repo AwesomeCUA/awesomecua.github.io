@@ -12,10 +12,6 @@ Plain-English browser verification harness for AI-built web applications that re
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:venkat5599/kane
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-venkat5599-kane/record.json
 
 ## License declarations

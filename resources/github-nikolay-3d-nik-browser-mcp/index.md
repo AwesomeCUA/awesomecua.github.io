@@ -12,10 +12,6 @@ Local Model Context Protocol server providing LLMs with an independent, persiste
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:nikolay-3d/nik-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nikolay-3d-nik-browser-mcp/record.json
 
 ## License declarations

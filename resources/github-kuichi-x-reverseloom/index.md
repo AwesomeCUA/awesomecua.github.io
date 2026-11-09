@@ -12,10 +12,6 @@ AI browser agent framework that inspects live web traffic to reverse-engineer si
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:kuichi-x/reverseloom
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kuichi-x-reverseloom/record.json
 
 ## License declarations

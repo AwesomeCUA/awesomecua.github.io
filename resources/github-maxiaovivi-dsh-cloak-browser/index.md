@@ -12,10 +12,6 @@ Native CloakBrowser plugin for DeepSeek Harness providing isolated anti-detect b
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:maxiaovivi/dsh-cloak-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-maxiaovivi-dsh-cloak-browser/record.json
 
 ## License declarations

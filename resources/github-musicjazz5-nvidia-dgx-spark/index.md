@@ -12,10 +12,6 @@ Human-approved isolated browser bridge for local AI agents running on NVIDIA DGX
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:musicjazz5/nvidia_dgx_spark
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-musicjazz5-nvidia-dgx-spark/record.json
 
 ## License declarations

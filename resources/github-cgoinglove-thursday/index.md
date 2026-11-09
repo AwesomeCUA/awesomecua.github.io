@@ -12,10 +12,6 @@ Thursday is a voice-driven computer assistant that delegates background web-brow
 - Evidence checked: 2026-11-04T13:12:09Z
 - ID: github:cgoinglove/thursday
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cgoinglove-thursday/record.json
 
 ## License declarations

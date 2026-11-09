@@ -12,10 +12,6 @@ Streams and mirrors a live Chromium tab into a web page over a single WebSocket 
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:mathisarends/browsertunnel
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mathisarends-browsertunnel/record.json
 
 ## License declarations

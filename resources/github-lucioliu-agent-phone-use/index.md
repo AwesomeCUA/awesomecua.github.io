@@ -12,10 +12,6 @@ Enables AI agents on Windows to control Android phones over local Wi-Fi using of
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:lucioliu/agent-phone-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lucioliu-agent-phone-use/record.json
 
 ## License declarations

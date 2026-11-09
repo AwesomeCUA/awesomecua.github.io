@@ -12,10 +12,6 @@ Linux/X11 computer-use toolkit and MCP server combining AT-SPI semantic trees, s
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:tak-uukti/linux-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tak-uukti-linux-computer-use/record.json
 
 ## License declarations

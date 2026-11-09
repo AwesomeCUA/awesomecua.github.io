@@ -12,10 +12,6 @@ Native Windows GUI manager for configuring and launching isolated Camoufox steal
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:rycen7822/camouforge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rycen7822-camouforge/record.json
 
 ## License declarations

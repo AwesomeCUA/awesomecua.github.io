@@ -12,10 +12,6 @@ DeepSeek Harness plugin combining agent-driven real-browser control with workflo
 - Evidence checked: 2026-11-04T18:11:51Z
 - ID: github:lirui1024k/dsh-browser-ops
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/record.json
 
 ## License declarations

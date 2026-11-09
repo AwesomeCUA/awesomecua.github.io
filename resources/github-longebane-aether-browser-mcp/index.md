@@ -12,10 +12,6 @@ Model Context Protocol server for driving headless and headful browser automatio
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:longebane/aether-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-longebane-aether-browser-mcp/record.json
 
 ## License declarations

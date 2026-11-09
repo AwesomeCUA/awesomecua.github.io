@@ -12,10 +12,6 @@ Provides reproducible same-machine benchmarks comparing AI agent browser and des
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:alloevil/agent-tool-benchmark
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alloevil-agent-tool-benchmark/record.json
 
 ## License declarations

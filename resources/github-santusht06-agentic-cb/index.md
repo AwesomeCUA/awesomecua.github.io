@@ -12,10 +12,6 @@ CLI browser control plane unifying web session automation across messaging and p
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:santusht06/agentic-cb
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-santusht06-agentic-cb/record.json
 
 ## License declarations

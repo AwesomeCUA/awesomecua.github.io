@@ -12,10 +12,6 @@ Governable, local-first desktop agent runtime with policy enforcement and audita
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:axisvela/praxovela-open
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-axisvela-praxovela-open/record.json
 
 ## License declarations

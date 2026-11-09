@@ -12,10 +12,6 @@ cc-haha is a clean-room TypeScript implementation and visual debugger of the Cla
 - Evidence checked: 2026-11-04T13:12:27Z
 - ID: github:nanmicoder/cc-haha
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nanmicoder-cc-haha/record.json
 
 ## License declarations

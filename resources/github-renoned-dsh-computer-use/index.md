@@ -12,10 +12,6 @@ Capability-aware macOS computer-use plugin for DeepSeek Harness combining Access
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:renoned/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-renoned-dsh-computer-use/record.json
 
 ## License declarations

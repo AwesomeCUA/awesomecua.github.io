@@ -12,10 +12,6 @@ Browser side-panel extension that connects webpages to local Agent CLIs speaking
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:parksben/opensider
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-parksben-opensider/record.json
 
 ## License declarations

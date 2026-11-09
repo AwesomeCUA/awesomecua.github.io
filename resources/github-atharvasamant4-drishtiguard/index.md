@@ -12,10 +12,6 @@ On-device visual privacy firewall that detects and masks sensitive screen region
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:atharvasamant4/drishtiguard
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/record.json
 
 ## License declarations

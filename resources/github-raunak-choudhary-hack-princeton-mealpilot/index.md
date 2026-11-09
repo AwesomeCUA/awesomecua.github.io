@@ -12,10 +12,6 @@ Agentic grocery shopping platform that compares real-time cart prices across Ins
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:raunak-choudhary/hack_princeton_mealpilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raunak-choudhary-hack-princeton-mealpilot/record.json
 
 ## License declarations

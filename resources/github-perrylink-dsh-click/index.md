@@ -12,10 +12,6 @@ Cross-platform native desktop control plugin for DeepSeek Harness supporting scr
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:perrylink/dsh-click
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-perrylink-dsh-click/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Open-source stealth Chromium browser with engine-level fingerprint spoofing desi
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:clearcotelabs/clearcote-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-clearcotelabs-clearcote-browser/record.json
 
 ## License declarations

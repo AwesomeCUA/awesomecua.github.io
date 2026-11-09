@@ -12,10 +12,6 @@ Semantic accessibility page-guidance layer designed simultaneously for assistive
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:polyform-ai/a11y-guide
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-polyform-ai-a11y-guide/record.json
 
 ## License declarations

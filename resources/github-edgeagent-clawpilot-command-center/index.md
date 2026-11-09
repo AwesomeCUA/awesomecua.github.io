@@ -12,10 +12,6 @@ Chrome Manifest V3 command center for OpenClaw agents to capture page context, r
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:edgeagent/clawpilot-command-center
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-edgeagent-clawpilot-command-center/record.json
 
 ## License declarations

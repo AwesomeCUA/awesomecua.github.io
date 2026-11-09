@@ -12,10 +12,6 @@ Model Context Protocol bridge enabling Claude Code and Codex to operate multiple
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:mistudio0902-lab/chrome-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mistudio0902-lab-chrome-bridge/record.json
 
 ## License declarations

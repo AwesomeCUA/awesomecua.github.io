@@ -12,10 +12,6 @@ Dataset of 7,366 computer-use agent execution trajectories from Holo4 27B and Ho
 - Evidence checked: 2026-10-17T05:32:58Z
 - ID: url:b5dab1881ac1069e44ce
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/record.json
 
 ## License declarations

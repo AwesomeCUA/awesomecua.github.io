@@ -12,10 +12,6 @@ Jev macOS Loop combines Apple Silicon local Jev decision models, OmniParser grou
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:jcpsimmons/jev-macos-loop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/record.json
 
 ## License declarations

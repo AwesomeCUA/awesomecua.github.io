@@ -12,10 +12,6 @@ Agent skill providing self-healing semantic DOM selectors resilient to CSS class
 - Evidence checked: 2026-11-04T18:11:38Z
 - ID: github:alpha-park/genpark-self-healing-dom-semantic-selector-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alpha-park-genpark-self-healing-dom-semantic-selector-skill/record.json
 
 ## License declarations

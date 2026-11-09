@@ -12,10 +12,6 @@ OpenCLI converts authenticated websites and Electron apps into deterministic CLI
 - Evidence checked: 2026-11-04T13:12:19Z
 - ID: github:jackwener/opencli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jackwener-opencli/record.json
 
 ## License declarations

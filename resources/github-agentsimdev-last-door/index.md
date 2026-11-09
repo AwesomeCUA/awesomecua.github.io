@@ -12,10 +12,6 @@ Authentication resilience benchmark and WebMCP authority compiler for testing br
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:agentsimdev/last-door
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentsimdev-last-door/record.json
 
 ## License declarations

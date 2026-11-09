@@ -12,10 +12,6 @@ LLM-powered Android task automation built on DroidBot, released with DroidTask, 
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:mobilellm/autodroid
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mobilellm-autodroid/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ LLM-driven browser agent that extracts patient intake data and autonomously fill
 - Evidence checked: 2026-11-04T18:11:51Z
 - ID: github:caicai-jin/ai-medicalclaimform-filling-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-caicai-jin-ai-medicalclaimform-filling-agent/record.json
 
 ## License declarations

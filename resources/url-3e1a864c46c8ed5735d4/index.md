@@ -20,10 +20,10 @@ The Hub repository has no dataset card or license file; the arXiv paper and its 
 
 ## Structured profile
 
-- formats: ZIP archives, plain-text gesture logs, CSV, XLSX, Python pickle
-- modalities: touch input events, motion-sensor readings, task instructions
-- splits: not recorded
-- supervision: source labels for human users and named agent configurations, task success scoring in the metadata workbook
+- Formats: ZIP archives, plain-text gesture logs, CSV, XLSX, Python pickle
+- Modalities: touch input events, motion-sensor readings, task instructions
+- Splits: not recorded
+- Supervision: source labels for human users and named agent configurations, task success scoring in the metadata workbook
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Playwright-inspired Windows desktop automation and testing framework that drives
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:alegauss/winwright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alegauss-winwright/record.json
 
 ## License declarations

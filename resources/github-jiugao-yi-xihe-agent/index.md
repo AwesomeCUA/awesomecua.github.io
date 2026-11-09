@@ -12,10 +12,6 @@ Single-process tool-calling agent runtime operating across CLI, enterprise chat 
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:jiugao-yi/xihe-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jiugao-yi-xihe-agent/record.json
 
 ## License declarations

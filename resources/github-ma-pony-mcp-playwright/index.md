@@ -12,10 +12,6 @@ Python FastMCP server exposing Playwright browser navigation, element interactio
 - Evidence checked: 2026-11-04T15:03:34Z
 - ID: github:ma-pony/mcp-playwright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ma-pony-mcp-playwright/record.json
 
 ## License declarations

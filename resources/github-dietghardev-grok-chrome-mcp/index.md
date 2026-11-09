@@ -12,10 +12,6 @@ Model Context Protocol server enabling Grok Build and coding agents to click thr
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:dietghardev/grok-chrome-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dietghardev-grok-chrome-mcp/record.json
 
 ## License declarations

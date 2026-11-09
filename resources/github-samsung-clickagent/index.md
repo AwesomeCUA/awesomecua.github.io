@@ -12,10 +12,6 @@ ClickAgent decouples high-level MLLM action reasoning from a specialized UI elem
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:samsung/clickagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-samsung-clickagent/record.json
 
 ## License declarations

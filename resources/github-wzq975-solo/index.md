@@ -12,10 +12,6 @@ SOLO performs single-rollout test-time adaptation for GUI agents using online se
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:wzq975/solo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wzq975-solo/record.json
 
 ## License declarations

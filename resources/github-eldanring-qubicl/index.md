@@ -12,10 +12,6 @@ Provisions isolated local virtual computers so AI agents can operate a private d
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:eldanring/qubicl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-eldanring-qubicl/record.json
 
 ## License declarations

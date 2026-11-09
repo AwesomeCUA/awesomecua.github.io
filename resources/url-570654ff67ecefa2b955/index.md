@@ -20,10 +20,10 @@ The ungated Hub publishes four Parquet splits containing video identifiers and a
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: text, timestamps, bounding boxes, action labels
-- splits: train, validation, test, test_unseen_os
-- supervision: video-derived scene and action annotations
+- Formats: Parquet
+- Modalities: text, timestamps, bounding boxes, action labels
+- Splits: train, validation, test, test_unseen_os
+- Supervision: video-derived scene and action annotations
 
 ### Count observations
 

@@ -20,10 +20,10 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 ## Structured profile
 
-- formats: JSON, Parquet
-- modalities: screenshots, text, bounding boxes
-- splits: not recorded
-- supervision: single-turn question answering, multi-turn dialogue
+- Formats: JSON, Parquet
+- Modalities: screenshots, text, bounding boxes
+- Splits: not recorded
+- Supervision: single-turn question answering, multi-turn dialogue
 
 ### Count observations
 

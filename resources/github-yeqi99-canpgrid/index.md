@@ -12,10 +12,6 @@ CanpGrid provides an adaptive recursive image grid overlay for progressive coars
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:yeqi99/canpgrid
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yeqi99-canpgrid/record.json
 
 ## License declarations

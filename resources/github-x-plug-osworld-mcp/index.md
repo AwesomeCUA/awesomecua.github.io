@@ -12,10 +12,6 @@ OSWorld-MCP benchmarks computer-use agents on hybrid GUI interaction and Model C
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:x-plug/osworld-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-x-plug-osworld-mcp/record.json
 
 ## License declarations

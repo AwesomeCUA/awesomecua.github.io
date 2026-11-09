@@ -12,10 +12,6 @@ AutoCoA internalizes Chain-of-Action generation into reasoning models via step-l
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:adam-bjtu/autocoa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-adam-bjtu-autocoa/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Standalone Rust CLI and Model Context Protocol plugin enabling Codex Computer Us
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:alekseiseleznev/codex-computer-use-x11
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alekseiseleznev-codex-computer-use-x11/record.json
 
 ## License declarations

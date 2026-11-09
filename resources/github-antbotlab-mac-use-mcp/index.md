@@ -12,10 +12,6 @@ Zero-dependency macOS desktop automation MCP server exposing 18 tools for Access
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:antbotlab/mac-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-antbotlab-mac-use-mcp/record.json
 
 ## License declarations

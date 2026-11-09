@@ -12,10 +12,6 @@ Provider-neutral, OS-neutral orchestration runtime for long-horizon desktop and 
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:quoralinex/q1x-community-orchestrator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-quoralinex-q1x-community-orchestrator/record.json
 
 ## License declarations

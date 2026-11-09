@@ -12,10 +12,6 @@ WebExtension-backed Model Context Protocol server for driving Zen Browser and Fi
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:cxrobx/zen-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cxrobx-zen-mcp/record.json
 
 ## License declarations

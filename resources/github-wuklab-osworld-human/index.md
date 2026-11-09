@@ -20,11 +20,11 @@ The repository publishes per-application reference JSON files and score.py. It e
 
 ## Structured profile
 
-- actions: efficiency scores
-- evaluation: The scorer consumes OSWorld results and a specified maximum step budget; the README distinguishes single-action and grouped-action WES+ and WES-.
-- focus: action efficiency relative to humans
-- observations: OSWorld result trajectories, human reference actions
-- setting: offline
+- Actions / outputs: efficiency scores
+- Evaluation: The scorer consumes OSWorld results and a specified maximum step budget; the README distinguishes single-action and grouped-action WES+ and WES-.
+- Focus: action efficiency relative to humans
+- Observations: OSWorld result trajectories, human reference actions
+- Setting: offline
 
 ### Count observations
 

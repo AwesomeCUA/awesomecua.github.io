@@ -12,10 +12,6 @@ MCP server and CLI that lets frontier LLMs delegate token-heavy Windows desktop 
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:yuhuison/local-windows-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yuhuison-local-windows-use/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Navi-Bench evaluates web agents on everyday consumer tasks executed directly on 
 - Evidence checked: 2026-11-04T14:02:36Z
 - ID: github:yutori-ai/navi-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yutori-ai-navi-bench/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Trains PPO self-play reinforcement learning agents for real-time Old School Rune
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:naton1/osrs-pvp-reinforcement-learning
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-naton1-osrs-pvp-reinforcement-learning/record.json
 
 ## License declarations

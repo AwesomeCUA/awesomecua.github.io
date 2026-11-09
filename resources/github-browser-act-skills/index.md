@@ -12,10 +12,6 @@ BrowserAct Skills provides reusable browser-automation and web-extraction skill 
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:browser-act/skills
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-act-skills/record.json
 
 ## License declarations

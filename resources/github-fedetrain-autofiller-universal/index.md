@@ -12,10 +12,6 @@ Batch web-form automation framework with self-healing selectors that runs LLM-fr
 - Evidence checked: 2026-11-04T17:30:38Z
 - ID: github:fedetrain/autofiller-universal
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fedetrain-autofiller-universal/record.json
 
 ## License declarations

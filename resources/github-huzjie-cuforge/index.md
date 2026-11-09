@@ -12,10 +12,6 @@ cuforge is an online reinforcement-learning and verifiable task-synthesis platfo
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:huzjie/cuforge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-huzjie-cuforge/record.json
 
 ## License declarations

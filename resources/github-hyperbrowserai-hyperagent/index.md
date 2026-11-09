@@ -12,10 +12,6 @@ Library adding natural-language commands to Playwright: accessibility-tree singl
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:hyperbrowserai/hyperagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hyperbrowserai-hyperagent/record.json
 
 ## License declarations

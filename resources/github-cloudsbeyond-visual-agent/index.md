@@ -12,10 +12,6 @@ Protocol-first framework enabling visual-model hosts to safely inspect and opera
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:cloudsbeyond/visual-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cloudsbeyond-visual-agent/record.json
 
 ## License declarations

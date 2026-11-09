@@ -12,10 +12,6 @@ CLI-first computer-use harness for macOS providing policy-guarded application ob
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:sumo1/computer-use-harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sumo1-computer-use-harness/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Windows local browser automation MCP server built on an embedded CEF Chromium en
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:ai-xiaodao/ai-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ai-xiaodao-ai-browser-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Five-level safety and action-verification layer for mobile GUI agents that class
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:salus-ryan/mobile-agent-guardian
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-salus-ryan-mobile-agent-guardian/record.json
 
 ## License declarations

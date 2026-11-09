@@ -20,11 +20,11 @@ Public image files and desktop/mobile/web annotation JSON files are listed. This
 
 ## Structured profile
 
-- actions: target localization, identification of impossible requests
-- evaluation: Publisher supplies original, action, description and negative instruction types; no common end-to-end success metric is asserted.
-- focus: instruction-form robustness, negative grounding requests
-- observations: screenshots, instructions
-- setting: offline
+- Actions / outputs: target localization, identification of impossible requests
+- Evaluation: Publisher supplies original, action, description and negative instruction types; no common end-to-end success metric is asserted.
+- Focus: instruction-form robustness, negative grounding requests
+- Observations: screenshots, instructions
+- Setting: offline
 
 ### Count observations
 

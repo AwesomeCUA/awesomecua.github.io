@@ -12,10 +12,6 @@ Windows Model Context Protocol server that exposes the desktop accessibility tre
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:desteny-dev/pc-screen-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/record.json
 
 ## License declarations

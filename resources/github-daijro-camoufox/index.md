@@ -12,10 +12,6 @@ Camoufox is an open-source anti-detect Firefox browser with C++-level fingerprin
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:daijro/camoufox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-daijro-camoufox/record.json
 
 ## License declarations

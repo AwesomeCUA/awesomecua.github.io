@@ -12,10 +12,6 @@ Official TypeScript SDK for the Resolvr anti-bot challenge-solving API in browse
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:resolvrlabs/resolvr-typescript
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-resolvrlabs-resolvr-typescript/record.json
 
 ## License declarations

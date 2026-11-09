@@ -12,10 +12,6 @@ Open-source background macOS computer-use MCP server for Claude Code and Codex.
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:opencodexlabs/open-codex-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opencodexlabs-open-codex-computer-use/record.json
 
 ## License declarations

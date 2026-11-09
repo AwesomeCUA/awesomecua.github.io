@@ -20,10 +20,10 @@ Released by Paradigm Shift AI. The card reports 2,220 browser and 947 computer t
 
 ## Structured profile
 
-- formats: Parquet, MP4, zip archives, JSON strings
-- modalities: screen videos, screenshots, DOM snapshots, keyboard and mouse events, task metadata
-- splits: train
-- supervision: human computer-use demonstrations, reasoning steps
+- Formats: Parquet, MP4, zip archives, JSON strings
+- Modalities: screen videos, screenshots, DOM snapshots, keyboard and mouse events, task metadata
+- Splits: train
+- Supervision: human computer-use demonstrations, reasoning steps
 
 ### Count observations
 

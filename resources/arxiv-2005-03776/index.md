@@ -35,13 +35,13 @@ Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 - Publication source: https://aclanthology.org/2020.acl-main.729/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2005-03776/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2005-03776/publication-citation.csl.json
-- venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
-- publisher: Association for Computational Linguistics
-- pages: 8198-8210
-- doi: 10.18653/v1/2020.acl-main.729
-- date basis: Explicit publisher metadata: 2020/7; precision=month.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
+- Publisher: Association for Computational Linguistics
+- Pages: 8198-8210
+- DOI: 10.18653/v1/2020.acl-main.729
+- Date source: Explicit publisher metadata: 2020/7; precision=month.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://aclanthology.org/2020.acl-main.729/
 
 ## Recorded arXiv snapshot

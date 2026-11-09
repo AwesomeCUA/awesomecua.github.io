@@ -12,10 +12,6 @@ Systematizes safety and security threats to computer-using agents, with taxonomi
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2505.10924
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-10924/record.json
 
 ## Authors

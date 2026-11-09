@@ -12,10 +12,6 @@ Local-first desktop agent runtime that compiles exploratory AI trajectories into
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:alpharomerojl/operant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alpharomerojl-operant/record.json
 
 ## License declarations

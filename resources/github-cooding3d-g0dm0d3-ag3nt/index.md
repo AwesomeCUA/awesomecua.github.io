@@ -12,10 +12,6 @@ Permission-first local AI control center for Windows orchestrating local models,
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:cooding3d/g0dm0d3-ag3nt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cooding3d-g0dm0d3-ag3nt/record.json
 
 ## License declarations

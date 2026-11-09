@@ -12,19 +12,15 @@ Second version of the ScreenSpot grounding test set, published by OS-Copilot as 
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:bd7214de6d98917c2350
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-bd7214de6d98917c2350/record.json
 
 ## Structured profile
 
-- actions: click coordinates
-- evaluation: The inspected Jedi evaluation adapter reads the v2 mobile/desktop/web annotation files, scores a point against the target box, and reports overall, platform, and text/icon accuracy. This is a named compatible evaluator implementation; the OS-Atlas dataset card itself supplies no evaluator specification.
-- focus: single-step GUI grounding on the ScreenSpot-v2 release
-- observations: screenshot, instruction
-- setting: offline
+- Actions / outputs: click coordinates
+- Evaluation: The inspected Jedi evaluation adapter reads the v2 mobile/desktop/web annotation files, scores a point against the target box, and reports overall, platform, and text/icon accuracy. This is a named compatible evaluator implementation; the OS-Atlas dataset card itself supplies no evaluator specification.
+- Focus: single-step GUI grounding on the ScreenSpot-v2 release
+- Observations: screenshot, instruction
+- Setting: offline
 
 ### Count observations
 

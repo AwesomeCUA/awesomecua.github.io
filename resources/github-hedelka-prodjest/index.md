@@ -12,10 +12,6 @@ Visual Chrome browser bridge for DeepSeek Harness with interactive user oversigh
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:hedelka/prodjest
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hedelka-prodjest/record.json
 
 ## License declarations

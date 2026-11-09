@@ -20,11 +20,11 @@ Official repository of the paper "Atomic-to-Compositional Generalization for Mob
 
 ## Structured profile
 
-- actions: agent-defined Android actions
-- evaluation: Not specified in the repository: the README defers the agent-running code, and neither the task files nor the state configurations carry success criteria.
-- focus: compositional multi-app mobile tasks, generalization from atomic to compositional tasks
-- observations: agent-defined observations of the Android emulator or device
-- setting: interactive
+- Actions / outputs: agent-defined Android actions
+- Evaluation: Not specified in the repository: the README defers the agent-running code, and neither the task files nor the state configurations carry success criteria.
+- Focus: compositional multi-app mobile tasks, generalization from atomic to compositional tasks
+- Observations: agent-defined observations of the Android emulator or device
+- Setting: interactive
 
 ### Count observations
 

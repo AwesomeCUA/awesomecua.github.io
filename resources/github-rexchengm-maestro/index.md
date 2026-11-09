@@ -12,10 +12,6 @@ Records a desktop or browser task once and lets AI optimize, parameterize, and r
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:rexchengm/maestro
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rexchengm-maestro/record.json
 
 ## License declarations

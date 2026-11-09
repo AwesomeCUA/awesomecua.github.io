@@ -12,10 +12,6 @@ Vision-language-action model and training code for GUI dragging, with links to c
 - Evidence checked: 2026-10-16T11:09:28Z
 - ID: github:showlab/showui-pi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-showui-pi/record.json
 
 ## License declarations

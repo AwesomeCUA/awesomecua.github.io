@@ -12,10 +12,6 @@ Frontend runtime verification plugin for DeepSeek Harness that detects, launches
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:powerrrrrrrr/dsh-live-loop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-powerrrrrrrr-dsh-live-loop/record.json
 
 ## License declarations

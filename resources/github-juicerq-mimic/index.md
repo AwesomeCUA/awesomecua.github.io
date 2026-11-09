@@ -12,10 +12,6 @@ Drives mouse, keyboard, and screen control on Linux through kernel-level `/dev/u
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:juicerq/mimic
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-juicerq-mimic/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ CLI and browser extension by Tencent that lets AI agents operate a user's logged
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:tencent/browserskill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tencent-browserskill/record.json
 
 ## License declarations

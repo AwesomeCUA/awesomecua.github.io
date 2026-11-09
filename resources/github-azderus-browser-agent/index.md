@@ -12,10 +12,6 @@ Claude Code skill that drives a real Chrome window from the terminal and returns
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:azderus/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-azderus-browser-agent/record.json
 
 ## License declarations

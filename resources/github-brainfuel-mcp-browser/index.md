@@ -12,10 +12,6 @@ Native macOS WKWebView web browser exposed directly as a Model Context Protocol 
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:brainfuel/mcp-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-brainfuel-mcp-browser/record.json
 
 ## License declarations

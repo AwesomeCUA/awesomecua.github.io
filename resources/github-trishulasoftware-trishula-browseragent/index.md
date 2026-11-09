@@ -12,10 +12,6 @@ Sovereign, doctrine-gated autonomous web browser agent built on CDP and Browser 
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:trishulasoftware/trishula-browseragent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-trishulasoftware-trishula-browseragent/record.json
 
 ## License declarations

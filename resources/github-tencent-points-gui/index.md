@@ -12,10 +12,6 @@ POINTS-GUI-G-8B GUI grounding model, trained from a POINTS-1.5 base without nati
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:tencent/points-gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tencent-points-gui/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Scheduled automation tool that borrows an authenticated Chrome session to export
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:loncoeng/gui-report-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-loncoeng-gui-report-automation/record.json
 
 ## License declarations

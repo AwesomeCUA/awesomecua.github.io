@@ -12,10 +12,6 @@ Browser infrastructure and automation services for AI agents.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:053ebfe0afac66c86222
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-053ebfe0afac66c86222/record.json
 
 ## License declarations

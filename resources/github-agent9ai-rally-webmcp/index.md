@@ -12,10 +12,6 @@ WebMCP orchestration runtime where ChatGPT initiates jobs and specialized browse
 - Evidence checked: 2026-11-04T17:55:24Z
 - ID: github:agent9ai/rally-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agent9ai-rally-webmcp/record.json
 
 ## License declarations

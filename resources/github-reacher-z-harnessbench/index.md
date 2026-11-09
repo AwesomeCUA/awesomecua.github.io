@@ -20,11 +20,11 @@ Sister project of ClawBench. The repository holds the harness-bench CLI (harness
 
 ## Structured profile
 
-- actions: harness-specific browser actions
-- evaluation: Inherited from ClawBench per the README: five-layer session recordings judged by DOM matching and an LLM judge against human reference runs; the leaderboard partitions pass rates by harness, model and category.
-- focus: comparison of agent harnesses with the base model held fixed, everyday online tasks in a real browser
-- observations: harness-specific (each adapter drives Chrome its own way, for example over CDP or Playwright)
-- setting: interactive
+- Actions / outputs: harness-specific browser actions
+- Evaluation: Inherited from ClawBench per the README: five-layer session recordings judged by DOM matching and an LLM judge against human reference runs; the leaderboard partitions pass rates by harness, model and category.
+- Focus: comparison of agent harnesses with the base model held fixed, everyday online tasks in a real browser
+- Observations: harness-specific (each adapter drives Chrome its own way, for example over CDP or Playwright)
+- Setting: interactive
 
 ### Count observations
 

@@ -12,10 +12,6 @@ WebThinker empowers large reasoning models to autonomously search, browse webpag
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:ruc-nlpir/webthinker
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ruc-nlpir-webthinker/record.json
 
 ## License declarations

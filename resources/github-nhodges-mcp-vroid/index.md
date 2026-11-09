@@ -12,10 +12,6 @@ Model Context Protocol server that drives VRoid Studio 3D character creation via
 - Evidence checked: 2026-11-04T17:30:38Z
 - ID: github:nhodges/mcp-vroid
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nhodges-mcp-vroid/record.json
 
 ## License declarations

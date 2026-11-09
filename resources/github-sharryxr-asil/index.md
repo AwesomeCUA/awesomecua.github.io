@@ -12,10 +12,6 @@ ASIL replaces screenshot-and-click loops with structured application state obser
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:sharryxr/asil
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sharryxr-asil/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Orbit is a Python computer-use framework that combines natural-language screen g
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:aadya940/orbit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aadya940-orbit/record.json
 
 ## License declarations

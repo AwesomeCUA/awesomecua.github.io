@@ -12,10 +12,6 @@ Model Context Protocol server exposing 6 high-level tools for AI-powered web int
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:ainative-studio/ainative-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ainative-studio-ainative-browser-mcp/record.json
 
 ## License declarations

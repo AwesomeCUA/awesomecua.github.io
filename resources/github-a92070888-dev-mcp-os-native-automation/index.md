@@ -12,10 +12,6 @@ Windows native UI automation framework and MCP server operating over UIA trees w
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:a92070888-dev/mcp-os-native-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/record.json
 
 ## License declarations

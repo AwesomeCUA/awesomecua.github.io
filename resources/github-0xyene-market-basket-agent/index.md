@@ -12,10 +12,6 @@ Autonomous web shopping agent that compares grocery basket prices across live de
 - Evidence checked: 2026-11-04T17:55:09Z
 - ID: github:0xyene/market-basket-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-0xyene-market-basket-agent/record.json
 
 ## License declarations

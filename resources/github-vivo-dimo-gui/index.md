@@ -12,10 +12,6 @@ GUI grounding research using modality-aware visual reasoning and test-time scali
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:vivo/dimo-gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vivo-dimo-gui/record.json
 
 ## License declarations

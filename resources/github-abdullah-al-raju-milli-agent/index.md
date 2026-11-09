@@ -12,10 +12,6 @@ Milli-Agent is a real-time computer-use agent architecture designed for high-fre
 - Evidence checked: 2026-11-04T15:03:44Z
 - ID: github:abdullah-al-raju/milli-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-abdullah-al-raju-milli-agent/record.json
 
 ## License declarations

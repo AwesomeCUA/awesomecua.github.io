@@ -12,10 +12,6 @@ Low-latency macOS computer-use driver (~35ms per action) supporting batched mult
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:paperfoot/super-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-paperfoot-super-computer-use/record.json
 
 ## License declarations

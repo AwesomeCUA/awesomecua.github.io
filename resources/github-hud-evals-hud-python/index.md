@@ -12,10 +12,6 @@ SDK for RL environments and evals spanning coding, browser, computer-use and rob
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:hud-evals/hud-python
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hud-evals-hud-python/record.json
 
 ## License declarations

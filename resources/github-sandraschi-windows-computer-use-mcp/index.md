@@ -12,10 +12,6 @@ windows-computer-use-mcp provides 22 MCP tools for Windows UI Automation, OCR, m
 - Evidence checked: 2026-11-04T14:02:38Z
 - ID: github:sandraschi/windows-computer-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sandraschi-windows-computer-use-mcp/record.json
 
 ## License declarations

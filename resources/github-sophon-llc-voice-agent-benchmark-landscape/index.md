@@ -12,10 +12,6 @@ Structured taxonomy and comparative map of public voice-agent, multimodal, and c
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:sophon-llc/voice-agent-benchmark-landscape
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sophon-llc-voice-agent-benchmark-landscape/record.json
 
 ## License declarations

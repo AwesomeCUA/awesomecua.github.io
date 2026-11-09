@@ -12,10 +12,6 @@ Chrome extension that automatically converts standard HTML web forms into struct
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:pauloportella/auto-webmcp-chrome
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pauloportella-auto-webmcp-chrome/record.json
 
 ## License declarations

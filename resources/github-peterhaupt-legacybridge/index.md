@@ -12,10 +12,6 @@ Local open-weight LLM agent framework for automating legacy enterprise ERP and b
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:peterhaupt/legacybridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-peterhaupt-legacybridge/record.json
 
 ## License declarations

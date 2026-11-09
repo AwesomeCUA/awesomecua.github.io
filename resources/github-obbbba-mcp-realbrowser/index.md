@@ -12,10 +12,6 @@ Model Context Protocol server providing 20 browser tools over a persistent, logg
 - Evidence checked: 2026-11-04T16:51:45Z
 - ID: github:obbbba/mcp-realbrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-obbbba-mcp-realbrowser/record.json
 
 ## License declarations

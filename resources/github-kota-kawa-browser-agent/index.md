@@ -12,10 +12,6 @@ FastAPI and browser-use web agent featuring live CDP session streaming, Server-S
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:kota-kawa/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kota-kawa-browser-agent/record.json
 
 ## License declarations

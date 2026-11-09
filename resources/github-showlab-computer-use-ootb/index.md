@@ -12,10 +12,6 @@ Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claud
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:showlab/computer_use_ootb
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-computer-use-ootb/record.json
 
 ## License declarations

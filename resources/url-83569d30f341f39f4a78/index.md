@@ -35,13 +35,13 @@ Youwei Li, Yangyang Li, Yangzhao Yang
 - Publication source: https://ieeexplore.ieee.org/abstract/document/10778901
 - Publication BibTeX: https://awesomecua.com/resources/url-83569d30f341f39f4a78/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-83569d30f341f39f4a78/publication-citation.csl.json
-- venue: 2024 IEEE 4th International Conference on Digital Twins and Parallel Intelligence (DTPI)
-- publisher: IEEE
-- pages: 609-614
-- doi: 10.1109/dtpi61353.2024.10778901
-- date basis: Crossref issued date 2024-10-18; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: IEEE DTPI 2024 paper; Crossref links the DOI to IEEE Xplore document 10778901, and the abstract was read from OpenAlex.
+- Venue: 2024 IEEE 4th International Conference on Digital Twins and Parallel Intelligence (DTPI)
+- Publisher: IEEE
+- Pages: 609-614
+- DOI: 10.1109/dtpi61353.2024.10778901
+- Date source: Crossref issued date 2024-10-18; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: IEEE DTPI 2024 paper; Crossref links the DOI to IEEE Xplore document 10778901, and the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1109/dtpi61353.2024.10778901, https://api.openalex.org/works/doi:10.1109/dtpi61353.2024.10778901
 
 ## License declarations

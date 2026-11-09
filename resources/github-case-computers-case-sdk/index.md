@@ -12,10 +12,6 @@ Dual-mode macOS GUI automation SDK supporting structured JSON procedures, local/
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:case-computers/case-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-case-computers-case-sdk/record.json
 
 ## License declarations

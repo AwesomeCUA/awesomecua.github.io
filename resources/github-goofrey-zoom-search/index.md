@@ -12,10 +12,6 @@ Zoom Search is a hierarchical web-search agent that previews lightweight page su
 - Evidence checked: 2026-11-04T13:12:15Z
 - ID: github:goofrey/zoom-search
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-goofrey-zoom-search/record.json
 
 ## License declarations

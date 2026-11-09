@@ -12,10 +12,6 @@ MacArena benchmarks computer-use agents in an online, reproducible macOS virtual
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:macpaw/macarena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-macpaw-macarena/record.json
 
 ## License declarations

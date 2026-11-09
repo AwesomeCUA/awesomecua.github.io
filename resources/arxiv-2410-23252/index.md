@@ -35,13 +35,13 @@ Haoyi Qiu, Alexander R. Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, 
 - Publication source: https://aclanthology.org/2025.findings-naacl.222/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-23252/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-23252/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: NAACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 3978-4005
-- doi: 10.18653/v1/2025.findings-naacl.222
-- date basis: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Findings of the Association for Computational Linguistics: NAACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 3978-4005
+- DOI: 10.18653/v1/2025.findings-naacl.222
+- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.findings-naacl.222/
 
 ## Recorded arXiv snapshot

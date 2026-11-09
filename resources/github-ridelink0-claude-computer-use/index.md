@@ -12,10 +12,6 @@ Provides an accessibility-tree MCP server for Claude Code to inspect and operate
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:ridelink0/claude-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ridelink0-claude-computer-use/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser bridge exposing a logged-in ChatGPT Web session as a native model and to
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:naakto14/codex-chatgpt-web-naakto-fork
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-naakto14-codex-chatgpt-web-naakto-fork/record.json
 
 ## License declarations

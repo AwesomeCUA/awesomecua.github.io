@@ -12,10 +12,6 @@ Local-first browser agent that attaches to an existing Chrome instance via CDP a
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:yourself-q/local-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yourself-q-local-browser-agent/record.json
 
 ## License declarations

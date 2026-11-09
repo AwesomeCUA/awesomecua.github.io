@@ -12,10 +12,6 @@ midscene-pc extends Midscene.js to local and remote PC desktops, enabling natura
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:mofangbao/midscene-pc
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mofangbao-midscene-pc/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Video2GUI synthesizes large-scale GUI interaction trajectories from unlabeled sc
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:weiminxiong/video2gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-weiminxiong-video2gui/record.json
 
 ## License declarations

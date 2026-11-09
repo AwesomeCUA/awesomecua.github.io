@@ -12,10 +12,6 @@ Enterprise digital workforce operations platform combining computer-use executio
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:huzjie/agentdesk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-huzjie-agentdesk/record.json
 
 ## License declarations

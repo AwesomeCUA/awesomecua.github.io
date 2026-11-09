@@ -12,10 +12,6 @@ OS-Symphony is a holistic computer-use agent framework combining a Reflection-Me
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:os-copilot/os-symphony
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-symphony/record.json
 
 ## License declarations

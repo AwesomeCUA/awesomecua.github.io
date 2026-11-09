@@ -12,10 +12,6 @@ Python CLI and Chrome extension bridge allowing humans and AI agents to control 
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:wz289494/webcli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wz289494-webcli/record.json
 
 ## License declarations

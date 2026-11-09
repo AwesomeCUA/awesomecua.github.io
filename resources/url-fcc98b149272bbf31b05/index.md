@@ -20,10 +20,10 @@ Five public Parquet shards are present. This collection provides checklist-gener
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: screenshots, text, action history
-- splits: test
-- supervision: checklist generation, subgoal analysis
+- Formats: Parquet
+- Modalities: screenshots, text, action history
+- Splits: test
+- Supervision: checklist generation, subgoal analysis
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Black-box adversarial prompt-injection red-teaming framework for training and ev
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: github:ai-secure/advweb
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ai-secure-advweb/record.json
 
 ## License declarations

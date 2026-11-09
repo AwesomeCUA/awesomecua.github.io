@@ -12,10 +12,6 @@ Local-first multi-profile browser manager for isolated testing and agentic web a
 - Evidence checked: 2026-11-04T17:30:43Z
 - ID: github:kiarosama/numera-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kiarosama-numera-browser/record.json
 
 ## License declarations

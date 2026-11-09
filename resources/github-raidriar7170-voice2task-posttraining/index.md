@@ -12,10 +12,6 @@ Post-training and evaluation pipeline for mapping spoken Chinese ASR commands in
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:raidriar7170/voice2task-posttraining
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raidriar7170-voice2task-posttraining/record.json
 
 ## License declarations

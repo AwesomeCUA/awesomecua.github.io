@@ -12,10 +12,6 @@ Deck is an open-source desktop cockpit for managing isolated local AI agent sand
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:cofy-x/deck
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cofy-x-deck/record.json
 
 ## License declarations

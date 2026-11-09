@@ -20,10 +20,10 @@ Public JSON annotations and image archives are present. The card has no data-lic
 
 ## Structured profile
 
-- formats: JSON annotations, ZIP image packages, multipart image archives
-- modalities: GUI screenshots, bounding boxes, grounding annotations
-- splits: training
-- supervision: GUI grounding with bounding-box supervision
+- Formats: JSON annotations, ZIP image packages, multipart image archives
+- Modalities: GUI screenshots, bounding boxes, grounding annotations
+- Splits: training
+- Supervision: GUI grounding with bounding-box supervision
 
 ### Count observations
 

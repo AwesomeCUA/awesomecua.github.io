@@ -12,10 +12,6 @@ RPA for Python provides a Python API over TagUI for automating websites, desktop
 - Evidence checked: 2026-11-04T13:12:39Z
 - ID: github:tebelorg/rpa-python
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tebelorg-rpa-python/record.json
 
 ## License declarations

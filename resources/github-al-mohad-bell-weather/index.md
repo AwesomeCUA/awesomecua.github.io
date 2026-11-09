@@ -12,10 +12,6 @@ Bellwether measures multi-trial pass^k consistency of computer-use agents on leg
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:al-mohad/bell-weather
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-al-mohad-bell-weather/record.json
 
 ## License declarations

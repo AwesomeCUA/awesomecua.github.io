@@ -12,10 +12,6 @@ Browser-Use automation plugin for DeepSeek Harness enabling natural-language web
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:fatmind/dsh-plugin-browser-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fatmind-dsh-plugin-browser-use/record.json
 
 ## License declarations

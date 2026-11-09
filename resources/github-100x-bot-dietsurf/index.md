@@ -12,10 +12,6 @@ Minimalist Chrome side-panel browser agent with a virtual filesystem and shell-l
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:100x-bot/dietsurf
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-100x-bot-dietsurf/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ The official project page cites the 2017 Rico paper. The project page reports mo
 
 ## Structured profile
 
-- formats: PNG, JSON, CSV, NumPy NPY, GIF
-- modalities: screenshots, Android view hierarchies, gesture traces, transition animations, app/UI metadata
-- splits: not recorded
-- supervision: UI structure and element properties, recorded human interactions, learned UI layout embeddings
+- Formats: PNG, JSON, CSV, NumPy NPY, GIF
+- Modalities: screenshots, Android view hierarchies, gesture traces, transition animations, app/UI metadata
+- Splits: not recorded
+- Supervision: UI structure and element properties, recorded human interactions, learned UI layout embeddings
 
 ### Count observations
 

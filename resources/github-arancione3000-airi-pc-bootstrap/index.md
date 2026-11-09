@@ -12,10 +12,6 @@ Local Computer Mode runtime and reproducible bootstrap for the Airi-PC desktop a
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:arancione3000/airi-pc-bootstrap
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arancione3000-airi-pc-bootstrap/record.json
 
 ## License declarations

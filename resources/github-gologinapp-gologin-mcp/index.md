@@ -12,10 +12,6 @@ GoLogin MCP Server allows AI agents to manage anti-detect browser profiles, prox
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:gologinapp/gologin-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gologinapp-gologin-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ GhostPilot is a macOS Chromium browser with a built-in Model Context Protocol se
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:tlejay/ghostpilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tlejay-ghostpilot/record.json
 
 ## License declarations

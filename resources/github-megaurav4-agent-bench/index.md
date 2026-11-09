@@ -12,10 +12,6 @@ agent-bench evaluates browser-based AI agents across 50 web tasks spanning navig
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:megaurav4/agent-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-megaurav4-agent-bench/record.json
 
 ## License declarations

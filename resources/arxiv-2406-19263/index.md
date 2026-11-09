@@ -35,13 +35,13 @@ Yue Fan, Lei Ding, Ching-Chen Kuo, Shan Jiang, Yang Zhao, Xinze Guan, Jie Yang, 
 - Publication source: https://aclanthology.org/2024.emnlp-main.533/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2406-19263/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2406-19263/publication-citation.csl.json
-- venue: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing
-- publisher: Association for Computational Linguistics
-- pages: 9503-9522
-- doi: 10.18653/v1/2024.emnlp-main.533
-- date basis: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing
+- Publisher: Association for Computational Linguistics
+- Pages: 9503-9522
+- DOI: 10.18653/v1/2024.emnlp-main.533
+- Date source: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2024.emnlp-main.533/
 
 ## Recorded arXiv snapshot

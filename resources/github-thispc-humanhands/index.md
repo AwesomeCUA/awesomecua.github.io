@@ -12,10 +12,6 @@ macOS computer-use agent that combines Accessibility-tree semantics with visual 
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:thispc/humanhands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thispc-humanhands/record.json
 
 ## License declarations

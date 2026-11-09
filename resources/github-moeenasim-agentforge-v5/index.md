@@ -12,10 +12,6 @@ Multi-agent adversarial evaluation and safety-checking laboratory for stress-tes
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:moeenasim/agentforge-v5
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-moeenasim-agentforge-v5/record.json
 
 ## License declarations

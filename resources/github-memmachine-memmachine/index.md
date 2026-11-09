@@ -12,10 +12,6 @@ MemMachine is an open-source memory layer for AI agents providing working, episo
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:memmachine/memmachine
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-memmachine-memmachine/record.json
 
 ## License declarations

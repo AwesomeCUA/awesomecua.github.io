@@ -12,10 +12,6 @@ AI beta-testing agent for physical iPhone applications that drives user journeys
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:psamme/pocketwatch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-psamme-pocketwatch/record.json
 
 ## License declarations

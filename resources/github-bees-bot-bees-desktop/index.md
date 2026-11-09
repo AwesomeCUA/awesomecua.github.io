@@ -12,10 +12,6 @@ Thread-based multi-agent desktop runtime allowing a team of AI agents to collabo
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:bees-bot/bees-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bees-bot-bees-desktop/record.json
 
 ## License declarations

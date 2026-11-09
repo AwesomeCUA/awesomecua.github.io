@@ -12,10 +12,6 @@ Model Context Protocol server for observing and controlling Linux KDE Plasma 6 W
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:atassis/kde-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-atassis-kde-mcp/record.json
 
 ## License declarations

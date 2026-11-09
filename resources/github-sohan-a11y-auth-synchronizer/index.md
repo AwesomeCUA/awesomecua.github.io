@@ -12,10 +12,6 @@ Synchronizes authenticated browser cookies and storage states across Playwright 
 - Evidence checked: 2026-11-04T17:20:50Z
 - ID: github:sohan-a11y/auth-synchronizer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sohan-a11y-auth-synchronizer/record.json
 
 ## License declarations

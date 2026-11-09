@@ -20,10 +20,10 @@ The archived repository retains TFRecord train/dev/test files for AppSim and Ref
 
 ## Structured profile
 
-- formats: TFRecord
-- modalities: text, bounding boxes, UI hierarchy metadata, Rico image identifiers
-- splits: AppSim train/dev/test, RefExp train/dev/test
-- supervision: similar UI element retrieval, referring-expression component retrieval
+- Formats: TFRecord
+- Modalities: text, bounding boxes, UI hierarchy metadata, Rico image identifiers
+- Splits: AppSim train/dev/test, RefExp train/dev/test
+- Supervision: similar UI element retrieval, referring-expression component retrieval
 
 ### Count observations
 

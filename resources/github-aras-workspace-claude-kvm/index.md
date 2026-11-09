@@ -12,10 +12,6 @@ Claude KVM is a macOS MCP server and VNC client that enables AI agents to observ
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:aras-workspace/claude-kvm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aras-workspace-claude-kvm/record.json
 
 ## License declarations

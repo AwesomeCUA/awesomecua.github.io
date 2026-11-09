@@ -12,10 +12,6 @@ MobileClaw is an open Android AI agent runtime for phone control, VLM screen rea
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:eggbrid2/mobileclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-eggbrid2-mobileclaw/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and deskt
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:inclusionai/ui-venus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-inclusionai-ui-venus/record.json
 
 ## License declarations

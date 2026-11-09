@@ -12,10 +12,6 @@ World-model and planning components that simulate web-action outcomes, with link
 - Evidence checked: 2026-10-16T10:43:11Z
 - ID: github:osu-nlp-group/webdreamer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/record.json
 
 ## License declarations

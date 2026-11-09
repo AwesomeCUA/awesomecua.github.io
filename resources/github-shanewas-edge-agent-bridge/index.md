@@ -12,10 +12,6 @@ Real-time AI agent bridge for Microsoft Edge operating over active authenticated
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:shanewas/edge-agent-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shanewas-edge-agent-bridge/record.json
 
 ## License declarations

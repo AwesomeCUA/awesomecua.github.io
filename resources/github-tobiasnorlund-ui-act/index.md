@@ -12,10 +12,6 @@ UI Act is a Linux desktop computer-use agent that operates alongside the user vi
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:tobiasnorlund/ui-act
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tobiasnorlund-ui-act/record.json
 
 ## License declarations

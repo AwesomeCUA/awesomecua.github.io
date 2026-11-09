@@ -35,13 +35,13 @@ Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Ka
 - Publication source: https://aclanthology.org/2025.naacl-long.26/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-07939/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-07939/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 597-622
-- doi: 10.18653/v1/2025.naacl-long.26
-- date basis: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 597-622
+- DOI: 10.18653/v1/2025.naacl-long.26
+- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.naacl-long.26/
 
 ## Recorded arXiv snapshot

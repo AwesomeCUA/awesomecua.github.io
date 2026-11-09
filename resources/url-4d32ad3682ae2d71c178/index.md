@@ -12,10 +12,6 @@ UI-TARS 1.5 GUI-agent checkpoint in the Qwen2.5-VL architecture with about 8.3B 
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:4d32ad3682ae2d71c178
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-4d32ad3682ae2d71c178/record.json
 
 ## License declarations

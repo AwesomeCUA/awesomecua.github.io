@@ -12,10 +12,6 @@ AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Bas
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:c918d5c828a3c6cfbc5d
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-c918d5c828a3c6cfbc5d/record.json
 
 ## License declarations

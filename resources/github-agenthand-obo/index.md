@@ -12,10 +12,6 @@ CLI and Chrome extension for controlling a user's logged-in Chrome browser from 
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:agenthand/obo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agenthand-obo/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Reins is a runtime security guardrail and policy enforcement layer that intercep
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:pegasi-ai/reins
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pegasi-ai-reins/record.json
 
 ## License declarations

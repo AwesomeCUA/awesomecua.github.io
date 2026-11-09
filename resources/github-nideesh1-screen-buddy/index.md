@@ -12,10 +12,6 @@ ScreenBuddy is a native Rust and Tauri macOS desktop client for running bring-yo
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:nideesh1/screen_buddy
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nideesh1-screen-buddy/record.json
 
 ## License declarations

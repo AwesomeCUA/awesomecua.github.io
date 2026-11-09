@@ -12,10 +12,6 @@ Lightweight in-browser AI agent framework that retrofits natural-language automa
 - Evidence checked: 2026-11-04T17:30:43Z
 - ID: github:hanhan666666/patchbridge-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/record.json
 
 ## License declarations

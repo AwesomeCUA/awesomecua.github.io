@@ -12,10 +12,6 @@ Local-only Model Context Protocol server that drives the user's already-open Chr
 - Evidence checked: 2026-11-04T17:30:40Z
 - ID: github:habaandrei/custom-chrome-dev-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-habaandrei-custom-chrome-dev-mcp/record.json
 
 ## License declarations

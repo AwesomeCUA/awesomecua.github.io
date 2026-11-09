@@ -20,11 +20,11 @@ The public Hub manifest contains one test Parquet file. This resource is the ben
 
 ## Structured profile
 
-- actions: not recorded
-- evaluation: The published task schema contains rubrics and human_reference_operations. No automated scoring protocol or single numeric agent metric is established by the inspected card; execution uses separately configured Android tooling.
-- focus: long-horizon multi-app Android task execution
-- observations: task instructions, app/scenario metadata
-- setting: interactive
+- Actions / outputs: not recorded
+- Evaluation: The published task schema contains rubrics and human_reference_operations. No automated scoring protocol or single numeric agent metric is established by the inspected card; execution uses separately configured Android tooling.
+- Focus: long-horizon multi-app Android task execution
+- Observations: task instructions, app/scenario metadata
+- Setting: interactive
 
 ### Count observations
 

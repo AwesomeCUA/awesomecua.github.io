@@ -12,10 +12,6 @@ WebQA Agent is an autonomous multimodal web testing agent that audits webpage fu
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:migoxlab/webqa-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-migoxlab-webqa-agent/record.json
 
 ## License declarations

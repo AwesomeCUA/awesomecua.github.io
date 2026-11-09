@@ -12,10 +12,6 @@ CLIF is a Windows desktop UI automation CLI and local MCP server for inspecting 
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:cmalpass/clif
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cmalpass-clif/record.json
 
 ## License declarations

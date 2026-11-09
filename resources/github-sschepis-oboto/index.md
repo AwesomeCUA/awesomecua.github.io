@@ -12,10 +12,6 @@ Oboto is a desktop AI assistant with browser automation, workspace management, a
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:sschepis/oboto
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sschepis-oboto/record.json
 
 ## License declarations

@@ -12,18 +12,14 @@ About 86,000 human-written question-answer pairs over 35,000 Rico mobile screens
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:google-research-datasets/screen_qa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-screen-qa/record.json
 
 ## Structured profile
 
-- formats: JSON
-- modalities: questions, answers, screen references, bounding boxes
-- splits: train, validation, test
-- supervision: screen question answering, answer grounding
+- Formats: JSON
+- Modalities: questions, answers, screen references, bounding boxes
+- Splits: train, validation, test
+- Supervision: screen question answering, answer grounding
 
 ### Count observations
 

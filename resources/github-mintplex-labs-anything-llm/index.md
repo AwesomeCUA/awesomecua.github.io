@@ -12,10 +12,6 @@ AnythingLLM is a local-first desktop and server application supporting custom AI
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:mintplex-labs/anything-llm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mintplex-labs-anything-llm/record.json
 
 ## License declarations

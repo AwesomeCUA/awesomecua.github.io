@@ -161,10 +161,6 @@ Natural-language querying and interaction tools for web interfaces.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:8896d44370711136fd54
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-8896d44370711136fd54/record.json
 
 ### License declarations
@@ -228,10 +224,6 @@ AWS service for building and deploying agents that automate browser-based UI wor
 - Evidence checked: 2026-10-17T17:18:21Z
 - ID: url:dec156cbf0cb1181f7b6
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-dec156cbf0cb1181f7b6/record.json
 
 ### License declarations
@@ -260,10 +252,6 @@ Agentic test-automation platform running plain-language test cases from pixels o
 - Topics: workflow
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:69d6afe38a9a128ba9f7
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/record.json
 
@@ -566,10 +554,6 @@ Hosted browser-agent platform from Browser Use.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:ef244017b1460269fc68
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-ef244017b1460269fc68/record.json
 
 ### License declarations
@@ -598,10 +582,6 @@ Managed web scraping platform with reusable browser interaction workflows.
 - Topics: workflow
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:7ae2670859e3796e8607
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-7ae2670859e3796e8607/record.json
 
@@ -632,10 +612,6 @@ Managed browser infrastructure for agent applications.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:978d1dcd70fde8661b9e
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/record.json
 
 ### License declarations
@@ -664,10 +640,6 @@ Hosted browser infrastructure for automation applications.
 - Topics: sandbox
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:1e6b8682e0f1ddc3d36f
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-1e6b8682e0f1ddc3d36f/record.json
 
@@ -765,10 +737,6 @@ OpenAI browser product integrating ChatGPT and agent capabilities.
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: url:240a05c02f85d4da60dc
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-240a05c02f85d4da60dc/record.json
 
 ### License declarations
@@ -865,10 +833,6 @@ Claude browser extension for interacting with websites.
 - Topics: web-navigation
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: url:07b6bbce7ce26a847f79
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-07b6bbce7ce26a847f79/record.json
 
@@ -1112,10 +1076,6 @@ Sandbox infrastructure for executing agent workloads.
 - Topics: sandbox
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:fda52d641c6b482bda7b
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-fda52d641c6b482bda7b/record.json
 
@@ -1386,10 +1346,6 @@ H browser extension for executing tasks through website interfaces.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:4a47a6df845735984bf1
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-4a47a6df845735984bf1/record.json
 
 ### License declarations
@@ -1418,10 +1374,6 @@ Browser infrastructure and automation services for AI agents.
 - Topics: sandbox
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:053ebfe0afac66c86222
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-053ebfe0afac66c86222/record.json
 
@@ -1561,10 +1513,6 @@ General agent platform with browser-based task execution.
 - Topics: workflow
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:d3414794302313051ff0
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-d3414794302313051ff0/record.json
 
@@ -1900,10 +1848,6 @@ Workflow recording and documentation product adjacent to agent data collection.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:63ef8c7e455951a20281
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-63ef8c7e455951a20281/record.json
 
 ### License declarations
@@ -1933,10 +1877,6 @@ Computer-use products and research from Simular.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:0bdd6b5ebf2e1f248828
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-0bdd6b5ebf2e1f248828/record.json
 
 ### License declarations
@@ -1965,10 +1905,6 @@ Hosted Skyvern service for AI browser workflows such as invoice downloads and fo
 - Topics: workflow
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:15ed5fd3cd950d837f98
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-15ed5fd3cd950d837f98/record.json
 
@@ -2035,10 +1971,6 @@ Managed browser infrastructure associated with Steel Browser.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:b940a884f200a916a61b
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-b940a884f200a916a61b/record.json
 
 ### License declarations
@@ -2103,10 +2035,6 @@ Browser-agent API for executing web tasks and extracting structured results.
 - Topics: web-navigation
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:d92596cfe618e5322ec2
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-d92596cfe618e5322ec2/record.json
 

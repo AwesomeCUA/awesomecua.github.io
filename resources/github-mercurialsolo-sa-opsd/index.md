@@ -12,10 +12,6 @@ Provides the cua_reliability evaluation toolkit and reference training code for 
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:mercurialsolo/sa-opsd
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mercurialsolo-sa-opsd/record.json
 
 ## License declarations

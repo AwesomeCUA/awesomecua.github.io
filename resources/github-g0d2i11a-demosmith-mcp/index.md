@@ -12,10 +12,6 @@ Model Context Protocol server that lets AI agents record automated browser produ
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:g0d2i11a/demosmith-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-g0d2i11a-demosmith-mcp/record.json
 
 ## License declarations

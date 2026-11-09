@@ -20,10 +20,10 @@ The card declares restricted academic research use and no redistribution. Annota
 
 ## Structured profile
 
-- formats: JSONL, JSON task recipes, TSV manifests
-- modalities: text, coordinates, image references
-- splits: full/train, point/train
-- supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
+- Formats: JSONL, JSON task recipes, TSV manifests
+- Modalities: text, coordinates, image references
+- Splits: full/train, point/train
+- Supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
 
 ### Count observations
 

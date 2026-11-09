@@ -12,10 +12,6 @@ Minimal 6-tool browser-agent harness whose entire tool definition fits in 1,196 
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:josharsh/pixelpi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-josharsh-pixelpi/record.json
 
 ## License declarations

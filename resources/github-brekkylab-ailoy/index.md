@@ -12,10 +12,6 @@ Ailoy is a multi-language AI agent SDK that provisions isolated microVM sandboxe
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:brekkylab/ailoy
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-brekkylab-ailoy/record.json
 
 ## License declarations

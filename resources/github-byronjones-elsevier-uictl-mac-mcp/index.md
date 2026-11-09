@@ -12,10 +12,6 @@ macOS GUI-automation CLI and Model Context Protocol server for coding agents.
 - Evidence checked: 2026-11-04T16:51:57Z
 - ID: github:byronjones-elsevier/uictl-mac-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-byronjones-elsevier-uictl-mac-mcp/record.json
 
 ## License declarations

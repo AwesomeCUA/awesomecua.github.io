@@ -12,10 +12,6 @@ Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency 
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:plasmate-labs/plasmate-benchmarks
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
 
 ## License declarations

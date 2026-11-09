@@ -12,10 +12,6 @@ Lightweight, self-healing Model Context Protocol server for native LLM web brows
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:arneld18/browser-harness-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arneld18-browser-harness-mcp/record.json
 
 ## License declarations

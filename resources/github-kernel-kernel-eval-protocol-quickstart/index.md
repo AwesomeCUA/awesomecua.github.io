@@ -12,10 +12,6 @@ Evaluates and fine-tunes vision-language browser agents using Eval Protocol, Ker
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:kernel/kernel-eval-protocol-quickstart
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ augur-sdk instruments screenshot-grounded computer-use agents to record structur
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:mercurialsolo/augur-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mercurialsolo-augur-sdk/record.json
 
 ## License declarations

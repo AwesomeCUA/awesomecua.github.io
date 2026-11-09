@@ -20,10 +20,10 @@ Hub release contains data.zip. Training-purpose and platform descriptions come f
 
 ## Structured profile
 
-- formats: ZIP package
-- modalities: GUI screenshots, action trajectories, generated reasoning
-- splits: training
-- supervision: human demonstration refinement, generated action reasoning, trajectory augmentation
+- Formats: ZIP package
+- Modalities: GUI screenshots, action trajectories, generated reasoning
+- Splits: training
+- Supervision: human demonstration refinement, generated action reasoning, trajectory augmentation
 
 ### Count observations
 

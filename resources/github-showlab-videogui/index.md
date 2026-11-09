@@ -12,10 +12,6 @@ Benchmark for desktop GUI tasks derived from instructional videos.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:showlab/videogui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-videogui/record.json
 
 ## License declarations

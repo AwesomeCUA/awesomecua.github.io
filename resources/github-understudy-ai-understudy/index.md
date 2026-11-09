@@ -12,10 +12,6 @@ Understudy observes human desktop and browser demonstrations and compiles them i
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:understudy-ai/understudy
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-understudy-ai-understudy/record.json
 
 ## License declarations

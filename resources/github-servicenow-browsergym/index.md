@@ -12,19 +12,15 @@ Unified interfaces for browser-agent tasks and benchmark environments.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:servicenow/browsergym
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-servicenow-browsergym/record.json
 
 ## Structured profile
 
-- actions: element-ID actions, coordinate mouse and keyboard actions, tab/navigation/scroll operations, Python/Playwright action mode
-- evaluation: Gymnasium reset/step interface delegates reward, completion, messages and task info to each adapter’s validate() method. There is no universal BrowserGym success metric or shared task total; retain benchmark/adapter version and action subset for comparisons.
-- focus: shared browser-agent evaluation interface, benchmark adapters with separate task definitions
-- observations: browser screenshot, DOM snapshot, accessibility tree, tab/URL state, previous action and its error, chat messages and task goal
-- setting: mixed
+- Actions / outputs: element-ID actions, coordinate mouse and keyboard actions, tab/navigation/scroll operations, Python/Playwright action mode
+- Evaluation: Gymnasium reset/step interface delegates reward, completion, messages and task info to each adapter’s validate() method. There is no universal BrowserGym success metric or shared task total; retain benchmark/adapter version and action subset for comparisons.
+- Focus: shared browser-agent evaluation interface, benchmark adapters with separate task definitions
+- Observations: browser screenshot, DOM snapshot, accessibility tree, tab/URL state, previous action and its error, chat messages and task goal
+- Setting: mixed
 
 ### Count observations
 

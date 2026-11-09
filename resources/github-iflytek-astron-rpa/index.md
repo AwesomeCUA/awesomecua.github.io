@@ -12,10 +12,6 @@ AstronRPA is an open-source enterprise desktop and browser RPA platform with vis
 - Evidence checked: 2026-11-04T13:12:18Z
 - ID: github:iflytek/astron-rpa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-iflytek-astron-rpa/record.json
 
 ## License declarations

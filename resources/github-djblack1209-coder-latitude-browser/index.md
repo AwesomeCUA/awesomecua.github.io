@@ -12,10 +12,6 @@ Desktop workspace for managing isolated browser profiles, proxy routing, and mul
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:djblack1209-coder/latitude-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-djblack1209-coder-latitude-browser/record.json
 
 ## License declarations

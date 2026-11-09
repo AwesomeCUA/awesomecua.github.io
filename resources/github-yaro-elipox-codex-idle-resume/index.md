@@ -12,10 +12,6 @@ Automatically resumes interrupted macOS Codex Computer Use tasks after system id
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:yaro-elipox/codex-idle-resume
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yaro-elipox-codex-idle-resume/record.json
 
 ## License declarations

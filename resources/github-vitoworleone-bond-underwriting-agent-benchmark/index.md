@@ -12,10 +12,6 @@ Chinese vertical long-horizon evaluation benchmark testing agents on multi-step 
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:vitoworleone/bond-underwriting-agent-benchmark
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vitoworleone-bond-underwriting-agent-benchmark/record.json
 
 ## License declarations

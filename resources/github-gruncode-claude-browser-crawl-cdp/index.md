@@ -12,10 +12,6 @@ Persistent Playwright REPL and CDP bridge allowing Claude Code to drive a user's
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:gruncode/claude-browser-crawl-cdp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gruncode-claude-browser-crawl-cdp/record.json
 
 ## License declarations

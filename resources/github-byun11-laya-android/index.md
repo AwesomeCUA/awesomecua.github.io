@@ -12,10 +12,6 @@ Laya-Android is a compact 322M on-device decision model for Android GUI action s
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:byun11/laya-android
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-byun11-laya-android/record.json
 
 ## License declarations

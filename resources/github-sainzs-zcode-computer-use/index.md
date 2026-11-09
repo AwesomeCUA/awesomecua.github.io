@@ -12,10 +12,6 @@ macOS computer-control MCP server for ZCode and coding agents combining screensh
 - Evidence checked: 2026-11-04T17:55:07Z
 - ID: github:sainzs/zcode-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sainzs-zcode-computer-use/record.json
 
 ## License declarations

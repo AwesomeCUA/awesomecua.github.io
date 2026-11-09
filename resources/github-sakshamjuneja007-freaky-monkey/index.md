@@ -12,10 +12,6 @@ Environment-aware autonomous computer-use agent that perceives OS state and exec
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:sakshamjuneja007/freaky-monkey
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sakshamjuneja007-freaky-monkey/record.json
 
 ## License declarations

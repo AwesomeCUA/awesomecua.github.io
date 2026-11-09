@@ -12,10 +12,6 @@ Minitap mobile-use is a multi-agent mobile automation system that controls physi
 - Evidence checked: 2026-11-04T13:12:25Z
 - ID: github:minitap-ai/mobile-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-minitap-ai-mobile-use/record.json
 
 ## License declarations

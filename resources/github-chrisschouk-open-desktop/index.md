@@ -12,10 +12,6 @@ Cloud desktop infrastructure and container sandbox engine paired with the OpenWo
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:chrisschouk/open-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chrisschouk-open-desktop/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Windows-only agent skill for provisioning an isolated Windows Sandbox VM and dri
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:2018wzh/windows-sandbox-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-2018wzh-windows-sandbox-computer-use/record.json
 
 ## License declarations

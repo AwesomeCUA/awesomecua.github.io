@@ -12,10 +12,6 @@ Android-native LLM phone agent operating directly on-device via Android Accessib
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:xiuqianli1996/androidclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiuqianli1996-androidclaw/record.json
 
 ## License declarations

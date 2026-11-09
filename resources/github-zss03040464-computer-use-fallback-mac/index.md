@@ -12,10 +12,6 @@ Window-scoped macOS Computer Use MCP server providing background window capture 
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:zss03040464/computer-use-fallback-mac
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zss03040464-computer-use-fallback-mac/record.json
 
 ## License declarations

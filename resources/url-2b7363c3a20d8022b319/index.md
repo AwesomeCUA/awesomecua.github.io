@@ -20,10 +20,10 @@ The card says each attempt holds step screenshots, a log.json action sequence, e
 
 ## Structured profile
 
-- formats: ZIP archives, gzip JSON, MP4
-- modalities: screenshots, action logs, evaluation results, video previews
-- splits: not recorded
-- supervision: agent execution trajectories with LLM-judged outcomes
+- Formats: ZIP archives, gzip JSON, MP4
+- Modalities: screenshots, action logs, evaluation results, video previews
+- Splits: not recorded
+- Supervision: agent execution trajectories with LLM-judged outcomes
 
 ### Count observations
 

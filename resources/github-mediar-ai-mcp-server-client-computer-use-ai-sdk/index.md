@@ -12,10 +12,6 @@ Computer Use AI SDK provides an MCP server and client that drives desktop applic
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:mediar-ai/mcp-server-client-computer-use-ai-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mediar-ai-mcp-server-client-computer-use-ai-sdk/record.json
 
 ## License declarations

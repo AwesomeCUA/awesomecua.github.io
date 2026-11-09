@@ -12,19 +12,15 @@ Self-contained workplace environment for evaluating agents on professional tasks
 - Evidence checked: 2026-10-16T10:42:34Z
 - ID: github:theagentcompany/theagentcompany
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-theagentcompany-theagentcompany/record.json
 
 ## Structured profile
 
-- actions: web browsing, code execution, coworker communication
-- evaluation: Task-specific evaluator scripts run within the prepared workplace environment.
-- focus: professional workflows, multi-tool tasks
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: web browsing, code execution, coworker communication
+- Evaluation: Task-specific evaluator scripts run within the prepared workplace environment.
+- Focus: professional workflows, multi-tool tasks
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

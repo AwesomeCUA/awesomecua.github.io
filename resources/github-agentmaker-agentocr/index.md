@@ -12,10 +12,6 @@ AgentOCR provides compact visual-token and OCR screen compression for accelerati
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:agentmaker/agentocr
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentmaker-agentocr/record.json
 
 ## License declarations

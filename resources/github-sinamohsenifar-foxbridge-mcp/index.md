@@ -12,10 +12,6 @@ Model Context Protocol server and Firefox WebExtension allowing AI assistants to
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:sinamohsenifar/foxbridge-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sinamohsenifar-foxbridge-mcp/record.json
 
 ## License declarations

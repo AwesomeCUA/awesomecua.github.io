@@ -20,10 +20,10 @@ The card calls this the official dataset repository of the AMEX paper. The full 
 
 ## Structured profile
 
-- formats: split ZIP archives, JSON, PNG
-- modalities: screenshots, element bounding boxes, functionality descriptions, instructions, actions
-- splits: not recorded
-- supervision: interactive-element grounding, screen and element functionality descriptions, instructions with stepwise GUI-action chains
+- Formats: split ZIP archives, JSON, PNG
+- Modalities: screenshots, element bounding boxes, functionality descriptions, instructions, actions
+- Splits: not recorded
+- Supervision: interactive-element grounding, screen and element functionality descriptions, instructions with stepwise GUI-action chains
 
 ### Count observations
 

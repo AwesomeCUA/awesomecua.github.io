@@ -12,10 +12,6 @@ Agentrooms is a native macOS and iOS application for coordinating multiple local
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:baryhuang/claude-code-by-agents
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-baryhuang-claude-code-by-agents/record.json
 
 ## License declarations

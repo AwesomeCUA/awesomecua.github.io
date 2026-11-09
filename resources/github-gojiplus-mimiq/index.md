@@ -12,10 +12,6 @@ mimiq is a dynamic end-to-end agentic simulation and web UI evaluation runner in
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:gojiplus/mimiq
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gojiplus-mimiq/record.json
 
 ## License declarations

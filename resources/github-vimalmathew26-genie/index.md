@@ -12,10 +12,6 @@ Genie is an autonomous Linux desktop agent with 3-tier UI resolution across AT-S
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:vimalmathew26/genie
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vimalmathew26-genie/record.json
 
 ## License declarations

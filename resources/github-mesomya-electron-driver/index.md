@@ -12,10 +12,6 @@ Model Context Protocol server that lets AI agents inspect, click, type, drag, an
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:mesomya/electron-driver
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mesomya-electron-driver/record.json
 
 ## License declarations

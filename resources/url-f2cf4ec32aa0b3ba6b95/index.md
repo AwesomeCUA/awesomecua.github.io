@@ -20,10 +20,10 @@ The card describes this as a subset of a collection of about 80k preprocessed ex
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: images, text, bounding boxes, OCR metadata
-- splits: train
-- supervision: instruction-to-target boxes, element annotations
+- Formats: Parquet
+- Modalities: images, text, bounding boxes, OCR metadata
+- Splits: train
+- Supervision: instruction-to-target boxes, element annotations
 
 ### Count observations
 

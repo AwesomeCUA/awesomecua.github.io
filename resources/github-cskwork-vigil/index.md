@@ -12,10 +12,6 @@ Continuous browser QA harness that reproduces reported bugs and autonomously exp
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:cskwork/vigil
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cskwork-vigil/record.json
 
 ## License declarations

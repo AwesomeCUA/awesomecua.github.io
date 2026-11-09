@@ -12,10 +12,6 @@ OmniInfer is a local LLM and VLM inference engine with OpenAI-compatible APIs fo
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:omnimind-ai/omniinfer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-omnimind-ai-omniinfer/record.json
 
 ## License declarations

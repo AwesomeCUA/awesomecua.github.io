@@ -20,10 +20,10 @@ The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automa
 
 ## Structured profile
 
-- formats: CSV, Python
-- modalities: text, Python code
-- splits: dev_set, test_set
-- supervision: task definitions for live-web agentic search, per-task judge-agent evaluation scripts
+- Formats: CSV, Python
+- Modalities: text, Python code
+- Splits: dev_set, test_set
+- Supervision: task definitions for live-web agentic search, per-task judge-agent evaluation scripts
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Reliability-first building blocks for unattended Android app automation, crash r
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:chuanchihsu1219/unattended-android-automation-toolkit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/record.json
 
 ## License declarations

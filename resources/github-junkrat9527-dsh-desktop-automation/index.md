@@ -12,10 +12,6 @@ macOS desktop automation plugin for DeepSeek Harness with a closed-loop screensh
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:junkrat9527/dsh-desktop-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-junkrat9527-dsh-desktop-automation/record.json
 
 ## License declarations

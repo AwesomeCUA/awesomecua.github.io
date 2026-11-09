@@ -12,10 +12,6 @@ Enhanced Browser-Use distribution adding the `bu_mcp` Model Context Protocol lay
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:draiqw/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-draiqw-browser-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ TypeScript Model Context Protocol server for inspecting and debugging live iPhon
 - Evidence checked: 2026-11-04T17:55:06Z
 - ID: github:rodneyrdx/safari-ios-webinspector-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rodneyrdx-safari-ios-webinspector-mcp/record.json
 
 ## License declarations

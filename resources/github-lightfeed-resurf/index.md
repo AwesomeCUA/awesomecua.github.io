@@ -12,10 +12,6 @@ Resurf is a deterministic, reproducible test environment for evaluating AI brows
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:lightfeed/resurf
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lightfeed-resurf/record.json
 
 ## License declarations

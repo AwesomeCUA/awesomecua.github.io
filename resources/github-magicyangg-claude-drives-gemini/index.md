@@ -12,10 +12,6 @@ Claude Code skill that drives a logged-in Google Gemini web session in Chrome fo
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:magicyangg/claude-drives-gemini
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-magicyangg-claude-drives-gemini/record.json
 
 ## License declarations

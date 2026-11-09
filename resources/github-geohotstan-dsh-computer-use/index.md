@@ -12,10 +12,6 @@ macOS computer-use plugin for DeepSeek Harness providing app listing, Accessibil
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:geohotstan/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-geohotstan-dsh-computer-use/record.json
 
 ## License declarations

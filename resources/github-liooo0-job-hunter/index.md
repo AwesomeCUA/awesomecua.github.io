@@ -12,10 +12,6 @@ AI-assisted job application browser agent that matches resumes to listings, auto
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:liooo0/job-hunter
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-liooo0-job-hunter/record.json
 
 ## License declarations

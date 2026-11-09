@@ -12,10 +12,6 @@ Checkpoints and resumes long-running Solari cloud browser sessions across 10-min
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:sy-d/outlive
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sy-d-outlive/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Internet of Agents (IoA) is a distributed framework for orchestrating heterogene
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:openbmb/ioa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openbmb-ioa/record.json
 
 ## License declarations

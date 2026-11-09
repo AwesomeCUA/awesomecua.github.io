@@ -12,10 +12,6 @@ MCP server and CLI that lets coding agents inspect, drive, and verify native Win
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:dimitar-radenkov/pointframe
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dimitar-radenkov-pointframe/record.json
 
 ## License declarations

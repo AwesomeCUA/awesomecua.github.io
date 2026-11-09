@@ -12,10 +12,6 @@ MCP Desktop Automation is a Model Context Protocol server using RobotJS to provi
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:tanob/mcp-desktop-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tanob-mcp-desktop-automation/record.json
 
 ## License declarations

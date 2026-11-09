@@ -12,10 +12,6 @@ Workflow recording and documentation product adjacent to agent data collection.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:63ef8c7e455951a20281
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-63ef8c7e455951a20281/record.json
 
 ## License declarations

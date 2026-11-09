@@ -12,10 +12,6 @@ SWE-agent introduces Agent-Computer Interfaces (ACI) enabling language models to
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:swe-agent/swe-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-swe-agent-swe-agent/record.json
 
 ## License declarations

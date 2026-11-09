@@ -12,10 +12,6 @@ Codex skill for reliable, filename-aware local file uploads into browser file-in
 - Evidence checked: 2026-11-04T17:55:09Z
 - ID: github:dev-newb/codex-file-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dev-newb-codex-file-bridge/record.json
 
 ## License declarations

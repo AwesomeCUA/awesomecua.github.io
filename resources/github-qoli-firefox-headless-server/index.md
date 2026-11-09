@@ -12,10 +12,6 @@ TypeScript Model Context Protocol server for launching and controlling headless 
 - Evidence checked: 2026-11-04T15:03:34Z
 - ID: github:qoli/firefox-headless-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qoli-firefox-headless-server/record.json
 
 ## License declarations

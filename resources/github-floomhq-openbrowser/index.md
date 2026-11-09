@@ -12,10 +12,6 @@ OpenBrowser is an open-source browser automation broker managing persistent Chro
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:floomhq/openbrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-floomhq-openbrowser/record.json
 
 ## License declarations

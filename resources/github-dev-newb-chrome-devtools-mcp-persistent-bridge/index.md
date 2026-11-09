@@ -12,10 +12,6 @@ Persistent, fail-closed Chrome DevTools Model Context Protocol bridge for OpenAI
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:dev-newb/chrome-devtools-mcp-persistent-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dev-newb-chrome-devtools-mcp-persistent-bridge/record.json
 
 ## License declarations

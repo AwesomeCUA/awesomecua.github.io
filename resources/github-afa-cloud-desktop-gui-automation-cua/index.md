@@ -12,10 +12,6 @@ macOS desktop GUI automation skill built on `cua-driver` combining Accessibility
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:afa-cloud/desktop-gui-automation-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-afa-cloud-desktop-gui-automation-cua/record.json
 
 ## License declarations

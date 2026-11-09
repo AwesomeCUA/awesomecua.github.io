@@ -12,10 +12,6 @@ Tsaagan is a verify-first browser control framework for AI agents that proves ev
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:michaelolmos/tsaagan
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-michaelolmos-tsaagan/record.json
 
 ## License declarations

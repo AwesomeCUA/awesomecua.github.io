@@ -12,10 +12,6 @@ Official Aloha Browser CLI and MCP server for driving a real browser with stable
 - Evidence checked: 2026-11-04T18:11:52Z
 - ID: github:alohabrowser/alohajet-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alohabrowser-alohajet-cli/record.json
 
 ## License declarations

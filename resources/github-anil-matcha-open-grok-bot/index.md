@@ -12,10 +12,6 @@ Local-first AI agent workspace featuring governed computer use, approval gates, 
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:anil-matcha/open-grok-bot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anil-matcha-open-grok-bot/record.json
 
 ## License declarations

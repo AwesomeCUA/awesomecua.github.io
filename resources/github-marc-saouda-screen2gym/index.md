@@ -12,10 +12,6 @@ screen2gym compiles raw action-labeled screen recordings into resettable, progra
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:marc-saouda/screen2gym
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-marc-saouda-screen2gym/record.json
 
 ## License declarations

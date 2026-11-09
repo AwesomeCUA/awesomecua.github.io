@@ -12,10 +12,6 @@ Model-agnostic Computer Use plugin for DeepSeek Harness combining an isolated br
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:xiaoheizi1212/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiaoheizi1212-dsh-computer-use/record.json
 
 ## License declarations

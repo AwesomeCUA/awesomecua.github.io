@@ -12,10 +12,6 @@ Token-efficient headless Chrome MCP server in Docker that records console, netwo
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:yyhezkel/lean-chronoscope-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yyhezkel-lean-chronoscope-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ PSAI Computer Use Dataset provides 3,167 human-computer interaction trajectories
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:anaishowland/computeruse-data-psai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/record.json
 
 ## License declarations

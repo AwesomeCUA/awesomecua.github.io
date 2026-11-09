@@ -12,10 +12,6 @@ Bridges Kimi Code CLI to local macOS desktop applications through the OpenAI Com
 - Evidence checked: 2026-11-04T13:12:36Z
 - ID: github:songkeys/kimi-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-songkeys-kimi-computer-use/record.json
 
 ## License declarations

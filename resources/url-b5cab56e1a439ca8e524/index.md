@@ -35,13 +35,13 @@ Zheng Hui, Yinheng Li, Dan Zhao, Colby Banbury, Tianyi Chen, Kazuhito Koishida
 - Publication source: https://aclanthology.org/2025.acl-short.85/
 - Publication BibTeX: https://awesomecua.com/resources/url-b5cab56e1a439ca8e524/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-b5cab56e1a439ca8e524/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)
-- publisher: Association for Computational Linguistics
-- pages: 1086-1096
-- doi: 10.18653/v1/2025.acl-short.85
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive. The same authors' WinClick preprint (arXiv 2503.04730) is a different work: this short paper cites it as prior work and centres on the WinSpot benchmark rather than the WinClick agent.
-- notes: Publisher proceedings edition (ACL 2025, Volume 2: Short Papers).
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 1086-1096
+- DOI: 10.18653/v1/2025.acl-short.85
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive. The same authors' WinClick preprint (arXiv 2503.04730) is a different work: this short paper cites it as prior work and centres on the WinSpot benchmark rather than the WinClick agent.
+- Source notes: Publisher proceedings edition (ACL 2025, Volume 2: Short Papers).
 - Publication evidence: https://aclanthology.org/2025.acl-short.85/
 
 ## License declarations

@@ -12,10 +12,6 @@ browxai provides unified MCP-native control over Chromium, Firefox, and native d
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:kalebteccom/browxai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kalebteccom-browxai/record.json
 
 ## License declarations

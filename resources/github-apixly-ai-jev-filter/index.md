@@ -12,10 +12,6 @@ Jev Filter uses compact System-One models to semantically prune large DOM snapsh
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:apixly-ai/jev-filter
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-apixly-ai-jev-filter/record.json
 
 ## License declarations

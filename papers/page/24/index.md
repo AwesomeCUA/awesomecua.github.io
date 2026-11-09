@@ -566,13 +566,13 @@ Yuanlei Wang, Liuzhou Zhang, Haohao Luo, Ying Shen
 - Publication source: https://aclanthology.org/2025.findings-emnlp.486
 - Publication BibTeX: https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: EMNLP 2025
-- publisher: Association for Computational Linguistics
-- pages: 9148-9160
-- doi: 10.18653/v1/2025.findings-emnlp.486
-- date basis: Crossref issued date 2025; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACL Anthology edition in Findings of EMNLP 2025.
+- Venue: Findings of the Association for Computational Linguistics: EMNLP 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 9148-9160
+- DOI: 10.18653/v1/2025.findings-emnlp.486
+- Date source: Crossref issued date 2025; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACL Anthology edition in Findings of EMNLP 2025.
 - Publication evidence: https://api.crossref.org/works/10.18653/v1/2025.findings-emnlp.486, https://aclanthology.org/2025.findings-emnlp.486/
 
 ### License declarations
@@ -627,13 +627,13 @@ Xiwen Teoh, Yun Lin, Siqi Li, Ruofan Liu, Avi Sollomoni, Yaniv Harel, Jin Song D
 - Publication source: https://www.usenix.org/conference/usenixsecurity25/presentation/teoh
 - Publication BibTeX: https://awesomecua.com/resources/url-6942e8211a0f59eb7878/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-6942e8211a0f59eb7878/publication-citation.csl.json
-- venue: Proceedings of the 34th USENIX Security Symposium
-- publisher: USENIX Association
-- pages: 3747-3766
-- date basis: Supplied year precision: 2025. The proceedings PDF cover places the paper in the 34th USENIX Security Symposium; the symposium dates are kept as event dates, not a publication date.
-- event dates: August 13–15, 2025
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint of this work.
-- notes: Open-access USENIX Security 2025 proceedings edition; the cover prints ISBN 978-1-939133-52-6. USENIX assigns no DOI.
+- Venue: Proceedings of the 34th USENIX Security Symposium
+- Publisher: USENIX Association
+- Pages: 3747-3766
+- Date source: Supplied year precision: 2025. The proceedings PDF cover places the paper in the 34th USENIX Security Symposium; the symposium dates are kept as event dates, not a publication date.
+- Event dates: August 13–15, 2025
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint of this work.
+- Source notes: Open-access USENIX Security 2025 proceedings edition; the cover prints ISBN 978-1-939133-52-6. USENIX assigns no DOI.
 - Publication evidence: https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf
 
 ### License declarations
@@ -688,14 +688,14 @@ Nazmus Sakib, Protoy Barai, Sifat Ishmam Parisa, Anindya Iqbal
 - Publication source: https://ceur-ws.org/Vol-4028/paper8.pdf
 - Publication BibTeX: https://awesomecua.com/resources/url-3fdea133115518f9205a/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-3fdea133115518f9205a/publication-citation.csl.json
-- venue: From Objects to Agents 2025
-- publisher: CEUR-WS.org
-- series: CEUR Workshop Proceedings
-- volume: 4028
-- pages: 106-123
-- date basis: Year from the CEUR-WS Vol-4028 volume page copyright line (2025); no month or day is given.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the PDF and the Vol-4028 table of contents give the same title and authors.
-- notes: Open-access CEUR-WS paper in the From Objects to Agents 2025 volume, pages 106-123, published under CC BY 4.0. The PDF links code, data and trained models.
+- Venue: From Objects to Agents 2025
+- Publisher: CEUR-WS.org
+- Series: CEUR Workshop Proceedings
+- Volume: 4028
+- Pages: 106-123
+- Date source: Year from the CEUR-WS Vol-4028 volume page copyright line (2025); no month or day is given.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the PDF and the Vol-4028 table of contents give the same title and authors.
+- Source notes: Open-access CEUR-WS paper in the From Objects to Agents 2025 volume, pages 106-123, published under CC BY 4.0. The PDF links code, data and trained models.
 - Publication evidence: https://ceur-ws.org/Vol-4028/, https://ceur-ws.org/Vol-4028/paper8.pdf
 
 ### License declarations
@@ -750,13 +750,13 @@ Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhe
 - Publication source: https://aclanthology.org/2025.acl-long.277/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-19723/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-19723/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 5555-5579
-- doi: 10.18653/v1/2025.acl-long.277
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 5555-5579
+- DOI: 10.18653/v1/2025.acl-long.277
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.277/
 
 ### Recorded arXiv snapshot
@@ -976,13 +976,13 @@ Yuhao Yang, Yue Wang, Dongxu Li, Ziyang Luo, Bei Chen, Chao Huang, Junnan Li
 - Publication source: https://aclanthology.org/2025.findings-acl.1152/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-16256/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-16256/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 22418-22433
-- doi: 10.18653/v1/2025.findings-acl.1152
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 22418-22433
+- DOI: 10.18653/v1/2025.findings-acl.1152
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.1152/
 
 ### Recorded arXiv snapshot
@@ -1127,10 +1127,6 @@ Categorizes GUI-agent benchmarks, evaluation metrics, architectures, and trainin
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2412.13501
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-13501/record.json
 
 ### Authors
@@ -1150,13 +1146,13 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 - Publication source: https://aclanthology.org/2025.findings-acl.1158/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-13501/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-13501/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 22522-22538
-- doi: 10.18653/v1/2025.findings-acl.1158
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 22522-22538
+- DOI: 10.18653/v1/2025.findings-acl.1158
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.1158/
 
 ### Recorded arXiv snapshot
@@ -1740,13 +1736,13 @@ Yiqin Wang, Haoji Zhang, Jingqi Tian, Yansong Tang
 - Publication source: https://aclanthology.org/2025.findings-acl.76/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-01268/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-01268/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 1461-1473
-- doi: 10.18653/v1/2025.findings-acl.76
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 1461-1473
+- DOI: 10.18653/v1/2025.findings-acl.76
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.76/
 
 ### Recorded arXiv snapshot
@@ -1838,10 +1834,6 @@ Survey of LLM-brained GUI agents that carry out natural-language instructions ac
 - Topics: survey
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2411.18279
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-18279/record.json
 
@@ -1966,11 +1958,11 @@ Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai,
 - Publication source: https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2411-17465/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2411-17465/publication-citation.csl.json
-- venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
-- pages: 19498-19508
-- date basis: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+- Pages: 19498-19508
+- Date source: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html
 
 ### Recorded arXiv snapshot
@@ -2086,13 +2078,13 @@ Gaurav Verma, Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Tucker Balch, Manuela
 - Publication source: https://aclanthology.org/2025.acl-long.1008/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2411-13451/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2411-13451/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 20635-20651
-- doi: 10.18653/v1/2025.acl-long.1008
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 20635-20651
+- DOI: 10.18653/v1/2025.acl-long.1008
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.1008/
 
 ### Recorded arXiv snapshot
@@ -2393,10 +2385,6 @@ Survey of (M)LLM-based GUI agents organized around their datasets and benchmarks
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2411.04890
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-04890/record.json
 
 ### Authors
@@ -2573,13 +2561,13 @@ Yanzhe Zhang, Tao Yu, Diyi Yang
 - Publication source: https://aclanthology.org/2025.acl-long.411/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2411-02391/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2411-02391/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 8387-8401
-- doi: 10.18653/v1/2025.acl-long.411
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 8387-8401
+- DOI: 10.18653/v1/2025.acl-long.411
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.411/
 
 ### Recorded arXiv snapshot
@@ -2747,13 +2735,13 @@ Boyuan Zheng, Boyu Gou, Scott Salisbury, Zheng Du, Huan Sun, Yu Su
 - Publication source: https://aclanthology.org/2024.emnlp-demo.20/
 - Publication BibTeX: https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/publication-citation.csl.json
-- venue: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
-- publisher: Association for Computational Linguistics
-- pages: 187-197
-- doi: 10.18653/v1/2024.emnlp-demo.20
-- date basis: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
-- notes: Publisher proceedings edition (EMNLP 2024 System Demonstrations).
+- Venue: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
+- Publisher: Association for Computational Linguistics
+- Pages: 187-197
+- DOI: 10.18653/v1/2024.emnlp-demo.20
+- Date source: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
+- Source notes: Publisher proceedings edition (EMNLP 2024 System Demonstrations).
 - Publication evidence: https://aclanthology.org/2024.emnlp-demo.20/
 
 ### License declarations
@@ -2808,13 +2796,13 @@ Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Da
 - Publication source: https://aclanthology.org/2025.acl-long.107/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-24024/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-24024/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 2144-2166
-- doi: 10.18653/v1/2025.acl-long.107
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 2144-2166
+- DOI: 10.18653/v1/2025.acl-long.107
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.acl-long.107/
 
 ### Recorded arXiv snapshot
@@ -2930,13 +2918,13 @@ Haoyi Qiu, Alexander R. Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, 
 - Publication source: https://aclanthology.org/2025.findings-naacl.222/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-23252/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-23252/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: NAACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 3978-4005
-- doi: 10.18653/v1/2025.findings-naacl.222
-- date basis: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Findings of the Association for Computational Linguistics: NAACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 3978-4005
+- DOI: 10.18653/v1/2025.findings-naacl.222
+- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.findings-naacl.222/
 
 ### Recorded arXiv snapshot
@@ -3104,13 +3092,13 @@ Difei Gao, Siyuan Hu, Zechen Bai, Qinghong Lin, Mike Zheng Shou
 - Publication source: https://dl.acm.org/doi/abs/10.1145/3664647.3684998
 - Publication BibTeX: https://awesomecua.com/resources/url-377f5418e39ff2da971f/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-377f5418e39ff2da971f/publication-citation.csl.json
-- venue: Proceedings of the 32nd ACM International Conference on Multimedia
-- publisher: ACM
-- pages: 11255-11257
-- doi: 10.1145/3664647.3684998
-- date basis: Crossref issued date 2024-10-28; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACM Multimedia 2024 proceedings paper; the abstract was read from OpenAlex.
+- Venue: Proceedings of the 32nd ACM International Conference on Multimedia
+- Publisher: ACM
+- Pages: 11255-11257
+- DOI: 10.1145/3664647.3684998
+- Date source: Crossref issued date 2024-10-28; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACM Multimedia 2024 proceedings paper; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3664647.3684998, https://api.openalex.org/works/doi:10.1145/3664647.3684998
 
 ### License declarations
@@ -3217,13 +3205,13 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, Tianqing Fang, Z
 - Publication source: https://aclanthology.org/2025.acl-long.1336/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-19609/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-19609/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 27545-27564
-- doi: 10.18653/v1/2025.acl-long.1336
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 27545-27564
+- DOI: 10.18653/v1/2025.acl-long.1336
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.1336/
 
 ### Recorded arXiv snapshot
@@ -3339,12 +3327,12 @@ Lawrence Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Ro
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-19100/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-19100/publication-citation.csl.json
-- venue: International Conference on Learning Representations
-- volume: 2025
-- pages: 36934-36958
-- date basis: Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: International Conference on Learning Representations
+- Volume: 2025
+- Pages: 36934-36958
+- Date source: Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html
 
 ### Recorded arXiv snapshot

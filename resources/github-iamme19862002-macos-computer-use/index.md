@@ -12,10 +12,6 @@ macos-computer-use is a native Swift CLI toolkit providing 68+ commands for macO
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:iamme19862002/macos-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-iamme19862002-macos-computer-use/record.json
 
 ## License declarations

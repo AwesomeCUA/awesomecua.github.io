@@ -12,10 +12,6 @@ Agent-agnostic skill that watches a user demonstrate a browser or desktop workfl
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:ugarchance/record-and-replay-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ugarchance-record-and-replay-skill/record.json
 
 ## License declarations

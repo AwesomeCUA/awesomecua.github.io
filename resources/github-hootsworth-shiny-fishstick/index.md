@@ -12,10 +12,6 @@ Semantic web compiler that crawls websites and compiles them into typed, reusabl
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:hootsworth/shiny-fishstick
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hootsworth-shiny-fishstick/record.json
 
 ## License declarations

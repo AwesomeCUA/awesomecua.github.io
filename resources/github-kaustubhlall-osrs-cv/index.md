@@ -12,10 +12,6 @@ Uses YOLOv8 object detection, Tesseract OCR, and human-like Bézier mouse trajec
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:kaustubhlall/osrs-cv
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kaustubhlall-osrs-cv/record.json
 
 ## License declarations

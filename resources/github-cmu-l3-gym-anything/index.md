@@ -20,11 +20,11 @@ Official code of the Gym-Anything paper. The README describes three parts that c
 
 ## Structured profile
 
-- actions: mouse, keyboard
-- evaluation: Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
-- focus: long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
-- observations: screen frames, UI tree (some macOS environments)
-- setting: interactive
+- Actions / outputs: mouse, keyboard
+- Evaluation: Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
+- Focus: long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
+- Observations: screen frames, UI tree (some macOS environments)
+- Setting: interactive
 
 ### Count observations
 

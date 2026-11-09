@@ -12,10 +12,6 @@ Autonomous real-browser interaction engine and Chrome extension bridge exposing 
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:virajverse/spectra-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-virajverse-spectra-browser-mcp/record.json
 
 ## License declarations

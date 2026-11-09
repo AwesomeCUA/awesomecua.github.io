@@ -12,19 +12,15 @@ Simulated shopping environment for instruction-following web agents.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:princeton-nlp/webshop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-princeton-nlp-webshop/record.json
 
 ## Structured profile
 
-- actions: search queries, click actions, product option selection
-- evaluation: not recorded
-- focus: instruction-conditioned product selection, web navigation
-- observations: HTML pages, simplified text views
-- setting: interactive
+- Actions / outputs: search queries, click actions, product option selection
+- Evaluation: not recorded
+- Focus: instruction-conditioned product selection, web navigation
+- Observations: HTML pages, simplified text views
+- Setting: interactive
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Multimodal personal AI desktop assistant with voice interaction, persistent memo
 - Evidence checked: 2026-11-04T17:30:36Z
 - ID: github:thomas-adrian-soler-nilsson/agente_pessoal
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thomas-adrian-soler-nilsson-agente-pessoal/record.json
 
 ## License declarations

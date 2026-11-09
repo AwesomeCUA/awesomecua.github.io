@@ -12,10 +12,6 @@ SightRig is a traceable runtime and visual workbench for inspecting, guarding, a
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:coetzeexu/sightrig
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-coetzeexu-sightrig/record.json
 
 ## License declarations

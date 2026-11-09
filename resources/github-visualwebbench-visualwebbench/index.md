@@ -12,10 +12,6 @@ Evaluation of multimodal models on visual web understanding tasks.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:visualwebbench/visualwebbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-visualwebbench-visualwebbench/record.json
 
 ## License declarations

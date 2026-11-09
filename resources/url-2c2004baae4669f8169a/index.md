@@ -12,18 +12,14 @@ Desktop GUI data for interface understanding and interaction research.
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:2c2004baae4669f8169a
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-2c2004baae4669f8169a/record.json
 
 ## Structured profile
 
-- formats: JSON annotations, image files
-- modalities: screenshots, bounding boxes, UI labels, action annotations
-- splits: not recorded
-- supervision: element grounding, layout grounding, action prediction
+- Formats: JSON annotations, image files
+- Modalities: screenshots, bounding boxes, UI labels, action annotations
+- Splits: not recorded
+- Supervision: element grounding, layout grounding, action prediction
 
 ### Count observations
 

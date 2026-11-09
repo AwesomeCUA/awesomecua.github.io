@@ -12,10 +12,6 @@ Guardrailed plugin suite for DeepSeek Harness covering browser automation, deskt
 - Evidence checked: 2026-11-04T17:20:50Z
 - ID: github:djangoailab/dsh-plugins
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-djangoailab-dsh-plugins/record.json
 
 ## License declarations

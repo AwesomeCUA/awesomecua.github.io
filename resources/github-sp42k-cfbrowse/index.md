@@ -12,10 +12,6 @@ Go Chrome DevTools Protocol driver that resolves interactive anti-bot challenges
 - Evidence checked: 2026-11-04T17:55:07Z
 - ID: github:sp42k/cfbrowse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sp42k-cfbrowse/record.json
 
 ## License declarations

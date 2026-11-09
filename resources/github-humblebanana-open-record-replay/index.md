@@ -12,10 +12,6 @@ Open Record/Replay records macOS user demonstrations with Accessibility metadata
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:humblebanana/open-record-replay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-humblebanana-open-record-replay/record.json
 
 ## License declarations

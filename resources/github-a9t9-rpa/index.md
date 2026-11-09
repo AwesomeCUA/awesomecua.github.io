@@ -12,10 +12,6 @@ Ui.Vision combines Selenium-compatible browser commands, visual desktop OCR/temp
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:a9t9/rpa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-a9t9-rpa/record.json
 
 ## License declarations

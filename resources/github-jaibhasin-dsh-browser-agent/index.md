@@ -12,10 +12,6 @@ Chrome side-panel autonomous browser agent powered by DeepSeek Harness.
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:jaibhasin/dsh-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jaibhasin-dsh-browser-agent/record.json
 
 ## License declarations

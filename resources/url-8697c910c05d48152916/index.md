@@ -12,10 +12,6 @@ Android GUI benchmark dataset from Step-GUI containing 3,146 static action evalu
 - Evidence checked: 2026-10-17T02:42:32Z
 - ID: url:8697c910c05d48152916
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-8697c910c05d48152916/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Hermes Agent plugin that temporarily hands the agent's browser session to a huma
 - Evidence checked: 2026-11-04T18:11:32Z
 - ID: github:kfastov/hermes-plugin-login-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kfastov-hermes-plugin-login-bridge/record.json
 
 ## License declarations

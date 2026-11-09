@@ -12,10 +12,6 @@ Records human GUI demonstrations into human-readable, diffable CLI transcripts f
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:ellmos-ai/clirec
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ellmos-ai-clirec/record.json
 
 ## License declarations

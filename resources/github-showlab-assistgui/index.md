@@ -12,10 +12,6 @@ LLM-based assistant for automating work in desktop productivity software by watc
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:showlab/assistgui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-assistgui/record.json
 
 ## License declarations

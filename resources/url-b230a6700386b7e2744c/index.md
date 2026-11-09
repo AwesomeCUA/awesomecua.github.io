@@ -35,14 +35,14 @@ Jorge Ribeiro, Rui Lima, Tiago Eckhardt, Sara Paiva
 - Publication source: https://www.sciencedirect.com/science/article/pii/S1877050921001393
 - Publication BibTeX: https://awesomecua.com/resources/url-b230a6700386b7e2744c/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-b230a6700386b7e2744c/publication-citation.csl.json
-- venue: Procedia Computer Science
-- publisher: Elsevier BV
-- volume: 181
-- pages: 51-58
-- doi: 10.1016/j.procs.2021.01.104
-- date basis: Crossref issued date 2021; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Procedia Computer Science article; the abstract was read from OpenAlex.
+- Venue: Procedia Computer Science
+- Publisher: Elsevier BV
+- Volume: 181
+- Pages: 51-58
+- DOI: 10.1016/j.procs.2021.01.104
+- Date source: Crossref issued date 2021; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Procedia Computer Science article; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1016/j.procs.2021.01.104, https://api.openalex.org/works/doi:10.1016/j.procs.2021.01.104
 
 ## License declarations

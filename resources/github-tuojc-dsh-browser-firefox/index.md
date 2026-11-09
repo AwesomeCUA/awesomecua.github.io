@@ -12,10 +12,6 @@ Firefox browser-control plugin and extension for DeepSeek Harness enabling agent
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:tuojc/dsh-browser-firefox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/record.json
 
 ## License declarations

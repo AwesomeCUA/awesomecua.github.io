@@ -12,10 +12,6 @@ AgenticX-GUIAgent is a multi-agent Android GUI automation system with coordinate
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:demondamon/agenticx-guiagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-demondamon-agenticx-guiagent/record.json
 
 ## License declarations

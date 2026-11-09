@@ -12,10 +12,6 @@ Playwright-shaped browser automation library for driving live Chromium pages ins
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:loyality7/webdroid
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-loyality7-webdroid/record.json
 
 ## License declarations

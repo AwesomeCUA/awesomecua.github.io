@@ -12,10 +12,6 @@ Chrome extension providing page-aware Q&A and user-approved browser actions powe
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:kushatish/ai-browser-copilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kushatish-ai-browser-copilot/record.json
 
 ## License declarations

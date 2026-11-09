@@ -12,10 +12,6 @@ Chrome extension and local relay bridging AI coding agents directly to active br
 - Evidence checked: 2026-11-04T17:20:52Z
 - ID: github:matthewalexong/agent-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-matthewalexong-agent-bridge/record.json
 
 ## License declarations

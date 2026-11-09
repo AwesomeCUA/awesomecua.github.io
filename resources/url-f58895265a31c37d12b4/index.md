@@ -35,12 +35,12 @@ Jungseob Lee
 - Publication source: https://www.preprints.org/manuscript/202608.0265/v1
 - Publication BibTeX: https://awesomecua.com/resources/url-f58895265a31c37d12b4/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-f58895265a31c37d12b4/publication-citation.csl.json
-- venue: Preprints.org
-- publisher: MDPI AG
-- doi: 10.20944/preprints202608.0265.v1
-- date basis: Crossref issued date 2026-8-5; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
+- Venue: Preprints.org
+- Publisher: MDPI AG
+- DOI: 10.20944/preprints202608.0265.v1
+- Date source: Crossref issued date 2026-8-5; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
 - Publication evidence: https://api.crossref.org/works/10.20944/preprints202608.0265.v1, https://api.openalex.org/works/doi:10.20944/preprints202608.0265.v1
 
 ## License declarations

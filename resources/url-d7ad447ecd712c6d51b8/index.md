@@ -12,10 +12,6 @@ Preview GELab-Zero phone-use agent checkpoint fine-tuned from Qwen3-VL-4B-Instru
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:d7ad447ecd712c6d51b8
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-d7ad447ecd712c6d51b8/record.json
 
 ## License declarations

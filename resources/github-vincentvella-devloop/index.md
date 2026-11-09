@@ -12,10 +12,6 @@ Model Context Protocol server that correlates headless browser automation action
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:vincentvella/devloop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vincentvella-devloop/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility obs
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:anionex/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anionex-dsh-computer-use/record.json
 
 ## License declarations

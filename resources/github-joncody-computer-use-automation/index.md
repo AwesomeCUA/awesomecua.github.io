@@ -12,10 +12,6 @@ Two-phase computer-use automation framework that compiles LLM-driven UI discover
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:joncody/computer-use-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-joncody-computer-use-automation/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Voice-first Windows AI desktop assistant powered by Gemini Live with screen visi
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:chinmaybitne/astra-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chinmaybitne-astra-ai/record.json
 
 ## License declarations

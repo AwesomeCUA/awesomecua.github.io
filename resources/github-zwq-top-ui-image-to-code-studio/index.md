@@ -12,10 +12,6 @@ Codex skill for converting UI screenshots and live websites into React, Vue, or 
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:zwq-top/ui-image-to-code-studio
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zwq-top-ui-image-to-code-studio/record.json
 
 ## License declarations

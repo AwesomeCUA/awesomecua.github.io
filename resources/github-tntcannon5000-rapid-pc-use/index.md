@@ -12,10 +12,6 @@ High-speed native Windows desktop control bridge for Codex and ChatGPT desktop.
 - Evidence checked: 2026-11-04T16:51:43Z
 - ID: github:tntcannon5000/rapid-pc-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tntcannon5000-rapid-pc-use/record.json
 
 ## License declarations

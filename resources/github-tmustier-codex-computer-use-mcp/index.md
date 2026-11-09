@@ -12,10 +12,6 @@ Background-safe MCP server that exposes OpenAI's signed macOS Codex Computer Use
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:tmustier/codex-computer-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tmustier-codex-computer-use-mcp/record.json
 
 ## License declarations

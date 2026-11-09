@@ -12,10 +12,6 @@ Windows computer-use npm package for DeepSeek Harness supporting UI Automation t
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:yu-tao-li/dsh-computer-use-win
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yu-tao-li-dsh-computer-use-win/record.json
 
 ## License declarations

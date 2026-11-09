@@ -12,10 +12,6 @@ Playwright browser-pool MCP server providing 75 tools, shared authentication pro
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:zbrooklyn-claude-labs/playwright-pool
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zbrooklyn-claude-labs-playwright-pool/record.json
 
 ## License declarations

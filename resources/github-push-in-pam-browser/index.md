@@ -12,10 +12,6 @@ Typed Chrome DevTools Protocol client for PHP running on the PAM runtime.
 - Evidence checked: 2026-11-04T17:30:44Z
 - ID: github:push-in/pam-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-push-in-pam-browser/record.json
 
 ## License declarations

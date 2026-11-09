@@ -12,10 +12,6 @@ macOS-Use is a GUI desktop agent that reads the macOS Accessibility tree and exe
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:jeomon/macos-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jeomon-macos-use/record.json
 
 ## License declarations

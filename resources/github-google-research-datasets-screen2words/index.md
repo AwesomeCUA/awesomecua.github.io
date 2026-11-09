@@ -12,18 +12,14 @@ Mobile screen descriptions for language-based screen understanding.
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:google-research-datasets/screen2words
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-screen2words/record.json
 
 ## Structured profile
 
-- formats: CSV
-- modalities: text summaries, RICO screen references
-- splits: train, dev, test
-- supervision: screen summarization
+- Formats: CSV
+- Modalities: text summaries, RICO screen references
+- Splits: train, dev, test
+- Supervision: screen summarization
 
 ### Count observations
 

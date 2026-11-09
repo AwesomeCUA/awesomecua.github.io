@@ -12,10 +12,6 @@ Offline computer-use agent combining Ollama vision-language models (`qwen3-vl`, 
 - Evidence checked: 2026-11-04T14:41:54Z
 - ID: github:storage1n1/local-computer-use-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-storage1n1-local-computer-use-agent/record.json
 
 ## License declarations

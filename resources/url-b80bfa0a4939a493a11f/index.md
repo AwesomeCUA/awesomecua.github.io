@@ -12,18 +12,14 @@ Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archive
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:b80bfa0a4939a493a11f
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-b80bfa0a4939a493a11f/record.json
 
 ## Structured profile
 
-- formats: 7z app-graph archives, multipart 7z files
-- modalities: not recorded
-- splits: partial training release
-- supervision: mobile UI pretraining for MobileVLM
+- Formats: 7z app-graph archives, multipart 7z files
+- Modalities: not recorded
+- Splits: partial training release
+- Supervision: mobile UI pretraining for MobileVLM
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Self-hosted one-tab mobile handoff relay that lets a human remotely solve login,
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:zdayang/remote-login-relay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zdayang-remote-login-relay/record.json
 
 ## License declarations

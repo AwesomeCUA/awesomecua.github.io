@@ -12,10 +12,6 @@ WinDeskGround benchmarks desktop GUI grounding in multi-window Windows environme
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:zzzhr-1/windeskground
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zzzhr-1-windeskground/record.json
 
 ## License declarations

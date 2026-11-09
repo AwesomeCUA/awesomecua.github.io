@@ -12,10 +12,6 @@ Browser-native WebMCP authority boundary where visiting agents stage reviewable 
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:eloiramos/redline
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-eloiramos-redline/record.json
 
 ## License declarations

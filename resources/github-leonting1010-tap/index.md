@@ -12,10 +12,6 @@ Captures a logged-in browser task demonstration once and compiles it into a dete
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:leonting1010/tap
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-leonting1010-tap/record.json
 
 ## License declarations

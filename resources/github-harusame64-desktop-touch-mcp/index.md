@@ -12,10 +12,6 @@ Windows computer-use MCP server that drives desktop applications via semantic di
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:harusame64/desktop-touch-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-harusame64-desktop-touch-mcp/record.json
 
 ## License declarations

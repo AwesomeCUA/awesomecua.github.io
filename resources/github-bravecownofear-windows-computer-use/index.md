@@ -12,10 +12,6 @@ Local Windows computer-use plugin for Codex combining UIA3 semantic trees, MCP t
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:bravecownofear/windows-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bravecownofear-windows-computer-use/record.json
 
 ## License declarations

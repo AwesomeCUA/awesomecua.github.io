@@ -12,10 +12,6 @@ Mobile-native agent SDK by Ant Group for building on-device AI agents with sandb
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:antgroup/napaxi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-antgroup-napaxi/record.json
 
 ## License declarations

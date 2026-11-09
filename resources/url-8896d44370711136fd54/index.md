@@ -12,10 +12,6 @@ Natural-language querying and interaction tools for web interfaces.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:8896d44370711136fd54
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-8896d44370711136fd54/record.json
 
 ## License declarations

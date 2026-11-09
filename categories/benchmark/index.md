@@ -22,19 +22,15 @@ Execution-based evaluation of agents performing tasks in real desktop environmen
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:xlang-ai/osworld
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-osworld/record.json
 
 ### Structured profile
 
-- actions: mouse and keyboard via PyAutoGUI
-- evaluation: Task-specific execution-based evaluators inspect application or system state.
-- focus: task completion, cross-application workflows
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: mouse and keyboard via PyAutoGUI
+- Evaluation: Task-specific execution-based evaluators inspect application or system state.
+- Focus: task completion, cross-application workflows
+- Observations: screenshots
+- Setting: interactive
 
 #### Count observations
 
@@ -74,19 +70,15 @@ Self-hosted web environments and tasks for evaluating autonomous web agents.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:web-arena-x/webarena
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-web-arena-x-webarena/record.json
 
 ### Structured profile
 
-- actions: browser element actions
-- evaluation: Functional correctness of completed web tasks.
-- focus: web task completion
-- observations: HTML or accessibility tree
-- setting: interactive
+- Actions / outputs: browser element actions
+- Evaluation: Functional correctness of completed web tasks.
+- Focus: web task completion
+- Observations: HTML or accessibility tree
+- Setting: interactive
 
 #### Count observations
 
@@ -123,19 +115,15 @@ Android environment with programmatic task evaluation for mobile agents.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:google-research/android_world
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-research-android-world/record.json
 
 ### Structured profile
 
-- actions: Android device interactions
-- evaluation: Programmatic task-specific initialization, system-state success checks, and teardown.
-- focus: mobile task completion
-- observations: screenshots, accessibility information
-- setting: interactive
+- Actions / outputs: Android device interactions
+- Evaluation: Programmatic task-specific initialization, system-state success checks, and teardown.
+- Focus: mobile task completion
+- Observations: screenshots, accessibility information
+- Setting: interactive
 
 #### Count observations
 
@@ -173,19 +161,15 @@ Unified interfaces for browser-agent tasks and benchmark environments.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:servicenow/browsergym
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-servicenow-browsergym/record.json
 
 ### Structured profile
 
-- actions: element-ID actions, coordinate mouse and keyboard actions, tab/navigation/scroll operations, Python/Playwright action mode
-- evaluation: Gymnasium reset/step interface delegates reward, completion, messages and task info to each adapter’s validate() method. There is no universal BrowserGym success metric or shared task total; retain benchmark/adapter version and action subset for comparisons.
-- focus: shared browser-agent evaluation interface, benchmark adapters with separate task definitions
-- observations: browser screenshot, DOM snapshot, accessibility tree, tab/URL state, previous action and its error, chat messages and task goal
-- setting: mixed
+- Actions / outputs: element-ID actions, coordinate mouse and keyboard actions, tab/navigation/scroll operations, Python/Playwright action mode
+- Evaluation: Gymnasium reset/step interface delegates reward, completion, messages and task info to each adapter’s validate() method. There is no universal BrowserGym success metric or shared task total; retain benchmark/adapter version and action subset for comparisons.
+- Focus: shared browser-agent evaluation interface, benchmark adapters with separate task definitions
+- Observations: browser screenshot, DOM snapshot, accessibility tree, tab/URL state, previous action and its error, chat messages and task goal
+- Setting: mixed
 
 #### Count observations
 
@@ -224,19 +208,15 @@ GUI grounding benchmark focused on professional high-resolution interfaces.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:likaixin2000/screenspot-pro-gui-grounding
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/record.json
 
 ### Structured profile
 
-- actions: predicted target coordinates
-- evaluation: For positive targets, the predicted point must fall inside the annotated bounding box.
-- focus: GUI grounding
-- observations: high-resolution screenshots, target instructions
-- setting: offline
+- Actions / outputs: predicted target coordinates
+- Evaluation: For positive targets, the predicted point must fall inside the annotated bounding box.
+- Focus: GUI grounding
+- Observations: high-resolution screenshots, target instructions
+- Setting: offline
 
 #### Count observations
 
@@ -274,19 +254,15 @@ Human demonstrations and tasks for generalist web navigation research.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:osu-nlp-group/mind2web
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-mind2web/record.json
 
 ### Structured profile
 
-- actions: CLICK, TYPE, SELECT
-- evaluation: Offline candidate and action evaluation against recorded demonstrations; the repository distinguishes macro from micro averaging.
-- focus: web action prediction, generalization to unseen sites and domains
-- observations: task instructions, HTML, recorded action history
-- setting: offline
+- Actions / outputs: CLICK, TYPE, SELECT
+- Evaluation: Offline candidate and action evaluation against recorded demonstrations; the repository distinguishes macro from micro averaging.
+- Focus: web action prediction, generalization to unseen sites and domains
+- Observations: task instructions, HTML, recorded action history
+- Setting: offline
 
 #### Count observations
 
@@ -326,19 +302,15 @@ Visually grounded web tasks extending the WebArena evaluation setting.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:web-arena-x/visualwebarena
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-web-arena-x-visualwebarena/record.json
 
 ### Structured profile
 
-- actions: browser element actions
-- evaluation: Execution-based completion checks for visually grounded web tasks.
-- focus: multimodal web task completion
-- observations: screenshots with set-of-mark annotations, caption-augmented accessibility tree
-- setting: interactive
+- Actions / outputs: browser element actions
+- Evaluation: Execution-based completion checks for visually grounded web tasks.
+- Focus: multimodal web task completion
+- Observations: screenshots with set-of-mark annotations, caption-augmented accessibility tree
+- Setting: interactive
 
 #### Count observations
 
@@ -374,19 +346,15 @@ Reproducible Android benchmark of 138 tasks across nine apps on predefined virtu
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:thudm/android-lab
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-android-lab/record.json
 
 ### Structured profile
 
-- actions: Android operations through the agent framework
-- evaluation: The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
-- focus: Android task completion, subgoal completion, operation efficiency
-- observations: UI XML, set-of-marks views
-- setting: interactive
+- Actions / outputs: Android operations through the agent framework
+- Evaluation: The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
+- Focus: Android task completion, subgoal completion, operation efficiency
+- Observations: UI XML, set-of-marks views
+- Setting: interactive
 
 #### Count observations
 
@@ -424,19 +392,15 @@ Simulated shopping environment for instruction-following web agents.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:princeton-nlp/webshop
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-princeton-nlp-webshop/record.json
 
 ### Structured profile
 
-- actions: search queries, click actions, product option selection
-- evaluation: not recorded
-- focus: instruction-conditioned product selection, web navigation
-- observations: HTML pages, simplified text views
-- setting: interactive
+- Actions / outputs: search queries, click actions, product option selection
+- Evaluation: not recorded
+- Focus: instruction-conditioned product selection, web navigation
+- Observations: HTML pages, simplified text views
+- Setting: interactive
 
 #### Count observations
 
@@ -474,19 +438,15 @@ Windows 11 benchmark for multimodal desktop agents in a reproducible VM that run
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:microsoft/windowsagentarena
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-windowsagentarena/record.json
 
 ### Structured profile
 
-- actions: agent-defined Windows interactions
-- evaluation: Task configuration selects an evaluator and expected application or system outcome; evaluators return a reward for the resulting state.
-- focus: Windows task completion, desktop workflows
-- observations: screenshots, accessibility information, screen-element detections
-- setting: interactive
+- Actions / outputs: agent-defined Windows interactions
+- Evaluation: Task configuration selects an evaluator and expected application or system outcome; evaluators return a reward for the resulting state.
+- Focus: Windows task completion, desktop workflows
+- Observations: screenshots, accessibility information, screen-element detections
+- Setting: interactive
 
 #### Count observations
 
@@ -533,11 +493,11 @@ This is Tongyi-MAI/MobileWorld, distinct from jacklishufan/MobileWorld (MobileWo
 
 ### Structured profile
 
-- actions: Android GUI operations, MCP calls when enabled, agent-user interaction when enabled
-- evaluation: The publisher documents text-answer matching, backend database verification, local-storage inspection and application callbacks.
-- focus: Android task completion, agent-user interaction, hybrid GUI and MCP use
-- observations: Android application interface, user-agent interaction when enabled
-- setting: interactive
+- Actions / outputs: Android GUI operations, MCP calls when enabled, agent-user interaction when enabled
+- Evaluation: The publisher documents text-answer matching, backend database verification, local-storage inspection and application callbacks.
+- Focus: Android task completion, agent-user interaction, hybrid GUI and MCP use
+- Observations: Android application interface, user-agent interaction when enabled
+- Setting: interactive
 
 #### Count observations
 
@@ -579,10 +539,6 @@ Browser Use Benchmark (BU Bench V2.1) evaluates browser agents across 200 real-w
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:browser-use/benchmark
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-use-benchmark/record.json
 
 ### License declarations
@@ -620,11 +576,11 @@ The card calls this a test set and asks that it be reserved from training, altho
 
 ### Structured profile
 
-- actions: click coordinate
-- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
-- focus: instruction-conditioned GUI element grounding
-- observations: screenshots, natural-language instructions
-- setting: offline
+- Actions / outputs: click coordinate
+- Evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
+- Focus: instruction-conditioned GUI element grounding
+- Observations: screenshots, natural-language instructions
+- Setting: offline
 
 #### Count observations
 
@@ -667,19 +623,15 @@ Computer-use grounding benchmark with original and refined instructions, release
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:xlang-ai/osworld-g
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-osworld-g/record.json
 
 ### Structured profile
 
-- actions: click point or box center, refusal represented by negative coordinates in the evaluator
-- evaluation: The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding; OSWorld task-execution success is a separate measure.
-- focus: desktop GUI grounding, infeasible-target refusal
-- observations: screenshot, instruction
-- setting: offline
+- Actions / outputs: click point or box center, refusal represented by negative coordinates in the evaluator
+- Evaluation: The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding; OSWorld task-execution success is a separate measure.
+- Focus: desktop GUI grounding, infeasible-target refusal
+- Observations: screenshot, instruction
+- Setting: offline
 
 #### Count observations
 
@@ -718,19 +670,15 @@ Second version of the ScreenSpot grounding test set, published by OS-Copilot as 
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:bd7214de6d98917c2350
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-bd7214de6d98917c2350/record.json
 
 ### Structured profile
 
-- actions: click coordinates
-- evaluation: The inspected Jedi evaluation adapter reads the v2 mobile/desktop/web annotation files, scores a point against the target box, and reports overall, platform, and text/icon accuracy. This is a named compatible evaluator implementation; the OS-Atlas dataset card itself supplies no evaluator specification.
-- focus: single-step GUI grounding on the ScreenSpot-v2 release
-- observations: screenshot, instruction
-- setting: offline
+- Actions / outputs: click coordinates
+- Evaluation: The inspected Jedi evaluation adapter reads the v2 mobile/desktop/web annotation files, scores a point against the target box, and reports overall, platform, and text/icon accuracy. This is a named compatible evaluator implementation; the OS-Atlas dataset card itself supplies no evaluator specification.
+- Focus: single-step GUI grounding on the ScreenSpot-v2 release
+- Observations: screenshot, instruction
+- Setting: offline
 
 #### Count observations
 
@@ -777,11 +725,11 @@ Four public test Parquet shards are present. The dataset card declares Apache-2.
 
 ### Structured profile
 
-- actions: click target or bounding box
-- evaluation: Assess localization against annotated targets; agentbrowse, humanbrowse and calendars are distinct source buckets.
-- focus: instruction-conditioned web localization
-- observations: web screenshots, instructions
-- setting: offline
+- Actions / outputs: click target or bounding box
+- Evaluation: Assess localization against annotated targets; agentbrowse, humanbrowse and calendars are distinct source buckets.
+- Focus: instruction-conditioned web localization
+- Observations: web screenshots, instructions
+- Setting: offline
 
 #### Count observations
 
@@ -817,19 +765,15 @@ Multimodal web navigation agent and evaluation tasks on real websites.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:minorjerry/webvoyager
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
 
 ### Structured profile
 
-- actions: Selenium-backed browser interactions
-- evaluation: The repository supplies an automated multimodal-model evaluation protocol.
-- focus: live-web task completion
-- observations: webpage screenshots, textual task instructions
-- setting: interactive
+- Actions / outputs: Selenium-backed browser interactions
+- Evaluation: The repository supplies an automated multimodal-model evaluation protocol.
+- Focus: live-web task completion
+- Observations: webpage screenshots, textual task instructions
+- Setting: interactive
 
 #### Count observations
 
@@ -867,10 +811,6 @@ LMMs-Eval is a standardized evaluation harness for large multimodal models cover
 - Evidence checked: 2026-11-04T13:12:14Z
 - ID: github:evolvinglmms-lab/lmms-eval
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/record.json
 
 ### License declarations
@@ -901,19 +841,15 @@ Inclusion does not establish reproducibility or endorsement.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:osu-nlp-group/online-mind2web
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/record.json
 
 ### Structured profile
 
-- actions: web interactions
-- evaluation: Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
-- focus: live-web task completion
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: web interactions
+- Evaluation: Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
+- Focus: live-web task completion
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -958,11 +894,11 @@ The maintainer README identifies MiniWoB++ as the extension introduced in the 20
 
 ### Structured profile
 
-- actions: configurable coordinate actions, element-reference actions, keyboard input
-- evaluation: not recorded
-- focus: small web interaction tasks
-- observations: task instructions, screenshots, visible DOM-element attributes
-- setting: interactive
+- Actions / outputs: configurable coordinate actions, element-reference actions, keyboard input
+- Evaluation: not recorded
+- Focus: small web interaction tasks
+- Observations: task instructions, screenshots, visible DOM-element attributes
+- Setting: interactive
 
 #### Count observations
 
@@ -1001,10 +937,6 @@ openadapt-evals scores GUI agents and compiled workflows on benchmarks such as W
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:openadaptai/openadapt-evals
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-evals/record.json
 
 ### License declarations
@@ -1035,19 +967,15 @@ Scientific-workflow tasks for multimodal agents in desktop software such as Chim
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:os-copilot/scienceboard
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-scienceboard/record.json
 
 ### Structured profile
 
-- actions: PyAutoGUI desktop actions, code/tool commands and answer/stop actions according to configured agent mode
-- evaluation: Application-specific verifiers inspect state, files, database values, equations, compilation or answer/stop conditions. The official audit records 242 verifier entries across its VM task suite. This profile covers the released VM task definitions; Docker smoke results and Raw/Dual alternatives are separate populations.
-- focus: scientific-software desktop workflows, GUI and code-assisted scientific tasks
-- observations: desktop screenshots, accessibility-tree observations, set-of-marks with accessibility tree
-- setting: interactive
+- Actions / outputs: PyAutoGUI desktop actions, code/tool commands and answer/stop actions according to configured agent mode
+- Evaluation: Application-specific verifiers inspect state, files, database values, equations, compilation or answer/stop conditions. The official audit records 242 verifier entries across its VM task suite. This profile covers the released VM task definitions; Docker smoke results and Raw/Dual alternatives are separate populations.
+- Focus: scientific-software desktop workflows, GUI and code-assisted scientific tasks
+- Observations: desktop screenshots, accessibility-tree observations, set-of-marks with accessibility tree
+- Setting: interactive
 
 #### Count observations
 
@@ -1088,19 +1016,15 @@ GUI grounding test set of 1,272 screenshot instructions from iOS, Android, macOS
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:7abb418096432f56c685
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-7abb418096432f56c685/record.json
 
 ### Structured profile
 
-- actions: predicted click point; a predicted box is reduced to its center
-- evaluation: The SeeClick evaluator scores whether the predicted point falls inside the target box, with platform and text/icon breakdowns. The Hub packaging uses xyxy boxes, whereas the original evaluator reads xywh and converts it; adapt the loader to the chosen release.
-- focus: single-step GUI element grounding
-- observations: screenshot, English instruction
-- setting: offline
+- Actions / outputs: predicted click point; a predicted box is reduced to its center
+- Evaluation: The SeeClick evaluator scores whether the predicted point falls inside the target box, with platform and text/icon breakdowns. The Hub packaging uses xyxy boxes, whereas the original evaluator reads xywh and converts it; adapt the loader to the chosen release.
+- Focus: single-step GUI element grounding
+- Observations: screenshot, English instruction
+- Setting: offline
 
 #### Count observations
 
@@ -1140,10 +1064,6 @@ Evaluation framework spanning visual GUI, embodied, and design tasks, including 
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:thudm/visualagentbench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-visualagentbench/record.json
 
 ### License declarations
@@ -1182,11 +1102,11 @@ The README describes this as the verified release of WebArena and keeps the orig
 
 ### Structured profile
 
-- actions: browser interactions on self-hosted WebArena sites
-- evaluation: Deterministic evaluators compare a structured agent response (task type, status, retrieved data) with the reference; 488 of the 812 tasks also check network events from a captured HAR trace, with 663 network-event checks in all. LLM-as-a-judge and substring matching were removed, and runs can be scored offline from saved responses and traces.
-- focus: web task completion, information retrieval from self-hosted websites
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: browser interactions on self-hosted WebArena sites
+- Evaluation: Deterministic evaluators compare a structured agent response (task type, status, retrieved data) with the reference; 488 of the 812 tasks also check network events from a captured HAR trace, with 663 network-event checks in all. LLM-as-a-judge and substring matching were removed, and runs can be scored offline from saved responses and traces.
+- Focus: web task completion, information retrieval from self-hosted websites
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -1228,19 +1148,15 @@ Demonstrations and evaluation for conversational web navigation.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:mcgill-nlp/weblinx
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-weblinx/record.json
 
 ### Structured profile
 
-- actions: predicted browser actions
-- evaluation: Offline evaluation compares action predictions against recorded human demonstrations.
-- focus: conversational web navigation, next-action prediction
-- observations: dialogue history, HTML, screenshots, action history
-- setting: offline
+- Actions / outputs: predicted browser actions
+- Evaluation: Offline evaluation compares action predictions against recorded human demonstrations.
+- Focus: conversational web navigation, next-action prediction
+- Observations: dialogue history, HTML, screenshots, action history
+- Setting: offline
 
 #### Count observations
 
@@ -1281,19 +1197,15 @@ Browser-based enterprise workflow tasks built around ServiceNow.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:servicenow/workarena
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-servicenow-workarena/record.json
 
 ### Structured profile
 
-- actions: BrowserGym browser actions
-- evaluation: Task-specific checks on ServiceNow workflows; levels and task configurations define different evaluations.
-- focus: enterprise web workflows, compositional tasks
-- observations: multimodal browser observations
-- setting: interactive
+- Actions / outputs: BrowserGym browser actions
+- Evaluation: Task-specific checks on ServiceNow workflows; levels and task configurations define different evaluations.
+- Focus: enterprise web workflows, compositional tasks
+- Observations: multimodal browser observations
+- Setting: interactive
 
 #### Count observations
 
@@ -1332,10 +1244,6 @@ CUA-Gym-Hub provides 98 self-contained mock web applications with deterministic 
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:xlang-ai/cua-gym-hub
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-cua-gym-hub/record.json
 
 ### License declarations
@@ -1365,10 +1273,6 @@ DeskMind Bench provides sandboxed macOS desktop tasks, state graders, and refere
 - Topics: evaluation, sandbox
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:deskmind-ai/bench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-deskmind-ai-bench/record.json
 
@@ -1400,10 +1304,6 @@ KNOWS benchmarks web agents on realistic, open-ended Google Workspace tasks span
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:alexgill321/knows-benchmark
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alexgill321-knows-benchmark/record.json
 
 ### License declarations
@@ -1433,10 +1333,6 @@ Lexbench-Headless-Browser benchmarks 13 headless browser automation runtimes acr
 - Topics: evaluation, web-navigation, efficiency
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:lexmount/lexbench-headless-browser
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lexmount-lexbench-headless-browser/record.json
 
@@ -1476,11 +1372,11 @@ Official benchmark code for the MemGUI-Bench paper (ACM MM 2026 per the README).
 
 ### Structured profile
 
-- actions: MobileWorld JSON actions
-- evaluation: MemGUI-Eval: an LLM step-description model and a final-decision model judge each trajectory; reported metrics are pass@K, information retrieval rate (IRR), failure recovery rate (FRR), memory task performance ratio (MTPR), step ratio, time per step and cost per step.
-- focus: memory-intensive mobile GUI tasks, cross-app long-horizon tasks
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: MobileWorld JSON actions
+- Evaluation: MemGUI-Eval: an LLM step-description model and a final-decision model judge each trajectory; reported metrics are pass@K, information retrieval rate (IRR), failure recovery rate (FRR), memory task performance ratio (MTPR), step ratio, time per step and cost per step.
+- Focus: memory-intensive mobile GUI tasks, cross-app long-horizon tasks
+- Observations: screenshots
+- Setting: interactive
 
 #### Count observations
 
@@ -1529,19 +1425,15 @@ Four-level GUI-agent benchmark across six platforms, from content understanding 
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:open-compass/mmbench-gui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-open-compass-mmbench-gui/record.json
 
 ### Structured profile
 
-- actions: not recorded
-- evaluation: Level-specific evaluation; Efficiency–Quality Area (EQA) combines navigation quality and efficiency.
-- focus: screen understanding, grounding, task automation, task collaboration
-- observations: screenshots
-- setting: mixed
+- Actions / outputs: not recorded
+- Evaluation: Level-specific evaluation; Efficiency–Quality Area (EQA) combines navigation quality and efficiency.
+- Focus: screen understanding, grounding, task automation, task collaboration
+- Observations: screenshots
+- Setting: mixed
 
 #### Count observations
 
@@ -1584,11 +1476,11 @@ The inspected code release is v0.1.0, with a separately listed data-v0.1.0 archi
 
 ### Structured profile
 
-- actions: tap, type, swipe, back, home, drag, complete
-- evaluation: Deterministic task judges inspect state changes; reported metrics distinguish success, progress, false completion and unexpected side effects.
-- focus: mobile GUI task completion in simulation, state verification and parallel training
-- observations: simulated mobile screenshots, structured simulator state for judges
-- setting: interactive
+- Actions / outputs: tap, type, swipe, back, home, drag, complete
+- Evaluation: Deterministic task judges inspect state changes; reported metrics distinguish success, progress, false completion and unexpected side effects.
+- Focus: mobile GUI task completion in simulation, state verification and parallel training
+- Observations: simulated mobile screenshots, structured simulator state for judges
+- Setting: interactive
 
 #### Count observations
 
@@ -1641,10 +1533,6 @@ OSWorld-MCP benchmarks computer-use agents on hybrid GUI interaction and Model C
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:x-plug/osworld-mcp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-x-plug-osworld-mcp/record.json
 
 ### License declarations
@@ -1682,11 +1570,11 @@ Public image files and desktop/mobile/web annotation JSON files are listed. This
 
 ### Structured profile
 
-- actions: target localization, identification of impossible requests
-- evaluation: Publisher supplies original, action, description and negative instruction types; no common end-to-end success metric is asserted.
-- focus: instruction-form robustness, negative grounding requests
-- observations: screenshots, instructions
-- setting: offline
+- Actions / outputs: target localization, identification of impossible requests
+- Evaluation: Publisher supplies original, action, description and negative instruction types; no common end-to-end success metric is asserted.
+- Focus: instruction-form robustness, negative grounding requests
+- Observations: screenshots, instructions
+- Setting: offline
 
 #### Count observations
 
@@ -1722,19 +1610,15 @@ Self-contained workplace environment for evaluating agents on professional tasks
 - Evidence checked: 2026-10-16T10:42:34Z
 - ID: github:theagentcompany/theagentcompany
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-theagentcompany-theagentcompany/record.json
 
 ### Structured profile
 
-- actions: web browsing, code execution, coworker communication
-- evaluation: Task-specific evaluator scripts run within the prepared workplace environment.
-- focus: professional workflows, multi-tool tasks
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: web browsing, code execution, coworker communication
+- Evaluation: Task-specific evaluator scripts run within the prepared workplace environment.
+- Focus: professional workflows, multi-tool tasks
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -1778,11 +1662,11 @@ Code for the TimeWarp paper, which the README's citation lists as to appear in t
 
 ### Structured profile
 
-- actions: BrowserGym browser actions, free-text answer message to the user
-- evaluation: Each task's free-text answer is normalized (case, unicode, markdown, punctuation, number formatting) and checked by the verifiers listed in its eval_types (string_match, number_match, list_match, combined with AND); tasks still on llm_judge are graded by GPT-5 by default or an open Gemma judge. The same tasks are run against each UI version.
-- focus: robustness of web agents to UI redesigns across eras, information seeking across Wiki, News and Shop sites
-- observations: BrowserGym observations of the self-hosted sites, as selected by the agent
-- setting: interactive
+- Actions / outputs: BrowserGym browser actions, free-text answer message to the user
+- Evaluation: Each task's free-text answer is normalized (case, unicode, markdown, punctuation, number formatting) and checked by the verifiers listed in its eval_types (string_match, number_match, list_match, combined with AND); tasks still on llm_judge are graded by GPT-5 by default or an open Gemma judge. The same tasks are run against each UI version.
+- Focus: robustness of web agents to UI redesigns across eras, information seeking across Wiki, News and Shop sites
+- Observations: BrowserGym observations of the self-hosted sites, as selected by the agent
+- Setting: interactive
 
 #### Count observations
 
@@ -1833,10 +1717,6 @@ Framework and evaluation resources for real-world web agents.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:imeanai/webcanvas
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-imeanai-webcanvas/record.json
 
 ### License declarations
@@ -1875,11 +1755,11 @@ The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for
 
 ### Structured profile
 
-- actions: click, hover, fill, goto, scroll, new_tab, tab_close, tab_focus, send_msg_to_user
-- evaluation: Each task replays one recorded turn and ends after one step. The extension's get_reward compares the predicted action with the reference turn: IoU for click and hover, chrF times IoU for text input, URL F-score for page loads, chrF for messages, a distance score for scrolls, intent match for opening or closing tabs and exact target match for tab switches; unsupported intents score 0.
-- focus: conversational web navigation, next-action prediction from recorded demonstration states
-- observations: screenshot, DOM snapshot, accessibility tree, extra element properties, open tab URLs and titles, chat history and goal
-- setting: offline
+- Actions / outputs: click, hover, fill, goto, scroll, new_tab, tab_close, tab_focus, send_msg_to_user
+- Evaluation: Each task replays one recorded turn and ends after one step. The extension's get_reward compares the predicted action with the reference turn: IoU for click and hover, chrF times IoU for text input, URL F-score for page loads, chrF for messages, a distance score for scrolls, intent match for opening or closing tabs and exact target match for tab switches; unsupported intents score 0.
+- Focus: conversational web navigation, next-action prediction from recorded demonstration states
+- Observations: screenshot, DOM snapshot, accessibility tree, extra element properties, open tab URLs and titles, chat history and goal
+- Setting: offline
 
 #### Count observations
 
@@ -1961,10 +1841,6 @@ Evaluation resources for adversarial attacks on multimodal web agents.
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: github:chenwu98/agent-attack
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chenwu98-agent-attack/record.json
 
 ### License declarations
@@ -1994,10 +1870,6 @@ Agent-CE is a containerized continuous evaluation platform for benchmarking web 
 - Topics: evaluation, sandbox, web-navigation, observability
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:anaishowland/agent-ce
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-agent-ce/record.json
 
@@ -2029,10 +1901,6 @@ Agent evaluation suite with containerized tasks and a function-calling interface
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:thudm/agentbench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-agentbench/record.json
 
 ### License declarations
@@ -2062,10 +1930,6 @@ Reliability CI harness for browser agents that runs identical web tasks across m
 - Topics: evaluation, robustness, web-navigation
 - Evidence checked: 2026-11-04T18:11:30Z
 - ID: github:konuktor/agent-gauntlet
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-konuktor-agent-gauntlet/record.json
 
@@ -2105,11 +1969,11 @@ The public repository contains judges, evaluation utilities and annotation files
 
 ### Structured profile
 
-- actions: judge verdicts
-- evaluation: Compare automatic judgments with expert answers on task success, side effects and repetitiveness.
-- focus: automatic evaluator agreement, task success, side effects, repetition
-- observations: web trajectories, screenshots, actions
-- setting: offline
+- Actions / outputs: judge verdicts
+- Evaluation: Compare automatic judgments with expert answers on task success, side effects and repetitiveness.
+- Focus: automatic evaluator agreement, task success, side effects, repetition
+- Observations: web trajectories, screenshots, actions
+- Setting: offline
 
 #### Count observations
 
@@ -2152,10 +2016,6 @@ Android GUI benchmark dataset from Step-GUI containing 3,146 static action evalu
 - Evidence checked: 2026-10-17T02:42:32Z
 - ID: url:8697c910c05d48152916
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-8697c910c05d48152916/record.json
 
 ### License declarations
@@ -2194,11 +2054,11 @@ Primarily API and coding interaction; included as an adjacent comparison for GUI
 
 ### Structured profile
 
-- actions: Python code, application API calls
-- evaluation: State-based unit tests check task outcomes and unintended changes.
-- focus: interactive coding, cross-app tool use
-- observations: API documentation, execution feedback
-- setting: interactive
+- Actions / outputs: Python code, application API calls
+- Evaluation: State-based unit tests check task outcomes and unintended changes.
+- Focus: interactive coding, cross-app tool use
+- Observations: API documentation, execution feedback
+- Setting: interactive
 
 #### Count observations
 
@@ -2277,11 +2137,11 @@ Renamed from reacher-z/ClawBench; both API names return repository 1206519531 (T
 
 ### Structured profile
 
-- actions: harness-defined browser actions such as navigating, clicking and filling forms
-- evaluation: Two stages per task run: a request interceptor inside the container blocks the final HTTP request and marks the run intercepted when its URL regex and method match the task's eval_schema; an LLM judge (default deepseek-v4-pro at temperature 0) then checks the intercepted body against the instruction. A pass needs both. The original V1 paper rubric instead compares agent and human-reference trajectories.
-- focus: everyday online tasks on production websites, multi-step, write-heavy form workflows
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: harness-defined browser actions such as navigating, clicking and filling forms
+- Evaluation: Two stages per task run: a request interceptor inside the container blocks the final HTTP request and marks the run intercepted when its URL regex and method match the task's eval_schema; an LLM judge (default deepseek-v4-pro at temperature 0) then checks the intercepted body against the instruction. A pass needs both. The original V1 paper rubric instead compares agent and human-reference trajectories.
+- Focus: everyday online tasks on production websites, multi-step, write-heavy form workflows
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -2334,11 +2194,11 @@ Public Parquet configs separate trajectories from per-reviewer annotations. The 
 
 ### Structured profile
 
-- actions: success verdict, process score
-- evaluation: Agreement metrics including Cohen’s kappa, accuracy and F1 against human annotations; review stages must be kept distinct.
-- focus: verifier-human agreement, process quality
-- observations: screenshots, action logs, final answers
-- setting: offline
+- Actions / outputs: success verdict, process score
+- Evaluation: Agreement metrics including Cohen’s kappa, accuracy and F1 against human annotations; review stages must be kept distinct.
+- Focus: verifier-human agreement, process quality
+- Observations: screenshots, action logs, final answers
+- Setting: offline
 
 #### Count observations
 
@@ -2388,11 +2248,11 @@ The public Hub lists six dataset families of JSON/JSONL partition annotations. T
 
 ### Structured profile
 
-- actions: model predictions on mobile-agent examples
-- evaluation: The provided evaluation workflow performs model inference over selected partitions and invokes test_swift_fed.py for accuracy scoring.
-- focus: mobile-agent federated training, data heterogeneity
-- observations: mobile-agent examples with externally sourced screenshots
-- setting: offline
+- Actions / outputs: model predictions on mobile-agent examples
+- Evaluation: The provided evaluation workflow performs model inference over selected partitions and invokes test_swift_fed.py for accuracy scoring.
+- Focus: mobile-agent federated training, data heterogeneity
+- Observations: mobile-agent examples with externally sourced screenshots
+- Setting: offline
 
 #### Count observations
 
@@ -2441,11 +2301,11 @@ This Hub repository is the public-ladder subset: the paper and project page desc
 
 ### Structured profile
 
-- actions: recorded Android atomic actions, recorded PC pyautogui actions, click coordinates for grounding
-- evaluation: Region-level privacy labels (risk level, category, task essentiality, boxes) support recognition scoring; planning is compared before and after protection methods (black mask, mosaic, random blocks, LLM text replacement); grounding follows a ScreenSpot-style click check. The card does not ship a scorer; it points to an anonymized toolkit.
-- focus: privacy-risk recognition in GUI agent screenshots, agent planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
-- observations: recorded trajectory screenshots, task goals, plan and progress text
-- setting: offline
+- Actions / outputs: recorded Android atomic actions, recorded PC pyautogui actions, click coordinates for grounding
+- Evaluation: Region-level privacy labels (risk level, category, task essentiality, boxes) support recognition scoring; planning is compared before and after protection methods (black mask, mosaic, random blocks, LLM text replacement); grounding follows a ScreenSpot-style click check. The card does not ship a scorer; it points to an anonymized toolkit.
+- Focus: privacy-risk recognition in GUI agent screenshots, agent planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
+- Observations: recorded trajectory screenshots, task goals, plan and progress text
+- Setting: offline
 
 #### Count observations
 
@@ -2498,11 +2358,11 @@ Sister project of ClawBench. The repository holds the harness-bench CLI (harness
 
 ### Structured profile
 
-- actions: harness-specific browser actions
-- evaluation: Inherited from ClawBench per the README: five-layer session recordings judged by DOM matching and an LLM judge against human reference runs; the leaderboard partitions pass rates by harness, model and category.
-- focus: comparison of agent harnesses with the base model held fixed, everyday online tasks in a real browser
-- observations: harness-specific (each adapter drives Chrome its own way, for example over CDP or Playwright)
-- setting: interactive
+- Actions / outputs: harness-specific browser actions
+- Evaluation: Inherited from ClawBench per the README: five-layer session recordings judged by DOM matching and an LLM judge against human reference runs; the leaderboard partitions pass rates by harness, model and category.
+- Focus: comparison of agent harnesses with the base model held fixed, everyday online tasks in a real browser
+- Observations: harness-specific (each adapter drives Chrome its own way, for example over CDP or Playwright)
+- Setting: interactive
 
 #### Count observations
 
@@ -2553,11 +2413,11 @@ The Hub repository holds data only: multi-part offline screenshot archives, elem
 
 ### Structured profile
 
-- actions: mobile GUI actions such as CLICK[x,y] and SWIPE[direction]
-- evaluation: The card describes offline evaluation against ground-truth step actions and online evaluation on 101 interactive tasks; no evaluator ships in this dataset repository, and none was run.
-- focus: demonstration-conditioned mobile GUI task execution, k-shot (k = 1, 2, 3) support demonstrations with instruction, UI and action similarity scores
-- observations: step screenshots, high-level and low-level instructions, UI element annotations, support demonstrations
-- setting: mixed
+- Actions / outputs: mobile GUI actions such as CLICK[x,y] and SWIPE[direction]
+- Evaluation: The card describes offline evaluation against ground-truth step actions and online evaluation on 101 interactive tasks; no evaluator ships in this dataset repository, and none was run.
+- Focus: demonstration-conditioned mobile GUI task execution, k-shot (k = 1, 2, 3) support demonstrations with instruction, UI and action similarity scores
+- Observations: step screenshots, high-level and low-level instructions, UI element annotations, support demonstrations
+- Setting: mixed
 
 #### Count observations
 
@@ -2608,19 +2468,15 @@ Mobile UI task evaluation using application state information.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:llamatouch/llamatouch
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-llamatouch-llamatouch/record.json
 
 ### Structured profile
 
-- actions: device actions through AgentEnv
-- evaluation: Checks whether the recorded execution visits all annotated essential states.
-- focus: mobile task completion, essential-state evaluation
-- observations: screenshots, view hierarchies, Android activity names
-- setting: interactive
+- Actions / outputs: device actions through AgentEnv
+- Evaluation: Checks whether the recorded execution visits all annotated essential states.
+- Focus: mobile task completion, essential-state evaluation
+- Observations: screenshots, view hierarchies, Android activity names
+- Setting: interactive
 
 #### Count observations
 
@@ -2659,19 +2515,15 @@ Application coverage refers to the self-constructed subset. Task execution and e
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:jetastra/macagentbench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jetastra-macagentbench/record.json
 
 ### Structured profile
 
-- actions: GUI interactions, command-line operations
-- evaluation: Deterministic rule-based evaluators with intermediate checkpoints.
-- focus: macOS task completion, cross-application workflows
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: GUI interactions, command-line operations
+- Evaluation: Deterministic rule-based evaluators with intermediate checkpoints.
+- Focus: macOS task completion, cross-application workflows
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -2717,11 +2569,11 @@ The card distinguishes complete common-simple/common-complex JSON files from sam
 
 ### Structured profile
 
-- actions: mobile UI actions, clarification responses
-- evaluation: Paper defines multi-path and noise/ambiguity evaluations; the public card identifies which files are full common-task sets and which are samples.
-- focus: offline multi-path evaluation, noisy interfaces, ambiguous instructions
-- observations: mobile screenshots, XML UI state, instructions
-- setting: offline
+- Actions / outputs: mobile UI actions, clarification responses
+- Evaluation: Paper defines multi-path and noise/ambiguity evaluations; the public card identifies which files are full common-task sets and which are samples.
+- Focus: offline multi-path evaluation, noisy interfaces, ambiguous instructions
+- Observations: mobile screenshots, XML UI state, instructions
+- Setting: offline
 
 #### Count observations
 
@@ -2770,11 +2622,11 @@ Public task files are available as JSONL and XLSX with documentation. The card e
 
 ### Structured profile
 
-- actions: mobile interface operations, clarification requests
-- evaluation: Published task definitions include preconditions and clarification requirements.
-- focus: mobile task completion, clarification behavior, cross-app tasks
-- observations: mobile app interfaces
-- setting: interactive
+- Actions / outputs: mobile interface operations, clarification requests
+- Evaluation: Published task definitions include preconditions and clarification requirements.
+- Focus: mobile task completion, clarification behavior, cross-app tasks
+- Observations: mobile app interfaces
+- Setting: interactive
 
 #### Count observations
 
@@ -2819,11 +2671,11 @@ These clients simulate named commercial applications. The code and simulator dat
 
 ### Structured profile
 
-- actions: GUI gestures, foreground-app tool calls in hybrid mode
-- evaluation: Programmatic checkers inspect changes in application state; both modes share task definitions and initial states.
-- focus: task completion, cross-application workflows, GUI and app-native tool comparison
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: GUI gestures, foreground-app tool calls in hybrid mode
+- Evaluation: Programmatic checkers inspect changes in application state; both modes share task definitions and initial states.
+- Focus: task completion, cross-application workflows, GUI and app-native tool comparison
+- Observations: screenshots
+- Setting: interactive
 
 #### Count observations
 
@@ -2905,11 +2757,11 @@ Each task has a SHA-1 ID, a prompt, a starting URL, a difficulty level, a refere
 
 ### Structured profile
 
-- actions: OSWorld computer actions in Chrome
-- evaluation: Post-hoc rubric scoring: an LLM judge marks each rubric item satisfied if any step's screenshot and action satisfy it; metrics are mean rubric score, perfect rate (all items satisfied) and trajectory efficiency.
-- focus: long-horizon web tasks from real browsing sessions
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: OSWorld computer actions in Chrome
+- Evaluation: Post-hoc rubric scoring: an LLM judge marks each rubric item satisfied if any step's screenshot and action satisfy it; metrics are mean rubric score, perfect rate (all items satisfied) and trajectory efficiency.
+- Focus: long-horizon web tasks from real browsing sessions
+- Observations: screenshots
+- Setting: interactive
 
 #### Count observations
 
@@ -2954,19 +2806,15 @@ Dataset and benchmark for generating computer interaction programs.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:849a86beaee006c6b147
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-849a86beaee006c6b147/record.json
 
 ### Structured profile
 
-- actions: PyAutoGUI script: pointer movement/click/drag, key presses, hotkeys, and text entry
-- evaluation: The bundled evaluator reports weighted sequence match and action match, comparing action types and applying coordinate, key, and writing penalties. Target element-box metadata is evaluation-only. The retained scorer has a click-penalty defect: predicted coordinates are read from gold_line, so score reproduction requires explicit scorer-version review.
-- focus: offline desktop/web action-script generation
-- observations: screenshot, natural-language task
-- setting: offline
+- Actions / outputs: PyAutoGUI script: pointer movement/click/drag, key presses, hotkeys, and text entry
+- Evaluation: The bundled evaluator reports weighted sequence match and action match, comparing action types and applying coordinate, key, and writing penalties. Target element-box metadata is evaluation-only. The retained scorer has a click-penalty defect: predicted coordinates are read from gold_line, so score reproduction requires explicit scorer-version review.
+- Focus: offline desktop/web action-script generation
+- Observations: screenshot, natural-language task
+- Setting: offline
 
 #### Count observations
 
@@ -3014,11 +2862,11 @@ The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior I
 
 ### Structured profile
 
-- actions: OSWorld/PyAutoGUI desktop interaction
-- evaluation: Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark.
-- focus: deliberate misuse, prompt-injection safety, unintended harmful behavior during normal tasks
-- observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- setting: interactive
+- Actions / outputs: OSWorld/PyAutoGUI desktop interaction
+- Evaluation: Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark.
+- Focus: deliberate misuse, prompt-injection safety, unintended harmful behavior during normal tasks
+- Observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
+- Setting: interactive
 
 #### Count observations
 
@@ -3061,10 +2909,6 @@ OSWorld 2.0 benchmarks computer-use agents on long-horizon desktop workflows wit
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:xlang-ai/osworld-v2
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-osworld-v2/record.json
 
 ### License declarations
@@ -3095,10 +2939,6 @@ Resources for evaluating GUI agents under malicious popup instructions.
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: github:salt-nlp/popupattack
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-salt-nlp-popupattack/record.json
 
 ### License declarations
@@ -3127,10 +2967,6 @@ PowerPoint creation and editing benchmark with API-based execution and checks of
 - Topics: evaluation, tool-integration
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:gydpku/pptc
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-gydpku-pptc/record.json
 
@@ -3195,19 +3031,15 @@ Dataset card declares multiple upstream licenses; do not treat the package as ha
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:ai-agents-2030/spa-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ai-agents-2030-spa-bench/record.json
 
 ### Structured profile
 
-- actions: agent-specific Android actions
-- evaluation: A multimodal evaluator and annotated key-component matching assess completion; the framework also reports resource-use metrics.
-- focus: mobile task completion, resource use, cross-app workflows
-- observations: screenshot trajectories
-- setting: interactive
+- Actions / outputs: agent-specific Android actions
+- Evaluation: A multimodal evaluator and annotated key-component matching assess completion; the framework also reports resource-use metrics.
+- Focus: mobile task completion, resource use, cross-app workflows
+- Observations: screenshot trajectories
+- Setting: interactive
 
 #### Count observations
 
@@ -3247,10 +3079,6 @@ BrowserGym-based benchmark for evaluating the safety and policy compliance of en
 - Topics: safety-security, evaluation, web-navigation
 - Evidence checked: 2026-10-18T10:59:54Z
 - ID: github:segev-shlomov/st-webagentbench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-segev-shlomov-st-webagentbench/record.json
 
@@ -3315,10 +3143,6 @@ Benchmark for desktop GUI tasks derived from instructional videos.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:showlab/videogui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-videogui/record.json
 
 ### License declarations
@@ -3347,10 +3171,6 @@ Computer-use benchmark mixing graphical interaction and code execution.
 - Topics: evaluation, tool-integration
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:6a212bc12f82c824f6b9
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-6a212bc12f82c824f6b9/record.json
 
@@ -3390,11 +3210,11 @@ Documented by a March 2026 blog post at webarena.dev; the README cites that post
 
 ### Structured profile
 
-- actions: browser-use element actions, mouse click, drag and scroll, key press and typing
-- evaluation: Before each task the harness posts /api/reset; after the agent finishes, the task's Python verifier reads the app state from GET /api/state and returns pass or fail with a message. Tasks are graded easy, medium or hard, and the blog reports success rate per agent.
-- focus: browser agents on generated replicas of real web applications, programmatic state verification of task outcomes
-- observations: DOM-derived page state through browser-use (screenshots optional), screenshots
-- setting: interactive
+- Actions / outputs: browser-use element actions, mouse click, drag and scroll, key press and typing
+- Evaluation: Before each task the harness posts /api/reset; after the agent finishes, the task's Python verifier reads the app state from GET /api/state and returns pass or fail with a message. Tasks are graded easy, medium or hard, and the blog reports success rate per agent.
+- Focus: browser agents on generated replicas of real web applications, programmatic state verification of task outcomes
+- Observations: DOM-derived page state through browser-use (screenshots optional), screenshots
+- Setting: interactive
 
 #### Count observations
 
@@ -3449,11 +3269,11 @@ Two public Parquet shards are present. Card metadata reports 776 test rows, wher
 
 ### Structured profile
 
-- actions: candidate-decision preference
-- evaluation: Compare reward-model preferences with the provided chosen/rejected decision labels; no independent score was reproduced.
-- focus: web process-reward evaluation
-- observations: page screenshots, text observations, action history, task checklists
-- setting: offline
+- Actions / outputs: candidate-decision preference
+- Evaluation: Compare reward-model preferences with the provided chosen/rejected decision labels; no independent score was reproduced.
+- Focus: web process-reward evaluation
+- Observations: page screenshots, text observations, action history, task checklists
+- Setting: offline
 
 #### Count observations
 
@@ -3498,11 +3318,11 @@ Public TSV files contain V1, V2 and refusal task definitions. The card declares 
 
 ### Structured profile
 
-- actions: browser interaction
-- evaluation: Task-specific precomputed rubrics; refusal tasks are a separate evaluation population.
-- focus: live web task completion, unsafe-request refusal
-- observations: web pages
-- setting: interactive
+- Actions / outputs: browser interaction
+- Evaluation: Task-specific precomputed rubrics; refusal tasks are a separate evaluation population.
+- Focus: live web task completion, unsafe-request refusal
+- Observations: web pages
+- Setting: interactive
 
 #### Count observations
 
@@ -3576,10 +3396,6 @@ External state-verification benchmark testing whether WebMCP browser tools actua
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:ajaknumber4/action-check-webmcp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ajaknumber4-action-check-webmcp/record.json
 
 ### License declarations
@@ -3609,10 +3425,6 @@ action-choice-bench evaluates discrete UI action selection and calibrated absten
 - Topics: evaluation, action-prediction, safety-security
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:gbesse/action-choice-bench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-gbesse-action-choice-bench/record.json
 
@@ -3644,10 +3456,6 @@ Provides reproducible same-machine benchmarks comparing AI agent browser and des
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:alloevil/agent-tool-benchmark
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alloevil-agent-tool-benchmark/record.json
 
 ### License declarations
@@ -3677,10 +3485,6 @@ agent-bench evaluates browser-based AI agents across 50 web tasks spanning navig
 - Topics: evaluation, web-navigation
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:megaurav4/agent-bench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-megaurav4-agent-bench/record.json
 
@@ -3712,10 +3516,6 @@ Agentalyze is an evaluation harness for LLM browser agents with real Chromium ta
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:ilyat9/agentalyze
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ilyat9-agentalyze/record.json
 
 ### License declarations
@@ -3744,10 +3544,6 @@ agentB is a benchmark for evaluating open web agents on realistic knowledge-work
 - Topics: evaluation, web-navigation, workflow
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:beme08/agentb
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-beme08-agentb/record.json
 
@@ -3787,11 +3583,11 @@ Each scenario is a JSON snapshot of app states in the OpenApps workspace (messen
 
 ### Structured profile
 
-- actions: GUI actions in the rendered workspace (live-UI subset), content shared or sent through the workspace apps
-- evaluation: The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
-- focus: contextual-integrity compliance of computer-use agents, information disclosure across personal apps
-- observations: decoded app states, rendered app UI (live-UI subset), natural-language task prompts
-- setting: mixed
+- Actions / outputs: GUI actions in the rendered workspace (live-UI subset), content shared or sent through the workspace apps
+- Evaluation: The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
+- Focus: contextual-integrity compliance of computer-use agents, information disclosure across personal apps
+- Observations: decoded app states, rendered app UI (live-UI subset), natural-language task prompts
+- Setting: mixed
 
 #### Count observations
 
@@ -3839,10 +3635,6 @@ Web-agent benchmark for measuring unnecessary use of sensitive personal informat
 - Evidence checked: 2026-10-16T10:42:34Z
 - ID: github:facebookresearch/ai-agent-privacy
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-facebookresearch-ai-agent-privacy/record.json
 
 ### License declarations
@@ -3880,11 +3672,11 @@ Agents interact with simulated applications through function calls; it is includ
 
 ### Structured profile
 
-- actions: function calls to suite tools
-- evaluation: Each user task is checked for utility, and each injection task is checked for whether the attacker goal was executed; the benchmark script combines suites, attacks and defenses.
-- focus: prompt-injection robustness, task utility under attack
-- observations: tool-call results from simulated applications
-- setting: interactive
+- Actions / outputs: function calls to suite tools
+- Evaluation: Each user task is checked for utility, and each injection task is checked for whether the attacker goal was executed; the benchmark script combines suites, attacks and defenses.
+- Focus: prompt-injection robustness, task utility under attack
+- Observations: tool-call results from simulated applications
+- Setting: interactive
 
 #### Count observations
 
@@ -3926,10 +3718,6 @@ Multi-agent adversarial evaluation and safety-checking laboratory for stress-tes
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:moeenasim/agentforge-v5
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-moeenasim-agentforge-v5/record.json
 
 ### License declarations
@@ -3958,10 +3746,6 @@ Local test suite of prompt-injection and instruction-authority boundary scenario
 - Topics: evaluation, safety-security, web-navigation
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:larrypeseckis/agentic-browser-boundary-tests
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-larrypeseckis-agentic-browser-boundary-tests/record.json
 
@@ -3993,10 +3777,6 @@ Cloud-browser evaluation harness that tests whether an autonomous AI agent can c
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:williehems/agentready
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-williehems-agentready/record.json
 
 ### License declarations
@@ -4027,19 +3807,15 @@ Android environment for evaluating language-model-driven agents.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:androidarenaagent/androidarena
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-androidarenaagent-androidarena/record.json
 
 ### Structured profile
 
-- actions: app launch/stop, click/double-click/long-click, text input, swipe/drag and Android navigation, finish
-- evaluation: The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Complete annotated action sequences are pending release; reference-dependent evaluation currently has limited coverage.
-- focus: multi-step Android tasks, cross-app workflows and instruction constraints
-- observations: UI hierarchy text, screenshots, combined text/image observations
-- setting: interactive
+- Actions / outputs: app launch/stop, click/double-click/long-click, text input, swipe/drag and Android navigation, finish
+- Evaluation: The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Complete annotated action sequences are pending release; reference-dependent evaluation currently has limited coverage.
+- Focus: multi-step Android tasks, cross-app workflows and instruction constraints
+- Observations: UI hierarchy text, screenshots, combined text/image observations
+- Setting: interactive
 
 #### Count observations
 
@@ -4087,11 +3863,11 @@ The Hub repository holds five benchmark JSON files, three screenshot tar.gz arch
 
 ### Structured profile
 
-- actions: click, long press, swipe, text input, open app, navigate back, wait
-- evaluation: Per-step type accuracy, box accuracy and step success. A step succeeds when the predicted action type matches and, for click and long-press steps, the centre of the predicted box or point lies inside the ground-truth box; in the task-improved file, listed candidate actions count as alternative ground truths.
-- focus: single-step Android GUI action prediction, element grounding against target boxes
-- observations: screenshots, task goals, step instructions (low-level files), action history
-- setting: offline
+- Actions / outputs: click, long press, swipe, text input, open app, navigate back, wait
+- Evaluation: Per-step type accuracy, box accuracy and step success. A step succeeds when the predicted action type matches and, for click and long-press steps, the centre of the predicted box or point lies inside the ground-truth box; in the task-improved file, listed candidate actions count as alternative ground truths.
+- Focus: single-step Android GUI action prediction, element grounding against target boxes
+- Observations: screenshots, task goals, step instructions (low-level files), action history
+- Setting: offline
 
 #### Count observations
 
@@ -4135,19 +3911,15 @@ Simulated mobile applications and evaluation tooling for reproducible GUI-agent 
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:acrab-agentic-labs/appsim
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim/record.json
 
 ### Structured profile
 
-- actions: mobile GUI operations
-- evaluation: Controlled backend data and outcome-based task verification.
-- focus: mobile task completion
-- observations: mobile interfaces
-- setting: interactive
+- Actions / outputs: mobile GUI operations
+- Evaluation: Controlled backend data and outcome-based task verification.
+- Focus: mobile task completion
+- Observations: mobile interfaces
+- Setting: interactive
 
 #### Count observations
 
@@ -4183,10 +3955,6 @@ Resumable, screen-only computer-use evaluation arena testing whether Codex agent
 - Topics: evaluation, screen-understanding, grounding, action-prediction
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:gih10012/astra-game-arena
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-gih10012-astra-game-arena/record.json
 
@@ -4226,11 +3994,11 @@ Sparks Solutions publishes one ungated test split of 22 Parquet shards at revisi
 
 ### Structured profile
 
-- actions: point or bounding box for the referenced UI element, passed or failed verdict for expected results
-- evaluation: The card's scoring script counts a grounding hit when the predicted point, or the center of a predicted box, lies inside the annotated box, and scores expected-result verdicts against the passed or failed labels, overall and by UI language.
-- focus: grounding infotainment UI elements from test-action commands, judging expected-result statements as passed or failed
-- observations: photographs and screenshots of in-vehicle infotainment displays, English test-action or expected-result text
-- setting: offline
+- Actions / outputs: point or bounding box for the referenced UI element, passed or failed verdict for expected results
+- Evaluation: The card's scoring script counts a grounding hit when the predicted point, or the center of a predicted box, lies inside the annotated box, and scores expected-result verdicts against the passed or failed labels, overall and by UI language.
+- Focus: grounding infotainment UI elements from test-action commands, judging expected-result statements as passed or failed
+- Observations: photographs and screenshots of in-vehicle infotainment displays, English test-action or expected-result text
+- Setting: offline
 
 #### Count observations
 
@@ -4271,19 +4039,15 @@ Mobile control benchmark with varied interface configurations.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:jylee425/b-moca
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jylee425-b-moca/record.json
 
 ### Structured profile
 
-- actions: normalized touch/lift coordinate pairs for tap or swipe
-- evaluation: Task success is detected using Appium; positive task reward terminates the episode. Environment variants change device/locale/wallpaper/DPI/dark mode and are loaded as snapshots. The numeric action interface is (touch_y, touch_x, lift_y, lift_x); wrapper/tanh transformations must be kept with the evaluated agent.
-- focus: Android control across visual/device variation, generalization across environment snapshots
-- observations: screenshot pixels, XML view hierarchy, goal instruction
-- setting: interactive
+- Actions / outputs: normalized touch/lift coordinate pairs for tap or swipe
+- Evaluation: Task success is detected using Appium; positive task reward terminates the episode. Environment variants change device/locale/wallpaper/DPI/dark mode and are loaded as snapshots. The numeric action interface is (touch_y, touch_x, lift_y, lift_x); wrapper/tanh transformations must be kept with the evaluated agent.
+- Focus: Android control across visual/device variation, generalization across environment snapshots
+- Observations: screenshot pixels, XML view hierarchy, goal instruction
+- Setting: interactive
 
 #### Count observations
 
@@ -4328,10 +4092,6 @@ Bananalyzer is an evaluation framework and dataset suite for testing web agents 
 - Evidence checked: 2026-11-04T13:12:33Z
 - ID: github:reworkd/bananalyzer
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-reworkd-bananalyzer/record.json
 
 ### License declarations
@@ -4361,10 +4121,6 @@ Baseerat benchmarks non-visual oversight of computer-use agents, testing whether
 - Topics: evaluation, safety-security, human-in-the-loop
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:yas1i/baseerat
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-yas1i-baseerat/record.json
 
@@ -4428,10 +4184,6 @@ Bellwether measures multi-trial pass^k consistency of computer-use agents on leg
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:al-mohad/bell-weather
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-al-mohad-bell-weather/record.json
 
 ### License declarations
@@ -4461,10 +4213,6 @@ Chinese vertical long-horizon evaluation benchmark testing agents on multi-step 
 - Topics: evaluation, long-horizon, workflow
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:vitoworleone/bond-underwriting-agent-benchmark
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-vitoworleone-bond-underwriting-agent-benchmark/record.json
 
@@ -4503,11 +4251,11 @@ This record covers the BrowseComp reference implementation and question set that
 
 ### Structured profile
 
-- actions: not recorded
-- evaluation: A grader model extracts the final answer from the response and judges it correct or incorrect against the decrypted reference answer; accuracy is the share judged correct. The reference implementation sends each question to any sampler and does not prescribe browsing tools or an action space.
-- focus: open-web information seeking, persistent multi-site search
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: not recorded
+- Evaluation: A grader model extracts the final answer from the response and judges it correct or incorrect against the decrypted reference answer; accuracy is the share judged correct. The reference implementation sends each question to any sampler and does not prescribe browsing tools or an action space.
+- Focus: open-web information seeking, persistent multi-site search
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -4549,10 +4297,6 @@ Compares four AI browser-control paradigms (Chrome extension, Playwright, Browse
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:ismael-joffroy-chandoutis/browser-agent-comparison
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/record.json
 
 ### License declarations
@@ -4581,10 +4325,6 @@ Benchmarks Python Playwright, Rust playwright-rs, and chromiumoxide on headless 
 - Topics: evaluation, efficiency, web-navigation
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:tashonbraganca/browser-automation-benchmark
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/record.json
 
@@ -4616,10 +4356,6 @@ Browser LLM Perf compares browser automation CLIs (CraftDriver vs Playwright CLI
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:dtopuzov/browser-llm-perf
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/record.json
 
 ### License declarations
@@ -4648,10 +4384,6 @@ browser-eval is an evaluation harness for web fetching, deterministic browser tr
 - Topics: evaluation, web-navigation, recording
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:lexmount/browser-eval
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lexmount-browser-eval/record.json
 
@@ -4683,10 +4415,6 @@ browser-task-bench is a benchmark suite of 200+ web interaction tasks covering f
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:tradestackdev/browser-task-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tradestackdev-browser-task-bench/record.json
 
 ### License declarations
@@ -4715,10 +4443,6 @@ Local-first regression testing benchmark for evaluating browser agents against c
 - Topics: evaluation, robustness, web-navigation
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:albertxxuu/browseragentregression
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-albertxxuu-browseragentregression/record.json
 
@@ -4788,10 +4512,6 @@ BrowserTransactionBench evaluates transactional safety, idempotency, and double-
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:lamenting-hawthorn/browserbench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/record.json
 
 ### License declarations
@@ -4821,10 +4541,6 @@ BrowseWebApp Bench evaluates browser agents across 100 realistic web workflows s
 - Topics: evaluation, web-navigation, workflow
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:visnia-ai/browsewebapp-bench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-visnia-ai-browsewebapp-bench/record.json
 
@@ -4856,10 +4572,6 @@ CAPTCHA Gym is a self-hosted evaluation platform for browser agents featuring co
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:mildchef/muse-captcha-gym
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mildchef-muse-captcha-gym/record.json
 
 ### License declarations
@@ -4889,10 +4601,6 @@ CaptchaArena provides a live server and fine-grained trajectory dataset across 2
 - Topics: evaluation, safety-security, web-navigation, grounding
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:x0x0x00/captchaarena
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-x0x0x00-captchaarena/record.json
 
@@ -4924,10 +4632,6 @@ Suite of 11 local-first QA Agent Skills for Cursor, Claude Code, and Codex to ve
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:openqa-cn/codexqa
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openqa-cn-codexqa/record.json
 
 ### License declarations
@@ -4957,10 +4661,6 @@ Multi-actor invariant verification harness that drives two concurrent browser ag
 - Topics: evaluation, robustness, web-navigation
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:mystiquemide/collision-canary
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-mystiquemide-collision-canary/record.json
 
@@ -5000,11 +4700,11 @@ The source tree contains graph and task JSON files plus construction/evaluation 
 
 ### Structured profile
 
-- actions: mobile GUI operations along graph transitions
-- evaluation: The publisher reports success rate, completion rate and atomic-capability diagnostics using graph-based evaluation.
-- focus: long-horizon mobile task completion, multi-path graph interaction
-- observations: mobile screenshots represented as graph states
-- setting: interactive
+- Actions / outputs: mobile GUI operations along graph transitions
+- Evaluation: The publisher reports success rate, completion rate and atomic-capability diagnostics using graph-based evaluation.
+- Focus: long-horizon mobile task completion, multi-path graph interaction
+- Observations: mobile screenshots represented as graph states
+- Setting: interactive
 
 #### Count observations
 
@@ -5061,11 +4761,11 @@ Platform code from the xlang-ai organization; the repository description and REA
 
 ### Structured profile
 
-- actions: agent-defined desktop actions
-- evaluation: After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the aggregation backend remains outside this repository.
-- focus: human pairwise preference between computer-use agents, open-ended user-written tasks
-- observations: live Ubuntu or Windows virtual machine desktop shown to the user through VNC, agent-defined observations of that desktop
-- setting: interactive
+- Actions / outputs: agent-defined desktop actions
+- Evaluation: After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the aggregation backend remains outside this repository.
+- Focus: human pairwise preference between computer-use agents, open-ended user-written tasks
+- Observations: live Ubuntu or Windows virtual machine desktop shown to the user through VNC, agent-defined observations of that desktop
+- Setting: interactive
 
 #### Count observations
 
@@ -5112,19 +4812,15 @@ Cross-environment benchmark framework for multimodal agents.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:camel-ai/crab
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-camel-ai-crab/record.json
 
 ### Structured profile
 
-- actions: Python-defined environment actions
-- evaluation: Graph-based evaluators measure progress through task requirements.
-- focus: cross-environment tasks
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: Python-defined environment actions
+- Evaluation: Graph-based evaluators measure progress through task requirements.
+- Focus: cross-environment tasks
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -5160,10 +4856,6 @@ Continuous browser QA harness that reproduces reported bugs and autonomously exp
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:cskwork/vigil
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cskwork-vigil/record.json
 
 ### License declarations
@@ -5193,10 +4885,6 @@ Controlled browser fixture and 10-task computer-use evaluation suite for grading
 - Topics: evaluation, web-navigation, observability
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:marwanalsiddiq/cua-eval-kit
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-marwanalsiddiq-cua-eval-kit/record.json
 
@@ -5228,10 +4916,6 @@ cua-bench packages containerized ERPNext v15 accounting and enterprise workflows
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:vaiyr/cua-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vaiyr-cua-bench/record.json
 
 ### License declarations
@@ -5260,10 +4944,6 @@ Provides the cua_reliability evaluation toolkit and reference training code for 
 - Topics: evaluation, reinforcement-learning, safety-security, robustness
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:mercurialsolo/sa-opsd
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-mercurialsolo-sa-opsd/record.json
 
@@ -5295,10 +4975,6 @@ Evaluates typed System-One decision models (Luna Decisions and Jev) driving real
 - Evidence checked: 2026-11-04T14:41:47Z
 - ID: github:humanity-forever/decision-luna-browse-control
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-humanity-forever-decision-luna-browse-control/record.json
 
 ### License declarations
@@ -5328,10 +5004,6 @@ deedchain benchmarks report fidelity and hallucination rates of browser agents a
 - Topics: evaluation, web-navigation, robustness
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:pillcrew/deedchain
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-pillcrew-deedchain/record.json
 
@@ -5363,10 +5035,6 @@ Safety certification CLI that stress-tests AI browser and computer-use agents ag
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:rudrendupaul/deskcert-cli
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rudrendupaul-deskcert-cli/record.json
 
 ### License declarations
@@ -5397,10 +5065,6 @@ DesktopAgentBench is an agent-agnostic Windows benchmark evaluating desktop agen
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:raghava00001/desktopagentbench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raghava00001-desktopagentbench/record.json
 
 ### License declarations
@@ -5429,10 +5093,6 @@ dom-drift-bench evaluates four web extraction and grounding strategies across te
 - Topics: evaluation, robustness, web-navigation
 - Evidence checked: 2026-11-04T14:20:11Z
 - ID: github:notel1gible/dom-drift-bench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-notel1gible-dom-drift-bench/record.json
 
@@ -5464,10 +5124,6 @@ done-or-not is an offline benchmark of 910 computer-use trajectories across thre
 - Evidence checked: 2026-11-04T14:20:17Z
 - ID: github:tatra-labs/done-or-not
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tatra-labs-done-or-not/record.json
 
 ### License declarations
@@ -5498,10 +5154,6 @@ Audits and classifies a browser-automation repository's selector maintenance his
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:sebastianpuchet/drift-audit
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sebastianpuchet-drift-audit/record.json
 
 ### License declarations
@@ -5530,10 +5182,6 @@ DeepSeek Harness QA plugin where an autonomous browser agent explores live web a
 - Topics: evaluation, web-navigation, tool-integration, automation
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:zseven-w/dsh-qa
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-zseven-w-dsh-qa/record.json
 
@@ -5573,11 +5221,11 @@ The Hub repository is named osworld_env; its card titles the release DynamicGUIB
 
 ### Structured profile
 
-- actions: desktop GUI actions through a separately configured agent
-- evaluation: Each task JSON names an OSWorld evaluator function with its expected result for an executable end-state check; a config_myself block launches applications and scripts the dynamic events during the run.
-- focus: desktop task completion when interface state changes between observations
-- observations: English and Chinese task instructions, live desktop application state
-- setting: interactive
+- Actions / outputs: desktop GUI actions through a separately configured agent
+- Evaluation: Each task JSON names an OSWorld evaluator function with its expected result for an executable end-state check; a config_myself block launches applications and scripts the dynamic events during the run.
+- Focus: desktop task completion when interface state changes between observations
+- Observations: English and Chinese task instructions, live desktop application state
+- Setting: interactive
 
 #### Count observations
 
@@ -5618,10 +5266,6 @@ Deterministic behavioral contract auditing suite for verifying side effects of W
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:tommytranx/effectprint
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tommytranx-effectprint/record.json
 
 ### License declarations
@@ -5651,10 +5295,6 @@ Ego Browser Benchmark Framework is a reproducible harness for comparing foundati
 - Topics: evaluation, web-navigation
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:citrolabs/ego-browser-benchmark-framework
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-citrolabs-ego-browser-benchmark-framework/record.json
 
@@ -5686,10 +5326,6 @@ Evaluation suite for Environmental Injection Attacks that embed invisible malici
 - Evidence checked: 2026-10-18T10:59:54Z
 - ID: github:osu-nlp-group/eia_against_webagent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-eia-against-webagent/record.json
 
 ### License declarations
@@ -5719,10 +5355,6 @@ Embodied Agent Interface (EAI) benchmarks LLMs across goal interpretation, subgo
 - Topics: evaluation, planning, action-prediction
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:embodied-agent-eval/embodied-agent-eval
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-embodied-agent-eval-embodied-agent-eval/record.json
 
@@ -5754,10 +5386,6 @@ Post-action state-delta verification harness for WebMCP browser agents that dete
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:tsuchiyatakahirolab/actionproof
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tsuchiyatakahirolab-actionproof/record.json
 
 ### License declarations
@@ -5787,10 +5415,6 @@ Compares plan-once local-grounding web agents against step-by-step ReAct loops a
 - Topics: evaluation, planning, grounding, efficiency
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:thedivyanshshukla/plan-once-ground-locally
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/record.json
 
@@ -5822,10 +5446,6 @@ FedGUI benchmarks federated GUI agent training and evaluation across heterogeneo
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:wwh0411/fedgui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wwh0411-fedgui/record.json
 
 ### License declarations
@@ -5854,10 +5474,6 @@ Financial CUA Benchmark provides deterministic verifiers and bond-underwriting t
 - Topics: evaluation, workflow
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:vitoworleone/financial-cua-benchmark
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-vitoworleone-financial-cua-benchmark/record.json
 
@@ -5921,10 +5537,6 @@ FixtureBench evaluates procurement browser agents on deterministic Coupa-style b
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:prabal-singh/fixturebench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-prabal-singh-fixturebench/record.json
 
 ### License declarations
@@ -5954,10 +5566,6 @@ FlashAdventure benchmarks GUI agents on solving complete story arcs across 34 Fl
 - Topics: evaluation, long-horizon, memory, planning
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:ahnjaewoo/flashadventure
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/record.json
 
@@ -5989,10 +5597,6 @@ Benchmarks dense versus global features across frozen vision backbones for pixel
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:dhruvraval04/do-frozen-vision-backbones-transfer-to-guis
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/record.json
 
 ### License declarations
@@ -6022,10 +5626,6 @@ GameWorld provides a standardized browser-based evaluation suite for multimodal 
 - Topics: evaluation, action-prediction, planning
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:gameworld-project/gameworld
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-gameworld-project-gameworld/record.json
 
@@ -6090,10 +5690,6 @@ Controlled evaluation benchmark comparing frontier Claude models on interactive 
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:jns-c/model-comparison-gomoku
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/record.json
 
 ### License declarations
@@ -6122,10 +5718,6 @@ Uses a browser agent to explore web checkout flows into a Neo4j state graph and 
 - Topics: evaluation, web-navigation, planning, state-tracking
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:avikundal/graph-guided-agentic-testing
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/record.json
 
@@ -6165,11 +5757,11 @@ The card calls this the full GroundUI-18K of AgentStudio and a test set reserved
 
 ### Structured profile
 
-- actions: click coordinate
-- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
-- focus: instruction-conditioned GUI element grounding
-- observations: screenshots, natural-language instructions
-- setting: offline
+- Actions / outputs: click coordinate
+- Evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy and task success are separate measures.
+- Focus: instruction-conditioned GUI element grounding
+- Observations: screenshots, natural-language instructions
+- Setting: offline
 
 #### Count observations
 
@@ -6221,11 +5813,11 @@ The card YAML at revision 727c857b lists one eval split of 3,120 examples in fou
 
 ### Structured profile
 
-- actions: predicted target location
-- evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
-- focus: step-level web GUI element localization, robustness to visual and instruction perturbations
-- observations: rendered web-page screenshots, natural-language instructions
-- setting: offline
+- Actions / outputs: predicted target location
+- Evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
+- Focus: step-level web GUI element localization, robustness to visual and instruction perturbations
+- Observations: rendered web-page screenshots, natural-language instructions
+- Setting: offline
 
 #### Count observations
 
@@ -6265,10 +5857,6 @@ Evaluation scripts and linked data for comparing GUI action predictions and task
 - Evidence checked: 2026-10-16T10:43:11Z
 - ID: github:chessbean1/gui-robust
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chessbean1-gui-robust/record.json
 
 ### License declarations
@@ -6306,11 +5894,11 @@ Formerly published as saelyne/GuideBench; the Hub API redirects that name to thi
 
 ### Structured profile
 
-- actions: not recorded
-- evaluation: Accuracy on 9-way behavior-state classification, 4-way multiple-choice intent prediction, and help prediction split into a binary help-need decision and a 4-way multiple-choice help-content question.
-- focus: user behavior state detection, short-term intent prediction, help need and help content prediction
-- observations: screen-recording video segments
-- setting: offline
+- Actions / outputs: not recorded
+- Evaluation: Accuracy on 9-way behavior-state classification, 4-way multiple-choice intent prediction, and help prediction split into a binary help-need decision and a 4-way multiple-choice help-content question.
+- Focus: user behavior state detection, short-term intent prediction, help need and help content prediction
+- Observations: screen-recording video segments
+- Setting: offline
 
 #### Count observations
 
@@ -6363,11 +5951,11 @@ The README is an anonymous-review version without authors or a citation; the pap
 
 ### Structured profile
 
-- actions: predicted privacy regions with labels, generated next-action plans, predicted click points
-- evaluation: privacy_recognition scores region-level privacy predictions against the labels (IoU-only or paper-style scoring); planner_eval has an LLM judge rate step-level semantic consistency between plans from original and protected trajectories on a 0-4 scale; grounding_eval counts a click as correct when the predicted point falls inside the target box.
-- focus: privacy-region recognition on GUI screenshots, planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
-- observations: recorded trajectory screenshots, task instructions, next-action plans
-- setting: offline
+- Actions / outputs: predicted privacy regions with labels, generated next-action plans, predicted click points
+- Evaluation: privacy_recognition scores region-level privacy predictions against the labels (IoU-only or paper-style scoring); planner_eval has an LLM judge rate step-level semantic consistency between plans from original and protected trajectories on a 0-4 scale; grounding_eval counts a click as correct when the predicted point falls inside the target box.
+- Focus: privacy-region recognition on GUI screenshots, planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
+- Observations: recorded trajectory screenshots, task instructions, next-action plans
+- Setting: offline
 
 #### Count observations
 
@@ -6413,19 +6001,15 @@ Measures hallucination in UI-element parsing by matching the boxes and descripti
 - Evidence checked: 2026-10-16T06:40:51Z
 - ID: github:ant-research/guihallubench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ant-research-guihallubench/record.json
 
 ### Structured profile
 
-- actions: list of UI element boxes [x1,y1,x2,y2] and text descriptions
-- evaluation: Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage.
-- focus: GUI page-element detection, element-description consistency
-- observations: page screenshot
-- setting: offline
+- Actions / outputs: list of UI element boxes [x1,y1,x2,y2] and text descriptions
+- Evaluation: Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage.
+- Focus: GUI page-element detection, element-description consistency
+- Observations: page screenshot
+- Setting: offline
 
 #### Count observations
 
@@ -6507,11 +6091,11 @@ Official code of the Gym-Anything paper. The README describes three parts that c
 
 ### Structured profile
 
-- actions: mouse, keyboard
-- evaluation: Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
-- focus: long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
-- observations: screen frames, UI tree (some macOS environments)
-- setting: interactive
+- Actions / outputs: mouse, keyboard
+- Evaluation: Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
+- Focus: long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
+- Observations: screen frames, UI tree (some macOS environments)
+- Setting: interactive
 
 #### Count observations
 
@@ -6562,10 +6146,6 @@ HealthEnv compiles longitudinal clinical question-answering tasks into stateful,
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:possibleme2026-lang/healthenv
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/record.json
 
 ### License declarations
@@ -6596,10 +6176,6 @@ Gym environment and optimization framework for self-evolving CLI and computer-us
 - Evidence checked: 2026-11-04T17:30:34Z
 - ID: github:elenaviewsynthesis/holoskill-gym
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/record.json
 
 ### License declarations
@@ -6628,10 +6204,6 @@ Evidence-first product quality and UX evaluation harness for testing web applica
 - Topics: evaluation, ui-design, web-navigation
 - Evidence checked: 2026-11-04T17:20:52Z
 - ID: github:hotragn/humanqa
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-hotragn-humanqa/record.json
 
@@ -6663,10 +6235,6 @@ hyprbench is an OSWorld-style computer-use benchmark for the Linux Hyprland Wayl
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:crispwisp/hyprbench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-crispwisp-hyprbench/record.json
 
 ### License declarations
@@ -6695,10 +6263,6 @@ Inspect Evals is a community benchmark suite for the UK AISI Inspect framework i
 - Topics: evaluation, safety-security, sandbox
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:ukgovernmentbeis/inspect_evals
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/record.json
 
@@ -6730,10 +6294,6 @@ Provides the Intention-in-Interaction (IN3) benchmark and Mistral-Interact model
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:openbmb/tell_me_more
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openbmb-tell-me-more/record.json
 
 ### License declarations
@@ -6763,10 +6323,6 @@ AI-driven end-to-end verification orchestrator and interactive browser testing h
 - Topics: evaluation, web-navigation, observability
 - Evidence checked: 2026-11-04T17:30:40Z
 - ID: github:egagofur/intentproof
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-egagofur-intentproof/record.json
 
@@ -6798,19 +6354,15 @@ Native iPhone-simulator benchmark with shared user data, application workflows, 
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:ljang0/iosworld
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ljang0-iosworld/record.json
 
 ### Structured profile
 
-- actions: touch actions, MCP tools (optional)
-- evaluation: Rubric satisfaction per task; full-task pass requires every criterion to be satisfied.
-- focus: personalized phone tasks, cross-app workflows
-- observations: screenshots, accessibility XML (optional)
-- setting: interactive
+- Actions / outputs: touch actions, MCP tools (optional)
+- Evaluation: Rubric satisfaction per task; full-task pass requires every criterion to be satisfied.
+- Focus: personalized phone tasks, cross-app workflows
+- Observations: screenshots, accessibility XML (optional)
+- Setting: interactive
 
 #### Count observations
 
@@ -6847,10 +6399,6 @@ jev-click-bench evaluates Jev 1.14 bounding-box grounding on ScreenSpot-v2 and S
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:arthurkatcher/jev-click-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/record.json
 
 ### License declarations
@@ -6881,10 +6429,6 @@ Plain-English browser verification harness for AI-built web applications that re
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:venkat5599/kane
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-venkat5599-kane/record.json
 
 ### License declarations
@@ -6914,10 +6458,6 @@ Evaluates and fine-tunes vision-language browser agents using Eval Protocol, Ker
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:kernel/kernel-eval-protocol-quickstart
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/record.json
 
 ### License declarations
@@ -6946,10 +6486,6 @@ Authentication resilience benchmark and WebMCP authority compiler for testing br
 - Topics: safety-security, evaluation, web-navigation, tool-integration
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:agentsimdev/last-door
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-agentsimdev-last-door/record.json
 
@@ -6981,10 +6517,6 @@ LLM-as-a-Judge evaluation harness for assessing computer-use agent trajectories 
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:anaishowland/llm-judge-psai
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-llm-judge-psai/record.json
 
 ### License declarations
@@ -7014,10 +6546,6 @@ LongPuzzleBench evaluates GUI and computer-use agents on long-horizon visual puz
 - Topics: evaluation, long-horizon, planning, screen-understanding
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:bingozhang-verapraxis/longpuzzlebench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/record.json
 
@@ -7049,10 +6577,6 @@ LPS-Bench benchmarks the safety awareness of computer-use agents during long-hor
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:tychenn/lps-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tychenn-lps-bench/record.json
 
 ### License declarations
@@ -7083,10 +6607,6 @@ MacArena benchmarks computer-use agents in an online, reproducible macOS virtual
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:macpaw/macarena
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-macpaw-macarena/record.json
 
 ### License declarations
@@ -7115,10 +6635,6 @@ MalURLBench evaluates the vulnerability of LLM-based web agents to phishing and 
 - Topics: evaluation, safety-security, web-navigation
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:jiangyinger/malurlbench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-jiangyinger-malurlbench/record.json
 
@@ -7150,10 +6666,6 @@ MarketBench is a reproducible WebMCP benchmark evaluating browser agents on mult
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:santos-sanz/marketbench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-santos-sanz-marketbench/record.json
 
 ### License declarations
@@ -7183,10 +6695,6 @@ Maudslay evaluates release readiness and pass^k reliability of computer-use agen
 - Topics: evaluation, robustness, observability
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:theo-ai-lab/maudslay
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-theo-ai-lab-maudslay/record.json
 
@@ -7287,10 +6795,6 @@ mimiq is a dynamic end-to-end agentic simulation and web UI evaluation runner in
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:gojiplus/mimiq
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gojiplus-mimiq/record.json
 
 ### License declarations
@@ -7320,10 +6824,6 @@ Long-horizon agentic web search benchmark whose Agent-as-a-Judge framework score
 - Topics: evaluation, web-navigation, long-horizon
 - Evidence checked: 2026-10-17T17:18:21Z
 - ID: github:osu-nlp-group/mind2web-2
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/record.json
 
@@ -7355,10 +6855,6 @@ Controlled adversarial web environment for measuring how autonomous browser agen
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:shushant17711/mirage
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shushant17711-mirage/record.json
 
 ### License declarations
@@ -7388,10 +6884,6 @@ Unified evaluation framework measuring truthfulness, controllability, safety, an
 - Topics: safety-security, evaluation, robustness
 - Evidence checked: 2026-10-18T10:59:55Z
 - ID: github:thu-ml/mla-trust
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-thu-ml-mla-trust/record.json
 
@@ -7423,10 +6915,6 @@ MM-SafetyBench evaluates multimodal large language models against query-relevant
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:ai45lab/mm-safetybench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ai45lab-mm-safetybench/record.json
 
 ### License declarations
@@ -7455,10 +6943,6 @@ Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hop
 - Topics: evaluation, long-horizon
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:shulin16/mmina
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-shulin16-mmina/record.json
 
@@ -7531,11 +7015,11 @@ The ungated manifest lists MobBench_tasks_release_v1.0.json and bilingual cards.
 
 ### Structured profile
 
-- actions: mobile GUI actions through a separately configured agent
-- evaluation: The publisher reports a fifty-task real-device evaluation.
-- focus: mobile task completion
-- observations: Android device interface
-- setting: interactive
+- Actions / outputs: mobile GUI actions through a separately configured agent
+- Evaluation: The publisher reports a fifty-task real-device evaluation.
+- Focus: mobile task completion
+- Observations: Android device interface
+- Setting: interactive
 
 #### Count observations
 
@@ -7573,10 +7057,6 @@ Mobile-Bench evaluates LLM-based mobile agents on multi-step Android tasks combi
 - Topics: evaluation, mobile-navigation, tool-integration
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xiaomi/mobilebench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-xiaomi-mobilebench/record.json
 
@@ -7616,11 +7096,11 @@ The public Hub manifest contains one test Parquet file. This resource is the ben
 
 ### Structured profile
 
-- actions: not recorded
-- evaluation: The published task schema contains rubrics and human_reference_operations. No automated scoring protocol or single numeric agent metric is established by the inspected card; execution uses separately configured Android tooling.
-- focus: long-horizon multi-app Android task execution
-- observations: task instructions, app/scenario metadata
-- setting: interactive
+- Actions / outputs: not recorded
+- Evaluation: The published task schema contains rubrics and human_reference_operations. No automated scoring protocol or single numeric agent metric is established by the inspected card; execution uses separately configured Android tooling.
+- Focus: long-horizon multi-app Android task execution
+- Observations: task instructions, app/scenario metadata
+- Setting: interactive
 
 #### Count observations
 
@@ -7661,10 +7141,6 @@ Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mob
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:mobileagentbench/mobile-agent-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mobileagentbench-mobile-agent-bench/record.json
 
 ### License declarations
@@ -7693,10 +7169,6 @@ MobileBench-OL provides an online evaluation harness for testing mobile GUI agen
 - Topics: evaluation, mobile-navigation, robustness
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xiaomi-research/mobilebench-ol
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/record.json
 
@@ -7728,19 +7200,15 @@ Android emulator testbed that scores mobile device-control agents on both safety
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:jylee425/mobilesafetybench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jylee425-mobilesafetybench/record.json
 
 ### Structured profile
 
-- actions: tap/long-tap/swipe, navigation buttons and text editing, refuse, ask-consent and complete, task-specific shortcut actions
-- evaluation: Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results include separate goal-achievement, harm-prevention, risk-detection and completion-progress measures.
-- focus: mobile task helpfulness, harm prevention during Android interaction
-- observations: screenshot pixels, parsed UI hierarchy text, task instruction and interaction history
-- setting: interactive
+- Actions / outputs: tap/long-tap/swipe, navigation buttons and text editing, refuse, ask-consent and complete, task-specific shortcut actions
+- Evaluation: Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results include separate goal-achievement, harm-prevention, risk-detection and completion-progress measures.
+- Focus: mobile task helpfulness, harm prevention during Android interaction
+- Observations: screenshot pixels, parsed UI hierarchy text, task instruction and interaction history
+- Setting: interactive
 
 #### Count observations
 
@@ -7780,10 +7248,6 @@ Benchmark of semantic world modeling for mobile agents, with question-answering 
 - Evidence checked: 2026-10-16T06:40:51Z
 - ID: github:jacklishufan/mobileworld
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jacklishufan-mobileworld/record.json
 
 ### License declarations
@@ -7812,10 +7276,6 @@ Navi-Bench evaluates web agents on everyday consumer tasks executed directly on 
 - Topics: evaluation, web-navigation
 - Evidence checked: 2026-11-04T14:02:36Z
 - ID: github:yutori-ai/navi-bench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-yutori-ai-navi-bench/record.json
 
@@ -7847,10 +7307,6 @@ Next-Gen CAPTCHAs provides an interactive benchmark and generator of cognitive-g
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:metaagentx/nextgen-captchas
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/record.json
 
 ### License declarations
@@ -7881,10 +7337,6 @@ Black-box computer-use QA harness on Solari that evaluates live user interfaces 
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:yayaq1/nightshift
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yayaq1-nightshift/record.json
 
 ### License declarations
@@ -7914,10 +7366,6 @@ OmniWebBench evaluates agentic browsers across end-to-end web navigation, action
 - Topics: evaluation, web-navigation, self-reflection, robustness
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:fanxutherealone/omniwebbench
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/record.json
 
@@ -7957,11 +7405,11 @@ GitHub marks the repository archived. Notte Labs, the developer of one of the co
 
 ### Structured profile
 
-- actions: agent-defined browser actions
-- evaluation: A GPT-4o judge (default model in eval/evaluators/webvoyager.py) receives the task, the agent's final response and up to its last four screenshots under WebVoyager's evaluation prompt and returns SUCCESS, NOT SUCCESS or UNKNOWN; the agent's own success claim is recorded separately. The three published configurations (configs/) run each task 8 times with at most 20 steps and 360 seconds.
-- focus: live-website task completion, agent self-report calibration, run-to-run variance
-- observations: agent-defined browser observations, final screenshots and response for the judge
-- setting: interactive
+- Actions / outputs: agent-defined browser actions
+- Evaluation: A GPT-4o judge (default model in eval/evaluators/webvoyager.py) receives the task, the agent's final response and up to its last four screenshots under WebVoyager's evaluation prompt and returns SUCCESS, NOT SUCCESS or UNKNOWN; the agent's own success claim is recorded separately. The three published configurations (configs/) run each task 8 times with at most 20 steps and 360 seconds.
+- Focus: live-website task completion, agent self-report calibration, run-to-run variance
+- Observations: agent-defined browser observations, final screenshots and response for the judge
+- Setting: interactive
 
 #### Count observations
 
@@ -8007,10 +7455,6 @@ Black-box UX audit harness that dispatches AI browser personas to test web produ
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:tiacoo/open-user
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tiacoo-open-user/record.json
 
 ### License declarations
@@ -8049,11 +7493,11 @@ Public code includes app/task/configuration and agent-launching implementations.
 
 ### Structured profile
 
-- actions: click, type, scroll, configured BrowserGym/AgentLab actions
-- evaluation: Tasks define check_if_task_is_complete(initial_state,current_state); app-specific reward logic evaluates underlying state, with custom checks for code-editor file contents. Observation/history flags are configurable. No universal single fixed task total or published-run reproduction is implied.
-- focus: UI-agent reliability under environment variation, state-based browser task evaluation
-- observations: screenshots, accessibility trees, set-of-marks and coordinates (configurable)
-- setting: interactive
+- Actions / outputs: click, type, scroll, configured BrowserGym/AgentLab actions
+- Evaluation: Tasks define check_if_task_is_complete(initial_state,current_state); app-specific reward logic evaluates underlying state, with custom checks for code-editor file contents. Observation/history flags are configurable. No universal single fixed task total or published-run reproduction is implied.
+- Focus: UI-agent reliability under environment variation, state-based browser task evaluation
+- Observations: screenshots, accessibility trees, set-of-marks and coordinates (configurable)
+- Setting: interactive
 
 #### Count observations
 
@@ -8104,11 +7548,11 @@ The Hub card provides split/format/license metadata, while the official OS-Oracl
 
 ### Structured profile
 
-- actions: critic-model responses
-- evaluation: The official repository runs model inference and computes accuracy with cal_acc.py.
-- focus: GUI critic prediction
-- observations: benchmark JSONL, UI screenshots
-- setting: offline
+- Actions / outputs: critic-model responses
+- Evaluation: The official repository runs model inference and computes accuracy with cal_acc.py.
+- Focus: GUI critic prediction
+- Observations: benchmark JSONL, UI screenshots
+- Setting: offline
 
 #### Count observations
 
@@ -8158,11 +7602,11 @@ Public task manifests, agent runner and evaluator code are present, and the link
 
 ### Structured profile
 
-- actions: actions executed by the OSWorld-derived DesktopEnv
-- evaluation: Task configurations provide evaluators for application/system state, using an OSWorld-derived runtime.
-- focus: breadth of desktop task coverage, depth of desktop task execution
-- observations: desktop observations from an Ubuntu virtual machine
-- setting: interactive
+- Actions / outputs: actions executed by the OSWorld-derived DesktopEnv
+- Evaluation: Task configurations provide evaluators for application/system state, using an OSWorld-derived runtime.
+- Focus: breadth of desktop task coverage, depth of desktop task execution
+- Observations: desktop observations from an Ubuntu virtual machine
+- Setting: interactive
 
 #### Count observations
 
@@ -8214,11 +7658,11 @@ Code for the OSReward paper; the trajectories themselves are released separately
 
 ### Structured profile
 
-- actions: one SUCCESS or FAIL verdict per trajectory
-- evaluation: Verdicts are compared with human gold labels; the evaluator reports accuracy, balanced accuracy, SUCCESS recall, FAIL recall and coverage, counting missing, API-error and unparseable outputs as incorrect.
-- focus: reliability of VLM judges and reward models on computer-use trajectories, binary success verdicts
-- observations: task instruction, full thought and action history, last five screenshots with red action-point markers (default)
-- setting: offline
+- Actions / outputs: one SUCCESS or FAIL verdict per trajectory
+- Evaluation: Verdicts are compared with human gold labels; the evaluator reports accuracy, balanced accuracy, SUCCESS recall, FAIL recall and coverage, counting missing, API-error and unparseable outputs as incorrect.
+- Focus: reliability of VLM judges and reward models on computer-use trajectories, binary success verdicts
+- Observations: task instruction, full thought and action history, last five screenshots with red action-point markers (default)
+- Setting: offline
 
 #### Count observations
 
@@ -8264,10 +7708,6 @@ OSUniverse is a task-oriented desktop benchmark for evaluating vision-based mult
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:agentsea/osuniverse
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentsea-osuniverse/record.json
 
 ### License declarations
@@ -8297,10 +7737,6 @@ Evaluates GPT-4o-mini on OSWorld desktop automation tasks comparing screenshot-o
 - Topics: evaluation, grounding, screen-understanding
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:suraj-ranganath/osworld-gpt4o-mini-benchmark
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/record.json
 
@@ -8339,11 +7775,11 @@ The repository publishes per-application reference JSON files and score.py. It e
 
 ### Structured profile
 
-- actions: efficiency scores
-- evaluation: The scorer consumes OSWorld results and a specified maximum step budget; the README distinguishes single-action and grouped-action WES+ and WES-.
-- focus: action efficiency relative to humans
-- observations: OSWorld result trajectories, human reference actions
-- setting: offline
+- Actions / outputs: efficiency scores
+- Evaluation: The scorer consumes OSWorld results and a specified maximum step budget; the README distinguishes single-action and grouped-action WES+ and WES-.
+- Focus: action efficiency relative to humans
+- Observations: OSWorld result trajectories, human reference actions
+- Setting: offline
 
 #### Count observations
 
@@ -8388,11 +7824,11 @@ The repository holds the osworld_science package (CLI, VM control, agents, evalu
 
 ### Structured profile
 
-- actions: pyautogui code (built-in prompt agent), tool calls (vendored Kimi agent)
-- evaluation: Task-specific executable evaluators (JSON, CSV, artifact, R, SQL, Slicer and Praat checks plus author-provided scientific checks) inspect application states and collected deliverables and can award partial credit; the report command exports PASS/FAIL/VOID counts, scores, steps and costs.
-- focus: scientific-software workflows, combined GUI and command-line interaction
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: pyautogui code (built-in prompt agent), tool calls (vendored Kimi agent)
+- Evaluation: Task-specific executable evaluators (JSON, CSV, artifact, R, SQL, Slicer and Praat checks plus author-provided scientific checks) inspect application states and collected deliverables and can award partial credit; the report command exports PASS/FAIL/VOID counts, scores, steps and costs.
+- Focus: scientific-software workflows, combined GUI and command-line interaction
+- Observations: screenshots
+- Setting: interactive
 
 #### Count observations
 
@@ -8431,10 +7867,6 @@ pantheon-webarena packages containerized WebArena environments with reset, healt
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:pantheon-auto/pantheon-webarena
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pantheon-auto-pantheon-webarena/record.json
 
 ### License declarations
@@ -8464,10 +7896,6 @@ Local-first AI-assisted website regression discovery suite with deterministic Pl
 - Topics: evaluation, recording, web-navigation
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:mikulabc/pathproof
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-mikulabc-pathproof/record.json
 
@@ -8499,10 +7927,6 @@ Blind-tests web and desktop user interfaces using isolated AI personas that inte
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:ericwong5021/persona-ux-test
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/record.json
 
 ### License declarations
@@ -8533,10 +7957,6 @@ Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency 
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:plasmate-labs/plasmate-benchmarks
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
 
 ### License declarations
@@ -8566,10 +7986,6 @@ Concurrency benchmark for computer-use agents operating a legacy property-manage
 - Topics: evaluation, robustness, web-navigation, workflow
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:lgoyal6/pms-race
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lgoyal6-pms-race/record.json
 
@@ -8634,10 +8050,6 @@ Adversarial testbed demonstrating indirect prompt injection and API-key exfiltra
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:redbotster/poisonpage
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-redbotster-poisonpage/record.json
 
 ### License declarations
@@ -8668,10 +8080,6 @@ Synthesizes and grades verifiable computer-use reinforcement-learning tasks from
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:lyt060814/cua-gym.pptx
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lyt060814-cua-gym-pptx/record.json
 
 ### License declarations
@@ -8701,19 +8109,15 @@ Evaluation resources for pixel-precise cursor grounding in code editors.
 - Evidence checked: 2026-10-16T06:40:52Z
 - ID: github:microsoft/precision-cua-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-precision-cua-bench/record.json
 
 ### Structured profile
 
-- actions: pixel (x,y) cursor coordinate
-- evaluation: The inspected evaluator scales target boxes from a 1000×1000 reference grid into image pixels and tests pixel predictions, allowing ±10 pixels around the center along any target dimension narrower than 1 pixel after scaling. It reports cumulative hit accuracy by turn (earlier hits remain correct), miss distances, any-turn hit rate, and a correction rate whose denominator is all successfully processed samples. The default budget is five turns; retain prompt/feedback variant, turn budget, and processed/skipped coverage.
-- focus: pixel-precise editor cursor placement, multi-turn visual self-correction
-- observations: code-editor screenshot, cursor-location instruction, red-cross feedback marking previous incorrect prediction
-- setting: offline
+- Actions / outputs: pixel (x,y) cursor coordinate
+- Evaluation: The inspected evaluator scales target boxes from a 1000×1000 reference grid into image pixels and tests pixel predictions, allowing ±10 pixels around the center along any target dimension narrower than 1 pixel after scaling. It reports cumulative hit accuracy by turn (earlier hits remain correct), miss distances, any-turn hit rate, and a correction rate whose denominator is all successfully processed samples. The default budget is five turns; retain prompt/feedback variant, turn budget, and processed/skipped coverage.
+- Focus: pixel-precise editor cursor placement, multi-turn visual self-correction
+- Observations: code-editor screenshot, cursor-location instruction, red-cross feedback marking previous incorrect prediction
+- Setting: offline
 
 #### Count observations
 
@@ -8753,10 +8157,6 @@ Preflight-Bench evaluates pre-click staleness checks and page-load synchronizati
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:multimodal-ai-engineering/preflight-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/record.json
 
 ### License declarations
@@ -8786,10 +8186,6 @@ Agent-guided generation and multi-dimensional visual evaluation benchmark for ed
 - Topics: evaluation, ui-design, workflow, data-generation
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:haikong-lu1206/refract-pptx
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/record.json
 
@@ -8821,10 +8217,6 @@ Resurf is a deterministic, reproducible test environment for evaluating AI brows
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:lightfeed/resurf
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lightfeed-resurf/record.json
 
 ### License declarations
@@ -8854,10 +8246,6 @@ Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual m
 - Topics: evaluation
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:yjyddq/riosworld
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-yjyddq-riosworld/record.json
 
@@ -8921,10 +8309,6 @@ The page describes Android 14 touch and text input, deterministic reset, and off
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:unipat-ai/saas-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-unipat-ai-saas-bench/record.json
 
 ### License declarations
@@ -8955,19 +8339,15 @@ Web-agent benchmark pairing benign and harmful tasks to study deliberate misuse 
 - Evidence checked: 2026-10-16T09:36:33Z
 - ID: github:mcgill-nlp/safearena
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-safearena/record.json
 
 ### Structured profile
 
-- actions: web interactions
-- evaluation: Task outcomes and the Agent Risk Assessment categories evaluate agent behavior on benign and harmful requests.
-- focus: web-agent safety, task completion
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: web interactions
+- Evaluation: Task outcomes and the Agent Risk Assessment categories evaluate agent behavior on benign and harmful requests.
+- Focus: web-agent safety, task completion
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -9040,10 +8420,6 @@ ScreenLeak is a multimodal benchmark for measuring sensitive-information detecti
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:screenpipe/screenleak
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-screenpipe-screenleak/record.json
 
 ### License declarations
@@ -9073,10 +8449,6 @@ SCUBA benchmarks computer-use agents on enterprise Salesforce CRM workflows span
 - Topics: evaluation, workflow, sandbox
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:salesforceairesearch/scuba
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-salesforceairesearch-scuba/record.json
 
@@ -9116,11 +8488,11 @@ The card describes showdown-clicks as part of General Agents' showdown suite and
 
 ### Structured profile
 
-- actions: single left-click coordinate
-- evaluation: A prediction counts as correct when the predicted click point falls inside the annotated bounding box of viable click locations; the card reports accuracy with bootstrapped 95% confidence intervals and latency.
-- focus: instruction-conditioned click grounding, low-level desktop control
-- observations: macOS screenshots
-- setting: offline
+- Actions / outputs: single left-click coordinate
+- Evaluation: A prediction counts as correct when the predicted click point falls inside the annotated bounding box of viable click locations; the card reports accuracy with bootstrapped 95% confidence intervals and latency.
+- Focus: instruction-conditioned click grounding, low-level desktop control
+- Observations: macOS screenshots
+- Setting: offline
 
 #### Count observations
 
@@ -9158,10 +8530,6 @@ Behavioral CI gate where computer-use agents test signup, checkout, and onboardi
 - Topics: evaluation, web-navigation, automation
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:satyamdave/simulation-labs
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-satyamdave-simulation-labs/record.json
 
@@ -9201,11 +8569,11 @@ SMAN-Bench is the title of the ICLR 2026 edition of the Mobile-Bench-v2 paper; t
 
 ### Structured profile
 
-- actions: click a labelled element, scroll a labelled element in a direction, input text
-- evaluation: Predicted actions are mapped to the recorded action IDs of each page. Single-path runs are scored step by step against the ground-truth path (action accuracy, action-type accuracy, success only when every step matches); multi-path runs succeed when the agent's actions reach the goal page in the recorded page graph; noisy runs check ground-truth click and swipe coordinates against the predicted element's bounds and typed text by character-level F1.
-- focus: single-path step accuracy, multi-path task completion, robustness to pop-ups and ads, ambiguous instructions
-- observations: recorded Android screenshots with element boxes drawn from the page XML, element centre coordinates (Mobile-Agent-v2 runner), task instructions
-- setting: offline
+- Actions / outputs: click a labelled element, scroll a labelled element in a direction, input text
+- Evaluation: Predicted actions are mapped to the recorded action IDs of each page. Single-path runs are scored step by step against the ground-truth path (action accuracy, action-type accuracy, success only when every step matches); multi-path runs succeed when the agent's actions reach the goal page in the recorded page graph; noisy runs check ground-truth click and swipe coordinates against the predicted element's bounds and typed text by character-level F1.
+- Focus: single-path step accuracy, multi-path task completion, robustness to pop-ups and ads, ambiguous instructions
+- Observations: recorded Android screenshots with element boxes drawn from the page XML, element centre coordinates (Mobile-Agent-v2 runner), task instructions
+- Setting: offline
 
 #### Count observations
 
@@ -9251,10 +8619,6 @@ Autonomous playtesting agent and evaluation harness on Solari that builds web ga
 - Evidence checked: 2026-11-04T18:11:32Z
 - ID: github:moazessam376-dev/solari-playtest
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-moazessam376-dev-solari-playtest/record.json
 
 ### License declarations
@@ -9285,10 +8649,6 @@ Spider Browser Dataset benchmarks browser automation and anti-bot resilience acr
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:spider-rs/spider-browser-dataset
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/record.json
 
 ### License declarations
@@ -9318,19 +8678,15 @@ Visual agent evaluation on data-science and engineering workflows.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:xlang-ai/spider2-v
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-spider2-v/record.json
 
 ### Structured profile
 
-- actions: PyAutoGUI mouse and keyboard actions
-- evaluation: Task-specific evaluation functions are invoked after agent execution.
-- focus: data-science workflows, multi-application task completion
-- observations: screenshots, accessibility trees, set-of-marks views
-- setting: interactive
+- Actions / outputs: PyAutoGUI mouse and keyboard actions
+- Evaluation: Task-specific evaluation functions are invoked after agent execution.
+- Focus: data-science workflows, multi-application task completion
+- Observations: screenshots, accessibility trees, set-of-marks views
+- Setting: interactive
 
 #### Count observations
 
@@ -9377,11 +8733,11 @@ Adjacent scope: agents resolve issues by producing code patches, and every insta
 
 ### Structured profile
 
-- actions: code patch submission
-- evaluation: Submitted patches are applied in per-instance Docker images and judged by the repository's FAIL_TO_PASS and PASS_TO_PASS unit tests through the SWE-bench harness; the reported metric is the percentage of instances resolved.
-- focus: issue resolution in visual JavaScript/TypeScript software, interpreting screenshots and renderings in issue reports
-- observations: repository checkout, issue text, issue and patch images
-- setting: offline
+- Actions / outputs: code patch submission
+- Evaluation: Submitted patches are applied in per-instance Docker images and judged by the repository's FAIL_TO_PASS and PASS_TO_PASS unit tests through the SWE-bench harness; the reported metric is the percentage of instances resolved.
+- Focus: issue resolution in visual JavaScript/TypeScript software, interpreting screenshots and renderings in issue reports
+- Observations: repository checkout, issue text, issue and patch images
+- Setting: offline
 
 #### Count observations
 
@@ -9420,10 +8776,6 @@ SWEeper-Bench evaluates whether interactive GUI and browser agents can autonomou
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:zlab-princeton/sweeper-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/record.json
 
 ### License declarations
@@ -9454,10 +8806,6 @@ taskproof is an open-source CI harness that tests whether real AI computer-use a
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:taskproof/taskproof
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-taskproof-taskproof/record.json
 
 ### License declarations
@@ -9487,10 +8835,6 @@ Agentic end-to-end web testing platform that executes natural-language test case
 - Topics: evaluation, web-navigation, automation
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:h0ngza1/testpilot
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-h0ngza1-testpilot/record.json
 
@@ -9555,10 +8899,6 @@ UI-FaultLab benchmarks auditable agent-versus-application failure attribution in
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:kakoyvostorg/ui-faultlab
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/record.json
 
 ### License declarations
@@ -9597,11 +8937,11 @@ The Hub card has only metadata (apache-2.0, English, 1K<n<10K). The UI-I2E-Bench
 
 ### Structured profile
 
-- actions: point prediction
-- evaluation: Point-in-box accuracy against the annotated bounding box, broken down by source platform, element type and instruction type (UI-E2I-Synth/i2e-bench-eval.py).
-- focus: GUI element grounding from explicit and implicit instructions
-- observations: screenshots, natural-language instructions
-- setting: offline
+- Actions / outputs: point prediction
+- Evaluation: Point-in-box accuracy against the annotated bounding box, broken down by source platform, element type and instruction type (UI-E2I-Synth/i2e-bench-eval.py).
+- Focus: GUI element grounding from explicit and implicit instructions
+- Observations: screenshots, natural-language instructions
+- Setting: offline
 
 #### Count observations
 
@@ -9654,11 +8994,11 @@ Official repository of the paper "Atomic-to-Compositional Generalization for Mob
 
 ### Structured profile
 
-- actions: agent-defined Android actions
-- evaluation: Not specified in the repository: the README defers the agent-running code, and neither the task files nor the state configurations carry success criteria.
-- focus: compositional multi-app mobile tasks, generalization from atomic to compositional tasks
-- observations: agent-defined observations of the Android emulator or device
-- setting: interactive
+- Actions / outputs: agent-defined Android actions
+- Evaluation: Not specified in the repository: the README defers the agent-running code, and neither the task files nor the state configurations carry success criteria.
+- Focus: compositional multi-app mobile tasks, generalization from atomic to compositional tasks
+- Observations: agent-defined observations of the Android emulator or device
+- Setting: interactive
 
 #### Count observations
 
@@ -9705,10 +9045,6 @@ Synthetic first-user evaluation harness that verifies web applications by attemp
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:aafre/userzero
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aafre-userzero/record.json
 
 ### License declarations
@@ -9739,10 +9075,6 @@ Verisim is a coverage certifier and adversarial evaluation suite for testing pre
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:clay-good/verisim
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-clay-good-verisim/record.json
 
 ### License declarations
@@ -9772,10 +9104,6 @@ Verifiable web information-seeking benchmark renamed from VeriGUI; desktop evalu
 - Topics: evaluation
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:verigui-team/verigui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-verigui-team-verigui/record.json
 
@@ -9840,10 +9168,6 @@ Evaluation of multimodal models on visual web understanding tasks.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:visualwebbench/visualwebbench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-visualwebbench-visualwebbench/record.json
 
 ### License declarations
@@ -9872,10 +9196,6 @@ Structured taxonomy and comparative map of public voice-agent, multimodal, and c
 - Topics: evaluation, survey
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:sophon-llc/voice-agent-benchmark-landscape
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sophon-llc-voice-agent-benchmark-landscape/record.json
 
@@ -9907,10 +9227,6 @@ WAInjectBench benchmarks prompt injection detection in web agents across six tex
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:norrrrrrr-lyn/wainjectbench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-norrrrrrr-lyn-wainjectbench/record.json
 
 ### License declarations
@@ -9939,10 +9255,6 @@ Prompt-injection defense classifier, evaluation benchmark, and defended browser 
 - Topics: safety-security, evaluation, web-navigation
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:aaman-911/watcher
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-aaman-911-watcher/record.json
 
@@ -9973,10 +9285,6 @@ WeaveBench evaluates computer-use agents on long-horizon real-world workflows ac
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:weavebench/weavebench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-weavebench-weavebench/record.json
 
 ### License declarations
@@ -10006,10 +9314,6 @@ Reproducible 8-dimension benchmark comparing 7 browser-automation MCP servers on
 - Topics: evaluation, web-navigation, tool-integration, efficiency
 - Evidence checked: 2026-11-04T14:20:17Z
 - ID: github:pleasedodisturb/web-agent-comparison
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-pleasedodisturb-web-agent-comparison/record.json
 
@@ -10049,11 +9353,11 @@ This is a single-snapshot representation evaluation on local fixtures and captur
 
 ### Structured profile
 
-- actions: READ text answer, ACT selector, text/label, accessible role/name, DOM index, Stagehand reference or screenshot point, according to the representation
-- evaluation: READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics.
-- focus: Browser-representation token use, Factual READ accuracy, ACT target-element selection
-- observations: Top-document HTML, Markdown converted from HTML, Playwright accessibility snapshot, Browser Use indexed DOM, Stagehand hybrid snapshot, Viewport screenshot
-- setting: offline
+- Actions / outputs: READ text answer, ACT selector, text/label, accessible role/name, DOM index, Stagehand reference or screenshot point, according to the representation
+- Evaluation: READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics.
+- Focus: Browser-representation token use, Factual READ accuracy, ACT target-element selection
+- Observations: Top-document HTML, Markdown converted from HTML, Playwright accessibility snapshot, Browser Use indexed DOM, Stagehand hybrid snapshot, Viewport screenshot
+- Setting: offline
 
 #### Count observations
 
@@ -10096,10 +9400,6 @@ web-agent-bench compares browser-automation harnesses (Playwright MCP, agent-bro
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:nsosio/web-agent-bench
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nsosio-web-agent-bench/record.json
 
 ### License declarations
@@ -10129,10 +9429,6 @@ Evaluates web agents on 102 replica websites from the REAL benchmark under expli
 - Topics: evaluation, web-navigation, observability
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:saarthak-yadav/web-agent-eval
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/record.json
 
@@ -10172,11 +9468,11 @@ The README and dataset card describe 2,454 tasks on 452 websites (category count
 
 ### Structured profile
 
-- actions: browser interactions on live websites
-- evaluation: The repository releases per-agent result files; the scoring procedure is described in the publisher's technical report rather than an executable evaluator in the repository.
-- focus: live-web task completion, write operations such as account creation, updates and deletions, file downloads
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: browser interactions on live websites
+- Evaluation: The repository releases per-agent result files; the scoring procedure is described in the publisher's technical report rather than an executable evaluator in the repository.
+- Focus: live-web task completion, write operations such as account creation, updates and deletions, file downloads
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -10220,10 +9516,6 @@ The released CSV has columns ID, Starting URL, Category and Task, with 1,637 REA
 - Topics: evaluation
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:convergence-ai/webgames
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-convergence-ai-webgames/record.json
 
@@ -10288,10 +9580,6 @@ Codebase, annotation toolkit, and action-level risk dataset for training and eva
 - Evidence checked: 2026-10-18T10:59:53Z
 - ID: github:osu-nlp-group/webguard
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-webguard/record.json
 
 ### License declarations
@@ -10322,10 +9610,6 @@ WebMall is a multi-shop e-commerce web agent benchmark evaluating cross-site pri
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:wbsg-uni-mannheim/webmall
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/record.json
 
 ### License declarations
@@ -10354,10 +9638,6 @@ WebMCP Description Benchmarks evaluates how in-browser WebMCP tool schema descri
 - Topics: evaluation, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T14:20:14Z
 - ID: github:clouatre-labs/webmcp-description-benchmarks
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-clouatre-labs-webmcp-description-benchmarks/record.json
 
@@ -10397,11 +9677,11 @@ Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 task
 
 ### Structured profile
 
-- actions: harness-defined browser actions through the task's local browser service
-- evaluation: Hidden test cases per task. A case passes when its functional checks pass and every visual checkpoint's flat-baseline-normalized RGB SSIM reaches 0.99. A task's reward is passed cases divided by cases, weighted equally.
-- focus: full-stack website reconstruction from browser exploration, without the source code, visual appearance and functional behavior of the rebuilt site
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: harness-defined browser actions through the task's local browser service
+- Evaluation: Hidden test cases per task. A case passes when its functional checks pass and every visual checkpoint's flat-baseline-normalized RGB SSIM reaches 0.99. A task's reward is passed cases divided by cases, weighted equally.
+- Focus: full-stack website reconstruction from browser exploration, without the source code, visual appearance and functional behavior of the rebuilt site
+- Observations: not recorded
+- Setting: interactive
 
 #### Count observations
 
@@ -10447,11 +9727,11 @@ Public evaluation/deployment scripts accompany an ungated Hub release with JSON/
 
 ### Structured profile
 
-- actions: browser interaction, test checklist generation, defect reports
-- evaluation: The supplied WebTester pipeline separates checklist generation from interactive defect detection and provides a scoring workflow.
-- focus: web functionality testing, latent permission and business constraints
-- observations: web application interface, development instruction
-- setting: interactive
+- Actions / outputs: browser interaction, test checklist generation, defect reports
+- Evaluation: The supplied WebTester pipeline separates checklist generation from interactive defect detection and provides a scoring workflow.
+- Focus: web functionality testing, latent permission and business constraints
+- Observations: web application interface, development instruction
+- Setting: interactive
 
 #### Count observations
 
@@ -10498,10 +9778,6 @@ Benchmark and multi-agent framework for evaluating large language models on mult
 - Evidence checked: 2026-10-16T11:09:28Z
 - ID: github:alibaba-nlp/webwalker
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alibaba-nlp-webwalker/record.json
 
 ### License declarations
@@ -10531,10 +9807,6 @@ WinDeskGround benchmarks desktop GUI grounding in multi-window Windows environme
 - Topics: evaluation, grounding, screen-understanding
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:zzzhr-1/windeskground
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-zzzhr-1-windeskground/record.json
 
@@ -10573,11 +9845,11 @@ Repository contains executable evaluation code and task definitions. README link
 
 ### Structured profile
 
-- actions: PyAutoGUI
-- evaluation: Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator counts trajectory files in the evaluated run, with the full benchmark size recorded separately.
-- focus: Windows desktop task execution, revised task evaluators
-- observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- setting: interactive
+- Actions / outputs: PyAutoGUI
+- Evaluation: Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator counts trajectory files in the evaluated run, with the full benchmark size recorded separately.
+- Focus: Windows desktop task execution, revised task evaluators
+- Observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
+- Setting: interactive
 
 #### Count observations
 
@@ -10623,19 +9895,15 @@ Cross-application Windows benchmark with intermediate task evaluation.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:hitsz-tmg/windowsworld
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hitsz-tmg-windowsworld/record.json
 
 ### Structured profile
 
-- actions: PyAutoGUI, UiPath Computer_13 action interface
-- evaluation: Publisher distinguishes S_int (intermediate checkpoint score on L1–L3) and S_final (final completion on L1–L4). Documented step budgets are 15/25/40/20 for L1/L2/L3/L4. Preserve level, observation mode, agent interface and checkpoint/final metric when reporting a run.
-- focus: multi-application Windows workflows, intermediate-state and final-goal completion
-- observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- setting: interactive
+- Actions / outputs: PyAutoGUI, UiPath Computer_13 action interface
+- Evaluation: Publisher distinguishes S_int (intermediate checkpoint score on L1–L3) and S_final (final completion on L1–L4). Documented step budgets are 15/25/40/20 for L1/L2/L3/L4. Preserve level, observation mode, agent interface and checkpoint/final metric when reporting a run.
+- Focus: multi-application Windows workflows, intermediate-state and final-goal completion
+- Observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
+- Setting: interactive
 
 #### Count observations
 
@@ -10681,11 +9949,11 @@ The repository contains evaluation and collection code; the linked Zenodo releas
 
 ### Structured profile
 
-- actions: generate procedures, segment demonstrations, answer workflow questions, validate and rank procedures
-- evaluation: Task-specific scripts evaluate six workflow-understanding task types.
-- focus: workflow documentation, workflow quality assessment, workflow knowledge transfer
-- observations: screen recordings, action traces, screenshots, written standard operating procedures
-- setting: offline
+- Actions / outputs: generate procedures, segment demonstrations, answer workflow questions, validate and rank procedures
+- Evaluation: Task-specific scripts evaluate six workflow-understanding task types.
+- Focus: workflow documentation, workflow quality assessment, workflow knowledge transfer
+- Observations: screen recordings, action traces, screenshots, written standard operating procedures
+- Setting: offline
 
 #### Count observations
 
@@ -10729,10 +9997,6 @@ Counts are publisher-reported. The gold subset covers 162 workflows and differs 
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:showlab/worldgui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-worldgui/record.json
 
 ### License declarations
@@ -10761,10 +10025,6 @@ Validation toolkit checking page-owned WebMCP tool schemas, authorization bounda
 - Topics: evaluation, safety-security, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:wornpage/webmcp-conformance
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-wornpage-webmcp-conformance/record.json
 

@@ -12,10 +12,6 @@ Local-browser web search and page-fetching plugin for DeepSeek Harness.
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:yuanmingxue/dsh-search
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yuanmingxue-dsh-search/record.json
 
 ## License declarations

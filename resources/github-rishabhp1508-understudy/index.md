@@ -12,10 +12,6 @@ Records a single LLM-driven exploration of a legacy UI into a typed capability a
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:rishabhp1508/understudy
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rishabhp1508-understudy/record.json
 
 ## License declarations

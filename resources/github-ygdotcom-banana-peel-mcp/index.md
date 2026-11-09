@@ -12,10 +12,6 @@ Model Context Protocol router and skill registry for browser automation agents.
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:ygdotcom/banana-peel-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ygdotcom-banana-peel-mcp/record.json
 
 ## License declarations

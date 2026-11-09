@@ -12,10 +12,6 @@ Cactus is a cross-platform on-device LLM and VLM inference framework for mobile 
 - Evidence checked: 2026-11-04T13:12:09Z
 - ID: github:cactus-compute/cactus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cactus-compute-cactus/record.json
 
 ## License declarations

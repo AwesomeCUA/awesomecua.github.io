@@ -12,10 +12,6 @@ Open-source AI browser automation agent for multi-step web workflow execution an
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:easyclaw-ai/easy_claw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-easyclaw-ai-easy-claw/record.json
 
 ## License declarations

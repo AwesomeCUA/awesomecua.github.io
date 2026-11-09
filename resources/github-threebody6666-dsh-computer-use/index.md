@@ -12,10 +12,6 @@ Native Windows computer-use and configurable vision plugin for DeepSeek Harness.
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:threebody6666/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-threebody6666-dsh-computer-use/record.json
 
 ## License declarations

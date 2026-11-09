@@ -12,10 +12,6 @@ GUI grounding models at 3B and 7B trained with Gaussian rewards for click proxim
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:zju-real/gui-g2
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zju-real-gui-g2/record.json
 
 ## License declarations

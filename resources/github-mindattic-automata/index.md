@@ -12,10 +12,6 @@ Record-once, replay-many browser automation runtime for Windows that records liv
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:mindattic/automata
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mindattic-automata/record.json
 
 ## License declarations

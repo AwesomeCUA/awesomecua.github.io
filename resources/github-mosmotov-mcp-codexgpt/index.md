@@ -12,10 +12,6 @@ Cross-platform Model Context Protocol bridge for deterministic ChatGPT Web code 
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:mosmotov/mcp-codexgpt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mosmotov-mcp-codexgpt/record.json
 
 ## License declarations

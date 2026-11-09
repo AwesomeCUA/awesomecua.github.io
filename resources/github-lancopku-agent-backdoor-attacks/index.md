@@ -12,10 +12,6 @@ BadAgents provides poisoned training datasets and evaluation scripts for query-,
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:lancopku/agent-backdoor-attacks
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lancopku-agent-backdoor-attacks/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ GACUA is an out-of-the-box computer-use agent built on Gemini CLI that combines 
 - Evidence checked: 2026-11-04T14:02:37Z
 - ID: github:openmule/gacua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openmule-gacua/record.json
 
 ## License declarations

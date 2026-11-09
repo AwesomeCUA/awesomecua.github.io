@@ -12,10 +12,6 @@ Ego Browser Benchmark Framework is a reproducible harness for comparing foundati
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:citrolabs/ego-browser-benchmark-framework
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-citrolabs-ego-browser-benchmark-framework/record.json
 
 ## License declarations

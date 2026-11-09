@@ -12,10 +12,6 @@ Local-first AI engineering and browser-control agent runtime with bounded execut
 - Evidence checked: 2026-11-04T17:20:39Z
 - ID: github:adnqcr7-code/kryptic
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-adnqcr7-code-kryptic/record.json
 
 ## License declarations

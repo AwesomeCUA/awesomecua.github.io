@@ -12,10 +12,6 @@ Optics Framework is a self-healing test automation engine for mobile, web, and T
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:mozarkai/optics-framework
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mozarkai-optics-framework/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ ELVES is a cross-platform desktop application for orchestrating multi-agent codi
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:mvmcode/elves
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mvmcode-elves/record.json
 
 ## License declarations

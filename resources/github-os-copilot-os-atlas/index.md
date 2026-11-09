@@ -12,10 +12,6 @@ OS-Atlas GUI action models, including grounding bases fine-tuned from InternVL2-
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:os-copilot/os-atlas
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-atlas/record.json
 
 ## License declarations

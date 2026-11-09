@@ -35,13 +35,13 @@ Olivia Rodríguez-Valdés, Tanja E. J. Vos, Pekka Aho, Beatriz Marín
 - Publication source: https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34
 - Publication BibTeX: https://awesomecua.com/resources/url-24a139a7910431441e39/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-24a139a7910431441e39/publication-citation.csl.json
-- venue: Communications in Computer and Information Science
-- publisher: Springer International Publishing
-- pages: 473-488
-- doi: 10.1007/978-3-030-85347-1_34
-- date basis: Crossref issued date 2021; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: QUATIC 2021 chapter in Communications in Computer and Information Science; the abstract was read from Semantic Scholar.
+- Venue: Communications in Computer and Information Science
+- Publisher: Springer International Publishing
+- Pages: 473-488
+- DOI: 10.1007/978-3-030-85347-1_34
+- Date source: Crossref issued date 2021; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: QUATIC 2021 chapter in Communications in Computer and Information Science; the abstract was read from Semantic Scholar.
 - Publication evidence: https://api.crossref.org/works/10.1007/978-3-030-85347-1_34, https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/978-3-030-85347-1_34?fields=title,abstract,authors,venue,year,externalIds
 
 ## License declarations

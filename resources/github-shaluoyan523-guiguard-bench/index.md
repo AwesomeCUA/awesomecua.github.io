@@ -20,11 +20,11 @@ The README is an anonymous-review version without authors or a citation; the pap
 
 ## Structured profile
 
-- actions: predicted privacy regions with labels, generated next-action plans, predicted click points
-- evaluation: privacy_recognition scores region-level privacy predictions against the labels (IoU-only or paper-style scoring); planner_eval has an LLM judge rate step-level semantic consistency between plans from original and protected trajectories on a 0-4 scale; grounding_eval counts a click as correct when the predicted point falls inside the target box.
-- focus: privacy-region recognition on GUI screenshots, planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
-- observations: recorded trajectory screenshots, task instructions, next-action plans
-- setting: offline
+- Actions / outputs: predicted privacy regions with labels, generated next-action plans, predicted click points
+- Evaluation: privacy_recognition scores region-level privacy predictions against the labels (IoU-only or paper-style scoring); planner_eval has an LLM judge rate step-level semantic consistency between plans from original and protected trajectories on a 0-4 scale; grounding_eval counts a click as correct when the predicted point falls inside the target box.
+- Focus: privacy-region recognition on GUI screenshots, planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
+- Observations: recorded trajectory screenshots, task instructions, next-action plans
+- Setting: offline
 
 ### Count observations
 

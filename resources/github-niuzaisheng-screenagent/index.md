@@ -12,10 +12,6 @@ Environment and agent in which a vision-language model controls real desktops ov
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:niuzaisheng/screenagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-niuzaisheng-screenagent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Agent-CE is a containerized continuous evaluation platform for benchmarking web 
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:anaishowland/agent-ce
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-agent-ce/record.json
 
 ## License declarations

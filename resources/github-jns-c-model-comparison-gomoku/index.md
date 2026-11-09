@@ -12,10 +12,6 @@ Controlled evaluation benchmark comparing frontier Claude models on interactive 
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:jns-c/model-comparison-gomoku
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/record.json
 
 ## License declarations

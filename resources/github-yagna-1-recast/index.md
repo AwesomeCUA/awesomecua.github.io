@@ -12,10 +12,6 @@ Compiler that converts recorded AI browser-agent execution traces into determini
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:yagna-1/recast
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yagna-1-recast/record.json
 
 ## License declarations

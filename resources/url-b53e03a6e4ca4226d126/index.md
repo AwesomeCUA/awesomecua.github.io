@@ -20,11 +20,11 @@ The ungated manifest lists MobBench_tasks_release_v1.0.json and bilingual cards.
 
 ## Structured profile
 
-- actions: mobile GUI actions through a separately configured agent
-- evaluation: The publisher reports a fifty-task real-device evaluation.
-- focus: mobile task completion
-- observations: Android device interface
-- setting: interactive
+- Actions / outputs: mobile GUI actions through a separately configured agent
+- Evaluation: The publisher reports a fifty-task real-device evaluation.
+- Focus: mobile task completion
+- Observations: Android device interface
+- Setting: interactive
 
 ### Count observations
 

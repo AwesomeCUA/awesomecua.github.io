@@ -35,15 +35,15 @@ Shuqing Li, Binchang Li, Yepang Liu, Cuiyun Gao, Jianping Zhang, Shing-Chi Cheun
 - Publication source: https://doi.org/10.1145/3808134
 - Publication BibTeX: https://awesomecua.com/resources/url-39f88102e1659647b1a0/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-39f88102e1659647b1a0/publication-citation.csl.json
-- venue: Proceedings of the ACM on Software Engineering
-- publisher: Association for Computing Machinery (ACM)
-- volume: 3
-- issue: FSE
-- pages: 2858-2881
-- doi: 10.1145/3808134
-- date basis: Crossref issued date 2026-6-30; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Proceedings of the ACM on Software Engineering (FSE 2026) article.
+- Venue: Proceedings of the ACM on Software Engineering
+- Publisher: Association for Computing Machinery (ACM)
+- Volume: 3
+- Issue: FSE
+- Pages: 2858-2881
+- DOI: 10.1145/3808134
+- Date source: Crossref issued date 2026-6-30; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Proceedings of the ACM on Software Engineering (FSE 2026) article.
 - Publication evidence: https://api.crossref.org/works/10.1145/3808134
 
 ## License declarations

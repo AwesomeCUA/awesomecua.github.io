@@ -12,10 +12,6 @@ Python library and CLI providing deterministic approval gates for browser-agent 
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:mikebfox/formbrake
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mikebfox-formbrake/record.json
 
 ## License declarations

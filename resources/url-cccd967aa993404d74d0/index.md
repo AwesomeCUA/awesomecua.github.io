@@ -35,12 +35,12 @@ Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
 - Publication source: https://doi.org/10.1145/1240624.1240767
 - Publication BibTeX: https://awesomecua.com/resources/url-cccd967aa993404d74d0/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-cccd967aa993404d74d0/publication-citation.csl.json
-- venue: CHI 2007 Proceedings
-- pages: 943-946
-- doi: 10.1145/1240624.1240767
-- date basis: Supplied year precision: 2007. CHI 2007 proceedings heading and copyright year The IBM page has an unlabeled Date of 22 Oct 2007, while the paper gives April/May event dates. Their roles do not establish a reliable day-level publication date.
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record. Exact publication date is unresolved; only the clearly established year is proposed.
+- Venue: CHI 2007 Proceedings
+- Pages: 943-946
+- DOI: 10.1145/1240624.1240767
+- Date source: Supplied year precision: 2007. CHI 2007 proceedings heading and copyright year The IBM page has an unlabeled Date of 22 Oct 2007, while the paper gives April/May event dates. Their roles do not establish a reliable day-level publication date.
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record. Exact publication date is unresolved; only the clearly established year is proposed.
 - Publication evidence: https://research.ibm.com/publications/koala-capture-share-automate-personalize-business-processes-on-the-web, https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf
 
 ## License declarations

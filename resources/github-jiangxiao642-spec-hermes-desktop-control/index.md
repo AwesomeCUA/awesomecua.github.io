@@ -12,10 +12,6 @@ Hermes Desktop Control is a runtime-neutral Windows GUI automation engine combin
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:jiangxiao642-spec/hermes-desktop-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jiangxiao642-spec-hermes-desktop-control/record.json
 
 ## License declarations

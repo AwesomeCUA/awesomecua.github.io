@@ -12,10 +12,6 @@ AdInject implements black-box indirect prompt injection attacks delivered throug
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:nicerwang/adinject
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nicerwang-adinject/record.json
 
 ## License declarations

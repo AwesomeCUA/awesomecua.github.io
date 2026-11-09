@@ -12,19 +12,15 @@ Cross-environment benchmark framework for multimodal agents.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:camel-ai/crab
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-camel-ai-crab/record.json
 
 ## Structured profile
 
-- actions: Python-defined environment actions
-- evaluation: Graph-based evaluators measure progress through task requirements.
-- focus: cross-environment tasks
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: Python-defined environment actions
+- Evaluation: Graph-based evaluators measure progress through task requirements.
+- Focus: cross-environment tasks
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

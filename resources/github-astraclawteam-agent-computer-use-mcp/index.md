@@ -12,10 +12,6 @@ Evidence-driven Windows Computer Use MCP server providing semantic UI observatio
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:astraclawteam/agent-computer-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-astraclawteam-agent-computer-use-mcp/record.json
 
 ## License declarations

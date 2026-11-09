@@ -12,10 +12,6 @@ Background macOS desktop automation plugin for DeepSeek Harness that observes an
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:zseven-w/dsh-computer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zseven-w-dsh-computer/record.json
 
 ## License declarations

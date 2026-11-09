@@ -12,10 +12,6 @@ Single-binary Go browser automation CLI and built-in MCP server that drives Chro
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:klarlabs-studio/scout
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-klarlabs-studio-scout/record.json
 
 ## License declarations

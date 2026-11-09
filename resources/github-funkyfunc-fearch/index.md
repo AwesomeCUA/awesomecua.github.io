@@ -12,10 +12,6 @@ Model Context Protocol server providing transparent web search and clean page re
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:funkyfunc/fearch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-funkyfunc-fearch/record.json
 
 ## License declarations

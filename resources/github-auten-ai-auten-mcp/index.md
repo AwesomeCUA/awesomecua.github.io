@@ -12,10 +12,6 @@ Auten MCP Server gives MCP clients native screen capture, UI element inspection,
 - Evidence checked: 2026-11-04T14:20:15Z
 - ID: github:auten-ai/auten-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-auten-ai-auten-mcp/record.json
 
 ## License declarations

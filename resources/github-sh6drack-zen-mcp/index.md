@@ -12,10 +12,6 @@ WebSocket-based Model Context Protocol server exposing 20 browser automation too
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:sh6drack/zen-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sh6drack-zen-mcp/record.json
 
 ## License declarations

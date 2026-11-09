@@ -12,10 +12,6 @@ Native macOS desktop automation MCP server providing screen capture, mouse/keybo
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:d-wwei/macos-desktop-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-d-wwei-macos-desktop-control/record.json
 
 ## License declarations

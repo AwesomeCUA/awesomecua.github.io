@@ -12,10 +12,6 @@ Visual browser agent that drives a real Microsoft Edge window from natural-langu
 - Evidence checked: 2026-11-04T17:55:19Z
 - ID: github:gupi-bill/ai-deep-search-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gupi-bill-ai-deep-search-agent/record.json
 
 ## License declarations

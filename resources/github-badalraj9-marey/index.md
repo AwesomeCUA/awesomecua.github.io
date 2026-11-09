@@ -12,10 +12,6 @@ Marey is a modular perception engine for computer-use agents that tracks screen 
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:badalraj9/marey
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-badalraj9-marey/record.json
 
 ## License declarations

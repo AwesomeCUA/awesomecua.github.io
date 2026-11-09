@@ -12,10 +12,6 @@ Source-blind browser agent that explores live web applications as a first-time u
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:techgardencode/naive-user
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-techgardencode-naive-user/record.json
 
 ## License declarations

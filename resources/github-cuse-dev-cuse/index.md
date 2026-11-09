@@ -12,10 +12,6 @@ cuse is an open-source framework for building AI agents that control virtualized
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:cuse-dev/cuse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cuse-dev-cuse/record.json
 
 ## License declarations

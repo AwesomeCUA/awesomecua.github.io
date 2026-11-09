@@ -12,10 +12,6 @@
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:convergence-ai/webgames
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-convergence-ai-webgames/record.json
 
 ## License declarations

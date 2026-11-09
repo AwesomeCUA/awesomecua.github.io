@@ -12,10 +12,6 @@ WebMCP-powered form-filling assistant that populates verified fields on high-sta
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:thunderkhan/webclerk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thunderkhan-webclerk/record.json
 
 ## License declarations

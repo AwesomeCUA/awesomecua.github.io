@@ -12,10 +12,6 @@ Natural-language Browser Agent execution platform supporting multi-browser sched
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:dongxinsuperman/ai-web
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dongxinsuperman-ai-web/record.json
 
 ## License declarations

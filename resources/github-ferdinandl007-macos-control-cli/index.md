@@ -12,10 +12,6 @@ macOS Control CLI combines local OmniParser v2 UI element detection with human-l
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:ferdinandl007/macos-control-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ferdinandl007-macos-control-cli/record.json
 
 ## License declarations

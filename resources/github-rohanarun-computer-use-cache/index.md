@@ -12,10 +12,6 @@ Drop-in OpenAI-compatible caching proxy that records and replays repeated comput
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:rohanarun/computer-use-cache
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rohanarun-computer-use-cache/record.json
 
 ## License declarations

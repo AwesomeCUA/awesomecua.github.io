@@ -12,18 +12,14 @@ Interaction-driven pipeline that synthesizes mobile and web GUI agent trajectori
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:os-copilot/os-genesis
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-genesis/record.json
 
 ## Structured profile
 
-- formats: JSONL trajectories, JSON transition triples
-- modalities: screenshots, text, actions
-- splits: not recorded
-- supervision: reverse task synthesis, GUI action trajectories
+- Formats: JSONL trajectories, JSON transition triples
+- Modalities: screenshots, text, actions
+- Splits: not recorded
+- Supervision: reverse task synthesis, GUI action trajectories
 
 ### Count observations
 

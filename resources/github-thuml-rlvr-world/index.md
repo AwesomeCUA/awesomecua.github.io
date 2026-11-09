@@ -12,10 +12,6 @@ RLVR-World trains world models with verifiable reinforcement learning to predict
 - Evidence checked: 2026-11-04T14:02:38Z
 - ID: github:thuml/rlvr-world
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thuml-rlvr-world/record.json
 
 ## License declarations

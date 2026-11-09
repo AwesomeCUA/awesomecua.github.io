@@ -12,10 +12,6 @@ Validation toolkit checking page-owned WebMCP tool schemas, authorization bounda
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:wornpage/webmcp-conformance
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wornpage-webmcp-conformance/record.json
 
 ## License declarations

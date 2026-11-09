@@ -12,10 +12,6 @@ Aeyes is a voice-controlled Chrome extension assistant designed to help blind an
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:evalutik/ai-partner-catalyst
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-evalutik-ai-partner-catalyst/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser Agent Failure Corpus is a versioned dataset of browser-agent action fail
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:mutantweb/browser-agent-failure-corpus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/record.json
 
 ## License declarations

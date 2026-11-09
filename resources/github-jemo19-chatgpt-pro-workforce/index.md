@@ -12,10 +12,6 @@ Codex skill that orchestrates parallel logged-in ChatGPT Pro browser chats as a 
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:jemo19/chatgpt-pro-workforce
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jemo19-chatgpt-pro-workforce/record.json
 
 ## License declarations

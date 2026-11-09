@@ -12,10 +12,6 @@ Open-source Chrome extension in-page web agent that executes natural-language br
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:juguang/goby
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-juguang-goby/record.json
 
 ## License declarations

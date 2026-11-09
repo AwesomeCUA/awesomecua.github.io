@@ -12,10 +12,6 @@ Preflight-Bench evaluates pre-click staleness checks and page-load synchronizati
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:multimodal-ai-engineering/preflight-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/record.json
 
 ## License declarations

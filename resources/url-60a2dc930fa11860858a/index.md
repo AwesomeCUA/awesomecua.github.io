@@ -35,12 +35,12 @@ Dongjun Lee, Juyong Lee, Kyuyoung Kim, Jihoon Tack, Jinwoo Shin, Yee Whye Teh, K
 - Publication source: https://openreview.net/forum?id=3Gzz7ZQLiz
 - Publication BibTeX: https://awesomecua.com/resources/url-60a2dc930fa11860858a/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-60a2dc930fa11860858a/publication-citation.csl.json
-- venue: International Conference on Learning Representations 2025 (ICLR 2025)
-- volume: 2025
-- pages: 81039-81072
-- date basis: Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.
-- identity basis: Same work: the ICLR 2025 proceedings page and PDF carry the same title, seven authors and abstract as OpenReview note 3Gzz7ZQLiz (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. An arXiv preprint, 2503.10689, carries the same title, the same seven authors and the comment "Accepted to ICLR 2025".
-- notes: The proceedings page and PDF byline list the same seven authors in the same order. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
+- Venue: International Conference on Learning Representations 2025 (ICLR 2025)
+- Volume: 2025
+- Pages: 81039-81072
+- Date source: Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.
+- Identity basis: Same work: the ICLR 2025 proceedings page and PDF carry the same title, seven authors and abstract as OpenReview note 3Gzz7ZQLiz (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. An arXiv preprint, 2503.10689, carries the same title, the same seven authors and the comment "Accepted to ICLR 2025".
+- Source notes: The proceedings page and PDF byline list the same seven authors in the same order. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2025/hash/c995a913bc20ca39ce2231b8973be90a-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2025/file/c995a913bc20ca39ce2231b8973be90a-Paper-Conference.pdf
 
 ## License declarations

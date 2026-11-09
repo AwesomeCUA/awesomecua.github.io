@@ -20,10 +20,10 @@ The Hub manifest at revision 4596a060 holds 41 JSONL partition files in six fold
 
 ## Structured profile
 
-- formats: JSONL, JSON
-- modalities: text instructions, actions, screenshot paths (images not included)
-- splits: federated training partitions, validation sets
-- supervision: episode instructions, step sub-instructions, action sequences
+- Formats: JSONL, JSON
+- Modalities: text instructions, actions, screenshot paths (images not included)
+- Splits: federated training partitions, validation sets
+- Supervision: episode instructions, step sub-instructions, action sequences
 
 ### Count observations
 

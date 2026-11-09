@@ -12,10 +12,6 @@ Browser automation MCP server built on the Camoufox anti-detect Firefox browser 
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:agelyhq/mcp-camoufox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agelyhq-mcp-camoufox/record.json
 
 ## License declarations

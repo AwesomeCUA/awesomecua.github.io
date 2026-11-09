@@ -12,10 +12,6 @@ Rust Model Context Protocol server that drives native macOS apps through the Acc
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:maestrojeong/cua-rs-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-maestrojeong-cua-rs-mcp/record.json
 
 ## License declarations

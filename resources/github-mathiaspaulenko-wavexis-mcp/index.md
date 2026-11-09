@@ -12,10 +12,6 @@ Pure-Python Model Context Protocol server exposing 220 browser automation tools 
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:mathiaspaulenko/wavexis-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mathiaspaulenko-wavexis-mcp/record.json
 
 ## License declarations

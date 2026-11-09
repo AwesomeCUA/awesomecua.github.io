@@ -12,10 +12,6 @@ Command-line interface for AI agents to inspect and drive Linux GNOME Wayland de
 - Evidence checked: 2026-11-04T16:10:28Z
 - ID: github:smythp/tine
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-smythp-tine/record.json
 
 ## License declarations

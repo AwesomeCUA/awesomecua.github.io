@@ -12,10 +12,6 @@ Swift CLI and MCP tool that reads the native macOS Accessibility tree to expose 
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:tylergibbs1/ghost
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tylergibbs1-ghost/record.json
 
 ## License declarations

@@ -20,11 +20,11 @@ The repository contains evaluation and collection code; the linked Zenodo releas
 
 ## Structured profile
 
-- actions: generate procedures, segment demonstrations, answer workflow questions, validate and rank procedures
-- evaluation: Task-specific scripts evaluate six workflow-understanding task types.
-- focus: workflow documentation, workflow quality assessment, workflow knowledge transfer
-- observations: screen recordings, action traces, screenshots, written standard operating procedures
-- setting: offline
+- Actions / outputs: generate procedures, segment demonstrations, answer workflow questions, validate and rank procedures
+- Evaluation: Task-specific scripts evaluate six workflow-understanding task types.
+- Focus: workflow documentation, workflow quality assessment, workflow knowledge transfer
+- Observations: screen recordings, action traces, screenshots, written standard operating procedures
+- Setting: offline
 
 ### Count observations
 

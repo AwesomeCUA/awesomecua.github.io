@@ -12,10 +12,6 @@ Rakuten's AI-first browser testing and Playwright automation platform for end-to
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:rakutentech/sorify
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rakutentech-sorify/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Persistent Python runtime and Chrome Native Messaging bridge for driving live br
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:sh7vansh/chrome-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sh7vansh-chrome-bridge/record.json
 
 ## License declarations

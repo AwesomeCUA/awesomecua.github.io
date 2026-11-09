@@ -12,10 +12,6 @@ Butler is a voice-first macOS desktop assistant combining MCP tool execution wit
 - Evidence checked: 2026-11-04T14:41:54Z
 - ID: github:coasty-ai/butler
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-coasty-ai-butler/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Self-hosted Chrome Manifest V3 extension and local MCP server allowing AI agents
 - Evidence checked: 2026-11-04T16:10:28Z
 - ID: github:marcobazzani/chromanche
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-marcobazzani-chromanche/record.json
 
 ## License declarations

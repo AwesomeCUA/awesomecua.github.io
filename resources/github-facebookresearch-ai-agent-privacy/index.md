@@ -12,10 +12,6 @@ Web-agent benchmark for measuring unnecessary use of sensitive personal informat
 - Evidence checked: 2026-10-16T10:42:34Z
 - ID: github:facebookresearch/ai-agent-privacy
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-facebookresearch-ai-agent-privacy/record.json
 
 ## License declarations

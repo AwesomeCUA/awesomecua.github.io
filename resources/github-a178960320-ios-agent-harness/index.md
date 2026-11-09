@@ -12,10 +12,6 @@ iOS Agent Harness runs a Manager-Executor-Reflector GUI agent loop on iPhones to
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:a178960320/ios-agent-harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-a178960320-ios-agent-harness/record.json
 
 ## License declarations

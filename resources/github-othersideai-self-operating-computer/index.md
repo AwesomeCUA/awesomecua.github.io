@@ -12,10 +12,6 @@ Framework, released in November 2023, in which a multimodal model views the scre
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:othersideai/self-operating-computer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-othersideai-self-operating-computer/record.json
 
 ## License declarations

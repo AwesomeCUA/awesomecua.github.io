@@ -12,10 +12,6 @@ device-use enables AI agents to operate scientific laboratory instruments throug
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:labclaw/device-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-labclaw-device-use/record.json
 
 ## License declarations

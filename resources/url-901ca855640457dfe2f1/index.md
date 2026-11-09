@@ -35,11 +35,11 @@ Toby Jia-Jun Li, Oriana Riva
 - Publication source: https://doi.org/10.1145/3210240.3210339
 - Publication BibTeX: https://awesomecua.com/resources/url-901ca855640457dfe2f1/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-901ca855640457dfe2f1/publication-citation.csl.json
-- venue: The 16th Annual International Conference on Mobile Systems, Applications, and Services
-- doi: 10.1145/3210240.3210339
-- date basis: Supplied month precision: 2018-06. Publication line: MobiSys 2018, June 2018
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: Final proceedings page range and volume are not established in the retained first-party citation. The paper states a 14-page extent, not a page range. Exact publication day is unknown.
+- Venue: The 16th Annual International Conference on Mobile Systems, Applications, and Services
+- DOI: 10.1145/3210240.3210339
+- Date source: Supplied month precision: 2018-06. Publication line: MobiSys 2018, June 2018
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: Final proceedings page range and volume are not established in the retained first-party citation. The paper states a 14-page extent, not a page range. Exact publication day is unknown.
 - Publication evidence: https://www.microsoft.com/en-us/research/publication/kite-building-conversational-bots-mobile-apps/, https://www.microsoft.com/en-us/research/wp-content/uploads/2018/05/kite_mobisys18.pdf
 
 ## License declarations

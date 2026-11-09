@@ -12,10 +12,6 @@ Unraid container template and Agent Skill for hosting a private Camofox anti-det
 - Evidence checked: 2026-11-04T17:55:16Z
 - ID: github:mircoblitz/unraid-camofox-stealth-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mircoblitz-unraid-camofox-stealth-browser/record.json
 
 ## License declarations

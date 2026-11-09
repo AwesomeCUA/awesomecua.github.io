@@ -12,10 +12,6 @@ Zero-extension macOS Safari automation MCP server built on Node.js and native Ap
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:haneiva1/safari-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-haneiva1-safari-mcp/record.json
 
 ## License declarations

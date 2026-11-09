@@ -12,10 +12,6 @@ Native `pi` coding-agent tool that drives the user's logged-in Arc or Chrome bro
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:longweekendprojects/pi-browser-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-longweekendprojects-pi-browser-use/record.json
 
 ## License declarations

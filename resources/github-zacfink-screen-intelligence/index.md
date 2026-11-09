@@ -12,10 +12,6 @@ Screen Intelligence is a macOS desktop agent that reads screens with multimodal 
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:zacfink/screen-intelligence
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zacfink-screen-intelligence/record.json
 
 ## License declarations

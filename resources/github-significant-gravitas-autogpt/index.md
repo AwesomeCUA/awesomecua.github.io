@@ -12,10 +12,6 @@ AutoGPT is an open-source autonomous agent platform for building, orchestrating,
 - Evidence checked: 2026-11-04T13:12:36Z
 - ID: github:significant-gravitas/autogpt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-significant-gravitas-autogpt/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ WAInjectBench benchmarks prompt injection detection in web agents across six tex
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:norrrrrrr-lyn/wainjectbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-norrrrrrr-lyn-wainjectbench/record.json
 
 ## License declarations

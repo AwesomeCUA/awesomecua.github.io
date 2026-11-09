@@ -20,11 +20,11 @@ The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior I
 
 ## Structured profile
 
-- actions: OSWorld/PyAutoGUI desktop interaction
-- evaluation: Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark.
-- focus: deliberate misuse, prompt-injection safety, unintended harmful behavior during normal tasks
-- observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- setting: interactive
+- Actions / outputs: OSWorld/PyAutoGUI desktop interaction
+- Evaluation: Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark.
+- Focus: deliberate misuse, prompt-injection safety, unintended harmful behavior during normal tasks
+- Observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
+- Setting: interactive
 
 ### Count observations
 

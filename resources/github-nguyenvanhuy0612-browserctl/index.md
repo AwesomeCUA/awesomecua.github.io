@@ -12,10 +12,6 @@ Chrome extension, local bridge, and MCP server allowing AI agents to drive a rea
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:nguyenvanhuy0612/browserctl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nguyenvanhuy0612-browserctl/record.json
 
 ## License declarations

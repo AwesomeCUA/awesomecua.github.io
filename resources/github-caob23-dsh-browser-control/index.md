@@ -12,10 +12,6 @@ Chrome extension and DeepSeek Harness plugin allowing AI agents to directly oper
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:caob23/dsh-browser-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-caob23-dsh-browser-control/record.json
 
 ## License declarations

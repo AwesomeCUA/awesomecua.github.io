@@ -12,10 +12,6 @@ Receipt-driven Codex skill for delegating deep research and artifact generation 
 - Evidence checked: 2026-11-04T17:55:15Z
 - ID: github:chicogong/codex-chatgpt-web-orchestrator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chicogong-codex-chatgpt-web-orchestrator/record.json
 
 ## License declarations

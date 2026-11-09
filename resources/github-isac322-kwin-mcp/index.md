@@ -12,10 +12,6 @@ Model Context Protocol server for Linux KDE Plasma 6 Wayland desktop GUI automat
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:isac322/kwin-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-isac322-kwin-mcp/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ The project recommends this release over its earlier OpenGVLab/GUI-Odyssey uploa
 
 ## Structured profile
 
-- formats: JSON annotations, PNG screenshots
-- modalities: screenshots, instructions, actions, bounding boxes, step context
-- splits: random, task, device, app
-- supervision: cross-app trajectories, action grounding
+- Formats: JSON annotations, PNG screenshots
+- Modalities: screenshots, instructions, actions, bounding boxes, step context
+- Splits: random, task, device, app
+- Supervision: cross-app trajectories, action grounding
 
 ### Count observations
 

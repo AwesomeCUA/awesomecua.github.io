@@ -12,10 +12,6 @@ Framework in which foundation models control games and software from screenshots
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:baai-agents/cradle
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-baai-agents-cradle/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ The repository is gated with automatic approval; its card could not be read with
 
 ## Structured profile
 
-- formats: ZIP archives, PNG, JSONL, JSON, text logs
-- modalities: screenshots, trajectory logs, result files, API usage records
-- splits: not recorded
-- supervision: agent run trajectories, evaluation results
+- Formats: ZIP archives, PNG, JSONL, JSON, text logs
+- Modalities: screenshots, trajectory logs, result files, API usage records
+- Splits: not recorded
+- Supervision: agent run trajectories, evaluation results
 
 ### Count observations
 

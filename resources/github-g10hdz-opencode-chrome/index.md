@@ -12,10 +12,6 @@ Chrome extension and MCP bridge giving OpenCode direct browser tab inspection an
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:g10hdz/opencode-chrome
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-g10hdz-opencode-chrome/record.json
 
 ## License declarations

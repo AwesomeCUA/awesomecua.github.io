@@ -12,10 +12,6 @@ FastAgent is a lightweight multi-agent orchestration framework by HKUDS for low-
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:hkuds/fastagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hkuds-fastagent/record.json
 
 ## License declarations

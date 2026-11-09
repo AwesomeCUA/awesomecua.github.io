@@ -12,10 +12,6 @@ AI-assisted dispatch console that turns human visual lasso selections on a webpa
 - Evidence checked: 2026-11-04T18:11:38Z
 - ID: github:smkzz/lasso
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-smkzz-lasso/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Official CapMonster Cloud Model Context Protocol server for solving reCAPTCHA, T
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:capmonstercloud/capmonster-mcp-captcha-solver
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-capmonstercloud-capmonster-mcp-captcha-solver/record.json
 
 ## License declarations

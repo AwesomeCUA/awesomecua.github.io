@@ -12,10 +12,6 @@ Agent framework for browser and desktop tasks using automation code.
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:microsoft/webwright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-webwright/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ OpenHands is an open-source platform for software development and computer-use a
 - Evidence checked: 2026-11-04T13:12:30Z
 - ID: github:openhands/openhands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openhands-openhands/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Local-first AI-assisted website regression discovery suite with deterministic Pl
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:mikulabc/pathproof
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mikulabc-pathproof/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ MindSearch coordinates a multi-agent WebPlanner and parallel WebSearcher graph t
 - Evidence checked: 2026-11-04T13:12:19Z
 - ID: github:internlm/mindsearch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-internlm-mindsearch/record.json
 
 ## License declarations

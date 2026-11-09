@@ -12,10 +12,6 @@ Hosted browser infrastructure for automation applications.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:1e6b8682e0f1ddc3d36f
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-1e6b8682e0f1ddc3d36f/record.json
 
 ## License declarations

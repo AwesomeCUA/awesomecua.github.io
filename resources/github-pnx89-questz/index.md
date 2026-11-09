@@ -12,10 +12,6 @@ Fail-closed browser automation reliability framework that halts execution on str
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:pnx89/questz
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pnx89-questz/record.json
 
 ## License declarations

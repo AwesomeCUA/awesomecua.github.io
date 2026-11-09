@@ -12,10 +12,6 @@ OmniWebBench evaluates agentic browsers across end-to-end web navigation, action
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:fanxutherealone/omniwebbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/record.json
 
 ## License declarations

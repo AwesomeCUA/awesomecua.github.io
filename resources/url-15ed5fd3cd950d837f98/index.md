@@ -12,10 +12,6 @@ Hosted Skyvern service for AI browser workflows such as invoice downloads and fo
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:15ed5fd3cd950d837f98
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-15ed5fd3cd950d837f98/record.json
 
 ## License declarations

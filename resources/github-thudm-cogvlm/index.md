@@ -12,10 +12,6 @@ CogVLM provides official inference and fine-tuning code for the CogVLM vision-la
 - Evidence checked: 2026-11-04T13:12:39Z
 - ID: github:thudm/cogvlm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-cogvlm/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Turns ChatGPT and MCP clients into local macOS agents with shell, file, PTY, and
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:dcierra/darwinrelay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dcierra-darwinrelay/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Background Windows computer-use MCP server that dispatches input to target appli
 - Evidence checked: 2026-11-04T16:51:45Z
 - ID: github:dev-willbird1936/desktop-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dev-willbird1936-desktop-computer-use/record.json
 
 ## License declarations

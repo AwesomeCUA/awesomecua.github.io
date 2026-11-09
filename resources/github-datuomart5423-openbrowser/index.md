@@ -12,10 +12,6 @@ Headless browser runtime that converts webpages into compact structured semantic
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:datuomart5423/openbrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-datuomart5423-openbrowser/record.json
 
 ## License declarations

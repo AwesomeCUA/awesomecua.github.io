@@ -12,10 +12,6 @@ Autonomous web agent that translates natural-language intent into multi-step bro
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:atluri0001/aevora
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-atluri0001-aevora/record.json
 
 ## License declarations

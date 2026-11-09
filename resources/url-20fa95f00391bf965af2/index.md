@@ -20,11 +20,11 @@ The Hub repository is named osworld_env; its card titles the release DynamicGUIB
 
 ## Structured profile
 
-- actions: desktop GUI actions through a separately configured agent
-- evaluation: Each task JSON names an OSWorld evaluator function with its expected result for an executable end-state check; a config_myself block launches applications and scripts the dynamic events during the run.
-- focus: desktop task completion when interface state changes between observations
-- observations: English and Chinese task instructions, live desktop application state
-- setting: interactive
+- Actions / outputs: desktop GUI actions through a separately configured agent
+- Evaluation: Each task JSON names an OSWorld evaluator function with its expected result for an executable end-state check; a config_myself block launches applications and scripts the dynamic events during the run.
+- Focus: desktop task completion when interface state changes between observations
+- Observations: English and Chinese task instructions, live desktop application state
+- Setting: interactive
 
 ### Count observations
 

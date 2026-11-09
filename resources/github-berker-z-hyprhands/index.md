@@ -12,10 +12,6 @@ Hyprland Wayland computer-use MCP server giving AI agents semantic and pixel-lev
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:berker-z/hyprhands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-berker-z-hyprhands/record.json
 
 ## License declarations

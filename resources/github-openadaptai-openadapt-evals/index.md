@@ -12,10 +12,6 @@ openadapt-evals scores GUI agents and compiled workflows on benchmarks such as W
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:openadaptai/openadapt-evals
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-evals/record.json
 
 ## License declarations

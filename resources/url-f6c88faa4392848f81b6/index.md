@@ -20,10 +20,10 @@ At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshot
 
 ## Structured profile
 
-- formats: PNG, JSON
-- modalities: desktop screenshots, element annotations
-- splits: not recorded
-- supervision: UI element bounding boxes, element text or short descriptions, coarse element categories for some elements
+- Formats: PNG, JSON
+- Modalities: desktop screenshots, element annotations
+- Splits: not recorded
+- Supervision: UI element bounding boxes, element text or short descriptions, coarse element categories for some elements
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Ruflo is an agent orchestration and MCP meta-harness for coordinating multi-agen
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:ruvnet/ruflo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ruvnet-ruflo/record.json
 
 ## License declarations

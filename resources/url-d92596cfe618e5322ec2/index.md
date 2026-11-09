@@ -12,10 +12,6 @@ Browser-agent API for executing web tasks and extracting structured results.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:d92596cfe618e5322ec2
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-d92596cfe618e5322ec2/record.json
 
 ## License declarations

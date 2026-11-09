@@ -12,10 +12,6 @@ Ghost Browser is a local browser automation agent powered by Gemma 27B via Ollam
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:ddangkong/ghost-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ddangkong-ghost-browser/record.json
 
 ## License declarations

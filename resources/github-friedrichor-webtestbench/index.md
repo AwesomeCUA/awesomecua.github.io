@@ -20,11 +20,11 @@ Public evaluation/deployment scripts accompany an ungated Hub release with JSON/
 
 ## Structured profile
 
-- actions: browser interaction, test checklist generation, defect reports
-- evaluation: The supplied WebTester pipeline separates checklist generation from interactive defect detection and provides a scoring workflow.
-- focus: web functionality testing, latent permission and business constraints
-- observations: web application interface, development instruction
-- setting: interactive
+- Actions / outputs: browser interaction, test checklist generation, defect reports
+- Evaluation: The supplied WebTester pipeline separates checklist generation from interactive defect detection and provides a scoring workflow.
+- Focus: web functionality testing, latent permission and business constraints
+- Observations: web application interface, development instruction
+- Setting: interactive
 
 ### Count observations
 

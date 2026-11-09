@@ -12,10 +12,6 @@ Windows AutoHotkey v2 desktop automation utility that detects and interacts with
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:sahajasakhunala/antigravity-submit-helper
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sahajasakhunala-antigravity-submit-helper/record.json
 
 ## License declarations

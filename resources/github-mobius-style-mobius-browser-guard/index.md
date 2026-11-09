@@ -12,10 +12,6 @@ Auditable, content-blind permission gate for Claude in Chrome browser actions dr
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:mobius-style/mobius-browser-guard
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mobius-style-mobius-browser-guard/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ MobileBench-OL provides an online evaluation harness for testing mobile GUI agen
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xiaomi-research/mobilebench-ol
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/record.json
 
 ## License declarations

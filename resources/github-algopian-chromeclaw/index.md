@@ -12,10 +12,6 @@ ChromeClaw runs an autonomous browser and workspace agent inside the Chrome exte
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:algopian/chromeclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-algopian-chromeclaw/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ The dataset card requires coordinate scaling to stay aligned with the image proc
 
 ## Structured profile
 
-- formats: not recorded
-- modalities: images, text, coordinates
-- splits: not recorded
-- supervision: icon grounding, component grounding, layout grounding, refusal
+- Formats: not recorded
+- Modalities: images, text, coordinates
+- Splits: not recorded
+- Supervision: icon grounding, component grounding, layout grounding, refusal
 
 ### Count observations
 

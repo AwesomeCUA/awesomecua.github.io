@@ -12,10 +12,6 @@ Native GUI agent models; UI-TARS-1.5 adds reinforcement-learned reasoning before
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:bytedance/ui-tars
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bytedance-ui-tars/record.json
 
 ## License declarations

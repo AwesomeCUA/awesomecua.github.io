@@ -12,10 +12,6 @@ Taskhomie is a local computer-use agent that executes natural-language desktop t
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:suitedaces/computer-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-suitedaces-computer-agent/record.json
 
 ## License declarations

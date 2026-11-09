@@ -12,10 +12,6 @@ Teach-once, patrol-repeatedly website inspection and monitoring plugin for DeepS
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:qigelunbiya/dsh-patrol
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qigelunbiya-dsh-patrol/record.json
 
 ## License declarations

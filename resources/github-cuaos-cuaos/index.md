@@ -12,10 +12,6 @@ CuaOS runs a Qwen3-VL computer-use agent that autonomously controls an Ubuntu vi
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:cuaos/cuaos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cuaos-cuaos/record.json
 
 ## License declarations

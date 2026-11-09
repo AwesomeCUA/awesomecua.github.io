@@ -12,10 +12,6 @@ Evaluation suite for Environmental Injection Attacks that embed invisible malici
 - Evidence checked: 2026-10-18T10:59:54Z
 - ID: github:osu-nlp-group/eia_against_webagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-eia-against-webagent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Native macOS Accessibility MCP server giving Claude and MCP clients low-latency 
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:versoxbt/desktop-pilot-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-versoxbt-desktop-pilot-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Computer-use environment and task resources for agent research.
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:6aa1aa58a7a888395189
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-6aa1aa58a7a888395189/record.json
 
 ## License declarations

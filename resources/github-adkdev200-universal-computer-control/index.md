@@ -12,10 +12,6 @@ Model Context Protocol server giving AI agents cross-platform screen capture, mo
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:adkdev200/universal-computer-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-adkdev200-universal-computer-control/record.json
 
 ## License declarations

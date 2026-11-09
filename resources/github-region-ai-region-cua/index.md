@@ -12,10 +12,6 @@ RegionCUA is a local Ollama-powered desktop agent that explores GUI applications
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:region-ai/region-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-region-ai-region-cua/record.json
 
 ## License declarations

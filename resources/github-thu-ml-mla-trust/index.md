@@ -12,10 +12,6 @@ Unified evaluation framework measuring truthfulness, controllability, safety, an
 - Evidence checked: 2026-10-18T10:59:55Z
 - ID: github:thu-ml/mla-trust
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thu-ml-mla-trust/record.json
 
 ## License declarations

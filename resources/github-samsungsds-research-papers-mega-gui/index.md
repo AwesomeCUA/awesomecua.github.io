@@ -12,10 +12,6 @@ MEGA-GUI implements a multi-stage GUI grounding pipeline combining candidate reg
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:samsungsds-research-papers/mega-gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-samsungsds-research-papers-mega-gui/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Ruyi streams remote Chrome sessions to the user's browser for collaborative huma
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:icesword0760/ruyi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-icesword0760-ruyi/record.json
 
 ## License declarations

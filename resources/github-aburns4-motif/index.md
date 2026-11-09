@@ -12,18 +12,14 @@ Mobile task demonstrations and natural-language instructions.
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:aburns4/motif
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aburns4-motif/record.json
 
 ## Structured profile
 
-- formats: JSON metadata, screen images
-- modalities: screenshots, view hierarchies, language, interaction sequences, feasibility labels
-- splits: not recorded
-- supervision: interaction trajectories, task feasibility
+- Formats: JSON metadata, screen images
+- Modalities: screenshots, view hierarchies, language, interaction sequences, feasibility labels
+- Splits: not recorded
+- Supervision: interaction trajectories, task feasibility
 
 ### Count observations
 

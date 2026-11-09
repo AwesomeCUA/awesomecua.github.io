@@ -12,10 +12,6 @@ Self-hosted multi-agent platform with persistent memory, browser automation, and
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:raghavpillai/openteam
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raghavpillai-openteam/record.json
 
 ## License declarations

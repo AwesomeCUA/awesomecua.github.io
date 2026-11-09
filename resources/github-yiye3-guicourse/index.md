@@ -12,10 +12,6 @@ Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grou
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:yiye3/guicourse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yiye3-guicourse/record.json
 
 ## License declarations

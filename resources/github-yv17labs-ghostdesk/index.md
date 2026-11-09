@@ -12,10 +12,6 @@ GhostDesk is an MCP server and sandboxed virtual desktop runtime that gives LLM 
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:yv17labs/ghostdesk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yv17labs-ghostdesk/record.json
 
 ## License declarations

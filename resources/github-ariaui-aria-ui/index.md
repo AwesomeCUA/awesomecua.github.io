@@ -12,10 +12,6 @@ Mixture-of-experts GUI grounding model with 3.9B activated parameters that can u
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:ariaui/aria-ui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ariaui-aria-ui/record.json
 
 ## License declarations

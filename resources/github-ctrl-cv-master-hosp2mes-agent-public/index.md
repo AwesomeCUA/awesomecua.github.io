@@ -12,10 +12,6 @@ Hosp2MES-Agent is a long-horizon browser GUI agent for executing multi-page Manu
 - Evidence checked: 2026-11-04T14:41:53Z
 - ID: github:ctrl-cv-master/hosp2mes-agent-public
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ctrl-cv-master-hosp2mes-agent-public/record.json
 
 ## License declarations

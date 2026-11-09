@@ -35,12 +35,12 @@ Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang 
 - Publication source: https://doi.org/10.1145/3126594.3126651
 - Publication BibTeX: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/publication-citation.csl.json
-- venue: UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology
-- pages: 845-854
-- doi: 10.1145/3126594.3126651
-- date basis: Supplied day precision: 2017-10-20. PDF cover, Published: 20 October 2017 The 18 January 2026 download date and October 22-25 conference dates are not publication dates.
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim. No volume number is supplied for this proceedings article.
+- Venue: UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology
+- Pages: 845-854
+- DOI: 10.1145/3126594.3126651
+- Date source: Supplied day precision: 2017-10-20. PDF cover, Published: 20 October 2017 The 18 January 2026 download date and October 22-25 conference dates are not publication dates.
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim. No volume number is supplied for this proceedings article.
 - Publication evidence: https://danafergan.com/publications/deka2017rico.pdf, https://dev.interactionmining.org/archive/rico
 
 ## License declarations

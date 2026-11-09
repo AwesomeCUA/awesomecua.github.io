@@ -12,10 +12,6 @@ Visual QA, accessibility auditing, screenshot diffing, and MCP browser automatio
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:0xheycat/pursr
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-0xheycat-pursr/record.json
 
 ## License declarations

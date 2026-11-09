@@ -12,10 +12,6 @@ Captures desktop windows and extracts UI elements and buttons with pixel coordin
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:daizedong/screen-vision
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-daizedong-screen-vision/record.json
 
 ## License declarations

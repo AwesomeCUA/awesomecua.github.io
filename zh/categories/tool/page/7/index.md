@@ -1,0 +1,106 @@
+# 计算机使用智能体工具：第 7 页
+
+HTML 页面：https://awesomecua.com/zh/categories/tool/page/7/ · [English](https://awesomecua.com/categories/tool/page/7/index.md)
+
+完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
+
+- [Miiiuser dsh-browser-agent](https://awesomecua.com/resources/github-miiiuser-dsh-browser-agent/)：面向 DeepSeek Harness 上纯文本 LLM 的 Playwright 浏览器自动化和视觉定位工具包。
+- [mimic (Kernel-Level uinput Driver)](https://awesomecua.com/resources/github-juicerq-mimic/)：通过 Linux 内核级 `/dev/uinput` 和类人的输入轨迹，控制鼠标、键盘及屏幕。
+- [MindsEye (dsh-mindseye)](https://awesomecua.com/resources/github-kanchengw-dsh-mindseye/)：面向 DeepSeek Harness 上纯文本模型的视觉插件，支持交互式检查图像和 UI 截图。
+- [mistudio0902-lab Chrome Bridge](https://awesomecua.com/resources/github-mistudio0902-lab-chrome-bridge/)：Model Context Protocol 桥接器，让 Claude Code 和 Codex 同时操作多个已登录的 Chrome 配置文件。
+- [MobileMCP](https://awesomecua.com/resources/github-magi-labs-mobilemcp/)：MobileMCP 通过设备端 AccessibilityService 应用，让 AI 智能体经由 WebSocket 控制实体 Android 手机，无需 ADB 或 root 权限。
+- [mobius-browser-guard](https://awesomecua.com/resources/github-mobius-style-mobius-browser-guard/)：面向 Claude in Chrome 浏览器动作、可审查且不查看内容的权限关卡，由明确的动作风险等级驱动。
+- [munim-computer-use](https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/)：munim-computer-use 是一个跨平台 Computer Use MCP 服务器，结合原生 OS 无障碍树、OCR 和策略防护机制。
+- [nanbbb dsh-computer-use-windows](https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/)：用于 DeepSeek Harness 的 Windows 计算机使用插件，结合窗口发现、UI Automation 检查和输入合成。
+- [native-devtools-mcp](https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/)：本地 Rust MCP 服务器，可操作 macOS 和 Windows 应用、通过 CDP 操作 Chrome 或 Electron 页面，并通过 ADB 操作 Android 设备，支持截图、OCR、无障碍查询、输入和模板匹配。
+- [NaveedAshraf Browser Bridge](https://awesomecua.com/resources/github-naveedashraf1-browser-automation-extension/)：Chrome 扩展、HTTP API 和 MCP 服务器，提供 185 条命令和智能选择器，用于控制正在运行的 Chrome 浏览器。
+- [nekoro-browser](https://awesomecua.com/resources/github-zeshuochen-nekoro-browser/)：轻量级浏览器自动化 CLI 和 MCP 服务器，通过配套扩展驱动用户日常使用的 Chrome。
+- [nemosr dsh-personal-plugins](https://awesomecua.com/resources/github-nemosr-dsh-personal-plugins/)：DeepSeek Harness 插件包，提供 `web_app_testing` 浏览器自动化工具和 `host-web-debug` 实时检查工具。
+- [neuron-inspector](https://awesomecua.com/resources/github-conquext-neuron-inspector/)：通过 MCP 向 AI 智能体提供 98 个 Chrome 检查、DOM 调试、网络追踪和交互工具。
+- [nexus-browser-mcp](https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/)：浏览器自动化 MCP 服务器，提供事件驱动的确定性 Playwright 操作和无障碍树快照。
+- [Nik-Browser MCP](https://awesomecua.com/resources/github-nikolay-3d-nik-browser-mcp/)：本地 Model Context Protocol 服务器，为 LLM 提供独立、保持登录状态的 Chromium 浏览器和 DOM 快照。
+- [nodriver-mcp-server](https://awesomecua.com/resources/github-andresolbach-nodriver-mcp-server/)：Model Context Protocol 服务器，基于 `nodriver` 提供 70 个隐蔽操作 Chrome 工作区、提取 DOM 和执行交互的工具。
+- [NormCap](https://awesomecua.com/resources/github-dynobo-normcap/)：NormCap 是跨平台 OCR 屏幕捕获工具，可直接从 Linux、macOS 和 Windows 上选定的屏幕区域提取文字。
+- [NotebookLM for Codex](https://awesomecua.com/resources/github-jockeys97-notebooklm-codex-skill/)：一项 Codex 技能，通过浏览器自动化直接查询 Google Gemini NotebookLM。
+- [Nova (Rust Cross-Platform CUA MCP)](https://awesomecua.com/resources/github-bigduu-nova/)：适用于 macOS 和 Windows 的跨平台 Rust 计算机使用 MCP 服务器，结合 AX/UIA 无障碍树、截图、OCR 和输入操作。
+- [NOVA Computer Use](https://awesomecua.com/resources/github-theodorebeaupre-prog-nova-computer-use/)：面向 Intel 和 Apple Silicon Mac 上的 Codex 的原生、以本地为优先的 macOS 计算机使用运行环境。
+- [Nudge](https://awesomecua.com/resources/github-kaxxcode-nudge/)：浏览器扩展，可在 AI 助手检查或总结网页前，自动遮盖页面上的敏感个人身份信息。
+- [Numera Browser](https://awesomecua.com/resources/github-kiarosama-numera-browser/)：本地优先的多配置文件浏览器管理器，用于隔离测试和智能体网页自动化。
+- [OculiX (SikuliX continuation)](https://awesomecua.com/resources/github-oculix-org-oculix/)：持续维护的 SikuliX 后续项目，通过图像匹配和 OCR 定位屏幕目标，操控桌面或 Android 界面，并提供脚本接口和可选的 MCP 接口。
+- [Oculr MCP](https://awesomecua.com/resources/github-oculr-ai-oculr-mcp/)：Model Context Protocol 服务器，通过 MCP 和原始 CDP 操控隔离的防检测 Oculr Chromium 配置文件。
+- [Okno Windows Computer Use MCP](https://awesomecua.com/resources/github-vitalcc55-okno/)：面向 AI 智能体的原生 Windows Model Context Protocol 运行环境，提供桌面窗口检查、OCR 和输入控制。
+- [Omarchy OMCP](https://awesomecua.com/resources/github-btsouth-omarchy-omcp/)：将 Omarchy Linux 桌面会话作为实时、可观察的 Model Context Protocol 服务器向 AI 智能体开放。
+- [omni-computer-use](https://awesomecua.com/resources/github-jason26214-omni-computer-use/)：面向 Windows 计算机使用的 Model Context Protocol 服务器，复现 Claude Desktop 的计算机使用工具接口。
+- [OmniParser MCP Server](https://awesomecua.com/resources/github-cute-aaa-omniparser-mcp/)：OmniParser MCP Server 将 Microsoft OmniParser V2 封装为 Model Context Protocol 服务器，把截图转换为结构化 UI 元素。
+- [omp-cua](https://awesomecua.com/resources/github-wolfiesch-omp-cua/)：面向 Oh My Pi 编程智能体的低开销 Cua Driver 计算机使用集成工具。
+- [only-cli (oc)](https://awesomecua.com/resources/github-only-cli-oc/)：将网站编译为紧凑、节省 Token 且适合 AI 智能体使用的 CLI 命令。
+- [op-browse-the-web-skill](https://awesomecua.com/resources/github-vb-tyagi-op-browse-the-web-skill/)：面向 Claude Code 的单文件零成本自主网页浏览技能。
+- [Open Browser Operator (obo)](https://awesomecua.com/resources/github-agenthand-obo/)：用于从终端和编程智能体控制用户已登录 Chrome 浏览器的 CLI 与 Chrome 扩展。
+- [Open Claudex Computer Use](https://awesomecua.com/resources/github-opencodexlabs-open-codex-computer-use/)：面向 Claude Code 和 Codex 的开源 macOS 后台计算机使用 MCP 服务器。
+- [Open Codex Computer History](https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/)：macOS 的净室实现，使用 Accessibility 命中测试、CGEvent 事件监听和 SkyLight 窗口快照记录事件流交互。
+- [Open Codex Record & Replay](https://awesomecua.com/resources/github-hqhq1025-open-codex-record-and-replay/)：macOS 的净室实现，用于记录语义 UI 工作流，并基于 Accessibility 树确定性重放，辅以视觉模板回退机制。
+- [Open ZCode Computer Use](https://awesomecua.com/resources/github-hqhq1025-open-zcode-computer-use/)：Z.ai ZCode 双模式计算机使用 MCP 服务器的净室实现，结合像素坐标桌面控制和原生 macOS AX 工具。
+- [open-computer-use](https://awesomecua.com/resources/github-ifuryst-open-computer-use/)：面向 macOS、Linux 和 Windows 的计算机使用 MCP 服务器与 CLI，提供 get_app_state、click 和 set_value 等九种通用工具，并通过辅助功能 API 读取 macOS 应用。
+- [OpenBitFun](https://awesomecua.com/resources/github-gcwing-openbitfun/)：OpenBitFun 是由 Rust 驱动的桌面智能体工作区，支持计算机使用、浏览器自动化和多模式智能体测试框架。
+- [OpenCode Browser MCP](https://awesomecua.com/resources/github-hogandong486-opencode-browser-mcp/)：面向 OpenCode 的浏览器 Model Context Protocol 服务器，支持 Chromium、Firefox 和 WebKit 自动化。
+- [opencode-chrome](https://awesomecua.com/resources/github-g10hdz-opencode-chrome/)：Chrome 扩展和 MCP 桥接工具，赋予 OpenCode 直接检查浏览器标签页并与之交互的能力。
+- [opencode-gui-bridge](https://awesomecua.com/resources/github-yueqi-wang-795-opencode-gui-bridge/)：Model Context Protocol 桥接工具，通过 UI Automation 和视觉能力，为 OpenCode 及 MCP 客户端提供真实的 Windows GUI 控制能力。
+- [opencode-mobile-use](https://awesomecua.com/resources/github-system1970-opencode-mobile-use/)：用于控制 Android 设备的 OpenCode 插件，在 TUI 侧边栏显示实时手机屏幕，并提供稳定的 UI 层级转储。
+- [opencode-webmcp](https://awesomecua.com/resources/github-enihcam-opencode-webmcp/)：将 OpenCode 连接到 Chromium 的 document.modelContext WebMCP API 的 MCP 桥接工具。
+- [OpenControl](https://awesomecua.com/resources/github-joshuaalawrence-opencontrol/)：约 2MB 的单二进制 Rust Model Context Protocol 服务器，提供 54 个原生 Windows 桌面控制、UI Automation 和截图工具。
+- [OpenDesk](https://awesomecua.com/resources/github-vitalops-opendesk/)：计算机使用 MCP 服务器及 Python、TypeScript SDK，为智能体提供 Set-of-Marks 截图、基于无障碍信息的 UI 操作、鼠标、键盘、OCR、CDP 浏览器控制和本地或配对设备上的工作流重放。
+- [OpenOCR](https://awesomecua.com/resources/github-topdu-openocr/)：OpenOCR 是开源的场景和文档文本检测、识别及 VLM-OCR 工具包，用于解析屏幕文本。
+- [OpenSider](https://awesomecua.com/resources/github-parksben-opensider/)：浏览器侧边栏扩展，通过 Agent Communication Protocol (ACP) 将网页连接到本地 Agent CLI。
+- [OpenUI](https://awesomecua.com/resources/github-wandb-openui/)：OpenUI 让用户和智能体根据自然语言及截图生成、预览并迭代编辑实时 HTML/Tailwind/React UI 组件。
+- [Oracle PeopleSoft Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-peoplesoft-browser-automation/)：面向 Oracle PeopleSoft 的浏览器自动化脚手架，可通过 Puppeteer 或 Anchor Browser 执行查询、休假申请、员工资料和薪资流程相关操作。
+- [orangeofcarl0-sys dsh-computer-use](https://awesomecua.com/resources/github-orangeofcarl0-sys-dsh-computer-use/)：面向 DeepSeek Harness 的 Windows 桌面计算机使用插件，支持编号 UI 元素定位和优先在后台传递输入。
+- [Orbination AI Desktop Vision & Control](https://awesomecua.com/resources/github-amichail-1-orbination-ai-desktop-vision-control/)：原生 Windows MCP 服务器，结合 UI Automation、适配深色主题的 OCR、视觉定位和鼠标键盘控制。
+- [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/)：Windows 桌面自动化 MCP 服务器，以增量 UI Automation 状态差异替代全屏视觉循环。
+- [Overlay Companion MCP](https://awesomecua.com/resources/github-ryansopensourcerice-overlay-companion-mcp/)：Overlay Companion MCP 提供透明的屏幕视觉叠加层和 MCP 服务器，用于人参与其中的计算机使用交互。
+- [OvoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/)：从源码层面实现指纹机制的 Chromium 浏览器，专为反检测网页自动化设计。
+- [Owl Browser Claude Code Plugin](https://awesomecua.com/resources/github-olib-ai-owl-browser-claude-plugin/)：面向 Owl Browser 的 Claude Code 插件，提供按句柄索引的页面读取和适合智能体使用的浏览器自动化功能。
+- [PageKit](https://awesomecua.com/resources/github-ken-u-pagekit/)：将闲置的 Android 手机变为供 AI 智能体使用的免费网页搜索、页面抓取和真实浏览器自动化节点。
+- [pagewatch-mcp](https://awesomecua.com/resources/github-toolshedlabs-hash-pagewatch-mcp/)：精简的 3 工具 Model Context Protocol 服务器，可将网页读取为 Markdown、捕获截图并导出 PDF。
+- [paldom playwright-stealth Skills](https://awesomecua.com/resources/github-paldom-playwright-stealth/)：使用 CloakBrowser 和 Playwright 实现隐蔽浏览器自动化的 Agent Skills 包。
+- [PAM Browser](https://awesomecua.com/resources/github-push-in-pam-browser/)：在 PAM 运行时上运行的 PHP 类型化 Chrome DevTools Protocol 客户端。
+- [Panerelay](https://awesomecua.com/resources/github-f-loat-panerelay/)：面向 Chrome 和 Edge 上的 AI 智能体，提供通过浏览器身份认证的抓取功能，以及连接现有浏览器的 CDP 桥接功能。
+- [PANOPTES Screen MCP Server](https://awesomecua.com/resources/github-yxpil-panoptes/)：采用可流式传输 HTTP 的 Model Context Protocol 服务器，向 AI 智能体提供 9 项屏幕采集及鼠标、键盘控制工具。
+- [parallel-browser-mcp](https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/)：Model Context Protocol 服务器，可在本地和云端浏览器提供商之间并行执行多会话浏览器自动化。
+- [Parallels CLI Skill for Codex](https://awesomecua.com/resources/github-wieslawsoltes-parallelsskill/)：可移植的 Codex 技能，用于在 macOS 上创建、生成快照和控制 Parallels Desktop 虚拟机。
+- [Paseo Chrome Bridge](https://awesomecua.com/resources/github-papag00se-paseo-chrome-bridge/)：将 Paseo AI 智能体连接到用户已登录的 Chrome 浏览器的本地桥接工具。
+- [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/)：Windows Model Context Protocol 服务器，将桌面无障碍树以结构化数据的形式提供，代替截图。
+- [pcbridge](https://awesomecua.com/resources/github-eymistaken-pcbridge/)：将 Linux 桌面转变为支持 shell 执行、窗口管理和 GUI 自动化的 Model Context Protocol 服务器。
+- [periscope-mcp](https://awesomecua.com/resources/github-segentic-lab-periscope-mcp/)：网页应用 QA 与分析 MCP 服务器，提供 74 个 Playwright 工具，用于需身份验证的流程、视觉回归测试和无障碍审查。
+- [Perplexity Toolkit](https://awesomecua.com/resources/github-mfang0126-perplexity-toolkit/)：浏览器控制工具包和 CLI，用于自动执行 Perplexity AI 深度搜索及提取结构化引用信息。
+- [Pi Desktop for Windows](https://awesomecua.com/resources/github-ayouyi-pi-desktop-for-windows/)：面向 Pi 编码和计算机使用智能体的原生 Windows 桌面 GUI 客户端及工作空间。
+- [Pi Nodriver Browser](https://awesomecua.com/resources/github-ayasakura-comp-pi-nodriver-browser/)：由 Nodriver、有界面的 Chrome 和 Xvfb 虚拟显示支持的 Pi 编码智能体浏览器扩展。
+- [pi-browser-use](https://awesomecua.com/resources/github-longweekendprojects-pi-browser-use/)：原生 `pi` 编码智能体工具，通过 CDP 和可复用的网站操作单元驱动用户已登录的 Arc 或 Chrome 浏览器。
+- [pi-chatgpt-web](https://awesomecua.com/resources/github-tzachbon-pi-chatgpt-web/)：在 Pi 编码智能体中，将已通过身份验证的 ChatGPT 浏览器会话用作模型提供方。
+- [pi-control-chrome](https://awesomecua.com/resources/github-lyd123qw2008-pi-control-chrome/)：面向 Pi 编码智能体、与 Codex 适配的 Chrome 和 Edge 浏览器控制扩展及桥接程序。
+- [pi-iphone-mirroring](https://awesomecua.com/resources/github-aniruddha-adhikary-pi-iphone-mirroring/)：面向 macOS 上 Pi 编码智能体、以视觉为主的 iPhone Mirroring 控制包。
+- [pi-playwright-browser](https://awesomecua.com/resources/github-sunnybharne-pi-playwright-browser/)：供 Pi 编码智能体使用的隔离式 Playwright Chromium 浏览器工具。
+- [Pilos Agents](https://awesomecua.com/resources/github-pilos-ai-agents/)：Pilos Agents 是桌面应用，用于协调多智能体 Claude Code 团队、可视化工作流和 MCP 服务器集成。
+- [Pilot MCP Chrome Extension](https://awesomecua.com/resources/github-xiachaoxia-glitch-pilot-mcp-extension/)：Manifest V3 Chrome 扩展，将 Claude Code 和 MCP 智能体连接到正在运行的浏览器标签页。
+- [pinchtab-mcp](https://awesomecua.com/resources/github-maderwin-pinchtab-mcp/)：面向 PinchTab 的 Model Context Protocol 服务器，使 AI 智能体能够通过无障碍树和 CDP 控制 Chromium 浏览器。
+- [pixel-forge](https://awesomecua.com/resources/github-sjxbbdb-pixel-forge/)：面向 AI 智能体的桌面自动化工具包，提供截图采集、OCR、像素差异变化检测以及鼠标和键盘动作。
+- [PixelCheck](https://awesomecua.com/resources/github-xcodethink-pixelcheck/)：可直接接入的 MCP 服务器，提供 5 项可视化浏览器基础操作，供前端编程智能体检查、截图和验证实时网页 UI。
+- [planchette](https://awesomecua.com/resources/github-shahriarshm-planchette/)：用户可以指向任意桌面应用窗口，授予编程智能体仅针对该窗口的截图、点击和键盘控制权限。
+- [Playwright Flow Tester MCP](https://awesomecua.com/resources/github-sadiuysal-playwright-flow-tester/)：可参数化的 UI/UX 流程测试套件，通过 Playwright 集成 Model Context Protocol 和结构化执行日志。
+- [Playwright MCP](https://awesomecua.com/resources/url-9900690ea9b418a1a7c6/)：为大语言模型客户端提供网页导航和交互工具的 MCP 服务器，利用结构化无障碍快照识别页面元素。
+- [Playwright MCP Server (ExecuteAutomation)](https://awesomecua.com/resources/github-executeautomation-mcp-playwright/)：社区开发的 MCP 服务器，为 LLM 提供 Playwright 浏览器自动化能力，用于与网页交互、截图、生成测试代码和运行 JavaScript。
+- [Playwright Pool MCP](https://awesomecua.com/resources/github-zbrooklyn-claude-labs-playwright-pool/)：Playwright 浏览器池 MCP 服务器，提供 75 个工具、共享身份验证配置和 28 项内置 UI 审计检查。
+- [playwright-mcp-tabbed](https://awesomecua.com/resources/github-songofhawk-playwright-mcp-tabbed/)：感知标签页的 Playwright MCP 服务器，通过每个工具的 tab_index 实现隔离，使并行 AI 智能体能够同时操作各自独立的标签页。
+- [playwright-turnstile](https://awesomecua.com/resources/github-circuitsavage-playwright-turnstile/)：Playwright 集成组件，在浏览器自动化过程中通过注入令牌解决 Cloudflare Turnstile 验证挑战。
+- [Pointframe](https://awesomecua.com/resources/github-dimitar-radenkov-pointframe/)：MCP 服务器和 CLI，让编程智能体借助带签名的截图证据检查、操作和验证原生 Windows UI 应用。
+- [PortaMCP](https://awesomecua.com/resources/github-tnlegend-portamcp/)：面向 Windows 自动化的客户端无关 Model Context Protocol 服务器和安全的桌面控制中心。
+- [Prism AI Screen Reader](https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/)：Prism 是 macOS 屏幕阅读器和活动分析器，可捕获截图，并使用视觉语言模型总结用户的桌面工作流程。
+- [Prism Browser Community](https://awesomecua.com/resources/github-dfarm6-prism-browser-community/)：基于 Chromium 和 Electron、优先在本地运行的开源多配置文件指纹浏览器，用于隔离的网页自动化。
+- [ProBrowser MCP Server](https://awesomecua.com/resources/github-momadhuynh04-probrowser/)：面向 AI 智能体、具备反检测能力的真实浏览器自动化 Model Context Protocol 服务器。
+- [Procore Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-procore-browser-automation/)：面向 Procore 的浏览器自动化脚手架，提供施工信息请求、报审跟踪、每日日志和项目报告导出操作。
+- [Prodjest (DSH Browser Bridge)](https://awesomecua.com/resources/github-hedelka-prodjest/)：面向 DeepSeek Harness 的视觉 Chrome 浏览器桥接工具，支持用户交互式监督。
+- [ProdPoke MCP Server](https://awesomecua.com/resources/github-prodpoke-prodpoke-mcp/)：AI QA 测试 MCP 服务器，可启动真实浏览器执行探索性用户操作流程并报告 UI 缺陷。
+- [Product Demo Video Skill](https://awesomecua.com/resources/github-afnanksalal-product-demo-video-skill/)：适用于 Codex 和 Claude 的 Agent Skill，通过在浏览器中操作实时网页产品，录制与真实操作关联的演示视频。
+- [Public Browser](https://awesomecua.com/resources/github-silbercue-public-browser/)：面向 Claude Code 和 Cursor、节省 token 的 Chrome 自动化桥接工具和 CLI。
+- [Puppeteer MCP Server](https://awesomecua.com/resources/github-sultannaufal-puppeteer-mcp-server/)：可自行托管的 Puppeteer MCP 服务器，支持远程 Server-Sent Events（SSE）传输、API 密钥认证和 Docker 部署。
+- [pursr](https://awesomecua.com/resources/github-0xheycat-pursr/)：集视觉质量检查、无障碍审计、截图差异比较和 MCP 浏览器自动化于一体的工具包。
+- [pyagentbrowser](https://awesomecua.com/resources/github-peter-gy-pyagentbrowser/)：面向 Vercel agent-browser 引擎的类型化 Python SDK，支持捕获动作前后的证据。

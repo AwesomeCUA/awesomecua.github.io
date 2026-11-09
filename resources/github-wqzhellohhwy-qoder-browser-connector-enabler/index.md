@@ -12,10 +12,6 @@ Enables Qoder's Browser-Use connector mode to attach to and control the user's r
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:wqzhellohhwy/qoder-browser-connector-enabler
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wqzhellohhwy-qoder-browser-connector-enabler/record.json
 
 ## License declarations

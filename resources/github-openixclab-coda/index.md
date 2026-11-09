@@ -12,10 +12,6 @@ CODA coordinates a trainable planner ('Cerebrum') with a grounded GUI executor (
 - Evidence checked: 2026-11-04T13:12:30Z
 - ID: github:openixclab/coda
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openixclab-coda/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Discovers UI workflows once using a local LLM and compiles the successful trajec
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:bryansbtian/replay-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bryansbtian-replay-ai/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Llama-3.3-70B-Instruct-based executor checkpoint from the Plan-and-Act web-agent
 - Evidence checked: 2026-10-17T02:05:41Z
 - ID: url:8a284d122d7dcf23479d
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-8a284d122d7dcf23479d/record.json
 
 ## License declarations

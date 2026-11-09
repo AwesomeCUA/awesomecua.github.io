@@ -12,10 +12,6 @@ H computer-use model family and its release-specific access options.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:c0bd07d82ce25ad1d99d
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-c0bd07d82ce25ad1d99d/record.json
 
 ## License declarations

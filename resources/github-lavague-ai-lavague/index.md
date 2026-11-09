@@ -12,10 +12,6 @@ Open-source web agent framework where a World Model turns an objective and the c
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:lavague-ai/lavague
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lavague-ai-lavague/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Sessionat is an open-source Chromium-based macOS browser with persistent workspa
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:dublyo/sessionat
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dublyo-sessionat/record.json
 
 ## License declarations

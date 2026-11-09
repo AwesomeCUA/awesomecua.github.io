@@ -12,10 +12,6 @@ Browser-streamed Docker Linux desktop shared between humans and AI agents with a
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:jahrulnr/virtual-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Integrates Volcengine's Mobile Use and OS Agent capabilities as a plugin for Dee
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:chenjie1129/deepseek-harness-os-agent-plugin
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chenjie1129-deepseek-harness-os-agent-plugin/record.json
 
 ## License declarations

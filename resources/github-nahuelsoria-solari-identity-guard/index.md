@@ -12,10 +12,6 @@ Fail-closed identity and session verification middleware for Solari browser agen
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:nahuelsoria/solari-identity-guard
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nahuelsoria-solari-identity-guard/record.json
 
 ## License declarations

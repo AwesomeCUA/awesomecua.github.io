@@ -12,10 +12,6 @@ Unified Model Context Protocol gateway and dynamic container orchestrator for he
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:sh7vansh/chrome-orchestrator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sh7vansh-chrome-orchestrator/record.json
 
 ## License declarations

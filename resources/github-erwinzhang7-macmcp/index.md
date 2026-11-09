@@ -12,10 +12,6 @@ macOS Model Context Protocol server with per-application permission gating, Acce
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:erwinzhang7/macmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-erwinzhang7-macmcp/record.json
 
 ## License declarations

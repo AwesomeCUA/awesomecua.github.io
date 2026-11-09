@@ -12,10 +12,6 @@ Mantis is a unified perception-reasoning-action computer-use agent that drives b
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:mercurialsolo/mantis
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mercurialsolo-mantis/record.json
 
 ## License declarations

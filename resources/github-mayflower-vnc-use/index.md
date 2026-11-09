@@ -12,10 +12,6 @@ vnc-use is a LangGraph-based computer-use framework that drives remote desktop e
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:mayflower/vnc-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mayflower-vnc-use/record.json
 
 ## License declarations

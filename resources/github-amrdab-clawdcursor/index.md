@@ -12,10 +12,6 @@ Local MCP server that compiles desktop screens into stable UI element maps with 
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:amrdab/clawdcursor
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amrdab-clawdcursor/record.json
 
 ## License declarations

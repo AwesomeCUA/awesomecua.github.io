@@ -12,10 +12,6 @@ Atlas is a voice-and-screen desktop agent that observes active windows and execu
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:dortanes/atlas
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dortanes-atlas/record.json
 
 ## License declarations

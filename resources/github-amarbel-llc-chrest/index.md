@@ -12,10 +12,6 @@ Chrest combines a browser extension, REST daemon, CLI, and MCP server for progra
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:amarbel-llc/chrest
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amarbel-llc-chrest/record.json
 
 ## License declarations

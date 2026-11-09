@@ -12,10 +12,6 @@ C-native Linux desktop-control MCP server supporting X11/Xwayland, AT-SPI access
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:b1tank/deskpal
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-b1tank-deskpal/record.json
 
 ## License declarations

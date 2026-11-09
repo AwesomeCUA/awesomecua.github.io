@@ -12,10 +12,6 @@ Retrofits existing websites with structured WebMCP tool definitions without requ
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:liha-app/webmcp-adapter
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-liha-app-webmcp-adapter/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ ClawMobile is an Android agent runtime built on OpenClaw for controlling mobile 
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:clawmobile/clawmobile
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-clawmobile-clawmobile/record.json
 
 ## License declarations

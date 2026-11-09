@@ -12,10 +12,6 @@ Pi coding-agent browser extension powered by Nodriver, headful Chrome, and Xvfb 
 - Evidence checked: 2026-11-04T17:20:41Z
 - ID: github:ayasakura-comp/pi-nodriver-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ayasakura-comp-pi-nodriver-browser/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Airbrowser packages an undetectable Chrome browser, REST API, MCP server, and li
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:ifokeev/airbrowser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ifokeev-airbrowser-mcp/record.json
 
 ## License declarations

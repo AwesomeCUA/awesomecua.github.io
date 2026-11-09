@@ -12,10 +12,6 @@ Native Windows desktop computer-use and reusable RPA harness exposing CLI, MCP, 
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:xuyw1997/agent-desktop-harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xuyw1997-agent-desktop-harness/record.json
 
 ## License declarations

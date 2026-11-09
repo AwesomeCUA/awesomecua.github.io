@@ -12,10 +12,6 @@ cua-lite is a cross-platform desktop application and harness for running, evalua
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:justanotheruser82174/cua-lite
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-justanotheruser82174-cua-lite/record.json
 
 ## License declarations

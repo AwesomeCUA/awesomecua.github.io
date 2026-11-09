@@ -12,10 +12,6 @@ Unified CLI layer over host machines allowing AI agents to drive desktop apps an
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:muthuishere/aos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-muthuishere-aos/record.json
 
 ## License declarations

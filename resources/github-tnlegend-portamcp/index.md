@@ -12,10 +12,6 @@ Client-neutral Model Context Protocol server and secure desktop Control Center f
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:tnlegend/portamcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tnlegend-portamcp/record.json
 
 ## License declarations

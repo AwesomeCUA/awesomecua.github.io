@@ -35,13 +35,13 @@ Ruozhen He, Zhongnan Qu, Sheng Zhang, Mesut Erhan Unal, Zhuowen Tu, Srikar Appal
 - Publication source: https://aclanthology.org/2026.realm-1.100
 - Publication BibTeX: https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/publication-citation.csl.json
-- venue: Proceedings of the Second Workshop for REsearch on Agent Language Models (REALM 2026)
-- publisher: Association for Computational Linguistics
-- pages: 1444-1470
-- doi: 10.18653/2026.realm-1.100
-- date basis: Crossref issued date 2026; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACL Anthology edition in the REALM 2026 workshop proceedings.
+- Venue: Proceedings of the Second Workshop for REsearch on Agent Language Models (REALM 2026)
+- Publisher: Association for Computational Linguistics
+- Pages: 1444-1470
+- DOI: 10.18653/2026.realm-1.100
+- Date source: Crossref issued date 2026; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACL Anthology edition in the REALM 2026 workshop proceedings.
 - Publication evidence: https://api.crossref.org/works/10.18653/2026.realm-1.100, https://aclanthology.org/2026.realm-1.100/
 
 ## License declarations

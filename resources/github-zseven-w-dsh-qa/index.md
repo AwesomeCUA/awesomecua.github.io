@@ -12,10 +12,6 @@ DeepSeek Harness QA plugin where an autonomous browser agent explores live web a
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:zseven-w/dsh-qa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zseven-w-dsh-qa/record.json
 
 ## License declarations

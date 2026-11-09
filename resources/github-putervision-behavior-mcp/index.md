@@ -12,10 +12,6 @@ High-frequency (~60Hz) in-browser behavior-tree execution engine exposed over th
 - Evidence checked: 2026-11-04T17:30:34Z
 - ID: github:putervision/behavior-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-putervision-behavior-mcp/record.json
 
 ## License declarations

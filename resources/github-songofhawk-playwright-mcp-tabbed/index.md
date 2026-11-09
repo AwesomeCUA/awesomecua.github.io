@@ -12,10 +12,6 @@ Tab-aware Playwright MCP server with per-tool `tab_index` isolation so parallel 
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:songofhawk/playwright-mcp-tabbed
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-songofhawk-playwright-mcp-tabbed/record.json
 
 ## License declarations

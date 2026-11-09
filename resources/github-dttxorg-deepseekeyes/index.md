@@ -12,10 +12,6 @@ Auditable vision and cross-platform computer-use runtime for DeepSeek Harness wi
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:dttxorg/deepseekeyes
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dttxorg-deepseekeyes/record.json
 
 ## License declarations

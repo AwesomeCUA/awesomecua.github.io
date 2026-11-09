@@ -12,10 +12,6 @@ agent-qa is an AI quality-assurance runner that executes natural-language user-j
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:vostride/agent-qa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vostride-agent-qa/record.json
 
 ## License declarations

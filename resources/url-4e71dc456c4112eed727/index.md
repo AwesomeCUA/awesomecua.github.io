@@ -20,10 +20,10 @@ The card declares MIT and attributes the source examples to GroundCUA.
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: screenshots, text, coordinates
-- splits: train
-- supervision: instruction-to-click grounding, target bounding boxes
+- Formats: Parquet
+- Modalities: screenshots, text, coordinates
+- Splits: train
+- Supervision: instruction-to-click grounding, target bounding boxes
 
 ### Count observations
 

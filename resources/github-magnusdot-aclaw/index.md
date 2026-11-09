@@ -12,10 +12,6 @@ Packaged local command center for running and monitoring personal OpenClaw compu
 - Evidence checked: 2026-11-04T18:11:32Z
 - ID: github:magnusdot/aclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-magnusdot-aclaw/record.json
 
 ## License declarations

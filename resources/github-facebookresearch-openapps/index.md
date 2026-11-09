@@ -20,11 +20,11 @@ Public code includes app/task/configuration and agent-launching implementations.
 
 ## Structured profile
 
-- actions: click, type, scroll, configured BrowserGym/AgentLab actions
-- evaluation: Tasks define check_if_task_is_complete(initial_state,current_state); app-specific reward logic evaluates underlying state, with custom checks for code-editor file contents. Observation/history flags are configurable. No universal single fixed task total or published-run reproduction is implied.
-- focus: UI-agent reliability under environment variation, state-based browser task evaluation
-- observations: screenshots, accessibility trees, set-of-marks and coordinates (configurable)
-- setting: interactive
+- Actions / outputs: click, type, scroll, configured BrowserGym/AgentLab actions
+- Evaluation: Tasks define check_if_task_is_complete(initial_state,current_state); app-specific reward logic evaluates underlying state, with custom checks for code-editor file contents. Observation/history flags are configurable. No universal single fixed task total or published-run reproduction is implied.
+- Focus: UI-agent reliability under environment variation, state-based browser task evaluation
+- Observations: screenshots, accessibility trees, set-of-marks and coordinates (configurable)
+- Setting: interactive
 
 ### Count observations
 

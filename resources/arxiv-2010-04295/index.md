@@ -35,13 +35,13 @@ Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 - Publication source: https://aclanthology.org/2020.emnlp-main.443/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2010-04295/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2010-04295/publication-citation.csl.json
-- venue: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
-- publisher: Association for Computational Linguistics
-- pages: 5495-5510
-- doi: 10.18653/v1/2020.emnlp-main.443
-- date basis: Explicit publisher metadata: 2020/11; precision=month.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The retained arXiv abstract reports 162,859 phrases; the ACL abstract reports 162,860. This publication proposal does not overwrite the arXiv annotation or assert a unified dataset count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+- Publisher: Association for Computational Linguistics
+- Pages: 5495-5510
+- DOI: 10.18653/v1/2020.emnlp-main.443
+- Date source: Explicit publisher metadata: 2020/11; precision=month.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The retained arXiv abstract reports 162,859 phrases; the ACL abstract reports 162,860. This publication proposal does not overwrite the arXiv annotation or assert a unified dataset count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://aclanthology.org/2020.emnlp-main.443/
 
 ## Recorded arXiv snapshot

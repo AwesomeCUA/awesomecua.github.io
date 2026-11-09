@@ -12,10 +12,6 @@ Celesto provisions secure, persistent virtual desktop computers and browser sand
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:celestoai/celesto
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-celestoai-celesto/record.json
 
 ## License declarations

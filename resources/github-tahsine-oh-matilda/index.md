@@ -12,10 +12,6 @@ Oh-Matilda is a Tauri v2 on-device Android AI agent that autonomously opens apps
 - Evidence checked: 2026-11-04T14:41:54Z
 - ID: github:tahsine/oh-matilda
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tahsine-oh-matilda/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Security-first Model Context Protocol bridge allowing AI agents to control an ex
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:invictumhr/ai-invictum-browser-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-invictumhr-ai-invictum-browser-bridge/record.json
 
 ## License declarations

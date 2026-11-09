@@ -12,10 +12,6 @@ Model Context Protocol server for automating real Android, iOS, and Windows devi
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:ascript-cn/ascript-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ascript-cn-ascript-mcp/record.json
 
 ## License declarations

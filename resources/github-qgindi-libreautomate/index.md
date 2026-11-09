@@ -12,10 +12,6 @@ LibreAutomate is a C# script editor and Windows automation library supporting UI
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:qgindi/libreautomate
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qgindi-libreautomate/record.json
 
 ## License declarations

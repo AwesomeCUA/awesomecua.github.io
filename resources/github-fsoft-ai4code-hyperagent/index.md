@@ -12,10 +12,6 @@ FSoft HyperAgent coordinates Planner, Navigator, Code Editor, and Executor agent
 - Evidence checked: 2026-11-04T13:12:14Z
 - ID: github:fsoft-ai4code/hyperagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fsoft-ai4code-hyperagent/record.json
 
 ## License declarations

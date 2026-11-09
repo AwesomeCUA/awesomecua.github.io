@@ -12,10 +12,6 @@ Browser Model Context Protocol server for OpenCode supporting Chromium, Firefox,
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:hogandong486/opencode-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hogandong486-opencode-browser-mcp/record.json
 
 ## License declarations

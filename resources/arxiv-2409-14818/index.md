@@ -35,13 +35,13 @@ Qinzhuo Wu, Weikai Xu, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wa
 - Publication source: https://aclanthology.org/2024.findings-emnlp.599/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2409-14818/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2409-14818/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: EMNLP 2024
-- publisher: Association for Computational Linguistics
-- pages: 10231-10251
-- doi: 10.18653/v1/2024.findings-emnlp.599
-- date basis: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. The landing page and its BibTeX list the fifth author as Liujian Liujianfeng; the PDF names Jianfeng Liu.
+- Venue: Findings of the Association for Computational Linguistics: EMNLP 2024
+- Publisher: Association for Computational Linguistics
+- Pages: 10231-10251
+- DOI: 10.18653/v1/2024.findings-emnlp.599
+- Date source: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. The landing page and its BibTeX list the fifth author as Liujian Liujianfeng; the PDF names Jianfeng Liu.
 - Publication evidence: https://aclanthology.org/2024.findings-emnlp.599/, https://aclanthology.org/2024.findings-emnlp.599.pdf
 
 ## Recorded arXiv snapshot

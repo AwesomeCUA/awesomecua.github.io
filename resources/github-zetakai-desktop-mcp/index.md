@@ -12,10 +12,6 @@ Desktop vision and input control Model Context Protocol server for Linux X11 and
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:zetakai/desktop-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zetakai-desktop-mcp/record.json
 
 ## License declarations

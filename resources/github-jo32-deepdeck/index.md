@@ -12,10 +12,6 @@ macOS desktop workspace for authoring, testing, and reusing WebMCP browser tools
 - Evidence checked: 2026-11-04T17:20:46Z
 - ID: github:jo32/deepdeck
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jo32-deepdeck/record.json
 
 ## License declarations

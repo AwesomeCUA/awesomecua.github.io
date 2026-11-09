@@ -12,10 +12,6 @@ Neurosim is a Python framework for building, simulating, and evaluating multi-st
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:anaishowland/neurosim
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-neurosim/record.json
 
 ## License declarations

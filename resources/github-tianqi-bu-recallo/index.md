@@ -12,10 +12,6 @@ Recallo is a local-first browser agent with persistent SQLite episodic memory ac
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:tianqi-bu/recallo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tianqi-bu-recallo/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ settled-computer is an event-driven MCP server that detects UI rendering quiesce
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:remote-skills/settled-computer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-remote-skills-settled-computer/record.json
 
 ## License declarations

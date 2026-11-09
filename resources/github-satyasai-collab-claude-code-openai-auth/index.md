@@ -12,10 +12,6 @@ Localhost gateway that routes Claude Code requests through a manually authentica
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:satyasai-collab/claude-code-openai-auth
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-satyasai-collab-claude-code-openai-auth/record.json
 
 ## License declarations

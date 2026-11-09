@@ -12,10 +12,6 @@ Q-Reflector trains an 8B vision-language verifier with generated pre/post-action
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:pockyitachi/q-reflector
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pockyitachi-q-reflector/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ browser-agent-kit is a framework for building in-page AI agents that execute dir
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:nicolascine/browser-agent-kit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nicolascine-browser-agent-kit/record.json
 
 ## License declarations

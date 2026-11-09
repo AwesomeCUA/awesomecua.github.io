@@ -12,10 +12,6 @@ HeroDesktop is an open-source virtual desktop sandbox for running and observing 
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:deathlegionteamlk/herodesktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-deathlegionteamlk-herodesktop/record.json
 
 ## License declarations

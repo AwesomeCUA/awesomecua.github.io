@@ -12,10 +12,6 @@ Generates typed, human-reviewed WebMCP browser tools directly from existing Open
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:souravinsights/webmcp-stack
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-souravinsights-webmcp-stack/record.json
 
 ## License declarations

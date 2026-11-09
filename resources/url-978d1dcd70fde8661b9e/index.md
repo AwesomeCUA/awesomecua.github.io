@@ -12,10 +12,6 @@ Managed browser infrastructure for agent applications.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:978d1dcd70fde8661b9e
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/record.json
 
 ## License declarations

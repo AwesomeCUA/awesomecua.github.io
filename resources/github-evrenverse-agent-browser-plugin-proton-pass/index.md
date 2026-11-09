@@ -12,10 +12,6 @@ Proton Pass credential provider plugin for `agent-browser` that resolves and fil
 - Evidence checked: 2026-11-04T17:55:09Z
 - ID: github:evrenverse/agent-browser-plugin-proton-pass
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-evrenverse-agent-browser-plugin-proton-pass/record.json
 
 ## License declarations

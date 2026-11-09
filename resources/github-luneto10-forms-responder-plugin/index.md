@@ -12,10 +12,6 @@ Portable Codex and Agent Skills plugin for source-verified browser form completi
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:luneto10/forms-responder-plugin
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-luneto10-forms-responder-plugin/record.json
 
 ## License declarations

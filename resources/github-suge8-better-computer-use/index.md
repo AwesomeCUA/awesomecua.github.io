@@ -12,10 +12,6 @@ macOS background desktop control CLI for AI agents supporting window discovery, 
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:suge8/better-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-suge8-better-computer-use/record.json
 
 ## License declarations

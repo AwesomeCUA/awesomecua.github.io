@@ -12,10 +12,6 @@ Self-hostable, privacy-first local AI browser automation agent and Chrome extens
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:holistis/al-yad
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-holistis-al-yad/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ SideButton combines a Chrome extension, MCP server, and YAML workflow engine to 
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:sidebutton/sidebutton
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sidebutton-sidebutton/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Headless-browser Model Context Protocol server for Claude, Codex, Gemini CLI, an
 - Evidence checked: 2026-11-04T16:10:28Z
 - ID: github:that1drifter/browse-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-that1drifter-browse-mcp/record.json
 
 ## License declarations

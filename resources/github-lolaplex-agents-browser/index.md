@@ -12,10 +12,6 @@ Zero-Node Python Chrome DevTools Protocol browser MCP server for AI coding agent
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:lolaplex/agents-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lolaplex-agents-browser/record.json
 
 ## License declarations

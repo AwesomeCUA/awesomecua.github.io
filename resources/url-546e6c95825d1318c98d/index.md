@@ -20,10 +20,10 @@ The reviewed card contains no explicit license declaration, so data-license stat
 
 ## Structured profile
 
-- formats: JSON, JSONL, PNG
-- modalities: screenshots, text, tool calls
-- splits: sft/train, rl/train
-- supervision: next-action supervision, verifiable task outcomes
+- Formats: JSON, JSONL, PNG
+- Modalities: screenshots, text, tool calls
+- Splits: sft/train, rl/train
+- Supervision: next-action supervision, verifiable task outcomes
 
 ### Count observations
 

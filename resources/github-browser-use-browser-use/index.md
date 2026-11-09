@@ -12,10 +12,6 @@ Open-source browser agent library that runs locally with any LLM against a local
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:browser-use/browser-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-use-browser-use/record.json
 
 ## License declarations

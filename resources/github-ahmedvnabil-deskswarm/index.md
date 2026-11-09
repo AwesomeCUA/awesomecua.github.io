@@ -12,10 +12,6 @@ Self-hosted fleet manager for provisioning and dispatching natural-language task
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:ahmedvnabil/deskswarm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ahmedvnabil-deskswarm/record.json
 
 ## License declarations

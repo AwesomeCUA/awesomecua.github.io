@@ -12,10 +12,6 @@ Local macOS computer-use agent with screen perception and verified action execut
 - Evidence checked: 2026-11-04T18:11:43Z
 - ID: github:slastrina/third-eye
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-slastrina-third-eye/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Spec-driven small-LLM desktop agent that operates Windows end-to-end using OCR, 
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:yanjin101/my_tiny_agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yanjin101-my-tiny-agent/record.json
 
 ## License declarations

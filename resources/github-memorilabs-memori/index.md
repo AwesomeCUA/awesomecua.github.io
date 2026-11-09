@@ -12,10 +12,6 @@ Memori captures structured execution facts from agent tool calls and conversatio
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:memorilabs/memori
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-memorilabs-memori/record.json
 
 ## License declarations

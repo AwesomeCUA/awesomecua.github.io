@@ -20,10 +20,10 @@ The public Hub API reports gated=auto and a Restricted Research-Only declaration
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: screenshots, text, coordinates
-- splits: train
-- supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
+- Formats: Parquet
+- Modalities: screenshots, text, coordinates
+- Splits: train
+- Supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
 
 ### Count observations
 

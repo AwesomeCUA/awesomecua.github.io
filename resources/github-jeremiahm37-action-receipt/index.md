@@ -12,10 +12,6 @@ Generates deterministic per-action DOM and network effect receipts for auditing 
 - Evidence checked: 2026-11-04T18:11:34Z
 - ID: github:jeremiahm37/action-receipt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jeremiahm37-action-receipt/record.json
 
 ## License declarations

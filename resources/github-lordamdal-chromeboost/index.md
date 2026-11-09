@@ -12,10 +12,6 @@ Chrome extension and MCP server giving Claude Code direct control over the user'
 - Evidence checked: 2026-11-04T16:51:57Z
 - ID: github:lordamdal/chromeboost
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lordamdal-chromeboost/record.json
 
 ## License declarations

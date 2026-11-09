@@ -12,10 +12,6 @@ Python Model Context Protocol server exposing 33 tools for macOS screen capture,
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:syedazharmbnr1/computer-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-syedazharmbnr1-computer-use-mcp/record.json
 
 ## License declarations

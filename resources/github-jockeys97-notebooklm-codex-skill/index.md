@@ -12,10 +12,6 @@ Codex skill that queries Google Gemini NotebookLM directly through browser autom
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:jockeys97/notebooklm-codex-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jockeys97-notebooklm-codex-skill/record.json
 
 ## License declarations

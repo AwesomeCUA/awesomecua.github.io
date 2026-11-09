@@ -12,10 +12,6 @@ Autonomous AI desktop agent for Windows capable of GUI control, system managemen
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:codewithevilxd/hikari
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-codewithevilxd-hikari/record.json
 
 ## License declarations

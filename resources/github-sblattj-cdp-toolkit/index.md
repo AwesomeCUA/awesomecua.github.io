@@ -12,10 +12,6 @@ Lightweight alternative to `chrome-devtools-mcp` that lets AI agents target and 
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:sblattj/cdp-toolkit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sblattj-cdp-toolkit/record.json
 
 ## License declarations

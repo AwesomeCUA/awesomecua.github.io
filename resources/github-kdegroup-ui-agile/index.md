@@ -12,10 +12,6 @@ GUI agent trained by RL with a continuous reward, a simple-thinking reward and c
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:kdegroup/ui-agile
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kdegroup-ui-agile/record.json
 
 ## License declarations

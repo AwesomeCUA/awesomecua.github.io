@@ -12,10 +12,6 @@ High-performance Rust Model Context Protocol browser server for AI agents.
 - Evidence checked: 2026-11-04T18:11:51Z
 - ID: github:0bifthenelse/master-internet-unit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/record.json
 
 ## License declarations

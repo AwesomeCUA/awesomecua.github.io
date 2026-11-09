@@ -12,10 +12,6 @@ Self-hosted enterprise AI assistant and computer-use workspace by CopilotKit wit
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:copilotkit/openbot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-copilotkit-openbot/record.json
 
 ## License declarations

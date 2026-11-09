@@ -20,10 +20,10 @@ The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks 
 
 ## Structured profile
 
-- formats: JSON, JSONL, CSV, plain-text logs, Markdown
-- modalities: action trajectories, agent messages and events, runtime and evaluator logs, scores
-- splits: not recorded
-- supervision: evaluator task scores, agent-generated trajectories
+- Formats: JSON, JSONL, CSV, plain-text logs, Markdown
+- Modalities: action trajectories, agent messages and events, runtime and evaluator logs, scores
+- Splits: not recorded
+- Supervision: evaluator task scores, agent-generated trajectories
 
 ### Count observations
 

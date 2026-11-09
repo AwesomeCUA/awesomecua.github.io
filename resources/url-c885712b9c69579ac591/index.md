@@ -20,10 +20,10 @@ Adjacent: a file host that the curated OSWorld benchmark depends on; this asset 
 
 ## Structured profile
 
-- formats: original application file formats, archives
-- modalities: images, documents, spreadsheets, presentations, audio and video, scripts
-- splits: not recorded
-- supervision: task setup and evaluation assets
+- Formats: original application file formats, archives
+- Modalities: images, documents, spreadsheets, presentations, audio and video, scripts
+- Splits: not recorded
+- Supervision: task setup and evaluation assets
 
 ### Count observations
 

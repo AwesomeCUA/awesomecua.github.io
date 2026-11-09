@@ -12,10 +12,6 @@ WebClaw is a WebMCP-native browser agent that runs inside the user's live Chrome
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:kuroko1t/webclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kuroko1t-webclaw/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser4 is an AI-native browser engine and coroutines runtime for high-concurre
 - Evidence checked: 2026-11-04T14:02:37Z
 - ID: github:platonai/browser4
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-platonai-browser4/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ dsh-vdesktop runs Windows GUI applications inside an invisible Win32 virtual des
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:jafewff/dsh-vdesktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jafewff-dsh-vdesktop/record.json
 
 ## License declarations

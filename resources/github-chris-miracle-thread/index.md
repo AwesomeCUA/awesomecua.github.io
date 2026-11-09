@@ -12,10 +12,6 @@ Shared WebMCP research workspace where human users and browser agents co-curate 
 - Evidence checked: 2026-11-04T17:55:07Z
 - ID: github:chris-miracle/thread
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chris-miracle-thread/record.json
 
 ## License declarations

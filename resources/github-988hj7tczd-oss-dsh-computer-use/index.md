@@ -12,10 +12,6 @@ Cross-platform DeepSeek Harness computer-use plugin featuring an independent vir
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:988hj7tczd-oss/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-988hj7tczd-oss-dsh-computer-use/record.json
 
 ## License declarations

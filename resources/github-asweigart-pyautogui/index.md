@@ -12,10 +12,6 @@ Cross-platform Python module for scripted mouse and keyboard control, message bo
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:asweigart/pyautogui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-asweigart-pyautogui/record.json
 
 ## License declarations

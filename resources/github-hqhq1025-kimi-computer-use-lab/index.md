@@ -12,10 +12,6 @@ Analyzes and reproduces the Kimi Desktop computer-use architecture combining Ope
 - Evidence checked: 2026-11-04T13:12:17Z
 - ID: github:hqhq1025/kimi-computer-use-lab
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hqhq1025-kimi-computer-use-lab/record.json
 
 ## License declarations

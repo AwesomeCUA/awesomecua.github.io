@@ -12,10 +12,6 @@ Linux X11 computer-use plugin for DeepSeek Harness supporting screenshots, mouse
 - Evidence checked: 2026-11-04T17:30:43Z
 - ID: github:asdasdsdsdasdasdasd/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-asdasdsdsdasdasdasd-dsh-computer-use/record.json
 
 ## License declarations

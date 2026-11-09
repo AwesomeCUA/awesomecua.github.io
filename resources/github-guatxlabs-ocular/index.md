@@ -12,10 +12,6 @@ Hardened web capture and hostile-HTML analysis engine with anti-bot reconnaissan
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:guatxlabs/ocular
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-guatxlabs-ocular/record.json
 
 ## License declarations

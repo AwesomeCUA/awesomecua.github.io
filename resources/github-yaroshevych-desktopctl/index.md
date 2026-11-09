@@ -12,10 +12,6 @@ GPU-accelerated local macOS CLI for AI agents to inspect screen text/controls an
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:yaroshevych/desktopctl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yaroshevych-desktopctl/record.json
 
 ## License declarations

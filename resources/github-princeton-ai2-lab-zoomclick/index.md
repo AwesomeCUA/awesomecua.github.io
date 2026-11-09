@@ -12,10 +12,6 @@ ZoomClick implements iterative zoom-in GUI grounding and behavior-based groundin
 - Evidence checked: 2026-11-04T14:02:36Z
 - ID: github:princeton-ai2-lab/zoomclick
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-princeton-ai2-lab-zoomclick/record.json
 
 ## License declarations

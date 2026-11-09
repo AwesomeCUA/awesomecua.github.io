@@ -12,10 +12,6 @@ Local browser-extension agent for recruiting platforms that answers candidate me
 - Evidence checked: 2026-11-04T17:55:17Z
 - ID: github:kxc7558/recruit-auto-reply
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kxc7558-recruit-auto-reply/record.json
 
 ## License declarations

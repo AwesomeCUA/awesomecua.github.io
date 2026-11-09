@@ -12,10 +12,6 @@ Browser automation bridge allowing AI agents to operate the user's real, logged-
 - Evidence checked: 2026-11-04T17:55:24Z
 - ID: github:siropkin/chrome-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-siropkin-chrome-bridge/record.json
 
 ## License declarations

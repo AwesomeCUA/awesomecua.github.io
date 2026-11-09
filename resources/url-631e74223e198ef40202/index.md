@@ -12,18 +12,14 @@ Cross-platform training data released with ScaleCUA, with grounding and navigati
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:631e74223e198ef40202
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-631e74223e198ef40202/record.json
 
 ## Structured profile
 
-- formats: JSONL annotations, JSON manifest, split image archives
-- modalities: screenshots, text, actions
-- splits: not recorded
-- supervision: GUI grounding, GUI action trajectories
+- Formats: JSONL annotations, JSON manifest, split image archives
+- Modalities: screenshots, text, actions
+- Splits: not recorded
+- Supervision: GUI grounding, GUI action trajectories
 
 ### Count observations
 

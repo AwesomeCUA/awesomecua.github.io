@@ -12,10 +12,6 @@ Model Context Protocol server that injects a drawing and comment overlay into li
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:elainemhr/annotate-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-elainemhr-annotate-mcp/record.json
 
 ## License declarations

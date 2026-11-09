@@ -12,10 +12,6 @@ Oya Browser is a governance-aware browser control plane for human-AI collaborati
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:oyadotai/oya-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-oyadotai-oya-browser/record.json
 
 ## License declarations

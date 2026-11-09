@@ -20,11 +20,11 @@ This Hub repository is the public-ladder subset: the paper and project page desc
 
 ## Structured profile
 
-- actions: recorded Android atomic actions, recorded PC pyautogui actions, click coordinates for grounding
-- evaluation: Region-level privacy labels (risk level, category, task essentiality, boxes) support recognition scoring; planning is compared before and after protection methods (black mask, mosaic, random blocks, LLM text replacement); grounding follows a ScreenSpot-style click check. The card does not ship a scorer; it points to an anonymized toolkit.
-- focus: privacy-risk recognition in GUI agent screenshots, agent planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
-- observations: recorded trajectory screenshots, task goals, plan and progress text
-- setting: offline
+- Actions / outputs: recorded Android atomic actions, recorded PC pyautogui actions, click coordinates for grounding
+- Evaluation: Region-level privacy labels (risk level, category, task essentiality, boxes) support recognition scoring; planning is compared before and after protection methods (black mask, mosaic, random blocks, LLM text replacement); grounding follows a ScreenSpot-style click check. The card does not ship a scorer; it points to an anonymized toolkit.
+- Focus: privacy-risk recognition in GUI agent screenshots, agent planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
+- Observations: recorded trajectory screenshots, task goals, plan and progress text
+- Setting: offline
 
 ### Count observations
 

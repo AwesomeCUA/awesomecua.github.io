@@ -12,10 +12,6 @@ Reference architecture for cryptographically verifiable user authority on conseq
 - Evidence checked: 2026-11-04T17:30:44Z
 - ID: github:markneville/trusted-webmcp-actions
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-markneville-trusted-webmcp-actions/record.json
 
 ## License declarations

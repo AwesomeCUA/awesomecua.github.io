@@ -12,10 +12,6 @@ libnut-core provides native C/C++ cross-platform mouse, keyboard, and screen hoo
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:nut-tree/libnut-core
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nut-tree-libnut-core/record.json
 
 ## License declarations

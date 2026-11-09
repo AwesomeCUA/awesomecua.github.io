@@ -12,10 +12,6 @@ Lifecycle-safe Cordis plugin suite for orchestrating ProfileFleet, OpenAI Codex,
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:enginefuture/cordis-social
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-enginefuture-cordis-social/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ ScreenPilot is a local computer-use agent designed to run within 8GB of VRAM, co
 - Evidence checked: 2026-11-04T15:03:44Z
 - ID: github:droppinganvil/screenpilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-droppinganvil-screenpilot/record.json
 
 ## License declarations

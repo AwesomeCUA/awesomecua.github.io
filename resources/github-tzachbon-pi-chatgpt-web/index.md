@@ -12,10 +12,6 @@ Uses an authenticated ChatGPT browser session as a model provider inside the Pi 
 - Evidence checked: 2026-11-04T17:20:44Z
 - ID: github:tzachbon/pi-chatgpt-web
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tzachbon-pi-chatgpt-web/record.json
 
 ## License declarations

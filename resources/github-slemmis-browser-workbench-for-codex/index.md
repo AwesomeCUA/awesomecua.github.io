@@ -12,10 +12,6 @@ Playwright-powered browser inspection, visual testing, and interactive debugging
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:slemmis/browser-workbench-for-codex
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-slemmis-browser-workbench-for-codex/record.json
 
 ## License declarations

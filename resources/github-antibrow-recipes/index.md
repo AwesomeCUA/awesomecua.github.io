@@ -12,10 +12,6 @@ Task-level website adapters for the AntiBrow stealth browser returning structure
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:antibrow/recipes
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-antibrow-recipes/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ CaptchaArena provides a live server and fine-grained trajectory dataset across 2
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:x0x0x00/captchaarena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-x0x0x00-captchaarena/record.json
 
 ## License declarations

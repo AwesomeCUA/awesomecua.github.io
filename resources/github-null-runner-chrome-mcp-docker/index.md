@@ -12,10 +12,6 @@ Dockerized Chrome DevTools MCP server with persistent browser profiles and conta
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:null-runner/chrome-mcp-docker
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-null-runner-chrome-mcp-docker/record.json
 
 ## License declarations

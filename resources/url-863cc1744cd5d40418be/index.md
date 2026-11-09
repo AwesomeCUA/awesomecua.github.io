@@ -20,11 +20,11 @@ The card describes showdown-clicks as part of General Agents' showdown suite and
 
 ## Structured profile
 
-- actions: single left-click coordinate
-- evaluation: A prediction counts as correct when the predicted click point falls inside the annotated bounding box of viable click locations; the card reports accuracy with bootstrapped 95% confidence intervals and latency.
-- focus: instruction-conditioned click grounding, low-level desktop control
-- observations: macOS screenshots
-- setting: offline
+- Actions / outputs: single left-click coordinate
+- Evaluation: A prediction counts as correct when the predicted click point falls inside the annotated bounding box of viable click locations; the card reports accuracy with bootstrapped 95% confidence intervals and latency.
+- Focus: instruction-conditioned click grounding, low-level desktop control
+- Observations: macOS screenshots
+- Setting: offline
 
 ### Count observations
 

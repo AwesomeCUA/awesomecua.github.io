@@ -12,10 +12,6 @@ Drives live web applications over CDP through a closed-loop visual look-decide-a
 - Evidence checked: 2026-11-04T17:55:24Z
 - ID: github:ivanposel/look-decide-act
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ivanposel-look-decide-act/record.json
 
 ## License declarations

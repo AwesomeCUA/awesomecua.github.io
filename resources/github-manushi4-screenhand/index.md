@@ -12,10 +12,6 @@ Open-source desktop automation MCP server that drives native macOS and Windows U
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:manushi4/screenhand
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-manushi4-screenhand/record.json
 
 ## License declarations

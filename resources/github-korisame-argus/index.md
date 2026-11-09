@@ -12,10 +12,6 @@ Claude Code MCP plugin providing 40 macOS automation tools with a unified Access
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:korisame/argus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-korisame-argus/record.json
 
 ## License declarations

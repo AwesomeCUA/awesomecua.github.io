@@ -22,10 +22,6 @@ Browser automation library used as an execution layer by agents.
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:microsoft/playwright
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-playwright/record.json
 
 ### License declarations
@@ -55,10 +51,6 @@ Cross-platform Python module for scripted mouse and keyboard control, message bo
 - Topics: automation
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:asweigart/pyautogui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-asweigart-pyautogui/record.json
 
@@ -125,10 +117,6 @@ Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driv
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:e2b-dev/desktop
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-e2b-dev-desktop/record.json
 
 ### License declarations
@@ -158,10 +146,6 @@ Open-source browser API managing Chrome sessions for agents, reachable through P
 - Topics: sandbox, web-navigation
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:steel-dev/steel-browser
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-steel-dev-steel-browser/record.json
 
@@ -260,10 +244,6 @@ Desktop automation library for keyboard, mouse, and screen interaction.
 - Topics: automation
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:nut-tree/nut.js
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-nut-tree-nut-js/record.json
 
@@ -529,10 +509,6 @@ Sandbox environments supporting computer and browser interaction.
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:agent-infra/sandbox
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agent-infra-sandbox/record.json
 
 ### License declarations
@@ -562,10 +538,6 @@ Desktop environments that AI agents control programmatically, run locally with D
 - Topics: sandbox
 - Evidence checked: 2026-10-16T06:40:53Z
 - ID: github:agentsea/agentdesk
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-agentsea-agentdesk/record.json
 
@@ -629,10 +601,6 @@ Open-source WebDriver-based automation server for mobile, desktop and IoT apps, 
 - Topics: automation
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:appium/appium
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-appium-appium/record.json
 
@@ -763,10 +731,6 @@ Official Browser Use harness for provisioning and driving isolated macOS virtual
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:browser-use/macos-harness
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-use-macos-harness/record.json
 
 ### License declarations
@@ -830,10 +794,6 @@ Dockur Windows runs full Windows desktop environments inside Docker/KVM containe
 - Evidence checked: 2026-11-04T13:12:15Z
 - ID: github:dockur/windows
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dockur-windows/record.json
 
 ### License declarations
@@ -862,10 +822,6 @@ Remote Chromium workstation for AI agents and human operators exposed over Model
 - Topics: sandbox, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:sh7vansh/gloria
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sh7vansh-gloria/record.json
 
@@ -1429,10 +1385,6 @@ Aegis is an off-screen, capability-dropped Docker browser and desktop sandbox fo
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:arihantdeva/aegis
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arihantdeva-aegis/record.json
 
 ### License declarations
@@ -1462,10 +1414,6 @@ Gives AI computer-use agents a dedicated macOS user account and isolated desktop
 - Topics: sandbox, human-in-the-loop, automation
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:dianavocado181/agent-desktop
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dianavocado181-agent-desktop/record.json
 
@@ -1596,10 +1544,6 @@ AriaOS provisions a dedicated virtual machine desktop where computer-use agents 
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:jeremie225ci/ariaos
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jeremie225ci-ariaos/record.json
 
 ### License declarations
@@ -1628,10 +1572,6 @@ Boxcar provisions disposable Windows 11 and Ubuntu desktop virtual-machine sandb
 - Topics: sandbox, automation
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:status-labs/boxcar
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-status-labs-boxcar/record.json
 
@@ -1695,10 +1635,6 @@ browser-gateway is an open control plane and router across cloud browser provide
 - Topics: web-navigation, sandbox, tool-integration
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:browser-gateway/browser-gateway
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-browser-gateway-browser-gateway/record.json
 
@@ -1770,10 +1706,6 @@ Reference control plane for scaling remote Chromium browsers with a Postgres-bac
 - Evidence checked: 2026-11-04T18:11:34Z
 - ID: github:mathisarends/browserplane
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mathisarends-browserplane/record.json
 
 ### License declarations
@@ -1802,10 +1734,6 @@ Self-hosted fleet orchestrator provisioning sandboxed Linux desktop containers f
 - Topics: sandbox, workflow, automation
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:bryantvanorden/openagentfleet
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-bryantvanorden-openagentfleet/record.json
 
@@ -1837,10 +1765,6 @@ Celesto provisions secure, persistent virtual desktop computers and browser sand
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:celestoai/celesto
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-celestoai-celesto/record.json
 
 ### License declarations
@@ -1870,10 +1794,6 @@ ClawBox runs OpenClaw and computer-use agents inside an isolated Apple Virtualiz
 - Topics: sandbox, safety-security
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:coderkk1992/clawbox
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-coderkk1992-clawbox/record.json
 
@@ -1905,10 +1825,6 @@ Provides a gVisor-isolated Linux desktop and Chromium container with persistent 
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:r33drichards/computer-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-r33drichards-computer-use/record.json
 
 ### License declarations
@@ -1938,10 +1854,6 @@ Provisions disposable, headless macOS virtual machines so computer-use agents ca
 - Topics: sandbox, automation
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:zimengxiong/computer-use-vm
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/record.json
 
@@ -1973,10 +1885,6 @@ Cyberdesk is an open-source virtual desktop orchestration platform and SDK for p
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:cyberdesk-hq/cyberdesk
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cyberdesk-hq-cyberdesk/record.json
 
 ### License declarations
@@ -2006,10 +1914,6 @@ Deck is an open-source desktop cockpit for managing isolated local AI agent sand
 - Topics: sandbox, workflow, observability
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:cofy-x/deck
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-cofy-x-deck/record.json
 
@@ -2041,10 +1945,6 @@ Self-hosted fleet manager for provisioning and dispatching natural-language task
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:ahmedvnabil/deskswarm
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ahmedvnabil-deskswarm/record.json
 
 ### License declarations
@@ -2074,10 +1974,6 @@ Open-source Android device fleet management and orchestration platform for mobil
 - Topics: sandbox, mobile-navigation, automation
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:c00l-k1d/droidfleet
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-c00l-k1d-droidfleet/record.json
 
@@ -2109,10 +2005,6 @@ EdgeBox provisions isolated local Linux desktop virtual machines with WebRTC str
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:bigppwong/edgebox
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bigppwong-edgebox/record.json
 
 ### License declarations
@@ -2143,10 +2035,6 @@ GhostDesk is an MCP server and sandboxed virtual desktop runtime that gives LLM 
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:yv17labs/ghostdesk
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yv17labs-ghostdesk/record.json
 
 ### License declarations
@@ -2175,10 +2063,6 @@ Containerized headless Chromium environment with native Model Context Protocol i
 - Topics: sandbox, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:sh7vansh/gloria-headless
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sh7vansh-gloria-headless/record.json
 
@@ -2244,10 +2128,6 @@ On-demand pool manager providing isolated headless browser sessions for concurre
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:vadym-iefremov/harborage
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vadym-iefremov-harborage/record.json
 
 ### License declarations
@@ -2277,10 +2157,6 @@ HeroDesktop is an open-source virtual desktop sandbox for running and observing 
 - Topics: sandbox, automation
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:deathlegionteamlk/herodesktop
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-deathlegionteamlk-herodesktop/record.json
 
@@ -2343,10 +2219,6 @@ Container images for coding and computer-use desktop agents compatible with Dock
 - Topics: sandbox, automation
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:latere-ai/sandbox-images
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-latere-ai-sandbox-images/record.json
 
@@ -2412,10 +2284,6 @@ AndroidEnv-based platform for building GUI agent benchmarks and training agents,
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:x-lance/mobile-env
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-x-lance-mobile-env/record.json
 
 ### License declarations
@@ -2445,10 +2313,6 @@ Provides daemon-first computer-use primitives for provisioning and controlling G
 - Topics: sandbox, automation, tool-integration
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:ashtonchew/modal-computer-use
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ashtonchew-modal-computer-use/record.json
 
@@ -2480,10 +2344,6 @@ Nehemiah provisions on-demand Linux Firecracker microVMs equipped with a browser
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:boringcomputers/nehemiah
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-boringcomputers-nehemiah/record.json
 
 ### License declarations
@@ -2513,10 +2373,6 @@ Neo Lab is a macOS computer-use sandbox for recording demonstrations, replaying 
 - Topics: sandbox, recording, imitation-learning
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:belarusian/neo-lab
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-belarusian-neo-lab/record.json
 
@@ -2660,10 +2516,6 @@ qdesk is an open-source AI agent desktop sandbox providing an isolated Linux and
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:jackwangfeng/qdesk
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jackwangfeng-qdesk/record.json
 
 ### License declarations
@@ -2693,10 +2545,6 @@ Provisions isolated local virtual computers so AI agents can operate a private d
 - Topics: sandbox, automation, tool-integration
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:eldanring/qubicl
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-eldanring-qubicl/record.json
 
@@ -2728,10 +2576,6 @@ QuickDesk is an AI-native remote desktop client and host with a built-in MCP ser
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:barry-ran/quickdesk
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-barry-ran-quickdesk/record.json
 
 ### License declarations
@@ -2761,10 +2605,6 @@ Browser-streamed Docker Linux desktop shared between humans and AI agents with a
 - Topics: sandbox, human-in-the-loop, tool-integration
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:jahrulnr/virtual-desktop
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/record.json
 
@@ -2796,10 +2636,6 @@ Isolates macOS computer-use agents inside a separate login session while renderi
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:kageroumado/rocuronium
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kageroumado-rocuronium/record.json
 
 ### License declarations
@@ -2829,10 +2665,6 @@ Sandbar provisions isolated cloud Ubuntu desktop virtual machines equipped with 
 - Topics: sandbox, automation
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:jdrolls/sandbar-public
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-jdrolls-sandbar-public/record.json
 
@@ -2864,10 +2696,6 @@ Sandbox0 is an open-source cloud sandbox platform with persistent storage volume
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:sandbox0-ai/sandbox0
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sandbox0-ai-sandbox0/record.json
 
 ### License declarations
@@ -2897,10 +2725,6 @@ Collaborative Linux desktop streamed to the browser where humans and AI agents s
 - Topics: sandbox, human-in-the-loop, automation
 - Evidence checked: 2026-11-04T17:30:34Z
 - ID: github:sentineldesk/desktop
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sentineldesk-desktop/record.json
 
@@ -2932,10 +2756,6 @@ Gives AI computer-use agents dedicated virtual macOS displays so they operate re
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:parthjadhav/spaceo
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-parthjadhav-spaceo/record.json
 
 ### License declarations
@@ -2966,10 +2786,6 @@ Run-isolated browser orchestration service that converts webpages into semantic 
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:tailorec/tailorec-browser-orch
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tailorec-tailorec-browser-orch/record.json
 
 ### License declarations
@@ -2998,10 +2814,6 @@ Self-hosted platform provisioning dedicated virtual computers with browsers and 
 - Topics: sandbox, workflow, automation
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:ezocomp118-source/twiko
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ezocomp118-source-twiko/record.json
 
@@ -3032,10 +2844,6 @@ Open-source cloud and local sandbox platform for running Claude Code, Codex, or 
 - Topics: sandbox, workflow, tool-integration, automation
 - Evidence checked: 2026-11-04T17:55:14Z
 - ID: github:useagenthq/useagent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-useagenthq-useagent/record.json
 

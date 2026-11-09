@@ -12,19 +12,15 @@ Human demonstrations and tasks for generalist web navigation research.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:osu-nlp-group/mind2web
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-mind2web/record.json
 
 ## Structured profile
 
-- actions: CLICK, TYPE, SELECT
-- evaluation: Offline candidate and action evaluation against recorded demonstrations; the repository distinguishes macro from micro averaging.
-- focus: web action prediction, generalization to unseen sites and domains
-- observations: task instructions, HTML, recorded action history
-- setting: offline
+- Actions / outputs: CLICK, TYPE, SELECT
+- Evaluation: Offline candidate and action evaluation against recorded demonstrations; the repository distinguishes macro from micro averaging.
+- Focus: web action prediction, generalization to unseen sites and domains
+- Observations: task instructions, HTML, recorded action history
+- Setting: offline
 
 ### Count observations
 

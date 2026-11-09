@@ -12,19 +12,15 @@ Measures hallucination in UI-element parsing by matching the boxes and descripti
 - Evidence checked: 2026-10-16T06:40:51Z
 - ID: github:ant-research/guihallubench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ant-research-guihallubench/record.json
 
 ## Structured profile
 
-- actions: list of UI element boxes [x1,y1,x2,y2] and text descriptions
-- evaluation: Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage.
-- focus: GUI page-element detection, element-description consistency
-- observations: page screenshot
-- setting: offline
+- Actions / outputs: list of UI element boxes [x1,y1,x2,y2] and text descriptions
+- Evaluation: Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage.
+- Focus: GUI page-element detection, element-description consistency
+- Observations: page screenshot
+- Setting: offline
 
 ### Count observations
 

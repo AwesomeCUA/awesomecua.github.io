@@ -12,10 +12,6 @@ Native, 100% offline Windows desktop voice and GUI automation assistant.
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:blazecodeprakhar/kiko-windows-voice-assistant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Deterministic behavioral contract auditing suite for verifying side effects of W
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:tommytranx/effectprint
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tommytranx-effectprint/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Single-file zero-cost autonomous web browsing skill for Claude Code.
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:vb-tyagi/op-browse-the-web-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vb-tyagi-op-browse-the-web-skill/record.json
 
 ## License declarations

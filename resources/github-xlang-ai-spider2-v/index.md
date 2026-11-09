@@ -12,19 +12,15 @@ Visual agent evaluation on data-science and engineering workflows.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:xlang-ai/spider2-v
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-spider2-v/record.json
 
 ## Structured profile
 
-- actions: PyAutoGUI mouse and keyboard actions
-- evaluation: Task-specific evaluation functions are invoked after agent execution.
-- focus: data-science workflows, multi-application task completion
-- observations: screenshots, accessibility trees, set-of-marks views
-- setting: interactive
+- Actions / outputs: PyAutoGUI mouse and keyboard actions
+- Evaluation: Task-specific evaluation functions are invoked after agent execution.
+- Focus: data-science workflows, multi-application task completion
+- Observations: screenshots, accessibility trees, set-of-marks views
+- Setting: interactive
 
 ### Count observations
 

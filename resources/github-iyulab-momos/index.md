@@ -12,10 +12,6 @@ Autonomous UI inspection agent that interacts with live applications to uncover 
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:iyulab/momos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-iyulab-momos/record.json
 
 ## License declarations

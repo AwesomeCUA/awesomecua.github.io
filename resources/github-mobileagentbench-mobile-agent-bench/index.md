@@ -12,10 +12,6 @@ Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mob
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:mobileagentbench/mobile-agent-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mobileagentbench-mobile-agent-bench/record.json
 
 ## License declarations

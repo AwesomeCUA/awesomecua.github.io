@@ -12,10 +12,6 @@ Modular Python ReAct agent framework with a 235-line core loop and 31 opt-in san
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:musokean/forge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-musokean-forge/record.json
 
 ## License declarations

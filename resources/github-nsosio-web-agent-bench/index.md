@@ -12,10 +12,6 @@ web-agent-bench compares browser-automation harnesses (Playwright MCP, agent-bro
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:nsosio/web-agent-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nsosio-web-agent-bench/record.json
 
 ## License declarations

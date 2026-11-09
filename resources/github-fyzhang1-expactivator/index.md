@@ -12,10 +12,6 @@ ExpActivator selectively retrieves and verifies applicable historical interactio
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:fyzhang1/expactivator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fyzhang1-expactivator/record.json
 
 ## License declarations

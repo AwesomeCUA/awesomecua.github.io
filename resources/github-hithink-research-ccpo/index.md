@@ -12,10 +12,6 @@ Compress2Focus (CCPO) implements coordinate compression for multi-turn policy op
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:hithink-research/ccpo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hithink-research-ccpo/record.json
 
 ## License declarations

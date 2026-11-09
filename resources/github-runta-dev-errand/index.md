@@ -12,10 +12,6 @@ Open-source persistent desktop AI teammate with scheduled tasks, browser control
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:runta-dev/errand
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-runta-dev-errand/record.json
 
 ## License declarations

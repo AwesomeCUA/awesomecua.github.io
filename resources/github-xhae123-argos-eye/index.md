@@ -12,10 +12,6 @@ argos-eye is a visual grounding skill and tool for Claude Code that resolves nat
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:xhae123/argos-eye
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xhae123-argos-eye/record.json
 
 ## License declarations

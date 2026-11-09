@@ -12,10 +12,6 @@ Self-healing web extraction and browser automation framework for .NET.
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:lethe044/harvestnet
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lethe044-harvestnet/record.json
 
 ## License declarations

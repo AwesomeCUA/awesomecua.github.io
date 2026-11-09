@@ -12,10 +12,6 @@ Apple Events-powered Safari 26 browser automation skill for Codex, Claude Code, 
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:citrolabs/safari-browser-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-citrolabs-safari-browser-use/record.json
 
 ## License declarations

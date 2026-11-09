@@ -12,10 +12,6 @@ Low-overhead Cua Driver computer-use integration for the Oh My Pi coding agent.
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:wolfiesch/omp-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wolfiesch-omp-cua/record.json
 
 ## License declarations

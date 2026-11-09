@@ -12,10 +12,6 @@ Agentic browser harness providing an AI side panel and interactive control orb i
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:imshaikot/browsentic
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-imshaikot-browsentic/record.json
 
 ## License declarations

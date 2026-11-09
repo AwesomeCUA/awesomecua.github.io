@@ -12,10 +12,6 @@ Chrome Manifest V3 extension that converts any live webpage into structured JSON
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:godzilaa/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-godzilaa-browser-agent/record.json
 
 ## License declarations

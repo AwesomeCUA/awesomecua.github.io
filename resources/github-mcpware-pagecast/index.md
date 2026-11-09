@@ -12,10 +12,6 @@ Playwright and FFmpeg Model Context Protocol server that records browser agent i
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:mcpware/pagecast
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mcpware-pagecast/record.json
 
 ## License declarations

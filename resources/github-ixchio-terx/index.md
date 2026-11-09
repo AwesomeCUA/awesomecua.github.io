@@ -12,10 +12,6 @@ Browser-agent procedural memory and MCP server that compiles repeated web workfl
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:ixchio/terx
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ixchio-terx/record.json
 
 ## License declarations

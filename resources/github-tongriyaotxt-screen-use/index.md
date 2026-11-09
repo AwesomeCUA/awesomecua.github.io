@@ -12,10 +12,6 @@ Browser-Use-style framework for the entire desktop that gives AI agents visual s
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:tongriyaotxt/screen-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tongriyaotxt-screen-use/record.json
 
 ## License declarations

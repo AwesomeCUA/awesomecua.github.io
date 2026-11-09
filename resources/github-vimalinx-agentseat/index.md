@@ -12,10 +12,6 @@ Lightweight Wayland scaffold isolating an AI agent to operate a single GUI appli
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:vimalinx/agentseat
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vimalinx-agentseat/record.json
 
 ## License declarations

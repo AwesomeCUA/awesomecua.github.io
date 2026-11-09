@@ -12,10 +12,6 @@ CLI-Anything automatically wraps professional desktop GUI applications such as G
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:hkuds/cli-anything
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hkuds-cli-anything/record.json
 
 ## License declarations

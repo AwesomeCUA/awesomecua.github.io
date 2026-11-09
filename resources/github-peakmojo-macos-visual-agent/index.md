@@ -12,10 +12,6 @@ macOS Visual Agent inspects native Apple Accessibility trees, detects UI element
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:peakmojo/macos-visual-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-peakmojo-macos-visual-agent/record.json
 
 ## License declarations

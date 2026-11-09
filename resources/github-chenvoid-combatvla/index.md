@@ -12,10 +12,6 @@ CombatVLA is a vision-language-action model and action tracker for real-time com
 - Evidence checked: 2026-11-04T13:12:10Z
 - ID: github:chenvoid/combatvla
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chenvoid-combatvla/record.json
 
 ## License declarations

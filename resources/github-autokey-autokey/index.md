@@ -12,10 +12,6 @@ AutoKey is a Python-scriptable desktop automation and keyboard/mouse macro utili
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:autokey/autokey
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-autokey-autokey/record.json
 
 ## License declarations

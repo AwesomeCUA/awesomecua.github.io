@@ -12,10 +12,6 @@ Local browser automation agent powered by Microsoft's Fara-7B computer-use model
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:pmbstyle/fara-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pmbstyle-fara-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ PageRunner is a browser-agent orchestration platform with bounded execution loop
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:say-5/pagerunner
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-say-5-pagerunner/record.json
 
 ## License declarations

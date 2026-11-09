@@ -12,10 +12,6 @@ Evaluation scripts and linked data for comparing GUI action predictions and task
 - Evidence checked: 2026-10-16T10:43:11Z
 - ID: github:chessbean1/gui-robust
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chessbean1-gui-robust/record.json
 
 ## License declarations

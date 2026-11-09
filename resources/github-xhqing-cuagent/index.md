@@ -12,10 +12,6 @@ cuAgent is a desktop computer-use agent that operates GUI applications through t
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:xhqing/cuagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xhqing-cuagent/record.json
 
 ## License declarations

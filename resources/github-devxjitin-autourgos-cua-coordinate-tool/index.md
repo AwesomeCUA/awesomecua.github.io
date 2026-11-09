@@ -12,10 +12,6 @@ Vision-based UI coordinate localization tool for Autourgos computer-use agents.
 - Evidence checked: 2026-11-04T18:11:30Z
 - ID: github:devxjitin/autourgos-cua-coordinate-tool
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-devxjitin-autourgos-cua-coordinate-tool/record.json
 
 ## License declarations

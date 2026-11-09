@@ -12,10 +12,6 @@ Local-first, extension-first multi-agent coding and computer-use workbench.
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:testplay-byte/acute-code
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-testplay-byte-acute-code/record.json
 
 ## License declarations

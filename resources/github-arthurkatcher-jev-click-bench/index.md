@@ -12,10 +12,6 @@ jev-click-bench evaluates Jev 1.14 bounding-box grounding on ScreenSpot-v2 and S
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:arthurkatcher/jev-click-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/record.json
 
 ## License declarations

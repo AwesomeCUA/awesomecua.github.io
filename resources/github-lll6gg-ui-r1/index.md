@@ -12,10 +12,6 @@ Rule-based reinforcement learning for GUI action prediction, releasing UI-R1-3B,
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:lll6gg/ui-r1
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lll6gg-ui-r1/record.json
 
 ## License declarations

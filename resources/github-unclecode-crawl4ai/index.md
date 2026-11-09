@@ -12,10 +12,6 @@ Crawl4AI is an open-source browser automation and web crawling toolkit that conv
 - Evidence checked: 2026-11-04T13:12:42Z
 - ID: github:unclecode/crawl4ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-unclecode-crawl4ai/record.json
 
 ## License declarations

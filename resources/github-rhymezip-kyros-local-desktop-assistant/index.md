@@ -12,10 +12,6 @@ Private, voice-first local Linux desktop assistant for hands-free application an
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:rhymezip/kyros-local-desktop-assistant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rhymezip-kyros-local-desktop-assistant/record.json
 
 ## License declarations

@@ -12,19 +12,15 @@ Visually grounded web tasks extending the WebArena evaluation setting.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:web-arena-x/visualwebarena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-web-arena-x-visualwebarena/record.json
 
 ## Structured profile
 
-- actions: browser element actions
-- evaluation: Execution-based completion checks for visually grounded web tasks.
-- focus: multimodal web task completion
-- observations: screenshots with set-of-mark annotations, caption-augmented accessibility tree
-- setting: interactive
+- Actions / outputs: browser element actions
+- Evaluation: Execution-based completion checks for visually grounded web tasks.
+- Focus: multimodal web task completion
+- Observations: screenshots with set-of-mark annotations, caption-augmented accessibility tree
+- Setting: interactive
 
 ### Count observations
 

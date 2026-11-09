@@ -12,10 +12,6 @@ Vision Primitives MCP equips text-only LLMs with 30 visual MCP tools for screen 
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:zouyuanqing/vision-primitives-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zouyuanqing-vision-primitives-mcp/record.json
 
 ## License declarations

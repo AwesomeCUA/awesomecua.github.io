@@ -12,10 +12,6 @@ Offline Python desktop automation system combining voice commands with computer-
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:muhammad-touseef-akhtar/voice-vision-system-controller
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-muhammad-touseef-akhtar-voice-vision-system-controller/record.json
 
 ## License declarations

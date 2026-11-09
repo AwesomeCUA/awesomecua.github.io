@@ -12,10 +12,6 @@ In-page AI assistant SDK that mounts a chat widget and lets LLMs safely read and
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:whyymj/page-agent-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-whyymj-page-agent-sdk/record.json
 
 ## License declarations

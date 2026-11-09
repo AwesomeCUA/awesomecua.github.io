@@ -12,10 +12,6 @@ CLI, MCP server, and npm library that observes live browser traffic to turn webs
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:n1byn1kt/apitap
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-n1byn1kt-apitap/record.json
 
 ## License declarations

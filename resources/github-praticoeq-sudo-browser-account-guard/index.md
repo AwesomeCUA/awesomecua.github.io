@@ -12,10 +12,6 @@ Pair of Claude skills for protecting account credentials and stabilizing flaky U
 - Evidence checked: 2026-11-04T17:55:10Z
 - ID: github:praticoeq-sudo/browser-account-guard
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-praticoeq-sudo-browser-account-guard/record.json
 
 ## License declarations

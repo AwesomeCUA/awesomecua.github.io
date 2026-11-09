@@ -12,10 +12,6 @@ Browser extension multi-agent orchestrator that coordinates specialized web agen
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:zero06six/mailman-agents
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zero06six-mailman-agents/record.json
 
 ## License declarations

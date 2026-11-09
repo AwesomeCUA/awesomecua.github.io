@@ -12,10 +12,6 @@ Upsonic (formerly GPT Computer Assistant) is a Python agent framework with MCP s
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:onuratakan/gpt-computer-assistant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-onuratakan-gpt-computer-assistant/record.json
 
 ## License declarations

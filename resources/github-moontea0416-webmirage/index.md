@@ -12,10 +12,6 @@ WebMirage is an adversarial red-teaming framework that crafts visual perturbatio
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:moontea0416/webmirage
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-moontea0416-webmirage/record.json
 
 ## License declarations

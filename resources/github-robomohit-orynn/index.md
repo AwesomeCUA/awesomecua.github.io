@@ -12,10 +12,6 @@ Orynn is a Windows desktop agent that controls native applications by UI Automat
 - Evidence checked: 2026-11-04T16:10:28Z
 - ID: github:robomohit/orynn
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-robomohit-orynn/record.json
 
 ## License declarations

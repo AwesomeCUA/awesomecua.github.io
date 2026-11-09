@@ -12,10 +12,6 @@ Browser-use framework where the model proposes a single action from a closed voc
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:vinimabreu/web-pilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vinimabreu-web-pilot/record.json
 
 ## License declarations

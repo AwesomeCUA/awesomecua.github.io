@@ -12,10 +12,6 @@ Code Sandbox MCP is a Model Context Protocol server that provisions isolated Doc
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:automata-labs-team/code-sandbox-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-automata-labs-team-code-sandbox-mcp/record.json
 
 ## License declarations

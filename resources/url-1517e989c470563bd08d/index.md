@@ -20,10 +20,10 @@ The WebLINX repository README calls this the official dataset page and its libra
 
 ## Structured profile
 
-- formats: gzip-compressed JSON Lines, CSV, JSON
-- modalities: dialogue utterances, cleaned HTML, candidate element descriptions, action history, viewport size
-- splits: train, valid, test_iid, test_geo, test_vis, test_cat, test_web
-- supervision: next action per navigator turn, conversational instructions and responses
+- Formats: gzip-compressed JSON Lines, CSV, JSON
+- Modalities: dialogue utterances, cleaned HTML, candidate element descriptions, action history, viewport size
+- Splits: train, valid, test_iid, test_geo, test_vis, test_cat, test_web
+- Supervision: next action per navigator turn, conversational instructions and responses
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Playwright-based vision browser agent featuring loop detection, DOM-plus-screens
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:therealfullmetal55555/browser-use-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-therealfullmetal55555-browser-use-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Unbrowse captures browser network traffic to reverse-engineer internal website A
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:unbrowse-ai/unbrowse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-unbrowse-ai-unbrowse/record.json
 
 ## License declarations

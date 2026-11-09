@@ -12,10 +12,6 @@ Formalizes GUI tasks as Markov decision processes and traces agent training from
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2504.20464
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-20464/record.json
 
 ## Authors

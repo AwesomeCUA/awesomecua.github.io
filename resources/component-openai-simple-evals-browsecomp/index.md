@@ -20,11 +20,11 @@ This record covers the BrowseComp reference implementation and question set that
 
 ## Structured profile
 
-- actions: not recorded
-- evaluation: A grader model extracts the final answer from the response and judges it correct or incorrect against the decrypted reference answer; accuracy is the share judged correct. The reference implementation sends each question to any sampler and does not prescribe browsing tools or an action space.
-- focus: open-web information seeking, persistent multi-site search
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: not recorded
+- Evaluation: A grader model extracts the final answer from the response and judges it correct or incorrect against the decrypted reference answer; accuracy is the share judged correct. The reference implementation sends each question to any sampler and does not prescribe browsing tools or an action space.
+- Focus: open-web information seeking, persistent multi-site search
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

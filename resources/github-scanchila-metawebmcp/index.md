@@ -12,10 +12,6 @@ In-browser workbench to author, test, and export structured WebMCP tool definiti
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:scanchila/metawebmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-scanchila-metawebmcp/record.json
 
 ## License declarations

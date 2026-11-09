@@ -12,10 +12,6 @@ GPT-4V-Act combines Chromium DOM auto-labeling and Set-of-Mark visual prompting 
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:ddupont808/gpt-4v-act
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ddupont808-gpt-4v-act/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ ESP32 iPhone Agent controls unmodified iPhones via Bluetooth HID mouse/keyboard 
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:onehumanbeing/esp32-iphone-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-onehumanbeing-esp32-iphone-agent/record.json
 
 ## License declarations

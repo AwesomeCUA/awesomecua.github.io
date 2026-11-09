@@ -12,10 +12,6 @@ Portable Codex skill for provisioning, snapshotting, and controlling Parallels D
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:wieslawsoltes/parallelsskill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wieslawsoltes-parallelsskill/record.json
 
 ## License declarations

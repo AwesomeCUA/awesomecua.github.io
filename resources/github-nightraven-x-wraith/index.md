@@ -12,10 +12,6 @@ Windows system-tray utility that blocks physical keyboard and mouse interference
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:nightraven-x/wraith
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nightraven-x-wraith/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Human escalation and live-session handoff layer for Solari browser agents when e
 - Evidence checked: 2026-11-04T17:55:24Z
 - ID: github:sy-d/handraise
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sy-d-handraise/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ The Hub API at revision b089ea88 lists two ZIP archives (about 6.25 GB and 14.4 
 
 ## Structured profile
 
-- formats: ZIP archives, JSONL, JPEG
-- modalities: screenshots, task instructions, previous actions, target operations, candidate elements with bounding boxes
-- splits: train, test_task, test_website, test_domain
-- supervision: next-action prediction on Mind2Web steps, candidate-element bounding boxes
+- Formats: ZIP archives, JSONL, JPEG
+- Modalities: screenshots, task instructions, previous actions, target operations, candidate elements with bounding boxes
+- Splits: train, test_task, test_website, test_domain
+- Supervision: next-action prediction on Mind2Web steps, candidate-element bounding boxes
 
 ### Count observations
 

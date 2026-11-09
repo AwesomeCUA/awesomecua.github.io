@@ -12,10 +12,6 @@ Anti-detection real-browser automation Model Context Protocol server for AI agen
 - Evidence checked: 2026-11-04T17:30:34Z
 - ID: github:momadhuynh04/probrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-momadhuynh04-probrowser/record.json
 
 ## License declarations

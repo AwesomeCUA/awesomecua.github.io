@@ -35,13 +35,13 @@ Xinyi Liu, Xiaoyi Zhang, Ziyun Zhang, Yan Lu
 - Publication source: https://aclanthology.org/2025.findings-acl.809/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2504-11257/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2504-11257/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 15668-15684
-- doi: 10.18653/v1/2025.findings-acl.809
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 15668-15684
+- DOI: 10.18653/v1/2025.findings-acl.809
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.809/
 
 ## Recorded arXiv snapshot

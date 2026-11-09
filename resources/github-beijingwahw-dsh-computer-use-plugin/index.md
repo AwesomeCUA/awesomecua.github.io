@@ -12,10 +12,6 @@ Full-featured desktop computer-use plugin for DeepSeek Harness supporting multi-
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:beijingwahw/dsh-computer-use-plugin
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-beijingwahw-dsh-computer-use-plugin/record.json
 
 ## License declarations

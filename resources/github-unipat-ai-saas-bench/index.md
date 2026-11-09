@@ -12,10 +12,6 @@
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:unipat-ai/saas-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-unipat-ai-saas-bench/record.json
 
 ## License declarations

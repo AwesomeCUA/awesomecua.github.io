@@ -12,10 +12,6 @@ HealthEnv compiles longitudinal clinical question-answering tasks into stateful,
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:possibleme2026-lang/healthenv
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/record.json
 
 ## License declarations

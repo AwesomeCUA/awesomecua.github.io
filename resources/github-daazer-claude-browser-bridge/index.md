@@ -12,10 +12,6 @@ Local bridge allowing coding agents to read and drive the user's everyday logged
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:daazer/claude-browser-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-daazer-claude-browser-bridge/record.json
 
 ## License declarations

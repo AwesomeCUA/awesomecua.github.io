@@ -12,10 +12,6 @@ Single-binary zero-extension Rust CLI driving local Chrome for AI-first web sear
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:be90nia/gsearch-rs
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-be90nia-gsearch-rs/record.json
 
 ## License declarations

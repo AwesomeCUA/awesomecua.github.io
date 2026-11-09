@@ -12,10 +12,6 @@ Native Linux desktop control server for AI agents over MCP, Pi tools, and CLI wi
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:agent-sh/computer-use-linux
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agent-sh-computer-use-linux/record.json
 
 ## License declarations

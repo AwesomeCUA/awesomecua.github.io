@@ -20,11 +20,11 @@ The Hub card provides split/format/license metadata, while the official OS-Oracl
 
 ## Structured profile
 
-- actions: critic-model responses
-- evaluation: The official repository runs model inference and computes accuracy with cal_acc.py.
-- focus: GUI critic prediction
-- observations: benchmark JSONL, UI screenshots
-- setting: offline
+- Actions / outputs: critic-model responses
+- Evaluation: The official repository runs model inference and computes accuracy with cal_acc.py.
+- Focus: GUI critic prediction
+- Observations: benchmark JSONL, UI screenshots
+- Setting: offline
 
 ### Count observations
 

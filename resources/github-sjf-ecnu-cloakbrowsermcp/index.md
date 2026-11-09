@@ -12,10 +12,6 @@ Python Model Context Protocol server for controlling CloakBrowser stealth Chromi
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:sjf-ecnu/cloakbrowsermcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sjf-ecnu-cloakbrowsermcp/record.json
 
 ## License declarations

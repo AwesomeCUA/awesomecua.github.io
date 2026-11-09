@@ -12,10 +12,6 @@ uia-agent defines an open-source LLM agent action space that drives legacy Windo
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:supermarioyl/uia-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-supermarioyl-uia-agent/record.json
 
 ## License declarations

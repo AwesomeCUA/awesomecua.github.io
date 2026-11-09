@@ -12,10 +12,6 @@ DART-GUI implements decoupled multi-turn reinforcement learning and adaptive tra
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:computer-use-agents/dart-gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-computer-use-agents-dart-gui/record.json
 
 ## License declarations

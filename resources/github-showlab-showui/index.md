@@ -12,10 +12,6 @@ Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, 
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:showlab/showui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-showui/record.json
 
 ## License declarations

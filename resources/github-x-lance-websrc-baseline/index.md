@@ -12,10 +12,6 @@ WebSRC provides baseline models and processing pipelines for the Web-Based Struc
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:x-lance/websrc-baseline
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-x-lance-websrc-baseline/record.json
 
 ## License declarations

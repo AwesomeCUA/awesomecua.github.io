@@ -12,10 +12,6 @@ WebMCP reference architecture exposing Redux frontend state directly to browser 
 - Evidence checked: 2026-11-04T17:55:16Z
 - ID: github:breeznik/samestate-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-breeznik-samestate-webmcp/record.json
 
 ## License declarations

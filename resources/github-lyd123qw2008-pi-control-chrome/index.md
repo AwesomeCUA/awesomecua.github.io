@@ -12,10 +12,6 @@ Codex-aligned Chrome and Edge browser control extension and bridge for the Pi co
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:lyd123qw2008/pi-control-chrome
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lyd123qw2008-pi-control-chrome/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ C++ Hyprland Wayland compositor plugin and Python D-Bus AT-SPI coordinate-fusion
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:xcaptain09/hermes-hyprland-plugin
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xcaptain09-hermes-hyprland-plugin/record.json
 
 ## License declarations

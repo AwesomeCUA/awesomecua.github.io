@@ -12,10 +12,6 @@ Supervised open-source AI browser agent for Chrome that plans, navigates, clicks
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:marc-ing/navi-flow
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-marc-ing-navi-flow/record.json
 
 ## License declarations

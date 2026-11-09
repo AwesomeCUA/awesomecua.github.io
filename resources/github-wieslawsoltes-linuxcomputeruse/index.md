@@ -12,10 +12,6 @@ Linux desktop and X11/Wayland GUI control skill for OpenAI Codex.
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:wieslawsoltes/linuxcomputeruse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wieslawsoltes-linuxcomputeruse/record.json
 
 ## License declarations

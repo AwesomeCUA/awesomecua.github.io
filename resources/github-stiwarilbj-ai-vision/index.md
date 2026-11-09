@@ -12,10 +12,6 @@ Chrome extension that captures selected webpage regions for Gemini visual analys
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:stiwarilbj/ai_vision
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-stiwarilbj-ai-vision/record.json
 
 ## License declarations

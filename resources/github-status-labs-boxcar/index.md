@@ -12,10 +12,6 @@ Boxcar provisions disposable Windows 11 and Ubuntu desktop virtual-machine sandb
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:status-labs/boxcar
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-status-labs-boxcar/record.json
 
 ## License declarations

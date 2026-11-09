@@ -12,10 +12,6 @@ Clean-room macOS implementation of semantic UI workflow recording and determinis
 - Evidence checked: 2026-11-04T13:12:17Z
 - ID: github:hqhq1025/open-codex-record-and-replay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hqhq1025-open-codex-record-and-replay/record.json
 
 ## License declarations

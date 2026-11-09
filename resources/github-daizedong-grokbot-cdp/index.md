@@ -12,10 +12,6 @@ Python client that drives the cloud browser and virtual machine behind xAI's Gro
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:daizedong/grokbot-cdp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-daizedong-grokbot-cdp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ UIED detects graphical widgets and text blocks in UI screenshots by combining fl
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:mulongxie/uied
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mulongxie-uied/record.json
 
 ## License declarations

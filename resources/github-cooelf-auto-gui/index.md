@@ -12,10 +12,6 @@ Screenshot-based mobile agent implementation with training and inference code fo
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:cooelf/auto-gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cooelf-auto-gui/record.json
 
 ## License declarations

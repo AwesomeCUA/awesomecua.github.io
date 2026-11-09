@@ -12,10 +12,6 @@ GenericAgent is a minimal self-evolving agent framework that synthesizes reusabl
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:lsdefine/genericagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lsdefine-genericagent/record.json
 
 ## License declarations

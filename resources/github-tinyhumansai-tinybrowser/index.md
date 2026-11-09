@@ -12,10 +12,6 @@ Rust-friendly agent browser API and TinyBus module for managing headless and hea
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:tinyhumansai/tinybrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tinyhumansai-tinybrowser/record.json
 
 ## License declarations

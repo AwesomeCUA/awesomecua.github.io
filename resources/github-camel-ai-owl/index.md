@@ -12,10 +12,6 @@ OWL is a multi-agent automation framework built on CAMEL-AI for browser interact
 - Evidence checked: 2026-11-04T13:12:09Z
 - ID: github:camel-ai/owl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-camel-ai-owl/record.json
 
 ## License declarations

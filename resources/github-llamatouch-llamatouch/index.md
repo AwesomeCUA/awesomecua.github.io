@@ -12,19 +12,15 @@ Mobile UI task evaluation using application state information.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:llamatouch/llamatouch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-llamatouch-llamatouch/record.json
 
 ## Structured profile
 
-- actions: device actions through AgentEnv
-- evaluation: Checks whether the recorded execution visits all annotated essential states.
-- focus: mobile task completion, essential-state evaluation
-- observations: screenshots, view hierarchies, Android activity names
-- setting: interactive
+- Actions / outputs: device actions through AgentEnv
+- Evaluation: Checks whether the recorded execution visits all annotated essential states.
+- Focus: mobile task completion, essential-state evaluation
+- Observations: screenshots, view hierarchies, Android activity names
+- Setting: interactive
 
 ### Count observations
 

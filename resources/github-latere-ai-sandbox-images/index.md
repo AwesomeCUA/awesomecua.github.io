@@ -12,10 +12,6 @@ Container images for coding and computer-use desktop agents compatible with Dock
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:latere-ai/sandbox-images
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-latere-ai-sandbox-images/record.json
 
 ## License declarations

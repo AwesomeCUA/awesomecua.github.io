@@ -12,10 +12,6 @@ Python library for detecting persistent visual state changes and UI settlement i
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:abnsapkota001/screenwatch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-abnsapkota001-screenwatch/record.json
 
 ## License declarations

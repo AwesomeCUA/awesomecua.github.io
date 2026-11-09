@@ -12,10 +12,6 @@ Blind-tests web and desktop user interfaces using isolated AI personas that inte
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:ericwong5021/persona-ux-test
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/record.json
 
 ## License declarations

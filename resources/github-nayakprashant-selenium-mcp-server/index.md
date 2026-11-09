@@ -12,10 +12,6 @@ Python Model Context Protocol server exposing Selenium WebDriver browser navigat
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:nayakprashant/selenium-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nayakprashant-selenium-mcp-server/record.json
 
 ## License declarations

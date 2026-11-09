@@ -12,10 +12,6 @@ browser-task-bench is a benchmark suite of 200+ web interaction tasks covering f
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:tradestackdev/browser-task-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tradestackdev-browser-task-bench/record.json
 
 ## License declarations

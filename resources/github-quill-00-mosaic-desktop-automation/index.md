@@ -12,10 +12,6 @@ Local-first Windows dashboard for scheduling, watching, and auditing desktop aut
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:quill-00/mosaic-desktop-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-quill-00-mosaic-desktop-automation/record.json
 
 ## License declarations

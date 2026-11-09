@@ -12,10 +12,6 @@ Ivy Tendril is a desktop orchestrator for running parallel coding agents across 
 - Evidence checked: 2026-11-04T13:12:19Z
 - ID: github:ivy-interactive/ivy-tendril
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ivy-interactive-ivy-tendril/record.json
 
 ## License declarations

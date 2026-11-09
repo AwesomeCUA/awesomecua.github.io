@@ -12,10 +12,6 @@ Uses an LLM to map or record browser automations once and replays them determini
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:shivampatel0714/maponce
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shivampatel0714-maponce/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Patchright-powered Model Context Protocol server enabling AI agents to drive rea
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:pelag-michael/chrome-for-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pelag-michael-chrome-for-ai/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ KNOWS benchmarks web agents on realistic, open-ended Google Workspace tasks span
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:alexgill321/knows-benchmark
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alexgill321-knows-benchmark/record.json
 
 ## License declarations

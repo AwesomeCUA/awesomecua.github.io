@@ -20,10 +20,10 @@ The published CSV contains critique text, normalized boxes, ratings and RICO IDs
 
 ## Structured profile
 
-- formats: CSV
-- modalities: text, bounding boxes, quality ratings
-- splits: not recorded
-- supervision: design critique, region localization, quality rating
+- Formats: CSV
+- Modalities: text, bounding boxes, quality ratings
+- Splits: not recorded
+- Supervision: design critique, region localization, quality rating
 
 ### Count observations
 

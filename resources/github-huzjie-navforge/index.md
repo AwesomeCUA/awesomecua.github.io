@@ -12,10 +12,6 @@ navforge is a self-hosted orchestration framework for coordinating multi-step co
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:huzjie/navforge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-huzjie-navforge/record.json
 
 ## License declarations

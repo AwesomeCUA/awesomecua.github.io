@@ -12,10 +12,6 @@ MCP server and Manifest V3 extension for faithful control of a user's real, logg
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:bpc-oss/chrome-faithful
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bpc-oss-chrome-faithful/record.json
 
 ## License declarations

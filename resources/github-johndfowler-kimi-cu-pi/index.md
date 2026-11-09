@@ -12,10 +12,6 @@ Extension connecting Kimi Computer Use (KimiCU) visual grounding and action capa
 - Evidence checked: 2026-11-04T17:55:13Z
 - ID: github:johndfowler/kimi-cu-pi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-johndfowler-kimi-cu-pi/record.json
 
 ## License declarations

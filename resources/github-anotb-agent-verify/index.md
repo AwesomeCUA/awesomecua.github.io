@@ -12,10 +12,6 @@ CAPTCHA and human-verification solver skill keeping ChatGPT and Codex browser au
 - Evidence checked: 2026-11-04T17:55:15Z
 - ID: github:anotb/agent-verify
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anotb-agent-verify/record.json
 
 ## License declarations

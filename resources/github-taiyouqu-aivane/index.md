@@ -12,10 +12,6 @@ AIVANE is a cross-platform GUI automation assistant that combines YOLO icon dete
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:taiyouqu/aivane
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-taiyouqu-aivane/record.json
 
 ## License declarations

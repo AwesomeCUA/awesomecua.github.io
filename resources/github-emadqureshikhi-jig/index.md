@@ -12,10 +12,6 @@ Two-origin, agent-native design workbench built on WebMCP for collaborative huma
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:emadqureshikhi/jig
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-emadqureshikhi-jig/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Compares four AI browser-control paradigms (Chrome extension, Playwright, Browse
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:ismael-joffroy-chandoutis/browser-agent-comparison
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/record.json
 
 ## License declarations

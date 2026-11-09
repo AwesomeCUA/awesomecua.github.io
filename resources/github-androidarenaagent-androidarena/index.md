@@ -12,19 +12,15 @@ Android environment for evaluating language-model-driven agents.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:androidarenaagent/androidarena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-androidarenaagent-androidarena/record.json
 
 ## Structured profile
 
-- actions: app launch/stop, click/double-click/long-click, text input, swipe/drag and Android navigation, finish
-- evaluation: The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Complete annotated action sequences are pending release; reference-dependent evaluation currently has limited coverage.
-- focus: multi-step Android tasks, cross-app workflows and instruction constraints
-- observations: UI hierarchy text, screenshots, combined text/image observations
-- setting: interactive
+- Actions / outputs: app launch/stop, click/double-click/long-click, text input, swipe/drag and Android navigation, finish
+- Evaluation: The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Complete annotated action sequences are pending release; reference-dependent evaluation currently has limited coverage.
+- Focus: multi-step Android tasks, cross-app workflows and instruction constraints
+- Observations: UI hierarchy text, screenshots, combined text/image observations
+- Setting: interactive
 
 ### Count observations
 

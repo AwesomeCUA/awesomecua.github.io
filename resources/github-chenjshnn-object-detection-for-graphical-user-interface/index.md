@@ -12,10 +12,6 @@ Provides training and evaluation code comparing classical and deep-learning GUI 
 - Evidence checked: 2026-11-04T13:12:10Z
 - ID: github:chenjshnn/object-detection-for-graphical-user-interface
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chenjshnn-object-detection-for-graphical-user-interface/record.json
 
 ## License declarations

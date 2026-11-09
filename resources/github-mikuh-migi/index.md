@@ -12,10 +12,6 @@ migi is a skill-oriented desktop GUI vision automation CLI for LLM agents with m
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:mikuh/migi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mikuh-migi/record.json
 
 ## License declarations

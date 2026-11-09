@@ -12,10 +12,6 @@ Pre-approval review and verification runtime where every agent finding and UI st
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:ebt55/proofpack
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ebt55-proofpack/record.json
 
 ## License declarations

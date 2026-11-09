@@ -12,10 +12,6 @@ Open-source desktop AI companion that observes active windows and assists with e
 - Evidence checked: 2026-11-04T18:11:32Z
 - ID: github:prisacariurobert/sidemates
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-prisacariurobert-sidemates/record.json
 
 ## License declarations

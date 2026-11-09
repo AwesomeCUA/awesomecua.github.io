@@ -12,10 +12,6 @@ Command-line interface for computer-use agents to capture screenshots and dispat
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:eyhn/vnc
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-eyhn-vnc/record.json
 
 ## License declarations

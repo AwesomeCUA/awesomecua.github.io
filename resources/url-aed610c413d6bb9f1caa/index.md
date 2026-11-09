@@ -20,10 +20,10 @@ The dataset card holds only license metadata; the description and scope come fro
 
 ## Structured profile
 
-- formats: JSONL, PNG, plain text
-- modalities: screenshots, action trajectories, task results
-- splits: not recorded
-- supervision: agent-generated trajectories, automated task results
+- Formats: JSONL, PNG, plain text
+- Modalities: screenshots, action trajectories, task results
+- Splits: not recorded
+- Supervision: agent-generated trajectories, automated task results
 
 ### Count observations
 

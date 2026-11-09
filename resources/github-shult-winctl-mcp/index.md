@@ -12,10 +12,6 @@ Local Model Context Protocol server giving AI agents full control over Windows d
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:shult/winctl-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shult-winctl-mcp/record.json
 
 ## License declarations

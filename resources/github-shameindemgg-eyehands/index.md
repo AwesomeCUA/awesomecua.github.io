@@ -12,10 +12,6 @@ Local HTTP server for Windows that provides low-latency UI Automation inspection
 - Evidence checked: 2026-11-04T16:10:28Z
 - ID: github:shameindemgg/eyehands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shameindemgg-eyehands/record.json
 
 ## License declarations

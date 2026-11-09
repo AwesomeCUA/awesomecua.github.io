@@ -12,10 +12,6 @@ dev-browser provides a persistent Playwright browser sandbox and compact ARIA sn
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:sawyerhood/dev-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sawyerhood-dev-browser/record.json
 
 ## License declarations

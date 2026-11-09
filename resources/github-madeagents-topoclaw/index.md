@@ -12,10 +12,6 @@ TopoClaw is a topology-aware multi-agent digital assistant with skill verificati
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:madeagents/topoclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-madeagents-topoclaw/record.json
 
 ## License declarations

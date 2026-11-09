@@ -12,10 +12,6 @@ Local bridge connecting Paseo AI agents to the user's logged-in Chrome browser.
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:papag00se/paseo-chrome-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-papag00se-paseo-chrome-bridge/record.json
 
 ## License declarations

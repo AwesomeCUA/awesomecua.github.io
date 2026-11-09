@@ -12,10 +12,6 @@ Local-first AI workspace bridging ChatGPT to native macOS and Windows desktop to
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:sametbasbug/equinox-local
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sametbasbug-equinox-local/record.json
 
 ## License declarations

@@ -35,12 +35,12 @@ Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
 - Publication source: https://doi.org/10.1145/1622176.1622213
 - Publication BibTeX: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/publication-citation.csl.json
-- venue: Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)
-- pages: 183-192
-- doi: 10.1145/1622176.1622213
-- date basis: Supplied month precision: 2009-10. Date Issued: October 2009
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: Institutional abstract and published-version citation supply the retained evidence; the institution identifies an author final manuscript record. Exact publication day is not supplied. Operating-system-specific experiments are not asserted.
+- Venue: Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)
+- Pages: 183-192
+- DOI: 10.1145/1622176.1622213
+- Date source: Supplied month precision: 2009-10. Date Issued: October 2009
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: Institutional abstract and published-version citation supply the retained evidence; the institution identifies an author final manuscript record. Exact publication day is not supplied. Operating-system-specific experiments are not asserted.
 - Publication evidence: https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a
 
 ## License declarations

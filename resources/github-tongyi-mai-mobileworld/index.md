@@ -20,11 +20,11 @@ This is Tongyi-MAI/MobileWorld, distinct from jacklishufan/MobileWorld (MobileWo
 
 ## Structured profile
 
-- actions: Android GUI operations, MCP calls when enabled, agent-user interaction when enabled
-- evaluation: The publisher documents text-answer matching, backend database verification, local-storage inspection and application callbacks.
-- focus: Android task completion, agent-user interaction, hybrid GUI and MCP use
-- observations: Android application interface, user-agent interaction when enabled
-- setting: interactive
+- Actions / outputs: Android GUI operations, MCP calls when enabled, agent-user interaction when enabled
+- Evaluation: The publisher documents text-answer matching, backend database verification, local-storage inspection and application callbacks.
+- Focus: Android task completion, agent-user interaction, hybrid GUI and MCP use
+- Observations: Android application interface, user-agent interaction when enabled
+- Setting: interactive
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Terminal-driven browser agent that automates Indian income-tax-return preparatio
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:aianytime/itr-wala-ai-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aianytime-itr-wala-ai-agent/record.json
 
 ## License declarations

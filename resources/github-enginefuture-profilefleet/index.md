@@ -12,10 +12,6 @@ Local-first TypeScript orchestration plane for managing persistent fingerprint-b
 - Evidence checked: 2026-11-04T18:11:40Z
 - ID: github:enginefuture/profilefleet
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-enginefuture-profilefleet/record.json
 
 ## License declarations

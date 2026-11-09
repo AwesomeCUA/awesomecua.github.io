@@ -12,10 +12,6 @@ Claude browser skill that completes end-to-end Amazon return workflows inside th
 - Evidence checked: 2026-11-04T17:55:24Z
 - ID: github:peterquads/amazon-return
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-peterquads-amazon-return/record.json
 
 ## License declarations

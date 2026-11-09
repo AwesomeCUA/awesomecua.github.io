@@ -12,10 +12,6 @@ Evaluation framework spanning visual GUI, embodied, and design tasks, including 
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:thudm/visualagentbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-visualagentbench/record.json
 
 ## License declarations

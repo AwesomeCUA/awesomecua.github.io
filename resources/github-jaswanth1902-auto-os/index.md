@@ -12,10 +12,6 @@ Sub-30ms Windows desktop automation primitive using direct Win32 UI Automation t
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:jaswanth1902/auto_os
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jaswanth1902-auto-os/record.json
 
 ## License declarations

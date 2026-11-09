@@ -12,10 +12,6 @@ Local-first web research and browser automation framework for LLM agents combini
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:ronandavalan/dinoer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ronandavalan-dinoer/record.json
 
 ## License declarations

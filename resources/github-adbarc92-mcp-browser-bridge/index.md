@@ -12,10 +12,6 @@ MCP server giving AI assistants bounded control over a live Chrome browser throu
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:adbarc92/mcp-browser-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-adbarc92-mcp-browser-bridge/record.json
 
 ## License declarations

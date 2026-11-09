@@ -12,10 +12,6 @@ WebMCP Description Benchmarks evaluates how in-browser WebMCP tool schema descri
 - Evidence checked: 2026-11-04T14:20:14Z
 - ID: github:clouatre-labs/webmcp-description-benchmarks
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-clouatre-labs-webmcp-description-benchmarks/record.json
 
 ## License declarations

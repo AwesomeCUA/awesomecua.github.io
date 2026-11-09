@@ -12,10 +12,6 @@ Oh My DSH coordinates multi-agent teams with a shared compare-and-set task graph
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:secretxuan/oh-my-dsh
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-secretxuan-oh-my-dsh/record.json
 
 ## License declarations

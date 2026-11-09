@@ -12,10 +12,6 @@ Agentless resolves software engineering issues through a three-phase localizatio
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:openautocoder/agentless
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openautocoder-agentless/record.json
 
 ## License declarations

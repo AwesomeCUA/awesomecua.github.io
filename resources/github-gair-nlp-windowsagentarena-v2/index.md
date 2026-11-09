@@ -20,11 +20,11 @@ Repository contains executable evaluation code and task definitions. README link
 
 ## Structured profile
 
-- actions: PyAutoGUI
-- evaluation: Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator counts trajectory files in the evaluated run, with the full benchmark size recorded separately.
-- focus: Windows desktop task execution, revised task evaluators
-- observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- setting: interactive
+- Actions / outputs: PyAutoGUI
+- Evaluation: Runner exposes four observation choices and uses PyAutoGUI. count.py sums the last score in each results.json and divides by the number of traj.jsonl files, multiplying by 100; it separately reports result/trajectory/error-file coverage. This denominator counts trajectory files in the evaluated run, with the full benchmark size recorded separately.
+- Focus: Windows desktop task execution, revised task evaluators
+- Observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
+- Setting: interactive
 
 ### Count observations
 

@@ -12,10 +12,6 @@ FastMCP server that records webpage animations and uses vision models to detect 
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:rishitank/animawatch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rishitank-animawatch/record.json
 
 ## License declarations

@@ -1293,11 +1293,11 @@ Baicheng Chen, Mingda Zhang, Min Zhang, Haizhou Li, Baoyuan Wu
 - Publication source: https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html
 - Publication BibTeX: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/publication-citation.csl.json
-- venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
-- pages: 27894-27905
-- date basis: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title and abstract search for AdapAction returned nothing; neither the landing page nor the PDF names an arXiv version, so this publisher edition seeds the record.
-- notes: CVF open-access accepted version; the PDF states that the final proceedings version is on IEEE Xplore. The landing page, BibTeX and PDF title page list the same five authors in the same order.
+- Venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+- Pages: 27894-27905
+- Date source: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title and abstract search for AdapAction returned nothing; neither the landing page nor the PDF names an arXiv version, so this publisher edition seeds the record.
+- Source notes: CVF open-access accepted version; the PDF states that the final proceedings version is on IEEE Xplore. The landing page, BibTeX and PDF title page list the same five authors in the same order.
 - Publication evidence: https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html, https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf
 
 ### License declarations
@@ -1353,11 +1353,11 @@ Fei Tang, Zhangxuan Gu, Zhengxi Lu, Shangzhan Zhang, Zhengwen Zeng, Shuheng Shen
 - Publication source: https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html
 - Publication BibTeX: https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/publication-citation.csl.json
-- venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-- pages: 13007-13016
-- date basis: Explicit publisher metadata: month = {June}, year = {2026}; precision=month.
-- identity basis: No title/DOI/canonical URL match in the current paper catalog or raw archive; closest substantive same-team works were reread and have different contributions.
-- notes: CVF open-access accepted version; PDF states that the final proceedings version is on IEEE Xplore.
+- Venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- Pages: 13007-13016
+- Date source: Explicit publisher metadata: month = {June}, year = {2026}; precision=month.
+- Identity basis: No title/DOI/canonical URL match in the current paper catalog or raw archive; closest substantive same-team works were reread and have different contributions.
+- Source notes: CVF open-access accepted version; PDF states that the final proceedings version is on IEEE Xplore.
 - Publication evidence: https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html, https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf
 
 ### License declarations

@@ -12,10 +12,6 @@ Open browser-use runtime, local bridge, CLI, and AI harness adapter for driving 
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:frankfromfuture/brizo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-frankfromfuture-brizo/record.json
 
 ## License declarations

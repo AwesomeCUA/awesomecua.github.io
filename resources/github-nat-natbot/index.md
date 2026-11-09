@@ -12,10 +12,6 @@ Early Playwright-based browser agent prototype that drives web navigation by fee
 - Evidence checked: 2026-11-04T13:12:27Z
 - ID: github:nat/natbot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nat-natbot/record.json
 
 ## License declarations

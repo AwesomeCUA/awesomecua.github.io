@@ -12,10 +12,6 @@ Local-first cross-platform execution and web-research runtime for AI agents.
 - Evidence checked: 2026-11-04T17:55:10Z
 - ID: github:tomaszteee/fasthands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tomaszteee-fasthands/record.json
 
 ## License declarations

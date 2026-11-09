@@ -12,10 +12,6 @@ Model Context Protocol server exposing the official Ubuntu/Linux ChatGPT Desktop
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:cantbeblank96/chatgpt-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cantbeblank96-chatgpt-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Enhances desktop clicking precision for AI computer-use agents via screenshot gr
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:yxdgyxlf/computer-use-grid
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yxdgyxlf-computer-use-grid/record.json
 
 ## License declarations

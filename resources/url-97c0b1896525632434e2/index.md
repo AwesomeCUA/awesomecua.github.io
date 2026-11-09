@@ -35,11 +35,11 @@ Sarah E. Chasins, Maria Mueller, Rastislav Bodik
 - Publication source: https://doi.org/10.1145/3242587.3242661
 - Publication BibTeX: https://awesomecua.com/resources/url-97c0b1896525632434e2/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-97c0b1896525632434e2/publication-citation.csl.json
-- venue: Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology
-- doi: 10.1145/3242587.3242661
-- date basis: Supplied year precision: 2018. Rousillon entry: UIST 2018
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: This is browser interaction learned from demonstrations, rather than a generic server-side crawling library. Final proceedings page range and volume are not established. Manuscript pages 1-13 are not substituted for publisher pagination. Exact publication month/day is not inferred from conference dates.
+- Venue: Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology
+- DOI: 10.1145/3242587.3242661
+- Date source: Supplied year precision: 2018. Rousillon entry: UIST 2018
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: This is browser interaction learned from demonstrations, rather than a generic server-side crawling library. Final proceedings page range and volume are not established. Manuscript pages 1-13 are not substituted for publisher pagination. Exact publication month/day is not inferred from conference dates.
 - Publication evidence: https://schasins.com/papers/, https://schasins.com/assets/papers/rousillon.pdf
 
 ## License declarations

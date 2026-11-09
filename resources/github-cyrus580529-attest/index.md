@@ -12,10 +12,6 @@ Self-verifying web agent core where the model proposes candidate actions and the
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:cyrus580529/attest
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cyrus580529-attest/record.json
 
 ## License declarations

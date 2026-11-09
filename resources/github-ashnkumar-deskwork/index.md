@@ -12,10 +12,6 @@ deskwork augments Claude Computer Use with domain document retrieval to execute 
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:ashnkumar/deskwork
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ashnkumar-deskwork/record.json
 
 ## License declarations

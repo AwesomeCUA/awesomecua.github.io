@@ -12,10 +12,6 @@ Source-backed personal decision and shopping browser agent built on the WebMCP p
 - Evidence checked: 2026-11-04T17:30:44Z
 - ID: github:somnora/agentic-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-somnora-agentic-webmcp/record.json
 
 ## License declarations

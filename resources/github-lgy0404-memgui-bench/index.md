@@ -20,11 +20,11 @@ Official benchmark code for the MemGUI-Bench paper (ACM MM 2026 per the README).
 
 ## Structured profile
 
-- actions: MobileWorld JSON actions
-- evaluation: MemGUI-Eval: an LLM step-description model and a final-decision model judge each trajectory; reported metrics are pass@K, information retrieval rate (IRR), failure recovery rate (FRR), memory task performance ratio (MTPR), step ratio, time per step and cost per step.
-- focus: memory-intensive mobile GUI tasks, cross-app long-horizon tasks
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: MobileWorld JSON actions
+- Evaluation: MemGUI-Eval: an LLM step-description model and a final-decision model judge each trajectory; reported metrics are pass@K, information retrieval rate (IRR), failure recovery rate (FRR), memory task performance ratio (MTPR), step ratio, time per step and cost per step.
+- Focus: memory-intensive mobile GUI tasks, cross-app long-horizon tasks
+- Observations: screenshots
+- Setting: interactive
 
 ### Count observations
 

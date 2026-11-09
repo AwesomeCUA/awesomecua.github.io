@@ -12,10 +12,6 @@ OmniParser MCP Server wraps Microsoft OmniParser V2 into a Model Context Protoco
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:cute-aaa/omniparser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cute-aaa-omniparser-mcp/record.json
 
 ## License declarations

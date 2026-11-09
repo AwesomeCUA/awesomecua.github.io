@@ -12,10 +12,6 @@ Permission-governed browser automation plugin for DeepSeek Harness enforced at t
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:viger1/dsh-pilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-viger1-dsh-pilot/record.json
 
 ## License declarations

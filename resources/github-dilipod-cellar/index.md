@@ -12,10 +12,6 @@ cellar implements the Context Execution Layer (CEL), a structured context and ac
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:dilipod/cellar
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dilipod-cellar/record.json
 
 ## License declarations

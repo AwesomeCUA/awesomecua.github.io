@@ -12,10 +12,6 @@ Nehemiah provisions on-demand Linux Firecracker microVMs equipped with a browser
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:boringcomputers/nehemiah
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-boringcomputers-nehemiah/record.json
 
 ## License declarations

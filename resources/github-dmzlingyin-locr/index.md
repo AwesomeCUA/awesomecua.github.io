@@ -12,10 +12,6 @@ LOCR is a lightweight cross-platform clipboard and screen OCR utility based on R
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:dmzlingyin/locr
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dmzlingyin-locr/record.json
 
 ## License declarations

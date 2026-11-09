@@ -12,10 +12,6 @@ Codex computer-use skill for automating Blender 3D modeling, rendering, animatio
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:xiaof631/blender-computer-use-artist
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiaof631-blender-computer-use-artist/record.json
 
 ## License declarations

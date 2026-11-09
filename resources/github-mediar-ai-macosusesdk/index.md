@@ -12,10 +12,6 @@ MacosUseSDK is a Swift library and CLI for traversing the macOS accessibility tr
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:mediar-ai/macosusesdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mediar-ai-macosusesdk/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned pu
 
 ## Structured profile
 
-- formats: per-trajectory folders with task.json, result.json and PNG screenshots
-- modalities: screenshots, task queries, reasoning traces, actions
-- splits: not recorded
-- supervision: agent trajectories cleaned and normalized for supervised training, structured reasoning traces, normalized mobile actions
+- Formats: per-trajectory folders with task.json, result.json and PNG screenshots
+- Modalities: screenshots, task queries, reasoning traces, actions
+- Splits: not recorded
+- Supervision: agent trajectories cleaned and normalized for supervised training, structured reasoning traces, normalized mobile actions
 
 ### Count observations
 

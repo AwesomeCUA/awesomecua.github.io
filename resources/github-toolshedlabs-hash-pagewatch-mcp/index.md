@@ -12,10 +12,6 @@ Minimal 3-tool Model Context Protocol server for reading webpages as Markdown, c
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:toolshedlabs-hash/pagewatch-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-toolshedlabs-hash-pagewatch-mcp/record.json
 
 ## License declarations

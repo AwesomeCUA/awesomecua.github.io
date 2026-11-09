@@ -12,10 +12,6 @@ Page Agent is an in-page JavaScript GUI agent by Alibaba that controls web inter
 - Evidence checked: 2026-11-04T14:02:36Z
 - ID: github:alibaba/page-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alibaba-page-agent/record.json
 
 ## License declarations

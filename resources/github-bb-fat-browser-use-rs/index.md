@@ -12,10 +12,6 @@ browser-use-rs is a lightweight pure-Rust library for driving Chromium browsers 
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:bb-fat/browser-use-rs
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bb-fat-browser-use-rs/record.json
 
 ## License declarations

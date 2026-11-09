@@ -12,10 +12,6 @@ OpenWebAgent provides a Chrome extension, HTML simplification parser, and backen
 - Evidence checked: 2026-11-04T13:12:42Z
 - ID: github:thudm/openwebagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-openwebagent/record.json
 
 ## License declarations

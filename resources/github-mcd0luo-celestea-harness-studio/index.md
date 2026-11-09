@@ -12,10 +12,6 @@ Self-hosted AI agent workbench combining a web UI, TypeScript backend, sandboxed
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:mcd0luo/celestea-harness-studio
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mcd0luo-celestea-harness-studio/record.json
 
 ## License declarations

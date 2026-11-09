@@ -12,10 +12,6 @@ Vision-first iPhone Mirroring control package for the Pi coding agent on macOS.
 - Evidence checked: 2026-11-04T18:11:43Z
 - ID: github:aniruddha-adhikary/pi-iphone-mirroring
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aniruddha-adhikary-pi-iphone-mirroring/record.json
 
 ## License declarations

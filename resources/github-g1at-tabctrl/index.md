@@ -12,10 +12,6 @@ Bring-your-own-key multi-model browser agent for Chrome and Edge with per-task t
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:g1at/tabctrl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-g1at-tabctrl/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Kortix Suna is an open-source generalist agent platform combining a containerize
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:kortix-ai/suna
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kortix-ai-suna/record.json
 
 ## License declarations

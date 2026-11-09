@@ -20,10 +20,10 @@ The card describes this release as an open-sourced sample: the full Mobile-R1 da
 
 ## Structured profile
 
-- formats: JSONL, PNG images
-- modalities: screenshots, instructions, thoughts, subtask descriptions, actions
-- splits: not recorded
-- supervision: manually annotated trajectories
+- Formats: JSONL, PNG images
+- Modalities: screenshots, instructions, thoughts, subtask descriptions, actions
+- Splits: not recorded
+- Supervision: manually annotated trajectories
 
 ### Count observations
 

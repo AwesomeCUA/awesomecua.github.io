@@ -12,10 +12,6 @@ Local multi-brain Windows AI desktop agent with visible computer control and ver
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:aykutkrm67/turan-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aykutkrm67-turan-ai/record.json
 
 ## License declarations

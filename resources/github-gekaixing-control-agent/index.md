@@ -12,10 +12,6 @@ Unified multimodal control framework combining pure-vision desktop operation, st
 - Evidence checked: 2026-11-04T18:11:43Z
 - ID: github:gekaixing/control-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gekaixing-control-agent/record.json
 
 ## License declarations

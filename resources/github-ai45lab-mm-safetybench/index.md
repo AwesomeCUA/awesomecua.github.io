@@ -12,10 +12,6 @@ MM-SafetyBench evaluates multimodal large language models against query-relevant
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:ai45lab/mm-safetybench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ai45lab-mm-safetybench/record.json
 
 ## License declarations

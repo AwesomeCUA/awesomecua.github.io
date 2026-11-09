@@ -12,10 +12,6 @@ Discovers legacy UI workflows with an LLM once and compiles them into typed, ver
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:pavanvakula/computer-use-capability-engine
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pavanvakula-computer-use-capability-engine/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ GUI-SD implements on-policy self-distillation for GUI visual grounding and actio
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:zhangyan-ucas/gui-sd-code
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zhangyan-ucas-gui-sd-code/record.json
 
 ## License declarations

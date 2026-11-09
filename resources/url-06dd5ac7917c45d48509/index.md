@@ -20,10 +20,10 @@ The manifest contains grounding JSON annotations and packaged images. The card d
 
 ## Structured profile
 
-- formats: JSON annotations, ZIP image packages, multipart TAR image packages
-- modalities: GUI screenshots, grounding annotations
-- splits: training
-- supervision: GUI grounding supervised fine-tuning
+- Formats: JSON annotations, ZIP image packages, multipart TAR image packages
+- Modalities: GUI screenshots, grounding annotations
+- Splits: training
+- Supervision: GUI grounding supervised fine-tuning
 
 ### Count observations
 

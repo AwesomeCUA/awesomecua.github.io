@@ -12,10 +12,6 @@ Native Windows MCP server combining UI Automation, dark-theme-aware OCR, visual 
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:amichail-1/orbination-ai-desktop-vision-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amichail-1-orbination-ai-desktop-vision-control/record.json
 
 ## License declarations

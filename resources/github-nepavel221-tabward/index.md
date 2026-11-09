@@ -12,10 +12,6 @@ Gives local AI agents permission-gated access to authenticated Chrome tabs via a
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:nepavel221/tabward
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nepavel221-tabward/record.json
 
 ## License declarations

@@ -1,0 +1,106 @@
+# 计算机使用智能体工具：第 4 页
+
+HTML 页面：https://awesomecua.com/zh/categories/tool/page/4/ · [English](https://awesomecua.com/categories/tool/page/4/index.md)
+
+完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
+
+- [Claude KVM](https://awesomecua.com/resources/github-aras-workspace-claude-kvm/)：Claude KVM 是 macOS MCP 服务器和 VNC 客户端，使 AI 智能体能够通过 VNC 观察和控制远程桌面环境。
+- [Claude Linux Desktop MCP](https://awesomecua.com/resources/github-lukelamb-claude-linux-mcp/)：Model Context Protocol 扩展，使 Claude 能够通过截图、窗口、剪贴板和输入功能全面控制 Linux X11 桌面。
+- [claude-browser-crawl-cdp](https://awesomecua.com/resources/github-gruncode-claude-browser-crawl-cdp/)：持久化 Playwright REPL 和 CDP 桥接工具，让 Claude Code 能以较低的 token 开销操控用户已登录的 Chrome 浏览器。
+- [claude-chrome-speed](https://awesomecua.com/resources/github-cr1707-claude-chrome-speed/)：Claude Code 插件，通过批量读取 DOM 和消除冗余的截图等待，加快 Claude 在 Chrome 中执行浏览器任务的速度。
+- [claude-drives-gemini](https://awesomecua.com/resources/github-magicyangg-claude-drives-gemini/)：一项 Claude Code skill，可在 Chrome 中操作已登录的 Google Gemini 网页会话，用于跨模型咨询和研究。
+- [claude-firefox (Claude Code Browser Bridge)](https://awesomecua.com/resources/github-faran52-claude-code-browser-bridge/)：由 Firefox WebExtension、原生消息传递宿主和 MCP 服务器组成，让 Claude Code 能够读取并操控 Firefox 标签页。
+- [ClaudeDesk](https://awesomecua.com/resources/github-phantivia-claudedesk/)：将 Windows 桌面画面流式传输到浏览器界面，使编程智能体能够以视觉方式检查和调试 GUI 应用。
+- [ClawPilot Command Center](https://awesomecua.com/resources/github-edgeagent-clawpilot-command-center/)：面向 OpenClaw 智能体的 Chrome Manifest V3 控制中心，用于采集页面上下文、审查计划中的动作并监控运行过程。
+- [ClawTouch MCP](https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-mcp/)：Model Context Protocol 服务器，将 Raspberry Pi Pico 2 变成供 AI 计算机使用智能体使用的硬件 USB-HID 键盘和鼠标。
+- [clickcast](https://awesomecua.com/resources/github-alexkay28-clickcast/)：面向 AI 智能体的 Playwright 浏览器自动化、截图及 GIF/MP4/WebP 会话录制工具包和 MCP 服务器。
+- [CLIF](https://awesomecua.com/resources/github-cmalpass-clif/)：CLIF 是 Windows 桌面 UI 自动化 CLI 和本地 MCP 服务器，用于检查和操作 WPF、WinForms 及 WinUI 应用。
+- [Clique Já](https://awesomecua.com/resources/github-paivaxqz-cliqueja/)：快速 Chrome 自动化工具包，结合 Manifest V3 扩展与本地协调中心。
+- [cloak-cdp-cli](https://awesomecua.com/resources/github-ezumyn-aliegm-cloak-cdp-cli/)：供 AI 智能体通过 CDP 驱动 CloakBrowser 隐蔽 Chromium 实例的命令行界面。
+- [cloakbrowser-mcp](https://awesomecua.com/resources/github-swimmwatch-cloakbrowser-mcp/)：由 Playwright 驱动的 Model Context Protocol 服务器，用于控制 CloakBrowser 的反检测 Chromium 会话。
+- [CloakBrowserMCP](https://awesomecua.com/resources/github-sjf-ecnu-cloakbrowsermcp/)：Python Model Context Protocol 服务器，用于在无头和 Xvfb 虚拟显示环境中控制 CloakBrowser 隐身 Chromium 浏览器。
+- [CloakGPT](https://awesomecua.com/resources/github-koukeneko-cloakgpt/)：本地 CLI，通过具有反检测功能的 CloakBrowser 驱动已登录的 ChatGPT 网页会话。
+- [Cloud Browser Automation Proof](https://awesomecua.com/resources/github-lucprooffirst-cloud-browser-automation-proof/)：经过验证的 Playwright 和 Puppeteer 操作方案，用于将 AI 智能体连接到远程 CDP 云浏览器会话。
+- [cmux-skill](https://awesomecua.com/resources/github-george4data-cmux-skill/)：智能体技能，让 Claude Code 和编程智能体能够驱动 `cmux` 终端及其嵌入式浏览器工作区。
+- [COCO4GUI](https://awesomecua.com/resources/github-harpreetsahota204-gui-dataset-creator/)：COCO4GUI 是交互式屏幕捕获和边界框标注工具，用于构建 COCO 格式的 GUI 定位数据集。
+- [Code Sandbox MCP](https://awesomecua.com/resources/github-automata-labs-team-code-sandbox-mcp/)：Code Sandbox MCP 是 Model Context Protocol 服务器，可为 AI 智能体创建隔离的 Docker 容器沙箱，以执行代码和 shell 命令。
+- [Code2World](https://awesomecua.com/resources/github-amap-ml-code2world/)：Code2World 提供根据截图和拟执行的动作、通过可渲染代码预测安卓界面下一画面的程序，并集成 AndroidWorld 智能体。
+- [Codex ChatGPT Pro Bridge](https://awesomecua.com/resources/github-yubo-cao-codex-chatgpt-pro-bridge/)：适应不同区域设置的 Codex 技能，用于在浏览器中咨询已登录的 ChatGPT Pro 网页会话。
+- [Codex ChatGPT Web Delegator](https://awesomecua.com/resources/github-steeltimber-codex-chatgpt-web-delegator/)：Codex 技能，通过 OpenCLI 浏览器自动化将任务委托给 ChatGPT Web，并验证任务执行情况。
+- [Codex ChatGPT Web Orchestrator](https://awesomecua.com/resources/github-chicogong-codex-chatgpt-web-orchestrator/)：由回执驱动的 Codex 技能，将深度研究和产物生成委派给已登录的 ChatGPT Web 会话。
+- [Codex Chrome Browser Control Skill](https://awesomecua.com/resources/github-qlk-x-codex-chrome-browser-control/)：本地优先的 OpenAI Codex 技能和 Chrome 扩展，用于安全地控制用户指定范围内的浏览器标签页。
+- [Codex Computer Use Lab](https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/)：记录并复现 Codex 桌面应用中的 macOS Computer Use 架构、SkyLight 窗口捕获和 Accessibility 动作分发机制。
+- [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/resources/github-tmustier-codex-computer-use-mcp/)：可在后台安全运行的 MCP 服务器，向 Pi 和 MCP 客户端开放 OpenAI 已签名的 macOS Codex Computer Use 代理服务。
+- [Codex Dynamic Bridge](https://awesomecua.com/resources/github-guraqwq-codex-dynamic-bridge/)：通过全局辅助进程和本地 CDP 连接 OpenAI Codex 与 Antigravity，以管理会话、模型和浏览器任务。
+- [Codex File Bridge](https://awesomecua.com/resources/github-dev-newb-codex-file-bridge/)：Codex 技能，可根据文件名可靠地将本地文件上传到浏览器文件选择对话框。
+- [Codex for WeChat](https://awesomecua.com/resources/github-weihaoyyy-codex-for-wechat/)：远程桥接工具，允许用户通过 WeChat 向本地 OpenAI Codex 智能体派发任务并查看输出。
+- [Codex Idle Resume](https://awesomecua.com/resources/github-yaro-elipox-codex-idle-resume/)：在系统空闲或速率限制冷却结束后，自动恢复中断的 macOS Codex Computer Use 任务。
+- [Codex Managed Channel](https://awesomecua.com/resources/github-fantasyce-codex-managed-channel/)：受生命周期控制的 SSH 通道管理器，用于驱动远程 Mac 上的 Codex Desktop 会话。
+- [codex-computer-use-x11](https://awesomecua.com/resources/github-alekseiseleznev-codex-computer-use-x11/)：独立的 Rust CLI 和 Model Context Protocol 插件，使 Codex Computer Use 能够在 Linux Cinnamon/X11 桌面上运行。
+- [codex-cua](https://awesomecua.com/resources/github-manaflow-ai-codex-cua/)：CLI 封装工具，使用 Codex 内置的 Computer Use 引擎，从 shell 操作 macOS 桌面应用。
+- [Colossus](https://awesomecua.com/resources/github-richardanaya-colossus/)：Colossus 是语音控制的多智能体开发平台，用于协调软件工程任务。
+- [Computer Use AI SDK](https://awesomecua.com/resources/github-mediar-ai-mcp-server-client-computer-use-ai-sdk/)：Computer Use AI SDK 提供 MCP 服务器和客户端，通过操作系统原生无障碍树操作桌面应用。
+- [Computer Use Data Collection](https://awesomecua.com/resources/github-bobcoi03-computeruse-data-collection/)：Computer Use Data Collection 是桌面录制工具，可同步捕获截图、鼠标点击和按键操作，用于训练 CUA 模型。
+- [Computer Use Studio Pro](https://awesomecua.com/resources/github-666xiaoniuzi-computer-use-skill/)：用于低延迟、经验证的桌面、浏览器和窗口控制的跨智能体技能。
+- [Computer Use Vision (DSH Windows Plugin)](https://awesomecua.com/resources/github-xuanyuanluoxue-computer-use-vision/)：面向 DeepSeek Harness 的 Windows 桌面视觉识别与模拟输入插件。
+- [Computer-Use Cache](https://awesomecua.com/resources/github-rohanarun-computer-use-cache/)：可直接接入、兼容 OpenAI 的缓存代理，记录并重放重复的计算机使用和浏览器智能体工作流。
+- [computer-use-fallback-mac](https://awesomecua.com/resources/github-zss03040464-computer-use-fallback-mac/)：限定于窗口的 macOS Computer Use MCP 服务器，提供无需前台焦点的后台窗口捕获和辅助功能控制。
+- [computer-use-grid](https://awesomecua.com/resources/github-yxdgyxlf-computer-use-grid/)：通过截图网格覆盖层和迭代式缩放细化，提高 AI 计算机使用智能体点击桌面的精度。
+- [computer-use-mcp-gateway](https://awesomecua.com/resources/github-git-ksk-computer-use-mcp-gateway/)：远程 Model Context Protocol 网关，用于将智能体工具调用路由至 Cua Driver 等计算机使用后端。
+- [computer-use-plus](https://awesomecua.com/resources/github-ethanout-computer-use-plus/)：低 token 消耗、低延迟的 Windows 计算机使用 MCP 服务器，具备学习得到的动作快捷方式和 UIA/CDP/OCR 混合路由。
+- [ComputerMate](https://awesomecua.com/resources/github-one710-computermate/)：ComputerMate 是一个跨平台 Model Context Protocol 服务器，为 AI 模型提供屏幕捕获、OCR、鼠标和键盘控制以及 Shell 控制能力。
+- [Crafter Agents cuse CLI](https://awesomecua.com/resources/github-crafter-agents-cuse/)：跨平台计算机使用 CLI，将统一命令映射到操作系统原生的无障碍接口和输入原语。
+- [crowd-test-mcp](https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test-mcp/)：Model Context Protocol 服务器，在真实浏览器中并发调度 AI 虚拟用户角色，以测试网站。
+- [cu (Native GUI Automation CLI)](https://awesomecua.com/resources/github-killsng-cu/)：使用 Swift（macOS）和 Rust（Windows）编写的原生 GUI 自动化 CLI，状态读取约需 50 毫秒，点击约需 100 毫秒。
+- [cua-desktop-automation-skills](https://awesomecua.com/resources/github-chrislamdev-cua-desktop-automation-skills/)：面向使用 Cua Driver 的 AI 智能体，提供路由器学习系统和 macOS 桌面自动化技能包。
+- [cua-rs-mcp](https://awesomecua.com/resources/github-maestrojeong-cua-rs-mcp/)：Rust Model Context Protocol 服务器，通过 Accessibility API 驱动原生 macOS 应用，无需移动用户的光标。
+- [Custom Chrome Dev MCP](https://awesomecua.com/resources/github-habaandrei-custom-chrome-dev-mcp/)：仅在本地运行的 Model Context Protocol 服务器，通过 DevTools 操控用户已打开的 Chrome 会话。
+- [cxrobx zen-mcp (WebExtension)](https://awesomecua.com/resources/github-cxrobx-zen-mcp/)：由 WebExtension 支持的 Model Context Protocol 服务器，用于从 Claude Code 控制 Zen Browser 和 Firefox。
+- [Daedalus Browser Bridge](https://awesomecua.com/resources/github-nitjsefnie-harness-commons-daedalus/)：Chrome 扩展远程控制桥接工具，使 AI 智能体能够通过 HTTP 操控正在运行的 Chrome 实例。
+- [DarwinRelay](https://awesomecua.com/resources/github-dcierra-darwinrelay/)：让 ChatGPT 和 MCP 客户端成为本地 macOS 智能体，可访问 shell、文件、PTY 和浏览器自动化功能。
+- [debug-kit](https://awesomecua.com/resources/github-dxiongya-debug-kit/)：跨平台 Agent Skill，可在 macOS、iOS、Android、Web、Electron、Windows 和 Linux 上操作、检查及测试应用。
+- [DeepDeck](https://awesomecua.com/resources/github-jo32-deepdeck/)：macOS 桌面工作区，用于配合 DeepSeek Harness 编写、测试和复用 WebMCP 浏览器工具。
+- [DeepSeek Harness Desktop](https://awesomecua.com/resources/github-tengqi159-deepseek-harness-desktop/)：DeepSeek Harness 的 macOS 桌面配套应用，支持附加研究文件和管理本地工具。
+- [DeepSeek Harness Desktop YukiRyou](https://awesomecua.com/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/)：DeepSeek Harness 的增强版桌面客户端发行版，预集成计算机使用和浏览器插件。
+- [DeepSeek Harness Mac Control](https://awesomecua.com/resources/github-18126295767-cell-dsh-mac-control/)：适用于 DeepSeek Harness 的 macOS 控制插件，支持检查浏览器标签页、切换应用和执行桌面 GUI 动作。
+- [DeepSeek Harness Volcengine OS Agent Plugin](https://awesomecua.com/resources/github-chenjie1129-deepseek-harness-os-agent-plugin/)：将 Volcengine 的 Mobile Use 和 OS Agent 能力作为插件集成到 DeepSeek Harness。
+- [deepseek-web-search-plugin](https://awesomecua.com/resources/github-wojiuluguo-deepseek-web-search-plugin/)：提供 DeepSeek 网页搜索、交叉验证和自动归档浏览器页面功能的 OpenClaw 技能。
+- [Delphi IDE Remote MCP Server](https://awesomecua.com/resources/github-soporte-defontsoft-delphi-ide-remote-mcp/)：Model Context Protocol 服务器，使 AI 智能体能够远程检查、编译和自动操作 Embarcadero Delphi Windows IDE。
+- [demosmith-mcp](https://awesomecua.com/resources/github-g0d2i11a-demosmith-mcp/)：Model Context Protocol 服务器，让 AI 智能体录制带有光标动画和旁白的自动化浏览器产品演示。
+- [Deskfish](https://awesomecua.com/resources/github-0x11c11e-deskfish/)：Deskfish 是一款 VS Code 扩展，为 AI 智能体提供可在编辑器中查看和操控的隔离虚拟桌面容器。
+- [deskpal](https://awesomecua.com/resources/github-b1tank-deskpal/)：基于原生 C 的 Linux 桌面控制 MCP 服务器，支持 X11/Xwayland、AT-SPI 无障碍树、OCR 和隔离显示环境。
+- [Desktop Commander MCP](https://awesomecua.com/resources/github-wonderwhy-er-desktopcommandermcp/)：Desktop Commander MCP 是用于终端进程控制、交互式 REPL 和精准文件编辑的 Model Context Protocol 服务器。
+- [Desktop Computer Use (DCU)](https://awesomecua.com/resources/github-dev-willbird1936-desktop-computer-use/)：在后台运行的 Windows 计算机使用 MCP 服务器，可向目标应用发送输入，而不中断用户在前台的工作。
+- [Desktop Pilot MCP](https://awesomecua.com/resources/github-versoxbt-desktop-pilot-mcp/)：原生 macOS 无障碍 MCP 服务器，使 Claude 和 MCP 客户端能够以低延迟、结构化的方式控制桌面应用。
+- [desktop-cli](https://awesomecua.com/resources/github-adamsautomations-desktop-cli/)：轻量级计算机使用 CLI，编程智能体可直接通过 shell 命令调用，无需承担 MCP schema 开销。
+- [desktop-hub](https://awesomecua.com/resources/github-zty552252kevin-code-desktop-hub/)：用于 macOS 桌面自动化的紧凑型 MCP 门面服务器，提供 10 个工具，约占 2.3k 词元。
+- [desktop-touch-mcp](https://awesomecua.com/resources/github-harusame64-desktop-touch-mcp/)：Windows 计算机使用 MCP 服务器，通过先发现后执行的语义 UI Automation 定位来操控桌面应用。
+- [DesktopCtl](https://awesomecua.com/resources/github-yaroshevych-desktopctl/)：面向 AI 智能体、使用 GPU 加速的本地 macOS CLI，可检查屏幕文字和控件，并发送鼠标及键盘动作。
+- [DeskVNC](https://awesomecua.com/resources/github-psmux-deskvnc/)：纯 Rust 实现的 VNC、RDP 和 SSH 远程桌面客户端，配有用于管理智能体和远程机器的 Tauri UI。
+- [dev-browser](https://awesomecua.com/resources/github-sawyerhood-dev-browser/)：dev-browser 提供持久化 Playwright 浏览器沙箱和精简的 ARIA 快照 CLI，用于有状态的多步骤网页自动化。
+- [devloop](https://awesomecua.com/resources/github-vincentvella-devloop/)：Model Context Protocol 服务器，在统一时间线上关联无头浏览器自动化动作和开发服务器日志。
+- [DevScope Bridge](https://awesomecua.com/resources/github-15273-devscope-bridge/)：本地优先的 Chrome 侧边栏与桥接工具，将 Claude Code、Cursor 和 Codex 连接到实时浏览器 DOM 与控制台状态。
+- [DevTools Lens MCP](https://awesomecua.com/resources/github-aakcay5656-devtools-lens-mcp/)：Chrome DevTools Model Context Protocol 服务器，向 AI 智能体开放控制台、网络、DOM 和性能检查功能。
+- [DH.Window.UITool](https://awesomecua.com/resources/github-cyberkdh-dh-window-uitool/)：Windows UI Automation 检查与脚本工具，用于分析 UI 元素树和构建可重复的桌面工作流程。
+- [DispatchShield](https://awesomecua.com/resources/github-venusone-lee-dispatchshield/)：macOS 实用工具，使 Mac 在无人值守的计算机使用智能体运行期间保持唤醒，同时保护活动会话免受本地输入干扰。
+- [DjangoAILab DSH Plugins](https://awesomecua.com/resources/github-djangoailab-dsh-plugins/)：面向 DeepSeek Harness、设有约束机制的插件套件，涵盖浏览器自动化、桌面控制、子智能体和远程服务器。
+- [DJCLIPZ Agent Controller](https://awesomecua.com/resources/github-form-u-la-djclipz-agent-controller/)：入门套件和控制器，供 AI 智能体通过编程方式驱动 DJCLIPZ 浏览器媒体应用。
+- [doc-agent](https://awesomecua.com/resources/github-samuel-as-doc-agent/)：一项 Claude Code 技能，通过在实时浏览器中执行网页流程，生成带标注截图的流程文档。
+- [DOMShell](https://awesomecua.com/resources/github-apireno-domshell/)：DOMShell 通过 CDP 和 MCP，将实时 Chrome 浏览器 DOM 树作为虚拟 Unix 文件系统（`cd`、`ls`、`click`、`text`）提供给 LLM 智能体。
+- [Drisp Browser MCP](https://awesomecua.com/resources/github-drisplabs-browser-mcp/)：Drisp Browser 是节省 token 的浏览器自动化 MCP 服务器，提供精简的语义页面快照和有状态动作。
+- [DroidLume Agent Control](https://awesomecua.com/resources/github-tageecc-droidlume-agent-control/)：通过 npm 分发的 CLI、Model Context Protocol 服务器和独立 Android 配套应用，用于 AI 手机控制。
+- [Drover](https://awesomecua.com/resources/github-om-khode-drover/)：Chrome 扩展和本地 CLI，使 AI 智能体能够操控用户已打开并已登录的浏览器窗口。
+- [DSH Browser Control](https://awesomecua.com/resources/github-ahaway1st-dsh-browser-control/)：DeepSeek Harness 插件，让智能体直接控制用户真实且已登录的网页浏览器。
+- [DSH Desktop Operator](https://awesomecua.com/resources/github-zjh02249-dsh-desktop-operator/)：适用于 DeepSeek Harness 的安全 Windows 计算机使用插件，提供限定于窗口的桌面自动化和验证。
+- [DSH Mobile (DeepSeek Harness for Android)](https://awesomecua.com/resources/github-soodok-deepseek-harness-local-android/)：无需 root 即可在 Android 手机上原生运行 DeepSeek Harness AI 智能体。
+- [DSH Patrol](https://awesomecua.com/resources/github-qigelunbiya-dsh-patrol/)：用于 DeepSeek Harness 的网站检查与监控插件，支持教导一次、反复巡检。
+- [DSH Qwen Web Bridge Plugin](https://awesomecua.com/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/)：DeepSeek Harness 插件，通过本地浏览器自动化操作已认证的 Qwen 网页会话。
+- [dsh-antibrow](https://awesomecua.com/resources/github-antibrow-dsh-antibrow/)：DeepSeek Harness 插件，集成 AntiBrow 反检测浏览器，用于隐蔽的网页自动化。
+- [dsh-browser-firefox](https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/)：面向 DeepSeek Harness 的 Firefox 浏览器控制插件和扩展，使智能体能够读取和操作实时 Firefox 标签页。
+- [dsh-browser-full-access](https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/)：用于 DeepSeek Harness 网页自动化的 `dsh-browser` 分支，支持后台标签页的完整访问。
+- [dsh-browser-ops](https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/)：DeepSeek Harness 插件，将智能体驱动的真实浏览器控制与工作流程录制结合。
+- [dsh-browser-plus](https://awesomecua.com/resources/github-particlelight-dsh-browser-plus/)：面向 DeepSeek Harness 的可视化、由智能体驱动的 Electron WebContents 浏览器插件。
+- [dsh-browser-secure](https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/)：面向 DeepSeek Harness 的 `dsh-browser` 安全加固分支，增加审计日志和域名出站访问允许列表。
+- [dsh-browser-vision](https://awesomecua.com/resources/github-tristan-mcinnis-dsh-browser-vision/)：面向 DeepSeek Harness 的视觉浏览器自动化插件，结合 Browser-Use 动作与页面截图检查。
+- [dsh-browseruse](https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/)：面向 DeepSeek Harness 的 Browser-Use 风格插件，通过 Playwright 和 CDP 驱动专用 Chrome 配置文件。
+- [dsh-chrome](https://awesomecua.com/resources/github-stuarthu-dsh-chrome/)：Chrome 侧边栏配套工具，嵌入 DeepSeek Harness UI，并将当前浏览器标签页连接到智能体。

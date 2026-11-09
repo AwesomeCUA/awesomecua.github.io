@@ -12,10 +12,6 @@ Self-hosted visual workflow builder for authoring and running desktop computer-u
 - Evidence checked: 2026-11-04T16:10:28Z
 - ID: github:aadya940/orbit-ui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aadya940-orbit-ui/record.json
 
 ## License declarations

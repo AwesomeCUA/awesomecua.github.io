@@ -12,10 +12,6 @@ NormCap is a cross-platform OCR screen-capture tool that extracts text directly 
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:dynobo/normcap
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dynobo-normcap/record.json
 
 ## License declarations

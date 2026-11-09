@@ -12,18 +12,14 @@ GUI grounding pre-training data for OS-Atlas in desktop (Linux, macOS, Windows),
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:0fdeb1cf5f49f84820e6
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-0fdeb1cf5f49f84820e6/record.json
 
 ## Structured profile
 
-- formats: JSON annotations, image archives
-- modalities: screenshots, referring expressions, bounding boxes
-- splits: not recorded
-- supervision: element grounding
+- Formats: JSON annotations, image archives
+- Modalities: screenshots, referring expressions, bounding boxes
+- Splits: not recorded
+- Supervision: element grounding
 
 ### Count observations
 

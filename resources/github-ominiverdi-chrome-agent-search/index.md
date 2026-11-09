@@ -12,10 +12,6 @@ Local-first Rust CLI for driving Chrome to perform web searches and extract clea
 - Evidence checked: 2026-11-04T17:55:16Z
 - ID: github:ominiverdi/chrome-agent-search
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Hanzi Browse is a site-adapter and browser execution layer that supplies structu
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:hanzili/hanzi-browse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hanzili-hanzi-browse/record.json
 
 ## License declarations

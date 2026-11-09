@@ -12,10 +12,6 @@ DeskForge extracts dense step-level supervision signals from desktop execution e
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:saidgurbuz/deskforge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-saidgurbuz-deskforge/record.json
 
 ## License declarations

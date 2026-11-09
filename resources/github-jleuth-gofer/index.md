@@ -12,10 +12,6 @@ Gofer is a persistent desktop agent that monitors screen changes, executes shell
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:jleuth/gofer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jleuth-gofer/record.json
 
 ## License declarations

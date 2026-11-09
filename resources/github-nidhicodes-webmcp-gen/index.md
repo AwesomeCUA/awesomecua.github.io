@@ -12,10 +12,6 @@ Automatically generates callable WebMCP tool schemas from live webpages without 
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:nidhicodes/webmcp-gen
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nidhicodes-webmcp-gen/record.json
 
 ## License declarations

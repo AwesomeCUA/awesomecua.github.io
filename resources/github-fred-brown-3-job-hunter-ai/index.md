@@ -12,10 +12,6 @@ Agentic AI career copilot with automated candidate intake and verified browser f
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:fred-brown-3/job-hunter-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fred-brown-3-job-hunter-ai/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ qdesk is an open-source AI agent desktop sandbox providing an isolated Linux and
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:jackwangfeng/qdesk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jackwangfeng-qdesk/record.json
 
 ## License declarations

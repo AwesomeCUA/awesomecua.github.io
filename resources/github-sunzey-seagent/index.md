@@ -12,10 +12,6 @@ SEAgent enables computer-use agents to self-evolve in unfamiliar software enviro
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:sunzey/seagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sunzey-seagent/record.json
 
 ## License declarations

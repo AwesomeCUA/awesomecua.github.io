@@ -35,15 +35,15 @@ Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
 - Publication source: https://proceedings.mlr.press/v70/shi17a.html
 - Publication BibTeX: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/publication-citation.csl.json
-- venue: Proceedings of the 34th International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 70
-- pages: 3135-3144
-- date basis: Publisher citation_publication_date metadata explicitly states 2017/07/17; this is separate from the conference interval.
-- event dates: 06--11 Aug (conference interval reported in the publisher BibTeX month field)
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained. DOI not supplied in the retained publisher citation. Publisher metadata supplies the publication date separately from the conference interval.
+- Venue: Proceedings of the 34th International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 70
+- Pages: 3135-3144
+- Date source: Publisher citation_publication_date metadata explicitly states 2017/07/17; this is separate from the conference interval.
+- Event dates: 06--11 Aug (conference interval reported in the publisher BibTeX month field)
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained. DOI not supplied in the retained publisher citation. Publisher metadata supplies the publication date separately from the conference interval.
 - Publication evidence: https://proceedings.mlr.press/v70/shi17a.html, https://proceedings.mlr.press/v70/shi17a/shi17a.pdf
 
 ## License declarations

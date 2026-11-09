@@ -12,10 +12,6 @@ Provides the Intention-in-Interaction (IN3) benchmark and Mistral-Interact model
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:openbmb/tell_me_more
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openbmb-tell-me-more/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Pure-vision browser automation framework with built-in local Moondream3 inferenc
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:zbcs-studiocr-cn/vision-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zbcs-studiocr-cn-vision-browser-agent/record.json
 
 ## License declarations

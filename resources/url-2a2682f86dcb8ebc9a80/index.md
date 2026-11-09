@@ -12,10 +12,6 @@ EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 par
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:2a2682f86dcb8ebc9a80
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-2a2682f86dcb8ebc9a80/record.json
 
 ## License declarations

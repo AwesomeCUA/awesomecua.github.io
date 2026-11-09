@@ -12,10 +12,6 @@ Universal Chrome control bridge for OpenCode, Codex, and Claude Code coding agen
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:zuhair-01/chrome-agent-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zuhair-01-chrome-agent-bridge/record.json
 
 ## License declarations

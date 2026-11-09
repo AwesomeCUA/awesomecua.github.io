@@ -12,10 +12,6 @@ Toolkit for authoring, testing, and shipping verified WebMCP user journeys on we
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:siteverb/siteverb
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-siteverb-siteverb/record.json
 
 ## License declarations

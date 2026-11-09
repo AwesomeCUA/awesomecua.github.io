@@ -12,10 +12,6 @@ NexusCUH is a computer-use agent harness with sandboxed execution, MCP integrati
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:subasah/computer-use-harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-subasah-computer-use-harness/record.json
 
 ## License declarations

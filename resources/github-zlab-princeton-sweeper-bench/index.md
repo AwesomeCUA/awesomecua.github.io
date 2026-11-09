@@ -12,10 +12,6 @@ SWEeper-Bench evaluates whether interactive GUI and browser agents can autonomou
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:zlab-princeton/sweeper-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/record.json
 
 ## License declarations

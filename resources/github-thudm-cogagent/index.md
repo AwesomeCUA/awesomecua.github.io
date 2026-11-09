@@ -12,10 +12,6 @@ Visual language model for GUI understanding and interaction.
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:thudm/cogagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-cogagent/record.json
 
 ## License declarations

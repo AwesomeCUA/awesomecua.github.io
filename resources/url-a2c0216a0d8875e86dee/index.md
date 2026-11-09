@@ -35,13 +35,13 @@ Yuyang Li, Yiran Dou, Jie-Jing Shao, Yueming Lyu, Ivor Tsang, Haiyan Yin
 - Publication source: https://doi.org/10.1145/3770855.3817981
 - Publication BibTeX: https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/publication-citation.csl.json
-- venue: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2
-- publisher: ACM
-- pages: 2897-2908
-- doi: 10.1145/3770855.3817981
-- date basis: Crossref issued date 2026-8-8; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: KDD 2026 proceedings paper; the abstract was read from OpenAlex.
+- Venue: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2
+- Publisher: ACM
+- Pages: 2897-2908
+- DOI: 10.1145/3770855.3817981
+- Date source: Crossref issued date 2026-8-8; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: KDD 2026 proceedings paper; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3770855.3817981, https://api.openalex.org/works/doi:10.1145/3770855.3817981
 
 ## License declarations

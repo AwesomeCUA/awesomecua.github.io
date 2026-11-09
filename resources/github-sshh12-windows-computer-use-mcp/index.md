@@ -12,10 +12,6 @@ Windows computer-use MCP server supporting multi-monitor screen capture and hard
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:sshh12/windows-computer-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sshh12-windows-computer-use-mcp/record.json
 
 ## License declarations

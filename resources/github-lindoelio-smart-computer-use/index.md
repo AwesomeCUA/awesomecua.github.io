@@ -12,10 +12,6 @@ Agent skill for Claude Code, Codex, Cursor, and OpenCode that drives desktop GUI
 - Evidence checked: 2026-11-04T15:03:44Z
 - ID: github:lindoelio/smart-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lindoelio-smart-computer-use/record.json
 
 ## License declarations

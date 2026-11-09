@@ -12,10 +12,6 @@ mllm is a C++ multimodal LLM inference engine optimized for on-device execution 
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:ubiquitouslearning/mllm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ubiquitouslearning-mllm/record.json
 
 ## License declarations

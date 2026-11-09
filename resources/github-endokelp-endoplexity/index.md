@@ -12,10 +12,6 @@ Chrome extension and agentic browser controller powered by local Claude and Curs
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:endokelp/endoplexity
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-endokelp-endoplexity/record.json
 
 ## License declarations

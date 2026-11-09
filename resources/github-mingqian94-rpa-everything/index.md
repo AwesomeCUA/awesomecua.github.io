@@ -12,10 +12,6 @@ Compiles repeated browser, desktop, Android, and office workflows into reviewed,
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:mingqian94/rpa-everything
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mingqian94-rpa-everything/record.json
 
 ## License declarations

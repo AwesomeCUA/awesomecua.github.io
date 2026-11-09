@@ -12,10 +12,6 @@ WebMCP argument debugger and research workspace with human-gated provenance trac
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:jameswirths/threadline
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jameswirths-threadline/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Web Context Interface (WCI) is a three-layer specification and toolkit augmentin
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:amirrezaalasti/webcontextinterface
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amirrezaalasti-webcontextinterface/record.json
 
 ## License declarations

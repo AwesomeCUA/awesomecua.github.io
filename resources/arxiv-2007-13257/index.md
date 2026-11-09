@@ -35,13 +35,13 @@ Tathagata Chakraborti, Vatche Isahagian, Rania Khalaf, Yasaman Khazaeni, Vinod M
 - Publication source: https://link.springer.com/chapter/10.1007/978-3-030-58779-6_15
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2007-13257/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2007-13257/publication-citation.csl.json
-- venue: Lecture Notes in Business Information Processing
-- publisher: Springer International Publishing
-- pages: 215-228
-- doi: 10.1007/978-3-030-58779-6_15
-- date basis: Crossref issued date 2020; precision=year.
-- identity basis: Same work as the retained arXiv record: matching title and seven-author list, and the arXiv preprint names the BPM 2020 RPA Forum.
-- notes: BPM 2020 RPA Forum chapter in Lecture Notes in Business Information Processing; the arXiv preprint names the same forum.
+- Venue: Lecture Notes in Business Information Processing
+- Publisher: Springer International Publishing
+- Pages: 215-228
+- DOI: 10.1007/978-3-030-58779-6_15
+- Date source: Crossref issued date 2020; precision=year.
+- Identity basis: Same work as the retained arXiv record: matching title and seven-author list, and the arXiv preprint names the BPM 2020 RPA Forum.
+- Source notes: BPM 2020 RPA Forum chapter in Lecture Notes in Business Information Processing; the arXiv preprint names the same forum.
 - Publication evidence: https://api.crossref.org/works/10.1007/978-3-030-58779-6_15
 
 ## Recorded arXiv snapshot

@@ -12,10 +12,6 @@ Self-hosted browser-use engine for Claude Code that drives a real browser to ope
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:hanzmaulwurf/tex-browse-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/record.json
 
 ## License declarations

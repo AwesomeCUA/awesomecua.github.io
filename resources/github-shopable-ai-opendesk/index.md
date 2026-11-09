@@ -12,10 +12,6 @@ OpenDesk is an API-driven desktop automation runtime that lets AI agents control
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:shopable-ai/opendesk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shopable-ai-opendesk/record.json
 
 ## License declarations

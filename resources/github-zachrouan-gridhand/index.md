@@ -12,10 +12,6 @@ Zero-dependency Rust CLI for cross-platform GUI automation that overlays labeled
 - Evidence checked: 2026-11-04T15:45:55Z
 - ID: github:zachrouan/gridhand
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zachrouan-gridhand/record.json
 
 ## License declarations

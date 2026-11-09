@@ -12,10 +12,6 @@ Vision plugin for text-only models on DeepSeek Harness enabling interactive imag
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:kanchengw/dsh-mindseye
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kanchengw-dsh-mindseye/record.json
 
 ## License declarations

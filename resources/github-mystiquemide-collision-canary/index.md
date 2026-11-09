@@ -12,10 +12,6 @@ Multi-actor invariant verification harness that drives two concurrent browser ag
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:mystiquemide/collision-canary
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mystiquemide-collision-canary/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser extension for filtering potentially unsafe agent input.
 - Evidence checked: 2026-10-16T06:36:05Z
 - ID: github:pixiebrix/agent-browser-shield
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pixiebrix-agent-browser-shield/record.json
 
 ## License declarations

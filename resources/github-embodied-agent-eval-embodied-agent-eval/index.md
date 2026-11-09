@@ -12,10 +12,6 @@ Embodied Agent Interface (EAI) benchmarks LLMs across goal interpretation, subgo
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:embodied-agent-eval/embodied-agent-eval
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-embodied-agent-eval-embodied-agent-eval/record.json
 
 ## License declarations

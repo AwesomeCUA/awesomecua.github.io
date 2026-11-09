@@ -12,10 +12,6 @@ Categorizes GUI-agent benchmarks, evaluation metrics, architectures, and trainin
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2412.13501
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-13501/record.json
 
 ## Authors
@@ -35,13 +31,13 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 - Publication source: https://aclanthology.org/2025.findings-acl.1158/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-13501/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-13501/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 22522-22538
-- doi: 10.18653/v1/2025.findings-acl.1158
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 22522-22538
+- DOI: 10.18653/v1/2025.findings-acl.1158
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.1158/
 
 ## Recorded arXiv snapshot

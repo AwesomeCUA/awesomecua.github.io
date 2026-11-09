@@ -12,10 +12,6 @@ HAICOSYSTEM simulates multi-turn interactions between human users, tool-using LL
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xuhuizhou/haicosystem
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xuhuizhou-haicosystem/record.json
 
 ## License declarations

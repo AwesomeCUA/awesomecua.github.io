@@ -22,10 +22,6 @@ Open-source browser agent library that runs locally with any LLM against a local
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:browser-use/browser-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-use-browser-use/record.json
 
 ### License declarations
@@ -55,10 +51,6 @@ Monorepo behind Cua Spaces, which gives agents full macOS or Linux desktops, plu
 - Topics: evaluation, workflow
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:trycua/cua
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-trycua-cua/record.json
 
@@ -157,10 +149,6 @@ Experiment framework for developing and evaluating browser agents.
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:servicenow/agentlab
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-servicenow-agentlab/record.json
 
 ### License declarations
@@ -191,10 +179,6 @@ Visual automation toolkit for web, mobile, and desktop interfaces.
 - Evidence checked: 2026-10-16T06:40:53Z
 - ID: github:web-infra-dev/midscene
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-web-infra-dev-midscene/record.json
 
 ### License declarations
@@ -224,10 +208,6 @@ Browser automation framework combining code and natural-language actions.
 - Topics: web-navigation
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:browserbase/stagehand
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-browserbase-stagehand/record.json
 
@@ -327,10 +307,6 @@ Reinforcement learning for autonomous mobile device control.
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:digirl-agent/digirl
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-digirl-agent-digirl/record.json
 
 ### License declarations
@@ -360,10 +336,6 @@ LangGraph is a stateful graph orchestration framework for building long-running,
 - Topics: workflow, state-tracking, human-in-the-loop, memory
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:langchain-ai/langgraph
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-langchain-ai-langgraph/record.json
 
@@ -429,10 +401,6 @@ Browser workflow automation using vision LLMs and a swarm of agents, offered as 
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:skyvern-ai/skyvern
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-skyvern-ai-skyvern/record.json
 
 ### License declarations
@@ -461,10 +429,6 @@ CUA-Gym is a scalable pipeline for synthesizing interactive mock web environment
 - Topics: data-generation, reinforcement-learning, sandbox, evaluation
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:xlang-ai/cua-gym
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-cua-gym/record.json
 
@@ -534,10 +498,6 @@ Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an
 - Topics: web-navigation
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:nottelabs/notte
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-nottelabs-notte/record.json
 
@@ -722,10 +682,6 @@ AutoGen is Microsoft's multi-agent conversation framework including MultimodalWe
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:microsoft/autogen
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-autogen/record.json
 
 ### License declarations
@@ -756,10 +712,6 @@ AutoGPT is an open-source autonomous agent platform for building, orchestrating,
 - Evidence checked: 2026-11-04T13:12:36Z
 - ID: github:significant-gravitas/autogpt
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-significant-gravitas-autogpt/record.json
 
 ### License declarations
@@ -788,10 +740,6 @@ BabyAGI is an autonomous task-management agent framework that iteratively create
 - Topics: planning, memory, workflow
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:yoheinakajima/babyagi
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-yoheinakajima-babyagi/record.json
 
@@ -822,10 +770,6 @@ Framework for GUI agent training, evaluation, and deployment.
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:zju-real/clawgui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zju-real-clawgui/record.json
 
 ### License declarations
@@ -855,10 +799,6 @@ Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claud
 - Topics: workflow
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:showlab/computer_use_ootb
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-showlab-computer-use-ootb/record.json
 
@@ -891,10 +831,6 @@ Self-hosted enterprise AI assistant and computer-use workspace by CopilotKit wit
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:copilotkit/openbot
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-copilotkit-openbot/record.json
 
 ### License declarations
@@ -924,10 +860,6 @@ midscene-pc extends Midscene.js to local and remote PC desktops, enabling natura
 - Topics: automation, grounding, screen-understanding
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:mofangbao/midscene-pc
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-mofangbao-midscene-pc/record.json
 
@@ -1063,10 +995,6 @@ World-model and planning components that simulate web-action outcomes, with link
 - Evidence checked: 2026-10-16T10:43:11Z
 - ID: github:osu-nlp-group/webdreamer
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/record.json
 
 ### License declarations
@@ -1095,10 +1023,6 @@ A-MEM implements a Zettelkasten-inspired dynamic memory architecture that links 
 - Topics: memory, long-horizon
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:agiresearch/a-mem
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-agiresearch-a-mem/record.json
 
@@ -1129,10 +1053,6 @@ Hybrid computer-use Python framework combining GUI actions, CLIs, APIs, and file
 - Topics: tool-integration, automation, workflow
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:accio-org/accio-cu
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-accio-org-accio-cu/record.json
 
@@ -1234,10 +1154,6 @@ Agentless resolves software engineering issues through a three-phase localizatio
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:openautocoder/agentless
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openautocoder-agentless/record.json
 
 ### License declarations
@@ -1302,10 +1218,6 @@ AutoCodeRover combines LLMs with AST-aware code search and spectrum-based fault 
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:nus-apr/auto-code-rover
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nus-apr-auto-code-rover/record.json
 
 ### License declarations
@@ -1334,10 +1246,6 @@ Provides VLM evaluator and policy-refinement code for autonomous evaluation and 
 - Topics: reward-models, self-reflection, reinforcement-learning
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:berkeley-nlp/agent-eval-refine
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-berkeley-nlp-agent-eval-refine/record.json
 
@@ -1368,10 +1276,6 @@ Avenir-Web trains human-experience-imitating multimodal web agents with mixture-
 - Topics: web-navigation, imitation-learning, planning, memory
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:princeton-ai2-lab/avenir-web
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/record.json
 
@@ -1507,10 +1411,6 @@ Agent framework for browser and desktop tasks using automation code.
 - Topics: tool-integration
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:microsoft/webwright
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-microsoft-webwright/record.json
 
@@ -1651,10 +1551,6 @@ ECLAIR automates enterprise web and desktop workflows from human demonstrations 
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:hazyresearch/eclair-agents
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hazyresearch-eclair-agents/record.json
 
 ### License declarations
@@ -1684,10 +1580,6 @@ Eigent is an open-source multi-agent desktop coworker built on CAMEL-AI for para
 - Topics: workflow, automation, human-in-the-loop, tool-integration
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:eigent-ai/eigent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-eigent-ai-eigent/record.json
 
@@ -1719,10 +1611,6 @@ Durable Playwright and Chrome task runner that keeps long-horizon browser jobs r
 - Evidence checked: 2026-11-04T17:30:40Z
 - ID: github:npcworkspace-cmyk/eric-task-master
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-npcworkspace-cmyk-eric-task-master/record.json
 
 ### License declarations
@@ -1752,10 +1640,6 @@ GenericAgent is a minimal self-evolving agent framework that synthesizes reusabl
 - Topics: self-reflection, memory, automation, tool-integration
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:lsdefine/genericagent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lsdefine-genericagent/record.json
 
@@ -1787,10 +1671,6 @@ glassbox is an iOS and iPadOS computer-use runtime that drives physical iPhones 
 - Evidence checked: 2026-11-04T16:10:37Z
 - ID: github:yoyicue/glassbox
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yoyicue-glassbox/record.json
 
 ### License declarations
@@ -1820,10 +1700,6 @@ Python SDK for the Glasswarp platform enabling AI agents to observe and control 
 - Topics: automation, screen-understanding, tool-integration
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:glasswarp/python-sdk
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-glasswarp-python-sdk/record.json
 
@@ -1926,10 +1802,6 @@ Implements training-free iterative visual crop-and-narrow refinement for improvi
 - Evidence checked: 2026-11-04T14:02:38Z
 - ID: github:ant-8/gui-grounding-via-iterative-narrowing
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ant-8-gui-grounding-via-iterative-narrowing/record.json
 
 ### License declarations
@@ -1958,10 +1830,6 @@ GUI-SD implements on-policy self-distillation for GUI visual grounding and actio
 - Topics: grounding, reinforcement-learning
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:zhangyan-ucas/gui-sd-code
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-zhangyan-ucas-gui-sd-code/record.json
 
@@ -1993,10 +1861,6 @@ Human escalation and live-session handoff layer for Solari browser agents when e
 - Evidence checked: 2026-11-04T17:55:24Z
 - ID: github:sy-d/handraise
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sy-d-handraise/record.json
 
 ### License declarations
@@ -2027,10 +1891,6 @@ Visible, persistent, dedicated browser runtime that coding agents can control wi
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:hronaut/hronaut
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hronaut-hronaut/record.json
 
 ### License declarations
@@ -2059,10 +1919,6 @@ Library adding natural-language commands to Playwright: accessibility-tree singl
 - Topics: web-navigation
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:hyperbrowserai/hyperagent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-hyperbrowserai-hyperagent/record.json
 
@@ -2093,10 +1949,6 @@ JARVIS-1 is an open-world multimodal Minecraft agent with episodic multimodal me
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:craftjarvis/jarvis-1
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-craftjarvis-jarvis-1/record.json
 
 ### License declarations
@@ -2125,10 +1977,6 @@ Open-source web agent framework where a World Model turns an objective and the c
 - Topics: web-navigation
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:lavague-ai/lavague
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lavague-ai-lavague/record.json
 
@@ -2160,10 +2008,6 @@ Open-source VLM web-agent framework providing Playwright browser control, planni
 - Evidence checked: 2026-10-16T13:14:29Z
 - ID: github:pathonai/litewebagent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pathonai-litewebagent/record.json
 
 ### License declarations
@@ -2194,10 +2038,6 @@ LLM-in-Sandbox equips language models with virtualized Linux computer sandboxes 
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:llm-in-sandbox/llm-in-sandbox
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-llm-in-sandbox-llm-in-sandbox/record.json
 
 ### License declarations
@@ -2227,10 +2067,6 @@ Mem0 provides a scalable long-term memory layer for AI agents that extracts, con
 - Topics: memory, long-horizon, efficiency
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:mem0ai/mem0
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-mem0ai-mem0/record.json
 
@@ -2543,10 +2379,6 @@ Neurosim is a Python framework for building, simulating, and evaluating multi-st
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:anaishowland/neurosim
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-neurosim/record.json
 
 ### License declarations
@@ -2576,10 +2408,6 @@ Local-first desktop AI agent platform with real desktop GUI execution and a comp
 - Topics: workflow, human-in-the-loop, automation, tool-integration
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:mrpulor-gh/nuphus
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-mrpulor-gh-nuphus/record.json
 
@@ -2611,10 +2439,6 @@ Oh My DSH coordinates multi-agent teams with a shared compare-and-set task graph
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:secretxuan/oh-my-dsh
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-secretxuan-oh-my-dsh/record.json
 
 ### License declarations
@@ -2644,10 +2468,6 @@ Model-agnostic computer-use core providing a unified agent loop and MCP server a
 - Topics: automation, tool-integration, safety-security
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:ellmos-ai/open-compute
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ellmos-ai-open-compute/record.json
 
@@ -2679,10 +2499,6 @@ OpenWebAgent provides a Chrome extension, HTML simplification parser, and backen
 - Evidence checked: 2026-11-04T13:12:42Z
 - ID: github:thudm/openwebagent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-openwebagent/record.json
 
 ### License declarations
@@ -2711,10 +2527,6 @@ Optics Framework is a self-healing test automation engine for mobile, web, and T
 - Topics: automation, evaluation, grounding
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:mozarkai/optics-framework
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-mozarkai-optics-framework/record.json
 
@@ -2746,10 +2558,6 @@ OS-Symphony is a holistic computer-use agent framework combining a Reflection-Me
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:os-copilot/os-symphony
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-symphony/record.json
 
 ### License declarations
@@ -2779,10 +2587,6 @@ Checkpoints and resumes long-running Solari cloud browser sessions across 10-min
 - Topics: long-horizon, state-tracking, web-navigation, robustness
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:sy-d/outlive
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sy-d-outlive/record.json
 
@@ -2852,10 +2656,6 @@ Safety-first starter template for building visible-browser Hermes computer-use a
 - Topics: safety-security, web-navigation, workflow, tool-integration
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:delltrak/plow-hermes-agent-template
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-delltrak-plow-hermes-agent-template/record.json
 
@@ -2990,10 +2790,6 @@ SimpAgent implements context-aware history simplification and visual token pruni
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:jiutian-vl/simpagent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jiutian-vl-simpagent/record.json
 
 ### License declarations
@@ -3022,10 +2818,6 @@ SteP implements dynamically composed Markovian LLM policies for multi-step web n
 - Topics: web-navigation, planning
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:asappresearch/webagents-step
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-asappresearch-webagents-step/record.json
 
@@ -3057,10 +2849,6 @@ Python toolkit and CLI for building, publishing and running multimodal agents th
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:agentsea/surfkit
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentsea-surfkit/record.json
 
 ### License declarations
@@ -3090,10 +2878,6 @@ SWE-agent introduces Agent-Computer Interfaces (ACI) enabling language models to
 - Topics: tool-integration, sandbox, evaluation
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:swe-agent/swe-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-swe-agent-swe-agent/record.json
 
@@ -3165,10 +2949,6 @@ ToolCUA trains computer-use agents to orchestrate hybrid MCP tool invocations an
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:x-plug/toolcua
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-x-plug-toolcua/record.json
 
 ### License declarations
@@ -3199,10 +2979,6 @@ Upsonic (formerly GPT Computer Assistant) is a Python agent framework with MCP s
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:onuratakan/gpt-computer-assistant
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-onuratakan-gpt-computer-assistant/record.json
 
 ### License declarations
@@ -3232,10 +3008,6 @@ Computer-vision accessibility-tree (AX/A11Y) generator that synthesizes structur
 - Topics: grounding, screen-understanding, efficiency
 - Evidence checked: 2026-11-04T18:11:38Z
 - ID: github:rao-studios/visionax
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-rao-studios-visionax/record.json
 
@@ -3306,10 +3078,6 @@ WebThinker empowers large reasoning models to autonomously search, browse webpag
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:ruc-nlpir/webthinker
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ruc-nlpir-webthinker/record.json
 
 ### License declarations
@@ -3374,10 +3142,6 @@ Online RL framework for GUI agents in which VLMs generate the training tasks and
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:opengvlab/zerogui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-zerogui/record.json
 
 ### License declarations
@@ -3408,10 +3172,6 @@ Uses an LLM to discover a UI workflow once and compiles the trajectory into a de
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:19ska/computer-use-automation
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-19ska-computer-use-automation/record.json
 
 ### License declarations
@@ -3440,10 +3200,6 @@ Governed credential-injection and browser-control bridge where AI agents operate
 - Topics: safety-security, human-in-the-loop, web-navigation
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:1clawai/browser-bridge
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-1clawai-browser-bridge/record.json
 
@@ -3475,10 +3231,6 @@ Pre-execution risk preflight service and SDK that checks third-party tools and d
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:mm-sheng/404-directory
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mm-sheng-404-directory/record.json
 
 ### License declarations
@@ -3508,10 +3260,6 @@ Accessibility-first computer-use runtime that feeds pruned accessibility-tree sn
 - Topics: screen-understanding, efficiency, automation
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:perception-dynamics-inc/a11y-computer-use
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-perception-dynamics-inc-a11y-computer-use/record.json
 
@@ -3543,10 +3291,6 @@ A2R2 is a black-box safety and reliability runtime for Android GUI agents that i
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:rty90/android-agent-reliability-runtime
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rty90-android-agent-reliability-runtime/record.json
 
 ### License declarations
@@ -3575,10 +3319,6 @@ Packaged local command center for running and monitoring personal OpenClaw compu
 - Topics: workflow, tool-integration, automation
 - Evidence checked: 2026-11-04T18:11:32Z
 - ID: github:magnusdot/aclaw
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-magnusdot-aclaw/record.json
 
@@ -3609,10 +3349,6 @@ Generates deterministic per-action DOM and network effect receipts for auditing 
 - Topics: observability, safety-security, state-tracking, web-navigation
 - Evidence checked: 2026-11-04T18:11:34Z
 - ID: github:jeremiahm37/action-receipt
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-jeremiahm37-action-receipt/record.json
 
@@ -3677,10 +3413,6 @@ Model-agnostic runtime for evaluating, approving, recording, and replaying AI ag
 - Evidence checked: 2026-11-04T16:51:59Z
 - ID: github:xxwtiancai/action-anything
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xxwtiancai-action-anything/record.json
 
 ### License declarations
@@ -3710,10 +3442,6 @@ Zero-cloud Windows OS perception layer and Model Context Protocol server streami
 - Topics: screen-understanding, state-tracking, efficiency, tool-integration
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:amirf147/active-desktop-context-engine
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-amirf147-active-desktop-context-engine/record.json
 
@@ -3779,10 +3507,6 @@ AdInject implements black-box indirect prompt injection attacks delivered throug
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:nicerwang/adinject
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nicerwang-adinject/record.json
 
 ### License declarations
@@ -3811,10 +3535,6 @@ Black-box adversarial prompt-injection red-teaming framework for training and ev
 - Topics: safety-security, robustness, web-navigation
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: github:ai-secure/advweb
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ai-secure-advweb/record.json
 
@@ -3845,10 +3565,6 @@ Privacy-first browser agent framework that blurs faces and redacts PII in screen
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:lukan-lawslaf/aegis-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lukan-lawslaf-aegis-agent/record.json
 
 ### License declarations
@@ -3877,10 +3593,6 @@ Aeiva is a modular general-purpose AI agent framework adaptable across desktop, 
 - Topics: planning, memory, tool-integration, workflow
 - Evidence checked: 2026-11-04T15:03:36Z
 - ID: github:chatsci/aeiva
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-chatsci-aeiva/record.json
 
@@ -3912,10 +3624,6 @@ Human-calibrated mouse trajectory and keyboard timing synthesis library for brow
 - Evidence checked: 2026-11-04T17:55:15Z
 - ID: github:aeonmindai/agenthands
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aeonmindai-agenthands/record.json
 
 ### License declarations
@@ -3945,10 +3653,6 @@ Universal access layer that routes websites, apps, and repeated workflows into a
 - Topics: tool-integration, workflow, efficiency, automation
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:r266-tech/agent-access
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-r266-tech-agent-access/record.json
 
@@ -3980,10 +3684,6 @@ Native Windows desktop computer-use and reusable RPA harness exposing CLI, MCP, 
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:xuyw1997/agent-desktop-harness
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xuyw1997-agent-desktop-harness/record.json
 
 ### License declarations
@@ -4013,10 +3713,6 @@ Computer-use automation infrastructure for legacy financial software that compil
 - Topics: recording, workflow, efficiency, automation
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:ashishkosana/agent-hands
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ashishkosana-agent-hands/record.json
 
@@ -4048,10 +3744,6 @@ Agent Lumos provides unified training data and modular planning and grounding ar
 - Evidence checked: 2026-11-04T14:02:38Z
 - ID: github:allenai/lumos
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-allenai-lumos/record.json
 
 ### License declarations
@@ -4081,10 +3773,6 @@ Agent Q combines Monte Carlo Tree Search, AI self-critique, and Direct Preferenc
 - Topics: reinforcement-learning, planning, web-navigation, self-reflection
 - Evidence checked: 2026-11-04T13:12:35Z
 - ID: github:sentient-engineering/agent-q
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sentient-engineering-agent-q/record.json
 
@@ -4157,10 +3845,6 @@ Orchestrates parallel Claude Code and computer-use sessions against a shared, de
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:mskazemi/agent-fleet
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mskazemi-agent-fleet/record.json
 
 ### License declarations
@@ -4230,10 +3914,6 @@ Enterprise digital workforce operations platform combining computer-use executio
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:huzjie/agentdesk
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-huzjie-agentdesk/record.json
 
 ### License declarations
@@ -4263,10 +3943,6 @@ Zero-dependency Chrome DevTools Protocol runtime for AI agents to drive headless
 - Topics: web-navigation, efficiency, automation
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:rakeshnirzari1/agentdock
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-rakeshnirzari1-agentdock/record.json
 
@@ -4298,10 +3974,6 @@ AgentGPT is a browser-based platform for configuring and deploying autonomous go
 - Evidence checked: 2026-11-04T13:12:33Z
 - ID: github:reworkd/agentgpt
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-reworkd-agentgpt/record.json
 
 ### License declarations
@@ -4331,10 +4003,6 @@ Agent-first Python browser runtime providing stable element references, compact 
 - Topics: web-navigation, efficiency, screen-understanding, tool-integration
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:applejuice093/agentic-browser
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-applejuice093-agentic-browser/record.json
 
@@ -4366,10 +4034,6 @@ RewardAgent combines human-preference scores with verifiable factuality and inst
 - Evidence checked: 2026-11-04T13:12:39Z
 - ID: github:thu-keg/agentic-reward-modeling
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thu-keg-agentic-reward-modeling/record.json
 
 ### License declarations
@@ -4398,10 +4062,6 @@ Open-source e-commerce execution layer enabling Claude Code and Codex agents to 
 - Topics: web-navigation, workflow, safety-security, human-in-the-loop
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:andriishramko/agentic-shopping-autopilot
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-andriishramko-agentic-shopping-autopilot/record.json
 
@@ -4433,10 +4093,6 @@ AgentiTest is a natural-language browser test automation framework built on Pyth
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:kweinmeister/agentitest
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kweinmeister-agentitest/record.json
 
 ### License declarations
@@ -4466,10 +4122,6 @@ agentmemory provides persistent cross-session memory and MCP integration for cod
 - Topics: memory, long-horizon, tool-integration
 - Evidence checked: 2026-11-04T13:12:33Z
 - ID: github:rohitg00/agentmemory
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-rohitg00-agentmemory/record.json
 
@@ -4540,10 +4192,6 @@ Lightweight Wayland scaffold isolating an AI agent to operate a single GUI appli
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:vimalinx/agentseat
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vimalinx-agentseat/record.json
 
 ### License declarations
@@ -4573,10 +4221,6 @@ Toolkit and Ubuntu-based environment for building and evaluating generalist comp
 - Topics: sandbox, evaluation, grounding, recording
 - Evidence checked: 2026-10-18T10:59:56Z
 - ID: github:skyworkai/agent-studio
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-skyworkai-agent-studio/record.json
 
@@ -4647,10 +4291,6 @@ Natural-language Browser Agent execution platform supporting multi-browser sched
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:dongxinsuperman/ai-web
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dongxinsuperman-ai-web/record.json
 
 ### License declarations
@@ -4681,10 +4321,6 @@ Zero-dependency CDP browser driver and hydration-reliability testing framework f
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:daud-khan-qa/ai-agentic-qa-framework
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-daud-khan-qa-ai-agentic-qa-framework/record.json
 
 ### License declarations
@@ -4714,10 +4350,6 @@ Human-in-the-loop Windows desktop automation runtime with MCP support, bounded f
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:peiwenzhang-git/ai-work
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-peiwenzhang-git-ai-work/record.json
 
 ### License declarations
@@ -4746,10 +4378,6 @@ Turns a physical or virtual machine into an LLM-callable execution node with san
 - Topics: sandbox, tool-integration, automation
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:veypi/aic-pod
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-veypi-aic-pod/record.json
 
@@ -4781,10 +4409,6 @@ Ailoy is a multi-language AI agent SDK that provisions isolated microVM sandboxe
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:brekkylab/ailoy
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-brekkylab-ailoy/record.json
 
 ### License declarations
@@ -4814,10 +4438,6 @@ Local Computer Mode runtime and reproducible bootstrap for the Airi-PC desktop a
 - Topics: screen-understanding, automation, tool-integration
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:arancione3000/airi-pc-bootstrap
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-arancione3000-airi-pc-bootstrap/record.json
 
@@ -4880,10 +4500,6 @@ Android-Skill-Agent extracts demonstration-guided, parameterized operational ski
 - Topics: mobile-navigation, imitation-learning, memory, workflow
 - Evidence checked: 2026-11-04T14:41:47Z
 - ID: github:xiru0834-eng/android-skill-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-xiru0834-eng-android-skill-agent/record.json
 
@@ -4954,10 +4570,6 @@ Local-first open-source agent runtime for safely executing AI-driven tasks on a 
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:anpl1623/agentos
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anpl1623-agentos/record.json
 
 ### License declarations
@@ -4987,10 +4599,6 @@ Official multi-language SDKs (TypeScript, Python, C#, Go, PHP, Ruby) for driving
 - Topics: web-navigation, sandbox, automation
 - Evidence checked: 2026-11-04T18:11:51Z
 - ID: github:antybrowser/sdk
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-antybrowser-sdk/record.json
 
@@ -5022,10 +4630,6 @@ Captures a website's authenticated network calls from a live browser session and
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:justvugg/anybridge
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-justvugg-anybridge/record.json
 
 ### License declarations
@@ -5055,10 +4659,6 @@ Pluggable browser-automation and web-agent runtime supporting interchangeable LL
 - Topics: web-navigation, tool-integration, automation
 - Evidence checked: 2026-11-04T17:55:26Z
 - ID: github:christopher-inegbedion/anybrowser
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-christopher-inegbedion-anybrowser/record.json
 
@@ -5090,10 +4690,6 @@ AnythingLLM is a local-first desktop and server application supporting custom AI
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:mintplex-labs/anything-llm
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mintplex-labs-anything-llm/record.json
 
 ### License declarations
@@ -5123,10 +4719,6 @@ AnyTool is a universal tool-use layer for AI agents supporting MCP, GUI, web, an
 - Topics: tool-integration, planning, efficiency
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:hkuds/anytool
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-hkuds-anytool/record.json
 
@@ -5158,10 +4750,6 @@ AOI provides an adaptive video and audio perception layer for computer-use agent
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:19pine-ai/aoi
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-19pine-ai-aoi/record.json
 
 ### License declarations
@@ -5192,10 +4780,6 @@ Unified CLI layer over host machines allowing AI agents to drive desktop apps an
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:muthuishere/aos
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-muthuishere-aos/record.json
 
 ### License declarations
@@ -5224,10 +4808,6 @@ App Use is a Python framework that connects LLM agents to Android and iOS mobile
 - Topics: mobile-navigation, automation, grounding
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:erickjtorres/app-use
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-erickjtorres-app-use/record.json
 
@@ -5258,10 +4838,6 @@ AI-powered CLI that explores a web application in a browser and compiles the run
 - Topics: recording, evaluation, web-navigation, efficiency
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:kubstack/appwalk
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-kubstack-appwalk/record.json
 
@@ -5335,10 +4911,6 @@ ASIL replaces screenshot-and-click loops with structured application state obser
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:sharryxr/asil
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sharryxr-asil/record.json
 
 ### License declarations
@@ -5368,10 +4940,6 @@ Ask-before-Plan trains proactive language agents to clarify underspecified user 
 - Topics: planning, human-in-the-loop, tool-integration
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:magicgh/ask-before-plan
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-magicgh-ask-before-plan/record.json
 
@@ -5403,10 +4971,6 @@ AstronRPA is an open-source enterprise desktop and browser RPA platform with vis
 - Evidence checked: 2026-11-04T13:12:18Z
 - ID: github:iflytek/astron-rpa
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-iflytek-astron-rpa/record.json
 
 ### License declarations
@@ -5436,10 +5000,6 @@ Self-verifying web agent core where the model proposes candidate actions and the
 - Topics: safety-security, self-reflection, web-navigation, robustness
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:cyrus580529/attest
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-cyrus580529-attest/record.json
 
@@ -5471,10 +5031,6 @@ Closed-loop screenshot-click-verify remote automation framework over MCP for des
 - Evidence checked: 2026-11-04T16:51:45Z
 - ID: github:lvusyy/aura
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lvusyy-aura/record.json
 
 ### License declarations
@@ -5504,10 +5060,6 @@ Chrome extension that automatically converts standard HTML web forms into struct
 - Topics: tool-integration, web-navigation, automation
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:pauloportella/auto-webmcp-chrome
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-pauloportella-auto-webmcp-chrome/record.json
 
@@ -5539,10 +5091,6 @@ AutoBot is a self-improving agent harness for ChatGPT and Codex on macOS featuri
 - Evidence checked: 2026-11-04T14:41:53Z
 - ID: github:demeyer1/autobot
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-demeyer1-autobot/record.json
 
 ### License declarations
@@ -5572,10 +5120,6 @@ AutoCoA internalizes Chain-of-Action generation into reasoning models via step-l
 - Topics: reinforcement-learning, tool-integration, world-models, planning
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:adam-bjtu/autocoa
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-adam-bjtu-autocoa/record.json
 
@@ -5607,10 +5151,6 @@ Desktop GUI automation platform combining a Rust execution core, Python SDK, MCP
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:yygg693/autocomputer
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yygg693-autocomputer/record.json
 
 ### License declarations
@@ -5641,10 +5181,6 @@ AutoCua is a multi-agent computer-use orchestration platform for automating end-
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:computeruseagent/autocua
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-computeruseagent-autocua/record.json
 
 ### License declarations
@@ -5674,10 +5210,6 @@ Batch web-form automation framework with self-healing selectors that runs LLM-fr
 - Topics: robustness, efficiency, web-navigation, automation
 - Evidence checked: 2026-11-04T17:30:38Z
 - ID: github:fedetrain/autofiller-universal
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-fedetrain-autofiller-universal/record.json
 
@@ -5750,10 +5282,6 @@ AutoManual enables LLM agents to construct and iteratively refine structured ins
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:minghchen/automanual
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-minghchen-automanual/record.json
 
 ### License declarations
@@ -5782,10 +5310,6 @@ Record-once, replay-many browser automation runtime for Windows that records liv
 - Topics: recording, imitation-learning, efficiency, web-navigation
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:mindattic/automata
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-mindattic-automata/record.json
 
@@ -5816,10 +5340,6 @@ Automify is a Node.js computer-use framework unifying browser, CLI, and native d
 - Topics: automation, web-navigation, workflow, tool-integration
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:aldovincenti/automify
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-aldovincenti-automify/record.json
 
@@ -5924,10 +5444,6 @@ Local-first, policy-governed action layer for Linux desktop automation with prev
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:frezzaroukos/axon-os
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-frezzaroukos-axon-os/record.json
 
 ### License declarations
@@ -5957,10 +5473,6 @@ Streaming JSON-lines action language and compiler for macOS computer-use agents.
 - Topics: efficiency, action-prediction, recording, automation
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:milind-soni/axstream
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-milind-soni-axstream/record.json
 
@@ -5992,10 +5504,6 @@ BadAgents provides poisoned training datasets and evaluation scripts for query-,
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:lancopku/agent-backdoor-attacks
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lancopku-agent-backdoor-attacks/record.json
 
 ### License declarations
@@ -6025,10 +5533,6 @@ Thread-based multi-agent desktop runtime allowing a team of AI agents to collabo
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:bees-bot/bees-desktop
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bees-bot-bees-desktop/record.json
 
 ### License declarations
@@ -6057,10 +5561,6 @@ Rust background computer-use driver for macOS, Windows, and Linux.
 - Topics: automation, sandbox, efficiency
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:lvyuan1688/bg-driver-rs
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lvyuan1688-bg-driver-rs/record.json
 
@@ -6092,10 +5592,6 @@ Model-guided UI workflow discovery framework with signed human review and determ
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:bgivenb/computer-use-automation
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bgivenb-computer-use-automation/record.json
 
 ### License declarations
@@ -6125,10 +5621,6 @@ Visible, human-governed browser workspace that converts live web workflows into 
 - Topics: human-in-the-loop, recording, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:salilbhasinofficial/webmcp-browser-studio
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-salilbhasinofficial-webmcp-browser-studio/record.json
 
@@ -6160,10 +5652,6 @@ Open browser-use runtime, local bridge, CLI, and AI harness adapter for driving 
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:frankfromfuture/brizo
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-frankfromfuture-brizo/record.json
 
 ### License declarations
@@ -6193,10 +5681,6 @@ Agentic browser harness providing an AI side panel and interactive control orb i
 - Topics: web-navigation, human-in-the-loop, automation
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:imshaikot/browsentic
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-imshaikot-browsentic/record.json
 
@@ -6228,10 +5712,6 @@ Lightweight runtime for executing autonomous browser-agent perception and action
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:coolwkx/browser-agent-runtime-lite
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-coolwkx-browser-agent-runtime-lite/record.json
 
 ### License declarations
@@ -6261,10 +5741,6 @@ Goal-driven web agent architecture using a cheapest-tier-first cascade across XH
 - Topics: efficiency, web-navigation, data-generation
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:quantumproxies/browser-ai-agent-examples
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-quantumproxies-browser-ai-agent-examples/record.json
 
@@ -6296,10 +5772,6 @@ Privacy-preserving browser perception framework that redacts sensitive PII from 
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:rounakkm/browser-perception
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rounakkm-browser-perception/record.json
 
 ### License declarations
@@ -6329,10 +5801,6 @@ Multimodal browser reliability runtime for failure diagnosis, policy-aware recov
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:oosuhada/browser-reliability-runtime
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/record.json
 
 ### License declarations
@@ -6361,10 +5829,6 @@ Verification protocol that binds human approval to target DOM state, aborting cl
 - Topics: safety-security, human-in-the-loop, state-tracking, web-navigation
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:scalar-atelier/browser-action-receipt
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/record.json
 
@@ -6396,10 +5860,6 @@ browser-agent-kit is a framework for building in-page AI agents that execute dir
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:nicolascine/browser-agent-kit
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nicolascine-browser-agent-kit/record.json
 
 ### License declarations
@@ -6429,10 +5889,6 @@ AI-oriented browser automation runtime and CLI exposing compact DOM observations
 - Topics: web-navigation, efficiency, tool-integration, automation
 - Evidence checked: 2026-11-04T17:20:48Z
 - ID: github:icueth/browser-for-ai
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-icueth-browser-for-ai/record.json
 
@@ -6464,10 +5920,6 @@ WebDriver BiDi-first browser automation harness connecting LLMs directly to live
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:andrewdzzz/browser-harness-bidi
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-andrewdzzz-browser-harness-bidi/record.json
 
 ### License declarations
@@ -6497,10 +5949,6 @@ Vision-grounding plugin for browser-use combining Set-of-Mark overlays, Florence
 - Topics: grounding, screen-understanding, web-navigation
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:raidriar7170/browser-use-vision
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-raidriar7170-browser-use-vision/record.json
 
@@ -6532,10 +5980,6 @@ browser-use-rs is a lightweight pure-Rust library for driving Chromium browsers 
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:bb-fat/browser-use-rs
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bb-fat-browser-use-rs/record.json
 
 ### License declarations
@@ -6565,10 +6009,6 @@ Browser4 is an AI-native browser engine and coroutines runtime for high-concurre
 - Topics: web-navigation, automation, data-generation, efficiency
 - Evidence checked: 2026-11-04T14:02:37Z
 - ID: github:platonai/browser4
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-platonai-browser4/record.json
 
@@ -6638,10 +6078,6 @@ browserkit is a TypeScript framework for building site-specific MCP servers that
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:browserkit-dev/browserkit
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browserkit-dev-browserkit/record.json
 
 ### License declarations
@@ -6670,10 +6106,6 @@ Multi-agent browser MCP runtime in Rust managing isolated, persistent, parallel 
 - Topics: web-navigation, tool-integration, sandbox, workflow
 - Evidence checked: 2026-11-04T16:51:59Z
 - ID: github:scrolldynasty/browsermesh
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-scrolldynasty-browsermesh/record.json
 
@@ -6705,10 +6137,6 @@ Open-source local driver enabling trusted AI agents to control an existing signe
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:castor6/browserrig
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-castor6-browserrig/record.json
 
 ### License declarations
@@ -6739,10 +6167,6 @@ Streams and mirrors a live Chromium tab into a web page over a single WebSocket 
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:mathisarends/browsertunnel
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mathisarends-browsertunnel/record.json
 
 ### License declarations
@@ -6771,10 +6195,6 @@ browxai provides unified MCP-native control over Chromium, Firefox, and native d
 - Topics: web-navigation, tool-integration, automation
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:kalebteccom/browxai
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-kalebteccom-browxai/record.json
 
@@ -6806,10 +6226,6 @@ BRYES decouples a high-level reasoning planner ('Brain') from swappable visual p
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:alvseek/bryes
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alvseek-bryes/record.json
 
 ### License declarations
@@ -6839,10 +6255,6 @@ Agent-oriented browser CLI powered by Bun WebView with terminal Kitty graphics r
 - Topics: web-navigation, efficiency, screen-understanding
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:bytehunt/br
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-bytehunt-br/record.json
 
@@ -6874,10 +6286,6 @@ Cactus is a cross-platform on-device LLM and VLM inference framework for mobile 
 - Evidence checked: 2026-11-04T13:12:09Z
 - ID: github:cactus-compute/cactus
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cactus-compute-cactus/record.json
 
 ### License declarations
@@ -6906,10 +6314,6 @@ Screen-driven QA agent that tests web and desktop applications through their ren
 - Topics: evaluation, screen-understanding, automation, human-in-the-loop
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:dilawarshafiq/camel-ai
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dilawarshafiq-camel-ai/record.json
 
@@ -6940,10 +6344,6 @@ CanpGrid provides an adaptive recursive image grid overlay for progressive coars
 - Topics: grounding, screen-understanding, training-free
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:yeqi99/canpgrid
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-yeqi99-canpgrid/record.json
 
@@ -7008,10 +6408,6 @@ Dual-mode macOS GUI automation SDK supporting structured JSON procedures, local/
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:case-computers/case-sdk
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-case-computers-case-sdk/record.json
 
 ### License declarations
@@ -7040,10 +6436,6 @@ Computer Experience Layer (CEL) provides structured macOS perception contracts a
 - Topics: screen-understanding, tool-integration, safety-security
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:dimpagk92/cellar
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dimpagk92-cellar/record.json
 
@@ -7075,10 +6467,6 @@ Self-hosted AI agent workbench combining a web UI, TypeScript backend, sandboxed
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:mcd0luo/celestea-harness-studio
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mcd0luo-celestea-harness-studio/record.json
 
 ### License declarations
@@ -7109,10 +6497,6 @@ cellar implements the Context Execution Layer (CEL), a structured context and ac
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:dilipod/cellar
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dilipod-cellar/record.json
 
 ### License declarations
@@ -7141,10 +6525,6 @@ CGL advances continual GUI agent learning across evolving domains via reinforcem
 - Topics: reinforcement-learning, grounding, robustness
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:skounputer/cgl
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-skounputer-cgl/record.json
 
@@ -7176,10 +6556,6 @@ Self-repairing browser automation prototype that detects and adapts to third-par
 - Evidence checked: 2026-11-04T17:20:52Z
 - ID: github:kxvya18/chnage-shield
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kxvya18-chnage-shield/record.json
 
 ### License declarations
@@ -7208,10 +6584,6 @@ Multi-agent engineering control plane orchestrating ChatGPT Web sessions through
 - Topics: workflow, planning, web-navigation, tool-integration
 - Evidence checked: 2026-11-04T17:55:13Z
 - ID: github:xalzeroph/charterion
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-xalzeroph-charterion/record.json
 
@@ -7277,10 +6649,6 @@ Exposes 33 browser-native WebMCP tools for autonomous agents operating inside th
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:openclawcity/city-webmcp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openclawcity-city-webmcp/record.json
 
 ### License declarations
@@ -7310,10 +6678,6 @@ Clawbrowser is an agent-native managed Chromium runtime with fingerprint rotatio
 - Topics: web-navigation, sandbox, automation
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:clawbrowser/clawbrowser
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-clawbrowser-clawbrowser/record.json
 
@@ -7345,10 +6709,6 @@ ClawMobile is an Android agent runtime built on OpenClaw for controlling mobile 
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:clawmobile/clawmobile
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-clawmobile-clawmobile/record.json
 
 ### License declarations
@@ -7378,10 +6738,6 @@ Open-source stealth Chromium browser with engine-level fingerprint spoofing desi
 - Topics: web-navigation, automation, sandbox
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:clearcotelabs/clearcote-browser
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-clearcotelabs-clearcote-browser/record.json
 
@@ -7413,10 +6769,6 @@ clef-use is a local computer-use runtime combining structured accessibility, Sig
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:kotori0919/clef-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kotori0919-clef-use/record.json
 
 ### License declarations
@@ -7446,10 +6798,6 @@ CLI-Anything automatically wraps professional desktop GUI applications such as G
 - Topics: tool-integration, automation, workflow
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:hkuds/cli-anything
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-hkuds-cli-anything/record.json
 
@@ -7481,10 +6829,6 @@ ClickClickClick is a framework for autonomous Android and desktop computer use s
 - Evidence checked: 2026-11-04T14:02:37Z
 - ID: github:instavm/clickclickclick
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-instavm-clickclickclick/record.json
 
 ### License declarations
@@ -7513,10 +6857,6 @@ Records human UI workflows once and compiles them into parameterized, editable r
 - Topics: recording, imitation-learning, workflow, automation
 - Evidence checked: 2026-11-04T16:10:28Z
 - ID: github:cloudcrewatwork/understudy
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-cloudcrewatwork-understudy/record.json
 
@@ -7548,10 +6888,6 @@ Open-source replication of the CoAct-1 hybrid coding-and-GUI multi-agent archite
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:buiilding/coact-1_implementation
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-buiilding-coact-1-implementation/record.json
 
 ### License declarations
@@ -7580,10 +6916,6 @@ Local-first browser automation platform for AI agents supporting isolated Chromi
 - Topics: web-navigation, sandbox, automation
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:ajnasnb/cockroach-browser
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ajnasnb-cockroach-browser/record.json
 
@@ -7614,10 +6946,6 @@ CODA coordinates a trainable planner ('Cerebrum') with a grounded GUI executor (
 - Topics: planning, reinforcement-learning, grounding, science
 - Evidence checked: 2026-11-04T13:12:30Z
 - ID: github:openixclab/coda
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-openixclab-coda/record.json
 
@@ -7680,10 +7008,6 @@ Local-first Electron controller for multi-model deliberation and evidence-preser
 - Topics: workflow, observability, tool-integration
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:zhiheng-zhang-mera/codex-boss
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-zhiheng-zhang-mera-codex-boss/record.json
 
@@ -7748,10 +7072,6 @@ WebMCP-enabled reading and publishing workspace designed for shared control betw
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:arterialist/webmcp-openai-hackathon
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arterialist-webmcp-openai-hackathon/record.json
 
 ### License declarations
@@ -7782,10 +7102,6 @@ Compress2Focus (CCPO) implements coordinate compression for multi-turn policy op
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:hithink-research/ccpo
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hithink-research-ccpo/record.json
 
 ### License declarations
@@ -7814,10 +7130,6 @@ Fine-tunes small language models for computer-use navigation and GUI interaction
 - Topics: reinforcement-learning, efficiency, sandbox
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:shayanamir0/computer-use-with-slm
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-shayanamir0-computer-use-with-slm/record.json
 
@@ -7848,10 +7160,6 @@ Discovers legacy UI workflows with an LLM once and compiles them into typed, ver
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:pavanvakula/computer-use-capability-engine
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pavanvakula-computer-use-capability-engine/record.json
 
 ### License declarations
@@ -7880,10 +7188,6 @@ computer.cpp turns native desktop GUI applications into structured, API-callable
 - Topics: automation, tool-integration, efficiency
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:gobii-ai/computer.cpp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-gobii-ai-computer-cpp/record.json
 
@@ -7915,10 +7219,6 @@ Defines an open `COMPUTER.md` machine specification and runtime for LLM agents t
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:carloslfu/computer.md
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-carloslfu-computer-md/record.json
 
 ### License declarations
@@ -7948,10 +7248,6 @@ Reinforcement-learning infrastructure for computer-use agents.
 - Topics: reinforcement-learning
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:thudm/computerrl
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-thudm-computerrl/record.json
 
@@ -8017,10 +7313,6 @@ Unified multimodal control framework combining pure-vision desktop operation, st
 - Evidence checked: 2026-11-04T18:11:43Z
 - ID: github:gekaixing/control-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gekaixing-control-agent/record.json
 
 ### License declarations
@@ -8049,10 +7341,6 @@ Lifecycle-safe Cordis plugin suite for orchestrating ProfileFleet, OpenAI Codex,
 - Topics: workflow, web-navigation, tool-integration, automation
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:enginefuture/cordis-social
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-enginefuture-cordis-social/record.json
 
@@ -8084,10 +7372,6 @@ CrewAI is a Python framework for orchestrating role-playing autonomous AI agent 
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:joaomdmoura/crewai
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-joaomdmoura-crewai/record.json
 
 ### License declarations
@@ -8116,10 +7400,6 @@ Local computer-use runtime for coding agents exposing desktop inspection and inp
 - Topics: automation, tool-integration, screen-understanding
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:caelaxie/crosshands
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-caelaxie-crosshands/record.json
 
@@ -8151,10 +7431,6 @@ Implements reinforcement learning with autonomous evaluator feedback for fine-tu
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:martasumyk/cua-eval-and-finetuning
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-martasumyk-cua-eval-and-finetuning/record.json
 
 ### License declarations
@@ -8183,10 +7459,6 @@ cua_agent is a modular Python computer-use framework with OS-agnostic planning, 
 - Topics: automation, grounding, safety-security, planning
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:lacassef/computeruse
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lacassef-computeruse/record.json
 
@@ -8217,10 +7489,6 @@ CUArena wraps desktop and web applications into resettable, observable, and prog
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:ogutdgn/cuarena
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ogutdgn-cuarena/record.json
 
 ### License declarations
@@ -8249,10 +7517,6 @@ cuforge is an online reinforcement-learning and verifiable task-synthesis platfo
 - Topics: reinforcement-learning, data-generation, sandbox
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:huzjie/cuforge
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-huzjie-cuforge/record.json
 
@@ -8284,10 +7548,6 @@ cuse is an open-source framework for building AI agents that control virtualized
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:cuse-dev/cuse
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cuse-dev-cuse/record.json
 
 ### License declarations
@@ -8317,10 +7577,6 @@ Human-authorized safety and consent pattern for WebMCP browser agents operating 
 - Topics: safety-security, human-in-the-loop, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:cyberseeds-uk/cyber-seeds-webmcp-challenge
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/record.json
 
@@ -8426,10 +7682,6 @@ DART-GUI implements decoupled multi-turn reinforcement learning and adaptive tra
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:computer-use-agents/dart-gui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-computer-use-agents-dart-gui/record.json
 
 ### License declarations
@@ -8459,10 +7711,6 @@ Cross-platform Rust runtime and CLI for AI agents to observe and control scoped 
 - Topics: automation, screen-understanding, tool-integration
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:dcc-mcp/dcc-cua
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dcc-mcp-dcc-cua/record.json
 
@@ -8494,10 +7742,6 @@ Auditable vision and cross-platform computer-use runtime for DeepSeek Harness wi
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:dttxorg/deepseekeyes
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dttxorg-deepseekeyes/record.json
 
 ### License declarations
@@ -8527,10 +7771,6 @@ DeskCanvas converts live Windows application windows into structured semantic st
 - Topics: screen-understanding, safety-security, automation
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:sorry123luck/desk-canvas
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sorry123luck-desk-canvas/record.json
 
@@ -8562,10 +7802,6 @@ Desktop control engine for GUI agents using UIA and AT-SPI accessibility trees a
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:mini-mind/deskctl
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mini-mind-deskctl/record.json
 
 ### License declarations
@@ -8596,10 +7832,6 @@ DeskForge extracts dense step-level supervision signals from desktop execution e
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:saidgurbuz/deskforge
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-saidgurbuz-deskforge/record.json
 
 ### License declarations
@@ -8628,10 +7860,6 @@ Sandboxed local computer-automation agent reference architecture with window det
 - Topics: safety-security, sandbox, screen-understanding, automation
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:dax0056/desktop-action-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dax0056-desktop-action-agent/record.json
 
@@ -8663,10 +7891,6 @@ deskwork augments Claude Computer Use with domain document retrieval to execute 
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:ashnkumar/deskwork
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ashnkumar-deskwork/record.json
 
 ### License declarations
@@ -8696,10 +7920,6 @@ Two-phase computer-use automation framework that compiles LLM-driven UI discover
 - Topics: workflow, recording, efficiency, automation
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:joncody/computer-use-automation
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-joncody-computer-use-automation/record.json
 
@@ -8731,10 +7951,6 @@ device-use enables AI agents to operate scientific laboratory instruments throug
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:labclaw/device-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-labclaw-device-use/record.json
 
 ### License declarations
@@ -8764,10 +7980,6 @@ Local coordination hub and lock manager that lets multiple AI agents reserve and
 - Topics: safety-security, sandbox, tool-integration, automation
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:joshteravest/dibs
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-joshteravest-dibs/record.json
 
@@ -8799,10 +8011,6 @@ Offline device-control training code that learns action values and uses them to 
 - Evidence checked: 2026-10-16T11:09:28Z
 - ID: github:digirl-agent/digiq
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-digirl-agent-digiq/record.json
 
 ### License declarations
@@ -8831,10 +8039,6 @@ Local-first web research and browser automation framework for LLM agents combini
 - Topics: web-navigation, data-generation, automation
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:ronandavalan/dinoer
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ronandavalan-dinoer/record.json
 
@@ -8900,10 +8104,6 @@ Framework-neutral browser-state snapshotter capturing compact, diffable DOM and 
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:zuub-don/domstamp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zuub-don-domstamp/record.json
 
 ### License declarations
@@ -8933,10 +8133,6 @@ Enhanced Browser-Use distribution adding the `bu_mcp` Model Context Protocol lay
 - Topics: web-navigation, tool-integration, automation
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:draiqw/browser-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-draiqw-browser-agent/record.json
 
@@ -8968,10 +8164,6 @@ On-device visual privacy firewall that detects and masks sensitive screen region
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:atharvasamant4/drishtiguard
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/record.json
 
 ### License declarations
@@ -9000,10 +8192,6 @@ Self-healing browser control framework for DeepSeek Harness featuring semantic p
 - Topics: web-navigation, self-reflection, robustness, automation
 - Evidence checked: 2026-11-04T17:20:48Z
 - ID: github:haodongzhang022-hue/openliulan
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-haodongzhang022-hue-openliulan/record.json
 
@@ -9034,10 +8222,6 @@ DualTAP is a dual-task adversarial protection framework for mobile MLLM GUI agen
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:fyzhang1/dualtap
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fyzhang1-dualtap/record.json
 
 ### License declarations
@@ -9066,10 +8250,6 @@ E2-Mem is an episodic-event hierarchical memory framework for long-horizon web a
 - Topics: memory, long-horizon, web-navigation
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:jianminya/e2mem
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-jianminya-e2mem/record.json
 
@@ -9101,10 +8281,6 @@ AI-native browser framework with structured page perception, token-efficient sta
 - Evidence checked: 2026-11-04T16:30:17Z
 - ID: github:haidaresber/ai-browser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-haidaresber-ai-browser/record.json
 
 ### License declarations
@@ -9135,10 +8311,6 @@ Enterprise web workflow agent framework combining browser-use automation, human-
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:ztr321/enterprise-web-workflow-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ztr321-enterprise-web-workflow-agent/record.json
 
 ### License declarations
@@ -9168,10 +8340,6 @@ ENVISIONS is an environment-guided neural-symbolic self-training framework for l
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xufangzhi/envisions
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xufangzhi-envisions/record.json
 
 ### License declarations
@@ -9200,10 +8368,6 @@ ENVS is a post-training and verified tree-search pipeline for long-horizon GUI a
 - Topics: reinforcement-learning, planning, self-reflection, long-horizon
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:artysicistz/envs
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-artysicistz-envs/record.json
 
@@ -9235,10 +8399,6 @@ Stateful, event-driven screen-perception runtime that converts UI changes into c
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:badtheorylabs/esp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-badtheorylabs-esp/record.json
 
 ### License declarations
@@ -9268,10 +8428,6 @@ ETO trains LLM agents on WebShop, ScienceWorld, and ALFWorld by contrasting fail
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:yifan-song793/eto
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yifan-song793-eto/record.json
 
 ### License declarations
@@ -9300,10 +8456,6 @@ Rust behavioral conformance port of the browser-use web agent library for low-ov
 - Topics: web-navigation, automation, efficiency
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:dx-corp/browser-use-rs
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dx-corp-browser-use-rs/record.json
 
@@ -9335,10 +8487,6 @@ Human-controlled WebMCP research workspace for reviewing source-backed claims ga
 - Evidence checked: 2026-11-04T17:55:17Z
 - ID: github:anand-0038/evidence-workspace
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anand-0038-evidence-workspace/record.json
 
 ### License declarations
@@ -9368,10 +8516,6 @@ Browser-native human-in-the-loop WebMCP workbench with evidence-bounded action v
 - Topics: human-in-the-loop, observability, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:55:15Z
 - ID: github:subbu-ctd/chinamarketingai-webmcp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-subbu-ctd-chinamarketingai-webmcp/record.json
 
@@ -9403,10 +8547,6 @@ ExpActivator selectively retrieves and verifies applicable historical interactio
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:fyzhang1/expactivator
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fyzhang1-expactivator/record.json
 
 ### License declarations
@@ -9435,10 +8575,6 @@ Explorer synthesizes large-scale multimodal web trajectories through autonomous 
 - Topics: data-generation, web-navigation, imitation-learning
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:osu-nlp-group/explorer
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-explorer/record.json
 
@@ -9470,10 +8606,6 @@ EyeBrowse is a stealthy, LLM-drivable browser engine providing both a Python lib
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:evil-bane/eyebrowse
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-evil-bane-eyebrowse/record.json
 
 ### License declarations
@@ -9503,10 +8635,6 @@ Factifai is an AI-driven browser and UI test automation framework that executes 
 - Topics: evaluation, automation, web-navigation
 - Evidence checked: 2026-11-04T14:02:37Z
 - ID: github:presidio-oss/factif-ai
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-presidio-oss-factif-ai/record.json
 
@@ -9538,10 +8666,6 @@ Discovers legacy banking UI workflows with an LLM once and compiles the run into
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:faizannraza/computer-use-automation
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-faizannraza-computer-use-automation/record.json
 
 ### License declarations
@@ -9570,10 +8694,6 @@ Minimal, fully local agent harness for running Microsoft's Fara-7B computer-use 
 - Topics: grounding, action-prediction, efficiency, automation
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:cobusgreyling/fara-7b-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-cobusgreyling-fara-7b-agent/record.json
 
@@ -9605,10 +8725,6 @@ Geographic experience and web-evidence engine that drives real browsers across l
 - Evidence checked: 2026-11-04T17:55:14Z
 - ID: github:xala-technologies/farsyn
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xala-technologies-farsyn/record.json
 
 ### License declarations
@@ -9639,10 +8755,6 @@ Rust-based browser automation engine driving Chrome over CDP with built-in anti-
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:nachafrommars/fast-browser-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nachafrommars-fast-browser-use/record.json
 
 ### License declarations
@@ -9671,10 +8783,6 @@ FastAgent is a lightweight multi-agent orchestration framework by HKUDS for low-
 - Topics: efficiency, planning, tool-integration, workflow
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:hkuds/fastagent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-hkuds-fastagent/record.json
 
@@ -9706,10 +8814,6 @@ Local, accessibility-first Windows control plane for AI agents exposing structur
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:guojiz/fastcua
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-guojiz-fastcua/record.json
 
 ### License declarations
@@ -9740,10 +8844,6 @@ Local-first cross-platform execution and web-research runtime for AI agents.
 - Evidence checked: 2026-11-04T17:55:10Z
 - ID: github:tomaszteee/fasthands
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tomaszteee-fasthands/record.json
 
 ### License declarations
@@ -9773,10 +8873,6 @@ Fathom is an execution harness for mobile computer-use agents that translates pl
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:drizzdev/fathom
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-drizzdev-fathom/record.json
 
 ### License declarations
@@ -9805,10 +8901,6 @@ Official JavaScript and TypeScript SDK for the Figranium browser automation and 
 - Topics: web-navigation, data-generation, automation
 - Evidence checked: 2026-11-04T17:30:38Z
 - ID: github:figranium/figranium-js
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-figranium-figranium-js/record.json
 
@@ -9884,10 +8976,6 @@ OpenBrowser is an open-source browser automation broker managing persistent Chro
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:floomhq/openbrowser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-floomhq-openbrowser/record.json
 
 ### License declarations
@@ -9918,10 +9006,6 @@ Records browser walkthroughs once, stores structured locator cues, and replays p
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:supermarioyl/flowcast
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-supermarioyl-flowcast/record.json
 
 ### License declarations
@@ -9951,10 +9035,6 @@ Hybrid AI browser automation engine combining Claude's visual Computer Use API w
 - Topics: web-navigation, screen-understanding, automation
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:pensefact/flowpilot-engine
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-pensefact-flowpilot-engine/record.json
 
@@ -10025,10 +9105,6 @@ In-app SDK that exposes Flutter widget trees and semantic actions directly to AI
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:anasfik/flutter_copilot
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anasfik-flutter-copilot/record.json
 
 ### License declarations
@@ -10058,10 +9134,6 @@ Modular Python ReAct agent framework with a 235-line core loop and 31 opt-in san
 - Topics: planning, sandbox, tool-integration, workflow
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:musokean/forge
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-musokean-forge/record.json
 
@@ -10093,10 +9165,6 @@ Windows native UI automation framework and MCP server operating over UIA trees w
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:a92070888-dev/mcp-os-native-automation
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/record.json
 
 ### License declarations
@@ -10126,10 +9194,6 @@ Full Self Browsing (FSB) is a DOM-first browser automation runtime for Chrome an
 - Topics: web-navigation, tool-integration, automation, efficiency
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:fullselfbrowsing/fsb
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-fullselfbrowsing-fsb/record.json
 
@@ -10161,10 +9225,6 @@ FSoft HyperAgent coordinates Planner, Navigator, Code Editor, and Executor agent
 - Evidence checked: 2026-11-04T13:12:14Z
 - ID: github:fsoft-ai4code/hyperagent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fsoft-ai4code-hyperagent/record.json
 
 ### License declarations
@@ -10194,10 +9254,6 @@ Permission-first local AI control center for Windows orchestrating local models,
 - Topics: safety-security, human-in-the-loop, tool-integration, automation
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:cooding3d/g0dm0d3-ag3nt
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-cooding3d-g0dm0d3-ag3nt/record.json
 
@@ -10229,10 +9285,6 @@ Ghost in the Minecraft (GITM) integrates LLMs with text-based knowledge and memo
 - Evidence checked: 2026-11-04T13:12:30Z
 - ID: github:opengvlab/gitm
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-gitm/record.json
 
 ### License declarations
@@ -10261,10 +9313,6 @@ Ghost Semantic OS provides a text-only semantic accessibility runtime for operat
 - Topics: screen-understanding, efficiency, sandbox
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:zainmfjavaid/ghost-semantic-os
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-zainmfjavaid-ghost-semantic-os/record.json
 
@@ -10296,10 +9344,6 @@ Glass Hands is a Rust framework that connects OpenAI computer-use models directl
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:sachaarbonel/glass-hands
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sachaarbonel-glass-hands/record.json
 
 ### License declarations
@@ -10328,10 +9372,6 @@ WebMCP-native GSAP animation studio where browser agents safely co-direct and ve
 - Topics: ui-design, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:varun-a-1010/glyph-motion-studio-webmcp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-varun-a-1010-glyph-motion-studio-webmcp/record.json
 
@@ -10363,10 +9403,6 @@ Android AccessibilityService automation engine and control dashboard for managin
 - Evidence checked: 2026-11-04T17:55:19Z
 - ID: github:dedy45/gososmed-mobile-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dedy45-gososmed-mobile-agent/record.json
 
 ### License declarations
@@ -10397,10 +9433,6 @@ Discovers legacy banking UI flows with an LLM once, compiles deterministic repla
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:mkhan49/governed-computer-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mkhan49-governed-computer-use/record.json
 
 ### License declarations
@@ -10429,10 +9461,6 @@ Provides training and evaluation code for unsupervised web product-search agents
 - Topics: web-navigation, reinforcement-learning
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:multifacetednlp/web-agents-unsupervised
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-multifacetednlp-web-agents-unsupervised/record.json
 
@@ -10463,10 +9491,6 @@ Modular block-based GUI automation framework combining VLM screen perception, LL
 - Topics: planning, grounding, web-navigation, automation
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:sjkncs/gui-agent-framework
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sjkncs-gui-agent-framework/record.json
 
@@ -10719,10 +9743,6 @@ Guibot is a Python GUI automation library unifying template matching, feature de
 - Evidence checked: 2026-11-04T13:12:19Z
 - ID: github:intra2net/guibot
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-intra2net-guibot/record.json
 
 ### License declarations
@@ -10794,10 +9814,6 @@ HAICOSYSTEM simulates multi-turn interactions between human users, tool-using LL
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xuhuizhou/haicosystem
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xuhuizhou-haicosystem/record.json
 
 ### License declarations
@@ -10827,10 +9843,6 @@ Discover-once, replay-many computer-use automation framework with deterministic 
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:codelit-io/handrail-cua
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-codelit-io-handrail-cua/record.json
 
 ### License declarations
@@ -10859,10 +9871,6 @@ hands-off discovers UI workflows in legacy back-office software without APIs and
 - Topics: workflow, imitation-learning, automation, robustness
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:niramay-kelkar/hands-off
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-niramay-kelkar-hands-off/record.json
 
@@ -10894,10 +9902,6 @@ HarmonyGuard enforces adaptive safety policies and dual-objective utility-securi
 - Evidence checked: 2026-11-04T13:12:48Z
 - ID: github:yurunchen/harmonyguard
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yurunchen-harmonyguard/record.json
 
 ### License declarations
@@ -10926,10 +9930,6 @@ Self-healing web extraction and browser automation framework for .NET.
 - Topics: robustness, self-reflection, web-navigation, data-generation
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:lethe044/harvestnet
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lethe044-harvestnet/record.json
 
@@ -10961,10 +9961,6 @@ Headless Linux browser runtime and CLI giving coding agents a real Chromium brow
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:flyingsquirrel0419/headless-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-flyingsquirrel0419-headless-use/record.json
 
 ### License declarations
@@ -10995,10 +9991,6 @@ Dependency-free WebMCP collaboration runtime enabling human operators and browse
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:akigarage/helprelay-webmcp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-akigarage-helprelay-webmcp/record.json
 
 ### License declarations
@@ -11028,10 +10020,6 @@ AI-first workspace for capturing files, documents, and live browser context into
 - Topics: memory, screen-understanding, tool-integration, workflow
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:dhamani-aryan/heysnap
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dhamani-aryan-heysnap/record.json
 
@@ -11095,10 +10083,6 @@ Hoverclick introduces test-time cursor hover verification and visual attention g
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:neilyysun-ui/hoverclick
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-neilyysun-ui-hoverclick/record.json
 
 ### License declarations
@@ -11127,10 +10111,6 @@ SDK for RL environments and evals spanning coding, browser, computer-use and rob
 - Topics: evaluation, reinforcement-learning
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:hud-evals/hud-python
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-hud-evals-hud-python/record.json
 
@@ -11162,10 +10142,6 @@ Vision-driven browser automation service where an external LLM sets high-level g
 - Evidence checked: 2026-11-04T16:30:17Z
 - ID: github:hterzia/human-browser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hterzia-human-browser/record.json
 
 ### License declarations
@@ -11195,10 +10171,6 @@ HumanAIE is a shared browser workspace for human-AI collaboration where users hi
 - Topics: human-in-the-loop, web-navigation, screen-understanding
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:datboip/humanaie
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-datboip-humanaie/record.json
 
@@ -11230,10 +10202,6 @@ Headless verification browser for AI coding agents featuring 35ms one-call UI ch
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:hongnoul/hwatu
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hongnoul-hwatu/record.json
 
 ### License declarations
@@ -11263,10 +10231,6 @@ Capability-bounded WebMCP browser control surface for the InnerOS local AI runti
 - Topics: safety-security, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:rafa-innerchispa/inneros-webmcp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-rafa-innerchispa-inneros-webmcp/record.json
 
@@ -11298,10 +10262,6 @@ Reproducible harness for Sparse Autoencoder (SAE) feature steering and live inte
 - Evidence checked: 2026-11-04T16:10:37Z
 - ID: github:kalyvask/inside-the-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kalyvask-inside-the-agent/record.json
 
 ### License declarations
@@ -11331,10 +10291,6 @@ Intent Browser Runtime (ibr) translates natural-language instructions into resil
 - Topics: web-navigation, grounding, automation, efficiency
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:hop-top/ibr
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-hop-top-ibr/record.json
 
@@ -11366,10 +10322,6 @@ Demonstration-driven intent translator that carries user workflow preferences ac
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:midorikuramochi/intent-relay
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-midorikuramochi-intent-relay/record.json
 
 ### License declarations
@@ -11399,10 +10351,6 @@ Internet of Agents (IoA) is a distributed framework for orchestrating heterogene
 - Topics: workflow, tool-integration, planning
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:openbmb/ioa
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-openbmb-ioa/record.json
 
@@ -11434,10 +10382,6 @@ invisible_dots is a self-hosted cloud browser-agent workspace pairing isolated K
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:feder-cr/invisible_dots
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-feder-cr-invisible-dots/record.json
 
 ### License declarations
@@ -11467,10 +10411,6 @@ iOS Agent Harness runs a Manager-Executor-Reflector GUI agent loop on iPhones to
 - Topics: mobile-navigation, planning, self-reflection, automation
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:a178960320/ios-agent-harness
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-a178960320-ios-agent-harness/record.json
 
@@ -11502,10 +10442,6 @@ Two-origin, agent-native design workbench built on WebMCP for collaborative huma
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:emadqureshikhi/jig
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-emadqureshikhi-jig/record.json
 
 ### License declarations
@@ -11536,10 +10472,6 @@ Autonomous AI agent framework for orchestrating web browsing, coding, and deskto
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:kamalesh404/agentos
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kamalesh404-agentos/record.json
 
 ### License declarations
@@ -11568,10 +10500,6 @@ Journal-first decentralized agent harness where independent browser and desktop 
 - Topics: memory, workflow, tool-integration
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:liz-public/knot-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-liz-public-knot-agent/record.json
 
@@ -11603,10 +10531,6 @@ WebMCP reference application where a browser agent prepares non-binding proposal
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:mikko-lab/kopilotti-webmcp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mikko-lab-kopilotti-webmcp/record.json
 
 ### License declarations
@@ -11637,10 +10561,6 @@ Kortix Suna is an open-source generalist agent platform combining a containerize
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:kortix-ai/suna
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kortix-ai-suna/record.json
 
 ### License declarations
@@ -11669,10 +10589,6 @@ Local-first AI engineering and browser-control agent runtime with bounded execut
 - Topics: web-navigation, self-reflection, safety-security, automation
 - Evidence checked: 2026-11-04T17:20:39Z
 - ID: github:adnqcr7-code/kryptic
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-adnqcr7-code-kryptic/record.json
 
@@ -11704,10 +10620,6 @@ Native OS agent runtime for Linux desktops providing system-wide screen observat
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:cufelix/lai
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cufelix-lai/record.json
 
 ### License declarations
@@ -11736,10 +10648,6 @@ Language Agent Tree Search (LATS) unifies LLM reasoning, acting, and Monte Carlo
 - Topics: planning, self-reflection, web-navigation
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:lapisrocks/languageagenttreesearch
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lapisrocks-languageagenttreesearch/record.json
 
@@ -11771,10 +10679,6 @@ AI-assisted dispatch console that turns human visual lasso selections on a webpa
 - Evidence checked: 2026-11-04T18:11:38Z
 - ID: github:smkzz/lasso
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-smkzz-lasso/record.json
 
 ### License declarations
@@ -11805,10 +10709,6 @@ Desktop workspace for managing isolated browser profiles, proxy routing, and mul
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:djblack1209-coder/latitude-browser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-djblack1209-coder-latitude-browser/record.json
 
 ### License declarations
@@ -11837,10 +10737,6 @@ Learns a legacy browser workflow once with an LLM and compiles it into a verifie
 - Topics: recording, workflow, efficiency, web-navigation
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:saitejareddi3636/legacy-ui-capability-engine
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-saitejareddi3636-legacy-ui-capability-engine/record.json
 
@@ -11871,10 +10767,6 @@ Local open-weight LLM agent framework for automating legacy enterprise ERP and b
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:peterhaupt/legacybridge
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-peterhaupt-legacybridge/record.json
 
 ### License declarations
@@ -11903,10 +10795,6 @@ LGWM is an action-conditioned latent GUI world model that predicts next-state re
 - Topics: world-models, reward-models, self-reflection
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:jiamingzhang94/lgwm
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-jiamingzhang94-lgwm/record.json
 
@@ -11938,10 +10826,6 @@ Lightcone is Tzafon's Python and TypeScript SDK for building computer-use agents
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:tzafon/lightcone
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tzafon-lightcone/record.json
 
 ### License declarations
@@ -11971,10 +10855,6 @@ TypeScript browser agent library that uses an LLM to complete a web navigation w
 - Topics: web-navigation, recording, efficiency, automation
 - Evidence checked: 2026-11-04T15:03:38Z
 - ID: github:lightfeed/browser-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lightfeed-browser-agent/record.json
 
@@ -12006,10 +10886,6 @@ Retrofits existing websites with structured WebMCP tool definitions without requ
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:liha-app/webmcp-adapter
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-liha-app-webmcp-adapter/record.json
 
 ### License declarations
@@ -12039,10 +10915,6 @@ Linux desktop toolkit for computer-use agents providing isolated X11 workspaces,
 - Topics: sandbox, screen-understanding, automation, tool-integration
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:5omeotherguy/linux-computer-use
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-5omeotherguy-linux-computer-use/record.json
 
@@ -12108,10 +10980,6 @@ Self-healing browser automation framework that replaces brittle CSS selectors wi
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:justifysiddh/llm-browser-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-justifysiddh-llm-browser-agent/record.json
 
 ### License declarations
@@ -12141,10 +11009,6 @@ Persistent, safety-enforced browser control runtime for AI agents with a semanti
 - Topics: web-navigation, safety-security, efficiency, automation
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:lockintime/headless
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lockintime-headless/record.json
 
@@ -12176,10 +11040,6 @@ Shared agent runtime, protocol contracts, and browser bridge for the Locus autom
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:nahid-sparktales/locus-platform
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nahid-sparktales-locus-platform/record.json
 
 ### License declarations
@@ -12209,10 +11069,6 @@ Zero-dependency in-browser web automation runtime with an embedded sandbox and M
 - Topics: web-navigation, sandbox, tool-integration, efficiency
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:loki4agent/loki-auto
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-loki4agent-loki-auto/record.json
 
@@ -12244,10 +11100,6 @@ LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:amap-ml/longhorizon-harness
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/record.json
 
 ### License declarations
@@ -12277,10 +11129,6 @@ Drives live web applications over CDP through a closed-loop visual look-decide-a
 - Topics: screen-understanding, grounding, web-navigation, automation
 - Evidence checked: 2026-11-04T17:55:24Z
 - ID: github:ivanposel/look-decide-act
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ivanposel-look-decide-act/record.json
 
@@ -12312,10 +11160,6 @@ Rust port of the Browser Use architecture enabling LLMs to control web browsers 
 - Evidence checked: 2026-11-04T16:51:59Z
 - ID: github:lvyuan1688/browser-use-rs
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lvyuan1688-browser-use-rs/record.json
 
 ### License declarations
@@ -12346,10 +11190,6 @@ Records a desktop or browser task once and lets AI optimize, parameterize, and r
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:rexchengm/maestro
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rexchengm-maestro/record.json
 
 ### License declarations
@@ -12379,10 +11219,6 @@ Open-source multi-agent spatial orchestration canvas integrating CLI agents, bro
 - Topics: workflow, tool-integration, automation, ui-design
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:victorkaor/maestro-oss
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-victorkaor-maestro-oss/record.json
 
@@ -12451,10 +11287,6 @@ MAI combines MaaFramework with multimodal LLMs in a Planner-Executor-Verifier lo
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:fluxaster/mai
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fluxaster-mai/record.json
 
 ### License declarations
@@ -12484,10 +11316,6 @@ Implements DOM-injected pop-up and toast indirect prompt injection attacks again
 - Topics: safety-security, web-navigation
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:sej2020/manipulating-web-agents
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sej2020-manipulating-web-agents/record.json
 
@@ -12519,10 +11347,6 @@ Uses an LLM to map or record browser automations once and replays them determini
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:shivampatel0714/maponce
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shivampatel0714-maponce/record.json
 
 ### License declarations
@@ -12553,10 +11377,6 @@ Marey is a modular perception engine for computer-use agents that tracks screen 
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:badalraj9/marey
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-badalraj9-marey/record.json
 
 ### License declarations
@@ -12585,10 +11405,6 @@ MarkForge provides deterministic, auditable Set-of-Mark badge rendering and coor
 - Topics: grounding, screen-understanding, training-free
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:lannistersyh/markforge
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-lannistersyh-markforge/record.json
 
@@ -12620,10 +11436,6 @@ Open-source, Chromium-free lightweight web runtime engineered specifically for m
 - Evidence checked: 2026-11-04T17:55:24Z
 - ID: github:iasolutionorg/mawr
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-iasolutionorg-mawr/record.json
 
 ### License declarations
@@ -12653,10 +11465,6 @@ Zero-glue-code, Markdown-native end-to-end browser test automation framework pow
 - Topics: evaluation, web-navigation, workflow, automation
 - Evidence checked: 2026-11-04T18:11:55Z
 - ID: github:a-ryan-kr/md-e2e
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-a-ryan-kr-md-e2e/record.json
 
@@ -12688,10 +11496,6 @@ MEGA-GUI implements a multi-stage GUI grounding pipeline combining candidate reg
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:samsungsds-research-papers/mega-gui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-samsungsds-research-papers-mega-gui/record.json
 
 ### License declarations
@@ -12720,10 +11524,6 @@ Agent orchestration and Model Context Protocol runtime connecting AI agents to 6
 - Topics: tool-integration, workflow, automation
 - Evidence checked: 2026-11-04T17:55:10Z
 - ID: github:melaya-labs/melaya-mcp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-melaya-labs-melaya-mcp/record.json
 
@@ -12755,10 +11555,6 @@ Modular Execution Layer for Reliable Autonomy (MELRA), a local MCP runtime that 
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:xagi-lab/melra
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xagi-lab-melra/record.json
 
 ### License declarations
@@ -12788,10 +11584,6 @@ Memlayer is a plug-and-play memory layer that extracts facts, builds knowledge g
 - Topics: memory, long-horizon
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:divagr18/memlayer
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-divagr18-memlayer/record.json
 
@@ -12823,10 +11615,6 @@ MemMachine is an open-source memory layer for AI agents providing working, episo
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:memmachine/memmachine
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-memmachine-memmachine/record.json
 
 ### License declarations
@@ -12856,10 +11644,6 @@ Memori captures structured execution facts from agent tool calls and conversatio
 - Topics: memory, long-horizon, observability
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:memorilabs/memori
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-memorilabs-memori/record.json
 
@@ -12891,10 +11675,6 @@ In-browser workbench to author, test, and export structured WebMCP tool definiti
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:scanchila/metawebmcp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-scanchila-metawebmcp/record.json
 
 ### License declarations
@@ -12924,10 +11704,6 @@ MindSearch coordinates a multi-agent WebPlanner and parallel WebSearcher graph t
 - Topics: web-navigation, planning, workflow
 - Evidence checked: 2026-11-04T13:12:19Z
 - ID: github:internlm/mindsearch
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-internlm-mindsearch/record.json
 
@@ -12998,10 +11774,6 @@ mllm is a C++ multimodal LLM inference engine optimized for on-device execution 
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:ubiquitouslearning/mllm
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ubiquitouslearning-mllm/record.json
 
 ### License declarations
@@ -13030,10 +11802,6 @@ Five-level safety and action-verification layer for mobile GUI agents that class
 - Topics: safety-security, mobile-navigation, human-in-the-loop
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:salus-ryan/mobile-agent-guardian
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-salus-ryan-mobile-agent-guardian/record.json
 
@@ -13065,10 +11833,6 @@ Provides a zero-dependency Python device I/O and trajectory instrumentation laye
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:chbq/mobile-gui-vla-device-platform
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chbq-mobile-gui-vla-device-platform/record.json
 
 ### License declarations
@@ -13098,10 +11862,6 @@ MobileClaw is an open Android AI agent runtime for phone control, VLM screen rea
 - Topics: mobile-navigation, screen-understanding, automation, workflow
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:eggbrid2/mobileclaw
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-eggbrid2-mobileclaw/record.json
 
@@ -13133,10 +11893,6 @@ MobilePilot is an auditable Android GUI agent runtime with structured action ver
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:qizhanggu/mobilepilot-runtime
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/record.json
 
 ### License declarations
@@ -13167,10 +11923,6 @@ MobileRAG operates Android devices via ADB by combining local app retrieval, his
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:liuxiaojieoutofworld/mobilerag_arxiv
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-liuxiaojieoutofworld-mobilerag-arxiv/record.json
 
 ### License declarations
@@ -13199,10 +11951,6 @@ Online agentic RL framework for mobile GUI agents built around the difficulty-ad
 - Topics: reinforcement-learning
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:thudm/mobilerl
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-thudm-mobilerl/record.json
 
@@ -13273,10 +12021,6 @@ ModCDP is Browserbase's framework for extending the Chrome DevTools Protocol wit
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:browserbase/modcdp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browserbase-modcdp/record.json
 
 ### License declarations
@@ -13305,10 +12049,6 @@ Local-first Windows dashboard for scheduling, watching, and auditing desktop aut
 - Topics: workflow, observability, automation
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:quill-00/mosaic-desktop-automation
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-quill-00-mosaic-desktop-automation/record.json
 
@@ -13340,10 +12080,6 @@ Composable agentic browser automation framework built from small, reusable perce
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:luantak/mosaik
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-luantak-mosaik/record.json
 
 ### License declarations
@@ -13373,10 +12109,6 @@ Motus is an extensible .NET browser automation and agentic testing framework com
 - Topics: web-navigation, automation, evaluation
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:dataficationsdk/motus
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dataficationsdk-motus/record.json
 
@@ -13408,10 +12140,6 @@ MPO optimizes reusable high-level meta-plans via preference learning to guide LL
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:weiminxiong/mpo
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-weiminxiong-mpo/record.json
 
 ### License declarations
@@ -13441,10 +12169,6 @@ Self-hosted, provider-agnostic AI agent runtime with browser automation, shell e
 - Topics: tool-integration, workflow, web-navigation, automation
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:muhtalhakhan/open-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-muhtalhakhan-open-agent/record.json
 
@@ -13476,10 +12200,6 @@ MVP improves GUI visual grounding by aggregating multi-view coordinate predictio
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:zjuscl/mvp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zjuscl-mvp/record.json
 
 ### License declarations
@@ -13508,10 +12228,6 @@ nanoAWM is an inspectable Agent World Model laboratory for simulating action con
 - Topics: world-models, planning, reward-models
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:jlov7/nanoawm
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-jlov7-nanoawm/record.json
 
@@ -13543,10 +12259,6 @@ Mobile-native agent SDK by Ant Group for building on-device AI agents with sandb
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:antgroup/napaxi
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-antgroup-napaxi/record.json
 
 ### License declarations
@@ -13576,10 +12288,6 @@ Local-first open-source AI agent harness for developers integrating terminal, fi
 - Topics: tool-integration, workflow, automation
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:karunya-muddana/native
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-karunya-muddana-native/record.json
 
@@ -13611,10 +12319,6 @@ NaturalGAIA and LightManus provide a hierarchical multi-agent framework with bro
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:keles-coding/naturegaia
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-keles-coding-naturegaia/record.json
 
 ### License declarations
@@ -13643,10 +12347,6 @@ navforge is a self-hosted orchestration framework for coordinating multi-step co
 - Topics: planning, workflow, automation, tool-integration
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:huzjie/navforge
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-huzjie-navforge/record.json
 
@@ -13678,10 +12378,6 @@ Selector-free AI vision automation runtime for desktop applications, mobile scre
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:vthanhhdev/qirabot-vision-runtime
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vthanhhdev-qirabot-vision-runtime/record.json
 
 ### License declarations
@@ -13710,10 +12406,6 @@ NexusCUH is a computer-use agent harness with sandboxed execution, MCP integrati
 - Topics: sandbox, tool-integration, safety-security, observability
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:subasah/computer-use-harness
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-subasah-computer-use-harness/record.json
 
@@ -13745,10 +12437,6 @@ Collects and labels browser-exploration trajectories for agent training, with co
 - Evidence checked: 2026-10-16T10:42:34Z
 - ID: github:murtyshikhar/nnetnav
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-murtyshikhar-nnetnav/record.json
 
 ### License declarations
@@ -13778,10 +12466,6 @@ Governed AI agent web browser featuring a side-panel assistant, policy guardrail
 - Topics: safety-security, human-in-the-loop, web-navigation
 - Evidence checked: 2026-11-04T17:30:43Z
 - ID: github:voltolini-space/nomos-browser
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-voltolini-space-nomos-browser/record.json
 
@@ -13813,10 +12497,6 @@ Discovers workflows on legacy credit-union web portals with an AI agent once and
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:zoyaarief/legacy-credit-union-automation
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zoyaarief-legacy-credit-union-automation/record.json
 
 ### License declarations
@@ -13845,10 +12525,6 @@ Provides verified desktop control for AI agents on Windows and Linux across nati
 - Topics: automation, screen-understanding, self-reflection, safety-security
 - Evidence checked: 2026-11-04T16:10:29Z
 - ID: github:northtekdevs/ghost
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-northtekdevs-ghost/record.json
 
@@ -13880,10 +12556,6 @@ Local-first desktop AI agent platform built with TypeScript, Electron, React, an
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:vincenzo-afk/nova-exe
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vincenzo-afk-nova-exe/record.json
 
 ### License declarations
@@ -13913,10 +12585,6 @@ Typed OCaml client library for the Chrome DevTools Protocol with an asynchronous
 - Topics: web-navigation, automation
 - Evidence checked: 2026-11-04T17:55:14Z
 - ID: github:ahrefs/ocaml-cdp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ahrefs-ocaml-cdp/record.json
 
@@ -13948,10 +12616,6 @@ Hardened web capture and hostile-HTML analysis engine with anti-bot reconnaissan
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:guatxlabs/ocular
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-guatxlabs-ocular/record.json
 
 ### License declarations
@@ -13982,10 +12646,6 @@ Ommatix is an incremental spatial-indexing perception engine that tracks stable 
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:yosoyepa/ommatix
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yosoyepa-ommatix/record.json
 
 ### License declarations
@@ -14014,10 +12674,6 @@ OmniInfer is a local LLM and VLM inference engine with OpenAI-compatible APIs fo
 - Topics: efficiency, screen-understanding
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:omnimind-ai/omniinfer
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-omnimind-ai-omniinfer/record.json
 
@@ -14049,10 +12705,6 @@ AI-agent-oriented wrapper around Playwright that exposes the Playwright API shap
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:code-yeongyu/omowright
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-code-yeongyu-omowright/record.json
 
 ### License declarations
@@ -14082,10 +12734,6 @@ Unified macOS control plane for AI agents spanning browser automation, native de
 - Topics: tool-integration, automation, web-navigation, workflow
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:elijahumana/one-for-all
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-elijahumana-one-for-all/record.json
 
@@ -14117,10 +12765,6 @@ Open Duet is a self-hosted multi-agent workspace where named AI coworkers operat
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:anil-matcha/open-dots
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anil-matcha-open-dots/record.json
 
 ### License declarations
@@ -14150,10 +12794,6 @@ Deterministic desktop automation engine for AI agents implementing a capture-rec
 - Topics: grounding, screen-understanding, automation, self-reflection
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:off-camber/open-frame
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-off-camber-open-frame/record.json
 
@@ -14185,10 +12825,6 @@ Local-first AI agent workspace featuring governed computer use, approval gates, 
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:anil-matcha/open-grok-bot
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anil-matcha-open-grok-bot/record.json
 
 ### License declarations
@@ -14217,10 +12853,6 @@ Local-first multi-agent desktop platform with named AI coworkers and a watchable
 - Topics: sandbox, workflow, automation, human-in-the-loop
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:robbyczgw-cla/openagentfleet
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-robbyczgw-cla-openagentfleet/record.json
 
@@ -14290,10 +12922,6 @@ Headless browser runtime that converts webpages into compact structured semantic
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:datuomart5423/openbrowser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-datuomart5423-openbrowser/record.json
 
 ### License declarations
@@ -14323,10 +12951,6 @@ OpenDesk is an API-driven desktop automation runtime that lets AI agents control
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:shopable-ai/opendesk
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shopable-ai-opendesk/record.json
 
 ### License declarations
@@ -14355,10 +12979,6 @@ Cloud desktop infrastructure and container sandbox engine paired with the OpenWo
 - Topics: sandbox, automation, workflow
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:chrisschouk/open-desktop
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-chrisschouk-open-desktop/record.json
 
@@ -14390,10 +13010,6 @@ OpenGUI is an Android GUI agent framework that combines screen perception, acces
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:core-mate/opengui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-core-mate-opengui/record.json
 
 ### License declarations
@@ -14424,10 +13040,6 @@ Windows-native .NET 9 desktop automation service exposing sub-millisecond named-
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:lessenings-prog/opengui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lessenings-prog-opengui/record.json
 
 ### License declarations
@@ -14456,10 +13068,6 @@ OpenHands is an open-source platform for software development and computer-use a
 - Topics: sandbox, web-navigation, tool-integration, automation
 - Evidence checked: 2026-11-04T13:12:30Z
 - ID: github:openhands/openhands
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-openhands-openhands/record.json
 
@@ -14523,10 +13131,6 @@ OpenMemory provides local-first temporal graph memory, decay scoring, and MCP in
 - Topics: memory, long-horizon
 - Evidence checked: 2026-11-04T13:12:09Z
 - ID: github:caviraoss/openmemory
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-caviraoss-openmemory/record.json
 
@@ -14596,10 +13200,6 @@ OpenQA is an open-source agentic browser testing harness that executes natural-l
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:openqa-labs/openqa
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openqa-labs-openqa/record.json
 
 ### License declarations
@@ -14628,10 +13228,6 @@ Self-hosted multi-agent platform with persistent memory, browser automation, and
 - Topics: memory, workflow, web-navigation, automation
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:raghavpillai/openteam
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-raghavpillai-openteam/record.json
 
@@ -14662,10 +13258,6 @@ OpenTiny NEXT-SDKs implements in-page WebMCP servers, polyfills, and WebSkills s
 - Topics: tool-integration, web-navigation, automation
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:opentiny/webmcp-sdk
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-opentiny-webmcp-sdk/record.json
 
@@ -14699,10 +13291,6 @@ Local-first desktop agent runtime that compiles exploratory AI trajectories into
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:alpharomerojl/operant
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alpharomerojl-operant/record.json
 
 ### License declarations
@@ -14733,10 +13321,6 @@ Coding-agent plugin and toolkit for auditing, implementing, and verifying WebMCP
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:ora/webmcp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ora-webmcp/record.json
 
 ### License declarations
@@ -14766,10 +13350,6 @@ Orbit is a Python computer-use framework that combines natural-language screen g
 - Topics: automation, workflow, grounding
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:aadya940/orbit
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-aadya940-orbit/record.json
 
@@ -14845,10 +13425,6 @@ Self-hosted visual workflow builder for authoring and running desktop computer-u
 - Evidence checked: 2026-11-04T16:10:28Z
 - ID: github:aadya940/orbit-ui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aadya940-orbit-ui/record.json
 
 ### License declarations
@@ -14878,10 +13454,6 @@ Multi-agent loop that plans React Native mobile features, writes code, drives th
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:gustavo-em/orchestrator-features
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gustavo-em-orchestrator-features/record.json
 
 ### License declarations
@@ -14910,10 +13482,6 @@ Safety-checking environment and benchmark for mobile agents on AndroidWorld that
 - Topics: safety-security
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: github:os-copilot/os-sentinel
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-sentinel/record.json
 
@@ -14945,10 +13513,6 @@ Bounded computer-use runtime and semantic browser engine with explicit capabilit
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:ossabellator/computer-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ossabellator-computer-use/record.json
 
 ### License declarations
@@ -14978,10 +13542,6 @@ Provides an OpenAI-compatible Qwen2.5-VL computer-use agent and multi-environmen
 - Topics: evaluation, grounding, action-prediction
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:issumer-ku/osworld-qwen2.5vl-enhanced
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-issumer-ku-osworld-qwen2-5vl-enhanced/record.json
 
@@ -15013,10 +13573,6 @@ Provides a provider-neutral CogAgent-9B model server, adapter, and multi-environ
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:issumer-ku/osworld-cogagent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-issumer-ku-osworld-cogagent/record.json
 
 ### License declarations
@@ -15047,10 +13603,6 @@ OWL is a multi-agent automation framework built on CAMEL-AI for browser interact
 - Evidence checked: 2026-11-04T13:12:09Z
 - ID: github:camel-ai/owl
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-camel-ai-owl/record.json
 
 ### License declarations
@@ -15080,10 +13632,6 @@ Oya Browser is a governance-aware browser control plane for human-AI collaborati
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:oyadotai/oya-browser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-oyadotai-oya-browser/record.json
 
 ### License declarations
@@ -15112,10 +13660,6 @@ OysterWorkflow captures real human computer work and extracts structured, reusab
 - Topics: recording, workflow, imitation-learning, memory
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:shuxinyang111/oysterworkflow
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/record.json
 
@@ -15147,10 +13691,6 @@ WebMCP marketplace and verification harness featuring a closed-loop self-healing
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:mrnetwork0001/pactora
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mrnetwork0001-pactora/record.json
 
 ### License declarations
@@ -15180,10 +13720,6 @@ In-page AI assistant SDK that mounts a chat widget and lets LLMs safely read and
 - Topics: web-navigation, tool-integration, ui-design, human-in-the-loop
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:whyymj/page-agent-sdk
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-whyymj-page-agent-sdk/record.json
 
@@ -15215,10 +13751,6 @@ PageRunner is a browser-agent orchestration platform with bounded execution loop
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:say-5/pagerunner
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-say-5-pagerunner/record.json
 
 ### License declarations
@@ -15248,10 +13780,6 @@ Stateful browser execution layer that records an agent task once, replays it wit
 - Topics: recording, efficiency, robustness, web-navigation
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:myselfsiddharth/paragent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-myselfsiddharth-paragent/record.json
 
@@ -15283,10 +13811,6 @@ Lightweight in-browser AI agent framework that retrofits natural-language automa
 - Evidence checked: 2026-11-04T17:30:43Z
 - ID: github:hanhan666666/patchbridge-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/record.json
 
 ### License declarations
@@ -15316,10 +13840,6 @@ Self-hosted cross-platform control plane for managing persistent digital employe
 - Topics: workflow, sandbox, automation, tool-integration
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:peerframe/openbot
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-peerframe-openbot/record.json
 
@@ -15351,10 +13871,6 @@ perceive is a reachability-filtered perception layer for browser agents that pru
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:gauthierpiarrette/perceive
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gauthierpiarrette-perceive/record.json
 
 ### License declarations
@@ -15384,10 +13900,6 @@ Desktop browser where every identity runs in an isolated Chromium partition for 
 - Topics: sandbox, web-navigation, safety-security
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:leek-emperor/personae
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-leek-emperor-personae/record.json
 
@@ -15419,10 +13931,6 @@ Local-first web and desktop automation toolkit integrating browser control, scre
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:philosophy79/web-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-philosophy79-web-agent/record.json
 
 ### License declarations
@@ -15452,10 +13960,6 @@ PhoneClaw turns iOS and Android smartphones into local AI agent runtimes with on
 - Topics: mobile-navigation, efficiency, tool-integration, automation
 - Evidence checked: 2026-11-04T15:45:55Z
 - ID: github:kellyvv/phoneclaw
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-kellyvv-phoneclaw/record.json
 
@@ -15526,10 +14030,6 @@ Pix2Act provides JAX/T5X training and evaluation code for pixel-only GUI agents 
 - Evidence checked: 2026-11-04T13:12:15Z
 - ID: github:google-deepmind/pix2act
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-deepmind-pix2act/record.json
 
 ### License declarations
@@ -15559,10 +14059,6 @@ Minimal 6-tool browser-agent harness whose entire tool definition fits in 1,196 
 - Topics: web-navigation, efficiency, tool-integration
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:josharsh/pixelpi
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-josharsh-pixelpi/record.json
 
@@ -15594,10 +14090,6 @@ Open-source macOS notch assistant and runtime for grounded, model-agnostic compu
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:hussainn7/plip-oss
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hussainn7-plip-oss/record.json
 
 ### License declarations
@@ -15627,10 +14119,6 @@ Semantic accessibility page-guidance layer designed simultaneously for assistive
 - Topics: screen-understanding, ui-design, web-navigation, tool-integration
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:polyform-ai/a11y-guide
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-polyform-ai-a11y-guide/record.json
 
@@ -15662,10 +14150,6 @@ Policy-neutral Rust library and JSON CLI for host-authorized background computer
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:tschk/praefectus
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tschk-praefectus/record.json
 
 ### License declarations
@@ -15695,10 +14179,6 @@ Governable, local-first desktop agent runtime with policy enforcement and audita
 - Topics: safety-security, workflow, automation, observability
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:axisvela/praxovela-open
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-axisvela-praxovela-open/record.json
 
@@ -15730,10 +14210,6 @@ PreAct compiles repeated computer-use agent trajectories into cached action grap
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:19pine-ai/preact
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-19pine-ai-preact/record.json
 
 ### License declarations
@@ -15762,10 +14238,6 @@ Local-first TypeScript orchestration plane for managing persistent fingerprint-b
 - Topics: sandbox, web-navigation, workflow, automation
 - Evidence checked: 2026-11-04T18:11:40Z
 - ID: github:enginefuture/profilefleet
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-enginefuture-profilefleet/record.json
 
@@ -15797,10 +14269,6 @@ Uses an LLM to discover how to complete a task in a legacy web UI once and disti
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:shahadeven/project_interface
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shahadeven-project-interface/record.json
 
 ### License declarations
@@ -15829,10 +14297,6 @@ Local-first Chromium browser and web-research runtime for autonomous AI agents.
 - Topics: web-navigation, data-generation, automation
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:gadgethd/project-tendril
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-gadgethd-project-tendril/record.json
 
@@ -15864,10 +14328,6 @@ Promptwright is an AI QA desktop agent that drives browsers from plain English o
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:sahajamit/promptwright
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sahajamit-promptwright/record.json
 
 ### License declarations
@@ -15897,10 +14357,6 @@ Pre-approval review and verification runtime where every agent finding and UI st
 - Topics: observability, safety-security, human-in-the-loop, evaluation
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:ebt55/proofpack
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ebt55-proofpack/record.json
 
@@ -15932,10 +14388,6 @@ Protean turns everyday human desktop and browser demonstrations into reusable, a
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:aibrain-mnemis/protean
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aibrain-mnemis-protean/record.json
 
 ### License declarations
@@ -15965,10 +14417,6 @@ Browser-local WebMCP validation lab where agent proposals are verified against J
 - Topics: safety-security, human-in-the-loop, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:55:15Z
 - ID: github:greqone/przedwysylkawebmcplab
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-greqone-przedwysylkawebmcplab/record.json
 
@@ -16000,10 +14448,6 @@ Windows-first edge service for recording, verifying, and deterministically repla
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:pudap/guidriver
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pudap-guidriver/record.json
 
 ### License declarations
@@ -16032,10 +14476,6 @@ PulsarRPA is a browser RPA and web-agent framework combining natural-language co
 - Topics: web-navigation, automation
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:platonai/pulsarrpa
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-platonai-pulsarrpa/record.json
 
@@ -16067,10 +14507,6 @@ Revision-bound capacity permit protocol for WebMCP browser agents that invalidat
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:moaqil/pursuit-permit-webmcp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-moaqil-pursuit-permit-webmcp/record.json
 
 ### License declarations
@@ -16100,10 +14536,6 @@ High-frequency (~60Hz) in-browser behavior-tree execution engine exposed over th
 - Topics: efficiency, planning, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:30:34Z
 - ID: github:putervision/behavior-mcp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-putervision-behavior-mcp/record.json
 
@@ -16135,10 +14567,6 @@ Q-Reflector trains an 8B vision-language verifier with generated pre/post-action
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:pockyitachi/q-reflector
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pockyitachi-q-reflector/record.json
 
 ### License declarations
@@ -16168,10 +14596,6 @@ Provider-neutral, OS-neutral orchestration runtime for long-horizon desktop and 
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:quoralinex/q1x-community-orchestrator
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-quoralinex-q1x-community-orchestrator/record.json
 
 ### License declarations
@@ -16200,10 +14624,6 @@ Qirabot is a pure-vision multimodal GUI automation framework for operating brows
 - Topics: grounding, screen-understanding, automation
 - Evidence checked: 2026-11-04T16:30:05Z
 - ID: github:qirabot/qirabot
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-qirabot-qirabot/record.json
 
@@ -16235,10 +14655,6 @@ Qontinui is a model-based GUI automation framework that represents application s
 - Evidence checked: 2026-11-04T13:12:32Z
 - ID: github:qontinui/qontinui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qontinui-qontinui/record.json
 
 ### License declarations
@@ -16268,10 +14684,6 @@ QUE CORE is a hybrid Rust and Python runtime exposing 121 consolidated system, w
 - Topics: tool-integration, automation, grounding
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:qubasehq/que-tools
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-qubasehq-que-tools/record.json
 
@@ -16303,10 +14715,6 @@ Fail-closed browser automation reliability framework that halts execution on str
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:pnx89/questz
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pnx89-questz/record.json
 
 ### License declarations
@@ -16336,10 +14744,6 @@ WebMCP orchestration runtime where ChatGPT initiates jobs and specialized browse
 - Topics: workflow, tool-integration, web-navigation, evaluation
 - Evidence checked: 2026-11-04T17:55:24Z
 - ID: github:agent9ai/rally-webmcp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-agent9ai-rally-webmcp/record.json
 
@@ -16371,10 +14775,6 @@ Re-Prefill calibrates prefill visual attention representations in vision-languag
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:linjiaping1/re-prefill
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-linjiaping1-re-prefill/record.json
 
 ### License declarations
@@ -16403,10 +14803,6 @@ Cross-platform desktop automation plugin combining native accessibility trees (U
 - Topics: grounding, screen-understanding, automation
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:plocr/reasonix-computer-use
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-plocr-reasonix-computer-use/record.json
 
@@ -16438,10 +14834,6 @@ Local-first Tauri and AgentScope desktop agent workbench with permission approva
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:kavanio/recordagent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kavanio-recordagent/record.json
 
 ### License declarations
@@ -16470,10 +14862,6 @@ Browser-native WebMCP authority boundary where visiting agents stage reviewable 
 - Topics: safety-security, human-in-the-loop, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:eloiramos/redline
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-eloiramos-redline/record.json
 
@@ -16542,10 +14930,6 @@ ReMe is a local-first personal knowledge and procedural memory management framew
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:agentscope-ai/reme
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentscope-ai-reme/record.json
 
 ### License declarations
@@ -16575,10 +14959,6 @@ Converts human screen demonstrations of real desktop and web work into verifiabl
 - Topics: imitation-learning, recording, workflow, automation
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:misb74/replay
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-misb74-replay/record.json
 
@@ -16610,10 +14990,6 @@ Discovers UI workflows once using a local LLM and compiles the successful trajec
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:bryansbtian/replay-ai
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bryansbtian-replay-ai/record.json
 
 ### License declarations
@@ -16642,10 +15018,6 @@ AI browser agent framework that inspects live web traffic to reverse-engineer si
 - Topics: web-navigation, tool-integration, efficiency, data-generation
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:kuichi-x/reverseloom
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-kuichi-x-reverseloom/record.json
 
@@ -16677,10 +15049,6 @@ WebMCP investigation console where browser agents trace entity graphs across liv
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:doom2quake/ringlight
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-doom2quake-ringlight/record.json
 
 ### License declarations
@@ -16711,10 +15079,6 @@ Records a single LLM-driven exploration of a legacy UI into a typed capability a
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:rishabhp1508/understudy
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rishabhp1508-understudy/record.json
 
 ### License declarations
@@ -16743,10 +15107,6 @@ RLVR-World trains world models with verifiable reinforcement learning to predict
 - Topics: world-models, reinforcement-learning
 - Evidence checked: 2026-11-04T14:02:38Z
 - ID: github:thuml/rlvr-world
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-thuml-rlvr-world/record.json
 
@@ -16778,10 +15138,6 @@ Interactive Playwright headless-browser and form-filling HTTP service for AI age
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:damien-robotsix/robotsix-browser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/record.json
 
 ### License declarations
@@ -16811,10 +15167,6 @@ Rust agent harness engine providing tool loops, session persistence, permission 
 - Topics: tool-integration, safety-security, automation, workflow
 - Evidence checked: 2026-11-04T16:51:43Z
 - ID: github:tschk/rotary
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-tschk-rotary/record.json
 
@@ -16846,10 +15198,6 @@ Record-once, replay-many computer-use automation framework for legacy banking an
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:bhuvanb3110/rote
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bhuvanb3110-rote/record.json
 
 ### License declarations
@@ -16878,10 +15226,6 @@ Shared WebMCP research workspace where human users and browser agents co-curate 
 - Topics: human-in-the-loop, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:55:07Z
 - ID: github:chris-miracle/thread
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-chris-miracle-thread/record.json
 
@@ -16913,10 +15257,6 @@ Closed-loop visual desktop RPA runtime that drives isolated terminal and GUI app
 - Evidence checked: 2026-11-04T18:11:51Z
 - ID: github:hab99/rpa-desktop-canal-visual
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hab99-rpa-desktop-canal-visual/record.json
 
 ### License declarations
@@ -16946,10 +15286,6 @@ RPA for Python provides a Python API over TagUI for automating websites, desktop
 - Topics: automation, workflow
 - Evidence checked: 2026-11-04T13:12:39Z
 - ID: github:tebelorg/rpa-python
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-tebelorg-rpa-python/record.json
 
@@ -16981,10 +15317,6 @@ Compiles repeated browser, desktop, Android, and office workflows into reviewed,
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:mingqian94/rpa-everything
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mingqian94-rpa-everything/record.json
 
 ### License declarations
@@ -17014,10 +15346,6 @@ WebMCP reference architecture exposing Redux frontend state directly to browser 
 - Topics: state-tracking, tool-integration, web-navigation, ui-design
 - Evidence checked: 2026-11-04T17:55:16Z
 - ID: github:breeznik/samestate-webmcp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-breeznik-samestate-webmcp/record.json
 
@@ -17049,10 +15377,6 @@ Sparse Context Reset (SCoR) framework for preventing context overflow and drift 
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:huia711/scor
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-huia711-scor/record.json
 
 ### License declarations
@@ -17082,10 +15406,6 @@ Browser-Use-style framework for the entire desktop that gives AI agents visual s
 - Topics: screen-understanding, grounding, automation
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:tongriyaotxt/screen-use
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-tongriyaotxt-screen-use/record.json
 
@@ -17117,10 +15437,6 @@ Screen2AX reconstructs macOS application accessibility trees from screenshots us
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:macpaw/screen2ax
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-macpaw-screen2ax/record.json
 
 ### License declarations
@@ -17150,10 +15466,6 @@ screen2gym compiles raw action-labeled screen recordings into resettable, progra
 - Topics: reinforcement-learning, data-generation, sandbox, recording
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:marc-saouda/screen2gym
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-marc-saouda-screen2gym/record.json
 
@@ -17224,10 +15536,6 @@ SEAgent enables computer-use agents to self-evolve in unfamiliar software enviro
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:sunzey/seagent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sunzey-seagent/record.json
 
 ### License declarations
@@ -17256,10 +15564,6 @@ Search-o1 integrates agentic web search and document-in-reasoning refinement int
 - Topics: web-navigation, planning, tool-integration
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:sunnynexus/search-o1
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-sunnynexus-search-o1/record.json
 
@@ -17323,10 +15627,6 @@ Combines Claude planning with Playwright execution and ranked selector fallback 
 - Topics: web-navigation, robustness, automation, self-reflection
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:25andresbernal/self-healing-browser-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/record.json
 
@@ -17398,10 +15698,6 @@ Agent-readable semantic browser layer providing token-efficient webpage understa
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:atreasureboy/agent-browser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-atreasureboy-agent-browser/record.json
 
 ### License declarations
@@ -17432,10 +15728,6 @@ SGCL is a cross-platform, text-first control layer that exposes graphical user i
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:frankbria/semantic-gui-control
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-frankbria-semantic-gui-control/record.json
 
 ### License declarations
@@ -17464,10 +15756,6 @@ Semantic Kernel is an enterprise SDK for orchestrating multi-agent workflows, pl
 - Topics: workflow, planning, memory, tool-integration
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:microsoft/semantic-kernel
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-microsoft-semantic-kernel/record.json
 
@@ -17498,10 +15786,6 @@ Sentinel is a browser-native QA harness where an AI agent drives a real browser 
 - Topics: evaluation, web-navigation, automation
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:we-building-autonomously/sentinel
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-we-building-autonomously-sentinel/record.json
 
@@ -17567,10 +15851,6 @@ Agent-controllable web browser built on the Rust Servo engine that distills live
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:parker-brown-family/servo-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-parker-brown-family-servo-agent/record.json
 
 ### License declarations
@@ -17600,10 +15880,6 @@ Sessionat is an open-source Chromium-based macOS browser with persistent workspa
 - Topics: web-navigation, automation, tool-integration
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:dublyo/sessionat
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dublyo-sessionat/record.json
 
@@ -17635,10 +15911,6 @@ Seven-layer LLM browser agent architecture paired with a 45-task hierarchical be
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:xyyojl/web-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xyyojl-web-agent/record.json
 
 ### License declarations
@@ -17668,10 +15940,6 @@ Local-first Python SDK for web agents providing Shadow DOM flattening, Action Ma
 - Topics: web-navigation, screen-understanding, automation
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:ulinycoin/shadow-web
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ulinycoin-shadow-web/record.json
 
@@ -17703,10 +15971,6 @@ Shinken is a high-throughput runtime for training computer-use agents end-to-end
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:meirtz/shinken
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-meirtz-shinken/record.json
 
 ### License declarations
@@ -17736,10 +16000,6 @@ Semantic web compiler that crawls websites and compiles them into typed, reusabl
 - Topics: web-navigation, data-generation, tool-integration, efficiency
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:hootsworth/shiny-fishstick
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-hootsworth-shiny-fishstick/record.json
 
@@ -17771,10 +16031,6 @@ Turns existing websites into discoverable, measurable WebMCP capability surfaces
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:signettai/signett
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-signettai-signett/record.json
 
 ### License declarations
@@ -17804,10 +16060,6 @@ Stateless capability resolver for WebMCP enabling websites to declare and route 
 - Topics: tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:zioladev/signpost
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-zioladev-signpost/record.json
 
@@ -17839,10 +16091,6 @@ Privacy-preserving AI browser agent framework that sanitizes sensitive DOM and s
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:dalwadi-aryan-pranavkumar/sih_26
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dalwadi-aryan-pranavkumar-sih-26/record.json
 
 ### License declarations
@@ -17872,10 +16120,6 @@ SimpleMem provides semantic lossless memory compression and multimodal retrieval
 - Topics: memory, efficiency, long-horizon
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:aiming-lab/simplemem
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-aiming-lab-simplemem/record.json
 
@@ -17907,10 +16151,6 @@ Toolkit for authoring, testing, and shipping verified WebMCP user journeys on we
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:siteverb/siteverb
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-siteverb-siteverb/record.json
 
 ### License declarations
@@ -17940,10 +16180,6 @@ Autonomous, lightweight browser smoke-testing daemon written in Rust for continu
 - Topics: evaluation, observability, web-navigation, efficiency
 - Evidence checked: 2026-11-04T17:55:19Z
 - ID: github:shantodotdev/sitewarden
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-shantodotdev-sitewarden/record.json
 
@@ -18047,10 +16283,6 @@ AI-powered browser automation platform combining a REST API, live web dashboard,
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:smouj/agent-browser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-smouj-agent-browser/record.json
 
 ### License declarations
@@ -18080,10 +16312,6 @@ Web navigation and verification layer for AI agents providing compact semantic p
 - Topics: web-navigation, screen-understanding, state-tracking, efficiency
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:zumerlab/snapsurf
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-zumerlab-snapsurf/record.json
 
@@ -18115,10 +16343,6 @@ Fail-closed identity and session verification middleware for Solari browser agen
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:nahuelsoria/solari-identity-guard
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nahuelsoria-solari-identity-guard/record.json
 
 ### License declarations
@@ -18148,10 +16372,6 @@ SOLO performs single-rollout test-time adaptation for GUI agents using online se
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:wzq975/solo
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wzq975-solo/record.json
 
 ### License declarations
@@ -18180,10 +16400,6 @@ On-device local AI and consent-driven Android UI automation runtime with Bangla-
 - Topics: mobile-navigation, safety-security, human-in-the-loop, automation
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:soobujmiah/lai
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-soobujmiah-lai/record.json
 
@@ -18215,10 +16431,6 @@ Rakuten's AI-first browser testing and Playwright automation platform for end-to
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:rakutentech/sorify
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rakutentech-sorify/record.json
 
 ### License declarations
@@ -18248,10 +16460,6 @@ Provider-neutral TypeScript browser automation SDK with automatic session failov
 - Topics: web-navigation, robustness, automation
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:soulsniper-v2/browser-sdk
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-soulsniper-v2-browser-sdk/record.json
 
@@ -18351,10 +16559,6 @@ StatePilot is a predictable browser runtime for AI agents with state validation,
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:newsbruno/statepilot
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-newsbruno-statepilot/record.json
 
 ### License declarations
@@ -18419,10 +16623,6 @@ CLI-first computer-use harness for macOS providing policy-guarded application ob
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:sumo1/computer-use-harness
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sumo1-computer-use-harness/record.json
 
 ### License declarations
@@ -18452,10 +16652,6 @@ Resilient, cacheable fuzzy UI element identifiers and studio for Codex Computer 
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:pirate/cua-superselector
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pirate-cua-superselector/record.json
 
 ### License declarations
@@ -18484,10 +16680,6 @@ WebMCP reference console for auditable, human-approved supply-chain actions exec
 - Topics: human-in-the-loop, observability, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T18:11:38Z
 - ID: github:navi-ai-project/supply-recovery-console
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-navi-ai-project-supply-recovery-console/record.json
 
@@ -18593,10 +16785,6 @@ User-granted, local-first capability broker that delegates scoped browser tab pe
 - Evidence checked: 2026-11-04T17:55:13Z
 - ID: github:snakelil/tabgrant
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-snakelil-tabgrant/record.json
 
 ### License declarations
@@ -18626,10 +16814,6 @@ Open-source Chromium browser automation runtime for AI agents supporting shared 
 - Topics: web-navigation, tool-integration, automation
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:ohmyskyhigh/tabro
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ohmyskyhigh-tabro/record.json
 
@@ -18661,10 +16845,6 @@ Talox is a stateful Playwright browser runtime for AI agents with stealth intera
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:avant-iconic/talox
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-avant-iconic-talox/record.json
 
 ### License declarations
@@ -18694,10 +16874,6 @@ TankWork is a desktop agent framework combining OmniParser visual grounding, OCR
 - Topics: automation, grounding, screen-understanding
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:agenttankos/tankwork
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-agenttankos-tankwork/record.json
 
@@ -18729,10 +16905,6 @@ taproot is an open-source mobile GUI agent harness combining vision-language mod
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:shivampkumar/taproot
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shivampkumar-taproot/record.json
 
 ### License declarations
@@ -18763,10 +16935,6 @@ taskforge is a long-horizon workflow orchestration engine combining multi-step p
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:huzjie/taskforge
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-huzjie-taskforge/record.json
 
 ### License declarations
@@ -18796,10 +16964,6 @@ TeachReplay is a harness-agnostic teach-by-demonstration engine that records hum
 - Topics: imitation-learning, recording, workflow, automation
 - Evidence checked: 2026-11-04T14:20:11Z
 - ID: github:ottohere-mourn/teachreplay
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ottohere-mourn-teachreplay/record.json
 
@@ -18897,10 +17061,6 @@ Self-hosted browser-use engine for Claude Code that drives a real browser to ope
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:hanzmaulwurf/tex-browse-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/record.json
 
 ### License declarations
@@ -18930,10 +17090,6 @@ THEIA (The Human Environment Intelligence Aperture) is a visual perception and U
 - Topics: screen-understanding, grounding, automation, tool-integration
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:tree-ind/theia-ui-computer-use
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/record.json
 
@@ -18965,10 +17121,6 @@ WebMCP argument debugger and research workspace with human-gated provenance trac
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:jameswirths/threadline
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jameswirths-threadline/record.json
 
 ### License declarations
@@ -18998,10 +17150,6 @@ TideSurf connects Chromium to LLM agents via compact structured DOM compression 
 - Topics: web-navigation, efficiency, screen-understanding
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:tidesurf/core
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-tidesurf-core/record.json
 
@@ -19033,10 +17181,6 @@ Rust-friendly agent browser API and TinyBus module for managing headless and hea
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:tinyhumansai/tinybrowser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tinyhumansai-tinybrowser/record.json
 
 ### License declarations
@@ -19066,10 +17210,6 @@ Jev decision-model harness for fast desktop and browser action execution.
 - Topics: action-prediction, grounding, automation, web-navigation
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:tinyhumansai/tinycomputer
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-tinyhumansai-tinycomputer/record.json
 
@@ -19140,10 +17280,6 @@ ToolGen represents external tools as virtual vocabulary tokens to unify massive-
 - Evidence checked: 2026-11-04T13:12:32Z
 - ID: github:reason-wang/toolgen
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-reason-wang-toolgen/record.json
 
 ### License declarations
@@ -19173,10 +17309,6 @@ ToolTok introduces atomic directional cursor-movement tokens for multi-step iter
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:zephinuecode/tooltok
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zephinuecode-tooltok/record.json
 
 ### License declarations
@@ -19205,10 +17337,6 @@ TopoClaw is a topology-aware multi-agent digital assistant with skill verificati
 - Topics: workflow, safety-security, automation, tool-integration
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:madeagents/topoclaw
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-madeagents-topoclaw/record.json
 
@@ -19240,10 +17368,6 @@ Multi-agent browser squad for evidence-led website inspection and frontend recon
 - Evidence checked: 2026-11-04T17:55:16Z
 - ID: github:edenbuilds/touchline
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-edenbuilds-touchline/record.json
 
 ### License declarations
@@ -19273,10 +17397,6 @@ Touchpoint is a cross-platform desktop accessibility API and MCP server giving A
 - Topics: screen-understanding, tool-integration, automation, cross-app
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:touchpoint-labs/touchpoint
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/record.json
 
@@ -19308,10 +17428,6 @@ Evidence-first reliability reporting and deterministic replay framework for codi
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:alex0ai/tracefact
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alex0ai-tracefact/record.json
 
 ### License declarations
@@ -19341,10 +17457,6 @@ Framework for generating GUI trajectories through tree-structured exploration an
 - Topics: data-generation
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:uitron-hub/treecua
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-uitron-hub-treecua/record.json
 
@@ -19376,10 +17488,6 @@ Trope CUA enables background desktop inspection and GUI operation on Windows and
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:tropeai/trope-cua
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tropeai-trope-cua/record.json
 
 ### License declarations
@@ -19409,10 +17517,6 @@ Reference architecture for cryptographically verifiable user authority on conseq
 - Topics: safety-security, human-in-the-loop, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:30:44Z
 - ID: github:markneville/trusted-webmcp-actions
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-markneville-trusted-webmcp-actions/record.json
 
@@ -19444,10 +17548,6 @@ Tsaagan is a verify-first browser control framework for AI agents that proves ev
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:michaelolmos/tsaagan
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-michaelolmos-tsaagan/record.json
 
 ### License declarations
@@ -19477,10 +17577,6 @@ TuriX-CUA is a multi-agent desktop automation framework for macOS and Windows co
 - Topics: automation, planning, memory, grounding
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:turixai/turix-cua
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-turixai-turix-cua/record.json
 
@@ -19512,10 +17608,6 @@ UI-Voyager is a self-evolving mobile GUI agent framework that learns from failed
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:ui-voyager/ui-voyager
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ui-voyager-ui-voyager/record.json
 
 ### License declarations
@@ -19546,10 +17638,6 @@ Ui.Vision combines Selenium-compatible browser commands, visual desktop OCR/temp
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:a9t9/rpa
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-a9t9-rpa/record.json
 
 ### License declarations
@@ -19578,10 +17666,6 @@ Analyzes a website's UI and network traffic once to synthesize reusable, browser
 - Topics: tool-integration, efficiency, web-navigation, data-generation
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:merezarezaei/ui2api
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-merezarezaei-ui2api/record.json
 
@@ -19613,10 +17697,6 @@ uia-agent defines an open-source LLM agent action space that drives legacy Windo
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:supermarioyl/uia-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-supermarioyl-uia-agent/record.json
 
 ### License declarations
@@ -19646,10 +17726,6 @@ Reliability-first building blocks for unattended Android app automation, crash r
 - Topics: mobile-navigation, robustness, automation
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:chuanchihsu1219/unattended-android-automation-toolkit
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/record.json
 
@@ -19681,10 +17757,6 @@ Understudy observes human desktop and browser demonstrations and compiles them i
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:understudy-ai/understudy
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-understudy-ai-understudy/record.json
 
 ### License declarations
@@ -19714,10 +17786,6 @@ All-in-one desktop AI studio integrating multi-model LLM chat, computer use, and
 - Topics: tool-integration, workflow, automation
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:osamalvzx/universal-ai-studio
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-osamalvzx-universal-ai-studio/record.json
 
@@ -19749,10 +17817,6 @@ V-Droid pairs a mobile GUI actor with a generative verifier that scores candidat
 - Evidence checked: 2026-11-04T13:12:42Z
 - ID: github:v-droid-agent/v-droid
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-v-droid-agent-v-droid/record.json
 
 ### License declarations
@@ -19781,10 +17845,6 @@ High-frequency GPU screen perception and low-latency input transport protocol fo
 - Topics: screen-understanding, efficiency, grounding, action-prediction
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:fy2ne/vact
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-fy2ne-vact/record.json
 
@@ -19816,10 +17876,6 @@ Shell-driven visual computer-use toolkit enabling LLMs to inspect and click web 
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:lo2589/vco
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lo2589-vco/record.json
 
 ### License declarations
@@ -19848,10 +17904,6 @@ Discovers how to complete a task in a no-API application once with an LLM and co
 - Topics: recording, workflow, efficiency, automation
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:vedanshu7/operant
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-vedanshu7-operant/record.json
 
@@ -19920,10 +17972,6 @@ The public tree includes critic-training configurations, policy training and off
 - Topics: ui-design, workflow, automation, human-in-the-loop
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:venxuix-dccide/venxuix
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-venxuix-dccide-venxuix/record.json
 
@@ -20021,10 +18069,6 @@ VG-GUI-TASKER extracts informative keyframes from instructional demonstration vi
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:vg-gui-tasker/vg-gui-tasker
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/record.json
 
 ### License declarations
@@ -20053,10 +18097,6 @@ Video2GUI synthesizes large-scale GUI interaction trajectories from unlabeled sc
 - Topics: data-generation, video, grounding
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:weiminxiong/video2gui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-weiminxiong-video2gui/record.json
 
@@ -20128,10 +18168,6 @@ VillagerAgent provides a directed-acyclic-graph multi-agent coordinator and the 
 - Evidence checked: 2026-11-04T13:12:10Z
 - ID: github:cnsdqd-dyb/villageragent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/record.json
 
 ### License declarations
@@ -20202,10 +18238,6 @@ Pure-vision browser automation framework with built-in local Moondream3 inferenc
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:zbcs-studiocr-cn/vision-browser-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zbcs-studiocr-cn-vision-browser-agent/record.json
 
 ### License declarations
@@ -20236,10 +18268,6 @@ Computer-vision Android UI automation and heuristic gameplay engine built with O
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:mohsinjutt62/autoplay-cv_engine_bot
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mohsinjutt62-autoplay-cv-engine-bot/record.json
 
 ### License declarations
@@ -20269,10 +18297,6 @@ Protocol-first framework enabling visual-model hosts to safely inspect and opera
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:cloudsbeyond/visual-agent
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cloudsbeyond-visual-agent/record.json
 
 ### License declarations
@@ -20301,10 +18325,6 @@ VLAA-GUI provides a modular GUI automation framework that teaches agents when to
 - Topics: self-reflection, planning, robustness
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:ucsc-vlaa/vlaa-gui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/record.json
 
@@ -20336,10 +18356,6 @@ vnc-use is a LangGraph-based computer-use framework that drives remote desktop e
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:mayflower/vnc-use
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mayflower-vnc-use/record.json
 
 ### License declarations
@@ -20370,10 +18386,6 @@ Post-training and evaluation pipeline for mapping spoken Chinese ASR commands in
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:raidriar7170/voice2task-posttraining
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raidriar7170-voice2task-posttraining/record.json
 
 ### License declarations
@@ -20403,10 +18415,6 @@ Two-layer local input engine for MCP where a frontier planning model dispatches 
 - Topics: action-prediction, efficiency, tool-integration, automation
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:casualkre/voltage-input-mcp
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/record.json
 
@@ -20480,10 +18488,6 @@ Vuser is an open frontend interaction protocol standardizing browser-use, deskto
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:openvuser/vuser
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openvuser-vuser/record.json
 
 ### License declarations
@@ -20513,10 +18517,6 @@ Browser-native WebMCP idea-to-plan canvas where human users and web agents co-ed
 - Topics: planning, human-in-the-loop, tool-integration, web-navigation
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:doom2quake/weave
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-doom2quake-weave/record.json
 
@@ -20548,10 +18548,6 @@ Browser infrastructure SDK for AI agents with user-consent routing and end-to-en
 - Evidence checked: 2026-11-04T16:51:45Z
 - ID: github:52191314/web-agent-proxy-sdk
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-52191314-web-agent-proxy-sdk/record.json
 
 ### License declarations
@@ -20582,10 +18578,6 @@ Web Context Interface (WCI) is a three-layer specification and toolkit augmentin
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:amirrezaalasti/webcontextinterface
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amirrezaalasti-webcontextinterface/record.json
 
 ### License declarations
@@ -20615,10 +18607,6 @@ Browser-use framework where the model proposes a single action from a closed voc
 - Topics: web-navigation, safety-security, action-prediction
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:vinimabreu/web-pilot
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-vinimabreu-web-pilot/record.json
 
@@ -20686,10 +18674,6 @@ Open protocol specification and toolkit exposing batch-native website actions to
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:betterwright/webagents
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-betterwright-webagents/record.json
 
 ### License declarations
@@ -20719,10 +18703,6 @@ Playwright-shaped browser automation library for driving live Chromium pages ins
 - Topics: mobile-navigation, web-navigation, automation
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:loyality7/webdroid
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-loyality7-webdroid/record.json
 
@@ -20794,10 +18774,6 @@ Fail-closed capability gating, structured refusal, and adversarial defense middl
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:faxanfm/webmcp-deadbolt
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-faxanfm-webmcp-deadbolt/record.json
 
 ### License declarations
@@ -20827,10 +18803,6 @@ Generates typed, human-reviewed WebMCP browser tools directly from existing Open
 - Topics: tool-integration, safety-security, human-in-the-loop, web-navigation
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:souravinsights/webmcp-stack
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-souravinsights-webmcp-stack/record.json
 
@@ -20862,10 +18834,6 @@ Extends the WebMCP standard by declaring agent-callable website actions and sema
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:cochinoraptor/webmcpcss
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cochinoraptor-webmcpcss/record.json
 
 ### License declarations
@@ -20895,10 +18863,6 @@ WebMirage is an adversarial red-teaming framework that crafts visual perturbatio
 - Topics: safety-security, grounding, web-navigation, evaluation
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:moontea0416/webmirage
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-moontea0416-webmirage/record.json
 
@@ -21003,10 +18967,6 @@ Shared 96-well laboratory experiment canvas built on WebMCP where scientists and
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:kinhikars/wellset-webmcp
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kinhikars-wellset-webmcp/record.json
 
 ### License declarations
@@ -21079,10 +19039,6 @@ Playwright-inspired Windows desktop automation and testing framework that drives
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:alegauss/winwright
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alegauss-winwright/record.json
 
 ### License declarations
@@ -21112,10 +19068,6 @@ WKAppBot is an open-source Windows Computer Use and AppBot SDK giving AI agents 
 - Topics: automation, tool-integration, grounding, workflow
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:kiexpert/wkappbot-sdk
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-kiexpert-wkappbot-sdk/record.json
 
@@ -21258,10 +19210,6 @@ Modular, user-controlled AI browser kernel for structured web parsing, navigatio
 - Evidence checked: 2026-11-04T17:55:11Z
 - ID: github:artemyx-datascientist/worldline
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-artemyx-datascientist-worldline/record.json
 
 ### License declarations
@@ -21290,10 +19238,6 @@ Single-process tool-calling agent runtime operating across CLI, enterprise chat 
 - Topics: tool-integration, web-navigation, workflow, automation
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:jiugao-yi/xihe-agent
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-jiugao-yi-xihe-agent/record.json
 
@@ -21325,10 +19269,6 @@ Self-directed local-first autonomous agent harness for Windows with desktop and 
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:itsmarcels/zetatron
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-itsmarcels-zetatron/record.json
 
 ### License declarations
@@ -21357,10 +19297,6 @@ Demonstration-driven Windows desktop automation framework compatible with the Ac
 - Topics: imitation-learning, recording, automation, self-reflection
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:dongsheng123132/zhaozuo
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/record.json
 
@@ -21391,10 +19327,6 @@ ZoomClick implements iterative zoom-in GUI grounding and behavior-based groundin
 - Topics: grounding, screen-understanding, evaluation
 - Evidence checked: 2026-11-04T14:02:36Z
 - ID: github:princeton-ai2-lab/zoomclick
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-princeton-ai2-lab-zoomclick/record.json
 

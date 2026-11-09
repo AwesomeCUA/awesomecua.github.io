@@ -12,10 +12,6 @@ Native on-device Android Model Context Protocol server exposing phone UI and sys
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:qazmko72/android-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qazmko72-android-mcp-server/record.json
 
 ## License declarations

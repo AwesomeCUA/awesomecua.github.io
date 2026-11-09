@@ -12,10 +12,6 @@ Ghost OS is a native macOS MCP server combining accessibility-tree action execut
 - Evidence checked: 2026-11-04T13:12:15Z
 - ID: github:ghostwright/ghost-os
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ghostwright-ghost-os/record.json
 
 ## License declarations

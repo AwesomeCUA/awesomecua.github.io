@@ -12,10 +12,6 @@ E2-Mem is an episodic-event hierarchical memory framework for long-horizon web a
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:jianminya/e2mem
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jianminya-e2mem/record.json
 
 ## License declarations

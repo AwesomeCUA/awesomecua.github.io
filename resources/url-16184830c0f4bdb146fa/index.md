@@ -20,10 +20,10 @@ The release contains train_1000.jsonl and images.parquet. The official README ex
 
 ## Structured profile
 
-- formats: JSONL, Parquet
-- modalities: images, text, actions
-- splits: training example subset
-- supervision: GUI actions
+- Formats: JSONL, Parquet
+- Modalities: images, text, actions
+- Splits: training example subset
+- Supervision: GUI actions
 
 ### Count observations
 

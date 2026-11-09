@@ -12,10 +12,6 @@ Agent-first, CLI-first GUI control toolkit for Linux desktops operating over the
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:javimosch/linux-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-javimosch-linux-use/record.json
 
 ## License declarations

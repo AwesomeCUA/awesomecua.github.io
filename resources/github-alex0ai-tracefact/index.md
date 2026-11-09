@@ -12,10 +12,6 @@ Evidence-first reliability reporting and deterministic replay framework for codi
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:alex0ai/tracefact
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alex0ai-tracefact/record.json
 
 ## License declarations

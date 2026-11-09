@@ -20,10 +20,10 @@ The Hub API at revision eacad896 reports gated 'auto' (access is approved automa
 
 ## Structured profile
 
-- formats: JSON
-- modalities: text
-- splits: test
-- supervision: task definitions for live-web evaluation
+- Formats: JSON
+- Modalities: text
+- Splits: test
+- Supervision: task definitions for live-web evaluation
 
 ### Count observations
 

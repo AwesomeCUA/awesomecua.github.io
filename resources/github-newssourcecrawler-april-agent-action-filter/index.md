@@ -12,10 +12,6 @@ April Agent Action Filter is a Rust policy library that inspects and gates propo
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:newssourcecrawler/april-agent-action-filter
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-newssourcecrawler-april-agent-action-filter/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Ghost Semantic OS provides a text-only semantic accessibility runtime for operat
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:zainmfjavaid/ghost-semantic-os
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zainmfjavaid-ghost-semantic-os/record.json
 
 ## License declarations

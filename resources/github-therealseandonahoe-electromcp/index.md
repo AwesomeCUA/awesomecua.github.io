@@ -12,10 +12,6 @@ Connects Claude and MCP-compatible agents to Electron desktop apps for UI clicki
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:therealseandonahoe/electromcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-therealseandonahoe-electromcp/record.json
 
 ## License declarations

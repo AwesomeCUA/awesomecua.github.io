@@ -12,10 +12,6 @@ Conversational desktop agent shell that observes screen context and executes loc
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:xretr00/marvi-os
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xretr00-marvi-os/record.json
 
 ## License declarations

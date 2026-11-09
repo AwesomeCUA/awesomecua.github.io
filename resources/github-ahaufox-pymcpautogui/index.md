@@ -12,10 +12,6 @@ PyMCPAutoGUI is a cross-platform MCP server combining PyAutoGUI mouse/keyboard c
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:ahaufox/pymcpautogui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ahaufox-pymcpautogui/record.json
 
 ## License declarations

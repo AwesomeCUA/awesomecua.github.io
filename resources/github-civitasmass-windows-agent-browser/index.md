@@ -12,10 +12,6 @@ Allows Claude Code and Codex running in Windows or WSL2 to drive the user's sign
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:civitasmass/windows-agent-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-civitasmass-windows-agent-browser/record.json
 
 ## License declarations

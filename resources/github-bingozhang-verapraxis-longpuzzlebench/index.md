@@ -12,10 +12,6 @@ LongPuzzleBench evaluates GUI and computer-use agents on long-horizon visual puz
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:bingozhang-verapraxis/longpuzzlebench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/record.json
 
 ## License declarations

@@ -35,13 +35,13 @@ Bolin Zhang, Shiyun Xiong, Dianbo Sui, YunZhe Xu, Zhiying Tu, Dianhui Chu
 - Publication source: https://ieeexplore.ieee.org/abstract/document/10707522
 - Publication BibTeX: https://awesomecua.com/resources/url-a998ab1efc741ba69d82/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-a998ab1efc741ba69d82/publication-citation.csl.json
-- venue: 2024 IEEE International Conference on Web Services (ICWS)
-- publisher: IEEE
-- pages: 342-351
-- doi: 10.1109/icws62655.2024.00056
-- date basis: Crossref-deposited citation: year={2024}, month=July. Preserve month precision; no publication day is taken from the conference dates.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive; arXiv title searches for RealWeb return no preprint.
-- notes: IEEE ICWS 2024 proceedings edition.
+- Venue: 2024 IEEE International Conference on Web Services (ICWS)
+- Publisher: IEEE
+- Pages: 342-351
+- DOI: 10.1109/icws62655.2024.00056
+- Date source: Crossref-deposited citation: year={2024}, month=July. Preserve month precision; no publication day is taken from the conference dates.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive; arXiv title searches for RealWeb return no preprint.
+- Source notes: IEEE ICWS 2024 proceedings edition.
 - Publication evidence: https://api.crossref.org/works/10.1109/icws62655.2024.00056/transform/application/x-bibtex
 
 ## License declarations

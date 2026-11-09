@@ -20,10 +20,10 @@ This is the Hub data release, distinct from the code and benchmark repository gi
 
 ## Structured profile
 
-- formats: JSON, password-protected ZIP (test splits)
-- modalities: task descriptions, raw HTML, cleaned HTML, candidate elements, actions
-- splits: train, test_task, test_website, test_domain
-- supervision: crowdsourced action sequences, ground-truth target elements
+- Formats: JSON, password-protected ZIP (test splits)
+- Modalities: task descriptions, raw HTML, cleaned HTML, candidate elements, actions
+- Splits: train, test_task, test_website, test_domain
+- Supervision: crowdsourced action sequences, ground-truth target elements
 
 ### Count observations
 

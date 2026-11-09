@@ -12,10 +12,6 @@ Self-hosted, self-improving AI desktop agent for Windows with native in-process 
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:openamer/openamer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openamer-openamer/record.json
 
 ## License declarations

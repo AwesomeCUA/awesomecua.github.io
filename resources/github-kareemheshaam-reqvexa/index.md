@@ -12,10 +12,6 @@ HAR-based HTTP provenance analyzer that traces cookies, tokens, and headers behi
 - Evidence checked: 2026-11-04T17:55:13Z
 - ID: github:kareemheshaam/reqvexa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kareemheshaam-reqvexa/record.json
 
 ## License declarations

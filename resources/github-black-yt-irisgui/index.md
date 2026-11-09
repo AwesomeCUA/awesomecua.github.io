@@ -12,10 +12,6 @@ IrisGUI is a cross-platform desktop GUI agent that perceives screens and automat
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:black-yt/irisgui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-black-yt-irisgui/record.json
 
 ## License declarations

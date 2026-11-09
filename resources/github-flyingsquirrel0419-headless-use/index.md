@@ -12,10 +12,6 @@ Headless Linux browser runtime and CLI giving coding agents a real Chromium brow
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:flyingsquirrel0419/headless-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-flyingsquirrel0419-headless-use/record.json
 
 ## License declarations

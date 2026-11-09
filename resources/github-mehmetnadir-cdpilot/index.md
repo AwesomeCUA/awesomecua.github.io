@@ -12,10 +12,6 @@ Zero-dependency browser automation CLI built directly on raw Chrome DevTools Pro
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:mehmetnadir/cdpilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mehmetnadir-cdpilot/record.json
 
 ## License declarations

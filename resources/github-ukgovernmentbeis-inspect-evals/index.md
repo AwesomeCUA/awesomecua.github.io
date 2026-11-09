@@ -12,10 +12,6 @@ Inspect Evals is a community benchmark suite for the UK AISI Inspect framework i
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:ukgovernmentbeis/inspect_evals
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/record.json
 
 ## License declarations

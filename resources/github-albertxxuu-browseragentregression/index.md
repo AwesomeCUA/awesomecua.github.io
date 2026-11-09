@@ -12,10 +12,6 @@ Local-first regression testing benchmark for evaluating browser agents against c
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:albertxxuu/browseragentregression
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-albertxxuu-browseragentregression/record.json
 
 ## License declarations

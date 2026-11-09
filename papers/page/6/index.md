@@ -1607,13 +1607,13 @@ Yuyang Li, Yiran Dou, Jie-Jing Shao, Yueming Lyu, Ivor Tsang, Haiyan Yin
 - Publication source: https://doi.org/10.1145/3770855.3817981
 - Publication BibTeX: https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/publication-citation.csl.json
-- venue: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2
-- publisher: ACM
-- pages: 2897-2908
-- doi: 10.1145/3770855.3817981
-- date basis: Crossref issued date 2026-8-8; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: KDD 2026 proceedings paper; the abstract was read from OpenAlex.
+- Venue: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2
+- Publisher: ACM
+- Pages: 2897-2908
+- DOI: 10.1145/3770855.3817981
+- Date source: Crossref issued date 2026-8-8; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: KDD 2026 proceedings paper; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3770855.3817981, https://api.openalex.org/works/doi:10.1145/3770855.3817981
 
 ### License declarations
@@ -2345,12 +2345,12 @@ Jungseob Lee
 - Publication source: https://www.preprints.org/manuscript/202608.0265/v1
 - Publication BibTeX: https://awesomecua.com/resources/url-f58895265a31c37d12b4/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-f58895265a31c37d12b4/publication-citation.csl.json
-- venue: Preprints.org
-- publisher: MDPI AG
-- doi: 10.20944/preprints202608.0265.v1
-- date basis: Crossref issued date 2026-8-5; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
+- Venue: Preprints.org
+- Publisher: MDPI AG
+- DOI: 10.20944/preprints202608.0265.v1
+- Date source: Crossref issued date 2026-8-5; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
 - Publication evidence: https://api.crossref.org/works/10.20944/preprints202608.0265.v1, https://api.openalex.org/works/doi:10.20944/preprints202608.0265.v1
 
 ### License declarations

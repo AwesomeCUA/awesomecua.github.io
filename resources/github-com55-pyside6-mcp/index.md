@@ -12,10 +12,6 @@ Playwright-style Model Context Protocol server that lets AI agents inspect, cont
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:com55/pyside6-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-com55-pyside6-mcp/record.json
 
 ## License declarations

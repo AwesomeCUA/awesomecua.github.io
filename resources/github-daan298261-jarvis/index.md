@@ -12,10 +12,6 @@ Local-first Windows desktop agent with HUD, Kokoro voice, browser automation, Of
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:daan298261/jarvis
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-daan298261-jarvis/record.json
 
 ## License declarations

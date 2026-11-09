@@ -12,10 +12,6 @@ Custom Chromium build with engine-level compiled device fingerprints for stealth
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:duckmartians/dugle-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-duckmartians-dugle-browser/record.json
 
 ## License declarations

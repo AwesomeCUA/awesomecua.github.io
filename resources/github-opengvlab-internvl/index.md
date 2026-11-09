@@ -12,10 +12,6 @@ Official repository for the InternVL open-source multimodal foundation model fam
 - Evidence checked: 2026-11-04T13:12:30Z
 - ID: github:opengvlab/internvl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-internvl/record.json
 
 ## License declarations

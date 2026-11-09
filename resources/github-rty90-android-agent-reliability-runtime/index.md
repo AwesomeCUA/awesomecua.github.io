@@ -12,10 +12,6 @@ A2R2 is a black-box safety and reliability runtime for Android GUI agents that i
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:rty90/android-agent-reliability-runtime
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rty90-android-agent-reliability-runtime/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Cross-platform desktop AI companion with screen reading, real-time translation, 
 - Evidence checked: 2026-11-04T17:55:13Z
 - ID: github:daixin315/xiaoshuang
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-daixin315-xiaoshuang/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Capability-bounded WebMCP browser control surface for the InnerOS local AI runti
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:rafa-innerchispa/inneros-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rafa-innerchispa-inneros-webmcp/record.json
 
 ## License declarations

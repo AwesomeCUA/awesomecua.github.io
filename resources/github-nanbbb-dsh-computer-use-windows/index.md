@@ -12,10 +12,6 @@ Windows computer-use plugin for DeepSeek Harness combining window discovery, UI 
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:nanbbb/dsh-computer-use-windows
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/record.json
 
 ## License declarations

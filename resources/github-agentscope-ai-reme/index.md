@@ -12,10 +12,6 @@ ReMe is a local-first personal knowledge and procedural memory management framew
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:agentscope-ai/reme
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentscope-ai-reme/record.json
 
 ## License declarations

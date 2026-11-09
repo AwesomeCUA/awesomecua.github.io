@@ -12,10 +12,6 @@ Navisual is a non-intrusive visual desktop guide that observes the screen and hi
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:navisualguide/navisual
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-navisualguide-navisual/record.json
 
 ## License declarations

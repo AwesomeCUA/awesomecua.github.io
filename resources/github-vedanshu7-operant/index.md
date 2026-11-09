@@ -12,10 +12,6 @@ Discovers how to complete a task in a no-API application once with an LLM and co
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:vedanshu7/operant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vedanshu7-operant/record.json
 
 ## License declarations

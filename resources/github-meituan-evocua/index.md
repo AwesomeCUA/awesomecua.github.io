@@ -12,10 +12,6 @@ Computer-use model and training resources from the EvoCUA project.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:meituan/evocua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-meituan-evocua/record.json
 
 ## License declarations

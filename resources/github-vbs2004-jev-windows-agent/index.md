@@ -12,10 +12,6 @@ jev-windows-agent pairs Windows UI Automation inspection with a fast Jev System-
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:vbs2004/jev-windows-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/record.json
 
 ## License declarations

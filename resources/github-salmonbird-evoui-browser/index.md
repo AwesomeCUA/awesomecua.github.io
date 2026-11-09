@@ -12,10 +12,6 @@ Self-evolving browser automation skill for Codex, Claude Code, and Cursor that c
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:salmonbird/evoui-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-salmonbird-evoui-browser/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Windows visual GUI automation companion combining percentage-coordinate grid ove
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:ginsing1226/screenclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ginsing1226-screenclaw/record.json
 
 ## License declarations

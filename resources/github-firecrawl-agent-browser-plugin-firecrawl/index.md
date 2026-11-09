@@ -12,10 +12,6 @@ Official Firecrawl plugin for `agent-browser` combining cloud CDP browser sessio
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:firecrawl/agent-browser-plugin-firecrawl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-firecrawl-agent-browser-plugin-firecrawl/record.json
 
 ## License declarations

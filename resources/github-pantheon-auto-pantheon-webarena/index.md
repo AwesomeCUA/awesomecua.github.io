@@ -12,10 +12,6 @@ pantheon-webarena packages containerized WebArena environments with reset, healt
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:pantheon-auto/pantheon-webarena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pantheon-auto-pantheon-webarena/record.json
 
 ## License declarations

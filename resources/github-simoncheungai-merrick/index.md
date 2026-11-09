@@ -12,10 +12,6 @@ Personal macOS assistant agent for planning, browser automation, and native desk
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:simoncheungai/merrick
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-simoncheungai-merrick/record.json
 
 ## License declarations

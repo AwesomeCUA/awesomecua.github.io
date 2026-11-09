@@ -12,10 +12,6 @@ Privacy-first browser agent framework that blurs faces and redacts PII in screen
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:lukan-lawslaf/aegis-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lukan-lawslaf-aegis-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Windows desktop automation plugin for DeepSeek Harness agents providing screen o
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:jaychouu/see_the_screen
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jaychouu-see-the-screen/record.json
 
 ## License declarations

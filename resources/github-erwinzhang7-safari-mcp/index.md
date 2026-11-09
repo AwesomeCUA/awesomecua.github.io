@@ -12,10 +12,6 @@ Native macOS Model Context Protocol server for driving Safari navigation, clicki
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:erwinzhang7/safari-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-erwinzhang7-safari-mcp/record.json
 
 ## License declarations

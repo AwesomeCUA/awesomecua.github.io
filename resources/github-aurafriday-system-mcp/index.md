@@ -12,10 +12,6 @@ System Automation MCP exposes cross-platform desktop UI inspection, OCR, window 
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:aurafriday/system_mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aurafriday-system-mcp/record.json
 
 ## License declarations

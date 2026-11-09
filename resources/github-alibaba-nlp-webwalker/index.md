@@ -12,10 +12,6 @@ Benchmark and multi-agent framework for evaluating large language models on mult
 - Evidence checked: 2026-10-16T11:09:28Z
 - ID: github:alibaba-nlp/webwalker
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alibaba-nlp-webwalker/record.json
 
 ## License declarations

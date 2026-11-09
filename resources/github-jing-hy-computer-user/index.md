@@ -12,10 +12,6 @@ Codex-style Windows computer-use plugin for DeepSeek Harness supporting screen r
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:jing-hy/computer-user
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jing-hy-computer-user/record.json
 
 ## License declarations

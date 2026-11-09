@@ -30,10 +30,10 @@ This is the benchmark data asset, distinct from its evaluation-code repository. 
 
 ### Structured profile
 
-- formats: JSON annotations, screen images
-- modalities: high-resolution screenshots, instructions, bounding boxes
-- splits: not recorded
-- supervision: GUI grounding
+- Formats: JSON annotations, screen images
+- Modalities: high-resolution screenshots, instructions, bounding boxes
+- Splits: not recorded
+- Supervision: GUI grounding
 
 #### Count observations
 
@@ -72,18 +72,14 @@ Interaction-driven pipeline that synthesizes mobile and web GUI agent trajectori
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:os-copilot/os-genesis
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-genesis/record.json
 
 ### Structured profile
 
-- formats: JSONL trajectories, JSON transition triples
-- modalities: screenshots, text, actions
-- splits: not recorded
-- supervision: reverse task synthesis, GUI action trajectories
+- Formats: JSONL trajectories, JSON transition triples
+- Modalities: screenshots, text, actions
+- Splits: not recorded
+- Supervision: reverse task synthesis, GUI action trajectories
 
 #### Count observations
 
@@ -128,10 +124,10 @@ The card calls this the official dataset repository of the AMEX paper. The full 
 
 ### Structured profile
 
-- formats: split ZIP archives, JSON, PNG
-- modalities: screenshots, element bounding boxes, functionality descriptions, instructions, actions
-- splits: not recorded
-- supervision: interactive-element grounding, screen and element functionality descriptions, instructions with stepwise GUI-action chains
+- Formats: split ZIP archives, JSON, PNG
+- Modalities: screenshots, element bounding boxes, functionality descriptions, instructions, actions
+- Splits: not recorded
+- Supervision: interactive-element grounding, screen and element functionality descriptions, instructions with stepwise GUI-action chains
 
 #### Count observations
 
@@ -173,10 +169,6 @@ Dataset of 7,366 computer-use agent execution trajectories from Holo4 27B and Ho
 - Evidence checked: 2026-10-17T05:32:58Z
 - ID: url:b5dab1881ac1069e44ce
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/record.json
 
 ### License declarations
@@ -215,10 +207,10 @@ At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshot
 
 ### Structured profile
 
-- formats: PNG, JSON
-- modalities: desktop screenshots, element annotations
-- splits: not recorded
-- supervision: UI element bounding boxes, element text or short descriptions, coarse element categories for some elements
+- Formats: PNG, JSON
+- Modalities: desktop screenshots, element annotations
+- Splits: not recorded
+- Supervision: UI element bounding boxes, element text or short descriptions, coarse element categories for some elements
 
 #### Count observations
 
@@ -269,10 +261,10 @@ Public JSON annotations and image archives are present. The card has no data-lic
 
 ### Structured profile
 
-- formats: JSON annotations, ZIP image packages, multipart image archives
-- modalities: GUI screenshots, bounding boxes, grounding annotations
-- splits: training
-- supervision: GUI grounding with bounding-box supervision
+- Formats: JSON annotations, ZIP image packages, multipart image archives
+- Modalities: GUI screenshots, bounding boxes, grounding annotations
+- Splits: training
+- Supervision: GUI grounding with bounding-box supervision
 
 #### Count observations
 
@@ -310,18 +302,14 @@ Human-demonstrated Android episodes for cross-app navigation, spanning six task 
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:opengvlab/gui-odyssey
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-gui-odyssey/record.json
 
 ### Structured profile
 
-- formats: JSON annotations, PNG screenshots
-- modalities: screenshots, instructions, actions, bounding boxes, step context
-- splits: random, task, device, app
-- supervision: cross-app trajectories, action grounding
+- Formats: JSON annotations, PNG screenshots
+- Modalities: screenshots, instructions, actions, bounding boxes, step context
+- Splits: random, task, device, app
+- Supervision: cross-app trajectories, action grounding
 
 #### Count observations
 
@@ -357,10 +345,6 @@ GroundCUA releases 56,000 desktop screenshots with 3.56M human-verified UI eleme
 - Topics: grounding, screen-understanding, data-generation
 - Evidence checked: 2026-11-04T13:12:35Z
 - ID: github:servicenow/groundcua
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-servicenow-groundcua/record.json
 
@@ -399,10 +383,10 @@ The card now asks users to switch to the newer hflqf88888/GUIOdyssey release, wh
 
 ### Structured profile
 
-- formats: JSON annotations, PNG screenshots, zip archives
-- modalities: screenshots, instructions, actions, click and scroll coordinates, device metadata
-- splits: random, task, device, app
-- supervision: cross-app trajectories, action grounding
+- Formats: JSON annotations, PNG screenshots, zip archives
+- Modalities: screenshots, instructions, actions, click and scroll coordinates, device metadata
+- Splits: random, task, device, app
+- Supervision: cross-app trajectories, action grounding
 
 #### Count observations
 
@@ -448,10 +432,10 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 ### Structured profile
 
-- formats: JSON, Parquet
-- modalities: screenshots, instructions, actions
-- splits: train, test
-- supervision: single-step actions, multi-step navigation
+- Formats: JSON, Parquet
+- Modalities: screenshots, instructions, actions
+- Splits: train, test
+- Supervision: single-step actions, multi-step navigation
 
 #### Count observations
 
@@ -500,10 +484,10 @@ The Hub API at revision eacad896 reports gated 'auto' (access is approved automa
 
 ### Structured profile
 
-- formats: JSON
-- modalities: text
-- splits: test
-- supervision: task definitions for live-web evaluation
+- Formats: JSON
+- Modalities: text
+- Splits: test
+- Supervision: task definitions for live-web evaluation
 
 #### Count observations
 
@@ -541,18 +525,14 @@ GUI grounding pre-training data for OS-Atlas in desktop (Linux, macOS, Windows),
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:0fdeb1cf5f49f84820e6
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-0fdeb1cf5f49f84820e6/record.json
 
 ### Structured profile
 
-- formats: JSON annotations, image archives
-- modalities: screenshots, referring expressions, bounding boxes
-- splits: not recorded
-- supervision: element grounding
+- Formats: JSON annotations, image archives
+- Modalities: screenshots, referring expressions, bounding boxes
+- Splits: not recorded
+- Supervision: element grounding
 
 #### Count observations
 
@@ -590,10 +570,6 @@ Hugging Face dataset release for VisualWebBench spanning seven visual web unders
 - Topics: evaluation, grounding, screen-understanding, web-navigation
 - Evidence checked: 2026-11-01T19:22:16Z
 - ID: url:149769d8bf07b7fbabdc
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-149769d8bf07b7fbabdc/record.json
 
@@ -633,10 +609,10 @@ Sources named by the card: ShowUI (web and desktop), AutoGUI, PC-Agent-E, WaveUI
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: screenshots, instructions, bounding boxes
-- splits: train
-- supervision: element instructions with target bounding boxes
+- Formats: Parquet
+- Modalities: screenshots, instructions, bounding boxes
+- Splits: train
+- Supervision: element instructions with target bounding boxes
 
 #### Count observations
 
@@ -686,10 +662,10 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 ### Structured profile
 
-- formats: JSON, Parquet
-- modalities: screenshots, text, bounding boxes
-- splits: not recorded
-- supervision: single-turn question answering, multi-turn dialogue
+- Formats: JSON, Parquet
+- Modalities: screenshots, text, bounding boxes
+- Splits: not recorded
+- Supervision: single-turn question answering, multi-turn dialogue
 
 #### Count observations
 
@@ -738,10 +714,10 @@ Public JSON annotations and Parquet image packages are present. The project READ
 
 ### Structured profile
 
-- formats: JSON, Parquet
-- modalities: screenshots, text, bounding boxes
-- splits: train, test
-- supervision: OCR, region-text grounding
+- Formats: JSON, Parquet
+- Modalities: screenshots, text, bounding boxes
+- Splits: train, test
+- Supervision: OCR, region-text grounding
 
 #### Count observations
 
@@ -789,10 +765,10 @@ This is the Hub data release, distinct from the code and benchmark repository gi
 
 ### Structured profile
 
-- formats: JSON, password-protected ZIP (test splits)
-- modalities: task descriptions, raw HTML, cleaned HTML, candidate elements, actions
-- splits: train, test_task, test_website, test_domain
-- supervision: crowdsourced action sequences, ground-truth target elements
+- Formats: JSON, password-protected ZIP (test splits)
+- Modalities: task descriptions, raw HTML, cleaned HTML, candidate elements, actions
+- Splits: train, test_task, test_website, test_domain
+- Supervision: crowdsourced action sequences, ground-truth target elements
 
 #### Count observations
 
@@ -844,10 +820,10 @@ The files hold task instructions, reference task lengths and key-node evaluation
 
 ### Structured profile
 
-- formats: JSON
-- modalities: task instructions, URL and page-element evaluation functions
-- splits: train (2024-05-28 file), test (2024-10-24 file)
-- supervision: key-node evaluation annotations, reference task lengths
+- Formats: JSON
+- Modalities: task instructions, URL and page-element evaluation functions
+- Splits: train (2024-05-28 file), test (2024-10-24 file)
+- Supervision: key-node evaluation annotations, reference task lengths
 
 #### Count observations
 
@@ -891,18 +867,14 @@ Tasks and key-node evaluation entries are different units. The revised test file
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:neulab/multiui
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-neulab-multiui/record.json
 
 ### Structured profile
 
-- formats: not recorded
-- modalities: webpage UI content, text, accessibility-derived structure
-- splits: training collection
-- supervision: UI understanding, text-rich visual tasks
+- Formats: not recorded
+- Modalities: webpage UI content, text, accessibility-derived structure
+- Splits: training collection
+- Supervision: UI understanding, text-rich visual tasks
 
 #### Count observations
 
@@ -946,10 +918,10 @@ The reviewed card contains no explicit license declaration, so data-license stat
 
 ### Structured profile
 
-- formats: JSON, JSONL, PNG
-- modalities: screenshots, text, tool calls
-- splits: sft/train, rl/train
-- supervision: next-action supervision, verifiable task outcomes
+- Formats: JSON, JSONL, PNG
+- Modalities: screenshots, text, tool calls
+- Splits: sft/train, rl/train
+- Supervision: next-action supervision, verifiable task outcomes
 
 #### Count observations
 
@@ -989,18 +961,14 @@ About 86,000 human-written question-answer pairs over 35,000 Rico mobile screens
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:google-research-datasets/screen_qa
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-screen-qa/record.json
 
 ### Structured profile
 
-- formats: JSON
-- modalities: questions, answers, screen references, bounding boxes
-- splits: train, validation, test
-- supervision: screen question answering, answer grounding
+- Formats: JSON
+- Modalities: questions, answers, screen references, bounding boxes
+- Splits: train, validation, test
+- Supervision: screen question answering, answer grounding
 
 #### Count observations
 
@@ -1045,10 +1013,10 @@ The public Hub API reports gated=auto and a Restricted Research-Only declaration
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: screenshots, text, coordinates
-- splits: train
-- supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
+- Formats: Parquet
+- Modalities: screenshots, text, coordinates
+- Splits: train
+- Supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
 
 #### Count observations
 
@@ -1087,18 +1055,14 @@ Desktop GUI data for interface understanding and interaction research.
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:2c2004baae4669f8169a
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-2c2004baae4669f8169a/record.json
 
 ### Structured profile
 
-- formats: JSON annotations, image files
-- modalities: screenshots, bounding boxes, UI labels, action annotations
-- splits: not recorded
-- supervision: element grounding, layout grounding, action prediction
+- Formats: JSON annotations, image files
+- Modalities: screenshots, bounding boxes, UI labels, action annotations
+- Splits: not recorded
+- Supervision: element grounding, layout grounding, action prediction
 
 #### Count observations
 
@@ -1143,10 +1107,10 @@ The manifest contains grounding JSON annotations and packaged images. The card d
 
 ### Structured profile
 
-- formats: JSON annotations, ZIP image packages, multipart TAR image packages
-- modalities: GUI screenshots, grounding annotations
-- splits: training
-- supervision: GUI grounding supervised fine-tuning
+- Formats: JSON annotations, ZIP image packages, multipart TAR image packages
+- Modalities: GUI screenshots, grounding annotations
+- Splits: training
+- Supervision: GUI grounding supervised fine-tuning
 
 #### Count observations
 
@@ -1193,10 +1157,10 @@ The manifest contains trajectory annotations and archives associated with mobile
 
 ### Structured profile
 
-- formats: JSON annotations, ZIP image packages, multipart TAR image packages
-- modalities: GUI screenshots, natural-language instructions, action trajectories
-- splits: training
-- supervision: GUI trajectory supervised fine-tuning, planning and reasoning with inner monologue
+- Formats: JSON annotations, ZIP image packages, multipart TAR image packages
+- Modalities: GUI screenshots, natural-language instructions, action trajectories
+- Splits: training
+- Supervision: GUI trajectory supervised fine-tuning, planning and reasoning with inner monologue
 
 #### Count observations
 
@@ -1234,10 +1198,6 @@ Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track
 - Topics: data-generation
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:a06622da7688e3718a7b
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-a06622da7688e3718a7b/record.json
 
@@ -1303,10 +1263,6 @@ Computer-use environment and task resources for agent research.
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:6aa1aa58a7a888395189
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-6aa1aa58a7a888395189/record.json
 
 ### License declarations
@@ -1346,10 +1302,10 @@ The card reports a cleaned size of 3.12M without explicitly defining its countin
 
 ### Structured profile
 
-- formats: not recorded
-- modalities: images, prompts, actions, responses
-- splits: not recorded
-- supervision: web-world-model prediction
+- Formats: not recorded
+- Modalities: images, prompts, actions, responses
+- Splits: not recorded
+- Supervision: web-world-model prediction
 
 #### Count observations
 
@@ -1429,10 +1385,10 @@ The project recommends this release over its earlier OpenGVLab/GUI-Odyssey uploa
 
 ### Structured profile
 
-- formats: JSON annotations, PNG screenshots
-- modalities: screenshots, instructions, actions, bounding boxes, step context
-- splits: random, task, device, app
-- supervision: cross-app trajectories, action grounding
+- Formats: JSON annotations, PNG screenshots
+- Modalities: screenshots, instructions, actions, bounding boxes, step context
+- Splits: random, task, device, app
+- Supervision: cross-app trajectories, action grounding
 
 #### Count observations
 
@@ -1478,10 +1434,10 @@ The ungated Hub publishes four Parquet splits containing video identifiers and a
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: text, timestamps, bounding boxes, action labels
-- splits: train, validation, test, test_unseen_os
-- supervision: video-derived scene and action annotations
+- Formats: Parquet
+- Modalities: text, timestamps, bounding boxes, action labels
+- Splits: train, validation, test, test_unseen_os
+- Supervision: video-derived scene and action annotations
 
 #### Count observations
 
@@ -1535,10 +1491,10 @@ Each row is one action step with the page state before the action; tasks are dis
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: webpage screenshots, raw and cleaned HTML, task descriptions, action histories
-- splits: train, test_task, test_website, test_domain
-- supervision: target operation per step (CLICK, TYPE or SELECT with value), positive and negative candidate elements
+- Formats: Parquet
+- Modalities: webpage screenshots, raw and cleaned HTML, task descriptions, action histories
+- Splits: train, test_task, test_website, test_domain
+- Supervision: target operation per step (CLICK, TYPE or SELECT with value), positive and negative candidate elements
 
 #### Count observations
 
@@ -1591,10 +1547,10 @@ The Hub API at revision c17e5f29 reports gated 'auto' and lists stage1_data.json
 
 ### Structured profile
 
-- formats: JSON, split TAR archives
-- modalities: webpage UI content, text, accessibility-derived structure
-- splits: not recorded
-- supervision: text-rich web UI understanding tasks
+- Formats: JSON, split TAR archives
+- Modalities: webpage UI content, text, accessibility-derived structure
+- Splits: not recorded
+- Supervision: text-rich web UI understanding tasks
 
 #### Count observations
 
@@ -1675,10 +1631,10 @@ The short card says the four JSON files are LLaMA-Factory training files and raw
 
 ### Structured profile
 
-- formats: LLaMA-Factory ShareGPT JSON, tar.gz archive of raw rollouts
-- modalities: screenshots, instructions, step histories, reasoning text, actions, target element bounding boxes
-- splits: split1, split2, split3, split4
-- supervision: synthesized task instructions, agent rollout trajectories with learner/expert policy switching
+- Formats: LLaMA-Factory ShareGPT JSON, tar.gz archive of raw rollouts
+- Modalities: screenshots, instructions, step histories, reasoning text, actions, target element bounding boxes
+- Splits: split1, split2, split3, split4
+- Supervision: synthesized task instructions, agent rollout trajectories with learner/expert policy switching
 
 #### Count observations
 
@@ -1729,10 +1685,10 @@ The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automa
 
 ### Structured profile
 
-- formats: Python, Markdown, JSON manifest
-- modalities: Python task classes, implementation notes
-- splits: not recorded
-- supervision: task setup and evaluator code
+- Formats: Python, Markdown, JSON manifest
+- Modalities: Python task classes, implementation notes
+- Splits: not recorded
+- Supervision: task setup and evaluator code
 
 #### Count observations
 
@@ -1770,18 +1726,14 @@ Cross-platform training data released with ScaleCUA, with grounding and navigati
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:631e74223e198ef40202
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-631e74223e198ef40202/record.json
 
 ### Structured profile
 
-- formats: JSONL annotations, JSON manifest, split image archives
-- modalities: screenshots, text, actions
-- splits: not recorded
-- supervision: GUI grounding, GUI action trajectories
+- Formats: JSONL annotations, JSON manifest, split image archives
+- Modalities: screenshots, text, actions
+- Splits: not recorded
+- Supervision: GUI grounding, GUI action trajectories
 
 #### Count observations
 
@@ -1860,10 +1812,10 @@ Raw and Parquet folders are alternative views of the same data. The inspected ca
 
 ### Structured profile
 
-- formats: Parquet, episode files
-- modalities: screen images, instructions, previous state, continuous actions
-- splits: train, test
-- supervision: continuous GUI dragging
+- Formats: Parquet, episode files
+- Modalities: screen images, instructions, previous state, continuous actions
+- Splits: train, test
+- Supervision: continuous GUI dragging
 
 #### Count observations
 
@@ -1907,10 +1859,10 @@ The main branch holds the v2 release, which the card describes as using leaf-ele
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: web screenshots, source URLs, element annotations
-- splits: train
-- supervision: UI element bounding boxes, element class labels, element text, interactable flags, reading-order indices
+- Formats: Parquet
+- Modalities: web screenshots, source URLs, element annotations
+- Splits: train
+- Supervision: UI element bounding boxes, element class labels, element text, interactable flags, reading-order indices
 
 #### Count observations
 
@@ -1950,18 +1902,14 @@ Screenshots, element annotations, classes and shards are different units and are
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:f976dec3d1c5e0bedbd7
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-f976dec3d1c5e0bedbd7/record.json
 
 ### Structured profile
 
-- formats: Hub table with an image column
-- modalities: screenshots, text, bounding boxes, points
-- splits: train
-- supervision: instruction-to-element grounding
+- Formats: Hub table with an image column
+- Modalities: screenshots, text, bounding boxes, points
+- Splits: train
+- Supervision: instruction-to-element grounding
 
 #### Count observations
 
@@ -2000,18 +1948,14 @@ Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subse
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:c4898ad1bfc049926a63
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-c4898ad1bfc049926a63/record.json
 
 ### Structured profile
 
-- formats: Parquet shards
-- modalities: GUI screenshots, natural-language grounding descriptions
-- splits: not recorded
-- supervision: GUI visual-grounding training for the UGround-V1 family
+- Formats: Parquet shards
+- Modalities: GUI screenshots, natural-language grounding descriptions
+- Splits: not recorded
+- Supervision: GUI visual-grounding training for the UGround-V1 family
 
 #### Count observations
 
@@ -2090,10 +2034,10 @@ The card describes this as a subset of a collection of about 80k preprocessed ex
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: images, text, bounding boxes, OCR metadata
-- splits: train
-- supervision: instruction-to-target boxes, element annotations
+- Formats: Parquet
+- Modalities: images, text, bounding boxes, OCR metadata
+- Splits: train
+- Supervision: instruction-to-target boxes, element annotations
 
 #### Count observations
 
@@ -2143,10 +2087,10 @@ The card describes this as a personally reprocessed annotation release: records 
 
 ### Structured profile
 
-- formats: JSONL, tar archives of JPEG frames
-- modalities: screenshots, instructions, plans, actions, action rationales
-- splits: not recorded
-- supervision: video-derived task instructions and plans, model-generated action grounding
+- Formats: JSONL, tar archives of JPEG frames
+- Modalities: screenshots, instructions, plans, actions, action rationales
+- Splits: not recorded
+- Supervision: video-derived task instructions and plans, model-generated action grounding
 
 #### Count observations
 
@@ -2194,10 +2138,10 @@ The repository contains only JPEG frames packed in tar shards (671 for part16, 8
 
 ### Structured profile
 
-- formats: tar archives of JPEG frames
-- modalities: screenshots
-- splits: not recorded
-- supervision: frames referenced by video-derived trajectory annotations
+- Formats: tar archives of JPEG frames
+- Modalities: screenshots
+- Splits: not recorded
+- Supervision: frames referenced by video-derived trajectory annotations
 
 #### Count observations
 
@@ -2235,18 +2179,14 @@ Shard count computed by script from the pinned Hub API file list; it counts file
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:964d70c40bfc5ca8e1ee
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-964d70c40bfc5ca8e1ee/record.json
 
 ### Structured profile
 
-- formats: JSONL, image archives
-- modalities: screenshots, instructions, actions, generated reasoning
-- splits: not recorded
-- supervision: computer-use trajectories, synthesized reasoning
+- Formats: JSONL, image archives
+- Modalities: screenshots, instructions, actions, generated reasoning
+- Splits: not recorded
+- Supervision: computer-use trajectories, synthesized reasoning
 
 #### Count observations
 
@@ -2282,10 +2222,6 @@ Hugging Face dataset release for AgentRewardBench containing trajectory evaluati
 - Topics: evaluation, reward-models, web-navigation
 - Evidence checked: 2026-10-17T04:03:18Z
 - ID: url:866251b68d6bba8b8ba6
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/record.json
 
@@ -2361,10 +2297,10 @@ The Hub card is license-only; semantic description and reported scale come from 
 
 ### Structured profile
 
-- formats: HTML, JSON, Python extraction/loading scripts
-- modalities: GUI screenshots (described input), GUI actions, HTML
-- splits: Android-Control train file, Android-Control test file
-- supervision: action-conditioned next-state code prediction, generated HTML supervision
+- Formats: HTML, JSON, Python extraction/loading scripts
+- Modalities: GUI screenshots (described input), GUI actions, HTML
+- Splits: Android-Control train file, Android-Control test file
+- Supervision: action-conditioned next-state code prediction, generated HTML supervision
 
 #### Count observations
 
@@ -2412,10 +2348,10 @@ The publisher reports approximately 992K instruction-output pairs in its reposit
 
 ### Structured profile
 
-- formats: not recorded
-- modalities: screen observations, instructions, interaction history
-- splits: not recorded
-- supervision: context-aware grounding
+- Formats: not recorded
+- Modalities: screen observations, instructions, interaction history
+- Splits: not recorded
+- Supervision: context-aware grounding
 
 #### Count observations
 
@@ -2460,10 +2396,10 @@ The publisher flags original desktop files as deprecated because of screenshot-m
 
 ### Structured profile
 
-- formats: JSON annotations, image archives
-- modalities: screenshots, instructions, element captions
-- splits: not recorded
-- supervision: element grounding, element descriptions
+- Formats: JSON annotations, image archives
+- Modalities: screenshots, instructions, element captions
+- Splits: not recorded
+- Supervision: element grounding, element descriptions
 
 #### Count observations
 
@@ -2512,10 +2448,10 @@ The row count and unique-screen count are different units. The data card documen
 
 ### Structured profile
 
-- formats: not recorded
-- modalities: screenshots, instructions, functionality labels, bounding boxes
-- splits: train
-- supervision: element grounding, functionality captioning
+- Formats: not recorded
+- Modalities: screenshots, instructions, functionality labels, bounding boxes
+- Splits: train
+- Supervision: element grounding, functionality captioning
 
 #### Count observations
 
@@ -2732,10 +2668,10 @@ The dataset card holds only license metadata; the description and scope come fro
 
 ### Structured profile
 
-- formats: JSONL, PNG, plain text
-- modalities: screenshots, action trajectories, task results
-- splits: not recorded
-- supervision: agent-generated trajectories, automated task results
+- Formats: JSONL, PNG, plain text
+- Modalities: screenshots, action trajectories, task results
+- Splits: not recorded
+- Supervision: agent-generated trajectories, automated task results
 
 #### Count observations
 
@@ -2786,10 +2722,10 @@ The public release contains nine Parquet shards. The short card supplies schema 
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: text, accessibility-tree observations, actions
-- splits: train
-- supervision: action completion, trajectory outcome
+- Formats: Parquet
+- Modalities: text, accessibility-tree observations, actions
+- Splits: train
+- Supervision: action completion, trajectory outcome
 
 #### Count observations
 
@@ -2869,10 +2805,10 @@ The card declares MIT and attributes the source examples to GroundCUA.
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: screenshots, text, coordinates
-- splits: train
-- supervision: instruction-to-click grounding, target bounding boxes
+- Formats: Parquet
+- Modalities: screenshots, text, coordinates
+- Splits: train
+- Supervision: instruction-to-click grounding, target bounding boxes
 
 #### Count observations
 
@@ -3016,18 +2952,14 @@ GUI video benchmark and training data covering six scenarios, from Android and i
 - Evidence checked: 2026-10-16T06:40:52Z
 - ID: github:dongping-chen/gui-world
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dongping-chen-gui-world/record.json
 
 ### Structured profile
 
-- formats: not recorded
-- modalities: videos, frame images, text
-- splits: train, test
-- supervision: GUI video question answering, temporal interface understanding
+- Formats: not recorded
+- Modalities: videos, frame images, text
+- Splits: train, test
+- Supervision: GUI video question answering, temporal interface understanding
 
 #### Count observations
 
@@ -3074,10 +3006,10 @@ This is the Hub data release; the repository record github:dongping-chen/gui-wor
 
 ### Structured profile
 
-- formats: MP4 and MOV video files, JSONL annotations
-- modalities: screen-recording videos, text annotations
-- splits: train, benchmark
-- supervision: GUI-oriented question-answer annotations
+- Formats: MP4 and MOV video files, JSONL annotations
+- Modalities: screen-recording videos, text annotations
+- Splits: train, benchmark
+- Supervision: GUI-oriented question-answer annotations
 
 #### Count observations
 
@@ -3120,10 +3052,6 @@ Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grou
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:yiye3/guicourse
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yiye3-guicourse/record.json
 
 ### License declarations
@@ -3161,10 +3089,10 @@ The dataset card requires coordinate scaling to stay aligned with the image proc
 
 ### Structured profile
 
-- formats: not recorded
-- modalities: images, text, coordinates
-- splits: not recorded
-- supervision: icon grounding, component grounding, layout grounding, refusal
+- Formats: not recorded
+- Modalities: images, text, coordinates
+- Splits: not recorded
+- Supervision: icon grounding, component grounding, layout grounding, refusal
 
 #### Count observations
 
@@ -3345,10 +3273,10 @@ The card says each attempt holds step screenshots, a log.json action sequence, e
 
 ### Structured profile
 
-- formats: ZIP archives, gzip JSON, MP4
-- modalities: screenshots, action logs, evaluation results, video previews
-- splits: not recorded
-- supervision: agent execution trajectories with LLM-judged outcomes
+- Formats: ZIP archives, gzip JSON, MP4
+- Modalities: screenshots, action logs, evaluation results, video previews
+- Splits: not recorded
+- Supervision: agent execution trajectories with LLM-judged outcomes
 
 #### Count observations
 
@@ -3396,10 +3324,10 @@ The card only links the paper and the X-LANCE/META-GUI-baseline repository, whic
 
 ### Structured profile
 
-- formats: TAR archives, JSON, PNG, XML
-- modalities: dialogue text, screenshots, view hierarchies, actions
-- splits: train, test
-- supervision: GUI action sequences per dialogue turn, target elements for clicks, system response text
+- Formats: TAR archives, JSON, PNG, XML
+- Modalities: dialogue text, screenshots, view hierarchies, actions
+- Splits: train, test
+- Supervision: GUI action sequences per dialogue turn, target elements for clicks, system response text
 
 #### Count observations
 
@@ -3445,10 +3373,10 @@ The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automa
 
 ### Structured profile
 
-- formats: CSV, Python
-- modalities: text, Python code
-- splits: dev_set, test_set
-- supervision: task definitions for live-web agentic search, per-task judge-agent evaluation scripts
+- Formats: CSV, Python
+- Modalities: text, Python code
+- Splits: dev_set, test_set
+- Supervision: task definitions for live-web agentic search, per-task judge-agent evaluation scripts
 
 #### Count observations
 
@@ -3494,10 +3422,10 @@ The Hub API at revision b089ea88 lists two ZIP archives (about 6.25 GB and 14.4 
 
 ### Structured profile
 
-- formats: ZIP archives, JSONL, JPEG
-- modalities: screenshots, task instructions, previous actions, target operations, candidate elements with bounding boxes
-- splits: train, test_task, test_website, test_domain
-- supervision: next-action prediction on Mind2Web steps, candidate-element bounding boxes
+- Formats: ZIP archives, JSONL, JPEG
+- Modalities: screenshots, task instructions, previous actions, target operations, candidate elements with bounding boxes
+- Splits: train, test_task, test_website, test_domain
+- Supervision: next-action prediction on Mind2Web steps, candidate-element bounding boxes
 
 #### Count observations
 
@@ -3537,18 +3465,14 @@ Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archive
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:b80bfa0a4939a493a11f
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-b80bfa0a4939a493a11f/record.json
 
 ### Structured profile
 
-- formats: 7z app-graph archives, multipart 7z files
-- modalities: not recorded
-- splits: partial training release
-- supervision: mobile UI pretraining for MobileVLM
+- Formats: 7z app-graph archives, multipart 7z files
+- Modalities: not recorded
+- Splits: partial training release
+- Supervision: mobile UI pretraining for MobileVLM
 
 #### Count observations
 
@@ -3589,18 +3513,14 @@ Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 G
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:cc4aa8caeee0cff58e73
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/record.json
 
 ### Structured profile
 
-- formats: JPEG, JSON, XML, Parquet, CSV, ZIP packages, HTML/JavaScript trace visualization
-- modalities: screenshots, view hierarchies, action traces, app metadata
-- splits: not recorded
-- supervision: paired screenshot/view-hierarchy structure, recorded app states, actions and transitions
+- Formats: JPEG, JSON, XML, Parquet, CSV, ZIP packages, HTML/JavaScript trace visualization
+- Modalities: screenshots, view hierarchies, action traces, app metadata
+- Splits: not recorded
+- Supervision: paired screenshot/view-hierarchy structure, recorded app states, actions and transitions
 
 #### Count observations
 
@@ -3646,10 +3566,10 @@ The card, shared with its sibling crawl release, carries only the license, links
 
 ### Structured profile
 
-- formats: LabelMe JSON, ZIP, CSV
-- modalities: bounding-box annotations, UI text transcriptions
-- splits: train, val, test
-- supervision: icon bounding boxes with class labels, text bounding boxes with transcribed text and font-family labels
+- Formats: LabelMe JSON, ZIP, CSV
+- Modalities: bounding-box annotations, UI text transcriptions
+- Splits: train, val, test
+- Supervision: icon bounding boxes with class labels, text bounding boxes with transcribed text and font-family labels
 
 #### Count observations
 
@@ -3701,10 +3621,10 @@ The card carries the license, links and citation requests (MobA, META-GUI, CAM-G
 
 ### Structured profile
 
-- formats: JSON, tar.gz archives, PNG, XML
-- modalities: UI action strings naming element text, package, widget class and bounds, screenshots (seen in a partial archive read), XML view hierarchies (seen in a partial archive read)
-- splits: not recorded
-- supervision: crawled screen-transition navigation graphs
+- Formats: JSON, tar.gz archives, PNG, XML
+- Modalities: UI action strings naming element text, package, widget class and bounds, screenshots (seen in a partial archive read), XML view hierarchies (seen in a partial archive read)
+- Splits: not recorded
+- Supervision: crawled screen-transition navigation graphs
 
 #### Count observations
 
@@ -3744,18 +3664,14 @@ Mobile task demonstrations and natural-language instructions.
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:aburns4/motif
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aburns4-motif/record.json
 
 ### Structured profile
 
-- formats: JSON metadata, screen images
-- modalities: screenshots, view hierarchies, language, interaction sequences, feasibility labels
-- splits: not recorded
-- supervision: interaction trajectories, task feasibility
+- Formats: JSON metadata, screen images
+- Modalities: screenshots, view hierarchies, language, interaction sequences, feasibility labels
+- Splits: not recorded
+- Supervision: interaction trajectories, task feasibility
 
 #### Count observations
 
@@ -3901,10 +3817,10 @@ The repository is gated with automatic approval; its card could not be read with
 
 ### Structured profile
 
-- formats: ZIP archives, PNG, JSONL, JSON, text logs
-- modalities: screenshots, trajectory logs, result files, API usage records
-- splits: not recorded
-- supervision: agent run trajectories, evaluation results
+- Formats: ZIP archives, PNG, JSONL, JSON, text logs
+- Modalities: screenshots, trajectory logs, result files, API usage records
+- Splits: not recorded
+- Supervision: agent run trajectories, evaluation results
 
 #### Count observations
 
@@ -3970,10 +3886,10 @@ Access requires manual approval by the publisher; the record rests on the public
 
 ### Structured profile
 
-- formats: JSON, QCOW2, Python, CSV
-- modalities: task instructions, input files, reference outputs, VM disk images
-- splits: not recorded
-- supervision: expert-defined task definitions, grader reference files
+- Formats: JSON, QCOW2, Python, CSV
+- Modalities: task instructions, input files, reference outputs, VM disk images
+- Splits: not recorded
+- Supervision: expert-defined task definitions, grader reference files
 
 #### Count observations
 
@@ -4022,10 +3938,10 @@ Hub release contains data.zip. Training-purpose and platform descriptions come f
 
 ### Structured profile
 
-- formats: ZIP package
-- modalities: GUI screenshots, action trajectories, generated reasoning
-- splits: training
-- supervision: human demonstration refinement, generated action reasoning, trajectory augmentation
+- Formats: ZIP package
+- Modalities: GUI screenshots, action trajectories, generated reasoning
+- Splits: training
+- Supervision: human demonstration refinement, generated action reasoning, trajectory augmentation
 
 #### Count observations
 
@@ -4073,10 +3989,10 @@ The public manifest exposes JSON/JSONL data for planner and actor roles, includi
 
 ### Structured profile
 
-- formats: JSON, JSONL
-- modalities: text, plans, actions
-- splits: train (QwQ-32B files), validation (QwQ-32B files)
-- supervision: high-level plans, action execution
+- Formats: JSON, JSONL
+- Modalities: text, plans, actions
+- Splits: train (QwQ-32B files), validation (QwQ-32B files)
+- Supervision: high-level plans, action execution
 
 #### Count observations
 
@@ -4121,10 +4037,10 @@ Released by Paradigm Shift AI. The card reports 2,220 browser and 947 computer t
 
 ### Structured profile
 
-- formats: Parquet, MP4, zip archives, JSON strings
-- modalities: screen videos, screenshots, DOM snapshots, keyboard and mouse events, task metadata
-- splits: train
-- supervision: human computer-use demonstrations, reasoning steps
+- Formats: Parquet, MP4, zip archives, JSON strings
+- Modalities: screen videos, screenshots, DOM snapshots, keyboard and mouse events, task metadata
+- Splits: train
+- Supervision: human computer-use demonstrations, reasoning steps
 
 #### Count observations
 
@@ -4173,10 +4089,10 @@ Each CSV row pairs a Rico screen ID with one text serialization of the screen's 
 
 ### Structured profile
 
-- formats: CSV
-- modalities: text annotations, bounding-box coordinates, Rico screen IDs
-- splits: train, valid, test
-- supervision: screen annotation: UI element type, location, text and image description
+- Formats: CSV
+- Modalities: text annotations, bounding-box coordinates, Rico screen IDs
+- Splits: train, valid, test
+- Supervision: screen annotation: UI element type, location, text and image description
 
 #### Count observations
 
@@ -4222,18 +4138,14 @@ Mobile screen descriptions for language-based screen understanding.
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:google-research-datasets/screen2words
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-screen2words/record.json
 
 ### Structured profile
 
-- formats: CSV
-- modalities: text summaries, RICO screen references
-- splits: train, dev, test
-- supervision: screen summarization
+- Formats: CSV
+- Modalities: text summaries, RICO screen references
+- Splits: train, dev, test
+- Supervision: screen summarization
 
 #### Count observations
 
@@ -4277,10 +4189,10 @@ The card declares restricted academic research use and no redistribution. Annota
 
 ### Structured profile
 
-- formats: JSONL, JSON task recipes, TSV manifests
-- modalities: text, coordinates, image references
-- splits: full/train, point/train
-- supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
+- Formats: JSONL, JSON task recipes, TSV manifests
+- Modalities: text, coordinates, image references
+- Splits: full/train, point/train
+- Supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
 
 #### Count observations
 
@@ -4325,10 +4237,10 @@ Public Parquet annotations, metadata JSON and images.tar.gz are present. The car
 
 ### Structured profile
 
-- formats: Parquet, JSON, TAR.GZ
-- modalities: screenshots, text, bounding boxes, points
-- splits: train
-- supervision: element grounding
+- Formats: Parquet, JSON, TAR.GZ
+- Modalities: screenshots, text, bounding boxes, points
+- Splits: train
+- Supervision: element grounding
 
 #### Count observations
 
@@ -4372,10 +4284,10 @@ Public Parquet chunks and LeRobot metadata are present. The card names a v3.0 re
 
 ### Structured profile
 
-- formats: Parquet, LeRobot metadata
-- modalities: screenshots, instructions, actions
-- splits: not recorded
-- supervision: drag trajectories, click episodes
+- Formats: Parquet, LeRobot metadata
+- Modalities: screenshots, instructions, actions
+- Splits: not recorded
+- Supervision: drag trajectories, click episodes
 
 #### Count observations
 
@@ -4453,10 +4365,10 @@ The public manifest contains reward_data.jsonl but no separately packaged image 
 
 ### Structured profile
 
-- formats: JSONL
-- modalities: text
-- splits: not recorded
-- supervision: trajectory rewards
+- Formats: JSONL
+- Modalities: text
+- Splits: not recorded
+- Supervision: trajectory rewards
 
 #### Count observations
 
@@ -4502,10 +4414,10 @@ Public JSONL annotations and screenshots are present. MIT is declared in the dat
 
 ### Structured profile
 
-- formats: JSONL, PNG
-- modalities: screenshots, text, actions
-- splits: not recorded
-- supervision: GUI action trajectories
+- Formats: JSONL, PNG
+- Modalities: screenshots, text, actions
+- Splits: not recorded
+- Supervision: GUI action trajectories
 
 #### Count observations
 
@@ -4588,10 +4500,10 @@ The release contains train_1000.jsonl and images.parquet. The official README ex
 
 ### Structured profile
 
-- formats: JSONL, Parquet
-- modalities: images, text, actions
-- splits: training example subset
-- supervision: GUI actions
+- Formats: JSONL, Parquet
+- Modalities: images, text, actions
+- Splits: training example subset
+- Supervision: GUI actions
 
 #### Count observations
 
@@ -4637,10 +4549,10 @@ The archived repository retains TFRecord train/dev/test files for AppSim and Ref
 
 ### Structured profile
 
-- formats: TFRecord
-- modalities: text, bounding boxes, UI hierarchy metadata, Rico image identifiers
-- splits: AppSim train/dev/test, RefExp train/dev/test
-- supervision: similar UI element retrieval, referring-expression component retrieval
+- Formats: TFRecord
+- Modalities: text, bounding boxes, UI hierarchy metadata, Rico image identifiers
+- Splits: AppSim train/dev/test, RefExp train/dev/test
+- Supervision: similar UI element retrieval, referring-expression component retrieval
 
 #### Count observations
 
@@ -4759,10 +4671,10 @@ Train, validation and test Parquet files are publicly listed. The compilation li
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: images, text, bounding boxes, OCR metadata
-- splits: train, validation, test
-- supervision: instruction-to-target boxes
+- Formats: Parquet
+- Modalities: images, text, bounding boxes, OCR metadata
+- Splits: train, validation, test
+- Supervision: instruction-to-target boxes
 
 #### Count observations
 
@@ -4814,10 +4726,10 @@ Released by the web-arena-x organization. The card cites a project page (webaren
 
 ### Structured profile
 
-- formats: JSON, PNG
-- modalities: browser screenshots, task instructions, agent reasoning, actions
-- splits: not recorded
-- supervision: agent-generated successful trajectories, programmatic state-verifier outcomes
+- Formats: JSON, PNG
+- Modalities: browser screenshots, task instructions, agent reasoning, actions
+- Splits: not recorded
+- Supervision: agent-generated successful trajectories, programmatic state-verifier outcomes
 
 #### Count observations
 
@@ -4869,10 +4781,10 @@ The publisher's cleaned v2 release is a separate Hub repository (webagentlab/web
 
 ### Structured profile
 
-- formats: zipped JSON, split ZIP image archives, Parquet
-- modalities: viewport screenshots, partial full-page screenshots, HTML snapshots, accessibility-tree snapshots, instructions, actions
-- splits: high-level train, high-level test, low-level train, low-level test
-- supervision: human-executed web task trajectories, element bounding boxes and click coordinates, CSS selectors and DOM references, action types and input text, generated rationales where included
+- Formats: zipped JSON, split ZIP image archives, Parquet
+- Modalities: viewport screenshots, partial full-page screenshots, HTML snapshots, accessibility-tree snapshots, instructions, actions
+- Splits: high-level train, high-level test, low-level train, low-level test
+- Supervision: human-executed web task trajectories, element bounding boxes and click coordinates, CSS selectors and DOM references, action types and input text, generated rationales where included
 
 #### Count observations
 
@@ -4921,10 +4833,10 @@ The card calls this the cleaned, training-ready release and points to the publis
 
 ### Structured profile
 
-- formats: Parquet (Trace SFT and Seed/Demo SFT), Parquet and CSV metadata tables, SHA-256 manifests
-- modalities: viewport screenshots, task queries, reasoning text, actions, DOM and accessibility-tree references in trace metadata
-- splits: not recorded
-- supervision: human-executed web task trajectories, click coordinates, bounding boxes and CSS selectors, action types and text arguments, reasoning text added in post-processing
+- Formats: Parquet (Trace SFT and Seed/Demo SFT), Parquet and CSV metadata tables, SHA-256 manifests
+- Modalities: viewport screenshots, task queries, reasoning text, actions, DOM and accessibility-tree references in trace metadata
+- Splits: not recorded
+- Supervision: human-executed web task trajectories, click coordinates, bounding boxes and CSS selectors, action types and text arguments, reasoning text added in post-processing
 
 #### Count observations
 
@@ -5009,10 +4921,10 @@ The WebLINX repository README calls this the official dataset page and its libra
 
 ### Structured profile
 
-- formats: gzip-compressed JSON Lines, CSV, JSON
-- modalities: dialogue utterances, cleaned HTML, candidate element descriptions, action history, viewport size
-- splits: train, valid, test_iid, test_geo, test_vis, test_cat, test_web
-- supervision: next action per navigator turn, conversational instructions and responses
+- Formats: gzip-compressed JSON Lines, CSV, JSON
+- Modalities: dialogue utterances, cleaned HTML, candidate element descriptions, action history, viewport size
+- Splits: train, valid, test_iid, test_geo, test_vis, test_cat, test_web
+- Supervision: next action per navigator turn, conversational instructions and responses
 
 #### Count observations
 
@@ -5078,10 +4990,10 @@ Ten public Parquet shards are present. The card names its split test and reports
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: screenshots, text, action history
-- splits: test
-- supervision: preferred and rejected continuations, task checklists
+- Formats: Parquet
+- Modalities: screenshots, text, action history
+- Splits: test
+- Supervision: preferred and rejected continuations, task checklists
 
 #### Count observations
 
@@ -5126,10 +5038,10 @@ Public release includes train+dev and test ZIP packages plus a test-answer JSON 
 
 ### Structured profile
 
-- formats: CSV, HTML, JSON, ZIP packages
-- modalities: questions and answers, HTML, screenshots, layout metadata
-- splits: train, dev, test
-- supervision: extractive or yes/no answers, answer DOM-element references
+- Formats: CSV, HTML, JSON, ZIP packages
+- Modalities: questions and answers, HTML, screenshots, layout metadata
+- Splits: train, dev, test
+- Supervision: extractive or yes/no answers, answer DOM-element references
 
 #### Count observations
 
@@ -5218,10 +5130,10 @@ The card documents post hoc selection of the 286-task OSWorld subset based on mo
 
 ### Structured profile
 
-- formats: MP4, PNG, JSON, JSONL, commented key logs
-- modalities: screen video, screenshots, input events, task text
-- splits: not recorded
-- supervision: human workflow demonstrations, skill induction
+- Formats: MP4, PNG, JSON, JSONL, commented key logs
+- Modalities: screen video, screenshots, input events, task text
+- Splits: not recorded
+- Supervision: human workflow demonstrations, skill induction
 
 #### Count observations
 
@@ -5301,10 +5213,10 @@ The Hub repository has no dataset card or license file; the arXiv paper and its 
 
 ### Structured profile
 
-- formats: ZIP archives, plain-text gesture logs, CSV, XLSX, Python pickle
-- modalities: touch input events, motion-sensor readings, task instructions
-- splits: not recorded
-- supervision: source labels for human users and named agent configurations, task success scoring in the metadata workbook
+- Formats: ZIP archives, plain-text gesture logs, CSV, XLSX, Python pickle
+- Modalities: touch input events, motion-sensor readings, task instructions
+- Splits: not recorded
+- Supervision: source labels for human users and named agent configurations, task success scoring in the metadata workbook
 
 #### Count observations
 
@@ -5363,10 +5275,10 @@ Public Hub manifest contains JSONL task files and trajectory ZIP packages. Count
 
 ### Structured profile
 
-- formats: JSONL, ZIP trajectory packages
-- modalities: screenshots, task instructions, LLM thoughts, commands
-- splits: train (osworld configuration), train (insta configuration)
-- supervision: synthetic tasks, agent trajectories
+- Formats: JSONL, ZIP trajectory packages
+- Modalities: screenshots, task instructions, LLM thoughts, commands
+- Splits: train (osworld configuration), train (insta configuration)
+- Supervision: synthetic tasks, agent trajectories
 
 #### Count observations
 
@@ -5406,10 +5318,6 @@ Synthesizes browser-agent trajectories by replaying web tutorials as guidance, r
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:xlang-ai/agenttrek
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-agenttrek/record.json
 
 ### License declarations
@@ -5439,18 +5347,14 @@ Code for AMEX Android GUI data that converts its three annotation levels into qu
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:yuxiangchai/amex-codebase
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/record.json
 
 ### Structured profile
 
-- formats: not recorded
-- modalities: screenshots, element annotations, functionality descriptions, action chains
-- splits: not recorded
-- supervision: element grounding, UI functionality, interaction trajectories
+- Formats: not recorded
+- Modalities: screenshots, element annotations, functionality descriptions, action chains
+- Splits: not recorded
+- Supervision: element grounding, UI functionality, interaction trajectories
 
 #### Count observations
 
@@ -5488,18 +5392,14 @@ Human demonstrations of Android tasks with screenshots and touch actions.
 - Evidence checked: 2026-10-16T06:38:29Z
 - ID: component:google-research/android_in_the_wild
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/component-google-research-android-in-the-wild/record.json
 
 ### Structured profile
 
-- formats: GZIP-compressed TFRecord
-- modalities: screenshots, instructions, actions
-- splits: not recorded
-- supervision: interaction trajectories, action prediction
+- Formats: GZIP-compressed TFRecord
+- Modalities: screenshots, instructions, actions
+- Splits: not recorded
+- Supervision: interaction trajectories, action prediction
 
 #### Count observations
 
@@ -5570,18 +5470,14 @@ Android demonstrations with high-level goals, step instructions, screenshots, an
 - Evidence checked: 2026-10-16T06:38:29Z
 - ID: component:google-research/android_control
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/component-google-research-android-control/record.json
 
 ### Structured profile
 
-- formats: GZIP-compressed TFRecord
-- modalities: screenshots, accessibility trees, instructions, JSON actions
-- splits: publisher split file
-- supervision: interaction trajectories, high- and low-level action instruction
+- Formats: GZIP-compressed TFRecord
+- Modalities: screenshots, accessibility trees, instructions, JSON actions
+- Splits: publisher split file
+- Supervision: interaction trajectories, high- and low-level action instruction
 
 #### Count observations
 
@@ -5617,10 +5513,6 @@ AndroidHowTo provides scripts and annotations for building instructional mobile 
 - Topics: mobile-navigation, data-generation
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:debymf/generating_android_howto
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-debymf-generating-android-howto/record.json
 
@@ -5659,10 +5551,10 @@ The public Hub manifest lists AutoDroid-V2-Dataset.json; no training records wer
 
 ### Structured profile
 
-- formats: JSON in ShareGPT conversation format
-- modalities: text
-- splits: not recorded
-- supervision: supervised conversations for AutoDroid-V2 fine-tuning
+- Formats: JSON in ShareGPT conversation format
+- Modalities: text
+- Splits: not recorded
+- Supervision: supervised conversations for AutoDroid-V2 fine-tuning
 
 #### Count observations
 
@@ -5737,10 +5629,6 @@ Browser Agent Failure Corpus is a versioned dataset of browser-agent action fail
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:mutantweb/browser-agent-failure-corpus
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/record.json
 
 ### License declarations
@@ -5769,10 +5657,6 @@ Inclusion does not establish reproducibility or endorsement.
 - Topics: data-generation
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:ab26f9ef56d651cee587
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/url-ab26f9ef56d651cee587/record.json
 
@@ -5813,10 +5697,10 @@ The card says the videos were sourced from the internet, trimmed to screen-recor
 
 ### Structured profile
 
-- formats: MP4, JSONL, JSON, Parquet
-- modalities: screen-recording video, per-video duration metadata
-- splits: train
-- supervision: unlabeled screen recordings
+- Formats: MP4, JSONL, JSON, Parquet
+- Modalities: screen-recording video, per-video duration metadata
+- Splits: train
+- Supervision: unlabeled screen recordings
 
 #### Count observations
 
@@ -5869,10 +5753,10 @@ The Hub API at revision de58c88b reports an ungated repository with 16 Parquet s
 
 ### Structured profile
 
-- formats: Parquet, MP4
-- modalities: screenshots, accessibility trees, task instructions, pyautogui actions, model responses, execution logs, screen recordings
-- splits: train
-- supervision: successful agent trajectories
+- Formats: Parquet, MP4
+- Modalities: screenshots, accessibility trees, task instructions, pyautogui actions, model responses, execution logs, screen recordings
+- Splits: train
+- Supervision: successful agent trajectories
 
 #### Count observations
 
@@ -5920,10 +5804,10 @@ The publishing account is anonymous (anonymousmypcbench). The card names the ben
 
 ### Structured profile
 
-- formats: ZIP run archives, JSON, SHA-256 checksum lists
-- modalities: screenshots, agent transcripts, action logs, setup and verifier logs, timing and cost records
-- splits: not recorded
-- supervision: verifier task scores, agent-generated trajectories, measured task timings
+- Formats: ZIP run archives, JSON, SHA-256 checksum lists
+- Modalities: screenshots, agent transcripts, action logs, setup and verifier logs, timing and cost records
+- Splits: not recorded
+- Supervision: verifier task scores, agent-generated trajectories, measured task timings
 
 #### Count observations
 
@@ -6033,10 +5917,6 @@ EnvDistraction provides simulated GUI environments and evaluation scripts for me
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:xbmxb/envdistraction
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xbmxb-envdistraction/record.json
 
 ### License declarations
@@ -6074,10 +5954,10 @@ The Hub manifest at revision 4596a060 holds 41 JSONL partition files in six fold
 
 ### Structured profile
 
-- formats: JSONL, JSON
-- modalities: text instructions, actions, screenshot paths (images not included)
-- splits: federated training partitions, validation sets
-- supervision: episode instructions, step sub-instructions, action sequences
+- Formats: JSONL, JSON
+- Modalities: text instructions, actions, screenshot paths (images not included)
+- Splits: federated training partitions, validation sets
+- Supervision: episode instructions, step sub-instructions, action sequences
 
 #### Count observations
 
@@ -6125,10 +6005,10 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub no
 
 ### Structured profile
 
-- formats: FiftyOne dataset export (samples.json, metadata.json), PNG
-- modalities: screenshots, task descriptions, interaction keypoints
-- splits: train
-- supervision: human-placed interaction points, action types, natural-language task descriptions
+- Formats: FiftyOne dataset export (samples.json, metadata.json), PNG
+- Modalities: screenshots, task descriptions, interaction keypoints
+- Splits: train
+- Supervision: human-placed interaction points, action types, natural-language task descriptions
 
 #### Count observations
 
@@ -6179,10 +6059,10 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train-with-Synthetic, w
 
 ### Structured profile
 
-- formats: FiftyOne dataset export (samples.json, metadata.json), PNG
-- modalities: screenshots, task descriptions, interaction keypoints
-- splits: train, val
-- supervision: human-placed interaction points, action types, natural-language task descriptions, programmatic image and text augmentations
+- Formats: FiftyOne dataset export (samples.json, metadata.json), PNG
+- Modalities: screenshots, task descriptions, interaction keypoints
+- Splits: train, val
+- Supervision: human-placed interaction points, action types, natural-language task descriptions, programmatic image and text augmentations
 
 #### Count observations
 
@@ -6228,10 +6108,6 @@ Over 20,000 human Android episodes across 500+ apps with user context and long-t
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:tsinghua-fib-lab/fingertip-20k
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tsinghua-fib-lab-fingertip-20k/record.json
 
 ### License declarations
@@ -6269,10 +6145,10 @@ Hub revision 5c0836a5 lists the card, inp.json and ten split image archive parts
 
 ### Structured profile
 
-- formats: JSON (inp.json), split binary image archive
-- modalities: GUI screenshots, bounding-box annotations
-- splits: training
-- supervision: instruction-to-bounding-box GUI grounding, OmniParser IoU filtering of annotated boxes
+- Formats: JSON (inp.json), split binary image archive
+- Modalities: GUI screenshots, bounding-box annotations
+- Splits: training
+- Supervision: instruction-to-bounding-box GUI grounding, OmniParser IoU filtering of annotated boxes
 
 #### Count observations
 
@@ -6312,10 +6188,6 @@ Desktop GUI trajectory data supporting multiple interface understanding tasks.
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:0b590d03a3d5103a79e4
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-0b590d03a3d5103a79e4/record.json
 
 ### License declarations
@@ -6354,10 +6226,10 @@ Original repository URL redirects to showlab/GUI-Narrator.
 
 ### Structured profile
 
-- formats: not recorded
-- modalities: GUI video, action captions
-- splits: not recorded
-- supervision: GUI action captioning
+- Formats: not recorded
+- Modalities: GUI video, action captions
+- Splits: not recorded
+- Supervision: GUI action captioning
 
 #### Count observations
 
@@ -6401,10 +6273,10 @@ The official project explicitly links this corpus, and the ungated Hub API lists
 
 ### Structured profile
 
-- formats: JSONL
-- modalities: text
-- splits: not recorded
-- supervision: synthesized static planning knowledge, synthesized dynamic causal knowledge
+- Formats: JSONL
+- Modalities: text
+- Splits: not recorded
+- Supervision: synthesized static planning knowledge, synthesized dynamic causal knowledge
 
 #### Count observations
 
@@ -6484,10 +6356,10 @@ The thin card only describes the annotation files and split image archives; the 
 
 ### Structured profile
 
-- formats: JSON, split tar.gz image archives
-- modalities: screenshots, instructions, interaction history, reasoning text, actions
-- splits: not recorded
-- supervision: step-level reasoning text, demonstrated GUI actions, coordinate-grounded targets
+- Formats: JSON, split tar.gz image archives
+- Modalities: screenshots, instructions, interaction history, reasoning text, actions
+- Splits: not recorded
+- Supervision: step-level reasoning text, demonstrated GUI actions, coordinate-grounded targets
 
 #### Count observations
 
@@ -6539,10 +6411,10 @@ The ungated manifest lists JSON annotations and multipart image archives. Traini
 
 ### Structured profile
 
-- formats: JSON annotations, multipart image archives
-- modalities: text, screenshots
-- splits: training collection
-- supervision: GUI trajectory supervision from multimodal tutorials
+- Formats: JSON annotations, multipart image archives
+- Modalities: text, screenshots
+- Splits: training collection
+- Supervision: GUI trajectory supervision from multimodal tutorials
 
 #### Count observations
 
@@ -6591,10 +6463,10 @@ The card is titled TongUI-143K. The TongUI training docs list this repository be
 
 ### Structured profile
 
-- formats: LLaMA-Factory JSON conversations, multipart ZIP image archive
-- modalities: screenshots, instructions, reasoning traces, actions
-- splits: training collection
-- supervision: GUI grounding coordinates, GUI navigation steps with thoughts and actions
+- Formats: LLaMA-Factory JSON conversations, multipart ZIP image archive
+- Modalities: screenshots, instructions, reasoning traces, actions
+- Splits: training collection
+- Supervision: GUI grounding coordinates, GUI navigation steps with thoughts and actions
 
 #### Count observations
 
@@ -6644,10 +6516,10 @@ The paper's arXiv HTML links github.com/921112343/GUI-Xplore, whose README names
 
 ### Structured profile
 
-- formats: MP4, PNG, JPEG, XML, JSON, CSV
-- modalities: exploration videos, screenshots, view hierarchies, actions, question-answer pairs
-- splits: auto, manual_train, manual_test
-- supervision: exploration recordings, question-answer annotations, action sequences
+- Formats: MP4, PNG, JPEG, XML, JSON, CSV
+- Modalities: exploration videos, screenshots, view hierarchies, actions, question-answer pairs
+- Splits: auto, manual_train, manual_test
+- Supervision: exploration recordings, question-answer annotations, action sequences
 
 #### Count observations
 
@@ -6736,10 +6608,10 @@ The public manifest includes GUIMid.json, mavis.tar.gz, GUI_trajectory.json, tra
 
 ### Structured profile
 
-- formats: JSON, tar.gz image archives
-- modalities: text, images
-- splits: train configurations for named mid-training domains
-- supervision: mid-training instruction supervision, GUI post-training trajectories
+- Formats: JSON, tar.gz image archives
+- Modalities: text, images
+- Splits: train configurations for named mid-training domains
+- Supervision: mid-training instruction supervision, GUI post-training trajectories
 
 #### Count observations
 
@@ -6788,10 +6660,10 @@ Each record holds the full screenshot, a cropped app-window image, the window's 
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: screenshots, cropped window images, accessibility trees, instructions, actions
-- splits: train, test
-- supervision: generated task instructions, ground-truth click and type actions, element bounding boxes
+- Formats: Parquet
+- Modalities: screenshots, cropped window images, accessibility trees, instructions, actions
+- Splits: train, test
+- Supervision: generated task instructions, ground-truth click and type actions, element bounding boxes
 
 #### Count observations
 
@@ -6839,10 +6711,10 @@ The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agen
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: text
-- splits: train, test
-- supervision: task instructions, suggested step lists, success criteria
+- Formats: Parquet
+- Modalities: text
+- Splits: train, test
+- Supervision: task instructions, suggested step lists, success criteria
 
 #### Count observations
 
@@ -6928,10 +6800,10 @@ The card describes this release as an open-sourced sample: the full Mobile-R1 da
 
 ### Structured profile
 
-- formats: JSONL, PNG images
-- modalities: screenshots, instructions, thoughts, subtask descriptions, actions
-- splits: not recorded
-- supervision: manually annotated trajectories
+- Formats: JSONL, PNG images
+- Modalities: screenshots, instructions, thoughts, subtask descriptions, actions
+- Splits: not recorded
+- Supervision: manually annotated trajectories
 
 #### Count observations
 
@@ -6982,10 +6854,10 @@ Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: screenshots, HTML source, bounding boxes, instructions
-- splits: desktop train, desktop validation, mobile train, mobile validation, web train, web validation
-- supervision: synthetic GUI element annotations, element names, natural-language interaction intents
+- Formats: Parquet
+- Modalities: screenshots, HTML source, bounding boxes, instructions
+- Splits: desktop train, desktop validation, mobile train, mobile validation, web train, web validation
+- Supervision: synthetic GUI element annotations, element names, natural-language interaction intents
 
 #### Count observations
 
@@ -7072,10 +6944,10 @@ The ungated Hub manifest contains train, test-task, test-website and test-subdom
 
 ### Structured profile
 
-- formats: JSON, auxiliary PKL
-- modalities: dialogue text, HTML, element candidates, actions
-- splits: train, test_task, test_website, test_subdomain
-- supervision: multi-turn web instruction following, element/action prediction
+- Formats: JSON, auxiliary PKL
+- Modalities: dialogue text, HTML, element candidates, actions
+- Splits: train, test_task, test_website, test_subdomain
+- Supervision: multi-turn web instruction following, element/action prediction
 
 #### Count observations
 
@@ -7165,10 +7037,10 @@ The public manifest contains AC/AW JSONL training annotations and a screenshot a
 
 ### Structured profile
 
-- formats: JSONL, ZIP
-- modalities: screenshots, text, actions
-- splits: AndroidControl training, AndroidWorld training
-- supervision: mobile action trajectories
+- Formats: JSONL, ZIP
+- Modalities: screenshots, text, actions
+- Splits: AndroidControl training, AndroidWorld training
+- Supervision: mobile action trajectories
 
 #### Count observations
 
@@ -7214,10 +7086,10 @@ Access is auto-gated; the Hub API reports MIT in the card metadata for this data
 
 ### Structured profile
 
-- formats: JSONL, ZIP
-- modalities: screenshots, text, actions
-- splits: web training
-- supervision: web action trajectories
+- Formats: JSONL, ZIP
+- Modalities: screenshots, text, actions
+- Splits: web training
+- Supervision: web action trajectories
 
 #### Count observations
 
@@ -7262,10 +7134,10 @@ Adjacent: a file host that the curated OSWorld benchmark depends on; this asset 
 
 ### Structured profile
 
-- formats: original application file formats, archives
-- modalities: images, documents, spreadsheets, presentations, audio and video, scripts
-- splits: not recorded
-- supervision: task setup and evaluation assets
+- Formats: original application file formats, archives
+- Modalities: images, documents, spreadsheets, presentations, audio and video, scripts
+- Splits: not recorded
+- Supervision: task setup and evaluation assets
 
 #### Count observations
 
@@ -7312,10 +7184,10 @@ The card calls this a self-reported trajectory package; it links no paper or har
 
 ### Structured profile
 
-- formats: JSONL, JSON, PNG, CSV, Parquet
-- modalities: screenshots, action trajectories, task guidance cards, scores
-- splits: not recorded
-- supervision: agent-generated trajectories, evaluator task scores
+- Formats: JSONL, JSON, PNG, CSV, Parquet
+- Modalities: screenshots, action trajectories, task guidance cards, scores
+- Splits: not recorded
+- Supervision: agent-generated trajectories, evaluator task scores
 
 #### Count observations
 
@@ -7375,10 +7247,10 @@ The OSWorld project page says all verified trajectories are published in this da
 
 ### Structured profile
 
-- formats: zip archives, tar.gz archive, JSON
-- modalities: screenshots, actions, model reasoning, task results
-- splits: not recorded
-- supervision: agent evaluation trajectories
+- Formats: zip archives, tar.gz archive, JSON
+- Modalities: screenshots, actions, model reasoning, task results
+- Splits: not recorded
+- Supervision: agent evaluation trajectories
 
 #### Count observations
 
@@ -7450,10 +7322,6 @@ PSAI Computer Use Dataset provides 3,167 human-computer interaction trajectories
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:anaishowland/computeruse-data-psai
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/record.json
 
 ### License declarations
@@ -7483,10 +7351,6 @@ RelationGUI provides datasets and training code for explicit spatial, hierarchic
 - Topics: screen-understanding, grounding, evaluation
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:malonghui/relationgui
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-malonghui-relationgui/record.json
 
@@ -7525,10 +7389,10 @@ The official project page cites the 2017 Rico paper. The project page reports mo
 
 ### Structured profile
 
-- formats: PNG, JSON, CSV, NumPy NPY, GIF
-- modalities: screenshots, Android view hierarchies, gesture traces, transition animations, app/UI metadata
-- splits: not recorded
-- supervision: UI structure and element properties, recorded human interactions, learned UI layout embeddings
+- Formats: PNG, JSON, CSV, NumPy NPY, GIF
+- Modalities: screenshots, Android view hierarchies, gesture traces, transition animations, app/UI metadata
+- Splits: not recorded
+- Supervision: UI structure and element properties, recorded human interactions, learned UI layout embeddings
 
 #### Count observations
 
@@ -7598,10 +7462,6 @@ RICO Semantics provides 500,000 human annotations on RICO mobile screens coverin
 - Topics: screen-understanding, grounding, data-generation
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:google-research-datasets/rico_semantics
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/record.json
 
@@ -7847,10 +7707,10 @@ The 800k figure describes training samples in the study. The repository code-lic
 
 ### Structured profile
 
-- formats: not recorded
-- modalities: GUI interaction trajectories
-- splits: not recorded
-- supervision: recovery trajectory synthesis
+- Formats: not recorded
+- Modalities: GUI interaction trajectories
+- Splits: not recorded
+- Supervision: recovery trajectory synthesis
 
 #### Count observations
 
@@ -7895,10 +7755,10 @@ The card reports agent model anthropic/claude-opus-5 at max thinking effort on a
 
 ### Structured profile
 
-- formats: JSONL, JSON, plain-text logs, TAR media archives
-- modalities: screenshots, screen recordings, action trajectories, agent messages and events, harness and grader logs, scores
-- splits: not recorded
-- supervision: grader task scores, agent-generated trajectories
+- Formats: JSONL, JSON, plain-text logs, TAR media archives
+- Modalities: screenshots, screen recordings, action trajectories, agent messages and events, harness and grader logs, scores
+- Splits: not recorded
+- Supervision: grader task scores, agent-generated trajectories
 
 #### Count observations
 
@@ -7949,10 +7809,10 @@ The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks 
 
 ### Structured profile
 
-- formats: JSON, JSONL, CSV, plain-text logs, Markdown
-- modalities: action trajectories, agent messages and events, runtime and evaluator logs, scores
-- splits: not recorded
-- supervision: evaluator task scores, agent-generated trajectories
+- Formats: JSON, JSONL, CSV, plain-text logs, Markdown
+- Modalities: action trajectories, agent messages and events, runtime and evaluator logs, scores
+- Splits: not recorded
+- Supervision: evaluator task scores, agent-generated trajectories
 
 #### Count observations
 
@@ -8006,10 +7866,10 @@ Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; access is open
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: GUI screenshots, bounding boxes, instructions, element descriptions
-- splits: train
-- supervision: instruction-to-bounding-box GUI grounding
+- Formats: Parquet
+- Modalities: GUI screenshots, bounding boxes, instructions, element descriptions
+- Splits: train
+- Supervision: instruction-to-bounding-box GUI grounding
 
 #### Count observations
 
@@ -8056,10 +7916,10 @@ The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl file
 
 ### Structured profile
 
-- formats: JSONL, ZIP image archives, tar.gz image archives
-- modalities: screenshots, instructions, actions, action descriptions
-- splits: capability/train, safety/train, safety_v2/train
-- supervision: computer-use trajectories, task-success labels, safety-outcome labels, safe-refusal examples
+- Formats: JSONL, ZIP image archives, tar.gz image archives
+- Modalities: screenshots, instructions, actions, action descriptions
+- Splits: capability/train, safety/train, safety_v2/train
+- Supervision: computer-use trajectories, task-success labels, safety-outcome labels, safe-refusal examples
 
 #### Count observations
 
@@ -8110,10 +7970,10 @@ The manifest exposes six ZIP archives but no README card or data-license declara
 
 ### Structured profile
 
-- formats: ZIP
-- modalities: screenshots, accessibility trees, text
-- splits: not recorded
-- supervision: evaluation rollout logs
+- Formats: ZIP
+- Modalities: screenshots, accessibility trees, text
+- Splits: not recorded
+- Supervision: evaluation rollout logs
 
 #### Count observations
 
@@ -8159,10 +8019,10 @@ In each sample, the first crop marks the grounding model's initial box and the s
 
 ### Structured profile
 
-- formats: Parquet metadata, PNG images
-- modalities: cropped GUI screenshots with a highlighted candidate box, natural-language click commands
-- splits: train
-- supervision: automatically derived choice between two candidate boxes against ground truth
+- Formats: Parquet metadata, PNG images
+- Modalities: cropped GUI screenshots with a highlighted candidate box, natural-language click commands
+- Splits: train
+- Supervision: automatically derived choice between two candidate boxes against ground truth
 
 #### Count observations
 
@@ -8204,10 +8064,6 @@ UEyes is an eye-tracking dataset of 62 participants viewing 1,980 UI screenshots
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:yuejiang-nj/ueyes-chi2023
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yuejiang-nj-ueyes-chi2023/record.json
 
 ### License declarations
@@ -8236,10 +8092,6 @@ Treats grounding instructions as multiple reasoning perspectives, releasing a da
 - Topics: data-generation
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:alibaba/ui-ins
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-alibaba-ui-ins/record.json
 
@@ -8278,10 +8130,10 @@ The published CSV contains critique text, normalized boxes, ratings and RICO IDs
 
 ### Structured profile
 
-- formats: CSV
-- modalities: text, bounding boxes, quality ratings
-- splits: not recorded
-- supervision: design critique, region localization, quality rating
+- Formats: CSV
+- Modalities: text, bounding boxes, quality ratings
+- Splits: not recorded
+- Supervision: design critique, region localization, quality rating
 
 #### Count observations
 
@@ -8363,10 +8215,10 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 
 ### Structured profile
 
-- formats: per-trajectory folders with task.json and PNG screenshots
-- modalities: screenshots, task queries, reasoning traces, actions
-- splits: not recorded
-- supervision: teacher-model GUI trajectories cleaned by a filtering pipeline, structured reasoning traces, normalized desktop actions with pyautogui code
+- Formats: per-trajectory folders with task.json and PNG screenshots
+- Modalities: screenshots, task queries, reasoning traces, actions
+- Splits: not recorded
+- Supervision: teacher-model GUI trajectories cleaned by a filtering pipeline, structured reasoning traces, normalized desktop actions with pyautogui code
 
 #### Count observations
 
@@ -8420,10 +8272,10 @@ The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajecto
 
 ### Structured profile
 
-- formats: per-trajectory folders with task.json and PNG screenshots
-- modalities: screenshots, task queries, reasoning traces, actions
-- splits: not recorded
-- supervision: teacher-model GUI trajectories filtered by an automatic success judge, structured reasoning traces, normalized mobile actions with adb commands
+- Formats: per-trajectory folders with task.json and PNG screenshots
+- Modalities: screenshots, task queries, reasoning traces, actions
+- Splits: not recorded
+- Supervision: teacher-model GUI trajectories filtered by an automatic success judge, structured reasoning traces, normalized mobile actions with adb commands
 
 #### Count observations
 
@@ -8473,10 +8325,10 @@ The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned pu
 
 ### Structured profile
 
-- formats: per-trajectory folders with task.json, result.json and PNG screenshots
-- modalities: screenshots, task queries, reasoning traces, actions
-- splits: not recorded
-- supervision: agent trajectories cleaned and normalized for supervised training, structured reasoning traces, normalized mobile actions
+- Formats: per-trajectory folders with task.json, result.json and PNG screenshots
+- Modalities: screenshots, task queries, reasoning traces, actions
+- Splits: not recorded
+- Supervision: agent trajectories cleaned and normalized for supervised training, structured reasoning traces, normalized mobile actions
 
 #### Count observations
 
@@ -8527,10 +8379,10 @@ Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1
 
 ### Structured profile
 
-- formats: ZIP, MP4, JSON, PNG
-- modalities: video, UI action logs, target CAD images
-- splits: not recorded
-- supervision: timestamped UI actions, target model images
+- Formats: ZIP, MP4, JSON, PNG
+- Modalities: video, UI action logs, target CAD images
+- Splits: not recorded
+- Supervision: timestamped UI actions, target model images
 
 #### Count observations
 
@@ -8576,10 +8428,10 @@ At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in tota
 
 ### Structured profile
 
-- formats: ZIP archives of MP4 video and JSON
-- modalities: screen recordings, action logs, instructions
-- splits: not recorded
-- supervision: human expert task demonstrations, timestamped mouse and keyboard actions, task instructions
+- Formats: ZIP archives of MP4 video and JSON
+- Modalities: screen recordings, action logs, instructions
+- Splits: not recorded
+- Supervision: human expert task demonstrations, timestamped mouse and keyboard actions, task instructions
 
 #### Count observations
 
@@ -8621,10 +8473,6 @@ VLM-Reasoning-Traces releases model outputs comparing base and thinking-enabled 
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:llamatouch/vlm-reasoning-traces
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-llamatouch-vlm-reasoning-traces/record.json
 
 ### License declarations
@@ -8662,10 +8510,10 @@ The card and public manifest identify separate policy-model and world-model JSON
 
 ### Structured profile
 
-- formats: JSONL
-- modalities: not recorded
-- splits: not recorded
-- supervision: agent-policy supervised fine-tuning, web-world-model supervised fine-tuning
+- Formats: JSONL
+- Modalities: not recorded
+- Splits: not recorded
+- Supervision: agent-policy supervised fine-tuning, web-world-model supervised fine-tuning
 
 #### Count observations
 
@@ -8713,10 +8561,10 @@ Five public Parquet shards are present. This collection provides checklist-gener
 
 ### Structured profile
 
-- formats: Parquet
-- modalities: screenshots, text, action history
-- splits: test
-- supervision: checklist generation, subgoal analysis
+- Formats: Parquet
+- Modalities: screenshots, text, action history
+- Splits: test
+- Supervision: checklist generation, subgoal analysis
 
 #### Count observations
 
@@ -8754,10 +8602,6 @@ WebSRC provides baseline models and processing pipelines for the Web-Based Struc
 - Topics: screen-understanding, web-navigation, evaluation
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:x-lance/websrc-baseline
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-x-lance-websrc-baseline/record.json
 

@@ -12,10 +12,6 @@ Open-source MCP-native browser automation server with human-in-the-loop takeover
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:lvcidpsyche/auto-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lvcidpsyche-auto-browser/record.json
 
 ## License declarations

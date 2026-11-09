@@ -12,10 +12,6 @@ Local CLI that drives an authenticated ChatGPT web session through the anti-dete
 - Evidence checked: 2026-11-04T17:30:40Z
 - ID: github:koukeneko/cloakgpt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-koukeneko-cloakgpt/record.json
 
 ## License declarations

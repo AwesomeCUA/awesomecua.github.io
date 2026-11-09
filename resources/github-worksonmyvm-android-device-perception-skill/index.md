@@ -12,10 +12,6 @@ Portable, read-only Android state-snapshot skill via ADB for AI coding and mobil
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:worksonmyvm/android-device-perception-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-worksonmyvm-android-device-perception-skill/record.json
 
 ## License declarations

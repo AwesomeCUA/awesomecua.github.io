@@ -12,10 +12,6 @@ OysterWorkflow captures real human computer work and extracts structured, reusab
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:shuxinyang111/oysterworkflow
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/record.json
 
 ## License declarations

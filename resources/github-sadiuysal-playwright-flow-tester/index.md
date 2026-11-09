@@ -12,10 +12,6 @@ Parameterized UI/UX flow testing suite with Model Context Protocol integration a
 - Evidence checked: 2026-11-04T15:03:38Z
 - ID: github:sadiuysal/playwright-flow-tester
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sadiuysal-playwright-flow-tester/record.json
 
 ## License declarations

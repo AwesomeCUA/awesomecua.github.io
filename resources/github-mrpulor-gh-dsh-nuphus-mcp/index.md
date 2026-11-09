@@ -12,10 +12,6 @@ DeepSeek Harness plugin that mounts `nuphus-mcp` desktop control tools natively 
 - Evidence checked: 2026-11-04T17:20:52Z
 - ID: github:mrpulor-gh/dsh-nuphus-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mrpulor-gh-dsh-nuphus-mcp/record.json
 
 ## License declarations

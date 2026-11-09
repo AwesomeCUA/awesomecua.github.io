@@ -12,10 +12,6 @@ Chrome extension and zero-dependency MCP server for automating a user's real log
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:dylansantwani/openbrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dylansantwani-openbrowser/record.json
 
 ## License declarations

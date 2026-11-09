@@ -12,10 +12,6 @@ General agent platform with browser-based task execution.
 - Evidence checked: 2026-10-16T06:38:28Z
 - ID: url:d3414794302313051ff0
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-d3414794302313051ff0/record.json
 
 ## License declarations

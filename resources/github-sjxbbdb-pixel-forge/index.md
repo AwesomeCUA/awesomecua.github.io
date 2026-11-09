@@ -12,10 +12,6 @@ Desktop automation toolkit providing screenshot capture, OCR, pixel-diff change 
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:sjxbbdb/pixel-forge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sjxbbdb-pixel-forge/record.json
 
 ## License declarations

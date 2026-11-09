@@ -12,10 +12,6 @@ Model Context Protocol server for driving Firefox-family browsers (Firefox, Floo
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:frumane/gecko-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-frumane-gecko-mcp/record.json
 
 ## License declarations

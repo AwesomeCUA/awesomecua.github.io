@@ -12,10 +12,6 @@ SimpleMem provides semantic lossless memory compression and multimodal retrieval
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:aiming-lab/simplemem
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aiming-lab-simplemem/record.json
 
 ## License declarations

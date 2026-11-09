@@ -12,10 +12,6 @@ Open-source multi-agent spatial orchestration canvas integrating CLI agents, bro
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:victorkaor/maestro-oss
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-victorkaor-maestro-oss/record.json
 
 ## License declarations

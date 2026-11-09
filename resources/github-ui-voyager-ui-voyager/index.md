@@ -12,10 +12,6 @@ UI-Voyager is a self-evolving mobile GUI agent framework that learns from failed
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:ui-voyager/ui-voyager
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ui-voyager-ui-voyager/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ agentB is a benchmark for evaluating open web agents on realistic knowledge-work
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:beme08/agentb
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-beme08-agentb/record.json
 
 ## License declarations

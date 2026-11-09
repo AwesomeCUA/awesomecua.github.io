@@ -12,10 +12,6 @@ InfiGUI-G1 3B and 7B grounding models trained with Adaptive Exploration Policy O
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:infixai/infigui-g1
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-infixai-infigui-g1/record.json
 
 ## License declarations

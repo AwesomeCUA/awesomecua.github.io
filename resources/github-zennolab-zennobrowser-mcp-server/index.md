@@ -12,10 +12,6 @@ Official Model Context Protocol server for controlling ZennoBrowser anti-detect 
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:zennolab/zennobrowser-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zennolab-zennobrowser-mcp-server/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Native Rust Model Context Protocol server that drives Chrome directly over the C
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:astroqueststudio/spectra-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-astroqueststudio-spectra-mcp/record.json
 
 ## License declarations

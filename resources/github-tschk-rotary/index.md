@@ -12,10 +12,6 @@ Rust agent harness engine providing tool loops, session persistence, permission 
 - Evidence checked: 2026-11-04T16:51:43Z
 - ID: github:tschk/rotary
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tschk-rotary/record.json
 
 ## License declarations

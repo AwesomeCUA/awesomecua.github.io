@@ -12,10 +12,6 @@ Developer-focused MCP bridge connecting Claude Code, OpenCode, and GitHub Copilo
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:jobshimo/browser-link
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jobshimo-browser-link/record.json
 
 ## License declarations

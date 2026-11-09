@@ -12,18 +12,14 @@ Human demonstrations of Android tasks with screenshots and touch actions.
 - Evidence checked: 2026-10-16T06:38:29Z
 - ID: component:google-research/android_in_the_wild
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/component-google-research-android-in-the-wild/record.json
 
 ## Structured profile
 
-- formats: GZIP-compressed TFRecord
-- modalities: screenshots, instructions, actions
-- splits: not recorded
-- supervision: interaction trajectories, action prediction
+- Formats: GZIP-compressed TFRecord
+- Modalities: screenshots, instructions, actions
+- Splits: not recorded
+- Supervision: interaction trajectories, action prediction
 
 ### Count observations
 

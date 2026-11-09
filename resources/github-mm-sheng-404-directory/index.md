@@ -12,10 +12,6 @@ Pre-execution risk preflight service and SDK that checks third-party tools and d
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:mm-sheng/404-directory
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mm-sheng-404-directory/record.json
 
 ## License declarations

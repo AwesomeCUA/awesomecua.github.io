@@ -12,10 +12,6 @@ Microsoft's Fara checkpoint, a Qwen2.5-VL-architecture image-text-to-text model 
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:a4da77ee63f879cc8e63
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-a4da77ee63f879cc8e63/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Enikk is an open-source computer-use agent that combines GUI visual control and 
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:gtt116/enikk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gtt116-enikk/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ ToolGen represents external tools as virtual vocabulary tokens to unify massive-
 - Evidence checked: 2026-11-04T13:12:32Z
 - ID: github:reason-wang/toolgen
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-reason-wang-toolgen/record.json
 
 ## License declarations

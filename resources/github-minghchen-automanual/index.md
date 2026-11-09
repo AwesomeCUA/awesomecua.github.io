@@ -12,10 +12,6 @@ AutoManual enables LLM agents to construct and iteratively refine structured ins
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:minghchen/automanual
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-minghchen-automanual/record.json
 
 ## License declarations

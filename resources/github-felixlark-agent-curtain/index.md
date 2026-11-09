@@ -12,10 +12,6 @@ AgentCurtain is a macOS menu-bar utility that dims physical displays and blocks 
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:felixlark/agent-curtain
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-felixlark-agent-curtain/record.json
 
 ## License declarations

@@ -35,13 +35,13 @@ Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang, Shadikur Rahman
 - Publication source: https://aclanthology.org/2026.findings-eacl.177/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2508-17398/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2508-17398/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: EACL 2026
-- publisher: Association for Computational Linguistics
-- pages: 3385-3407
-- doi: 10.18653/v1/2026.findings-eacl.177
-- date basis: Explicit publisher metadata: 2026/3; precision=month.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: This work already exists as metadata_verified arxiv:2508.17398. Its retained Atom body was unavailable locally, so identity is based on the exact title and full author list (minor Md. punctuation variant) in the existing record and publisher source. No arXiv API refresh or second work is proposed. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Findings of the Association for Computational Linguistics: EACL 2026
+- Publisher: Association for Computational Linguistics
+- Pages: 3385-3407
+- DOI: 10.18653/v1/2026.findings-eacl.177
+- Date source: Explicit publisher metadata: 2026/3; precision=month.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: This work already exists as metadata_verified arxiv:2508.17398. Its retained Atom body was unavailable locally, so identity is based on the exact title and full author list (minor Md. punctuation variant) in the existing record and publisher source. No arXiv API refresh or second work is proposed. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://aclanthology.org/2026.findings-eacl.177/
 
 ## Recorded arXiv snapshot

@@ -12,10 +12,6 @@ Local-first desktop AI agent platform built with TypeScript, Electron, React, an
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:vincenzo-afk/nova-exe
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vincenzo-afk-nova-exe/record.json
 
 ## License declarations

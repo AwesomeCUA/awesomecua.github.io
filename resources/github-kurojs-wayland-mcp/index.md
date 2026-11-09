@@ -12,10 +12,6 @@ Wayland MCP Server provides screenshot capture, VLM coordinate analysis, and vir
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:kurojs/wayland-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kurojs-wayland-mcp/record.json
 
 ## License declarations

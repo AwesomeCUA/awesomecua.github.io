@@ -12,10 +12,6 @@ BrowserGym-based benchmark for evaluating the safety and policy compliance of en
 - Evidence checked: 2026-10-18T10:59:54Z
 - ID: github:segev-shlomov/st-webagentbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-segev-shlomov-st-webagentbench/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ agent-ready-ui instruments web frontend components with semantic attributes and 
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:dvnc-labs/agent-ready-ui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dvnc-labs-agent-ready-ui/record.json
 
 ## License declarations

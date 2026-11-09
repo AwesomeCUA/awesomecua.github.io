@@ -12,10 +12,6 @@ Provisions disposable, headless macOS virtual machines so computer-use agents ca
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:zimengxiong/computer-use-vm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/record.json
 
 ## License declarations

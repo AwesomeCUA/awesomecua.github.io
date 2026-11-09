@@ -12,10 +12,6 @@ Five-chapter architectural blueprint and comparative engineering guide for build
 - Evidence checked: 2026-11-04T16:51:46Z
 - ID: github:men-zer/ai-agent-desktop-engineering-blueprint
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/record.json
 
 ## License declarations

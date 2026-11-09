@@ -12,10 +12,6 @@ Computer Control MCP is a zero-dependency Model Context Protocol server providin
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:ab498/computer-control-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ab498-computer-control-mcp/record.json
 
 ## License declarations

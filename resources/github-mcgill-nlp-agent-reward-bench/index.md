@@ -20,11 +20,11 @@ The public repository contains judges, evaluation utilities and annotation files
 
 ## Structured profile
 
-- actions: judge verdicts
-- evaluation: Compare automatic judgments with expert answers on task success, side effects and repetitiveness.
-- focus: automatic evaluator agreement, task success, side effects, repetition
-- observations: web trajectories, screenshots, actions
-- setting: offline
+- Actions / outputs: judge verdicts
+- Evaluation: Compare automatic judgments with expert answers on task success, side effects and repetitiveness.
+- Focus: automatic evaluator agreement, task success, side effects, repetition
+- Observations: web trajectories, screenshots, actions
+- Setting: offline
 
 ### Count observations
 

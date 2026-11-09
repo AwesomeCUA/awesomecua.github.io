@@ -12,10 +12,6 @@ Model Context Protocol server that dispatches concurrent AI virtual-user persona
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:anhhuyn411-alt/crowd-test-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Cross-platform general-purpose agent equipped with 28+ built-in tools, multi-mod
 - Evidence checked: 2026-11-04T17:55:15Z
 - ID: github:znfr60/o-yuan-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-znfr60-o-yuan-agent/record.json
 
 ## License declarations

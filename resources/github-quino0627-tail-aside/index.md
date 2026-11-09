@@ -12,10 +12,6 @@ Remote mobile controller for monitoring and steering the Aside browser agent ove
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:quino0627/tail-aside
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-quino0627-tail-aside/record.json
 
 ## License declarations

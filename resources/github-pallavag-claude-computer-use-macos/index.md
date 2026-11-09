@@ -12,10 +12,6 @@ Runs Anthropic Claude Computer Use directly on macOS without Docker by translati
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:pallavag/claude-computer-use-macos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pallavag-claude-computer-use-macos/record.json
 
 ## License declarations

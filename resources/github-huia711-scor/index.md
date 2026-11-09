@@ -12,10 +12,6 @@ Sparse Context Reset (SCoR) framework for preventing context overflow and drift 
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:huia711/scor
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-huia711-scor/record.json
 
 ## License declarations

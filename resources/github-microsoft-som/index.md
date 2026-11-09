@@ -12,10 +12,6 @@ Visual-prompting toolbox that labels image regions for multimodal reference and 
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:microsoft/som
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-som/record.json
 
 ## License declarations

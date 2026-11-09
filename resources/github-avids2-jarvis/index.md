@@ -12,10 +12,6 @@ Real-time Chinese voice and desktop agent with persistent memory and Pi tool exe
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:avids2/jarvis
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-avids2-jarvis/record.json
 
 ## License declarations

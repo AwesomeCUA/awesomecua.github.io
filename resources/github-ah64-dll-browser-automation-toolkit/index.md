@@ -12,10 +12,6 @@ Suite of five Python CDP utilities including a page watcher, form filler, table 
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:ah64-dll/browser-automation-toolkit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ah64-dll-browser-automation-toolkit/record.json
 
 ## License declarations

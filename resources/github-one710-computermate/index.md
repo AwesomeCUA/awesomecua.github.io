@@ -12,10 +12,6 @@ ComputerMate is a cross-platform Model Context Protocol server granting AI model
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:one710/computermate
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-one710-computermate/record.json
 
 ## License declarations

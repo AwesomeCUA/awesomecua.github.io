@@ -12,10 +12,6 @@ Lightweight Model Context Protocol server for macOS computer use providing Acces
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:cursortouch/macos-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cursortouch-macos-mcp/record.json
 
 ## License declarations

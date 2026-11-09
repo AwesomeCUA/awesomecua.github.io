@@ -12,10 +12,6 @@ Windows desktop computer-use plugin for DeepSeek Harness featuring numbered UI e
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:orangeofcarl0-sys/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-orangeofcarl0-sys-dsh-computer-use/record.json
 
 ## License declarations

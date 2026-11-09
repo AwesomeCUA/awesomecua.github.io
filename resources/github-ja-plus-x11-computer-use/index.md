@@ -12,10 +12,6 @@ x11-computer-use is an Agent Skills package for Linux X11 desktop control using 
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:ja-plus/x11-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ja-plus-x11-computer-use/record.json
 
 ## License declarations

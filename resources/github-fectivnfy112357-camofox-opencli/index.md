@@ -12,10 +12,6 @@ Dockerized cloud browser runtime combining Camofox anti-detect Firefox with 163+
 - Evidence checked: 2026-11-04T16:51:43Z
 - ID: github:fectivnfy112357/camofox-opencli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fectivnfy112357-camofox-opencli/record.json
 
 ## License declarations

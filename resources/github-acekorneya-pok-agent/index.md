@@ -12,10 +12,6 @@ POK-Agent is a Windows computer-use agent that pairs a cloud planner with a fast
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:acekorneya/pok-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-acekorneya-pok-agent/record.json
 
 ## License declarations

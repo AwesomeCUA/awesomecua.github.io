@@ -12,10 +12,6 @@ DesktopAgentBench is an agent-agnostic Windows benchmark evaluating desktop agen
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:raghava00001/desktopagentbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raghava00001-desktopagentbench/record.json
 
 ## License declarations

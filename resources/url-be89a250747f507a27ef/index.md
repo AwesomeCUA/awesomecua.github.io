@@ -20,10 +20,10 @@ The card carries the license, links and citation requests (MobA, META-GUI, CAM-G
 
 ## Structured profile
 
-- formats: JSON, tar.gz archives, PNG, XML
-- modalities: UI action strings naming element text, package, widget class and bounds, screenshots (seen in a partial archive read), XML view hierarchies (seen in a partial archive read)
-- splits: not recorded
-- supervision: crawled screen-transition navigation graphs
+- Formats: JSON, tar.gz archives, PNG, XML
+- Modalities: UI action strings naming element text, package, widget class and bounds, screenshots (seen in a partial archive read), XML view hierarchies (seen in a partial archive read)
+- Splits: not recorded
+- Supervision: crawled screen-transition navigation graphs
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Visible, human-governed browser workspace that converts live web workflows into 
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:salilbhasinofficial/webmcp-browser-studio
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-salilbhasinofficial-webmcp-browser-studio/record.json
 
 ## License declarations

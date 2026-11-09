@@ -12,10 +12,6 @@ Model Context Protocol server by Undetectable.io that drives Chrome, Edge, Brave
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:undetectable-io/chromium-cdp-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-undetectable-io-chromium-cdp-mcp/record.json
 
 ## License declarations

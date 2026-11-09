@@ -877,13 +877,13 @@ Zhuosheng Zhang, Aston Zhang
 - Publication source: https://aclanthology.org/2024.findings-acl.186/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2309-11436/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2309-11436/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2024
-- publisher: Association for Computational Linguistics
-- pages: 3132-3149
-- doi: 10.18653/v1/2024.findings-acl.186
-- date basis: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2024
+- Publisher: Association for Computational Linguistics
+- Pages: 3132-3149
+- DOI: 10.18653/v1/2024.findings-acl.186
+- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2024.findings-acl.186/
 
 ### Recorded arXiv snapshot
@@ -999,13 +999,13 @@ Daniel Zimmermann, Anne Koziolek
 - Publication source: https://ieeexplore.ieee.org/abstract/document/10298721
 - Publication BibTeX: https://awesomecua.com/resources/url-ffc05c4425f777924940/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-ffc05c4425f777924940/publication-citation.csl.json
-- venue: 2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)
-- publisher: IEEE
-- pages: 171-174
-- doi: 10.1109/asew60602.2023.00028
-- date basis: Crossref issued date 2023-9-11; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: IEEE/ACM ASE 2023 workshop paper; Crossref links the DOI to IEEE Xplore document 10298721, and the abstract was read from OpenAlex.
+- Venue: 2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)
+- Publisher: IEEE
+- Pages: 171-174
+- DOI: 10.1109/asew60602.2023.00028
+- Date source: Crossref issued date 2023-9-11; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: IEEE/ACM ASE 2023 workshop paper; Crossref links the DOI to IEEE Xplore document 10298721, and the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1109/asew60602.2023.00028, https://api.openalex.org/works/doi:10.1109/asew60602.2023.00028
 
 ### License declarations
@@ -1320,13 +1320,13 @@ Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2307-10088/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2307-10088/publication-citation.csl.json
-- venue: Advances in Neural Information Processing Systems
-- volume: 36
-- pages: 59708-59728
-- doi: 10.52202/075280-2609
-- date basis: Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Advances in Neural Information Processing Systems
+- Volume: 36
+- Pages: 59708-59728
+- DOI: 10.52202/075280-2609
+- Date source: Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html
 
 ### Recorded arXiv snapshot
@@ -1598,13 +1598,13 @@ Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexian
 - Publication source: https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2306-00245/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2306-00245/publication-citation.csl.json
-- venue: Advances in Neural Information Processing Systems
-- volume: 36
-- pages: 34354-34370
-- doi: 10.52202/075280-1490
-- date basis: Explicit publisher metadata: 2023-12-15; precision=day.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The NeurIPS landing metadata adds the initial N to Kristina Toutanova; the formal paper title page does not. Publication authors use the PDF. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Advances in Neural Information Processing Systems
+- Volume: 36
+- Pages: 34354-34370
+- DOI: 10.52202/075280-1490
+- Date source: Explicit publisher metadata: 2023-12-15; precision=day.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The NeurIPS landing metadata adds the initial N to Kristina Toutanova; the formal paper title page does not. Publication authors use the PDF. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html, https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf
 
 ### Recorded arXiv snapshot
@@ -1722,15 +1722,15 @@ Abdul Wali, Saipunidzam Mahamad, Suziah Sulaiman
 - Publication source: https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review
 - Publication BibTeX: https://awesomecua.com/resources/url-eb791c465f47690ade31/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-eb791c465f47690ade31/publication-citation.csl.json
-- venue: Future Internet
-- publisher: MDPI AG
-- volume: 15
-- issue: 6
-- pages: 196
-- doi: 10.3390/fi15060196
-- date basis: Crossref issued date 2023-5-29; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.
+- Venue: Future Internet
+- Publisher: MDPI AG
+- Volume: 15
+- Issue: 6
+- Pages: 196
+- DOI: 10.3390/fi15060196
+- Date source: Crossref issued date 2023-5-29; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.
 - Publication evidence: https://api.crossref.org/works/10.3390/fi15060196
 
 ### License declarations
@@ -1888,12 +1888,12 @@ Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shi
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2305-11854/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2305-11854/publication-citation.csl.json
-- venue: International Conference on Learning Representations
-- volume: 2024
-- pages: 29528-29558
-- date basis: Explicit publisher metadata: 2024-05-31; precision=day.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The ICLR landing shortens Shixiang Shane Gu to Shixiang Gu. Publication authors use the full PDF title-page form. Volume 2024 and pages 29528–29558 are explicit publisher citation metadata, not values inferred from the event year or PDF page count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: International Conference on Learning Representations
+- Volume: 2024
+- Pages: 29528-29558
+- Date source: Explicit publisher metadata: 2024-05-31; precision=day.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The ICLR landing shortens Shixiang Shane Gu to Shixiang Gu. Publication authors use the full PDF title-page form. Volume 2024 and pages 29528–29558 are explicit publisher citation metadata, not values inferred from the event year or PDF page count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf
 
 ### Recorded arXiv snapshot
@@ -2114,13 +2114,13 @@ Daniel Zimmermann, Anne Koziolek
 - Publication source: https://ieeexplore.ieee.org/abstract/document/10132233
 - Publication BibTeX: https://awesomecua.com/resources/url-412c168dd5d0aeded46a/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-412c168dd5d0aeded46a/publication-citation.csl.json
-- venue: 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
-- publisher: IEEE
-- pages: 62-65
-- doi: 10.1109/icstw58534.2023.00022
-- date basis: Crossref issued date 2023-4; precision=month.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: IEEE ICSTW 2023 workshop paper; Crossref links the DOI to IEEE Xplore document 10132233, and the abstract was read from OpenAlex.
+- Venue: 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+- Publisher: IEEE
+- Pages: 62-65
+- DOI: 10.1109/icstw58534.2023.00022
+- Date source: Crossref issued date 2023-4; precision=month.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: IEEE ICSTW 2023 workshop paper; Crossref links the DOI to IEEE Xplore document 10132233, and the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1109/icstw58534.2023.00022, https://api.openalex.org/works/doi:10.1109/icstw58534.2023.00022
 
 ### License declarations
@@ -2435,13 +2435,13 @@ Sagar Gubbi Venkatesh, Partha Talukdar, Srini Narayanan
 - Publication source: https://aclanthology.org/2024.findings-naacl.89/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2211-07615/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2211-07615/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: NAACL 2024
-- publisher: Association for Computational Linguistics
-- pages: 1390-1399
-- doi: 10.18653/v1/2024.findings-naacl.89
-- date basis: Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work under a revised title: the same three authors in the same order and the same specific contribution in the complete publisher abstract (UGIF-DataSet with 4,184 smartphone tasks across 8 languages, and end-to-end completion falling from 48% for English to 32% for other languages) were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title is 'UGIF-DataSet: A New Dataset for Cross-lingual, Cross-modal Sequential actions on the UI', while the retained arXiv v2 title is 'UGIF: UI Grounded Instruction Following'.
+- Venue: Findings of the Association for Computational Linguistics: NAACL 2024
+- Publisher: Association for Computational Linguistics
+- Pages: 1390-1399
+- DOI: 10.18653/v1/2024.findings-naacl.89
+- Date source: Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work under a revised title: the same three authors in the same order and the same specific contribution in the complete publisher abstract (UGIF-DataSet with 4,184 smartphone tasks across 8 languages, and end-to-end completion falling from 48% for English to 32% for other languages) were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title is 'UGIF-DataSet: A New Dataset for Cross-lingual, Cross-modal Sequential actions on the UI', while the retained arXiv v2 title is 'UGIF: UI Grounded Instruction Following'.
 - Publication evidence: https://aclanthology.org/2024.findings-naacl.89/
 
 ### Recorded arXiv snapshot
@@ -3077,15 +3077,15 @@ Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhapari
 - Publication source: https://proceedings.mlr.press/v162/humphreys22a.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2202-08137/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2202-08137/publication-citation.csl.json
-- venue: Proceedings of the 39th International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 162
-- pages: 9466-9482
-- date basis: Explicit publisher metadata: 2022/06/28; precision=day.
-- event dates: 17--23 Jul 2022
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 39th International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 162
+- Pages: 9466-9482
+- Date source: Explicit publisher metadata: 2022/06/28; precision=day.
+- Event dates: 17--23 Jul 2022
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v162/humphreys22a.html, https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf
 
 ### Recorded arXiv snapshot

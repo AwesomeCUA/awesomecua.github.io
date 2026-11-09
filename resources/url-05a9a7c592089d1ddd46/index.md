@@ -20,10 +20,10 @@ The card only links the paper and the X-LANCE/META-GUI-baseline repository, whic
 
 ## Structured profile
 
-- formats: TAR archives, JSON, PNG, XML
-- modalities: dialogue text, screenshots, view hierarchies, actions
-- splits: train, test
-- supervision: GUI action sequences per dialogue turn, target elements for clicks, system response text
+- Formats: TAR archives, JSON, PNG, XML
+- Modalities: dialogue text, screenshots, view hierarchies, actions
+- Splits: train, test
+- Supervision: GUI action sequences per dialogue turn, target elements for clicks, system response text
 
 ### Count observations
 

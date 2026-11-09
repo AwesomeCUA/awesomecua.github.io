@@ -12,10 +12,6 @@ Model Context Protocol server enabling AI agents to remotely inspect, compile, a
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:soporte-defontsoft/delphi-ide-remote-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-soporte-defontsoft-delphi-ide-remote-mcp/record.json
 
 ## License declarations

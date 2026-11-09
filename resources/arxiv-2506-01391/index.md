@@ -35,13 +35,13 @@ Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin 
 - Publication source: https://aclanthology.org/2025.emnlp-demos.12/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2506-01391/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2506-01391/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
-- publisher: Association for Computational Linguistics
-- pages: 155-180
-- doi: 10.18653/v1/2025.emnlp-demos.12
-- date basis: Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
+- Publisher: Association for Computational Linguistics
+- Pages: 155-180
+- DOI: 10.18653/v1/2025.emnlp-demos.12
+- Date source: Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.emnlp-demos.12/
 
 ## Recorded arXiv snapshot

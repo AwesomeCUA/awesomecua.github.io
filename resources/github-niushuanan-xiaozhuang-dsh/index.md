@@ -12,10 +12,6 @@ Plugin-enhanced DeepSeek Harness distribution pre-packaged with desktop computer
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:niushuanan/xiaozhuang-dsh
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-niushuanan-xiaozhuang-dsh/record.json
 
 ## License declarations

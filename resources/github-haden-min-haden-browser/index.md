@@ -12,10 +12,6 @@ Fast, AI-first web browser exposed as a local Model Context Protocol server for 
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:haden-min/haden-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-haden-min-haden-browser/record.json
 
 ## License declarations

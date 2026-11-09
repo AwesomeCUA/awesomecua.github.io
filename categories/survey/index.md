@@ -22,10 +22,6 @@ Reviews 87 computer-use agents and 33 datasets through a taxonomy of operating d
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2501.16150
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-16150/record.json
 
 ### Authors
@@ -126,10 +122,6 @@ Categorizes GUI-agent benchmarks, evaluation metrics, architectures, and trainin
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2412.13501
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-13501/record.json
 
 ### Authors
@@ -149,13 +141,13 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 - Publication source: https://aclanthology.org/2025.findings-acl.1158/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-13501/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-13501/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 22522-22538
-- doi: 10.18653/v1/2025.findings-acl.1158
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 22522-22538
+- DOI: 10.18653/v1/2025.findings-acl.1158
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.1158/
 
 ### Recorded arXiv snapshot
@@ -195,10 +187,6 @@ Survey of LLM-brained GUI agents that carry out natural-language instructions ac
 - Topics: survey
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2411.18279
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-18279/record.json
 
@@ -248,10 +236,6 @@ Analyzes LLM-based GUI agents through four components (perception, exploration, 
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2504.13865
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-13865/record.json
 
 ### Authors
@@ -299,10 +283,6 @@ Systematizes safety and security threats to computer-using agents, with taxonomi
 - Topics: survey, safety-security
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2505.10924
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-10924/record.json
 
@@ -457,10 +437,6 @@ Survey of (M)LLM-based GUI agents organized around their datasets and benchmarks
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2411.04890
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-04890/record.json
 
 ### Authors
@@ -508,10 +484,6 @@ Reviews LLM-driven phone GUI agents with a taxonomy of agent frameworks, prompt-
 - Topics: survey
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2504.19838
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-19838/record.json
 
@@ -561,10 +533,6 @@ Surveys agents that operate computers and phones through operating-system interf
 - Evidence checked: 2026-10-16T06:31:49Z
 - ID: arxiv:2508.04482
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-04482/record.json
 
 ### Authors
@@ -584,13 +552,13 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 - Publication source: https://aclanthology.org/2025.acl-long.369/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2508-04482/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2508-04482/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 7436-7465
-- doi: 10.18653/v1/2025.acl-long.369
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: the same 29 authors in the same order and the same OS Agents survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity, whose abstract presents the 9-page version accepted by ACL 2025 and whose comment reads ACL 2025 (Oral). The titles differ only in their final phrase.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title ends with 'for Computer, Phone and Browser Use', while the retained arXiv v1 title ends with 'for General Computing Devices Use'.
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 7436-7465
+- DOI: 10.18653/v1/2025.acl-long.369
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: the same 29 authors in the same order and the same OS Agents survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity, whose abstract presents the 9-page version accepted by ACL 2025 and whose comment reads ACL 2025 (Oral). The titles differ only in their final phrase.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title ends with 'for Computer, Phone and Browser Use', while the retained arXiv v1 title ends with 'for General Computing Devices Use'.
 - Publication evidence: https://aclanthology.org/2025.acl-long.369/
 
 ### Recorded arXiv snapshot
@@ -683,10 +651,6 @@ Frames GUI-agent trustworthiness as an execution gap and reviews failures, attac
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2503.23434
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-23434/record.json
 
 ### Authors
@@ -758,13 +722,13 @@ Olivia Rodríguez-Valdés, Tanja E. J. Vos, Pekka Aho, Beatriz Marín
 - Publication source: https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34
 - Publication BibTeX: https://awesomecua.com/resources/url-24a139a7910431441e39/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-24a139a7910431441e39/publication-citation.csl.json
-- venue: Communications in Computer and Information Science
-- publisher: Springer International Publishing
-- pages: 473-488
-- doi: 10.1007/978-3-030-85347-1_34
-- date basis: Crossref issued date 2021; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: QUATIC 2021 chapter in Communications in Computer and Information Science; the abstract was read from Semantic Scholar.
+- Venue: Communications in Computer and Information Science
+- Publisher: Springer International Publishing
+- Pages: 473-488
+- DOI: 10.1007/978-3-030-85347-1_34
+- Date source: Crossref issued date 2021; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: QUATIC 2021 chapter in Communications in Computer and Information Science; the abstract was read from Semantic Scholar.
 - Publication evidence: https://api.crossref.org/works/10.1007/978-3-030-85347-1_34, https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/978-3-030-85347-1_34?fields=title,abstract,authors,venue,year,externalIds
 
 ### License declarations
@@ -819,12 +783,12 @@ Yihong Chen, Shuai Wang, Yaqing Wang, Quanming Yao
 - Publication source: https://doi.org/10.36227/techrxiv.176591818.87526814/v1
 - Publication BibTeX: https://awesomecua.com/resources/url-e1842006eb7b4745da03/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-e1842006eb7b4745da03/publication-citation.csl.json
-- venue: TechRxiv
-- publisher: Institute of Electrical and Electronics Engineers (IEEE)
-- doi: 10.36227/techrxiv.176591818.87526814/v1
-- date basis: Crossref posted date for the version 1 DOI is 2025-12-16; precision=day. TechRxiv lists this as version 1 and the latest version.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and title searches of arXiv and OpenAlex found no arXiv version, so this TechRxiv preprint seeds the record.
-- notes: A TechRxiv preprint that has not been peer reviewed. Crossref deposits it as posted content with subtype preprint under the IEEE prefix and a CC BY 4.0 license. The DOI resolves only with its /v1 suffix. TechRxiv answers scripted requests with HTTP 403, so the PDF link is retained as published without a fetched receipt.
+- Venue: TechRxiv
+- Publisher: Institute of Electrical and Electronics Engineers (IEEE)
+- DOI: 10.36227/techrxiv.176591818.87526814/v1
+- Date source: Crossref posted date for the version 1 DOI is 2025-12-16; precision=day. TechRxiv lists this as version 1 and the latest version.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and title searches of arXiv and OpenAlex found no arXiv version, so this TechRxiv preprint seeds the record.
+- Source notes: A TechRxiv preprint that has not been peer reviewed. Crossref deposits it as posted content with subtype preprint under the IEEE prefix and a CC BY 4.0 license. The DOI resolves only with its /v1 suffix. TechRxiv answers scripted requests with HTTP 403, so the PDF link is retained as published without a fetched receipt.
 - Publication evidence: https://api.crossref.org/works/10.36227/techrxiv.176591818.87526814/v1
 
 ### License declarations
@@ -854,10 +818,6 @@ Formalizes GUI tasks as Markov decision processes and traces agent training from
 - Topics: survey, reinforcement-learning
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2504.20464
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-20464/record.json
 
@@ -1221,10 +1181,6 @@ Surveys GUI-agent efficiency beyond task success: observation, context and memor
 - Evidence checked: 2026-10-16T06:36:32Z
 - ID: arxiv:2609.02309
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-02309/record.json
 
 ### Authors
@@ -1348,13 +1304,13 @@ Tathagata Chakraborti, Vatche Isahagian, Rania Khalaf, Yasaman Khazaeni, Vinod M
 - Publication source: https://link.springer.com/chapter/10.1007/978-3-030-58779-6_15
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2007-13257/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2007-13257/publication-citation.csl.json
-- venue: Lecture Notes in Business Information Processing
-- publisher: Springer International Publishing
-- pages: 215-228
-- doi: 10.1007/978-3-030-58779-6_15
-- date basis: Crossref issued date 2020; precision=year.
-- identity basis: Same work as the retained arXiv record: matching title and seven-author list, and the arXiv preprint names the BPM 2020 RPA Forum.
-- notes: BPM 2020 RPA Forum chapter in Lecture Notes in Business Information Processing; the arXiv preprint names the same forum.
+- Venue: Lecture Notes in Business Information Processing
+- Publisher: Springer International Publishing
+- Pages: 215-228
+- DOI: 10.1007/978-3-030-58779-6_15
+- Date source: Crossref issued date 2020; precision=year.
+- Identity basis: Same work as the retained arXiv record: matching title and seven-author list, and the arXiv preprint names the BPM 2020 RPA Forum.
+- Source notes: BPM 2020 RPA Forum chapter in Lecture Notes in Business Information Processing; the arXiv preprint names the same forum.
 - Publication evidence: https://api.crossref.org/works/10.1007/978-3-030-58779-6_15
 
 ### Recorded arXiv snapshot
@@ -1470,12 +1426,12 @@ Lizheng Zu, Ke Huang, Gang Xu, Jingfan Fan, Baoyuan Wu, Shengfeng He, Hehe Fan, 
 - Publication source: https://doi.org/10.20944/preprints202611.0431.v1
 - Publication BibTeX: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/publication-citation.csl.json
-- venue: Preprints.org
-- publisher: MDPI AG
-- doi: 10.20944/preprints202611.0431.v1
-- date basis: Crossref issued date 2026-11-4; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
+- Venue: Preprints.org
+- Publisher: MDPI AG
+- DOI: 10.20944/preprints202611.0431.v1
+- Date source: Crossref issued date 2026-11-4; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
 - Publication evidence: https://api.crossref.org/works/10.20944/preprints202611.0431.v1
 
 ### License declarations
@@ -1529,13 +1485,13 @@ Kabir S. Said, Liming Nie, Adekunle A. Ajibode, Xueyi Zhou
 - Publication source: https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf
 - Publication BibTeX: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/publication-citation.csl.json
-- venue: 12th Asia-Pacific Symposium on Internetware
-- publisher: ACM
-- pages: 51-60
-- doi: 10.1145/3457913.3457931
-- date basis: Crossref issued date 2020-11; precision=month.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: The discovered link is the ResearchGate copy of the Internetware 2020 paper; bibliographic facts come from the Crossref record for its ACM DOI and the abstract from OpenAlex.
+- Venue: 12th Asia-Pacific Symposium on Internetware
+- Publisher: ACM
+- Pages: 51-60
+- DOI: 10.1145/3457913.3457931
+- Date source: Crossref issued date 2020-11; precision=month.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: The discovered link is the ResearchGate copy of the Internetware 2020 paper; bibliographic facts come from the Crossref record for its ACM DOI and the abstract from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3457913.3457931, https://api.openalex.org/works/doi:10.1145/3457913.3457931
 
 ### License declarations
@@ -1590,12 +1546,12 @@ Jungseob Lee
 - Publication source: https://www.preprints.org/manuscript/202608.0265/v1
 - Publication BibTeX: https://awesomecua.com/resources/url-f58895265a31c37d12b4/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-f58895265a31c37d12b4/publication-citation.csl.json
-- venue: Preprints.org
-- publisher: MDPI AG
-- doi: 10.20944/preprints202608.0265.v1
-- date basis: Crossref issued date 2026-8-5; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
+- Venue: Preprints.org
+- Publisher: MDPI AG
+- DOI: 10.20944/preprints202608.0265.v1
+- Date source: Crossref issued date 2026-8-5; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
 - Publication evidence: https://api.crossref.org/works/10.20944/preprints202608.0265.v1, https://api.openalex.org/works/doi:10.20944/preprints202608.0265.v1
 
 ### License declarations
@@ -1702,14 +1658,14 @@ Jorge Ribeiro, Rui Lima, Tiago Eckhardt, Sara Paiva
 - Publication source: https://www.sciencedirect.com/science/article/pii/S1877050921001393
 - Publication BibTeX: https://awesomecua.com/resources/url-b230a6700386b7e2744c/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-b230a6700386b7e2744c/publication-citation.csl.json
-- venue: Procedia Computer Science
-- publisher: Elsevier BV
-- volume: 181
-- pages: 51-58
-- doi: 10.1016/j.procs.2021.01.104
-- date basis: Crossref issued date 2021; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Procedia Computer Science article; the abstract was read from OpenAlex.
+- Venue: Procedia Computer Science
+- Publisher: Elsevier BV
+- Volume: 181
+- Pages: 51-58
+- DOI: 10.1016/j.procs.2021.01.104
+- Date source: Crossref issued date 2021; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Procedia Computer Science article; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1016/j.procs.2021.01.104, https://api.openalex.org/works/doi:10.1016/j.procs.2021.01.104
 
 ### License declarations
@@ -1764,14 +1720,14 @@ Rehan Syed, Suriadi Suriadi, Michael Adams, Wasana Bandara, Sander J.J. Leemans,
 - Publication source: https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609
 - Publication BibTeX: https://awesomecua.com/resources/url-2574c6eeee264762a990/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-2574c6eeee264762a990/publication-citation.csl.json
-- venue: Computers in Industry
-- publisher: Elsevier BV
-- volume: 115
-- pages: 103162
-- doi: 10.1016/j.compind.2019.103162
-- date basis: Crossref issued date 2020-2; precision=month.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Computers in Industry journal article; the abstract was read from Semantic Scholar.
+- Venue: Computers in Industry
+- Publisher: Elsevier BV
+- Volume: 115
+- Pages: 103162
+- DOI: 10.1016/j.compind.2019.103162
+- Date source: Crossref issued date 2020-2; precision=month.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Computers in Industry journal article; the abstract was read from Semantic Scholar.
 - Publication evidence: https://api.crossref.org/works/10.1016/j.compind.2019.103162, https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.compind.2019.103162?fields=title,abstract,authors,venue,year,externalIds
 
 ### License declarations
@@ -1933,15 +1889,15 @@ Abdul Wali, Saipunidzam Mahamad, Suziah Sulaiman
 - Publication source: https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review
 - Publication BibTeX: https://awesomecua.com/resources/url-eb791c465f47690ade31/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-eb791c465f47690ade31/publication-citation.csl.json
-- venue: Future Internet
-- publisher: MDPI AG
-- volume: 15
-- issue: 6
-- pages: 196
-- doi: 10.3390/fi15060196
-- date basis: Crossref issued date 2023-5-29; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.
+- Venue: Future Internet
+- Publisher: MDPI AG
+- Volume: 15
+- Issue: 6
+- Pages: 196
+- DOI: 10.3390/fi15060196
+- Date source: Crossref issued date 2023-5-29; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.
 - Publication evidence: https://api.crossref.org/works/10.3390/fi15060196
 
 ### License declarations

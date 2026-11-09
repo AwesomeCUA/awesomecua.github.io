@@ -12,10 +12,6 @@ Text-first browser and background macOS window control plugin for DeepSeek Harne
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:zrui-c/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zrui-c-dsh-computer-use/record.json
 
 ## License declarations

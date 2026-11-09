@@ -12,10 +12,6 @@ Composable agentic browser automation framework built from small, reusable perce
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:luantak/mosaik
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-luantak-mosaik/record.json
 
 ## License declarations

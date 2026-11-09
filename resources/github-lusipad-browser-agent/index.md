@@ -12,10 +12,6 @@ Chrome sidebar autonomous AI browser agent featuring visual ROI perception, dual
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:lusipad/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lusipad-browser-agent/record.json
 
 ## License declarations

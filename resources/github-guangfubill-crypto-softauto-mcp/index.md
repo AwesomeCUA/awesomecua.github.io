@@ -12,10 +12,6 @@ Open-source Windows RPA and Model Context Protocol server providing UI Automatio
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:guangfubill-crypto/softauto-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-guangfubill-crypto-softauto-mcp/record.json
 
 ## License declarations

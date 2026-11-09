@@ -12,10 +12,6 @@ Authorized CAPTCHA challenge detection and resolution skill for OpenAI Codex and
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:everyinfra/everysolve-plugin
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-everyinfra-everysolve-plugin/record.json
 
 ## License declarations

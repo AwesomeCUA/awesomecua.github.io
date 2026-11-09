@@ -12,10 +12,6 @@ DSB is a trust-first Android AI agent that executes delegated app tasks on a bac
 - Evidence checked: 2026-11-04T15:03:44Z
 - ID: github:tianye1999/dsb
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tianye1999-dsb/record.json
 
 ## License declarations

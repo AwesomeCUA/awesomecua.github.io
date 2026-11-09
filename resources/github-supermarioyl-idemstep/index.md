@@ -12,10 +12,6 @@ Deduplicates repeated agent actions and HTTP retries using keyed idempotency cac
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:supermarioyl/idemstep
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-supermarioyl-idemstep/record.json
 
 ## License declarations

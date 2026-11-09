@@ -12,10 +12,6 @@ Claude Code skill that measures live browser UI layouts and returns concrete gol
 - Evidence checked: 2026-11-04T17:30:30Z
 - ID: github:silbercue/goldencut
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-silbercue-goldencut/record.json
 
 ## License declarations

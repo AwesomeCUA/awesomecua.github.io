@@ -35,13 +35,13 @@ Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whiteh
 - Publication source: https://aclanthology.org/2025.findings-acl.326/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2502-11357/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2502-11357/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 6300-6323
-- doi: 10.18653/v1/2025.findings-acl.326
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. Landing-page citation metadata gives Ahmed Hassan for the final author, while the supplied BibTeX expands the name to Ahmed Hassan Awadallah; the PDF uses Ahmed Awadallah.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 6300-6323
+- DOI: 10.18653/v1/2025.findings-acl.326
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. Landing-page citation metadata gives Ahmed Hassan for the final author, while the supplied BibTeX expands the name to Ahmed Hassan Awadallah; the PDF uses Ahmed Awadallah.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.326/, https://aclanthology.org/2025.findings-acl.326.pdf
 
 ## Recorded arXiv snapshot

@@ -12,10 +12,6 @@ Streams the Windows desktop to a browser interface so coding agents can visually
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:phantivia/claudedesk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-phantivia-claudedesk/record.json
 
 ## License declarations

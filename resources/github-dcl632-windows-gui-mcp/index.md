@@ -12,10 +12,6 @@ Windows GUI automation Model Context Protocol server for AI coding and computer-
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:dcl632/windows-gui-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dcl632-windows-gui-mcp/record.json
 
 ## License declarations

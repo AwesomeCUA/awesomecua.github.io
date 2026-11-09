@@ -12,10 +12,6 @@ Windows Model Context Protocol server giving MCP clients a dedicated virtual cur
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:jnx03/windowncomputeruse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jnx03-windowncomputeruse/record.json
 
 ## License declarations

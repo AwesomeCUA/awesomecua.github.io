@@ -12,10 +12,6 @@ Native Wayland desktop control server using XDG RemoteDesktop portal input and P
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:wh0ami3/wayland-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wh0ami3-wayland-computer-use/record.json
 
 ## License declarations

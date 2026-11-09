@@ -12,10 +12,6 @@ Desktop-automation Model Context Protocol server providing screen perception and
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:amajorai/ghost
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amajorai-ghost/record.json
 
 ## License declarations

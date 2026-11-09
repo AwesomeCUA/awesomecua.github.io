@@ -12,10 +12,6 @@ Provider-neutral TypeScript browser automation SDK with automatic session failov
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:soulsniper-v2/browser-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-soulsniper-v2-browser-sdk/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Agentic end-to-end web testing platform that executes natural-language test case
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:h0ngza1/testpilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-h0ngza1-testpilot/record.json
 
 ## License declarations

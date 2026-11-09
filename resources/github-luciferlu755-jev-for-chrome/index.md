@@ -12,10 +12,6 @@ Chrome extension that drives web browsing, clicking, and typing using TypeSafe J
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:luciferlu755/jev-for-chrome
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/record.json
 
 ## License declarations

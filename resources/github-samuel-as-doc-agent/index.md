@@ -12,10 +12,6 @@ Claude Code skill that documents a web procedure with annotated screenshots by p
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:samuel-as/doc-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-samuel-as-doc-agent/record.json
 
 ## License declarations

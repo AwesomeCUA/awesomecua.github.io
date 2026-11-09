@@ -12,10 +12,6 @@ MCP server that diagnoses broken Selenium DOM locators after UI changes and synt
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:aiqualitylab/selenium-selfhealing-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aiqualitylab-selenium-selfhealing-mcp/record.json
 
 ## License declarations

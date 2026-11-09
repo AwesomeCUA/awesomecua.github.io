@@ -12,10 +12,6 @@ Chrome extension and local CLI that lets AI agents drive the browser window the 
 - Evidence checked: 2026-11-04T17:55:13Z
 - ID: github:om-khode/drover
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-om-khode-drover/record.json
 
 ## License declarations

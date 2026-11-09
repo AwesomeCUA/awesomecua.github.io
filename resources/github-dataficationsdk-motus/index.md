@@ -12,10 +12,6 @@ Motus is an extensible .NET browser automation and agentic testing framework com
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:dataficationsdk/motus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dataficationsdk-motus/record.json
 
 ## License declarations

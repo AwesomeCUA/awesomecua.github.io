@@ -12,10 +12,6 @@ Reviews LLM-driven phone GUI agents with a taxonomy of agent frameworks, prompt-
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2504.19838
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-19838/record.json
 
 ## Authors

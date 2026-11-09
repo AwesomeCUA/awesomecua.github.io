@@ -12,19 +12,15 @@
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:ai-agents-2030/spa-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ai-agents-2030-spa-bench/record.json
 
 ## Structured profile
 
-- actions: agent-specific Android actions
-- evaluation: A multimodal evaluator and annotated key-component matching assess completion; the framework also reports resource-use metrics.
-- focus: mobile task completion, resource use, cross-app workflows
-- observations: screenshot trajectories
-- setting: interactive
+- Actions / outputs: agent-specific Android actions
+- Evaluation: A multimodal evaluator and annotated key-component matching assess completion; the framework also reports resource-use metrics.
+- Focus: mobile task completion, resource use, cross-app workflows
+- Observations: screenshot trajectories
+- Setting: interactive
 
 ### Count observations
 

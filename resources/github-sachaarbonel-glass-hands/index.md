@@ -12,10 +12,6 @@ Glass Hands is a Rust framework that connects OpenAI computer-use models directl
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:sachaarbonel/glass-hands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sachaarbonel-glass-hands/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Revision-bound capacity permit protocol for WebMCP browser agents that invalidat
 - Evidence checked: 2026-11-04T18:11:37Z
 - ID: github:moaqil/pursuit-permit-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-moaqil-pursuit-permit-webmcp/record.json
 
 ## License declarations

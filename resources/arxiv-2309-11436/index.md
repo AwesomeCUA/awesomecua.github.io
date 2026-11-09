@@ -35,13 +35,13 @@ Zhuosheng Zhang, Aston Zhang
 - Publication source: https://aclanthology.org/2024.findings-acl.186/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2309-11436/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2309-11436/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2024
-- publisher: Association for Computational Linguistics
-- pages: 3132-3149
-- doi: 10.18653/v1/2024.findings-acl.186
-- date basis: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2024
+- Publisher: Association for Computational Linguistics
+- Pages: 3132-3149
+- DOI: 10.18653/v1/2024.findings-acl.186
+- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2024.findings-acl.186/
 
 ## Recorded arXiv snapshot

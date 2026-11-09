@@ -12,10 +12,6 @@ Autonomous macOS desktop operator that inspects screen state and drives native M
 - Evidence checked: 2026-11-04T18:11:40Z
 - ID: github:calebnewtonusc/nova
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-calebnewtonusc-nova/record.json
 
 ## License declarations

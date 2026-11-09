@@ -12,10 +12,6 @@ Desktop app for a local GUI agent driven by UI-TARS and Seed-1.5-VL/1.6 models, 
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:bytedance/ui-tars-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Zavora Computer Use MCP is a Rust MCP server and client for discovering desktop 
 - Evidence checked: 2026-11-04T14:20:17Z
 - ID: github:zavora-ai/computer-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zavora-ai-computer-use-mcp/record.json
 
 ## License declarations

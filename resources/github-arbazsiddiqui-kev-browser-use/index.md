@@ -12,10 +12,6 @@ kev-browser-use is a compact 0.6B System-One action model fine-tuned on Mind2Web
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:arbazsiddiqui/kev-browser-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arbazsiddiqui-kev-browser-use/record.json
 
 ## License declarations

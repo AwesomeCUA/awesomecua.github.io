@@ -12,10 +12,6 @@ Qirabot is a pure-vision multimodal GUI automation framework for operating brows
 - Evidence checked: 2026-11-04T16:30:05Z
 - ID: github:qirabot/qirabot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qirabot-qirabot/record.json
 
 ## License declarations

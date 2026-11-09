@@ -12,10 +12,6 @@ Toolkit and Ubuntu-based environment for building and evaluating generalist comp
 - Evidence checked: 2026-10-18T10:59:56Z
 - ID: github:skyworkai/agent-studio
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-skyworkai-agent-studio/record.json
 
 ## License declarations

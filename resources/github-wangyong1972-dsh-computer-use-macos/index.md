@@ -12,10 +12,6 @@ Native macOS computer-use plugin for DeepSeek Harness with trusted window target
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:wangyong1972/dsh-computer-use-macos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wangyong1972-dsh-computer-use-macos/record.json
 
 ## License declarations

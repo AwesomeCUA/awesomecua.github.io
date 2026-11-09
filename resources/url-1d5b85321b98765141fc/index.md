@@ -20,11 +20,11 @@ The card distinguishes complete common-simple/common-complex JSON files from sam
 
 ## Structured profile
 
-- actions: mobile UI actions, clarification responses
-- evaluation: Paper defines multi-path and noise/ambiguity evaluations; the public card identifies which files are full common-task sets and which are samples.
-- focus: offline multi-path evaluation, noisy interfaces, ambiguous instructions
-- observations: mobile screenshots, XML UI state, instructions
-- setting: offline
+- Actions / outputs: mobile UI actions, clarification responses
+- Evaluation: Paper defines multi-path and noise/ambiguity evaluations; the public card identifies which files are full common-task sets and which are samples.
+- Focus: offline multi-path evaluation, noisy interfaces, ambiguous instructions
+- Observations: mobile screenshots, XML UI state, instructions
+- Setting: offline
 
 ### Count observations
 

@@ -12,10 +12,6 @@ BrowserTransactionBench evaluates transactional safety, idempotency, and double-
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:lamenting-hawthorn/browserbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/record.json
 
 ## License declarations

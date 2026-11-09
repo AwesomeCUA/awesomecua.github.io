@@ -12,10 +12,6 @@ Aegis is an off-screen, capability-dropped Docker browser and desktop sandbox fo
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:arihantdeva/aegis
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arihantdeva-aegis/record.json
 
 ## License declarations

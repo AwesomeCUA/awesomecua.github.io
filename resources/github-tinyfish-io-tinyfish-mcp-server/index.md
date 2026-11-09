@@ -12,10 +12,6 @@ Official TinyFish Model Context Protocol server providing web search, page extra
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:tinyfish-io/tinyfish-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tinyfish-io-tinyfish-mcp-server/record.json
 
 ## License declarations

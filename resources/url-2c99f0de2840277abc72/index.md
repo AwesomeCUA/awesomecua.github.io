@@ -20,10 +20,10 @@ The OSWorld project page says all verified trajectories are published in this da
 
 ## Structured profile
 
-- formats: zip archives, tar.gz archive, JSON
-- modalities: screenshots, actions, model reasoning, task results
-- splits: not recorded
-- supervision: agent evaluation trajectories
+- Formats: zip archives, tar.gz archive, JSON
+- Modalities: screenshots, actions, model reasoning, task results
+- Splits: not recorded
+- Supervision: agent evaluation trajectories
 
 ### Count observations
 

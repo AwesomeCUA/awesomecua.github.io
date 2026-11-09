@@ -12,19 +12,15 @@ Browser-based enterprise workflow tasks built around ServiceNow.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:servicenow/workarena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-servicenow-workarena/record.json
 
 ## Structured profile
 
-- actions: BrowserGym browser actions
-- evaluation: Task-specific checks on ServiceNow workflows; levels and task configurations define different evaluations.
-- focus: enterprise web workflows, compositional tasks
-- observations: multimodal browser observations
-- setting: interactive
+- Actions / outputs: BrowserGym browser actions
+- Evaluation: Task-specific checks on ServiceNow workflows; levels and task configurations define different evaluations.
+- Focus: enterprise web workflows, compositional tasks
+- Observations: multimodal browser observations
+- Setting: interactive
 
 ### Count observations
 

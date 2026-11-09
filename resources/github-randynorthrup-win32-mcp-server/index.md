@@ -12,10 +12,6 @@ Win32 MCP Server exposes 53 native Windows Win32 and UI Automation tools over th
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:randynorthrup/win32-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-randynorthrup-win32-mcp-server/record.json
 
 ## License declarations

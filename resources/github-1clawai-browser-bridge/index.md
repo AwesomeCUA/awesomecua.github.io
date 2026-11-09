@@ -12,10 +12,6 @@ Governed credential-injection and browser-control bridge where AI agents operate
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:1clawai/browser-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-1clawai-browser-bridge/record.json
 
 ## License declarations

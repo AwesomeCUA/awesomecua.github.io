@@ -12,10 +12,6 @@ Self-hosted Chrome agent runtime with bounded API control, live VNC observation,
 - Evidence checked: 2026-11-04T16:10:28Z
 - ID: github:aetherai3/agent-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aetherai3-agent-browser/record.json
 
 ## License declarations

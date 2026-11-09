@@ -12,10 +12,6 @@ Computer Experience Layer (CEL) provides structured macOS perception contracts a
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:dimpagk92/cellar
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dimpagk92-cellar/record.json
 
 ## License declarations

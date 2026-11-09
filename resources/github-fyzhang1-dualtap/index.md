@@ -12,10 +12,6 @@ DualTAP is a dual-task adversarial protection framework for mobile MLLM GUI agen
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:fyzhang1/dualtap
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fyzhang1-dualtap/record.json
 
 ## License declarations

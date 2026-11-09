@@ -12,10 +12,6 @@ izan.io is a Chrome extension MCP server that exposes browser tab management, DO
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:ekingunoncu/izan.io
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ekingunoncu-izan-io/record.json
 
 ## License declarations

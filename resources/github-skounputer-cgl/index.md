@@ -12,10 +12,6 @@ CGL advances continual GUI agent learning across evolving domains via reinforcem
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:skounputer/cgl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-skounputer-cgl/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Vision-grounding plugin for browser-use combining Set-of-Mark overlays, Florence
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:raidriar7170/browser-use-vision
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raidriar7170-browser-use-vision/record.json
 
 ## License declarations

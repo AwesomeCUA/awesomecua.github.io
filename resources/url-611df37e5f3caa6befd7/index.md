@@ -12,10 +12,6 @@ UI-Venus 2 GUI-agent checkpoint fine-tuned from Qwen3.5-9B, with about 9.4B BF16
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:611df37e5f3caa6befd7
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-611df37e5f3caa6befd7/record.json
 
 ## License declarations

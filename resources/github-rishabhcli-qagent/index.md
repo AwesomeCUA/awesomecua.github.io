@@ -12,10 +12,6 @@ QAgent is a local-first web QA and repair agent with an Electron desktop UI, CLI
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:rishabhcli/qagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rishabhcli-qagent/record.json
 
 ## License declarations

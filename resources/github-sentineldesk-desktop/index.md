@@ -12,10 +12,6 @@ Collaborative Linux desktop streamed to the browser where humans and AI agents s
 - Evidence checked: 2026-11-04T17:30:34Z
 - ID: github:sentineldesk/desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sentineldesk-desktop/record.json
 
 ## License declarations

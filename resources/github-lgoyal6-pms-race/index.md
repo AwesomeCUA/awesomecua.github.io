@@ -12,10 +12,6 @@ Concurrency benchmark for computer-use agents operating a legacy property-manage
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:lgoyal6/pms-race
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lgoyal6-pms-race/record.json
 
 ## License declarations

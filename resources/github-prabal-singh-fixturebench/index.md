@@ -12,10 +12,6 @@ FixtureBench evaluates procurement browser agents on deterministic Coupa-style b
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:prabal-singh/fixturebench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-prabal-singh-fixturebench/record.json
 
 ## License declarations

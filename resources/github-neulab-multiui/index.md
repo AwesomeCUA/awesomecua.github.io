@@ -12,18 +12,14 @@
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:neulab/multiui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-neulab-multiui/record.json
 
 ## Structured profile
 
-- formats: not recorded
-- modalities: webpage UI content, text, accessibility-derived structure
-- splits: training collection
-- supervision: UI understanding, text-rich visual tasks
+- Formats: not recorded
+- Modalities: webpage UI content, text, accessibility-derived structure
+- Splits: training collection
+- Supervision: UI understanding, text-rich visual tasks
 
 ### Count observations
 

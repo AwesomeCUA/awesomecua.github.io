@@ -12,10 +12,6 @@ GroundAnything is a 4B parallel-decoding diffusion grounding model for low-laten
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:groundingpi/groundanything
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-groundingpi-groundanything/record.json
 
 ## License declarations

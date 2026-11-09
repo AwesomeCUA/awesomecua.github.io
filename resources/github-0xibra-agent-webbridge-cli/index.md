@@ -12,10 +12,6 @@ Clean-room local CDP relay (MV3 Chrome extension + daemon + CLI) for driving a u
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:0xibra/agent-webbridge-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-0xibra-agent-webbridge-cli/record.json
 
 ## License declarations

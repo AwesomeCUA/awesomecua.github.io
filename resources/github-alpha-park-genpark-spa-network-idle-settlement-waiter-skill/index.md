@@ -12,10 +12,6 @@ Agent skill for awaiting single-page-application network idle and DOM mutation s
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:alpha-park/genpark-spa-network-idle-settlement-waiter-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/record.json
 
 ## License declarations

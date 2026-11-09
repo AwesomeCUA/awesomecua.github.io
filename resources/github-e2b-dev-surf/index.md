@@ -12,10 +12,6 @@ E2B Surf is a web-based computer-use agent combining OpenAI Computer-Using Agent
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:e2b-dev/surf
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-e2b-dev-surf/record.json
 
 ## License declarations

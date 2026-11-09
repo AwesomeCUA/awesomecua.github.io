@@ -12,10 +12,6 @@ Exposes 98 Chrome inspection, DOM debugging, network tracing, and interaction to
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:conquext/neuron-inspector
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-conquext-neuron-inspector/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ In each sample, the first crop marks the grounding model's initial box and the s
 
 ## Structured profile
 
-- formats: Parquet metadata, PNG images
-- modalities: cropped GUI screenshots with a highlighted candidate box, natural-language click commands
-- splits: train
-- supervision: automatically derived choice between two candidate boxes against ground truth
+- Formats: Parquet metadata, PNG images
+- Modalities: cropped GUI screenshots with a highlighted candidate box, natural-language click commands
+- Splits: train
+- Supervision: automatically derived choice between two candidate boxes against ground truth
 
 ### Count observations
 

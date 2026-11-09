@@ -12,10 +12,6 @@ DeepSeek Harness plugin for inspecting live DOM styles, layout issues, and conso
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:featherhunter/dsh-plugin-ui-debug
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-featherhunter-dsh-plugin-ui-debug/record.json
 
 ## License declarations

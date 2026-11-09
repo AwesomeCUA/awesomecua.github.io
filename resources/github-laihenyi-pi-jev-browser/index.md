@@ -12,10 +12,6 @@ Pi Jev Browser is a browser and macOS agent for the pi coding harness where Jev 
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:laihenyi/pi-jev-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/record.json
 
 ## License declarations

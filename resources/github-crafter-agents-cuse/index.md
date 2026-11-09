@@ -12,10 +12,6 @@ Cross-platform computer-use CLI that maps unified commands to native OS accessib
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:crafter-agents/cuse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-crafter-agents-cuse/record.json
 
 ## License declarations

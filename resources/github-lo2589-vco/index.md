@@ -12,10 +12,6 @@ Shell-driven visual computer-use toolkit enabling LLMs to inspect and click web 
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:lo2589/vco
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lo2589-vco/record.json
 
 ## License declarations

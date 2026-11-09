@@ -12,10 +12,6 @@ BrowserGuard is a runtime safety layer that evaluates proposed browser and compu
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:david-wu1119/browserguard
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-david-wu1119-browserguard/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Human-calibrated mouse trajectory and keyboard timing synthesis library for brow
 - Evidence checked: 2026-11-04T17:55:15Z
 - ID: github:aeonmindai/agenthands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aeonmindai-agenthands/record.json
 
 ## License declarations

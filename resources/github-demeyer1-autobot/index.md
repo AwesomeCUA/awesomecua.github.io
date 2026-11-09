@@ -12,10 +12,6 @@ AutoBot is a self-improving agent harness for ChatGPT and Codex on macOS featuri
 - Evidence checked: 2026-11-04T14:41:53Z
 - ID: github:demeyer1/autobot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-demeyer1-autobot/record.json
 
 ## License declarations

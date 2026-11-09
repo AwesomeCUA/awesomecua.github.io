@@ -12,10 +12,6 @@ Python toolkit and CLI for building, publishing and running multimodal agents th
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:agentsea/surfkit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agentsea-surfkit/record.json
 
 ## License declarations

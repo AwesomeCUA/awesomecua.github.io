@@ -12,10 +12,6 @@ Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and 
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:chayworks/milo-pointer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chayworks-milo-pointer/record.json
 
 ## License declarations

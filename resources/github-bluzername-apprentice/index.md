@@ -12,10 +12,6 @@ Apprentice is a local-first macOS agent that observes repeated user routines acr
 - Evidence checked: 2026-11-04T14:41:54Z
 - ID: github:bluzername/apprentice
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bluzername-apprentice/record.json
 
 ## License declarations

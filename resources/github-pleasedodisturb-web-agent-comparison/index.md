@@ -12,10 +12,6 @@ Reproducible 8-dimension benchmark comparing 7 browser-automation MCP servers on
 - Evidence checked: 2026-11-04T14:20:17Z
 - ID: github:pleasedodisturb/web-agent-comparison
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pleasedodisturb-web-agent-comparison/record.json
 
 ## License declarations

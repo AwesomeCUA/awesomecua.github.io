@@ -12,10 +12,6 @@ Local-first desktop AI agent platform with real desktop GUI execution and a comp
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:mrpulor-gh/nuphus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mrpulor-gh-nuphus/record.json
 
 ## License declarations

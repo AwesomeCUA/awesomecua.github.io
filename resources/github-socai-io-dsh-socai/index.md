@@ -12,10 +12,6 @@ DeepSeek Harness plugin for browser-backed Xiaohongshu content research and extr
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:socai-io/dsh-socai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-socai-io-dsh-socai/record.json
 
 ## License declarations

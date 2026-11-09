@@ -12,10 +12,6 @@ Enterprise web workflow agent framework combining browser-use automation, human-
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:ztr321/enterprise-web-workflow-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ztr321-enterprise-web-workflow-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Reinforcement-learning infrastructure for computer-use agents.
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:thudm/computerrl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-computerrl/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ RewardAgent combines human-preference scores with verifiable factuality and inst
 - Evidence checked: 2026-11-04T13:12:39Z
 - ID: github:thu-keg/agentic-reward-modeling
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thu-keg-agentic-reward-modeling/record.json
 
 ## License declarations

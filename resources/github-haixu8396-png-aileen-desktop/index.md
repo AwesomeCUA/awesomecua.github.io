@@ -12,10 +12,6 @@ Windows desktop AI assistant combining a Live2D interactive character with scree
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:haixu8396-png/aileen-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/record.json
 
 ## License declarations

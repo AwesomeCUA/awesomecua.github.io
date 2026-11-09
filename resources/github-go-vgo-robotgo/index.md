@@ -12,10 +12,6 @@ RobotGo is a native Go cross-platform desktop automation library for controlling
 - Evidence checked: 2026-11-04T14:02:37Z
 - ID: github:go-vgo/robotgo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-go-vgo-robotgo/record.json
 
 ## License declarations

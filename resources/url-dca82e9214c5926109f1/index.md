@@ -35,12 +35,12 @@ Weixian Lei, Difei Gao, Mike Zheng Shou
 - Publication source: https://openreview.net/forum?id=M9iky9Ruhx
 - Publication BibTeX: https://awesomecua.com/resources/url-dca82e9214c5926109f1/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-dca82e9214c5926109f1/publication-citation.csl.json
-- venue: International Conference on Learning Representations 2025 (ICLR 2025)
-- volume: 2025
-- pages: 19742-19765
-- date basis: Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.
-- identity basis: Same work: the ICLR 2025 proceedings page and PDF carry the same title, three authors and abstract as OpenReview note M9iky9Ruhx (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.
-- notes: The proceedings page metadata lists the authors surname first; the PDF byline order and spelling are retained. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
+- Venue: International Conference on Learning Representations 2025 (ICLR 2025)
+- Volume: 2025
+- Pages: 19742-19765
+- Date source: Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.
+- Identity basis: Same work: the ICLR 2025 proceedings page and PDF carry the same title, three authors and abstract as OpenReview note M9iky9Ruhx (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.
+- Source notes: The proceedings page metadata lists the authors surname first; the PDF byline order and spelling are retained. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2025/hash/31fc85f7461ce71eadf27fb7281973bd-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2025/file/31fc85f7461ce71eadf27fb7281973bd-Paper-Conference.pdf
 
 ## License declarations

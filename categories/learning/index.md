@@ -424,10 +424,6 @@ Hands-on developer codelab for building automated UI test suites using Antigravi
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:a-bhimava/agentic-ui-testing
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-a-bhimava-agentic-ui-testing/record.json
 
 ### License declarations
@@ -456,10 +452,6 @@ Five-chapter architectural blueprint and comparative engineering guide for build
 - Topics: workflow, tool-integration, sandbox
 - Evidence checked: 2026-11-04T16:51:46Z
 - ID: github:men-zer/ai-agent-desktop-engineering-blueprint
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/record.json
 
@@ -523,10 +515,6 @@ Curated directory of open-source AI agent platforms, digital coworkers, and brow
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:agenta-ai/awesome-ai-agent-platforms
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agenta-ai-awesome-ai-agent-platforms/record.json
 
 ### License declarations
@@ -555,10 +543,6 @@ Evidence-linked catalog of computer-use demos, evaluations, and agent workflows 
 - Topics: survey, automation, evaluation
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:archorfight/awesome-gpt-6-astra
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/record.json
 
@@ -589,10 +573,6 @@ Bilingual curated reading list of GUI, computer-use, and browser agent security 
 - Evidence checked: 2026-11-04T18:11:41Z
 - ID: github:yuxuan2003/awesome-gui-agent-security
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/record.json
 
 ### License declarations
@@ -622,10 +602,6 @@ Comprehensive research map of papers, benchmarks, and tools for multimodal codin
 - Topics: survey, screen-understanding, ui-design, evaluation
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:jiangjin1999/awesome-multimodal-agentic-coding
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/record.json
 
@@ -692,10 +668,6 @@ Open-source collection of computer-use skills, prompt patterns, and professional
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:sagozen/computeruse-expert-skills
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sagozen-computeruse-expert-skills/record.json
 
 ### License declarations
@@ -758,10 +730,6 @@ The repository lists a README, images, and recordings. The README links demonstr
 - Topics: workflow, tool-integration, memory, sandbox
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:adongwanai/learn-workbuddy
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/record.json
 

@@ -12,10 +12,6 @@ Fuji-Web is a Chrome extension web agent that combines accessibility trees and s
 - Evidence checked: 2026-11-04T13:12:28Z
 - ID: github:normal-computing/fuji-web
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-normal-computing-fuji-web/record.json
 
 ## License declarations

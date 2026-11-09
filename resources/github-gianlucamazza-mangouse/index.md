@@ -12,10 +12,6 @@ Compositor-agnostic Linux Wayland virtual seat and input adapter for coding and 
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:gianlucamazza/mangouse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gianlucamazza-mangouse/record.json
 
 ## License declarations

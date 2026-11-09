@@ -12,10 +12,6 @@ Locale-robust Codex skill for consulting a signed-in ChatGPT Pro web session in 
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:yubo-cao/codex-chatgpt-pro-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yubo-cao-codex-chatgpt-pro-bridge/record.json
 
 ## License declarations

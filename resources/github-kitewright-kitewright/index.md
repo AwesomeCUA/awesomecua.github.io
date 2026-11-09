@@ -12,10 +12,6 @@ Single-binary ~7MB Rust browser-automation Model Context Protocol server support
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:kitewright/kitewright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kitewright-kitewright/record.json
 
 ## License declarations

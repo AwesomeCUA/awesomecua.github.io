@@ -12,10 +12,6 @@ Web navigation and verification layer for AI agents providing compact semantic p
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:zumerlab/snapsurf
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zumerlab-snapsurf/record.json
 
 ## License declarations

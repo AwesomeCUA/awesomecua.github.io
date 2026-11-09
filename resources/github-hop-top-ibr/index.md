@@ -12,10 +12,6 @@ Intent Browser Runtime (ibr) translates natural-language instructions into resil
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:hop-top/ibr
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hop-top-ibr/record.json
 
 ## License declarations

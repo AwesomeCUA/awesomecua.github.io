@@ -12,10 +12,6 @@ ESP32-S2 hardware USB HID keyboard and mouse emulator with bidirectional serial 
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:burakboz/esp-ai-hid
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-burakboz-esp-ai-hid/record.json
 
 ## License declarations

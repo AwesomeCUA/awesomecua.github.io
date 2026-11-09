@@ -12,10 +12,6 @@ Model Context Protocol server that injects interactive Set-of-Mark hover labels 
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:mcpware/ui-annotator-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mcpware-ui-annotator-mcp/record.json
 
 ## License declarations

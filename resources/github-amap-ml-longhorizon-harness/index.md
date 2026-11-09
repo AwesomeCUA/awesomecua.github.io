@@ -12,10 +12,6 @@ LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:amap-ml/longhorizon-harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/record.json
 
 ## License declarations

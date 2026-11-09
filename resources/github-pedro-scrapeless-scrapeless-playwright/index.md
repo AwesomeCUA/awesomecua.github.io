@@ -12,10 +12,6 @@ Connects Playwright scripts and browser agents to the Scrapeless anti-detection 
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:pedro-scrapeless/scrapeless-playwright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pedro-scrapeless-scrapeless-playwright/record.json
 
 ## License declarations

@@ -35,13 +35,13 @@ Jakub Hoscilowicz, Bartosz Maj, Bartosz Kozakiewicz, Oleksii Tymoshchuk, Artur J
 - Publication source: https://aclanthology.org/2025.sigdial-1.38/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-11872/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-11872/publication-citation.csl.json
-- venue: Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue
-- publisher: Association for Computational Linguistics
-- pages: 471-476
-- doi: 10.18653/v1/2025.sigdial-1.38
-- date basis: Explicit publisher citation_publication_date: 2025/8. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the five-author list on page 1 of the publisher PDF. Landing-page citation metadata lists only Jakub Hoscilowicz and Artur Janicki.
+- Venue: Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue
+- Publisher: Association for Computational Linguistics
+- Pages: 471-476
+- DOI: 10.18653/v1/2025.sigdial-1.38
+- Date source: Explicit publisher citation_publication_date: 2025/8. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the five-author list on page 1 of the publisher PDF. Landing-page citation metadata lists only Jakub Hoscilowicz and Artur Janicki.
 - Publication evidence: https://aclanthology.org/2025.sigdial-1.38/, https://aclanthology.org/2025.sigdial-1.38.pdf
 
 ## Recorded arXiv snapshot

@@ -12,10 +12,6 @@ Voice Mirror is a Tauri desktop IDE where voice and multimodal agents inspect, c
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:contextmirror/voice-mirror
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-contextmirror-voice-mirror/record.json
 
 ## License declarations

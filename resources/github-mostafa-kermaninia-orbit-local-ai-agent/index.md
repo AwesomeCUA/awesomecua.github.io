@@ -12,10 +12,6 @@ Local-first Python voice and desktop automation agent powered by Whisper STT and
 - Evidence checked: 2026-11-04T17:55:09Z
 - ID: github:mostafa-kermaninia/orbit-local-ai-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mostafa-kermaninia-orbit-local-ai-agent/record.json
 
 ## License declarations

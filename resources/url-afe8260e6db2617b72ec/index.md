@@ -20,10 +20,10 @@ Each record holds the full screenshot, a cropped app-window image, the window's 
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: screenshots, cropped window images, accessibility trees, instructions, actions
-- splits: train, test
-- supervision: generated task instructions, ground-truth click and type actions, element bounding boxes
+- Formats: Parquet
+- Modalities: screenshots, cropped window images, accessibility trees, instructions, actions
+- Splits: train, test
+- Supervision: generated task instructions, ground-truth click and type actions, element bounding boxes
 
 ### Count observations
 

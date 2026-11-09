@@ -20,10 +20,10 @@ The card calls this the cleaned, training-ready release and points to the publis
 
 ## Structured profile
 
-- formats: Parquet (Trace SFT and Seed/Demo SFT), Parquet and CSV metadata tables, SHA-256 manifests
-- modalities: viewport screenshots, task queries, reasoning text, actions, DOM and accessibility-tree references in trace metadata
-- splits: not recorded
-- supervision: human-executed web task trajectories, click coordinates, bounding boxes and CSS selectors, action types and text arguments, reasoning text added in post-processing
+- Formats: Parquet (Trace SFT and Seed/Demo SFT), Parquet and CSV metadata tables, SHA-256 manifests
+- Modalities: viewport screenshots, task queries, reasoning text, actions, DOM and accessibility-tree references in trace metadata
+- Splits: not recorded
+- Supervision: human-executed web task trajectories, click coordinates, bounding boxes and CSS selectors, action types and text arguments, reasoning text added in post-processing
 
 ### Count observations
 

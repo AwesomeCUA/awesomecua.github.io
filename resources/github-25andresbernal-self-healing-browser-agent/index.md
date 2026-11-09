@@ -12,10 +12,6 @@ Combines Claude planning with Playwright execution and ranked selector fallback 
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:25andresbernal/self-healing-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:deskmind-ai/eyes
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-deskmind-ai-eyes/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ s1 is a voice-first macOS computer-use agent that inspects the Accessibility tre
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:matthew-eucaristo/s1
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-matthew-eucaristo-s1/record.json
 
 ## License declarations

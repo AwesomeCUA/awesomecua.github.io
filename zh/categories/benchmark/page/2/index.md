@@ -1,0 +1,106 @@
+# 计算机使用智能体评测基准：第 2 页
+
+HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/2/ · [English](https://awesomecua.com/categories/benchmark/page/2/index.md)
+
+完整类别注释：https://awesomecua.com/zh/categories/benchmark/index.md
+
+- [BrowseComp](https://awesomecua.com/resources/component-openai-simple-evals-browsecomp/)：OpenAI 的 1,266 题浏览智能体基准，要求跨多个网站持续搜索和导航，给出简短且可核验的答案，并由模型裁判评分。
+- [Browser Agent Comparison (4 Approaches)](https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/)：从任务完成情况和成本两方面比较四种 AI 浏览器控制方式：Chrome 扩展程序、Playwright、Browser Use V3 和 CLI。
+- [Browser Automation Benchmark (Python vs Rust)](https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/)：评测 Python Playwright、Rust playwright-rs 和 chromiumoxide 的无头浏览器启动、导航及截图延迟。
+- [Browser LLM Perf](https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/)：Browser LLM Perf 比较浏览器自动化 CLI（CraftDriver 与 Playwright CLI）的任务完成速度和 LLM token 成本。
+- [browser-eval](https://awesomecua.com/resources/github-lexmount-browser-eval/)：browser-eval 是用于网页抓取、确定性浏览器轨迹重放和自主网页智能体基准评测的测试框架。
+- [browser-task-bench](https://awesomecua.com/resources/github-tradestackdev-browser-task-bench/)：browser-task-bench 是包含 200+ 项网页交互任务的评测基准套件，涵盖表单、搜索、身份验证和结账流程。
+- [BrowserAgentRegression](https://awesomecua.com/resources/github-albertxxuu-browseragentregression/)：本地优先的回归测试评测基准，用于在受控的 UI 和 DOM 变更下评测浏览器智能体。
+- [BrowserART](https://awesomecua.com/resources/github-scaleapi-browser-art/)：Scale AI 的红队测试基准与测试套件，用于评估经过拒绝训练的语言模型在作为浏览器智能体部署时能否被越狱。
+- [BrowserTransactionBench](https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/)：BrowserTransactionBench 评测自主浏览器智能体的事务安全性、幂等性和重复支出防范能力。
+- [BrowseWebApp Bench](https://awesomecua.com/resources/github-visnia-ai-browsewebapp-bench/)：BrowseWebApp Bench 通过 100 个真实的网页工作流程评测浏览器智能体，涵盖记录提取、文档上传和表单提交。
+- [CAPTCHA Gym](https://awesomecua.com/resources/github-mildchef-muse-captcha-gym/)：CAPTCHA Gym 是面向浏览器智能体的自托管评测平台，提供受控的 reCAPTCHA 风格视觉挑战和服务器端评分。
+- [CaptchaArena](https://awesomecua.com/resources/github-x0x0x00-captchaarena/)：CaptchaArena 提供实时服务器和涵盖 20 种交互式 CAPTCHA 类型的细粒度轨迹数据集，用于评测计算机使用智能体。
+- [CodexQA](https://awesomecua.com/resources/github-openqa-cn-codexqa/)：一套包含 11 个本地优先 QA Agent Skills 的工具，供 Cursor、Claude Code 和 Codex 验证实时网页和桌面用户操作流程。
+- [Collision Canary](https://awesomecua.com/resources/github-mystiquemide-collision-canary/)：多执行者不变量验证测试框架，驱动两个并发浏览器智能体操作共享后端，以发现竞态错误。
+- [ColorBench](https://awesomecua.com/resources/github-madeagents-colorbench/)：ColorBench 是基于图的移动 GUI 基准，通过截图状态及多种有效或错误的状态转移评估长任务，涵盖反思、重新规划和回退。
+- [Computer Agent Arena](https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/)：众包对战平台，用户在 Ubuntu 或 Windows VM 上比较两个计算机使用智能体；代码库包含投票前端、环境预设和 2,010 场已核验对战记录。
+- [CRAB](https://awesomecua.com/resources/github-camel-ai-crab/)：用于多模态智能体的跨环境基准框架。
+- [cskwork vigil](https://awesomecua.com/resources/github-cskwork-vigil/)：持续运行的浏览器 QA 测试框架，可复现已报告的错误，并在实时网页 URL 上自主扩展端到端测试覆盖范围。
+- [CUA Eval Kit](https://awesomecua.com/resources/github-marwanalsiddiq-cua-eval-kit/)：受控的浏览器测试环境和包含 10 个任务的计算机使用评测套件，用于评估网页智能体的准确性和步骤效率。
+- [cua-bench (ERPNext)](https://awesomecua.com/resources/github-vaiyr-cua-bench/)：cua-bench 将容器化的 ERPNext v15 会计和企业工作流程封装为面向 GUI 智能体的 Harbor RL 与评测环境。
+- [cua_reliability (SA-OPSD)](https://awesomecua.com/resources/github-mercurialsolo-sa-opsd/)：提供 cua_reliability 评测工具包和参考训练代码，用于衡量 CUA RL 中停止执行和弃答的可靠性。
+- [decision-luna-browse-control](https://awesomecua.com/resources/github-humanity-forever-decision-luna-browse-control/)：评测带类型的 System-One 决策模型（Luna Decisions 和 Jev）在合成网页应用中驱动真实 Chromium 浏览器工作流的表现。
+- [deedchain](https://awesomecua.com/resources/github-pillcrew-deedchain/)：deedchain 以录制的真实网页执行轨迹为依据，评测浏览器智能体的报告保真度和幻觉率。
+- [DeskCert CLI](https://awesomecua.com/resources/github-rudrendupaul-deskcert-cli/)：安全认证 CLI，在生产部署前针对内部网页应用对 AI 浏览器和计算机使用智能体进行压力测试。
+- [DesktopAgentBench](https://awesomecua.com/resources/github-raghava00001-desktopagentbench/)：DesktopAgentBench 是与智能体无关的 Windows 评测基准，评测桌面智能体的任务可靠性、恢复能力和安全防护机制。
+- [dom-drift-bench](https://awesomecua.com/resources/github-notel1gible-dom-drift-bench/)：dom-drift-bench 在 10 类结构性 DOM 漂移中评测 4 种网页提取和定位策略。
+- [done-or-not](https://awesomecua.com/resources/github-tatra-labs-done-or-not/)：done-or-not 是离线评测基准，包含来自三台模拟计算机的 910 条计算机使用轨迹，用于评定任务完成情况验证器。
+- [drift-audit](https://awesomecua.com/resources/github-sebastianpuchet-drift-audit/)：审查并分类浏览器自动化仓库的选择器维护历史，以量化其受 UI 变化影响的脆弱程度。
+- [DSH QA](https://awesomecua.com/resources/github-zseven-w-dsh-qa/)：DeepSeek Harness QA 插件，其中自主浏览器智能体探索运行中的网页应用，以发现功能和 UX 缺陷。
+- [DynamicGUIBench](https://awesomecua.com/resources/url-20fa95f00391bf965af2/)：含 500 项 OSWorld 风格桌面任务的基准，界面会在观察间因脚本化弹窗、定时编辑和列表变化而改变；提供中英双语指令及最终状态评估器。
+- [Effectprint](https://awesomecua.com/resources/github-tommytranx-effectprint/)：用于验证 WebMCP 浏览器智能体工具副作用的确定性行为契约审计套件。
+- [Ego Browser Benchmark Framework](https://awesomecua.com/resources/github-citrolabs-ego-browser-benchmark-framework/)：Ego Browser Benchmark Framework 是可复现的测试框架，用于在受控的浏览器使用智能体任务上比较基础模型。
+- [EIA](https://awesomecua.com/resources/github-osu-nlp-group-eia-against-webagent/)：环境注入攻击评估套件，通过在正常网站中嵌入不可见的恶意 HTML 元素，测试通用网页智能体的隐私泄露情况。
+- [Embodied Agent Interface (EAI)](https://awesomecua.com/resources/github-embodied-agent-eval-embodied-agent-eval/)：Embodied Agent Interface（EAI）从目标理解、子目标分解、动作排序和状态转换建模等方面评测 LLM。
+- [ExactDelta (ActionProof)](https://awesomecua.com/resources/github-tsuchiyatakahirolab-actionproof/)：面向 WebMCP 浏览器智能体的动作后状态差异验证测试框架，可检测未显现的 UI 和状态故障。
+- [fast-automation (Plan-Once Ground-Locally)](https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/)：在包含 200 个任务和 2,800 次记录运行的评测基准上，对比一次规划、局部定位的网页智能体与逐步执行的 ReAct 循环。
+- [FedGUI](https://awesomecua.com/resources/github-wwh0411-fedgui/)：FedGUI 对跨异构平台、设备类型、数据来源和操作系统的联邦式 GUI 智能体训练与评测进行基准测试。
+- [Financial CUA Benchmark](https://awesomecua.com/resources/github-vitoworleone-financial-cua-benchmark/)：Financial CUA Benchmark 提供确定性验证器和债券承销任务，用于评测金融计算机使用智能体。
+- [FineState-Bench](https://awesomecua.com/resources/github-fengxianji-finestate-bench/)：一个评估桌面、网页和移动界面精细状态操作的 GUI 基准，包含 2,257 项任务，并分别衡量元素定位与交互成功率。
+- [FixtureBench](https://awesomecua.com/resources/github-prabal-singh-fixturebench/)：FixtureBench 在具有分页、MFA 和诱饵 PO 的确定性 Coupa 风格买方及供应商门户上评测采购浏览器智能体。
+- [FlashAdventure](https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/)：FlashAdventure 通过 34 款需要长期记忆的 Flash 点击式冒险游戏，评测 GUI 智能体完成完整故事情节的能力。
+- [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/)：评测冻结视觉骨干网络的密集特征与全局特征在像素坐标 GUI 定位中的表现。
+- [GameWorld](https://awesomecua.com/resources/github-gameworld-project-gameworld/)：GameWorld 提供标准化的浏览器端评测套件，涵盖 34 款游戏和 170 项可验证任务，用于评测多模态游戏智能体。
+- [GBOX MCP + Claude Code](https://awesomecua.com/resources/github-babelcloud-android-world-benchmark/)：这是基于 AndroidWorld 的评测配置，通过 GBOX MCP 将 Claude 智能体连接到 Android 模拟器，并提供任务完成信号工具。
+- [Gomoku Computer-Use Model Comparison](https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/)：受控评测基准，用于比较前沿 Claude 模型在交互式棋盘游戏推理和 GUI 执行方面的表现。
+- [Graph-Guided Agentic Testing](https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/)：使用浏览器智能体探索网页结账流程，将其构建为 Neo4j 状态图，并生成由图引导的端到端测试。
+- [GroundUI-18K](https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/)：AgentStudio 的完整 GUI 元素定位测试集，汇集 Mind2Web、OmniACT、MoTIF、ScreenSpot 和 AgentStudio 的网页、桌面及移动端截图，含 18,026 条指令与目标边界框样例。
+- [GUI-Perturbed](https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/)：逐步网页定位基准，对 Mind2Web 页面施加样式、缩放和文字大小扰动后重新渲染，并将每张截图与直接或关系型指令及目标框配对。
+- [GUI-Robust](https://awesomecua.com/resources/github-chessbean1-gui-robust/)：提供评估脚本和关联数据，用于比较普通及异常界面条件下的 GUI 操作预测和任务执行。
+- [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/)：GUIDE 基准发布的数据：来自 10 款应用的新手口述屏幕录像的标注片段，用于预测用户行为状态、短期意图，以及是否提供帮助和如何帮助。
+- [GUIGuard-Bench evaluation code](https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/)：GUIGuard-Bench 评估代码涵盖隐私区域识别评分、基于 LLM 评判的遮挡截图规划一致性，以及受保护界面的点击定位，并附少量 Android 和 PC 示例。
+- [GUIHalluBench](https://awesomecua.com/resources/github-ant-research-guihallubench/)：将模型列出的界面元素边界框和描述与人工标注比对，衡量其解析 1,000 张英文和 1,000 张中文截图时的幻觉。
+- [GUITestBench](https://awesomecua.com/resources/github-adam-bjtu-guitestbench/)：GUITestBench 评测安卓智能体能否通过多步操作发现应用缺陷，并结合导航与触发条件检查及评判模型进行评估。
+- [Gym-Anything](https://awesomecua.com/resources/github-cmu-l3-gym-anything/)：运行时与 CUA-World 任务套件将 Ubuntu、Windows 11、Android 和 macOS 上的真实应用变为让智能体观察屏幕并使用鼠标键盘的环境，配有设置脚本和程序验证器。
+- [HealthEnv](https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/)：HealthEnv 将纵向临床问答任务编译为有状态、可验证的计算机使用评测环境。
+- [HoloSkill Gym](https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/)：用于自我演进的 CLI 和计算机使用智能体技能的 Gym 环境与优化框架。
+- [HumanQA](https://awesomecua.com/resources/github-hotragn-humanqa/)：以证据为先的产品质量与 UX 评测测试框架，用于通过浏览器智能体测试网页应用。
+- [hyprbench](https://awesomecua.com/resources/github-crispwisp-hyprbench/)：hyprbench 是面向 Linux Hyprland Wayland 合成器、采用 OSWorld 风格的计算机使用评测基准，配有脚本化窗口管理验证器。
+- [Inspect Evals](https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/)：Inspect Evals 是面向 UK AISI Inspect 框架的社区评测基准套件，包含 OSWorld、GAIA、SWE-bench 以及网络安全和智能体评测。
+- [Intention-in-Interaction (IN3) & Mistral-Interact](https://awesomecua.com/resources/github-openbmb-tell-me-more/)：提供 Intention-in-Interaction (IN3) 评测基准和 Mistral-Interact 模型，用于在智能体任务中主动澄清用户意图。
+- [Intentproof](https://awesomecua.com/resources/github-egagofur-intentproof/)：由 AI 驱动的端到端验证编排工具和交互式浏览器测试框架。
+- [iOSWorld](https://awesomecua.com/resources/github-ljang0-iosworld/)：iOSWorld 是原生 iPhone 模拟器基准，包含共享用户数据、应用工作流程、智能体运行器和基于评分细则的评分。
+- [jev-click-bench](https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/)：jev-click-bench 使用官方评分方法和逐次点击日志，在 ScreenSpot-v2 和 ScreenSpot-Pro 上评测 Jev 1.14 的边界框定位。
+- [Kane](https://awesomecua.com/resources/github-venkat5599-kane/)：面向 AI 构建的网页应用的通俗英语浏览器验证测试框架，将 UI 故障报告给编码智能体。
+- [Kernel Eval Protocol](https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/)：使用 Eval Protocol、Kernel 云浏览器和可验证的任务评分器，评测并微调视觉语言浏览器智能体。
+- [LAST DOOR](https://awesomecua.com/resources/github-agentsimdev-last-door/)：认证韧性评测基准和 WebMCP 权限编译器，用于测试浏览器智能体在登录及权限边界处的行为。
+- [LLM as a Judge for Computer-Use Agents](https://awesomecua.com/resources/github-anaishowland-llm-judge-psai/)：LLM 充当评判者的评测测试框架，用于评估计算机使用智能体在网页浏览和桌面交互任务中的轨迹。
+- [LongPuzzleBench](https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/)：LongPuzzleBench 通过需要多步骤空间推理的长时程视觉解谜游戏，评测 GUI 和计算机使用智能体。
+- [LPS-Bench](https://awesomecua.com/resources/github-tychenn-lps-bench/)：LPS-Bench 在良性及对抗性执行场景下，评测计算机使用智能体进行长程规划时的安全意识。
+- [MacArena](https://awesomecua.com/resources/github-macpaw-macarena/)：MacArena 在可复现的在线 macOS 虚拟机环境中，通过跨应用桌面任务评测计算机使用智能体。
+- [MalURLBench](https://awesomecua.com/resources/github-jiangyinger-malurlbench/)：MalURLBench 在 10 个真实网页场景中，评测基于 LLM 的网页智能体遭受网络钓鱼和恶意 URL 攻击时的脆弱性。
+- [MarketBench](https://awesomecua.com/resources/github-santos-sanz-marketbench/)：MarketBench 是可复现的 WebMCP 评测基准，用于评测浏览器智能体在模拟市场中跨数周的经济决策。
+- [Maudslay](https://awesomecua.com/resources/github-theo-ai-lab-maudslay/)：Maudslay 根据独立的后端和电子邮件真实结果，评测计算机使用智能体的发布就绪程度与 pass^k 可靠性。
+- [MCPWorld](https://awesomecua.com/resources/github-saagent-mcpworld/)：结合计算机交互与工具访问的评估环境。
+- [MedSPOT](https://awesomecua.com/resources/github-tajamul21-medspot/)：覆盖 10 款医学影像应用的连续式界面定位评测集，用于评估模型在多步骤工作流程中定位目标的能力，并提供评测脚本。
+- [mimiq](https://awesomecua.com/resources/github-gojiplus-mimiq/)：mimiq 是动态端到端智能体模拟和网页 UI 评测运行器，集成 Cypress、Playwright 和 Stagehand。
+- [Mind2Web 2](https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/)：长程智能体网页搜索基准，使用 Agent-as-a-Judge 框架评估随时间变化且有引文支持的答案，并提供开发集和测试集的评估脚本。
+- [Mirage (Adversarial Web Benchmark)](https://awesomecua.com/resources/github-shushant17711-mirage/)：受控的对抗性网页环境，用于衡量自主浏览器智能体如何在欺骗性 UI 和提示陷阱下失败。
+- [MLA-Trust](https://awesomecua.com/resources/github-thu-ml-mla-trust/)：统一评估框架，衡量多模态 LLM 智能体在交互式网页和移动 GUI 任务中的真实性、可控性、安全性与隐私表现。
+- [MM-SafetyBench](https://awesomecua.com/resources/github-ai45lab-mm-safetybench/)：MM-SafetyBench 在 13 种场景中，使用与查询相关的对抗性图像和排版安全提示评测多模态大语言模型。
+- [MMInA](https://awesomecua.com/resources/github-shulin16-mmina/)：基于 WebArena 环境的多模态网页任务，需在购物网站、Wikipedia 等站点间完成 1 至 10 跳的操作，用于测试长链推理。
+- [MMSearch-Plus](https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/)：面向多模态网页智能体的评测集，含 311 道需反复检索图像与文本的视觉推理任务；仓库链接数据集并提供加载辅助程序。
+- [MobBench task definitions](https://awesomecua.com/resources/url-b53e03a6e4ca4226d126/)：用于评估 MobA 的公开真机移动任务定义集，中文和英文任务材料以带版本号的 JSON 形式发布。
+- [Mobile-Bench](https://awesomecua.com/resources/github-xiaomi-mobilebench/)：Mobile-Bench 通过结合 UI 动作与 API 扩展、使用检查点指标的多步骤 Android 任务，评测基于 LLM 的移动端智能体。
+- [Mobile-Eval-E task definitions](https://awesomecua.com/resources/url-342b081c3668a8bbe155/)：用于 Mobile-Agent-E 长时程、跨应用 Android 评估的任务定义，以含 25 条记录的测试集形式提供，并附有评分标准和人工参考操作字符串。
+- [MobileAgentBench](https://awesomecua.com/resources/github-mobileagentbench-mobile-agent-bench/)：面向移动端 LLM 智能体的自动化基准，默认任务使用 10 个 Simple Mobile Tools Android 应用；作为 Python 库安装，并检测任务是否完成。
+- [MobileBench-OL](https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/)：MobileBench-OL 提供在线评测测试框架，在真实 Android 设备上测试移动端 GUI 智能体，并动态验证任务。
+- [MobileSafetyBench](https://awesomecua.com/resources/github-jylee425-mobilesafetybench/)：MobileSafetyBench 是 Android 模拟器测试环境，借助 ADB 和 Appium 获取观察、执行操作并检查任务是否成功，同时评估移动设备控制智能体的安全性与有用性。
+- [MobileWorldBench](https://awesomecua.com/resources/github-jacklishufan-mobileworld/)：MobileWorldBench 是评估移动智能体语义世界建模的基准，包含问答任务和由 GPT 评判的生成任务，并提供基于 AitW 及 AndroidControl 屏幕构建的训练数据。
+- [Navi-Bench](https://awesomecua.com/resources/github-yutori-ai-navi-bench/)：Navi-Bench 通过直接在实时网站上执行的日常消费者任务，并使用确定性结果验证器，评测网页智能体。
+- [Next-Gen CAPTCHAs](https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/)：Next-Gen CAPTCHAs 提供交互式评测基准和认知差距 CAPTCHA 挑战生成器，用于防范 GUI 网页智能体。
+- [Nightshift](https://awesomecua.com/resources/github-yayaq1-nightshift/)：运行于 Solari 的黑盒计算机使用质量检查测试框架，无需访问应用测试钩子即可评测实时用户界面。
+- [OmniWebBench](https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/)：OmniWebBench 从端到端网页导航、动作执行、故障恢复和证据核验等方面评测智能体浏览器。
+- [Open Operator Evals](https://awesomecua.com/resources/github-nottelabs-open-operator-evals/)：Notte Labs 已归档的评测框架和结果，对 WebVoyager 的 30 项任务子集让网页智能体各运行八次，以 GPT-4o 截图评判器评分，并与智能体自报成功情况比较。
+- [Open User](https://awesomecua.com/resources/github-tiacoo-open-user/)：黑盒用户体验审查测试框架，派遣 AI 浏览器用户角色测试网页产品并记录障碍点。
+- [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/)：提供可配置的浏览器应用和任务奖励，用于测试计算机使用智能体在内容、布局和外观变化下的表现。
+- [OS-Critic Bench](https://awesomecua.com/resources/url-c73ba0618d1b3c505887/)：跨平台 GUI 评判基准，包含移动端、桌面端和网页的 JSONL 数据划分及截图资源，并附公开的推理与准确率评分脚本。
+- [OS-Map](https://awesomecua.com/resources/github-os-copilot-os-map/)：源自 OSWorld 的桌面基准，提供 Ubuntu 虚拟机环境和扩展的任务配置，用于衡量计算机交互的广度与深度。
+- [OSReward](https://awesomecua.com/resources/github-os-copilot-osreward/)：OSReward 的评估器与采集代码，检验 VLM 评判器对人工标注的计算机使用轨迹所给 SUCCESS/FAIL 结论，并提供网页、Windows、Android 和 Ubuntu 轨迹采集流水线。
+- [OSUniverse](https://awesomecua.com/resources/github-agentsea-osuniverse/)：OSUniverse 是面向任务的桌面评测基准，用于评测视觉驱动的多模态 GUI 导航智能体在操作系统应用中的表现。

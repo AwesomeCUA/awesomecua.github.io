@@ -12,19 +12,15 @@ Reproducible Android benchmark of 138 tasks across nine apps on predefined virtu
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:thudm/android-lab
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-android-lab/record.json
 
 ## Structured profile
 
-- actions: Android operations through the agent framework
-- evaluation: The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
-- focus: Android task completion, subgoal completion, operation efficiency
-- observations: UI XML, set-of-marks views
-- setting: interactive
+- Actions / outputs: Android operations through the agent framework
+- Evaluation: The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
+- Focus: Android task completion, subgoal completion, operation efficiency
+- Observations: UI XML, set-of-marks views
+- Setting: interactive
 
 ### Count observations
 

@@ -12,10 +12,6 @@ iMessage-style chat and fleet control interface for managing Hermes computer-use
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:thomasbek3/hermes-bot-kit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thomasbek3-hermes-bot-kit/record.json
 
 ## License declarations

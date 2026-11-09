@@ -12,10 +12,6 @@ Model Context Protocol server that drives the browser session the user is alread
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:t3ratech/mcp-session-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-t3ratech-mcp-session-bridge/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Lightweight, model-free Model Context Protocol plugin giving multimodal agents n
 - Evidence checked: 2026-11-04T17:55:09Z
 - ID: github:nico0713520/universal-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nico0713520-universal-computer-use/record.json
 
 ## License declarations

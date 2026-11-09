@@ -12,10 +12,6 @@ Compares plan-once local-grounding web agents against step-by-step ReAct loops a
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:thedivyanshshukla/plan-once-ground-locally
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/record.json
 
 ## License declarations

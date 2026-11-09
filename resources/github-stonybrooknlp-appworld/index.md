@@ -20,11 +20,11 @@ Primarily API and coding interaction; included as an adjacent comparison for GUI
 
 ## Structured profile
 
-- actions: Python code, application API calls
-- evaluation: State-based unit tests check task outcomes and unintended changes.
-- focus: interactive coding, cross-app tool use
-- observations: API documentation, execution feedback
-- setting: interactive
+- Actions / outputs: Python code, application API calls
+- Evaluation: State-based unit tests check task outcomes and unintended changes.
+- Focus: interactive coding, cross-app tool use
+- Observations: API documentation, execution feedback
+- Setting: interactive
 
 ### Count observations
 

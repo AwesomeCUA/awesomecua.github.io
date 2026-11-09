@@ -12,10 +12,6 @@ Browser automation framework combining code and natural-language actions.
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:browserbase/stagehand
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browserbase-stagehand/record.json
 
 ## License declarations

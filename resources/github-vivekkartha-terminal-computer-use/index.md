@@ -12,10 +12,6 @@ Terminal Computer Use provides shell-based desktop automation skills for managin
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:vivekkartha/terminal-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vivekkartha-terminal-computer-use/record.json
 
 ## License declarations

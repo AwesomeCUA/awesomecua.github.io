@@ -12,10 +12,6 @@ Vision-driven browser agent powered by the Camoufox stealth Firefox browser.
 - Evidence checked: 2026-11-04T16:51:45Z
 - ID: github:apothic-ai/blue-steel
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-apothic-ai-blue-steel/record.json
 
 ## License declarations

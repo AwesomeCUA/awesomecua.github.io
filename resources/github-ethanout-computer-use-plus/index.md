@@ -12,10 +12,6 @@ Low-token, low-latency Windows computer-use MCP server with learned action short
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:ethanout/computer-use-plus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ethanout-computer-use-plus/record.json
 
 ## License declarations

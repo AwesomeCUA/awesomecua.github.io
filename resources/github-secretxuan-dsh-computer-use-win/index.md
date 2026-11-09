@@ -12,10 +12,6 @@ Windows computer-use bundle for DeepSeek Harness providing desktop screenshots, 
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:secretxuan/dsh-computer-use-win
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-secretxuan-dsh-computer-use-win/record.json
 
 ## License declarations

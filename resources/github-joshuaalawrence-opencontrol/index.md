@@ -12,10 +12,6 @@ Single-binary ~2MB Rust Model Context Protocol server exposing 54 native Windows
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:joshuaalawrence/opencontrol
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-joshuaalawrence-opencontrol/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ AutoGen is Microsoft's multi-agent conversation framework including MultimodalWe
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:microsoft/autogen
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-autogen/record.json
 
 ## License declarations

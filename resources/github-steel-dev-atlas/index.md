@@ -12,10 +12,6 @@ Steel Atlas is an open-web research and browser automation agent built on the St
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:steel-dev/atlas
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-steel-dev-atlas/record.json
 
 ## License declarations

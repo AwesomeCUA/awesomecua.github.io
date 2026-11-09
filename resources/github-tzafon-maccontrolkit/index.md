@@ -12,10 +12,6 @@ MacControlKit is a Swift package by Tzafon for capturing macOS screens and dispa
 - Evidence checked: 2026-11-04T14:20:07Z
 - ID: github:tzafon/maccontrolkit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tzafon-maccontrolkit/record.json
 
 ## License declarations

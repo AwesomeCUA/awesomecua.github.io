@@ -12,10 +12,6 @@ Analyzes LLM-based GUI agents through four components (perception, exploration, 
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2504.13865
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-13865/record.json
 
 ## Authors

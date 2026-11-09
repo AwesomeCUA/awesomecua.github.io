@@ -12,10 +12,6 @@ Playwright-based Model Context Protocol server that lets coding agents load, ins
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:bhuvan-rj/chrome-extension-testing-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bhuvan-rj-chrome-extension-testing-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Windows-first edge service for recording, verifying, and deterministically repla
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:pudap/guidriver
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pudap-guidriver/record.json
 
 ## License declarations

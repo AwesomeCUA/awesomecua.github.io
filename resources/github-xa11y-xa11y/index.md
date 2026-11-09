@@ -12,10 +12,6 @@ xa11y is a cross-platform desktop accessibility library in Rust, Python, and Nod
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:xa11y/xa11y
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xa11y-xa11y/record.json
 
 ## License declarations

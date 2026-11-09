@@ -12,10 +12,6 @@ Intent-first Android phone automation agent with human-like touch trajectories a
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:xiaozhe7772222/ziweixing
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiaozhe7772222-ziweixing/record.json
 
 ## License declarations

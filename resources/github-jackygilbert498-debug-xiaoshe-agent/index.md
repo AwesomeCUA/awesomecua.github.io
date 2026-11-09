@@ -12,10 +12,6 @@ Local-first desktop agent built on DeepSeek Harness featuring plugin governance,
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:jackygilbert498-debug/xiaoshe-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jackygilbert498-debug-xiaoshe-agent/record.json
 
 ## License declarations

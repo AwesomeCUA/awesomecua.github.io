@@ -12,10 +12,6 @@ Browser Use Benchmark (BU Bench V2.1) evaluates browser agents across 200 real-w
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:browser-use/benchmark
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-use-benchmark/record.json
 
 ## License declarations

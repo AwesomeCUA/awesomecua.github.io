@@ -12,10 +12,6 @@ Local-first browser automation platform for AI agents supporting isolated Chromi
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:ajnasnb/cockroach-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ajnasnb-cockroach-browser/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Aider is an AI pair-programming CLI and browser agent that maps repositories, ed
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:aider-ai/aider
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aider-ai-aider/record.json
 
 ## License declarations

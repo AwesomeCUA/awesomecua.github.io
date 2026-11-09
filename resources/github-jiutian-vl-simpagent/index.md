@@ -12,10 +12,6 @@ SimpAgent implements context-aware history simplification and visual token pruni
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:jiutian-vl/simpagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jiutian-vl-simpagent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Real-time shared Chrome browser workspace between a human user and Claude Code o
 - Evidence checked: 2026-11-04T16:30:14Z
 - ID: github:bgmacris/quimera-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bgmacris-quimera-ai/record.json
 
 ## License declarations

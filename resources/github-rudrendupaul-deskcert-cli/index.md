@@ -12,10 +12,6 @@ Safety certification CLI that stress-tests AI browser and computer-use agents ag
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:rudrendupaul/deskcert-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rudrendupaul-deskcert-cli/record.json
 
 ## License declarations

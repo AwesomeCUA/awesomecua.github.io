@@ -20,10 +20,10 @@ The card says the videos were sourced from the internet, trimmed to screen-recor
 
 ## Structured profile
 
-- formats: MP4, JSONL, JSON, Parquet
-- modalities: screen-recording video, per-video duration metadata
-- splits: train
-- supervision: unlabeled screen recordings
+- Formats: MP4, JSONL, JSON, Parquet
+- Modalities: screen-recording video, per-video duration metadata
+- Splits: train
+- Supervision: unlabeled screen recordings
 
 ### Count observations
 

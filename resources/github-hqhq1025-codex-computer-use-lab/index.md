@@ -12,10 +12,6 @@ Documents and reproduces the macOS Computer Use architecture, SkyLight window ca
 - Evidence checked: 2026-11-04T13:12:17Z
 - ID: github:hqhq1025/codex-computer-use-lab
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/record.json
 
 ## License declarations

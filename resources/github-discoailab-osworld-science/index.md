@@ -20,11 +20,11 @@ The repository holds the osworld_science package (CLI, VM control, agents, evalu
 
 ## Structured profile
 
-- actions: pyautogui code (built-in prompt agent), tool calls (vendored Kimi agent)
-- evaluation: Task-specific executable evaluators (JSON, CSV, artifact, R, SQL, Slicer and Praat checks plus author-provided scientific checks) inspect application states and collected deliverables and can award partial credit; the report command exports PASS/FAIL/VOID counts, scores, steps and costs.
-- focus: scientific-software workflows, combined GUI and command-line interaction
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: pyautogui code (built-in prompt agent), tool calls (vendored Kimi agent)
+- Evaluation: Task-specific executable evaluators (JSON, CSV, artifact, R, SQL, Slicer and Praat checks plus author-provided scientific checks) inspect application states and collected deliverables and can award partial credit; the report command exports PASS/FAIL/VOID counts, scores, steps and costs.
+- Focus: scientific-software workflows, combined GUI and command-line interaction
+- Observations: screenshots
+- Setting: interactive
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Model Context Protocol server replicating Anthropic Claude's built-in computer-u
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:yossifibrahem/computer-use-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yossifibrahem-computer-use-mcp-server/record.json
 
 ## License declarations

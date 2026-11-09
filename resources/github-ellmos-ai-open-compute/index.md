@@ -12,10 +12,6 @@ Model-agnostic computer-use core providing a unified agent loop and MCP server a
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:ellmos-ai/open-compute
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ellmos-ai-open-compute/record.json
 
 ## License declarations

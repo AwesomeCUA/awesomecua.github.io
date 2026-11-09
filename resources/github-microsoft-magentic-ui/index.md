@@ -12,10 +12,6 @@ Microsoft agent application combining orchestration with browser interaction; su
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:microsoft/magentic-ui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-magentic-ui/record.json
 
 ## License declarations

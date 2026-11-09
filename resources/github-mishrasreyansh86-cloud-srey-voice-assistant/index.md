@@ -12,10 +12,6 @@ Python desktop voice assistant for automating local applications, web searches, 
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:mishrasreyansh86-cloud/srey-voice-assistant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mishrasreyansh86-cloud-srey-voice-assistant/record.json
 
 ## License declarations

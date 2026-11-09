@@ -12,10 +12,6 @@ Benchmarks Python Playwright, Rust playwright-rs, and chromiumoxide on headless 
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:tashonbraganca/browser-automation-benchmark
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/record.json
 
 ## License declarations

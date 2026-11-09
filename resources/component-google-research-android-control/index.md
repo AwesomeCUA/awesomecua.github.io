@@ -12,18 +12,14 @@ Android demonstrations with high-level goals, step instructions, screenshots, an
 - Evidence checked: 2026-10-16T06:38:29Z
 - ID: component:google-research/android_control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/component-google-research-android-control/record.json
 
 ## Structured profile
 
-- formats: GZIP-compressed TFRecord
-- modalities: screenshots, accessibility trees, instructions, JSON actions
-- splits: publisher split file
-- supervision: interaction trajectories, high- and low-level action instruction
+- Formats: GZIP-compressed TFRecord
+- Modalities: screenshots, accessibility trees, instructions, JSON actions
+- Splits: publisher split file
+- Supervision: interaction trajectories, high- and low-level action instruction
 
 ### Count observations
 

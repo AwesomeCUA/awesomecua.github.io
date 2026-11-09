@@ -12,10 +12,6 @@ Dependency-free WebMCP collaboration runtime enabling human operators and browse
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:akigarage/helprelay-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-akigarage-helprelay-webmcp/record.json
 
 ## License declarations

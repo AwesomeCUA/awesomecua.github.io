@@ -12,10 +12,6 @@ GUI-AIMA aligns intrinsic multimodal attention heads with context anchors for da
 - Evidence checked: 2026-11-04T13:12:36Z
 - ID: github:sjz5202/gui-aima
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sjz5202-gui-aima/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser automation library used as an execution layer by agents.
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:microsoft/playwright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-playwright/record.json
 
 ## License declarations

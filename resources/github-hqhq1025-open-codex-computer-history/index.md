@@ -12,10 +12,6 @@ Clean-room macOS implementation of event-stream interaction recording using Acce
 - Evidence checked: 2026-11-04T13:12:17Z
 - ID: github:hqhq1025/open-codex-computer-history
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/record.json
 
 ## License declarations

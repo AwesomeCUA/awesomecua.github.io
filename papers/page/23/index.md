@@ -669,13 +669,13 @@ Preetam Prabhu Srikar Dammu
 - Publication source: https://dl.acm.org/doi/abs/10.1145/3701551.3707420
 - Publication BibTeX: https://awesomecua.com/resources/url-2af250798e99e7af01ce/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-2af250798e99e7af01ce/publication-citation.csl.json
-- venue: Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining
-- publisher: ACM
-- pages: 1074-1076
-- doi: 10.1145/3701551.3707420
-- date basis: Crossref issued date 2025-3-10; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: WSDM 2025 proceedings paper; the abstract was read from OpenAlex.
+- Venue: Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining
+- Publisher: ACM
+- Pages: 1074-1076
+- DOI: 10.1145/3701551.3707420
+- Date source: Crossref issued date 2025-3-10; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: WSDM 2025 proceedings paper; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3701551.3707420, https://api.openalex.org/works/doi:10.1145/3701551.3707420
 
 ### License declarations
@@ -1042,13 +1042,13 @@ Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold C
 - Publication source: https://aclanthology.org/2025.naacl-demo.36/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2503-02950/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2503-02950/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)
-- publisher: Association for Computational Linguistics
-- pages: 449-455
-- doi: 10.18653/v1/2025.naacl-demo.36
-- date basis: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)
+- Publisher: Association for Computational Linguistics
+- Pages: 449-455
+- DOI: 10.18653/v1/2025.naacl-demo.36
+- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.naacl-demo.36/
 
 ### Recorded arXiv snapshot
@@ -2258,13 +2258,13 @@ Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whiteh
 - Publication source: https://aclanthology.org/2025.findings-acl.326/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2502-11357/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2502-11357/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: ACL 2025
-- publisher: Association for Computational Linguistics
-- pages: 6300-6323
-- doi: 10.18653/v1/2025.findings-acl.326
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. Landing-page citation metadata gives Ahmed Hassan for the final author, while the supplied BibTeX expands the name to Ahmed Hassan Awadallah; the PDF uses Ahmed Awadallah.
+- Venue: Findings of the Association for Computational Linguistics: ACL 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 6300-6323
+- DOI: 10.18653/v1/2025.findings-acl.326
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. Landing-page citation metadata gives Ahmed Hassan for the final author, while the supplied BibTeX expands the name to Ahmed Hassan Awadallah; the PDF uses Ahmed Awadallah.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.326/, https://aclanthology.org/2025.findings-acl.326.pdf
 
 ### Recorded arXiv snapshot
@@ -2797,13 +2797,13 @@ Qinzhuo Wu, Wei Liu, Jian Luan, Bin Wang
 - Publication source: https://aclanthology.org/2025.naacl-long.244/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2502-02955/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2502-02955/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 4760-4775
-- doi: 10.18653/v1/2025.naacl-long.244
-- date basis: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 4760-4775
+- DOI: 10.18653/v1/2025.naacl-long.244
+- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.naacl-long.244/
 
 ### Recorded arXiv snapshot
@@ -3023,13 +3023,13 @@ Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, Shuyan Zhou, Jeffrey P. Bi
 - Publication source: https://aclanthology.org/2025.naacl-demo.17/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2501-16609/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2501-16609/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)
-- publisher: Association for Computational Linguistics
-- pages: 163-172
-- doi: 10.18653/v1/2025.naacl-demo.17
-- date basis: The ACL Anthology citation_publication_date is 2025/4, and its visible Month/Year fields state April 2025. Only month precision is supplied; no day is inferred from conference dates.
-- identity basis: The retained arXiv v4 abstract page explicitly links this DOI. The ACL publication has the same complete title and the same seven authors in the same order, and describes the same CowPilot human-agent navigation framework. This attaches the proceedings edition to the existing arXiv identity.
-- notes: The April 2025 proceedings edition is distinct from the retained arXiv v4, last revised on 2026-02-27. The publisher abstract has minor wording and typesetting differences from the retained arXiv abstract; neither its text nor its date replaces the original arXiv snapshot or annotation. Exact publication day, numeric volume, issue and series are not established.
+- Venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)
+- Publisher: Association for Computational Linguistics
+- Pages: 163-172
+- DOI: 10.18653/v1/2025.naacl-demo.17
+- Date source: The ACL Anthology citation_publication_date is 2025/4, and its visible Month/Year fields state April 2025. Only month precision is supplied; no day is inferred from conference dates.
+- Identity basis: The retained arXiv v4 abstract page explicitly links this DOI. The ACL publication has the same complete title and the same seven authors in the same order, and describes the same CowPilot human-agent navigation framework. This attaches the proceedings edition to the existing arXiv identity.
+- Source notes: The April 2025 proceedings edition is distinct from the retained arXiv v4, last revised on 2026-02-27. The publisher abstract has minor wording and typesetting differences from the retained arXiv abstract; neither its text nor its date replaces the original arXiv snapshot or annotation. Exact publication day, numeric volume, issue and series are not established.
 - Publication evidence: https://arxiv.org/abs/2501.16609v4, https://aclanthology.org/2025.naacl-demo.17/
 
 ### Recorded arXiv snapshot
@@ -3123,10 +3123,6 @@ Reviews 87 computer-use agents and 33 datasets through a taxonomy of operating d
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2501.16150
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-16150/record.json
 
 ### Authors
@@ -3194,11 +3190,11 @@ The card describes supervised learning for screen perception and input control, 
 - Publication source: https://openai.com/index/operator-system-card
 - Publication BibTeX: https://awesomecua.com/resources/url-24bc39ed487b311108ae/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-24bc39ed487b311108ae/publication-citation.csl.json
-- venue: OpenAI
-- publisher: OpenAI
-- date basis: Date printed on the PDF title page: January 23, 2025; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the openai.com page answers scripted requests with HTTP 403, and the facts come from the PDF that OpenAI serves from its CDN.
-- notes: OpenAI system card PDF for Operator, the Computer-Using Agent research preview.
+- Venue: OpenAI
+- Publisher: OpenAI
+- Date source: Date printed on the PDF title page: January 23, 2025; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the openai.com page answers scripted requests with HTTP 403, and the facts come from the PDF that OpenAI serves from its CDN.
+- Source notes: OpenAI system card PDF for Operator, the Computer-Using Agent research preview.
 - Publication evidence: https://cdn.openai.com/operator_system_card.pdf
 
 ### License declarations

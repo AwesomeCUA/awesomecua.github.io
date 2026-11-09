@@ -12,10 +12,6 @@ Browser automation agent on the AG2 framework that pairs a planner agent with a 
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:emergenceai/agent-e
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-emergenceai-agent-e/record.json
 
 ## License declarations

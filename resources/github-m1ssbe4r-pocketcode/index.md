@@ -12,10 +12,6 @@ On-device Android AI coding and automation agent capable of building and running
 - Evidence checked: 2026-11-04T17:30:44Z
 - ID: github:m1ssbe4r/pocketcode
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-m1ssbe4r-pocketcode/record.json
 
 ## License declarations

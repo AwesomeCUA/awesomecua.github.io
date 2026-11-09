@@ -12,10 +12,6 @@ Automates verified reasoning handoffs between local OpenAI Codex sessions and Ch
 - Evidence checked: 2026-11-04T17:55:16Z
 - ID: github:anightmonarch/codex-bridge-chatgpt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anightmonarch-codex-bridge-chatgpt/record.json
 
 ## License declarations

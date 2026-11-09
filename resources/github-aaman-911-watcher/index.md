@@ -12,10 +12,6 @@ Prompt-injection defense classifier, evaluation benchmark, and defended browser 
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:aaman-911/watcher
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aaman-911-watcher/record.json
 
 ## License declarations

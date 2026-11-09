@@ -12,10 +12,6 @@ Local-first, policy-governed action layer for Linux desktop automation with prev
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:frezzaroukos/axon-os
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-frezzaroukos-axon-os/record.json
 
 ## License declarations

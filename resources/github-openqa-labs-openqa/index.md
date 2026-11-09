@@ -12,10 +12,6 @@ OpenQA is an open-source agentic browser testing harness that executes natural-l
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:openqa-labs/openqa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openqa-labs-openqa/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ AI-Player is a Minecraft Fabric mod that embeds an LLM/VLM-driven autonomous sec
 - Evidence checked: 2026-11-04T13:12:35Z
 - ID: github:shasankp000/ai-player
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shasankp000-ai-player/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Persistent multimodal desktop agent with explicit runtime state management, prio
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:yeyvhaiou/crimson-heart
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yeyvhaiou-crimson-heart/record.json
 
 ## License declarations

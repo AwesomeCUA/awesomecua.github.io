@@ -20,10 +20,10 @@ The publisher's cleaned v2 release is a separate Hub repository (webagentlab/web
 
 ## Structured profile
 
-- formats: zipped JSON, split ZIP image archives, Parquet
-- modalities: viewport screenshots, partial full-page screenshots, HTML snapshots, accessibility-tree snapshots, instructions, actions
-- splits: high-level train, high-level test, low-level train, low-level test
-- supervision: human-executed web task trajectories, element bounding boxes and click coordinates, CSS selectors and DOM references, action types and input text, generated rationales where included
+- Formats: zipped JSON, split ZIP image archives, Parquet
+- Modalities: viewport screenshots, partial full-page screenshots, HTML snapshots, accessibility-tree snapshots, instructions, actions
+- Splits: high-level train, high-level test, low-level train, low-level test
+- Supervision: human-executed web task trajectories, element bounding boxes and click coordinates, CSS selectors and DOM references, action types and input text, generated rationales where included
 
 ### Count observations
 

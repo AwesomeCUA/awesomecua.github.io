@@ -12,10 +12,6 @@ Claude Code plugin that accelerates Claude in Chrome browser tasks by batching D
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:cr1707/claude-chrome-speed
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cr1707-claude-chrome-speed/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Agentic test-automation platform running plain-language test cases from pixels o
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:69d6afe38a9a128ba9f7
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/record.json
 
 ## License declarations

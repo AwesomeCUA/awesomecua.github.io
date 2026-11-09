@@ -12,10 +12,6 @@ Curated directory of open-source AI agent platforms, digital coworkers, and brow
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:agenta-ai/awesome-ai-agent-platforms
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agenta-ai-awesome-ai-agent-platforms/record.json
 
 ## License declarations

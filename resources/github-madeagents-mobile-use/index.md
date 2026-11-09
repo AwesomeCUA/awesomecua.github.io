@@ -12,10 +12,6 @@ Android GUI agent that operates real phones through ADB with hierarchical reflec
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:madeagents/mobile-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-madeagents-mobile-use/record.json
 
 ## License declarations

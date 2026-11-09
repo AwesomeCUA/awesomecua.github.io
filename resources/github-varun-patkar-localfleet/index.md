@@ -12,10 +12,6 @@ Local-first team of AI desktop and browser bots coordinated through a unified ch
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:varun-patkar/localfleet
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-varun-patkar-localfleet/record.json
 
 ## License declarations

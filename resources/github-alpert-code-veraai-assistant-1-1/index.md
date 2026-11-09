@@ -12,10 +12,6 @@ Turkish-speaking Windows desktop voice and GUI automation assistant powered by P
 - Evidence checked: 2026-11-04T17:20:52Z
 - ID: github:alpert-code/veraai-assistant-1.1
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alpert-code-veraai-assistant-1-1/record.json
 
 ## License declarations

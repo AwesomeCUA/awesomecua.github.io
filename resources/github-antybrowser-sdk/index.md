@@ -12,10 +12,6 @@ Official multi-language SDKs (TypeScript, Python, C#, Go, PHP, Ruby) for driving
 - Evidence checked: 2026-11-04T18:11:51Z
 - ID: github:antybrowser/sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-antybrowser-sdk/record.json
 
 ## License declarations

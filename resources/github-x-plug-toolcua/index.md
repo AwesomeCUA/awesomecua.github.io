@@ -12,10 +12,6 @@ ToolCUA trains computer-use agents to orchestrate hybrid MCP tool invocations an
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:x-plug/toolcua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-x-plug-toolcua/record.json
 
 ## License declarations

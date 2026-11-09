@@ -20,11 +20,11 @@ The card YAML at revision 727c857b lists one eval split of 3,120 examples in fou
 
 ## Structured profile
 
-- actions: predicted target location
-- evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
-- focus: step-level web GUI element localization, robustness to visual and instruction perturbations
-- observations: rendered web-page screenshots, natural-language instructions
-- setting: offline
+- Actions / outputs: predicted target location
+- Evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
+- Focus: step-level web GUI element localization, robustness to visual and instruction perturbations
+- Observations: rendered web-page screenshots, natural-language instructions
+- Setting: offline
 
 ### Count observations
 

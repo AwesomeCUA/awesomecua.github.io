@@ -20,11 +20,11 @@ Platform code from the xlang-ai organization; the repository description and REA
 
 ## Structured profile
 
-- actions: agent-defined desktop actions
-- evaluation: After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the aggregation backend remains outside this repository.
-- focus: human pairwise preference between computer-use agents, open-ended user-written tasks
-- observations: live Ubuntu or Windows virtual machine desktop shown to the user through VNC, agent-defined observations of that desktop
-- setting: interactive
+- Actions / outputs: agent-defined desktop actions
+- Evaluation: After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the aggregation backend remains outside this repository.
+- Focus: human pairwise preference between computer-use agents, open-ended user-written tasks
+- Observations: live Ubuntu or Windows virtual machine desktop shown to the user through VNC, agent-defined observations of that desktop
+- Setting: interactive
 
 ### Count observations
 

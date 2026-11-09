@@ -12,10 +12,6 @@ macOS-native Model Context Protocol server for low-latency desktop awareness com
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:harshil1502/jarvis-eyes-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-harshil1502-jarvis-eyes-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Model Context Protocol server giving Claude a persistent, multi-profile logged-i
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:ahsaanfarooq/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ahsaanfarooq-browser-agent/record.json
 
 ## License declarations

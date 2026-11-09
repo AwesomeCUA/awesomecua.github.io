@@ -12,10 +12,6 @@ OmniParser-powered GUI agent plugin for DeepSeek Harness providing screen elemen
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:xiaozhengdeng/dsh_omnivision
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiaozhengdeng-dsh-omnivision/record.json
 
 ## License declarations

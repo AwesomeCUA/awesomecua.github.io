@@ -12,10 +12,6 @@ Terminator is an accessibility-first desktop automation SDK and MCP server for c
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:mediar-ai/terminator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mediar-ai-terminator/record.json
 
 ## License declarations

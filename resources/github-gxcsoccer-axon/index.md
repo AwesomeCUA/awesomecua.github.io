@@ -12,10 +12,6 @@ macOS computer-use automation server and CLI exposing Accessibility API element 
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:gxcsoccer/axon
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gxcsoccer-axon/record.json
 
 ## License declarations

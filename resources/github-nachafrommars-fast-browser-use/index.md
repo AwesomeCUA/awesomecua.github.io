@@ -12,10 +12,6 @@ Rust-based browser automation engine driving Chrome over CDP with built-in anti-
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:nachafrommars/fast-browser-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nachafrommars-fast-browser-use/record.json
 
 ## License declarations

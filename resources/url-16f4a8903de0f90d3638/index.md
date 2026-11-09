@@ -35,13 +35,13 @@ Surgan Jandial, Yinheng Li, Justin Wagle, Kazuhito Koishida
 - Publication source: https://aclanthology.org/2026.findings-eacl.144
 - Publication BibTeX: https://awesomecua.com/resources/url-16f4a8903de0f90d3638/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-16f4a8903de0f90d3638/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: EACL 2026
-- publisher: Association for Computational Linguistics
-- pages: 2772-2785
-- doi: 10.18653/v1/2026.findings-eacl.144
-- date basis: Crossref issued date 2026; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACL Anthology edition in Findings of EACL 2026.
+- Venue: Findings of the Association for Computational Linguistics: EACL 2026
+- Publisher: Association for Computational Linguistics
+- Pages: 2772-2785
+- DOI: 10.18653/v1/2026.findings-eacl.144
+- Date source: Crossref issued date 2026; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACL Anthology edition in Findings of EACL 2026.
 - Publication evidence: https://api.crossref.org/works/10.18653/v1/2026.findings-eacl.144, https://aclanthology.org/2026.findings-eacl.144/
 
 ## License declarations

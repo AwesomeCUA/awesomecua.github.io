@@ -12,10 +12,6 @@ Safety-first starter template for building visible-browser Hermes computer-use a
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:delltrak/plow-hermes-agent-template
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-delltrak-plow-hermes-agent-template/record.json
 
 ## License declarations

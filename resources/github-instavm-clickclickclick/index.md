@@ -12,10 +12,6 @@ ClickClickClick is a framework for autonomous Android and desktop computer use s
 - Evidence checked: 2026-11-04T14:02:37Z
 - ID: github:instavm/clickclickclick
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-instavm-clickclickclick/record.json
 
 ## License declarations

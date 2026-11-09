@@ -12,10 +12,6 @@ Autonomous, lightweight browser smoke-testing daemon written in Rust for continu
 - Evidence checked: 2026-11-04T17:55:19Z
 - ID: github:shantodotdev/sitewarden
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shantodotdev-sitewarden/record.json
 
 ## License declarations

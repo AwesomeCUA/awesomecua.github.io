@@ -12,10 +12,6 @@ Mobile agent research using accumulated interaction experience.
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:westlake-agi-lab/appagentx
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-westlake-agi-lab-appagentx/record.json
 
 ## License declarations

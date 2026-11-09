@@ -1,4 +1,4 @@
-# Computer-use agent agents, page 2
+# Computer-use agents, page 2
 
 HTML page: https://awesomecua.com/categories/agent/page/2/
 

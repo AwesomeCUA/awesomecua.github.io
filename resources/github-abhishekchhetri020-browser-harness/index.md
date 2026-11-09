@@ -12,10 +12,6 @@ Thin, editable Chrome DevTools Protocol harness connecting LLM agents to a user'
 - Evidence checked: 2026-11-04T16:10:32Z
 - ID: github:abhishekchhetri020/browser-harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-abhishekchhetri020-browser-harness/record.json
 
 ## License declarations

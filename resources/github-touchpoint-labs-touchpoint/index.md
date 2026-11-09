@@ -12,10 +12,6 @@ Touchpoint is a cross-platform desktop accessibility API and MCP server giving A
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:touchpoint-labs/touchpoint
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Evaluates GPT-4o-mini on OSWorld desktop automation tasks comparing screenshot-o
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:suraj-ranganath/osworld-gpt4o-mini-benchmark
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/record.json
 
 ## License declarations

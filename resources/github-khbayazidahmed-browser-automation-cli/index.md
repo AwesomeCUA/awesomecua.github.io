@@ -12,10 +12,6 @@ Zero-dependency browser automation CLI and visual workflow recorder.
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:khbayazidahmed/browser-automation-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-khbayazidahmed-browser-automation-cli/record.json
 
 ## License declarations

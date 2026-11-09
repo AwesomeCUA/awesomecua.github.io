@@ -12,10 +12,6 @@ Flash Computer Use is a hybrid browser DOM and native OS accessibility MCP serve
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:shortsspectrumai-del/flash-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shortsspectrumai-del-flash-computer-use/record.json
 
 ## License declarations

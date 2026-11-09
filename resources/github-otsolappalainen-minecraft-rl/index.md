@@ -12,10 +12,6 @@ Trains Proximal Policy Optimization (PPO) agents over visual frame buffers and a
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:otsolappalainen/minecraft-rl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-otsolappalainen-minecraft-rl/record.json
 
 ## License declarations

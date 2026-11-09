@@ -12,10 +12,6 @@ Provides a zero-dependency Python device I/O and trajectory instrumentation laye
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:chbq/mobile-gui-vla-device-platform
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chbq-mobile-gui-vla-device-platform/record.json
 
 ## License declarations

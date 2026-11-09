@@ -12,10 +12,6 @@ DualKey enforces deterministic policy checks, human approvals, and cryptographic
 - Evidence checked: 2026-11-04T16:10:29Z
 - ID: github:wadekeith/dualkey-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wadekeith-dualkey-agent/record.json
 
 ## License declarations

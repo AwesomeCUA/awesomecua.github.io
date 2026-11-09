@@ -12,10 +12,6 @@ Desktop GUI automation platform combining a Rust execution core, Python SDK, MCP
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:yygg693/autocomputer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yygg693-autocomputer/record.json
 
 ## License declarations

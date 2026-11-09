@@ -12,10 +12,6 @@ Durable local exchange transport bridging ChatGPT Desktop and Web sessions with 
 - Evidence checked: 2026-11-04T17:55:13Z
 - ID: github:mattiadepaoli-hash/bridgedef
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mattiadepaoli-hash-bridgedef/record.json
 
 ## License declarations

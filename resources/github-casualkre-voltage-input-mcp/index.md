@@ -12,10 +12,6 @@ Two-layer local input engine for MCP where a frontier planning model dispatches 
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:casualkre/voltage-input-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/record.json
 
 ## License declarations

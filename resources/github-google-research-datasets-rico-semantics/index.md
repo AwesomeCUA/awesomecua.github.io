@@ -12,10 +12,6 @@ RICO Semantics provides 500,000 human annotations on RICO mobile screens coverin
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:google-research-datasets/rico_semantics
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/record.json
 
 ## License declarations

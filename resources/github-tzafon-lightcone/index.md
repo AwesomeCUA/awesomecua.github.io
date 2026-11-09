@@ -12,10 +12,6 @@ Lightcone is Tzafon's Python and TypeScript SDK for building computer-use agents
 - Evidence checked: 2026-11-04T15:45:42Z
 - ID: github:tzafon/lightcone
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tzafon-lightcone/record.json
 
 ## License declarations

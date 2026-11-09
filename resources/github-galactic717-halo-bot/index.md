@@ -12,10 +12,6 @@ Self-hosted named AI teammates running in sandboxed desktop and browser environm
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:galactic717/halo-bot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-galactic717-halo-bot/record.json
 
 ## License declarations

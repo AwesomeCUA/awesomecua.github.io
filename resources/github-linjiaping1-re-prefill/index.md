@@ -12,10 +12,6 @@ Re-Prefill calibrates prefill visual attention representations in vision-languag
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:linjiaping1/re-prefill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-linjiaping1-re-prefill/record.json
 
 ## License declarations

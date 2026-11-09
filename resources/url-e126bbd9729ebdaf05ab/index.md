@@ -20,10 +20,10 @@ The card and public manifest identify separate policy-model and world-model JSON
 
 ## Structured profile
 
-- formats: JSONL
-- modalities: not recorded
-- splits: not recorded
-- supervision: agent-policy supervised fine-tuning, web-world-model supervised fine-tuning
+- Formats: JSONL
+- Modalities: not recorded
+- Splits: not recorded
+- Supervision: agent-policy supervised fine-tuning, web-world-model supervised fine-tuning
 
 ### Count observations
 

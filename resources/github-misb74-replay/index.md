@@ -12,10 +12,6 @@ Converts human screen demonstrations of real desktop and web work into verifiabl
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:misb74/replay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-misb74-replay/record.json
 
 ## License declarations

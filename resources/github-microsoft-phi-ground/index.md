@@ -12,10 +12,6 @@ Microsoft GUI grounding models from an empirical study of grounding training, fr
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:microsoft/phi-ground
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-phi-ground/record.json
 
 ## License declarations

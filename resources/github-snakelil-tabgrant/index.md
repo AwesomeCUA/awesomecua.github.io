@@ -12,10 +12,6 @@ User-granted, local-first capability broker that delegates scoped browser tab pe
 - Evidence checked: 2026-11-04T17:55:13Z
 - ID: github:snakelil/tabgrant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-snakelil-tabgrant/record.json
 
 ## License declarations

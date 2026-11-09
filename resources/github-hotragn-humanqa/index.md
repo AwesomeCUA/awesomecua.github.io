@@ -12,10 +12,6 @@ Evidence-first product quality and UX evaluation harness for testing web applica
 - Evidence checked: 2026-11-04T17:20:52Z
 - ID: github:hotragn/humanqa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hotragn-humanqa/record.json
 
 ## License declarations

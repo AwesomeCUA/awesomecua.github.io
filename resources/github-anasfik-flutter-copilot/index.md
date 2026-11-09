@@ -12,10 +12,6 @@ In-app SDK that exposes Flutter widget trees and semantic actions directly to AI
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:anasfik/flutter_copilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anasfik-flutter-copilot/record.json
 
 ## License declarations

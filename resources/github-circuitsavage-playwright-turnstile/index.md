@@ -12,10 +12,6 @@ Playwright integration for resolving Cloudflare Turnstile challenges via token i
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:circuitsavage/playwright-turnstile
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-circuitsavage-playwright-turnstile/record.json
 
 ## License declarations

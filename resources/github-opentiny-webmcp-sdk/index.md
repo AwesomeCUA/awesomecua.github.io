@@ -12,10 +12,6 @@ OpenTiny NEXT-SDKs implements in-page WebMCP servers, polyfills, and WebSkills s
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:opentiny/webmcp-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opentiny-webmcp-sdk/record.json
 
 ## License declarations

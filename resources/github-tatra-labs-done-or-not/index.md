@@ -12,10 +12,6 @@ done-or-not is an offline benchmark of 910 computer-use trajectories across thre
 - Evidence checked: 2026-11-04T14:20:17Z
 - ID: github:tatra-labs/done-or-not
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tatra-labs-done-or-not/record.json
 
 ## License declarations

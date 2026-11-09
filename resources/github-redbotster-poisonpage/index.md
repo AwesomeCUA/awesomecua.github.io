@@ -12,10 +12,6 @@ Adversarial testbed demonstrating indirect prompt injection and API-key exfiltra
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:redbotster/poisonpage
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-redbotster-poisonpage/record.json
 
 ## License declarations

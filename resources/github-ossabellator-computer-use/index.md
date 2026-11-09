@@ -12,10 +12,6 @@ Bounded computer-use runtime and semantic browser engine with explicit capabilit
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:ossabellator/computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ossabellator-computer-use/record.json
 
 ## License declarations

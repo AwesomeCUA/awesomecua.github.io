@@ -12,10 +12,6 @@ AppClaw is a mobile automation agent for Android and iOS that executes natural-l
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:appclawhq/appclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-appclawhq-appclaw/record.json
 
 ## License declarations

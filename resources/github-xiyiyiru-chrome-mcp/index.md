@@ -12,10 +12,6 @@ Model Context Protocol server for browser automation built on DrissionPage.
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:xiyiyiru/chrome-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiyiyiru-chrome-mcp/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ Public JSONL annotations and screenshots are present. MIT is declared in the dat
 
 ## Structured profile
 
-- formats: JSONL, PNG
-- modalities: screenshots, text, actions
-- splits: not recorded
-- supervision: GUI action trajectories
+- Formats: JSONL, PNG
+- Modalities: screenshots, text, actions
+- Splits: not recorded
+- Supervision: GUI action trajectories
 
 ### Count observations
 

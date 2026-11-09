@@ -12,10 +12,6 @@ Personal computer-use and browser agent controlled via text messages to execute 
 - Evidence checked: 2026-11-04T17:55:10Z
 - ID: github:iabdulwasey/nell
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-iabdulwasey-nell/record.json
 
 ## License declarations

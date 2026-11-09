@@ -12,10 +12,6 @@ Agent-agnostic real-browser control bridge built on GenericAgent's TMWebDriver a
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:zhou-weixin/ga-tmwd-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zhou-weixin-ga-tmwd-browser/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Multimodal browser reliability runtime for failure diagnosis, policy-aware recov
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:oosuhada/browser-reliability-runtime
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/record.json
 
 ## License declarations

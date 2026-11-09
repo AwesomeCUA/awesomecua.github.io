@@ -12,10 +12,6 @@ Model Context Protocol server and SDK for driving Electron desktop applications 
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:electron-stagewright/electron-stagewright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-electron-stagewright-electron-stagewright/record.json
 
 ## License declarations

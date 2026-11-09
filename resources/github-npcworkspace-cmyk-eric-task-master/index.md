@@ -12,10 +12,6 @@ Durable Playwright and Chrome task runner that keeps long-horizon browser jobs r
 - Evidence checked: 2026-11-04T17:30:40Z
 - ID: github:npcworkspace-cmyk/eric-task-master
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-npcworkspace-cmyk-eric-task-master/record.json
 
 ## License declarations

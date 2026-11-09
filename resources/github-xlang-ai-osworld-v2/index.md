@@ -12,10 +12,6 @@ OSWorld 2.0 benchmarks computer-use agents on long-horizon desktop workflows wit
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:xlang-ai/osworld-v2
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-osworld-v2/record.json
 
 ## License declarations

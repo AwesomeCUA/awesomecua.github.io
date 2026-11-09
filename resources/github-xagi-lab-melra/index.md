@@ -12,10 +12,6 @@ Modular Execution Layer for Reliable Autonomy (MELRA), a local MCP runtime that 
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:xagi-lab/melra
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xagi-lab-melra/record.json
 
 ## License declarations

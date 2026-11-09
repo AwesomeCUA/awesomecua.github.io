@@ -12,10 +12,6 @@ Verification protocol that binds human approval to target DOM state, aborting cl
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:scalar-atelier/browser-action-receipt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/record.json
 
 ## License declarations

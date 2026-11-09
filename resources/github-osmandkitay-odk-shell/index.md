@@ -12,10 +12,6 @@ ODK Shell is an open-source natural-language computer control shell that transla
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:osmandkitay/odk-shell
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osmandkitay-odk-shell/record.json
 
 ## License declarations

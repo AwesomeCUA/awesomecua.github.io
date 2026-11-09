@@ -12,10 +12,6 @@ Browser-control agent combining Manus's flat 12-tool action architecture with lo
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:painbaba/strawmanus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-painbaba-strawmanus/record.json
 
 ## License declarations

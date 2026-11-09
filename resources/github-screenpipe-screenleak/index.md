@@ -12,10 +12,6 @@ ScreenLeak is a multimodal benchmark for measuring sensitive-information detecti
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:screenpipe/screenleak
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-screenpipe-screenleak/record.json
 
 ## License declarations

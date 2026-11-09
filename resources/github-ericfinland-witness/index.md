@@ -12,10 +12,6 @@ Local-first observability and execution trace recorder for AI browser agents.
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:ericfinland/witness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ericfinland-witness/record.json
 
 ## License declarations

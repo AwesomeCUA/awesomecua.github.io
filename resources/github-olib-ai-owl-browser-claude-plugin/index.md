@@ -12,10 +12,6 @@ Claude Code plugin for Owl Browser providing handle-indexed page reading and age
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:olib-ai/owl-browser-claude-plugin
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-olib-ai-owl-browser-claude-plugin/record.json
 
 ## License declarations

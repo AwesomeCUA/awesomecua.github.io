@@ -12,10 +12,6 @@ Model Context Protocol server that lets AI agents inspect live React component s
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:edgarbnt/reactsentinel
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-edgarbnt-reactsentinel/record.json
 
 ## License declarations

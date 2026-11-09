@@ -12,10 +12,6 @@ AriaOS provisions a dedicated virtual machine desktop where computer-use agents 
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:jeremie225ci/ariaos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jeremie225ci-ariaos/record.json
 
 ## License declarations

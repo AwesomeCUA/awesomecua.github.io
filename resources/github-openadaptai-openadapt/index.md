@@ -12,10 +12,6 @@ Tools for learning and automating workflows from desktop demonstrations.
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:openadaptai/openadapt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt/record.json
 
 ## License declarations

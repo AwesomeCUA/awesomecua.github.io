@@ -12,10 +12,6 @@ Desktop browser where every identity runs in an isolated Chromium partition for 
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:leek-emperor/personae
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-leek-emperor-personae/record.json
 
 ## License declarations

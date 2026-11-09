@@ -35,13 +35,13 @@ Wei Li, Fu-Lin Hsu, William Bishop, Folawiyo Campbell-Ajala, Max Lin, Oriana Riv
 - Publication source: https://aclanthology.org/2024.naacl-industry.4/
 - Publication BibTeX: https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/publication-citation.csl.json
-- venue: Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)
-- publisher: Association for Computational Linguistics
-- pages: 36-51
-- doi: 10.18653/v1/2024.naacl-industry.4
-- date basis: Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive. An arXiv preprint of the same work (2312.10170, journal reference NAACL 2024 Industry Track) exists but is not retained, so this publisher edition seeds the record.
-- notes: Publisher proceedings edition (NAACL 2024 Industry Track). The publisher metadata lists 'William Bishop'; the PDF and the arXiv preprint print 'Will Bishop'.
+- Venue: Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)
+- Publisher: Association for Computational Linguistics
+- Pages: 36-51
+- DOI: 10.18653/v1/2024.naacl-industry.4
+- Date source: Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive. An arXiv preprint of the same work (2312.10170, journal reference NAACL 2024 Industry Track) exists but is not retained, so this publisher edition seeds the record.
+- Source notes: Publisher proceedings edition (NAACL 2024 Industry Track). The publisher metadata lists 'William Bishop'; the PDF and the arXiv preprint print 'Will Bishop'.
 - Publication evidence: https://aclanthology.org/2024.naacl-industry.4/
 
 ## License declarations

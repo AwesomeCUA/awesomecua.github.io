@@ -20,10 +20,10 @@ This is the benchmark data asset, distinct from its evaluation-code repository. 
 
 ## Structured profile
 
-- formats: JSON annotations, screen images
-- modalities: high-resolution screenshots, instructions, bounding boxes
-- splits: not recorded
-- supervision: GUI grounding
+- Formats: JSON annotations, screen images
+- Modalities: high-resolution screenshots, instructions, bounding boxes
+- Splits: not recorded
+- Supervision: GUI grounding
 
 ### Count observations
 

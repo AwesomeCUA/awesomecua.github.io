@@ -12,10 +12,6 @@ Python-based voice and GUI desktop automation assistant for Windows.
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:aashutoshkumarr/ai-desktop-assistant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aashutoshkumarr-ai-desktop-assistant/record.json
 
 ## License declarations

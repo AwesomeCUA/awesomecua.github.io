@@ -12,10 +12,6 @@ CrewAI is a Python framework for orchestrating role-playing autonomous AI agent 
 - Evidence checked: 2026-11-04T13:12:20Z
 - ID: github:joaomdmoura/crewai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-joaomdmoura-crewai/record.json
 
 ## License declarations

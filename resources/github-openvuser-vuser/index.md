@@ -12,10 +12,6 @@ Vuser is an open frontend interaction protocol standardizing browser-use, deskto
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:openvuser/vuser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openvuser-vuser/record.json
 
 ## License declarations

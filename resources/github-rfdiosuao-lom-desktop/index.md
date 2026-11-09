@@ -12,10 +12,6 @@ Lom is an open-source multi-agent workspace coordinating desktop coding agents w
 - Evidence checked: 2026-11-04T15:03:44Z
 - ID: github:rfdiosuao/lom-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rfdiosuao-lom-desktop/record.json
 
 ## License declarations

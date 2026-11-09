@@ -35,13 +35,13 @@ Juyeon Yoon, Robert Feldt, Shin Yoo
 - Publication source: https://ieeexplore.ieee.org/abstract/document/10638557
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2311-08649/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2311-08649/publication-citation.csl.json
-- venue: 2024 IEEE Conference on Software Testing, Verification and Validation (ICST)
-- publisher: IEEE
-- pages: 129-139
-- doi: 10.1109/icst60714.2024.00020
-- date basis: Crossref issued date 2024-5-27; precision=day.
-- identity basis: Same work as the retained arXiv record: the arXiv title is a rewording of the ICST title, and both list the same three authors.
-- notes: IEEE ICST 2024 edition of the arXiv preprint; Crossref links the DOI to IEEE Xplore document 10638557.
+- Venue: 2024 IEEE Conference on Software Testing, Verification and Validation (ICST)
+- Publisher: IEEE
+- Pages: 129-139
+- DOI: 10.1109/icst60714.2024.00020
+- Date source: Crossref issued date 2024-5-27; precision=day.
+- Identity basis: Same work as the retained arXiv record: the arXiv title is a rewording of the ICST title, and both list the same three authors.
+- Source notes: IEEE ICST 2024 edition of the arXiv preprint; Crossref links the DOI to IEEE Xplore document 10638557.
 - Publication evidence: https://api.crossref.org/works/10.1109/icst60714.2024.00020
 
 ## Recorded arXiv snapshot

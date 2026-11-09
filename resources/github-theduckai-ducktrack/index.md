@@ -12,10 +12,6 @@ DuckTrack records synchronized screen video and low-level mouse and keyboard eve
 - Evidence checked: 2026-11-04T13:12:39Z
 - ID: github:theduckai/ducktrack
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-theduckai-ducktrack/record.json
 
 ## License declarations

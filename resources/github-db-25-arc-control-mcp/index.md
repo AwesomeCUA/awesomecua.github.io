@@ -12,10 +12,6 @@ Model Context Protocol server that drives the Arc browser on macOS, including sp
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:db-25/arc-control-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-db-25-arc-control-mcp/record.json
 
 ## License declarations

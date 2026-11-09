@@ -20,10 +20,10 @@ The card is titled TongUI-143K. The TongUI training docs list this repository be
 
 ## Structured profile
 
-- formats: LLaMA-Factory JSON conversations, multipart ZIP image archive
-- modalities: screenshots, instructions, reasoning traces, actions
-- splits: training collection
-- supervision: GUI grounding coordinates, GUI navigation steps with thoughts and actions
+- Formats: LLaMA-Factory JSON conversations, multipart ZIP image archive
+- Modalities: screenshots, instructions, reasoning traces, actions
+- Splits: training collection
+- Supervision: GUI grounding coordinates, GUI navigation steps with thoughts and actions
 
 ### Count observations
 

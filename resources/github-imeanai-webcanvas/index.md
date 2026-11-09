@@ -12,10 +12,6 @@ Framework and evaluation resources for real-world web agents.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:imeanai/webcanvas
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-imeanai-webcanvas/record.json
 
 ## License declarations

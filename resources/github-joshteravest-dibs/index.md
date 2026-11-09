@@ -12,10 +12,6 @@ Local coordination hub and lock manager that lets multiple AI agents reserve and
 - Evidence checked: 2026-11-04T18:11:47Z
 - ID: github:joshteravest/dibs
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-joshteravest-dibs/record.json
 
 ## License declarations

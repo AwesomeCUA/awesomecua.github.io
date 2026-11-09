@@ -12,10 +12,6 @@ Label Controllers is a screenshot-to-controls API combining YOLO widget detectio
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:amywlp/label-controllers
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amywlp-label-controllers/record.json
 
 ## License declarations

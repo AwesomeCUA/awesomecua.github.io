@@ -12,10 +12,6 @@ Automation MCP is a macOS Model Context Protocol server that provides AI agents 
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:ashwwwin/automation-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ashwwwin-automation-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Odin is a macOS computer automation agent combining vision LLMs, Accessibility c
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:madanlalit/odin
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-madanlalit-odin/record.json
 
 ## License declarations

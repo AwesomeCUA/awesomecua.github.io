@@ -20,10 +20,10 @@ Public Hub manifest contains JSONL task files and trajectory ZIP packages. Count
 
 ## Structured profile
 
-- formats: JSONL, ZIP trajectory packages
-- modalities: screenshots, task instructions, LLM thoughts, commands
-- splits: train (osworld configuration), train (insta configuration)
-- supervision: synthetic tasks, agent trajectories
+- Formats: JSONL, ZIP trajectory packages
+- Modalities: screenshots, task instructions, LLM thoughts, commands
+- Splits: train (osworld configuration), train (insta configuration)
+- Supervision: synthetic tasks, agent trajectories
 
 ### Count observations
 

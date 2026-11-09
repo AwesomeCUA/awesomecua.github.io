@@ -12,10 +12,6 @@ Zero-dependency Chrome DevTools Protocol runtime for AI agents to drive headless
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:rakeshnirzari1/agentdock
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rakeshnirzari1-agentdock/record.json
 
 ## License declarations

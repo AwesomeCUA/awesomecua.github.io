@@ -12,10 +12,6 @@ Language Agent Tree Search (LATS) unifies LLM reasoning, acting, and Monte Carlo
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:lapisrocks/languageagenttreesearch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lapisrocks-languageagenttreesearch/record.json
 
 ## License declarations

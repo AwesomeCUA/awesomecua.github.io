@@ -12,10 +12,6 @@ Browser-automation MCP server with an interactive visual overlay that lets users
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:surrealmindai/frontprompt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-surrealmindai-frontprompt/record.json
 
 ## License declarations

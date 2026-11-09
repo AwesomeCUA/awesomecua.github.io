@@ -12,10 +12,6 @@ Local-first Chrome side panel and bridge connecting Claude Code, Cursor, and Cod
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:15273/devscope-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-15273-devscope-bridge/record.json
 
 ## License declarations

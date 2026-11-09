@@ -12,10 +12,6 @@ Fathom is an execution harness for mobile computer-use agents that translates pl
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:drizzdev/fathom
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-drizzdev-fathom/record.json
 
 ## License declarations

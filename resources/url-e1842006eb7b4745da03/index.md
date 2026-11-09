@@ -35,12 +35,12 @@ Yihong Chen, Shuai Wang, Yaqing Wang, Quanming Yao
 - Publication source: https://doi.org/10.36227/techrxiv.176591818.87526814/v1
 - Publication BibTeX: https://awesomecua.com/resources/url-e1842006eb7b4745da03/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-e1842006eb7b4745da03/publication-citation.csl.json
-- venue: TechRxiv
-- publisher: Institute of Electrical and Electronics Engineers (IEEE)
-- doi: 10.36227/techrxiv.176591818.87526814/v1
-- date basis: Crossref posted date for the version 1 DOI is 2025-12-16; precision=day. TechRxiv lists this as version 1 and the latest version.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and title searches of arXiv and OpenAlex found no arXiv version, so this TechRxiv preprint seeds the record.
-- notes: A TechRxiv preprint that has not been peer reviewed. Crossref deposits it as posted content with subtype preprint under the IEEE prefix and a CC BY 4.0 license. The DOI resolves only with its /v1 suffix. TechRxiv answers scripted requests with HTTP 403, so the PDF link is retained as published without a fetched receipt.
+- Venue: TechRxiv
+- Publisher: Institute of Electrical and Electronics Engineers (IEEE)
+- DOI: 10.36227/techrxiv.176591818.87526814/v1
+- Date source: Crossref posted date for the version 1 DOI is 2025-12-16; precision=day. TechRxiv lists this as version 1 and the latest version.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and title searches of arXiv and OpenAlex found no arXiv version, so this TechRxiv preprint seeds the record.
+- Source notes: A TechRxiv preprint that has not been peer reviewed. Crossref deposits it as posted content with subtype preprint under the IEEE prefix and a CC BY 4.0 license. The DOI resolves only with its /v1 suffix. TechRxiv answers scripted requests with HTTP 403, so the PDF link is retained as published without a fetched receipt.
 - Publication evidence: https://api.crossref.org/works/10.36227/techrxiv.176591818.87526814/v1
 
 ## License declarations

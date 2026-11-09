@@ -35,12 +35,12 @@ Bowen Wang, Xinyuan Wang, Jiaqi Deng, Tianbao Xie, Ryan Li, Yanzhe Zhang, Junli 
 - Publication source: https://openreview.net/forum?id=3x4SDbXbgl
 - Publication BibTeX: https://awesomecua.com/resources/url-5cfd441becdfc6ea622b/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-5cfd441becdfc6ea622b/publication-citation.csl.json
-- venue: International Conference on Learning Representations 2026 (ICLR 2026)
-- volume: 2026
-- pages: 58008-58068
-- date basis: Publisher citation_publication_date metadata on the ICLR proceedings page states 2026-04-20; precision=day.
-- identity basis: Same work: the ICLR 2026 proceedings page carries the same title, nineteen authors and abstract as OpenReview note 3x4SDbXbgl (venue ICLR 2026 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.
-- notes: Authors follow the proceedings page listing. The PDF byline and OpenReview print the eleventh author as Toh Jing Hua, and the PDF byline lists Ion Stoica before Wei-Lin Chiang. The record URL is the OpenReview forum; the proceedings page is the retained receipt. No DOI is given.
+- Venue: International Conference on Learning Representations 2026 (ICLR 2026)
+- Volume: 2026
+- Pages: 58008-58068
+- Date source: Publisher citation_publication_date metadata on the ICLR proceedings page states 2026-04-20; precision=day.
+- Identity basis: Same work: the ICLR 2026 proceedings page carries the same title, nineteen authors and abstract as OpenReview note 3x4SDbXbgl (venue ICLR 2026 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.
+- Source notes: Authors follow the proceedings page listing. The PDF byline and OpenReview print the eleventh author as Toh Jing Hua, and the PDF byline lists Ion Stoica before Wei-Lin Chiang. The record URL is the OpenReview forum; the proceedings page is the retained receipt. No DOI is given.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2026/hash/5f1d328711b162e1cf9896c7d6aaecdd-Abstract-Conference.html
 
 ## License declarations

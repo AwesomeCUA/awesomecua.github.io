@@ -12,10 +12,6 @@ BRYES decouples a high-level reasoning planner ('Brain') from swappable visual p
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:alvseek/bryes
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alvseek-bryes/record.json
 
 ## License declarations

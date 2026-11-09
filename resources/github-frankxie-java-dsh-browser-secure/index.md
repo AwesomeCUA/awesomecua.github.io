@@ -12,10 +12,6 @@ Security-hardened fork of `dsh-browser` for DeepSeek Harness adding audit loggin
 - Evidence checked: 2026-11-04T17:55:19Z
 - ID: github:frankxie-java/dsh-browser-secure
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/record.json
 
 ## License declarations

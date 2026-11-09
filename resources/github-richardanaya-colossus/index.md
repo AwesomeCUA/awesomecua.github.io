@@ -12,10 +12,6 @@ Colossus is a voice-controlled multi-agent development platform for coordinating
 - Evidence checked: 2026-11-04T13:12:33Z
 - ID: github:richardanaya/colossus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-richardanaya-colossus/record.json
 
 ## License declarations

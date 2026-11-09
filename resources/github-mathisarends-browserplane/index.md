@@ -12,10 +12,6 @@ Reference control plane for scaling remote Chromium browsers with a Postgres-bac
 - Evidence checked: 2026-11-04T18:11:34Z
 - ID: github:mathisarends/browserplane
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mathisarends-browserplane/record.json
 
 ## License declarations

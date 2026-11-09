@@ -12,10 +12,6 @@ Native OS agent runtime for Linux desktops providing system-wide screen observat
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:cufelix/lai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cufelix-lai/record.json
 
 ## License declarations

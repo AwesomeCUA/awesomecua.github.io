@@ -12,10 +12,6 @@ Provides an OpenAI-compatible Qwen2.5-VL computer-use agent and multi-environmen
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:issumer-ku/osworld-qwen2.5vl-enhanced
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-issumer-ku-osworld-qwen2-5vl-enhanced/record.json
 
 ## License declarations

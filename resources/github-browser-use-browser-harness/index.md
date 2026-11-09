@@ -12,10 +12,6 @@ Browser Harness by Browser Use lets Claude Code, Codex, and Cursor drive the use
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:browser-use/browser-harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-use-browser-harness/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Demonstration-driven intent translator that carries user workflow preferences ac
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:midorikuramochi/intent-relay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-midorikuramochi-intent-relay/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Adapts Anthropic Claude Computer Use on macOS with continuous movement and camer
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:observedobserver/claude-minecraft-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-observedobserver-claude-minecraft-use/record.json
 
 ## License declarations

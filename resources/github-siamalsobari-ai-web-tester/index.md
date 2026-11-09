@@ -12,10 +12,6 @@ Autonomous browser testing, QA matrix execution, and console/network telemetry t
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:siamalsobari/ai-web-tester
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-siamalsobari-ai-web-tester/record.json
 
 ## License declarations

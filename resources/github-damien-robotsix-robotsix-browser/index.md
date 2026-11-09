@@ -12,10 +12,6 @@ Interactive Playwright headless-browser and form-filling HTTP service for AI age
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:damien-robotsix/robotsix-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ LLM Scraper is a TypeScript library that uses Playwright and schema-constrained 
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:mishushakov/llm-scraper
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mishushakov-llm-scraper/record.json
 
 ## License declarations

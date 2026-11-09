@@ -12,10 +12,6 @@ PhoneClaw turns iOS and Android smartphones into local AI agent runtimes with on
 - Evidence checked: 2026-11-04T15:45:55Z
 - ID: github:kellyvv/phoneclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kellyvv-phoneclaw/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Voice-driven desktop assistant and automation agent packaged on PyPI for hands-f
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:afraidsoul76/voxie
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-afraidsoul76-voxie/record.json
 
 ## License declarations

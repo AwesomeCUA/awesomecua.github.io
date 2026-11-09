@@ -12,10 +12,6 @@ agent-desktop is a Rust CLI that exposes cross-platform OS accessibility trees a
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:lahfir/agent-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lahfir-agent-desktop/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ OpenWebVoyager trains multimodal web navigation agents through iterative real-wo
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:minorjerry/openwebvoyager
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-minorjerry-openwebvoyager/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Agent evaluation suite with containerized tasks and a function-calling interface
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:thudm/agentbench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-agentbench/record.json
 
 ## License declarations

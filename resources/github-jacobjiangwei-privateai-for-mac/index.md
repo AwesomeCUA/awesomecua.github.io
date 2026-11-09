@@ -12,10 +12,6 @@ Native macOS local AI agent powered by Ollama with system control, file tools, a
 - Evidence checked: 2026-11-04T17:55:09Z
 - ID: github:jacobjiangwei/privateai-for-mac
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jacobjiangwei-privateai-for-mac/record.json
 
 ## License declarations

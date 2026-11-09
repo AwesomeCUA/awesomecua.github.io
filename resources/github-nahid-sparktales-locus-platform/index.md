@@ -12,10 +12,6 @@ Shared agent runtime, protocol contracts, and browser bridge for the Locus autom
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:nahid-sparktales/locus-platform
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nahid-sparktales-locus-platform/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Rust Model Context Protocol server for Windows desktop automation providing nati
 - Evidence checked: 2026-11-04T16:30:04Z
 - ID: github:jxoesneon/ultrawin-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jxoesneon-ultrawin-mcp/record.json
 
 ## License declarations

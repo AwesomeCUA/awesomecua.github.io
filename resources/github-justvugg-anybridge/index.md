@@ -12,10 +12,6 @@ Captures a website's authenticated network calls from a live browser session and
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:justvugg/anybridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-justvugg-anybridge/record.json
 
 ## License declarations

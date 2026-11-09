@@ -20,10 +20,10 @@ This is the Hub data release; the repository record github:dongping-chen/gui-wor
 
 ## Structured profile
 
-- formats: MP4 and MOV video files, JSONL annotations
-- modalities: screen-recording videos, text annotations
-- splits: train, benchmark
-- supervision: GUI-oriented question-answer annotations
+- Formats: MP4 and MOV video files, JSONL annotations
+- Modalities: screen-recording videos, text annotations
+- Splits: train, benchmark
+- Supervision: GUI-oriented question-answer annotations
 
 ### Count observations
 

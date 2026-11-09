@@ -12,10 +12,6 @@ MP-GUI provides multimodal perception training and evaluation code with graphica
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:bigtaige/mp-gui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bigtaige-mp-gui/record.json
 
 ## License declarations

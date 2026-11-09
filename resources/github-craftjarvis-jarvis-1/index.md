@@ -12,10 +12,6 @@ JARVIS-1 is an open-world multimodal Minecraft agent with episodic multimodal me
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:craftjarvis/jarvis-1
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-craftjarvis-jarvis-1/record.json
 
 ## License declarations

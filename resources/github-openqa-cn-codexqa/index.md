@@ -12,10 +12,6 @@ Suite of 11 local-first QA Agent Skills for Cursor, Claude Code, and Codex to ve
 - Evidence checked: 2026-11-04T18:11:44Z
 - ID: github:openqa-cn/codexqa
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openqa-cn-codexqa/record.json
 
 ## License declarations

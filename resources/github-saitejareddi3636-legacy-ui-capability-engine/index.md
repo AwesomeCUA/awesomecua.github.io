@@ -12,10 +12,6 @@ Learns a legacy browser workflow once with an LLM and compiles it into a verifie
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:saitejareddi3636/legacy-ui-capability-engine
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-saitejareddi3636-legacy-ui-capability-engine/record.json
 
 ## License declarations

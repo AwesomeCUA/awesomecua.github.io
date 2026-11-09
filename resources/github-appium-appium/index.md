@@ -12,10 +12,6 @@ Open-source WebDriver-based automation server for mobile, desktop and IoT apps, 
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:appium/appium
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-appium-appium/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Computer-use automation infrastructure for legacy financial software that compil
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:ashishkosana/agent-hands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ashishkosana-agent-hands/record.json
 
 ## License declarations

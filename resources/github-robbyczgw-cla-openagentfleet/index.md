@@ -12,10 +12,6 @@ Local-first multi-agent desktop platform with named AI coworkers and a watchable
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:robbyczgw-cla/openagentfleet
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-robbyczgw-cla-openagentfleet/record.json
 
 ## License declarations

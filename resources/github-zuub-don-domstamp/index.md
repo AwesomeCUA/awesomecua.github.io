@@ -12,10 +12,6 @@ Framework-neutral browser-state snapshotter capturing compact, diffable DOM and 
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:zuub-don/domstamp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zuub-don-domstamp/record.json
 
 ## License declarations

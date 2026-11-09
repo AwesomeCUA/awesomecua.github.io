@@ -12,10 +12,6 @@ VillagerAgent provides a directed-acyclic-graph multi-agent coordinator and the 
 - Evidence checked: 2026-11-04T13:12:10Z
 - ID: github:cnsdqd-dyb/villageragent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ browserkit is a TypeScript framework for building site-specific MCP servers that
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:browserkit-dev/browserkit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browserkit-dev-browserkit/record.json
 
 ## License declarations

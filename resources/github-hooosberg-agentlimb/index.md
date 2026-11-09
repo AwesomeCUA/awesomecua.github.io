@@ -12,10 +12,6 @@ Chrome extension and local bridge that lets Claude Code, Cursor, and Codex drive
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:hooosberg/agentlimb
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hooosberg-agentlimb/record.json
 
 ## License declarations

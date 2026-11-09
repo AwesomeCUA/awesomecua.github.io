@@ -12,10 +12,6 @@ EyeBrowse is a stealthy, LLM-drivable browser engine providing both a Python lib
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:evil-bane/eyebrowse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-evil-bane-eyebrowse/record.json
 
 ## License declarations

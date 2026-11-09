@@ -12,10 +12,6 @@ Reproducible harness for Sparse Autoencoder (SAE) feature steering and live inte
 - Evidence checked: 2026-11-04T16:10:37Z
 - ID: github:kalyvask/inside-the-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kalyvask-inside-the-agent/record.json
 
 ## License declarations

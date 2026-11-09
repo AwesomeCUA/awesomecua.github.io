@@ -12,10 +12,6 @@ Chrome extension and lightweight CLI allowing local AI agents to read and contro
 - Evidence checked: 2026-11-04T18:11:38Z
 - ID: github:memel06/yurei
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-memel06-yurei/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Octopus is a vision-language programmer agent trained with environmental feedbac
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:dongyh20/octopus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dongyh20-octopus/record.json
 
 ## License declarations

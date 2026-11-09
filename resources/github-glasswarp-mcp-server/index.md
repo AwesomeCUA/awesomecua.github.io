@@ -12,10 +12,6 @@ Remote Model Context Protocol server for observing and controlling physical or v
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:glasswarp/mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-glasswarp-mcp-server/record.json
 
 ## License declarations

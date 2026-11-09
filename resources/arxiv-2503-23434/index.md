@@ -12,10 +12,6 @@ Frames GUI-agent trustworthiness as an execution gap and reviews failures, attac
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2503.23434
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-23434/record.json
 
 ## Authors

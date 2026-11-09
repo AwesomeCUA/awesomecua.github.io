@@ -12,10 +12,6 @@ Open-source macOS notch assistant and runtime for grounded, model-agnostic compu
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:hussainn7/plip-oss
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hussainn7-plip-oss/record.json
 
 ## License declarations

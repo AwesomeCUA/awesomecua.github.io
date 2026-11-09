@@ -20,10 +20,10 @@ The public manifest exposes JSON/JSONL data for planner and actor roles, includi
 
 ## Structured profile
 
-- formats: JSON, JSONL
-- modalities: text, plans, actions
-- splits: train (QwQ-32B files), validation (QwQ-32B files)
-- supervision: high-level plans, action execution
+- Formats: JSON, JSONL
+- Modalities: text, plans, actions
+- Splits: train (QwQ-32B files), validation (QwQ-32B files)
+- Supervision: high-level plans, action execution
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Closed-loop visual desktop RPA runtime that drives isolated terminal and GUI app
 - Evidence checked: 2026-11-04T18:11:51Z
 - ID: github:hab99/rpa-desktop-canal-visual
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hab99-rpa-desktop-canal-visual/record.json
 
 ## License declarations

@@ -20,11 +20,11 @@ Documented by a March 2026 blog post at webarena.dev; the README cites that post
 
 ## Structured profile
 
-- actions: browser-use element actions, mouse click, drag and scroll, key press and typing
-- evaluation: Before each task the harness posts /api/reset; after the agent finishes, the task's Python verifier reads the app state from GET /api/state and returns pass or fail with a message. Tasks are graded easy, medium or hard, and the blog reports success rate per agent.
-- focus: browser agents on generated replicas of real web applications, programmatic state verification of task outcomes
-- observations: DOM-derived page state through browser-use (screenshots optional), screenshots
-- setting: interactive
+- Actions / outputs: browser-use element actions, mouse click, drag and scroll, key press and typing
+- Evaluation: Before each task the harness posts /api/reset; after the agent finishes, the task's Python verifier reads the app state from GET /api/state and returns pass or fail with a message. Tasks are graded easy, medium or hard, and the blog reports success rate per agent.
+- Focus: browser agents on generated replicas of real web applications, programmatic state verification of task outcomes
+- Observations: DOM-derived page state through browser-use (screenshots optional), screenshots
+- Setting: interactive
 
 ### Count observations
 

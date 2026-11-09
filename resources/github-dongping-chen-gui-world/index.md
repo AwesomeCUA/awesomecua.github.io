@@ -12,18 +12,14 @@ GUI video benchmark and training data covering six scenarios, from Android and i
 - Evidence checked: 2026-10-16T06:40:52Z
 - ID: github:dongping-chen/gui-world
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dongping-chen-gui-world/record.json
 
 ## Structured profile
 
-- formats: not recorded
-- modalities: videos, frame images, text
-- splits: train, test
-- supervision: GUI video question answering, temporal interface understanding
+- Formats: not recorded
+- Modalities: videos, frame images, text
+- Splits: train, test
+- Supervision: GUI video question answering, temporal interface understanding
 
 ### Count observations
 

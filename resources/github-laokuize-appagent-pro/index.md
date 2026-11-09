@@ -12,10 +12,6 @@ Proactive Android agent built on AppAgent that uses GPT-4o to decide whether You
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:laokuize/appagent-pro
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-laokuize-appagent-pro/record.json
 
 ## License declarations

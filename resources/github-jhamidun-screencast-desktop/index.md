@@ -12,10 +12,6 @@ Claude Code plugin where an agent drives a Windows desktop application and recor
 - Evidence checked: 2026-11-04T17:30:44Z
 - ID: github:jhamidun/screencast-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jhamidun-screencast-desktop/record.json
 
 ## License declarations

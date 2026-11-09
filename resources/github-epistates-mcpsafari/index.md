@@ -12,10 +12,6 @@ Native macOS Safari Model Context Protocol server allowing AI agents to inspect 
 - Evidence checked: 2026-11-04T15:45:53Z
 - ID: github:epistates/mcpsafari
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-epistates-mcpsafari/record.json
 
 ## License declarations

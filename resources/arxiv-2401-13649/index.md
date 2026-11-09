@@ -35,13 +35,13 @@ Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huan
 - Publication source: https://aclanthology.org/2024.acl-long.50/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2401-13649/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2401-13649/publication-citation.csl.json
-- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 881-905
-- doi: 10.18653/v1/2024.acl-long.50
-- date basis: Explicit publisher metadata: 2024/8; precision=month.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The formal PDF title adds Visually Grounded; the landing metadata uses Visual Web Tasks. PDF authors include Ming Chong Lim and Ruslan Salakhutdinov; the landing abbreviates them to Ming Lim and Russ Salakhutdinov. Publication title/authors use the PDF; the retained arXiv title remains unchanged. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 881-905
+- DOI: 10.18653/v1/2024.acl-long.50
+- Date source: Explicit publisher metadata: 2024/8; precision=month.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The formal PDF title adds Visually Grounded; the landing metadata uses Visual Web Tasks. PDF authors include Ming Chong Lim and Ruslan Salakhutdinov; the landing abbreviates them to Ming Lim and Russ Salakhutdinov. Publication title/authors use the PDF; the retained arXiv title remains unchanged. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://aclanthology.org/2024.acl-long.50/, https://aclanthology.org/2024.acl-long.50.pdf
 
 ## Recorded arXiv snapshot

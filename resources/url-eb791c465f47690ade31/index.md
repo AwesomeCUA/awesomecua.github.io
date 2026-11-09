@@ -35,15 +35,15 @@ Abdul Wali, Saipunidzam Mahamad, Suziah Sulaiman
 - Publication source: https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review
 - Publication BibTeX: https://awesomecua.com/resources/url-eb791c465f47690ade31/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-eb791c465f47690ade31/publication-citation.csl.json
-- venue: Future Internet
-- publisher: MDPI AG
-- volume: 15
-- issue: 6
-- pages: 196
-- doi: 10.3390/fi15060196
-- date basis: Crossref issued date 2023-5-29; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.
+- Venue: Future Internet
+- Publisher: MDPI AG
+- Volume: 15
+- Issue: 6
+- Pages: 196
+- DOI: 10.3390/fi15060196
+- Date source: Crossref issued date 2023-5-29; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.
 - Publication evidence: https://api.crossref.org/works/10.3390/fi15060196
 
 ## License declarations

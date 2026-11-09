@@ -12,10 +12,6 @@ Playwright CLI provides a token-efficient command-line interface and skill set f
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:microsoft/playwright-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-playwright-cli/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Macuse MCP is a native macOS Model Context Protocol server granting AI agents di
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:macuse-app/macuse-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-macuse-app-macuse-mcp/record.json
 
 ## License declarations

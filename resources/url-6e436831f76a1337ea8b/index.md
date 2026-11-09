@@ -35,13 +35,13 @@ Iat Long Iong, Xiao Liu, Yuxuan Chen, Hanyu Lai, Shuntian Yao, Pengbo Shen, Hao 
 - Publication source: https://aclanthology.org/2024.acl-demos.8/
 - Publication BibTeX: https://awesomecua.com/resources/url-6e436831f76a1337ea8b/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-6e436831f76a1337ea8b/publication-citation.csl.json
-- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)
-- publisher: Association for Computational Linguistics
-- pages: 72-81
-- doi: 10.18653/v1/2024.acl-demos.8
-- date basis: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
-- notes: Publisher proceedings edition (ACL 2024 System Demonstrations).
+- Venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)
+- Publisher: Association for Computational Linguistics
+- Pages: 72-81
+- DOI: 10.18653/v1/2024.acl-demos.8
+- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
+- Source notes: Publisher proceedings edition (ACL 2024 System Demonstrations).
 - Publication evidence: https://aclanthology.org/2024.acl-demos.8/
 
 ## License declarations

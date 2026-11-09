@@ -12,10 +12,6 @@ LMMs-Eval is a standardized evaluation harness for large multimodal models cover
 - Evidence checked: 2026-11-04T13:12:14Z
 - ID: github:evolvinglmms-lab/lmms-eval
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/record.json
 
 ## License declarations

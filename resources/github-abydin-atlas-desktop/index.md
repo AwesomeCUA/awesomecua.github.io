@@ -12,10 +12,6 @@ macOS desktop-control CLI that reads any application's UI hierarchy as structure
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:abydin/atlas-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-abydin-atlas-desktop/record.json
 
 ## License declarations

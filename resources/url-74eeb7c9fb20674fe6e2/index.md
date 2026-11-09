@@ -12,10 +12,6 @@ Computer-using model introduced with the Operator research preview.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:74eeb7c9fb20674fe6e2
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-74eeb7c9fb20674fe6e2/record.json
 
 ## License declarations

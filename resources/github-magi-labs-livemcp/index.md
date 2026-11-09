@@ -12,10 +12,6 @@ Manifest V3 Chrome extension and MCP hub that lets AI agents operate the user's 
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:magi-labs/livemcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-magi-labs-livemcp/record.json
 
 ## License declarations

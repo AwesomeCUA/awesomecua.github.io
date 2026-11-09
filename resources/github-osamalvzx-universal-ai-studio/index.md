@@ -12,10 +12,6 @@ All-in-one desktop AI studio integrating multi-model LLM chat, computer use, and
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:osamalvzx/universal-ai-studio
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osamalvzx-universal-ai-studio/record.json
 
 ## License declarations

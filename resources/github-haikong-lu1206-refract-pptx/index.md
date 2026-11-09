@@ -12,10 +12,6 @@ Agent-guided generation and multi-dimensional visual evaluation benchmark for ed
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:haikong-lu1206/refract-pptx
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/record.json
 
 ## License declarations

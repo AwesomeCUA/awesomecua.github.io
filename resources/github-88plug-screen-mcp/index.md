@@ -12,10 +12,6 @@ Linux Wayland computer-use MCP server for Claude Code and Grok providing screens
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:88plug/screen-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-88plug-screen-mcp/record.json
 
 ## License declarations

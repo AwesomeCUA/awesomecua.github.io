@@ -12,10 +12,6 @@ Model Context Protocol server and Chrome extension bridging AI assistants to liv
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:xinqi5921/ai-browser-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xinqi5921-ai-browser-bridge/record.json
 
 ## License declarations

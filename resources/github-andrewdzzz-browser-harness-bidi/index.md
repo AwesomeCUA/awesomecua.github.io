@@ -12,10 +12,6 @@ WebDriver BiDi-first browser automation harness connecting LLMs directly to live
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:andrewdzzz/browser-harness-bidi
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-andrewdzzz-browser-harness-bidi/record.json
 
 ## License declarations

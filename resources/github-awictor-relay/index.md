@@ -12,10 +12,6 @@ Autonomous web agent paired with a self-hosted browser that executes tasks dispa
 - Evidence checked: 2026-11-04T17:30:44Z
 - ID: github:awictor/relay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-awictor-relay/record.json
 
 ## License declarations

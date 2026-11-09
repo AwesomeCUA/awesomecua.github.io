@@ -12,10 +12,6 @@ Human-in-the-loop Windows desktop automation runtime with MCP support, bounded f
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:peiwenzhang-git/ai-work
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-peiwenzhang-git-ai-work/record.json
 
 ## License declarations

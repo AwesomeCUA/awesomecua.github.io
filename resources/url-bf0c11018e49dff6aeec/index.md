@@ -35,11 +35,11 @@ Allen Cypher
 - Publication source: https://acypher.com/Publications/CHI91/EagerCHI.html
 - Publication BibTeX: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/publication-citation.csl.json
-- venue: Proceedings of CHI '91
-- pages: 33-39
-- date basis: Supplied year precision: 1991. Opening CHI 1991 citation and copyright
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS. DOI not verified in a retained first-party source. Exact publication month/day is not inferred from conference dates.
+- Venue: Proceedings of CHI '91
+- Pages: 33-39
+- Date source: Supplied year precision: 1991. Opening CHI 1991 citation and copyright
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS. DOI not verified in a retained first-party source. Exact publication month/day is not inferred from conference dates.
 - Publication evidence: https://acypher.com/Eager/, https://acypher.com/Publications/CHI91/EagerCHI.html
 
 ## License declarations

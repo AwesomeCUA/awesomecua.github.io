@@ -35,15 +35,15 @@ Xing Han Lù, Zdeněk Kasner, Siva Reddy
 - Publication source: https://proceedings.mlr.press/v235/lu24e.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-05930/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-05930/publication-citation.csl.json
-- venue: Proceedings of the 41st International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 235
-- pages: 33007-33056
-- date basis: Explicit publisher metadata: 2024/07/08; precision=day.
-- event dates: 21--27 Jul 2024
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 41st International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 235
+- Pages: 33007-33056
+- Date source: Explicit publisher metadata: 2024/07/08; precision=day.
+- Event dates: 21--27 Jul 2024
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v235/lu24e.html, https://raw.githubusercontent.com/mlresearch/v235/main/assets/lu24e/lu24e.pdf
 
 ## Recorded arXiv snapshot

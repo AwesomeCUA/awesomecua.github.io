@@ -12,10 +12,6 @@ Agent Skills package for stealth browser automation using CloakBrowser and Playw
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:paldom/playwright-stealth
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-paldom-playwright-stealth/record.json
 
 ## License declarations

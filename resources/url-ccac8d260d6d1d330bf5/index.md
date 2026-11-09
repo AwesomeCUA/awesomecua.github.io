@@ -20,10 +20,10 @@ Released by the web-arena-x organization. The card cites a project page (webaren
 
 ## Structured profile
 
-- formats: JSON, PNG
-- modalities: browser screenshots, task instructions, agent reasoning, actions
-- splits: not recorded
-- supervision: agent-generated successful trajectories, programmatic state-verifier outcomes
+- Formats: JSON, PNG
+- Modalities: browser screenshots, task instructions, agent reasoning, actions
+- Splits: not recorded
+- Supervision: agent-generated successful trajectories, programmatic state-verifier outcomes
 
 ### Count observations
 

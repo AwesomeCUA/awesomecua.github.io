@@ -12,10 +12,6 @@ Browser LLM Perf compares browser automation CLIs (CraftDriver vs Playwright CLI
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:dtopuzov/browser-llm-perf
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/record.json
 
 ## License declarations

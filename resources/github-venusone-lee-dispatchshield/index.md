@@ -12,10 +12,6 @@ macOS utility that keeps a Mac awake for unattended computer-use agents while sh
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:venusone-lee/dispatchshield
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-venusone-lee-dispatchshield/record.json
 
 ## License declarations

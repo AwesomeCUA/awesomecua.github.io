@@ -12,10 +12,6 @@ glassbox is an iOS and iPadOS computer-use runtime that drives physical iPhones 
 - Evidence checked: 2026-11-04T16:10:37Z
 - ID: github:yoyicue/glassbox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yoyicue-glassbox/record.json
 
 ## License declarations

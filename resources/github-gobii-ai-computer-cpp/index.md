@@ -12,10 +12,6 @@ computer.cpp turns native desktop GUI applications into structured, API-callable
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:gobii-ai/computer.cpp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gobii-ai-computer-cpp/record.json
 
 ## License declarations

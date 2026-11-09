@@ -12,10 +12,6 @@ Gemini capability for generating interface actions from screenshots.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:879d4e3e75e83582bde6
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-879d4e3e75e83582bde6/record.json
 
 ## License declarations

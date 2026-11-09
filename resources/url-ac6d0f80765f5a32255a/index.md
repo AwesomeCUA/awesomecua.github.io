@@ -20,11 +20,11 @@ Two public Parquet shards are present. Card metadata reports 776 test rows, wher
 
 ## Structured profile
 
-- actions: candidate-decision preference
-- evaluation: Compare reward-model preferences with the provided chosen/rejected decision labels; no independent score was reproduced.
-- focus: web process-reward evaluation
-- observations: page screenshots, text observations, action history, task checklists
-- setting: offline
+- Actions / outputs: candidate-decision preference
+- Evaluation: Compare reward-model preferences with the provided chosen/rejected decision labels; no independent score was reproduced.
+- Focus: web process-reward evaluation
+- Observations: page screenshots, text observations, action history, task checklists
+- Setting: offline
 
 ### Count observations
 

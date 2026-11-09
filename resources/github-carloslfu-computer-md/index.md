@@ -12,10 +12,6 @@ Defines an open `COMPUTER.md` machine specification and runtime for LLM agents t
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:carloslfu/computer.md
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-carloslfu-computer-md/record.json
 
 ## License declarations

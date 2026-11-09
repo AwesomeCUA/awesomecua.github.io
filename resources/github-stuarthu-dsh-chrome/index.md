@@ -12,10 +12,6 @@ Chrome side-panel companion that embeds the DeepSeek Harness UI and bridges the 
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:stuarthu/dsh-chrome
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-stuarthu-dsh-chrome/record.json
 
 ## License declarations

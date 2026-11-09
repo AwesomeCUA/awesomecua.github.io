@@ -12,10 +12,6 @@ BrowseWebApp Bench evaluates browser agents across 100 realistic web workflows s
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:visnia-ai/browsewebapp-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-visnia-ai-browsewebapp-bench/record.json
 
 ## License declarations

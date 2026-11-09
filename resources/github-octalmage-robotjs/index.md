@@ -12,10 +12,6 @@ RobotJS is a native Node.js desktop automation library for controlling the mouse
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:octalmage/robotjs
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-octalmage-robotjs/record.json
 
 ## License declarations

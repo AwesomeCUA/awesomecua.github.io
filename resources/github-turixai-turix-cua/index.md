@@ -12,10 +12,6 @@ TuriX-CUA is a multi-agent desktop automation framework for macOS and Windows co
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:turixai/turix-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-turixai-turix-cua/record.json
 
 ## License declarations

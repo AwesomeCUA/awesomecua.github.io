@@ -12,10 +12,6 @@ Provides verified desktop control for AI agents on Windows and Linux across nati
 - Evidence checked: 2026-11-04T16:10:29Z
 - ID: github:northtekdevs/ghost
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-northtekdevs-ghost/record.json
 
 ## License declarations

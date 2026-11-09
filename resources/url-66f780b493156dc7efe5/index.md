@@ -20,10 +20,10 @@ Each row is one action step with the page state before the action; tasks are dis
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: webpage screenshots, raw and cleaned HTML, task descriptions, action histories
-- splits: train, test_task, test_website, test_domain
-- supervision: target operation per step (CLICK, TYPE or SELECT with value), positive and negative candidate elements
+- Formats: Parquet
+- Modalities: webpage screenshots, raw and cleaned HTML, task descriptions, action histories
+- Splits: train, test_task, test_website, test_domain
+- Supervision: target operation per step (CLICK, TYPE or SELECT with value), positive and negative candidate elements
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Vision-enabled browser automation plugin for DeepSeek Harness combining Browser-
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:tristan-mcinnis/dsh-browser-vision
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tristan-mcinnis-dsh-browser-vision/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Read-only Claude browser assistant that inspects live webpages and suggests UX a
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:heinevwinston-bot/pagelens
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-heinevwinston-bot-pagelens/record.json
 
 ## License declarations

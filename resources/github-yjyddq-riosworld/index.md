@@ -12,10 +12,6 @@ Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual m
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:yjyddq/riosworld
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yjyddq-riosworld/record.json
 
 ## License declarations

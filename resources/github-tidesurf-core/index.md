@@ -12,10 +12,6 @@ TideSurf connects Chromium to LLM agents via compact structured DOM compression 
 - Evidence checked: 2026-11-04T15:45:50Z
 - ID: github:tidesurf/core
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tidesurf-core/record.json
 
 ## License declarations

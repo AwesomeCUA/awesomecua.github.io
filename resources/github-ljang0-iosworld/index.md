@@ -12,19 +12,15 @@ Native iPhone-simulator benchmark with shared user data, application workflows, 
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:ljang0/iosworld
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ljang0-iosworld/record.json
 
 ## Structured profile
 
-- actions: touch actions, MCP tools (optional)
-- evaluation: Rubric satisfaction per task; full-task pass requires every criterion to be satisfied.
-- focus: personalized phone tasks, cross-app workflows
-- observations: screenshots, accessibility XML (optional)
-- setting: interactive
+- Actions / outputs: touch actions, MCP tools (optional)
+- Evaluation: Rubric satisfaction per task; full-task pass requires every criterion to be satisfied.
+- Focus: personalized phone tasks, cross-app workflows
+- Observations: screenshots, accessibility XML (optional)
+- Setting: interactive
 
 ### Count observations
 

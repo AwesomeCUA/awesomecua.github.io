@@ -12,10 +12,6 @@ CLI-driven Playwright and Chromium browser with terminal DevTools for humans and
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:hiyokosauna37/kb-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hiyokosauna37-kb-browser/record.json
 
 ## License declarations

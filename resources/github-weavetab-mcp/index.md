@@ -12,10 +12,6 @@ Open automation engine and MCP server for controlling live web browsers and desk
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:weavetab/mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-weavetab-mcp/record.json
 
 ## License declarations

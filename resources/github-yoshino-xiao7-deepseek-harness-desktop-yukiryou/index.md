@@ -12,10 +12,6 @@ Enhanced desktop client distribution for DeepSeek Harness with pre-integrated co
 - Evidence checked: 2026-11-04T17:20:46Z
 - ID: github:yoshino-xiao7/deepseek-harness-desktop-yukiryou
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/record.json
 
 ## License declarations

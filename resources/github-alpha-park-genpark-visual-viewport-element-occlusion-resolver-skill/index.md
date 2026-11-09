@@ -12,10 +12,6 @@ Agent skill that detects viewport element occlusion and dismisses blocking modal
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:alpha-park/genpark-visual-viewport-element-occlusion-resolver-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alpha-park-genpark-visual-viewport-element-occlusion-resolver-skill/record.json
 
 ## License declarations

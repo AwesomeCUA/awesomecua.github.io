@@ -12,10 +12,6 @@ AI-oriented browser automation runtime and CLI exposing compact DOM observations
 - Evidence checked: 2026-11-04T17:20:48Z
 - ID: github:icueth/browser-for-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-icueth-browser-for-ai/record.json
 
 ## License declarations

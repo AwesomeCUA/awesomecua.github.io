@@ -12,10 +12,6 @@ MVP improves GUI visual grounding by aggregating multi-view coordinate predictio
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:zjuscl/mvp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zjuscl-mvp/record.json
 
 ## License declarations

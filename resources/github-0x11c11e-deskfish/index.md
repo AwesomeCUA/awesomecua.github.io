@@ -12,10 +12,6 @@ Deskfish is a VS Code extension that gives AI agents an isolated virtual desktop
 - Evidence checked: 2026-11-04T14:41:54Z
 - ID: github:0x11c11e/deskfish
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-0x11c11e-deskfish/record.json
 
 ## License declarations

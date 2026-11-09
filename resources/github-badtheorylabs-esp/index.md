@@ -12,10 +12,6 @@ Stateful, event-driven screen-perception runtime that converts UI changes into c
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:badtheorylabs/esp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-badtheorylabs-esp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Talox is a stateful Playwright browser runtime for AI agents with stealth intera
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:avant-iconic/talox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-avant-iconic-talox/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Hermes Connector is a Chrome extension that bridges Hermes Agent to the user's l
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:corsenai/hermes-connector
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-corsenai-hermes-connector/record.json
 
 ## License declarations

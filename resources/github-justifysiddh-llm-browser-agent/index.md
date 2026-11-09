@@ -12,10 +12,6 @@ Self-healing browser automation framework that replaces brittle CSS selectors wi
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:justifysiddh/llm-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-justifysiddh-llm-browser-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ MCP Windows Desktop Automation is a TypeScript Model Context Protocol server exp
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:mario-andreschak/mcp-windows-desktop-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mario-andreschak-mcp-windows-desktop-automation/record.json
 
 ## License declarations

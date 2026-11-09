@@ -12,10 +12,6 @@ Protean turns everyday human desktop and browser demonstrations into reusable, a
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:aibrain-mnemis/protean
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aibrain-mnemis-protean/record.json
 
 ## License declarations

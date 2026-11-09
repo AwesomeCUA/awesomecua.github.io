@@ -20,10 +20,10 @@ Ten public Parquet shards are present. The card names its split test and reports
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: screenshots, text, action history
-- splits: test
-- supervision: preferred and rejected continuations, task checklists
+- Formats: Parquet
+- Modalities: screenshots, text, action history
+- Splits: test
+- Supervision: preferred and rejected continuations, task checklists
 
 ### Count observations
 

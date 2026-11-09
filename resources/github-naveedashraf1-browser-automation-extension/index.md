@@ -12,10 +12,6 @@ Chrome extension, HTTP API, and MCP server exposing 185 commands and smart selec
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:naveedashraf1/browser-automation-extension
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-naveedashraf1-browser-automation-extension/record.json
 
 ## License declarations

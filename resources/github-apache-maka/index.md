@@ -12,10 +12,6 @@ Apache Maka is an agent workspace for macOS that records verifiable execution tr
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:apache/maka
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-apache-maka/record.json
 
 ## License declarations

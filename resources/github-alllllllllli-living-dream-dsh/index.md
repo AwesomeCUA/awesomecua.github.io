@@ -12,10 +12,6 @@ DeepSeek Harness desktop configuration bundle integrating 8+ MCP servers for bro
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:alllllllllli/living-dream-dsh
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alllllllllli-living-dream-dsh/record.json
 
 ## License declarations

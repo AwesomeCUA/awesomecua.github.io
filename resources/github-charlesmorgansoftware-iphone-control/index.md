@@ -12,10 +12,6 @@ macOS skill and CoreGraphics controller for driving a paired iPhone through Appl
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:charlesmorgansoftware/iphone-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-charlesmorgansoftware-iphone-control/record.json
 
 ## License declarations

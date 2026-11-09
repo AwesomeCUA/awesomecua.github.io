@@ -12,10 +12,6 @@ Three-tier computer-use MCP server combining system shell tools, OS accessibilit
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:montbrain/vadgr-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-montbrain-vadgr-computer-use/record.json
 
 ## License declarations

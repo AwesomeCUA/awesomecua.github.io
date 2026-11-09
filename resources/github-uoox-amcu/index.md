@@ -12,10 +12,6 @@ Single-binary, dependency-free macOS computer-use tool that reads and drives Mac
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:uoox/amcu
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-uoox-amcu/record.json
 
 ## License declarations

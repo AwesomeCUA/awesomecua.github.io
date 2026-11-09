@@ -12,10 +12,6 @@ Codex skill that delegates complex architectural planning to a logged-in ChatGPT
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:ericwong5021/chatgpt-pro-planning-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ericwong5021-chatgpt-pro-planning-skill/record.json
 
 ## License declarations

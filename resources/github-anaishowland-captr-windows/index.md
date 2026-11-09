@@ -12,10 +12,6 @@ Captr for Windows records synchronized screen video, mouse/keyboard events, DOM 
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:anaishowland/captr_windows
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anaishowland-captr-windows/record.json
 
 ## License declarations

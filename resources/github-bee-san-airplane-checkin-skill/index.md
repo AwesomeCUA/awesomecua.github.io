@@ -12,10 +12,6 @@ Privacy-conscious Hermes browser skill for scheduled, verified multi-airline web
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:bee-san/airplane-checkin-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bee-san-airplane-checkin-skill/record.json
 
 ## License declarations

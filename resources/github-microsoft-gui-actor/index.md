@@ -12,10 +12,6 @@ GUI grounding model with attention-based action localization.
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:microsoft/gui-actor
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-gui-actor/record.json
 
 ## License declarations

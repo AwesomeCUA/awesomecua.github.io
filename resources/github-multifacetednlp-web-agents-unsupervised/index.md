@@ -12,10 +12,6 @@ Provides training and evaluation code for unsupervised web product-search agents
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:multifacetednlp/web-agents-unsupervised
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-multifacetednlp-web-agents-unsupervised/record.json
 
 ## License declarations

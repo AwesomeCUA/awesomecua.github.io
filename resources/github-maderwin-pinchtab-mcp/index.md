@@ -12,10 +12,6 @@ Model Context Protocol server for PinchTab enabling AI agents to control Chromiu
 - Evidence checked: 2026-11-04T15:45:48Z
 - ID: github:maderwin/pinchtab-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-maderwin-pinchtab-mcp/record.json
 
 ## License declarations

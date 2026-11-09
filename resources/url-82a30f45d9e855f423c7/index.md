@@ -12,10 +12,6 @@ OS-Atlas base checkpoint fine-tuned from Qwen2-VL-7B-Instruct, using the standar
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:82a30f45d9e855f423c7
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-82a30f45d9e855f423c7/record.json
 
 ## License declarations

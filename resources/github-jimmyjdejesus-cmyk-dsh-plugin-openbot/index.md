@@ -12,10 +12,6 @@ Native Cordis plugin for DeepSeek Harness integrating CopilotKit OpenBot contain
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:jimmyjdejesus-cmyk/dsh-plugin-openbot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jimmyjdejesus-cmyk-dsh-plugin-openbot/record.json
 
 ## License declarations

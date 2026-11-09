@@ -20,10 +20,10 @@ The files hold task instructions, reference task lengths and key-node evaluation
 
 ## Structured profile
 
-- formats: JSON
-- modalities: task instructions, URL and page-element evaluation functions
-- splits: train (2024-05-28 file), test (2024-10-24 file)
-- supervision: key-node evaluation annotations, reference task lengths
+- Formats: JSON
+- Modalities: task instructions, URL and page-element evaluation functions
+- Splits: train (2024-05-28 file), test (2024-10-24 file)
+- Supervision: key-node evaluation annotations, reference task lengths
 
 ### Count observations
 

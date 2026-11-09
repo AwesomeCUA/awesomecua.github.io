@@ -12,10 +12,6 @@ TalkAct is a dual-model voice and computer-use agent that conducts real-time spo
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:19pine-ai/talkact
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-19pine-ai-talkact/record.json
 
 ## License declarations

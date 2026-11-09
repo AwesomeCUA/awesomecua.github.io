@@ -12,10 +12,6 @@ DeepSeek Harness bridge for automating and orchestrating logged-in web LLM chat 
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:huangyukaili1031/dsh-llm-web-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-huangyukaili1031-dsh-llm-web-bridge/record.json
 
 ## License declarations

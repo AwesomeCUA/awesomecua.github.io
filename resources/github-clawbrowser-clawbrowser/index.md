@@ -12,10 +12,6 @@ Clawbrowser is an agent-native managed Chromium runtime with fingerprint rotatio
 - Evidence checked: 2026-11-04T16:10:30Z
 - ID: github:clawbrowser/clawbrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-clawbrowser-clawbrowser/record.json
 
 ## License declarations

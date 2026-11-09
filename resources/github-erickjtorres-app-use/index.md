@@ -12,10 +12,6 @@ App Use is a Python framework that connects LLM agents to Android and iOS mobile
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:erickjtorres/app-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-erickjtorres-app-use/record.json
 
 ## License declarations

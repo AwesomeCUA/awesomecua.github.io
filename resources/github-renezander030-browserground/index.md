@@ -12,10 +12,6 @@ browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps 
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:renezander030/browserground
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-renezander030-browserground/record.json
 
 ## License declarations

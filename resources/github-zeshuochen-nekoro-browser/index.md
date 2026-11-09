@@ -12,10 +12,6 @@ Lightweight browser automation CLI and MCP server driving the user's everyday Ch
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:zeshuochen/nekoro-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zeshuochen-nekoro-browser/record.json
 
 ## License declarations

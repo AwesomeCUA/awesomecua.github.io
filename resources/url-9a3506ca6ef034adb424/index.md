@@ -20,10 +20,10 @@ The public Hub manifest lists AutoDroid-V2-Dataset.json; no training records wer
 
 ## Structured profile
 
-- formats: JSON in ShareGPT conversation format
-- modalities: text
-- splits: not recorded
-- supervision: supervised conversations for AutoDroid-V2 fine-tuning
+- Formats: JSON in ShareGPT conversation format
+- Modalities: text
+- Splits: not recorded
+- Supervision: supervised conversations for AutoDroid-V2 fine-tuning
 
 ### Count observations
 

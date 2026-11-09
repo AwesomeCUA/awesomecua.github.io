@@ -12,10 +12,6 @@ Turns any existing web application into an in-page Model Context Protocol server
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:mcpland/webpage-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mcpland-webpage-mcp/record.json
 
 ## License declarations

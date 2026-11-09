@@ -12,10 +12,6 @@ Non-vision browser automation Model Context Protocol server exposing 7 compact D
 - Evidence checked: 2026-11-04T17:55:20Z
 - ID: github:spliffspliff70-wq/websense-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-spliffspliff70-wq-websense-mcp/record.json
 
 ## License declarations

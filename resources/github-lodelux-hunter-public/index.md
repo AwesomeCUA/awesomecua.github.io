@@ -12,10 +12,6 @@ Autonomous job-search and application browser agent with evidence-linked fit sco
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:lodelux/hunter-public
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lodelux-hunter-public/record.json
 
 ## License declarations

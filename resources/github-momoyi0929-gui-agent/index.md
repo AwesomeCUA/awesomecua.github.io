@@ -12,10 +12,6 @@ Bounded multimodal desktop GUI agent built with LangChain and LangGraph featurin
 - Evidence checked: 2026-11-04T14:41:54Z
 - ID: github:momoyi0929/gui-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-momoyi0929-gui-agent/record.json
 
 ## License declarations

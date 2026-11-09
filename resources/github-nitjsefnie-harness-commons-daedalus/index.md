@@ -12,10 +12,6 @@ Chrome-extension remote control bridge allowing AI agents to drive a live Chrome
 - Evidence checked: 2026-11-04T17:30:36Z
 - ID: github:nitjsefnie-harness-commons/daedalus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nitjsefnie-harness-commons-daedalus/record.json
 
 ## License declarations

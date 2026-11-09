@@ -12,10 +12,6 @@ OpenComputer is a local-first cross-platform computer-use agent for Linux, Windo
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:andykr1k/opencomputer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-andykr1k-opencomputer/record.json
 
 ## License declarations

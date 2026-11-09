@@ -12,10 +12,6 @@ Zero-glue-code, Markdown-native end-to-end browser test automation framework pow
 - Evidence checked: 2026-11-04T18:11:55Z
 - ID: github:a-ryan-kr/md-e2e
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-a-ryan-kr-md-e2e/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Lets AI agents drive the user's actual macOS browser window and logged-in tabs w
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:alexmercier25/browser-copilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alexmercier25-browser-copilot/record.json
 
 ## License declarations

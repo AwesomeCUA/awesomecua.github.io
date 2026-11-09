@@ -12,10 +12,6 @@ Monorepo behind Cua Spaces, which gives agents full macOS or Linux desktops, plu
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:trycua/cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-trycua-cua/record.json
 
 ## License declarations

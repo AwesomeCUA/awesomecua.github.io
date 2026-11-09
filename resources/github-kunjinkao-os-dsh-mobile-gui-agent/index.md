@@ -12,10 +12,6 @@ Android Mobile GUI Agent plugin for DeepSeek Harness featuring ADB actuation, it
 - Evidence checked: 2026-11-04T15:03:40Z
 - ID: github:kunjinkao-os/dsh-mobile-gui-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kunjinkao-os-dsh-mobile-gui-agent/record.json
 
 ## License declarations

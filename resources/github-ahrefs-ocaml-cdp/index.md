@@ -12,10 +12,6 @@ Typed OCaml client library for the Chrome DevTools Protocol with an asynchronous
 - Evidence checked: 2026-11-04T17:55:14Z
 - ID: github:ahrefs/ocaml-cdp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ahrefs-ocaml-cdp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Uses an LLM to discover a UI workflow once and compiles the trajectory into a de
 - Evidence checked: 2026-11-04T17:55:23Z
 - ID: github:19ska/computer-use-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-19ska-computer-use-automation/record.json
 
 ## License declarations

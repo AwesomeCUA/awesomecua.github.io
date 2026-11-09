@@ -12,10 +12,6 @@ PreAct compiles repeated computer-use agent trajectories into cached action grap
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:19pine-ai/preact
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-19pine-ai-preact/record.json
 
 ## License declarations

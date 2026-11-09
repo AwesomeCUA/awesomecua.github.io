@@ -12,10 +12,6 @@ agentmemory provides persistent cross-session memory and MCP integration for cod
 - Evidence checked: 2026-11-04T13:12:33Z
 - ID: github:rohitg00/agentmemory
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rohitg00-agentmemory/record.json
 
 ## License declarations

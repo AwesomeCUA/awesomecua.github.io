@@ -12,10 +12,6 @@ VG-GUI-TASKER extracts informative keyframes from instructional demonstration vi
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:vg-gui-tasker/vg-gui-tasker
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/record.json
 
 ## License declarations

@@ -1,0 +1,3195 @@
+# 计算机使用论文库：第 21 页，共 29 页
+
+> 已审核论文与综述第 1,201 至 1,260 条，共 1,718 条；按发表时间从新到旧排列，附作者、arXiv 版本、引用文件和一手证据。
+
+HTML 页面：https://awesomecua.com/zh/papers/page/21/ · [English](https://awesomecua.com/papers/page/21/index.md) · [上一页](https://awesomecua.com/zh/papers/page/20/index.md) · [下一页](https://awesomecua.com/zh/papers/page/22/index.md) · [全部页面](https://awesomecua.com/zh/papers/index.md)
+
+---
+
+## VerificAgent: Domain-Specific Memory Verification for Scalable Oversight of Aligned Computer-Use Agents
+
+Introduces VerificAgent, which grows domain-specific memories from task trajectories and subjects them to human fact-checking before deployment. Its OSWorld evaluation treats persistent memory as an auditable constraint on later agent behavior.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2506-02539/
+- 原始来源：https://arxiv.org/abs/2506.02539
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：记忆、人机协作、安全与防护
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2506.02539
+
+### 范围记录
+
+Reviewed against the complete retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2506-02539/record.json
+
+### 作者
+
+Thong Q. Nguyen, Shubhang Desai, Raja Hasnain Anwar, Firoz Shaik, Vishwas Suryanarayanan, Vishal Chowdhary
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2506-02539/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2506-02539/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2506.02539v3
+- 首次提交：2025-06-03T07:25:49Z
+- 版本更新日期：2025-08-07T21:48:01Z
+- 摘要 SHA-256：401ca18cadbf38045fa20985354988571b69e2280b1a090aff0e128cdf3c70e0
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents
+
+Introduces VPI-Bench, interactive web-platform variants containing visually embedded malicious instructions. It evaluates computer-use and browser-use agents under these threats and examines system-prompt defenses.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2506-02456/
+- 原始来源：https://arxiv.org/abs/2506.02456
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：安全与防护、评测
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2506.02456
+
+### 范围记录
+
+Reviewed against the complete retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2506-02456/record.json
+
+### 作者
+
+Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, Shumin Deng, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2506-02456/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2506-02456/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2506.02456v2
+- 首次提交：2025-06-03T05:21:50Z
+- 版本更新日期：2026-03-01T16:12:40Z
+- 摘要 SHA-256：3cd988217d1e3371bec827b472abf46c205ac407b5b60b7b581d7105f86e8bc5
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks
+
+Introduces WebChoreArena, 532 web chores built on WebArena environments to evaluate agents’ retention of page information, calculation, and tracking across pages.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2506-01952/
+- 原始来源：https://arxiv.org/abs/2506.01952
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、记忆、网页导航、长任务
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2506.01952
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2506-01952/record.json
+
+### 作者
+
+Atsuyuki Miyai, Zaiying Zhao, Kazuki Egashira, Atsuki Sato, Tatsumi Sunada, Shota Onohara, Hiromasa Yamanishi, Mashiro Toyooka, Kunato Nishina, Ryoma Maeda, Kiyoharu Aizawa, Toshihiko Yamasaki
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2506-01952/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2506-01952/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2506.01952v2
+- 首次提交：2025-06-02T17:59:45Z
+- 版本更新日期：2026-08-08T16:12:12Z
+- 摘要 SHA-256：3bbf69a32f626ae8cf012d670aeae75d5d9585448f744ff441a764fe58141f4d
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50（获取于 2026-11-05T21:13:58Z；SHA-256：62b85cd4bee4c668046d5f6eb67dedef915ba699d6765891016403c863691a73）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## MLA-Trust: Benchmarking Trustworthiness of Multimodal LLM Agents in GUI Environments
+
+Benchmarks truthfulness, controllability, safety, and privacy of multimodal LLM agents across interactive web and mobile GUI tasks.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2506-01616/
+- 原始来源：https://arxiv.org/abs/2506.01616
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、Android、跨平台
+- 主题：安全与防护、评测、鲁棒性
+- 证据核查日期：2026-10-18T10:54:08Z
+- ID：arxiv:2506.01616
+
+### 范围记录
+
+The contribution was reviewed from the retained paper abstract; Android setup is supported separately by the official project README.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2506-01616/record.json
+
+### 作者
+
+Xiao Yang, Jiawei Chen, Jun Luo, Zhengwei Fang, Yinpeng Dong, Hang Su, Jun Zhu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2506-01616/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2506-01616/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2506.01616v1
+- 首次提交：2025-06-02T12:56:27Z
+- 版本更新日期：2025-06-02T12:56:27Z
+- 摘要 SHA-256：1ec2467703bc5d0f97ef8d207289ed56f6d12b811688d20b7833eac06038757b
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50（获取于 2026-10-18T10:54:08Z；SHA-256：00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec）
+- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50（获取于 2026-10-18T10:54:08Z；SHA-256：00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec）
+- https://raw.githubusercontent.com/thu-ml/MLA-Trust/HEAD/README.md（获取于 2026-10-18T10:59:55Z；SHA-256：d69da19edaed185ad3071a97db3bb3fcfbdb14c0b514b7d27794b39fbe8e2541）
+
+---
+
+## FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents
+
+Introduces FormFactory, an interactive web-based benchmark for agents filling online forms, with varied field formats and evaluation of instruction-to-field alignment.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2506-01520/
+- 原始来源：https://arxiv.org/abs/2506.01520
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、界面理解
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2506.01520
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2506-01520/record.json
+
+### 作者
+
+Bobo Li, Yuheng Wang, Hao Fei, Juncheng Li, Wei Ji, Mong-Li Lee, Wynne Hsu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2506-01520/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2506-01520/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2506.01520v1
+- 首次提交：2025-06-02T10:34:57Z
+- 版本更新日期：2025-06-02T10:34:57Z
+- 摘要 SHA-256：d76a3740a32d528b3ee123b1b504be0ade628c6c44b842d835fddaa68ba649f7
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2506.01520&max_results=1（获取于 2026-11-01T06:06:08Z；SHA-256：3bdedda702491a341bc9a2809baf59f66fd76898b3632d9f4d6f921e07c7005e）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning
+
+Combines grounding pretraining, bilingual interaction trajectories, and reinforcement fine-tuning for mobile GUI actions.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2506-01391/
+- 原始来源：https://arxiv.org/abs/2506.01391
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：强化学习、手机操作
+- 证据核查日期：2026-10-16T06:31:42Z
+- ID：arxiv:2506.01391
+
+### 范围记录
+
+Summary and topic tags reviewed against the primary abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2506-01391/record.json
+
+### 作者
+
+Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin Cong, Haotian Chen, Yankai Lin, Jie Xie, Wei Zhou, Wang Xu, Yuanheng Zhang, Zhou Su, Zhongwu Zhai, Xiaoming Liu, Yudong Mei, Jianming Xu, Hongyan Tian, Chongyi Wang, Chi Chen, Yuan Yao, Zhiyuan Liu, Maosong Sun
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2506-01391/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2506-01391/citation.csl.json
+
+### 发表记录
+
+- 标题：AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning
+- 作者：Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si (司函), Xin Cong, Haotian Chen, Yankai Lin (林衍凯), Jie Xie, Wei Zhou, Wang Xu, Yuanheng Zhang, Zhou Su, Zhongwu Zhai, Xiaoming Liu, Yudong Mei, Jianming Xu, Hongyan Tian, Chongyi Wang, Chi Chen, Yuan Yao, Zhiyuan Liu, Maosong Sun (孙茂松)
+- 发表日期：2025-11
+- 发表来源：https://aclanthology.org/2025.emnlp-demos.12/
+- 发表版 BibTeX：https://awesomecua.com/resources/arxiv-2506-01391/publication-citation.bib
+- 发表版 CSL JSON：https://awesomecua.com/resources/arxiv-2506-01391/publication-citation.csl.json
+- 发表于：Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
+- 出版方：Association for Computational Linguistics
+- 页码：155-180
+- DOI：10.18653/v1/2025.emnlp-demos.12
+- 日期来源：Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.
+- 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- 发表证据：https://aclanthology.org/2025.emnlp-demos.12/
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2506.01391v2
+- 首次提交：2025-06-02T07:30:29Z
+- 版本更新日期：2025-06-17T02:57:04Z
+- 摘要 SHA-256：3c0b2a065898ba4f73fcb5e5b2e92d723b0b55ac6caa46d5bf02d44eb7a2cdd9
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+- https://aclanthology.org/2025.emnlp-demos.12/（获取于 2026-10-18T04:09:59Z；SHA-256：5de5a828e06a63c1627b8ad9f9a46c1643d8b4b7d8ed6156fd9790b6bd083155）
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+
+---
+
+## RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents
+
+Introduces RiOSWorld, a computer-use risk benchmark separating user-originated and environmental threats. It evaluates both risky-goal intent and goal completion across web and other computer applications.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2506-00618/
+- 原始来源：https://arxiv.org/abs/2506.00618
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：安全与防护、评测
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2506.00618
+
+### 范围记录
+
+Reviewed against the complete retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2506-00618/record.json
+
+### 作者
+
+Jingyi Yang, Shuai Shao, Dongrui Liu, Jing Shao
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2506-00618/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2506-00618/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2506.00618v3
+- 首次提交：2025-05-31T16:04:59Z
+- 版本更新日期：2025-06-20T01:24:06Z
+- 摘要 SHA-256：bb94fdba775cb0fb54b312fdff9fa71afd3aefa56b812ff31ceccad33eb5f800
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing
+
+Introduces ResTest, which uses coverage reports and a state transition graph to infer untested web functions, then directs a GUI agent to execute them.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2506-00520/
+- 原始来源：https://arxiv.org/abs/2506.00520
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：自动化、网页导航、状态追踪、规划
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2506.00520
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its reported coverage results come from ten open-source web applications.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2506-00520/record.json
+
+### 作者
+
+Chenxu Liu, Zhiyu Gu, Guoquan Wu, Ying Zhang, Wei Yang, Jun Wei, Tao Xie
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2506-00520/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2506-00520/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2506.00520v2
+- 首次提交：2025-05-31T11:43:37Z
+- 版本更新日期：2026-09-23T11:25:31Z
+- 摘要 SHA-256：95e304b8a0641e1c62fe117109f7f02aa459eb3037fae29f8a502352de46f73a
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50（获取于 2026-11-05T21:13:58Z；SHA-256：62b85cd4bee4c668046d5f6eb67dedef915ba699d6765891016403c863691a73）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents
+
+Open CaptchaWorld evaluates multimodal agents on interactive browser-based CAPTCHA puzzles. Its benchmark distinguishes task success from the depth of visual reasoning and interaction needed to complete a puzzle.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-24878/
+- 原始来源：https://arxiv.org/abs/2505.24878
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、界面理解
+- 证据核查日期：2026-10-18T04:21:52Z
+- ID：arxiv:2505.24878
+
+### 范围记录
+
+Reviewed against the complete official arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-24878/record.json
+
+### 作者
+
+Yaxin Luo, Zhaoyi Li, Jiacheng Liu, Jiacheng Cui, Xiaohan Zhao, Zhiqiang Shen
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-24878/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-24878/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.24878v1
+- 首次提交：2025-05-30T17:59:55Z
+- 版本更新日期：2025-05-30T17:59:55Z
+- 摘要 SHA-256：3f2206333ca25b3f21df7ce49adfd8bc56521b9b8ace7a9b686eccf5b67276fa
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25（获取于 2026-10-18T04:21:52Z；SHA-256：c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77）
+- https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25（获取于 2026-10-18T04:21:52Z；SHA-256：c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77）
+
+---
+
+## Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks
+
+Introduces Agent-X, a benchmark of multi-step visual reasoning and tool use with step-level grading across six settings, including web browsing.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-24876/
+- 原始来源：https://arxiv.org/abs/2505.24876
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：评测、规划、工具集成
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.24876
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Web browsing is one of six environments, alongside non-web tasks.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-24876/record.json
+
+### 作者
+
+Tajamul Ashraf, Amal Saqib, Hanan Ghani, Muhra AlMahri, Yuhao Li, Noor Ahsan, Umair Nawaz, Jean Lahoud, Hisham Cholakkal, Mubarak Shah, Philip Torr, Fahad Shahbaz Khan, Rao Muhammad Anwer, Salman Khan
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-24876/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-24876/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.24876v2
+- 首次提交：2025-05-30T17:59:53Z
+- 版本更新日期：2026-05-24T03:59:43Z
+- 摘要 SHA-256：c22205d287f5cae660fe8b7abf568e7be0b372cd75af76d5357347ef1e3b20e8
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50（获取于 2026-11-05T21:13:58Z；SHA-256：62b85cd4bee4c668046d5f6eb67dedef915ba699d6765891016403c863691a73）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video
+
+Introduces synthetic CAD interaction videos, a model for learning interface actions from video, and evaluation tasks for spatial and long-horizon reasoning.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-24838/
+- 原始来源：https://arxiv.org/abs/2505.24838
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：视频、数据生成、科学工作流、长任务
+- 证据核查日期：2026-10-16T06:31:42Z
+- ID：arxiv:2505.24838
+
+### 范围记录
+
+The contribution was reviewed from the retained abstract. Sections 1 and 3 of the exact-version v2 paper identify Onshape as the browser-based interaction environment with pixel-level input.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-24838/record.json
+
+### 作者
+
+Brandon Man, Ghadi Nehme, Md Ferdous Alam, Faez Ahmed
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-24838/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-24838/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.24838v2
+- 首次提交：2025-05-30T17:39:52Z
+- 版本更新日期：2025-11-08T18:27:03Z
+- 摘要 SHA-256：f913b87f07fdad0e4c45264c58c8d9b9d13ca26695306d9e0644eb856f18ced7
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+- https://arxiv.org/html/2505.24838v2（获取于 2026-10-18T12:02:34.311949+00:00；SHA-256：a303d95a811331cd6ee23b0340f1b9ef2dd996835bfbc66656a871ff94eead50）
+
+---
+
+## ZeroGUI: Automating Online GUI Learning at Zero Human Cost
+
+Combines generated tasks, estimated success rewards, and online reinforcement learning to automate GUI-agent interaction training.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-23762/
+- 原始来源：https://arxiv.org/abs/2505.23762
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台
+- 主题：强化学习、数据生成
+- 证据核查日期：2026-10-16T06:31:42Z
+- ID：arxiv:2505.23762
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-23762/record.json
+
+### 作者
+
+Chenyu Yang, Shiqian Su, Shi Liu, Xuan Dong, Yue Yu, Weijie Su, Xuehui Wang, Zhaoyang Liu, Jinguo Zhu, Hao Li, Wenhai Wang, Yu Qiao, Xizhou Zhu, Jifeng Dai
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-23762/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-23762/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.23762v1
+- 首次提交：2025-05-29T17:59:51Z
+- 版本更新日期：2025-05-29T17:59:51Z
+- 摘要 SHA-256：799e7b387f7d281f0aa9b182f37b215e3baca2041a0a0f6d414ddf1cec0de003
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+
+---
+
+## Grounded Reinforcement Learning for Visual Reasoning
+
+Introduces ViGoRL, a visual reasoning model trained to reference image coordinates and zoom during reasoning; its evaluations include GUI element localization.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-23678/
+- 原始来源：https://arxiv.org/abs/2505.23678
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：强化学习、GUI 定位、界面理解
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.23678
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). GUI localization is one part of a broader visual reasoning evaluation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-23678/record.json
+
+### 作者
+
+Gabriel Sarch, Snigdha Saha, Naitik Khandelwal, Ayush Jain, Michael J. Tarr, Aviral Kumar, Katerina Fragkiadaki
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-23678/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-23678/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.23678v3
+- 首次提交：2025-05-29T17:20:26Z
+- 版本更新日期：2026-05-15T17:27:46Z
+- 摘要 SHA-256：0a88e661433c5d2d92f1787c8257a05b0ad7590523c5cc2adf1a88362f6cbcd5
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50（获取于 2026-11-05T21:13:58Z；SHA-256：62b85cd4bee4c668046d5f6eb67dedef915ba699d6765891016403c863691a73）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## Agent-SAMA: State-Aware Mobile Assistant
+
+Models mobile application execution as a finite-state machine to support planning, verification, and recovery across interface transitions.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-23596/
+- 原始来源：https://arxiv.org/abs/2505.23596
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：规划、记忆、手机操作
+- 证据核查日期：2026-10-16T07:54:03Z
+- ID：arxiv:2505.23596
+
+### 范围记录
+
+Hugging Face discovery used the label MAPLE for this ID; the record follows the current primary arXiv title, Agent-SAMA.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-23596/record.json
+
+### 作者
+
+Linqiang Guo, Wei Liu, Yi Wen Heng, Tse-Hsun, Chen, Yang Wang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-23596/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-23596/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.23596v3
+- 首次提交：2025-05-29T16:08:51Z
+- 版本更新日期：2025-11-19T16:48:16Z
+- 摘要 SHA-256：6f0ec81429fb39e56414d3bfe621df6c6adf461e63fc1a1c8886ea2b6850b8ee
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2401.05507%2C2406.07275%2C2409.16427%2C2410.00079%2C2503.07701%2C2503.22738%2C2505.15859%2C2505.17735%2C2505.23596%2C2507.05257%2C2507.06134%2C2507.21953%2C2507.23336%2C2508.06960%2C2508.08997%2C2509.02473%2C2509.23694%2C2510.09116%2C2510.14438%2C2511.18423%2C2512.12818%2C2512.13564%2C2601.10758%2C2601.12449%2C2601.21841%2C2603.01152%2C2603.19993%2C2603.20576%2C2604.04503%2C2604.17562%2C2604.23941%2C2605.16265%2C2606.06448%2C2606.06462%2C2606.29193%2C2607.01647%2C2607.13157&max_results=37（获取于 2026-10-16T07:54:03Z；SHA-256：13d5969845070cd2877dc51ae5300c2d623e5daef00c8a1552ffa46af3f721a5）
+- https://export.arxiv.org/api/query?id_list=2401.05507%2C2406.07275%2C2409.16427%2C2410.00079%2C2503.07701%2C2503.22738%2C2505.15859%2C2505.17735%2C2505.23596%2C2507.05257%2C2507.06134%2C2507.21953%2C2507.23336%2C2508.06960%2C2508.08997%2C2509.02473%2C2509.23694%2C2510.09116%2C2510.14438%2C2511.18423%2C2512.12818%2C2512.13564%2C2601.10758%2C2601.12449%2C2601.21841%2C2603.01152%2C2603.19993%2C2603.20576%2C2604.04503%2C2604.17562%2C2604.23941%2C2605.16265%2C2606.06448%2C2606.06462%2C2606.29193%2C2607.01647%2C2607.13157&max_results=37（获取于 2026-10-16T07:54:03Z；SHA-256：13d5969845070cd2877dc51ae5300c2d623e5daef00c8a1552ffa46af3f721a5）
+
+---
+
+## WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning
+
+Uses rule-based rewards for output structure and action correctness to train reasoning for enterprise web navigation.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-22942/
+- 原始来源：https://arxiv.org/abs/2505.22942
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：强化学习、工作流
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.22942
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-22942/record.json
+
+### 作者
+
+Yuchen Zhuang, Di Jin, Jiaao Chen, Wenqi Shi, Hanrui Wang, Chao Zhang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-22942/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-22942/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.22942v2
+- 首次提交：2025-05-28T23:45:28Z
+- 版本更新日期：2025-06-08T07:57:08Z
+- 摘要 SHA-256：9d260f52763eac186e6f0ff614c818f17602658b6be27cfecc3fea9d80579c9a
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## UI-Evol: Automatic Knowledge Evolving for Computer Use Agents
+
+Introduces UI-Evol, which extracts action sequences from agent interactions and critiques external guidance against those traces. Evaluation on OSWorld examines how revised operational knowledge affects execution and behavioral consistency.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-21964/
+- 原始来源：https://arxiv.org/abs/2505.21964
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：记忆、自我反思、鲁棒性
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.21964
+
+### 范围记录
+
+Reviewed against the complete retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-21964/record.json
+
+### 作者
+
+Ziyun Zhang, Xinyi Liu, Xiaoyi Zhang, Jun Wang, Gang Chen, Yan Lu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-21964/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-21964/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.21964v2
+- 首次提交：2025-05-28T04:32:05Z
+- 版本更新日期：2025-11-03T08:44:04Z
+- 摘要 SHA-256：17c0dac4cbb7c3b7b94496dc225db061a0dc3bda0a34ef40c58ea451524fada7
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments
+
+RedTeamCUA combines a virtual-machine OS environment with containerized websites for controlled prompt-injection tests spanning both interfaces. Its RTC-Bench contains 864 examples and can initialize agents at injection points to separate attack susceptibility from navigation failures.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-21936/
+- 原始来源：https://arxiv.org/abs/2505.21936
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面
+- 主题：安全与防护、评测、沙箱
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.21936
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-21936/record.json
+
+### 作者
+
+Zeyi Liao, Jaylen Jones, Linxi Jiang, Yuting Ning, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-21936/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-21936/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：5
+- 版本来源：https://arxiv.org/abs/2505.21936v5
+- 首次提交：2025-05-28T03:42:09Z
+- 版本更新日期：2026-03-01T07:50:09Z
+- 摘要 SHA-256：7fe3bdb1357a375de0b1700a6eda7d5987f358bd47fddf3405c27272a3453f2f
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery
+
+Studies advertising delivery as an indirect-injection channel for web agents under a black-box threat model. AdInject evaluates how static ad content shaped by website context can redirect browser actions.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-21499/
+- 原始来源：https://arxiv.org/abs/2505.21499
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：安全与防护、网页导航、评测
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.21499
+
+### 范围记录
+
+Reviewed against the complete retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-21499/record.json
+
+### 作者
+
+Haowei Wang, Junjie Wang, Xiaojun Jia, Rupeng Zhang, Mingyang Li, Zhe Liu, Yang Liu, Qing Wang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-21499/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-21499/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.21499v1
+- 首次提交：2025-05-27T17:59:05Z
+- 版本更新日期：2025-05-27T17:59:05Z
+- 摘要 SHA-256：f8aade17e67471c87f259d49aef43b3caf764b6ac14f99e1a4114f4a25dda3d6
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents
+
+UI-Genie jointly improves a mobile GUI agent and a reward model that processes screenshots with interaction history and supplies action- and task-level feedback. Its data pipeline uses rule-based verification, corrupted trajectories, and hard negatives to support reward-guided exploration and iterative training.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-21496/
+- 原始来源：https://arxiv.org/abs/2505.21496
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：数据生成、强化学习、手机操作、交互历史
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.21496
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-21496/record.json
+
+### 作者
+
+Han Xiao, Guozhi Wang, Yuxiang Chai, Zimu Lu, Weifeng Lin, Hao He, Lue Fan, Liuyang Bian, Rui Hu, Liang Liu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Aojun Zhou, Hongsheng Li
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-21496/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-21496/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.21496v1
+- 首次提交：2025-05-27T17:58:06Z
+- 版本更新日期：2025-05-27T17:58:06Z
+- 摘要 SHA-256：6f19671a527de76b702e68311656e42feea88249716f68911a41ec80be205e4c
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## XBOUND: Exploring Capability Boundaries of Device-Control Agents at the State Level
+
+XBOUND evaluates GUI agents at the level of a screen state, considering multiple instructions and possible target actions within it. The study separates action matching from instruction unification and compares effects of grounding and trajectory data.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-21279/
+- 原始来源：https://arxiv.org/abs/2505.21279
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：评测、GUI 定位
+- 证据核查日期：2026-10-18T04:21:52Z
+- ID：arxiv:2505.21279
+
+### 范围记录
+
+Reviewed against the complete official arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-21279/record.json
+
+### 作者
+
+Shaoqing Zhang, Kehai Chen, Zhuosheng Zhang, Rumei Li, Rongxiang Weng, Yang Xiang, Min Zhang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-21279/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-21279/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.21279v2
+- 首次提交：2025-05-27T14:49:30Z
+- 版本更新日期：2025-09-26T09:13:44Z
+- 摘要 SHA-256：4fe40099905712f9d7ba89bc7616d09b260fe6113beb8122cade54a66d46e3d7
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25（获取于 2026-10-18T04:21:52Z；SHA-256：c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77）
+- https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25（获取于 2026-10-18T04:21:52Z；SHA-256：c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77）
+
+---
+
+## SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution
+
+Introduces SPA, a reward redistribution method for multi-step LLM agents that estimates each action’s contribution to task completion; Webshop is among its evaluations.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-20732/
+- 原始来源：https://arxiv.org/abs/2505.20732
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：强化学习、奖励模型、长任务
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.20732
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Webshop is evaluated alongside ALFWorld and VirtualHome; the method is presented for general agents.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-20732/record.json
+
+### 作者
+
+Hanlin Wang, Chak Tou Leong, Jiashuo Wang, Jian Wang, Wenjie Li
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-20732/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-20732/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.20732v1
+- 首次提交：2025-05-27T05:21:04Z
+- 版本更新日期：2025-05-27T05:21:04Z
+- 摘要 SHA-256：08018a5f5d286f25179700b010fe737b3d9c0fe9973236f3ab833f45bf860bb9
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2504.03206%2C2504.03601%2C2504.06821%2C2504.09723%2C2504.11301%2C2504.11543%2C2504.12609%2C2504.14233%2C2504.14348%2C2504.14603%2C2504.16073%2C2504.16419%2C2504.17892%2C2504.18580%2C2504.20965%2C2505.00019%2C2505.00693%2C2505.01578%2C2505.02094%2C2505.03570%2C2505.03574%2C2505.05026%2C2505.05849%2C2505.06507%2C2505.07003%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.15801%2C2505.15816%2C2505.17020%2C2505.18746%2C2505.19095%2C2505.19713%2C2505.20023%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.23450%2C2505.23559%2C2506.00641&max_results=50（获取于 2026-10-17T07:57:47Z；SHA-256：27144160e8981bb9f36b60c391689774913ff3f026eeeffc2923154c404a6529）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism
+
+BacktrackAgent adds verification, judgment, and reflection modules to detect erroneous GUI actions and guide recovery. It develops backtracking-oriented training data that includes post-action pages and evaluates task completion and step accuracy on Mobile3M and Auto-UI.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-20660/
+- 原始来源：https://arxiv.org/abs/2505.20660
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：鲁棒性、规划、数据生成、手机操作
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.20660
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-20660/record.json
+
+### 作者
+
+Qinzhuo Wu, Pengzhi Gao, Wei Liu, Jian Luan
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-20660/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-20660/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.20660v1
+- 首次提交：2025-05-27T03:09:06Z
+- 版本更新日期：2025-05-27T03:09:06Z
+- 摘要 SHA-256：d2d51388193e19501b580740969a6e08661c6e0a2cf09e2489c46fe4f19209cd
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking
+
+Introduces STeP, which trains agents on synthetic trajectories containing error reflections and corrections while masking poor steps; WebShop is one of three evaluated tasks.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-20023/
+- 原始来源：https://arxiv.org/abs/2505.20023
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：数据生成、模仿学习、自我反思
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.20023
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). WebShop is one evaluation task alongside ALFWorld and SciWorld.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-20023/record.json
+
+### 作者
+
+Yihan Chen, Benfeng Xu, Xiaorui Wang, Yongdong Zhang, Zhendong Mao
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-20023/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-20023/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.20023v1
+- 首次提交：2025-05-26T14:11:12Z
+- 版本更新日期：2025-05-26T14:11:12Z
+- 摘要 SHA-256：f3c91f5b701650968bb2f3bbb468adf0fabedc476ecb04ba3f1a5206005102be
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2504.03206%2C2504.03601%2C2504.06821%2C2504.09723%2C2504.11301%2C2504.11543%2C2504.12609%2C2504.14233%2C2504.14348%2C2504.14603%2C2504.16073%2C2504.16419%2C2504.17892%2C2504.18580%2C2504.20965%2C2505.00019%2C2505.00693%2C2505.01578%2C2505.02094%2C2505.03570%2C2505.03574%2C2505.05026%2C2505.05849%2C2505.06507%2C2505.07003%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.15801%2C2505.15816%2C2505.17020%2C2505.18746%2C2505.19095%2C2505.19713%2C2505.20023%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.23450%2C2505.23559%2C2506.00641&max_results=50（获取于 2026-10-17T07:57:47Z；SHA-256：27144160e8981bb9f36b60c391689774913ff3f026eeeffc2923154c404a6529）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback
+
+WebCoT turns reflection, look-ahead, branching and rollback procedures into chain-of-thought training rationales. Fine-tuning on these reconstructed trajectories is evaluated for web-agent self-improvement and transfer across navigation tasks.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-20013/
+- 原始来源：https://arxiv.org/abs/2505.20013
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：数据生成、规划、自我反思、网页导航
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.20013
+
+### 范围记录
+
+The annotation was reviewed against the complete retained primary abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-20013/record.json
+
+### 作者
+
+Minda Hu, Tianqing Fang, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-20013/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-20013/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.20013v2
+- 首次提交：2025-05-26T14:03:37Z
+- 版本更新日期：2025-09-18T11:32:15Z
+- 摘要 SHA-256：171071f26a6dc8b9c8851d2f11d60b113983191c905631e431f352711e0d0e26
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows
+
+ScienceBoard combines an interactive environment with professional scientific software and 169 human-curated tasks in areas including biochemistry, astronomy, and geoinformatics. It evaluates computer-use agents on visually rich research workflows and analyzes their execution limitations.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-19897/
+- 原始来源：https://arxiv.org/abs/2505.19897
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：评测、科学工作流、工作流
+- 证据核查日期：2026-10-16T06:31:42Z
+- ID：arxiv:2505.19897
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-19897/record.json
+
+### 作者
+
+Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-19897/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-19897/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.19897v3
+- 首次提交：2025-05-26T12:27:27Z
+- 版本更新日期：2026-04-20T16:29:04Z
+- 摘要 SHA-256：4743f6bfd0ca48717184cf55545e33a229dd5ab2d454385d33ea2f1b25c15b0c
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+
+---
+
+## ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World
+
+Trains ScreenExplorer with reinforcement learning in dynamic GUI environments, using a world-model curiosity reward and experience-stream distillation to support sustained exploration.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-19095/
+- 原始来源：https://arxiv.org/abs/2505.19095
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：强化学习、世界模型、数据生成
+- 证据核查日期：2026-10-17T11:20:24Z
+- ID：arxiv:2505.19095
+
+### 范围记录
+
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-19095/record.json
+
+### 作者
+
+Runliang Niu, Jinglong Ji, Yi Chang, Qi Wang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-19095/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-19095/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.19095v1
+- 首次提交：2025-05-25T11:13:03Z
+- 版本更新日期：2025-05-25T11:13:03Z
+- 摘要 SHA-256：bb782466eccc7a271c89a4161c7b142f93f8f0d585cad39a1ccad048cf514426
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2504.03206%2C2504.03601%2C2504.06821%2C2504.09723%2C2504.11301%2C2504.11543%2C2504.12609%2C2504.14233%2C2504.14348%2C2504.14603%2C2504.16073%2C2504.16419%2C2504.17892%2C2504.18580%2C2504.20965%2C2505.00019%2C2505.00693%2C2505.01578%2C2505.02094%2C2505.03570%2C2505.03574%2C2505.05026%2C2505.05849%2C2505.06507%2C2505.07003%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.15801%2C2505.15816%2C2505.17020%2C2505.18746%2C2505.19095%2C2505.19713%2C2505.20023%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.23450%2C2505.23559%2C2506.00641&max_results=50（获取于 2026-10-17T07:57:47Z；SHA-256：27144160e8981bb9f36b60c391689774913ff3f026eeeffc2923154c404a6529）
+- https://arxiv.org/abs/2505.19095v1（获取于 2026-10-17T11:20:24Z；SHA-256：645bd2ecbc013dab3cbc601d5a42011d8f7306915ea2ae06baf0767b3962e9ed）
+
+---
+
+## LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS
+
+AIOS 1.0 exposes computer states and actions through an MCP server to provide structured environmental context for agents. LiteCUA is a lightweight agent built on this interface, evaluated on OSWorld to study the effect of computer-environment contextualization.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-18829/
+- 原始来源：https://arxiv.org/abs/2505.18829
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：工具集成、自动化
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.18829
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-18829/record.json
+
+### 作者
+
+Kai Mei, Xi Zhu, Hang Gao, Shuhang Lin, Yongfeng Zhang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-18829/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-18829/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.18829v2
+- 首次提交：2025-05-24T18:56:00Z
+- 版本更新日期：2025-10-31T21:48:48Z
+- 摘要 SHA-256：2c382ce428e6dd41ec07af7575461c69906ce386fd2bcd8ad9f0d792d2b8f0b3
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## ProgRM: Build Better GUI Agents with Progress Rewards
+
+ProgRM predicts per-step task completion progress to provide intermediate rewards during online GUI-agent training. It derives progress labels by using longest common subsequences to identify key trajectory steps, allowing useful partial progress to contribute even when a trajectory ultimately fails.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-18121/
+- 原始来源：https://arxiv.org/abs/2505.18121
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：强化学习、数据生成
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.18121
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-18121/record.json
+
+### 作者
+
+Danyang Zhang, Situo Zhang, Ziyue Yang, Zichen Zhu, Zihan Zhao, Ruisheng Cao, Lu Chen, Kai Yu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-18121/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-18121/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.18121v1
+- 首次提交：2025-05-23T17:23:11Z
+- 版本更新日期：2025-05-23T17:23:11Z
+- 摘要 SHA-256：40cbdc37216c58acd1b7523c48ad735df9bde485405a4e7b439aec85730c5bc0
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models
+
+GERALLT uses LLMs to explore the GUI of engineering software and produce a list of confusing or inconsistent interface areas for developers to inspect.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-17839/
+- 原始来源：https://arxiv.org/abs/2505.17839
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：自动化、界面设计、科学工作流
+- 证据核查日期：2026-11-09T08:07:58Z
+- ID：arxiv:2505.17839
+
+### 范围记录
+
+The authors evaluate the system on a real-world engineering software use case previously tested by developers and users. They report that it identifies interface issues useful for future development.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-17839/record.json
+
+### 作者
+
+Tim Rosenbach, David Heidrich, Alexander Weinert
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-17839/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-17839/citation.csl.json
+
+### 发表记录
+
+- 标题：Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models
+- 作者：Tim Rosenbach, David Heidrich, Alexander Weinert
+- 发表日期：2025-03-31
+- 发表来源：https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10962502
+- 发表版 BibTeX：https://awesomecua.com/resources/arxiv-2505-17839/publication-citation.bib
+- 发表版 CSL JSON：https://awesomecua.com/resources/arxiv-2505-17839/publication-citation.csl.json
+- 发表于：2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+- 出版方：IEEE
+- 页码：103-110
+- DOI：10.1109/icstw64639.2025.10962502
+- 日期来源：Crossref issued date 2025-3-31; precision=day.
+- 版本对应依据：Same work as the retained arXiv record: matching title and authors, and the arXiv journal reference and DOI name this ICSTW 2025 edition.
+- 来源备注：IEEE ICSTW 2025 workshop edition of the arXiv preprint, whose journal reference and DOI name this edition; Crossref links the DOI to IEEE Xplore document 10962502.
+- 发表证据：https://api.crossref.org/works/10.1109/icstw64639.2025.10962502
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.17839v1
+- 首次提交：2025-05-23T12:53:28Z
+- 版本更新日期：2025-05-23T12:53:28Z
+- 摘要 SHA-256：7944dbed8bea0cf56bcc58737a7af46e21c37cfd242be215c136256f8620ed0c
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2311.08649%2C2511.08172%2C2007.13257%2C2505.17839&max_results=4（获取于 2026-11-09T08:05:55Z；SHA-256：d84811c1901af5997f748274c6f6ccf434c29ab0e3b7e2baf722cb7faac12cb6）
+- https://api.crossref.org/works/10.1109/icstw64639.2025.10962502（获取于 2026-11-09T08:06:13Z；SHA-256：537216a7dbc4c8e00a011853fd37a9d16122605031716ebdab485720e398c029）
+- https://arxiv.org/abs/2505.17839（获取于 2026-11-09T08:07:58Z；SHA-256：8c06bdcb850fb5386549d7e77d25e827322aafefe3ec33926814b67579fcbfe6）
+
+---
+
+## TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments
+
+Introduces TransBench to evaluate GUI grounding transfer across app versions, iOS, Android, Web, and functionally distinct applications.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-17629/
+- 原始来源：https://arxiv.org/abs/2505.17629
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：iOS、Android、网页、跨平台
+- 主题：评测、GUI 定位、鲁棒性、跨应用
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.17629
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-17629/record.json
+
+### 作者
+
+Yuheng Lu, Qian Yu, Hongru Wang, Zeming Liu, Wei Su, Yanping Liu, Yuhang Guo, Maocheng Liang, Yunhong Wang, Haifeng Wang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-17629/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-17629/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.17629v2
+- 首次提交：2025-05-23T08:39:06Z
+- 版本更新日期：2025-05-27T07:41:51Z
+- 摘要 SHA-256：b0d87cf010efb0eb7a1fdeaffc16a01829f689103f364d62c853092b990c8962
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50（获取于 2026-11-05T21:13:58Z；SHA-256：62b85cd4bee4c668046d5f6eb67dedef915ba699d6765891016403c863691a73）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent
+
+GUI-explorer generates exploration goals from screenshots and interface structure, then mines observation-action-outcome triples for app-specific transition knowledge. The resulting training-free agent uses this knowledge during mobile task execution, evaluated on SPA-Bench and AndroidWorld.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-16827/
+- 原始来源：https://arxiv.org/abs/2505.16827
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、数据生成、记忆、规划
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.16827
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-16827/record.json
+
+### 作者
+
+Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, Liqiang Nie
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-16827/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-16827/citation.csl.json
+
+### 发表记录
+
+- 标题：GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent
+- 作者：Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, Liqiang Nie
+- 发表日期：2025-07
+- 发表来源：https://aclanthology.org/2025.acl-long.282/
+- 发表版 BibTeX：https://awesomecua.com/resources/arxiv-2505-16827/publication-citation.bib
+- 发表版 CSL JSON：https://awesomecua.com/resources/arxiv-2505-16827/publication-citation.csl.json
+- 发表于：Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- 出版方：Association for Computational Linguistics
+- 页码：5650-5667
+- DOI：10.18653/v1/2025.acl-long.282
+- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
+- 发表证据：https://aclanthology.org/2025.acl-long.282/
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.16827v1
+- 首次提交：2025-05-22T16:01:06Z
+- 版本更新日期：2025-05-22T16:01:06Z
+- 摘要 SHA-256：641001c49fccac1e1c0659fe765eba5a30cefd2a7ff5d00c821f79092c45a1df
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://aclanthology.org/2025.acl-long.282/（获取于 2026-10-18T04:09:59Z；SHA-256：40babce7d310777fa65a498c170320124d4d4941f2cb46ad0ff04aae3583e02f）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach
+
+FPWC builds and refines a task-oriented world model before planning mobile-device actions. It executes plans as code and evaluates the approach in simulated environments and on real mobile devices.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-16422/
+- 原始来源：https://arxiv.org/abs/2505.16422
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：世界模型、规划、手机操作
+- 证据核查日期：2026-10-18T04:21:52Z
+- ID：arxiv:2505.16422
+
+### 范围记录
+
+Reviewed against the complete official arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-16422/record.json
+
+### 作者
+
+Xiaoran Yin, Xu Luo, Hao Wu, Lianli Gao, Jingkuan Song
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-16422/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-16422/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.16422v3
+- 首次提交：2025-05-22T09:08:47Z
+- 版本更新日期：2025-09-05T02:24:00Z
+- 摘要 SHA-256：93c67222fb0f581e9f9cb3ff59c8d28faec9dc037180060ad5ac962b4469144c
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25（获取于 2026-10-18T04:21:52Z；SHA-256：c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77）
+- https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25（获取于 2026-10-18T04:21:52Z；SHA-256：c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77）
+
+---
+
+## WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning
+
+Trains web agents through asynchronous multi-turn environment interaction, using task-success rewards to optimize complete trajectories.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-16421/
+- 原始来源：https://arxiv.org/abs/2505.16421
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：强化学习、网页导航
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.16421
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-16421/record.json
+
+### 作者
+
+Zhepei Wei, Wenlin Yao, Yao Liu, Weizhi Zhang, Qin Lu, Liang Qiu, Changlong Yu, Puyang Xu, Chao Zhang, Bing Yin, Hyokun Yun, Lihong Li
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-16421/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-16421/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.16421v2
+- 首次提交：2025-05-22T09:07:43Z
+- 版本更新日期：2025-10-08T21:16:43Z
+- 摘要 SHA-256：f311fb50b36c234787e652b5689246460153a8f442e83b312048cdf6a4fb1502
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay
+
+ARPO extends group-relative policy optimization with a replay buffer that reuses successful GUI trajectories across training iterations. It filters tasks using baseline performance and compares end-to-end reinforcement learning with offline preference optimization on OSWorld.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-16282/
+- 原始来源：https://arxiv.org/abs/2505.16282
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：强化学习、长任务
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.16282
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-16282/record.json
+
+### 作者
+
+Fanbin Lu, Zhisheng Zhong, Shu Liu, Chi-Wing Fu, Jiaya Jia
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-16282/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-16282/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.16282v1
+- 首次提交：2025-05-22T06:24:32Z
+- 版本更新日期：2025-05-22T06:24:32Z
+- 摘要 SHA-256：c092569d4d79026ddbdcc3bc9da1cfc617ff44886dab0b36f311cc81083e0fb5
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## AutoData: A Multi-Agent System for Open Web Data Collection
+
+Introduces AutoData, a multi-agent system that collects web datasets from a natural-language request, and Instruct2DS, a benchmark for live collection across three domains.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-15859/
+- 原始来源：https://arxiv.org/abs/2505.15859
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：数据生成、自动化、评测、效率
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.15859
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-15859/record.json
+
+### 作者
+
+Tianyi Ma, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-15859/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-15859/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.15859v1
+- 首次提交：2025-05-21T04:32:35Z
+- 版本更新日期：2025-05-21T04:32:35Z
+- 摘要 SHA-256：f83130cb80d73287ecbc2a548ba0422c35adec45541f22e76c4ee5b1750d7a7f
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2401.05507%2C2406.07275%2C2409.16427%2C2410.00079%2C2503.07701%2C2503.22738%2C2505.15859%2C2505.17735%2C2505.23596%2C2507.05257%2C2507.06134%2C2507.21953%2C2507.23336%2C2508.06960%2C2508.08997%2C2509.02473%2C2509.23694%2C2510.09116%2C2510.14438%2C2511.18423%2C2512.12818%2C2512.13564%2C2601.10758%2C2601.12449%2C2601.21841%2C2603.01152%2C2603.19993%2C2603.20576%2C2604.04503%2C2604.17562%2C2604.23941%2C2605.16265%2C2606.06448%2C2606.06462%2C2606.29193%2C2607.01647%2C2607.13157&max_results=37（获取于 2026-10-16T07:54:03Z；SHA-256：13d5969845070cd2877dc51ae5300c2d623e5daef00c8a1552ffa46af3f721a5）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
+
+Analyzes reasoning templates, reward design, and policy updates in GUI grounding, then proposes targeted adjustments to the training process.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-15810/
+- 原始来源：https://arxiv.org/abs/2505.15810
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.15810
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-15810/record.json
+
+### 作者
+
+Yuqi Zhou, Sunhao Dai, Shuai Wang, Kaiwen Zhou, Qinglin Jia, Jun Xu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-15810/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-15810/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.15810v2
+- 首次提交：2025-05-21T17:59:09Z
+- 版本更新日期：2025-05-22T11:15:23Z
+- 摘要 SHA-256：321f2d627451d60e130c17574994648fae69fc784b0ed03f6560e7f1ef9eb023
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Web-Shepherd: Advancing PRMs for Reinforcing Web Agents
+
+Web-Shepherd is a process reward model for assessing individual steps of web-navigation trajectories. It introduces a collection of 40,000 step-level preference pairs with checklists and a separate benchmark for comparing reward models, then evaluates verification during WebArena-lite navigation.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-15277/
+- 原始来源：https://arxiv.org/abs/2505.15277
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：强化学习、评测、数据生成、网页导航
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.15277
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-15277/record.json
+
+### 作者
+
+Hyungjoo Chae, Sunghwan Kim, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-15277/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-15277/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.15277v2
+- 首次提交：2025-05-21T08:56:55Z
+- 版本更新日期：2025-11-25T21:34:57Z
+- 摘要 SHA-256：440abdc75c0a51478cfedc6ee0a9196ccff641ec5a23849ba56be43448bab15f
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## ReGUIDE: Data Efficient GUI Grounding via Spatial Reasoning and Search
+
+Combines self-generated localization reasoning, spatial consistency checks, and inference-time search to improve data-efficient web grounding.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-15259/
+- 原始来源：https://arxiv.org/abs/2505.15259
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.15259
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-15259/record.json
+
+### 作者
+
+Hyunseok Lee, Jeonghoon Kim, Beomjun Kim, Jihoon Tack, Chansong Jo, Jaehong Lee, Cheonbok Park, Sookyo In, Jinwoo Shin, Kang Min Yoo
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-15259/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-15259/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.15259v2
+- 首次提交：2025-05-21T08:36:18Z
+- 版本更新日期：2025-05-24T15:08:35Z
+- 摘要 SHA-256：9acb7a88a0cf07427c1878c896dec920852810879c30bad8692358f2e2016539
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## MedBrowseComp: Benchmarking Medical Deep Research and Computer Use
+
+Introduces MedBrowseComp, a benchmark of human-curated, multi-hop medical questions for agents retrieving and synthesizing facts from live knowledge bases in a computer-use setting.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-14963/
+- 原始来源：https://arxiv.org/abs/2505.14963
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：评测、长任务
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.14963
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-14963/record.json
+
+### 作者
+
+Shan Chen, Pedro Moreira, Yuxin Xiao, Sam Schmidgall, Jeremy Warner, Hugo Aerts, Thomas Hartvigsen, Jack Gallifant, Danielle S. Bitterman
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-14963/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-14963/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.14963v1
+- 首次提交：2025-05-20T22:42:33Z
+- 版本更新日期：2025-05-20T22:42:33Z
+- 摘要 SHA-256：a227e1d3ab5d05be9df0de9df0de1ae4842c2757ba522304feca3b6008473661
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents
+
+Studies backdoor risks in mobile GUI agents through AgentGhost, which combines goal-level and interaction-history triggers during model training. The paper evaluates multiple mobile agents and a tailored defense.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-14418/
+- 原始来源：https://arxiv.org/abs/2505.14418
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：安全与防护、手机操作、交互历史
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.14418
+
+### 范围记录
+
+Reviewed against the complete retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-14418/record.json
+
+### 作者
+
+Pengzhou Cheng, Haowen Hu, Zheng Wu, Zongru Wu, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-14418/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-14418/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.14418v3
+- 首次提交：2025-05-20T14:29:18Z
+- 版本更新日期：2026-06-15T06:42:51Z
+- 摘要 SHA-256：815345ed44d70f40ce9784c212d269ffaaa476e5c2ea5cdbbaaeb98d22eba3cb
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks
+
+Introduces EVA, a red-teaming framework that evolves semantic payloads for GUI environmental-injection tests. It studies the contribution of semantic versus visual deception and distills discovered patterns into reusable evaluation rules.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-14289/
+- 原始来源：https://arxiv.org/abs/2505.14289
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：安全与防护、评测
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.14289
+
+### 范围记录
+
+Reviewed against the complete retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-14289/record.json
+
+### 作者
+
+Yijie Lu, Manman Zhao, Tianjie Ju, Zihe Yan, Xinbei Ma, Yuan Guo, Daizong Ding, Gongshen Liu, Zhuosheng Zhang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-14289/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-14289/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.14289v2
+- 首次提交：2025-05-20T12:41:05Z
+- 版本更新日期：2026-06-05T10:24:33Z
+- 摘要 SHA-256：2c256d8b0d774efdeee896860f8c504c0d1593215508fdf0881d3fd3cdc3968c
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Building a Stable Planner: An Extended Finite State Machine Based Planning Module for Mobile GUI Agent
+
+SPlanner models mobile-app functions and configurations with extended finite-state machines, traverses them to construct execution paths, and converts those paths into natural-language plans. A VLM follows these plans to perform GUI actions, with evaluation on AndroidWorld.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-14141/
+- 原始来源：https://arxiv.org/abs/2505.14141
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：规划、手机操作
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.14141
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-14141/record.json
+
+### 作者
+
+Fanglin Mo, Junzhe Chen, Haoxuan Zhu, Xuming Hu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-14141/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-14141/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.14141v1
+- 首次提交：2025-05-20T09:45:55Z
+- 版本更新日期：2025-05-20T09:45:55Z
+- 摘要 SHA-256：de6c501a42c3828bdf795ac59c38b982e738c38bd5d0c59cfb6cb10b51e39292
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Efficient Agent Training for Computer Use
+
+PC Agent-E augments 312 human computer-use trajectories with alternative action decisions synthesized by Claude 3.7 Sonnet. It studies training with this combination and introduces WindowsAgentArena-V2 as an updated evaluation benchmark.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-13909/
+- 原始来源：https://arxiv.org/abs/2505.13909
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Windows、桌面
+- 主题：数据生成、评测
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.13909
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-13909/record.json
+
+### 作者
+
+Yanheng He, Jiahe Jin, Pengfei Liu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-13909/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-13909/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.13909v2
+- 首次提交：2025-05-20T04:20:18Z
+- 版本更新日期：2026-03-03T03:55:55Z
+- 摘要 SHA-256：026a64046926912a54e6a7c6cf62a17740a6f89a94713615f9750f8bf8302c78
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis
+
+Introduces OSWorld-G grounding evaluation and the Jedi synthesis pipeline for examples spanning layout reasoning and fine-grained interaction.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-13227/
+- 原始来源：https://arxiv.org/abs/2505.13227
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：GUI 定位、数据生成、评测
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.13227
+
+### 范围记录
+
+Summary and topic tags reviewed against the primary abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-13227/record.json
+
+### 作者
+
+Tianbao Xie, Jiaqi Deng, Xiaochuan Li, Junlin Yang, Haoyuan Wu, Jixuan Chen, Wenjing Hu, Xinyuan Wang, Yuhui Xu, Zekun Wang, Yiheng Xu, Junli Wang, Doyen Sahoo, Tao Yu, Caiming Xiong
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-13227/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-13227/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.13227v3
+- 首次提交：2025-05-19T15:09:23Z
+- 版本更新日期：2025-10-24T19:08:03Z
+- 摘要 SHA-256：1bec4ad578c01ebdfb58bd269562d3ca7a2bd8d2687cde07cb867db0b78cb105
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## The Hidden Dangers of Browsing AI Agents
+
+Outlines an end-to-end threat model and empirical security evaluation across architectural layers of autonomous browser agents.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-13076/
+- 原始来源：https://arxiv.org/abs/2505.13076
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：安全与防护、网页导航、评测
+- 证据核查日期：2026-10-18T10:54:08Z
+- ID：arxiv:2505.13076
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-13076/record.json
+
+### 作者
+
+Mykyta Mudryi, Markiyan Chaklosh, Grzegorz Wójcik
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-13076/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-13076/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.13076v1
+- 首次提交：2025-05-19T13:10:29Z
+- 版本更新日期：2025-05-19T13:10:29Z
+- 摘要 SHA-256：709ee511ffa39e805fcc58abe066cf2cec6c1707a4a9c64d9cfd107bef7544af
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50（获取于 2026-10-18T10:54:08Z；SHA-256：00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec）
+- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50（获取于 2026-10-18T10:54:08Z；SHA-256：00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec）
+
+---
+
+## From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents
+
+Analyzes security vulnerabilities across OEM system-level, third-party, and research mobile LLM agents, covering GUI and cross-application attack surfaces.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-12981/
+- 原始来源：https://arxiv.org/abs/2505.12981
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：安全与防护、手机操作、评测
+- 证据核查日期：2026-10-18T10:54:08Z
+- ID：arxiv:2505.12981
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-12981/record.json
+
+### 作者
+
+Liangxuan Wu, Chao Wang, Tianming Liu, Yanjie Zhao, Haoyu Wang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-12981/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-12981/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.12981v2
+- 首次提交：2025-05-19T11:17:46Z
+- 版本更新日期：2025-05-20T07:02:05Z
+- 摘要 SHA-256：9657a66aebe46151ed56bf76131ffe45f52459c1cf0e000907113776c91259d9
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50（获取于 2026-10-18T10:54:08Z；SHA-256：00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec）
+- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50（获取于 2026-10-18T10:54:08Z；SHA-256：00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec）
+
+---
+
+## GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents
+
+GEM detects instructions outside a GUI agent’s capabilities by modeling distances in its input-embedding space with a Gaussian mixture. Experiments across mobile, computer and browser data also examine selective escalation to a cloud model when an input is detected as unfamiliar.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-12842/
+- 原始来源：https://arxiv.org/abs/2505.12842
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、网页、跨平台
+- 主题：鲁棒性、安全与防护、评测、效率
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.12842
+
+### 范围记录
+
+The annotation was reviewed against the complete retained primary abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-12842/record.json
+
+### 作者
+
+Zheng Wu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-12842/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-12842/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：4
+- 版本来源：https://arxiv.org/abs/2505.12842v4
+- 首次提交：2025-05-19T08:29:05Z
+- 版本更新日期：2025-11-22T15:07:27Z
+- 摘要 SHA-256：ce9570eb6a52feb220cdd2eb4c7f37a2ea63082febe48888a2654c974138a82d
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents
+
+Introduces MONDAY and an automated pipeline that extracts mobile-navigation training data from instructional videos across operating-system platforms.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-12632/
+- 原始来源：https://arxiv.org/abs/2505.12632
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台
+- 主题：视频、数据生成、手机操作
+- 证据核查日期：2026-10-16T06:31:42Z
+- ID：arxiv:2505.12632
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-12632/record.json
+
+### 作者
+
+Yunseok Jang, Yeda Song, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-12632/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-12632/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.12632v1
+- 首次提交：2025-05-19T02:39:03Z
+- 版本更新日期：2025-05-19T02:39:03Z
+- 摘要 SHA-256：64672e6a3450256a8b04d9db231e885e2dd4e8688235f6c7853d70d6276610ff
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+
+---
+
+## GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning
+
+GUI-Shift trains an inverse-dynamics task that predicts the initial action connecting two GUI states, using trajectories without natural-language instructions. It combines rule-based reinforcement learning with data filtering and evaluates transfer to Android automation and screenshot grounding.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-12493/
+- 原始来源：https://arxiv.org/abs/2505.12493
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：强化学习、数据生成、GUI 定位、手机操作
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.12493
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-12493/record.json
+
+### 作者
+
+Longxi Gao, Li Zhang, Pengzhi Gao, Wei Liu, Jian Luan, Mengwei Xu
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-12493/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-12493/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.12493v3
+- 首次提交：2025-05-18T16:34:30Z
+- 版本更新日期：2025-10-10T09:28:53Z
+- 摘要 SHA-256：10d826ea7715ab7054522a9dcba622d5dae3e6c3faee421e4b168e16104d184b
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning
+
+Proposes GUI grounding training that combines curated seed examples, continuous location-dependent policy feedback, and iterative refinement guided by attention maps. The study evaluates the resulting reinforcement-learning procedure on three grounding benchmarks, including ScreenSpot-Pro.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-12370/
+- 原始来源：https://arxiv.org/abs/2505.12370
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：GUI 定位、强化学习
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.12370
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-12370/record.json
+
+### 作者
+
+Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang Wang, Qibin Hou, Jinwei Chen, Peng-Tao Jiang, Bo Li
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-12370/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-12370/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.12370v2
+- 首次提交：2025-05-18T11:22:04Z
+- 版本更新日期：2025-05-24T03:01:02Z
+- 摘要 SHA-256：755f885b79e9f3eef9b4cbdb8593fb3cde1ac8a92f86df52d5d4203eb6cad039
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning
+
+MobileIPL samples trees of action-planning thoughts, propagates rule-based leaf rewards backward, and forms preference pairs for reasoning-level optimization. It also expands screenshot-based instruction data through staged evolution before evaluation on mobile GUI-agent benchmarks.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-12299/
+- 原始来源：https://arxiv.org/abs/2505.12299
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：手机操作、强化学习、规划、数据生成
+- 证据核查日期：2026-10-16T06:31:42Z
+- ID：arxiv:2505.12299
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-12299/record.json
+
+### 作者
+
+Kun Huang, Weikai Xu, Yuxuan Liu, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan, Bin Wang, Bo An
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-12299/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-12299/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：4
+- 版本来源：https://arxiv.org/abs/2505.12299v4
+- 首次提交：2025-05-18T08:28:05Z
+- 版本更新日期：2026-03-21T09:25:27Z
+- 摘要 SHA-256：9bc92029e16b5afb4b54837d2ab2304c7b8176548061c9deafdca101754128dc
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+
+---
+
+## Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents
+
+Mobile-Bench-v2 evaluates mobile GUI agents using multiple acceptable offline action paths, noisy interfaces with ads or pop-ups, and ambiguous instructions with scripted clarification exchanges. These splits separate step-level execution, robustness, and proactive interaction.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-11891/
+- 原始来源：https://arxiv.org/abs/2505.11891
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：评测、手机操作、鲁棒性、人机协作
+- 证据核查日期：2026-10-16T06:31:42Z
+- ID：arxiv:2505.11891
+
+### 范围记录
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-11891/record.json
+
+### 作者
+
+Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-11891/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-11891/citation.csl.json
+
+### 发表记录
+
+- 标题：SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks
+- 作者：Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
+- 发表日期：2026-04-20
+- 发表来源：https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html
+- 发表版 BibTeX：https://awesomecua.com/resources/arxiv-2505-11891/publication-citation.bib
+- 发表版 CSL JSON：https://awesomecua.com/resources/arxiv-2505-11891/publication-citation.csl.json
+- 发表于：International Conference on Learning Representations
+- 卷：2026
+- 页码：16218-16250
+- 日期来源：Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
+- 版本对应依据：Same work under a new title: the retained arXiv title is Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents. The PDF title page lists the same ten authors in the same order as arXiv, and the publisher abstract describes the same slot-based instruction generation, common split with offline multi-path evaluation, pop-up and ad-app noisy split, AITZ-Noise contaminated split and ambiguous split with preset Q&A interactions.
+- 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. The conference edition is retitled SMAN-Bench, for its Single-path, Multi-path, Ambiguous and Noisy task settings, and its PDF names github.com/gezelligheid0314/SMAN-Bench for code and datasets. Its abstract lists Mobile-Agent-E among the evaluated frameworks, where the retained v3 abstract names UI-Tars and OS-Atlas. The landing page metadata lists Yunxin Liu before Yuanchun Li and writes LIU, WEI in capitals; publication authors follow the PDF title page. Volume 2026 and pages 16218-16250 are explicit publisher citation metadata.
+- 发表证据：https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2026/file/1b4279dc1ec8d0183c22528664d84459-Paper-Conference.pdf
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.11891v3
+- 首次提交：2025-05-17T07:58:34Z
+- 版本更新日期：2026-02-02T06:55:10Z
+- 摘要 SHA-256：5ca1ebfdd5a96e146d37539294462c7fb67bf20deaf77307de37aa3bb1dde082
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+- https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html（获取于 2026-10-19T07:59:16Z；SHA-256：1b2f547a7e5e443c8be94e9e904bb17564f9c9175d17063b3d5fa462b0e039bf）
+- https://proceedings.iclr.cc/paper_files/paper/2026/file/1b4279dc1ec8d0183c22528664d84459-Paper-Conference.pdf（获取于 2026-10-19T07:59:21Z；SHA-256：061442053b0487074fd3556a298e8e7a8715741c6f8939b31ead7b9326ffccb6）
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50（获取于 2026-10-16T06:31:42Z；SHA-256：afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e）
+
+---
+
+## WebInject: Prompt Injection Attack to Web Agents
+
+Introduces WebInject, a prompt-injection attack that optimizes rendered webpage pixels to make screenshot-based web agents take attacker-chosen actions.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-11717/
+- 原始来源：https://arxiv.org/abs/2505.11717
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：安全与防护、网页导航
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.11717
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v4).
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-11717/record.json
+
+### 作者
+
+Xilong Wang, John Bloch, Zedian Shao, Yuepeng Hu, Shuyan Zhou, Neil Zhenqiang Gong
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-11717/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-11717/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：4
+- 版本来源：https://arxiv.org/abs/2505.11717v4
+- 首次提交：2025-05-16T22:00:26Z
+- 版本更新日期：2025-10-17T01:52:39Z
+- 摘要 SHA-256：989673e9cb9103f8c7a28a0b4d838bd83c6e5d87b7f5e44bdb6753d7f0c69a88
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## Group-in-Group Policy Optimization for LLM Agent Training
+
+Introduces Group-in-Group Policy Optimization (GiGPO), an RL method for assigning step-level credit in multi-turn agents, evaluated on WebShop among other tasks.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-10978/
+- 原始来源：https://arxiv.org/abs/2505.10978
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：强化学习、奖励模型
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.10978
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several agent benchmarks used to evaluate the general training method.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-10978/record.json
+
+### 作者
+
+Lang Feng, Zhenghai Xue, Tingcong Liu, Bo An
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-10978/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-10978/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.10978v3
+- 首次提交：2025-05-16T08:26:59Z
+- 版本更新日期：2025-10-28T15:11:36Z
+- 摘要 SHA-256：a3faa5753692553b6ef3309532d37c2607e3cd9733475979ff456f588fc2a542
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50（获取于 2026-11-05T21:13:58Z；SHA-256：62b85cd4bee4c668046d5f6eb67dedef915ba699d6765891016403c863691a73）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?
+
+Systematizes safety and security threats to computer-using agents, with taxonomies of threats and defensive strategies.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-10924/
+- 原始来源：https://arxiv.org/abs/2505.10924
+- 类型：综述
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台
+- 主题：综述、安全与防护
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.10924
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-10924/record.json
+
+### 作者
+
+Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun Wang, Wenxuan Wang, Shuai Wang
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-10924/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-10924/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：4
+- 版本来源：https://arxiv.org/abs/2505.10924v4
+- 首次提交：2025-05-16T06:56:42Z
+- 版本更新日期：2026-04-29T05:56:22Z
+- 摘要 SHA-256：e8a0890cd57809ff5e3bede6dc2b851b42fad9307a5bfa0ddd744cc2ac70d0c2
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction
+
+Introduces InfantAgent-Next, a modular multimodal computer agent that combines tool-based and vision agents for stepwise tasks, with evaluation on OSWorld and other benchmarks.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-10887/
+- 原始来源：https://arxiv.org/abs/2505.10887
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：工具集成、规划
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.10887
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Its evaluation also includes GAIA and SWE-Bench, beyond the computer-interaction benchmark OSWorld.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-10887/record.json
+
+### 作者
+
+Bin Lei, Weitai Kang, Zijian Zhang, Winson Chen, Xi Xie, Shan Zuo, Mimi Xie, Ali Payani, Mingyi Hong, Yan Yan, Caiwen Ding
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-10887/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-10887/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.10887v3
+- 首次提交：2025-05-16T05:43:27Z
+- 版本更新日期：2026-05-01T07:44:01Z
+- 摘要 SHA-256：3e5e0ff8846bd74cf0ba92f1ef65ef0309967274d7da347c62cda2940ceba25a
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2504.03206%2C2504.03601%2C2504.06821%2C2504.09723%2C2504.11301%2C2504.11543%2C2504.12609%2C2504.14233%2C2504.14348%2C2504.14603%2C2504.16073%2C2504.16419%2C2504.17892%2C2504.18580%2C2504.20965%2C2505.00019%2C2505.00693%2C2505.01578%2C2505.02094%2C2505.03570%2C2505.03574%2C2505.05026%2C2505.05849%2C2505.06507%2C2505.07003%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.15801%2C2505.15816%2C2505.17020%2C2505.18746%2C2505.19095%2C2505.19713%2C2505.20023%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.23450%2C2505.23559%2C2506.00641&max_results=50（获取于 2026-10-17T07:57:47Z；SHA-256：27144160e8981bb9f36b60c391689774913ff3f026eeeffc2923154c404a6529）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）
+
+---
+
+## Creating General User Models from Computer Use
+
+Proposes general user models that turn computer-use observations into confidence-weighted propositions and revise them as new context arrives. Demonstrations use this memory to contextualize assistants, manage notifications, and support proactive actions across apps.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-10831/
+- 原始来源：https://arxiv.org/abs/2505.10831
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：记忆、人机协作、跨应用
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.10831
+
+### 范围记录
+
+Reviewed against the complete retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-10831/record.json
+
+### 作者
+
+Omar Shaikh, Shardul Sapkota, Shan Rizvi, Eric Horvitz, Joon Sung Park, Diyi Yang, Michael S. Bernstein
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-10831/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-10831/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：3
+- 版本来源：https://arxiv.org/abs/2505.10831v3
+- 首次提交：2025-05-16T04:00:31Z
+- 版本更新日期：2025-09-21T00:03:34Z
+- 摘要 SHA-256：d986ee6aa62b11759c366fa9f6a01a1a0b12eae715970eacd8053dbbb6622fe5
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps
+
+LLM-Explorer uses language models to maintain compact knowledge for mobile app exploration, then generates actions without invoking the model at every step. The study compares exploration coverage and cost across twenty apps.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-10593/
+- 原始来源：https://arxiv.org/abs/2505.10593
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：手机操作、效率
+- 证据核查日期：2026-10-18T04:21:52Z
+- ID：arxiv:2505.10593
+
+### 范围记录
+
+Reviewed against the complete official arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-10593/record.json
+
+### 作者
+
+Shanhui Zhao, Hao Wen, Wenjie Du, Cheng Liang, Yunxin Liu, Xiaozhou Ye, Ye Ouyang, Yuanchun Li
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-10593/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-10593/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.10593v1
+- 首次提交：2025-05-15T05:28:35Z
+- 版本更新日期：2025-05-15T05:28:35Z
+- 摘要 SHA-256：08cc5be720ac4e82560ad6b7549f4c38c24603d23d9d051894d1078c247059e2
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25（获取于 2026-10-18T04:21:52Z；SHA-256：c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77）
+- https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25（获取于 2026-10-18T04:21:52Z；SHA-256：c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77）
+
+---
+
+## Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing
+
+Studies unintended consequences of collaborative web browsing with GUI agents through social-media analysis and interviews. It organizes observed failures, user impacts, and mitigation practices around planning, interface interaction, feedback, privacy, and trust.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-09875/
+- 原始来源：https://arxiv.org/abs/2505.09875
+- 类型：论文
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：人机协作、评测、安全与防护
+- 证据核查日期：2026-10-16T06:36:54Z
+- ID：arxiv:2505.09875
+
+### 范围记录
+
+Reviewed against the complete retained original arXiv abstract.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-09875/record.json
+
+### 作者
+
+Shuning Zhang, Jingruo Chen, Zhiqi Gao, Jiajing Gao, Xin Yi, Hewu Li
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-09875/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-09875/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：2
+- 版本来源：https://arxiv.org/abs/2505.09875v2
+- 首次提交：2025-05-15T00:42:51Z
+- 版本更新日期：2025-05-16T07:01:20Z
+- 摘要 SHA-256：63f4a505645fec16eac6b59923a6c1979c53376f19c6a4ea53c9a5d32a45e3d4
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending（获取于 2026-10-16T06:36:54Z；SHA-256：4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089）
+
+---
+
+## Seed1.5-VL Technical Report
+
+Reports Seed1.5-VL, a general vision-language model evaluated on GUI control and gameplay alongside visual understanding and reasoning tasks.
+
+- 目录页面：https://awesomecua.com/resources/arxiv-2505-07062/
+- 原始来源：https://arxiv.org/abs/2505.07062
+- 类型：论文
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：评测、界面理解
+- 证据核查日期：2026-11-05T23:01:45Z
+- ID：arxiv:2505.07062
+
+### 范围记录
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI control is one agent task within a broader vision-language model report.
+
+- 完整记录 JSON：https://awesomecua.com/resources/arxiv-2505-07062/record.json
+
+### 作者
+
+Dong Guo, Faming Wu, Feida Zhu, Fuxing Leng, Guang Shi, Haobin Chen, Haoqi Fan, Jian Wang, Jianyu Jiang, Jiawei Wang, Jingji Chen, Jingjia Huang, Kang Lei, Liping Yuan, Lishu Luo, Pengfei Liu, Qinghao Ye, Rui Qian, Shen Yan, Shixiong Zhao, Shuai Peng, Shuangye Li, Sihang Yuan, Sijin Wu, Tianheng Cheng, Weiwei Liu, Wenqian Wang, Xianhan Zeng, Xiao Liu, Xiaobo Qin, Xiaohan Ding, Xiaojun Xiao, Xiaoying Zhang, Xuanwei Zhang, Xuehan Xiong, Yanghua Peng, Yangrui Chen, Yanwei Li, Yanxu Hu, Yi Lin, Yiyuan Hu, Yiyuan Zhang, Youbin Wu, Yu Li, Yudong Liu, Yue Ling, Yujia Qin, Zanbo Wang, Zhiwu He, Aoxue Zhang, Bairen Yi, Bencheng Liao, Can Huang, Can Zhang, Chaorui Deng, Chaoyi Deng, Cheng Lin, Cheng Yuan, Chenggang Li, Chenhui Gou, Chenwei Lou, Chengzhi Wei, Chundian Liu, Chunyuan Li, Deyao Zhu, Donghong Zhong, Feng Li, Feng Zhang, Gang Wu, Guodong Li, Guohong Xiao, Haibin Lin, Haihua Yang, Haoming Wang, Heng Ji, Hongxiang Hao, Hui Shen, Huixia Li, Jiahao Li, Jialong Wu, Jianhua Zhu, Jianpeng Jiao, Jiashi Feng, Jiaze Chen, Jianhui Duan, Jihao Liu, Jin Zeng, Jingqun Tang, Jingyu Sun, Joya Chen, Jun Long, Junda Feng, Junfeng Zhan, Junjie Fang, Junting Lu, Kai Hua, Kai Liu, Kai Shen, Kaiyuan Zhang, Ke Shen, Ke Wang, Keyu Pan, Kun Zhang, Kunchang Li, Lanxin Li, Lei Li, Lei Shi, Li Han, Liang Xiang, Liangqiang Chen, Lin Chen, Lin Li, Lin Yan, Liying Chi, Longxiang Liu, Mengfei Du, Mingxuan Wang, Ningxin Pan, Peibin Chen, Pengfei Chen, Pengfei Wu, Qingqing Yuan, Qingyao Shuai, Qiuyan Tao, Renjie Zheng, Renrui Zhang, Ru Zhang, Rui Wang, Rui Yang, Rui Zhao, Shaoqiang Xu, Shihao Liang, Shipeng Yan, Shu Zhong, Shuaishuai Cao, Shuangzhi Wu, Shufan Liu, Shuhan Chang, Songhua Cai, Tenglong Ao, Tianhao Yang, Tingting Zhang, Wanjun Zhong, Wei Jia, Wei Weng, Weihao Yu, Wenhao Huang, Wenjia Zhu, Wenli Yang, Wenzhi Wang, Xiang Long, XiangRui Yin, Xiao Li, Xiaolei Zhu, Xiaoying Jia, Xijin Zhang, Xin Liu, Xinchen Zhang, Xinyu Yang, Xiongcai Luo, Xiuli Chen, Xuantong Zhong, Xuefeng Xiao, Xujing Li, Yan Wu, Yawei Wen, Yifan Du, Yihao Zhang, Yining Ye, Yonghui Wu, Yu Liu, Yu Yue, Yufeng Zhou, Yufeng Yuan, Yuhang Xu, Yuhong Yang, Yun Zhang, Yunhao Fang, Yuntao Li, Yurui Ren, Yuwen Xiong, Zehua Hong, Zehua Wang, Zewei Sun, Zeyu Wang, Zhao Cai, Zhaoyue Zha, Zhecheng An, Zhehui Zhao, Zhengzhuo Xu, Zhipeng Chen, Zhiyong Wu, Zhuofan Zheng, Zihao Wang, Zilong Huang, Ziyu Zhu, Zuquan Song
+
+### 引用文件
+
+- BibTeX：https://awesomecua.com/resources/arxiv-2505-07062/citation.bib
+- CSL JSON：https://awesomecua.com/resources/arxiv-2505-07062/citation.csl.json
+
+### arXiv 版本记录
+
+- 版本：1
+- 版本来源：https://arxiv.org/abs/2505.07062v1
+- 首次提交：2025-05-11T17:28:30Z
+- 版本更新日期：2025-05-11T17:28:30Z
+- 摘要 SHA-256：3f64de3784ee62393b50c3e56950736d7eb83bc26d4525fd603dddbaefc9b81f
+- 摘要哈希规范化方式：sha256-utf8-whitespace-collapsed-v1
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50（获取于 2026-11-05T21:13:58Z；SHA-256：62b85cd4bee4c668046d5f6eb67dedef915ba699d6765891016403c863691a73）
+- https://export.arxiv.org/api/query?id_list=2505.05262%2C2505.05849%2C2505.05895%2C2505.06507%2C2505.07003%2C2505.07062%2C2505.07473%2C2505.10468%2C2505.10887%2C2505.10978%2C2505.11717%2C2505.12053%2C2505.12490%2C2505.12728%2C2505.13291%2C2505.13887%2C2505.14030%2C2505.14454%2C2505.14646%2C2505.14963%2C2505.15801%2C2505.15816%2C2505.15859%2C2505.17020%2C2505.17629%2C2505.17735%2C2505.18746%2C2505.19713%2C2505.20023%2C2505.20075%2C2505.20732%2C2505.20795%2C2505.21055%2C2505.22304%2C2505.22429%2C2505.22648%2C2505.23450%2C2505.23559%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.00641%2C2506.01423%2C2506.01520%2C2506.01952%2C2506.02153%2C2506.03231%2C2506.03569%2C2506.04301&max_results=50（获取于 2026-11-05T23:01:45Z；SHA-256：72d781966615fe4da127a9c089d5d6ab85838feb4205ef1ebd446ef97189bf70）

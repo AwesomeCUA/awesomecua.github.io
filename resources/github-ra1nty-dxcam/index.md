@@ -12,10 +12,6 @@ DXcam is a high-frequency Python screen capture library for Windows using the De
 - Evidence checked: 2026-11-04T14:02:37Z
 - ID: github:ra1nty/dxcam
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ra1nty-dxcam/record.json
 
 ## License declarations

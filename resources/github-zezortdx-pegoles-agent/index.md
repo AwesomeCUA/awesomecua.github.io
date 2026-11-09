@@ -12,10 +12,6 @@ Pegoles Agent runs a macOS computer-use controller against an isolated Linux vir
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:zezortdx/pegoles-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zezortdx-pegoles-agent/record.json
 
 ## License declarations

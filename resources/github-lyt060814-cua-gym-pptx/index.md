@@ -12,10 +12,6 @@ Synthesizes and grades verifiable computer-use reinforcement-learning tasks from
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:lyt060814/cua-gym.pptx
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lyt060814-cua-gym-pptx/record.json
 
 ## License declarations

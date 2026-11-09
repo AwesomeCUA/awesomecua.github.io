@@ -12,10 +12,6 @@ Mobile-Bench evaluates LLM-based mobile agents on multi-step Android tasks combi
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xiaomi/mobilebench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiaomi-mobilebench/record.json
 
 ## License declarations

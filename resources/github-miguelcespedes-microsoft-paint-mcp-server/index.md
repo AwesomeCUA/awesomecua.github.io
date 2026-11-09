@@ -12,10 +12,6 @@ Semantic Model Context Protocol interface for Microsoft Paint allowing AI agents
 - Evidence checked: 2026-11-04T16:51:56Z
 - ID: github:miguelcespedes/microsoft-paint-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-miguelcespedes-microsoft-paint-mcp-server/record.json
 
 ## License declarations

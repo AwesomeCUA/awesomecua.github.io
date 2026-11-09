@@ -12,10 +12,6 @@ DroidBot-GPT connects DroidBot UI state extraction with large language models to
 - Evidence checked: 2026-11-04T13:12:26Z
 - ID: github:mobilellm/droidbot-gpt
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mobilellm-droidbot-gpt/record.json
 
 ## License declarations

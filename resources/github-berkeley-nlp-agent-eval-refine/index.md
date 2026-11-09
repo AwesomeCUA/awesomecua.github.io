@@ -12,10 +12,6 @@ Provides VLM evaluator and policy-refinement code for autonomous evaluation and 
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:berkeley-nlp/agent-eval-refine
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-berkeley-nlp-agent-eval-refine/record.json
 
 ## License declarations

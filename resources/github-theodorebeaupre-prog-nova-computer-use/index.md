@@ -12,10 +12,6 @@ Native, local-first macOS Computer Use runtime for Codex on both Intel and Apple
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:theodorebeaupre-prog/nova-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-theodorebeaupre-prog-nova-computer-use/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ ENVISIONS is an environment-guided neural-symbolic self-training framework for l
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xufangzhi/envisions
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xufangzhi-envisions/record.json
 
 ## License declarations

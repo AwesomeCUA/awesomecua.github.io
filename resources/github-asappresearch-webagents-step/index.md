@@ -12,10 +12,6 @@ SteP implements dynamically composed Markovian LLM policies for multi-step web n
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:asappresearch/webagents-step
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-asappresearch-webagents-step/record.json
 
 ## License declarations

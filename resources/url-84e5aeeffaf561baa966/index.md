@@ -20,10 +20,10 @@ The public manifest contains reward_data.jsonl but no separately packaged image 
 
 ## Structured profile
 
-- formats: JSONL
-- modalities: text
-- splits: not recorded
-- supervision: trajectory rewards
+- Formats: JSONL
+- Modalities: text
+- Splits: not recorded
+- Supervision: trajectory rewards
 
 ### Count observations
 

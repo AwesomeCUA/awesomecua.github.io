@@ -12,10 +12,6 @@ LGWM is an action-conditioned latent GUI world model that predicts next-state re
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:jiamingzhang94/lgwm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jiamingzhang94-lgwm/record.json
 
 ## License declarations

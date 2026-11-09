@@ -12,10 +12,6 @@ Bounded Chinese-first voice-to-browser agent that translates spoken commands int
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:raidriar7170/voice-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-raidriar7170-voice-browser-agent/record.json
 
 ## License declarations

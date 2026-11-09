@@ -12,10 +12,6 @@ Phone agent model and framework with device interaction tooling.
 - Evidence checked: 2026-10-16T06:40:53Z
 - ID: github:zai-org/open-autoglm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zai-org-open-autoglm/record.json
 
 ## License declarations

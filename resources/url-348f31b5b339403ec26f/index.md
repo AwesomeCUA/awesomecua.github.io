@@ -20,10 +20,10 @@ The repository contains only JPEG frames packed in tar shards (671 for part16, 8
 
 ## Structured profile
 
-- formats: tar archives of JPEG frames
-- modalities: screenshots
-- splits: not recorded
-- supervision: frames referenced by video-derived trajectory annotations
+- Formats: tar archives of JPEG frames
+- Modalities: screenshots
+- Splits: not recorded
+- Supervision: frames referenced by video-derived trajectory annotations
 
 ### Count observations
 

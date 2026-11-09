@@ -12,10 +12,6 @@ GUI grounding model trained to locate visual interface elements.
 - Evidence checked: 2026-10-16T06:36:00Z
 - ID: github:njucckevin/seeclick
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-njucckevin-seeclick/record.json
 
 ## License declarations

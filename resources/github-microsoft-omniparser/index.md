@@ -12,10 +12,6 @@ Screenshot parser that detects interactable regions and captions icons so vision
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:microsoft/omniparser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-omniparser/record.json
 
 ## License declarations

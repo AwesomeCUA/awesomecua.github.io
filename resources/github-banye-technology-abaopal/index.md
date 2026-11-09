@@ -12,10 +12,6 @@ Open-source multi-agent Android phone automation assistant that understands scre
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:banye-technology/abaopal
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-banye-technology-abaopal/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Hardened Model Context Protocol server giving AI agents Chrome DevTools Protocol
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:rsgoksel/mechcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rsgoksel-mechcp/record.json
 
 ## License declarations

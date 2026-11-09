@@ -12,10 +12,6 @@
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:showlab/worldgui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-worldgui/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser-native human-in-the-loop WebMCP workbench with evidence-bounded action v
 - Evidence checked: 2026-11-04T17:55:15Z
 - ID: github:subbu-ctd/chinamarketingai-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-subbu-ctd-chinamarketingai-webmcp/record.json
 
 ## License declarations

@@ -12,19 +12,15 @@ Android emulator testbed that scores mobile device-control agents on both safety
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:jylee425/mobilesafetybench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jylee425-mobilesafetybench/record.json
 
 ## Structured profile
 
-- actions: tap/long-tap/swipe, navigation buttons and text editing, refuse, ask-consent and complete, task-specific shortcut actions
-- evaluation: Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results include separate goal-achievement, harm-prevention, risk-detection and completion-progress measures.
-- focus: mobile task helpfulness, harm prevention during Android interaction
-- observations: screenshot pixels, parsed UI hierarchy text, task instruction and interaction history
-- setting: interactive
+- Actions / outputs: tap/long-tap/swipe, navigation buttons and text editing, refuse, ask-consent and complete, task-specific shortcut actions
+- Evaluation: Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results include separate goal-achievement, harm-prevention, risk-detection and completion-progress measures.
+- Focus: mobile task helpfulness, harm prevention during Android interaction
+- Observations: screenshot pixels, parsed UI hierarchy text, task instruction and interaction history
+- Setting: interactive
 
 ### Count observations
 

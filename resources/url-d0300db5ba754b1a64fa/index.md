@@ -20,10 +20,10 @@ The official project explicitly links this corpus, and the ungated Hub API lists
 
 ## Structured profile
 
-- formats: JSONL
-- modalities: text
-- splits: not recorded
-- supervision: synthesized static planning knowledge, synthesized dynamic causal knowledge
+- Formats: JSONL
+- Modalities: text
+- Splits: not recorded
+- Supervision: synthesized static planning knowledge, synthesized dynamic causal knowledge
 
 ### Count observations
 

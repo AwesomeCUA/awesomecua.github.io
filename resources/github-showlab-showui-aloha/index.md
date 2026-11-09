@@ -12,10 +12,6 @@ Desktop agent that records demonstrations, derives semantic action traces, and u
 - Evidence checked: 2026-10-16T11:09:28Z
 - ID: github:showlab/showui-aloha
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-showlab-showui-aloha/record.json
 
 ## License declarations

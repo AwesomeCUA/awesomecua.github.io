@@ -12,10 +12,6 @@ undetected-chromedriver is an anti-bot Selenium ChromeDriver patch widely used b
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:ultrafunkamsterdam/undetected-chromedriver
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ultrafunkamsterdam-undetected-chromedriver/record.json
 
 ## License declarations

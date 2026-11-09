@@ -12,10 +12,6 @@ Multi-agent browser squad for evidence-led website inspection and frontend recon
 - Evidence checked: 2026-11-04T17:55:16Z
 - ID: github:edenbuilds/touchline
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-edenbuilds-touchline/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Translucent in-tab DevTools HUD overlay for browser AI agents that displays live
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:yubinkim444/agentwatch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yubinkim444-agentwatch/record.json
 
 ## License declarations

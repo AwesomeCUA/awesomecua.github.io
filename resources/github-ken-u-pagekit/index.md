@@ -12,10 +12,6 @@ Turns spare Android phones into free web search, page fetch, and real-browser au
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:ken-u/pagekit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ken-u-pagekit/record.json
 
 ## License declarations

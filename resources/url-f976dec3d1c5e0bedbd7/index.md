@@ -12,18 +12,14 @@
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:f976dec3d1c5e0bedbd7
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-f976dec3d1c5e0bedbd7/record.json
 
 ## Structured profile
 
-- formats: Hub table with an image column
-- modalities: screenshots, text, bounding boxes, points
-- splits: train
-- supervision: instruction-to-element grounding
+- Formats: Hub table with an image column
+- Modalities: screenshots, text, bounding boxes, points
+- Splits: train
+- Supervision: instruction-to-element grounding
 
 ### Count observations
 

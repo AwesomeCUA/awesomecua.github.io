@@ -12,10 +12,6 @@ Semantic Kernel is an enterprise SDK for orchestrating multi-agent workflows, pl
 - Evidence checked: 2026-11-04T13:12:24Z
 - ID: github:microsoft/semantic-kernel
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-semantic-kernel/record.json
 
 ## License declarations

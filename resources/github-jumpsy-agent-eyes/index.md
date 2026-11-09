@@ -12,10 +12,6 @@ Visual inspection toolkit for AI agents that captures rendered screenshots and e
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:jumpsy/agent-eyes
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jumpsy-agent-eyes/record.json
 
 ## License declarations

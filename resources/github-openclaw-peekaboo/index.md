@@ -12,10 +12,6 @@ Peekaboo is a macOS screen-capture, accessibility-element targeting, and GUI aut
 - Evidence checked: 2026-11-04T13:12:30Z
 - ID: github:openclaw/peekaboo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openclaw-peekaboo/record.json
 
 ## License declarations

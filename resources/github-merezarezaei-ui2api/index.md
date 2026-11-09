@@ -12,10 +12,6 @@ Analyzes a website's UI and network traffic once to synthesize reusable, browser
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:merezarezaei/ui2api
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-merezarezaei-ui2api/record.json
 
 ## License declarations

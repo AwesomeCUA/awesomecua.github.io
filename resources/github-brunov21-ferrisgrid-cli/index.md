@@ -12,10 +12,6 @@ FerrisGrid-CLI captures screenshots, maps UI regions to deterministic grid coord
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:brunov21/ferrisgrid-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-brunov21-ferrisgrid-cli/record.json
 
 ## License declarations

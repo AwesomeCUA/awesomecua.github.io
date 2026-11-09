@@ -12,10 +12,6 @@ action-choice-bench evaluates discrete UI action selection and calibrated absten
 - Evidence checked: 2026-11-04T14:20:13Z
 - ID: github:gbesse/action-choice-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gbesse-action-choice-bench/record.json
 
 ## License declarations

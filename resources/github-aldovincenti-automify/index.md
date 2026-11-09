@@ -12,10 +12,6 @@ Automify is a Node.js computer-use framework unifying browser, CLI, and native d
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:aldovincenti/automify
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aldovincenti-automify/record.json
 
 ## License declarations

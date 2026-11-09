@@ -12,10 +12,6 @@ dom-drift-bench evaluates four web extraction and grounding strategies across te
 - Evidence checked: 2026-11-04T14:20:11Z
 - ID: github:notel1gible/dom-drift-bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-notel1gible-dom-drift-bench/record.json
 
 ## License declarations

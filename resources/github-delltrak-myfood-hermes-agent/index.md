@@ -12,10 +12,6 @@ Safety-first Hermes browser agent for ordering food through a visible web browse
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:delltrak/myfood-hermes-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-delltrak-myfood-hermes-agent/record.json
 
 ## License declarations

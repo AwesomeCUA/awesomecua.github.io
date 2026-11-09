@@ -12,10 +12,6 @@ AI Computer Interaction Logger records synchronized screen video, active window 
 - Evidence checked: 2026-11-04T13:12:18Z
 - ID: github:hemangjoshi37a/aicomputerinteractionlogger
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hemangjoshi37a-aicomputerinteractionlogger/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ DeepSeek Harness plugin that offloads complex reasoning steps to logged-in web A
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:shangdi178/dsh-reasoning-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shangdi178-dsh-reasoning-bridge/record.json
 
 ## License declarations

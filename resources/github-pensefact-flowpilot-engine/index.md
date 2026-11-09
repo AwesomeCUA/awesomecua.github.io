@@ -12,10 +12,6 @@ Hybrid AI browser automation engine combining Claude's visual Computer Use API w
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:pensefact/flowpilot-engine
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pensefact-flowpilot-engine/record.json
 
 ## License declarations

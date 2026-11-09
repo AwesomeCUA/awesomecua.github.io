@@ -12,10 +12,6 @@ open-codex-computer-use is a native Swift MCP server that exposes macOS per-appl
 - Evidence checked: 2026-11-04T13:12:18Z
 - ID: github:ifuryst/open-codex-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ifuryst-open-codex-computer-use/record.json
 
 ## License declarations

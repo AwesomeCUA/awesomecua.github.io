@@ -20,10 +20,10 @@ The manifest exposes six ZIP archives but no README card or data-license declara
 
 ## Structured profile
 
-- formats: ZIP
-- modalities: screenshots, accessibility trees, text
-- splits: not recorded
-- supervision: evaluation rollout logs
+- Formats: ZIP
+- Modalities: screenshots, accessibility trees, text
+- Splits: not recorded
+- Supervision: evaluation rollout logs
 
 ### Count observations
 

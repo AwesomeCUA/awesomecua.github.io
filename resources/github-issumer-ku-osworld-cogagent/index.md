@@ -12,10 +12,6 @@ Provides a provider-neutral CogAgent-9B model server, adapter, and multi-environ
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:issumer-ku/osworld-cogagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-issumer-ku-osworld-cogagent/record.json
 
 ## License declarations

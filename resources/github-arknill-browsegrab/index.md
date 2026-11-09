@@ -12,10 +12,6 @@ Token-efficient browser agent and MCP server for local LLMs combining Playwright
 - Evidence checked: 2026-11-04T15:45:51Z
 - ID: github:arknill/browsegrab
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-arknill-browsegrab/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ GroundCUA releases 56,000 desktop screenshots with 3.56M human-verified UI eleme
 - Evidence checked: 2026-11-04T13:12:35Z
 - ID: github:servicenow/groundcua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-servicenow-groundcua/record.json
 
 ## License declarations

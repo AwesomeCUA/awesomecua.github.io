@@ -12,19 +12,15 @@ Windows 11 benchmark for multimodal desktop agents in a reproducible VM that run
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:microsoft/windowsagentarena
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-windowsagentarena/record.json
 
 ## Structured profile
 
-- actions: agent-defined Windows interactions
-- evaluation: Task configuration selects an evaluator and expected application or system outcome; evaluators return a reward for the resulting state.
-- focus: Windows task completion, desktop workflows
-- observations: screenshots, accessibility information, screen-element detections
-- setting: interactive
+- Actions / outputs: agent-defined Windows interactions
+- Evaluation: Task configuration selects an evaluator and expected application or system outcome; evaluators return a reward for the resulting state.
+- Focus: Windows task completion, desktop workflows
+- Observations: screenshots, accessibility information, screen-element detections
+- Setting: interactive
 
 ### Count observations
 

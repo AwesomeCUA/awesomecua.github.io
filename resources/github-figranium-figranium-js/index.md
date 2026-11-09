@@ -12,10 +12,6 @@ Official JavaScript and TypeScript SDK for the Figranium browser automation and 
 - Evidence checked: 2026-11-04T17:30:38Z
 - ID: github:figranium/figranium-js
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-figranium-figranium-js/record.json
 
 ## License declarations

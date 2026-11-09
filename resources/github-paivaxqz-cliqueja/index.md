@@ -12,10 +12,6 @@ Fast Chrome automation toolkit combining a Manifest V3 extension with a local co
 - Evidence checked: 2026-11-04T17:30:29Z
 - ID: github:paivaxqz/cliqueja
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-paivaxqz-cliqueja/record.json
 
 ## License declarations

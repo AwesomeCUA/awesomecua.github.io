@@ -12,10 +12,6 @@ Self-hosted Puppeteer MCP server with remote Server-Sent Events (SSE) transport,
 - Evidence checked: 2026-11-04T15:03:34Z
 - ID: github:sultannaufal/puppeteer-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sultannaufal-puppeteer-mcp-server/record.json
 
 ## License declarations

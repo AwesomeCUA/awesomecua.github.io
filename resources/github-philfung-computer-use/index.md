@@ -12,10 +12,6 @@ Native macOS desktop application for running Claude Computer Use with local scre
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:philfung/computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-philfung-computer-use/record.json
 
 ## License declarations

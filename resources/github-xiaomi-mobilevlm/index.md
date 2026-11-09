@@ -12,10 +12,6 @@ MobileVLM is a vision-language model pre-trained on the Mobile3M UI transition g
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:xiaomi/mobilevlm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiaomi-mobilevlm/record.json
 
 ## License declarations

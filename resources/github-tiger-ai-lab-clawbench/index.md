@@ -20,11 +20,11 @@ Renamed from reacher-z/ClawBench; both API names return repository 1206519531 (T
 
 ## Structured profile
 
-- actions: harness-defined browser actions such as navigating, clicking and filling forms
-- evaluation: Two stages per task run: a request interceptor inside the container blocks the final HTTP request and marks the run intercepted when its URL regex and method match the task's eval_schema; an LLM judge (default deepseek-v4-pro at temperature 0) then checks the intercepted body against the instruction. A pass needs both. The original V1 paper rubric instead compares agent and human-reference trajectories.
-- focus: everyday online tasks on production websites, multi-step, write-heavy form workflows
-- observations: not recorded
-- setting: interactive
+- Actions / outputs: harness-defined browser actions such as navigating, clicking and filling forms
+- Evaluation: Two stages per task run: a request interceptor inside the container blocks the final HTTP request and marks the run intercepted when its URL regex and method match the task's eval_schema; an LLM judge (default deepseek-v4-pro at temperature 0) then checks the intercepted body against the instruction. A pass needs both. The original V1 paper rubric instead compares agent and human-reference trajectories.
+- Focus: everyday online tasks on production websites, multi-step, write-heavy form workflows
+- Observations: not recorded
+- Setting: interactive
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Model Context Protocol server for interactive terminal computer use, allowing AI
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:hlh2023/terminal-use-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hlh2023-terminal-use-mcp/record.json
 
 ## License declarations

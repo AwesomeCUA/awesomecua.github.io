@@ -12,10 +12,6 @@ Open-source desktop agent that works inside its own Ubuntu Linux virtual desktop
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:bytebot-ai/bytebot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bytebot-ai-bytebot/record.json
 
 ## License declarations

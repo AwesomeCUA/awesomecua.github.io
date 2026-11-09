@@ -12,10 +12,6 @@ AI side-panel assistant for Chrome that reads the active webpage and executes us
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:dcc123456/browser-copilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dcc123456-browser-copilot/record.json
 
 ## License declarations

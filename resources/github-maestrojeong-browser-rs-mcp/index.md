@@ -12,10 +12,6 @@ Lightweight ~5.5MB stealth-oriented Rust browser MCP server allowing multiple AI
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:maestrojeong/browser-rs-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-maestrojeong-browser-rs-mcp/record.json
 
 ## License declarations

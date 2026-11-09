@@ -12,10 +12,6 @@ Model Context Protocol server giving Claude and MCP clients full desktop screen 
 - Evidence checked: 2026-11-04T16:51:54Z
 - ID: github:jamshed7470/grasp-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jamshed7470-grasp-mcp/record.json
 
 ## License declarations

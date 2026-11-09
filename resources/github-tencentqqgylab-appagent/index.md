@@ -12,10 +12,6 @@ Multimodal agent that operates Android apps through taps and swipes without back
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:tencentqqgylab/appagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tencentqqgylab-appagent/record.json
 
 ## License declarations

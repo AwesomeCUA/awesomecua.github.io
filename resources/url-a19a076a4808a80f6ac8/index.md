@@ -20,10 +20,10 @@ The card reports agent model anthropic/claude-opus-5 at max thinking effort on a
 
 ## Structured profile
 
-- formats: JSONL, JSON, plain-text logs, TAR media archives
-- modalities: screenshots, screen recordings, action trajectories, agent messages and events, harness and grader logs, scores
-- splits: not recorded
-- supervision: grader task scores, agent-generated trajectories
+- Formats: JSONL, JSON, plain-text logs, TAR media archives
+- Modalities: screenshots, screen recordings, action trajectories, agent messages and events, harness and grader logs, scores
+- Splits: not recorded
+- Supervision: grader task scores, agent-generated trajectories
 
 ### Count observations
 

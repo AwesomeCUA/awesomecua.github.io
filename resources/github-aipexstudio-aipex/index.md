@@ -12,10 +12,6 @@ AIPex is a privacy-first Chrome browser automation agent that operates tabs, DOM
 - Evidence checked: 2026-11-04T15:03:31Z
 - ID: github:aipexstudio/aipex
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aipexstudio-aipex/record.json
 
 ## License declarations

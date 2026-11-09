@@ -20,10 +20,10 @@ The Hub API at revision de58c88b reports an ungated repository with 16 Parquet s
 
 ## Structured profile
 
-- formats: Parquet, MP4
-- modalities: screenshots, accessibility trees, task instructions, pyautogui actions, model responses, execution logs, screen recordings
-- splits: train
-- supervision: successful agent trajectories
+- Formats: Parquet, MP4
+- Modalities: screenshots, accessibility trees, task instructions, pyautogui actions, model responses, execution logs, screen recordings
+- Splits: train
+- Supervision: successful agent trajectories
 
 ### Count observations
 

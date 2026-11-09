@@ -12,10 +12,6 @@ Midscene.js-powered visual UI automation plugin for DeepSeek Harness supporting 
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:ciky20171114/dsh-plugin-midscene
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ciky20171114-dsh-plugin-midscene/record.json
 
 ## License declarations

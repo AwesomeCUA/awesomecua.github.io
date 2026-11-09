@@ -12,10 +12,6 @@ Native GUI automation CLI written in Swift (macOS) and Rust (Windows) for ~50ms 
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:killsng/cu
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-killsng-cu/record.json
 
 ## License declarations

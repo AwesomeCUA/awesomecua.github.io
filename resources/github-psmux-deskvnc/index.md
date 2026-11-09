@@ -12,10 +12,6 @@ Pure-Rust VNC, RDP, and SSH remote desktop client with Tauri UI for managing age
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:psmux/deskvnc
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-psmux-deskvnc/record.json
 
 ## License declarations

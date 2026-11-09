@@ -12,10 +12,6 @@ Autonomous AI agent framework for orchestrating web browsing, coding, and deskto
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:kamalesh404/agentos
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kamalesh404-agentos/record.json
 
 ## License declarations

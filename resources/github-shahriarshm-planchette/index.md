@@ -12,10 +12,6 @@ Lets a user point at any desktop application window to grant a coding agent scop
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:shahriarshm/planchette
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shahriarshm-planchette/record.json
 
 ## License declarations

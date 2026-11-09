@@ -12,10 +12,6 @@ Multilingual variant of the AutoGLM phone-agent checkpoint for Open-AutoGLM, lik
 - Evidence checked: 2026-10-16T06:50:49Z
 - ID: url:d236e7ec7a2b0028950a
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-d236e7ec7a2b0028950a/record.json
 
 ## License declarations

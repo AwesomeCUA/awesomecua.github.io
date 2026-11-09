@@ -12,10 +12,6 @@ Open-source e-commerce execution layer enabling Claude Code and Codex agents to 
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:andriishramko/agentic-shopping-autopilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-andriishramko-agentic-shopping-autopilot/record.json
 
 ## License declarations

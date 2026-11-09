@@ -20,10 +20,10 @@ The ungated Hub manifest contains train, test-task, test-website and test-subdom
 
 ## Structured profile
 
-- formats: JSON, auxiliary PKL
-- modalities: dialogue text, HTML, element candidates, actions
-- splits: train, test_task, test_website, test_subdomain
-- supervision: multi-turn web instruction following, element/action prediction
+- Formats: JSON, auxiliary PKL
+- Modalities: dialogue text, HTML, element candidates, actions
+- Splits: train, test_task, test_website, test_subdomain
+- Supervision: multi-turn web instruction following, element/action prediction
 
 ### Count observations
 

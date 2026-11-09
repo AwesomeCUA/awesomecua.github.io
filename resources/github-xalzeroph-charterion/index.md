@@ -12,10 +12,6 @@ Multi-agent engineering control plane orchestrating ChatGPT Web sessions through
 - Evidence checked: 2026-11-04T17:55:13Z
 - ID: github:xalzeroph/charterion
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xalzeroph-charterion/record.json
 
 ## License declarations

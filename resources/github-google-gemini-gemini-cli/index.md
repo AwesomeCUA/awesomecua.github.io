@@ -12,10 +12,6 @@ Gemini CLI is Google's open-source terminal agent providing shell execution, fil
 - Evidence checked: 2026-11-04T13:12:15Z
 - ID: github:google-gemini/gemini-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-gemini-gemini-cli/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Layout-aware VNC/RFB remote-control CLI providing typing, clicking, screenshot c
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:bitranox/vnc-remote-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bitranox-vnc-remote-control/record.json
 
 ## License declarations

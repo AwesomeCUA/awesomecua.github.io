@@ -12,10 +12,6 @@ Claude browser extension for interacting with websites.
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: url:07b6bbce7ce26a847f79
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-07b6bbce7ce26a847f79/record.json
 
 ## License declarations

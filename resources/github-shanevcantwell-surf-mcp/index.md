@@ -12,10 +12,6 @@ Surf MCP is a visual browser automation MCP server that lets AI agents click, ty
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:shanevcantwell/surf-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shanevcantwell-surf-mcp/record.json
 
 ## License declarations

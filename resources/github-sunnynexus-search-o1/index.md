@@ -12,10 +12,6 @@ Search-o1 integrates agentic web search and document-in-reasoning refinement int
 - Evidence checked: 2026-11-04T13:12:38Z
 - ID: github:sunnynexus/search-o1
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sunnynexus-search-o1/record.json
 
 ## License declarations

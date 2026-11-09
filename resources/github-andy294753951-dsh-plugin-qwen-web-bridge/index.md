@@ -12,10 +12,6 @@ DeepSeek Harness plugin for driving an authenticated Qwen web session via local 
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:andy294753951/dsh-plugin-qwen-web-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/record.json
 
 ## License declarations

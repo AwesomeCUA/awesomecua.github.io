@@ -12,10 +12,6 @@ nanoMuse is an open-source personal agent that maintains persistent cross-device
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:nano-muse/nanomuse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nano-muse-nanomuse/record.json
 
 ## License declarations

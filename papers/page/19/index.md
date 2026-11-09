@@ -878,13 +878,13 @@ Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang, Shadikur Rahman
 - Publication source: https://aclanthology.org/2026.findings-eacl.177/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2508-17398/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2508-17398/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: EACL 2026
-- publisher: Association for Computational Linguistics
-- pages: 3385-3407
-- doi: 10.18653/v1/2026.findings-eacl.177
-- date basis: Explicit publisher metadata: 2026/3; precision=month.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: This work already exists as metadata_verified arxiv:2508.17398. Its retained Atom body was unavailable locally, so identity is based on the exact title and full author list (minor Md. punctuation variant) in the existing record and publisher source. No arXiv API refresh or second work is proposed. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Findings of the Association for Computational Linguistics: EACL 2026
+- Publisher: Association for Computational Linguistics
+- Pages: 3385-3407
+- DOI: 10.18653/v1/2026.findings-eacl.177
+- Date source: Explicit publisher metadata: 2026/3; precision=month.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: This work already exists as metadata_verified arxiv:2508.17398. Its retained Atom body was unavailable locally, so identity is based on the exact title and full author list (minor Md. punctuation variant) in the existing record and publisher source. No arXiv API refresh or second work is proposed. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://aclanthology.org/2026.findings-eacl.177/
 
 ### Recorded arXiv snapshot
@@ -1965,10 +1965,6 @@ Surveys agents that operate computers and phones through operating-system interf
 - Evidence checked: 2026-10-16T06:31:49Z
 - ID: arxiv:2508.04482
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-04482/record.json
 
 ### Authors
@@ -1988,13 +1984,13 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 - Publication source: https://aclanthology.org/2025.acl-long.369/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2508-04482/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2508-04482/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 7436-7465
-- doi: 10.18653/v1/2025.acl-long.369
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: the same 29 authors in the same order and the same OS Agents survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity, whose abstract presents the 9-page version accepted by ACL 2025 and whose comment reads ACL 2025 (Oral). The titles differ only in their final phrase.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title ends with 'for Computer, Phone and Browser Use', while the retained arXiv v1 title ends with 'for General Computing Devices Use'.
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 7436-7465
+- DOI: 10.18653/v1/2025.acl-long.369
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: the same 29 authors in the same order and the same OS Agents survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity, whose abstract presents the 9-page version accepted by ACL 2025 and whose comment reads ACL 2025 (Oral). The titles differ only in their final phrase.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title ends with 'for Computer, Phone and Browser Use', while the retained arXiv v1 title ends with 'for General Computing Devices Use'.
 - Publication evidence: https://aclanthology.org/2025.acl-long.369/
 
 ### Recorded arXiv snapshot

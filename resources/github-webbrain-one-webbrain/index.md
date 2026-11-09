@@ -12,10 +12,6 @@ WebBrain is an open-source AI browser agent extension for Chrome and Firefox tha
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:webbrain-one/webbrain
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-webbrain-one-webbrain/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Local Apple Silicon MLX computer-use bridge that drives native macOS apps via th
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:georgenijo/ghosthands
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-georgenijo-ghosthands/record.json
 
 ## License declarations

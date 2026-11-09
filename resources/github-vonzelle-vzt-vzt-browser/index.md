@@ -12,10 +12,6 @@ Browser agent exposing MCP, CLI, and REPL interfaces over a real logged-in brows
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:vonzelle-vzt/vzt-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vonzelle-vzt-vzt-browser/record.json
 
 ## License declarations

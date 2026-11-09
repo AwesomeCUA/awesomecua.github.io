@@ -12,10 +12,6 @@ Portable Windows GUI-automation Model Context Protocol server for Claude Code bu
 - Evidence checked: 2026-11-04T16:30:13Z
 - ID: github:benina/autoit-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-benina-autoit-mcp/record.json
 
 ## License declarations

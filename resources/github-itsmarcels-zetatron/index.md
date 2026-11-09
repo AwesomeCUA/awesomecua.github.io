@@ -12,10 +12,6 @@ Self-directed local-first autonomous agent harness for Windows with desktop and 
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:itsmarcels/zetatron
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-itsmarcels-zetatron/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Selection-first Chrome web agent where users highlight elements on the live page
 - Evidence checked: 2026-11-04T17:55:09Z
 - ID: github:player-yn/browserkitten
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-player-yn-browserkitten/record.json
 
 ## License declarations

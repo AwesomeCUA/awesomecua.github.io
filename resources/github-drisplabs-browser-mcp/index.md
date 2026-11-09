@@ -12,10 +12,6 @@ Drisp Browser is a token-efficient browser automation MCP server exposing compac
 - Evidence checked: 2026-11-04T15:45:43Z
 - ID: github:drisplabs/browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-drisplabs-browser-mcp/record.json
 
 ## License declarations

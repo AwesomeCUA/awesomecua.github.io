@@ -12,10 +12,6 @@ Open mobile GUI agent stack pairing a 4B model that runs on consumer hardware wi
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:stepfun-ai/gelab-zero
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-stepfun-ai-gelab-zero/record.json
 
 ## License declarations

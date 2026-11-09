@@ -12,10 +12,6 @@ QUE CORE is a hybrid Rust and Python runtime exposing 121 consolidated system, w
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:qubasehq/que-tools
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qubasehq-que-tools/record.json
 
 ## License declarations

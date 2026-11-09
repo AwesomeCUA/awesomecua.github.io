@@ -12,10 +12,6 @@ taproot is an open-source mobile GUI agent harness combining vision-language mod
 - Evidence checked: 2026-11-04T14:20:09Z
 - ID: github:shivampkumar/taproot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shivampkumar-taproot/record.json
 
 ## License declarations

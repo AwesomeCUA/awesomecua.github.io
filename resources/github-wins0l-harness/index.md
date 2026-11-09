@@ -12,10 +12,6 @@ Local coding and computer-use agent for Windows that inspects repositories, runs
 - Evidence checked: 2026-11-04T17:20:55Z
 - ID: github:wins0l/harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wins0l-harness/record.json
 
 ## License declarations

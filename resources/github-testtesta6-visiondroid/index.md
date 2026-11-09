@@ -12,10 +12,6 @@ VisionDroid uses multimodal LLMs to explore Android app screens and detect non-c
 - Evidence checked: 2026-11-04T13:12:39Z
 - ID: github:testtesta6/visiondroid
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-testtesta6-visiondroid/record.json
 
 ## License declarations

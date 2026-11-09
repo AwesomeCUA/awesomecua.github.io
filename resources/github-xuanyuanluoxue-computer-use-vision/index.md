@@ -12,10 +12,6 @@ Windows desktop visual recognition and simulated input plugin for DeepSeek Harne
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:xuanyuanluoxue/computer-use-vision
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xuanyuanluoxue-computer-use-vision/record.json
 
 ## License declarations

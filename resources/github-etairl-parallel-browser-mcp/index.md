@@ -12,10 +12,6 @@ Model Context Protocol server for parallel multi-session browser automation acro
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:etairl/parallel-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/record.json
 
 ## License declarations

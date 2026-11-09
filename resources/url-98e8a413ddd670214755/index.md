@@ -20,10 +20,10 @@ The main branch holds the v2 release, which the card describes as using leaf-ele
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: web screenshots, source URLs, element annotations
-- splits: train
-- supervision: UI element bounding boxes, element class labels, element text, interactable flags, reading-order indices
+- Formats: Parquet
+- Modalities: web screenshots, source URLs, element annotations
+- Splits: train
+- Supervision: UI element bounding boxes, element class labels, element text, interactable flags, reading-order indices
 
 ### Count observations
 

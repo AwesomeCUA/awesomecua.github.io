@@ -12,10 +12,6 @@ Windows UI Automation inspection and scripting tool for analyzing UI element tre
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:cyberkdh/dh.window.uitool
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cyberkdh-dh-window-uitool/record.json
 
 ## License declarations

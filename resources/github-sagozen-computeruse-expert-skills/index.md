@@ -12,10 +12,6 @@ Open-source collection of computer-use skills, prompt patterns, and professional
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:sagozen/computeruse-expert-skills
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sagozen-computeruse-expert-skills/record.json
 
 ## License declarations

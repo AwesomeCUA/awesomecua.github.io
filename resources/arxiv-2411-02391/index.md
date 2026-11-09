@@ -35,13 +35,13 @@ Yanzhe Zhang, Tao Yu, Diyi Yang
 - Publication source: https://aclanthology.org/2025.acl-long.411/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2411-02391/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2411-02391/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 8387-8401
-- doi: 10.18653/v1/2025.acl-long.411
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 8387-8401
+- DOI: 10.18653/v1/2025.acl-long.411
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.411/
 
 ## Recorded arXiv snapshot

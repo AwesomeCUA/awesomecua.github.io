@@ -12,10 +12,6 @@ Chrome bridge allowing Grok Build to inspect and interact with live local web ap
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:davidsolheim/grok-chrome-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-davidsolheim-grok-chrome-bridge/record.json
 
 ## License declarations

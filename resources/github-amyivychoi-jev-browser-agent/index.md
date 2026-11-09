@@ -12,10 +12,6 @@ Jev Browser Agent combines Browser Use DOM extraction, Jev System-One action sel
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:amyivychoi/jev-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-amyivychoi-jev-browser-agent/record.json
 
 ## License declarations

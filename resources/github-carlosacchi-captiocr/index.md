@@ -12,10 +12,6 @@ CaptiOCR is a real-time Windows screen region OCR and text extraction tool power
 - Evidence checked: 2026-11-04T13:12:09Z
 - ID: github:carlosacchi/captiocr
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-carlosacchi-captiocr/record.json
 
 ## License declarations

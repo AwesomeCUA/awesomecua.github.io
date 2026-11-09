@@ -12,10 +12,6 @@ Uses an LLM to discover how to complete a task in a legacy web UI once and disti
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:shahadeven/project_interface
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shahadeven-project-interface/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ The publisher flags original desktop files as deprecated because of screenshot-m
 
 ## Structured profile
 
-- formats: JSON annotations, image archives
-- modalities: screenshots, instructions, element captions
-- splits: not recorded
-- supervision: element grounding, element descriptions
+- Formats: JSON annotations, image archives
+- Modalities: screenshots, instructions, element captions
+- Splits: not recorded
+- Supervision: element grounding, element descriptions
 
 ### Count observations
 

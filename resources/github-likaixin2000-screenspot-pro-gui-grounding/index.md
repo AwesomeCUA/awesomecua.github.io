@@ -12,19 +12,15 @@ GUI grounding benchmark focused on professional high-resolution interfaces.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:likaixin2000/screenspot-pro-gui-grounding
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/record.json
 
 ## Structured profile
 
-- actions: predicted target coordinates
-- evaluation: For positive targets, the predicted point must fall inside the annotated bounding box.
-- focus: GUI grounding
-- observations: high-resolution screenshots, target instructions
-- setting: offline
+- Actions / outputs: predicted target coordinates
+- Evaluation: For positive targets, the predicted point must fall inside the annotated bounding box.
+- Focus: GUI grounding
+- Observations: high-resolution screenshots, target instructions
+- Setting: offline
 
 ### Count observations
 

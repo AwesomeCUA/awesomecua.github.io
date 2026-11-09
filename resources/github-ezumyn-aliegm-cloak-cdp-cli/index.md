@@ -12,10 +12,6 @@ Command-line interface for AI agents to drive CloakBrowser stealth Chromium inst
 - Evidence checked: 2026-11-04T17:30:43Z
 - ID: github:ezumyn-aliegm/cloak-cdp-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ezumyn-aliegm-cloak-cdp-cli/record.json
 
 ## License declarations

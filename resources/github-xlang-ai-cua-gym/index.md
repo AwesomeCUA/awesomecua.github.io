@@ -12,10 +12,6 @@ CUA-Gym is a scalable pipeline for synthesizing interactive mock web environment
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:xlang-ai/cua-gym
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-cua-gym/record.json
 
 ## License declarations

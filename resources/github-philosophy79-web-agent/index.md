@@ -12,10 +12,6 @@ Local-first web and desktop automation toolkit integrating browser control, scre
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:philosophy79/web-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-philosophy79-web-agent/record.json
 
 ## License declarations

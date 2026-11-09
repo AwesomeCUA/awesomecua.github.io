@@ -12,10 +12,6 @@ TypeScript library and browser automation helper for solving reCAPTCHA challenge
 - Evidence checked: 2026-11-04T17:20:49Z
 - ID: github:conghuy113/solverecaptcha-typescript
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-conghuy113-solverecaptcha-typescript/record.json
 
 ## License declarations

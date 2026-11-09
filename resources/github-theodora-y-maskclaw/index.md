@@ -12,10 +12,6 @@ MaskClaw is an on-device privacy guardrail that intercepts sensitive GUI/tool ac
 - Evidence checked: 2026-11-04T13:12:39Z
 - ID: github:theodora-y/maskclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-theodora-y-maskclaw/record.json
 
 ## License declarations

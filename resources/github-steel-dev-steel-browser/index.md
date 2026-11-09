@@ -12,10 +12,6 @@ Open-source browser API managing Chrome sessions for agents, reachable through P
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:steel-dev/steel-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-steel-dev-steel-browser/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Codex and Claude Agent Skill that drives live web products in a browser to recor
 - Evidence checked: 2026-11-04T17:55:05Z
 - ID: github:afnanksalal/product-demo-video-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-afnanksalal-product-demo-video-skill/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Chrome DevTools Model Context Protocol server exposing console, network, DOM, an
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:aakcay5656/devtools-lens-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aakcay5656-devtools-lens-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Self-verification browser preview loop for DeepSeek Harness agents to inspect an
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:viger1/dsh-preview
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-viger1-dsh-preview/record.json
 
 ## License declarations

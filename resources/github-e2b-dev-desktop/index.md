@@ -12,10 +12,6 @@ Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driv
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:e2b-dev/desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-e2b-dev-desktop/record.json
 
 ## License declarations

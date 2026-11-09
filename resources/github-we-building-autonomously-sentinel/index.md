@@ -12,10 +12,6 @@ Sentinel is a browser-native QA harness where an AI agent drives a real browser 
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:we-building-autonomously/sentinel
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-we-building-autonomously-sentinel/record.json
 
 ## License declarations

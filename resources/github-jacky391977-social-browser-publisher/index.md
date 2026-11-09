@@ -12,10 +12,6 @@ Codex skill that uses an authenticated Chrome session to preview and publish pos
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:jacky391977/social-browser-publisher
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jacky391977-social-browser-publisher/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Allows coding agents running inside WSL2 Linux to drive the host's signed-in Win
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:rizonetech/chromemcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rizonetech-chromemcp/record.json
 
 ## License declarations

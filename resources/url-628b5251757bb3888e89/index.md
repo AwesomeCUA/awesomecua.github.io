@@ -35,11 +35,11 @@ James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung
 - Publication source: https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf
 - Publication BibTeX: https://awesomecua.com/resources/url-628b5251757bb3888e89/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-628b5251757bb3888e89/publication-citation.csl.json
-- venue: Twenty-Second AAAI National Conference on Artificial Intelligence
-- pages: 1514-1519
-- date basis: Supplied year precision: 2007. Papers section: AAAI-2007
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes. DOI and volume number are not supplied in the retained primary sources. No exact publication month/day is established.
+- Venue: Twenty-Second AAAI National Conference on Artificial Intelligence
+- Pages: 1514-1519
+- Date source: Supplied year precision: 2007. Papers section: AAAI-2007
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes. DOI and volume number are not supplied in the retained primary sources. No exact publication month/day is established.
 - Publication evidence: https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf, https://www.cs.rochester.edu/research/cisd/projects/plow/
 
 ## License declarations

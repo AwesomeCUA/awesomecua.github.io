@@ -12,10 +12,6 @@ Python SDK for the Glasswarp platform enabling AI agents to observe and control 
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:glasswarp/python-sdk
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-glasswarp-python-sdk/record.json
 
 ## License declarations

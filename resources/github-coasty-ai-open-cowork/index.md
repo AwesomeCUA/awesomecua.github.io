@@ -12,10 +12,6 @@ open-cowork is an open-source computer-use coworker that operates local desktops
 - Evidence checked: 2026-11-04T13:12:10Z
 - ID: github:coasty-ai/open-cowork
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-coasty-ai-open-cowork/record.json
 
 ## License declarations

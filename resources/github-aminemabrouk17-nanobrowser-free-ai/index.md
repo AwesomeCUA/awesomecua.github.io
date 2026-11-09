@@ -12,10 +12,6 @@ Privacy-focused Chrome extension multi-agent web automation assistant powered by
 - Evidence checked: 2026-11-04T17:55:10Z
 - ID: github:aminemabrouk17/nanobrowser-free-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aminemabrouk17-nanobrowser-free-ai/record.json
 
 ## License declarations

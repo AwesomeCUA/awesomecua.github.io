@@ -12,10 +12,6 @@ Equips text-only LLMs in DeepSeek Harness with desktop screen perception and mou
 - Evidence checked: 2026-11-04T17:20:51Z
 - ID: github:jasonwei04/dsh-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jasonwei04-dsh-computer-use/record.json
 
 ## License declarations

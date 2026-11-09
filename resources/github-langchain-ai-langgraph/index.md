@@ -12,10 +12,6 @@ LangGraph is a stateful graph orchestration framework for building long-running,
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:langchain-ai/langgraph
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-langchain-ai-langgraph/record.json
 
 ## License declarations

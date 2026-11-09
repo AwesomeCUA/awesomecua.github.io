@@ -20,11 +20,11 @@ Formerly published as saelyne/GuideBench; the Hub API redirects that name to thi
 
 ## Structured profile
 
-- actions: not recorded
-- evaluation: Accuracy on 9-way behavior-state classification, 4-way multiple-choice intent prediction, and help prediction split into a binary help-need decision and a 4-way multiple-choice help-content question.
-- focus: user behavior state detection, short-term intent prediction, help need and help content prediction
-- observations: screen-recording video segments
-- setting: offline
+- Actions / outputs: not recorded
+- Evaluation: Accuracy on 9-way behavior-state classification, 4-way multiple-choice intent prediction, and help prediction split into a binary help-need decision and a 4-way multiple-choice help-content question.
+- Focus: user behavior state detection, short-term intent prediction, help need and help content prediction
+- Observations: screen-recording video segments
+- Setting: offline
 
 ### Count observations
 

@@ -12,10 +12,6 @@ mew-agent is a Rust-native browser agent that drives visible Chromium via CDP us
 - Evidence checked: 2026-11-04T14:20:10Z
 - ID: github:kaiizer777/mew-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kaiizer777-mew-agent/record.json
 
 ## License declarations

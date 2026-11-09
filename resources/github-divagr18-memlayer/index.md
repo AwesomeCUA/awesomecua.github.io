@@ -12,10 +12,6 @@ Memlayer is a plug-and-play memory layer that extracts facts, builds knowledge g
 - Evidence checked: 2026-11-04T13:12:13Z
 - ID: github:divagr18/memlayer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-divagr18-memlayer/record.json
 
 ## License declarations

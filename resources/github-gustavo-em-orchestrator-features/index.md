@@ -12,10 +12,6 @@ Multi-agent loop that plans React Native mobile features, writes code, drives th
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:gustavo-em/orchestrator-features
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gustavo-em-orchestrator-features/record.json
 
 ## License declarations

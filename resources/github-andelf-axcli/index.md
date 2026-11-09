@@ -12,10 +12,6 @@ axcli is a Rust command-line tool for querying, inspecting, and automating macOS
 - Evidence checked: 2026-11-04T13:12:05Z
 - ID: github:andelf/axcli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-andelf-axcli/record.json
 
 ## License declarations

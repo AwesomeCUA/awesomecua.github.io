@@ -12,10 +12,6 @@ Local-first Python SDK for web agents providing Shadow DOM flattening, Action Ma
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:ulinycoin/shadow-web
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ulinycoin-shadow-web/record.json
 
 ## License declarations

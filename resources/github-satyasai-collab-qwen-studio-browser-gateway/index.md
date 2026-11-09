@@ -12,10 +12,6 @@ Localhost advisory gateway for Claude Code backed by a logged-in Qwen Studio bro
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:satyasai-collab/qwen-studio-browser-gateway
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-satyasai-collab-qwen-studio-browser-gateway/record.json
 
 ## License declarations

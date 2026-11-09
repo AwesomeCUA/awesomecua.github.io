@@ -20,11 +20,11 @@ The inspected code release is v0.1.0, with a separately listed data-v0.1.0 archi
 
 ## Structured profile
 
-- actions: tap, type, swipe, back, home, drag, complete
-- evaluation: Deterministic task judges inspect state changes; reported metrics distinguish success, progress, false completion and unexpected side effects.
-- focus: mobile GUI task completion in simulation, state verification and parallel training
-- observations: simulated mobile screenshots, structured simulator state for judges
-- setting: interactive
+- Actions / outputs: tap, type, swipe, back, home, drag, complete
+- Evaluation: Deterministic task judges inspect state changes; reported metrics distinguish success, progress, false completion and unexpected side effects.
+- Focus: mobile GUI task completion in simulation, state verification and parallel training
+- Observations: simulated mobile screenshots, structured simulator state for judges
+- Setting: interactive
 
 ### Count observations
 

@@ -20,11 +20,11 @@ Public task files are available as JSONL and XLSX with documentation. The card e
 
 ## Structured profile
 
-- actions: mobile interface operations, clarification requests
-- evaluation: Published task definitions include preconditions and clarification requirements.
-- focus: mobile task completion, clarification behavior, cross-app tasks
-- observations: mobile app interfaces
-- setting: interactive
+- Actions / outputs: mobile interface operations, clarification requests
+- Evaluation: Published task definitions include preconditions and clarification requirements.
+- Focus: mobile task completion, clarification behavior, cross-app tasks
+- Observations: mobile app interfaces
+- Setting: interactive
 
 ### Count observations
 

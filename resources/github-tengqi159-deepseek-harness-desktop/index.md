@@ -12,10 +12,6 @@ macOS desktop companion app for DeepSeek Harness with research-file attachments 
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:tengqi159/deepseek-harness-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tengqi159-deepseek-harness-desktop/record.json
 
 ## License declarations

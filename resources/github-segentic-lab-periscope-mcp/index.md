@@ -12,10 +12,6 @@ Web-application QA and analysis MCP server exposing 74 Playwright tools for auth
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:segentic-lab/periscope-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-segentic-lab-periscope-mcp/record.json
 
 ## License declarations

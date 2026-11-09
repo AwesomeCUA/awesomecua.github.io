@@ -12,10 +12,6 @@ Local, accessibility-first Windows control plane for AI agents exposing structur
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:guojiz/fastcua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-guojiz-fastcua/record.json
 
 ## License declarations

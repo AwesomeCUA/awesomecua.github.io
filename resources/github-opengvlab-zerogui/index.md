@@ -12,10 +12,6 @@ Online RL framework for GUI agents in which VLMs generate the training tasks and
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:opengvlab/zerogui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-zerogui/record.json
 
 ## License declarations

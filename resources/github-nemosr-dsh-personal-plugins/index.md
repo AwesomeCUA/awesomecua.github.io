@@ -12,10 +12,6 @@ DeepSeek Harness plugin bundle providing `web_app_testing` browser automation an
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:nemosr/dsh-personal-plugins
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nemosr-dsh-personal-plugins/record.json
 
 ## License declarations

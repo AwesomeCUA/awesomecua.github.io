@@ -12,10 +12,6 @@ Geographic experience and web-evidence engine that drives real browsers across l
 - Evidence checked: 2026-11-04T17:55:14Z
 - ID: github:xala-technologies/farsyn
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xala-technologies-farsyn/record.json
 
 ## License declarations

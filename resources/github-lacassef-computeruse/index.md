@@ -12,10 +12,6 @@ cua_agent is a modular Python computer-use framework with OS-agnostic planning, 
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:lacassef/computeruse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lacassef-computeruse/record.json
 
 ## License declarations

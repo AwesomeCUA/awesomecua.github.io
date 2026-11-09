@@ -12,10 +12,6 @@ Claude tool capability for screenshot-based computer interaction.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:57f17b7d0c18b2d7c8bf
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-57f17b7d0c18b2d7c8bf/record.json
 
 ## License declarations

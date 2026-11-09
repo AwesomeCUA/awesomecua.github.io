@@ -12,10 +12,6 @@ Evidence-linked catalog of computer-use demos, evaluations, and agent workflows 
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:archorfight/awesome-gpt-6-astra
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Codebase, annotation toolkit, and action-level risk dataset for training and eva
 - Evidence checked: 2026-10-18T10:59:53Z
 - ID: github:osu-nlp-group/webguard
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-webguard/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser agent using a 4-layer perception cascade from lightweight HTTP text to a
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:sanjeev29/scout-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sanjeev29-scout-browser-agent/record.json
 
 ## License declarations

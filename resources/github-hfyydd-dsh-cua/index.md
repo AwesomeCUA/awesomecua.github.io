@@ -12,10 +12,6 @@ DeepSeek Harness computer-use plugin backed by the `cua-driver` daemon for acces
 - Evidence checked: 2026-11-04T17:55:10Z
 - ID: github:hfyydd/dsh-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hfyydd-dsh-cua/record.json
 
 ## License declarations

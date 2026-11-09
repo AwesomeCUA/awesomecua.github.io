@@ -12,10 +12,6 @@ Spider Browser Dataset benchmarks browser automation and anti-bot resilience acr
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:spider-rs/spider-browser-dataset
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/record.json
 
 ## License declarations

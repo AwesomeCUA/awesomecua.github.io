@@ -12,10 +12,6 @@ Model Context Protocol server for Android device control via ADB featuring self-
 - Evidence checked: 2026-11-04T16:10:27Z
 - ID: github:tiendung2k03/adb-mcp-server-pro
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tiendung2k03-adb-mcp-server-pro/record.json
 
 ## License declarations

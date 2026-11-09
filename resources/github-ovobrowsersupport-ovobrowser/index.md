@@ -12,10 +12,6 @@ Source-level Chromium fingerprint browser engineered for anti-detect web automat
 - Evidence checked: 2026-11-04T17:30:36Z
 - ID: github:ovobrowsersupport/ovobrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/record.json
 
 ## License declarations

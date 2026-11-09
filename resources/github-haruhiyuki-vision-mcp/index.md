@@ -12,10 +12,6 @@ Desktop application interaction MCP server combining visual UI element detection
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:haruhiyuki/vision-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-haruhiyuki-vision-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Botright is a Playwright-based stealth browser automation framework with fingerp
 - Evidence checked: 2026-11-04T13:12:42Z
 - ID: github:vinyzu/botright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vinyzu-botright/record.json
 
 ## License declarations

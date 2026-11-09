@@ -12,10 +12,6 @@ Reusable browser automation workflow skills for the Eric Task Master Playwright 
 - Evidence checked: 2026-11-04T18:11:51Z
 - ID: github:npcworkspace-cmyk/eric-task-master-task-pack-skill
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-npcworkspace-cmyk-eric-task-master-task-pack-skill/record.json
 
 ## License declarations

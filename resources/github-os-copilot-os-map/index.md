@@ -20,11 +20,11 @@ Public task manifests, agent runner and evaluator code are present, and the link
 
 ## Structured profile
 
-- actions: actions executed by the OSWorld-derived DesktopEnv
-- evaluation: Task configurations provide evaluators for application/system state, using an OSWorld-derived runtime.
-- focus: breadth of desktop task coverage, depth of desktop task execution
-- observations: desktop observations from an Ubuntu virtual machine
-- setting: interactive
+- Actions / outputs: actions executed by the OSWorld-derived DesktopEnv
+- Evaluation: Task configurations provide evaluators for application/system state, using an OSWorld-derived runtime.
+- Focus: breadth of desktop task coverage, depth of desktop task execution
+- Observations: desktop observations from an Ubuntu virtual machine
+- Setting: interactive
 
 ### Count observations
 

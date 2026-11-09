@@ -12,10 +12,6 @@ Containerized headless Chromium environment with native Model Context Protocol i
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:sh7vansh/gloria-headless
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sh7vansh-gloria-headless/record.json
 
 ## License declarations

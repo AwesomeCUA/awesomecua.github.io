@@ -12,10 +12,6 @@ Tarsier-AI transforms desktop and web accessibility trees into portable semantic
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:siddzzzz/tarsier
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-siddzzzz-tarsier/record.json
 
 ## License declarations

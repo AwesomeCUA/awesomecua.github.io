@@ -12,10 +12,6 @@ Open-source replication of the CoAct-1 hybrid coding-and-GUI multi-agent archite
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:buiilding/coact-1_implementation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-buiilding-coact-1-implementation/record.json
 
 ## License declarations

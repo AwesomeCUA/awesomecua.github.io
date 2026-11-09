@@ -12,10 +12,6 @@ Fine-tunes small language models for computer-use navigation and GUI interaction
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:shayanamir0/computer-use-with-slm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shayanamir0-computer-use-with-slm/record.json
 
 ## License declarations

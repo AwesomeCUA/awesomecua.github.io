@@ -12,10 +12,6 @@ Cross-model review broker allowing CLI coding agents to drive a signed-in ChatGP
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:wolfiesch/gpt-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wolfiesch-gpt-control/record.json
 
 ## License declarations

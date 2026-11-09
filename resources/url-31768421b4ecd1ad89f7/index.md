@@ -20,10 +20,10 @@ Access is auto-gated; the Hub API reports MIT in the card metadata for this data
 
 ## Structured profile
 
-- formats: JSONL, ZIP
-- modalities: screenshots, text, actions
-- splits: web training
-- supervision: web action trajectories
+- Formats: JSONL, ZIP
+- Modalities: screenshots, text, actions
+- Splits: web training
+- Supervision: web action trajectories
 
 ### Count observations
 

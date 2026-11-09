@@ -35,13 +35,13 @@ Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2307-10088/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2307-10088/publication-citation.csl.json
-- venue: Advances in Neural Information Processing Systems
-- volume: 36
-- pages: 59708-59728
-- doi: 10.52202/075280-2609
-- date basis: Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Advances in Neural Information Processing Systems
+- Volume: 36
+- Pages: 59708-59728
+- DOI: 10.52202/075280-2609
+- Date source: Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html
 
 ## Recorded arXiv snapshot

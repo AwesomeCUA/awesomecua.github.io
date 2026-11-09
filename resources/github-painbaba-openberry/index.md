@@ -12,10 +12,6 @@ Local agentic web browser for Windows inspired by Strawberry Browser for autonom
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:painbaba/openberry
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-painbaba-openberry/record.json
 
 ## License declarations

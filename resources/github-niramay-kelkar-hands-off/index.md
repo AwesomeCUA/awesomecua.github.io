@@ -12,10 +12,6 @@ hands-off discovers UI workflows in legacy back-office software without APIs and
 - Evidence checked: 2026-11-04T14:41:52Z
 - ID: github:niramay-kelkar/hands-off
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-niramay-kelkar-hands-off/record.json
 
 ## License declarations

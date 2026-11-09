@@ -12,10 +12,6 @@ WebMall is a multi-shop e-commerce web agent benchmark evaluating cross-site pri
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:wbsg-uni-mannheim/webmall
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/record.json
 
 ## License declarations

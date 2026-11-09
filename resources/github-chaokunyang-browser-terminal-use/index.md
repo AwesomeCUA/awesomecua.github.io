@@ -12,10 +12,6 @@ Pairs a Chrome extension, local daemon, and CLI to let agents execute commands i
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:chaokunyang/browser-terminal-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chaokunyang-browser-terminal-use/record.json
 
 ## License declarations

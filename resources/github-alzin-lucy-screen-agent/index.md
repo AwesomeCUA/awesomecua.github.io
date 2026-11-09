@@ -12,10 +12,6 @@ Lucy is a voice-and-screen Android agent that perceives live app screens with Ge
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:alzin/lucy-screen-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alzin-lucy-screen-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ EnvDistraction provides simulated GUI environments and evaluation scripts for me
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:xbmxb/envdistraction
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xbmxb-envdistraction/record.json
 
 ## License declarations

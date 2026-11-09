@@ -12,10 +12,6 @@ Firefox WebExtension, native-messaging host, and MCP server allowing Claude Code
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:faran52/claude-code-browser-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-faran52-claude-code-browser-bridge/record.json
 
 ## License declarations

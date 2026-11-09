@@ -12,10 +12,6 @@ npm-distributed CLI, Model Context Protocol server, and standalone Android compa
 - Evidence checked: 2026-11-04T17:20:53Z
 - ID: github:tageecc/droidlume-agent-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tageecc-droidlume-agent-control/record.json
 
 ## License declarations

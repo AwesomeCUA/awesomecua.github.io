@@ -12,10 +12,6 @@ Discovers workflows on legacy credit-union web portals with an AI agent once and
 - Evidence checked: 2026-11-04T17:55:18Z
 - ID: github:zoyaarief/legacy-credit-union-automation
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zoyaarief-legacy-credit-union-automation/record.json
 
 ## License declarations

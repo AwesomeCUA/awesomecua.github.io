@@ -12,10 +12,6 @@ Agent-controllable web browser built on the Rust Servo engine that distills live
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:parker-brown-family/servo-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-parker-brown-family-servo-agent/record.json
 
 ## License declarations

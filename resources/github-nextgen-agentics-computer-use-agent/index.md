@@ -12,10 +12,6 @@ macOS desktop automation agent using a 5-layer perception cascade from native Ac
 - Evidence checked: 2026-11-04T14:20:08Z
 - ID: github:nextgen-agentics/computer-use-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-nextgen-agentics-computer-use-agent/record.json
 
 ## License declarations

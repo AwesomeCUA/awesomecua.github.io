@@ -12,10 +12,6 @@ Fazm is a native macOS desktop and browser agent that observes screen state via 
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:mediar-ai/fazm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mediar-ai-fazm/record.json
 
 ## License declarations

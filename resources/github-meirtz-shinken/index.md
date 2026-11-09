@@ -12,10 +12,6 @@ Shinken is a high-throughput runtime for training computer-use agents end-to-end
 - Evidence checked: 2026-11-04T16:30:09Z
 - ID: github:meirtz/shinken
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-meirtz-shinken/record.json
 
 ## License declarations

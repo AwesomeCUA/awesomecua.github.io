@@ -12,10 +12,6 @@ Prism is a macOS screen reader and activity analyzer that captures screenshots a
 - Evidence checked: 2026-11-04T13:12:10Z
 - ID: github:chrismannina/prism-ai-screen-reader
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/record.json
 
 ## License declarations

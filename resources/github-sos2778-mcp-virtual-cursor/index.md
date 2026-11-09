@@ -12,10 +12,6 @@ macOS computer-use MCP server that operates applications via Accessibility actio
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:sos2778/mcp-virtual-cursor
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/record.json
 
 ## License declarations

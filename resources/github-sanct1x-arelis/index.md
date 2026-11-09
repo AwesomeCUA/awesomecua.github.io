@@ -12,10 +12,6 @@ Locally hosted Windows personal AI research and desktop assistant powered by Oll
 - Evidence checked: 2026-11-04T17:20:43Z
 - ID: github:sanct1x/arelis
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sanct1x-arelis/record.json
 
 ## License declarations

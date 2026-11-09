@@ -12,10 +12,6 @@ Hands-on developer codelab for building automated UI test suites using Antigravi
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:a-bhimava/agentic-ui-testing
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-a-bhimava-agentic-ui-testing/record.json
 
 ## License declarations

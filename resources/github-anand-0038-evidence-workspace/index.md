@@ -12,10 +12,6 @@ Human-controlled WebMCP research workspace for reviewing source-backed claims ga
 - Evidence checked: 2026-11-04T17:55:17Z
 - ID: github:anand-0038/evidence-workspace
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-anand-0038-evidence-workspace/record.json
 
 ## License declarations

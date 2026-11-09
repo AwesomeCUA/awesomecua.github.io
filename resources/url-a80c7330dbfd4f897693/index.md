@@ -20,10 +20,10 @@ The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agen
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: text
-- splits: train, test
-- supervision: task instructions, suggested step lists, success criteria
+- Formats: Parquet
+- Modalities: text
+- Splits: train, test
+- Supervision: task instructions, suggested step lists, success criteria
 
 ### Count observations
 

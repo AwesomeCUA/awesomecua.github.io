@@ -12,10 +12,6 @@ Hugging Face dataset release for AgentRewardBench containing trajectory evaluati
 - Evidence checked: 2026-10-17T04:03:18Z
 - ID: url:866251b68d6bba8b8ba6
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/record.json
 
 ## License declarations

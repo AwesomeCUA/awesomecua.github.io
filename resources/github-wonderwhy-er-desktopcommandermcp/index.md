@@ -12,10 +12,6 @@ Desktop Commander MCP is a Model Context Protocol server for terminal process co
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:wonderwhy-er/desktopcommandermcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wonderwhy-er-desktopcommandermcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Reference SDK implementation of Anthropic's Claude Computer Use agent loop drivi
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:kernel/claude-cu-loop-sample
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kernel-claude-cu-loop-sample/record.json
 
 ## License declarations

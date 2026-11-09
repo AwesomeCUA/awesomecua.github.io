@@ -12,10 +12,6 @@ Windows computer-use Model Context Protocol server replicating Claude Desktop's 
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:jason26214/omni-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jason26214-omni-computer-use/record.json
 
 ## License declarations

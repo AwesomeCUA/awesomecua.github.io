@@ -12,10 +12,6 @@ Reinforcement learning for autonomous mobile device control.
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:digirl-agent/digirl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-digirl-agent-digirl/record.json
 
 ## License declarations

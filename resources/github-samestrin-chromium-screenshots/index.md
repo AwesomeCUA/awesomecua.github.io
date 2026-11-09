@@ -12,10 +12,6 @@ Playwright-based MCP server and API that captures zero-drift Chromium screenshot
 - Evidence checked: 2026-11-04T15:03:33Z
 - ID: github:samestrin/chromium-screenshots
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-samestrin-chromium-screenshots/record.json
 
 ## License declarations

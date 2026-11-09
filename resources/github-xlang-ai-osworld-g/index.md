@@ -12,19 +12,15 @@ Computer-use grounding benchmark with original and refined instructions, release
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:xlang-ai/osworld-g
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-osworld-g/record.json
 
 ## Structured profile
 
-- actions: click point or box center, refusal represented by negative coordinates in the evaluator
-- evaluation: The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding; OSWorld task-execution success is a separate measure.
-- focus: desktop GUI grounding, infeasible-target refusal
-- observations: screenshot, instruction
-- setting: offline
+- Actions / outputs: click point or box center, refusal represented by negative coordinates in the evaluator
+- Evaluation: The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding; OSWorld task-execution success is a separate measure.
+- Focus: desktop GUI grounding, infeasible-target refusal
+- Observations: screenshot, instruction
+- Setting: offline
 
 ### Count observations
 

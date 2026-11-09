@@ -12,10 +12,6 @@ invisible_playwright provides a drop-in Python Playwright client backed by an an
 - Evidence checked: 2026-11-04T13:12:14Z
 - ID: github:feder-cr/invisible_playwright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-feder-cr-invisible-playwright/record.json
 
 ## License declarations

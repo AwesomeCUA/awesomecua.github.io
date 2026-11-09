@@ -12,10 +12,6 @@ skillproof records a human browser demonstration once and compiles it into a rep
 - Evidence checked: 2026-11-04T14:20:16Z
 - ID: github:hccccc01333/skillproof
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hccccc01333-skillproof/record.json
 
 ## License declarations

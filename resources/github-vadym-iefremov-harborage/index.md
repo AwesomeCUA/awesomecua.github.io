@@ -12,10 +12,6 @@ On-demand pool manager providing isolated headless browser sessions for concurre
 - Evidence checked: 2026-11-04T17:55:12Z
 - ID: github:vadym-iefremov/harborage
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vadym-iefremov-harborage/record.json
 
 ## License declarations

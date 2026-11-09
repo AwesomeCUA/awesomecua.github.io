@@ -12,10 +12,6 @@ UEyes is an eye-tracking dataset of 62 participants viewing 1,980 UI screenshots
 - Evidence checked: 2026-11-04T13:12:46Z
 - ID: github:yuejiang-nj/ueyes-chi2023
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yuejiang-nj-ueyes-chi2023/record.json
 
 ## License declarations

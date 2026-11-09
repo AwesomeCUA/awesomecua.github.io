@@ -12,10 +12,6 @@ Stateless capability resolver for WebMCP enabling websites to declare and route 
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:zioladev/signpost
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zioladev-signpost/record.json
 
 ## License declarations

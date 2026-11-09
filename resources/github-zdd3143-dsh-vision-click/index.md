@@ -12,10 +12,6 @@ Windows computer-use plugin for DeepSeek Harness using offline `Windows.Media.Oc
 - Evidence checked: 2026-11-04T15:03:44Z
 - ID: github:zdd3143/dsh-vision-click
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zdd3143-dsh-vision-click/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser Use Box (bux) packages a 24/7 autonomous Claude Code and Browser Use web
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:browser-use/bux
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-use-bux/record.json
 
 ## License declarations

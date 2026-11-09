@@ -12,10 +12,6 @@ Node.js CLI for AI agents to inspect, screenshot, and control live Tauri desktop
 - Evidence checked: 2026-11-04T16:10:35Z
 - ID: github:johunsang/tauri-dev-screen-cli
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-johunsang-tauri-dev-screen-cli/record.json
 
 ## License declarations

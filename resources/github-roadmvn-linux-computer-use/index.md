@@ -12,10 +12,6 @@ Linux computer-use Model Context Protocol server for Claude Code, OpenAI Codex, 
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:roadmvn/linux-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-roadmvn-linux-computer-use/record.json
 
 ## License declarations

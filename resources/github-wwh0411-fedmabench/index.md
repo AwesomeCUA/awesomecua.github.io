@@ -20,11 +20,11 @@ The public Hub lists six dataset families of JSON/JSONL partition annotations. T
 
 ## Structured profile
 
-- actions: model predictions on mobile-agent examples
-- evaluation: The provided evaluation workflow performs model inference over selected partitions and invokes test_swift_fed.py for accuracy scoring.
-- focus: mobile-agent federated training, data heterogeneity
-- observations: mobile-agent examples with externally sourced screenshots
-- setting: offline
+- Actions / outputs: model predictions on mobile-agent examples
+- Evaluation: The provided evaluation workflow performs model inference over selected partitions and invokes test_swift_fed.py for accuracy scoring.
+- Focus: mobile-agent federated training, data heterogeneity
+- Observations: mobile-agent examples with externally sourced screenshots
+- Setting: offline
 
 ### Count observations
 

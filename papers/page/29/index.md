@@ -565,14 +565,14 @@ Jorge Ribeiro, Rui Lima, Tiago Eckhardt, Sara Paiva
 - Publication source: https://www.sciencedirect.com/science/article/pii/S1877050921001393
 - Publication BibTeX: https://awesomecua.com/resources/url-b230a6700386b7e2744c/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-b230a6700386b7e2744c/publication-citation.csl.json
-- venue: Procedia Computer Science
-- publisher: Elsevier BV
-- volume: 181
-- pages: 51-58
-- doi: 10.1016/j.procs.2021.01.104
-- date basis: Crossref issued date 2021; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Procedia Computer Science article; the abstract was read from OpenAlex.
+- Venue: Procedia Computer Science
+- Publisher: Elsevier BV
+- Volume: 181
+- Pages: 51-58
+- DOI: 10.1016/j.procs.2021.01.104
+- Date source: Crossref issued date 2021; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Procedia Computer Science article; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1016/j.procs.2021.01.104, https://api.openalex.org/works/doi:10.1016/j.procs.2021.01.104
 
 ### License declarations
@@ -627,13 +627,13 @@ Olivia Rodríguez-Valdés, Tanja E. J. Vos, Pekka Aho, Beatriz Marín
 - Publication source: https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34
 - Publication BibTeX: https://awesomecua.com/resources/url-24a139a7910431441e39/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-24a139a7910431441e39/publication-citation.csl.json
-- venue: Communications in Computer and Information Science
-- publisher: Springer International Publishing
-- pages: 473-488
-- doi: 10.1007/978-3-030-85347-1_34
-- date basis: Crossref issued date 2021; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: QUATIC 2021 chapter in Communications in Computer and Information Science; the abstract was read from Semantic Scholar.
+- Venue: Communications in Computer and Information Science
+- Publisher: Springer International Publishing
+- Pages: 473-488
+- DOI: 10.1007/978-3-030-85347-1_34
+- Date source: Crossref issued date 2021; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: QUATIC 2021 chapter in Communications in Computer and Information Science; the abstract was read from Semantic Scholar.
 - Publication evidence: https://api.crossref.org/works/10.1007/978-3-030-85347-1_34, https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/978-3-030-85347-1_34?fields=title,abstract,authors,venue,year,externalIds
 
 ### License declarations
@@ -740,13 +740,13 @@ Kabir S. Said, Liming Nie, Adekunle A. Ajibode, Xueyi Zhou
 - Publication source: https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf
 - Publication BibTeX: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/publication-citation.csl.json
-- venue: 12th Asia-Pacific Symposium on Internetware
-- publisher: ACM
-- pages: 51-60
-- doi: 10.1145/3457913.3457931
-- date basis: Crossref issued date 2020-11; precision=month.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: The discovered link is the ResearchGate copy of the Internetware 2020 paper; bibliographic facts come from the Crossref record for its ACM DOI and the abstract from OpenAlex.
+- Venue: 12th Asia-Pacific Symposium on Internetware
+- Publisher: ACM
+- Pages: 51-60
+- DOI: 10.1145/3457913.3457931
+- Date source: Crossref issued date 2020-11; precision=month.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: The discovered link is the ResearchGate copy of the Internetware 2020 paper; bibliographic facts come from the Crossref record for its ACM DOI and the abstract from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3457913.3457931, https://api.openalex.org/works/doi:10.1145/3457913.3457931
 
 ### License declarations
@@ -801,13 +801,13 @@ Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 - Publication source: https://aclanthology.org/2020.emnlp-main.443/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2010-04295/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2010-04295/publication-citation.csl.json
-- venue: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
-- publisher: Association for Computational Linguistics
-- pages: 5495-5510
-- doi: 10.18653/v1/2020.emnlp-main.443
-- date basis: Explicit publisher metadata: 2020/11; precision=month.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: The retained arXiv abstract reports 162,859 phrases; the ACL abstract reports 162,860. This publication proposal does not overwrite the arXiv annotation or assert a unified dataset count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+- Publisher: Association for Computational Linguistics
+- Pages: 5495-5510
+- DOI: 10.18653/v1/2020.emnlp-main.443
+- Date source: Explicit publisher metadata: 2020/11; precision=month.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: The retained arXiv abstract reports 162,859 phrases; the ACL abstract reports 162,860. This publication proposal does not overwrite the arXiv annotation or assert a unified dataset count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://aclanthology.org/2020.emnlp-main.443/
 
 ### Recorded arXiv snapshot
@@ -923,13 +923,13 @@ Tathagata Chakraborti, Vatche Isahagian, Rania Khalaf, Yasaman Khazaeni, Vinod M
 - Publication source: https://link.springer.com/chapter/10.1007/978-3-030-58779-6_15
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2007-13257/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2007-13257/publication-citation.csl.json
-- venue: Lecture Notes in Business Information Processing
-- publisher: Springer International Publishing
-- pages: 215-228
-- doi: 10.1007/978-3-030-58779-6_15
-- date basis: Crossref issued date 2020; precision=year.
-- identity basis: Same work as the retained arXiv record: matching title and seven-author list, and the arXiv preprint names the BPM 2020 RPA Forum.
-- notes: BPM 2020 RPA Forum chapter in Lecture Notes in Business Information Processing; the arXiv preprint names the same forum.
+- Venue: Lecture Notes in Business Information Processing
+- Publisher: Springer International Publishing
+- Pages: 215-228
+- DOI: 10.1007/978-3-030-58779-6_15
+- Date source: Crossref issued date 2020; precision=year.
+- Identity basis: Same work as the retained arXiv record: matching title and seven-author list, and the arXiv preprint names the BPM 2020 RPA Forum.
+- Source notes: BPM 2020 RPA Forum chapter in Lecture Notes in Business Information Processing; the arXiv preprint names the same forum.
 - Publication evidence: https://api.crossref.org/works/10.1007/978-3-030-58779-6_15
 
 ### Recorded arXiv snapshot
@@ -993,13 +993,13 @@ Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 - Publication source: https://aclanthology.org/2020.acl-main.729/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2005-03776/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2005-03776/publication-citation.csl.json
-- venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
-- publisher: Association for Computational Linguistics
-- pages: 8198-8210
-- doi: 10.18653/v1/2020.acl-main.729
-- date basis: Explicit publisher metadata: 2020/7; precision=month.
-- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- notes: Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
+- Publisher: Association for Computational Linguistics
+- Pages: 8198-8210
+- DOI: 10.18653/v1/2020.acl-main.729
+- Date source: Explicit publisher metadata: 2020/7; precision=month.
+- Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- Source notes: Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://aclanthology.org/2020.acl-main.729/
 
 ### Recorded arXiv snapshot
@@ -1063,14 +1063,14 @@ Rehan Syed, Suriadi Suriadi, Michael Adams, Wasana Bandara, Sander J.J. Leemans,
 - Publication source: https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609
 - Publication BibTeX: https://awesomecua.com/resources/url-2574c6eeee264762a990/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-2574c6eeee264762a990/publication-citation.csl.json
-- venue: Computers in Industry
-- publisher: Elsevier BV
-- volume: 115
-- pages: 103162
-- doi: 10.1016/j.compind.2019.103162
-- date basis: Crossref issued date 2020-2; precision=month.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Computers in Industry journal article; the abstract was read from Semantic Scholar.
+- Venue: Computers in Industry
+- Publisher: Elsevier BV
+- Volume: 115
+- Pages: 103162
+- DOI: 10.1016/j.compind.2019.103162
+- Date source: Crossref issued date 2020-2; precision=month.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Computers in Industry journal article; the abstract was read from Semantic Scholar.
 - Publication evidence: https://api.crossref.org/works/10.1016/j.compind.2019.103162, https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.compind.2019.103162?fields=title,abstract,authors,venue,year,externalIds
 
 ### License declarations
@@ -1385,11 +1385,11 @@ Toby Jia-Jun Li, Oriana Riva
 - Publication source: https://doi.org/10.1145/3210240.3210339
 - Publication BibTeX: https://awesomecua.com/resources/url-901ca855640457dfe2f1/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-901ca855640457dfe2f1/publication-citation.csl.json
-- venue: The 16th Annual International Conference on Mobile Systems, Applications, and Services
-- doi: 10.1145/3210240.3210339
-- date basis: Supplied month precision: 2018-06. Publication line: MobiSys 2018, June 2018
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: Final proceedings page range and volume are not established in the retained first-party citation. The paper states a 14-page extent, not a page range. Exact publication day is unknown.
+- Venue: The 16th Annual International Conference on Mobile Systems, Applications, and Services
+- DOI: 10.1145/3210240.3210339
+- Date source: Supplied month precision: 2018-06. Publication line: MobiSys 2018, June 2018
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: Final proceedings page range and volume are not established in the retained first-party citation. The paper states a 14-page extent, not a page range. Exact publication day is unknown.
 - Publication evidence: https://www.microsoft.com/en-us/research/publication/kite-building-conversational-bots-mobile-apps/, https://www.microsoft.com/en-us/research/wp-content/uploads/2018/05/kite_mobisys18.pdf
 
 ### License declarations
@@ -1497,10 +1497,10 @@ Toby Jia-Jun Li, Igor Labutov, Xiaohan Nancy Li, Xiaoyi Zhang, Wenze Shi, Wanlin
 - Publication source: https://ieeexplore.ieee.org/document/8506506
 - Publication BibTeX: https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/publication-citation.csl.json
-- venue: Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing
-- date basis: Supplied year precision: 2018. APPINITE publication citation: VL/HCC 2018
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations. Author-hosted manuscript and institutional publication lists supply the retained evidence. DOI, final page range, and exact publication day remain unknown.
+- Venue: Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing
+- Date source: Supplied year precision: 2018. APPINITE publication citation: VL/HCC 2018
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations. Author-hosted manuscript and institutional publication lists supply the retained evidence. DOI, final page range, and exact publication day remain unknown.
 - Publication evidence: https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf, https://www.cs.cmu.edu/~NatProg/sugilite.html, https://toby.li/publications/
 
 ### License declarations
@@ -1558,11 +1558,11 @@ Sarah E. Chasins, Maria Mueller, Rastislav Bodik
 - Publication source: https://doi.org/10.1145/3242587.3242661
 - Publication BibTeX: https://awesomecua.com/resources/url-97c0b1896525632434e2/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-97c0b1896525632434e2/publication-citation.csl.json
-- venue: Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology
-- doi: 10.1145/3242587.3242661
-- date basis: Supplied year precision: 2018. Rousillon entry: UIST 2018
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: This is browser interaction learned from demonstrations, rather than a generic server-side crawling library. Final proceedings page range and volume are not established. Manuscript pages 1-13 are not substituted for publisher pagination. Exact publication month/day is not inferred from conference dates.
+- Venue: Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology
+- DOI: 10.1145/3242587.3242661
+- Date source: Supplied year precision: 2018. Rousillon entry: UIST 2018
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: This is browser interaction learned from demonstrations, rather than a generic server-side crawling library. Final proceedings page range and volume are not established. Manuscript pages 1-13 are not substituted for publisher pagination. Exact publication month/day is not inferred from conference dates.
 - Publication evidence: https://schasins.com/papers/, https://schasins.com/assets/papers/rousillon.pdf
 
 ### License declarations
@@ -1618,12 +1618,12 @@ Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang 
 - Publication source: https://doi.org/10.1145/3126594.3126651
 - Publication BibTeX: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/publication-citation.csl.json
-- venue: UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology
-- pages: 845-854
-- doi: 10.1145/3126594.3126651
-- date basis: Supplied day precision: 2017-10-20. PDF cover, Published: 20 October 2017 The 18 January 2026 download date and October 22-25 conference dates are not publication dates.
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim. No volume number is supplied for this proceedings article.
+- Venue: UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology
+- Pages: 845-854
+- DOI: 10.1145/3126594.3126651
+- Date source: Supplied day precision: 2017-10-20. PDF cover, Published: 20 October 2017 The 18 January 2026 download date and October 22-25 conference dates are not publication dates.
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim. No volume number is supplied for this proceedings article.
 - Publication evidence: https://danafergan.com/publications/deka2017rico.pdf, https://dev.interactionmining.org/archive/rico
 
 ### License declarations
@@ -1679,15 +1679,15 @@ Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
 - Publication source: https://proceedings.mlr.press/v70/shi17a.html
 - Publication BibTeX: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/publication-citation.csl.json
-- venue: Proceedings of the 34th International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 70
-- pages: 3135-3144
-- date basis: Publisher citation_publication_date metadata explicitly states 2017/07/17; this is separate from the conference interval.
-- event dates: 06--11 Aug (conference interval reported in the publisher BibTeX month field)
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained. DOI not supplied in the retained publisher citation. Publisher metadata supplies the publication date separately from the conference interval.
+- Venue: Proceedings of the 34th International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 70
+- Pages: 3135-3144
+- Date source: Publisher citation_publication_date metadata explicitly states 2017/07/17; this is separate from the conference interval.
+- Event dates: 06--11 Aug (conference interval reported in the publisher BibTeX month field)
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained. DOI not supplied in the retained publisher citation. Publisher metadata supplies the publication date separately from the conference interval.
 - Publication evidence: https://proceedings.mlr.press/v70/shi17a.html, https://proceedings.mlr.press/v70/shi17a/shi17a.pdf
 
 ### License declarations
@@ -1743,12 +1743,12 @@ Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
 - Publication source: https://doi.org/10.1145/3025453.3025483
 - Publication BibTeX: https://awesomecua.com/resources/url-392a602c660ffa91be46/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-392a602c660ffa91be46/publication-citation.csl.json
-- venue: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
-- pages: 6038-6049
-- doi: 10.1145/3025453.3025483
-- date basis: Supplied year precision: 2017. Publications: SUGILITE, CHI 2017 Only publication year is asserted; event dates are kept separate.
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month/day are not independently identified by the retained sources.
+- Venue: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
+- Pages: 6038-6049
+- DOI: 10.1145/3025453.3025483
+- Date source: Supplied year precision: 2017. Publications: SUGILITE, CHI 2017 Only publication year is asserted; event dates are kept separate.
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month/day are not independently identified by the retained sources.
 - Publication evidence: https://www.cs.cmu.edu/~NatProg/sugilite.html, https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf
 
 ### License declarations
@@ -1804,11 +1804,11 @@ Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
 - Publication source: https://doi.org/10.1145/2983990.2984020
 - Publication BibTeX: https://awesomecua.com/resources/url-347925d0f440d6396080/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-347925d0f440d6396080/publication-citation.csl.json
-- venue: OOPSLA 2016
-- doi: 10.1145/2983990.2984020
-- date basis: Supplied month precision: 2016-11. year=2016, month=November
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved. Page range, volume and exact publication day are not established by the retained citation sources.
+- Venue: OOPSLA 2016
+- DOI: 10.1145/2983990.2984020
+- Date source: Supplied month precision: 2016-11. year=2016, month=November
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved. Page range, volume and exact publication day are not established by the retained citation sources.
 - Publication evidence: https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/, https://2016.splashcon.org/track/splash-2016-oopsla, https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/, https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf
 
 ### License declarations
@@ -1920,12 +1920,12 @@ Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
 - Publication source: https://doi.org/10.1145/1753326.1753555
 - Publication BibTeX: https://awesomecua.com/resources/url-6262c757080f8838e62c/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-6262c757080f8838e62c/publication-citation.csl.json
-- venue: Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)
-- pages: 1535-1544
-- doi: 10.1145/1753326.1753555
-- date basis: Supplied month precision: 2010-04. Date Issued: April 2010
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: Distinct visual-testing contribution from the 2009 Sikuli paper. The institutional abstract and published-version citation supply the retained evidence. Exact publication day and operating-system coverage are not established in the accessible institutional abstract.
+- Venue: Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)
+- Pages: 1535-1544
+- DOI: 10.1145/1753326.1753555
+- Date source: Supplied month precision: 2010-04. Date Issued: April 2010
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: Distinct visual-testing contribution from the 2009 Sikuli paper. The institutional abstract and published-version citation supply the retained evidence. Exact publication day and operating-system coverage are not established in the accessible institutional abstract.
 - Publication evidence: https://dspace.mit.edu/entities/publication/6a6097ba-1d97-43cf-bc70-04b5af02efd5
 
 ### License declarations
@@ -1979,12 +1979,12 @@ Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
 - Publication source: https://doi.org/10.1145/1622176.1622213
 - Publication BibTeX: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/publication-citation.csl.json
-- venue: Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)
-- pages: 183-192
-- doi: 10.1145/1622176.1622213
-- date basis: Supplied month precision: 2009-10. Date Issued: October 2009
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: Institutional abstract and published-version citation supply the retained evidence; the institution identifies an author final manuscript record. Exact publication day is not supplied. Operating-system-specific experiments are not asserted.
+- Venue: Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)
+- Pages: 183-192
+- DOI: 10.1145/1622176.1622213
+- Date source: Supplied month precision: 2009-10. Date Issued: October 2009
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: Institutional abstract and published-version citation supply the retained evidence; the institution identifies an author final manuscript record. Exact publication day is not supplied. Operating-system-specific experiments are not asserted.
 - Publication evidence: https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a
 
 ### License declarations
@@ -2038,12 +2038,12 @@ Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
 - Publication source: https://doi.org/10.1145/1240624.1240767
 - Publication BibTeX: https://awesomecua.com/resources/url-cccd967aa993404d74d0/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-cccd967aa993404d74d0/publication-citation.csl.json
-- venue: CHI 2007 Proceedings
-- pages: 943-946
-- doi: 10.1145/1240624.1240767
-- date basis: Supplied year precision: 2007. CHI 2007 proceedings heading and copyright year The IBM page has an unlabeled Date of 22 Oct 2007, while the paper gives April/May event dates. Their roles do not establish a reliable day-level publication date.
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record. Exact publication date is unresolved; only the clearly established year is proposed.
+- Venue: CHI 2007 Proceedings
+- Pages: 943-946
+- DOI: 10.1145/1240624.1240767
+- Date source: Supplied year precision: 2007. CHI 2007 proceedings heading and copyright year The IBM page has an unlabeled Date of 22 Oct 2007, while the paper gives April/May event dates. Their roles do not establish a reliable day-level publication date.
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record. Exact publication date is unresolved; only the clearly established year is proposed.
 - Publication evidence: https://research.ibm.com/publications/koala-capture-share-automate-personalize-business-processes-on-the-web, https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf
 
 ### License declarations
@@ -2099,11 +2099,11 @@ James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung
 - Publication source: https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf
 - Publication BibTeX: https://awesomecua.com/resources/url-628b5251757bb3888e89/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-628b5251757bb3888e89/publication-citation.csl.json
-- venue: Twenty-Second AAAI National Conference on Artificial Intelligence
-- pages: 1514-1519
-- date basis: Supplied year precision: 2007. Papers section: AAAI-2007
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes. DOI and volume number are not supplied in the retained primary sources. No exact publication month/day is established.
+- Venue: Twenty-Second AAAI National Conference on Artificial Intelligence
+- Pages: 1514-1519
+- Date source: Supplied year precision: 2007. Papers section: AAAI-2007
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes. DOI and volume number are not supplied in the retained primary sources. No exact publication month/day is established.
 - Publication evidence: https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf, https://www.cs.rochester.edu/research/cisd/projects/plow/
 
 ### License declarations
@@ -2159,11 +2159,11 @@ Allen Cypher
 - Publication source: https://acypher.com/Publications/CHI91/EagerCHI.html
 - Publication BibTeX: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/publication-citation.csl.json
-- venue: Proceedings of CHI '91
-- pages: 33-39
-- date basis: Supplied year precision: 1991. Opening CHI 1991 citation and copyright
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS. DOI not verified in a retained first-party source. Exact publication month/day is not inferred from conference dates.
+- Venue: Proceedings of CHI '91
+- Pages: 33-39
+- Date source: Supplied year precision: 1991. Opening CHI 1991 citation and copyright
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS. DOI not verified in a retained first-party source. Exact publication month/day is not inferred from conference dates.
 - Publication evidence: https://acypher.com/Eager/, https://acypher.com/Publications/CHI91/EagerCHI.html
 
 ### License declarations

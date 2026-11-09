@@ -12,10 +12,6 @@ Open-source macOS Safari web extension that lets Claude read pages and execute i
 - Evidence checked: 2026-11-04T16:30:16Z
 - ID: github:dolomite1337/claude-in-safari
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dolomite1337-claude-in-safari/record.json
 
 ## License declarations

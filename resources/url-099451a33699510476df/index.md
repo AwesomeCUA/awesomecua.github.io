@@ -20,10 +20,10 @@ The publishing account is anonymous (anonymousmypcbench). The card names the ben
 
 ## Structured profile
 
-- formats: ZIP run archives, JSON, SHA-256 checksum lists
-- modalities: screenshots, agent transcripts, action logs, setup and verifier logs, timing and cost records
-- splits: not recorded
-- supervision: verifier task scores, agent-generated trajectories, measured task timings
+- Formats: ZIP run archives, JSON, SHA-256 checksum lists
+- Modalities: screenshots, agent transcripts, action logs, setup and verifier logs, timing and cost records
+- Splits: not recorded
+- Supervision: verifier task scores, agent-generated trajectories, measured task timings
 
 ### Count observations
 

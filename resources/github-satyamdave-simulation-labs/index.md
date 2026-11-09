@@ -12,10 +12,6 @@ Behavioral CI gate where computer-use agents test signup, checkout, and onboardi
 - Evidence checked: 2026-11-04T16:51:42Z
 - ID: github:satyamdave/simulation-labs
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-satyamdave-simulation-labs/record.json
 
 ## License declarations

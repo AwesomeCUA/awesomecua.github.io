@@ -12,10 +12,6 @@ Remote Model Context Protocol gateway for routing agent tool calls to computer-u
 - Evidence checked: 2026-11-04T16:51:58Z
 - ID: github:git-ksk/computer-use-mcp-gateway
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-git-ksk-computer-use-mcp-gateway/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ ENVS is a post-training and verified tree-search pipeline for long-horizon GUI a
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:artysicistz/envs
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-artysicistz-envs/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Resources for evaluating GUI agents under malicious popup instructions.
 - Evidence checked: 2026-10-16T06:40:54Z
 - ID: github:salt-nlp/popupattack
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-salt-nlp-popupattack/record.json
 
 ## License declarations

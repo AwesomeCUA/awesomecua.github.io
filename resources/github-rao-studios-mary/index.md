@@ -12,10 +12,6 @@ Ambient-intelligent macOS computer-use desktop client and personal AI operating 
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:rao-studios/mary
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rao-studios-mary/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ MobileRAG operates Android devices via ADB by combining local app retrieval, his
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:liuxiaojieoutofworld/mobilerag_arxiv
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-liuxiaojieoutofworld-mobilerag-arxiv/record.json
 
 ## License declarations

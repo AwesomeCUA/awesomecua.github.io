@@ -12,10 +12,6 @@ CUA-Gym-Hub provides 98 self-contained mock web applications with deterministic 
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:xlang-ai/cua-gym-hub
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-cua-gym-hub/record.json
 
 ## License declarations

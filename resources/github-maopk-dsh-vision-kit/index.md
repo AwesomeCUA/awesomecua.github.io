@@ -12,10 +12,6 @@ dsh-vision-kit provides a resident Windows PC Actor combining UI Automation stru
 - Evidence checked: 2026-11-04T14:41:48Z
 - ID: github:maopk/dsh-vision-kit
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-maopk-dsh-vision-kit/record.json
 
 ## License declarations

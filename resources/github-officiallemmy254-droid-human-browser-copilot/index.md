@@ -12,10 +12,6 @@ Agentic Chrome copilot featuring organic mouse kinematics, visual perception, an
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:officiallemmy254-droid/human-browser-copilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-officiallemmy254-droid-human-browser-copilot/record.json
 
 ## License declarations

@@ -12,19 +12,15 @@ Multimodal web navigation agent and evaluation tasks on real websites.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:minorjerry/webvoyager
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
 
 ## Structured profile
 
-- actions: Selenium-backed browser interactions
-- evaluation: The repository supplies an automated multimodal-model evaluation protocol.
-- focus: live-web task completion
-- observations: webpage screenshots, textual task instructions
-- setting: interactive
+- Actions / outputs: Selenium-backed browser interactions
+- Evaluation: The repository supplies an automated multimodal-model evaluation protocol.
+- Focus: live-web task completion
+- Observations: webpage screenshots, textual task instructions
+- Setting: interactive
 
 ### Count observations
 

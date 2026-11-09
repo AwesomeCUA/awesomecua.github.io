@@ -20,10 +20,10 @@ The Hub card is license-only; semantic description and reported scale come from 
 
 ## Structured profile
 
-- formats: HTML, JSON, Python extraction/loading scripts
-- modalities: GUI screenshots (described input), GUI actions, HTML
-- splits: Android-Control train file, Android-Control test file
-- supervision: action-conditioned next-state code prediction, generated HTML supervision
+- Formats: HTML, JSON, Python extraction/loading scripts
+- Modalities: GUI screenshots (described input), GUI actions, HTML
+- Splits: Android-Control train file, Android-Control test file
+- Supervision: action-conditioned next-state code prediction, generated HTML supervision
 
 ### Count observations
 

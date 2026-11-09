@@ -12,18 +12,14 @@ Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 G
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:cc4aa8caeee0cff58e73
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/record.json
 
 ## Structured profile
 
-- formats: JPEG, JSON, XML, Parquet, CSV, ZIP packages, HTML/JavaScript trace visualization
-- modalities: screenshots, view hierarchies, action traces, app metadata
-- splits: not recorded
-- supervision: paired screenshot/view-hierarchy structure, recorded app states, actions and transitions
+- Formats: JPEG, JSON, XML, Parquet, CSV, ZIP packages, HTML/JavaScript trace visualization
+- Modalities: screenshots, view hierarchies, action traces, app metadata
+- Splits: not recorded
+- Supervision: paired screenshot/view-hierarchy structure, recorded app states, actions and transitions
 
 ### Count observations
 

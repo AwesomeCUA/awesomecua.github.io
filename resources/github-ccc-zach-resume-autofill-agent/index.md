@@ -12,10 +12,6 @@ AI browser agent and Chrome extension that parses resumes and autonomously fills
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:ccc-zach/resume-autofill-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ccc-zach-resume-autofill-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Overlay Companion MCP provides a transparent on-screen visual overlay and MCP se
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:ryansopensourcerice/overlay-companion-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ryansopensourcerice-overlay-companion-mcp/record.json
 
 ## License declarations

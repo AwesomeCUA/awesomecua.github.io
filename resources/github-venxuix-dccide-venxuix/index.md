@@ -12,10 +12,6 @@
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:venxuix-dccide/venxuix
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-venxuix-dccide-venxuix/record.json
 
 ## License declarations

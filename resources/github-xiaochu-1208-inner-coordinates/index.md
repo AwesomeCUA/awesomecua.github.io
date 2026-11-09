@@ -12,10 +12,6 @@ Reverse-engineers a clickable coordinate and state map of macOS and iPhone appli
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:xiaochu-1208/inner-coordinates
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xiaochu-1208-inner-coordinates/record.json
 
 ## License declarations

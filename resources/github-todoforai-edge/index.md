@@ -12,10 +12,6 @@ TODO for AI Edge connects a local machine's shell, filesystem, and browser to th
 - Evidence checked: 2026-11-04T13:12:41Z
 - ID: github:todoforai/edge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-todoforai-edge/record.json
 
 ## License declarations

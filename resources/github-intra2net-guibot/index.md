@@ -12,10 +12,6 @@ Guibot is a Python GUI automation library unifying template matching, feature de
 - Evidence checked: 2026-11-04T13:12:19Z
 - ID: github:intra2net/guibot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-intra2net-guibot/record.json
 
 ## License declarations

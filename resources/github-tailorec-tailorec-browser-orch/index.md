@@ -12,10 +12,6 @@ Run-isolated browser orchestration service that converts webpages into semantic 
 - Evidence checked: 2026-11-04T15:45:45Z
 - ID: github:tailorec/tailorec-browser-orch
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tailorec-tailorec-browser-orch/record.json
 
 ## License declarations

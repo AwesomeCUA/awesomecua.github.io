@@ -12,10 +12,6 @@ GUI-Spotlight is a think-with-image GUI visual grounding model that iteratively 
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:bin123apple/gui_spotlight
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bin123apple-gui-spotlight/record.json
 
 ## License declarations

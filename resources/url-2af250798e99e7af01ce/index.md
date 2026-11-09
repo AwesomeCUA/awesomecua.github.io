@@ -35,13 +35,13 @@ Preetam Prabhu Srikar Dammu
 - Publication source: https://dl.acm.org/doi/abs/10.1145/3701551.3707420
 - Publication BibTeX: https://awesomecua.com/resources/url-2af250798e99e7af01ce/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-2af250798e99e7af01ce/publication-citation.csl.json
-- venue: Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining
-- publisher: ACM
-- pages: 1074-1076
-- doi: 10.1145/3701551.3707420
-- date basis: Crossref issued date 2025-3-10; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: WSDM 2025 proceedings paper; the abstract was read from OpenAlex.
+- Venue: Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining
+- Publisher: ACM
+- Pages: 1074-1076
+- DOI: 10.1145/3701551.3707420
+- Date source: Crossref issued date 2025-3-10; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: WSDM 2025 proceedings paper; the abstract was read from OpenAlex.
 - Publication evidence: https://api.crossref.org/works/10.1145/3701551.3707420, https://api.openalex.org/works/doi:10.1145/3701551.3707420
 
 ## License declarations

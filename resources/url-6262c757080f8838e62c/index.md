@@ -35,12 +35,12 @@ Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
 - Publication source: https://doi.org/10.1145/1753326.1753555
 - Publication BibTeX: https://awesomecua.com/resources/url-6262c757080f8838e62c/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-6262c757080f8838e62c/publication-citation.csl.json
-- venue: Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)
-- pages: 1535-1544
-- doi: 10.1145/1753326.1753555
-- date basis: Supplied month precision: 2010-04. Date Issued: April 2010
-- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- notes: Distinct visual-testing contribution from the 2009 Sikuli paper. The institutional abstract and published-version citation supply the retained evidence. Exact publication day and operating-system coverage are not established in the accessible institutional abstract.
+- Venue: Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)
+- Pages: 1535-1544
+- DOI: 10.1145/1753326.1753555
+- Date source: Supplied month precision: 2010-04. Date Issued: April 2010
+- Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- Source notes: Distinct visual-testing contribution from the 2009 Sikuli paper. The institutional abstract and published-version citation supply the retained evidence. Exact publication day and operating-system coverage are not established in the accessible institutional abstract.
 - Publication evidence: https://dspace.mit.edu/entities/publication/6a6097ba-1d97-43cf-bc70-04b5af02efd5
 
 ## License declarations

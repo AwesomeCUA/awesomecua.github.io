@@ -12,10 +12,6 @@ Remote bridge allowing users to dispatch tasks to and review outputs from a loca
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:weihaoyyy/codex-for-wechat
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-weihaoyyy-codex-for-wechat/record.json
 
 ## License declarations

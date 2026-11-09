@@ -12,10 +12,6 @@ Sandbox0 is an open-source cloud sandbox platform with persistent storage volume
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:sandbox0-ai/sandbox0
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sandbox0-ai-sandbox0/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Browser-local WebMCP validation lab where agent proposals are verified against J
 - Evidence checked: 2026-11-04T17:55:15Z
 - ID: github:greqone/przedwysylkawebmcplab
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-greqone-przedwysylkawebmcplab/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Online agentic RL framework for mobile GUI agents built around the difficulty-ad
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:thudm/mobilerl
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-mobilerl/record.json
 
 ## License declarations

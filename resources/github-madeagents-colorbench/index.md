@@ -20,11 +20,11 @@ The source tree contains graph and task JSON files plus construction/evaluation 
 
 ## Structured profile
 
-- actions: mobile GUI operations along graph transitions
-- evaluation: The publisher reports success rate, completion rate and atomic-capability diagnostics using graph-based evaluation.
-- focus: long-horizon mobile task completion, multi-path graph interaction
-- observations: mobile screenshots represented as graph states
-- setting: interactive
+- Actions / outputs: mobile GUI operations along graph transitions
+- Evaluation: The publisher reports success rate, completion rate and atomic-capability diagnostics using graph-based evaluation.
+- Focus: long-horizon mobile task completion, multi-path graph interaction
+- Observations: mobile screenshots represented as graph states
+- Setting: interactive
 
 ### Count observations
 

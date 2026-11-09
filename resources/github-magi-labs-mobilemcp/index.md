@@ -12,10 +12,6 @@ MobileMCP lets AI agents control physical Android phones over WebSocket via an o
 - Evidence checked: 2026-11-04T14:20:14Z
 - ID: github:magi-labs/mobilemcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-magi-labs-mobilemcp/record.json
 
 ## License declarations

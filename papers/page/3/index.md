@@ -2494,15 +2494,15 @@ Yongbi Son, Changoo Lee, Dongwon Shin, Byoungyoung Lee, Sanghyun Hong, Sooel Son
 - Publication source: https://doi.org/10.1145/3832165
 - Publication BibTeX: https://awesomecua.com/resources/url-e86b3a1454b494224f07/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-e86b3a1454b494224f07/publication-citation.csl.json
-- venue: Proceedings of the ACM on Software Engineering
-- publisher: Association for Computing Machinery (ACM)
-- volume: 3
-- issue: ISSTA
-- pages: 1696-1717
-- doi: 10.1145/3832165
-- date basis: Crossref issued date 2026-10-1; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: Proceedings of the ACM on Software Engineering article.
+- Venue: Proceedings of the ACM on Software Engineering
+- Publisher: Association for Computing Machinery (ACM)
+- Volume: 3
+- Issue: ISSTA
+- Pages: 1696-1717
+- DOI: 10.1145/3832165
+- Date source: Crossref issued date 2026-10-1; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: Proceedings of the ACM on Software Engineering article.
 - Publication evidence: https://api.crossref.org/works/10.1145/3832165
 
 ### License declarations

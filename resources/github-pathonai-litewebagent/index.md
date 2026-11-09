@@ -12,10 +12,6 @@ Open-source VLM web-agent framework providing Playwright browser control, planni
 - Evidence checked: 2026-10-16T13:14:29Z
 - ID: github:pathonai/litewebagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pathonai-litewebagent/record.json
 
 ## License declarations

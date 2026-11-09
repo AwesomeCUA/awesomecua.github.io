@@ -35,12 +35,12 @@ Phil Cuvin, Hao Zhu, Diyi Yang
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2026/hash/9afca5107064eb89546fabb4abc379a7-Abstract-Conference.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2512-22894/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2512-22894/publication-citation.csl.json
-- venue: International Conference on Learning Representations
-- volume: 2026
-- pages: 95945-95977
-- date basis: Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: the proceedings title is the retained arXiv title without its DECEPTICON: prefix, the same three authors appear in the same order, and the publisher abstract matches the arXiv abstract, including the 700-task DECEPTICON environment (600 generated and 100 real-world tasks).
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The proceedings title omits the DECEPTICON: prefix that the arXiv title carries. Volume 2026 and pages 95945-95977 are explicit publisher citation metadata.
+- Venue: International Conference on Learning Representations
+- Volume: 2026
+- Pages: 95945-95977
+- Date source: Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: the proceedings title is the retained arXiv title without its DECEPTICON: prefix, the same three authors appear in the same order, and the publisher abstract matches the arXiv abstract, including the 700-task DECEPTICON environment (600 generated and 100 real-world tasks).
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The proceedings title omits the DECEPTICON: prefix that the arXiv title carries. Volume 2026 and pages 95945-95977 are explicit publisher citation metadata.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2026/hash/9afca5107064eb89546fabb4abc379a7-Abstract-Conference.html
 
 ## Recorded arXiv snapshot

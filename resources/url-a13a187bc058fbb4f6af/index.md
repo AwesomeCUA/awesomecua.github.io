@@ -20,10 +20,10 @@ The public release contains nine Parquet shards. The short card supplies schema 
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: text, accessibility-tree observations, actions
-- splits: train
-- supervision: action completion, trajectory outcome
+- Formats: Parquet
+- Modalities: text, accessibility-tree observations, actions
+- Splits: train
+- Supervision: action completion, trajectory outcome
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Pilos Agents is a desktop application for orchestrating multi-agent Claude Code 
 - Evidence checked: 2026-11-04T13:12:31Z
 - ID: github:pilos-ai/agents
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pilos-ai-agents/record.json
 
 ## License declarations

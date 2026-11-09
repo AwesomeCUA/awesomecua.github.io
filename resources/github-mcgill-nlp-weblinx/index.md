@@ -12,19 +12,15 @@ Demonstrations and evaluation for conversational web navigation.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:mcgill-nlp/weblinx
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-weblinx/record.json
 
 ## Structured profile
 
-- actions: predicted browser actions
-- evaluation: Offline evaluation compares action predictions against recorded human demonstrations.
-- focus: conversational web navigation, next-action prediction
-- observations: dialogue history, HTML, screenshots, action history
-- setting: offline
+- Actions / outputs: predicted browser actions
+- Evaluation: Offline evaluation compares action predictions against recorded human demonstrations.
+- Focus: conversational web navigation, next-action prediction
+- Observations: dialogue history, HTML, screenshots, action history
+- Setting: offline
 
 ### Count observations
 

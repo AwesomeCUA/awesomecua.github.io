@@ -12,10 +12,6 @@ deedchain benchmarks report fidelity and hallucination rates of browser agents a
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:pillcrew/deedchain
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pillcrew-deedchain/record.json
 
 ## License declarations

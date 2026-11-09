@@ -12,10 +12,6 @@ Compact single-file reference browser agent designed to run inside a Solari Sand
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:konuktor/agent-gauntlet-example-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-konuktor-agent-gauntlet-example-agent/record.json
 
 ## License declarations

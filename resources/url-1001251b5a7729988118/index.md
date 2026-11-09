@@ -20,10 +20,10 @@ Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; access is open
 
 ## Structured profile
 
-- formats: Parquet
-- modalities: GUI screenshots, bounding boxes, instructions, element descriptions
-- splits: train
-- supervision: instruction-to-bounding-box GUI grounding
+- Formats: Parquet
+- Modalities: GUI screenshots, bounding boxes, instructions, element descriptions
+- Splits: train
+- Supervision: instruction-to-bounding-box GUI grounding
 
 ### Count observations
 

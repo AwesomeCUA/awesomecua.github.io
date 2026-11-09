@@ -12,10 +12,6 @@ Native Apple Silicon macOS AI browser combining WebKit browsing with an integrat
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:bennix/astraaibrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bennix-astraaibrowser/record.json
 
 ## License declarations

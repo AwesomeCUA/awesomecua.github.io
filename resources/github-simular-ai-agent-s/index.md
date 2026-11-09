@@ -12,10 +12,6 @@ Simular's open-source framework for computer-use agents that click, type and scr
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:simular-ai/agent-s
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-simular-ai-agent-s/record.json
 
 ## License declarations

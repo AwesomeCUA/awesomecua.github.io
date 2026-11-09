@@ -12,10 +12,6 @@ Trope CUA enables background desktop inspection and GUI operation on Windows and
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:tropeai/trope-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tropeai-trope-cua/record.json
 
 ## License declarations

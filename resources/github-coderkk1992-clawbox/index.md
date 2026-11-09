@@ -12,10 +12,6 @@ ClawBox runs OpenClaw and computer-use agents inside an isolated Apple Virtualiz
 - Evidence checked: 2026-11-04T13:12:12Z
 - ID: github:coderkk1992/clawbox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-coderkk1992-clawbox/record.json
 
 ## License declarations

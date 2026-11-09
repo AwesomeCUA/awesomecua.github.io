@@ -12,10 +12,6 @@ Remote Chromium workstation for AI agents and human operators exposed over Model
 - Evidence checked: 2026-11-04T17:30:24Z
 - ID: github:sh7vansh/gloria
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sh7vansh-gloria/record.json
 
 ## License declarations

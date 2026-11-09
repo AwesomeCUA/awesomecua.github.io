@@ -12,10 +12,6 @@ Supervised Linux desktop automation copilot featuring sandboxed execution, polic
 - Evidence checked: 2026-11-04T16:30:12Z
 - ID: github:pradhankukiran/locopilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pradhankukiran-locopilot/record.json
 
 ## License declarations

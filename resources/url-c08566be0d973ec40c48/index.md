@@ -20,11 +20,11 @@ The Hub card has only metadata (apache-2.0, English, 1K<n<10K). The UI-I2E-Bench
 
 ## Structured profile
 
-- actions: point prediction
-- evaluation: Point-in-box accuracy against the annotated bounding box, broken down by source platform, element type and instruction type (UI-E2I-Synth/i2e-bench-eval.py).
-- focus: GUI element grounding from explicit and implicit instructions
-- observations: screenshots, natural-language instructions
-- setting: offline
+- Actions / outputs: point prediction
+- Evaluation: Point-in-box accuracy against the annotated bounding box, broken down by source platform, element type and instruction type (UI-E2I-Synth/i2e-bench-eval.py).
+- Focus: GUI element grounding from explicit and implicit instructions
+- Observations: screenshots, natural-language instructions
+- Setting: offline
 
 ### Count observations
 

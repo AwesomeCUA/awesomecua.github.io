@@ -12,10 +12,6 @@ Isolates macOS computer-use agents inside a separate login session while renderi
 - Evidence checked: 2026-11-04T17:30:35Z
 - ID: github:kageroumado/rocuronium
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kageroumado-rocuronium/record.json
 
 ## License declarations

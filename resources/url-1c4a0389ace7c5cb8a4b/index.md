@@ -20,10 +20,10 @@ The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automa
 
 ## Structured profile
 
-- formats: Python, Markdown, JSON manifest
-- modalities: Python task classes, implementation notes
-- splits: not recorded
-- supervision: task setup and evaluator code
+- Formats: Python, Markdown, JSON manifest
+- Modalities: Python task classes, implementation notes
+- Splits: not recorded
+- Supervision: task setup and evaluator code
 
 ### Count observations
 

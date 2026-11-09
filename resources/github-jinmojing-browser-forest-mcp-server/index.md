@@ -12,10 +12,6 @@ Model Context Protocol server for driving anti-detect kernel-patched Chromium cl
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:jinmojing/browser-forest-mcp-server
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jinmojing-browser-forest-mcp-server/record.json
 
 ## License declarations

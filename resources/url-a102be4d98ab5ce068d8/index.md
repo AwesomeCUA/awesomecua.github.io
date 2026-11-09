@@ -35,13 +35,13 @@ Yuanlei Wang, Liuzhou Zhang, Haohao Luo, Ying Shen
 - Publication source: https://aclanthology.org/2025.findings-emnlp.486
 - Publication BibTeX: https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/publication-citation.csl.json
-- venue: Findings of the Association for Computational Linguistics: EMNLP 2025
-- publisher: Association for Computational Linguistics
-- pages: 9148-9160
-- doi: 10.18653/v1/2025.findings-emnlp.486
-- date basis: Crossref issued date 2025; precision=year.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: ACL Anthology edition in Findings of EMNLP 2025.
+- Venue: Findings of the Association for Computational Linguistics: EMNLP 2025
+- Publisher: Association for Computational Linguistics
+- Pages: 9148-9160
+- DOI: 10.18653/v1/2025.findings-emnlp.486
+- Date source: Crossref issued date 2025; precision=year.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: ACL Anthology edition in Findings of EMNLP 2025.
 - Publication evidence: https://api.crossref.org/works/10.18653/v1/2025.findings-emnlp.486, https://aclanthology.org/2025.findings-emnlp.486/
 
 ## License declarations

@@ -20,11 +20,11 @@ The Hub repository holds five benchmark JSON files, three screenshot tar.gz arch
 
 ## Structured profile
 
-- actions: click, long press, swipe, text input, open app, navigate back, wait
-- evaluation: Per-step type accuracy, box accuracy and step success. A step succeeds when the predicted action type matches and, for click and long-press steps, the centre of the predicted box or point lies inside the ground-truth box; in the task-improved file, listed candidate actions count as alternative ground truths.
-- focus: single-step Android GUI action prediction, element grounding against target boxes
-- observations: screenshots, task goals, step instructions (low-level files), action history
-- setting: offline
+- Actions / outputs: click, long press, swipe, text input, open app, navigate back, wait
+- Evaluation: Per-step type accuracy, box accuracy and step success. A step succeeds when the predicted action type matches and, for click and long-press steps, the centre of the predicted box or point lies inside the ground-truth box; in the task-improved file, listed candidate actions count as alternative ground truths.
+- Focus: single-step Android GUI action prediction, element grounding against target boxes
+- Observations: screenshots, task goals, step instructions (low-level files), action history
+- Setting: offline
 
 ### Count observations
 

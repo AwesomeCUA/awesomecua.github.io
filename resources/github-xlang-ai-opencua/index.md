@@ -12,10 +12,6 @@ Open computer-use research stack including models and training resources.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:xlang-ai/opencua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-xlang-ai-opencua/record.json
 
 ## License declarations

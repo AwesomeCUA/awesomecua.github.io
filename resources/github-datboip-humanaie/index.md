@@ -12,10 +12,6 @@ HumanAIE is a shared browser workspace for human-AI collaboration where users hi
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:datboip/humanaie
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-datboip-humanaie/record.json
 
 ## License declarations

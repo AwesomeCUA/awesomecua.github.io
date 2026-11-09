@@ -12,10 +12,6 @@ Desktop AI agent workspace built on `pi-agent` for local task execution and brow
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:333-wg/pi-wm
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-333-wg-pi-wm/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Autonomous vision and computer-use plugin for DeepSeek Harness providing screen 
 - Evidence checked: 2026-11-04T17:30:37Z
 - ID: github:cczzyy-cn/c-vision
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-cczzyy-cn-c-vision/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ macOS menu-bar application and local MCP server enabling Claude, ChatGPT, and Co
 - Evidence checked: 2026-11-04T16:30:11Z
 - ID: github:bulutarkan/mac-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bulutarkan-mac-mcp/record.json
 
 ## License declarations

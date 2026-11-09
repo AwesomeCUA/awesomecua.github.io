@@ -12,10 +12,6 @@ AI desktop workspace powered by DeepSeek Harness for automating ERP and enterpri
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:guomonth/dsh-deskwork
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-guomonth-dsh-deskwork/record.json
 
 ## License declarations

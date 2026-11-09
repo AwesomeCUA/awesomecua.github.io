@@ -12,10 +12,6 @@ Browser bridge that lets AI agents navigate, click, fill forms, and read Chrome 
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:hu-qi/qwebbridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hu-qi-qwebbridge/record.json
 
 ## License declarations

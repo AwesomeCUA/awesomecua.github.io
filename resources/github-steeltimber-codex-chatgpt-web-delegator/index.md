@@ -12,10 +12,6 @@ Codex skill for verified task delegation to ChatGPT Web through OpenCLI browser 
 - Evidence checked: 2026-11-04T17:30:40Z
 - ID: github:steeltimber/codex-chatgpt-web-delegator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-steeltimber-codex-chatgpt-web-delegator/record.json
 
 ## License declarations

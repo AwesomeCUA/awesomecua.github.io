@@ -12,10 +12,6 @@ Promptwright is an AI QA desktop agent that drives browsers from plain English o
 - Evidence checked: 2026-11-04T15:03:35Z
 - ID: github:sahajamit/promptwright
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sahajamit-promptwright/record.json
 
 ## License declarations

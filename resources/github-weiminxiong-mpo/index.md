@@ -12,10 +12,6 @@ MPO optimizes reusable high-level meta-plans via preference learning to guide LL
 - Evidence checked: 2026-11-04T13:12:43Z
 - ID: github:weiminxiong/mpo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-weiminxiong-mpo/record.json
 
 ## License declarations

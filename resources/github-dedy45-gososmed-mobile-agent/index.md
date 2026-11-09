@@ -12,10 +12,6 @@ Android AccessibilityService automation engine and control dashboard for managin
 - Evidence checked: 2026-11-04T17:55:19Z
 - ID: github:dedy45/gososmed-mobile-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dedy45-gososmed-mobile-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ SGCL is a cross-platform, text-first control layer that exposes graphical user i
 - Evidence checked: 2026-11-04T16:10:36Z
 - ID: github:frankbria/semantic-gui-control
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-frankbria-semantic-gui-control/record.json
 
 ## License declarations

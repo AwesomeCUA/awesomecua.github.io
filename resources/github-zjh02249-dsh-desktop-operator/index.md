@@ -12,10 +12,6 @@ Safe Windows computer-use plugin for DeepSeek Harness providing window-scoped de
 - Evidence checked: 2026-11-04T17:55:02Z
 - ID: github:zjh02249/dsh-desktop-operator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zjh02249-dsh-desktop-operator/record.json
 
 ## License declarations

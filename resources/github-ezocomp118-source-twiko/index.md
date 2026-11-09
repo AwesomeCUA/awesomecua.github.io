@@ -12,10 +12,6 @@ Self-hosted platform provisioning dedicated virtual computers with browsers and 
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:ezocomp118-source/twiko
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ezocomp118-source-twiko/record.json
 
 ## License declarations

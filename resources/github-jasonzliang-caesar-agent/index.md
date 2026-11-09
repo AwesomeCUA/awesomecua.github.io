@@ -12,10 +12,6 @@ Caesar is an open-source deep-research web agent that plans multi-step queries, 
 - Evidence checked: 2026-11-04T13:12:19Z
 - ID: github:jasonzliang/caesar-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jasonzliang-caesar-agent/record.json
 
 ## License declarations

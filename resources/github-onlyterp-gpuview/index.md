@@ -12,10 +12,6 @@ GPU-native Windows screen perception tool capturing frames directly from the DXG
 - Evidence checked: 2026-11-04T16:30:08Z
 - ID: github:onlyterp/gpuview
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-onlyterp-gpuview/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Open-source browser automation bridge and MCP server connecting Claude Code, Cur
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:jeet-dhandha/agent-webbridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jeet-dhandha-agent-webbridge/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Dockur Windows runs full Windows desktop environments inside Docker/KVM containe
 - Evidence checked: 2026-11-04T13:12:15Z
 - ID: github:dockur/windows
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dockur-windows/record.json
 
 ## License declarations

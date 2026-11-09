@@ -12,10 +12,6 @@ Persistent AI teammate equipped with its own virtual computer, browser, long-ter
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:furlpay/furlpay-bot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-furlpay-furlpay-bot/record.json
 
 ## License declarations

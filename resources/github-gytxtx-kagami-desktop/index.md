@@ -12,10 +12,6 @@ Windows native CLI and MCP tool for desktop window observation, UI Automation co
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:gytxtx/kagami-desktop
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gytxtx-kagami-desktop/record.json
 
 ## License declarations

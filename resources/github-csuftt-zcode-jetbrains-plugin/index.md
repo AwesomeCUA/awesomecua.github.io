@@ -12,10 +12,6 @@ JetBrains IDE plugin for Z.ai/GLM coding agents with built-in Browser Use contro
 - Evidence checked: 2026-11-04T17:20:39Z
 - ID: github:csuftt/zcode-jetbrains-plugin
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-csuftt-zcode-jetbrains-plugin/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Local Model Context Protocol server that turns ChatGPT Web into a local coding a
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:serbyte-development/shellby-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-serbyte-development-shellby-mcp/record.json
 
 ## License declarations

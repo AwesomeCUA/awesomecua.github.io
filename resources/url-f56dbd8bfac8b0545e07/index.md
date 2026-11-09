@@ -20,10 +20,10 @@ The paper's arXiv HTML links github.com/921112343/GUI-Xplore, whose README names
 
 ## Structured profile
 
-- formats: MP4, PNG, JPEG, XML, JSON, CSV
-- modalities: exploration videos, screenshots, view hierarchies, actions, question-answer pairs
-- splits: auto, manual_train, manual_test
-- supervision: exploration recordings, question-answer annotations, action sequences
+- Formats: MP4, PNG, JPEG, XML, JSON, CSV
+- Modalities: exploration videos, screenshots, view hierarchies, actions, question-answer pairs
+- Splits: auto, manual_train, manual_test
+- Supervision: exploration recordings, question-answer annotations, action sequences
 
 ### Count observations
 

@@ -12,10 +12,6 @@ WeaveBench evaluates computer-use agents on long-horizon real-world workflows ac
 - Evidence checked: 2026-11-04T14:02:42Z
 - ID: github:weavebench/weavebench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-weavebench-weavebench/record.json
 
 ## License declarations

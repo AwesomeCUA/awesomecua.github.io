@@ -12,10 +12,6 @@ MCP server and CLI that lets Claude Code, Codex, and MCP agents read real iPhone
 - Evidence checked: 2026-11-04T16:30:06Z
 - ID: github:leeguooooo/iphone-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-leeguooooo-iphone-use/record.json
 
 ## License declarations

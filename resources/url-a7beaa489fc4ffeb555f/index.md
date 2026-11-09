@@ -20,11 +20,11 @@ The Hub repository holds data only: multi-part offline screenshot archives, elem
 
 ## Structured profile
 
-- actions: mobile GUI actions such as CLICK[x,y] and SWIPE[direction]
-- evaluation: The card describes offline evaluation against ground-truth step actions and online evaluation on 101 interactive tasks; no evaluator ships in this dataset repository, and none was run.
-- focus: demonstration-conditioned mobile GUI task execution, k-shot (k = 1, 2, 3) support demonstrations with instruction, UI and action similarity scores
-- observations: step screenshots, high-level and low-level instructions, UI element annotations, support demonstrations
-- setting: mixed
+- Actions / outputs: mobile GUI actions such as CLICK[x,y] and SWIPE[direction]
+- Evaluation: The card describes offline evaluation against ground-truth step actions and online evaluation on 101 interactive tasks; no evaluator ships in this dataset repository, and none was run.
+- Focus: demonstration-conditioned mobile GUI task execution, k-shot (k = 1, 2, 3) support demonstrations with instruction, UI and action similarity scores
+- Observations: step screenshots, high-level and low-level instructions, UI element annotations, support demonstrations
+- Setting: mixed
 
 ### Count observations
 

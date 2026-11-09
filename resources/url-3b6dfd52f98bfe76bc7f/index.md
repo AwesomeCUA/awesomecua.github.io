@@ -20,11 +20,11 @@ Public TSV files contain V1, V2 and refusal task definitions. The card declares 
 
 ## Structured profile
 
-- actions: browser interaction
-- evaluation: Task-specific precomputed rubrics; refusal tasks are a separate evaluation population.
-- focus: live web task completion, unsafe-request refusal
-- observations: web pages
-- setting: interactive
+- Actions / outputs: browser interaction
+- Evaluation: Task-specific precomputed rubrics; refusal tasks are a separate evaluation population.
+- Focus: live web task completion, unsafe-request refusal
+- Observations: web pages
+- Setting: interactive
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Attach-only Chrome DevTools Protocol bridge for bounded research delegation to a
 - Evidence checked: 2026-11-04T18:11:42Z
 - ID: github:qiuweiliu/chatgpt-web-bridge
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qiuweiliu-chatgpt-web-bridge/record.json
 
 ## License declarations

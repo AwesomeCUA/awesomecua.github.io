@@ -12,10 +12,6 @@ Bilingual Persian-English desktop voice and GUI automation assistant for Windows
 - Evidence checked: 2026-11-04T18:11:33Z
 - ID: github:matinhosseini1/nova-bilingual-voice-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-matinhosseini1-nova-bilingual-voice-agent/record.json
 
 ## License declarations

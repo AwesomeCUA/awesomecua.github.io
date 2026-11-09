@@ -35,15 +35,15 @@ Zora Zhiruo Wang, Jiayuan Mao, Daniel Fried, Graham Neubig
 - Publication source: https://proceedings.mlr.press/v267/wang25bx.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2409-07429/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2409-07429/publication-citation.csl.json
-- venue: Proceedings of the 42nd International Conference on Machine Learning
-- publisher: PMLR
-- series: Proceedings of Machine Learning Research
-- volume: 267
-- pages: 63897-63911
-- date basis: Explicit publisher metadata: 2025/10/06; precision=day.
-- event dates: 13--19 Jul 2025
-- identity basis: Same work: exact title, the same four authors in the same order, and a publisher abstract that matches the arXiv abstract (workflow induction on Mind2Web and WebArena with 24.6% and 51.1% relative success-rate gains).
-- notes: The landing page links the OpenReview forum NTAhi2JEEE and the code repository github.com/zorazrw/agent-workflow-memory. The publisher issue date comes from citation_publication_date; the conference date range 13--19 Jul 2025 is retained separately as an event date and does not replace it. Volume 267 and pages 63897-63911 are explicit publisher citation metadata. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Venue: Proceedings of the 42nd International Conference on Machine Learning
+- Publisher: PMLR
+- Series: Proceedings of Machine Learning Research
+- Volume: 267
+- Pages: 63897-63911
+- Date source: Explicit publisher metadata: 2025/10/06; precision=day.
+- Event dates: 13--19 Jul 2025
+- Identity basis: Same work: exact title, the same four authors in the same order, and a publisher abstract that matches the arXiv abstract (workflow induction on Mind2Web and WebArena with 24.6% and 51.1% relative success-rate gains).
+- Source notes: The landing page links the OpenReview forum NTAhi2JEEE and the code repository github.com/zorazrw/agent-workflow-memory. The publisher issue date comes from citation_publication_date; the conference date range 13--19 Jul 2025 is retained separately as an event date and does not replace it. Volume 267 and pages 63897-63911 are explicit publisher citation metadata. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v267/wang25bx.html
 
 ## Recorded arXiv snapshot

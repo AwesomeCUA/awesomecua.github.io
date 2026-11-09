@@ -20,10 +20,10 @@ At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in tota
 
 ## Structured profile
 
-- formats: ZIP archives of MP4 video and JSON
-- modalities: screen recordings, action logs, instructions
-- splits: not recorded
-- supervision: human expert task demonstrations, timestamped mouse and keyboard actions, task instructions
+- Formats: ZIP archives of MP4 video and JSON
+- Modalities: screen recordings, action logs, instructions
+- Splits: not recorded
+- Supervision: human expert task demonstrations, timestamped mouse and keyboard actions, task instructions
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Over 20,000 human Android episodes across 500+ apps with user context and long-t
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:tsinghua-fib-lab/fingertip-20k
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tsinghua-fib-lab-fingertip-20k/record.json
 
 ## License declarations

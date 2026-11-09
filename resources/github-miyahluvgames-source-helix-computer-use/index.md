@@ -12,10 +12,6 @@ Windows computer-use MCP stack combining browser control, native desktop UI Auto
 - Evidence checked: 2026-11-04T15:45:55Z
 - ID: github:miyahluvgames-source/helix-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-miyahluvgames-source-helix-computer-use/record.json
 
 ## License declarations

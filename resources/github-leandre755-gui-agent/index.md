@@ -12,10 +12,6 @@ FastMCP server for Linux and Windows desktop computer use providing low-latency 
 - Evidence checked: 2026-11-04T16:10:38Z
 - ID: github:leandre755/gui_agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-leandre755-gui-agent/record.json
 
 ## License declarations

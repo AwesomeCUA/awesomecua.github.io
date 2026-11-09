@@ -12,10 +12,6 @@ AI-native browser framework with structured page perception, token-efficient sta
 - Evidence checked: 2026-11-04T16:30:17Z
 - ID: github:haidaresber/ai-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-haidaresber-ai-browser/record.json
 
 ## License declarations

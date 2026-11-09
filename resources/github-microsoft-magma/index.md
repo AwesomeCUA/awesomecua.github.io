@@ -12,10 +12,6 @@ Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark an
 - Evidence checked: 2026-10-17T17:18:21Z
 - ID: github:microsoft/magma
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-magma/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ ETO trains LLM agents on WebShop, ScienceWorld, and ALFWorld by contrasting fail
 - Evidence checked: 2026-11-04T13:12:45Z
 - ID: github:yifan-song793/eto
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yifan-song793-eto/record.json
 
 ## License declarations

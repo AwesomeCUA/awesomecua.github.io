@@ -20,10 +20,10 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub no
 
 ## Structured profile
 
-- formats: FiftyOne dataset export (samples.json, metadata.json), PNG
-- modalities: screenshots, task descriptions, interaction keypoints
-- splits: train
-- supervision: human-placed interaction points, action types, natural-language task descriptions
+- Formats: FiftyOne dataset export (samples.json, metadata.json), PNG
+- Modalities: screenshots, task descriptions, interaction keypoints
+- Splits: train
+- Supervision: human-placed interaction points, action types, natural-language task descriptions
 
 ### Count observations
 

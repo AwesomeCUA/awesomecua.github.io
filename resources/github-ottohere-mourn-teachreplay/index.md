@@ -12,10 +12,6 @@ TeachReplay is a harness-agnostic teach-by-demonstration engine that records hum
 - Evidence checked: 2026-11-04T14:20:11Z
 - ID: github:ottohere-mourn/teachreplay
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ottohere-mourn-teachreplay/record.json
 
 ## License declarations

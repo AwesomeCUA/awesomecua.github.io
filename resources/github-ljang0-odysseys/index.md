@@ -20,11 +20,11 @@ Each task has a SHA-1 ID, a prompt, a starting URL, a difficulty level, a refere
 
 ## Structured profile
 
-- actions: OSWorld computer actions in Chrome
-- evaluation: Post-hoc rubric scoring: an LLM judge marks each rubric item satisfied if any step's screenshot and action satisfy it; metrics are mean rubric score, perfect rate (all items satisfied) and trajectory efficiency.
-- focus: long-horizon web tasks from real browsing sessions
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: OSWorld computer actions in Chrome
+- Evaluation: Post-hoc rubric scoring: an LLM judge marks each rubric item satisfied if any step's screenshot and action satisfy it; metrics are mean rubric score, perfect rate (all items satisfied) and trajectory efficiency.
+- Focus: long-horizon web tasks from real browsing sessions
+- Observations: screenshots
+- Setting: interactive
 
 ### Count observations
 

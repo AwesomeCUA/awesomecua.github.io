@@ -12,10 +12,6 @@ Verifiable web information-seeking benchmark renamed from VeriGUI; desktop evalu
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:verigui-team/verigui
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-verigui-team-verigui/record.json
 
 ## License declarations

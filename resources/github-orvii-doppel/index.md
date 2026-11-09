@@ -12,10 +12,6 @@ Doppel is a computer-use agent that operates inside a dedicated virtual desktop 
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:orvii/doppel
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-orvii-doppel/record.json
 
 ## License declarations

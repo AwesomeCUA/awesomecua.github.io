@@ -12,19 +12,15 @@ Dataset and benchmark for generating computer interaction programs.
 - Evidence checked: 2026-10-16T06:38:27Z
 - ID: url:849a86beaee006c6b147
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-849a86beaee006c6b147/record.json
 
 ## Structured profile
 
-- actions: PyAutoGUI script: pointer movement/click/drag, key presses, hotkeys, and text entry
-- evaluation: The bundled evaluator reports weighted sequence match and action match, comparing action types and applying coordinate, key, and writing penalties. Target element-box metadata is evaluation-only. The retained scorer has a click-penalty defect: predicted coordinates are read from gold_line, so score reproduction requires explicit scorer-version review.
-- focus: offline desktop/web action-script generation
-- observations: screenshot, natural-language task
-- setting: offline
+- Actions / outputs: PyAutoGUI script: pointer movement/click/drag, key presses, hotkeys, and text entry
+- Evaluation: The bundled evaluator reports weighted sequence match and action match, comparing action types and applying coordinate, key, and writing penalties. Target element-box metadata is evaluation-only. The retained scorer has a click-penalty defect: predicted coordinates are read from gold_line, so score reproduction requires explicit scorer-version review.
+- Focus: offline desktop/web action-script generation
+- Observations: screenshot, natural-language task
+- Setting: offline
 
 ### Count observations
 

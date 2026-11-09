@@ -12,10 +12,6 @@ Local browser diagnostics collector and Model Context Protocol bridge for sharin
 - Evidence checked: 2026-11-04T17:55:26Z
 - ID: github:litepacks/browsertrack
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-litepacks-browsertrack/record.json
 
 ## License declarations

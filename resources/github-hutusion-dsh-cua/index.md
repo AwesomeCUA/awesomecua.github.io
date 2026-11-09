@@ -12,10 +12,6 @@ Client-neutral Windows computer-use MCP server for DeepSeek Harness exposing UI 
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:hutusion/dsh-cua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hutusion-dsh-cua/record.json
 
 ## License declarations

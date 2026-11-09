@@ -12,10 +12,6 @@ Textual Foresight pretrains UI representations by predicting textual description
 - Evidence checked: 2026-11-04T13:12:04Z
 - ID: github:aburns4/textualforesight
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-aburns4-textualforesight/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Runs the DeepSeek Harness AI agent natively on Android phones without root.
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:soodok/deepseek-harness-local-android
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-soodok-deepseek-harness-local-android/record.json
 
 ## License declarations

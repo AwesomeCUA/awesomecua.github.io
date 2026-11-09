@@ -12,10 +12,6 @@ PhysiClaw uses an overhead camera and a 3-axis capacitive stylus gantry to physi
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:physiclaw/physiclaw
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-physiclaw-physiclaw/record.json
 
 ## License declarations

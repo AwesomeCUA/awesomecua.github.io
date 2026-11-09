@@ -12,10 +12,6 @@ Attach-only Firefox MCP server over raw WebDriver BiDi with user confirmation ga
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:unknowncaz/firefox-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-unknowncaz-firefox-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Record-once, replay-many computer-use automation framework for legacy banking an
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:bhuvanb3110/rote
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bhuvanb3110-rote/record.json
 
 ## License declarations

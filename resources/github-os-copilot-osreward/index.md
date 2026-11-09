@@ -20,11 +20,11 @@ Code for the OSReward paper; the trajectories themselves are released separately
 
 ## Structured profile
 
-- actions: one SUCCESS or FAIL verdict per trajectory
-- evaluation: Verdicts are compared with human gold labels; the evaluator reports accuracy, balanced accuracy, SUCCESS recall, FAIL recall and coverage, counting missing, API-error and unparseable outputs as incorrect.
-- focus: reliability of VLM judges and reward models on computer-use trajectories, binary success verdicts
-- observations: task instruction, full thought and action history, last five screenshots with red action-point markers (default)
-- setting: offline
+- Actions / outputs: one SUCCESS or FAIL verdict per trajectory
+- Evaluation: Verdicts are compared with human gold labels; the evaluator reports accuracy, balanced accuracy, SUCCESS recall, FAIL recall and coverage, counting missing, API-error and unparseable outputs as incorrect.
+- Focus: reliability of VLM judges and reward models on computer-use trajectories, binary success verdicts
+- Observations: task instruction, full thought and action history, last five screenshots with red action-point markers (default)
+- Setting: offline
 
 ### Count observations
 

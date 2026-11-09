@@ -12,10 +12,6 @@ Auditable, low-cost, DOM-only browser agent designed for transparent step-by-ste
 - Evidence checked: 2026-11-04T16:51:51Z
 - ID: github:lzw12w/glass-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lzw12w-glass-browser/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Focus-free macOS computer-use tool that presses native Accessibility buttons in 
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:jumpsy/spooky-action
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jumpsy-spooky-action/record.json
 
 ## License declarations

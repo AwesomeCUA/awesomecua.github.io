@@ -1582,10 +1582,6 @@ Surveys GUI-agent efficiency beyond task success: observation, context and memor
 - Evidence checked: 2026-10-16T06:36:32Z
 - ID: arxiv:2609.02309
 
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-02309/record.json
 
 ### Authors
@@ -1865,13 +1861,13 @@ Zhenhua Yang, Xiachong Feng, Weihong Zhong, Lunjun Liu, Xiaocheng Feng, Bing Qin
 - Publication source: https://doi.org/10.24963/ijcai.2026/49
 - Publication BibTeX: https://awesomecua.com/resources/url-85cad9e7962668786093/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-85cad9e7962668786093/publication-citation.csl.json
-- venue: Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence
-- publisher: International Joint Conferences on Artificial Intelligence Organization
-- pages: 428-436
-- doi: 10.24963/ijcai.2026/49
-- date basis: Crossref issued date 2026-9; precision=month.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
-- notes: IJCAI 2026 main-track proceedings paper.
+- Venue: Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence
+- Publisher: International Joint Conferences on Artificial Intelligence Organization
+- Pages: 428-436
+- DOI: 10.24963/ijcai.2026/49
+- Date source: Crossref issued date 2026-9; precision=month.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- Source notes: IJCAI 2026 main-track proceedings paper.
 - Publication evidence: https://api.crossref.org/works/10.24963/ijcai.2026/49, https://www.ijcai.org/proceedings/2026/49
 
 ### License declarations

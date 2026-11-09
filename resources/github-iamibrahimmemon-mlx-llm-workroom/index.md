@@ -12,10 +12,6 @@ Workroom is a fully local macOS computer-use agent running an Apple Silicon MLX 
 - Evidence checked: 2026-11-04T14:41:54Z
 - ID: github:iamibrahimmemon/mlx-llm-workroom
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-iamibrahimmemon-mlx-llm-workroom/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Playwright browser automation, screenshot, and GIF/MP4/WebP session-recording to
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:alexkay28/clickcast
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-alexkay28-clickcast/record.json
 
 ## License declarations

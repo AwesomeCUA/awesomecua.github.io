@@ -12,10 +12,6 @@ Model Context Protocol server exposing Android Debug Bridge (ADB) device inspect
 - Evidence checked: 2026-11-04T17:30:42Z
 - ID: github:allaudin/adb-automation-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-allaudin-adb-automation-mcp/record.json
 
 ## License declarations

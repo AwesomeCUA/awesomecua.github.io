@@ -12,10 +12,6 @@ MAI combines MaaFramework with multimodal LLMs in a Planner-Executor-Verifier lo
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:fluxaster/mai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-fluxaster-mai/record.json
 
 ## License declarations

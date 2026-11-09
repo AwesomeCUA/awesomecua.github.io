@@ -12,10 +12,6 @@ Typed Python SDK for Vercel's agent-browser engine with before-and-after action 
 - Evidence checked: 2026-11-04T16:30:03Z
 - ID: github:peter-gy/pyagentbrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-peter-gy-pyagentbrowser/record.json
 
 ## License declarations

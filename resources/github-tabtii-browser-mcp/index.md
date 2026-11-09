@@ -12,10 +12,6 @@ Zero-dependency Chrome MCP server exposing 35 browser control tools to Claude an
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:tabtii/browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tabtii-browser-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Stdio Model Context Protocol server wrapping the local Kimi WebBridge daemon as 
 - Evidence checked: 2026-11-04T17:20:40Z
 - ID: github:losecher/kimi-webbridge-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-losecher-kimi-webbridge-mcp/record.json
 
 ## License declarations

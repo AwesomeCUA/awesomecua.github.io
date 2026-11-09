@@ -12,10 +12,6 @@ DeepSeek Harness plugin exposing Jiey Browser automation tools over the Model Co
 - Evidence checked: 2026-11-04T17:20:46Z
 - ID: github:jiewaigongxing/dsh-jiey-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jiewaigongxing-dsh-jiey-browser/record.json
 
 ## License declarations

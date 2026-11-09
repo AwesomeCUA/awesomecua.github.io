@@ -12,10 +12,6 @@ Bridge that exposes OpenAI's installed Codex browser runtime to Claude Code and 
 - Evidence checked: 2026-11-04T16:51:50Z
 - ID: github:stickerdaniel/browserjack
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-stickerdaniel-browserjack/record.json
 
 ## License declarations

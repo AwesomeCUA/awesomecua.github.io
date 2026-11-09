@@ -12,10 +12,6 @@ Connects local stdio Model Context Protocol agents directly to an existing Chrom
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:wankaiyi/chrome-live-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-wankaiyi-chrome-live-mcp/record.json
 
 ## License declarations

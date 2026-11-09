@@ -12,10 +12,6 @@ AWS service for building and deploying agents that automate browser-based UI wor
 - Evidence checked: 2026-10-17T17:18:21Z
 - ID: url:dec156cbf0cb1181f7b6
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-dec156cbf0cb1181f7b6/record.json
 
 ## License declarations

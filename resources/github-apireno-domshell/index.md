@@ -12,10 +12,6 @@ DOMShell exposes live Chrome browser DOM trees as a virtual Unix filesystem (`cd
 - Evidence checked: 2026-11-04T13:12:07Z
 - ID: github:apireno/domshell
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-apireno-domshell/record.json
 
 ## License declarations

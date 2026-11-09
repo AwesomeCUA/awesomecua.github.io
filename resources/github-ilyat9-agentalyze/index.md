@@ -12,10 +12,6 @@ Agentalyze is an evaluation harness for LLM browser agents with real Chromium ta
 - Evidence checked: 2026-11-04T14:02:47Z
 - ID: github:ilyat9/agentalyze
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ilyat9-agentalyze/record.json
 
 ## License declarations

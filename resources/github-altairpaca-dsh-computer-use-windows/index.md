@@ -12,10 +12,6 @@ Windows computer-use plugin for DeepSeek Harness providing window-bound screensh
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:altairpaca/dsh-computer-use-windows
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-altairpaca-dsh-computer-use-windows/record.json
 
 ## License declarations

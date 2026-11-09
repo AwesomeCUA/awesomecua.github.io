@@ -12,10 +12,6 @@ macOS Model Context Protocol server for capturing displays, reading Accessibilit
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:passerby2049/macpilot-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-passerby2049-macpilot-mcp/record.json
 
 ## License declarations

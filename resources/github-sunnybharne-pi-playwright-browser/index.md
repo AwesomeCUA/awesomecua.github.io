@@ -12,10 +12,6 @@ Isolated Playwright Chromium browser tools for the Pi coding agent.
 - Evidence checked: 2026-11-04T18:11:49Z
 - ID: github:sunnybharne/pi-playwright-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sunnybharne-pi-playwright-browser/record.json
 
 ## License declarations

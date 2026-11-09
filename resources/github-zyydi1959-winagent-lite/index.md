@@ -12,10 +12,6 @@ WinAgent-Lite is a local vision-driven Windows GUI agent and MCP server with a r
 - Evidence checked: 2026-11-04T14:20:12Z
 - ID: github:zyydi1959/winagent-lite
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-zyydi1959-winagent-lite/record.json
 
 ## License declarations

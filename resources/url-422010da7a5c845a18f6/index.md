@@ -20,10 +20,10 @@ The public manifest includes GUIMid.json, mavis.tar.gz, GUI_trajectory.json, tra
 
 ## Structured profile
 
-- formats: JSON, tar.gz image archives
-- modalities: text, images
-- splits: train configurations for named mid-training domains
-- supervision: mid-training instruction supervision, GUI post-training trajectories
+- Formats: JSON, tar.gz image archives
+- Modalities: text, images
+- Splits: train configurations for named mid-training domains
+- Supervision: mid-training instruction supervision, GUI post-training trajectories
 
 ### Count observations
 

@@ -12,10 +12,6 @@ Black-box UX audit harness that dispatches AI browser personas to test web produ
 - Evidence checked: 2026-11-04T17:20:47Z
 - ID: github:tiacoo/open-user
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tiacoo-open-user/record.json
 
 ## License declarations

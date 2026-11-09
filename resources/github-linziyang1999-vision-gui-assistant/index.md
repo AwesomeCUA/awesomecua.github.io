@@ -12,10 +12,6 @@ Vision GUI Assistant (VGA) provides image-centric fine-tuning code and datasets 
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:linziyang1999/vision-gui-assistant
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-linziyang1999-vision-gui-assistant/record.json
 
 ## License declarations

@@ -35,13 +35,13 @@ Wéwerthon Silva Cardoso, Ricardo Marcacini
 - Publication source: https://sol.sbc.org.br/index.php/kdmile/article/view/44978
 - Publication BibTeX: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/publication-citation.csl.json
-- venue: Anais do XIV Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2026)
-- publisher: Sociedade Brasileira de Computação - SBC
-- pages: 121-128
-- doi: 10.5753/kdmile.2026.32021
-- date basis: Crossref metadata deposited for the DOI gives issued and published-online dates of 2026-10-19; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and arXiv searches for the title phrase, the method name and the two authors returned nothing; neither the PDF nor the Crossref deposit names an arXiv version, so this publisher edition seeds the record.
-- notes: Full paper in the KDMiLe 2026 proceedings published by SBC on its SOL open library. The PDF title page and Crossref list the same two authors in the same order. The PDF grants permission to copy without fee for non-commercial use with notice; no standard license is declared.
+- Venue: Anais do XIV Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2026)
+- Publisher: Sociedade Brasileira de Computação - SBC
+- Pages: 121-128
+- DOI: 10.5753/kdmile.2026.32021
+- Date source: Crossref metadata deposited for the DOI gives issued and published-online dates of 2026-10-19; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and arXiv searches for the title phrase, the method name and the two authors returned nothing; neither the PDF nor the Crossref deposit names an arXiv version, so this publisher edition seeds the record.
+- Source notes: Full paper in the KDMiLe 2026 proceedings published by SBC on its SOL open library. The PDF title page and Crossref list the same two authors in the same order. The PDF grants permission to copy without fee for non-commercial use with notice; no standard license is declared.
 - Publication evidence: https://sol.sbc.org.br/index.php/kdmile/article/download/44978/44741, https://api.crossref.org/works/10.5753/kdmile.2026.32021
 
 ## License declarations

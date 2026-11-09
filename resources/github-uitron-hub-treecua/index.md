@@ -12,10 +12,6 @@ Framework for generating GUI trajectories through tree-structured exploration an
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:uitron-hub/treecua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-uitron-hub-treecua/record.json
 
 ## License declarations

@@ -306,13 +306,13 @@ Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin 
 - Publication source: https://aclanthology.org/2025.emnlp-demos.12/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2506-01391/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2506-01391/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
-- publisher: Association for Computational Linguistics
-- pages: 155-180
-- doi: 10.18653/v1/2025.emnlp-demos.12
-- date basis: Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
+- Publisher: Association for Computational Linguistics
+- Pages: 155-180
+- DOI: 10.18653/v1/2025.emnlp-demos.12
+- Date source: Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.emnlp-demos.12/
 
 ### Recorded arXiv snapshot
@@ -1521,13 +1521,13 @@ Tim Rosenbach, David Heidrich, Alexander Weinert
 - Publication source: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10962502
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2505-17839/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2505-17839/publication-citation.csl.json
-- venue: 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
-- publisher: IEEE
-- pages: 103-110
-- doi: 10.1109/icstw64639.2025.10962502
-- date basis: Crossref issued date 2025-3-31; precision=day.
-- identity basis: Same work as the retained arXiv record: matching title and authors, and the arXiv journal reference and DOI name this ICSTW 2025 edition.
-- notes: IEEE ICSTW 2025 workshop edition of the arXiv preprint, whose journal reference and DOI name this edition; Crossref links the DOI to IEEE Xplore document 10962502.
+- Venue: 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+- Publisher: IEEE
+- Pages: 103-110
+- DOI: 10.1109/icstw64639.2025.10962502
+- Date source: Crossref issued date 2025-3-31; precision=day.
+- Identity basis: Same work as the retained arXiv record: matching title and authors, and the arXiv journal reference and DOI name this ICSTW 2025 edition.
+- Source notes: IEEE ICSTW 2025 workshop edition of the arXiv preprint, whose journal reference and DOI name this edition; Crossref links the DOI to IEEE Xplore document 10962502.
 - Publication evidence: https://api.crossref.org/works/10.1109/icstw64639.2025.10962502
 
 ### Recorded arXiv snapshot
@@ -1643,13 +1643,13 @@ Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, L
 - Publication source: https://aclanthology.org/2025.acl-long.282/
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2505-16827/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2505-16827/publication-citation.csl.json
-- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-- publisher: Association for Computational Linguistics
-- pages: 5650-5667
-- doi: 10.18653/v1/2025.acl-long.282
-- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- Publisher: Association for Computational Linguistics
+- Pages: 5650-5667
+- DOI: 10.18653/v1/2025.acl-long.282
+- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.282/
 
 ### Recorded arXiv snapshot
@@ -2753,12 +2753,12 @@ Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yuanchun
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2505-11891/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/arxiv-2505-11891/publication-citation.csl.json
-- venue: International Conference on Learning Representations
-- volume: 2026
-- pages: 16218-16250
-- date basis: Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
-- identity basis: Same work under a new title: the retained arXiv title is Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents. The PDF title page lists the same ten authors in the same order as arXiv, and the publisher abstract describes the same slot-based instruction generation, common split with offline multi-path evaluation, pop-up and ad-app noisy split, AITZ-Noise contaminated split and ambiguous split with preset Q&A interactions.
-- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The conference edition is retitled SMAN-Bench, for its Single-path, Multi-path, Ambiguous and Noisy task settings, and its PDF names github.com/gezelligheid0314/SMAN-Bench for code and datasets. Its abstract lists Mobile-Agent-E among the evaluated frameworks, where the retained v3 abstract names UI-Tars and OS-Atlas. The landing page metadata lists Yunxin Liu before Yuanchun Li and writes LIU, WEI in capitals; publication authors follow the PDF title page. Volume 2026 and pages 16218-16250 are explicit publisher citation metadata.
+- Venue: International Conference on Learning Representations
+- Volume: 2026
+- Pages: 16218-16250
+- Date source: Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
+- Identity basis: Same work under a new title: the retained arXiv title is Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents. The PDF title page lists the same ten authors in the same order as arXiv, and the publisher abstract describes the same slot-based instruction generation, common split with offline multi-path evaluation, pop-up and ad-app noisy split, AITZ-Noise contaminated split and ambiguous split with preset Q&A interactions.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The conference edition is retitled SMAN-Bench, for its Single-path, Multi-path, Ambiguous and Noisy task settings, and its PDF names github.com/gezelligheid0314/SMAN-Bench for code and datasets. Its abstract lists Mobile-Agent-E among the evaluated frameworks, where the retained v3 abstract names UI-Tars and OS-Atlas. The landing page metadata lists Yunxin Liu before Yuanchun Li and writes LIU, WEI in capitals; publication authors follow the PDF title page. Volume 2026 and pages 16218-16250 are explicit publisher citation metadata.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2026/file/1b4279dc1ec8d0183c22528664d84459-Paper-Conference.pdf
 
 ### Recorded arXiv snapshot
@@ -2903,10 +2903,6 @@ Systematizes safety and security threats to computer-using agents, with taxonomi
 - Topics: survey, safety-security
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2505.10924
-
-### Limitations
-
-Inclusion does not establish reproducibility or endorsement.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-10924/record.json
 

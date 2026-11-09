@@ -12,10 +12,6 @@ Gym environment and optimization framework for self-evolving CLI and computer-us
 - Evidence checked: 2026-11-04T17:30:34Z
 - ID: github:elenaviewsynthesis/holoskill-gym
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/record.json
 
 ## License declarations

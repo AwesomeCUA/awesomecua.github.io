@@ -12,10 +12,6 @@ MCP server and workflow skill giving Claude Code live visual and DOM inspection 
 - Evidence checked: 2026-11-04T16:10:34Z
 - ID: github:mohanli-eng/agent-eyes
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mohanli-eng-agent-eyes/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Lets coding agents (Claude Code, Codex CLI) drive the user's real logged-in Chro
 - Evidence checked: 2026-11-04T15:45:46Z
 - ID: github:neodrew/chromeflow
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-neodrew-chromeflow/record.json
 
 ## License declarations

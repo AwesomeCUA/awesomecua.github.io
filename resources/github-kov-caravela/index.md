@@ -12,10 +12,6 @@ Programmatic browser-use CLI and library driving Chromium over CDP inside an opt
 - Evidence checked: 2026-11-04T16:30:10Z
 - ID: github:kov/caravela
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kov-caravela/record.json
 
 ## License declarations

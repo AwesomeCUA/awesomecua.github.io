@@ -12,10 +12,6 @@ Stealth browser agent that controls real Chrome via CDP and OS-level input witho
 - Evidence checked: 2026-11-04T16:30:02Z
 - ID: github:taylor-bayouth/browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-taylor-bayouth-browser-agent/record.json
 
 ## License declarations

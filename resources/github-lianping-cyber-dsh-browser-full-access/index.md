@@ -12,10 +12,6 @@ Background-tab full-access fork of `dsh-browser` for DeepSeek Harness web automa
 - Evidence checked: 2026-11-04T17:55:10Z
 - ID: github:lianping-cyber/dsh-browser-full-access
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/record.json
 
 ## License declarations

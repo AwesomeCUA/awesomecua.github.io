@@ -12,10 +12,6 @@ Computer-vision Android UI automation and heuristic gameplay engine built with O
 - Evidence checked: 2026-11-04T17:30:45Z
 - ID: github:mohsinjutt62/autoplay-cv_engine_bot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mohsinjutt62-autoplay-cv-engine-bot/record.json
 
 ## License declarations

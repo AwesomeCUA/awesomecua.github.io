@@ -12,10 +12,6 @@ Single-file zero-dependency Chrome DevTools Protocol driver for headless and hea
 - Evidence checked: 2026-11-04T17:20:48Z
 - ID: github:immineal/cdp-drive
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-immineal-cdp-drive/record.json
 
 ## License declarations

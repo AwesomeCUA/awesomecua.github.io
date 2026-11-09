@@ -20,11 +20,11 @@ Each scenario is a JSON snapshot of app states in the OpenApps workspace (messen
 
 ## Structured profile
 
-- actions: GUI actions in the rendered workspace (live-UI subset), content shared or sent through the workspace apps
-- evaluation: The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
-- focus: contextual-integrity compliance of computer-use agents, information disclosure across personal apps
-- observations: decoded app states, rendered app UI (live-UI subset), natural-language task prompts
-- setting: mixed
+- Actions / outputs: GUI actions in the rendered workspace (live-UI subset), content shared or sent through the workspace apps
+- Evaluation: The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
+- Focus: contextual-integrity compliance of computer-use agents, information disclosure across personal apps
+- Observations: decoded app states, rendered app UI (live-UI subset), natural-language task prompts
+- Setting: mixed
 
 ### Count observations
 

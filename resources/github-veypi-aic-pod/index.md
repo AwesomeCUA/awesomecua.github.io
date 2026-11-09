@@ -12,10 +12,6 @@ Turns a physical or virtual machine into an LLM-callable execution node with san
 - Evidence checked: 2026-11-04T16:51:44Z
 - ID: github:veypi/aic-pod
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-veypi-aic-pod/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step s
 - Evidence checked: 2026-11-04T14:41:44Z
 - ID: github:trillion-labs/gworld
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-trillion-labs-gworld/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Local browser-assisted campus recruiting workbench that manages candidate profil
 - Evidence checked: 2026-11-04T18:11:27Z
 - ID: github:qiulingzhu809-sudo/job-pilot-2027
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-qiulingzhu809-sudo-job-pilot-2027/record.json
 
 ## License declarations

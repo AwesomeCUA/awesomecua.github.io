@@ -12,10 +12,6 @@ Installable Agent Skill that records live browser verification demos and attache
 - Evidence checked: 2026-11-04T18:11:31Z
 - ID: github:bukacdan/mergeproof
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bukacdan-mergeproof/record.json
 
 ## License declarations

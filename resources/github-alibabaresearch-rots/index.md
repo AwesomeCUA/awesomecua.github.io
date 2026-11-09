@@ -20,10 +20,10 @@ The 800k figure describes training samples in the study. The repository code-lic
 
 ## Structured profile
 
-- formats: not recorded
-- modalities: GUI interaction trajectories
-- splits: not recorded
-- supervision: recovery trajectory synthesis
+- Formats: not recorded
+- Modalities: GUI interaction trajectories
+- Splits: not recorded
+- Supervision: recovery trajectory synthesis
 
 ### Count observations
 

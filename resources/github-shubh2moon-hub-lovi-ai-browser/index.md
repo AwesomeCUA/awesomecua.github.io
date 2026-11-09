@@ -12,10 +12,6 @@ Privacy-first autonomous AI companion browser powered by local Qwen 2.5 models.
 - Evidence checked: 2026-11-04T17:30:41Z
 - ID: github:shubh2moon-hub/lovi-ai-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shubh2moon-hub-lovi-ai-browser/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Implements reinforcement learning with autonomous evaluator feedback for fine-tu
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:martasumyk/cua-eval-and-finetuning
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-martasumyk-cua-eval-and-finetuning/record.json
 
 ## License declarations

@@ -20,10 +20,10 @@ First published as harpreetsahota/FiftyOne-GUI-Grounding-Train-with-Synthetic, w
 
 ## Structured profile
 
-- formats: FiftyOne dataset export (samples.json, metadata.json), PNG
-- modalities: screenshots, task descriptions, interaction keypoints
-- splits: train, val
-- supervision: human-placed interaction points, action types, natural-language task descriptions, programmatic image and text augmentations
+- Formats: FiftyOne dataset export (samples.json, metadata.json), PNG
+- Modalities: screenshots, task descriptions, interaction keypoints
+- Splits: train, val
+- Supervision: human-placed interaction points, action types, natural-language task descriptions, programmatic image and text augmentations
 
 ### Count observations
 

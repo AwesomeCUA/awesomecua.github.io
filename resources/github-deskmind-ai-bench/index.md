@@ -12,10 +12,6 @@ DeskMind Bench provides sandboxed macOS desktop tasks, state graders, and refere
 - Evidence checked: 2026-11-04T14:02:44Z
 - ID: github:deskmind-ai/bench
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-deskmind-ai-bench/record.json
 
 ## License declarations

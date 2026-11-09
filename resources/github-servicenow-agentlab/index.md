@@ -12,10 +12,6 @@ Experiment framework for developing and evaluating browser agents.
 - Evidence checked: 2026-10-16T06:36:03Z
 - ID: github:servicenow/agentlab
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-servicenow-agentlab/record.json
 
 ## License declarations

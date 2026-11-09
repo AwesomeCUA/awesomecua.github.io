@@ -12,19 +12,15 @@ Mobile control benchmark with varied interface configurations.
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:jylee425/b-moca
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jylee425-b-moca/record.json
 
 ## Structured profile
 
-- actions: normalized touch/lift coordinate pairs for tap or swipe
-- evaluation: Task success is detected using Appium; positive task reward terminates the episode. Environment variants change device/locale/wallpaper/DPI/dark mode and are loaded as snapshots. The numeric action interface is (touch_y, touch_x, lift_y, lift_x); wrapper/tanh transformations must be kept with the evaluated agent.
-- focus: Android control across visual/device variation, generalization across environment snapshots
-- observations: screenshot pixels, XML view hierarchy, goal instruction
-- setting: interactive
+- Actions / outputs: normalized touch/lift coordinate pairs for tap or swipe
+- Evaluation: Task success is detected using Appium; positive task reward terminates the episode. Environment variants change device/locale/wallpaper/DPI/dark mode and are loaded as snapshots. The numeric action interface is (touch_y, touch_x, lift_y, lift_x); wrapper/tanh transformations must be kept with the evaluated agent.
+- Focus: Android control across visual/device variation, generalization across environment snapshots
+- Observations: screenshot pixels, XML view hierarchy, goal instruction
+- Setting: interactive
 
 ### Count observations
 

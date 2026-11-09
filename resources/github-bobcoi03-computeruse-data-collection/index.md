@@ -12,10 +12,6 @@ Computer Use Data Collection is a desktop recorder that captures synchronized sc
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:bobcoi03/computeruse-data-collection
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bobcoi03-computeruse-data-collection/record.json
 
 ## License declarations

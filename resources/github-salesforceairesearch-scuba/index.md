@@ -12,10 +12,6 @@ SCUBA benchmarks computer-use agents on enterprise Salesforce CRM workflows span
 - Evidence checked: 2026-11-04T14:02:35Z
 - ID: github:salesforceairesearch/scuba
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-salesforceairesearch-scuba/record.json
 
 ## License declarations

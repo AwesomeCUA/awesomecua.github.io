@@ -12,10 +12,6 @@ FastAPI Model Context Protocol server that exposes browser-use autonomous web na
 - Evidence checked: 2026-11-04T15:03:34Z
 - ID: github:jovanipink/mcp-browser-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jovanipink-mcp-browser-use/record.json
 
 ## License declarations

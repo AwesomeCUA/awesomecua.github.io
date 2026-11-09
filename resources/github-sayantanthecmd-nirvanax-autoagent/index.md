@@ -12,10 +12,6 @@ Multimodal personal AI assistant for Windows that combines voice input, screen v
 - Evidence checked: 2026-11-04T18:11:45Z
 - ID: github:sayantanthecmd/nirvanax-autoagent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sayantanthecmd-nirvanax-autoagent/record.json
 
 ## License declarations

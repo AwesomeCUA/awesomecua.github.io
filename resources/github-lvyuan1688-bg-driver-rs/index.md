@@ -12,10 +12,6 @@ Rust background computer-use driver for macOS, Windows, and Linux.
 - Evidence checked: 2026-11-04T16:52:00Z
 - ID: github:lvyuan1688/bg-driver-rs
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lvyuan1688-bg-driver-rs/record.json
 
 ## License declarations

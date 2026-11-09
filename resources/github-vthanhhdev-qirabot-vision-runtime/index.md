@@ -12,10 +12,6 @@ Selector-free AI vision automation runtime for desktop applications, mobile scre
 - Evidence checked: 2026-11-04T17:20:54Z
 - ID: github:vthanhhdev/qirabot-vision-runtime
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vthanhhdev-qirabot-vision-runtime/record.json
 
 ## License declarations

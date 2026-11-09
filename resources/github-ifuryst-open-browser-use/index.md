@@ -12,10 +12,6 @@ Open Browser Use provides a CLI, daemon, and Chrome extension for controlling a 
 - Evidence checked: 2026-11-04T13:12:18Z
 - ID: github:ifuryst/open-browser-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ifuryst-open-browser-use/record.json
 
 ## License declarations

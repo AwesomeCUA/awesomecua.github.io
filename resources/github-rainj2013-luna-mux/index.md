@@ -12,10 +12,6 @@ Terminal and browser workbench for coding agents with automatic MCP injection, s
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:rainj2013/luna-mux
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rainj2013-luna-mux/record.json
 
 ## License declarations

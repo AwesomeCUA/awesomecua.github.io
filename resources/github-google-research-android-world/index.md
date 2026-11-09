@@ -12,19 +12,15 @@ Android environment with programmatic task evaluation for mobile agents.
 - Evidence checked: 2026-10-16T06:35:57Z
 - ID: github:google-research/android_world
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-google-research-android-world/record.json
 
 ## Structured profile
 
-- actions: Android device interactions
-- evaluation: Programmatic task-specific initialization, system-state success checks, and teardown.
-- focus: mobile task completion
-- observations: screenshots, accessibility information
-- setting: interactive
+- Actions / outputs: Android device interactions
+- Evaluation: Programmatic task-specific initialization, system-state success checks, and teardown.
+- Focus: mobile task completion
+- Observations: screenshots, accessibility information
+- Setting: interactive
 
 ### Count observations
 

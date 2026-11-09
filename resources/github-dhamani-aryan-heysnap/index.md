@@ -12,10 +12,6 @@ AI-first workspace for capturing files, documents, and live browser context into
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:dhamani-aryan/heysnap
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dhamani-aryan-heysnap/record.json
 
 ## License declarations

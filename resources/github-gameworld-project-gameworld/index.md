@@ -12,10 +12,6 @@ GameWorld provides a standardized browser-based evaluation suite for multimodal 
 - Evidence checked: 2026-11-04T14:02:40Z
 - ID: github:gameworld-project/gameworld
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-gameworld-project-gameworld/record.json
 
 ## License declarations

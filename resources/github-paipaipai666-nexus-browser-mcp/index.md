@@ -12,10 +12,6 @@ Browser automation MCP server with event-driven deterministic Playwright and acc
 - Evidence checked: 2026-11-04T16:52:01Z
 - ID: github:paipaipai666/nexus-browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Accessibility-first computer-use runtime that feeds pruned accessibility-tree sn
 - Evidence checked: 2026-11-04T16:30:15Z
 - ID: github:perception-dynamics-inc/a11y-computer-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-perception-dynamics-inc-a11y-computer-use/record.json
 
 ## License declarations

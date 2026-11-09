@@ -12,10 +12,6 @@ Gives AI computer-use agents dedicated virtual macOS displays so they operate re
 - Evidence checked: 2026-11-04T16:51:52Z
 - ID: github:parthjadhav/spaceo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-parthjadhav-spaceo/record.json
 
 ## License declarations

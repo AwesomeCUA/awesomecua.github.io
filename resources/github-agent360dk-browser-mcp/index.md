@@ -12,10 +12,6 @@ Human-in-the-loop browser MCP server that pauses for user 2FA, CAPTCHA, or confi
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:agent360dk/browser-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-agent360dk-browser-mcp/record.json
 
 ## License declarations

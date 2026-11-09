@@ -20,10 +20,10 @@ The publisher reports approximately 992K instruction-output pairs in its reposit
 
 ## Structured profile
 
-- formats: not recorded
-- modalities: screen observations, instructions, interaction history
-- splits: not recorded
-- supervision: context-aware grounding
+- Formats: not recorded
+- Modalities: screen observations, instructions, interaction history
+- Splits: not recorded
+- Supervision: context-aware grounding
 
 ### Count observations
 

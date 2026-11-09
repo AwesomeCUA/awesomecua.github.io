@@ -12,10 +12,6 @@ Self-hosted fleet orchestrator provisioning sandboxed Linux desktop containers f
 - Evidence checked: 2026-11-04T17:55:25Z
 - ID: github:bryantvanorden/openagentfleet
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bryantvanorden-openagentfleet/record.json
 
 ## License declarations

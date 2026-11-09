@@ -12,10 +12,6 @@ Vision-driven browser automation service where an external LLM sets high-level g
 - Evidence checked: 2026-11-04T16:30:17Z
 - ID: github:hterzia/human-browser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hterzia-human-browser/record.json
 
 ## License declarations

@@ -12,19 +12,15 @@ Scientific-workflow tasks for multimodal agents in desktop software such as Chim
 - Evidence checked: 2026-10-16T06:35:58Z
 - ID: github:os-copilot/scienceboard
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-scienceboard/record.json
 
 ## Structured profile
 
-- actions: PyAutoGUI desktop actions, code/tool commands and answer/stop actions according to configured agent mode
-- evaluation: Application-specific verifiers inspect state, files, database values, equations, compilation or answer/stop conditions. The official audit records 242 verifier entries across its VM task suite. This profile covers the released VM task definitions; Docker smoke results and Raw/Dual alternatives are separate populations.
-- focus: scientific-software desktop workflows, GUI and code-assisted scientific tasks
-- observations: desktop screenshots, accessibility-tree observations, set-of-marks with accessibility tree
-- setting: interactive
+- Actions / outputs: PyAutoGUI desktop actions, code/tool commands and answer/stop actions according to configured agent mode
+- Evaluation: Application-specific verifiers inspect state, files, database values, equations, compilation or answer/stop conditions. The official audit records 242 verifier entries across its VM task suite. This profile covers the released VM task definitions; Docker smoke results and Raw/Dual alternatives are separate populations.
+- Focus: scientific-software desktop workflows, GUI and code-assisted scientific tasks
+- Observations: desktop screenshots, accessibility-tree observations, set-of-marks with accessibility tree
+- Setting: interactive
 
 ### Count observations
 

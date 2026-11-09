@@ -12,10 +12,6 @@ Fast MCP browser server for AI agents that navigates complex web apps by reading
 - Evidence checked: 2026-11-04T16:51:53Z
 - ID: github:mikastiebitz/faster-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mikastiebitz-faster-browser-agent/record.json
 
 ## License declarations

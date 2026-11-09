@@ -12,10 +12,6 @@ BrowserPilot is an open-source stealth browser agent that executes natural-langu
 - Evidence checked: 2026-11-04T15:03:39Z
 - ID: github:ai-naymul/browserpilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ai-naymul-browserpilot/record.json
 
 ## License declarations

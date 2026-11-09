@@ -12,10 +12,6 @@ WebMCP marketplace and verification harness featuring a closed-loop self-healing
 - Evidence checked: 2026-11-04T17:55:22Z
 - ID: github:mrnetwork0001/pactora
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-mrnetwork0001-pactora/record.json
 
 ## License declarations

@@ -12,19 +12,15 @@ Cross-application Windows benchmark with intermediate task evaluation.
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:hitsz-tmg/windowsworld
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hitsz-tmg-windowsworld/record.json
 
 ## Structured profile
 
-- actions: PyAutoGUI, UiPath Computer_13 action interface
-- evaluation: Publisher distinguishes S_int (intermediate checkpoint score on L1–L3) and S_final (final completion on L1–L4). Documented step budgets are 15/25/40/20 for L1/L2/L3/L4. Preserve level, observation mode, agent interface and checkpoint/final metric when reporting a run.
-- focus: multi-application Windows workflows, intermediate-state and final-goal completion
-- observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
-- setting: interactive
+- Actions / outputs: PyAutoGUI, UiPath Computer_13 action interface
+- Evaluation: Publisher distinguishes S_int (intermediate checkpoint score on L1–L3) and S_final (final completion on L1–L4). Documented step budgets are 15/25/40/20 for L1/L2/L3/L4. Preserve level, observation mode, agent interface and checkpoint/final metric when reporting a run.
+- Focus: multi-application Windows workflows, intermediate-state and final-goal completion
+- Observations: screenshot, accessibility tree, screenshot plus accessibility tree, set-of-marks
+- Setting: interactive
 
 ### Count observations
 

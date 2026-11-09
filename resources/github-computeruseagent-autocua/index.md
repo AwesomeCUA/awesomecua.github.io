@@ -12,10 +12,6 @@ AutoCua is a multi-agent computer-use orchestration platform for automating end-
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:computeruseagent/autocua
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-computeruseagent-autocua/record.json
 
 ## License declarations

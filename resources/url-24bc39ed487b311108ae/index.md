@@ -31,11 +31,11 @@ The card describes supervised learning for screen perception and input control, 
 - Publication source: https://openai.com/index/operator-system-card
 - Publication BibTeX: https://awesomecua.com/resources/url-24bc39ed487b311108ae/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-24bc39ed487b311108ae/publication-citation.csl.json
-- venue: OpenAI
-- publisher: OpenAI
-- date basis: Date printed on the PDF title page: January 23, 2025; precision=day.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the openai.com page answers scripted requests with HTTP 403, and the facts come from the PDF that OpenAI serves from its CDN.
-- notes: OpenAI system card PDF for Operator, the Computer-Using Agent research preview.
+- Venue: OpenAI
+- Publisher: OpenAI
+- Date source: Date printed on the PDF title page: January 23, 2025; precision=day.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the openai.com page answers scripted requests with HTTP 403, and the facts come from the PDF that OpenAI serves from its CDN.
+- Source notes: OpenAI system card PDF for Operator, the Computer-Using Agent research preview.
 - Publication evidence: https://cdn.openai.com/operator_system_card.pdf
 
 ## License declarations

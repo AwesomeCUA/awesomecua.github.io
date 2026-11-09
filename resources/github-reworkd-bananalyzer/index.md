@@ -12,10 +12,6 @@ Bananalyzer is an evaluation framework and dataset suite for testing web agents 
 - Evidence checked: 2026-11-04T13:12:33Z
 - ID: github:reworkd/bananalyzer
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-reworkd-bananalyzer/record.json
 
 ## License declarations

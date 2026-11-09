@@ -12,10 +12,6 @@ Browser-native WebMCP idea-to-plan canvas where human users and web agents co-ed
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:doom2quake/weave
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-doom2quake-weave/record.json
 
 ## License declarations

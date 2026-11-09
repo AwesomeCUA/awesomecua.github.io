@@ -12,10 +12,6 @@ Reviews 87 computer-use agents and 33 datasets through a taxonomy of operating d
 - Evidence checked: 2026-10-16T06:36:58Z
 - ID: arxiv:2501.16150
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-16150/record.json
 
 ## Authors

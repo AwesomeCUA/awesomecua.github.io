@@ -12,10 +12,6 @@ clef-use is a local computer-use runtime combining structured accessibility, Sig
 - Evidence checked: 2026-11-04T14:41:50Z
 - ID: github:kotori0919/clef-use
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-kotori0919-clef-use/record.json
 
 ## License declarations

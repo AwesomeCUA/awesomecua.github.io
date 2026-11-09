@@ -12,10 +12,6 @@ MuseLite is a Python-first AI agent workspace for Android combining chat, execut
 - Evidence checked: 2026-11-04T15:03:42Z
 - ID: github:yxq953/muselite
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yxq953-muselite/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Visible, persistent, dedicated browser runtime that coding agents can control wi
 - Evidence checked: 2026-11-04T17:30:39Z
 - ID: github:hronaut/hronaut
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-hronaut-hronaut/record.json
 
 ## License declarations

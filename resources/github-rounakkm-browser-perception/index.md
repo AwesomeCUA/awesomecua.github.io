@@ -12,10 +12,6 @@ Privacy-preserving browser perception framework that redacts sensitive PII from 
 - Evidence checked: 2026-11-04T17:30:46Z
 - ID: github:rounakkm/browser-perception
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rounakkm-browser-perception/record.json
 
 ## License declarations

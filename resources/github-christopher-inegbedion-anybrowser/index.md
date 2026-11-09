@@ -12,10 +12,6 @@ Pluggable browser-automation and web-agent runtime supporting interchangeable LL
 - Evidence checked: 2026-11-04T17:55:26Z
 - ID: github:christopher-inegbedion/anybrowser
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-christopher-inegbedion-anybrowser/record.json
 
 ## License declarations

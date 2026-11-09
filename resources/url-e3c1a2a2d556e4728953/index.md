@@ -12,10 +12,6 @@ WebDreamer model checkpoint that predicts the consequences of web actions from s
 - Evidence checked: 2026-10-16T11:10:45Z
 - ID: url:e3c1a2a2d556e4728953
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/record.json
 
 ## License declarations

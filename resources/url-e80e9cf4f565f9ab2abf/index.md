@@ -20,11 +20,11 @@ Sparks Solutions publishes one ungated test split of 22 Parquet shards at revisi
 
 ## Structured profile
 
-- actions: point or bounding box for the referenced UI element, passed or failed verdict for expected results
-- evaluation: The card's scoring script counts a grounding hit when the predicted point, or the center of a predicted box, lies inside the annotated box, and scores expected-result verdicts against the passed or failed labels, overall and by UI language.
-- focus: grounding infotainment UI elements from test-action commands, judging expected-result statements as passed or failed
-- observations: photographs and screenshots of in-vehicle infotainment displays, English test-action or expected-result text
-- setting: offline
+- Actions / outputs: point or bounding box for the referenced UI element, passed or failed verdict for expected results
+- Evaluation: The card's scoring script counts a grounding hit when the predicted point, or the center of a predicted box, lies inside the annotated box, and scores expected-result verdicts against the passed or failed labels, overall and by UI language.
+- Focus: grounding infotainment UI elements from test-action commands, judging expected-result statements as passed or failed
+- Observations: photographs and screenshots of in-vehicle infotainment displays, English test-action or expected-result text
+- Setting: offline
 
 ### Count observations
 

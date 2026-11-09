@@ -12,10 +12,6 @@ Cuse is an open-source voice-and-text AI cursor agent for macOS that visually lo
 - Evidence checked: 2026-11-04T15:03:44Z
 - ID: github:muneebkhan08/cuse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-muneebkhan08-cuse/record.json
 
 ## License declarations

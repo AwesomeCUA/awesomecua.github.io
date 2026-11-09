@@ -12,10 +12,6 @@ Comprehensive research map of papers, benchmarks, and tools for multimodal codin
 - Evidence checked: 2026-11-04T18:11:48Z
 - ID: github:jiangjin1999/awesome-multimodal-agentic-coding
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/record.json
 
 ## License declarations

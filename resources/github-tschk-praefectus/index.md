@@ -12,10 +12,6 @@ Policy-neutral Rust library and JSON CLI for host-authorized background computer
 - Evidence checked: 2026-11-04T16:51:47Z
 - ID: github:tschk/praefectus
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tschk-praefectus/record.json
 
 ## License declarations

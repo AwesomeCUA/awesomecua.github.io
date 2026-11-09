@@ -12,10 +12,6 @@ Implements DOM-injected pop-up and toast indirect prompt injection attacks again
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:sej2020/manipulating-web-agents
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sej2020-manipulating-web-agents/record.json
 
 ## License declarations

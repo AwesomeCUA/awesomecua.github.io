@@ -12,10 +12,6 @@ Windows agent framework for application and desktop automation.
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:microsoft/ufo
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-microsoft-ufo/record.json
 
 ## License declarations

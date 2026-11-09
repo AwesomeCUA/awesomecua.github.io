@@ -12,10 +12,6 @@ DesktopAgent operates Windows desktop applications in the background using a loc
 - Evidence checked: 2026-11-04T14:41:46Z
 - ID: github:elidot007/desktop-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-elidot007-desktop-agent/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Connects Claude Code, Cursor, and MCP clients to the user's real logged-in Chrom
 - Evidence checked: 2026-11-04T18:11:35Z
 - ID: github:rakeshnirzari1/your-browser-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-rakeshnirzari1-your-browser-agent/record.json
 
 ## License declarations

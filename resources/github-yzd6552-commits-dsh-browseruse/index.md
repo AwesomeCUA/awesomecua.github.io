@@ -12,10 +12,6 @@ Browser-Use-style plugin for DeepSeek Harness that drives a dedicated Chrome pro
 - Evidence checked: 2026-11-04T17:20:37Z
 - ID: github:yzd6552-commits/dsh-browseruse
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/record.json
 
 ## License declarations

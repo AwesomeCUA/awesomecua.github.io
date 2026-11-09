@@ -12,10 +12,6 @@ VLM-Reasoning-Traces releases model outputs comparing base and thinking-enabled 
 - Evidence checked: 2026-11-04T13:12:21Z
 - ID: github:llamatouch/vlm-reasoning-traces
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-llamatouch-vlm-reasoning-traces/record.json
 
 ## License declarations

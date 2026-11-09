@@ -12,10 +12,6 @@ COCO4GUI is an interactive screen capture and bounding-box annotation tool for b
 - Evidence checked: 2026-11-04T13:12:16Z
 - ID: github:harpreetsahota204/gui_dataset_creator
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-harpreetsahota204-gui-dataset-creator/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Zero-dependency macOS automation CLI and MCP server built on Python `ctypes` and
 - Evidence checked: 2026-11-04T16:51:41Z
 - ID: github:shxmi03/mac-pilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-shxmi03-mac-pilot/record.json
 
 ## License declarations

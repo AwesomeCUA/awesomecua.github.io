@@ -20,11 +20,11 @@ Code for the TimeWarp paper, which the README's citation lists as to appear in t
 
 ## Structured profile
 
-- actions: BrowserGym browser actions, free-text answer message to the user
-- evaluation: Each task's free-text answer is normalized (case, unicode, markdown, punctuation, number formatting) and checked by the verifiers listed in its eval_types (string_match, number_match, list_match, combined with AND); tasks still on llm_judge are graded by GPT-5 by default or an open Gemma judge. The same tasks are run against each UI version.
-- focus: robustness of web agents to UI redesigns across eras, information seeking across Wiki, News and Shop sites
-- observations: BrowserGym observations of the self-hosted sites, as selected by the agent
-- setting: interactive
+- Actions / outputs: BrowserGym browser actions, free-text answer message to the user
+- Evaluation: Each task's free-text answer is normalized (case, unicode, markdown, punctuation, number formatting) and checked by the verifiers listed in its eval_types (string_match, number_match, list_match, combined with AND); tasks still on llm_judge are graded by GPT-5 by default or an open Gemma judge. The same tasks are run against each UI version.
+- Focus: robustness of web agents to UI redesigns across eras, information seeking across Wiki, News and Shop sites
+- Observations: BrowserGym observations of the self-hosted sites, as selected by the agent
+- Setting: interactive
 
 ### Count observations
 

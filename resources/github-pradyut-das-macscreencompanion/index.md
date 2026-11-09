@@ -12,10 +12,6 @@ Native screen-aware macOS AI assistant invoked via hotkey to inspect and act on 
 - Evidence checked: 2026-11-04T17:30:33Z
 - ID: github:pradyut-das/macscreencompanion
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pradyut-das-macscreencompanion/record.json
 
 ## License declarations

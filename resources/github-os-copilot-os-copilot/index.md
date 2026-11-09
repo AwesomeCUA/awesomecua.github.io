@@ -12,10 +12,6 @@ Open-source library for generalist agents acting on an operating system's web, t
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:os-copilot/os-copilot
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-os-copilot-os-copilot/record.json
 
 ## License declarations

@@ -12,10 +12,6 @@ Model Context Protocol extension giving Claude full Linux X11 desktop control ac
 - Evidence checked: 2026-11-04T16:10:31Z
 - ID: github:lukelamb/claude-linux-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-lukelamb-claude-linux-mcp/record.json
 
 ## License declarations

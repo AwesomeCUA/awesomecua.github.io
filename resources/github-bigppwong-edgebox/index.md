@@ -12,10 +12,6 @@ EdgeBox provisions isolated local Linux desktop virtual machines with WebRTC str
 - Evidence checked: 2026-11-04T13:12:08Z
 - ID: github:bigppwong/edgebox
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-bigppwong-edgebox/record.json
 
 ## License declarations

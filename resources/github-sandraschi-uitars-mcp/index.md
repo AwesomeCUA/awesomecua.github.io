@@ -12,10 +12,6 @@ uitars-mcp is a Model Context Protocol server that connects vision-language GUI 
 - Evidence checked: 2026-11-04T14:41:45Z
 - ID: github:sandraschi/uitars-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-sandraschi-uitars-mcp/record.json
 
 ## License declarations

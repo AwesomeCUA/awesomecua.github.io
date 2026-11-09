@@ -12,10 +12,6 @@ Agentic Web Check is a Lighthouse-style auditor that scores websites across 43 c
 - Evidence checked: 2026-11-04T14:20:14Z
 - ID: github:ericovirgy/agentic-web-check
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-ericovirgy-agentic-web-check/record.json
 
 ## License declarations

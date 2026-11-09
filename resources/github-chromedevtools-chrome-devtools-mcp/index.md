@@ -12,10 +12,6 @@ MCP tools for browser control and inspection through Chrome DevTools.
 - Evidence checked: 2026-10-16T06:40:53Z
 - ID: github:chromedevtools/chrome-devtools-mcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/record.json
 
 ## License declarations

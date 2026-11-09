@@ -12,10 +12,6 @@ Open-source Android device fleet management and orchestration platform for mobil
 - Evidence checked: 2026-11-04T17:55:08Z
 - ID: github:c00l-k1d/droidfleet
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-c00l-k1d-droidfleet/record.json
 
 ## License declarations

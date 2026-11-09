@@ -12,10 +12,6 @@ Two-layer macOS GUI navigation agent that separates VLM screen perception from s
 - Evidence checked: 2026-11-04T14:20:05Z
 - ID: github:eauchs/gui-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-eauchs-gui-agent/record.json
 
 ## License declarations

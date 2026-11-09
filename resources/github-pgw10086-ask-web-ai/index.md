@@ -12,10 +12,6 @@ Universal Agent Skill and CLI allowing a host coding agent to consult web-based 
 - Evidence checked: 2026-11-04T17:30:27Z
 - ID: github:pgw10086/ask-web-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-pgw10086-ask-web-ai/record.json
 
 ## License declarations

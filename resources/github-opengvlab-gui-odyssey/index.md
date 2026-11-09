@@ -12,18 +12,14 @@ Human-demonstrated Android episodes for cross-app navigation, spanning six task 
 - Evidence checked: 2026-10-16T06:36:01Z
 - ID: github:opengvlab/gui-odyssey
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-opengvlab-gui-odyssey/record.json
 
 ## Structured profile
 
-- formats: JSON annotations, PNG screenshots
-- modalities: screenshots, instructions, actions, bounding boxes, step context
-- splits: random, task, device, app
-- supervision: cross-app trajectories, action grounding
+- Formats: JSON annotations, PNG screenshots
+- Modalities: screenshots, instructions, actions, bounding boxes, step context
+- Splits: random, task, device, app
+- Supervision: cross-app trajectories, action grounding
 
 ### Count observations
 

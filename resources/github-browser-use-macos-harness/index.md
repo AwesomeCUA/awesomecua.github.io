@@ -12,10 +12,6 @@ Official Browser Use harness for provisioning and driving isolated macOS virtual
 - Evidence checked: 2026-11-04T17:20:45Z
 - ID: github:browser-use/macos-harness
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-use-macos-harness/record.json
 
 ## License declarations

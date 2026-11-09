@@ -12,10 +12,6 @@ Ask-before-Plan trains proactive language agents to clarify underspecified user 
 - Evidence checked: 2026-11-04T13:12:23Z
 - ID: github:magicgh/ask-before-plan
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-magicgh-ask-before-plan/record.json
 
 ## License declarations

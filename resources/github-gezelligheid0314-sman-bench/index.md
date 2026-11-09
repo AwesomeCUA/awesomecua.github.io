@@ -20,11 +20,11 @@ SMAN-Bench is the title of the ICLR 2026 edition of the Mobile-Bench-v2 paper; t
 
 ## Structured profile
 
-- actions: click a labelled element, scroll a labelled element in a direction, input text
-- evaluation: Predicted actions are mapped to the recorded action IDs of each page. Single-path runs are scored step by step against the ground-truth path (action accuracy, action-type accuracy, success only when every step matches); multi-path runs succeed when the agent's actions reach the goal page in the recorded page graph; noisy runs check ground-truth click and swipe coordinates against the predicted element's bounds and typed text by character-level F1.
-- focus: single-path step accuracy, multi-path task completion, robustness to pop-ups and ads, ambiguous instructions
-- observations: recorded Android screenshots with element boxes drawn from the page XML, element centre coordinates (Mobile-Agent-v2 runner), task instructions
-- setting: offline
+- Actions / outputs: click a labelled element, scroll a labelled element in a direction, input text
+- Evaluation: Predicted actions are mapped to the recorded action IDs of each page. Single-path runs are scored step by step against the ground-truth path (action accuracy, action-type accuracy, success only when every step matches); multi-path runs succeed when the agent's actions reach the goal page in the recorded page graph; noisy runs check ground-truth click and swipe coordinates against the predicted element's bounds and typed text by character-level F1.
+- Focus: single-path step accuracy, multi-path task completion, robustness to pop-ups and ads, ambiguous instructions
+- Observations: recorded Android screenshots with element boxes drawn from the page XML, element centre coordinates (Mobile-Agent-v2 runner), task instructions
+- Setting: offline
 
 ### Count observations
 

@@ -12,10 +12,6 @@ OpenAI Codex CLI is a local terminal and desktop coding agent that executes comm
 - Evidence checked: 2026-11-04T13:12:29Z
 - ID: github:openai/codex
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-openai-codex/record.json
 
 ## License declarations

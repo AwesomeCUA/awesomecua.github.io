@@ -12,10 +12,6 @@ Screen-driven QA agent that tests web and desktop applications through their ren
 - Evidence checked: 2026-11-04T16:51:49Z
 - ID: github:dilawarshafiq/camel-ai
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-dilawarshafiq-camel-ai/record.json
 
 ## License declarations

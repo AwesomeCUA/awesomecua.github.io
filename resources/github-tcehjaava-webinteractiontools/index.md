@@ -12,10 +12,6 @@ Playwright-based Model Context Protocol server providing webpage navigation, vie
 - Evidence checked: 2026-11-04T15:03:37Z
 - ID: github:tcehjaava/webinteractiontools
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-tcehjaava-webinteractiontools/record.json
 
 ## License declarations

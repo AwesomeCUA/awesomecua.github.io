@@ -2645,13 +2645,13 @@ Jiwen Zhang (张霁雯), Ya-Qi Yu, Minghui Liao, Wentao Li, Jihao Wu, Zhongyu We
 - Publication source: https://aclanthology.org/2025.emnlp-main.920/
 - Publication BibTeX: https://awesomecua.com/resources/url-9113270916a36b4b76f1/publication-citation.bib
 - Publication CSL JSON: https://awesomecua.com/resources/url-9113270916a36b4b76f1/publication-citation.csl.json
-- venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
-- publisher: Association for Computational Linguistics
-- pages: 18217-18236
-- doi: 10.18653/v1/2025.emnlp-main.920
-- date basis: Explicit publisher citation_publication_date: 2025/11; precision=month. Do not substitute conference event dates.
-- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and arXiv title searches for UI-Hawk and 'Screen Stream Understanding' returned nothing, so this publisher edition seeds the record. The Preprints.org posting 202408.2137 (v1 only) is an earlier version of the same work by the same six authors in the same order.
-- notes: EMNLP 2025 main-conference paper. The earlier Preprints.org version, posted 2024-08-30 with DOI 10.20944/preprints202408.2137.v1 and a CC BY 4.0 notice, is titled 'UI-Hawk: Unleashing the Screen Stream Understanding for GUI Agents' (without 'Mobile') and spells the second author Yaqi Yu; it is retained only through a Wayback capture because preprints.org refuses scripted requests.
+- Venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
+- Publisher: Association for Computational Linguistics
+- Pages: 18217-18236
+- DOI: 10.18653/v1/2025.emnlp-main.920
+- Date source: Explicit publisher citation_publication_date: 2025/11; precision=month. Do not substitute conference event dates.
+- Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and arXiv title searches for UI-Hawk and 'Screen Stream Understanding' returned nothing, so this publisher edition seeds the record. The Preprints.org posting 202408.2137 (v1 only) is an earlier version of the same work by the same six authors in the same order.
+- Source notes: EMNLP 2025 main-conference paper. The earlier Preprints.org version, posted 2024-08-30 with DOI 10.20944/preprints202408.2137.v1 and a CC BY 4.0 notice, is titled 'UI-Hawk: Unleashing the Screen Stream Understanding for GUI Agents' (without 'Mobile') and spells the second author Yaqi Yu; it is retained only through a Wayback capture because preprints.org refuses scripted requests.
 - Publication evidence: https://aclanthology.org/2025.emnlp-main.920/, https://web.archive.org/web/20260314134926id_/https://www.preprints.org/manuscript/202408.2137
 
 ### License declarations

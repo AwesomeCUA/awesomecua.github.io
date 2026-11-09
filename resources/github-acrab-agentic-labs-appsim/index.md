@@ -12,19 +12,15 @@ Simulated mobile applications and evaluation tooling for reproducible GUI-agent 
 - Evidence checked: 2026-10-16T10:42:12Z
 - ID: github:acrab-agentic-labs/appsim
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim/record.json
 
 ## Structured profile
 
-- actions: mobile GUI operations
-- evaluation: Controlled backend data and outcome-based task verification.
-- focus: mobile task completion
-- observations: mobile interfaces
-- setting: interactive
+- Actions / outputs: mobile GUI operations
+- Evaluation: Controlled backend data and outcome-based task verification.
+- Focus: mobile task completion
+- Observations: mobile interfaces
+- Setting: interactive
 
 ### Count observations
 

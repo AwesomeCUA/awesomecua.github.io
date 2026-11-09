@@ -20,11 +20,11 @@ These clients simulate named commercial applications. The code and simulator dat
 
 ## Structured profile
 
-- actions: GUI gestures, foreground-app tool calls in hybrid mode
-- evaluation: Programmatic checkers inspect changes in application state; both modes share task definitions and initial states.
-- focus: task completion, cross-application workflows, GUI and app-native tool comparison
-- observations: screenshots
-- setting: interactive
+- Actions / outputs: GUI gestures, foreground-app tool calls in hybrid mode
+- Evaluation: Programmatic checkers inspect changes in application state; both modes share task definitions and initial states.
+- Focus: task completion, cross-application workflows, GUI and app-native tool comparison
+- Observations: screenshots
+- Setting: interactive
 
 ### Count observations
 

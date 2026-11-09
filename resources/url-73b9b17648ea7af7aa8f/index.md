@@ -20,10 +20,10 @@ The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl file
 
 ## Structured profile
 
-- formats: JSONL, ZIP image archives, tar.gz image archives
-- modalities: screenshots, instructions, actions, action descriptions
-- splits: capability/train, safety/train, safety_v2/train
-- supervision: computer-use trajectories, task-success labels, safety-outcome labels, safe-refusal examples
+- Formats: JSONL, ZIP image archives, tar.gz image archives
+- Modalities: screenshots, instructions, actions, action descriptions
+- Splits: capability/train, safety/train, safety_v2/train
+- Supervision: computer-use trajectories, task-success labels, safety-outcome labels, safe-refusal examples
 
 ### Count observations
 

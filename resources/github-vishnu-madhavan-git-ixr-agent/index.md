@@ -12,10 +12,6 @@ IXR Agent is a TypeScript in-page web GUI agent that executes natural-language i
 - Evidence checked: 2026-11-04T14:41:51Z
 - ID: github:vishnu-madhavan-git/ixr-agent
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-vishnu-madhavan-git-ixr-agent/record.json
 
 ## License declarations

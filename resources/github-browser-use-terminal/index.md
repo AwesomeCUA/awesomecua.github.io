@@ -12,10 +12,6 @@ Browser Use Terminal is a Rust terminal user interface (TUI) for interactively c
 - Evidence checked: 2026-11-04T16:10:26Z
 - ID: github:browser-use/terminal
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-browser-use-terminal/record.json
 
 ## License declarations

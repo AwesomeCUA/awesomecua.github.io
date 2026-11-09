@@ -12,10 +12,6 @@ WebMCP-native GSAP animation studio where browser agents safely co-direct and ve
 - Evidence checked: 2026-11-04T18:11:39Z
 - ID: github:varun-a-1010/glyph-motion-studio-webmcp
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-varun-a-1010-glyph-motion-studio-webmcp/record.json
 
 ## License declarations

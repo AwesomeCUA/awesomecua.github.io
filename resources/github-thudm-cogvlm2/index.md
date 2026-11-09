@@ -12,10 +12,6 @@ CogVLM2 releases high-resolution image and video vision-language models supporti
 - Evidence checked: 2026-11-04T13:12:40Z
 - ID: github:thudm/cogvlm2
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-thudm-cogvlm2/record.json
 
 ## License declarations

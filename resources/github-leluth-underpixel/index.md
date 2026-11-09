@@ -12,10 +12,6 @@ Chrome extension and MCP server that correlates timestamped visual screen intera
 - Evidence checked: 2026-11-04T15:45:54Z
 - ID: github:leluth/underpixel
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-leluth-underpixel/record.json
 
 ## License declarations

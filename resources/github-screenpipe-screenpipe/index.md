@@ -12,10 +12,6 @@ Screenpipe continuously captures desktop screen text via accessibility/OCR and a
 - Evidence checked: 2026-11-04T13:12:34Z
 - ID: github:screenpipe/screenpipe
 
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
 - Record JSON: https://awesomecua.com/resources/github-screenpipe-screenpipe/record.json
 
 ## License declarations
