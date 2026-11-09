@@ -151,3 +151,29 @@ html:has(.topic-directory,.paper-library,.data-hub){scroll-behavior:auto}
 .reading-section .button{font-size:.875rem;text-decoration:none}
 .page-actions{display:flex;flex-wrap:wrap;gap:var(--s-2);margin-block:var(--s-4)}
 @media (max-width:767px){.reading-shell{width:calc(100% - 32px)}}
+
+/* Reading pages: a 12 px floor for metadata, code that scrolls instead of being cut off, 44 px targets at touch sizes. */
+.reading-shell :is(.library-topics a,.library-topics>span,.paper-year-heading>span,.paper-year-heading>a,.paper-years a span,.paper-years>span,.topic-overview,.topic-overview a,.topic-method,.topic-method a,.library-method,.library-method a,.paper-date,.paper-date>span,.paper-date time,.paper-authors,.paper-publication,.paper-facets a,.paper-facets span,.paper-entry-links a,.paper-asset-kind,.library-range,.source-list code,.topic-sections a,.topic-kind,.topic-resource-meta,.topic-resource-authors,.topic-resource-facets,.topic-resource-links,.agent-field-table code,.category-directory span,.topic-table-help,.topic-matrix thead th){font-size:.75rem}
+.reading-shell pre{max-width:100%;overflow-x:auto}
+.reading-shell pre code{overflow-wrap:normal}
+.reading-shell details code{overflow-wrap:anywhere}
+@media (max-width:1023px),(pointer:coarse){
+  .breadcrumbs{margin-bottom:8px}
+  .breadcrumbs li{display:flex;align-items:center}
+  .breadcrumbs a{display:inline-flex;align-items:center;min-height:44px}
+  .reading-shell summary{padding-block:12px}
+  .reading-shell :is(.directory-links a,.library-pager a,.library-pager .page-numbers a,.library-downloads .button,.citation-section .button,.library-language,.paper-years a,.library-topics a,.topic-sections a,.topic-back a,.topic-overview a,.paper-year-heading>a,.paper-entry-links a,.topic-resource-links a,.library-connected-count,.paper-facets a,.topic-resource-facets a){display:inline-flex;align-items:center;min-height:44px}
+  .directory-links a{min-height:44px}
+  .reading-shell .library-pager .page-numbers a{min-width:44px;justify-content:center}
+  .compare-controls input,.compare-controls select{height:44px}
+  .reading-shell a.paper-asset,.reading-shell .paper-asset-more{position:relative}
+  .reading-shell a.paper-asset::after,.reading-shell .paper-asset-more::after{content:"";position:absolute;inset:-8px 0}
+  .reading-shell :is(.paper-entry h3 a,.topic-resource h3 a,.reading-list h2 a,td a,th a,.star-note a,.source-list a,.category-directory a),.data-file h3 a{padding-block:12px}
+  .reading-shell .topic-matrix .topic-number{display:inline-flex;align-items:center;justify-content:center;min-width:44px;min-height:44px}
+  .reading-shell .topic-matrix tbody th a{display:inline-flex;align-items:center;min-height:44px}
+  .topic-matrix tbody th,.topic-matrix tbody td{padding-block:0}
+  .paper-facets,.topic-resource-facets,.library-topics{row-gap:0}
+  .paper-entry-links,.topic-resource-links{gap:0 22px}
+  .reading-shell :is(.paper-authors,.topic-resource-authors){line-height:24px}
+  .reading-shell :is(.paper-authors,.topic-resource-authors) a{display:inline-block;min-height:24px}
+}
