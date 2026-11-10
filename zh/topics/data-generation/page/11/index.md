@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/11/
 
 完整列表：https://awesomecua.com/zh/topics/data-generation/index.md
 
+- [Project Tendril](https://awesomecua.com/zh/resources/github-gadgethd-project-tendril/)
+- [Proposer-Agent-Evaluator (PAE)](https://awesomecua.com/zh/resources/github-amazon-science-pae/)
+- [reverseloom](https://awesomecua.com/zh/resources/github-kuichi-x-reverseloom/)
+- [rtrvr CLI & SDK](https://awesomecua.com/zh/resources/github-rtrvr-ai-rtrvr-cli/)
 - [RUSS](https://awesomecua.com/zh/resources/github-xnancy-russ/)
 - [SCALE-CUA (THUDM)](https://awesomecua.com/zh/resources/github-thudm-scale-cua/)
 - [SCOPE-Gen](https://awesomecua.com/zh/resources/github-k4ngzy-scope-gen/)
@@ -12,6 +16,7 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/11/
 - [screen2gym](https://awesomecua.com/zh/resources/github-marc-saouda-screen2gym/)
 - [ScreenAgent Web Client](https://awesomecua.com/zh/resources/github-niuzaisheng-screenagentwebclient/)
 - [ScreenParse Webshot toolkit](https://awesomecua.com/zh/resources/github-saidgurbuz-screenparse/)
+- [Scribe](https://awesomecua.com/zh/resources/github-sameelarif-scribe/)
 - [SEAgent](https://awesomecua.com/zh/resources/github-sunzey-seagent/)
 - [Seq2act code (google-research)](https://awesomecua.com/zh/resources/component-google-research-seq2act/)
 - [Shadow](https://awesomecua.com/zh/resources/github-ghostwright-shadow/)
@@ -30,6 +35,7 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/11/
 - [UI-Genie](https://awesomecua.com/zh/resources/github-euphoria16-ui-genie/)
 - [UI2API](https://awesomecua.com/zh/resources/github-merezarezaei-ui2api/)
 - [Video2GUI](https://awesomecua.com/zh/resources/github-weiminxiong-video2gui/)
+- [WebAggregator](https://awesomecua.com/zh/resources/github-tencent-webaggregator/)
 - [WebEvolver code component](https://awesomecua.com/zh/resources/component-tencent-selfevolvingagent-webevolver/)
 - [WebRain](https://awesomecua.com/zh/resources/github-prokopis3-webrain/)
 - [WebRL](https://awesomecua.com/zh/resources/github-thudm-webrl/)

@@ -485,6 +485,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 
 - [browserground](https://awesomecua.com/zh/resources/github-renezander030-browserground/) — Date not recorded
   browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps screenshots and text targets to bounding-box JSON.
+- [CLM-v0.1-8B](https://awesomecua.com/zh/resources/url-0b272935f82c063d9384/) — Date not recorded
+  Weights for CLM-8B, a contrastive model with state and action heads on a frozen Qwen3-8B encoder that ranks candidate actions; the authors report computer-use, gaming and tool-calling results.
 - [CombatVLA](https://awesomecua.com/zh/resources/github-chenvoid-combatvla/) — Date not recorded
   CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.
 - [Contrastive Language Models](https://awesomecua.com/zh/resources/github-contrastive-lm-clm/) — Date not recorded
@@ -529,6 +531,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Laya-Android is a compact 322M on-device decision model for Android GUI action selection.
 - [laya-browser](https://awesomecua.com/zh/resources/url-c5b0e2eab771f62792fb/) — Date not recorded
   Non-generative browser-agent policy fine-tuned from the 322M laya encoder: one forward pass over page text and the interactive-element list picks the next operation and its target element.
+- [LocateAnything-3B](https://awesomecua.com/zh/resources/url-59b8a8cfdd3db7b21058/) — Date not recorded
+  LocateAnything-3B is a 3B vision-language grounding model that predicts full bounding boxes in parallel, covering GUI element grounding alongside object detection, documents and OCR.
 - [lora_qformer_test_V4-700_merged](https://awesomecua.com/zh/resources/url-8a5201470d27334977fa/) — Date not recorded
   Qwen2.5-VL-7B-Instruct merged with the CoMEM memory module, which compresses past GUI trajectories into 8 continuous embeddings through a LoRA-tuned Q-Former, for web agent tasks.
 - [lora_qformer_uitars_test_V1-400_merged](https://awesomecua.com/zh/resources/url-b144605ae24674ffb917/) — Date not recorded
@@ -620,6 +624,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   CLI, MCP server, and npm library that observes live browser traffic to turn websites into structured APIs for AI agents.
 - [Appwalk](https://awesomecua.com/zh/resources/github-kubstack-appwalk/) — Date not recorded
   AI-powered CLI that explores a web application in a browser and compiles the run into verified Playwright test suites.
+- [ARC CUA](https://awesomecua.com/zh/resources/github-itw-code-arc-cua/) — Date not recorded
+  Browser harness that gives an agent a token-budgeted accessibility tree with indexed actions and checks each action for state change, plus a document-to-form pipeline and an MCP server.
 - [arc-cua](https://awesomecua.com/zh/resources/github-shhivv-arc-cua/) — Date not recorded
   arc-cua is a macOS computer-use package with an app-window driver and a decision-model loop for executing bounded desktop subtasks handed off by an agent.
 - [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/zh/resources/github-sharryxr-asil/) — Date not recorded
@@ -680,6 +686,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Lightweight alternative to `chrome-devtools-mcp` that lets AI agents target and drive named Chrome tabs over CDP.
 - [cdpilot](https://awesomecua.com/zh/resources/github-mehmetnadir-cdpilot/) — Date not recorded
   Zero-dependency browser automation CLI built directly on raw Chrome DevTools Protocol WebSockets without Playwright or Puppeteer.
+- [Chrome Bridge](https://awesomecua.com/zh/resources/github-frsorrentino-chrome-bridge/) — Date not recorded
+  MCP server and Chrome extension that let Claude Code operate the user's signed-in Chrome with 69 tools covering forms, navigation, DOM and network inspection, audits and WebMCP tools declared by pages.
 - [chrome-agent-search](https://awesomecua.com/zh/resources/github-ominiverdi-chrome-agent-search/) — Date not recorded
   Local-first Rust CLI for driving Chrome to perform web searches and extract clean Markdown page content.
 - [chrome-eye](https://awesomecua.com/zh/resources/github-trvux-chrome-eye/) — Date not recorded
@@ -690,6 +698,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Persistent Playwright REPL and CDP bridge allowing Claude Code to drive a user's logged-in Chrome browser with low token overhead.
 - [claude-chrome-speed](https://awesomecua.com/zh/resources/github-cr1707-claude-chrome-speed/) — Date not recorded
   Claude Code plugin that accelerates Claude in Chrome browser tasks by batching DOM reads and eliminating redundant screenshot waits.
+- [Clearcote Jet](https://awesomecua.com/zh/resources/github-clearcotelabs-clearcote-jet/) — Date not recorded
+  A browser agent that reads a page, picks each next step with a decision model and acts in Clearcote with curved mouse paths and key-by-key typing; finished tasks are saved as skills that replay without model calls.
 - [clef-use](https://awesomecua.com/zh/resources/github-kotori0919-clef-use/) — Date not recorded
   clef-use is a local computer-use runtime combining structured accessibility, SigLIP2 visual tile grounding, OmniParser, and MCP tools.
 - [Clique Já](https://awesomecua.com/zh/resources/github-paivaxqz-cliqueja/) — Date not recorded
@@ -898,6 +908,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Rust port of the Browser Use architecture enabling LLMs to control web browsers with native speed.
 - [mac-pilot](https://awesomecua.com/zh/resources/github-shxmi03-mac-pilot/) — Date not recorded
   Zero-dependency macOS automation CLI and MCP server built on Python `ctypes` and CoreGraphics.
+- [macbot-mcp](https://awesomecua.com/zh/resources/github-anomalous3-macbot-mcp/) — Date not recorded
+  An MCP server that lets AI agents read the macOS accessibility tree with element coordinates and act through Quartz CGEvents and AppleScript, using 17 tools for observing, clicking, typing and scrolling.
 - [maponce](https://awesomecua.com/zh/resources/github-shivampatel0714-maponce/) — Date not recorded
   Uses an LLM to map or record browser automations once and replays them deterministically via Playwright without LLM calls.
 - [Marey](https://awesomecua.com/zh/resources/github-badalraj9-marey/) — Date not recorded
@@ -1052,6 +1064,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Focus-free macOS computer-use tool that presses native Accessibility buttons in the background without moving the user's cursor.
 - [Stagehand](https://awesomecua.com/zh/resources/url-0210d8713fd41ca1448f/) — Date not recorded
   An SDK for browser agents that combines Playwright-style page control with natural-language actions, observation, and extraction. It runs beside the browser as an extension.
+- [stagehand-plasmate](https://awesomecua.com/zh/resources/github-plasmate-labs-stagehand-plasmate/) — Date not recorded
+  TypeScript wrapper that gives Stagehand pages Plasmate's Semantic Object Model JSON in place of raw DOM, with SOM queries by role, text or ID, while act() and observe() go to Stagehand.
 - [super-computer-use](https://awesomecua.com/zh/resources/github-paperfoot-super-computer-use/) — Date not recorded
   Low-latency macOS computer-use driver (~35ms per action) supporting batched multi-step UI workflows.
 - [System1-Agents](https://awesomecua.com/zh/resources/github-thinkflowlab-system1-agents/) — Date not recorded

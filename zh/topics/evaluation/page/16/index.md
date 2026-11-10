@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/16/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
+- [CRAB](https://awesomecua.com/zh/resources/github-camel-ai-crab/)
 - [cskwork vigil](https://awesomecua.com/zh/resources/github-cskwork-vigil/)
 - [CUA Eval Kit](https://awesomecua.com/zh/resources/github-marwanalsiddiq-cua-eval-kit/)
 - [cua-bench (ERPNext)](https://awesomecua.com/zh/resources/github-vaiyr-cua-bench/)
@@ -35,6 +36,7 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/16/
 - [FlashAdventure](https://awesomecua.com/zh/resources/github-ahnjaewoo-flashadventure/)
 - [FronTalk](https://awesomecua.com/zh/resources/github-shirley-wu-frontalk/)
 - [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/zh/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/)
+- [FunUI-Benchmark](https://awesomecua.com/zh/resources/url-92241e51e909ea9ca564/)
 - [GA-Technical-Report](https://awesomecua.com/zh/resources/github-jinyihan99-ga-technical-report/)
 - [GameWorld](https://awesomecua.com/zh/resources/github-gameworld-project-gameworld/)
 - [GameWorld Games](https://awesomecua.com/zh/resources/github-gameworld-project-gameworld-games/)
@@ -45,6 +47,7 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/16/
 - [GroundUI-1K](https://awesomecua.com/zh/resources/url-d86f55753bfea45fe313/)
 - [GUI-Perturbed](https://awesomecua.com/zh/resources/url-7ed70b39ac79f97f8a87/)
 - [GUI-Robust](https://awesomecua.com/zh/resources/github-chessbean1-gui-robust/)
+- [GUI_Reflection_Task_Suite_Benchmark](https://awesomecua.com/zh/resources/url-dea0e09f027df704ca00/)
 - [GuideBench](https://awesomecua.com/zh/resources/url-37b4f525e6d7a56a9967/)
 - [GUIGuard-Bench evaluation code](https://awesomecua.com/zh/resources/github-shaluoyan523-guiguard-bench/)
 - [GUIGuard-Bench public-ladder release](https://awesomecua.com/zh/resources/url-61860953a680776ffe53/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/16/
 - [Inspect Evals](https://awesomecua.com/zh/resources/github-ukgovernmentbeis-inspect-evals/)
 - [Intention-in-Interaction (IN3) & Mistral-Interact](https://awesomecua.com/zh/resources/github-openbmb-tell-me-more/)
 - [Intentproof](https://awesomecua.com/zh/resources/github-egagofur-intentproof/)
-- [iOSWorld](https://awesomecua.com/zh/resources/github-ljang0-iosworld/)
-- [jev-click-bench](https://awesomecua.com/zh/resources/github-arthurkatcher-jev-click-bench/)
-- [Kane](https://awesomecua.com/zh/resources/github-venkat5599-kane/)

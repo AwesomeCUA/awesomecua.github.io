@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/benchmark/index.md
 
+- [GroundUI-18K](https://awesomecua.com/zh/resources/url-d206aacf01e1b7dc786d/)：AgentStudio 的完整 GUI 元素定位测试集，汇集 Mind2Web、OmniACT、MoTIF、ScreenSpot 和 AgentStudio 的网页、桌面及移动端截图，含 18,026 条指令与目标边界框样例。
+- [GUI-Robust](https://awesomecua.com/zh/resources/github-chessbean1-gui-robust/)：提供评估脚本和关联数据，用于比较普通及异常界面条件下的 GUI 操作预测和任务执行。
+- [GuideBench](https://awesomecua.com/zh/resources/url-37b4f525e6d7a56a9967/)：GUIDE 基准发布的数据：来自 10 款应用的新手口述屏幕录像的标注片段，用于预测用户行为状态、短期意图，以及是否提供帮助和如何帮助。
+- [GUIGuard-Bench evaluation code](https://awesomecua.com/zh/resources/github-shaluoyan523-guiguard-bench/)：GUIGuard-Bench 评估代码涵盖隐私区域识别评分、基于 LLM 评判的遮挡截图规划一致性，以及受保护界面的点击定位，并附少量 Android 和 PC 示例。
+- [GUIHalluBench](https://awesomecua.com/zh/resources/github-ant-research-guihallubench/)：将模型列出的界面元素边界框和描述与人工标注比对，衡量其解析 1,000 张英文和 1,000 张中文截图时的幻觉。
 - [GUITestBench](https://awesomecua.com/zh/resources/github-adam-bjtu-guitestbench/)：GUITestBench 评测安卓智能体能否通过多步操作发现应用缺陷，并结合导航与触发条件检查及评判模型进行评估。
 - [HealthEnv](https://awesomecua.com/zh/resources/github-possibleme2026-lang-healthenv/)：HealthEnv 将纵向临床问答任务编译为有状态、可验证的计算机使用评测环境。
 - [HoloSkill Gym](https://awesomecua.com/zh/resources/github-elenaviewsynthesis-holoskill-gym/)：用于自我演进的 CLI 和计算机使用智能体技能的 Gym 环境与优化框架。
@@ -99,8 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 - [WebGames](https://awesomecua.com/zh/resources/github-convergence-ai-webgames/)：包含 5 个能力领域的 150 个客户端网页挑战，设计为人类容易完成、浏览器操作智能体难以完成；每关解答后会显示密码。
 - [WebGuard](https://awesomecua.com/zh/resources/github-osu-nlp-group-webguard/)：提供代码库、标注工具包和操作级风险数据集，用于训练和评估在执行前标记浏览器智能体不安全操作的防护模型。
 - [WebMall](https://awesomecua.com/zh/resources/github-wbsg-uni-mannheim-webmall/)：WebMall 是多商店电子商务网页智能体评测基准，评测跨网站比价、商品搜索和购物车结账。
-- [WebMCP Description Benchmarks](https://awesomecua.com/zh/resources/github-clouatre-labs-webmcp-description-benchmarks/)：WebMCP Description Benchmarks 评测浏览器内 WebMCP 工具的模式描述如何影响智能体选择工具和执行任务的准确率。
-- [WebsiteBench](https://awesomecua.com/zh/resources/github-tiger-ai-lab-websitebench/)：网站重建基准：智能体通过浏览器探索生产级网站，重建全栈版本，并在 70 项任务中通过隐藏的功能与视觉测试用例评分。
-- [WebTestBench](https://awesomecua.com/zh/resources/github-friedrichor-webtestbench/)：端到端网页测试基准，智能体根据开发说明制定测试清单，与已部署的应用交互，并报告功能或约束方面的缺陷。
-- [WebWalker](https://awesomecua.com/zh/resources/github-alibaba-nlp-webwalker/)：用于评测大型语言模型完成多步网页遍历和深度信息查找任务的评测基准与多智能体框架。
-- [WinDeskGround](https://awesomecua.com/zh/resources/github-zzzhr-1-windeskground/)：WinDeskGround 在具有受控遮挡、缩放和干扰等级的多窗口 Windows 环境中，评测桌面 GUI 定位。

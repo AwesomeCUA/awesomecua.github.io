@@ -15,6 +15,7 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/6/
 - [FedGUI](https://awesomecua.com/zh/resources/github-wwh0411-fedgui/)
 - [FineState-Bench](https://awesomecua.com/zh/resources/github-fengxianji-finestate-bench/)
 - [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/zh/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/)
+- [FunUI-Benchmark](https://awesomecua.com/zh/resources/url-92241e51e909ea9ca564/)
 - [GroundUI-18K](https://awesomecua.com/zh/resources/url-d206aacf01e1b7dc786d/)
 - [GroundUI-1K](https://awesomecua.com/zh/resources/url-d86f55753bfea45fe313/)
 - [GUI-Perturbed](https://awesomecua.com/zh/resources/url-7ed70b39ac79f97f8a87/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/6/
 - [GUI-Drag](https://awesomecua.com/zh/resources/url-aa28e1329a52e341d285/)
 - [GUI-Lasagne L1](https://awesomecua.com/zh/resources/url-0c5659ca9e59d942aea3/)
 - [GUI-Libra-81K-SFT](https://awesomecua.com/zh/resources/url-f6e1a7527f9346ed1c1d/)
-- [GUI-Net-1M](https://awesomecua.com/zh/resources/url-8c9aaafb918aaf8b4e92/)

@@ -174,6 +174,10 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Conversation-formatted supervision released for fine-tuning AutoDroid V2, with the project documenting a ShareGPT-style JSON configuration.
 - [CaptchaArena-Trajectories](https://awesomecua.com/zh/resources/url-52067b3e48e9381e4c66/) — Date not recorded
   Chain-of-thought computer-use trajectories on 20 interactive CAPTCHA types: 46,000 browser rollouts with step screenshots and click, drag, hold or type actions, kept only when the page verifier accepts.
+- [CognitiveKernel-Pro-SFT](https://awesomecua.com/zh/resources/url-7c431ccb1d5dc1f035d8/) — Date not recorded
+  CognitiveKernel-Pro-SFT contains rejection-sampled GPT-4.1 trajectories for fine-tuning Cognitive Kernel-Pro agents, from URLQA web queries, DocBench, TableBench and a WebWalkerQA subset.
+- [ExACT-VWA](https://awesomecua.com/zh/resources/url-792920a5f64df66d34d7/) — Date not recorded
+  Post-processed R-MCTS and GPT-4o agent trajectories collected on VisualWebArena, stored as context and response pairs with domain and task metadata; part of the set was used to fine-tune GPT-4o.
 - [FedMABench data partitions](https://awesomecua.com/zh/resources/url-86b3c2ee65911daf84a8/) — Date not recorded
   Six families of JSONL partitions of AndroidControl and AitW mobile-agent episodes for FedMABench federated training under app, category and step/episode heterogeneity; screenshots must be rebuilt from the sources.
 - [Go-Browse-WA processed data](https://awesomecua.com/zh/resources/url-a13a187bc058fbb4f6af/) — Date not recorded
@@ -285,6 +289,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   WebArena-oriented InternVL2-8B checkpoint trained on web trajectories from OS-Genesis reverse task synthesis; the card's example prompt pairs a screenshot and accessibility tree with the instruction and action history.
 - [PC-Agent-E checkpoint](https://awesomecua.com/zh/resources/url-04aa7569d183379d615c/) — Date not recorded
   Computer-use checkpoint fine-tuned on PC-Agent-E trajectories; the model-card prose identifies Qwen2.5-VL-72B-Instruct as its starting model.
+- [PlayJev-0.8B](https://awesomecua.com/zh/resources/url-b6a26f1b74d70fc783da/) — Date not recorded
+  A 0.8B checkpoint fine-tuned from Qwen3.5-0.8B-Base that picks a move in ten browser games from one rendered frame and an option list, trained by behaviour cloning and three DAgger rounds.
 - [Qwen3-8B-FormFactory-SFT-LoRA](https://awesomecua.com/zh/resources/url-994d4cf27b0931fb53e3/) — Date not recorded
   A Qwen3-8B LoRA adapter fine-tuned on 992 demonstrations for filling web forms in FormFactory, released with instructions for loading it through PEFT.
 - [Qwen3.5-4B-Browser-Agent-SFT-FP8](https://awesomecua.com/zh/resources/url-6eda678ca03ea2b10d2d/) — Date not recorded
@@ -305,6 +311,10 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   A Qwen2.5-VL mobile action model trained using existing and reward-guided synthetic trajectories from the UI-Genie framework.
 - [UI-Voyager](https://awesomecua.com/zh/resources/url-e2ddf502803f46085aca/) — Date not recorded
   A released mobile GUI agent checkpoint fine-tuned from Qwen3-VL-4B-Instruct to operate device interfaces, with AndroidWorld evaluation instructions.
+- [WebGenAgent-LM-7B-SFT](https://awesomecua.com/zh/resources/url-1ff9a17a7d0802a71b1a/) — Date not recorded
+  The 7B supervised fine-tuned checkpoint of WebGen-Agent, which writes website code from instructions and refines it with screenshot critiques and GUI-agent functional tests.
+- [WebGenAgent-LM-8B-SFT](https://awesomecua.com/zh/resources/url-b3dd615ebfe977392f90/) — Date not recorded
+  The 8B supervised fine-tuned checkpoint of WebGen-Agent, which writes website code from instructions and refines it with screenshot critiques and GUI-agent functional tests.
 
 ## 工程与产业
 

@@ -53,6 +53,7 @@ Full list: https://awesomecua.com/topics/mobile-navigation/index.md
 - [MWMBench](https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/)
 - [PersonalAlign](https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/)
 - [PhoneHarness](https://awesomecua.com/resources/github-phoneharness-phoneharness/)
+- [PhoneHarness Bench](https://awesomecua.com/resources/url-92b80b37a7a117acfd3c/)
 - [RLG-ALE](https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/)
 - [SMAN-Bench](https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/)
 - [SPA-Bench](https://awesomecua.com/resources/github-ai-agents-2030-spa-bench/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/mobile-navigation/index.md
 - [AMEX-8K](https://awesomecua.com/resources/url-2b4b3e54d9c52f868b4e/)
 - [Android in the Wild](https://awesomecua.com/resources/component-google-research-android-in-the-wild/)
 - [android_control_test](https://awesomecua.com/resources/url-1f248862e4b691b85343/)
-- [AndroidControl](https://awesomecua.com/resources/component-google-research-android-control/)

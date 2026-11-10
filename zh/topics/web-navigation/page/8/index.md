@@ -50,6 +50,7 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/8/
 - [WebClick](https://awesomecua.com/zh/resources/url-5e2bd1b3398974b79c9c/)
 - [WebGen-Bench](https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/)
 - [WebGuard](https://awesomecua.com/zh/resources/github-osu-nlp-group-webguard/)
+- [WebHarbor](https://awesomecua.com/zh/resources/github-aiming-lab-webharbor/)
 - [WebLINX](https://awesomecua.com/zh/resources/github-mcgill-nlp-weblinx/)
 - [WebLINX 1.1 (WebLINX-BrowserGym)](https://awesomecua.com/zh/resources/url-77afb3a9b045a157167c/)
 - [WebMall](https://awesomecua.com/zh/resources/github-wbsg-uni-mannheim-webmall/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/8/
 - [WebTailBench](https://awesomecua.com/zh/resources/url-3b6dfd52f98bfe76bc7f/)
 - [WebTestBench](https://awesomecua.com/zh/resources/github-friedrichor-webtestbench/)
 - [WebUIProof](https://awesomecua.com/zh/resources/github-yunyuntsai-webuiproof-benchmark/)
-- [WebVoyager](https://awesomecua.com/zh/resources/github-minorjerry-webvoyager/)

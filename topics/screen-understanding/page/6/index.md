@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/6/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [Screen Annotation](https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/)
 - [Screen Point-and-Read Data](https://awesomecua.com/resources/url-4b747a376f628e6f9760/)
 - [Screen2AX-Element](https://awesomecua.com/resources/url-e96299566d12e790422e/)
 - [Screen2AX-Group](https://awesomecua.com/resources/url-6680e812b94c168e6bed/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [GLM-4.6V-Flash](https://awesomecua.com/resources/url-e01fe95f620b699bb00d/)
 - [GLM-4.6V-FP8](https://awesomecua.com/resources/url-2a99aab63fc1fe65610d/)
 - [GLM-V](https://awesomecua.com/resources/github-zai-org-glm-v/)
-- [GPA-GUI-Detector](https://awesomecua.com/resources/url-87f28e117d95985d5177/)

@@ -770,6 +770,10 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   101,314 screenshot–instruction pairs with target boxes for click grounding, filtered from public GUI grounding sets and tutorial-video frames, packaged with EasyR1 point-prediction prompts.
 - [CMGUI](https://awesomecua.com/zh/resources/url-ab26f9ef56d651cee587/) — Date not recorded
   18k trajectories with 98k steps from more than 50 Chinese mobile apps in domains such as e-commerce and social media, for building GUI agents on Chinese apps.
+- [CognitiveKernel-Pro-Query](https://awesomecua.com/zh/resources/url-2304547d5025246abbe4/) — Date not recorded
+  CognitiveKernel-Pro-Query holds the training queries generated for Cognitive Kernel-Pro: multi-hop URLQA and hint-annotated AgentWebQA in JSONL, used to sample web agent trajectories.
+- [CognitiveKernel-Pro-SFT](https://awesomecua.com/zh/resources/url-7c431ccb1d5dc1f035d8/) — Date not recorded
+  CognitiveKernel-Pro-SFT contains rejection-sampled GPT-4.1 trajectories for fine-tuning Cognitive Kernel-Pro agents, from URLQA web queries, DocBench, TableBench and a WebWalkerQA subset.
 - [Computer Use Large (markov-ai)](https://awesomecua.com/zh/resources/url-f00b2ed65c517295a6cc/) — Date not recorded
   48,478 trimmed, audio-free screen-recording videos (about 12,300 hours) of AutoCAD, Blender, Excel, Photoshop, Salesforce and VS Code use, gathered from the internet, with duration metadata and no action labels.
 - [Computer Use Trajectories (markov-ai)](https://awesomecua.com/zh/resources/url-5a073f50270c4f316ce5/) — Date not recorded
@@ -834,6 +838,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   A dataset of GUI and terminal operation recordings. GUI sessions include timestamped screenshots, mouse events and keyboard events; terminal sessions include input and output logs.
 - [GUI_Reflection_SFT_train](https://awesomecua.com/zh/resources/url-528f6fe128b77e9615aa/) — Date not recorded
   Offline supervised fine-tuning data for GUI Reflection, released as JSONL files. Users obtain the corresponding images from the source datasets named in the card.
+- [GUI_Reflection_Task_Suite_train](https://awesomecua.com/zh/resources/url-f68939821685c9dcc78c/) — Date not recorded
+  Training split of the GUI Reflection Task Suite: JSONL files for action verification, action reversal and mistake-informed reattempt, built on AndroidControl, GUI Odyssey, AMEX, OS-Atlas and Wave UI.
 - [GUIAct](https://awesomecua.com/zh/resources/url-6cd150ec23361b4d2e84/) — Date not recorded
   Web and Android GUI action-instruction data, with single-step, multi-step and smartphone partitions.
 - [GUIChat](https://awesomecua.com/zh/resources/url-edf38d43800be8c955ae/) — Date not recorded
@@ -1198,6 +1204,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Collects and labels browser-exploration trajectories for agent training, with code for data processing, fine-tuning, and web evaluation.
 - [NotebookLM for Codex](https://awesomecua.com/zh/resources/github-jockeys97-notebooklm-codex-skill/) — Date not recorded
   Codex skill that queries Google Gemini NotebookLM directly through browser automation.
+- [Online Environment for GUI Reflection](https://awesomecua.com/zh/resources/github-penghao-wu-gui-reflection-env/) — Date not recorded
+  Host-worker Android emulator environment from the GUI Reflection project, with configs that collect interaction data and evaluate GUI models while inference runs on a separate host machine.
 - [openadapt-capture](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-capture/) — Date not recorded
   A desktop recorder for GUI demonstrations that pairs mouse and keyboard actions with screen frames and stores sessions for later inspection in Python.
 - [openadapt-ml](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-ml/) — Date not recorded
@@ -1234,6 +1242,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   ScreenAgent Web Client connects language models to remote desktops through a browser and VNC, representing mouse and keyboard actions as structured calls.
 - [ScreenParse Webshot toolkit](https://awesomecua.com/zh/resources/github-saidgurbuz-screenparse/) — Date not recorded
   Official ScreenParse code: the Webshot toolkit that renders websites with Playwright, records visible DOM elements as boxed, nested annotations, relabels them with Qwen3-VL, exports YOLO data and evaluates parsers.
+- [Scribe](https://awesomecua.com/zh/resources/github-sameelarif-scribe/) — Date not recorded
+  Toolkit for human-like cursor motion in browser automation: a web UI that records mouse movements, scripts that train a model on them, and a Puppeteer plugin that moves the cursor along generated paths.
 - [SEAgent](https://awesomecua.com/zh/resources/github-sunzey-seagent/) — Date not recorded
   SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.
 - [Seq2act code (google-research)](https://awesomecua.com/zh/resources/component-google-research-seq2act/) — Date not recorded
@@ -1270,6 +1280,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Analyzes a website's UI and network traffic once to synthesize reusable, browser-free API tools for AI agents.
 - [Video2GUI](https://awesomecua.com/zh/resources/github-weiminxiong-video2gui/) — Date not recorded
   Video2GUI synthesizes large-scale GUI interaction trajectories from unlabeled screen-recording videos via inverse dynamics and VLM annotation.
+- [WebAggregator](https://awesomecua.com/zh/resources/github-tencent-webaggregator/) — Date not recorded
+  WebAggregator is the code for Explore to Evolve: it builds verifiable web QA data by agent exploration of URLs, samples trajectories with a smolagents agent that clicks and types in a browser, and runs evaluation.
 - [WebEvolver code component](https://awesomecua.com/zh/resources/component-tencent-selfevolvingagent-webevolver/) — Date not recorded
   Component for web-agent trajectory collection, supervised-data preparation and world-model-based trajectory synthesis.
 - [WebRain](https://awesomecua.com/zh/resources/github-prokopis3-webrain/) — Date not recorded

@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/imitation-learning/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/imitation-learning/index.md
 
+- [Operant](https://awesomecua.com/zh/resources/github-alpharomerojl-operant/)
+- [OysterWorkflow](https://awesomecua.com/zh/resources/github-shuxinyang111-oysterworkflow/)
+- [PC-Agent-E training and deployment](https://awesomecua.com/zh/resources/github-gair-nlp-pc-agent-e/)
+- [Pix2Act](https://awesomecua.com/zh/resources/github-google-deepmind-pix2act/)
+- [PlayJev](https://awesomecua.com/zh/resources/github-omnijev-playjev/)
 - [Protean](https://awesomecua.com/zh/resources/github-aibrain-mnemis-protean/)
 - [record-and-replay-skill](https://awesomecua.com/zh/resources/github-ugarchance-record-and-replay-skill/)
 - [Replay (Teach-by-Demonstration)](https://awesomecua.com/zh/resources/github-misb74-replay/)

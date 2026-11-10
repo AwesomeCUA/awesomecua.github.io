@@ -373,6 +373,16 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Provides AI agents with native Windows desktop access via MCP, secure tunnels, and live monitoring.
 - [Lumen browser agent](https://awesomecua.com/resources/github-omxyz-lumen/) — Date not recorded
   A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.
+- [MaaDebugger](https://awesomecua.com/resources/github-maaxyz-maadebugger/) — Date not recorded
+  A debugger for MaaFramework automation projects that runs as a local web interface on port 8011 by default, installed from PyPI with pip or uv; a Go and web rewrite is published on npm.
+- [MaaEvidenceKit](https://awesomecua.com/resources/github-windsland52-maaevidencekit/) — Date not recorded
+  A CLI and TypeScript SDK that extracts located runtime and static evidence from MaaFramework logs and projects, with stable evidence IDs, timelines and JSON or text views for agent harnesses.
+- [MaaInspector](https://awesomecua.com/resources/github-tanyashue-maainspector/) — Date not recorded
+  A Tauri desktop node editor for MaaFramework 5 pipelines that builds workflows by drag and drop and runs and debugs nodes while showing their execution state.
+- [MaaLogAnalyzer](https://awesomecua.com/resources/github-maaxyz-maaloganalyzer/) — Date not recorded
+  A visual analyzer for MaaFramework application logs that shows task execution with recognition and action details, keyword and regex search, an ELK node flowchart with replay, and run statistics.
+- [MaaPipelineEditor](https://awesomecua.com/resources/github-kqcoxn-maapipelineeditor/) — Date not recorded
+  A browser-based visual editor for MaaFramework Pipeline JSON that builds automation flows as connected nodes, with OCR and screenshot helpers, node templates, flow debugging and an optional local service.
 - [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/resources/github-mapleluvr-cu/) — Date not recorded
   Evidence-bound computer-use CLI for Windows that pairs every UI action with pre/post window observations.
 - [MELRA](https://awesomecua.com/resources/github-xagi-lab-melra/) — Date not recorded
@@ -397,6 +407,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Exposes 98 Chrome inspection, DOM debugging, network tracing, and interaction tools to AI agents over MCP.
 - [Nexus Computer Use Harness (NexusCUH)](https://awesomecua.com/resources/github-subasah-computer-use-harness/) — Date not recorded
   NexusCUH is a computer-use agent harness with sandboxed execution, MCP integration, policy guardrails, and trace observability.
+- [Nova Act Extension](https://awesomecua.com/resources/github-aws-nova-act-extension/) — Date not recorded
+  A VS Code, Kiro and Cursor extension for writing Nova Act browser-agent scripts, with chat-to-script generation, 7 templates, live debugging, an action viewer and AWS deployment.
 - [Open Computer](https://awesomecua.com/resources/github-mintplex-labs-open-computer/) — Date not recorded
   Open Computer gives agents an isolated Debian desktop with a browser and native app controls. People can watch and assist through a live interface.
 - [openadapt-viewer](https://awesomecua.com/resources/github-openadaptai-openadapt-viewer/) — Date not recorded

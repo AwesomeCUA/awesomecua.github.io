@@ -13,6 +13,7 @@ Full list: https://awesomecua.com/topics/safety-security/index.md
 - [Open CaptchaWorld](https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/)
 - [OpenAgentSafety](https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/)
 - [OS-Harm](https://awesomecua.com/resources/github-tml-epfl-os-harm/)
+- [PhoneHarness Bench](https://awesomecua.com/resources/url-92b80b37a7a117acfd3c/)
 - [PoisonPage](https://awesomecua.com/resources/github-redbotster-poisonpage/)
 - [PopupAttack](https://awesomecua.com/resources/github-salt-nlp-popupattack/)
 - [SafeArena](https://awesomecua.com/resources/github-mcgill-nlp-safearena/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/safety-security/index.md
 - [aevra](https://awesomecua.com/resources/github-the-long-ride-aevra/)
 - [aevra-desktop](https://awesomecua.com/resources/github-the-long-ride-aevra-desktop-use/)
 - [Agent Browser Shield](https://awesomecua.com/resources/github-pixiebrix-agent-browser-shield/)
-- [agent-browser-plugin-proton-pass](https://awesomecua.com/resources/github-evrenverse-agent-browser-plugin-proton-pass/)

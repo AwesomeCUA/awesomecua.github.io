@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/state-tracking/page/3/
 
 Full list: https://awesomecua.com/topics/state-tracking/index.md
 
+- [Godot Editor MCP](https://awesomecua.com/resources/github-hybridindie-godot-mcp/)
 - [grass-gui](https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/)
 - [HIPPO Agent](https://awesomecua.com/resources/github-wadang-muscle-mem-agent/)
 - [IdemStep](https://awesomecua.com/resources/github-supermarioyl-idemstep/)

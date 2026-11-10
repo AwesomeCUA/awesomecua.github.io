@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/action-prediction/page/3/
 
 Full list: https://awesomecua.com/topics/action-prediction/index.md
 
+- [GUI-Owl 1.5 32B Instruct](https://awesomecua.com/resources/url-6a943fb3667791b6cdb4/)
 - [GUI-Owl 1.5 32B Think](https://awesomecua.com/resources/url-e0e4712ee701f652bf31/)
 - [GUI-Owl 1.5 4B Instruct](https://awesomecua.com/resources/url-17a0422036ebea8d4e93/)
 - [GUI-Owl 1.5 8B Instruct](https://awesomecua.com/resources/url-d01dfc6e5b5fcece7b41/)
@@ -12,6 +13,7 @@ Full list: https://awesomecua.com/topics/action-prediction/index.md
 - [GUI-Owl 7B](https://awesomecua.com/resources/url-aeb32973694f91ad9920/)
 - [GUI-Owl 7B Desktop-RL](https://awesomecua.com/resources/url-b01a78c76299196e3df1/)
 - [GUI-R1 checkpoint bundle](https://awesomecua.com/resources/url-61a5321db10fc8a312b9/)
+- [GUI_Reflection_8b_SFT](https://awesomecua.com/resources/url-e2c687595af929b4332a/)
 - [gWorld (GuiWorld)](https://awesomecua.com/resources/github-trillion-labs-gworld/)
 - [Hcompany/Holo4-35B-A3B-GGUF](https://awesomecua.com/resources/url-d96a6dcdd2aa622c523b/)
 - [Hcompany/Holo4-35B-A3B-NVFP4](https://awesomecua.com/resources/url-ef732d252e9eb9b04e20/)
@@ -56,11 +58,9 @@ Full list: https://awesomecua.com/topics/action-prediction/index.md
 - [mPLUG/ToolCUA-8B](https://awesomecua.com/resources/url-44b65e07d7a869d37dc6/)
 - [Northstar-CUA-Fast](https://awesomecua.com/resources/url-52de9679739ad0a50f69/)
 - [OmniJev](https://awesomecua.com/resources/github-tinnel123666888-omnijev/)
+- [OmniJev](https://awesomecua.com/resources/url-6bdda64c5782f03b0f54/)
+- [OmniJev-0.8B](https://awesomecua.com/resources/url-8d584b241812a89a964e/)
+- [OmniJev-2B](https://awesomecua.com/resources/url-aa4abc9055c3f3248a1a/)
+- [OmniJev-SFT-0.8B](https://awesomecua.com/resources/url-a236b756e1940a873e9f/)
 - [OneJev](https://awesomecua.com/resources/github-omnijev-onejev/)
 - [OpAgent-32B](https://awesomecua.com/resources/url-875b417b3ef43021cd74/)
-- [OpenCUA 72B](https://awesomecua.com/resources/url-4a0b1692589594745a3c/)
-- [OpenCUA-7B](https://awesomecua.com/resources/url-2803eda78cff23fb63cc/)
-- [OpenCUA-7B-exl2](https://awesomecua.com/resources/url-76f3981d219bb87b4eea/)
-- [OpenJev](https://awesomecua.com/resources/github-alanhuangyoo-openjev/)
-- [OpenJev-1.7B](https://awesomecua.com/resources/url-24ec6c30e9bb9946c13f/)
-- [OpenJev-4B](https://awesomecua.com/resources/url-e592a1ff8bfcafcc7061/)

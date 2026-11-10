@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
+- [cua-desktop-automation-skills](https://awesomecua.com/zh/resources/github-chrislamdev-cua-desktop-automation-skills/)
+- [Deck](https://awesomecua.com/zh/resources/github-cofy-x-deck/)
 - [DeepDeck](https://awesomecua.com/zh/resources/github-jo32-deepdeck/)
 - [DeepSeek Harness Desktop](https://awesomecua.com/zh/resources/github-tengqi159-deepseek-harness-desktop/)
 - [DeepSeek Harness Desktop YukiRyou](https://awesomecua.com/zh/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/)
@@ -30,6 +32,7 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/6/
 - [Eric Task Master](https://awesomecua.com/zh/resources/github-npcworkspace-cmyk-eric-task-master/)
 - [Eric Task Master Skills Pack](https://awesomecua.com/zh/resources/github-npcworkspace-cmyk-eric-task-master-task-pack-skill/)
 - [Errand](https://awesomecua.com/zh/resources/github-runta-dev-errand/)
+- [Everything Maa](https://awesomecua.com/zh/resources/github-khazixw2-everything-maa/)
 - [FaizannRaza Computer-Use Automation](https://awesomecua.com/zh/resources/github-faizannraza-computer-use-automation/)
 - [FastAgent](https://awesomecua.com/zh/resources/github-hkuds-fastagent/)
 - [Fazm](https://awesomecua.com/zh/resources/github-mediar-ai-fazm/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/6/
 - [iphone-use-flows](https://awesomecua.com/zh/resources/github-leeguooooo-iphone-use-flows/)
 - [ITR Wala AI Agent](https://awesomecua.com/zh/resources/github-aianytime-itr-wala-ai-agent/)
 - [Ivy Tendril](https://awesomecua.com/zh/resources/github-ivy-interactive-ivy-tendril/)
-- [Jev Social](https://awesomecua.com/zh/resources/github-socai-io-jev-social/)
-- [Job Hunter](https://awesomecua.com/zh/resources/github-liooo0-job-hunter/)
-- [Job Hunter AI](https://awesomecua.com/zh/resources/github-fred-brown-3-job-hunter-ai/)

@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/sandbox/index.md
 
+- [headless-use](https://awesomecua.com/zh/resources/github-flyingsquirrel0419-headless-use/)
+- [HeroDesktop](https://awesomecua.com/zh/resources/github-deathlegionteamlk-herodesktop/)
 - [Hronaut](https://awesomecua.com/zh/resources/github-hronaut-hronaut/)
 - [Hronaut](https://awesomecua.com/zh/resources/github-hronaut-hronaut-vscode/)
 - [Hronaut](https://awesomecua.com/zh/resources/url-848e19da3bdf0aeb500c/)
@@ -44,10 +46,12 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/5/
 - [Neo Lab](https://awesomecua.com/zh/resources/github-belarusian-neo-lab/)
 - [Nexus Computer Use Harness (NexusCUH)](https://awesomecua.com/zh/resources/github-subasah-computer-use-harness/)
 - [Nik-Browser MCP](https://awesomecua.com/zh/resources/github-nikolay-3d-nik-browser-mcp/)
+- [Noodle Flights](https://awesomecua.com/zh/resources/github-halluminate-noodle-flights/)
 - [Numera Browser](https://awesomecua.com/zh/resources/github-kiarosama-numera-browser/)
 - [Obscura](https://awesomecua.com/zh/resources/github-h4ckf0r0day-obscura/)
 - [Obscura browser plugin for Hermes](https://awesomecua.com/zh/resources/github-sgavrl-hermes-plugin-obscura/)
 - [Oculr MCP](https://awesomecua.com/zh/resources/github-oculr-ai-oculr-mcp/)
+- [Online Environment for GUI Reflection](https://awesomecua.com/zh/resources/github-penghao-wu-gui-reflection-env/)
 - [Open Claudex Computer Use](https://awesomecua.com/zh/resources/github-opencodexlabs-open-codex-computer-use/)
 - [Open Computer](https://awesomecua.com/zh/resources/github-mintplex-labs-open-computer/)
 - [Open Computer Use](https://awesomecua.com/zh/resources/github-e2b-dev-open-computer-use/)
@@ -60,7 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/5/
 - [OpenHands](https://awesomecua.com/zh/resources/github-openhands-openhands/)
 - [OpenMausBot](https://awesomecua.com/zh/resources/github-milind-soni-openmausbot/)
 - [OpenMinis](https://awesomecua.com/zh/resources/github-openminis-openminis/)
-- [OpenMobile-2 extended Android AVDs](https://awesomecua.com/zh/resources/url-f039da43799772645c92/)
-- [Orbit UI](https://awesomecua.com/zh/resources/github-aadya940-orbit-ui/)
-- [OSWorld Ubuntu VM images](https://awesomecua.com/zh/resources/url-346ca54794cbdffc8797/)
-- [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/zh/resources/url-ce775111626bae220596/)

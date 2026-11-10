@@ -2,38 +2,38 @@
 
 学习资源是用于构建和研究计算机使用智能体的课程、实践手册、教程、示例合集和精选列表。
 
-> AwesomeCUA 目录收录 36 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
+> AwesomeCUA 目录收录 38 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T06:29:47Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/learning/ · [English](https://awesomecua.com/categories/learning/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
 ## 怎么选
 
-| 学习资源 | 平台 | 许可证 | 关联记录 |
-| --- | --- | --- | --- |
-| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 9 |
-| [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) | 网页 | — | 5 |
-| [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE) | 4 |
-| [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |
-| [Amazon Nova Act Samples](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/) | 网页 | — | 2 |
-| [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) | 网页 · 桌面 · 跨平台 | — | 2 |
+| 学习资源 | 许可证 | 关联记录 |
+| --- | --- | --- |
+| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | [Apache-2.0（代码）](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 9 |
+| [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) | — | 6 |
+| [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) | [Apache-2.0（代码）](https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE) | 5 |
+| [Amazon Nova Act Samples](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/) | — | 3 |
+| [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | [MIT（代码）](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |
+| [awb-recipes](https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/) | [MIT（代码）](https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE) | 2 |
 
 ## 常见问题
 
 ### 目录中被提及最多的学习资源有哪些？
 
-[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)（8 条记录）、[Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/)（5 条记录）和 [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/)（4 条记录）在其他目录记录的已审核来源中被提及最多。
+[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)（8 条记录）、[Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/)（6 条记录）和 [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/)（5 条记录）在其他目录记录的已审核来源中被提及最多。
 
 ### 这些学习资源覆盖哪些平台？
 
-在 36 条已审核学习资源中，网页 29 条、桌面 18 条、跨平台 18 条、手机 4 条；1 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 38 条已审核学习资源中，网页 30 条、桌面 19 条、跨平台 19 条、手机 4 条；1 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些学习资源有对应的论文？
 
-36 条中有 1 条链接到提出或说明它的 arXiv 论文，即 [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)。
+38 条中有 1 条链接到提出或说明它的 arXiv 论文，即 [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)。
 
 ### 学习资源使用哪些许可证？
 
-最常见的声明许可证是 MIT（11 条）、Apache-2.0（4 条）和 Unlicense（1 条）。36 条中有 20 条未记录声明的许可证。
+最常见的声明许可证是 MIT（11 条）、Apache-2.0（6 条）和 Unlicense（1 条）。38 条中有 20 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -142,6 +142,39 @@ The README lists four notebooks and a quick-start command requiring Plasmate, Ju
 
 ---
 
+## Amazon Nova Act Samples
+
+代码示例和参考应用展示如何使用 Amazon Nova Act 构建浏览器工作流，并将 SDK 部署到 AWS 计算服务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/
+- 原始来源：https://github.com/amazon-agi-labs/nova-act-samples
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：自动化、网页导航、工作流、人机协作
+- 证据核查日期：2026-11-09T06:16:37Z
+- ID：github:amazon-agi-labs/nova-act-samples
+
+### 范围记录
+
+The repository organizes AWS CDK deployment samples, lightweight SDK examples, and complete applications into separate directories. The examples require dependency installation and SDK authentication configuration.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-samples/HEAD/README.md（获取于 2026-11-09T06:16:37Z；SHA-256：bf9262920c20fa71c0bfa305d3b05ac78c183f23c07537e0d9840317e4ce4878）
+
+---
+
 ## Steel Cookbook
 
 Steel Cookbook 汇集了多种语言的浏览器自动化示例，涵盖浏览器库、基于截图的计算机使用模型及智能体框架。
@@ -176,36 +209,37 @@ The repository lists example directories and catalogs TypeScript, Python, Go and
 
 ---
 
-## Amazon Nova Act Samples
+## awb-recipes
 
-代码示例和参考应用展示如何使用 Amazon Nova Act 构建浏览器工作流，并将 SDK 部署到 AWS 计算服务。
+一组带日期的浏览器智能体操作配方，用于完成已登录网站上的任务，记录操作步骤、选择器、注意事项和验证状态。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/
-- 原始来源：https://github.com/amazon-agi-labs/nova-act-samples
+- 目录页面：https://awesomecua.com/zh/resources/github-jeet-dhandha-awb-recipes/
+- 原始来源：https://github.com/jeet-dhandha/awb-recipes
 - 类型：学习资源
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：网页
-- 主题：自动化、网页导航、工作流、人机协作
-- 证据核查日期：2026-11-09T06:16:37Z
-- ID：github:amazon-agi-labs/nova-act-samples
+- 主题：网页导航、工作流、自动化
+- 证据核查日期：2026-11-09T21:09:42Z
+- ID：github:jeet-dhandha/awb-recipes
 
 ### 范围记录
 
-The repository organizes AWS CDK deployment samples, lightweight SDK examples, and complete applications into separate directories. The examples require dependency installation and SDK authentication configuration.
+Recipes are stored as JSON files, and site-independent guidance appears in a patterns directory. The source declares an MIT license.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/record.json
 
 ### 许可证信息
 
-- 代码：未记录
+- 代码：MIT — https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-samples/HEAD/README.md（获取于 2026-11-09T06:16:37Z；SHA-256：bf9262920c20fa71c0bfa305d3b05ac78c183f23c07537e0d9840317e4ce4878）
+- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/README.md（获取于 2026-11-09T21:09:42Z；SHA-256：54ebfe9b9b2b81fc6b77e526b84f084ca37e393c09dd9577a15865395fc00ee7）
+- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE（获取于 2026-11-09T21:12:04Z；SHA-256：01613c1dd35e25e8e14b6487025f393d2535b9d544b4862b5d263ff631931f23）
 
 ---
 
@@ -478,40 +512,6 @@ The repository contains a README and supporting documentation with categorized p
 
 ---
 
-## awb-recipes
-
-一组带日期的浏览器智能体操作配方，用于完成已登录网站上的任务，记录操作步骤、选择器、注意事项和验证状态。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-jeet-dhandha-awb-recipes/
-- 原始来源：https://github.com/jeet-dhandha/awb-recipes
-- 类型：学习资源
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、工作流、自动化
-- 证据核查日期：2026-11-09T21:09:42Z
-- ID：github:jeet-dhandha/awb-recipes
-
-### 范围记录
-
-Recipes are stored as JSON files, and site-independent guidance appears in a patterns directory. The source declares an MIT license.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/README.md（获取于 2026-11-09T21:09:42Z；SHA-256：54ebfe9b9b2b81fc6b77e526b84f084ca37e393c09dd9577a15865395fc00ee7）
-- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE（获取于 2026-11-09T21:12:04Z；SHA-256：01613c1dd35e25e8e14b6487025f393d2535b9d544b4862b5d263ff631931f23）
-
----
-
 ## Awesome Computer Use Ecosystem
 
 一份面向桌面和浏览器智能体的计算机操作工具精选清单，按产品生态和功能分类，并附有独立的项目目录。
@@ -609,6 +609,40 @@ The repository includes the codelab text and a React demo application. The instr
 ### 一手证据
 
 - https://raw.githubusercontent.com/derailed-dash/agentic-ui-testing/HEAD/README.md（获取于 2026-11-09T19:57:27Z；SHA-256：6a72b59448d07d5af2973097486154957d22f7d793400fae9bec1fab1fe70391）
+
+---
+
+## GUI Agent Research Landscape
+
+一份 2016 至 2025 年 GUI 与操作系统智能体论文的研究版图分析：包括引文挖掘、按关键词筛选出约 600 篇论文、由大语言模型提取的贡献、分时期趋势表和引文网络排名。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-agent-research-landscape/
+- 原始来源：https://github.com/harpreetsahota204/gui_agent_research_landscape
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台
+- 主题：综述
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：github:harpreetsahota204/gui_agent_research_landscape
+
+### 范围记录
+
+The repository holds the extraction, filtering, analysis and visualization scripts plus JSON outputs enriched with Qwen3-8B and Qwen3-14B. Its seed list comes from the LLM-Brained GUI Agents Survey dataset.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-harpreetsahota204-gui-agent-research-landscape/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/harpreetsahota204/gui_agent_research_landscape/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/harpreetsahota204/gui_agent_research_landscape/e61550476ce577d7fa3581adac78d169eeceaf12/README.md（获取于 2026-11-10T06:29:24Z；SHA-256：9e6b9ce1096b1006d39d987135d90535a772e1f06fdfc943b81e1ff337943601）
+- https://raw.githubusercontent.com/harpreetsahota204/gui_agent_research_landscape/HEAD/LICENSE（获取于 2026-11-10T06:22:25Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 
 ---
 
@@ -743,6 +777,40 @@ The repository describes eight demos, including local model and cloud model conf
 ### 一手证据
 
 - https://raw.githubusercontent.com/PredicateSystems/predicate-sdk-playground/HEAD/README.md（获取于 2026-11-09T21:09:42Z；SHA-256：3dfc998bab1d914b5cee533dc0c0eb3e4e6376491183e13aaf938fd09c85a72a）
+
+---
+
+## TagUI Bricks
+
+一组 TagUI 示例工作流，面向网站和桌面应用，例如通过 Gmail 发送外汇汇率、对税务通知做 OCR 以及填写 Word 信函，每个工作流都提供可下载的模板。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-aimakerspace-tagui-bricks/
+- 原始来源：https://github.com/aimakerspace/TagUI-Bricks
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页、桌面、macOS
+- 主题：自动化、工作流
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:aimakerspace/tagui-bricks
+
+### 范围记录
+
+GitHub serves the repository as aisingapore/TagUI-Bricks; its eight workflow folders each have a template ZIP in the v1.0.0 release, and the README shows GIF demos for seven workflows and a PNG cover image for Xero Accounting. The Gmail and Microsoft Word steps were built on macOS at 125% and 200% zoom, and their images may need replacing in other environments. The LICENSE file is Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-aimakerspace-tagui-bricks/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/aimakerspace/TagUI-Bricks/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/aisingapore/TagUI-Bricks/9f9833e513a8baceeecf3a89755b397c8fe175a0/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：260358d468889972fb1f6793d49db3c026ec14b5c6ff1ac098ebbd93f3015262）
+- https://raw.githubusercontent.com/aimakerspace/TagUI-Bricks/HEAD/LICENSE（获取于 2026-11-10T06:22:22Z；SHA-256：38a846dad5dd5c8a3479086647c5773407b770cc2d15309c589105afdd445055）
 
 ---
 

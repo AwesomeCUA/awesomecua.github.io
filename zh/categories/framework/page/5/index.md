@@ -4,6 +4,17 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/5/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [LAI (Linux Native OS Agent)](https://awesomecua.com/zh/resources/github-cufelix-lai/)：面向 Linux 桌面的原生操作系统智能体运行时，提供系统范围的屏幕观察、无障碍信息检查和输入控制。
+- [Language Agent Tree Search (LATS)](https://awesomecua.com/zh/resources/github-lapisrocks-languageagenttreesearch/)：Language Agent Tree Search（LATS）将 LLM 推理、行动和 Monte Carlo Tree Search 与自我反思结合，用于 WebShop 和编程任务。
+- [LASSO WebMCP](https://awesomecua.com/zh/resources/github-smkzz-lasso/)：AI 辅助调度控制台，将人类在网页上用套索选取的视觉区域转化为实时、带类型的 WebMCP 能力。
+- [Latitude Browser](https://awesomecua.com/zh/resources/github-djblack1209-coder-latitude-browser/)：用于管理隔离的浏览器配置文件、代理路由和多会话网页自动化的桌面工作空间。
+- [Legacy UI Capability Engine](https://awesomecua.com/zh/resources/github-saitejareddi3636-legacy-ui-capability-engine/)：通过 LLM 学习一次传统浏览器工作流，并将其编译为经过验证、可复用的能力模块。
+- [LegacyBridge](https://awesomecua.com/zh/resources/github-peterhaupt-legacybridge/)：基于本地开放权重 LLM 的智能体框架，用于在没有 API 的情况下自动操作旧版企业 ERP 和桌面业务软件。
+- [LGWM (Latent GUI World Model)](https://awesomecua.com/zh/resources/github-jiamingzhang94-lgwm/)：LGWM 是以动作为条件的潜在 GUI 世界模型，可预测下一状态表示，以验证 GUI 智能体的状态转换。
+- [Lightcone SDK](https://awesomecua.com/zh/resources/github-tzafon-lightcone/)：Lightcone 是 Tzafon 的 Python 和 TypeScript SDK，用于构建由 Northstar GUI 视觉语言模型驱动的计算机使用智能体。
+- [Lightfeed Replayable Browser Agent](https://awesomecua.com/zh/resources/github-lightfeed-browser-agent/)：TypeScript 浏览器智能体库，使用 LLM 完成一次网页导航流程，之后以零 LLM token 重放缓存的选择器。
+- [Liha WebMCP Adapter](https://awesomecua.com/zh/resources/github-liha-app-webmcp-adapter/)：为现有网站加入结构化 WebMCP 工具定义，无需修改后端代码。
+- [Linux CUA (5omeotherguy)](https://awesomecua.com/zh/resources/github-5omeotherguy-linux-computer-use/)：面向计算机使用智能体的 Linux 桌面工具包，提供隔离的 X11 工作空间、窗口捕获和输入模拟。
 - [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonaiorg-litewebagent/)：模块化网页智能体框架，包含浏览器控制、规划、工作流程记忆和树搜索组件，并提供网页与扩展界面。
 - [llm-browser-agent](https://awesomecua.com/zh/resources/github-justifysiddh-llm-browser-agent/)：具备自我修复能力的浏览器自动化框架，使用 LLM 引导的语义元素解析替代脆弱的 CSS 选择器。
 - [LockInTime headless](https://awesomecua.com/zh/resources/github-lockintime-headless/)：面向 AI 智能体的持久化浏览器控制运行时，实施安全约束，并提供语义化 CLI。
@@ -93,14 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/5/ · [English
 - [OysterWorkflow](https://awesomecua.com/zh/resources/github-shuxinyang111-oysterworkflow/)：OysterWorkflow 采集人类真实的计算机工作过程，并提取供 AI 智能体使用的结构化、可复用工作流图。
 - [Pactora](https://awesomecua.com/zh/resources/github-mrnetwork0001-pactora/)：WebMCP 市场与验证测试框架，配有闭环自修复浏览器验证器。
 - [page-agent-sdk](https://awesomecua.com/zh/resources/github-whyymj-page-agent-sdk/)：页面内 AI 助手 SDK，可挂载聊天组件，并让 LLM 通过经过模式验证的工具安全地读取和修改网页状态。
-- [PageRunner](https://awesomecua.com/zh/resources/github-say-5-pagerunner/)：PageRunner 是浏览器智能体编排平台，提供有界执行循环、确定性重放和标准轨迹验证。
-- [Paragent](https://awesomecua.com/zh/resources/github-myselfsiddharth-paragent/)：有状态的浏览器执行层，只需记录一次智能体任务，即可在无需调用 LLM 的情况下重放，并在选择器变化时自行修复。
-- [PatchBridge Agent](https://awesomecua.com/zh/resources/github-hanhan666666-patchbridge-agent/)：轻量级浏览器内 AI 智能体框架，为旧版企业网页门户添加自然语言自动化能力。
-- [Peerframe OpenBot](https://awesomecua.com/zh/resources/github-peerframe-openbot/)：自托管的跨平台控制平台，用于管理具备浏览器和桌面能力的常驻数字员工。
-- [perceive](https://awesomecua.com/zh/resources/github-gauthierpiarrette-perceive/)：perceive 是面向浏览器智能体的感知层，通过可达性筛选剔除不可交互或被遮挡的 DOM 元素。
-- [Personae Browser](https://awesomecua.com/zh/resources/github-leek-emperor-personae/)：桌面浏览器，将每个身份置于隔离的 Chromium 分区中，用于多账户的人与智能体工作流程。
-- [philosophy79 web-agent](https://awesomecua.com/zh/resources/github-philosophy79-web-agent/)：本地优先的网页和桌面自动化工具包，集成浏览器控制、屏幕捕获和 LLM 工具调用。
-- [PhoneClaw](https://awesomecua.com/zh/resources/github-kellyvv-phoneclaw/)：PhoneClaw 将 iOS 和 Android 智能手机变为本地 AI 智能体运行时，支持设备端模型推理和原生系统技能。
-- [PhoneCLI](https://awesomecua.com/zh/resources/github-hkuds-phonecli/)：移动智能体框架将应用爬取为 YAML 屏幕地图，通过 iOS 上的 WebDriverAgent 或 Android 上的 ADB 重放编译后的导航命令，并在遇到未知屏幕时回退至 VLM。
-- [Pix2Act](https://awesomecua.com/zh/resources/github-google-deepmind-pix2act/)：Pix2Act 提供用于 MiniWoB++ 纯像素 GUI 智能体的 JAX/T5X 训练与评测代码，采用行为克隆和树搜索。
-- [pixelpi](https://awesomecua.com/zh/resources/github-josharsh-pixelpi/)：仅含 6 个工具的精简浏览器智能体测试框架，其完整工具定义只需 1,196 个 token，便于节省网页自动化的上下文空间。

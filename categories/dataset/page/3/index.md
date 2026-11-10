@@ -4,6 +4,17 @@ HTML page: https://awesomecua.com/categories/dataset/page/3/
 
 Full category annotations: https://awesomecua.com/categories/dataset/index.md
 
+- [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/resources/url-3ab90a696d8578c944c8/)
+- [Agent Humanization Benchmark (AHB) recordings](https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/)
+- [AgentSynth tasks and trajectories](https://awesomecua.com/resources/url-58a209f2b3b970916396/)
+- [AgentTrek](https://awesomecua.com/resources/github-xlang-ai-agenttrek/)
+- [AMEX](https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/)
+- [Android in the Wild](https://awesomecua.com/resources/component-google-research-android-in-the-wild/)
+- [android_icon_dataset](https://awesomecua.com/resources/url-b1c6b94743e6dbac930d/)
+- [AndroidControl](https://awesomecua.com/resources/component-google-research-android-control/)
+- [AndroidHowTo](https://awesomecua.com/resources/github-debymf-generating-android-howto/)
+- [AutoDroid V2 training data](https://awesomecua.com/resources/url-9a3506ca6ef034adb424/)
+- [bevaya/RICO-ScreenQA-Complex](https://awesomecua.com/resources/url-b6114625f883ec0fda33/)
 - [Browser Agent Failure Corpus](https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/)
 - [CMGUI](https://awesomecua.com/resources/url-ab26f9ef56d651cee587/)
 - [Computer Use Large (markov-ai)](https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/)

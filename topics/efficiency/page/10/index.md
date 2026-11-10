@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/topics/efficiency/page/10/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
+- [VG-GUI-TASKER](https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/)
+- [VisionAX](https://awesomecua.com/resources/github-rao-studios-visionax/)
+- [Visual Context Router](https://awesomecua.com/resources/github-fangsylar-pixel-visual-context-router/)
+- [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/)
+- [WAREX Supplementary Code](https://awesomecua.com/resources/github-sumanknath-waber/)
+- [WebAgents Protocol](https://awesomecua.com/resources/github-betterwright-webagents/)
+- [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/)
 - [Webcmd](https://awesomecua.com/resources/github-agentrhq-webcmd/)
 - [WebRain](https://awesomecua.com/resources/github-prokopis3-webrain/)
 - [WebSense MCP 2.0](https://awesomecua.com/resources/github-spliffspliff70-wq-websense-mcp/)

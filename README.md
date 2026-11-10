@@ -43,9 +43,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**5,215 curated resources** · **1,718 reviewed papers and surveys** · **104 discovery documents**
+**5,354 curated resources** · **1,718 reviewed papers and surveys** · **104 discovery documents**
 
-Evidence snapshot: 2026-11-10T03:01:53Z. 906 records awaiting review and 525 discovered candidates are listed in the [coverage ledger](https://awesomecua.com/coverage/).
+Evidence snapshot: 2026-11-10T06:29:47Z. 906 records awaiting review and 33 discovered candidates are listed in the [coverage ledger](https://awesomecua.com/coverage/).
 
 ## What is a computer-use agent?
 
@@ -57,14 +57,14 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | --- | ---: | --- |
 | Research papers | 1,681 | [Open directory](https://awesomecua.com/categories/paper/) |
 | Surveys | 37 | [Open directory](https://awesomecua.com/categories/survey/) |
-| Learning resources | 36 | [Open directory](https://awesomecua.com/categories/learning/) |
-| Models and checkpoints | 454 | [Open directory](https://awesomecua.com/categories/model/) |
-| Datasets | 267 | [Open directory](https://awesomecua.com/categories/dataset/) |
-| Benchmarks | 305 | [Open directory](https://awesomecua.com/categories/benchmark/) |
-| Agents | 475 | [Open directory](https://awesomecua.com/categories/agent/) |
-| Frameworks | 665 | [Open directory](https://awesomecua.com/categories/framework/) |
-| Infrastructure | 117 | [Open directory](https://awesomecua.com/categories/infrastructure/) |
-| Tools | 1,084 | [Open directory](https://awesomecua.com/categories/tool/) |
+| Learning resources | 38 | [Open directory](https://awesomecua.com/categories/learning/) |
+| Models and checkpoints | 475 | [Open directory](https://awesomecua.com/categories/model/) |
+| Datasets | 278 | [Open directory](https://awesomecua.com/categories/dataset/) |
+| Benchmarks | 310 | [Open directory](https://awesomecua.com/categories/benchmark/) |
+| Agents | 481 | [Open directory](https://awesomecua.com/categories/agent/) |
+| Frameworks | 675 | [Open directory](https://awesomecua.com/categories/framework/) |
+| Infrastructure | 122 | [Open directory](https://awesomecua.com/categories/infrastructure/) |
+| Tools | 1,163 | [Open directory](https://awesomecua.com/categories/tool/) |
 | Products | 75 | [Open directory](https://awesomecua.com/categories/product/) |
 | Publishers | 19 | [Open directory](https://awesomecua.com/categories/company/) |
 

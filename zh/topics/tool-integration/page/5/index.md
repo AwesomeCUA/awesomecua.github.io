@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [@mcp-b](https://awesomecua.com/zh/resources/github-webmcp-org-npm-packages/)
+- [aashutoshkumarr JARVIS Desktop Assistant](https://awesomecua.com/zh/resources/github-aashutoshkumarr-ai-desktop-assistant/)
+- [Accio Computer Use](https://awesomecua.com/zh/resources/github-accio-org-accio-cu/)
+- [Accio Work](https://awesomecua.com/zh/resources/url-07f92766e53439739eab/)
+- [AClaw](https://awesomecua.com/zh/resources/github-magnusdot-aclaw/)
 - [Active Desktop Context Engine](https://awesomecua.com/zh/resources/github-amirf147-active-desktop-context-engine/)
 - [activity-frames](https://awesomecua.com/zh/resources/github-nossa-y-activity-frames/)
 - [ACUTE-CODE](https://awesomecua.com/zh/resources/github-testplay-byte-acute-code/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/5/
 - [AILEEN Desktop](https://awesomecua.com/zh/resources/github-haixu8396-png-aileen-desktop/)
 - [Ailoy](https://awesomecua.com/zh/resources/github-brekkylab-ailoy/)
 - [AINative Browser MCP](https://awesomecua.com/zh/resources/github-ainative-studio-ainative-browser-mcp/)
-- [AIOS](https://awesomecua.com/zh/resources/github-agiresearch-aios/)
-- [AIPex](https://awesomecua.com/zh/resources/github-aipexstudio-aipex/)
-- [Airbrowser MCP](https://awesomecua.com/zh/resources/github-ifokeev-airbrowser-mcp/)
-- [Airi-PC Computer Mode Runtime](https://awesomecua.com/zh/resources/github-arancione3000-airi-pc-bootstrap/)
-- [Airplane Check-In Skill](https://awesomecua.com/zh/resources/github-bee-san-airplane-checkin-skill/)

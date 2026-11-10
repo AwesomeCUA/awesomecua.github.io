@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/topics/evaluation/page/19/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
+- [TimeWarp](https://awesomecua.com/resources/github-sparklabutah-timewarp/)
+- [TurkingBench](https://awesomecua.com/resources/url-808a22468ee0bf565d6e/)
+- [UI-FaultLab](https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/)
+- [UI-I2E-Bench](https://awesomecua.com/resources/url-c08566be0d973ec40c48/)
 - [UI-NEXUS](https://awesomecua.com/resources/github-starwalkin-ui-nexus/)
 - [UniClawBench](https://awesomecua.com/resources/github-hku-mmlab-uniclawbench/)
 - [UserZero](https://awesomecua.com/resources/github-aafre-userzero/)
@@ -36,6 +40,7 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [WebGames](https://awesomecua.com/resources/github-convergence-ai-webgames/)
 - [WebGen-Bench](https://awesomecua.com/resources/github-mnluzimu-webgen-bench/)
 - [WebGuard](https://awesomecua.com/resources/github-osu-nlp-group-webguard/)
+- [WebHarbor](https://awesomecua.com/resources/github-aiming-lab-webharbor/)
 - [WebLINX](https://awesomecua.com/resources/github-mcgill-nlp-weblinx/)
 - [WebLINX 1.1 (WebLINX-BrowserGym)](https://awesomecua.com/resources/url-77afb3a9b045a157167c/)
 - [WebMall](https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [WindTunnel](https://awesomecua.com/resources/github-nekuda-ai-windtunnel/)
 - [WONDERBREAD](https://awesomecua.com/resources/github-hazyresearch-wonderbread/)
 - [WorkArena](https://awesomecua.com/resources/github-servicenow-workarena/)
-- [WorkArena-Instances](https://awesomecua.com/resources/url-01b9e39cd2526d41c527/)
-- [WorldGUI](https://awesomecua.com/resources/github-showlab-worldgui/)
-- [Wornpage WebMCP Conformance](https://awesomecua.com/resources/github-wornpage-webmcp-conformance/)
-- [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/resources/url-3ab90a696d8578c944c8/)
-- [Agent Humanization Benchmark (AHB) recordings](https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/)

@@ -4,6 +4,15 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/safety-security/index.md
 
+- [viger1 dsh-pilot](https://awesomecua.com/zh/resources/github-viger1-dsh-pilot/)
+- [visual-agent](https://awesomecua.com/zh/resources/github-cloudsbeyond-visual-agent/)
+- [Voice-to-Browser Agent](https://awesomecua.com/zh/resources/github-raidriar7170-voice-browser-agent/)
+- [wangyong1972 dsh-computer-use-macos](https://awesomecua.com/zh/resources/github-wangyong1972-dsh-computer-use-macos/)
+- [Web Agent Proxy (WAP) SDK](https://awesomecua.com/zh/resources/github-52191314-web-agent-proxy-sdk/)
+- [web-pilot](https://awesomecua.com/zh/resources/github-vinimabreu-web-pilot/)
+- [WebClerk](https://awesomecua.com/zh/resources/github-thunderkhan-webclerk/)
+- [WebMCP Deadbolt](https://awesomecua.com/zh/resources/github-faxanfm-webmcp-deadbolt/)
+- [WebMCP Stack](https://awesomecua.com/zh/resources/github-souravinsights-webmcp-stack/)
 - [WebMirage](https://awesomecua.com/zh/resources/github-moontea0416-webmirage/)
 - [WebSentinel detection demo](https://awesomecua.com/zh/resources/github-wxl-lxw-websentinel/)
 - [windows-computer-use-mcp](https://awesomecua.com/zh/resources/github-sandraschi-windows-computer-use-mcp/)

@@ -4,12 +4,16 @@ HTML page: https://awesomecua.com/categories/benchmark/page/2/
 
 Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 
+- [Odysseys](https://awesomecua.com/resources/github-ljang0-odysseys/)
+- [OmniAct](https://awesomecua.com/resources/url-849a86beaee006c6b147/)
+- [only-cli/benchmarks](https://awesomecua.com/resources/github-only-cli-benchmarks/)
 - [Open CaptchaWorld](https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/)
 - [OpenAgentSafety](https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/)
 - [OS-Harm](https://awesomecua.com/resources/github-tml-epfl-os-harm/)
 - [OSWorld 2.0](https://awesomecua.com/resources/github-xlang-ai-osworld-v2/)
 - [PersonalAlign](https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/)
 - [PhoneHarness](https://awesomecua.com/resources/github-phoneharness-phoneharness/)
+- [PhoneHarness Bench](https://awesomecua.com/resources/url-92b80b37a7a117acfd3c/)
 - [PopupAttack](https://awesomecua.com/resources/github-salt-nlp-popupattack/)
 - [PPTC](https://awesomecua.com/resources/github-gydpku-pptc/)
 - [RecreationBench](https://awesomecua.com/resources/url-d9d8e68f19ef0956d189/)
@@ -26,6 +30,7 @@ Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 - [web-agent-eval (REAL Benchmark Runner)](https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/)
 - [WebArena-Infinity](https://awesomecua.com/resources/github-web-arena-x-webarena-infinity/)
 - [WebGen-Bench](https://awesomecua.com/resources/github-mnluzimu-webgen-bench/)
+- [WebHarbor](https://awesomecua.com/resources/github-aiming-lab-webharbor/)
 - [WebReplayBench](https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/)
 - [WebRetriever](https://awesomecua.com/resources/github-mininglamp-ai-webretriever/)
 - [WebRewardBench](https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/)
@@ -99,8 +104,3 @@ Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 - [GBOX MCP + Claude Code](https://awesomecua.com/resources/github-babelcloud-android-world-benchmark/)
 - [Gomoku Computer-Use Model Comparison](https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/)
 - [Graph-Guided Agentic Testing](https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/)
-- [GroundUI-18K](https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/)
-- [GUI-Robust](https://awesomecua.com/resources/github-chessbean1-gui-robust/)
-- [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/)
-- [GUIGuard-Bench evaluation code](https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/)
-- [GUIHalluBench](https://awesomecua.com/resources/github-ant-research-guihallubench/)

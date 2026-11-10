@@ -4,6 +4,18 @@ HTML 页面：https://awesomecua.com/zh/categories/model/page/4/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/model/index.md
 
+- [Salesforce/GTA1-32B](https://awesomecua.com/zh/resources/url-5288515eb50aef1e84a2/)：这款 32B GUI 定位模型通过 GRPO 训练，根据任务和屏幕截图生成操作；模型卡报告了定位及桌面智能体基准结果。
+- [ScaleCUA (THUDM) GLM-4.6V-Flash OSWorld](https://awesomecua.com/zh/resources/url-77c708f5cff2d4c95e90/)：THUDM ScaleCUA 的 GLM-4.6V-Flash 计算机使用智能体检查点，以监督训练模型为起点，经在线强化学习用于 OSWorld 桌面任务，并通过兼容 OpenAI 的端点提供服务。
+- [ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard](https://awesomecua.com/zh/resources/url-4bcb6a451d6f4d25343c/)：THUDM ScaleCUA 的 GLM-4.6V-Flash 计算机使用智能体检查点，从已发布的监督训练模型出发，经在线强化学习用于 ScienceBoard 科学软件任务。
+- [ScaleCUA (THUDM) Qwen3-VL-8B OSWorld](https://awesomecua.com/zh/resources/url-1807bdb33fc352a97240/)：THUDM ScaleCUA 的 Qwen3-VL-8B 计算机使用智能体检查点，从已发布的 SFT 初始模型出发经在线 RL 训练，用于 OSWorld 桌面任务。
+- [ScaleCUA (THUDM) Qwen3-VL-8B ScienceBoard](https://awesomecua.com/zh/resources/url-73c169c32b5765688376/)：THUDM ScaleCUA 的 Qwen3-VL-8B 计算机使用智能体检查点，以监督训练模型为起点，经在线强化学习用于 ScienceBoard 科学软件任务，并通过兼容 OpenAI 的端点提供服务。
+- [ScaleCUA (THUDM) Qwen3.5-9B OSWorld](https://awesomecua.com/zh/resources/url-0919e695670c5740a123/)：THUDM ScaleCUA 的 Qwen3.5-9B 计算机使用智能体检查点，从 SFT 初始模型出发经在线 RL 训练，用于 OSWorld 桌面任务，可通过兼容 OpenAI 的端点提供服务。
+- [ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard](https://awesomecua.com/zh/resources/url-d2d07c09a1c92e5f4a43/)：THUDM 的 ScaleCUA 基于 Qwen3.5-9B 的计算机使用智能体检查点，从 SFT 起点经在线强化学习训练，面向 ScienceBoard 科学软件任务，并通过兼容 OpenAI 的端点提供服务。
+- [SCOPE-SFT-9B](https://awesomecua.com/zh/resources/url-389202404e2653f59838/)：一个基于 Qwen3.5-9B 的计算机操作模型，使用桌面任务示范和安全应对轨迹训练，并报告了任务完成和攻击规避评估结果。
+- [ScreenAgent](https://awesomecua.com/zh/resources/url-92b5cb08491c09243b72/)：SAT 格式的 ScreenAgent-2312 权重，一个基于 CogAgent 的视觉语言模型，用于驱动 ScreenAgent 环境，在规划、执行和反思阶段通过 VNC 发出鼠标和键盘操作。
+- [SE-GUI-7B](https://awesomecua.com/zh/resources/url-00f5bfd8c7991012a183/)：基于 Qwen2.5-VL 的 7B GUI 定位模型，在 3,018 条精选种子样本上使用 GRPO、稠密点奖励和注意力引导的自进化微调进行训练。
+- [SEAgent-1.0-7B](https://awesomecua.com/zh/resources/url-62688de46b172fb0c746/)：SEAgent 的计算机使用智能体权重，基于 UI-TARS-7B-DPO，通过在自动生成的 OSWorld 软件任务上进行经验学习训练；论文报告其在五款新软件上的成功率为 34.5%。
+- [SeeClick-aitw](https://awesomecua.com/zh/resources/url-a4b101913db4b3673a2b/)：在 Android in the Wild（AITW）片段上微调的 SeeClick 视觉 GUI 智能体检查点，使用 SeeClick 智能体任务脚本以动作匹配方式在 AITW 测试集上评测。
 - [Seg2Click Qwen2.5-VL 3B](https://awesomecua.com/zh/resources/url-23ad240757185c6f7eac/)：基于 Qwen2.5-VL-3B 的 Seg2Click 检查点，配有自定义操作掩码解码器。
 - [Seg2Click Qwen3.5 0.8B](https://awesomecua.com/zh/resources/url-7405463ba56f9a41e79a/)：紧凑的 Seg2Click 检查点，包含合并后的 Qwen3.5 主干模型和动作掩码解码器。
 - [Seg2Click Qwen3.5 2B](https://awesomecua.com/zh/resources/url-fec1c5aa8fd93cb78923/)：使用 2B Qwen3.5 骨干模型预测掩码并选择界面点击位置的 Seg2Click 检查点。
@@ -24,6 +36,9 @@ HTML 页面：https://awesomecua.com/zh/categories/model/page/4/ · [English](ht
 - [UI-Genie Agent 7B](https://awesomecua.com/zh/resources/url-6d959b58bd4a2e98e417/)：基于 Qwen2.5-VL 的移动端动作模型，使用现有轨迹和 UI-Genie 框架生成的奖励引导合成轨迹训练。
 - [UI-Ins-32B](https://awesomecua.com/zh/resources/url-4fada3187f0d1d1efbe5/)：用于根据指令定位界面元素的 GUI 定位模型检查点；训练结合多样化指令表述和强化学习。
 - [UI-Ins-7B](https://awesomecua.com/zh/resources/url-62cf0bee7a14cfbc84a0/)：UI-Ins-7B 是界面定位模型，通过多样化指令和强化学习训练，为智能体操作定位界面元素。
+- [UI-Mate-27B](https://awesomecua.com/zh/resources/url-ad993f634943aadbc3f7/)：UI-Mate 发布中的 27B GUI 智能体模型，基于 Qwen3.6-27B 经监督微调和在线强化学习训练，将指令和屏幕截图转化为键盘和鼠标操作。
+- [UI-Mate-9B](https://awesomecua.com/zh/resources/url-d9e6788adf3eb50a9b87/)：UI-Mate 发布中的 9B GUI 智能体模型，基于 Qwen3.5-9B 经监督微调和在线强化学习训练，将指令和屏幕截图转化为键盘和鼠标操作。
+- [UI-Mate-democua-27B](https://awesomecua.com/zh/resources/url-4425e20ebe68c9eb805f/)：UI-Mate 桌面智能体的 27B 检查点，基于 Qwen3.6-27B 微调，读取屏幕截图，并可依据一段录制的演示，为新任务规划键盘和鼠标操作。
 - [UI-R1 3B](https://awesomecua.com/zh/resources/url-f13474d7aa734a30624d/)：通过强化学习训练、用于预测 GUI 操作的 Qwen2.5-VL 检查点，并在移动端、桌面端和网页端定位任务上进行评估。
 - [UI-S1 7B](https://awesomecua.com/zh/resources/url-1c4ee99a9a55ae71a7ac/)：采用半在线强化学习训练的移动端 GUI 检查点，利用离线轨迹改进多轮操作预测。
 - [UI-TARS 7B SFT](https://awesomecua.com/zh/resources/url-dbd880ec31b412487945/)：7B SFT 版 UI-TARS 检查点采用 Qwen2-VL 架构，以 FP32 存储，是用于网页、移动端和桌面的原生 GUI 智能体模型，可感知屏幕、定位元素并执行多步操作。
@@ -40,6 +55,10 @@ HTML 页面：https://awesomecua.com/zh/categories/model/page/4/ · [English](ht
 - [Vision-ml](https://awesomecua.com/zh/resources/github-meituan-dianping-vision/)：Vision-ml 在移动应用弹窗截图中定位关闭控件，并返回用于自动化操作的屏幕坐标；仓库包含预测代码和预训练模型。
 - [webarena-world-model-rlvr](https://awesomecua.com/zh/resources/url-e02a165e76cd7c43e2ca/)：面向 WebArena 网页状态预测的语言世界模型，在 SFT 检查点基础上用 RLVR 进行后训练，用于网页智能体的模型预测控制。
 - [webarena-world-model-sft](https://awesomecua.com/zh/resources/url-42686ac00c4ae107f147/)：以 DeepSeek-R1-Distill-Qwen-1.5B 为基座微调的 WebArena 语言世界模型：预测网页动作执行后无障碍树中哪些条目发生变化，在 RLVR 阶段之前先用思维链数据进行监督微调。
+- [WebGenAgent-LM-7B-SFT](https://awesomecua.com/zh/resources/url-1ff9a17a7d0802a71b1a/)：WebGen-Agent 的 7B 监督微调检查点，根据指令编写网站代码，并依据截图评价和 GUI 智能体功能测试加以改进。
+- [WebGenAgent-LM-7B-Step-GRPO](https://awesomecua.com/zh/resources/url-cdb9a1ad26e169a411f5/)：WebGen-Agent 的 7B Step-GRPO 检查点，根据指令编写网站代码；训练时以截图评分和 GUI 智能体测试评分作为步级奖励。
+- [WebGenAgent-LM-8B-SFT](https://awesomecua.com/zh/resources/url-b3dd615ebfe977392f90/)：WebGen-Agent 的 8B 监督微调检查点，根据指令编写网站代码，并依据截图评价和 GUI 智能体功能测试加以改进。
+- [WebGenAgent-LM-8B-Step-GRPO](https://awesomecua.com/zh/resources/url-7ebba507c0df876c6113/)：WebGen-Agent 的 8B Step-GRPO 检查点，根据指令编写网站代码；训练时以截图评分和 GUI 智能体测试评分作为步级奖励。
 - [WebJudge 7B](https://awesomecua.com/zh/resources/url-772161f06c2b3d4978b5/)：视觉轨迹评判模型，保留选定的中间截图，以评估网页智能体是否完成任务。
 - [WebRL-GLM-4-9B](https://awesomecua.com/zh/resources/url-f979ca583090405aadee/)：基于 GLM 的 WebRL 模型，可在五个 WebArena 网站执行浏览器任务；模型卡报告了 WebArena-Lite 的评测结果。
 - [webrl-llama-3.1-70b](https://awesomecua.com/zh/resources/url-5371bf588e7790a66ff0/)：基于 Llama-3.1-70B 发布的 WebRL 网页操作模型，面向五个 WebArena 网站。模型卡报告了 WebArena-Lite 结果，并指向推理要求。
@@ -48,6 +67,8 @@ HTML 页面：https://awesomecua.com/zh/categories/model/page/4/ · [English](ht
 - [WebThinker-R1-32B](https://awesomecua.com/zh/resources/url-8076f65dc82b4dcea18c/)：用于网页研究的推理模型权重，通过交互式点击搜索和浏览页面，并利用收集的信息起草报告。
 - [WebThinker-R1-7B](https://awesomecua.com/zh/resources/url-564c980a531e7204447c/)：一款已发布的 7B 推理模型，用于网页研究，可搜索网页、通过交互元素浏览页面，并撰写报告。
 - [WebVIA-Agent](https://awesomecua.com/zh/resources/url-62724cba1b5814215cf7/)：WebVIA 推出的基于 GLM-4.1V-9B 的网页探索智能体，读取页面截图和 DOM 树，选择点击、输入或选择操作，以遍历交互式 UI 状态，服务于 UI 到代码转换。
+- [WildAWM-35B-A3B](https://awesomecua.com/zh/resources/url-201acf47dde3df755bfe/)：WildAWM-35B-A3B 是基于 Qwen3.6-35B-A3B 的智能体检查点，在混合网页、MCP 和命令行操作的 WildAWM 跨界面计算机任务上后训练，通过 SGLang 以纯文本方式部署。
+- [WildAWM-4B](https://awesomecua.com/zh/resources/url-3f0e524544c55025c9d9/)：WildAWM-4B 是基于 Qwen3.5-4B 的智能体检查点，在混合网页、MCP 和命令行操作的 WildAWM 跨界面计算机任务上后训练，通过 SGLang 以纯文本方式部署。
 - [YOLOv11l — UI Groups Detection](https://awesomecua.com/zh/resources/url-6106415bee936ef638aa/)：这是一个经过微调的 YOLO11 模型，可在 macOS 应用截图中检测工具栏、标签组等界面分组，供无障碍分析使用。
 - [yolov11l-ui-elements-detection](https://awesomecua.com/zh/resources/url-5d824526d56f179d3d51/)：一个 YOLO11 微调模型，可在 macOS 应用截图中定位五类界面元素，以支持生成无障碍元数据。
 - [ZeroGUI-AndroidLab-7B](https://awesomecua.com/zh/resources/url-f75cab7180d8f5264606/)：ZeroGUI-AndroidLab-7B 是 GUI 智能体模型权重，其训练流程会生成界面任务、依据截图估计奖励，并通过在线强化学习持续适应。
@@ -83,24 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/model/page/4/ · [English](ht
 - [GUI-Libra 8B](https://awesomecua.com/zh/resources/url-6694391b0cf50389d2e9/)：GUI-Libra 检查点基于 Qwen3-VL-8B-Instruct 微调，约有 87.7 亿 BF16 参数，将截图、任务和操作历史转化为<thinking>推理块及带 point_2d 坐标的 JSON 操作。
 - [GUI-Owl 1.5 2B Instruct](https://awesomecua.com/zh/resources/url-0b94b29f2afbfe8a3abb/)：GUI-Owl 1.5 原生 GUI 智能体系列中最小的指令版检查点，基于 Qwen3-VL，出自 Mobile-Agent-v3.5，面向桌面、移动端和浏览器任务，可独立使用或担任框架中的一个角色。
 - [GUI-Owl 1.5 32B Instruct](https://awesomecua.com/zh/resources/url-6a943fb3667791b6cdb4/)：GUI-Owl 1.5 的 32B 指令版原生 GUI 智能体模型，基于 Qwen3-VL，随 Mobile-Agent-v3.5 发布，用于桌面、移动端和浏览器操作；采用 MIT 许可，约有 33.4B 个 BF16 参数。
-- [GUI-Owl 1.5 32B Think](https://awesomecua.com/zh/resources/url-e0e4712ee701f652bf31/)：GUI-Owl 1.5 的 32B 思考版原生 GUI 智能体模型，基于 Qwen3-VL，随 Mobile-Agent-v3.5 发布，用于桌面、移动端和浏览器操作；采用 MIT 许可，约有 33.4B 个 BF16 参数。
-- [GUI-Owl 1.5 4B Instruct](https://awesomecua.com/zh/resources/url-17a0422036ebea8d4e93/)：GUI-Owl 1.5 的 4B 指令版检查点，属于基于 Qwen3-VL 的 Mobile-Agent-v3.5 原生 GUI 智能体系列，用于桌面、移动端和浏览器任务，可独立使用或在该框架中承担角色。
-- [GUI-Owl 1.5 8B Think](https://awesomecua.com/zh/resources/url-374138c6e18c9f1dd44a/)：8B GUI-Owl 1.5 原生 GUI 智能体模型的推理版，基于 Qwen3-VL，随 Mobile-Agent-v3.5 发布，用于桌面、移动端和浏览器控制，约有 8.8B 个 BF16 参数，采用 MIT 许可。
-- [GUI-Spotlight](https://awesomecua.com/zh/resources/github-bin123apple-gui-spotlight/)：GUI-Spotlight 是一种通过图像思考的 GUI 视觉定位模型，可在高分辨率屏幕上反复裁剪并细化关注区域。
-- [GUI-Vid](https://awesomecua.com/zh/resources/url-579b1c0ceac633eeb328/)：GUI-Vid 是基于 GUI-World 重新训练的视频语言模型，用于理解视频中的图形界面。
-- [gWorld (GuiWorld)](https://awesomecua.com/zh/resources/github-trillion-labs-gworld/)：gWorld 是开放权重的 8B/32B 移动端 GUI 世界模型，通过生成可渲染的网页代码预测下一步屏幕状态。
-- [HobbyLM-1B Computer Use](https://awesomecua.com/zh/resources/url-12470a40c8f82ef0294a/)：一款设备端 LoRA 适配器，根据英文请求和 Mac 状态生成单步操作，由配套应用执行；仓库还提供训练代码和评测记录。
-- [Holo Model Family](https://awesomecua.com/zh/resources/url-c0bd07d82ce25ad1d99d/)：H 计算机使用模型系列及各发布版本的访问方式。
-- [Holo-3.1-35B-A3B-FP8](https://awesomecua.com/zh/resources/url-566bd1469811983951f3/)：Holo3.1 视觉语言模型系列的 FP8 权重，用于计算机使用智能体。模型卡介绍网页、桌面和移动任务，并链接部署指南。
-- [Holo-3.1-35B-A3B-GGUF](https://awesomecua.com/zh/resources/url-ee3a18b51eb44d94a94b/)：Holo3.1 的量化视觉语言模型检查点，面向网页、桌面和移动界面的计算机使用智能体，支持界面定位与函数调用。
-- [Holo-3.1-35B-A3B-NVFP4](https://awesomecua.com/zh/resources/url-aeffabf23c16f8cf2139/)：Holo-3.1-35B-A3B-NVFP4 是面向网页、桌面和移动端任务的量化计算机使用视觉语言模型权重，支持函数调用。
-- [Holo2 4B](https://awesomecua.com/zh/resources/url-16a51d9e725ad5a5c629/)：基于 Qwen3-VL 的检查点，用于在网页、桌面和移动端界面中导航及执行多步 GUI 操作。
-- [Holo2 8B](https://awesomecua.com/zh/resources/url-38942453b2b7018c0d01/)：Holo2 检查点基于 Qwen3-VL-8B-Thinking，经过监督训练和在线强化学习，用于在网页、桌面和移动界面中定位 UI 元素及执行多步导航。
-- [Holo3](https://awesomecua.com/zh/resources/url-a03c649e4b14e293e2dd/)：Holo3 是面向计算机使用的模型系列，使用合成导航数据和企业工作流程训练。发布方报告了桌面基准测试结果，并提供推理服务和开放权重。
-- [Holo3.1 0.8B](https://awesomecua.com/zh/resources/url-df84f6a103123387b0dd/)：H Company 的 Holo3.1 视觉语言模型系列中最小的检查点，面向网页、桌面和移动端计算机使用智能体，并为智能体框架提供原生函数调用。
-- [Holo3.1 4B](https://awesomecua.com/zh/resources/url-90b24afa7bb8b2181205/)：H Company 的 Holo3.1 系列 4B 检查点，采用稠密 Qwen3.5 架构，是面向网页、桌面和移动端计算机使用智能体、原生支持函数调用的视觉语言模型。
-- [Holo3.1 9B](https://awesomecua.com/zh/resources/url-4e9e46b2c7a0a21e130d/)：H Company 的 Holo3.1 系列 9B 视觉语言模型检查点，面向网页、桌面和移动端计算机使用智能体，原生支持供智能体框架使用的函数调用。
-- [HTLM](https://awesomecua.com/zh/resources/github-espetro-htlm/)：HTLM 是在 Mind2Web 上微调的紧凑型 350M 浏览器智能体模型，用于在设备端和浏览器内快速预测 DOM 动作。
-- [inclusionAI/UI-Venus-Navi-7B](https://awesomecua.com/zh/resources/url-6d36e088ada02184c6bc/)：基于 Qwen2.5-VL 发布的界面智能体模型，结合截图和先前操作，预测图形界面导航动作及目标元素位置。
-- [Indeed-UI](https://awesomecua.com/zh/resources/github-intelligence-indeed-indeed-ui/)：面向桌面、移动端和浏览器界面的 GUI 定位模型；仓库提供 ScreenSpot-Pro 评估与放大脚本。
-- [Indeed-UI-8B](https://awesomecua.com/zh/resources/url-26157e2cda7fb73cf99c/)：在 GUI-Owl 1.5-8B 基础上用界面定位数据和高分辨率训练微调的 GUI 定位模型；模型卡报告其在 ScreenSpot-Pro 上得分 73.4、ScreenSpot-V2 上 94.4、OSWorld-G 上 68.3。

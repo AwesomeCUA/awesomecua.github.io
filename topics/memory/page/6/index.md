@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/topics/memory/page/6/
 
 Full list: https://awesomecua.com/topics/memory/index.md
 
+- [lean-computer-use-mcp](https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/)
+- [LiteWebAgent](https://awesomecua.com/resources/github-pathonai-litewebagent/)
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/)
 - [LKO Mark 3.4](https://awesomecua.com/resources/github-shubhransh-gupta-lko-mark-3-4/)
 - [LLM Wiki for Chrome](https://awesomecua.com/resources/github-nvk-llm-wiki-chrome/)

@@ -4,6 +4,15 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
+- [UI-TARS 72B DPO](https://awesomecua.com/zh/resources/url-0447e1fb83a794507aa2/)
+- [UI-TARS 72B SFT](https://awesomecua.com/zh/resources/url-fdb901523979ed1e831b/)
+- [UI-TARS 7B DPO](https://awesomecua.com/zh/resources/url-a8b43a1f2bebd998f612/)
+- [UI-TARS 7B SFT](https://awesomecua.com/zh/resources/url-dbd880ec31b412487945/)
+- [UI2Code_N](https://awesomecua.com/zh/resources/url-b04608609a8c392d110b/)
+- [UIX-Qwen2](https://awesomecua.com/zh/resources/url-54997a3c67e54abdf319/)
+- [V2P-7B](https://awesomecua.com/zh/resources/url-a815c128627d11011e89/)
+- [VGA (Vision GUI Assistant)](https://awesomecua.com/zh/resources/github-linziyang1999-vision-gui-assistant/)
+- [Vision-ml](https://awesomecua.com/zh/resources/github-meituan-dianping-vision/)
 - [YOLOv11l — UI Groups Detection](https://awesomecua.com/zh/resources/url-6106415bee936ef638aa/)
 - [yolov11l-ui-elements-detection](https://awesomecua.com/zh/resources/url-5d824526d56f179d3d51/)
 - [ZHEN-04/CaptchaAgent](https://awesomecua.com/zh/resources/url-fb67af38dce972b398c3/)
@@ -55,12 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/9/
 - [Argus (macOS Vision-AX MCP Plugin)](https://awesomecua.com/zh/resources/github-korisame-argus/)
 - [Aries AI](https://awesomecua.com/zh/resources/github-zg0704666-aries-ai/)
 - [asdasdsdsdasdasdasd DSH Linux X11 Computer Use](https://awesomecua.com/zh/resources/github-asdasdsdsdasdasdasd-dsh-computer-use/)
-- [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/zh/resources/github-sharryxr-asil/)
-- [Astra AI (Windows Gemini Live Assistant)](https://awesomecua.com/zh/resources/github-chinmaybitne-astra-ai/)
-- [Astra plays GTA Vice City](https://awesomecua.com/zh/resources/github-da03-astra-plays-gta/)
-- [AstraClaw Agent Computer Use MCP](https://awesomecua.com/zh/resources/github-astraclawteam-agent-computer-use-mcp/)
-- [Atlas Desktop Agent](https://awesomecua.com/zh/resources/github-dortanes-atlas/)
-- [atlas-desktop](https://awesomecua.com/zh/resources/github-abydin-atlas-desktop/)
-- [Auto_OS](https://awesomecua.com/zh/resources/github-jaswanth1902-auto-os/)
-- [AutoDesign](https://awesomecua.com/zh/resources/github-yaxin9luo-autodesign/)
-- [AutoGLM Android 助手](https://awesomecua.com/zh/resources/github-sidhu-master-androidautoglm/)

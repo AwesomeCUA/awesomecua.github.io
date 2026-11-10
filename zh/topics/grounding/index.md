@@ -631,6 +631,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A GUI benchmark for precise state changes across desktop, web, and mobile interfaces, with 2,257 tasks and metrics separating element location from interaction success.
 - [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/zh/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/) — Date not recorded
   Benchmarks dense versus global features across frozen vision backbones for pixel-coordinate GUI grounding.
+- [FunUI-Benchmark](https://awesomecua.com/zh/resources/url-92241e51e909ea9ca564/) — Date not recorded
+  FunUI is a Chinese-English benchmark built on 2,150 Chinese and 9,347 English Android screens, testing UI grounding, UI referring, screen question answering and screen summarization.
 - [GroundUI-18K](https://awesomecua.com/zh/resources/url-d206aacf01e1b7dc786d/) — Date not recorded
   AgentStudio's full GUI grounding test set: 18,026 instruction and target-box examples on web, desktop and mobile screenshots, pooled from Mind2Web, OmniACT, MoTIF, ScreenSpot and AgentStudio.
 - [GroundUI-1K](https://awesomecua.com/zh/resources/url-d86f55753bfea45fe313/) — Date not recorded
@@ -1001,6 +1003,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A single Hub release containing GUI-R1 3B and 7B action-model checkpoints trained with reinforcement learning across interface platforms.
 - [GUI-Spotlight](https://awesomecua.com/zh/resources/github-bin123apple-gui-spotlight/) — Date not recorded
   GUI-Spotlight is a think-with-image GUI visual grounding model that iteratively crops and refines focus regions on high-resolution screens.
+- [GUI_Reflection_8b_pretrain](https://awesomecua.com/zh/resources/url-534151cf8b1e1df5bf96/) — Date not recorded
+  GUI Reflection checkpoint from the GUI pre-training stage, trained on grounding, captioning, OCR and VQA data plus reflection-task data, before the offline SFT stage.
 - [Hcompany/Holo4-35B-A3B-NVFP4](https://awesomecua.com/zh/resources/url-ef732d252e9eb9b04e20/) — Date not recorded
   Holo4-35B-A3B-NVFP4 is an NVFP4 computer-use vision-language checkpoint that consumes screenshots and tool results to request interface actions through an agent harness.
 - [Holo Model Family](https://awesomecua.com/zh/resources/url-c0bd07d82ce25ad1d99d/) — Date not recorded
@@ -1119,6 +1123,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A 4B vision-language checkpoint for locating GUI targets in high-resolution images. It is fine-tuned from GUI-Owl-1.5-4B-Instruct with supervised and reward-based post-training.
 - [KV-Ground-4B-BaseQw3vl](https://awesomecua.com/zh/resources/url-969eb56a53187cda74c7/) — Date not recorded
   A 4B GUI grounding model for high-resolution screenshots and text instructions, fine-tuned from Qwen3-VL-4B-Instruct with supervised and reward-based training.
+- [LocateAnything-3B](https://awesomecua.com/zh/resources/url-59b8a8cfdd3db7b21058/) — Date not recorded
+  LocateAnything-3B is a 3B vision-language grounding model that predicts full bounding boxes in parallel, covering GUI element grounding alongside object detection, documents and OCR.
 - [lumos_unified_ground_iterative](https://awesomecua.com/zh/resources/url-af446270bb6bfd20b77e/) — Date not recorded
   A released Lumos grounding-module checkpoint fine-tuned on web-agent and other interactive tasks within its modular language-agent system.
 - [lumos_unified_ground_iterative-13B](https://awesomecua.com/zh/resources/url-b0b2cd616f8c30b4b09d/) — Date not recorded
@@ -1245,6 +1251,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Qwen3-VL-32B-Thinking is a vision-language checkpoint whose card describes recognizing interface elements and using tools to complete PC and mobile GUI tasks.
 - [Rex-Omni](https://awesomecua.com/zh/resources/github-idea-research-rex-omni/) — Date not recorded
   Rex-Omni is a general visual perception model with GUI grounding and pointing modes. The repository provides inference examples, evaluation materials, and fine-tuning code.
+- [Rex-Omni](https://awesomecua.com/zh/resources/url-37880875f816f46f6dfe/) — Date not recorded
+  The 3B-parameter Rex-Omni checkpoint, fine-tuned from Qwen2.5-VL-3B-Instruct, that casts detection, pointing, OCR, keypoints and GUI grounding as next-point prediction; it loads with transformers or vLLM.
 - [S1-Accurate-LoRA](https://awesomecua.com/zh/resources/url-d34be9d27efef6c1b37a/) — Date not recorded
   A LoRA adapter for a desktop agent's decision model uses window screenshots to select an operation and target element from candidate actions when a faster model is uncertain.
 - [S1-Fast](https://awesomecua.com/zh/resources/url-51fd7f79dff766278d83/) — Date not recorded
@@ -1612,6 +1620,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Implements training-free iterative visual crop-and-narrow refinement for improving MLLM coordinate grounding on GUI screenshots.
 - [GUI Object Detection Benchmark & Models](https://awesomecua.com/zh/resources/github-chenjshnn-object-detection-for-graphical-user-interface/) — Date not recorded
   Provides training and evaluation code comparing classical and deep-learning GUI element detectors alongside the hybrid UIED model.
+- [GUI-Actor-for-FiftyOne](https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-actor-for-fiftyone/) — Date not recorded
+  Training code that fine-tunes the GUI-Actor grounding model on FiftyOne datasets, turning keypoint and box annotations on screenshots into conversations with pointer supervision for single-GPU runs.
 - [gui-agent](https://awesomecua.com/zh/resources/github-waynchi-gui-agent/) — Date not recorded
   Research code for GUI-agent experiments, accompanied by a trained interface element detector, experiment configurations and prompts.
 - [GUI-DR](https://awesomecua.com/zh/resources/github-manifoldrg-webdomainrandomizer/) — Date not recorded

@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/human-in-the-loop/index.md
 
+- [Crimson-Heart](https://awesomecua.com/zh/resources/github-yeyvhaiou-crimson-heart/)
+- [Cursor Companion (MacScreenCompanion)](https://awesomecua.com/zh/resources/github-pradyut-das-macscreencompanion/)
+- [Cuse (macOS AI Cursor Agent)](https://awesomecua.com/zh/resources/github-muneebkhan08-cuse/)
 - [Cyber Seeds WebMCP](https://awesomecua.com/zh/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/)
 - [dassi](https://awesomecua.com/zh/resources/url-040e17448d9d190b3c14/)
 - [dcc123456 Browser Copilot](https://awesomecua.com/zh/resources/github-dcc123456-browser-copilot/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/4/
 - [LCU](https://awesomecua.com/zh/resources/github-amontlabs-lcu/)
 - [Locopilot](https://awesomecua.com/zh/resources/github-pradhankukiran-locopilot/)
 - [Login Machine](https://awesomecua.com/zh/resources/github-richardhruby-login-machine/)
-- [Mac MCP (Menu Bar & Local Server)](https://awesomecua.com/zh/resources/github-bulutarkan-mac-mcp/)
-- [MagenticLite / Magentic UI](https://awesomecua.com/zh/resources/github-microsoft-magentic-ui/)
-- [Magpie Computer Use](https://awesomecua.com/zh/resources/github-sammysnake-d-magpie-computer-use-agent/)

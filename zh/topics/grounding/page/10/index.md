@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/grounding/index.md
 
+- [InternVL3_5-8B-HF](https://awesomecua.com/zh/resources/url-15c5435c1cb4f9e6b737/)
+- [jadechoghari/Ferret-UI-Llama8b](https://awesomecua.com/zh/resources/url-4b66957b9799a9e3decc/)
 - [Jedi-3B-1080p](https://awesomecua.com/zh/resources/url-2f2e38f240a36f31b631/)
 - [Jedi-7B-1080p](https://awesomecua.com/zh/resources/url-75dee6afef81a56ba4b2/)
 - [KDEGroup/UI-AGILE-3B](https://awesomecua.com/zh/resources/url-642671eabef44827b7de/)
@@ -16,6 +18,7 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/10/
 - [KV-Ground 8B (BaseGuiOwl1.5 0315)](https://awesomecua.com/zh/resources/url-461125e2d6ac2f030f6b/)
 - [KV-Ground-4B-BaseGuiOwl1.5-0228](https://awesomecua.com/zh/resources/url-709d8b51bbc8d257318f/)
 - [KV-Ground-4B-BaseQw3vl](https://awesomecua.com/zh/resources/url-969eb56a53187cda74c7/)
+- [LocateAnything-3B](https://awesomecua.com/zh/resources/url-59b8a8cfdd3db7b21058/)
 - [lumos_unified_ground_iterative](https://awesomecua.com/zh/resources/url-af446270bb6bfd20b77e/)
 - [lumos_unified_ground_iterative-13B](https://awesomecua.com/zh/resources/url-b0b2cd616f8c30b4b09d/)
 - [lumos_web_agent_ground_iterative](https://awesomecua.com/zh/resources/url-246241a0b6219513cb7f/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/10/
 - [POINTS-GUI](https://awesomecua.com/zh/resources/github-tencent-points-gui/)
 - [POINTS-GUI-G 8B](https://awesomecua.com/zh/resources/url-cc931199bda2bdf1f5f7/)
 - [PTA-1](https://awesomecua.com/zh/resources/url-303e1926b8ff4f60e006/)
-- [qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain](https://awesomecua.com/zh/resources/url-fe85a6b4ffbdb303f382/)
-- [Qwen-CUA](https://awesomecua.com/zh/resources/url-a886fea306211d527701/)
-- [Qwen-GUI checkpoint](https://awesomecua.com/zh/resources/url-23bc63f93d3c31d74af3/)

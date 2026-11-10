@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/planning/page/7/
 
 Full list: https://awesomecua.com/topics/planning/index.md
 
+- [lumos_unified_plan_iterative-13B](https://awesomecua.com/resources/url-eb6a5940793aa81153d0/)
 - [lumos_web_agent_plan_iterative](https://awesomecua.com/resources/url-e35db30fee209ef9b57d/)
 - [lumos_web_agent_plan_iterative-13B](https://awesomecua.com/resources/url-7e7de336b1d8a2adce2c/)
 - [Magma](https://awesomecua.com/resources/github-microsoft-magma/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/planning/index.md
 - [AutoManual](https://awesomecua.com/resources/github-minghchen-automanual/)
 - [AutoTask](https://awesomecua.com/resources/github-bowenbryanwang-autotask/)
 - [Avenir-Web](https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/)
-- [BabyAGI](https://awesomecua.com/resources/github-yoheinakajima-babyagi/)

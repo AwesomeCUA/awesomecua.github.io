@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/efficiency/page/8/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
+- [Jev Ultrafast](https://awesomecua.com/resources/github-browser-use-jev-ultrafast/)
+- [jev-browser](https://awesomecua.com/resources/github-doruktarhan-jev-browser/)
+- [jev-browser](https://awesomecua.com/resources/github-mahmoudadelbghany-jev-browser/)
+- [jev-for-chrome](https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/)
+- [jev-use](https://awesomecua.com/resources/github-savka777-jev-use/)
 - [jev-windows-agent](https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/)
 - [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
 - [Kitewright](https://awesomecua.com/resources/github-kitewright-kitewright/)
@@ -24,6 +29,7 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Lusipad Browser Agent](https://awesomecua.com/resources/github-lusipad-browser-agent/)
 - [lvyuan1688 browser-use-rs](https://awesomecua.com/resources/github-lvyuan1688-browser-use-rs/)
 - [mac-pilot](https://awesomecua.com/resources/github-shxmi03-mac-pilot/)
+- [macbot-mcp](https://awesomecua.com/resources/github-anomalous3-macbot-mcp/)
 - [maponce](https://awesomecua.com/resources/github-shivampatel0714-maponce/)
 - [Marey](https://awesomecua.com/resources/github-badalraj9-marey/)
 - [Master Internet Unit](https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/)
@@ -58,9 +64,3 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/)
 - [parallel-browser-mcp](https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/)
 - [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/)
-- [pebkac](https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/)
-- [perceive](https://awesomecua.com/resources/github-gauthierpiarrette-perceive/)
-- [PhoneClaw](https://awesomecua.com/resources/github-kellyvv-phoneclaw/)
-- [PhoneCLI](https://awesomecua.com/resources/github-hkuds-phonecli/)
-- [Pi Jev Browser](https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/)
-- [pixelpi](https://awesomecua.com/resources/github-josharsh-pixelpi/)

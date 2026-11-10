@@ -38,6 +38,7 @@ https://awesomecua.com/categories/survey/
 https://awesomecua.com/categories/tool/
 https://awesomecua.com/categories/tool/page/10/
 https://awesomecua.com/categories/tool/page/11/
+https://awesomecua.com/categories/tool/page/12/
 https://awesomecua.com/categories/tool/page/2/
 https://awesomecua.com/categories/tool/page/3/
 https://awesomecua.com/categories/tool/page/4/
@@ -1803,6 +1804,7 @@ https://awesomecua.com/resources/github-aarohim24-scavenge/
 https://awesomecua.com/resources/github-aaronlab-browsertrace/
 https://awesomecua.com/resources/github-aashutoshkumarr-ai-desktop-assistant/
 https://awesomecua.com/resources/github-aaswordman-operit/
+https://awesomecua.com/resources/github-aaswordman-operit2/
 https://awesomecua.com/resources/github-ab498-computer-control-mcp/
 https://awesomecua.com/resources/github-abdullah-al-raju-milli-agent/
 https://awesomecua.com/resources/github-abhishekchhetri020-browser-harness/
@@ -1869,6 +1871,7 @@ https://awesomecua.com/resources/github-agiresearch-aios/
 https://awesomecua.com/resources/github-ah64-dll-browser-automation-toolkit/
 https://awesomecua.com/resources/github-ahaufox-pymcpautogui/
 https://awesomecua.com/resources/github-ahaway1st-dsh-browser-control/
+https://awesomecua.com/resources/github-ahmadrosid-nakama/
 https://awesomecua.com/resources/github-ahmedvnabil-deskswarm/
 https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/
 https://awesomecua.com/resources/github-ahrefs-ocaml-cdp/
@@ -1888,7 +1891,9 @@ https://awesomecua.com/resources/github-aianytime-itr-wala-ai-agent/
 https://awesomecua.com/resources/github-aibrain-mnemis-protean/
 https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/
 https://awesomecua.com/resources/github-aider-ai-aider/
+https://awesomecua.com/resources/github-aimakerspace-tagui-bricks/
 https://awesomecua.com/resources/github-aiming-lab-simplemem/
+https://awesomecua.com/resources/github-aiming-lab-webharbor/
 https://awesomecua.com/resources/github-ainative-studio-ainative-browser-mcp/
 https://awesomecua.com/resources/github-aipexstudio-aipex/
 https://awesomecua.com/resources/github-aiqualitylab-selenium-selfhealing-mcp/
@@ -1918,8 +1923,10 @@ https://awesomecua.com/resources/github-alibaba-page-agent/
 https://awesomecua.com/resources/github-alibaba-qz-browser-agent/
 https://awesomecua.com/resources/github-alibaba-ui-ins/
 https://awesomecua.com/resources/github-alibabaresearch-rots/
+https://awesomecua.com/resources/github-aliothmoon-maafwapp/
 https://awesomecua.com/resources/github-alipay-mobile-agent/
 https://awesomecua.com/resources/github-alisharjeell-openbua/
+https://awesomecua.com/resources/github-alixaxel-chrome-aws-lambda/
 https://awesomecua.com/resources/github-allaudin-adb-automation-mcp/
 https://awesomecua.com/resources/github-allenai-lumos/
 https://awesomecua.com/resources/github-allenai-molmopoint-guisyn/
@@ -1945,6 +1952,7 @@ https://awesomecua.com/resources/github-amajorai-ghost/
 https://awesomecua.com/resources/github-amap-ml-code2world/
 https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/
 https://awesomecua.com/resources/github-amarbel-llc-chrest/
+https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-human-intervention/
 https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/
 https://awesomecua.com/resources/github-amazon-science-agentoccam/
 https://awesomecua.com/resources/github-amazon-science-pae/
@@ -1991,6 +1999,7 @@ https://awesomecua.com/resources/github-anionex-dsh-computer-use/
 https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/
 https://awesomecua.com/resources/github-aniruddha-adhikary-pi-iphone-mirroring/
 https://awesomecua.com/resources/github-anomalous3-ahk-mcp/
+https://awesomecua.com/resources/github-anomalous3-macbot-mcp/
 https://awesomecua.com/resources/github-anomalyco-browser-control/
 https://awesomecua.com/resources/github-anotb-agent-verify/
 https://awesomecua.com/resources/github-anpl1623-agentos/
@@ -2054,6 +2063,7 @@ https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/
 https://awesomecua.com/resources/github-atluri0001-aevora/
 https://awesomecua.com/resources/github-atreasureboy-agent-browser/
 https://awesomecua.com/resources/github-aurafriday-mcp-link-server/
+https://awesomecua.com/resources/github-aurafriday-mcp-link/
 https://awesomecua.com/resources/github-aurafriday-system-mcp/
 https://awesomecua.com/resources/github-auscahq-ausca/
 https://awesomecua.com/resources/github-austinintelligence-android-use/
@@ -2070,6 +2080,7 @@ https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/
 https://awesomecua.com/resources/github-awictor-anvil-engine/
 https://awesomecua.com/resources/github-awictor-relay/
 https://awesomecua.com/resources/github-awlevin-typesafe-computer-use/
+https://awesomecua.com/resources/github-aws-nova-act-extension/
 https://awesomecua.com/resources/github-aws-nova-act/
 https://awesomecua.com/resources/github-axisvela-praxovela-open/
 https://awesomecua.com/resources/github-ayasakura-comp-pi-nodriver-browser/
@@ -2082,7 +2093,10 @@ https://awesomecua.com/resources/github-b1tank-deskpal/
 https://awesomecua.com/resources/github-baai-agents-cradle/
 https://awesomecua.com/resources/github-babelcloud-android-world-benchmark/
 https://awesomecua.com/resources/github-babelcloud-gbox/
+https://awesomecua.com/resources/github-bablosoft-browser-with-fingerprints/
 https://awesomecua.com/resources/github-bablosoft-playwright-with-fingerprints/
+https://awesomecua.com/resources/github-bablosoft-puppeteer-with-fingerprints/
+https://awesomecua.com/resources/github-bablosoft-selenium-with-fingerprints/
 https://awesomecua.com/resources/github-badalraj9-marey/
 https://awesomecua.com/resources/github-badtheorylabs-esp/
 https://awesomecua.com/resources/github-banye-technology-abaopal/
@@ -2210,8 +2224,10 @@ https://awesomecua.com/resources/github-caelaxie-crosshands/
 https://awesomecua.com/resources/github-caicai-jin-ai-medicalclaimform-filling-agent/
 https://awesomecua.com/resources/github-calebnewtonusc-nova/
 https://awesomecua.com/resources/github-callstack-agent-device/
+https://awesomecua.com/resources/github-callstackincubator-eas-agent-device/
 https://awesomecua.com/resources/github-camel-ai-crab/
 https://awesomecua.com/resources/github-camel-ai-owl/
+https://awesomecua.com/resources/github-cameroncooke-axe/
 https://awesomecua.com/resources/github-cantbeblank96-chatgpt-mcp/
 https://awesomecua.com/resources/github-caob23-dsh-browser-control/
 https://awesomecua.com/resources/github-capmonstercloud-capmonster-mcp-captcha-solver/
@@ -2230,6 +2246,7 @@ https://awesomecua.com/resources/github-catcaptions-hermes-extension/
 https://awesomecua.com/resources/github-caviraoss-openmemory/
 https://awesomecua.com/resources/github-ccc-zach-resume-autofill-agent/
 https://awesomecua.com/resources/github-cczzyy-cn-c-vision/
+https://awesomecua.com/resources/github-cdpdriver-zendriver-docker/
 https://awesomecua.com/resources/github-cdpdriver-zendriver/
 https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/
 https://awesomecua.com/resources/github-celestoai-celesto/
@@ -2281,6 +2298,7 @@ https://awesomecua.com/resources/github-clawbrowser-clawbrowser/
 https://awesomecua.com/resources/github-clawmobile-clawmobile/
 https://awesomecua.com/resources/github-clay-good-verisim/
 https://awesomecua.com/resources/github-clearcotelabs-clearcote-browser/
+https://awesomecua.com/resources/github-clearcotelabs-clearcote-jet/
 https://awesomecua.com/resources/github-clearcotelabs-clearcote-profile-manager/
 https://awesomecua.com/resources/github-clevrr-ai-clevrr-computer/
 https://awesomecua.com/resources/github-cloakhq-cloakbrowser/
@@ -2351,6 +2369,7 @@ https://awesomecua.com/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challen
 https://awesomecua.com/resources/github-cyrus-and-chrome-remote-interface/
 https://awesomecua.com/resources/github-cyrus580529-attest/
 https://awesomecua.com/resources/github-d-wwei-macos-desktop-control/
+https://awesomecua.com/resources/github-d4vinci-scrapling/
 https://awesomecua.com/resources/github-da03-astra-plays-gta/
 https://awesomecua.com/resources/github-daan298261-jarvis/
 https://awesomecua.com/resources/github-daazer-claude-browser-bridge/
@@ -2358,11 +2377,14 @@ https://awesomecua.com/resources/github-daijro-camoufox/
 https://awesomecua.com/resources/github-daixin315-xiaoshuang/
 https://awesomecua.com/resources/github-daizedong-grokbot-cdp/
 https://awesomecua.com/resources/github-daizedong-screen-vision/
+https://awesomecua.com/resources/github-daluu-autopydriverserver/
 https://awesomecua.com/resources/github-dalwadi-aryan-pranavkumar-sih-26/
 https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/
 https://awesomecua.com/resources/github-danecando-pi-codex-computer-use/
+https://awesomecua.com/resources/github-danielpaulus-go-ios/
 https://awesomecua.com/resources/github-danielpquinn-browsegpt/
 https://awesomecua.com/resources/github-darkspaz-v1-shortcut-pad-mcp/
+https://awesomecua.com/resources/github-dashi96-chromium-bridge/
 https://awesomecua.com/resources/github-data-for-agents-insta/
 https://awesomecua.com/resources/github-dataficationsdk-motus/
 https://awesomecua.com/resources/github-datboip-humanaie/
@@ -2402,6 +2424,9 @@ https://awesomecua.com/resources/github-dev-newb-codex-file-bridge/
 https://awesomecua.com/resources/github-dev-willbird1936-desktop-computer-use/
 https://awesomecua.com/resources/github-devdesignamitesh-browser-agent/
 https://awesomecua.com/resources/github-developerz-ai-ui-debugger-mcp/
+https://awesomecua.com/resources/github-deventerprisesoftware-patchright-dotnet/
+https://awesomecua.com/resources/github-devicefarmer-minicap/
+https://awesomecua.com/resources/github-devicefarmer-minitouch/
 https://awesomecua.com/resources/github-devxjitin-autourgos-cua-coordinate-tool/
 https://awesomecua.com/resources/github-dfarm6-prism-browser-community/
 https://awesomecua.com/resources/github-dhamani-aryan-heysnap/
@@ -2432,13 +2457,16 @@ https://awesomecua.com/resources/github-dockur-windows/
 https://awesomecua.com/resources/github-dolomite1337-claude-in-safari/
 https://awesomecua.com/resources/github-dom-actions-doma/
 https://awesomecua.com/resources/github-domdomegg-computer-use-mcp/
+https://awesomecua.com/resources/github-domdomegg-displayoverride-mac/
 https://awesomecua.com/resources/github-dongping-chen-gui-world/
 https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/
+https://awesomecua.com/resources/github-dongxinsuperman-ai-phone/
 https://awesomecua.com/resources/github-dongxinsuperman-ai-web/
 https://awesomecua.com/resources/github-dongxinsuperman-case-flow-ai/
 https://awesomecua.com/resources/github-dongyh20-octopus/
 https://awesomecua.com/resources/github-doom2quake-ringlight/
 https://awesomecua.com/resources/github-doom2quake-weave/
+https://awesomecua.com/resources/github-doronz88-pymobiledevice3/
 https://awesomecua.com/resources/github-dortanes-atlas/
 https://awesomecua.com/resources/github-doruktarhan-jev-browser/
 https://awesomecua.com/resources/github-dra1ex-chatgpt-bridge/
@@ -2453,6 +2481,7 @@ https://awesomecua.com/resources/github-droidrun-mobilerun-portal/
 https://awesomecua.com/resources/github-droidrun-mobilerun/
 https://awesomecua.com/resources/github-droppinganvil-screenpilot/
 https://awesomecua.com/resources/github-dtmilano-androidviewclient/
+https://awesomecua.com/resources/github-dtmilano-culebratester2-public/
 https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/
 https://awesomecua.com/resources/github-dtopuzov-craftdriver/
 https://awesomecua.com/resources/github-dttxorg-deepseekeyes/
@@ -2475,6 +2504,7 @@ https://awesomecua.com/resources/github-ebt55-proofpack/
 https://awesomecua.com/resources/github-echovic-blade-code/
 https://awesomecua.com/resources/github-echovic-orca-agent/
 https://awesomecua.com/resources/github-echovic-pilion-browser/
+https://awesomecua.com/resources/github-ecnusse-kea2/
 https://awesomecua.com/resources/github-edenbuilds-touchline/
 https://awesomecua.com/resources/github-edgarbnt-reactsentinel/
 https://awesomecua.com/resources/github-edgeagent-clawpilot-command-center/
@@ -2491,6 +2521,7 @@ https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/
 https://awesomecua.com/resources/github-elidot007-desktop-agent/
 https://awesomecua.com/resources/github-elijahumana-one-for-all/
 https://awesomecua.com/resources/github-ellmos-ai-clirec/
+https://awesomecua.com/resources/github-ellmos-ai-cowork-protocol/
 https://awesomecua.com/resources/github-ellmos-ai-open-compute-mcp/
 https://awesomecua.com/resources/github-ellmos-ai-open-compute/
 https://awesomecua.com/resources/github-eloiramos-redline/
@@ -2555,6 +2586,7 @@ https://awesomecua.com/resources/github-farhanishmam-agentlab-knows/
 https://awesomecua.com/resources/github-farhanishmam-browsergym-knows/
 https://awesomecua.com/resources/github-farzaa-clicky/
 https://awesomecua.com/resources/github-fatmind-dsh-plugin-browser-use/
+https://awesomecua.com/resources/github-fatmind-wc3-chrome/
 https://awesomecua.com/resources/github-fatmind-webclaw3/
 https://awesomecua.com/resources/github-faxanfm-webmcp-deadbolt/
 https://awesomecua.com/resources/github-fclab-skku-mobilegpt/
@@ -2566,6 +2598,8 @@ https://awesomecua.com/resources/github-feder-cr-invisible-core/
 https://awesomecua.com/resources/github-feder-cr-invisible-dots/
 https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/
 https://awesomecua.com/resources/github-feder-cr-invisible-playwright/
+https://awesomecua.com/resources/github-feder-cr-invisible-puppeteer/
+https://awesomecua.com/resources/github-feder-cr-invisible-selenium/
 https://awesomecua.com/resources/github-fedetrain-autofiller-universal/
 https://awesomecua.com/resources/github-felixkruger-peekaboowin/
 https://awesomecua.com/resources/github-felixlark-agent-curtain/
@@ -2596,6 +2630,7 @@ https://awesomecua.com/resources/github-fred-brown-3-job-hunter-ai/
 https://awesomecua.com/resources/github-freezetheworld-latch/
 https://awesomecua.com/resources/github-frezzaroukos-axon-os/
 https://awesomecua.com/resources/github-friedrichor-webtestbench/
+https://awesomecua.com/resources/github-frsorrentino-chrome-bridge/
 https://awesomecua.com/resources/github-frumane-gecko-mcp/
 https://awesomecua.com/resources/github-fsoft-ai4code-hyperagent/
 https://awesomecua.com/resources/github-fullselfbrowsing-fsb/
@@ -2632,6 +2667,7 @@ https://awesomecua.com/resources/github-genymobile-scrcpy/
 https://awesomecua.com/resources/github-geohotstan-dsh-computer-use/
 https://awesomecua.com/resources/github-george4data-cmux-skill/
 https://awesomecua.com/resources/github-georgenijo-ghosthands/
+https://awesomecua.com/resources/github-getsentry-xcodebuildmcp/
 https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/
 https://awesomecua.com/resources/github-ghadinehme-videocad/
 https://awesomecua.com/resources/github-ghorbelhamdi-buddy-android/
@@ -2673,6 +2709,7 @@ https://awesomecua.com/resources/github-google-research-datasets-uibert/
 https://awesomecua.com/resources/github-google-research-datasets-uicrit/
 https://awesomecua.com/resources/github-google-research-datasets-widget-caption/
 https://awesomecua.com/resources/github-google-research-pix2struct/
+https://awesomecua.com/resources/github-googlechrome-chrome-launcher/
 https://awesomecua.com/resources/github-googlechromelabs-webmcp-tools/
 https://awesomecua.com/resources/github-greqone-przedwysylkawebmcplab/
 https://awesomecua.com/resources/github-groundingpi-groundanything/
@@ -2703,6 +2740,7 @@ https://awesomecua.com/resources/github-haden-min-haden-browser/
 https://awesomecua.com/resources/github-haidaresber-ai-browser/
 https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/
 https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/
+https://awesomecua.com/resources/github-halluminate-noodle-flights/
 https://awesomecua.com/resources/github-halluminate-webbench/
 https://awesomecua.com/resources/github-halluminate-westworld/
 https://awesomecua.com/resources/github-hammerspoon-hammerspoon/
@@ -2715,6 +2753,8 @@ https://awesomecua.com/resources/github-hanzili-hanzi-browse/
 https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/
 https://awesomecua.com/resources/github-haodongzhang022-hue-openliulan/
 https://awesomecua.com/resources/github-harpreetsahota204-coco4gui-fiftyone/
+https://awesomecua.com/resources/github-harpreetsahota204-gui-actor-for-fiftyone/
+https://awesomecua.com/resources/github-harpreetsahota204-gui-agent-research-landscape/
 https://awesomecua.com/resources/github-harpreetsahota204-gui-dataset-creator/
 https://awesomecua.com/resources/github-harpreetsahota204-synthetic-gui-samples-plugins/
 https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/
@@ -2826,6 +2866,7 @@ https://awesomecua.com/resources/github-internlm-wildclawbench/
 https://awesomecua.com/resources/github-intherainof-mobile-agent/
 https://awesomecua.com/resources/github-intra2net-guibot/
 https://awesomecua.com/resources/github-invictumhr-ai-invictum-browser-bridge/
+https://awesomecua.com/resources/github-ipbtools-ipb/
 https://awesomecua.com/resources/github-isac322-kwin-mcp/
 https://awesomecua.com/resources/github-ishan0102-vimgpt/
 https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/
@@ -2833,6 +2874,7 @@ https://awesomecua.com/resources/github-issumer-ku-osworld-cogagent/
 https://awesomecua.com/resources/github-issumer-ku-osworld-qwen2-5vl-enhanced/
 https://awesomecua.com/resources/github-itmediatech-better-ai-browser-utilities/
 https://awesomecua.com/resources/github-itsmarcels-zetatron/
+https://awesomecua.com/resources/github-itw-code-arc-cua/
 https://awesomecua.com/resources/github-itw-code-solari-cookbook/
 https://awesomecua.com/resources/github-ivanposel-look-decide-act/
 https://awesomecua.com/resources/github-ivy-interactive-ivy-tendril/
@@ -2841,6 +2883,7 @@ https://awesomecua.com/resources/github-ixchio-terx/
 https://awesomecua.com/resources/github-iyulab-momos/
 https://awesomecua.com/resources/github-ja-plus-x11-computer-use/
 https://awesomecua.com/resources/github-ja1chen-actell/
+https://awesomecua.com/resources/github-ja1chen-muse-gadget-actell-mods/
 https://awesomecua.com/resources/github-jacklishufan-mobileworld/
 https://awesomecua.com/resources/github-jackwangfeng-qdesk/
 https://awesomecua.com/resources/github-jackwener-opencli/
@@ -2857,6 +2900,7 @@ https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/
 https://awesomecua.com/resources/github-jameswirths-threadline/
 https://awesomecua.com/resources/github-jamshed7470-grasp-mcp/
 https://awesomecua.com/resources/github-jason26214-omni-computer-use/
+https://awesomecua.com/resources/github-jasonjmcghee-webmcp/
 https://awesomecua.com/resources/github-jasonwei04-dsh-computer-use/
 https://awesomecua.com/resources/github-jasonzliang-caesar-agent/
 https://awesomecua.com/resources/github-jasper0122-cli-anything-arcgis-pro/
@@ -2897,6 +2941,7 @@ https://awesomecua.com/resources/github-jinmojing-browser-forest-mcp-server/
 https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/
 https://awesomecua.com/resources/github-jiugao-yi-xihe-agent/
 https://awesomecua.com/resources/github-jiutian-vl-simpagent/
+https://awesomecua.com/resources/github-jkcoxson-idevice/
 https://awesomecua.com/resources/github-jleuth-gofer/
 https://awesomecua.com/resources/github-jlov7-nanoawm/
 https://awesomecua.com/resources/github-jmeguilos-computer-use-mcp/
@@ -2940,6 +2985,11 @@ https://awesomecua.com/resources/github-kagnlp-weboperator/
 https://awesomecua.com/resources/github-kaiizer777-mew-agent/
 https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/
 https://awesomecua.com/resources/github-kalebteccom-browxai/
+https://awesomecua.com/resources/github-kaliiiiiiiiii-brotector/
+https://awesomecua.com/resources/github-kaliiiiiiiiii-selenium-driverless/
+https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-cdp-patches/
+https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/
+https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/
 https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/
 https://awesomecua.com/resources/github-kalyvask-inside-the-agent/
 https://awesomecua.com/resources/github-kamalesh404-agentos/
@@ -2959,8 +3009,10 @@ https://awesomecua.com/resources/github-kernel-claude-cu-loop-sample/
 https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/
 https://awesomecua.com/resources/github-kernel-kernel-images/
 https://awesomecua.com/resources/github-kernel-kernel-mcp-server/
+https://awesomecua.com/resources/github-kerpopule-hermes-jev-skills/
 https://awesomecua.com/resources/github-kevintrinhdev-gaze/
 https://awesomecua.com/resources/github-kfastov-hermes-plugin-login-bridge/
+https://awesomecua.com/resources/github-khazixw2-everything-maa/
 https://awesomecua.com/resources/github-khbayazidahmed-browser-automation-cli/
 https://awesomecua.com/resources/github-kiarosama-numera-browser/
 https://awesomecua.com/resources/github-kiexpert-wkappbot-sdk/
@@ -2979,6 +3031,7 @@ https://awesomecua.com/resources/github-kota-kawa-browser-agent/
 https://awesomecua.com/resources/github-kotori0919-clef-use/
 https://awesomecua.com/resources/github-koukeneko-cloakgpt/
 https://awesomecua.com/resources/github-kov-caravela/
+https://awesomecua.com/resources/github-kqcoxn-maapipelineeditor/
 https://awesomecua.com/resources/github-kuafuai-andee/
 https://awesomecua.com/resources/github-kubstack-appwalk/
 https://awesomecua.com/resources/github-kuichi-x-kc-browser/
@@ -2992,6 +3045,7 @@ https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/
 https://awesomecua.com/resources/github-kwai-memgui-agent/
 https://awesomecua.com/resources/github-kwai-mobileforge/
 https://awesomecua.com/resources/github-kweinmeister-agentitest/
+https://awesomecua.com/resources/github-kwhat-libuiohook/
 https://awesomecua.com/resources/github-kxc7558-recruit-auto-reply/
 https://awesomecua.com/resources/github-kxdds-webbridge/
 https://awesomecua.com/resources/github-kxvya18-chnage-shield/
@@ -3004,6 +3058,7 @@ https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/
 https://awesomecua.com/resources/github-laiye-ai-open-apa/
 https://awesomecua.com/resources/github-lakr233-computeruse/
 https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/
+https://awesomecua.com/resources/github-lance-ying-aigamestore/
 https://awesomecua.com/resources/github-lancopku-agent-backdoor-attacks/
 https://awesomecua.com/resources/github-langchain-ai-langgraph/
 https://awesomecua.com/resources/github-lannistersyh-markforge/
@@ -3104,7 +3159,10 @@ https://awesomecua.com/resources/github-lyt060814-cua-gym-pptx/
 https://awesomecua.com/resources/github-lzw12w-glass-browser/
 https://awesomecua.com/resources/github-m1ssbe4r-pocketcode/
 https://awesomecua.com/resources/github-ma-pony-mcp-playwright/
+https://awesomecua.com/resources/github-maaassistantarknights-maatouch/
+https://awesomecua.com/resources/github-maaxyz-maadebugger/
 https://awesomecua.com/resources/github-maaxyz-maaframework/
+https://awesomecua.com/resources/github-maaxyz-maaloganalyzer/
 https://awesomecua.com/resources/github-macpaw-macarena/
 https://awesomecua.com/resources/github-macpaw-screen2ax/
 https://awesomecua.com/resources/github-macuse-app-macuse-mcp/
@@ -3116,6 +3174,7 @@ https://awesomecua.com/resources/github-madeagents-topoclaw/
 https://awesomecua.com/resources/github-maderwin-pinchtab-mcp/
 https://awesomecua.com/resources/github-maestrojeong-browser-rs-mcp/
 https://awesomecua.com/resources/github-maestrojeong-cua-rs-mcp/
+https://awesomecua.com/resources/github-maestrojeong-mcp-patchright/
 https://awesomecua.com/resources/github-magi-labs-livemcp/
 https://awesomecua.com/resources/github-magi-labs-mobilemcp/
 https://awesomecua.com/resources/github-magicgh-ask-before-plan/
@@ -3130,6 +3189,7 @@ https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/
 https://awesomecua.com/resources/github-mahmoudadelbghany-jev-browser/
 https://awesomecua.com/resources/github-mahsaanullah-agent-friday/
 https://awesomecua.com/resources/github-malonghui-relationgui/
+https://awesomecua.com/resources/github-manaflow-ai-cmux-skills/
 https://awesomecua.com/resources/github-manaflow-ai-cmux/
 https://awesomecua.com/resources/github-manaflow-ai-codex-cua/
 https://awesomecua.com/resources/github-mangeshraut712-apply-lens/
@@ -3213,9 +3273,11 @@ https://awesomecua.com/resources/github-microsoft-gui-agent-rl/
 https://awesomecua.com/resources/github-microsoft-magentic-ui/
 https://awesomecua.com/resources/github-microsoft-magma/
 https://awesomecua.com/resources/github-microsoft-omniparser/
+https://awesomecua.com/resources/github-microsoft-orchard-agentic/
 https://awesomecua.com/resources/github-microsoft-phi-ground/
 https://awesomecua.com/resources/github-microsoft-playwright-cli/
 https://awesomecua.com/resources/github-microsoft-playwright-mcp/
+https://awesomecua.com/resources/github-microsoft-playwright-python/
 https://awesomecua.com/resources/github-microsoft-playwright-vscode/
 https://awesomecua.com/resources/github-microsoft-playwright/
 https://awesomecua.com/resources/github-microsoft-precision-cua-bench/
@@ -3227,6 +3289,7 @@ https://awesomecua.com/resources/github-microsoft-windowsagentarena/
 https://awesomecua.com/resources/github-midorikuramochi-intent-relay/
 https://awesomecua.com/resources/github-migoxlab-webqa-agent/
 https://awesomecua.com/resources/github-miguelcespedes-microsoft-paint-mcp-server/
+https://awesomecua.com/resources/github-miguelspizza-webmcp/
 https://awesomecua.com/resources/github-mihneateodorstoica-aegis-desktop/
 https://awesomecua.com/resources/github-miiiuser-dsh-browser-agent/
 https://awesomecua.com/resources/github-mikastiebitz-faster-browser-agent/
@@ -3258,8 +3321,10 @@ https://awesomecua.com/resources/github-mircoblitz-unraid-camofox-stealth-browse
 https://awesomecua.com/resources/github-misb74-replay/
 https://awesomecua.com/resources/github-mishrasreyansh86-cloud-srey-voice-assistant/
 https://awesomecua.com/resources/github-mishushakov-llm-scraper/
+https://awesomecua.com/resources/github-misteo-mxu/
 https://awesomecua.com/resources/github-mistudio0902-lab-chrome-bridge/
 https://awesomecua.com/resources/github-miyahluvgames-source-helix-computer-use/
+https://awesomecua.com/resources/github-mjolnirapp-mjolnir/
 https://awesomecua.com/resources/github-mkhan49-governed-computer-use/
 https://awesomecua.com/resources/github-mlfoundations-gelato/
 https://awesomecua.com/resources/github-mm-sheng-404-directory/
@@ -3344,6 +3409,7 @@ https://awesomecua.com/resources/github-navisualguide-navisual/
 https://awesomecua.com/resources/github-nayakprashant-selenium-mcp-server/
 https://awesomecua.com/resources/github-nazocatai-agent-scope-browser/
 https://awesomecua.com/resources/github-neilyysun-ui-hoverclick/
+https://awesomecua.com/resources/github-neko-para-maa-support-extension/
 https://awesomecua.com/resources/github-nekuda-ai-windtunnel/
 https://awesomecua.com/resources/github-nemosr-dsh-personal-plugins/
 https://awesomecua.com/resources/github-neodrew-chromeflow/
@@ -3407,6 +3473,7 @@ https://awesomecua.com/resources/github-off-camber-open-frame/
 https://awesomecua.com/resources/github-officiallemmy254-droid-human-browser-copilot/
 https://awesomecua.com/resources/github-ogutdgn-cuarena/
 https://awesomecua.com/resources/github-ohmyskyhigh-tabro/
+https://awesomecua.com/resources/github-ok-oldking-ok-script/
 https://awesomecua.com/resources/github-olib-ai-owl-browser-claude-plugin/
 https://awesomecua.com/resources/github-olmatter-chatgpt-bridge/
 https://awesomecua.com/resources/github-om-ai-lab-vlm-r1/
@@ -3450,6 +3517,9 @@ https://awesomecua.com/resources/github-openai-openai-cua-sample-app/
 https://awesomecua.com/resources/github-openai-universe-starter-agent/
 https://awesomecua.com/resources/github-openai-universe/
 https://awesomecua.com/resources/github-openamer-openamer/
+https://awesomecua.com/resources/github-openatx-adbutils/
+https://awesomecua.com/resources/github-openatx-android-uiautomator-server-jar/
+https://awesomecua.com/resources/github-openatx-android-uiautomator-server/
 https://awesomecua.com/resources/github-openatx-uiautomator2/
 https://awesomecua.com/resources/github-openautocoder-agentless/
 https://awesomecua.com/resources/github-openbmb-agentcpm-gui/
@@ -3513,10 +3583,12 @@ https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/
 https://awesomecua.com/resources/github-osu-nlp-group-webguard/
 https://awesomecua.com/resources/github-ota-tech-ai-web-agent-protocol/
 https://awesomecua.com/resources/github-othersideai-self-operating-computer/
+https://awesomecua.com/resources/github-otowa-kotori-maafw-cli/
 https://awesomecua.com/resources/github-otsolappalainen-minecraft-rl/
 https://awesomecua.com/resources/github-ottohere-mourn-teachreplay-openmausbot/
 https://awesomecua.com/resources/github-ottohere-mourn-teachreplay/
 https://awesomecua.com/resources/github-outcrawlai-scout/
+https://awesomecua.com/resources/github-overflow65537-mfw-pyqt6/
 https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/
 https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/
 https://awesomecua.com/resources/github-oyadotai-oya-browser/
@@ -3550,6 +3622,7 @@ https://awesomecua.com/resources/github-peerframe-openbot/
 https://awesomecua.com/resources/github-pegasi-ai-reins/
 https://awesomecua.com/resources/github-peiwenzhang-git-ai-work/
 https://awesomecua.com/resources/github-pelag-michael-chrome-for-ai/
+https://awesomecua.com/resources/github-penghao-wu-gui-reflection-env/
 https://awesomecua.com/resources/github-penghao-wu-gui-reflection/
 https://awesomecua.com/resources/github-pensefact-flowpilot-engine/
 https://awesomecua.com/resources/github-perception-dynamics-inc-a11y-computer-use/
@@ -3580,10 +3653,13 @@ https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
 https://awesomecua.com/resources/github-plasmate-labs-plasmate-extension/
 https://awesomecua.com/resources/github-plasmate-labs-plasmate-mcp/
 https://awesomecua.com/resources/github-plasmate-labs-plasmate/
+https://awesomecua.com/resources/github-plasmate-labs-skill-openclaw/
+https://awesomecua.com/resources/github-plasmate-labs-stagehand-plasmate/
 https://awesomecua.com/resources/github-platonai-browser4/
 https://awesomecua.com/resources/github-platonai-pulsarrpa/
 https://awesomecua.com/resources/github-player-yn-browserkitten/
 https://awesomecua.com/resources/github-pleasedodisturb-web-agent-comparison/
+https://awesomecua.com/resources/github-pleaseprompto-notebooklm-mcp/
 https://awesomecua.com/resources/github-pleaseprompto-notebooklm-skill/
 https://awesomecua.com/resources/github-plocr-reasonix-computer-use/
 https://awesomecua.com/resources/github-plow-pbc-latch/
@@ -3604,11 +3680,13 @@ https://awesomecua.com/resources/github-pradyut-das-macscreencompanion/
 https://awesomecua.com/resources/github-prakhar1114-ai-mime/
 https://awesomecua.com/resources/github-pranavgawasproject-secure-browser-mcp/
 https://awesomecua.com/resources/github-praticoeq-sudo-browser-account-guard/
+https://awesomecua.com/resources/github-predicatesystems-predicate-authority-sidecar/
 https://awesomecua.com/resources/github-predicatesystems-predicate-runtime-python/
 https://awesomecua.com/resources/github-predicatesystems-predicate-sdk-playground/
 https://awesomecua.com/resources/github-predicatesystems-predicate-secure/
 https://awesomecua.com/resources/github-predicatesystems-sdk-typescript/
 https://awesomecua.com/resources/github-prentisai-groundgui/
+https://awesomecua.com/resources/github-prescience-data-harden-puppeteer/
 https://awesomecua.com/resources/github-presidio-oss-factif-ai/
 https://awesomecua.com/resources/github-princechouhan19-opencometai/
 https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/
@@ -3681,12 +3759,14 @@ https://awesomecua.com/resources/github-rao-studios-frigate/
 https://awesomecua.com/resources/github-rao-studios-mary/
 https://awesomecua.com/resources/github-rao-studios-visionax/
 https://awesomecua.com/resources/github-raunak-choudhary-hack-princeton-mealpilot/
+https://awesomecua.com/resources/github-ravizhan-mwu/
 https://awesomecua.com/resources/github-raynan00-shoal/
 https://awesomecua.com/resources/github-raystyle-browser-harness/
 https://awesomecua.com/resources/github-reacher-z-harnessbench/
 https://awesomecua.com/resources/github-reallm-labs-infigui-r1/
 https://awesomecua.com/resources/github-realstreetsmartnyc-smart-pet-agent/
 https://awesomecua.com/resources/github-reason-wang-toolgen/
+https://awesomecua.com/resources/github-rebrowser-rebrowser-bot-detector/
 https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/
 https://awesomecua.com/resources/github-redbotster-poisonpage/
 https://awesomecua.com/resources/github-redf0x1-camofox-mcp/
@@ -3700,6 +3780,7 @@ https://awesomecua.com/resources/github-remote-skills-settled-computer/
 https://awesomecua.com/resources/github-renezander030-browserground/
 https://awesomecua.com/resources/github-renoned-dsh-computer-use/
 https://awesomecua.com/resources/github-resolvrlabs-resolvr-typescript/
+https://awesomecua.com/resources/github-ret70-ptfaketouch/
 https://awesomecua.com/resources/github-reworkd-agentgpt/
 https://awesomecua.com/resources/github-reworkd-bananalyzer/
 https://awesomecua.com/resources/github-reworkd-tarsier/
@@ -3714,6 +3795,7 @@ https://awesomecua.com/resources/github-rishabhcli-qagent/
 https://awesomecua.com/resources/github-rishabhp1508-understudy/
 https://awesomecua.com/resources/github-rishitank-animawatch/
 https://awesomecua.com/resources/github-ritzz-ai-gui-r1/
+https://awesomecua.com/resources/github-riwsky-iosef/
 https://awesomecua.com/resources/github-rizonetech-chromemcp/
 https://awesomecua.com/resources/github-rkvalandas-browser-agent/
 https://awesomecua.com/resources/github-roadmvn-linux-computer-use/
@@ -3730,9 +3812,11 @@ https://awesomecua.com/resources/github-rrweb-io-rrweb/
 https://awesomecua.com/resources/github-rsgoksel-mechcp/
 https://awesomecua.com/resources/github-rtrvr-ai-rtrvr-cli/
 https://awesomecua.com/resources/github-rty90-android-agent-reliability-runtime/
+https://awesomecua.com/resources/github-rubycdp-cuprite/
 https://awesomecua.com/resources/github-rubycdp-ferrum/
 https://awesomecua.com/resources/github-ruc-nlpir-webthinker/
 https://awesomecua.com/resources/github-rudrendupaul-deskcert-cli/
+https://awesomecua.com/resources/github-ruifigueira-playwright-crx/
 https://awesomecua.com/resources/github-runamu-monday/
 https://awesomecua.com/resources/github-runta-dev-errand/
 https://awesomecua.com/resources/github-ruslankoroy-desktop-agent/
@@ -3769,6 +3853,7 @@ https://awesomecua.com/resources/github-salt-nlp-popupattack/
 https://awesomecua.com/resources/github-salus-ryan-mobile-agent-guardian/
 https://awesomecua.com/resources/github-salviz-termux-browser-pilot/
 https://awesomecua.com/resources/github-sam-siavoshian-forged/
+https://awesomecua.com/resources/github-sameelarif-scribe/
 https://awesomecua.com/resources/github-samestrin-chromium-screenshots/
 https://awesomecua.com/resources/github-sametbasbug-equinox-local/
 https://awesomecua.com/resources/github-sammysnake-d-magpie-computer-use-agent/
@@ -3799,10 +3884,12 @@ https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/
 https://awesomecua.com/resources/github-scaleapi-browser-art/
 https://awesomecua.com/resources/github-scanchila-metawebmcp/
 https://awesomecua.com/resources/github-scenario-labs-blender-plugin/
+https://awesomecua.com/resources/github-scrapeless-ai-sdk-go/
 https://awesomecua.com/resources/github-scrapeless-ai-sdk-node/
 https://awesomecua.com/resources/github-scrapeless-ai-sdk-python/
 https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/
 https://awesomecua.com/resources/github-scrapfly-scrapfly-mcp/
+https://awesomecua.com/resources/github-scrctl-xdevicebridge/
 https://awesomecua.com/resources/github-screenpipe-screenleak/
 https://awesomecua.com/resources/github-screenpipe-screenpipe/
 https://awesomecua.com/resources/github-scrolldynasty-browsermesh/
@@ -3918,6 +4005,7 @@ https://awesomecua.com/resources/github-socai-io-dsh-socai/
 https://awesomecua.com/resources/github-socai-io-jev-social/
 https://awesomecua.com/resources/github-socai-io-socai/
 https://awesomecua.com/resources/github-software-mansion-app-control-bench/
+https://awesomecua.com/resources/github-software-mansion-argent/
 https://awesomecua.com/resources/github-softwaretestingllms-webtestingwithllms/
 https://awesomecua.com/resources/github-sohan-a11y-auth-synchronizer/
 https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/
@@ -3976,9 +4064,11 @@ https://awesomecua.com/resources/github-sumanmadipeddi-mobile-qa-agent/
 https://awesomecua.com/resources/github-summoneryhl-gelab-engine/
 https://awesomecua.com/resources/github-sumo1-computer-use-harness/
 https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/
+https://awesomecua.com/resources/github-sunasaji-serial-hid-kvm/
 https://awesomecua.com/resources/github-sunblaze-ucb-agentsynth/
 https://awesomecua.com/resources/github-sunnybharne-pi-playwright-browser/
 https://awesomecua.com/resources/github-sunnynexus-search-o1/
+https://awesomecua.com/resources/github-sunyink-maaowm/
 https://awesomecua.com/resources/github-sunzey-seagent/
 https://awesomecua.com/resources/github-supermarioyl-flowcast/
 https://awesomecua.com/resources/github-supermarioyl-idemstep/
@@ -3986,6 +4076,7 @@ https://awesomecua.com/resources/github-supermarioyl-uia-agent/
 https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/
 https://awesomecua.com/resources/github-surrealmindai-frontprompt/
 https://awesomecua.com/resources/github-swe-agent-swe-agent/
+https://awesomecua.com/resources/github-sweetsmellfox-mfaavalonia/
 https://awesomecua.com/resources/github-swilliams9772-mac-computer-use/
 https://awesomecua.com/resources/github-swimmwatch-cloakbrowser-mcp/
 https://awesomecua.com/resources/github-sy-d-handraise-slack/
@@ -4007,6 +4098,8 @@ https://awesomecua.com/resources/github-taiyouqu-aivane/
 https://awesomecua.com/resources/github-tajamul21-medspot/
 https://awesomecua.com/resources/github-tak-uukti-linux-computer-use/
 https://awesomecua.com/resources/github-tanob-mcp-desktop-automation/
+https://awesomecua.com/resources/github-tanyashue-maactl/
+https://awesomecua.com/resources/github-tanyashue-maainspector/
 https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/
 https://awesomecua.com/resources/github-tasinxxx-blaxin/
 https://awesomecua.com/resources/github-task-web-osworld-web/
@@ -4019,11 +4112,13 @@ https://awesomecua.com/resources/github-teamcapybara-capybara/
 https://awesomecua.com/resources/github-tebelorg-rpa-python/
 https://awesomecua.com/resources/github-techgardencode-naive-user/
 https://awesomecua.com/resources/github-tencent-browserskill/
+https://awesomecua.com/resources/github-tencent-cogkernel/
 https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/
 https://awesomecua.com/resources/github-tencent-playcoder/
 https://awesomecua.com/resources/github-tencent-points-gui/
 https://awesomecua.com/resources/github-tencent-selfevolvingagent/
 https://awesomecua.com/resources/github-tencent-ui-mate/
+https://awesomecua.com/resources/github-tencent-webaggregator/
 https://awesomecua.com/resources/github-tencentqqgylab-appagent/
 https://awesomecua.com/resources/github-tengqi159-deepseek-harness-desktop/
 https://awesomecua.com/resources/github-tenmomo-browser-agent/
@@ -4033,6 +4128,7 @@ https://awesomecua.com/resources/github-testplay-byte-acute-code/
 https://awesomecua.com/resources/github-testtesta6-visiondroid/
 https://awesomecua.com/resources/github-that1drifter-browse-mcp/
 https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/
+https://awesomecua.com/resources/github-the-ai-alliance-cube-standard/
 https://awesomecua.com/resources/github-the-long-ride-aevra-desktop-use/
 https://awesomecua.com/resources/github-the-long-ride-aevra/
 https://awesomecua.com/resources/github-the-open-agent-openagent/
@@ -4140,6 +4236,7 @@ https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/
 https://awesomecua.com/resources/github-ugaiforge-designrepair/
 https://awesomecua.com/resources/github-ugarchance-record-and-replay-skill/
 https://awesomecua.com/resources/github-ui-voyager-ui-voyager/
+https://awesomecua.com/resources/github-uiautodev-uiautodev/
 https://awesomecua.com/resources/github-uitron-hub-treecua/
 https://awesomecua.com/resources/github-uiuing-browser-agent/
 https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/
@@ -4251,6 +4348,7 @@ https://awesomecua.com/resources/github-web-infra-dev-midscene/
 https://awesomecua.com/resources/github-webagent-cloud-webagent/
 https://awesomecua.com/resources/github-webbrain-one-webbrain/
 https://awesomecua.com/resources/github-webmachinelearning-webmcp/
+https://awesomecua.com/resources/github-webmcp-org-npm-packages/
 https://awesomecua.com/resources/github-webvln-webvln/
 https://awesomecua.com/resources/github-week833-windows-local-action-recorder/
 https://awesomecua.com/resources/github-weihaoyyy-codex-for-wechat/
@@ -4268,6 +4366,7 @@ https://awesomecua.com/resources/github-wieslawsoltes-linuxcomputeruse/
 https://awesomecua.com/resources/github-wieslawsoltes-parallelsskill/
 https://awesomecua.com/resources/github-williehems-agentready/
 https://awesomecua.com/resources/github-wimi321-windows-computer-use-skill/
+https://awesomecua.com/resources/github-windsland52-maaevidencekit/
 https://awesomecua.com/resources/github-wins0l-harness/
 https://awesomecua.com/resources/github-winter40611-browser-agent/
 https://awesomecua.com/resources/github-wiselnn570-co-design-bench/
@@ -4285,6 +4384,7 @@ https://awesomecua.com/resources/github-worksonmyvm-android-device-perception-sk
 https://awesomecua.com/resources/github-wornpage-webmcp-conformance/
 https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/
 https://awesomecua.com/resources/github-wqzhellohhwy-qoder-browser-connector-enabler/
+https://awesomecua.com/resources/github-wshuyi-x-article-publisher-skill/
 https://awesomecua.com/resources/github-wsk-build-dshbox/
 https://awesomecua.com/resources/github-wsk-build-interlock-relay/
 https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/
@@ -4396,6 +4496,7 @@ https://awesomecua.com/resources/github-yuta-fywoo-jev-gui-delegate/
 https://awesomecua.com/resources/github-yutori-ai-navi-bench/
 https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/
 https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/
+https://awesomecua.com/resources/github-yuyoungg-uiautomator2-webview/
 https://awesomecua.com/resources/github-yv17labs-ghostdesk/
 https://awesomecua.com/resources/github-yxb-nku-se-gui/
 https://awesomecua.com/resources/github-yxdgyxlf-computer-use-grid/
@@ -4425,9 +4526,11 @@ https://awesomecua.com/resources/github-zero06six-mailman-agents/
 https://awesomecua.com/resources/github-zeshuochen-nekoro-browser/
 https://awesomecua.com/resources/github-zetakai-desktop-mcp/
 https://awesomecua.com/resources/github-zezortdx-pegoles-agent/
+https://awesomecua.com/resources/github-zfcsoftware-puppeteer-real-browser/
 https://awesomecua.com/resources/github-zg0704666-aries-ai/
 https://awesomecua.com/resources/github-zhangruotian-conclick/
 https://awesomecua.com/resources/github-zhangyan-ucas-gui-sd-code/
+https://awesomecua.com/resources/github-zhangzhao4444-maxim/
 https://awesomecua.com/resources/github-zhaodashuaibi-versaios/
 https://awesomecua.com/resources/github-zhaoyouj-mcp-slicer/
 https://awesomecua.com/resources/github-zhayujie-cowagent/
@@ -4461,6 +4564,7 @@ https://awesomecua.com/resources/github-ztr321-enterprise-web-workflow-agent/
 https://awesomecua.com/resources/github-zty552252kevin-code-desktop-hub/
 https://awesomecua.com/resources/github-zuhair-01-chrome-agent-bridge/
 https://awesomecua.com/resources/github-zumerlab-snapdom/
+https://awesomecua.com/resources/github-zumerlab-snapeye/
 https://awesomecua.com/resources/github-zumerlab-snapsurf/
 https://awesomecua.com/resources/github-zuub-don-domstamp/
 https://awesomecua.com/resources/github-zwq-top-ui-image-to-code-studio/
@@ -4524,6 +4628,7 @@ https://awesomecua.com/resources/url-0ab0de943c5396cdf366/
 https://awesomecua.com/resources/url-0af07e00658a430cee6a/
 https://awesomecua.com/resources/url-0b0a7a841d65715d60b1/
 https://awesomecua.com/resources/url-0b134b082a7bd507fc6a/
+https://awesomecua.com/resources/url-0b272935f82c063d9384/
 https://awesomecua.com/resources/url-0b3bb9fac5b0ba9777b8/
 https://awesomecua.com/resources/url-0b590d03a3d5103a79e4/
 https://awesomecua.com/resources/url-0b94b29f2afbfe8a3abb/
@@ -4583,10 +4688,13 @@ https://awesomecua.com/resources/url-1e6b8682e0f1ddc3d36f/
 https://awesomecua.com/resources/url-1e85f7557b39ae40193f/
 https://awesomecua.com/resources/url-1f248862e4b691b85343/
 https://awesomecua.com/resources/url-1f488d7ef1c703f97a8a/
+https://awesomecua.com/resources/url-1ff9a17a7d0802a71b1a/
+https://awesomecua.com/resources/url-201acf47dde3df755bfe/
 https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/
 https://awesomecua.com/resources/url-20fa95f00391bf965af2/
 https://awesomecua.com/resources/url-21687e3bf1eb78f2bcda/
 https://awesomecua.com/resources/url-2260aaa47fb9c63bb917/
+https://awesomecua.com/resources/url-2304547d5025246abbe4/
 https://awesomecua.com/resources/url-232a1698849e2fea425c/
 https://awesomecua.com/resources/url-23ad240757185c6f7eac/
 https://awesomecua.com/resources/url-23bc63f93d3c31d74af3/
@@ -4656,6 +4764,7 @@ https://awesomecua.com/resources/url-36a7cba41056d46cdcde/
 https://awesomecua.com/resources/url-374138c6e18c9f1dd44a/
 https://awesomecua.com/resources/url-37570eed422d326bfa5a/
 https://awesomecua.com/resources/url-377f5418e39ff2da971f/
+https://awesomecua.com/resources/url-37880875f816f46f6dfe/
 https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/
 https://awesomecua.com/resources/url-380318a8de65fe45956c/
 https://awesomecua.com/resources/url-380a6eedcb4de7778e88/
@@ -4687,6 +4796,7 @@ https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/
 https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/
 https://awesomecua.com/resources/url-3e58eecd59c404508757/
 https://awesomecua.com/resources/url-3ef18fbb67e0376561db/
+https://awesomecua.com/resources/url-3f0e524544c55025c9d9/
 https://awesomecua.com/resources/url-3fdea133115518f9205a/
 https://awesomecua.com/resources/url-404c719910f8f4a37149/
 https://awesomecua.com/resources/url-405959de004b6e32c911/
@@ -4702,6 +4812,7 @@ https://awesomecua.com/resources/url-430e47e1ca9f3b2a302f/
 https://awesomecua.com/resources/url-4395ff8522cd77109b83/
 https://awesomecua.com/resources/url-43d811a5957d8effb7ed/
 https://awesomecua.com/resources/url-43f98379902167a5f9f3/
+https://awesomecua.com/resources/url-4425e20ebe68c9eb805f/
 https://awesomecua.com/resources/url-447997967beea3b07f6f/
 https://awesomecua.com/resources/url-44827a16f49e65ba8fb3/
 https://awesomecua.com/resources/url-44b65e07d7a869d37dc6/
@@ -4720,6 +4831,7 @@ https://awesomecua.com/resources/url-4b6d61ff2c1d6c8e1a23/
 https://awesomecua.com/resources/url-4b747a376f628e6f9760/
 https://awesomecua.com/resources/url-4bcb6a451d6f4d25343c/
 https://awesomecua.com/resources/url-4bece2c969edcdfc2e8d/
+https://awesomecua.com/resources/url-4c4b6238a1b1f1dfd4f4/
 https://awesomecua.com/resources/url-4d32ad3682ae2d71c178/
 https://awesomecua.com/resources/url-4d7042b462e937c33406/
 https://awesomecua.com/resources/url-4e71dc456c4112eed727/
@@ -4748,6 +4860,7 @@ https://awesomecua.com/resources/url-52b7de0e43b1afc9c226/
 https://awesomecua.com/resources/url-52de9679739ad0a50f69/
 https://awesomecua.com/resources/url-52ec96785d9c0ae8e039/
 https://awesomecua.com/resources/url-5304880559ad79f5b797/
+https://awesomecua.com/resources/url-534151cf8b1e1df5bf96/
 https://awesomecua.com/resources/url-5371bf588e7790a66ff0/
 https://awesomecua.com/resources/url-543aff764901777e6ad5/
 https://awesomecua.com/resources/url-546e6c95825d1318c98d/
@@ -4772,6 +4885,7 @@ https://awesomecua.com/resources/url-5831a1ae8385cda79575/
 https://awesomecua.com/resources/url-5857c840372512cfe3fc/
 https://awesomecua.com/resources/url-58a209f2b3b970916396/
 https://awesomecua.com/resources/url-592e434848a1514efef0/
+https://awesomecua.com/resources/url-59b8a8cfdd3db7b21058/
 https://awesomecua.com/resources/url-5a073f50270c4f316ce5/
 https://awesomecua.com/resources/url-5a63318fd49cbcc84ad1/
 https://awesomecua.com/resources/url-5aa01cb259a5d9a07d6e/
@@ -4796,6 +4910,7 @@ https://awesomecua.com/resources/url-6262c757080f8838e62c/
 https://awesomecua.com/resources/url-62688de46b172fb0c746/
 https://awesomecua.com/resources/url-62724cba1b5814215cf7/
 https://awesomecua.com/resources/url-628b5251757bb3888e89/
+https://awesomecua.com/resources/url-62a92edacc4b703aaa05/
 https://awesomecua.com/resources/url-62cf0bee7a14cfbc84a0/
 https://awesomecua.com/resources/url-62d912811f786f787ae4/
 https://awesomecua.com/resources/url-62df6dac6ade720ddd70/
@@ -4829,7 +4944,9 @@ https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/
 https://awesomecua.com/resources/url-6a212bc12f82c824f6b9/
 https://awesomecua.com/resources/url-6a943fb3667791b6cdb4/
 https://awesomecua.com/resources/url-6aa1aa58a7a888395189/
+https://awesomecua.com/resources/url-6aa8885dd2c713b4c64f/
 https://awesomecua.com/resources/url-6b9389a144cbe70c894d/
+https://awesomecua.com/resources/url-6bdda64c5782f03b0f54/
 https://awesomecua.com/resources/url-6c16f91d8d79d7836283/
 https://awesomecua.com/resources/url-6c3e04249787a3de7cbc/
 https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/
@@ -4874,6 +4991,7 @@ https://awesomecua.com/resources/url-77c708f5cff2d4c95e90/
 https://awesomecua.com/resources/url-78802d1a2fce25f20f85/
 https://awesomecua.com/resources/url-78adf6919bdbce42bc24/
 https://awesomecua.com/resources/url-79287058342289aa5d45/
+https://awesomecua.com/resources/url-792920a5f64df66d34d7/
 https://awesomecua.com/resources/url-79b8dfa115894a7f53aa/
 https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/
 https://awesomecua.com/resources/url-7a35f44787f99834f13e/
@@ -4882,13 +5000,16 @@ https://awesomecua.com/resources/url-7ae2670859e3796e8607/
 https://awesomecua.com/resources/url-7afa17db925828d9a035/
 https://awesomecua.com/resources/url-7c01d4caa44763019e36/
 https://awesomecua.com/resources/url-7c3e8c4ba52428584079/
+https://awesomecua.com/resources/url-7c431ccb1d5dc1f035d8/
 https://awesomecua.com/resources/url-7c4d9a3bd10f7bab9268/
 https://awesomecua.com/resources/url-7c568d88a472f914d316/
 https://awesomecua.com/resources/url-7c6929dcffffe6553ea9/
 https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/
 https://awesomecua.com/resources/url-7d198acee96b3ec197aa/
+https://awesomecua.com/resources/url-7e2e6225864f97b5238c/
 https://awesomecua.com/resources/url-7e7de336b1d8a2adce2c/
 https://awesomecua.com/resources/url-7ea46aa7d2d4470bb1f8/
+https://awesomecua.com/resources/url-7ebba507c0df876c6113/
 https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/
 https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/
 https://awesomecua.com/resources/url-7f7d17a0873e6ffda2b9/
@@ -4935,6 +5056,7 @@ https://awesomecua.com/resources/url-8be414a28d1984abb1b9/
 https://awesomecua.com/resources/url-8c0b15d51eb7b4156608/
 https://awesomecua.com/resources/url-8c9aaafb918aaf8b4e92/
 https://awesomecua.com/resources/url-8cd911654653a6ba8521/
+https://awesomecua.com/resources/url-8d584b241812a89a964e/
 https://awesomecua.com/resources/url-8d87e8ae53971aab3f8d/
 https://awesomecua.com/resources/url-8dfc84eb4016204fe70a/
 https://awesomecua.com/resources/url-8ef3985dce697e5feea9/
@@ -4949,8 +5071,12 @@ https://awesomecua.com/resources/url-90eea6f6d099a3297850/
 https://awesomecua.com/resources/url-9112dfcb201f2de7241f/
 https://awesomecua.com/resources/url-9113270916a36b4b76f1/
 https://awesomecua.com/resources/url-913a72e8929afd96ad07/
+https://awesomecua.com/resources/url-9140ca5ba8252d373b8d/
 https://awesomecua.com/resources/url-915e40f18b217ac63fc6/
+https://awesomecua.com/resources/url-92241e51e909ea9ca564/
+https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/
 https://awesomecua.com/resources/url-92b5cb08491c09243b72/
+https://awesomecua.com/resources/url-92b80b37a7a117acfd3c/
 https://awesomecua.com/resources/url-93109952a74302d890b5/
 https://awesomecua.com/resources/url-93278fa5b9e6bd0cbcef/
 https://awesomecua.com/resources/url-93c98e3b5aea945e0877/
@@ -5000,6 +5126,7 @@ https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/
 https://awesomecua.com/resources/url-a1621345ec327462b86e/
 https://awesomecua.com/resources/url-a19a076a4808a80f6ac8/
 https://awesomecua.com/resources/url-a2362e23fdcbc73763e6/
+https://awesomecua.com/resources/url-a236b756e1940a873e9f/
 https://awesomecua.com/resources/url-a252b36bf1c440269a2e/
 https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/
 https://awesomecua.com/resources/url-a349aace3cfde25628a8/
@@ -5026,6 +5153,7 @@ https://awesomecua.com/resources/url-a92e7dfcdfdcacb2e634/
 https://awesomecua.com/resources/url-a96c70bcf5a235f980b6/
 https://awesomecua.com/resources/url-a998ab1efc741ba69d82/
 https://awesomecua.com/resources/url-aa28e1329a52e341d285/
+https://awesomecua.com/resources/url-aa4abc9055c3f3248a1a/
 https://awesomecua.com/resources/url-aa693ca3e8948623f31e/
 https://awesomecua.com/resources/url-ab26f9ef56d651cee587/
 https://awesomecua.com/resources/url-ab4587d17c4f541bb94c/
@@ -5034,6 +5162,7 @@ https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/
 https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/
 https://awesomecua.com/resources/url-acfd6d395d67ce8011bb/
 https://awesomecua.com/resources/url-ad7f176848fd84de64e2/
+https://awesomecua.com/resources/url-ad993f634943aadbc3f7/
 https://awesomecua.com/resources/url-adb613aec8c5ebdeab89/
 https://awesomecua.com/resources/url-ae8e3fa5a67a608804f8/
 https://awesomecua.com/resources/url-ae8f5208eea9e7f1f606/
@@ -5054,6 +5183,9 @@ https://awesomecua.com/resources/url-b1837823421bd08cb826/
 https://awesomecua.com/resources/url-b1c6b94743e6dbac930d/
 https://awesomecua.com/resources/url-b230a6700386b7e2744c/
 https://awesomecua.com/resources/url-b2a83cef835559f24351/
+https://awesomecua.com/resources/url-b2b683f72ef4835c0826/
+https://awesomecua.com/resources/url-b3dd615ebfe977392f90/
+https://awesomecua.com/resources/url-b43faa43e897c074b7c8/
 https://awesomecua.com/resources/url-b4a01331e3e89e1bae9d/
 https://awesomecua.com/resources/url-b53e03a6e4ca4226d126/
 https://awesomecua.com/resources/url-b540fe81c57cedb1f556/
@@ -5066,6 +5198,7 @@ https://awesomecua.com/resources/url-b5e2127e07f692d516b9/
 https://awesomecua.com/resources/url-b5fb13515d7779218f5d/
 https://awesomecua.com/resources/url-b6114625f883ec0fda33/
 https://awesomecua.com/resources/url-b68b02b47c87f006533e/
+https://awesomecua.com/resources/url-b6a26f1b74d70fc783da/
 https://awesomecua.com/resources/url-b75abe232c389788d2c4/
 https://awesomecua.com/resources/url-b79ca6f7731ebf067709/
 https://awesomecua.com/resources/url-b7ccf7acb2e9d8a11853/
@@ -5087,6 +5220,7 @@ https://awesomecua.com/resources/url-bd7214de6d98917c2350/
 https://awesomecua.com/resources/url-bd9f8174e5503055c0bd/
 https://awesomecua.com/resources/url-bdfb50330deb97893ce4/
 https://awesomecua.com/resources/url-be4ca14d1724b0cf8314/
+https://awesomecua.com/resources/url-be5b952e5f0b4b7e4747/
 https://awesomecua.com/resources/url-be89a250747f507a27ef/
 https://awesomecua.com/resources/url-beafd78bf2ea84211e6d/
 https://awesomecua.com/resources/url-beb2ca7cdaefbef42ee6/
@@ -5133,6 +5267,7 @@ https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/
 https://awesomecua.com/resources/url-cc931199bda2bdf1f5f7/
 https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/
 https://awesomecua.com/resources/url-cccd967aa993404d74d0/
+https://awesomecua.com/resources/url-cdb9a1ad26e169a411f5/
 https://awesomecua.com/resources/url-ce0af37931cd5aa20233/
 https://awesomecua.com/resources/url-ce775111626bae220596/
 https://awesomecua.com/resources/url-cee45b940d5fbff3ccca/
@@ -5172,6 +5307,7 @@ https://awesomecua.com/resources/url-d86f55753bfea45fe313/
 https://awesomecua.com/resources/url-d92596cfe618e5322ec2/
 https://awesomecua.com/resources/url-d96a6dcdd2aa622c523b/
 https://awesomecua.com/resources/url-d9d8e68f19ef0956d189/
+https://awesomecua.com/resources/url-d9e6788adf3eb50a9b87/
 https://awesomecua.com/resources/url-dad3d02b2f9603713287/
 https://awesomecua.com/resources/url-daf52475338f385b9310/
 https://awesomecua.com/resources/url-db1b7b7efe3755ae5693/
@@ -5184,6 +5320,7 @@ https://awesomecua.com/resources/url-dca82e9214c5926109f1/
 https://awesomecua.com/resources/url-dda8a0f1413a6bc7c26f/
 https://awesomecua.com/resources/url-ddb5d413e19be8a4416e/
 https://awesomecua.com/resources/url-de31b07ff24ab15d9bdf/
+https://awesomecua.com/resources/url-dea0e09f027df704ca00/
 https://awesomecua.com/resources/url-dec156cbf0cb1181f7b6/
 https://awesomecua.com/resources/url-dec73112f4c2dad889cb/
 https://awesomecua.com/resources/url-df10c80a8da55773154d/
@@ -5208,6 +5345,7 @@ https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/
 https://awesomecua.com/resources/url-e1842006eb7b4745da03/
 https://awesomecua.com/resources/url-e21ca7c859544dbf5fb6/
 https://awesomecua.com/resources/url-e2b79e8d1c6a28c65bff/
+https://awesomecua.com/resources/url-e2c687595af929b4332a/
 https://awesomecua.com/resources/url-e2ddf502803f46085aca/
 https://awesomecua.com/resources/url-e35db30fee209ef9b57d/
 https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/
@@ -5254,6 +5392,7 @@ https://awesomecua.com/resources/url-eff580f3185f2a36c265/
 https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/
 https://awesomecua.com/resources/url-f039da43799772645c92/
 https://awesomecua.com/resources/url-f0584842138a52158f51/
+https://awesomecua.com/resources/url-f06109ae04d4c3133f90/
 https://awesomecua.com/resources/url-f0eac3ad813245645492/
 https://awesomecua.com/resources/url-f0ffbdc41c9dca4c585f/
 https://awesomecua.com/resources/url-f13474d7aa734a30624d/
@@ -5269,6 +5408,7 @@ https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/
 https://awesomecua.com/resources/url-f58895265a31c37d12b4/
 https://awesomecua.com/resources/url-f59c2dd51c1f5c570a28/
 https://awesomecua.com/resources/url-f644200c18bea88da7b3/
+https://awesomecua.com/resources/url-f68939821685c9dcc78c/
 https://awesomecua.com/resources/url-f6c88faa4392848f81b6/
 https://awesomecua.com/resources/url-f6e1a7527f9346ed1c1d/
 https://awesomecua.com/resources/url-f70aa7c95824a8729516/
@@ -5308,6 +5448,7 @@ https://awesomecua.com/topics/action-prediction/page/2/
 https://awesomecua.com/topics/action-prediction/page/3/
 https://awesomecua.com/topics/action-prediction/page/4/
 https://awesomecua.com/topics/action-prediction/page/5/
+https://awesomecua.com/topics/action-prediction/page/6/
 https://awesomecua.com/topics/automation/
 https://awesomecua.com/topics/automation/page/10/
 https://awesomecua.com/topics/automation/page/11/
@@ -5328,6 +5469,7 @@ https://awesomecua.com/topics/automation/page/24/
 https://awesomecua.com/topics/automation/page/25/
 https://awesomecua.com/topics/automation/page/26/
 https://awesomecua.com/topics/automation/page/27/
+https://awesomecua.com/topics/automation/page/28/
 https://awesomecua.com/topics/automation/page/3/
 https://awesomecua.com/topics/automation/page/4/
 https://awesomecua.com/topics/automation/page/5/
@@ -5431,6 +5573,7 @@ https://awesomecua.com/topics/memory/page/6/
 https://awesomecua.com/topics/mobile-navigation/
 https://awesomecua.com/topics/mobile-navigation/page/10/
 https://awesomecua.com/topics/mobile-navigation/page/11/
+https://awesomecua.com/topics/mobile-navigation/page/12/
 https://awesomecua.com/topics/mobile-navigation/page/2/
 https://awesomecua.com/topics/mobile-navigation/page/3/
 https://awesomecua.com/topics/mobile-navigation/page/4/
@@ -5532,6 +5675,7 @@ https://awesomecua.com/topics/tool-integration/page/20/
 https://awesomecua.com/topics/tool-integration/page/21/
 https://awesomecua.com/topics/tool-integration/page/22/
 https://awesomecua.com/topics/tool-integration/page/23/
+https://awesomecua.com/topics/tool-integration/page/24/
 https://awesomecua.com/topics/tool-integration/page/3/
 https://awesomecua.com/topics/tool-integration/page/4/
 https://awesomecua.com/topics/tool-integration/page/5/
@@ -5569,6 +5713,7 @@ https://awesomecua.com/topics/web-navigation/page/27/
 https://awesomecua.com/topics/web-navigation/page/28/
 https://awesomecua.com/topics/web-navigation/page/29/
 https://awesomecua.com/topics/web-navigation/page/3/
+https://awesomecua.com/topics/web-navigation/page/30/
 https://awesomecua.com/topics/web-navigation/page/4/
 https://awesomecua.com/topics/web-navigation/page/5/
 https://awesomecua.com/topics/web-navigation/page/6/
@@ -5627,6 +5772,7 @@ https://awesomecua.com/zh/categories/survey/
 https://awesomecua.com/zh/categories/tool/
 https://awesomecua.com/zh/categories/tool/page/10/
 https://awesomecua.com/zh/categories/tool/page/11/
+https://awesomecua.com/zh/categories/tool/page/12/
 https://awesomecua.com/zh/categories/tool/page/2/
 https://awesomecua.com/zh/categories/tool/page/3/
 https://awesomecua.com/zh/categories/tool/page/4/
@@ -7392,6 +7538,7 @@ https://awesomecua.com/zh/resources/github-aarohim24-scavenge/
 https://awesomecua.com/zh/resources/github-aaronlab-browsertrace/
 https://awesomecua.com/zh/resources/github-aashutoshkumarr-ai-desktop-assistant/
 https://awesomecua.com/zh/resources/github-aaswordman-operit/
+https://awesomecua.com/zh/resources/github-aaswordman-operit2/
 https://awesomecua.com/zh/resources/github-ab498-computer-control-mcp/
 https://awesomecua.com/zh/resources/github-abdullah-al-raju-milli-agent/
 https://awesomecua.com/zh/resources/github-abhishekchhetri020-browser-harness/
@@ -7458,6 +7605,7 @@ https://awesomecua.com/zh/resources/github-agiresearch-aios/
 https://awesomecua.com/zh/resources/github-ah64-dll-browser-automation-toolkit/
 https://awesomecua.com/zh/resources/github-ahaufox-pymcpautogui/
 https://awesomecua.com/zh/resources/github-ahaway1st-dsh-browser-control/
+https://awesomecua.com/zh/resources/github-ahmadrosid-nakama/
 https://awesomecua.com/zh/resources/github-ahmedvnabil-deskswarm/
 https://awesomecua.com/zh/resources/github-ahnjaewoo-flashadventure/
 https://awesomecua.com/zh/resources/github-ahrefs-ocaml-cdp/
@@ -7477,7 +7625,9 @@ https://awesomecua.com/zh/resources/github-aianytime-itr-wala-ai-agent/
 https://awesomecua.com/zh/resources/github-aibrain-mnemis-protean/
 https://awesomecua.com/zh/resources/github-aidenai-io-aiden-firmware/
 https://awesomecua.com/zh/resources/github-aider-ai-aider/
+https://awesomecua.com/zh/resources/github-aimakerspace-tagui-bricks/
 https://awesomecua.com/zh/resources/github-aiming-lab-simplemem/
+https://awesomecua.com/zh/resources/github-aiming-lab-webharbor/
 https://awesomecua.com/zh/resources/github-ainative-studio-ainative-browser-mcp/
 https://awesomecua.com/zh/resources/github-aipexstudio-aipex/
 https://awesomecua.com/zh/resources/github-aiqualitylab-selenium-selfhealing-mcp/
@@ -7507,8 +7657,10 @@ https://awesomecua.com/zh/resources/github-alibaba-page-agent/
 https://awesomecua.com/zh/resources/github-alibaba-qz-browser-agent/
 https://awesomecua.com/zh/resources/github-alibaba-ui-ins/
 https://awesomecua.com/zh/resources/github-alibabaresearch-rots/
+https://awesomecua.com/zh/resources/github-aliothmoon-maafwapp/
 https://awesomecua.com/zh/resources/github-alipay-mobile-agent/
 https://awesomecua.com/zh/resources/github-alisharjeell-openbua/
+https://awesomecua.com/zh/resources/github-alixaxel-chrome-aws-lambda/
 https://awesomecua.com/zh/resources/github-allaudin-adb-automation-mcp/
 https://awesomecua.com/zh/resources/github-allenai-lumos/
 https://awesomecua.com/zh/resources/github-allenai-molmopoint-guisyn/
@@ -7534,6 +7686,7 @@ https://awesomecua.com/zh/resources/github-amajorai-ghost/
 https://awesomecua.com/zh/resources/github-amap-ml-code2world/
 https://awesomecua.com/zh/resources/github-amap-ml-longhorizon-harness/
 https://awesomecua.com/zh/resources/github-amarbel-llc-chrest/
+https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-human-intervention/
 https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/
 https://awesomecua.com/zh/resources/github-amazon-science-agentoccam/
 https://awesomecua.com/zh/resources/github-amazon-science-pae/
@@ -7580,6 +7733,7 @@ https://awesomecua.com/zh/resources/github-anionex-dsh-computer-use/
 https://awesomecua.com/zh/resources/github-anionex-dsh-vision-toolkit/
 https://awesomecua.com/zh/resources/github-aniruddha-adhikary-pi-iphone-mirroring/
 https://awesomecua.com/zh/resources/github-anomalous3-ahk-mcp/
+https://awesomecua.com/zh/resources/github-anomalous3-macbot-mcp/
 https://awesomecua.com/zh/resources/github-anomalyco-browser-control/
 https://awesomecua.com/zh/resources/github-anotb-agent-verify/
 https://awesomecua.com/zh/resources/github-anpl1623-agentos/
@@ -7643,6 +7797,7 @@ https://awesomecua.com/zh/resources/github-atharvasamant4-drishtiguard/
 https://awesomecua.com/zh/resources/github-atluri0001-aevora/
 https://awesomecua.com/zh/resources/github-atreasureboy-agent-browser/
 https://awesomecua.com/zh/resources/github-aurafriday-mcp-link-server/
+https://awesomecua.com/zh/resources/github-aurafriday-mcp-link/
 https://awesomecua.com/zh/resources/github-aurafriday-system-mcp/
 https://awesomecua.com/zh/resources/github-auscahq-ausca/
 https://awesomecua.com/zh/resources/github-austinintelligence-android-use/
@@ -7659,6 +7814,7 @@ https://awesomecua.com/zh/resources/github-avikundal-graph-guided-agentic-testin
 https://awesomecua.com/zh/resources/github-awictor-anvil-engine/
 https://awesomecua.com/zh/resources/github-awictor-relay/
 https://awesomecua.com/zh/resources/github-awlevin-typesafe-computer-use/
+https://awesomecua.com/zh/resources/github-aws-nova-act-extension/
 https://awesomecua.com/zh/resources/github-aws-nova-act/
 https://awesomecua.com/zh/resources/github-axisvela-praxovela-open/
 https://awesomecua.com/zh/resources/github-ayasakura-comp-pi-nodriver-browser/
@@ -7671,7 +7827,10 @@ https://awesomecua.com/zh/resources/github-b1tank-deskpal/
 https://awesomecua.com/zh/resources/github-baai-agents-cradle/
 https://awesomecua.com/zh/resources/github-babelcloud-android-world-benchmark/
 https://awesomecua.com/zh/resources/github-babelcloud-gbox/
+https://awesomecua.com/zh/resources/github-bablosoft-browser-with-fingerprints/
 https://awesomecua.com/zh/resources/github-bablosoft-playwright-with-fingerprints/
+https://awesomecua.com/zh/resources/github-bablosoft-puppeteer-with-fingerprints/
+https://awesomecua.com/zh/resources/github-bablosoft-selenium-with-fingerprints/
 https://awesomecua.com/zh/resources/github-badalraj9-marey/
 https://awesomecua.com/zh/resources/github-badtheorylabs-esp/
 https://awesomecua.com/zh/resources/github-banye-technology-abaopal/
@@ -7799,8 +7958,10 @@ https://awesomecua.com/zh/resources/github-caelaxie-crosshands/
 https://awesomecua.com/zh/resources/github-caicai-jin-ai-medicalclaimform-filling-agent/
 https://awesomecua.com/zh/resources/github-calebnewtonusc-nova/
 https://awesomecua.com/zh/resources/github-callstack-agent-device/
+https://awesomecua.com/zh/resources/github-callstackincubator-eas-agent-device/
 https://awesomecua.com/zh/resources/github-camel-ai-crab/
 https://awesomecua.com/zh/resources/github-camel-ai-owl/
+https://awesomecua.com/zh/resources/github-cameroncooke-axe/
 https://awesomecua.com/zh/resources/github-cantbeblank96-chatgpt-mcp/
 https://awesomecua.com/zh/resources/github-caob23-dsh-browser-control/
 https://awesomecua.com/zh/resources/github-capmonstercloud-capmonster-mcp-captcha-solver/
@@ -7819,6 +7980,7 @@ https://awesomecua.com/zh/resources/github-catcaptions-hermes-extension/
 https://awesomecua.com/zh/resources/github-caviraoss-openmemory/
 https://awesomecua.com/zh/resources/github-ccc-zach-resume-autofill-agent/
 https://awesomecua.com/zh/resources/github-cczzyy-cn-c-vision/
+https://awesomecua.com/zh/resources/github-cdpdriver-zendriver-docker/
 https://awesomecua.com/zh/resources/github-cdpdriver-zendriver/
 https://awesomecua.com/zh/resources/github-cdxeve-awesome-computer-use-agents/
 https://awesomecua.com/zh/resources/github-celestoai-celesto/
@@ -7870,6 +8032,7 @@ https://awesomecua.com/zh/resources/github-clawbrowser-clawbrowser/
 https://awesomecua.com/zh/resources/github-clawmobile-clawmobile/
 https://awesomecua.com/zh/resources/github-clay-good-verisim/
 https://awesomecua.com/zh/resources/github-clearcotelabs-clearcote-browser/
+https://awesomecua.com/zh/resources/github-clearcotelabs-clearcote-jet/
 https://awesomecua.com/zh/resources/github-clearcotelabs-clearcote-profile-manager/
 https://awesomecua.com/zh/resources/github-clevrr-ai-clevrr-computer/
 https://awesomecua.com/zh/resources/github-cloakhq-cloakbrowser/
@@ -7940,6 +8103,7 @@ https://awesomecua.com/zh/resources/github-cyberseeds-uk-cyber-seeds-webmcp-chal
 https://awesomecua.com/zh/resources/github-cyrus-and-chrome-remote-interface/
 https://awesomecua.com/zh/resources/github-cyrus580529-attest/
 https://awesomecua.com/zh/resources/github-d-wwei-macos-desktop-control/
+https://awesomecua.com/zh/resources/github-d4vinci-scrapling/
 https://awesomecua.com/zh/resources/github-da03-astra-plays-gta/
 https://awesomecua.com/zh/resources/github-daan298261-jarvis/
 https://awesomecua.com/zh/resources/github-daazer-claude-browser-bridge/
@@ -7947,11 +8111,14 @@ https://awesomecua.com/zh/resources/github-daijro-camoufox/
 https://awesomecua.com/zh/resources/github-daixin315-xiaoshuang/
 https://awesomecua.com/zh/resources/github-daizedong-grokbot-cdp/
 https://awesomecua.com/zh/resources/github-daizedong-screen-vision/
+https://awesomecua.com/zh/resources/github-daluu-autopydriverserver/
 https://awesomecua.com/zh/resources/github-dalwadi-aryan-pranavkumar-sih-26/
 https://awesomecua.com/zh/resources/github-damien-robotsix-robotsix-browser/
 https://awesomecua.com/zh/resources/github-danecando-pi-codex-computer-use/
+https://awesomecua.com/zh/resources/github-danielpaulus-go-ios/
 https://awesomecua.com/zh/resources/github-danielpquinn-browsegpt/
 https://awesomecua.com/zh/resources/github-darkspaz-v1-shortcut-pad-mcp/
+https://awesomecua.com/zh/resources/github-dashi96-chromium-bridge/
 https://awesomecua.com/zh/resources/github-data-for-agents-insta/
 https://awesomecua.com/zh/resources/github-dataficationsdk-motus/
 https://awesomecua.com/zh/resources/github-datboip-humanaie/
@@ -7991,6 +8158,9 @@ https://awesomecua.com/zh/resources/github-dev-newb-codex-file-bridge/
 https://awesomecua.com/zh/resources/github-dev-willbird1936-desktop-computer-use/
 https://awesomecua.com/zh/resources/github-devdesignamitesh-browser-agent/
 https://awesomecua.com/zh/resources/github-developerz-ai-ui-debugger-mcp/
+https://awesomecua.com/zh/resources/github-deventerprisesoftware-patchright-dotnet/
+https://awesomecua.com/zh/resources/github-devicefarmer-minicap/
+https://awesomecua.com/zh/resources/github-devicefarmer-minitouch/
 https://awesomecua.com/zh/resources/github-devxjitin-autourgos-cua-coordinate-tool/
 https://awesomecua.com/zh/resources/github-dfarm6-prism-browser-community/
 https://awesomecua.com/zh/resources/github-dhamani-aryan-heysnap/
@@ -8021,13 +8191,16 @@ https://awesomecua.com/zh/resources/github-dockur-windows/
 https://awesomecua.com/zh/resources/github-dolomite1337-claude-in-safari/
 https://awesomecua.com/zh/resources/github-dom-actions-doma/
 https://awesomecua.com/zh/resources/github-domdomegg-computer-use-mcp/
+https://awesomecua.com/zh/resources/github-domdomegg-displayoverride-mac/
 https://awesomecua.com/zh/resources/github-dongping-chen-gui-world/
 https://awesomecua.com/zh/resources/github-dongsheng123132-zhaozuo/
+https://awesomecua.com/zh/resources/github-dongxinsuperman-ai-phone/
 https://awesomecua.com/zh/resources/github-dongxinsuperman-ai-web/
 https://awesomecua.com/zh/resources/github-dongxinsuperman-case-flow-ai/
 https://awesomecua.com/zh/resources/github-dongyh20-octopus/
 https://awesomecua.com/zh/resources/github-doom2quake-ringlight/
 https://awesomecua.com/zh/resources/github-doom2quake-weave/
+https://awesomecua.com/zh/resources/github-doronz88-pymobiledevice3/
 https://awesomecua.com/zh/resources/github-dortanes-atlas/
 https://awesomecua.com/zh/resources/github-doruktarhan-jev-browser/
 https://awesomecua.com/zh/resources/github-dra1ex-chatgpt-bridge/
@@ -8042,6 +8215,7 @@ https://awesomecua.com/zh/resources/github-droidrun-mobilerun-portal/
 https://awesomecua.com/zh/resources/github-droidrun-mobilerun/
 https://awesomecua.com/zh/resources/github-droppinganvil-screenpilot/
 https://awesomecua.com/zh/resources/github-dtmilano-androidviewclient/
+https://awesomecua.com/zh/resources/github-dtmilano-culebratester2-public/
 https://awesomecua.com/zh/resources/github-dtopuzov-browser-llm-perf/
 https://awesomecua.com/zh/resources/github-dtopuzov-craftdriver/
 https://awesomecua.com/zh/resources/github-dttxorg-deepseekeyes/
@@ -8064,6 +8238,7 @@ https://awesomecua.com/zh/resources/github-ebt55-proofpack/
 https://awesomecua.com/zh/resources/github-echovic-blade-code/
 https://awesomecua.com/zh/resources/github-echovic-orca-agent/
 https://awesomecua.com/zh/resources/github-echovic-pilion-browser/
+https://awesomecua.com/zh/resources/github-ecnusse-kea2/
 https://awesomecua.com/zh/resources/github-edenbuilds-touchline/
 https://awesomecua.com/zh/resources/github-edgarbnt-reactsentinel/
 https://awesomecua.com/zh/resources/github-edgeagent-clawpilot-command-center/
@@ -8080,6 +8255,7 @@ https://awesomecua.com/zh/resources/github-elenaviewsynthesis-holoskill-gym/
 https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/
 https://awesomecua.com/zh/resources/github-elijahumana-one-for-all/
 https://awesomecua.com/zh/resources/github-ellmos-ai-clirec/
+https://awesomecua.com/zh/resources/github-ellmos-ai-cowork-protocol/
 https://awesomecua.com/zh/resources/github-ellmos-ai-open-compute-mcp/
 https://awesomecua.com/zh/resources/github-ellmos-ai-open-compute/
 https://awesomecua.com/zh/resources/github-eloiramos-redline/
@@ -8144,6 +8320,7 @@ https://awesomecua.com/zh/resources/github-farhanishmam-agentlab-knows/
 https://awesomecua.com/zh/resources/github-farhanishmam-browsergym-knows/
 https://awesomecua.com/zh/resources/github-farzaa-clicky/
 https://awesomecua.com/zh/resources/github-fatmind-dsh-plugin-browser-use/
+https://awesomecua.com/zh/resources/github-fatmind-wc3-chrome/
 https://awesomecua.com/zh/resources/github-fatmind-webclaw3/
 https://awesomecua.com/zh/resources/github-faxanfm-webmcp-deadbolt/
 https://awesomecua.com/zh/resources/github-fclab-skku-mobilegpt/
@@ -8155,6 +8332,8 @@ https://awesomecua.com/zh/resources/github-feder-cr-invisible-core/
 https://awesomecua.com/zh/resources/github-feder-cr-invisible-dots/
 https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright-mcp/
 https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright/
+https://awesomecua.com/zh/resources/github-feder-cr-invisible-puppeteer/
+https://awesomecua.com/zh/resources/github-feder-cr-invisible-selenium/
 https://awesomecua.com/zh/resources/github-fedetrain-autofiller-universal/
 https://awesomecua.com/zh/resources/github-felixkruger-peekaboowin/
 https://awesomecua.com/zh/resources/github-felixlark-agent-curtain/
@@ -8185,6 +8364,7 @@ https://awesomecua.com/zh/resources/github-fred-brown-3-job-hunter-ai/
 https://awesomecua.com/zh/resources/github-freezetheworld-latch/
 https://awesomecua.com/zh/resources/github-frezzaroukos-axon-os/
 https://awesomecua.com/zh/resources/github-friedrichor-webtestbench/
+https://awesomecua.com/zh/resources/github-frsorrentino-chrome-bridge/
 https://awesomecua.com/zh/resources/github-frumane-gecko-mcp/
 https://awesomecua.com/zh/resources/github-fsoft-ai4code-hyperagent/
 https://awesomecua.com/zh/resources/github-fullselfbrowsing-fsb/
@@ -8221,6 +8401,7 @@ https://awesomecua.com/zh/resources/github-genymobile-scrcpy/
 https://awesomecua.com/zh/resources/github-geohotstan-dsh-computer-use/
 https://awesomecua.com/zh/resources/github-george4data-cmux-skill/
 https://awesomecua.com/zh/resources/github-georgenijo-ghosthands/
+https://awesomecua.com/zh/resources/github-getsentry-xcodebuildmcp/
 https://awesomecua.com/zh/resources/github-gezelligheid0314-sman-bench/
 https://awesomecua.com/zh/resources/github-ghadinehme-videocad/
 https://awesomecua.com/zh/resources/github-ghorbelhamdi-buddy-android/
@@ -8262,6 +8443,7 @@ https://awesomecua.com/zh/resources/github-google-research-datasets-uibert/
 https://awesomecua.com/zh/resources/github-google-research-datasets-uicrit/
 https://awesomecua.com/zh/resources/github-google-research-datasets-widget-caption/
 https://awesomecua.com/zh/resources/github-google-research-pix2struct/
+https://awesomecua.com/zh/resources/github-googlechrome-chrome-launcher/
 https://awesomecua.com/zh/resources/github-googlechromelabs-webmcp-tools/
 https://awesomecua.com/zh/resources/github-greqone-przedwysylkawebmcplab/
 https://awesomecua.com/zh/resources/github-groundingpi-groundanything/
@@ -8292,6 +8474,7 @@ https://awesomecua.com/zh/resources/github-haden-min-haden-browser/
 https://awesomecua.com/zh/resources/github-haidaresber-ai-browser/
 https://awesomecua.com/zh/resources/github-haikong-lu1206-refract-pptx/
 https://awesomecua.com/zh/resources/github-haixu8396-png-aileen-desktop/
+https://awesomecua.com/zh/resources/github-halluminate-noodle-flights/
 https://awesomecua.com/zh/resources/github-halluminate-webbench/
 https://awesomecua.com/zh/resources/github-halluminate-westworld/
 https://awesomecua.com/zh/resources/github-hammerspoon-hammerspoon/
@@ -8304,6 +8487,8 @@ https://awesomecua.com/zh/resources/github-hanzili-hanzi-browse/
 https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/
 https://awesomecua.com/zh/resources/github-haodongzhang022-hue-openliulan/
 https://awesomecua.com/zh/resources/github-harpreetsahota204-coco4gui-fiftyone/
+https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-actor-for-fiftyone/
+https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-agent-research-landscape/
 https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-dataset-creator/
 https://awesomecua.com/zh/resources/github-harpreetsahota204-synthetic-gui-samples-plugins/
 https://awesomecua.com/zh/resources/github-harpreetsahota204-visual-agents-workshop/
@@ -8415,6 +8600,7 @@ https://awesomecua.com/zh/resources/github-internlm-wildclawbench/
 https://awesomecua.com/zh/resources/github-intherainof-mobile-agent/
 https://awesomecua.com/zh/resources/github-intra2net-guibot/
 https://awesomecua.com/zh/resources/github-invictumhr-ai-invictum-browser-bridge/
+https://awesomecua.com/zh/resources/github-ipbtools-ipb/
 https://awesomecua.com/zh/resources/github-isac322-kwin-mcp/
 https://awesomecua.com/zh/resources/github-ishan0102-vimgpt/
 https://awesomecua.com/zh/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/
@@ -8422,6 +8608,7 @@ https://awesomecua.com/zh/resources/github-issumer-ku-osworld-cogagent/
 https://awesomecua.com/zh/resources/github-issumer-ku-osworld-qwen2-5vl-enhanced/
 https://awesomecua.com/zh/resources/github-itmediatech-better-ai-browser-utilities/
 https://awesomecua.com/zh/resources/github-itsmarcels-zetatron/
+https://awesomecua.com/zh/resources/github-itw-code-arc-cua/
 https://awesomecua.com/zh/resources/github-itw-code-solari-cookbook/
 https://awesomecua.com/zh/resources/github-ivanposel-look-decide-act/
 https://awesomecua.com/zh/resources/github-ivy-interactive-ivy-tendril/
@@ -8430,6 +8617,7 @@ https://awesomecua.com/zh/resources/github-ixchio-terx/
 https://awesomecua.com/zh/resources/github-iyulab-momos/
 https://awesomecua.com/zh/resources/github-ja-plus-x11-computer-use/
 https://awesomecua.com/zh/resources/github-ja1chen-actell/
+https://awesomecua.com/zh/resources/github-ja1chen-muse-gadget-actell-mods/
 https://awesomecua.com/zh/resources/github-jacklishufan-mobileworld/
 https://awesomecua.com/zh/resources/github-jackwangfeng-qdesk/
 https://awesomecua.com/zh/resources/github-jackwener-opencli/
@@ -8446,6 +8634,7 @@ https://awesomecua.com/zh/resources/github-james4ever0-vimgolf-gym/
 https://awesomecua.com/zh/resources/github-jameswirths-threadline/
 https://awesomecua.com/zh/resources/github-jamshed7470-grasp-mcp/
 https://awesomecua.com/zh/resources/github-jason26214-omni-computer-use/
+https://awesomecua.com/zh/resources/github-jasonjmcghee-webmcp/
 https://awesomecua.com/zh/resources/github-jasonwei04-dsh-computer-use/
 https://awesomecua.com/zh/resources/github-jasonzliang-caesar-agent/
 https://awesomecua.com/zh/resources/github-jasper0122-cli-anything-arcgis-pro/
@@ -8486,6 +8675,7 @@ https://awesomecua.com/zh/resources/github-jinmojing-browser-forest-mcp-server/
 https://awesomecua.com/zh/resources/github-jinyihan99-ga-technical-report/
 https://awesomecua.com/zh/resources/github-jiugao-yi-xihe-agent/
 https://awesomecua.com/zh/resources/github-jiutian-vl-simpagent/
+https://awesomecua.com/zh/resources/github-jkcoxson-idevice/
 https://awesomecua.com/zh/resources/github-jleuth-gofer/
 https://awesomecua.com/zh/resources/github-jlov7-nanoawm/
 https://awesomecua.com/zh/resources/github-jmeguilos-computer-use-mcp/
@@ -8529,6 +8719,11 @@ https://awesomecua.com/zh/resources/github-kagnlp-weboperator/
 https://awesomecua.com/zh/resources/github-kaiizer777-mew-agent/
 https://awesomecua.com/zh/resources/github-kakoyvostorg-ui-faultlab/
 https://awesomecua.com/zh/resources/github-kalebteccom-browxai/
+https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-brotector/
+https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-selenium-driverless/
+https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-cdp-patches/
+https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/
+https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/
 https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright/
 https://awesomecua.com/zh/resources/github-kalyvask-inside-the-agent/
 https://awesomecua.com/zh/resources/github-kamalesh404-agentos/
@@ -8548,8 +8743,10 @@ https://awesomecua.com/zh/resources/github-kernel-claude-cu-loop-sample/
 https://awesomecua.com/zh/resources/github-kernel-kernel-eval-protocol-quickstart/
 https://awesomecua.com/zh/resources/github-kernel-kernel-images/
 https://awesomecua.com/zh/resources/github-kernel-kernel-mcp-server/
+https://awesomecua.com/zh/resources/github-kerpopule-hermes-jev-skills/
 https://awesomecua.com/zh/resources/github-kevintrinhdev-gaze/
 https://awesomecua.com/zh/resources/github-kfastov-hermes-plugin-login-bridge/
+https://awesomecua.com/zh/resources/github-khazixw2-everything-maa/
 https://awesomecua.com/zh/resources/github-khbayazidahmed-browser-automation-cli/
 https://awesomecua.com/zh/resources/github-kiarosama-numera-browser/
 https://awesomecua.com/zh/resources/github-kiexpert-wkappbot-sdk/
@@ -8568,6 +8765,7 @@ https://awesomecua.com/zh/resources/github-kota-kawa-browser-agent/
 https://awesomecua.com/zh/resources/github-kotori0919-clef-use/
 https://awesomecua.com/zh/resources/github-koukeneko-cloakgpt/
 https://awesomecua.com/zh/resources/github-kov-caravela/
+https://awesomecua.com/zh/resources/github-kqcoxn-maapipelineeditor/
 https://awesomecua.com/zh/resources/github-kuafuai-andee/
 https://awesomecua.com/zh/resources/github-kubstack-appwalk/
 https://awesomecua.com/zh/resources/github-kuichi-x-kc-browser/
@@ -8581,6 +8779,7 @@ https://awesomecua.com/zh/resources/github-kvxw1105-lean-computer-use-mcp/
 https://awesomecua.com/zh/resources/github-kwai-memgui-agent/
 https://awesomecua.com/zh/resources/github-kwai-mobileforge/
 https://awesomecua.com/zh/resources/github-kweinmeister-agentitest/
+https://awesomecua.com/zh/resources/github-kwhat-libuiohook/
 https://awesomecua.com/zh/resources/github-kxc7558-recruit-auto-reply/
 https://awesomecua.com/zh/resources/github-kxdds-webbridge/
 https://awesomecua.com/zh/resources/github-kxvya18-chnage-shield/
@@ -8593,6 +8792,7 @@ https://awesomecua.com/zh/resources/github-laihenyi-pi-jev-browser/
 https://awesomecua.com/zh/resources/github-laiye-ai-open-apa/
 https://awesomecua.com/zh/resources/github-lakr233-computeruse/
 https://awesomecua.com/zh/resources/github-lamenting-hawthorn-browserbench/
+https://awesomecua.com/zh/resources/github-lance-ying-aigamestore/
 https://awesomecua.com/zh/resources/github-lancopku-agent-backdoor-attacks/
 https://awesomecua.com/zh/resources/github-langchain-ai-langgraph/
 https://awesomecua.com/zh/resources/github-lannistersyh-markforge/
@@ -8693,7 +8893,10 @@ https://awesomecua.com/zh/resources/github-lyt060814-cua-gym-pptx/
 https://awesomecua.com/zh/resources/github-lzw12w-glass-browser/
 https://awesomecua.com/zh/resources/github-m1ssbe4r-pocketcode/
 https://awesomecua.com/zh/resources/github-ma-pony-mcp-playwright/
+https://awesomecua.com/zh/resources/github-maaassistantarknights-maatouch/
+https://awesomecua.com/zh/resources/github-maaxyz-maadebugger/
 https://awesomecua.com/zh/resources/github-maaxyz-maaframework/
+https://awesomecua.com/zh/resources/github-maaxyz-maaloganalyzer/
 https://awesomecua.com/zh/resources/github-macpaw-macarena/
 https://awesomecua.com/zh/resources/github-macpaw-screen2ax/
 https://awesomecua.com/zh/resources/github-macuse-app-macuse-mcp/
@@ -8705,6 +8908,7 @@ https://awesomecua.com/zh/resources/github-madeagents-topoclaw/
 https://awesomecua.com/zh/resources/github-maderwin-pinchtab-mcp/
 https://awesomecua.com/zh/resources/github-maestrojeong-browser-rs-mcp/
 https://awesomecua.com/zh/resources/github-maestrojeong-cua-rs-mcp/
+https://awesomecua.com/zh/resources/github-maestrojeong-mcp-patchright/
 https://awesomecua.com/zh/resources/github-magi-labs-livemcp/
 https://awesomecua.com/zh/resources/github-magi-labs-mobilemcp/
 https://awesomecua.com/zh/resources/github-magicgh-ask-before-plan/
@@ -8719,6 +8923,7 @@ https://awesomecua.com/zh/resources/github-mahirlabibdihan-webreplaybench/
 https://awesomecua.com/zh/resources/github-mahmoudadelbghany-jev-browser/
 https://awesomecua.com/zh/resources/github-mahsaanullah-agent-friday/
 https://awesomecua.com/zh/resources/github-malonghui-relationgui/
+https://awesomecua.com/zh/resources/github-manaflow-ai-cmux-skills/
 https://awesomecua.com/zh/resources/github-manaflow-ai-cmux/
 https://awesomecua.com/zh/resources/github-manaflow-ai-codex-cua/
 https://awesomecua.com/zh/resources/github-mangeshraut712-apply-lens/
@@ -8802,9 +9007,11 @@ https://awesomecua.com/zh/resources/github-microsoft-gui-agent-rl/
 https://awesomecua.com/zh/resources/github-microsoft-magentic-ui/
 https://awesomecua.com/zh/resources/github-microsoft-magma/
 https://awesomecua.com/zh/resources/github-microsoft-omniparser/
+https://awesomecua.com/zh/resources/github-microsoft-orchard-agentic/
 https://awesomecua.com/zh/resources/github-microsoft-phi-ground/
 https://awesomecua.com/zh/resources/github-microsoft-playwright-cli/
 https://awesomecua.com/zh/resources/github-microsoft-playwright-mcp/
+https://awesomecua.com/zh/resources/github-microsoft-playwright-python/
 https://awesomecua.com/zh/resources/github-microsoft-playwright-vscode/
 https://awesomecua.com/zh/resources/github-microsoft-playwright/
 https://awesomecua.com/zh/resources/github-microsoft-precision-cua-bench/
@@ -8816,6 +9023,7 @@ https://awesomecua.com/zh/resources/github-microsoft-windowsagentarena/
 https://awesomecua.com/zh/resources/github-midorikuramochi-intent-relay/
 https://awesomecua.com/zh/resources/github-migoxlab-webqa-agent/
 https://awesomecua.com/zh/resources/github-miguelcespedes-microsoft-paint-mcp-server/
+https://awesomecua.com/zh/resources/github-miguelspizza-webmcp/
 https://awesomecua.com/zh/resources/github-mihneateodorstoica-aegis-desktop/
 https://awesomecua.com/zh/resources/github-miiiuser-dsh-browser-agent/
 https://awesomecua.com/zh/resources/github-mikastiebitz-faster-browser-agent/
@@ -8847,8 +9055,10 @@ https://awesomecua.com/zh/resources/github-mircoblitz-unraid-camofox-stealth-bro
 https://awesomecua.com/zh/resources/github-misb74-replay/
 https://awesomecua.com/zh/resources/github-mishrasreyansh86-cloud-srey-voice-assistant/
 https://awesomecua.com/zh/resources/github-mishushakov-llm-scraper/
+https://awesomecua.com/zh/resources/github-misteo-mxu/
 https://awesomecua.com/zh/resources/github-mistudio0902-lab-chrome-bridge/
 https://awesomecua.com/zh/resources/github-miyahluvgames-source-helix-computer-use/
+https://awesomecua.com/zh/resources/github-mjolnirapp-mjolnir/
 https://awesomecua.com/zh/resources/github-mkhan49-governed-computer-use/
 https://awesomecua.com/zh/resources/github-mlfoundations-gelato/
 https://awesomecua.com/zh/resources/github-mm-sheng-404-directory/
@@ -8933,6 +9143,7 @@ https://awesomecua.com/zh/resources/github-navisualguide-navisual/
 https://awesomecua.com/zh/resources/github-nayakprashant-selenium-mcp-server/
 https://awesomecua.com/zh/resources/github-nazocatai-agent-scope-browser/
 https://awesomecua.com/zh/resources/github-neilyysun-ui-hoverclick/
+https://awesomecua.com/zh/resources/github-neko-para-maa-support-extension/
 https://awesomecua.com/zh/resources/github-nekuda-ai-windtunnel/
 https://awesomecua.com/zh/resources/github-nemosr-dsh-personal-plugins/
 https://awesomecua.com/zh/resources/github-neodrew-chromeflow/
@@ -8996,6 +9207,7 @@ https://awesomecua.com/zh/resources/github-off-camber-open-frame/
 https://awesomecua.com/zh/resources/github-officiallemmy254-droid-human-browser-copilot/
 https://awesomecua.com/zh/resources/github-ogutdgn-cuarena/
 https://awesomecua.com/zh/resources/github-ohmyskyhigh-tabro/
+https://awesomecua.com/zh/resources/github-ok-oldking-ok-script/
 https://awesomecua.com/zh/resources/github-olib-ai-owl-browser-claude-plugin/
 https://awesomecua.com/zh/resources/github-olmatter-chatgpt-bridge/
 https://awesomecua.com/zh/resources/github-om-ai-lab-vlm-r1/
@@ -9039,6 +9251,9 @@ https://awesomecua.com/zh/resources/github-openai-openai-cua-sample-app/
 https://awesomecua.com/zh/resources/github-openai-universe-starter-agent/
 https://awesomecua.com/zh/resources/github-openai-universe/
 https://awesomecua.com/zh/resources/github-openamer-openamer/
+https://awesomecua.com/zh/resources/github-openatx-adbutils/
+https://awesomecua.com/zh/resources/github-openatx-android-uiautomator-server-jar/
+https://awesomecua.com/zh/resources/github-openatx-android-uiautomator-server/
 https://awesomecua.com/zh/resources/github-openatx-uiautomator2/
 https://awesomecua.com/zh/resources/github-openautocoder-agentless/
 https://awesomecua.com/zh/resources/github-openbmb-agentcpm-gui/
@@ -9102,10 +9317,12 @@ https://awesomecua.com/zh/resources/github-osu-nlp-group-webdreamer/
 https://awesomecua.com/zh/resources/github-osu-nlp-group-webguard/
 https://awesomecua.com/zh/resources/github-ota-tech-ai-web-agent-protocol/
 https://awesomecua.com/zh/resources/github-othersideai-self-operating-computer/
+https://awesomecua.com/zh/resources/github-otowa-kotori-maafw-cli/
 https://awesomecua.com/zh/resources/github-otsolappalainen-minecraft-rl/
 https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay-openmausbot/
 https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay/
 https://awesomecua.com/zh/resources/github-outcrawlai-scout/
+https://awesomecua.com/zh/resources/github-overflow65537-mfw-pyqt6/
 https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser-manger/
 https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser/
 https://awesomecua.com/zh/resources/github-oyadotai-oya-browser/
@@ -9139,6 +9356,7 @@ https://awesomecua.com/zh/resources/github-peerframe-openbot/
 https://awesomecua.com/zh/resources/github-pegasi-ai-reins/
 https://awesomecua.com/zh/resources/github-peiwenzhang-git-ai-work/
 https://awesomecua.com/zh/resources/github-pelag-michael-chrome-for-ai/
+https://awesomecua.com/zh/resources/github-penghao-wu-gui-reflection-env/
 https://awesomecua.com/zh/resources/github-penghao-wu-gui-reflection/
 https://awesomecua.com/zh/resources/github-pensefact-flowpilot-engine/
 https://awesomecua.com/zh/resources/github-perception-dynamics-inc-a11y-computer-use/
@@ -9169,10 +9387,13 @@ https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-benchmarks/
 https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-extension/
 https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-mcp/
 https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate/
+https://awesomecua.com/zh/resources/github-plasmate-labs-skill-openclaw/
+https://awesomecua.com/zh/resources/github-plasmate-labs-stagehand-plasmate/
 https://awesomecua.com/zh/resources/github-platonai-browser4/
 https://awesomecua.com/zh/resources/github-platonai-pulsarrpa/
 https://awesomecua.com/zh/resources/github-player-yn-browserkitten/
 https://awesomecua.com/zh/resources/github-pleasedodisturb-web-agent-comparison/
+https://awesomecua.com/zh/resources/github-pleaseprompto-notebooklm-mcp/
 https://awesomecua.com/zh/resources/github-pleaseprompto-notebooklm-skill/
 https://awesomecua.com/zh/resources/github-plocr-reasonix-computer-use/
 https://awesomecua.com/zh/resources/github-plow-pbc-latch/
@@ -9193,11 +9414,13 @@ https://awesomecua.com/zh/resources/github-pradyut-das-macscreencompanion/
 https://awesomecua.com/zh/resources/github-prakhar1114-ai-mime/
 https://awesomecua.com/zh/resources/github-pranavgawasproject-secure-browser-mcp/
 https://awesomecua.com/zh/resources/github-praticoeq-sudo-browser-account-guard/
+https://awesomecua.com/zh/resources/github-predicatesystems-predicate-authority-sidecar/
 https://awesomecua.com/zh/resources/github-predicatesystems-predicate-runtime-python/
 https://awesomecua.com/zh/resources/github-predicatesystems-predicate-sdk-playground/
 https://awesomecua.com/zh/resources/github-predicatesystems-predicate-secure/
 https://awesomecua.com/zh/resources/github-predicatesystems-sdk-typescript/
 https://awesomecua.com/zh/resources/github-prentisai-groundgui/
+https://awesomecua.com/zh/resources/github-prescience-data-harden-puppeteer/
 https://awesomecua.com/zh/resources/github-presidio-oss-factif-ai/
 https://awesomecua.com/zh/resources/github-princechouhan19-opencometai/
 https://awesomecua.com/zh/resources/github-princeton-ai2-lab-avenir-web/
@@ -9270,12 +9493,14 @@ https://awesomecua.com/zh/resources/github-rao-studios-frigate/
 https://awesomecua.com/zh/resources/github-rao-studios-mary/
 https://awesomecua.com/zh/resources/github-rao-studios-visionax/
 https://awesomecua.com/zh/resources/github-raunak-choudhary-hack-princeton-mealpilot/
+https://awesomecua.com/zh/resources/github-ravizhan-mwu/
 https://awesomecua.com/zh/resources/github-raynan00-shoal/
 https://awesomecua.com/zh/resources/github-raystyle-browser-harness/
 https://awesomecua.com/zh/resources/github-reacher-z-harnessbench/
 https://awesomecua.com/zh/resources/github-reallm-labs-infigui-r1/
 https://awesomecua.com/zh/resources/github-realstreetsmartnyc-smart-pet-agent/
 https://awesomecua.com/zh/resources/github-reason-wang-toolgen/
+https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-bot-detector/
 https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-patches/
 https://awesomecua.com/zh/resources/github-redbotster-poisonpage/
 https://awesomecua.com/zh/resources/github-redf0x1-camofox-mcp/
@@ -9289,6 +9514,7 @@ https://awesomecua.com/zh/resources/github-remote-skills-settled-computer/
 https://awesomecua.com/zh/resources/github-renezander030-browserground/
 https://awesomecua.com/zh/resources/github-renoned-dsh-computer-use/
 https://awesomecua.com/zh/resources/github-resolvrlabs-resolvr-typescript/
+https://awesomecua.com/zh/resources/github-ret70-ptfaketouch/
 https://awesomecua.com/zh/resources/github-reworkd-agentgpt/
 https://awesomecua.com/zh/resources/github-reworkd-bananalyzer/
 https://awesomecua.com/zh/resources/github-reworkd-tarsier/
@@ -9303,6 +9529,7 @@ https://awesomecua.com/zh/resources/github-rishabhcli-qagent/
 https://awesomecua.com/zh/resources/github-rishabhp1508-understudy/
 https://awesomecua.com/zh/resources/github-rishitank-animawatch/
 https://awesomecua.com/zh/resources/github-ritzz-ai-gui-r1/
+https://awesomecua.com/zh/resources/github-riwsky-iosef/
 https://awesomecua.com/zh/resources/github-rizonetech-chromemcp/
 https://awesomecua.com/zh/resources/github-rkvalandas-browser-agent/
 https://awesomecua.com/zh/resources/github-roadmvn-linux-computer-use/
@@ -9319,9 +9546,11 @@ https://awesomecua.com/zh/resources/github-rrweb-io-rrweb/
 https://awesomecua.com/zh/resources/github-rsgoksel-mechcp/
 https://awesomecua.com/zh/resources/github-rtrvr-ai-rtrvr-cli/
 https://awesomecua.com/zh/resources/github-rty90-android-agent-reliability-runtime/
+https://awesomecua.com/zh/resources/github-rubycdp-cuprite/
 https://awesomecua.com/zh/resources/github-rubycdp-ferrum/
 https://awesomecua.com/zh/resources/github-ruc-nlpir-webthinker/
 https://awesomecua.com/zh/resources/github-rudrendupaul-deskcert-cli/
+https://awesomecua.com/zh/resources/github-ruifigueira-playwright-crx/
 https://awesomecua.com/zh/resources/github-runamu-monday/
 https://awesomecua.com/zh/resources/github-runta-dev-errand/
 https://awesomecua.com/zh/resources/github-ruslankoroy-desktop-agent/
@@ -9358,6 +9587,7 @@ https://awesomecua.com/zh/resources/github-salt-nlp-popupattack/
 https://awesomecua.com/zh/resources/github-salus-ryan-mobile-agent-guardian/
 https://awesomecua.com/zh/resources/github-salviz-termux-browser-pilot/
 https://awesomecua.com/zh/resources/github-sam-siavoshian-forged/
+https://awesomecua.com/zh/resources/github-sameelarif-scribe/
 https://awesomecua.com/zh/resources/github-samestrin-chromium-screenshots/
 https://awesomecua.com/zh/resources/github-sametbasbug-equinox-local/
 https://awesomecua.com/zh/resources/github-sammysnake-d-magpie-computer-use-agent/
@@ -9388,10 +9618,12 @@ https://awesomecua.com/zh/resources/github-scalar-atelier-browser-action-receipt
 https://awesomecua.com/zh/resources/github-scaleapi-browser-art/
 https://awesomecua.com/zh/resources/github-scanchila-metawebmcp/
 https://awesomecua.com/zh/resources/github-scenario-labs-blender-plugin/
+https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-go/
 https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-node/
 https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-python/
 https://awesomecua.com/zh/resources/github-scraperapigather-scrapeless-scraping-browser/
 https://awesomecua.com/zh/resources/github-scrapfly-scrapfly-mcp/
+https://awesomecua.com/zh/resources/github-scrctl-xdevicebridge/
 https://awesomecua.com/zh/resources/github-screenpipe-screenleak/
 https://awesomecua.com/zh/resources/github-screenpipe-screenpipe/
 https://awesomecua.com/zh/resources/github-scrolldynasty-browsermesh/
@@ -9507,6 +9739,7 @@ https://awesomecua.com/zh/resources/github-socai-io-dsh-socai/
 https://awesomecua.com/zh/resources/github-socai-io-jev-social/
 https://awesomecua.com/zh/resources/github-socai-io-socai/
 https://awesomecua.com/zh/resources/github-software-mansion-app-control-bench/
+https://awesomecua.com/zh/resources/github-software-mansion-argent/
 https://awesomecua.com/zh/resources/github-softwaretestingllms-webtestingwithllms/
 https://awesomecua.com/zh/resources/github-sohan-a11y-auth-synchronizer/
 https://awesomecua.com/zh/resources/github-solari-sdk-solari-cookbook/
@@ -9565,9 +9798,11 @@ https://awesomecua.com/zh/resources/github-sumanmadipeddi-mobile-qa-agent/
 https://awesomecua.com/zh/resources/github-summoneryhl-gelab-engine/
 https://awesomecua.com/zh/resources/github-sumo1-computer-use-harness/
 https://awesomecua.com/zh/resources/github-sunasaji-mcp-serial-hid-kvm/
+https://awesomecua.com/zh/resources/github-sunasaji-serial-hid-kvm/
 https://awesomecua.com/zh/resources/github-sunblaze-ucb-agentsynth/
 https://awesomecua.com/zh/resources/github-sunnybharne-pi-playwright-browser/
 https://awesomecua.com/zh/resources/github-sunnynexus-search-o1/
+https://awesomecua.com/zh/resources/github-sunyink-maaowm/
 https://awesomecua.com/zh/resources/github-sunzey-seagent/
 https://awesomecua.com/zh/resources/github-supermarioyl-flowcast/
 https://awesomecua.com/zh/resources/github-supermarioyl-idemstep/
@@ -9575,6 +9810,7 @@ https://awesomecua.com/zh/resources/github-supermarioyl-uia-agent/
 https://awesomecua.com/zh/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/
 https://awesomecua.com/zh/resources/github-surrealmindai-frontprompt/
 https://awesomecua.com/zh/resources/github-swe-agent-swe-agent/
+https://awesomecua.com/zh/resources/github-sweetsmellfox-mfaavalonia/
 https://awesomecua.com/zh/resources/github-swilliams9772-mac-computer-use/
 https://awesomecua.com/zh/resources/github-swimmwatch-cloakbrowser-mcp/
 https://awesomecua.com/zh/resources/github-sy-d-handraise-slack/
@@ -9596,6 +9832,8 @@ https://awesomecua.com/zh/resources/github-taiyouqu-aivane/
 https://awesomecua.com/zh/resources/github-tajamul21-medspot/
 https://awesomecua.com/zh/resources/github-tak-uukti-linux-computer-use/
 https://awesomecua.com/zh/resources/github-tanob-mcp-desktop-automation/
+https://awesomecua.com/zh/resources/github-tanyashue-maactl/
+https://awesomecua.com/zh/resources/github-tanyashue-maainspector/
 https://awesomecua.com/zh/resources/github-tashonbraganca-browser-automation-benchmark/
 https://awesomecua.com/zh/resources/github-tasinxxx-blaxin/
 https://awesomecua.com/zh/resources/github-task-web-osworld-web/
@@ -9608,11 +9846,13 @@ https://awesomecua.com/zh/resources/github-teamcapybara-capybara/
 https://awesomecua.com/zh/resources/github-tebelorg-rpa-python/
 https://awesomecua.com/zh/resources/github-techgardencode-naive-user/
 https://awesomecua.com/zh/resources/github-tencent-browserskill/
+https://awesomecua.com/zh/resources/github-tencent-cogkernel/
 https://awesomecua.com/zh/resources/github-tencent-cognitivekernel-pro/
 https://awesomecua.com/zh/resources/github-tencent-playcoder/
 https://awesomecua.com/zh/resources/github-tencent-points-gui/
 https://awesomecua.com/zh/resources/github-tencent-selfevolvingagent/
 https://awesomecua.com/zh/resources/github-tencent-ui-mate/
+https://awesomecua.com/zh/resources/github-tencent-webaggregator/
 https://awesomecua.com/zh/resources/github-tencentqqgylab-appagent/
 https://awesomecua.com/zh/resources/github-tengqi159-deepseek-harness-desktop/
 https://awesomecua.com/zh/resources/github-tenmomo-browser-agent/
@@ -9622,6 +9862,7 @@ https://awesomecua.com/zh/resources/github-testplay-byte-acute-code/
 https://awesomecua.com/zh/resources/github-testtesta6-visiondroid/
 https://awesomecua.com/zh/resources/github-that1drifter-browse-mcp/
 https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-harness/
+https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-standard/
 https://awesomecua.com/zh/resources/github-the-long-ride-aevra-desktop-use/
 https://awesomecua.com/zh/resources/github-the-long-ride-aevra/
 https://awesomecua.com/zh/resources/github-the-open-agent-openagent/
@@ -9729,6 +9970,7 @@ https://awesomecua.com/zh/resources/github-ucsc-vlaa-vlaa-gui/
 https://awesomecua.com/zh/resources/github-ugaiforge-designrepair/
 https://awesomecua.com/zh/resources/github-ugarchance-record-and-replay-skill/
 https://awesomecua.com/zh/resources/github-ui-voyager-ui-voyager/
+https://awesomecua.com/zh/resources/github-uiautodev-uiautodev/
 https://awesomecua.com/zh/resources/github-uitron-hub-treecua/
 https://awesomecua.com/zh/resources/github-uiuing-browser-agent/
 https://awesomecua.com/zh/resources/github-ukgovernmentbeis-inspect-evals/
@@ -9840,6 +10082,7 @@ https://awesomecua.com/zh/resources/github-web-infra-dev-midscene/
 https://awesomecua.com/zh/resources/github-webagent-cloud-webagent/
 https://awesomecua.com/zh/resources/github-webbrain-one-webbrain/
 https://awesomecua.com/zh/resources/github-webmachinelearning-webmcp/
+https://awesomecua.com/zh/resources/github-webmcp-org-npm-packages/
 https://awesomecua.com/zh/resources/github-webvln-webvln/
 https://awesomecua.com/zh/resources/github-week833-windows-local-action-recorder/
 https://awesomecua.com/zh/resources/github-weihaoyyy-codex-for-wechat/
@@ -9857,6 +10100,7 @@ https://awesomecua.com/zh/resources/github-wieslawsoltes-linuxcomputeruse/
 https://awesomecua.com/zh/resources/github-wieslawsoltes-parallelsskill/
 https://awesomecua.com/zh/resources/github-williehems-agentready/
 https://awesomecua.com/zh/resources/github-wimi321-windows-computer-use-skill/
+https://awesomecua.com/zh/resources/github-windsland52-maaevidencekit/
 https://awesomecua.com/zh/resources/github-wins0l-harness/
 https://awesomecua.com/zh/resources/github-winter40611-browser-agent/
 https://awesomecua.com/zh/resources/github-wiselnn570-co-design-bench/
@@ -9874,6 +10118,7 @@ https://awesomecua.com/zh/resources/github-worksonmyvm-android-device-perception
 https://awesomecua.com/zh/resources/github-wornpage-webmcp-conformance/
 https://awesomecua.com/zh/resources/github-wq19901103wq-wechat-mac-rpa/
 https://awesomecua.com/zh/resources/github-wqzhellohhwy-qoder-browser-connector-enabler/
+https://awesomecua.com/zh/resources/github-wshuyi-x-article-publisher-skill/
 https://awesomecua.com/zh/resources/github-wsk-build-dshbox/
 https://awesomecua.com/zh/resources/github-wsk-build-interlock-relay/
 https://awesomecua.com/zh/resources/github-wuchiuwong-crashtranslator/
@@ -9985,6 +10230,7 @@ https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/
 https://awesomecua.com/zh/resources/github-yutori-ai-navi-bench/
 https://awesomecua.com/zh/resources/github-yuxiangchai-amex-codebase/
 https://awesomecua.com/zh/resources/github-yuxuan2003-awesome-gui-agent-security/
+https://awesomecua.com/zh/resources/github-yuyoungg-uiautomator2-webview/
 https://awesomecua.com/zh/resources/github-yv17labs-ghostdesk/
 https://awesomecua.com/zh/resources/github-yxb-nku-se-gui/
 https://awesomecua.com/zh/resources/github-yxdgyxlf-computer-use-grid/
@@ -10014,9 +10260,11 @@ https://awesomecua.com/zh/resources/github-zero06six-mailman-agents/
 https://awesomecua.com/zh/resources/github-zeshuochen-nekoro-browser/
 https://awesomecua.com/zh/resources/github-zetakai-desktop-mcp/
 https://awesomecua.com/zh/resources/github-zezortdx-pegoles-agent/
+https://awesomecua.com/zh/resources/github-zfcsoftware-puppeteer-real-browser/
 https://awesomecua.com/zh/resources/github-zg0704666-aries-ai/
 https://awesomecua.com/zh/resources/github-zhangruotian-conclick/
 https://awesomecua.com/zh/resources/github-zhangyan-ucas-gui-sd-code/
+https://awesomecua.com/zh/resources/github-zhangzhao4444-maxim/
 https://awesomecua.com/zh/resources/github-zhaodashuaibi-versaios/
 https://awesomecua.com/zh/resources/github-zhaoyouj-mcp-slicer/
 https://awesomecua.com/zh/resources/github-zhayujie-cowagent/
@@ -10050,6 +10298,7 @@ https://awesomecua.com/zh/resources/github-ztr321-enterprise-web-workflow-agent/
 https://awesomecua.com/zh/resources/github-zty552252kevin-code-desktop-hub/
 https://awesomecua.com/zh/resources/github-zuhair-01-chrome-agent-bridge/
 https://awesomecua.com/zh/resources/github-zumerlab-snapdom/
+https://awesomecua.com/zh/resources/github-zumerlab-snapeye/
 https://awesomecua.com/zh/resources/github-zumerlab-snapsurf/
 https://awesomecua.com/zh/resources/github-zuub-don-domstamp/
 https://awesomecua.com/zh/resources/github-zwq-top-ui-image-to-code-studio/
@@ -10113,6 +10362,7 @@ https://awesomecua.com/zh/resources/url-0ab0de943c5396cdf366/
 https://awesomecua.com/zh/resources/url-0af07e00658a430cee6a/
 https://awesomecua.com/zh/resources/url-0b0a7a841d65715d60b1/
 https://awesomecua.com/zh/resources/url-0b134b082a7bd507fc6a/
+https://awesomecua.com/zh/resources/url-0b272935f82c063d9384/
 https://awesomecua.com/zh/resources/url-0b3bb9fac5b0ba9777b8/
 https://awesomecua.com/zh/resources/url-0b590d03a3d5103a79e4/
 https://awesomecua.com/zh/resources/url-0b94b29f2afbfe8a3abb/
@@ -10172,10 +10422,13 @@ https://awesomecua.com/zh/resources/url-1e6b8682e0f1ddc3d36f/
 https://awesomecua.com/zh/resources/url-1e85f7557b39ae40193f/
 https://awesomecua.com/zh/resources/url-1f248862e4b691b85343/
 https://awesomecua.com/zh/resources/url-1f488d7ef1c703f97a8a/
+https://awesomecua.com/zh/resources/url-1ff9a17a7d0802a71b1a/
+https://awesomecua.com/zh/resources/url-201acf47dde3df755bfe/
 https://awesomecua.com/zh/resources/url-20f7cdee10b0dd70815f/
 https://awesomecua.com/zh/resources/url-20fa95f00391bf965af2/
 https://awesomecua.com/zh/resources/url-21687e3bf1eb78f2bcda/
 https://awesomecua.com/zh/resources/url-2260aaa47fb9c63bb917/
+https://awesomecua.com/zh/resources/url-2304547d5025246abbe4/
 https://awesomecua.com/zh/resources/url-232a1698849e2fea425c/
 https://awesomecua.com/zh/resources/url-23ad240757185c6f7eac/
 https://awesomecua.com/zh/resources/url-23bc63f93d3c31d74af3/
@@ -10245,6 +10498,7 @@ https://awesomecua.com/zh/resources/url-36a7cba41056d46cdcde/
 https://awesomecua.com/zh/resources/url-374138c6e18c9f1dd44a/
 https://awesomecua.com/zh/resources/url-37570eed422d326bfa5a/
 https://awesomecua.com/zh/resources/url-377f5418e39ff2da971f/
+https://awesomecua.com/zh/resources/url-37880875f816f46f6dfe/
 https://awesomecua.com/zh/resources/url-37b4f525e6d7a56a9967/
 https://awesomecua.com/zh/resources/url-380318a8de65fe45956c/
 https://awesomecua.com/zh/resources/url-380a6eedcb4de7778e88/
@@ -10276,6 +10530,7 @@ https://awesomecua.com/zh/resources/url-3e1a864c46c8ed5735d4/
 https://awesomecua.com/zh/resources/url-3e3ca34dbdaf3190465c/
 https://awesomecua.com/zh/resources/url-3e58eecd59c404508757/
 https://awesomecua.com/zh/resources/url-3ef18fbb67e0376561db/
+https://awesomecua.com/zh/resources/url-3f0e524544c55025c9d9/
 https://awesomecua.com/zh/resources/url-3fdea133115518f9205a/
 https://awesomecua.com/zh/resources/url-404c719910f8f4a37149/
 https://awesomecua.com/zh/resources/url-405959de004b6e32c911/
@@ -10291,6 +10546,7 @@ https://awesomecua.com/zh/resources/url-430e47e1ca9f3b2a302f/
 https://awesomecua.com/zh/resources/url-4395ff8522cd77109b83/
 https://awesomecua.com/zh/resources/url-43d811a5957d8effb7ed/
 https://awesomecua.com/zh/resources/url-43f98379902167a5f9f3/
+https://awesomecua.com/zh/resources/url-4425e20ebe68c9eb805f/
 https://awesomecua.com/zh/resources/url-447997967beea3b07f6f/
 https://awesomecua.com/zh/resources/url-44827a16f49e65ba8fb3/
 https://awesomecua.com/zh/resources/url-44b65e07d7a869d37dc6/
@@ -10309,6 +10565,7 @@ https://awesomecua.com/zh/resources/url-4b6d61ff2c1d6c8e1a23/
 https://awesomecua.com/zh/resources/url-4b747a376f628e6f9760/
 https://awesomecua.com/zh/resources/url-4bcb6a451d6f4d25343c/
 https://awesomecua.com/zh/resources/url-4bece2c969edcdfc2e8d/
+https://awesomecua.com/zh/resources/url-4c4b6238a1b1f1dfd4f4/
 https://awesomecua.com/zh/resources/url-4d32ad3682ae2d71c178/
 https://awesomecua.com/zh/resources/url-4d7042b462e937c33406/
 https://awesomecua.com/zh/resources/url-4e71dc456c4112eed727/
@@ -10337,6 +10594,7 @@ https://awesomecua.com/zh/resources/url-52b7de0e43b1afc9c226/
 https://awesomecua.com/zh/resources/url-52de9679739ad0a50f69/
 https://awesomecua.com/zh/resources/url-52ec96785d9c0ae8e039/
 https://awesomecua.com/zh/resources/url-5304880559ad79f5b797/
+https://awesomecua.com/zh/resources/url-534151cf8b1e1df5bf96/
 https://awesomecua.com/zh/resources/url-5371bf588e7790a66ff0/
 https://awesomecua.com/zh/resources/url-543aff764901777e6ad5/
 https://awesomecua.com/zh/resources/url-546e6c95825d1318c98d/
@@ -10361,6 +10619,7 @@ https://awesomecua.com/zh/resources/url-5831a1ae8385cda79575/
 https://awesomecua.com/zh/resources/url-5857c840372512cfe3fc/
 https://awesomecua.com/zh/resources/url-58a209f2b3b970916396/
 https://awesomecua.com/zh/resources/url-592e434848a1514efef0/
+https://awesomecua.com/zh/resources/url-59b8a8cfdd3db7b21058/
 https://awesomecua.com/zh/resources/url-5a073f50270c4f316ce5/
 https://awesomecua.com/zh/resources/url-5a63318fd49cbcc84ad1/
 https://awesomecua.com/zh/resources/url-5aa01cb259a5d9a07d6e/
@@ -10385,6 +10644,7 @@ https://awesomecua.com/zh/resources/url-6262c757080f8838e62c/
 https://awesomecua.com/zh/resources/url-62688de46b172fb0c746/
 https://awesomecua.com/zh/resources/url-62724cba1b5814215cf7/
 https://awesomecua.com/zh/resources/url-628b5251757bb3888e89/
+https://awesomecua.com/zh/resources/url-62a92edacc4b703aaa05/
 https://awesomecua.com/zh/resources/url-62cf0bee7a14cfbc84a0/
 https://awesomecua.com/zh/resources/url-62d912811f786f787ae4/
 https://awesomecua.com/zh/resources/url-62df6dac6ade720ddd70/
@@ -10418,7 +10678,9 @@ https://awesomecua.com/zh/resources/url-69d6afe38a9a128ba9f7/
 https://awesomecua.com/zh/resources/url-6a212bc12f82c824f6b9/
 https://awesomecua.com/zh/resources/url-6a943fb3667791b6cdb4/
 https://awesomecua.com/zh/resources/url-6aa1aa58a7a888395189/
+https://awesomecua.com/zh/resources/url-6aa8885dd2c713b4c64f/
 https://awesomecua.com/zh/resources/url-6b9389a144cbe70c894d/
+https://awesomecua.com/zh/resources/url-6bdda64c5782f03b0f54/
 https://awesomecua.com/zh/resources/url-6c16f91d8d79d7836283/
 https://awesomecua.com/zh/resources/url-6c3e04249787a3de7cbc/
 https://awesomecua.com/zh/resources/url-6cd150ec23361b4d2e84/
@@ -10463,6 +10725,7 @@ https://awesomecua.com/zh/resources/url-77c708f5cff2d4c95e90/
 https://awesomecua.com/zh/resources/url-78802d1a2fce25f20f85/
 https://awesomecua.com/zh/resources/url-78adf6919bdbce42bc24/
 https://awesomecua.com/zh/resources/url-79287058342289aa5d45/
+https://awesomecua.com/zh/resources/url-792920a5f64df66d34d7/
 https://awesomecua.com/zh/resources/url-79b8dfa115894a7f53aa/
 https://awesomecua.com/zh/resources/url-79e0b911afaf4313fa6c/
 https://awesomecua.com/zh/resources/url-7a35f44787f99834f13e/
@@ -10471,13 +10734,16 @@ https://awesomecua.com/zh/resources/url-7ae2670859e3796e8607/
 https://awesomecua.com/zh/resources/url-7afa17db925828d9a035/
 https://awesomecua.com/zh/resources/url-7c01d4caa44763019e36/
 https://awesomecua.com/zh/resources/url-7c3e8c4ba52428584079/
+https://awesomecua.com/zh/resources/url-7c431ccb1d5dc1f035d8/
 https://awesomecua.com/zh/resources/url-7c4d9a3bd10f7bab9268/
 https://awesomecua.com/zh/resources/url-7c568d88a472f914d316/
 https://awesomecua.com/zh/resources/url-7c6929dcffffe6553ea9/
 https://awesomecua.com/zh/resources/url-7cfe1cd1a61d7ebfd083/
 https://awesomecua.com/zh/resources/url-7d198acee96b3ec197aa/
+https://awesomecua.com/zh/resources/url-7e2e6225864f97b5238c/
 https://awesomecua.com/zh/resources/url-7e7de336b1d8a2adce2c/
 https://awesomecua.com/zh/resources/url-7ea46aa7d2d4470bb1f8/
+https://awesomecua.com/zh/resources/url-7ebba507c0df876c6113/
 https://awesomecua.com/zh/resources/url-7ed70b39ac79f97f8a87/
 https://awesomecua.com/zh/resources/url-7f1339af63d3f89bd0bf/
 https://awesomecua.com/zh/resources/url-7f7d17a0873e6ffda2b9/
@@ -10524,6 +10790,7 @@ https://awesomecua.com/zh/resources/url-8be414a28d1984abb1b9/
 https://awesomecua.com/zh/resources/url-8c0b15d51eb7b4156608/
 https://awesomecua.com/zh/resources/url-8c9aaafb918aaf8b4e92/
 https://awesomecua.com/zh/resources/url-8cd911654653a6ba8521/
+https://awesomecua.com/zh/resources/url-8d584b241812a89a964e/
 https://awesomecua.com/zh/resources/url-8d87e8ae53971aab3f8d/
 https://awesomecua.com/zh/resources/url-8dfc84eb4016204fe70a/
 https://awesomecua.com/zh/resources/url-8ef3985dce697e5feea9/
@@ -10538,8 +10805,12 @@ https://awesomecua.com/zh/resources/url-90eea6f6d099a3297850/
 https://awesomecua.com/zh/resources/url-9112dfcb201f2de7241f/
 https://awesomecua.com/zh/resources/url-9113270916a36b4b76f1/
 https://awesomecua.com/zh/resources/url-913a72e8929afd96ad07/
+https://awesomecua.com/zh/resources/url-9140ca5ba8252d373b8d/
 https://awesomecua.com/zh/resources/url-915e40f18b217ac63fc6/
+https://awesomecua.com/zh/resources/url-92241e51e909ea9ca564/
+https://awesomecua.com/zh/resources/url-925ca9e4519cb9ecdc00/
 https://awesomecua.com/zh/resources/url-92b5cb08491c09243b72/
+https://awesomecua.com/zh/resources/url-92b80b37a7a117acfd3c/
 https://awesomecua.com/zh/resources/url-93109952a74302d890b5/
 https://awesomecua.com/zh/resources/url-93278fa5b9e6bd0cbcef/
 https://awesomecua.com/zh/resources/url-93c98e3b5aea945e0877/
@@ -10589,6 +10860,7 @@ https://awesomecua.com/zh/resources/url-a13a187bc058fbb4f6af/
 https://awesomecua.com/zh/resources/url-a1621345ec327462b86e/
 https://awesomecua.com/zh/resources/url-a19a076a4808a80f6ac8/
 https://awesomecua.com/zh/resources/url-a2362e23fdcbc73763e6/
+https://awesomecua.com/zh/resources/url-a236b756e1940a873e9f/
 https://awesomecua.com/zh/resources/url-a252b36bf1c440269a2e/
 https://awesomecua.com/zh/resources/url-a2c0216a0d8875e86dee/
 https://awesomecua.com/zh/resources/url-a349aace3cfde25628a8/
@@ -10615,6 +10887,7 @@ https://awesomecua.com/zh/resources/url-a92e7dfcdfdcacb2e634/
 https://awesomecua.com/zh/resources/url-a96c70bcf5a235f980b6/
 https://awesomecua.com/zh/resources/url-a998ab1efc741ba69d82/
 https://awesomecua.com/zh/resources/url-aa28e1329a52e341d285/
+https://awesomecua.com/zh/resources/url-aa4abc9055c3f3248a1a/
 https://awesomecua.com/zh/resources/url-aa693ca3e8948623f31e/
 https://awesomecua.com/zh/resources/url-ab26f9ef56d651cee587/
 https://awesomecua.com/zh/resources/url-ab4587d17c4f541bb94c/
@@ -10623,6 +10896,7 @@ https://awesomecua.com/zh/resources/url-ac6d0f80765f5a32255a/
 https://awesomecua.com/zh/resources/url-acd43f38167ba02e7ff8/
 https://awesomecua.com/zh/resources/url-acfd6d395d67ce8011bb/
 https://awesomecua.com/zh/resources/url-ad7f176848fd84de64e2/
+https://awesomecua.com/zh/resources/url-ad993f634943aadbc3f7/
 https://awesomecua.com/zh/resources/url-adb613aec8c5ebdeab89/
 https://awesomecua.com/zh/resources/url-ae8e3fa5a67a608804f8/
 https://awesomecua.com/zh/resources/url-ae8f5208eea9e7f1f606/
@@ -10643,6 +10917,9 @@ https://awesomecua.com/zh/resources/url-b1837823421bd08cb826/
 https://awesomecua.com/zh/resources/url-b1c6b94743e6dbac930d/
 https://awesomecua.com/zh/resources/url-b230a6700386b7e2744c/
 https://awesomecua.com/zh/resources/url-b2a83cef835559f24351/
+https://awesomecua.com/zh/resources/url-b2b683f72ef4835c0826/
+https://awesomecua.com/zh/resources/url-b3dd615ebfe977392f90/
+https://awesomecua.com/zh/resources/url-b43faa43e897c074b7c8/
 https://awesomecua.com/zh/resources/url-b4a01331e3e89e1bae9d/
 https://awesomecua.com/zh/resources/url-b53e03a6e4ca4226d126/
 https://awesomecua.com/zh/resources/url-b540fe81c57cedb1f556/
@@ -10655,6 +10932,7 @@ https://awesomecua.com/zh/resources/url-b5e2127e07f692d516b9/
 https://awesomecua.com/zh/resources/url-b5fb13515d7779218f5d/
 https://awesomecua.com/zh/resources/url-b6114625f883ec0fda33/
 https://awesomecua.com/zh/resources/url-b68b02b47c87f006533e/
+https://awesomecua.com/zh/resources/url-b6a26f1b74d70fc783da/
 https://awesomecua.com/zh/resources/url-b75abe232c389788d2c4/
 https://awesomecua.com/zh/resources/url-b79ca6f7731ebf067709/
 https://awesomecua.com/zh/resources/url-b7ccf7acb2e9d8a11853/
@@ -10676,6 +10954,7 @@ https://awesomecua.com/zh/resources/url-bd7214de6d98917c2350/
 https://awesomecua.com/zh/resources/url-bd9f8174e5503055c0bd/
 https://awesomecua.com/zh/resources/url-bdfb50330deb97893ce4/
 https://awesomecua.com/zh/resources/url-be4ca14d1724b0cf8314/
+https://awesomecua.com/zh/resources/url-be5b952e5f0b4b7e4747/
 https://awesomecua.com/zh/resources/url-be89a250747f507a27ef/
 https://awesomecua.com/zh/resources/url-beafd78bf2ea84211e6d/
 https://awesomecua.com/zh/resources/url-beb2ca7cdaefbef42ee6/
@@ -10722,6 +11001,7 @@ https://awesomecua.com/zh/resources/url-cc4aa8caeee0cff58e73/
 https://awesomecua.com/zh/resources/url-cc931199bda2bdf1f5f7/
 https://awesomecua.com/zh/resources/url-ccac8d260d6d1d330bf5/
 https://awesomecua.com/zh/resources/url-cccd967aa993404d74d0/
+https://awesomecua.com/zh/resources/url-cdb9a1ad26e169a411f5/
 https://awesomecua.com/zh/resources/url-ce0af37931cd5aa20233/
 https://awesomecua.com/zh/resources/url-ce775111626bae220596/
 https://awesomecua.com/zh/resources/url-cee45b940d5fbff3ccca/
@@ -10761,6 +11041,7 @@ https://awesomecua.com/zh/resources/url-d86f55753bfea45fe313/
 https://awesomecua.com/zh/resources/url-d92596cfe618e5322ec2/
 https://awesomecua.com/zh/resources/url-d96a6dcdd2aa622c523b/
 https://awesomecua.com/zh/resources/url-d9d8e68f19ef0956d189/
+https://awesomecua.com/zh/resources/url-d9e6788adf3eb50a9b87/
 https://awesomecua.com/zh/resources/url-dad3d02b2f9603713287/
 https://awesomecua.com/zh/resources/url-daf52475338f385b9310/
 https://awesomecua.com/zh/resources/url-db1b7b7efe3755ae5693/
@@ -10773,6 +11054,7 @@ https://awesomecua.com/zh/resources/url-dca82e9214c5926109f1/
 https://awesomecua.com/zh/resources/url-dda8a0f1413a6bc7c26f/
 https://awesomecua.com/zh/resources/url-ddb5d413e19be8a4416e/
 https://awesomecua.com/zh/resources/url-de31b07ff24ab15d9bdf/
+https://awesomecua.com/zh/resources/url-dea0e09f027df704ca00/
 https://awesomecua.com/zh/resources/url-dec156cbf0cb1181f7b6/
 https://awesomecua.com/zh/resources/url-dec73112f4c2dad889cb/
 https://awesomecua.com/zh/resources/url-df10c80a8da55773154d/
@@ -10797,6 +11079,7 @@ https://awesomecua.com/zh/resources/url-e126bbd9729ebdaf05ab/
 https://awesomecua.com/zh/resources/url-e1842006eb7b4745da03/
 https://awesomecua.com/zh/resources/url-e21ca7c859544dbf5fb6/
 https://awesomecua.com/zh/resources/url-e2b79e8d1c6a28c65bff/
+https://awesomecua.com/zh/resources/url-e2c687595af929b4332a/
 https://awesomecua.com/zh/resources/url-e2ddf502803f46085aca/
 https://awesomecua.com/zh/resources/url-e35db30fee209ef9b57d/
 https://awesomecua.com/zh/resources/url-e3c1a2a2d556e4728953/
@@ -10843,6 +11126,7 @@ https://awesomecua.com/zh/resources/url-eff580f3185f2a36c265/
 https://awesomecua.com/zh/resources/url-f00b2ed65c517295a6cc/
 https://awesomecua.com/zh/resources/url-f039da43799772645c92/
 https://awesomecua.com/zh/resources/url-f0584842138a52158f51/
+https://awesomecua.com/zh/resources/url-f06109ae04d4c3133f90/
 https://awesomecua.com/zh/resources/url-f0eac3ad813245645492/
 https://awesomecua.com/zh/resources/url-f0ffbdc41c9dca4c585f/
 https://awesomecua.com/zh/resources/url-f13474d7aa734a30624d/
@@ -10858,6 +11142,7 @@ https://awesomecua.com/zh/resources/url-f56dbd8bfac8b0545e07/
 https://awesomecua.com/zh/resources/url-f58895265a31c37d12b4/
 https://awesomecua.com/zh/resources/url-f59c2dd51c1f5c570a28/
 https://awesomecua.com/zh/resources/url-f644200c18bea88da7b3/
+https://awesomecua.com/zh/resources/url-f68939821685c9dcc78c/
 https://awesomecua.com/zh/resources/url-f6c88faa4392848f81b6/
 https://awesomecua.com/zh/resources/url-f6e1a7527f9346ed1c1d/
 https://awesomecua.com/zh/resources/url-f70aa7c95824a8729516/
@@ -10897,6 +11182,7 @@ https://awesomecua.com/zh/topics/action-prediction/page/2/
 https://awesomecua.com/zh/topics/action-prediction/page/3/
 https://awesomecua.com/zh/topics/action-prediction/page/4/
 https://awesomecua.com/zh/topics/action-prediction/page/5/
+https://awesomecua.com/zh/topics/action-prediction/page/6/
 https://awesomecua.com/zh/topics/automation/
 https://awesomecua.com/zh/topics/automation/page/10/
 https://awesomecua.com/zh/topics/automation/page/11/
@@ -10917,6 +11203,7 @@ https://awesomecua.com/zh/topics/automation/page/24/
 https://awesomecua.com/zh/topics/automation/page/25/
 https://awesomecua.com/zh/topics/automation/page/26/
 https://awesomecua.com/zh/topics/automation/page/27/
+https://awesomecua.com/zh/topics/automation/page/28/
 https://awesomecua.com/zh/topics/automation/page/3/
 https://awesomecua.com/zh/topics/automation/page/4/
 https://awesomecua.com/zh/topics/automation/page/5/
@@ -11020,6 +11307,7 @@ https://awesomecua.com/zh/topics/memory/page/6/
 https://awesomecua.com/zh/topics/mobile-navigation/
 https://awesomecua.com/zh/topics/mobile-navigation/page/10/
 https://awesomecua.com/zh/topics/mobile-navigation/page/11/
+https://awesomecua.com/zh/topics/mobile-navigation/page/12/
 https://awesomecua.com/zh/topics/mobile-navigation/page/2/
 https://awesomecua.com/zh/topics/mobile-navigation/page/3/
 https://awesomecua.com/zh/topics/mobile-navigation/page/4/
@@ -11121,6 +11409,7 @@ https://awesomecua.com/zh/topics/tool-integration/page/20/
 https://awesomecua.com/zh/topics/tool-integration/page/21/
 https://awesomecua.com/zh/topics/tool-integration/page/22/
 https://awesomecua.com/zh/topics/tool-integration/page/23/
+https://awesomecua.com/zh/topics/tool-integration/page/24/
 https://awesomecua.com/zh/topics/tool-integration/page/3/
 https://awesomecua.com/zh/topics/tool-integration/page/4/
 https://awesomecua.com/zh/topics/tool-integration/page/5/
@@ -11158,6 +11447,7 @@ https://awesomecua.com/zh/topics/web-navigation/page/27/
 https://awesomecua.com/zh/topics/web-navigation/page/28/
 https://awesomecua.com/zh/topics/web-navigation/page/29/
 https://awesomecua.com/zh/topics/web-navigation/page/3/
+https://awesomecua.com/zh/topics/web-navigation/page/30/
 https://awesomecua.com/zh/topics/web-navigation/page/4/
 https://awesomecua.com/zh/topics/web-navigation/page/5/
 https://awesomecua.com/zh/topics/web-navigation/page/6/

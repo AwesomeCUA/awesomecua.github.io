@@ -4,6 +4,16 @@ HTML page: https://awesomecua.com/categories/framework/page/7/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [TestDriver SDK](https://awesomecua.com/resources/github-testdriverai-testdriverai/)
+- [TEX (tex-browse-use)](https://awesomecua.com/resources/github-hanzmaulwurf-tex-browse-use/)
+- [THEIA Computer Use](https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/)
+- [Threadline WebMCP](https://awesomecua.com/resources/github-jameswirths-threadline/)
+- [TideSurf](https://awesomecua.com/resources/github-tidesurf-core/)
+- [tinybrowser](https://awesomecua.com/resources/github-tinyhumansai-tinybrowser/)
+- [tinycomputer](https://awesomecua.com/resources/github-tinyhumansai-tinycomputer/)
+- [TongUI training and inference framework](https://awesomecua.com/resources/github-tongui-agent-tongui-agent/)
+- [ToolGen](https://awesomecua.com/resources/github-reason-wang-toolgen/)
+- [ToolTok](https://awesomecua.com/resources/github-zephinuecode-tooltok/)
 - [TopoClaw](https://awesomecua.com/resources/github-madeagents-topoclaw/)
 - [Touchline](https://awesomecua.com/resources/github-edenbuilds-touchline/)
 - [Touchpoint](https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/)

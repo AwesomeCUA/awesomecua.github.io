@@ -2,7 +2,7 @@
 
 工具是智能体或开发者调用的实用程序，用来控制、观察或检查界面，包括 MCP 服务器、浏览器与设备控制器、屏幕解析器和录制工具。
 
-> AwesomeCUA 目录收录 1,084 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
+> AwesomeCUA 目录收录 1,163 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T06:29:47Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://awesomecua.com/categories/tool/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -13,7 +13,7 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://aw
 | [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/LICENSE) | 33 |
 | [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) | 跨平台 | — | 25 |
 | [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/vercel-labs/agent-browser/HEAD/LICENSE) | 19 |
-| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 17 |
+| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 18 |
 | [Oracle E-Business Suite Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/oracle-ebs-browser-automation/HEAD/LICENSE) | 13 |
 | [SAP Fiori Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/sap-fiori-browser-automation/HEAD/LICENSE) | 13 |
 
@@ -25,15 +25,15 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://aw
 
 ### 这些工具覆盖哪些平台？
 
-在 1,084 条已审核工具中，网页 647 条、桌面 557 条、跨平台 175 条、手机 82 条；13 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 1,163 条已审核工具中，网页 682 条、桌面 577 条、跨平台 176 条、手机 106 条；21 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些工具有对应的论文？
 
-1,084 条中有 18 条链接到提出或说明它的 arXiv 论文，例如 [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/)、[activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) 和 [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/)。
+1,163 条中有 18 条链接到提出或说明它的 arXiv 论文，例如 [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/)、[activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) 和 [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/)。
 
 ### 工具使用哪些许可证？
 
-最常见的声明许可证是 MIT（737 条）、Apache-2.0（122 条）和 AGPL-3.0（22 条）。1,084 条中有 172 条未记录声明的许可证。
+最常见的声明许可证是 MIT（771 条）、Apache-2.0（137 条）和 AGPL-3.0（26 条）。1,163 条中有 194 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -304,36 +304,6 @@ The repository lists source modules, examples, and an environment configuration 
 
 ---
 
-## Browser Harness
-
-Browser Use 的 Browser Harness 让 Claude Code、Codex 和 Cursor 能够通过 CDP 操控用户真实且已登录的 Chrome 浏览器。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-browser-use-browser-harness/
-- 原始来源：https://github.com/browser-use/browser-harness
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、工具集成、自动化
-- 证据核查日期：2026-11-04T16:10:26Z
-- ID：github:browser-use/browser-harness
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-browser-use-browser-harness/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/browser-use/browser-harness/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/browser-use/browser-harness/HEAD/README.md（获取于 2026-11-04T16:10:26Z；SHA-256：69309c3dfeec03b6499374e36fda7d2d15e3a9c276b5a5f00574f0cb29a47156）
-- https://raw.githubusercontent.com/browser-use/browser-harness/HEAD/LICENSE（获取于 2026-11-04T16:13:58Z；SHA-256：5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631）
-
----
-
 ## Puppeteer
 
 Puppeteer 是用于控制 Chrome 和 Firefox 的 JavaScript 浏览器库，可通过 API 编写网页导航与交互脚本。
@@ -365,6 +335,70 @@ The README identifies DevTools Protocol and WebDriver BiDi as control interfaces
 
 - https://raw.githubusercontent.com/puppeteer/puppeteer/HEAD/README.md（获取于 2026-11-09T06:16:36Z；SHA-256：b2564c37c112336cc191da0890bdc4a8a3e5e039830b17613c69ac7914a7b4bc）
 - https://raw.githubusercontent.com/puppeteer/puppeteer/HEAD/LICENSE（获取于 2026-11-09T06:13:42Z；SHA-256：a27ca07269b3518550b2e83aed13eadd7d14d924b5864e14889b40cf227530ca）
+
+---
+
+## ADBKeyBoard
+
+一款 Android 虚拟键盘，通过 ADB 广播输入文本、Unicode 字符和按键事件，供设备自动化使用。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-senzhk-adbkeyboard/
+- 原始来源：https://github.com/senzhk/ADBKeyBoard
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化、手机操作
+- 证据核查日期：2026-11-09T06:16:33Z
+- ID：github:senzhk/adbkeyboard
+
+### 范围记录
+
+The README documents APK installation, building from source and broadcast commands for text, key events and editor actions.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-senzhk-adbkeyboard/record.json
+
+### 许可证信息
+
+- 代码：GPL-2.0 — https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：b7e0b55f5defc2d09a27ad8417fc2adb085cbd5997414c3978ffef79135545b9）
+- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE（获取于 2026-11-09T06:13:35Z；SHA-256：7ea4b1fa1256b0ab2bbbff489e5e8d8f1f9b864504d60091ff871d80e04f21fa）
+
+---
+
+## Browser Harness
+
+Browser Use 的 Browser Harness 让 Claude Code、Codex 和 Cursor 能够通过 CDP 操控用户真实且已登录的 Chrome 浏览器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-browser-use-browser-harness/
+- 原始来源：https://github.com/browser-use/browser-harness
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工具集成、自动化
+- 证据核查日期：2026-11-04T16:10:26Z
+- ID：github:browser-use/browser-harness
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-browser-use-browser-harness/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/browser-use/browser-harness/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/browser-use/browser-harness/HEAD/README.md（获取于 2026-11-04T16:10:26Z；SHA-256：69309c3dfeec03b6499374e36fda7d2d15e3a9c276b5a5f00574f0cb29a47156）
+- https://raw.githubusercontent.com/browser-use/browser-harness/HEAD/LICENSE（获取于 2026-11-04T16:13:58Z；SHA-256：5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631）
 
 ---
 
@@ -462,6 +496,40 @@ The README describes Playwright, desktop accessibility APIs, and pixel-based Cit
 
 ---
 
+## Patchright
+
+Patchright 是用于 Chromium 自动化的修改版 Playwright 驱动，通过 Playwright 风格的 API 进行浏览器交互，并提供独立的客户端软件包。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright/
+- 原始来源：https://github.com/Kaliiiiiiiiii-Vinyzu/patchright
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-09T19:55:43Z
+- ID：github:kaliiiiiiiiii-vinyzu/patchright
+
+### 范围记录
+
+The repository serves the driver; its README points to Python, Node.js, and .NET packages. It states that Firefox and WebKit are unsupported.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright/HEAD/README.md（获取于 2026-11-09T19:55:43Z；SHA-256：1a68485b0134cfeaad07aee466485e47f0ded496286d4683d7235716f53cb63f）
+- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright/HEAD/LICENSE（获取于 2026-11-09T15:02:19Z；SHA-256：65beda85bd1b4a30c2681314352c8aeeafd772dcefd554a05322afcc1297368a）
+
+---
+
 ## Windows-MCP
 
 面向智能体的 Windows MCP 桥接工具，提供应用、窗口、键盘和鼠标操作，以及原生 UI 状态检查。
@@ -497,40 +565,6 @@ Public source and official release metadata are present. The README explicitly s
 - https://api.github.com/repos/CursorTouch/Windows-MCP/releases/latest（获取于 2026-10-17T04:00:58Z；SHA-256：db3de978027106a991da3f7f2d78b216cfffee9b08604872fa3216927acc7a2d）
 - https://raw.githubusercontent.com/CursorTouch/Windows-MCP/HEAD/LICENSE.md（获取于 2026-10-17T04:00:59Z；SHA-256：20ced59173768e20e91a43e3a80443aa1200b129c134f07f0cc45779747a1743）
 - https://raw.githubusercontent.com/CursorTouch/Windows-MCP/HEAD/LICENSE.md（获取于 2026-10-17T04:00:59Z；SHA-256：20ced59173768e20e91a43e3a80443aa1200b129c134f07f0cc45779747a1743）
-
----
-
-## ADBKeyBoard
-
-一款 Android 虚拟键盘，通过 ADB 广播输入文本、Unicode 字符和按键事件，供设备自动化使用。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-senzhk-adbkeyboard/
-- 原始来源：https://github.com/senzhk/ADBKeyBoard
-- 类型：工具
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：Android
-- 主题：自动化、手机操作
-- 证据核查日期：2026-11-09T06:16:33Z
-- ID：github:senzhk/adbkeyboard
-
-### 范围记录
-
-The README documents APK installation, building from source and broadcast commands for text, key events and editor actions.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-senzhk-adbkeyboard/record.json
-
-### 许可证信息
-
-- 代码：GPL-2.0 — https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：b7e0b55f5defc2d09a27ad8417fc2adb085cbd5997414c3978ffef79135545b9）
-- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE（获取于 2026-11-09T06:13:35Z；SHA-256：7ea4b1fa1256b0ab2bbbff489e5e8d8f1f9b864504d60091ff871d80e04f21fa）
 
 ---
 
@@ -630,6 +664,70 @@ MCP 服务器和 CLI，让 Claude Code、Codex 和 MCP 智能体将真实 iPhone
 
 ---
 
+## nodriver
+
+这是一个用于浏览器自动化的异步 Python 库，通过 Chrome DevTools Protocol 控制基于 Chromium 的浏览器，并提供基于文本和选择器的元素查找功能。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ultrafunkamsterdam-nodriver/
+- 原始来源：https://github.com/ultrafunkamsterdam/nodriver
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-09T19:57:28Z
+- ID：github:ultrafunkamsterdam/nodriver
+
+### 范围记录
+
+The README includes installation and usage examples. It requires Chrome or another Chromium-based browser.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ultrafunkamsterdam-nodriver/record.json
+
+### 许可证信息
+
+- 代码：AGPL-3.0 — https://raw.githubusercontent.com/ultrafunkamsterdam/nodriver/HEAD/LICENSE.txt
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://github.com/ultrafunkamsterdam/nodriver（获取于 2026-11-09T19:57:28Z；SHA-256：e85db278107206b89d902ec1b9db3f629e8b0d4ceb94e00d40e48167fc7b2fea）
+- https://raw.githubusercontent.com/ultrafunkamsterdam/nodriver/HEAD/LICENSE.txt（获取于 2026-11-09T14:21:00Z；SHA-256：4c07b14947925c5c3d125ca8d7f1fadbf604a6df626edbb0b78cefa26b9bb8f6）
+
+---
+
+## Plasmate
+
+Plasmate 是面向 AI 智能体的 Rust 浏览器引擎，可将 HTML 和 DOM 状态转换为紧凑、可操作的 Semantic Object Model。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate/
+- 原始来源：https://github.com/plasmate-labs/plasmate
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、界面理解、效率
+- 证据核查日期：2026-11-04T13:12:31Z
+- ID：github:plasmate-labs/plasmate
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/README.md（获取于 2026-11-04T13:12:31Z；SHA-256：e4413f27d3adc8c690129e5efe24a28d8aec16cd873ca10f290edce96358b01f）
+- https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/LICENSE（获取于 2026-11-04T13:23:43Z；SHA-256：a348fa82d4bdc1103bffe408b6b494973f35d01b563f09c72e29595661bb0bcf）
+
+---
+
 ## Playwright CLI
 
 Playwright CLI 提供节省 token 的命令行界面和 skill 集，供编码及计算机使用智能体自动操作网页浏览器。
@@ -657,6 +755,39 @@ Playwright CLI 提供节省 token 的命令行界面和 skill 集，供编码及
 
 - https://raw.githubusercontent.com/microsoft/playwright-cli/HEAD/README.md（获取于 2026-11-04T13:12:24Z；SHA-256：0ebce0d1585577c7fd370f6e5f47133500f5d2f0871a4201519d11706f803746）
 - https://raw.githubusercontent.com/microsoft/playwright-cli/HEAD/LICENSE（获取于 2026-11-04T13:42:26Z；SHA-256：9a7110fc2d2f964038e5dc49128f908f29f47a574c961cba16085914e879cbda）
+
+---
+
+## WebDriverAgent
+
+WebDriverAgent 是用于远程控制 iOS 应用的 WebDriver 服务器，支持启动应用、点击、滚动和检查视图；后续开发已转入 appium-ios。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-appium-webdriveragent/
+- 原始来源：https://github.com/appium/WebDriverAgent
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS
+- 主题：自动化、手机操作、历史
+- 证据核查日期：2026-11-09T06:16:33Z
+- ID：github:appium/webdriveragent
+
+### 范围记录
+
+The source describes devices and simulators, XCTest-based commands, and a Node.js requirement for this repository. It declares a BSD license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-appium-webdriveragent/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/appium/WebDriverAgent/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：8c779558a96d230ddfc3ca5d4341fc8702b0eff299ce37d93db945ed22d0bb13）
 
 ---
 
@@ -795,67 +926,135 @@ It relies on chrome-use for cookie and browser operations. The source describes 
 
 ---
 
-## nodriver
+## invisible_core
 
-这是一个用于浏览器自动化的异步 Python 库，通过 Chrome DevTools Protocol 控制基于 Chromium 的浏览器，并提供基于文本和选择器的元素查找功能。
+invisible_core 生成 Firefox 指纹配置和浏览器首选项，并提供由浏览器自动化封装程序和 MCP 服务器共用的引擎客户端。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-ultrafunkamsterdam-nodriver/
-- 原始来源：https://github.com/ultrafunkamsterdam/nodriver
+- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-invisible-core/
+- 原始来源：https://github.com/feder-cr/invisible_core
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
 - 运行环境：网页
 - 主题：自动化、网页导航
-- 证据核查日期：2026-11-09T19:57:28Z
-- ID：github:ultrafunkamsterdam/nodriver
+- 证据核查日期：2026-11-09T21:09:36Z
+- ID：github:feder-cr/invisible_core
 
 ### 范围记录
 
-The README includes installation and usage examples. It requires Chrome or another Chromium-based browser.
+The README describes patched-binary download, proxy configuration, and geographic and time-zone resolution. It names Playwright, Selenium, and pyppeteer wrappers that share this foundation.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-ultrafunkamsterdam-nodriver/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-invisible-core/record.json
 
 ### 许可证信息
 
-- 代码：AGPL-3.0 — https://raw.githubusercontent.com/ultrafunkamsterdam/nodriver/HEAD/LICENSE.txt
+- 代码：MIT — https://raw.githubusercontent.com/feder-cr/invisible_core/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://github.com/ultrafunkamsterdam/nodriver（获取于 2026-11-09T19:57:28Z；SHA-256：e85db278107206b89d902ec1b9db3f629e8b0d4ceb94e00d40e48167fc7b2fea）
-- https://raw.githubusercontent.com/ultrafunkamsterdam/nodriver/HEAD/LICENSE.txt（获取于 2026-11-09T14:21:00Z；SHA-256：4c07b14947925c5c3d125ca8d7f1fadbf604a6df626edbb0b78cefa26b9bb8f6）
+- https://raw.githubusercontent.com/feder-cr/invisible_core/HEAD/README.md（获取于 2026-11-09T21:09:36Z；SHA-256：4e54308279bbf44d1fa9b06685dc9758babf7df367511d976d24bddfc898f396）
+- https://raw.githubusercontent.com/feder-cr/invisible_core/HEAD/LICENSE（获取于 2026-11-09T21:11:50Z；SHA-256：2abb03e63a96918967f383cbc36e3faefe10a47ae20b2cab43212ef965e02f96）
 
 ---
 
-## Plasmate
+## invisible_playwright
 
-Plasmate 是面向 AI 智能体的 Rust 浏览器引擎，可将 HTML 和 DOM 状态转换为紧凑、可操作的 Semantic Object Model。
+invisible_playwright 提供可直接替换使用的 Python Playwright 客户端，以反检测 Firefox 构建版本为基础，实现隐蔽的浏览器智能体自动化。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate/
-- 原始来源：https://github.com/plasmate-labs/plasmate
+- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright/
+- 原始来源：https://github.com/feder-cr/invisible_playwright
 - 类型：工具
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：网页
-- 主题：网页导航、界面理解、效率
-- 证据核查日期：2026-11-04T13:12:31Z
-- ID：github:plasmate-labs/plasmate
+- 主题：网页导航、自动化
+- 证据核查日期：2026-11-04T13:12:14Z
+- ID：github:feder-cr/invisible_playwright
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-invisible-playwright/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/feder-cr/invisible_playwright/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/README.md（获取于 2026-11-04T13:12:31Z；SHA-256：e4413f27d3adc8c690129e5efe24a28d8aec16cd873ca10f290edce96358b01f）
-- https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/LICENSE（获取于 2026-11-04T13:23:43Z；SHA-256：a348fa82d4bdc1103bffe408b6b494973f35d01b563f09c72e29595661bb0bcf）
+- https://raw.githubusercontent.com/feder-cr/invisible_playwright/HEAD/README.md（获取于 2026-11-04T13:12:14Z；SHA-256：1e6a8546ec6cec0a8fdfce22783a7474a628394d5cf9e9fa1516b2aa8635879d）
+- https://raw.githubusercontent.com/feder-cr/invisible_playwright/HEAD/LICENSE（获取于 2026-11-04T13:23:36Z；SHA-256：2abb03e63a96918967f383cbc36e3faefe10a47ae20b2cab43212ef965e02f96）
+
+---
+
+## Plasmate Cookie Export
+
+这款 Chrome 扩展将用户已登录浏览器会话中的 Cookie 传给 Plasmate 的本地桥接服务，让浏览器智能体访问需登录的网站。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-extension/
+- 原始来源：https://github.com/plasmate-labs/plasmate-extension
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：工具集成、安全与防护
+- 证据核查日期：2026-11-09T21:09:36Z
+- ID：github:plasmate-labs/plasmate-extension
+
+### 范围记录
+
+The README describes direct bridge transfer and a clipboard fallback. It says the bridge encrypts stored cookies with AES-256-GCM and declares an MPL-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-extension/record.json
+
+### 许可证信息
+
+- 代码：MPL-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-extension/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-extension/HEAD/README.md（获取于 2026-11-09T21:09:36Z；SHA-256：a26bbb3708d622802b24d3db0f6d91c27d8c8b97809fded89c63f08c02f9c137）
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-extension/HEAD/LICENSE（获取于 2026-11-09T21:11:49Z；SHA-256：fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85）
+
+---
+
+## plasmate-mcp
+
+plasmate-mcp 通过 Plasmate 引擎为 MCP 客户端提供浏览器会话，以及查看页面语义结构、点击元素和运行 JavaScript 的工具。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-mcp/
+- 原始来源：https://github.com/plasmate-labs/plasmate-mcp
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、界面理解、工具集成
+- 证据核查日期：2026-11-09T21:08:37Z
+- ID：github:plasmate-labs/plasmate-mcp
+
+### 范围记录
+
+The README lists fetch_page, extract_text, open_page, click, evaluate and close_page tools. It requires a separate Plasmate engine installation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-mcp/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-mcp/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-mcp/HEAD/README.md（获取于 2026-11-09T21:08:37Z；SHA-256：3ddf563d010d27de0c1f229e6f74ac24035c85fe0a0f3a9e151f9f6896be77c0）
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-mcp/HEAD/LICENSE（获取于 2026-11-09T21:11:07Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
 
 ---
 
@@ -890,39 +1089,6 @@ The public repository contains code, a schema and placeholder templates. The sou
 
 - https://raw.githubusercontent.com/leeguooooo/profile-use/HEAD/README.md（获取于 2026-11-09T21:09:58Z；SHA-256：043bcaa8442a62c9a6a2efb58f9c7c86c505768b59410e0dd20feca9787e31c6）
 - https://raw.githubusercontent.com/leeguooooo/profile-use/HEAD/LICENSE（获取于 2026-11-09T21:12:09Z；SHA-256：e297a60ea1ffc0c371f9d120ac3cde0fa56904708f8c6498ea5d07194214cb70）
-
----
-
-## WebDriverAgent
-
-WebDriverAgent 是用于远程控制 iOS 应用的 WebDriver 服务器，支持启动应用、点击、滚动和检查视图；后续开发已转入 appium-ios。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-appium-webdriveragent/
-- 原始来源：https://github.com/appium/WebDriverAgent
-- 类型：工具
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：iOS
-- 主题：自动化、手机操作、历史
-- 证据核查日期：2026-11-09T06:16:33Z
-- ID：github:appium/webdriveragent
-
-### 范围记录
-
-The source describes devices and simulators, XCTest-based commands, and a Node.js requirement for this repository. It declares a BSD license.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-appium-webdriveragent/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/appium/WebDriverAgent/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：8c779558a96d230ddfc3ca5d4341fc8702b0eff299ce37d93db945ed22d0bb13）
 
 ---
 
@@ -1049,6 +1215,39 @@ Camoufox 是开源的防检测 Firefox 浏览器，具备 C++ 层级的指纹轮
 
 ---
 
+## CDP-Patches
+
+Python 软件包，以操作系统级输入事件向有界面的 Chrome 窗口发送点击、鼠标移动、滚动和键入，避开 CDP 派发事件在输入域的泄露特征。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-cdp-patches/
+- 原始来源：https://github.com/Kaliiiiiiiiii-Vinyzu/CDP-Patches
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、历史
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:kaliiiiiiiiii-vinyzu/cdp-patches
+
+### 范围记录
+
+Offers sync and async input APIs bound to a browser or process id, for the active tab of a headful browser only. The Chromium bug behind the input leak is fixed upstream, which leaves Select elements as the remaining use; GNU GPL license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-cdp-patches/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/CDP-Patches/fe8fbd2833407d106f4875bc83df5a8db30a4d52/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：319319b672aeb685098373f6c431528ebbcbb4988be3c8bb85c37fbea7f0248b）
+
+---
+
 ## cliclick
 
 一个在 macOS 上执行鼠标和键盘操作的命令行工具。它可从命令参数或文件读取操作指令，用于脚本化控制桌面。
@@ -1116,6 +1315,39 @@ The README lists an inspector extension, evaluation CLI, skills, a polyfill and 
 
 ---
 
+## firefox_antidetect_patch
+
+基于 Mozilla 发布标签的 Firefox 补丁系列，每项功能一个文件夹，在引擎层加入指纹、网络与 Juggler 自动化补丁，用于构建 invisible_playwright 所用的反检测 Firefox。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-firefox-antidetect-patch/
+- 原始来源：https://github.com/feder-cr/firefox_antidetect_patch
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、鲁棒性
+- 证据核查日期：2026-11-10T03:00:58Z
+- ID：github:feder-cr/firefox_antidetect_patch
+
+### 范围记录
+
+The repository holds the patch folders (automation, fingerprint, network, platform), a SERIES file giving their order, UPSTREAM.json with the Mozilla tag and build tooling under tools/. Its maintainer guide, AGENTS.md, is in Italian.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-firefox-antidetect-patch/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/feder-cr/firefox_antidetect_patch/10f5fd8cf1aa0eacf2ca438416d77d5f1b0af563/AGENTS.md（获取于 2026-11-10T03:00:58Z；SHA-256：10140edddc4040efb09c2b20b580f42188a2621e97dc8b3597cfad141dd51ccc）
+
+---
+
 ## openadapt-capture
 
 用于采集桌面 GUI 操作示范的录制工具，将鼠标和键盘操作与屏幕画面配对，并支持通过 Python 读取记录。
@@ -1150,71 +1382,139 @@ Recordings include a SQLite action database, screen video, and integrity metadat
 
 ---
 
-## Plasmate Cookie Export
+## playwright-with-fingerprints
 
-这款 Chrome 扩展将用户已登录浏览器会话中的 Cookie 传给 Plasmate 的本地桥接服务，让浏览器智能体访问需登录的网站。
+playwright-with-fingerprints 是 Windows 插件，可将获取的浏览器指纹应用于使用 Playwright 的网页自动化会话。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-extension/
-- 原始来源：https://github.com/plasmate-labs/plasmate-extension
+- 目录页面：https://awesomecua.com/zh/resources/github-bablosoft-playwright-with-fingerprints/
+- 原始来源：https://github.com/bablosoft/playwright-with-fingerprints
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页、桌面、Windows
+- 主题：自动化、网页导航、安全与防护
+- 证据核查日期：2026-11-09T21:09:38Z
+- ID：github:bablosoft/playwright-with-fingerprints
+
+### 范围记录
+
+The source shows installation and launch examples and says the plugin uses the FingerprintSwitcher service. It describes the plugin as beta.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-bablosoft-playwright-with-fingerprints/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/bablosoft/playwright-with-fingerprints/HEAD/LICENSE.md
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/bablosoft/playwright-with-fingerprints/HEAD/README.md（获取于 2026-11-09T21:09:38Z；SHA-256：4cdab4e0af386625adf5a3f0b6298a734a7a041d04a917388217626096b8d42e）
+- https://raw.githubusercontent.com/bablosoft/playwright-with-fingerprints/HEAD/LICENSE.md（获取于 2026-11-09T21:11:55Z；SHA-256：85ba149a998b83170dc69500e759356bf2f32fe55d1024eee79be2026bb8e83f）
+
+---
+
+## pymobiledevice3
+
+面向 iOS 设备的纯 Python 3 库和命令行工具，支持在浏览器中镜像并触控操作屏幕，提供 Safari 与 WebView 的 CDP 桥接，以及供 Claude Code 使用的设备操作技能。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-doronz88-pymobiledevice3/
+- 原始来源：https://github.com/doronz88/pymobiledevice3
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS
+- 主题：自动化、手机操作、工具集成
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:doronz88/pymobiledevice3
+
+### 范围记录
+
+Runs on Windows, Linux and macOS hosts over USB or iOS 17+ tunnels; screen mirroring and control requires iOS 27+. Distributed on PyPI under GPL 3.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-doronz88-pymobiledevice3/record.json
+
+### 许可证信息
+
+- 代码：GPL-3.0 — https://raw.githubusercontent.com/doronz88/pymobiledevice3/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/doronz88/pymobiledevice3/eed1fde2b01834d289657f4130969c7130536ac0/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：20271a698c835a1abaf8e94bb6c8066e0482415df13ba6d94700abaf2477a1de）
+- https://raw.githubusercontent.com/doronz88/pymobiledevice3/HEAD/LICENSE（获取于 2026-11-10T06:22:22Z；SHA-256：8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903）
+
+---
+
+## rebrowser-patches
+
+rebrowser-patches 修改 Puppeteer 和 Playwright，以减少浏览器自动化特征，并为这两个库提供可直接替换的程序包。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-patches/
+- 原始来源：https://github.com/rebrowser/rebrowser-patches
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
 - 运行环境：网页
-- 主题：工具集成、安全与防护
-- 证据核查日期：2026-11-09T21:09:36Z
-- ID：github:plasmate-labs/plasmate-extension
+- 主题：自动化、鲁棒性、安全与防护
+- 证据核查日期：2026-11-09T19:57:35Z
+- ID：github:rebrowser/rebrowser-patches
 
 ### 范围记录
 
-The README describes direct bridge transfer and a clipboard fallback. It says the bridge encrypts stored cookies with AES-256-GCM and declares an MPL-2.0 license.
+The README documents patches for execution-context behavior and stack traces, plus drop-in packages for Node.js and Python.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-extension/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/record.json
 
 ### 许可证信息
 
-- 代码：MPL-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-extension/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/rebrowser/rebrowser-patches/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-extension/HEAD/README.md（获取于 2026-11-09T21:09:36Z；SHA-256：a26bbb3708d622802b24d3db0f6d91c27d8c8b97809fded89c63f08c02f9c137）
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-extension/HEAD/LICENSE（获取于 2026-11-09T21:11:49Z；SHA-256：fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85）
+- https://raw.githubusercontent.com/rebrowser/rebrowser-patches/HEAD/README.md（获取于 2026-11-09T19:57:35Z；SHA-256：a91d0a51cec76eeea877ffbe9019bb0ea9e9919c3bb85084803ada7ee456a0f2）
+- https://raw.githubusercontent.com/rebrowser/rebrowser-patches/HEAD/LICENSE（获取于 2026-11-09T14:21:02Z；SHA-256：5f3632f16f27bf2449cfd460808c13e9bd46a753f54d411f7896e8e626a0666a）
 
 ---
 
-## plasmate-mcp
+## scrcpy
 
-plasmate-mcp 通过 Plasmate 引擎为 MCP 客户端提供浏览器会话，以及查看页面语义结构、点击元素和运行 JavaScript 的工具。
+scrcpy 将安卓设备画面投射到电脑，并支持在 Linux、Windows 和 macOS 上通过 USB 或 TCP/IP 使用键盘和鼠标控制设备。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-mcp/
-- 原始来源：https://github.com/plasmate-labs/plasmate-mcp
+- 目录页面：https://awesomecua.com/zh/resources/github-genymobile-scrcpy/
+- 原始来源：https://github.com/Genymobile/scrcpy
 - 类型：工具
 - 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、界面理解、工具集成
-- 证据核查日期：2026-11-09T21:08:37Z
-- ID：github:plasmate-labs/plasmate-mcp
+- 范围：相关研究
+- 运行环境：跨平台、Android、桌面、Linux、Windows、macOS
+- 主题：自动化、手机操作、录制
+- 证据核查日期：2026-11-09T05:05:07Z
+- ID：github:genymobile/scrcpy
 
 ### 范围记录
 
-The README lists fetch_page, extract_text, open_page, click, evaluate and close_page tools. It requires a separate Plasmate engine installation.
+The README lists recording, copy and paste, virtual display and HID input features. It says device root access and an installed device app are unnecessary.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-mcp/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-genymobile-scrcpy/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-mcp/HEAD/LICENSE
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/Genymobile/scrcpy/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-mcp/HEAD/README.md（获取于 2026-11-09T21:08:37Z；SHA-256：3ddf563d010d27de0c1f229e6f74ac24035c85fe0a0f3a9e151f9f6896be77c0）
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-mcp/HEAD/LICENSE（获取于 2026-11-09T21:11:07Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
+- https://raw.githubusercontent.com/Genymobile/scrcpy/HEAD/README.md（获取于 2026-11-09T05:05:07Z；SHA-256：1a2f2677b4b86c0879b68a5b23c24fa7268ac3af1a92a17bddbe137abf374549）
+- https://raw.githubusercontent.com/Genymobile/scrcpy/HEAD/LICENSE（获取于 2026-11-09T05:07:28Z；SHA-256：01c12035bf35af37241298dc7ad538eb2a07e5c940437bc6876feeaa9d1951d0）
 
 ---
 
@@ -1252,6 +1552,36 @@ The README includes Python examples for episodes, action approval and retrieval.
 
 ---
 
+## undetected-chromedriver
+
+undetected-chromedriver 是具有反机器人检测能力的 Selenium ChromeDriver 补丁，被网页智能体广泛用于绕过自动化指纹识别。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ultrafunkamsterdam-undetected-chromedriver/
+- 原始来源：https://github.com/ultrafunkamsterdam/undetected-chromedriver
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、网页
+- 主题：网页导航、自动化
+- 证据核查日期：2026-11-04T13:12:41Z
+- ID：github:ultrafunkamsterdam/undetected-chromedriver
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ultrafunkamsterdam-undetected-chromedriver/record.json
+
+### 许可证信息
+
+- 代码：GPL-3.0 — https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/README.md（获取于 2026-11-04T13:12:41Z；SHA-256：106d28133afd02afc1efaf323b83953d40e06c51c45955f92ae84e43e9b78119）
+- https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/LICENSE（获取于 2026-11-04T13:42:26Z；SHA-256：230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809）
+
+---
+
 ## Zavora Computer Use MCP
 
 Zavora Computer Use MCP 是 Rust MCP 服务器和客户端，用于发现桌面应用、检查 UI 控件并执行动作。
@@ -1279,6 +1609,176 @@ Zavora Computer Use MCP 是 Rust MCP 服务器和客户端，用于发现桌面�
 
 - https://raw.githubusercontent.com/zavora-ai/computer-use-mcp/HEAD/README.md（获取于 2026-11-04T14:20:17Z；SHA-256：f6b424125fae214f223749ea81b0117d17baecc7b06939ea8daf4c25af277808）
 - https://raw.githubusercontent.com/zavora-ai/computer-use-mcp/HEAD/LICENSE（获取于 2026-11-04T14:24:28Z；SHA-256：82fce3d39f5cef33ec2d89fd80742ba03ed0ea75f83b562d5863521566657544）
+
+---
+
+## adbutils
+
+一个面向 ADB 服务的 Python 客户端库，可列出并连接设备、执行 shell 命令、转发端口、传输文件、截屏，并发送点击、滑动和按键事件。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-openatx-adbutils/
+- 原始来源：https://github.com/openatx/adbutils
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:openatx/adbutils
+
+### 范围记录
+
+Installed with pip as adbutils on Python 3.8+; a command-line mode takes screenshots, and screen recording uses scrcpy when it is on the PATH. License MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openatx-adbutils/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/openatx/adbutils/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/openatx/adbutils/2382f08ba9394c6a3410ed25ffb89c02801850ec/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：c85688369d57020886a8fe65b07c43a5b3e8fa996b3b4cea3fce8fe97e2aa4b9）
+- https://raw.githubusercontent.com/openatx/adbutils/HEAD/LICENSE（获取于 2026-11-10T06:22:31Z；SHA-256：426f967a2f4288b1f6a50b24a6d5e6cbb91d01350429b9e8d5fe5be5ce901acf）
+
+---
+
+## Brotector
+
+检测 Selenium、Puppeteer、Playwright、nodriver 等工具的网页驱动自动化的 JavaScript 测试页面，依据 navigator.webdriver、Runtime.enable 和非可信输入事件等泄露信号进行识别。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-brotector/
+- 原始来源：https://github.com/kaliiiiiiiiii/brotector
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：安全与防护、评测
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:kaliiiiiiiiii/brotector
+
+### 范围记录
+
+The repository holds brotector.js, a static test page and Python and Node.js test suites; each tested driver has to click the button with ID clickHere. Some detections crash Selenium, Puppeteer and Playwright, bypassable with ?crash=false.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-kaliiiiiiiiii-brotector/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/kaliiiiiiiiii/brotector/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ttlns/brotector/98b330999e9928a226ca0c8254dddf909d1583bd/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：d76e7af92b52009e2f73fb045f2565a7ccf480b65427ab4983e029bfc6600faf）
+- https://raw.githubusercontent.com/kaliiiiiiiiii/brotector/HEAD/LICENSE（获取于 2026-11-10T06:22:32Z；SHA-256：3527e1b45c07acbef785668b2e517c30620a1e129994ee765c605965f9e38cf7）
+
+---
+
+## browser-with-fingerprints
+
+一个 Windows 平台的 Node.js 包，可启动应用了 FingerprintSwitcher 服务所取指纹的浏览器，是各框架专用插件的基础。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-bablosoft-browser-with-fingerprints/
+- 原始来源：https://github.com/bablosoft/browser-with-fingerprints
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页、桌面、Windows
+- 主题：自动化、网页导航、安全与防护
+- 证据核查日期：2026-11-10T06:29:21Z
+- ID：github:bablosoft/browser-with-fingerprints
+
+### 范围记录
+
+The npm package includes source, tests and a migration guide. It downloads a browser engine (version 155.0.8059.40) and calls the FingerprintSwitcher service, with an optional paid service key; the README describes it as beta.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-bablosoft-browser-with-fingerprints/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/bablosoft/browser-with-fingerprints/HEAD/LICENSE.md
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/bablosoft/browser-with-fingerprints/0d34e071384fe93331998450ddf53c28671791fe/README.md（获取于 2026-11-10T06:29:21Z；SHA-256：45f61500bb48d8c56d64eda1a38d2c0e7c3733ddc82942a14aff088278087e37）
+- https://raw.githubusercontent.com/bablosoft/browser-with-fingerprints/HEAD/LICENSE.md（获取于 2026-11-10T06:22:21Z；SHA-256：85ba149a998b83170dc69500e759356bf2f32fe55d1024eee79be2026bb8e83f）
+
+---
+
+## Chrome Launcher
+
+Chrome Launcher 是一个 Node.js 模块，可查找并启动 Chrome，使用全新的用户配置、开放远程调试端口，并通过启动参数关闭会干扰自动化运行的服务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-googlechrome-chrome-launcher/
+- 原始来源：https://github.com/GoogleChrome/chrome-launcher
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:googlechrome/chrome-launcher
+
+### 范围记录
+
+Distributed as the chrome-launcher npm package; control after launch goes through the DevTools protocol, for example with chrome-remote-interface. Apache-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-googlechrome-chrome-launcher/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/GoogleChrome/chrome-launcher/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/GoogleChrome/chrome-launcher/0f9a6373601f32e3ea4af3de5a4e3ba302b07c41/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：6a27b9d08ccb1daf7f6bb5da0c4416a54266ad3dca131f28d9427d756054a839）
+- https://raw.githubusercontent.com/GoogleChrome/chrome-launcher/HEAD/LICENSE（获取于 2026-11-10T06:22:34Z；SHA-256：7ec9661a8afafab1eee3523d6f1a193eff76314a5ab10b4ce96aefd87621b0c3）
+
+---
+
+## Chrome MCP Server
+
+这是 Chrome 扩展和 MCP 桥接工具，让 AI 客户端操作现有浏览器会话。其工具涵盖截图、页面交互和浏览器数据。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-hangwin-mcp-chrome/
+- 原始来源：https://github.com/hangwin/mcp-chrome
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化、界面理解
+- 证据核查日期：2026-11-09T19:56:03Z
+- ID：github:hangwin/mcp-chrome
+
+### 范围记录
+
+The README provides extension and bridge installation steps and describes Streamable HTTP and stdio connections. It states an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-hangwin-mcp-chrome/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/hangwin/mcp-chrome/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/hangwin/mcp-chrome/HEAD/README.md（获取于 2026-11-09T19:56:03Z；SHA-256：949370768e87221359abaaf50e72a667ee0db77d80cb636cc2655ba7eb7247d3）
+- https://raw.githubusercontent.com/hangwin/mcp-chrome/HEAD/LICENSE（获取于 2026-11-09T14:20:35Z；SHA-256：d44b3734ef77a2bebb8508aa122ca1c40287d8ee288f0baf6437e6843e3bee00）
 
 ---
 
@@ -1507,67 +2007,141 @@ The repository contains plugin manifests, the packaged plugin, and tests. Its RE
 
 ---
 
-## invisible_core
+## invisible_playwright_mcp
 
-invisible_core 生成 Firefox 指纹配置和浏览器首选项，并提供由浏览器自动化封装程序和 MCP 服务器共用的引擎客户端。
+MCP 服务器及本地网页界面，让 LLM 通过反检测 Firefox 版本操作浏览器，支持模拟鼠标移动与按键输入、预设浏览器身份、可选代理和持久化配置文件。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-invisible-core/
-- 原始来源：https://github.com/feder-cr/invisible_core
-- 类型：工具
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化、网页导航
-- 证据核查日期：2026-11-09T21:09:36Z
-- ID：github:feder-cr/invisible_core
-
-### 范围记录
-
-The README describes patched-binary download, proxy configuration, and geographic and time-zone resolution. It names Playwright, Selenium, and pyppeteer wrappers that share this foundation.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-invisible-core/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/feder-cr/invisible_core/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/feder-cr/invisible_core/HEAD/README.md（获取于 2026-11-09T21:09:36Z；SHA-256：4e54308279bbf44d1fa9b06685dc9758babf7df367511d976d24bddfc898f396）
-- https://raw.githubusercontent.com/feder-cr/invisible_core/HEAD/LICENSE（获取于 2026-11-09T21:11:50Z；SHA-256：2abb03e63a96918967f383cbc36e3faefe10a47ae20b2cab43212ef965e02f96）
-
----
-
-## invisible_playwright
-
-invisible_playwright 提供可直接替换使用的 Python Playwright 客户端，以反检测 Firefox 构建版本为基础，实现隐蔽的浏览器智能体自动化。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright/
-- 原始来源：https://github.com/feder-cr/invisible_playwright
+- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright-mcp/
+- 原始来源：https://github.com/feder-cr/invisible_playwright_mcp
 - 类型：工具
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：网页
-- 主题：网页导航、自动化
-- 证据核查日期：2026-11-04T13:12:14Z
-- ID：github:feder-cr/invisible_playwright
+- 主题：网页导航、工具集成、自动化
+- 证据核查日期：2026-10-18T11:33:13Z
+- ID：github:feder-cr/invisible_playwright_mcp
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-invisible-playwright/record.json
+### 范围记录
+
+Installs as a plugin or extension for Claude Code, Codex and Gemini CLI; the standalone web UI calls OpenRouter with the user's key. The tree contains the Python package (MCP server, agent loop, web UI) and an MCP test suite; the browser engine library and fingerprint core are separate repositories, and the engine binary is downloaded from a GitHub release on first start. The project claims to avoid anti-bot detection and captchas; the README asks users to respect site terms. The repository LICENSE is MIT; the README says releases before 2 September 2026 were AGPL-3.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/feder-cr/invisible_playwright/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/feder-cr/invisible_playwright/HEAD/README.md（获取于 2026-11-04T13:12:14Z；SHA-256：1e6a8546ec6cec0a8fdfce22783a7474a628394d5cf9e9fa1516b2aa8635879d）
-- https://raw.githubusercontent.com/feder-cr/invisible_playwright/HEAD/LICENSE（获取于 2026-11-04T13:23:36Z；SHA-256：2abb03e63a96918967f383cbc36e3faefe10a47ae20b2cab43212ef965e02f96）
+- https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/HEAD/README.md（获取于 2026-10-18T11:33:13Z；SHA-256：87fc13a4a612123e423ab29547620fc1cbeab9ec92c8b49657a8f59bca6bfbf3）
+- https://api.github.com/repos/feder-cr/invisible_playwright_mcp（获取于 2026-10-18T11:33:13Z；SHA-256：6abd57046814e38bc1c46a5ab24a49aa071571a87d1b9106674516712218f1c9）
+- https://api.github.com/repos/feder-cr/invisible_playwright_mcp/git/trees/main?recursive=1（获取于 2026-10-18T11:33:14Z；SHA-256：a93e69036a32deab6a1918034c8ed37e534360938546e8d4352e89f362fed2bf）
+- https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/HEAD/LICENSE（获取于 2026-10-18T11:33:16Z；SHA-256：7bd49adceb91947129a3ad60d2131884b60775c54e47b3ef1740a110904a1d8b）
+- https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/HEAD/LICENSE（获取于 2026-10-18T11:33:16Z；SHA-256：7bd49adceb91947129a3ad60d2131884b60775c54e47b3ef1740a110904a1d8b）
+
+---
+
+## Maa Support Extension
+
+一个面向 MaaFramework 项目的 VS Code 扩展，可查询、补全和校验 Pipeline 任务与图片路径，运行 interface.json 任务、截图，并在 MaaPipelineEditor 中打开 Pipeline。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-neko-para-maa-support-extension/
+- 原始来源：https://github.com/neko-para/maa-support-extension
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：自动化、工作流
+- 证据核查日期：2026-11-10T06:29:26Z
+- ID：github:neko-para/maa-support-extension
+
+### 范围记录
+
+A pnpm monorepo with the extension backend, webview front end, a standalone MaaFramework service process and a task parser. Features are driven by interface.json, and the extension can download and switch its own MaaFramework version.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-neko-para-maa-support-extension/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/neko-para/maa-support-extension/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/neko-para/maa-support-extension/d73759a1b474269ccb1ec821b019c871c9712375/README.md（获取于 2026-11-10T06:29:26Z；SHA-256：c506813497a6b179234960bc61eaac0c94e0a6f6853d14a315ce4c29f3a376cc）
+- https://raw.githubusercontent.com/neko-para/maa-support-extension/HEAD/LICENSE（获取于 2026-11-10T06:22:28Z；SHA-256：1ac75db5daf114b705fdaf99ad4b87edffbcafd2f8de44cf6453029a0ebcbd94）
+
+---
+
+## MaaDebugger
+
+一个用于 MaaFramework 自动化项目的调试器，以本地 Web 界面运行，默认端口为 8011，可通过 pip 或 uv 从 PyPI 安装；以 Go 和 Web 重写的版本发布在 npm 上。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-maaxyz-maadebugger/
+- 原始来源：https://github.com/MaaXYZ/MaaDebugger
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：可观测性、自动化
+- 证据核查日期：2026-11-10T06:29:25Z
+- ID：github:maaxyz/maadebugger
+
+### 范围记录
+
+The Python release needs Python 3.9 to 3.13 and nicegui 2.21 or later below 3.0. The rewrite on the rft/nodejs branch embeds the web front end in a Go binary and loads the MaaFramework libraries from ./bin.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-maaxyz-maadebugger/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/MaaXYZ/MaaDebugger/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MaaXYZ/MaaDebugger/02ce8404de6229e887b2acb64b233af5c403abc0/README.md（获取于 2026-11-10T06:29:25Z；SHA-256：a6d001c4ba0847176416507784bb6930f0835c72bd39c177d2ddb991f8efcd80）
+- https://raw.githubusercontent.com/MaaXYZ/MaaDebugger/HEAD/LICENSE（获取于 2026-11-10T06:22:27Z；SHA-256：2a4e534a0b69c7a338356293f8cd3dabed30a8fb4d397e67ecf1d1f2a53c76b9）
+
+---
+
+## mcp-serial-hid-kvm
+
+这款 MCP 服务器通过独立的串行 HID KVM 服务，为智能体提供屏幕捕获、OCR、键盘和鼠标工具，以控制实体电脑。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-sunasaji-mcp-serial-hid-kvm/
+- 原始来源：https://github.com/sunasaji/mcp-serial-hid-kvm
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：自动化、界面理解、工具集成
+- 证据核查日期：2026-11-09T19:56:04Z
+- ID：github:sunasaji/mcp-serial-hid-kvm
+
+### 范围记录
+
+It requires a CH9329+CH340 USB HID cable, an HDMI capture device and the serial-hid-kvm server. Tesseract is required for its OCR tools. The README links an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/sunasaji/mcp-serial-hid-kvm/HEAD/README.md（获取于 2026-11-09T19:56:04Z；SHA-256：43c2b4a3c772f874419b42ba1b6b1f95029a843db7437888c89549a06ae0247d）
 
 ---
 
@@ -1605,37 +2179,71 @@ The README documents a sandbox, production workflow bundles, an MCP connection, 
 
 ---
 
-## Patchright
+## Patchright NodeJS
 
-Patchright 是用于 Chromium 自动化的修改版 Playwright 驱动，通过 Playwright 风格的 API 进行浏览器交互，并提供独立的客户端软件包。
+Patchright NodeJS 是 Patchright 的 Node.js 包：Patchright 是经过修补的 Playwright，通过标准 JavaScript API 驱动 Chromium，并去除了自动化特征泄露。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright/
-- 原始来源：https://github.com/Kaliiiiiiiiii-Vinyzu/patchright
+- 目录页面：https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/
+- 原始来源：https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
 - 运行环境：网页
 - 主题：自动化、网页导航
-- 证据核查日期：2026-11-09T19:55:43Z
-- ID：github:kaliiiiiiiiii-vinyzu/patchright
+- 证据核查日期：2026-11-10T06:29:33Z
+- ID：github:kaliiiiiiiiii-vinyzu/patchright-nodejs
 
 ### 范围记录
 
-The repository serves the driver; its README points to Python, Node.js, and .NET packages. It states that Firefox and WebKit are unsupported.
+The repository holds index.ts, patchright_rebranding.ts, client_patches/ and package.json for the patchright package on npm; `npx patchright install chromium` fetches the browser. It adds an isolatedContext option to the evaluate methods and supports Chromium-based browsers only. Declared license Apache-2.0.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright/HEAD/LICENSE
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright/HEAD/README.md（获取于 2026-11-09T19:55:43Z；SHA-256：1a68485b0134cfeaad07aee466485e47f0ded496286d4683d7235716f53cb63f）
-- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright/HEAD/LICENSE（获取于 2026-11-09T15:02:19Z；SHA-256：65beda85bd1b4a30c2681314352c8aeeafd772dcefd554a05322afcc1297368a）
+- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs/fda5a82adb365b00a4b34e29a4d7eff6f58751a8/README.md（获取于 2026-11-10T06:29:33Z；SHA-256：3ba25981a99bfd6979bad56faf86d953b3acfb66ff6f357b3601abb4c5ce03f7）
+- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs/HEAD/LICENSE（获取于 2026-11-10T06:22:36Z；SHA-256：65beda85bd1b4a30c2681314352c8aeeafd772dcefd554a05322afcc1297368a）
+
+---
+
+## Patchright Python
+
+Patchright Python 是 Patchright 的 Python 包：Patchright 是经过修补的 Playwright，通过常规的同步与异步 API 驱动 Chromium，并去除了自动化特征泄露。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/
+- 原始来源：https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-10T06:29:33Z
+- ID：github:kaliiiiiiiiii-vinyzu/patchright-python
+
+### 范围记录
+
+The repository holds patch_python_package.py and pyproject.toml for the patchright package on PyPI; `patchright install chromium` fetches the browser. It adds an isolated_context option to the evaluate methods and supports Chromium-based browsers only. Declared license Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright-python/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright-python/af11f22ec8d845a46a9ef88fe8cf8acf5f10bba4/README.md（获取于 2026-11-10T06:29:33Z；SHA-256：ad7ea291cf4797db5b0c7dab560872690ca2ecf233468286a8ef293a922935ff）
+- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright-python/HEAD/LICENSE（获取于 2026-11-10T06:22:36Z；SHA-256：65beda85bd1b4a30c2681314352c8aeeafd772dcefd554a05322afcc1297368a）
 
 ---
 
@@ -1703,6 +2311,74 @@ The macOS helper requires macOS 14 or newer. On Linux it runs inside a graphical
 
 ---
 
+## Playwright for Python
+
+Playwright 的 Python 包，通过统一的 API 驱动 Chromium、Firefox 和 WebKit，提供同步和异步接口，用于页面导航和截图。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-microsoft-playwright-python/
+- 原始来源：https://github.com/microsoft/playwright-python
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-10T06:29:27Z
+- ID：github:microsoft/playwright-python
+
+### 范围记录
+
+The README lists Chromium, WebKit and Firefox support on Linux, macOS and Windows and links Node.js, .NET and Java editions. The repository contains the playwright package, tests and examples; declared license Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-microsoft-playwright-python/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/microsoft/playwright-python/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/microsoft/playwright-python/6b42560a3b5849dc98a47e77ff0536b81c45b53d/README.md（获取于 2026-11-10T06:29:27Z；SHA-256：9f28037c97af863023c188dcdfae6c73cf75517f75900acab4cd869ca91d4597）
+- https://raw.githubusercontent.com/microsoft/playwright-python/HEAD/LICENSE（获取于 2026-11-10T06:22:28Z；SHA-256：7fab1461b41970ff376f1c9303a637076bfaaeb71cd12dd3a1c44aaf59a1a2b9）
+
+---
+
+## puppeteer-with-fingerprints
+
+puppeteer-with-fingerprints 是一个 Windows 插件，可用从 FingerprintSwitcher 服务获取的指纹启动 Puppeteer 浏览器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-bablosoft-puppeteer-with-fingerprints/
+- 原始来源：https://github.com/bablosoft/puppeteer-with-fingerprints
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页、桌面、Windows
+- 主题：自动化、网页导航、安全与防护
+- 证据核查日期：2026-11-10T06:29:21Z
+- ID：github:bablosoft/puppeteer-with-fingerprints
+
+### 范围记录
+
+The repository includes source, tests and examples; it requires puppeteer or puppeteer-core and an optional paid service key. The README describes the plugin as beta.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-bablosoft-puppeteer-with-fingerprints/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/bablosoft/puppeteer-with-fingerprints/HEAD/LICENSE.md
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/bablosoft/puppeteer-with-fingerprints/38f20c311792fe6223860cf6e61eeaddd4c1e42b/README.md（获取于 2026-11-10T06:29:21Z；SHA-256：f1d244c77e514b8c1f6862665076a24abc6ffbeb652d99039f671fd5ab2d290e）
+- https://raw.githubusercontent.com/bablosoft/puppeteer-with-fingerprints/HEAD/LICENSE.md（获取于 2026-11-10T06:22:21Z；SHA-256：85ba149a998b83170dc69500e759356bf2f32fe55d1024eee79be2026bb8e83f）
+
+---
+
 ## pywinauto
 
 一个用于自动化操作 Windows 应用的 Python 库，支持鼠标和键盘输入以及控件检查。它支持 Win32 和 Microsoft UI Automation 后端。
@@ -1736,37 +2412,37 @@ The README includes scripts for Notepad and Explorer and lists pywin32 and comty
 
 ---
 
-## scrcpy
+## selenium-with-fingerprints
 
-scrcpy 将安卓设备画面投射到电脑，并支持在 Linux、Windows 和 macOS 上通过 USB 或 TCP/IP 使用键盘和鼠标控制设备。
+selenium-with-fingerprints 是一个 Windows 插件，可用从 FingerprintSwitcher 服务获取的指纹启动 Selenium WebDriver 浏览器。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-genymobile-scrcpy/
-- 原始来源：https://github.com/Genymobile/scrcpy
+- 目录页面：https://awesomecua.com/zh/resources/github-bablosoft-selenium-with-fingerprints/
+- 原始来源：https://github.com/bablosoft/selenium-with-fingerprints
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
-- 运行环境：跨平台、Android、桌面、Linux、Windows、macOS
-- 主题：自动化、手机操作、录制
-- 证据核查日期：2026-11-09T05:05:07Z
-- ID：github:genymobile/scrcpy
+- 运行环境：网页、桌面、Windows
+- 主题：自动化、网页导航、安全与防护
+- 证据核查日期：2026-11-10T06:29:21Z
+- ID：github:bablosoft/selenium-with-fingerprints
 
 ### 范围记录
 
-The README lists recording, copy and paste, virtual display and HID input features. It says device root access and an installed device app are unnecessary.
+The repository includes source, tests and examples; it requires selenium-webdriver, a matching chromedriver and an optional paid service key. The README describes the plugin as beta.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-genymobile-scrcpy/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-bablosoft-selenium-with-fingerprints/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/Genymobile/scrcpy/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/bablosoft/selenium-with-fingerprints/HEAD/LICENSE.md
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/Genymobile/scrcpy/HEAD/README.md（获取于 2026-11-09T05:05:07Z；SHA-256：1a2f2677b4b86c0879b68a5b23c24fa7268ac3af1a92a17bddbe137abf374549）
-- https://raw.githubusercontent.com/Genymobile/scrcpy/HEAD/LICENSE（获取于 2026-11-09T05:07:28Z；SHA-256：01c12035bf35af37241298dc7ad538eb2a07e5c940437bc6876feeaa9d1951d0）
+- https://raw.githubusercontent.com/bablosoft/selenium-with-fingerprints/e752a0fb4a5ef9d524b74c34d39a7c00ad8fe937/README.md（获取于 2026-11-10T06:29:21Z；SHA-256：a28a2a955faa296825867f6c0c1e6413b4403f8907d82c3fcd4c3b0d72978a1c）
+- https://raw.githubusercontent.com/bablosoft/selenium-with-fingerprints/HEAD/LICENSE.md（获取于 2026-11-10T06:22:21Z；SHA-256：85ba149a998b83170dc69500e759356bf2f32fe55d1024eee79be2026bb8e83f）
 
 ---
 
@@ -1804,6 +2480,40 @@ The README documents installation through pip, an automation.py inspection scrip
 
 ---
 
+## uiautomator2
+
+uiautomator2 是一个 Python 库，通过设备端的 UiAutomator 服务控制 Android 设备，包括启动应用和操作界面元素。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-openatx-uiautomator2/
+- 原始来源：https://github.com/openatx/uiautomator2
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化、手机操作
+- 证据核查日期：2026-11-09T19:57:39Z
+- ID：github:openatx/uiautomator2
+
+### 范围记录
+
+The README requires Android 4.4 or later and Python 3.8 or later. Its quick start uses an Android phone connected through adb.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openatx-uiautomator2/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/openatx/uiautomator2/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/openatx/uiautomator2/HEAD/README.md（获取于 2026-11-09T19:57:39Z；SHA-256：ea09edd8d2de7e28e6da272488c9b46e59ce6fcc58f9428d5188c72810d8fe17）
+- https://raw.githubusercontent.com/openatx/uiautomator2/HEAD/LICENSE（获取于 2026-11-09T14:21:12Z；SHA-256：a02d9350d45a1fe284a24bf10fd54da93a8c0ff29a088a61681b8d97021a3754）
+
+---
+
 ## 988hj7tczd-oss dsh-computer-use
 
 跨平台 DeepSeek Harness 计算机使用插件，具备独立虚拟光标、UI 定位和桌面输入功能。
@@ -1831,6 +2541,36 @@ The README documents installation through pip, an automation.py inspection scrip
 
 - https://raw.githubusercontent.com/988hj7tczd-oss/dsh-computer-use/main/README.md（获取于 2026-11-04T17:20:43Z；SHA-256：c0175e2d81496c6f3e0d2b391ef35f6349f17793d3af2c5086cb66583e386a57）
 - https://raw.githubusercontent.com/988hj7tczd-oss/dsh-computer-use/HEAD/LICENSE（获取于 2026-11-04T17:27:03Z；SHA-256：e08ef7e034cf33c4eb2c451b07a9ba082b68032be0deb23bae144f1c7ba5a7f5）
+
+---
+
+## Agent WebBridge
+
+开源浏览器自动化桥接工具和 MCP 服务器，将 Claude Code、Cursor 及编程智能体连接到实时 Chrome 标签页。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-jeet-dhandha-agent-webbridge/
+- 原始来源：https://github.com/jeet-dhandha/agent-webbridge
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工具集成、自动化
+- 证据核查日期：2026-11-04T16:30:06Z
+- ID：github:jeet-dhandha/agent-webbridge
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-jeet-dhandha-agent-webbridge/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/jeet-dhandha/agent-webbridge/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/jeet-dhandha/agent-webbridge/HEAD/README.md（获取于 2026-11-04T16:30:06Z；SHA-256：9aaebced61e1bc0bf4fae53e202c979f562ff29c3d2a8cb8fb331032634c1b61）
+- https://raw.githubusercontent.com/jeet-dhandha/agent-webbridge/HEAD/LICENSE（获取于 2026-11-04T16:35:14Z；SHA-256：01613c1dd35e25e8e14b6487025f393d2535b9d544b4862b5d263ff631931f23）
 
 ---
 
@@ -1865,6 +2605,107 @@ The README documents screenshots, video, logs, traces, replay scripts, and devic
 
 - https://raw.githubusercontent.com/callstack/agent-device/HEAD/README.md（获取于 2026-11-09T21:09:06Z；SHA-256：c07d413c4ebe93372d526f810efe92905c8f14f244996f2ef848f612a013989d）
 - https://raw.githubusercontent.com/callstack/agent-device/HEAD/LICENSE（获取于 2026-11-09T21:11:25Z；SHA-256：64f25cb04776a886b0acd79fe7345a7ae09bed9952fa6774a5b2041ecba763f3）
+
+---
+
+## ahk-mcp
+
+ahk-mcp 为 AI 智能体提供 MCP 工具，用于读取 Windows 无障碍树并操作桌面控件，也可通过开发者工具协议控制浏览器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-anomalous3-ahk-mcp/
+- 原始来源：https://github.com/anomalous3/ahk-mcp
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、网页
+- 主题：自动化、界面理解、工具集成、效率
+- 证据核查日期：2026-11-09T19:56:12Z
+- ID：github:anomalous3/ahk-mcp
+
+### 范围记录
+
+The source lists observation, action, browser and flow tools. Setup requires Windows, AutoHotkey v2 and Python.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-anomalous3-ahk-mcp/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/anomalous3/ahk-mcp/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/anomalous3/ahk-mcp/HEAD/README.md（获取于 2026-11-09T19:56:12Z；SHA-256：7884651f274b35951d8ce2e0e6f2b8ec93890a908ee64ce4d929bef0b062b4ff）
+- https://raw.githubusercontent.com/anomalous3/ahk-mcp/HEAD/LICENSE（获取于 2026-11-09T14:20:38Z；SHA-256：f0587d3322e7af8fefb85116e51926ad51f3eaa0745f13e67f960e356eb44ef6）
+
+---
+
+## android-uiautomator-server-jar
+
+一个运行在设备上的 Android UIAutomator JSON-RPC 服务，通过 app_process 启动，使电脑端脚本可以点击、导出窗口层级，并借助内置键盘输入文本。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-openatx-android-uiautomator-server-jar/
+- 原始来源：https://github.com/openatx/android-uiautomator-server-jar
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:openatx/android-uiautomator-server-jar
+
+### 范围记录
+
+The repository holds the Gradle project, an interactive JSON-RPC test script with method definitions in tools/methods.json, and the ATX Keyboard input method for broadcast text input.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openatx-android-uiautomator-server-jar/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/openatx/android-uiautomator-server-jar/3da9d86b0fc241a98533b07ab6e08b534b1b3947/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：29a05f2f4c19cdd69eeb2ff03f4b0d762d01242c011b999a9b17a5c3f96c0fc3）
+
+---
+
+## AndroidViewClient
+
+一个 Python 安卓界面自动化工具，可创建可复用的测试，并通过 MCP 服务器向 AI 助手提供基于视图的交互、手势和设备控制功能。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-dtmilano-androidviewclient/
+- 原始来源：https://github.com/dtmilano/AndroidViewClient
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化、手机操作、GUI 定位、工具集成
+- 证据核查日期：2026-11-09T19:58:04Z
+- ID：github:dtmilano/androidviewclient
+
+### 范围记录
+
+The README lists element and coordinate interactions, screenshots and app controls. Its MCP setup uses CulebraTester2 on the device.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-dtmilano-androidviewclient/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/dtmilano/AndroidViewClient/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/dtmilano/AndroidViewClient/HEAD/README.md（获取于 2026-11-09T19:58:04Z；SHA-256：c3d039fc275c942f1fcd2be6496ce31b12efa63b847758492d2524cf029b8f80）
+- https://raw.githubusercontent.com/dtmilano/AndroidViewClient/HEAD/LICENSE（获取于 2026-11-09T14:21:21Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
 
 ---
 
@@ -2029,6 +2870,36 @@ axcli 是 Rust 命令行工具，通过原生 Accessibility API 查询、检查�
 
 ---
 
+## Botright
+
+Botright 是基于 Playwright 的隐蔽式浏览器自动化框架，提供指纹伪装和 CAPTCHA 解决工具。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-vinyzu-botright/
+- 原始来源：https://github.com/Vinyzu/Botright
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化
+- 证据核查日期：2026-11-04T13:12:42Z
+- ID：github:vinyzu/botright
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-vinyzu-botright/record.json
+
+### 许可证信息
+
+- 代码：GPL-3.0 — https://raw.githubusercontent.com/Vinyzu/Botright/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Vinyzu/Botright/HEAD/README.md（获取于 2026-11-04T13:12:42Z；SHA-256：e92bfc12702007599bfe1876d0625dc66ba854586676cee1ab353703a184f9e2）
+- https://raw.githubusercontent.com/Vinyzu/Botright/HEAD/LICENSE（获取于 2026-11-04T13:23:45Z；SHA-256：8b1ba204bb69a0ade2bfcf65ef294a920f6bb361b317dba43c7ef29d96332b9b）
+
+---
+
 ## Browser Control MCP
 
 MCP 服务器和 Firefox 扩展，让 AI 助手在用户同意下管理标签页、搜索浏览器历史记录、读取网页文本并截图。
@@ -2126,40 +2997,6 @@ The documented components are a Chrome extension, Native Messaging host, and MCP
 
 ---
 
-## Chrome MCP Server
-
-这是 Chrome 扩展和 MCP 桥接工具，让 AI 客户端操作现有浏览器会话。其工具涵盖截图、页面交互和浏览器数据。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-hangwin-mcp-chrome/
-- 原始来源：https://github.com/hangwin/mcp-chrome
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、自动化、界面理解
-- 证据核查日期：2026-11-09T19:56:03Z
-- ID：github:hangwin/mcp-chrome
-
-### 范围记录
-
-The README provides extension and bridge installation steps and describes Streamable HTTP and stdio connections. It states an MIT license.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-hangwin-mcp-chrome/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/hangwin/mcp-chrome/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/hangwin/mcp-chrome/HEAD/README.md（获取于 2026-11-09T19:56:03Z；SHA-256：949370768e87221359abaaf50e72a667ee0db77d80cb636cc2655ba7eb7247d3）
-- https://raw.githubusercontent.com/hangwin/mcp-chrome/HEAD/LICENSE（获取于 2026-11-09T14:20:35Z；SHA-256：d44b3734ef77a2bebb8508aa122ca1c40287d8ee288f0baf6437e6843e3bee00）
-
----
-
 ## chrome-agent
 
 一个向智能体开放 Chrome DevTools Protocol 命令的 CLI，支持浏览器导航、截图和事件监测，并允许共享浏览器访问。
@@ -2191,6 +3028,39 @@ The repository contains Python source and tests. The README requires Chrome or C
 
 - https://raw.githubusercontent.com/captivus/chrome-agent/HEAD/README.md（获取于 2026-11-09T21:09:34Z；SHA-256：7f2f8fc0b3c3d5ac533f643e940f1a54648cb23b38f7878b611bebdea9bd70f0）
 - https://raw.githubusercontent.com/captivus/chrome-agent/HEAD/LICENSE（获取于 2026-11-09T21:11:46Z；SHA-256：c654e55798efbcb2f503bd6e136fb0da15e27418ccb54d936993da7ae1acbbfb）
+
+---
+
+## chrome-remote-interface
+
+一个用于 Chrome 调试协议的 JavaScript 接口，可通过命令和事件通知控制、检查浏览器会话。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-cyrus-and-chrome-remote-interface/
+- 原始来源：https://github.com/cyrus-and/chrome-remote-interface
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、工具集成
+- 证据核查日期：2026-11-09T19:56:09Z
+- ID：github:cyrus-and/chrome-remote-interface
+
+### 范围记录
+
+The README includes a navigation and network-request example, installation through npm, and a bundled client.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-cyrus-and-chrome-remote-interface/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/cyrus-and/chrome-remote-interface/HEAD/README.md（获取于 2026-11-09T19:56:09Z；SHA-256：7e113fd4f412a6589e079124ad3d4bcd6661cd3dd530ab63b052232eff47880e）
 
 ---
 
@@ -2319,6 +3189,39 @@ Clickyy 是 macOS 桌面自动化 CLI 和 MCP 服务器，结合原生 Accessibi
 
 - https://raw.githubusercontent.com/jayamitkatariya/clickyyy/HEAD/README.md（获取于 2026-11-04T13:12:19Z；SHA-256：570311c915bd0231b5f6df6a8b43cd9368c41b24039b2dd47daf668b4a7d20e8）
 - https://raw.githubusercontent.com/jayamitkatariya/clickyyy/HEAD/LICENSE（获取于 2026-11-04T13:23:41Z；SHA-256：ff05e7b5dbcf0e39bc2c88a84217188ba47492e2795b12b82f4462217b74c36f）
+
+---
+
+## cmux
+
+这是一款 macOS 终端与工作区应用，内置可编程浏览器，使智能体能检查网页辅助功能数据、点击元素、填写表单并运行 JavaScript。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-manaflow-ai-cmux/
+- 原始来源：https://github.com/manaflow-ai/cmux
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、macOS、网页
+- 主题：自动化、网页导航、工具集成
+- 证据核查日期：2026-11-09T21:10:51Z
+- ID：github:manaflow-ai/cmux
+
+### 范围记录
+
+The README documents CLI and socket APIs for workspaces, panes and browser automation. It describes a native Swift and AppKit application and states that it is GPL-licensed.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-manaflow-ai-cmux/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/manaflow-ai/cmux/HEAD/README.md（获取于 2026-11-09T21:10:51Z；SHA-256：3c66e66ad6c066c38d9210c01d50d9d1fb6d4b0e3285c346886074ae41269e1c）
 
 ---
 
@@ -2679,6 +3582,40 @@ The README includes mouse movement, clicking, and text-entry examples. Linux Way
 
 ---
 
+## Ferrum
+
+Ferrum 是通过开发者工具协议控制 Chrome 或 Chromium 的 Ruby API。它支持浏览器导航、页面交互和截图。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-rubycdp-ferrum/
+- 原始来源：https://github.com/rubycdp/ferrum
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-09T21:10:31Z
+- ID：github:rubycdp/ferrum
+
+### 范围记录
+
+The library runs headless by default and can be configured for a visible browser. It requires Ruby and Chrome or Chromium.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-rubycdp-ferrum/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/rubycdp/ferrum/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/rubycdp/ferrum/HEAD/README.md（获取于 2026-11-09T21:10:31Z；SHA-256：969dff5d3696f392577c20b1df6dffdc8bf8512819c337cca7f2e63901a4f821）
+- https://raw.githubusercontent.com/rubycdp/ferrum/HEAD/LICENSE（获取于 2026-11-09T21:12:18Z；SHA-256：b2cc6b1258e4fdf6732acd41a7a3198c5a24d138e0e30f7312ff3cb0663f2691）
+
+---
+
 ## Firecrawl
 
 Firecrawl 是一款 API，让智能体能够搜索和抓取网页，再通过提示词或代码与页面交互。
@@ -2747,39 +3684,6 @@ The README documents hosted and self-hosted connections. Most tools require a Fi
 
 ---
 
-## firefox_antidetect_patch
-
-基于 Mozilla 发布标签的 Firefox 补丁系列，每项功能一个文件夹，在引擎层加入指纹、网络与 Juggler 自动化补丁，用于构建 invisible_playwright 所用的反检测 Firefox。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-firefox-antidetect-patch/
-- 原始来源：https://github.com/feder-cr/firefox_antidetect_patch
-- 类型：工具
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化、鲁棒性
-- 证据核查日期：2026-11-10T03:00:58Z
-- ID：github:feder-cr/firefox_antidetect_patch
-
-### 范围记录
-
-The repository holds the patch folders (automation, fingerprint, network, platform), a SERIES file giving their order, UPSTREAM.json with the Mozilla tag and build tooling under tools/. Its maintainer guide, AGENTS.md, is in Italian.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-firefox-antidetect-patch/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/feder-cr/firefox_antidetect_patch/10f5fd8cf1aa0eacf2ca438416d77d5f1b0af563/AGENTS.md（获取于 2026-11-10T03:00:58Z；SHA-256：10140edddc4040efb09c2b20b580f42188a2621e97dc8b3597cfad141dd51ccc）
-
----
-
 ## Ghost OS
 
 Ghost OS 是原生 macOS MCP 服务器，结合基于无障碍树的动作执行、Vision OCR 回退机制和可复用的工作流配方。
@@ -2807,6 +3711,40 @@ Ghost OS 是原生 macOS MCP 服务器，结合基于无障碍树的动作执行
 
 - https://raw.githubusercontent.com/ghostwright/ghost-os/HEAD/README.md（获取于 2026-11-04T13:12:15Z；SHA-256：20855151dc87b9ad46b9defd79706440d5069b9059251ef83fb37e953c092d29）
 - https://raw.githubusercontent.com/ghostwright/ghost-os/HEAD/LICENSE（获取于 2026-11-04T13:23:36Z；SHA-256：8c578527d5aac83a4efb4f3a19969bae14853e0f5b0646ae59afff3dc90d36fa）
+
+---
+
+## go-ios
+
+一个 Go 命令行工具和模块，可在 Linux、Windows 或 macOS 上自动化操作 iOS 设备：安装和启动应用、运行 XCTest 与 WebDriverAgent、截取屏幕并操控界面。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-danielpaulus-go-ios/
+- 原始来源：https://github.com/danielpaulus/go-ios
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS
+- 主题：自动化、手机操作
+- 证据核查日期：2026-11-10T06:29:33Z
+- ID：github:danielpaulus/go-ios
+
+### 范围记录
+
+Installed through npm or built with go build; all output is JSON. iOS 17 and later devices need the tunnel daemon started with sudo ios tunnel start. The README shows the MIT license badge and an experimental REST API.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-danielpaulus-go-ios/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/danielpaulus/go-ios/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/danielpaulus/go-ios/63c0d5705a010b03c340de888ba6c7c4052d763b/README.md（获取于 2026-11-10T06:29:33Z；SHA-256：d4fd90f05527c7bd474ca0838be7a6fbd45f9e460b85a5dbfc665fa00867ee16）
+- https://raw.githubusercontent.com/danielpaulus/go-ios/HEAD/LICENSE（获取于 2026-11-10T06:22:35Z；SHA-256：d368be6f632f8f928369c6f1923cf2f884a1ae42a5f0dd218acd96f9bcfa75b4）
 
 ---
 
@@ -2909,6 +3847,141 @@ The README documents Selenium-backed WebCursor, pyautogui-backed SystemCursor, H
 
 - https://raw.githubusercontent.com/riflosnake/HumanCursor/HEAD/README.md（获取于 2026-11-09T19:56:44Z；SHA-256：8f115a3120487b1339ee582dced48b47878fde0b814bde0107bea1ae0346925c）
 - https://raw.githubusercontent.com/riflosnake/HumanCursor/HEAD/LICENSE（获取于 2026-11-09T14:20:46Z；SHA-256：ce401b2a3ed683c362c98ae4402aea7ea13c9d9d33df093a12b36674b7e66fa9）
+
+---
+
+## idb
+
+idb 是用于自动化操作 iOS 模拟器和设备的命令行工具及 Python 客户端，提供远程伴随进程，以及应用和测试流程所需的命令。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-facebook-idb/
+- 原始来源：https://github.com/facebook/idb
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS、桌面、macOS
+- 主题：自动化、手机操作、工具集成
+- 证据核查日期：2026-11-09T21:09:01Z
+- ID：github:facebook/idb
+
+### 范围记录
+
+The source says the companion runs on macOS and the client can run elsewhere. It includes Swift frameworks for simulator and device control and states an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-facebook-idb/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/facebook/idb/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/facebook/idb/HEAD/README.md（获取于 2026-11-09T21:09:01Z；SHA-256：f6e259c3e9a963bdf179807f66ff6cd696add66a9b86e502525033667e895bb0）
+- https://raw.githubusercontent.com/facebook/idb/HEAD/LICENSE（获取于 2026-11-09T21:11:19Z；SHA-256：da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93）
+
+---
+
+## invisible_puppeteer
+
+一个提供 pyppeteer 式 Puppeteer API 的 Python 包，驱动反检测 Firefox，在引擎内部设置浏览器指纹，并让鼠标沿拟人化轨迹移动。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-invisible-puppeteer/
+- 原始来源：https://github.com/feder-cr/invisible_puppeteer
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-10T06:29:23Z
+- ID：github:feder-cr/invisible_puppeteer
+
+### 范围记录
+
+Installed from PyPI as invisible-puppeteer; its fetch command downloads the patched Firefox engine. It supports Windows x86_64/ARM64 and Linux x86_64, seeded fingerprints, proxies and persistent profiles. MIT license; the Firefox binary is MPL-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-invisible-puppeteer/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/feder-cr/invisible_puppeteer/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/feder-cr/invisible_puppeteer/eab9ce88060cc59e51ba1b76d271fe595ea70072/README.md（获取于 2026-11-10T06:29:23Z；SHA-256：9083f941112d8d073784293eabd24f2a6f2fe813a4415a0d114d53105d41f716）
+- https://raw.githubusercontent.com/feder-cr/invisible_puppeteer/HEAD/LICENSE（获取于 2026-11-10T06:22:24Z；SHA-256：2abb03e63a96918967f383cbc36e3faefe10a47ae20b2cab43212ef965e02f96）
+
+---
+
+## invisible_selenium
+
+一个提供 Selenium webdriver API 的 Python 包，无需 geckodriver 即可驱动反检测 Firefox，在引擎内部设置浏览器指纹，并让鼠标沿拟人化轨迹移动。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-invisible-selenium/
+- 原始来源：https://github.com/feder-cr/invisible_selenium
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-10T06:29:23Z
+- ID：github:feder-cr/invisible_selenium
+
+### 范围记录
+
+Installed from PyPI as invisible-selenium; its fetch command downloads the patched Firefox engine. It supports Windows x86_64/ARM64 and Linux x86_64, seeded fingerprints, proxies, FirefoxOptions and persistent profiles. MIT license; the Firefox binary is MPL-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-invisible-selenium/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/feder-cr/invisible_selenium/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/feder-cr/invisible_selenium/79a1d41b695212ba88f8e2a6b8409af0957e8ee1/README.md（获取于 2026-11-10T06:29:23Z；SHA-256：77050418ab2b99854330774daa837e6a38ac42b88455e29fe6afbe956261da5a）
+- https://raw.githubusercontent.com/feder-cr/invisible_selenium/HEAD/LICENSE（获取于 2026-11-10T06:22:25Z；SHA-256：2abb03e63a96918967f383cbc36e3faefe10a47ae20b2cab43212ef965e02f96）
+
+---
+
+## Kea2
+
+一个用于对 Android 应用进行模糊测试的 Python 工具，将 Fastbot 的自动化 UI 探索与人工编写的脚本及基于属性的断言相结合，以发现崩溃和功能缺陷。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ecnusse-kea2/
+- 原始来源：https://github.com/ecnusse/Kea2
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化、手机操作
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:ecnusse/kea2
+
+### 范围记录
+
+Installed from PyPI as kea2-python; it needs Python 3.8+, an Android SDK and Android 5.0 to 16.0, and uses uiautomator2 as the UI driver with Fastbot as the exploration backend.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ecnusse-kea2/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ecnusse/Kea2/a294f566527aacf629a0793c53e70fb020824d0e/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：a02b2a92199441658c9eed706310e85133e2da28235f92f08bbde391a9531f56）
 
 ---
 
@@ -3066,39 +4139,6 @@ MacosUseSDK 是 Swift 库和 CLI，用于遍历 macOS 无障碍树并模拟原�
 
 ---
 
-## mcp-serial-hid-kvm
-
-这款 MCP 服务器通过独立的串行 HID KVM 服务，为智能体提供屏幕捕获、OCR、键盘和鼠标工具，以控制实体电脑。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-sunasaji-mcp-serial-hid-kvm/
-- 原始来源：https://github.com/sunasaji/mcp-serial-hid-kvm
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面
-- 主题：自动化、界面理解、工具集成
-- 证据核查日期：2026-11-09T19:56:04Z
-- ID：github:sunasaji/mcp-serial-hid-kvm
-
-### 范围记录
-
-It requires a CH9329+CH340 USB HID cable, an HDMI capture device and the serial-hid-kvm server. Tesseract is required for its OCR tools. The README links an MIT license.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/sunasaji/mcp-serial-hid-kvm/HEAD/README.md（获取于 2026-11-09T19:56:04Z；SHA-256：43c2b4a3c772f874419b42ba1b6b1f95029a843db7437888c89549a06ae0247d）
-
----
-
 ## mcp-server-macos-use
 
 一个 Swift MCP 服务器为智能体提供工具，用于检查 macOS 应用的无障碍树并执行鼠标和键盘操作。
@@ -3129,6 +4169,74 @@ The documented tools open applications, click, type, press keys, and refresh acc
 ### 一手证据
 
 - https://raw.githubusercontent.com/mediar-ai/mcp-server-macos-use/HEAD/README.md（获取于 2026-11-09T19:56:09Z；SHA-256：4ff929a006b6b6043230ccd69a79528f1239e3aff001a5a7f7f48b50bae84262）
+
+---
+
+## MFAAvalonia
+
+基于 Avalonia 的 MaaFramework 资源项目跨平台桌面图形界面，读取 Project Interface V2 定义，让用户配置、定时并运行自动化任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-sweetsmellfox-mfaavalonia/
+- 原始来源：https://github.com/SweetSmellFox/MFAAvalonia
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、Linux、macOS
+- 主题：自动化、工作流
+- 证据核查日期：2026-11-10T06:29:25Z
+- ID：github:sweetsmellfox/mfaavalonia
+
+### 范围记录
+
+Requires the .NET 10 runtime and a resource project with a valid interface.json; supports ADB, Win32 and PlayCover controllers. Repository now served as MaaXYZ/MFAAvalonia. Licensed GPL-3.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-sweetsmellfox-mfaavalonia/record.json
+
+### 许可证信息
+
+- 代码：GPL-3.0 — https://raw.githubusercontent.com/SweetSmellFox/MFAAvalonia/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MaaXYZ/MFAAvalonia/ac3bd54da49445aabf685d583dc7a2cc261dfb14/README.md（获取于 2026-11-10T06:29:25Z；SHA-256：2affb283a497418b8e3847e72f6b8199b1c4e4253197d6cd8df7c80ebe7e859d）
+- https://raw.githubusercontent.com/SweetSmellFox/MFAAvalonia/HEAD/LICENSE（获取于 2026-11-10T06:22:26Z；SHA-256：3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986）
+
+---
+
+## minitouch
+
+一个 Android 二进制程序，通过 socket、标准输入或文件接收逐行文本命令，注入多点触控事件和手势；在较早的 SDK 版本上可经 ADB 免 root 运行。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-devicefarmer-minitouch/
+- 原始来源：https://github.com/DeviceFarmer/minitouch
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化、手机操作
+- 证据核查日期：2026-11-10T06:29:23Z
+- ID：github:devicefarmer/minitouch
+
+### 范围记录
+
+GitHub lists the repository as the DeviceFarmer fork of openstf/minitouch. Building needs the NDK; on Android 10 and later touch commands are forwarded to STFService. License terms are in the repository LICENSE file.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-devicefarmer-minitouch/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/DeviceFarmer/minitouch/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/DeviceFarmer/minitouch/fc1a6a31c1e73c8ea220d36dcd49f832dd13c6e9/README.md（获取于 2026-11-10T06:29:23Z；SHA-256：749dc11d8ccd894fc41246ccd4e9925a8a142ec71e848f54be7b8327cd2871d6）
+- https://raw.githubusercontent.com/DeviceFarmer/minitouch/HEAD/LICENSE（获取于 2026-11-10T06:22:24Z；SHA-256：f507ac16a6c66151569a0304269af2da8264ce1994e5107852dd1b6e9d7ea5d6）
 
 ---
 
@@ -3473,6 +4581,40 @@ The README identifies version 2.1 as the latest stable release and says developm
 
 ---
 
+## Plasmate Skill for OpenClaw
+
+OpenClaw 技能，内含 Agent Web Protocol 客户端，驱动本地 Plasmate 服务器打开网页、按元素引用点击和输入，并提取结构化数据。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-skill-openclaw/
+- 原始来源：https://github.com/plasmate-labs/skill-openclaw
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工具集成
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:plasmate-labs/skill-openclaw
+
+### 范围记录
+
+The repository holds SKILL.md, scripts/awp-browse.py and a reference on authenticated browsing; it needs the plasmate binary, and the script starts a Plasmate server when none is running. The README declares MPL-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-skill-openclaw/record.json
+
+### 许可证信息
+
+- 代码：MPL-2.0 — https://raw.githubusercontent.com/plasmate-labs/skill-openclaw/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/skill-openclaw/f29f5777ef6e8fb9f8b8efff1d03ce437af62a24/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：3156029297cb986da9b6def6d27af5353154e0b69dfdfeb8f1c2ec35a8f5c912）
+- https://raw.githubusercontent.com/plasmate-labs/skill-openclaw/HEAD/LICENSE（获取于 2026-11-10T06:22:31Z；SHA-256：fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85）
+
+---
+
 ## Plow Latch
 
 一款 Mac 应用，让远程智能体通过经批准的操作意图使用浏览器和本地工具，并提供沙箱执行与审计日志。
@@ -3537,40 +4679,6 @@ MCP 服务器和 Chrome 扩展，使编程智能体能够控制已打开、带�
 
 ---
 
-## rebrowser-patches
-
-rebrowser-patches 修改 Puppeteer 和 Playwright，以减少浏览器自动化特征，并为这两个库提供可直接替换的程序包。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-patches/
-- 原始来源：https://github.com/rebrowser/rebrowser-patches
-- 类型：工具
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化、鲁棒性、安全与防护
-- 证据核查日期：2026-11-09T19:57:35Z
-- ID：github:rebrowser/rebrowser-patches
-
-### 范围记录
-
-The README documents patches for execution-context behavior and stack traces, plus drop-in packages for Node.js and Python.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/rebrowser/rebrowser-patches/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/rebrowser/rebrowser-patches/HEAD/README.md（获取于 2026-11-09T19:57:35Z；SHA-256：a91d0a51cec76eeea877ffbe9019bb0ea9e9919c3bb85084803ada7ee456a0f2）
-- https://raw.githubusercontent.com/rebrowser/rebrowser-patches/HEAD/LICENSE（获取于 2026-11-09T14:21:02Z；SHA-256：5f3632f16f27bf2449cfd460808c13e9bd46a753f54d411f7896e8e626a0666a）
-
----
-
 ## RobotGo
 
 RobotGo 是原生 Go 跨平台桌面自动化库，可控制鼠标、键盘，进行位图屏幕捕获，并操作窗口句柄。
@@ -3598,6 +4706,72 @@ RobotGo 是原生 Go 跨平台桌面自动化库，可控制鼠标、键盘，�
 
 - https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/README.md（获取于 2026-11-04T14:02:37Z；SHA-256：9cf3d8cac0c4d059a9f1d4a8fa4890efb00523da90ecba9b9f80e679079db291）
 - https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/LICENSE（获取于 2026-11-04T14:07:47Z；SHA-256：b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1）
+
+---
+
+## Selenium-Driverless
+
+一个面向 Google Chrome 的 Python 浏览器自动化库，无需 chromedriver 即可运行，提供元素查找、指针点击、多标签页、隔离的无痕上下文和网络拦截。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-selenium-driverless/
+- 原始来源：https://github.com/kaliiiiiiiiii/Selenium-Driverless
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航、历史
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:kaliiiiiiiiii/selenium-driverless
+
+### 范围记录
+
+GitHub now serves the repository as ttlns/Selenium-Driverless, and the README marks the project out of maintenance. It installs from PyPI as selenium-driverless and needs Python 3.8 or later with Google Chrome installed.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-kaliiiiiiiiii-selenium-driverless/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ttlns/Selenium-Driverless/856d6c02116e2a4ed3fd657f82227965811383fd/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：aed1080dd831daf101a6086dd94ae51aea1d49d294a524a0c7a62ed935df25b2）
+
+---
+
+## selenium-stealth
+
+selenium-stealth 是一款 Python 工具，可配置由 Selenium 驱动的 Chrome 或 Chromium 会话，以降低浏览器自动化被检测到的概率。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-diprajpatra-selenium-stealth/
+- 原始来源：https://github.com/diprajpatra/selenium-stealth
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-09T21:08:33Z
+- ID：github:diprajpatra/selenium-stealth
+
+### 范围记录
+
+The README provides a Selenium WebDriver example and configurable browser properties. It declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-diprajpatra-selenium-stealth/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/diprajpatra/selenium-stealth/HEAD/README.md（获取于 2026-11-09T21:08:33Z；SHA-256：c47af44df44fbb90a24016a08bfdd6c2636371fa8743e8d2a5a4a0e0463f1939）
 
 ---
 
@@ -3662,6 +4836,40 @@ A Swift helper captures the simulator framebuffer via simctl io; the CLI also ro
 
 - https://raw.githubusercontent.com/sh7vansh/chrome-bridge/main/README.md（获取于 2026-11-04T17:20:43Z；SHA-256：c88166230ec36d6f7142d4e8de5cc10acbfb1f0eaac1171ec3c2ccdc5a7d2f6c）
 - https://raw.githubusercontent.com/sh7vansh/chrome-bridge/HEAD/LICENSE（获取于 2026-11-04T17:27:18Z；SHA-256：ecaee72eec962ed8e390279ee54a398b964923faff9a2353bf0ecf743ba09cad）
+
+---
+
+## SnapDOM
+
+SnapDOM 捕获浏览器中渲染的元素，并导出图像或结构化页面上下文。其插件可向智能体提供文本、JSON，以及带有元素映射的图像。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-zumerlab-snapdom/
+- 原始来源：https://github.com/zumerlab/snapdom
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：界面理解、GUI 定位
+- 证据核查日期：2026-11-09T21:10:31Z
+- ID：github:zumerlab/snapdom
+
+### 范围记录
+
+The README documents an in-page core library and separately installed official plugins. It states that the core and plugins are MIT licensed.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-zumerlab-snapdom/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/zumerlab/snapdom/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/zumerlab/snapdom/HEAD/README.md（获取于 2026-11-09T21:10:31Z；SHA-256：4432e1cd6213fbdb32baf39377564eb9d2cf0a1d0aaf75f351380efb0f09a1a2）
+- https://raw.githubusercontent.com/zumerlab/snapdom/HEAD/LICENSE（获取于 2026-11-09T21:12:18Z；SHA-256：c5fbd8d2221c17ff18fc7f3fee7ecf3346fb5a3f5bb2dbd3eb08f1c0397ed1a2）
 
 ---
 
@@ -3791,36 +4999,6 @@ Terminator 是以无障碍功能为基础的桌面自动化 SDK 和 MCP 服务�
 
 ---
 
-## undetected-chromedriver
-
-undetected-chromedriver 是具有反机器人检测能力的 Selenium ChromeDriver 补丁，被网页智能体广泛用于绕过自动化指纹识别。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-ultrafunkamsterdam-undetected-chromedriver/
-- 原始来源：https://github.com/ultrafunkamsterdam/undetected-chromedriver
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：跨平台、网页
-- 主题：网页导航、自动化
-- 证据核查日期：2026-11-04T13:12:41Z
-- ID：github:ultrafunkamsterdam/undetected-chromedriver
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-ultrafunkamsterdam-undetected-chromedriver/record.json
-
-### 许可证信息
-
-- 代码：GPL-3.0 — https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/README.md（获取于 2026-11-04T13:12:41Z；SHA-256：106d28133afd02afc1efaf323b83953d40e06c51c45955f92ae84e43e9b78119）
-- https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/LICENSE（获取于 2026-11-04T13:42:26Z；SHA-256：230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809）
-
----
-
 ## vadgr-computer-use
 
 三层计算机使用 MCP 服务器，结合系统 Shell 工具、OS 无障碍树（UIA/AT-SPI/AX）和视觉备用方案。
@@ -3945,6 +5123,39 @@ The README shows typing and screenshot commands and requires a VNC server. It re
 ### 一手证据
 
 - https://raw.githubusercontent.com/sibson/vncdotool/HEAD/README.md（获取于 2026-11-09T21:09:00Z；SHA-256：f37cecbc34955f7969544ccdd8e7b08f9dca81b89a943a1f498576e5d56e9e53）
+
+---
+
+## webclaw3
+
+一款浏览器智能体技能，使用本地 Chrome 会话探索任务，再生成可复用脚本，重复执行已成功的浏览器工作流程。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-fatmind-webclaw3/
+- 原始来源：https://github.com/fatmind/webclaw3
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化、工作流、效率
+- 证据核查日期：2026-11-09T19:58:09Z
+- ID：github:fatmind/webclaw3
+
+### 范围记录
+
+Setup uses a Chrome extension and a webclaw3 access key. The README declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-fatmind-webclaw3/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/fatmind/webclaw3/HEAD/README.md（获取于 2026-11-09T19:58:09Z；SHA-256：f19b3e9c6c52619d869438c2d24074559069c57dcbc6688be75a07a6c2ea34ce）
 
 ---
 
@@ -4343,36 +5554,6 @@ The README describes a background daemon and companion browser extension. It say
 
 ---
 
-## Agent WebBridge
-
-开源浏览器自动化桥接工具和 MCP 服务器，将 Claude Code、Cursor 及编程智能体连接到实时 Chrome 标签页。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-jeet-dhandha-agent-webbridge/
-- 原始来源：https://github.com/jeet-dhandha/agent-webbridge
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、工具集成、自动化
-- 证据核查日期：2026-11-04T16:30:06Z
-- ID：github:jeet-dhandha/agent-webbridge
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-jeet-dhandha-agent-webbridge/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/jeet-dhandha/agent-webbridge/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/jeet-dhandha/agent-webbridge/HEAD/README.md（获取于 2026-11-04T16:30:06Z；SHA-256：9aaebced61e1bc0bf4fae53e202c979f562ff29c3d2a8cb8fb331032634c1b61）
-- https://raw.githubusercontent.com/jeet-dhandha/agent-webbridge/HEAD/LICENSE（获取于 2026-11-04T16:35:14Z；SHA-256：01613c1dd35e25e8e14b6487025f393d2535b9d544b4862b5d263ff631931f23）
-
----
-
 ## agent-computer-use
 
 Rust CLI（agent-cu）将桌面应用无障碍树快照为元素引用或选择器，供智能体点击、输入、滚动或拖动，在 macOS 使用 AX、Windows 使用 UI Automation、Linux 使用 AT-SPI2。
@@ -4546,40 +5727,6 @@ The repository includes source code, examples, documentation, and tests. The REA
 
 ---
 
-## ahk-mcp
-
-ahk-mcp 为 AI 智能体提供 MCP 工具，用于读取 Windows 无障碍树并操作桌面控件，也可通过开发者工具协议控制浏览器。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-anomalous3-ahk-mcp/
-- 原始来源：https://github.com/anomalous3/ahk-mcp
-- 类型：工具
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：桌面、Windows、网页
-- 主题：自动化、界面理解、工具集成、效率
-- 证据核查日期：2026-11-09T19:56:12Z
-- ID：github:anomalous3/ahk-mcp
-
-### 范围记录
-
-The source lists observation, action, browser and flow tools. Setup requires Windows, AutoHotkey v2 and Python.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-anomalous3-ahk-mcp/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/anomalous3/ahk-mcp/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/anomalous3/ahk-mcp/HEAD/README.md（获取于 2026-11-09T19:56:12Z；SHA-256：7884651f274b35951d8ce2e0e6f2b8ec93890a908ee64ce4d929bef0b062b4ff）
-- https://raw.githubusercontent.com/anomalous3/ahk-mcp/HEAD/LICENSE（获取于 2026-11-09T14:20:38Z；SHA-256：f0587d3322e7af8fefb85116e51926ad51f3eaa0745f13e67f960e356eb44ef6）
-
----
-
 ## ai-browser-bridge
 
 这款 macOS 终端工具通过 Chrome 操作在线 AI 聊天网站，并借助 MCP 服务器向这些聊天界面提供经过校验的本地代码仓库操作。
@@ -4611,6 +5758,40 @@ The repository describes a TypeScript CLI using Playwright and Chrome DevTools P
 
 - https://raw.githubusercontent.com/YosefHayim/ai-browser-bridge/HEAD/README.md（获取于 2026-11-09T19:57:26Z；SHA-256：ed0b4f6d098472d5f3762886619f4b119b91a31511cf539ffaacb707a1b6bf1b）
 - https://raw.githubusercontent.com/YosefHayim/ai-browser-bridge/HEAD/LICENSE（获取于 2026-11-09T14:20:57Z；SHA-256：c9fb8d7c8df14c2cc14a6bc090841817d324342e3d0ee6cd019d01676f96064a）
+
+---
+
+## Amazon Nova Act Human Intervention Service
+
+一套 AWS 参考部署，为 Nova Act 浏览器工作流加入审批请求和实时界面接管，附带 Python 客户端 SDK 和 CDK 堆栈。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-human-intervention/
+- 原始来源：https://github.com/amazon-agi-labs/nova-act-human-intervention
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：人机协作、网页导航、工作流
+- 证据核查日期：2026-11-10T06:29:20Z
+- ID：github:amazon-agi-labs/nova-act-human-intervention
+
+### 范围记录
+
+The repository contains CDK infrastructure (WebSocket API, Step Functions, S3 and CloudFront hosting), Lambda service code, a Python client SDK and samples. Deployment requires an AWS account and IAM permissions; UI takeover streams the browser with Amazon DCV.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-human-intervention/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/amazon-agi-labs/nova-act-human-intervention/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-human-intervention/2ab9068d24103d23b06bea5e2812a7cb8ef15186/README.md（获取于 2026-11-10T06:29:20Z；SHA-256：0223a79cdea7087d62ea220b8844b6e9bbb520b7d04db1bca7e0aa340dae2e1e）
+- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-human-intervention/HEAD/LICENSE（获取于 2026-11-10T06:22:20Z；SHA-256：09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b）
 
 ---
 
@@ -4648,37 +5829,36 @@ The server communicates over stdio and requires Python 3.13 and adb. Its README 
 
 ---
 
-## AndroidViewClient
+## android-uiautomator-server
 
-一个 Python 安卓界面自动化工具，可创建可复用的测试，并通过 MCP 服务器向 AI 助手提供基于视图的交互、手势和设备控制功能。
+一个 Android 插桩应用，在设备上运行 UIAutomator 的 JSON-RPC 服务，使电脑端脚本可以编写 UI 测试；其 README 指向一个后继仓库。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-dtmilano-androidviewclient/
-- 原始来源：https://github.com/dtmilano/AndroidViewClient
+- 目录页面：https://awesomecua.com/zh/resources/github-openatx-android-uiautomator-server/
+- 原始来源：https://github.com/openatx/android-uiautomator-server
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
 - 运行环境：Android
-- 主题：自动化、手机操作、GUI 定位、工具集成
-- 证据核查日期：2026-11-09T19:58:04Z
-- ID：github:dtmilano/androidviewclient
+- 主题：自动化、历史
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:openatx/android-uiautomator-server
 
 ### 范围记录
 
-The README lists element and coordinate interactions, screenshots and app controls. Its MCP setup uses CulebraTester2 on the device.
+The repository holds the Gradle project and app sources; the app bundles an AdbKeyboard input method for text input and a mock-location broadcast.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-dtmilano-androidviewclient/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-openatx-android-uiautomator-server/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/dtmilano/AndroidViewClient/HEAD/LICENSE
+- 代码：未记录
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/dtmilano/AndroidViewClient/HEAD/README.md（获取于 2026-11-09T19:58:04Z；SHA-256：c3d039fc275c942f1fcd2be6496ce31b12efa63b847758492d2524cf029b8f80）
-- https://raw.githubusercontent.com/dtmilano/AndroidViewClient/HEAD/LICENSE（获取于 2026-11-09T14:21:21Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
+- https://raw.githubusercontent.com/openatx/android-uiautomator-server/0a76c01aa2fe360c15d2cf71db1807c47c290ba7/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：d56471f7d93b01f6f5fee313a62fc2561ba3d2e8ca2ae95883ae5f5e69ecfed6）
 
 ---
 
@@ -4811,6 +5991,40 @@ The README lists device utilities, service starters, and an XCTest class. It say
 
 - https://raw.githubusercontent.com/appium/appium-ios-device/HEAD/README.md（获取于 2026-11-09T19:56:27Z；SHA-256：c45724bd53a35166d501d5d12c8741ad798090c7c37ef78c2e7a057be31f61ab）
 - https://raw.githubusercontent.com/appium/appium-ios-device/HEAD/LICENSE（获取于 2026-11-09T14:20:42Z；SHA-256：ae9194687e7f3b7d85e8eeb5c973e22d52c4653b1e4332fa0e5c6e82b038ab29）
+
+---
+
+## Argent
+
+Argent 是一个命令行工具包，让 AI 助手在 iOS 模拟器、Android 模拟器与真机、电视以及 Electron 应用中点击、滑动和输入，并可录制端到端测试路径、比对屏幕和分析应用性能。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-software-mansion-argent/
+- 原始来源：https://github.com/software-mansion/argent
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：iOS、Android、桌面、跨平台
+- 主题：手机操作、自动化、录制
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:software-mansion/argent
+
+### 范围记录
+
+Installed with npx @swmansion/argent init. Source code is Apache-2.0; the simulator-server, ax-service and native devtools binaries are proprietary to the publisher.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-software-mansion-argent/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/software-mansion/argent/HEAD/LICENSE.txt
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/software-mansion/argent/bb847618bc55c937c74244c57cc6fc82e549ac06/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：4185bb366db0f3ba3ad5791e641787820cf9a3d97e7d343533583a988ac3eec0）
+- https://raw.githubusercontent.com/software-mansion/argent/HEAD/LICENSE.txt（获取于 2026-11-10T06:22:35Z；SHA-256：3b0ad646de4bc37c4f8e3cf8d0229cfc7355c676d0739fada9ef4de80d78f38d）
 
 ---
 
@@ -4982,6 +6196,40 @@ The README includes tutorials for input control, screenshots and image search. I
 
 ---
 
+## AutoPyDriverServer
+
+一个 Python 服务器，通过 Selenium WebDriver 协议暴露 AutoPy 桌面控制能力，使任意 WebDriver 客户端都能编写基于图像的鼠标和键盘自动化脚本。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-daluu-autopydriverserver/
+- 原始来源：https://github.com/daluu/autopydriverserver
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、Linux、macOS
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:20Z
+- ID：github:daluu/autopydriverserver
+
+### 范围记录
+
+The repository contains the Bottle-based server, sample WebDriver client code, and separate requirement files for Linux/Mac and Windows. It is adapted from an early Python Appium server.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-daluu-autopydriverserver/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/daluu/autopydriverserver/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/daluu/AutoPyDriverServer/c26bc7a5562da3dd25c905e970318dd0c4bb6a86/README.md（获取于 2026-11-10T06:29:20Z；SHA-256：5864a0d9e592e6f76095a44f94e16616dd499e059402caede9c2d77923a8686b）
+- https://raw.githubusercontent.com/daluu/autopydriverserver/HEAD/LICENSE（获取于 2026-11-10T06:22:20Z；SHA-256：a4e1a9e902c34a5073d249aca323d8c10af66dd7b54263e76a92a99f818cbf1d）
+
+---
+
 ## aworld-mcp-servers
 
 这是一组服务端点，其中的 Browser Use API 可执行自然语言描述的网页任务。其浏览器端点可以返回执行轨迹。
@@ -5013,6 +6261,40 @@ The README also documents health checks, web search, research and chat-completio
 
 - https://raw.githubusercontent.com/qingw-dev/aworld-mcp-servers/HEAD/README.md（获取于 2026-11-09T21:10:18Z；SHA-256：39b1eddd0fb2c6003b990a6e5b90eace844f2bf91044ec3ebdf879e15a528755）
 - https://raw.githubusercontent.com/qingw-dev/aworld-mcp-servers/HEAD/LICENSE（获取于 2026-11-09T21:12:16Z；SHA-256：42e079ec5895daec1e187096f9eb704b1d8a7f3b9bc21d4b716d73ee8fa00384）
+
+---
+
+## AXe
+
+一款用于 iOS 模拟器自动化的命令行工具，通过无障碍 API 读取界面，并发送 HID 点击、滑动和文本输入，同时支持截图与视频录制。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-cameroncooke-axe/
+- 原始来源：https://github.com/cameroncooke/AXe
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS
+- 主题：自动化、手机操作、界面理解
+- 证据核查日期：2026-11-10T06:29:32Z
+- ID：github:cameroncooke/axe
+
+### 范围记录
+
+Installs through Homebrew and requires macOS 14 or later with Xcode 26 or 27; it builds on a fork of Meta's IDB. The docs cover accessibility targeting, batch automation and a bundled agent skill installed with axe init. MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-cameroncooke-axe/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/cameroncooke/AXe/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/cameroncooke/AXe/30f4bfa9bc81817906a60fadedbc913d7314b7e1/README.md（获取于 2026-11-10T06:29:32Z；SHA-256：9b813a6056b77cc6654e524dcb5a45158fe111721bf33599c85255905f9471eb）
+- https://raw.githubusercontent.com/cameroncooke/AXe/HEAD/LICENSE（获取于 2026-11-10T06:22:35Z；SHA-256：fef28fc4165c72b1f0e4ce94654ba44ad7ff7d5d2538b3d01e66e9cc5be3c4f6）
 
 ---
 
@@ -5872,6 +7154,40 @@ ScienceBoard 使用的 ChimeraX 插件，公开分子可视化会话的内部状
 
 ---
 
+## Chrome Bridge
+
+MCP 服务器加 Chrome 扩展，让 Claude Code 操作用户已登录的 Chrome，提供 69 个工具，涵盖表单、导航、DOM 与网络检查、审计以及页面声明的 WebMCP 工具。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-frsorrentino-chrome-bridge/
+- 原始来源：https://github.com/frsorrentino/chrome-bridge
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工具集成、效率
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:frsorrentino/chrome-bridge
+
+### 范围记录
+
+Installs as a Claude Code plugin with an extension from the Chrome Web Store or from source; it needs Node.js 18+ and Chrome 135+ and runs locally, including on ChromeOS. The README reports paired runs against Claude in Chrome with fewer turns and lower cost; MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-frsorrentino-chrome-bridge/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/frsorrentino/chrome-bridge/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/frsorrentino/chrome-bridge/eeb896a7242cf33c15b2ad123eff8486ff79deff/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：45b025b0add3b5ce0fec7b58dbd6c028dd285c524354d560404c7e8ca34366c3）
+- https://raw.githubusercontent.com/frsorrentino/chrome-bridge/HEAD/LICENSE（获取于 2026-11-10T06:22:23Z；SHA-256：156faa9fb36a9749e0713aa5575f40f1c31e59d99a6647c93c46a0a052bc5153）
+
+---
+
 ## chrome-agent
 
 chrome-agent 是一款供浏览器智能体检查页面、通过 Chrome 执行操作并核查结果状态的 Rust 命令行工具，还可记录和重放本地命令序列。
@@ -5936,39 +7252,6 @@ The README documents CDP commands for navigation, reading, input, assertions, sc
 
 ---
 
-## chrome-remote-interface
-
-一个用于 Chrome 调试协议的 JavaScript 接口，可通过命令和事件通知控制、检查浏览器会话。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-cyrus-and-chrome-remote-interface/
-- 原始来源：https://github.com/cyrus-and/chrome-remote-interface
-- 类型：工具
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化、工具集成
-- 证据核查日期：2026-11-09T19:56:09Z
-- ID：github:cyrus-and/chrome-remote-interface
-
-### 范围记录
-
-The README includes a navigation and network-request example, installation through npm, and a bundled client.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-cyrus-and-chrome-remote-interface/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/cyrus-and/chrome-remote-interface/HEAD/README.md（获取于 2026-11-09T19:56:09Z；SHA-256：7e113fd4f412a6589e079124ad3d4bcd6661cd3dd530ab63b052232eff47880e）
-
----
-
 ## chromedp-proxy
 
 chromedp-proxy 在客户端与浏览器之间转发 Chrome DevTools Protocol 通信，并记录会话消息，供浏览器自动化调试使用。
@@ -5999,6 +7282,40 @@ The README provides Go installation and command-line examples. It supports confi
 ### 一手证据
 
 - https://raw.githubusercontent.com/chromedp/chromedp-proxy/HEAD/README.md（获取于 2026-11-09T05:04:59Z；SHA-256：c29e53b4ca90b7528d595c68532fb4186e3b4de57ed0d6c446dd6f42271ac7b2）
+
+---
+
+## Chromium Bridge
+
+由 Chrome 扩展和 stdio MCP 服务器组成，让 Claude Code 在任意 Chromium 浏览器中操作标签页、点击、输入、截图和读取可访问性树，另有浏览器内聊天面板和操作前确认模式。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-dashi96-chromium-bridge/
+- 原始来源：https://github.com/dashi96/chromium-bridge
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工具集成、人机协作
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:dashi96/chromium-bridge
+
+### 范围记录
+
+The extension uses chrome.tabs, chrome.scripting and chrome.debugger and connects to a local WebSocket server on port 8929; the chat panel runs through the Claude Agent SDK. MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-dashi96-chromium-bridge/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/dashi96/chromium-bridge/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/dashi96/chromium-bridge/bdf0f948b0208f01c7e3025a5c2bb8b47d644a71/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：d34ba028e3ab01dd790026bf39902f5a50b3f2f5ae2a238d280ca472375a0add）
+- https://raw.githubusercontent.com/dashi96/chromium-bridge/HEAD/LICENSE（获取于 2026-11-10T06:22:23Z；SHA-256：15cda7e15e3e1304daeda8f2f27d12a8490400e7215848d05296aaa737ea0ba2）
 
 ---
 
@@ -6230,36 +7547,37 @@ The repository contains a Python CLI, an MCP server, a .NET add-in, demos, and t
 
 ---
 
-## cmux
+## cmux-skills
 
-这是一款 macOS 终端与工作区应用，内置可编程浏览器，使智能体能检查网页辅助功能数据、点击元素、填写表单并运行 JavaScript。
+面向 cmux macOS 终端的一组智能体技能，教编码智能体使用其命令行、工作区和窗格，并通过快照、元素引用、点击、等待和截图操作其内置浏览器。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-manaflow-ai-cmux/
-- 原始来源：https://github.com/manaflow-ai/cmux
+- 目录页面：https://awesomecua.com/zh/resources/github-manaflow-ai-cmux-skills/
+- 原始来源：https://github.com/manaflow-ai/cmux-skills
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
 - 运行环境：桌面、macOS、网页
-- 主题：自动化、网页导航、工具集成
-- 证据核查日期：2026-11-09T21:10:51Z
-- ID：github:manaflow-ai/cmux
+- 主题：网页导航、工具集成、自动化
+- 证据核查日期：2026-11-10T06:29:27Z
+- ID：github:manaflow-ai/cmux-skills
 
 ### 范围记录
 
-The README documents CLI and socket APIs for workspaces, panes and browser automation. It describes a native Swift and AppKit application and states that it is GPL-licensed.
+Nine skills, each a SKILL.md directory with optional scripts and references, installable with the skills CLI; cmux-browser covers browser surfaces and cmux-cloud covers cmux Cloud VMs. Requires cmux. Licensed MIT.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-manaflow-ai-cmux/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-manaflow-ai-cmux-skills/record.json
 
 ### 许可证信息
 
-- 代码：未记录
+- 代码：MIT — https://raw.githubusercontent.com/manaflow-ai/cmux-skills/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/manaflow-ai/cmux/HEAD/README.md（获取于 2026-11-09T21:10:51Z；SHA-256：3c66e66ad6c066c38d9210c01d50d9d1fb6d4b0e3285c346886074ae41269e1c）
+- https://raw.githubusercontent.com/manaflow-ai/cmux-skills/34027c77c9ffa33f47f5d81012d01296976b4240/README.md（获取于 2026-11-10T06:29:27Z；SHA-256：b4631040ea49c312c2a74b260151d3d71533a71da01f956991e82aacdd3a8a24）
+- https://raw.githubusercontent.com/manaflow-ai/cmux-skills/HEAD/LICENSE（获取于 2026-11-10T06:22:28Z；SHA-256：08a61956ed0269f7e3f598265453642d3fb7d60c15d3e6988c86b37216502534）
 
 ---
 
@@ -6387,6 +7705,36 @@ The README describes release binaries for all three operating systems and JSON r
 ### 一手证据
 
 - https://raw.githubusercontent.com/lindoelio/computer-use/HEAD/README.md（获取于 2026-11-09T19:56:29Z；SHA-256：3e19b1775affab9900149453fb3e1a0f0b2946eccf3dfaff5a0309390d91ee32）
+
+---
+
+## Computer-Use Cache
+
+可直接接入、兼容 OpenAI 的缓存代理，记录并重放重复的计算机使用和浏览器智能体工作流。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-rohanarun-computer-use-cache/
+- 原始来源：https://github.com/rohanarun/computer-use-cache
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、网页、桌面
+- 主题：效率、记忆、录制
+- 证据核查日期：2026-11-04T16:30:04Z
+- ID：github:rohanarun/computer-use-cache
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-rohanarun-computer-use-cache/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/rohanarun/computer-use-cache/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/rohanarun/computer-use-cache/HEAD/README.md（获取于 2026-11-04T16:30:04Z；SHA-256：2b8c93536abf8d5d83ecc5da77943973af236c1aad1b01f55d76f0f9f14445a1）
+- https://raw.githubusercontent.com/rohanarun/computer-use-cache/HEAD/LICENSE（获取于 2026-11-04T16:35:11Z；SHA-256：7d9f2c36af58e906b7051faaf996b4d588dce552cc963ef186e9f6d72929912f）
 
 ---
 
@@ -6555,6 +7903,74 @@ Model Context Protocol 服务器，在真实浏览器中并发调度 AI 虚拟�
 
 ---
 
+## CulebraTester2
+
+一个运行在 Android 设备上的服务器，通过 REST API 支持 UI 测试自动化：截图、窗口层级导出和控件操作，并作为 AndroidViewClient/culebra 的后端。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-dtmilano-culebratester2-public/
+- 原始来源：https://github.com/dtmilano/CulebraTester2-public
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化、界面理解
+- 证据核查日期：2026-11-10T06:29:21Z
+- ID：github:dtmilano/culebratester2-public
+
+### 范围记录
+
+Installed as app and instrumentation APKs on a device or emulator connected through adb; the API is described in openapi.yaml. Alpha release; license Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-dtmilano-culebratester2-public/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/dtmilano/CulebraTester2-public/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/dtmilano/CulebraTester2-public/d43f0252ea0c9fc3cfa8436983ca9c18f38d2af6/README.md（获取于 2026-11-10T06:29:21Z；SHA-256：511cfdfb107fb86dcb10568e4a06a11f449a826336e6e795499a5d6990289a98）
+- https://raw.githubusercontent.com/dtmilano/CulebraTester2-public/HEAD/LICENSE（获取于 2026-11-10T06:22:22Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## Cuprite
+
+一个 Ruby 驱动，通过 Ferrum 和 DevTools 协议在无头 Chrome 或 Chromium 中运行 Capybara 测试，支持设备模拟、URL 过滤和鼠标控制。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-rubycdp-cuprite/
+- 原始来源：https://github.com/rubycdp/cuprite
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:rubycdp/cuprite
+
+### 范围记录
+
+Installed as the cuprite gem in a Gemfile test group; it requires Chrome or Chromium and uses Ferrum underneath. A dockerize option enables container mode with Ferrum 0.17.2 or newer.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-rubycdp-cuprite/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/rubycdp/cuprite/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/rubycdp/cuprite/24d80e9c22a4aa71bca31ff2ba8ae6f426bc5f0f/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：2901e7cd76d8daf5e9ae473edbdf9f89d81b6ffa4201d5af19a19b37c51869ae）
+- https://raw.githubusercontent.com/rubycdp/cuprite/HEAD/LICENSE（获取于 2026-11-10T06:22:34Z；SHA-256：97f941b146208735a68eb27d871a973f49a9c71a124bebf73fc005e8d375038b）
+
+---
+
 ## cursory-js
 
 一个生成带时间信息的鼠标轨迹，并说明如何通过浏览器输入事件回放轨迹的 TypeScript 工具。
@@ -6684,6 +8100,40 @@ Deskwright 是面向 AI 智能体的跨平台桌面自动化工具包，结合�
 
 - https://raw.githubusercontent.com/tristanmuzzu/deskwright/HEAD/README.md（获取于 2026-11-04T13:12:41Z；SHA-256：6df0be1b1ed200b4227f216461fb11b5cf20f41ea45d4480d8dcbfdd80ccfdff）
 - https://raw.githubusercontent.com/tristanmuzzu/deskwright/HEAD/LICENSE（获取于 2026-11-04T13:23:44Z；SHA-256：084b8f2f40b734d9098a2e9f9c4c2c92e3da6f6932ea92a075050a42f1a8d775）
+
+---
+
+## displayoverride-mac
+
+一个 macOS 菜单栏应用，可创建 4K、1080p 或 720p 的虚拟显示器用于镜像，让计算机使用模型看到其训练时使用的标准分辨率。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-domdomegg-displayoverride-mac/
+- 原始来源：https://github.com/domdomegg/displayoverride-mac
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、macOS
+- 主题：界面理解
+- 证据核查日期：2026-11-10T06:29:21Z
+- ID：github:domdomegg/displayoverride-mac
+
+### 范围记录
+
+A single Swift source file built with swiftc, with prebuilt binaries on the releases page. Uses the private CGVirtualDisplay API and is tested on Apple Silicon Macs; license MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-domdomegg-displayoverride-mac/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/domdomegg/displayoverride-mac/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/domdomegg/displayoverride-mac/4a50e97805b69eb1c0bcdb50b3131d2608d9d944/README.md（获取于 2026-11-10T06:29:21Z；SHA-256：2558a1ec538272fe34fe31f3aa2c72987f5afb8036ca21c14e8b204529847e60）
+- https://raw.githubusercontent.com/domdomegg/displayoverride-mac/HEAD/LICENSE（获取于 2026-11-10T06:22:22Z；SHA-256：3af5cdad59d3f0af8b127d7d30ebe4ee282769ab1cc5cc8864e7582649a2979c）
 
 ---
 
@@ -7111,6 +8561,40 @@ The README gives separate installation steps for Chromium browsers and Firefox. 
 
 ---
 
+## Everything Maa
+
+一套面向 Claude Code 和 Codex 的 13 个 AI 技能与 MCP 配置档，用于构建、编辑、测试和诊断 MaaFramework 自动化项目，并通过 maafw-cli 执行设备与 Pipeline 操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-khazixw2-everything-maa/
+- 原始来源：https://github.com/KhazixW2/Everything-Maa
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：自动化、工作流、工具集成
+- 证据核查日期：2026-11-10T06:29:25Z
+- ID：github:khazixw2/everything-maa
+
+### 范围记录
+
+Installed with npx everything-maa into a project for Claude Code or Codex, with four profiles from skills-only to full (adding create-maa-project and Playwright MCP). Requires Python 3.10+ and Node.js 18+; MaaMCP and maafw-cli need uvx. Own skills, scripts and docs are MIT-licensed.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-khazixw2-everything-maa/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/KhazixW2/Everything-Maa/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/KhazixW2/Everything-Maa/22cf3c3a59ca6eaa12781122ba537958dff14c41/README.md（获取于 2026-11-10T06:29:25Z；SHA-256：804c4e947f5dfec71ca4399abdc42636e4daa2b06ffc766dc76438a5caa1afdc）
+- https://raw.githubusercontent.com/KhazixW2/Everything-Maa/HEAD/LICENSE（获取于 2026-11-10T06:22:26Z；SHA-256：c54ee450a026667b934b4bd55da9a6d3f14dd53d5ea1894a99f1869fa125d3db）
+
+---
+
 ## Expo Device Hub
 
 Expo Device Hub 将 iOS 模拟器和 Android 模拟器的画面传输到浏览器控制面板，让用户查看屏幕、发送输入并管理设备。
@@ -7141,40 +8625,6 @@ The repository includes the DevTools plugin, device client packages, simulator a
 ### 一手证据
 
 - https://raw.githubusercontent.com/expo/expo-device-hub/HEAD/README.md（获取于 2026-11-09T19:56:59Z；SHA-256：2e8f46b52b7345292ebffeabc2546b8d4f37a91b3fa11d7fd0d082186d8fe64e）
-
----
-
-## Ferrum
-
-Ferrum 是通过开发者工具协议控制 Chrome 或 Chromium 的 Ruby API。它支持浏览器导航、页面交互和截图。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-rubycdp-ferrum/
-- 原始来源：https://github.com/rubycdp/ferrum
-- 类型：工具
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化、网页导航
-- 证据核查日期：2026-11-09T21:10:31Z
-- ID：github:rubycdp/ferrum
-
-### 范围记录
-
-The library runs headless by default and can be configured for a visible browser. It requires Ruby and Chrome or Chromium.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-rubycdp-ferrum/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/rubycdp/ferrum/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/rubycdp/ferrum/HEAD/README.md（获取于 2026-11-09T21:10:31Z；SHA-256：969dff5d3696f392577c20b1df6dffdc8bf8512819c337cca7f2e63901a4f821）
-- https://raw.githubusercontent.com/rubycdp/ferrum/HEAD/LICENSE（获取于 2026-11-09T21:12:18Z；SHA-256：b2cc6b1258e4fdf6732acd41a7a3198c5a24d138e0e30f7312ff3cb0663f2691）
 
 ---
 
@@ -7545,6 +8995,40 @@ The repository describes URL preprocessing, crawling, and parallel collection sc
 
 ---
 
+## GUI-Actor-for-FiftyOne
+
+用于在 FiftyOne 数据集上微调 GUI-Actor 定位模型的训练代码，将截图上的关键点和框标注转换为带指针监督的对话数据，可在单 GPU 上运行。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-actor-for-fiftyone/
+- 原始来源：https://github.com/harpreetsahota204/GUI-Actor-for-FiftyOne
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：GUI 定位
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：github:harpreetsahota204/gui-actor-for-fiftyone
+
+### 范围记录
+
+Contains the gui_actor package, a training CLI with layer-unfreezing and single-application options, and fine-tuning and example notebooks. It targets GPUs with 24GB of VRAM and needs transformers, FiftyOne and flash-attn; the README points to the original GUI-Actor repository for license terms.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-harpreetsahota204-gui-actor-for-fiftyone/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/harpreetsahota204/GUI-Actor-for-FiftyOne/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/harpreetsahota204/GUI-Actor-for-FiftyOne/5ce1aba8109727d5f1f3919e6b06819f03f256f9/README.md（获取于 2026-11-10T06:29:24Z；SHA-256：fe8a351f430cfff84f6adb98293d614c34b50c1858b29fdb4995715c231b69a4）
+- https://raw.githubusercontent.com/harpreetsahota204/GUI-Actor-for-FiftyOne/HEAD/LICENSE（获取于 2026-11-10T06:22:25Z；SHA-256：98a96c38494df4963951e32b81ec4effebe4c8a812ab8d9e7d185d59e86fe2fc）
+
+---
+
 ## GUI-DR
 
 GUI-DR 从 Mind2Web 归档生成经过扰动的网页截图和交互轨迹，用于 GUI 定位评估与微调。
@@ -7675,6 +9159,73 @@ The README provides integration code and describes Slack Socket Mode. It says th
 
 ---
 
+## Harden Vanilla Puppeteer
+
+一组 patch-package 补丁，修改 Puppeteer 核心文件，使页面调用在隔离环境中执行，并从错误堆栈和配置文件名中去除 Puppeteer 字样，以降低自动化检测率。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-prescience-data-harden-puppeteer/
+- 原始来源：https://github.com/prescience-data/harden-puppeteer
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：网页导航、自动化
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:prescience-data/harden-puppeteer
+
+### 范围记录
+
+Patches cover Puppeteer 1.19.0, 2.1.1, 5.2.1, 5.3.1 and 7.0.1 and Puppeteer Core 5.3.1, plus a universal srcdoc patch in ./src. Scripts injected with page.evaluateOnNewDocument() still run in the main world.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-prescience-data-harden-puppeteer/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/prescience-data/harden-puppeteer/ead46b8eefee34709d91c17a5dbe928e9d959356/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：eda340fdd66a38f6cf7bc83d63efc5d453be2b9b6b89814b8eaafa6c58bc4cda）
+
+---
+
+## Hermes Jev Skills
+
+面向 Hermes、Claude Code 和 Codex 智能体的 SKILL.md 技能集，把细小决策交给 Jev 模型，其中包括桌面与浏览器技能：由 Jev 从调用方构建的动作表中选出每一步动作。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-kerpopule-hermes-jev-skills/
+- 原始来源：https://github.com/kerpopule/hermes-jev-skills
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页、桌面、macOS
+- 主题：动作预测、网页导航、自动化、安全与防护
+- 证据核查日期：2026-11-10T06:29:34Z
+- ID：github:kerpopule/hermes-jev-skills
+
+### 范围记录
+
+The repository holds thirteen SKILL.md skills, an install.py installer for Hermes, Claude Code and Codex, the jevkit package, evals and a router dashboard. The computer-use skill bundles coagent_cu.py and jev_gui_agent.py (cua-driver over MCP on macOS); the browser skill bundles jev_browser_agent.py, which wraps Jev Ultrafast under a host allowlist and step budget. Jev calls use a TypeSafe API key; declared license MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-kerpopule-hermes-jev-skills/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/kerpopule/hermes-jev-skills/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/kerpopule/hermes-jev-skills/8316358bf60e98a21477582af829ef11c9cf52fb/README.md（获取于 2026-11-10T06:29:34Z；SHA-256：99e90de0e80d731f515505695880763de2d2bba0a1c73e14267f1004718a99f8）
+- https://raw.githubusercontent.com/kerpopule/hermes-jev-skills/HEAD/LICENSE（获取于 2026-11-10T06:29:47Z；SHA-256：52284e0902df9f7587c25c58a04502c4f9c0a4fb6e7403d324a873f3f565f582）
+
+---
+
 ## Hronaut
 
 这款 VS Code 扩展将编辑器中的智能体连接到 Hronaut 的本地浏览器 MCP 服务器，为每个项目提供独立且可见的浏览器工作区。
@@ -7773,37 +9324,36 @@ The README lists xdotool, ImageMagick, i3 IPC and Python dependencies. Its wrapp
 
 ---
 
-## idb
+## idevice
 
-idb 是用于自动化操作 iOS 模拟器和设备的命令行工具及 Python 客户端，提供远程伴随进程，以及应用和测试流程所需的命令。
+一个 Rust 库，通过 lockdownd、usbmuxd 和 RSD 与 iOS 设备服务通信，提供截图、SpringBoard 控制、应用安装以及启动 WebDriverAgent 运行器等功能。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-facebook-idb/
-- 原始来源：https://github.com/facebook/idb
+- 目录页面：https://awesomecua.com/zh/resources/github-jkcoxson-idevice/
+- 原始来源：https://github.com/jkcoxson/idevice
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
-- 运行环境：iOS、桌面、macOS
-- 主题：自动化、手机操作、工具集成
-- 证据核查日期：2026-11-09T21:09:01Z
-- ID：github:facebook/idb
+- 运行环境：iOS
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:34Z
+- ID：github:jkcoxson/idevice
 
 ### 范围记录
 
-The source says the companion runs on macOS and the client can run elsewhere. It includes Swift frameworks for simulator and device control and states an MIT license.
+Each device service is a Cargo feature; the repository adds C++ bindings, an FFI crate with C examples and an idevice-tools CLI whose xctest command can bridge WebDriverAgent HTTP and MJPEG ports to localhost. The README marks the API as unstable before 0.2.0. MIT license.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-facebook-idb/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-jkcoxson-idevice/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/facebook/idb/HEAD/LICENSE
+- 代码：未记录
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/facebook/idb/HEAD/README.md（获取于 2026-11-09T21:09:01Z；SHA-256：f6e259c3e9a963bdf179807f66ff6cd696add66a9b86e502525033667e895bb0）
-- https://raw.githubusercontent.com/facebook/idb/HEAD/LICENSE（获取于 2026-11-09T21:11:19Z；SHA-256：da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93）
+- https://raw.githubusercontent.com/jkcoxson/idevice/89702099f4d7552f704f93b4526756abda319ceb/README.md（获取于 2026-11-10T06:29:34Z；SHA-256：33ab6d8df63adcf9c3755bdf4dad3741358d25f639bd24f1477b8b4bf1221958）
 
 ---
 
@@ -7840,43 +9390,6 @@ The library API in interception.h provides contexts, per-device filters and prec
 
 ---
 
-## invisible_playwright_mcp
-
-MCP 服务器及本地网页界面，让 LLM 通过反检测 Firefox 版本操作浏览器，支持模拟鼠标移动与按键输入、预设浏览器身份、可选代理和持久化配置文件。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-invisible-playwright-mcp/
-- 原始来源：https://github.com/feder-cr/invisible_playwright_mcp
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、工具集成、自动化
-- 证据核查日期：2026-10-18T11:33:13Z
-- ID：github:feder-cr/invisible_playwright_mcp
-
-### 范围记录
-
-Installs as a plugin or extension for Claude Code, Codex and Gemini CLI; the standalone web UI calls OpenRouter with the user's key. The tree contains the Python package (MCP server, agent loop, web UI) and an MCP test suite; the browser engine library and fingerprint core are separate repositories, and the engine binary is downloaded from a GitHub release on first start. The project claims to avoid anti-bot detection and captchas; the README asks users to respect site terms. The repository LICENSE is MIT; the README says releases before 2 September 2026 were AGPL-3.0.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/HEAD/README.md（获取于 2026-10-18T11:33:13Z；SHA-256：87fc13a4a612123e423ab29547620fc1cbeab9ec92c8b49657a8f59bca6bfbf3）
-- https://api.github.com/repos/feder-cr/invisible_playwright_mcp（获取于 2026-10-18T11:33:13Z；SHA-256：6abd57046814e38bc1c46a5ab24a49aa071571a87d1b9106674516712218f1c9）
-- https://api.github.com/repos/feder-cr/invisible_playwright_mcp/git/trees/main?recursive=1（获取于 2026-10-18T11:33:14Z；SHA-256：a93e69036a32deab6a1918034c8ed37e534360938546e8d4352e89f362fed2bf）
-- https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/HEAD/LICENSE（获取于 2026-10-18T11:33:16Z；SHA-256：7bd49adceb91947129a3ad60d2131884b60775c54e47b3ef1740a110904a1d8b）
-- https://raw.githubusercontent.com/feder-cr/invisible_playwright_mcp/HEAD/LICENSE（获取于 2026-10-18T11:33:16Z；SHA-256：7bd49adceb91947129a3ad60d2131884b60775c54e47b3ef1740a110904a1d8b）
-
----
-
 ## IOS13-SimulateTouch
 
 这个 iOS 触控库可在越狱设备上执行脚本或远程触控，录制触控事件供回放，并提供图像匹配和 OCR 功能。
@@ -7908,6 +9421,74 @@ The README targets iOS 11.0 through 14 and describes a socket-based Python inter
 
 - https://raw.githubusercontent.com/xuan32546/IOS13-SimulateTouch/HEAD/README.md（获取于 2026-11-09T19:58:07Z；SHA-256：50c6c2a4babd8b7f727cd752791ed686adfc506c779e0dacce83bdc9b9b16020）
 - https://raw.githubusercontent.com/xuan32546/IOS13-SimulateTouch/HEAD/LICENSE（获取于 2026-11-09T14:21:22Z；SHA-256：3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986）
+
+---
+
+## iosef
+
+一个 Swift 命令行工具和 MCP 服务器，让智能体操作 iOS 模拟器：读取无障碍树，按选择器或坐标点击，滑动、捏合、输入并截图。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-riwsky-iosef/
+- 原始来源：https://github.com/riwsky/iosef
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：iOS
+- 主题：手机操作、界面理解、自动化
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:riwsky/iosef
+
+### 范围记录
+
+Installable from PyPI with pip or uv, or built from source with Swift 6.1+, macOS 13+ and Xcode with an iOS simulator runtime. It ships a Claude Code skill for simulator workflows and declares the MIT License.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-riwsky-iosef/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/riwsky/iosef/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/riwsky/iosef/6caf4b54a9af2df01a79c5e41c311b5188fe7c8e/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：7dcecdad1d3b5494c0770bb2009ec0ee2e5604deeb82ffbf2ed642bb594a3919）
+- https://raw.githubusercontent.com/riwsky/iosef/HEAD/LICENSE（获取于 2026-11-10T06:22:34Z；SHA-256：46b0c27eaa7ef0d17a6e3858c4273506d9d0744dfada2646bde56181665001b8）
+
+---
+
+## ipb
+
+通过 CoreDevice HID 驱动 iOS 27 设备的命令行工具，支持点按、滑动、按键和实时屏幕流，可读取可访问性树并按元素点按，还把这些命令作为 MCP 工具提供。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ipbtools-ipb/
+- 原始来源：https://github.com/ipbtools/ipb
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS
+- 主题：自动化、手机操作、界面理解、工具集成
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:ipbtools/ipb
+
+### 范围记录
+
+Requires macOS 27 with Xcode 27 beta and a connected iOS 27+ device; it uses private CoreDevice services and starts no XCTest session on the phone. The README records that v0.6.0 physical-device testing was deferred.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ipbtools-ipb/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/ipbtools/ipb/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ipbtools/ipb/8c227a10710dad479852aa0203de729fed57471b/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：cc556652ab031ef5553eefef9dfa4b4fbec75307707cc03509218e1e88cc578d）
+- https://raw.githubusercontent.com/ipbtools/ipb/HEAD/LICENSE（获取于 2026-11-10T06:22:22Z；SHA-256：38dcff9bcea33309058194429c7c852a8fc50c26fd0d9706fc511262cb2f0b93）
 
 ---
 
@@ -8170,6 +9751,39 @@ The repository includes a Python MCP server, tests, benchmark scenarios and a sk
 
 ---
 
+## libuiohook
+
+一个 C 语言库，可在 Windows、macOS 和 Linux 的用户态安装全局键盘与鼠标钩子，并能发送合成输入事件，附带钩子和事件发送示例。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-kwhat-libuiohook/
+- 原始来源：https://github.com/kwhat/libuiohook
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、macOS、Linux
+- 主题：录制、自动化
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:kwhat/libuiohook
+
+### 范围记录
+
+Built with CMake; X11 builds need libx11, libxtst and xkbcommon development packages. The repository includes demo programs and the public interface in include/uiohook.h.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-kwhat-libuiohook/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/kwhat/libuiohook/2a2d40f96178481d98980da0a8c1db8a41937d7c/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：35876ed03d6b45fef1b8bcef8b904e286a5d3df3ec7da6dfcec00e4b8bf4992b）
+
+---
+
 ## Lightpanda Skill for LLM Agents
 
 Lightpanda Skill for LLM Agents 为智能体提供使用 Lightpanda 浏览器接口的说明，支持交互式浏览及创建可复用的 PandaScript 任务。
@@ -8331,6 +9945,343 @@ The code requires LlamaTouch task metadata, its ground-truth dataset and traces 
 
 ---
 
+## MaaCtl
+
+MaaFramework 的命令行客户端，加载 ProjectInterface v2 项目，查看其控制器、资源和任务，并在 ADB 设备或桌面窗口上运行任务或流水线节点。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-tanyashue-maactl/
+- 原始来源：https://github.com/TanyaShue/MaaCtl
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、macOS、Linux
+- 主题：自动化、工作流
+- 证据核查日期：2026-11-10T06:29:25Z
+- ID：github:tanyashue/maactl
+
+### 范围记录
+
+Go code distributed as an npm package for Windows and as release archives for Windows, Linux and macOS, with a bundled build and a lite build that loads MaaFramework at runtime.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-tanyashue-maactl/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/TanyaShue/MaaCtl/5ccd1d2f1cfb254ea13a8bd614e9c50686145465/README.md（获取于 2026-11-10T06:29:25Z；SHA-256：d3d93f0074694f7523b6c71981173b9371efd6eb20bce3ce2c6a59ed1dabd751）
+
+---
+
+## MaaEvidenceKit
+
+一个命令行工具和 TypeScript SDK，从 MaaFramework 日志和项目中提取带定位信息的运行时与静态证据，提供稳定的证据 ID、时间线以及 JSON 或文本视图，供智能体框架使用。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-windsland52-maaevidencekit/
+- 原始来源：https://github.com/Windsland52/MaaEvidenceKit
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：可观测性、自动化
+- 证据核查日期：2026-11-10T06:29:27Z
+- ID：github:windsland52/maaevidencekit
+
+### 范围记录
+
+Requires Node.js 22.17 or later; distributed as the npm package maa-evidence-kit with a separate agent skill. Runtime evidence comes through MaaLogAnalyzer and static project evidence through the MSE packages.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-windsland52-maaevidencekit/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/Windsland52/MaaEvidenceKit/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Windsland52/MaaEvidenceKit/631721fdf8cbecc12fa02aae98f9a680d7ad751a/README.md（获取于 2026-11-10T06:29:27Z；SHA-256：abfadecca9e4280ab34aeab69d9878754dc225e2c7168c8d9b281d2403ee1453）
+- https://raw.githubusercontent.com/Windsland52/MaaEvidenceKit/HEAD/LICENSE（获取于 2026-11-10T06:22:28Z；SHA-256：4abc28eea3ac10359a7251d96d19279a71288fc151c87ceb988a091bf712a95f）
+
+---
+
+## maafw-cli
+
+MaaFramework 的命令行界面，让人、脚本和编程智能体连接 ADB 或 Win32 目标，执行 OCR 与模板匹配，并按引用点击识别出的元素。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-otowa-kotori-maafw-cli/
+- 原始来源：https://github.com/otowa-kotori/maafw-cli
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android、桌面、Windows
+- 主题：自动化、工具集成、界面理解
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：github:otowa-kotori/maafw-cli
+
+### 范围记录
+
+A Python package run with uvx or from source; a background daemon keeps controller connections, and commands accept --json output. The OCR model is downloaded with a resource command on first use.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-otowa-kotori-maafw-cli/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/otowa-kotori/maafw-cli/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/otowa-kotori/maafw-cli/b1715fd6f30cbe7eb4808a7506ee65c2224b7889/README.md（获取于 2026-11-10T06:29:24Z；SHA-256：de86e7e78ceaec63c41bd863b044fd0588064e3679ca931775f4472b58fac3cf）
+- https://raw.githubusercontent.com/otowa-kotori/maafw-cli/HEAD/LICENSE（获取于 2026-11-10T06:22:25Z；SHA-256：5bf70ea9321e98f9982b51ebda0cab01cdecf803419880c1b0962b036912262b）
+
+---
+
+## MaaFwApp
+
+一个 Android 应用，在手机本机运行以 Project Interface V2 描述的 MaaFramework 自动化项目，通过 Shizuku 或 root 进程截屏和点击，并可在虚拟屏上运行任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-aliothmoon-maafwapp/
+- 原始来源：https://github.com/Aliothmoon/MaaFwApp
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化、手机操作
+- 证据核查日期：2026-11-10T06:29:23Z
+- ID：github:aliothmoon/maafwapp
+
+### 范围记录
+
+Requires Android 9 (API 28) or later and Shizuku or root. Resource projects are bundled into the APK at build time; building from source needs JDK 17, the Android SDK and Python 3. Licensed AGPL-3.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-aliothmoon-maafwapp/record.json
+
+### 许可证信息
+
+- 代码：AGPL-3.0 — https://raw.githubusercontent.com/Aliothmoon/MaaFwApp/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Aliothmoon/MaaFwApp/c2449d8030644386e1a9e3ba7cb21037c2bcdbdf/README.md（获取于 2026-11-10T06:29:23Z；SHA-256：52967d181536ec8f33ea92483ab402139fb95cee01886602fce825ee7d2e6d2a）
+- https://raw.githubusercontent.com/Aliothmoon/MaaFwApp/HEAD/LICENSE（获取于 2026-11-10T06:22:24Z；SHA-256：8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef）
+
+---
+
+## MaaInspector
+
+一个基于 Tauri 的 MaaFramework 5 流水线桌面节点编辑器，通过拖拽构建工作流，并在运行和调试节点时显示其执行状态。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-tanyashue-maainspector/
+- 原始来源：https://github.com/TanyaShue/MaaInspector
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows
+- 主题：自动化、工作流、可观测性
+- 证据核查日期：2026-11-10T06:29:25Z
+- ID：github:tanyashue/maainspector
+
+### 范围记录
+
+Windows installers ship through GitHub Releases with signed in-app updates; building from source needs Node.js, pnpm, Rust and the Tauri CLI. Pipelines from MaaFramework 4.x and earlier are unsupported.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-tanyashue-maainspector/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/TanyaShue/MaaInspector/1233f12a1a3cd8c862c7e7f8dc2ff3aa6dd44d52/README.md（获取于 2026-11-10T06:29:25Z；SHA-256：fbc140fc3a3440809cb8067469fea542f4c06fb8a898ac13c194138673e4f487）
+
+---
+
+## MaaLogAnalyzer
+
+一个 MaaFramework 应用日志的可视化分析工具，展示任务执行过程及识别与动作详情，支持关键字和正则搜索、带回放的 ELK 节点流程图以及运行统计。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-maaxyz-maaloganalyzer/
+- 原始来源：https://github.com/MaaXYZ/MaaLogAnalyzer
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：可观测性、自动化
+- 证据核查日期：2026-11-10T06:29:26Z
+- ID：github:maaxyz/maaloganalyzer
+
+### 范围记录
+
+Reads maa.log or maafw.log files, folders and zip archives. Ships as a web app, a VS Code extension and a Tauri desktop build, with reusable parser and CLI packages. Licensed MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-maaxyz-maaloganalyzer/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/MaaXYZ/MaaLogAnalyzer/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MaaXYZ/MaaLogAnalyzer/7ccbe18ad65df3a10e619ae15a3bff8c6c9f37b0/README.md（获取于 2026-11-10T06:29:26Z；SHA-256：3badcb0b4bbac80086508ff312ee92cfd82444837c12aeb4d79a13a929a40e41）
+- https://raw.githubusercontent.com/MaaXYZ/MaaLogAnalyzer/HEAD/LICENSE（获取于 2026-11-10T06:22:27Z；SHA-256：00577fe9f9ced5e9657f70bea9838a8218a0e92bf091d334af99846d09ba8d12）
+
+---
+
+## MaaOWM
+
+一个面向含多个适配包的 MaaFramework 项目的 Python 工作区管理器：挂载时把 base 与 mod 流水线合并为可编辑工作区，卸载时将其差分还原为最小 mod。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-sunyink-maaowm/
+- 原始来源：https://github.com/sunyink/MaaOWM
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：自动化、工作流
+- 证据核查日期：2026-11-10T06:29:25Z
+- ID：github:sunyink/maaowm
+
+### 范围记录
+
+Python code (overlay_tool.py, core/, tests/) that loads pipelines through MaaFramework PipelineParser and PipelineDumper and keeps its snapshot, backups and logs in maaowm/.state/ at the managed project root. Licensed MIT per the README badge.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-sunyink-maaowm/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/sunyink/MaaOWM/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/sunyink/MaaOWM/1a6e7f7090775c9c17b3b91f31855cfbe541d072/README.md（获取于 2026-11-10T06:29:25Z；SHA-256：f680cdd490932d2e5bb51328628ece4b0dd3b6333acc1618ed9fc0f96dc5f4f0）
+- https://raw.githubusercontent.com/sunyink/MaaOWM/HEAD/LICENSE（获取于 2026-11-10T06:22:26Z；SHA-256：085480b1a8dd3e8cb35a03aa8b9536c5be1a7be40095843a960bae413b880f99）
+
+---
+
+## MaaPipelineEditor
+
+一个基于浏览器的 MaaFramework Pipeline JSON 可视化编辑器，以相连节点构建自动化流程，提供 OCR 与截图辅助工具、节点模板、流程调试以及可选的本地服务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-kqcoxn-maapipelineeditor/
+- 原始来源：https://github.com/kqcoxn/MaaPipelineEditor
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：unspecified
+- 主题：自动化、工作流、可观测性
+- 证据核查日期：2026-11-10T06:29:25Z
+- ID：github:kqcoxn/maapipelineeditor
+
+### 范围记录
+
+Built with React 19, TypeScript and React Flow, with a Go local service. Runs online without installation; the local service adds file management, screenshots and debugging. Imports v1 and v2 Pipeline protocols.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-kqcoxn-maapipelineeditor/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/kqcoxn/MaaPipelineEditor/2fad1b72cd3f83dd7e2a2bf07c8e03ecfa88f20e/README.md（获取于 2026-11-10T06:29:25Z；SHA-256：ed650438d120c9ae0ca4ef983eafa871711dd15cedec3a650887cd4473199ee7）
+
+---
+
+## MaaTouch
+
+minitouch 输入协议的 Android 原生实现，接收按行发送的指令来执行触点按下、移动与抬起、等待、按键事件和文本输入，从而操控设备。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-maaassistantarknights-maatouch/
+- 原始来源：https://github.com/MaaAssistantArknights/MaaTouch
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化、手机操作
+- 证据核查日期：2026-11-10T06:29:25Z
+- ID：github:maaassistantarknights/maatouch
+
+### 范围记录
+
+A Gradle-built Android project; usage follows the minitouch usage documentation. Commands are committed with c, and text input uses t.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-maaassistantarknights-maatouch/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/MaaAssistantArknights/MaaTouch/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MaaAssistantArknights/MaaTouch/a1e003ccef0fd039b9ae7263179e3de74ce654e4/README.md（获取于 2026-11-10T06:29:25Z；SHA-256：4803936116d53cd7bb6efbb894cbe969be8c4a4d68b648b59081896006eaf486）
+- https://raw.githubusercontent.com/MaaAssistantArknights/MaaTouch/HEAD/LICENSE（获取于 2026-11-10T06:22:27Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## macbot-mcp
+
+一个 MCP 服务器，让 AI 智能体读取带有元素坐标的 macOS 无障碍树，并通过 Quartz CGEvents 和 AppleScript 执行操作，提供 17 个用于观察、点击、输入和滚动的工具。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-anomalous3-macbot-mcp/
+- 原始来源：https://github.com/anomalous3/macbot-mcp
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS
+- 主题：自动化、界面理解、效率
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:anomalous3/macbot-mcp
+
+### 范围记录
+
+Requires macOS 12 or later, Python 3.10 or later and MCP Python SDK 2.3.0 up to 3.0, plus Accessibility and Screen Recording permissions for the host terminal. The README reports about 200 to 700 tokens per action against 2000 to 3500 for screenshots. Declared license: MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-anomalous3-macbot-mcp/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/anomalous3/macbot-mcp/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/anomalous3/macbot-mcp/c36c7ab2fb85a48f3d67e39689b6374812b53231/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：b7ff150f59dabe963cf7bbee78d998e443639ea211b94bbcfcaadec0a1fd3e38）
+- https://raw.githubusercontent.com/anomalous3/macbot-mcp/HEAD/LICENSE（获取于 2026-11-10T06:22:22Z；SHA-256：f0587d3322e7af8fefb85116e51926ad51f3eaa0745f13e67f960e356eb44ef6）
+
+---
+
 ## magpie Computer Use
 
 一款 Magpie 插件，通过 MCP 工具让智能体查看 macOS 应用屏幕，并执行点击、输入、滚动和拖动。
@@ -8362,6 +10313,39 @@ The README lists ten tools and requires Apple Silicon, Magpie, and a complete si
 
 - https://raw.githubusercontent.com/wbb6517/magpie-computer-use/HEAD/README.md（获取于 2026-11-09T19:56:28Z；SHA-256：3776a4435240480fab10a50b8e8d4f60705acc6369a9c8b1e13d5a0757c4f53f）
 - https://raw.githubusercontent.com/wbb6517/magpie-computer-use/HEAD/LICENSE（获取于 2026-11-09T14:20:42Z；SHA-256：5a4e544cd7b25cc6bd100efe3cd1b8180ad3b0349aae3fbc84198c2e269614aa）
+
+---
+
+## Maxim
+
+一个适用于模拟器和真机的 Android Monkey 压力测试工具，通过无障碍服务解析屏幕控件，并以随机、深度优先或按优先级引导的策略遍历应用。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-zhangzhao4444-maxim/
+- 原始来源：https://github.com/zhangzhao4444/Maxim
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:zhangzhao4444/maxim
+
+### 范围记录
+
+The repository ships monkey.jar and framework.jar to push to the device and run through app_process, with configuration files for activity whitelists, blocked widgets and scripted XPath actions; it supports Android 5 to 11.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-zhangzhao4444-maxim/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/zhangzhao4444/Maxim/cb81a9549ba699c9920bf69ab42043ab1bb39e12/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：60f11c024306e7a9bc7bf617a929a7b129536b62fd2e5862d6500bd1c1c4d09a）
 
 ---
 
@@ -8399,6 +10383,39 @@ The repository contains a Blender addon and Python MCP server. The README lists 
 
 ---
 
+## MCP Link
+
+一个浏览器扩展，让 ChatGPT、Claude 等聊天 AI 调用用户批准的 MCP 工具；配合 MCP Link Server 使用时，可实现自动浏览和网页交互。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-aurafriday-mcp-link/
+- 原始来源：https://github.com/AuraFriday/mcp-link
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：工具集成、网页导航
+- 证据核查日期：2026-11-10T06:29:34Z
+- ID：github:aurafriday/mcp-link
+
+### 范围记录
+
+The repository contains the extension, server, store and release folders; the extension manifest requests debugger, scripting and tabs permissions on all URLs. Each tool can be set to ask every time or run automatically. Source code is under a proprietary view-only license and compiled apps under an EULA.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-aurafriday-mcp-link/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/AuraFriday/mcp-link/b5389218523a6416bade5610e354c76db5b736df/README.md（获取于 2026-11-10T06:29:34Z；SHA-256：cdbc6f5ad044fbc4fad8c4f88d9bf6a3f7fb824bf1a09b5d7123c0c74d206e16）
+
+---
+
 ## MCP Link Server
 
 一款本地 MCP 服务器，让智能体调用获准的系统和浏览器工具，并通过已连接的浏览器扩展执行网页自动化。
@@ -8429,6 +10446,40 @@ The README describes Windows, macOS, and Linux installers, a Python server, and 
 ### 一手证据
 
 - https://raw.githubusercontent.com/AuraFriday/mcp-link-server/HEAD/README.md（获取于 2026-11-09T21:08:40Z；SHA-256：c2c6b44a57e40249debed329857052183c095324a5bdb17e3314b2d83899f7de）
+
+---
+
+## mcp-patchright
+
+一个基于 Patchright 的 MCP 服务器，向智能体提供 64 个浏览器工具，涵盖带元素引用的无障碍快照、点击、表单填写、Cookie 与网络控制。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-maestrojeong-mcp-patchright/
+- 原始来源：https://github.com/maestrojeong/mcp-patchright
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化、工具集成
+- 证据核查日期：2026-11-10T06:29:21Z
+- ID：github:maestrojeong/mcp-patchright
+
+### 范围记录
+
+Distributed as an npm package; requires Node.js 18 or newer and Google Chrome. Supports stdio and Streamable HTTP with per-owner tab isolation; license MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-maestrojeong-mcp-patchright/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/maestrojeong/mcp-patchright/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/maestrojeong/mcp-patchright/9f9052288c8c8ed5ddaf8ad133623e8d49da3c56/README.md（获取于 2026-11-10T06:29:21Z；SHA-256：38d1f491c896fb5ec1b807235db5a7e2c336f73d8324f54e1e70790016c712c3）
+- https://raw.githubusercontent.com/maestrojeong/mcp-patchright/HEAD/LICENSE（获取于 2026-11-10T06:22:21Z；SHA-256：35449b0bb1c860400785d0c2fec4a8a8172ed412d33baf999f3af7f3c120ca71）
 
 ---
 
@@ -8532,6 +10583,107 @@ The README lists Ruby and gem dependencies, points to guides and examples, and d
 
 ---
 
+## MFW-ChainFlow Assistant
+
+基于 PySide6 的 MaaFramework 项目桌面运行器，实现 interface v2 协议，提供配置管理、定时运行、通知以及自定义动作。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-overflow65537-mfw-pyqt6/
+- 原始来源：https://github.com/overflow65537/MFW-PyQt6
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、Linux、macOS
+- 主题：自动化、工作流
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：github:overflow65537/mfw-pyqt6
+
+### 范围记录
+
+Python code for a cross-platform GUI with command-line launch options, hot updates and dynamic loading of custom actions and recognizers (Python 3.12). Licensed AGPL-3.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-overflow65537-mfw-pyqt6/record.json
+
+### 许可证信息
+
+- 代码：AGPL-3.0 — https://raw.githubusercontent.com/overflow65537/MFW-PyQt6/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/overflow65537/MFW-PyQt6/13eb12c946ecdc9b19c89303aa639223e9836261/README.md（获取于 2026-11-10T06:29:24Z；SHA-256：51a31bd955e41f85f2fe0e5923bca0aa0bf80bcc7d6a935278e6c0f723247586）
+- https://raw.githubusercontent.com/overflow65537/MFW-PyQt6/HEAD/LICENSE（获取于 2026-11-10T06:22:25Z；SHA-256：0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0）
+
+---
+
+## minicap
+
+一个 Android 组件，通过本地 socket 以 JPEG 格式实时推送屏幕画面，使用 NDK 构建，被 STF 用于远程控制设备；较新的设备可达到 30-40 FPS。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-devicefarmer-minicap/
+- 原始来源：https://github.com/DeviceFarmer/minicap
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化、手机操作
+- 证据核查日期：2026-11-10T06:29:23Z
+- ID：github:devicefarmer/minicap
+
+### 范围记录
+
+GitHub lists the repository as the DeviceFarmer fork of openstf/minicap. It ships precompiled shared libraries frozen at SDK 30 and an apk for newer Android versions; building needs the NDK. License terms are in the repository LICENSE file.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-devicefarmer-minicap/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/DeviceFarmer/minicap/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/DeviceFarmer/minicap/77eb18d54f06b2098481e9aa64d7b3fc745ada26/README.md（获取于 2026-11-10T06:29:23Z；SHA-256：b607324894294b929a5807db25bed6e01e6685eab0512a23fdf9c006bfcb62d6）
+- https://raw.githubusercontent.com/DeviceFarmer/minicap/HEAD/LICENSE（获取于 2026-11-10T06:22:24Z；SHA-256：d072e0b1953c3c90abf2c55ee76fde535febcdf4639eff1fdc15aac1126bf93f）
+
+---
+
+## Mjolnir
+
+一个 macOS 应用，加载 Lua 环境，用户配置和 LuaRocks 模块可借此绑定全局快捷键、显示提示，并检查或移动正在运行的应用和窗口。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-mjolnirapp-mjolnir/
+- 原始来源：https://github.com/mjolnirapp/mjolnir
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、macOS
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：github:mjolnirapp/mjolnir
+
+### 范围记录
+
+Version 1.0.1 requires OS X 10.12 or higher plus Lua and LuaRocks; functionality comes from separately installed modules such as mjolnir.hotkey and mjolnir.application, and window control needs accessibility access.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-mjolnirapp-mjolnir/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/mjolnirapp/mjolnir/1c862deb31742d4b2dc593b74c29a24b33917254/README.md（获取于 2026-11-10T06:29:24Z；SHA-256：fde2ebcd2283a25f27d61cbb330bf7c1782a7e480aa4ca5163f4dea22ad32f7a）
+
+---
+
 ## Mobile Harness
 
 提供可移植的智能体指令和集成工具，通过 mobilerun-core 控制本地或云端手机。
@@ -8596,6 +10748,40 @@ The repository holds spec-draft.md, Python WebDriver tests for finding elements 
 ### 一手证据
 
 - https://raw.githubusercontent.com/SeleniumHQ/mobile-spec/81201df03cb76464afe8df17c4c203093793ea6e/spec-draft.md（获取于 2026-11-10T03:01:00Z；SHA-256：965dd271247fb5fad917c29cef9e08e345776ad9e0a2eb9a30f215459cea534e）
+
+---
+
+## MobileBuildMCP
+
+一个 MCP 服务器和命令行工具，让编程智能体构建、运行和调试 iOS 与 macOS 应用，并通过点击、滑动、输入、界面快照和截图操作 iOS 模拟器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-getsentry-xcodebuildmcp/
+- 原始来源：https://github.com/getsentry/XcodeBuildMCP
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS、桌面、macOS
+- 主题：工具集成、手机操作、自动化
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:getsentry/xcodebuildmcp
+
+### 范围记录
+
+Installed through Homebrew or npm; requires macOS 14.5 or later, Xcode 16 or later and Node.js 18 for the npm install. UI automation uses a bundled AXe binary, and the README declares the MIT License.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-getsentry-xcodebuildmcp/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/getsentry/XcodeBuildMCP/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/getsentry/MobileBuildMCP/2998ac77ebbca59544e88a27f34bfb830db9d924/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：f7b51dc3f9d5e7bde47d57f5a2f08039bdf2558090d700a3d1c9ce2f982ee04f）
+- https://raw.githubusercontent.com/getsentry/XcodeBuildMCP/HEAD/LICENSE（获取于 2026-11-10T06:22:34Z；SHA-256：fef28fc4165c72b1f0e4ce94654ba44ad7ff7d5d2538b3d01e66e9cc5be3c4f6）
 
 ---
 
@@ -8737,6 +10923,108 @@ munim-computer-use 是一个跨平台 Computer Use MCP 服务器，结合原生 
 
 ---
 
+## muse-gadget-actell-mods
+
+面向 ESP32-S3 AMOLED 开发板上 Muse Gadget SDK 的扩展，让 Muse 助手通过 Actell 操作手机，提供截图获取、坐标输入工具和局域网配对。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ja1chen-muse-gadget-actell-mods/
+- 原始来源：https://github.com/ja1chen/muse-gadget-actell-mods
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS
+- 主题：手机操作、工具集成
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:ja1chen/muse-gadget-actell-mods
+
+### 范围记录
+
+The repository holds the extensions, SDK patches, a host prototype with a mock console and protocol docs; the full SDK source is kept outside it and Actell is a separate GPL-3.0 application. The independent code is Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ja1chen-muse-gadget-actell-mods/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/ja1chen/muse-gadget-actell-mods/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ja1chen/muse-gadget-actell-mods/fbb19dd6efc86eb1c22f72924acf3d1aba369c76/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：b69fdef611ac9d586dfe8b2ce44e9150b64ceff41598f65e8de9ff8390af7faa）
+- https://raw.githubusercontent.com/ja1chen/muse-gadget-actell-mods/HEAD/LICENSE（获取于 2026-11-10T06:22:23Z；SHA-256：0353a8ae950232a70f0379a4b8a10b661b2f3e3a598e9411332fc0d4f98947fa）
+
+---
+
+## MWU
+
+面向 MaaFramework 资源项目的通用浏览器界面，基于 Vue 3 与 FastAPI 构建，提供两种 agent 运行模式、系统通知和自动更新。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ravizhan-mwu/
+- 原始来源：https://github.com/ravizhan/MWU
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、Linux、macOS
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：github:ravizhan/mwu
+
+### 范围记录
+
+Integrates with projects made from the MaaFramework project template by replacing its install workflow; requires a recent Chrome, Edge, Firefox or Safari. Licensed AGPL-3.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ravizhan-mwu/record.json
+
+### 许可证信息
+
+- 代码：AGPL-3.0 — https://raw.githubusercontent.com/ravizhan/MWU/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ravizhan/MWU/0568aacd1000f9ddf17de2da73b6d39e4ed69613/README.md（获取于 2026-11-10T06:29:24Z；SHA-256：667f8168ab1a39127eac3ac2c53fdefa02a57e51f90c0b662b4adb71a3e17ab8）
+- https://raw.githubusercontent.com/ravizhan/MWU/HEAD/LICENSE（获取于 2026-11-10T06:22:26Z；SHA-256：8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef）
+
+---
+
+## MXU
+
+一个基于 Tauri、React 和 TypeScript 的图形客户端，可加载任意 MaaFramework PI V2 interface.json 并运行其中任务，支持拖拽排序任务列表、多实例、设备实时截图、日志和定时执行。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-misteo-mxu/
+- 原始来源：https://github.com/MistEO/MXU
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、macOS、Linux
+- 主题：自动化、工作流
+- 证据核查日期：2026-11-10T06:29:26Z
+- ID：github:misteo/mxu
+
+### 范围记录
+
+Releases ship Windows and Linux single executables and a macOS app bundle; it needs the MaaFramework runtime v5.12.1 or later and a project interface.json with resources. Licensed AGPL-3.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-misteo-mxu/record.json
+
+### 许可证信息
+
+- 代码：AGPL-3.0 — https://raw.githubusercontent.com/MistEO/MXU/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MaaXYZ/MXU/d556cce75f9eaab4244df7fe66ce9b26782eff4c/README.md（获取于 2026-11-10T06:29:26Z；SHA-256：34d44e1a192404f71e83e58b96f8f24426fb8a1fbeea9d9b3bd2e97e82699593）
+- https://raw.githubusercontent.com/MistEO/MXU/HEAD/LICENSE（获取于 2026-11-10T06:22:28Z；SHA-256：8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef）
+
+---
+
 ## nocta-recorder
 
 这款 macOS 录制工具将屏幕快照、无障碍元素、OCR、输入事件和音频存入本地 SQLite 数据库，并通过本地 API 提供采集的活动数据。
@@ -8872,6 +11160,40 @@ The repository is archived and its README says maintenance ended in September 20
 
 ---
 
+## NotebookLM MCP Server
+
+通过 Patchright 在真实 Chrome 中操作 Google NotebookLM 的 MCP 服务器，让编程智能体向笔记本提问、添加来源、生成音频概览并读取引用。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-pleaseprompto-notebooklm-mcp/
+- 原始来源：https://github.com/PleasePrompto/notebooklm-mcp
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工具集成、自动化
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:pleaseprompto/notebooklm-mcp
+
+### 范围记录
+
+Version 2.0.0 runs on Node.js 18 or later over stdio or Streamable-HTTP and stores a one-time Google login in a persistent Chrome profile. The repository was archived in September 2026. The README declares the MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-pleaseprompto-notebooklm-mcp/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/PleasePrompto/notebooklm-mcp/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/PleasePrompto/notebooklm-mcp/00179986ff6db0f06d305124db7b81ab461066d1/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：2bcff128398c5874fd178e7375627152820d562c8764b57740250c0b90f44155）
+- https://raw.githubusercontent.com/PleasePrompto/notebooklm-mcp/HEAD/LICENSE（获取于 2026-11-10T06:22:32Z；SHA-256：0ad77d6e05eea79c29fbadce21fb7ed7aad883acde73f4a2c5fef77c9536cd07）
+
+---
+
 ## Notte CLI
 
 一个命令行工具，可控制远程浏览器会话、处理文件并执行可重复的网页自动化流程。
@@ -8966,6 +11288,40 @@ The repository includes a browser skill and plugin installation instructions for
 
 - https://raw.githubusercontent.com/bigduu/Nova/HEAD/README.md（获取于 2026-11-04T16:30:06Z；SHA-256：b124f2b8c8db5cb0a2c0f7438c835720d5549f2c0c50bf5ba7463554ca831647）
 - https://raw.githubusercontent.com/bigduu/Nova/HEAD/LICENSE（获取于 2026-11-04T16:35:12Z；SHA-256：a47706d592a1f15855061143e627d1a4fc12cb32647b36d407326d5da899d413）
+
+---
+
+## Nova Act Extension
+
+一个适用于 VS Code、Kiro 和 Cursor 的扩展，用于编写 Nova Act 浏览器智能体脚本，提供对话生成脚本、7 个模板、实时调试、动作查看器和 AWS 部署功能。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-aws-nova-act-extension/
+- 原始来源：https://github.com/aws/nova-act-extension
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工作流、可观测性
+- 证据核查日期：2026-11-10T06:29:21Z
+- ID：github:aws/nova-act-extension
+
+### 范围记录
+
+The extension source is TypeScript (src/, webpack config, package.json). It requires Python 3.10+, a Nova Act API key for local runs and AWS credentials for deploy and run; chat-to-script needs GitHub Copilot.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-aws-nova-act-extension/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/aws/nova-act-extension/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/aws/nova-act-extension/fd2f9d1bcda1e2186c71c8842bb5db2b2b241b09/README.md（获取于 2026-11-10T06:29:21Z；SHA-256：27d5b9c10134e7a8b062b3f02b6f3be163c395adc56cd0256a1de6c7f83cc1dd）
+- https://raw.githubusercontent.com/aws/nova-act-extension/HEAD/LICENSE（获取于 2026-11-10T06:22:20Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
 
 ---
 
@@ -9484,6 +11840,40 @@ The repository includes publish.js and a plugin manifest. It requires OpenCLI, x
 
 ---
 
+## Patchright .NET
+
+Patchright .NET 是 Patchright 的 .NET 包：Patchright 是经过修补的 Playwright，可替换 Microsoft.Playwright 包来驱动 Chromium，并去除了自动化特征泄露。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-deventerprisesoftware-patchright-dotnet/
+- 原始来源：https://github.com/DevEnterpriseSoftware/patchright-dotnet
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-10T06:29:33Z
+- ID：github:deventerprisesoftware/patchright-dotnet
+
+### 范围记录
+
+The repository holds Patchright.cs, build.ps1, test.ps1 and BUGS.md for the Patchright package on NuGet, installed with `dotnet add package Patchright`. It adds an isolatedContext parameter to EvaluateAsync and related methods, supports Chromium-based browsers only, and releases new versions manually. Declared license Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-deventerprisesoftware-patchright-dotnet/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/DevEnterpriseSoftware/patchright-dotnet/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/DevEnterpriseSoftware/patchright-dotnet/fd06fa8993f9704c504523670655d9f9ed85c19c/README.md（获取于 2026-11-10T06:29:33Z；SHA-256：95d6bf7b18517fcd68bcda465732df88274d70d95e861d6ecad82c2e0bd6e358）
+- https://raw.githubusercontent.com/DevEnterpriseSoftware/patchright-dotnet/HEAD/LICENSE（获取于 2026-11-10T06:22:36Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
 ## PeekabooWin
 
 这款 Windows 桌面自动化工具通过辅助界面、命令行和 MCP 服务器提供截屏、OCR、无障碍控件索引及输入操作。
@@ -9653,6 +12043,40 @@ Dependencies are Tesseract OCR, OpenCV, stringtemplate3 and ANTLR, plus a JDK an
 
 ---
 
+## Playwright CRX
+
+Playwright 的 Chrome 扩展版本，通过 chrome.debugger 驱动已打开的浏览器标签页，既可作为库使用，也可作为录制和回放脚本并支持追踪的扩展。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ruifigueira-playwright-crx/
+- 原始来源：https://github.com/ruifigueira/playwright-crx
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、录制
+- 证据核查日期：2026-11-10T06:29:28Z
+- ID：github:ruifigueira/playwright-crx
+
+### 范围记录
+
+Playwright is nested in the repository as a git subtree; the source includes examples such as todomvc-crx and a build via npm. The recorder extension is listed in the Chrome Web Store, and the repository includes a LICENSE file.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ruifigueira-playwright-crx/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/ruifigueira/playwright-crx/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ruifigueira/playwright-crx/3425f33e1e114e6a2a25333d3543a84fc36bd2f5/README.md（获取于 2026-11-10T06:29:28Z；SHA-256：30da1c6f0d17e86b7c03537fcb3c225726a9edf10b791ff6eda6d381e80e9862）
+- https://raw.githubusercontent.com/ruifigueira/playwright-crx/HEAD/LICENSE（获取于 2026-11-10T06:22:28Z；SHA-256：42065b3e08c0a1811c03167782cd01ddbeb650bc495a9b96073163e4963518fd）
+
+---
+
 ## Playwright Test for VS Code
 
 面向 Playwright 浏览器测试的 VS Code 扩展，可将页面操作录制为测试，并支持运行测试、检查定位器、调试和查看执行轨迹。
@@ -9684,40 +12108,6 @@ The source requires Playwright v1.38 or newer. It describes recording new tests 
 
 - https://raw.githubusercontent.com/microsoft/playwright-vscode/HEAD/README.md（获取于 2026-11-09T06:16:37Z；SHA-256：2dd99289734ef37a5b88042a136ff5dc10a321d06abd3adeb5efbf2a3f406619）
 - https://raw.githubusercontent.com/microsoft/playwright-vscode/HEAD/LICENSE（获取于 2026-11-09T06:13:53Z；SHA-256：45873d00a0dd243596deb4aa23b2493b3d1f0671921bf2538ea431d7380220eb）
-
----
-
-## playwright-with-fingerprints
-
-playwright-with-fingerprints 是 Windows 插件，可将获取的浏览器指纹应用于使用 Playwright 的网页自动化会话。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-bablosoft-playwright-with-fingerprints/
-- 原始来源：https://github.com/bablosoft/playwright-with-fingerprints
-- 类型：工具
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页、桌面、Windows
-- 主题：自动化、网页导航、安全与防护
-- 证据核查日期：2026-11-09T21:09:38Z
-- ID：github:bablosoft/playwright-with-fingerprints
-
-### 范围记录
-
-The source shows installation and launch examples and says the plugin uses the FingerprintSwitcher service. It describes the plugin as beta.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-bablosoft-playwright-with-fingerprints/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/bablosoft/playwright-with-fingerprints/HEAD/LICENSE.md
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/bablosoft/playwright-with-fingerprints/HEAD/README.md（获取于 2026-11-09T21:09:38Z；SHA-256：4cdab4e0af386625adf5a3f0b6298a734a7a041d04a917388217626096b8d42e）
-- https://raw.githubusercontent.com/bablosoft/playwright-with-fingerprints/HEAD/LICENSE.md（获取于 2026-11-09T21:11:55Z；SHA-256：85ba149a998b83170dc69500e759356bf2f32fe55d1024eee79be2026bb8e83f）
 
 ---
 
@@ -9755,6 +12145,72 @@ The README documents installation from PyPI and selective evasion settings. It d
 
 ---
 
+## predicate-authorityd
+
+Rust 编写的旁路进程，按本地 ALLOW/DENY 策略规则检查智能体的每个动作（例如对某个网址的浏览器点击），并签发短时有效的授权凭证，附带终端仪表盘和网页界面。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-predicatesystems-predicate-authority-sidecar/
+- 原始来源：https://github.com/PredicateSystems/predicate-authority-sidecar
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：安全与防护
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:predicatesystems/predicate-authority-sidecar
+
+### 范围记录
+
+The repository holds the Rust daemon, policies, benchmarks, an egui desktop companion and a web UI; releases ship prebuilt binaries and a Python SDK installs with pip. Demos cover OpenClaw, CrewAI, LangGraph and Temporal agents.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-predicatesystems-predicate-authority-sidecar/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/PredicateSystems/predicate-authority-sidecar/4301bf139a01efd4484bcbe4cbc4410c9baf6664/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：bc4fa61ebe22febba4cf6d540fd304c3a5f1d2525bb7bff925370f83e0d865b5）
+
+---
+
+## PTFakeTouch
+
+一个 iOS 框架，可在应用内部注入模拟触摸事件，提供触摸开始、移动和结束阶段的调用，用于在指定位置点击和滑动。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ret70-ptfaketouch/
+- 原始来源：https://github.com/Ret70/PTFakeTouch
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:33Z
+- ID：github:ret70/ptfaketouch
+
+### 范围记录
+
+Ships as an Xcode project with the framework source and tests; the README credits additions from KIF. GitHub now serves the repository as xuanxt/PTFakeTouch.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ret70-ptfaketouch/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/xuanxt/PTFakeTouch/52ebb969f84f16e3e4e462dd34a542fb71426054/README.md（获取于 2026-11-10T06:29:33Z；SHA-256：ea85d9bfb1d6d5f2069a741d9fe9e97b3def0146924bdd57fa4671e428f38ffa）
+
+---
+
 ## Public Browser
 
 面向 Claude Code 和 Cursor、节省 token 的 Chrome 自动化桥接工具和 CLI。
@@ -9782,6 +12238,40 @@ The README documents installation from PyPI and selective evasion settings. It d
 
 - https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/README.md（获取于 2026-11-04T16:10:27Z；SHA-256：657293384cda1a2318de2de452304c464e7da7794dc06d7c2588e5a706bf5489）
 - https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/LICENSE（获取于 2026-11-04T16:14:02Z；SHA-256：ceb2e1e10f2077c987d18f6bf7d019137c17636dd8cf1b59c8ba39c6b52e9995）
+
+---
+
+## Puppeteer Real Browser
+
+一个 Node.js 包，启动 Chrome 并接入 Puppeteer，以更少的自动化痕迹浏览网页，支持自动点击 Turnstile 和基于光标的点击。维护者已停止更新。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-zfcsoftware-puppeteer-real-browser/
+- 原始来源：https://github.com/zfcsoftware/puppeteer-real-browser
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航、历史
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:zfcsoftware/puppeteer-real-browser
+
+### 范围记录
+
+Distributed on npm as puppeteer-real-browser with a Dockerfile; on Linux it needs xvfb for headful runs. The README declares the MIT License and states the repository will no longer receive updates.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-zfcsoftware-puppeteer-real-browser/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/zfcsoftware/puppeteer-real-browser/HEAD/LICENSE.md
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ZFC-Digital/puppeteer-real-browser/510939f606df79e70688cc112e74b93eb1420a2d/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：248cbc0528882980e9195e356e5544ff67888582f29a951f2b6d435efcb5b769）
+- https://raw.githubusercontent.com/zfcsoftware/puppeteer-real-browser/HEAD/LICENSE.md（获取于 2026-11-10T06:22:34Z；SHA-256：bbd874ffa81bb20ab4edae6833c837290a3d6f6861fd71aa985bf47e08f60bcc）
 
 ---
 
@@ -9915,6 +12405,39 @@ The source describes a probe installed inside the target app and a separate MCP 
 ### 一手证据
 
 - https://raw.githubusercontent.com/0xCarbon/qt-mcp/HEAD/README.md（获取于 2026-11-09T21:09:09Z；SHA-256：d18db35cddca698cb4579d6fa233820b8d06fc3ea79a0ef273bba4ddceb33fdd）
+
+---
+
+## rebrowser-bot-detector
+
+一个浏览器测试页面，检测 Puppeteer 和 Playwright 的自动化泄露信号，例如 Runtime.enable 调用、注入的源 URL、主环境执行和无头模式特征，并为每项给出修复建议。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-bot-detector/
+- 原始来源：https://github.com/rebrowser/rebrowser-bot-detector
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：安全与防护、评测
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:rebrowser/rebrowser-bot-detector
+
+### 范围记录
+
+The repository holds an HTML and JavaScript test page, also served at bot-detector.rebrowser.net; most suggested fixes point to the rebrowser-patches project.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-rebrowser-rebrowser-bot-detector/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/rebrowser/rebrowser-bot-detector/55fa59b9da0610563d896aa956f145ef00431a6b/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：0f0e322258b2a63b1b6a99ba1eba46b38c17e2c68d16608455dcd9f9638d94a4）
 
 ---
 
@@ -10087,6 +12610,40 @@ The source describes a Python extension for Blender 5.0 or later. Generation req
 
 ---
 
+## Scrapling
+
+一个 Python 网页抓取框架，提供 HTTP 与隐身浏览器抓取器和爬虫，并附带 MCP 服务器，其十七个工具可让 AI 智能体在浏览器会话中点击、填写表单、输入文本和截图。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-d4vinci-scrapling/
+- 原始来源：https://github.com/D4Vinci/Scrapling
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：网页导航、工具集成
+- 证据核查日期：2026-11-10T06:29:34Z
+- ID：github:d4vinci/scrapling
+
+### 范围记录
+
+The Python package includes Fetcher, StealthyFetcher and session classes, Scrapy-like spiders, a CLI, an interactive shell and an Agent Skill. Browser fetchers use Playwright's Chromium or Google Chrome and can connect to a remote browser over CDP.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-d4vinci-scrapling/record.json
+
+### 许可证信息
+
+- 代码：BSD-3-Clause — https://raw.githubusercontent.com/D4Vinci/Scrapling/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/D4Vinci/Scrapling/c5121c7c06a8595ed3a0a9b7b7dcd6802b5ebfc5/README.md（获取于 2026-11-10T06:29:34Z；SHA-256：b4d2595400bcafa4e843c43a2808aea0165091a501042197a919b621d8b646ae）
+- https://raw.githubusercontent.com/D4Vinci/Scrapling/HEAD/LICENSE（获取于 2026-11-10T06:22:36Z；SHA-256：5c782ef0346e4fbfe0dc76fd435f181a0f1e4a1a7a6b13c169c6e74314ff5964）
+
+---
+
 ## ScreenAgent Web Client
 
 ScreenAgent Web Client 通过浏览器和 VNC 将语言模型接入远程桌面，并把鼠标、键盘操作表示为结构化调用。
@@ -10149,25 +12706,25 @@ Screenpipe 通过无障碍接口和 OCR 持续采集桌面屏幕文本及音频�
 
 ---
 
-## selenium-stealth
+## Scribe
 
-selenium-stealth 是一款 Python 工具，可配置由 Selenium 驱动的 Chrome 或 Chromium 会话，以降低浏览器自动化被检测到的概率。
+用于浏览器自动化中拟人化光标移动的工具包：包含记录鼠标移动的网页界面、基于这些数据训练模型的脚本，以及沿生成路径移动光标的 Puppeteer 插件。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-diprajpatra-selenium-stealth/
-- 原始来源：https://github.com/diprajpatra/selenium-stealth
+- 目录页面：https://awesomecua.com/zh/resources/github-sameelarif-scribe/
+- 原始来源：https://github.com/sameelarif/scribe
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
 - 运行环境：网页
-- 主题：自动化、网页导航
-- 证据核查日期：2026-11-09T21:08:33Z
-- ID：github:diprajpatra/selenium-stealth
+- 主题：自动化、录制、数据生成
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:sameelarif/scribe
 
 ### 范围记录
 
-The README provides a Selenium WebDriver example and configurable browser properties. It declares an MIT license.
+The plugin sends start and end coordinates to a Python server hosting the trained model; the collected dataset is published on Kaggle. Licensed CC BY-NC 4.0.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-diprajpatra-selenium-stealth/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-sameelarif-scribe/record.json
 
 ### 许可证信息
 
@@ -10178,7 +12735,40 @@ The README provides a Selenium WebDriver example and configurable browser proper
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/diprajpatra/selenium-stealth/HEAD/README.md（获取于 2026-11-09T21:08:33Z；SHA-256：c47af44df44fbb90a24016a08bfdd6c2636371fa8743e8d2a5a4a0e0463f1939）
+- https://raw.githubusercontent.com/sameelarif/scribe/a0618797dce18da7bda1e1b3401bfd55c5e31b04/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：3297277b2c5733c6838a8f1b34b41713a046ccd1a6e8455800d76e102c6a1e3f）
+
+---
+
+## serial-hid-kvm
+
+serial-hid-kvm 通过 CH9329 USB HID 模拟器控制目标电脑的键盘和鼠标，并经由 HDMI 采集其屏幕，提供预览窗口、网页查看器和 JSON Lines TCP 接口。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-sunasaji-serial-hid-kvm/
+- 原始来源：https://github.com/sunasaji/serial-hid-kvm
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、Linux
+- 主题：自动化、工具集成
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:sunasaji/serial-hid-kvm
+
+### 范围记录
+
+Requires Python 3.10+, a CH9329 + CH340 serial cable and a USB HDMI capture device; ships a Python client library and a headless mode. MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-sunasaji-serial-hid-kvm/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/sunasaji/serial-hid-kvm/3681fad003a1fb54ad2ef74583f2c0364a417425/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：cb6332de3cab3aea053f91e6004188b3e5c59c3b2c99863028fb35589a340eeb）
 
 ---
 
@@ -10416,37 +13006,37 @@ The source describes compatibility with the PhantomJS API and says development i
 
 ---
 
-## SnapDOM
+## SnapEye
 
-SnapDOM 捕获浏览器中渲染的元素，并导出图像或结构化页面上下文。其插件可向智能体提供文本、JSON，以及带有元素映射的图像。
+一套基于 SnapDOM 的工具，让编码智能体通过命令行、页面内 API 或 URL 触发，对运行中的网页应用元素进行截取、比对和录制，并返回 JSON 结果与退出码。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-zumerlab-snapdom/
-- 原始来源：https://github.com/zumerlab/snapdom
+- 目录页面：https://awesomecua.com/zh/resources/github-zumerlab-snapeye/
+- 原始来源：https://github.com/zumerlab/snapeye
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
 - 运行环境：网页
-- 主题：界面理解、GUI 定位
-- 证据核查日期：2026-11-09T21:10:31Z
-- ID：github:zumerlab/snapdom
+- 主题：界面设计、界面理解
+- 证据核查日期：2026-11-10T06:29:32Z
+- ID：github:zumerlab/snapeye
 
 ### 范围记录
 
-The README documents an in-page core library and separately installed official plugins. It states that the core and plugins are MIT licensed.
+Installs as the npm package @zumer/snapeye with @zumer/snapdom as a dependency and runs as a Vite dev-server plugin or serves a static file. Captures pin animations and wait for the page to settle before comparing, and results are written to .snapeye/runs.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-zumerlab-snapdom/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-zumerlab-snapeye/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/zumerlab/snapdom/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/zumerlab/snapeye/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/zumerlab/snapdom/HEAD/README.md（获取于 2026-11-09T21:10:31Z；SHA-256：4432e1cd6213fbdb32baf39377564eb9d2cf0a1d0aaf75f351380efb0f09a1a2）
-- https://raw.githubusercontent.com/zumerlab/snapdom/HEAD/LICENSE（获取于 2026-11-09T21:12:18Z；SHA-256：c5fbd8d2221c17ff18fc7f3fee7ecf3346fb5a3f5bb2dbd3eb08f1c0397ed1a2）
+- https://raw.githubusercontent.com/zumerlab/snapeye/049913d3dbe086419bcf26c6023f757acbb60db7/README.md（获取于 2026-11-10T06:29:32Z；SHA-256：4071451dc9d60472be32802a0e677f7ea38772ac46fb082feb2c0dc0ccfcc938）
+- https://raw.githubusercontent.com/zumerlab/snapeye/HEAD/LICENSE（获取于 2026-11-10T06:22:35Z；SHA-256：2ebbab122322b8b6e1d1e5f12be76f5a74032be8e7b966035f2dfde86aa18002）
 
 ---
 
@@ -10584,6 +13174,39 @@ The README also documents audio playback, audio recording and file transfer. It 
 
 - https://raw.githubusercontent.com/Jumpsy/spooky-action/main/README.md（获取于 2026-11-04T17:20:54Z；SHA-256：d9b6e6be07c9291b1812cf2efb1fbf42ae32bc3513f4417ec47a80e543ca473f）
 - https://raw.githubusercontent.com/Jumpsy/spooky-action/HEAD/LICENSE（获取于 2026-11-04T17:27:12Z；SHA-256：31beb2b813d08087ca775d5b40a30901458b179b90ac5173dc75be1727a81ad8）
+
+---
+
+## stagehand-plasmate
+
+为 Stagehand 页面提供 Plasmate 语义对象模型（SOM）JSON 以替代原始 DOM 的 TypeScript 封装，支持按角色、文本或 ID 查询 SOM，act() 与 observe() 仍交由 Stagehand 执行。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-stagehand-plasmate/
+- 原始来源：https://github.com/plasmate-labs/stagehand-plasmate
+- 类型：工具
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：效率、界面理解、网页导航
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:plasmate-labs/stagehand-plasmate
+
+### 范围记录
+
+The repository holds TypeScript sources, examples and a package.json; it requires the Plasmate binary or a Plasmate Cloud API key alongside Stagehand. The README declares the Apache-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-stagehand-plasmate/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/stagehand-plasmate/9a11e352584ac439f3bf17ac48101b3bb65ec9ee/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：dc9632abbefc7d25e54575ba4e06530f9c7711a18c43281cb3eaee16a16629d4）
 
 ---
 
@@ -10977,6 +13600,40 @@ The README lists commands for session creation, typing, key presses, snapshots, 
 
 ---
 
+## u2_webview
+
+一个 uiautomator2 扩展，通过 DrissionPage 经由 CDP 接入 Android 混合应用中的 WebView 页面，使同一个 Python 脚本既能操作原生界面，也能操作 H5 层。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-yuyoungg-uiautomator2-webview/
+- 原始来源：https://github.com/YuYoungG/uiautomator2-webview
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:yuyoungg/uiautomator2-webview
+
+### 范围记录
+
+Installed from PyPI as u2_webview on Python 3.8+; it needs ADB debugging on the device and WebView debugging enabled in the app under test, and uses adbutils for port forwarding. License MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-yuyoungg-uiautomator2-webview/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/YuYoungG/uiautomator2-webview/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/YuYoungG/uiautomator2-webview/b820e606eb06d50f4305c46f9d31b35075adeec8/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：30410f539c2f6a878b46757ba4d75e3cd7df9b135b652757282f366a913f66c6）
+- https://raw.githubusercontent.com/YuYoungG/uiautomator2-webview/HEAD/LICENSE（获取于 2026-11-10T06:22:32Z；SHA-256：cabc323bfadea97ae0dab1cc1fd11d612f81d3232cc15fecd6380eb0e1709ad8）
+
+---
+
 ## UI Annotator MCP
 
 Model Context Protocol 服务器，向实时网页注入交互式 Set-of-Mark 悬停标签，供视觉浏览器智能体使用。
@@ -11007,37 +13664,37 @@ Model Context Protocol 服务器，向实时网页注入交互式 Set-of-Mark �
 
 ---
 
-## uiautomator2
+## uiautodev
 
-uiautomator2 是一个 Python 库，通过设备端的 UiAutomator 服务控制 Android 设备，包括启动应用和操作界面元素。
+一个面向 Android、iOS 和鸿蒙（HarmonyOS）的移动设备控制与 UI 自动化工具，提供桌面应用和服务端；本仓库包含下载并运行服务端二进制的 npm CLI。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-openatx-uiautomator2/
-- 原始来源：https://github.com/openatx/uiautomator2
+- 目录页面：https://awesomecua.com/zh/resources/github-uiautodev-uiautodev/
+- 原始来源：https://github.com/uiautodev/uiautodev
 - 类型：工具
 - 审核状态：已审核
 - 范围：相关研究
-- 运行环境：Android
+- 运行环境：Android、iOS、鸿蒙
 - 主题：自动化、手机操作
-- 证据核查日期：2026-11-09T19:57:39Z
-- ID：github:openatx/uiautomator2
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：github:uiautodev/uiautodev
 
 ### 范围记录
 
-The README requires Android 4.4 or later and Python 3.8 or later. Its quick start uses an Android phone connected through adb.
+The repository holds the npm package with CLI source and tests; the CLI caches the server binary and serves on 127.0.0.1:33299 by default, and the desktop app and server core are closed source. License MIT.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-openatx-uiautomator2/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-uiautodev-uiautodev/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/openatx/uiautomator2/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/uiautodev/uiautodev/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/openatx/uiautomator2/HEAD/README.md（获取于 2026-11-09T19:57:39Z；SHA-256：ea09edd8d2de7e28e6da272488c9b46e59ce6fcc58f9428d5188c72810d8fe17）
-- https://raw.githubusercontent.com/openatx/uiautomator2/HEAD/LICENSE（获取于 2026-11-09T14:21:12Z；SHA-256：a02d9350d45a1fe284a24bf10fd54da93a8c0ff29a088a61681b8d97021a3754）
+- https://raw.githubusercontent.com/uiautodev/uiautodev/339fd00e81a3ce9756098a90726562a94c6844a2/README.md（获取于 2026-11-10T06:29:29Z；SHA-256：c387f5caf884e67756a67af1d709feefb734380b6ffd30f055a9395d14b9c901）
+- https://raw.githubusercontent.com/uiautodev/uiautodev/HEAD/LICENSE（获取于 2026-11-10T06:22:32Z；SHA-256：e0fb03c594dcaef6738f172705da12dbb7c04fe17489692354ce4599f9fd589e）
 
 ---
 
@@ -11268,25 +13925,25 @@ The README describes Python 3.11 or later, an existing Chromium-based browser, C
 
 ---
 
-## webclaw3
+## wc3-chrome
 
-一款浏览器智能体技能，使用本地 Chrome 会话探索任务，再生成可复用脚本，重复执行已成功的浏览器工作流程。
+一个 Chrome MV3 扩展，负责执行 webclaw3 的浏览器操作：通过 WebSocket 接收本地 relay 转发的 op 指令，借助 chrome.* API 操作真实的 Chrome，并提供基于 aria 树的元素引用。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-fatmind-webclaw3/
-- 原始来源：https://github.com/fatmind/webclaw3
+- 目录页面：https://awesomecua.com/zh/resources/github-fatmind-wc3-chrome/
+- 原始来源：https://github.com/fatmind/wc3-chrome
 - 类型：工具
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：网页
-- 主题：网页导航、自动化、工作流、效率
-- 证据核查日期：2026-11-09T19:58:09Z
-- ID：github:fatmind/webclaw3
+- 主题：网页导航、自动化、界面理解
+- 证据核查日期：2026-11-10T06:29:23Z
+- ID：github:fatmind/wc3-chrome
 
 ### 范围记录
 
-Setup uses a Chrome extension and a webclaw3 access key. The README declares an MIT license.
+The repository holds the extension (manifest, background service worker, accessibility-tree, page-bridge and visual-indicator content scripts) and PoC scripts; the relay that connects to it lives in the webclaw3 repository. It needs Chrome 100+ and Node.js 22+ for the relay. MIT license.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-fatmind-webclaw3/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-fatmind-wc3-chrome/record.json
 
 ### 许可证信息
 
@@ -11297,7 +13954,7 @@ Setup uses a Chrome extension and a webclaw3 access key. The README declares an 
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/fatmind/webclaw3/HEAD/README.md（获取于 2026-11-09T19:58:09Z；SHA-256：f19b3e9c6c52619d869438c2d24074559069c57dcbc6688be75a07a6c2ea34ce）
+- https://raw.githubusercontent.com/fatmind/wc3-chrome/ad5cff42507e5e4d1681d6c470244640a03245a8/README.md（获取于 2026-11-10T06:29:23Z；SHA-256：44a00b909a5f8e5ca70d48701edf7e309c4a62ac30ba8ce1f2333c82bf02d67d）
 
 ---
 
@@ -11568,6 +14225,73 @@ The README describes screenshot, window, application, and system tools. It also 
 
 - https://raw.githubusercontent.com/deploymenttheory/windows-mcp-server/HEAD/README.md（获取于 2026-11-09T21:08:37Z；SHA-256：12be9bc839d0f14881aa189da8853eb6b60f73ebca04fb1325be5b322b60c0d9）
 - https://raw.githubusercontent.com/deploymenttheory/windows-mcp-server/HEAD/LICENSE（获取于 2026-11-09T21:11:07Z；SHA-256：b67e8487f48f008922de0ea548b21d27463056c9bb8cfb436d7cb321b2aa78e9）
+
+---
+
+## X Article Publisher Skill
+
+一个 Claude Code 技能，将 Markdown 文件转换为 HTML，并通过 Playwright MCP 填写 X Articles 编辑器、粘贴富文本、按块索引插入图片并保存草稿。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-wshuyi-x-article-publisher-skill/
+- 原始来源：https://github.com/wshuyi/x-article-publisher-skill
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：网页导航、自动化、工作流
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：github:wshuyi/x-article-publisher-skill
+
+### 范围记录
+
+Requires Claude Code, Playwright MCP, an X Premium Plus account and Python 3.9+ on macOS or Windows; tables and Mermaid diagrams are rendered to PNG images. MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-wshuyi-x-article-publisher-skill/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/wshuyi/x-article-publisher-skill/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/wshuyi/x-article-publisher-skill/eb3197d1d8579556aea5018d5c0b141d55fc2df6/README.md（获取于 2026-11-10T06:29:24Z；SHA-256：276a95b11ec5f213c67c04f8e9651fde68dcd4ff22cb0c59418cf1d3e14dc0fd）
+- https://raw.githubusercontent.com/wshuyi/x-article-publisher-skill/HEAD/LICENSE（获取于 2026-11-10T06:22:25Z；SHA-256：19b16a4540466baacee365b87b2f702122b8a25adf95490f3bc75194181e7d36）
+
+---
+
+## XDeviceBridge
+
+一个 C 语言库、服务端与 xdb 命令行工具，通过 USB 或 Wi-Fi 对 iPhone 和 iPad 进行发现、配对、截图、视频采集以及触控、键盘和文本输入。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-scrctl-xdevicebridge/
+- 原始来源：https://github.com/scrctl/XDeviceBridge
+- 类型：工具
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：iOS
+- 主题：自动化、手机操作
+- 证据核查日期：2026-11-10T06:29:25Z
+- ID：github:scrctl/xdevicebridge
+
+### 范围记录
+
+C++20 code built with CMake; the server needs OpenSSL and curl, with optional FFmpeg decoding, and runs standalone on desktop or embedded in an Android app. Project-owned code is licensed LGPL-3.0-only.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-scrctl-xdevicebridge/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/scrctl/XDeviceBridge/e45d5ed438101c6ae893a81a91398f5165e0d48f/README.md（获取于 2026-11-10T06:29:25Z；SHA-256：3e79bd1ad320cd3082918dc61bc1c86152ca24f89274290ea5b019b471db5232）
 
 ---
 
@@ -14810,36 +17534,6 @@ The README documents interaction, accessibility, telemetry, and raw CDP commands
 
 ---
 
-## Botright
-
-Botright 是基于 Playwright 的隐蔽式浏览器自动化框架，提供指纹伪装和 CAPTCHA 解决工具。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-vinyzu-botright/
-- 原始来源：https://github.com/Vinyzu/Botright
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、自动化
-- 证据核查日期：2026-11-04T13:12:42Z
-- ID：github:vinyzu/botright
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-vinyzu-botright/record.json
-
-### 许可证信息
-
-- 代码：GPL-3.0 — https://raw.githubusercontent.com/Vinyzu/Botright/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/Vinyzu/Botright/HEAD/README.md（获取于 2026-11-04T13:12:42Z；SHA-256：e92bfc12702007599bfe1876d0625dc66ba854586676cee1ab353703a184f9e2）
-- https://raw.githubusercontent.com/Vinyzu/Botright/HEAD/LICENSE（获取于 2026-11-04T13:23:45Z；SHA-256：8b1ba204bb69a0ade2bfcf65ef294a920f6bb361b317dba43c7ef29d96332b9b）
-
----
-
 ## BraveCowNoFear Windows Computer Use
 
 面向 Codex 的本地 Windows 计算机使用插件，结合 UIA3 语义树、MCP 工具、SendInput 和窗口捕获。
@@ -17962,36 +20656,6 @@ Computer Use Data Collection 是桌面录制工具，可同步捕获截图、鼠
 
 - https://raw.githubusercontent.com/xuanyuanluoxue/computer-use-vision/master/README.md（获取于 2026-11-04T17:30:35Z；SHA-256：899708dd8b6d40a3acb0d04c71a94e21387b40ec7683d27cedd0e87291279ade）
 - https://raw.githubusercontent.com/xuanyuanluoxue/computer-use-vision/HEAD/LICENSE（获取于 2026-11-04T17:40:51Z；SHA-256：830d1e793285e324a158cc4693c0f41b7ee1f89ab73a0279470f6ed612381ce2）
-
----
-
-## Computer-Use Cache
-
-可直接接入、兼容 OpenAI 的缓存代理，记录并重放重复的计算机使用和浏览器智能体工作流。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-rohanarun-computer-use-cache/
-- 原始来源：https://github.com/rohanarun/computer-use-cache
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：跨平台、网页、桌面
-- 主题：效率、记忆、录制
-- 证据核查日期：2026-11-04T16:30:04Z
-- ID：github:rohanarun/computer-use-cache
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-rohanarun-computer-use-cache/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/rohanarun/computer-use-cache/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/rohanarun/computer-use-cache/HEAD/README.md（获取于 2026-11-04T16:30:04Z；SHA-256：2b8c93536abf8d5d83ecc5da77943973af236c1aad1b01f55d76f0f9f14445a1）
-- https://raw.githubusercontent.com/rohanarun/computer-use-cache/HEAD/LICENSE（获取于 2026-11-04T16:35:11Z；SHA-256：7d9f2c36af58e906b7051faaf996b4d588dce552cc963ef186e9f6d72929912f）
 
 ---
 

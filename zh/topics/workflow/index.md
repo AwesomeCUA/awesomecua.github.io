@@ -381,6 +381,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   LoRA adapter for Llama-2-7b from MobileAgent, a mobile device control agent that adds Standard Operating Procedure (SOP) context and predicts actions on AitW screens.
 - [Holo3](https://awesomecua.com/zh/resources/url-a03c649e4b14e293e2dd/) — Date not recorded
   Holo3 is a computer-use model family trained on synthetic navigation and enterprise workflows. Its publisher reports desktop benchmark results and offers inference access and an open checkpoint.
+- [UI-Mate-democua-27B](https://awesomecua.com/zh/resources/url-4425e20ebe68c9eb805f/) — Date not recorded
+  A 27B checkpoint of the UI-Mate desktop agent, fine-tuned from Qwen3.6-27B, that reads screenshots and can follow one recorded demonstration to plan keyboard and mouse actions on a new task.
 
 ## 工程与产业
 
@@ -444,6 +446,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Privacy-conscious Hermes browser skill for scheduled, verified multi-airline web check-in.
 - [Alumnium](https://awesomecua.com/zh/resources/github-alumnium-hq-alumnium/) — Date not recorded
   An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.
+- [Amazon Nova Act Human Intervention Service](https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-human-intervention/) — Date not recorded
+  A reference AWS deployment that adds approval requests and live UI takeover to Nova Act browser workflows, with a Python client SDK and CDK stacks.
 - [Amazon Return Skill](https://awesomecua.com/zh/resources/github-peterquads-amazon-return/) — Date not recorded
   Claude browser skill that completes end-to-end Amazon return workflows inside the user's signed-in browser.
 - [Android-Skill-Agent](https://awesomecua.com/zh/resources/github-xiru0834-eng-android-skill-agent/) — Date not recorded
@@ -670,6 +674,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Reusable browser automation workflow skills for the Eric Task Master Playwright runner.
 - [Errand](https://awesomecua.com/zh/resources/github-runta-dev-errand/) — Date not recorded
   Open-source persistent desktop AI teammate with scheduled tasks, browser control, and workspace memory.
+- [Everything Maa](https://awesomecua.com/zh/resources/github-khazixw2-everything-maa/) — Date not recorded
+  A set of 13 AI skills and MCP profiles for Claude Code and Codex that build, edit, test and diagnose MaaFramework automation projects and run device and Pipeline operations through maafw-cli.
 - [FaizannRaza Computer-Use Automation](https://awesomecua.com/zh/resources/github-faizannraza-computer-use-automation/) — Date not recorded
   Discovers legacy banking UI workflows with an LLM once and compiles the run into a deterministic capability artifact.
 - [FastAgent](https://awesomecua.com/zh/resources/github-hkuds-fastagent/) — Date not recorded
@@ -778,8 +784,18 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify-recover loop for multi-hour autonomous computer-use workflows.
 - [Luna Mux](https://awesomecua.com/zh/resources/github-rainj2013-luna-mux/) — Date not recorded
   Terminal and browser workbench for coding agents with automatic MCP injection, split panes, SSH/SFTP, and embedded browser automation.
+- [Maa Support Extension](https://awesomecua.com/zh/resources/github-neko-para-maa-support-extension/) — Date not recorded
+  A VS Code extension for MaaFramework projects that queries, completes and checks Pipeline tasks and image paths, runs interface.json tasks, takes screenshots and opens Pipelines in MaaPipelineEditor.
+- [MaaCtl](https://awesomecua.com/zh/resources/github-tanyashue-maactl/) — Date not recorded
+  A command-line client for MaaFramework that loads ProjectInterface v2 projects, inspects their controllers, resources and tasks, and runs tasks or pipeline nodes on ADB devices or desktop windows.
 - [MaaFramework](https://awesomecua.com/zh/resources/github-maaxyz-maaframework/) — Date not recorded
   MaaFramework is an image-recognition automation framework for black-box testing, with a low-code task pipeline and documented integration and API interfaces.
+- [MaaInspector](https://awesomecua.com/zh/resources/github-tanyashue-maainspector/) — Date not recorded
+  A Tauri desktop node editor for MaaFramework 5 pipelines that builds workflows by drag and drop and runs and debugs nodes while showing their execution state.
+- [MaaOWM](https://awesomecua.com/zh/resources/github-sunyink-maaowm/) — Date not recorded
+  A Python workspace manager for MaaFramework projects with several adaptation packs: mounting merges base and mod pipelines into an editable workspace, and unmounting diffs it back to a minimal mod.
+- [MaaPipelineEditor](https://awesomecua.com/zh/resources/github-kqcoxn-maapipelineeditor/) — Date not recorded
+  A browser-based visual editor for MaaFramework Pipeline JSON that builds automation flows as connected nodes, with OCR and screenshot helpers, node templates, flow debugging and an optional local service.
 - [Maestro (AI-Drivable RPA)](https://awesomecua.com/zh/resources/github-rexchengm-maestro/) — Date not recorded
   Records a desktop or browser task once and lets AI optimize, parameterize, and replay it as a deterministic RPA workflow.
 - [maestro-oss](https://awesomecua.com/zh/resources/github-victorkaor-maestro-oss/) — Date not recorded
@@ -804,6 +820,10 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Agentic grocery shopping platform that compares real-time cart prices across Instacart and retail web portals.
 - [Melaya MCP](https://awesomecua.com/zh/resources/github-melaya-labs-melaya-mcp/) — Date not recorded
   Agent orchestration and Model Context Protocol runtime connecting AI agents to 6,000+ browser, desktop, and API tools.
+- [MFAAvalonia](https://awesomecua.com/zh/resources/github-sweetsmellfox-mfaavalonia/) — Date not recorded
+  A cross-platform Avalonia desktop GUI for MaaFramework resource projects that reads Project Interface V2 definitions and lets users configure, schedule and run automation tasks.
+- [MFW-ChainFlow Assistant](https://awesomecua.com/zh/resources/github-overflow65537-mfw-pyqt6/) — Date not recorded
+  A PySide6 desktop runner for MaaFramework projects that implements the interface v2 protocol, with configuration management, scheduled runs, notifications and custom actions.
 - [MindSearch](https://awesomecua.com/zh/resources/github-internlm-mindsearch/) — Date not recorded
   MindSearch coordinates a multi-agent WebPlanner and parallel WebSearcher graph to execute multi-step web information seeking.
 - [MobileAgent (Alipay)](https://awesomecua.com/zh/resources/github-alipay-mobile-agent/) — Date not recorded
@@ -820,6 +840,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Self-hosted, provider-agnostic AI agent runtime with browser automation, shell execution, and extensible skill plugins.
 - [Multi-Agent Browser](https://awesomecua.com/zh/resources/github-sanzizlohar-multi-agent-browser/) — Date not recorded
   Coordinates five specialized AI agents sharing a browser workspace to conduct collaborative web research.
+- [MXU](https://awesomecua.com/zh/resources/github-misteo-mxu/) — Date not recorded
+  A Tauri, React and TypeScript GUI client that loads any MaaFramework PI V2 interface.json and runs its tasks, with drag-ordered task lists, multiple instances, live device screenshots, logs and scheduled runs.
 - [MyFood Hermes Agent](https://awesomecua.com/zh/resources/github-delltrak-myfood-hermes-agent/) — Date not recorded
   Safety-first Hermes browser agent for ordering food through a visible web browser with explicit checkout confirmation.
 - [nanoMuse](https://awesomecua.com/zh/resources/github-nano-muse-nanomuse/) — Date not recorded
@@ -842,6 +864,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Discovers workflows on legacy credit-union web portals with an AI agent once and compiles them into deterministic scripts.
 - [Notte CLI](https://awesomecua.com/zh/resources/github-nottelabs-notte-cli/) — Date not recorded
   A command-line tool for controlling remote browser sessions, handling files and running repeatable web automation workflows.
+- [Nova Act Extension](https://awesomecua.com/zh/resources/github-aws-nova-act-extension/) — Date not recorded
+  A VS Code, Kiro and Cursor extension for writing Nova Act browser-agent scripts, with chat-to-script generation, 7 templates, live debugging, an action viewer and AWS deployment.
 - [Nova Act SDK](https://awesomecua.com/zh/resources/github-aws-nova-act/) — Date not recorded
   A Python SDK for defining and deploying browser agents that carry out UI workflows. Nova Act supports code-guided steps, human escalation and workflow monitoring.
 - [NOVA-exe](https://awesomecua.com/zh/resources/github-vincenzo-afk-nova-exe/) — Date not recorded
@@ -1094,6 +1118,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Turns a recorded browser session or a Browser Use agent run into a parameterized workflow file that replays deterministically with Playwright, falling back to an LLM agent when a step fails.
 - [Workflow-Guided Exploration research code](https://awesomecua.com/zh/resources/github-stanfordnlp-wge/) — Date not recorded
   Research code that learns browser-control policies by constraining exploration with workflows induced from demonstrations, with a Selenium-based MiniWoB environment and experiment harness.
+- [X Article Publisher Skill](https://awesomecua.com/zh/resources/github-wshuyi-x-article-publisher-skill/) — Date not recorded
+  A Claude Code skill that converts a Markdown file to HTML and uses Playwright MCP to fill the X Articles editor, paste rich text, insert images by block index and save a draft.
 - [Xihe Agent (羲和)](https://awesomecua.com/zh/resources/github-jiugao-yi-xihe-agent/) — Date not recorded
   Single-process tool-calling agent runtime operating across CLI, enterprise chat gateways, desktop GUI, and real browsers.
 - [ZCode JetBrains Plugin](https://awesomecua.com/zh/resources/github-csuftt-zcode-jetbrains-plugin/) — Date not recorded
@@ -1121,5 +1147,7 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   24-chapter bilingual Python engineering course building a WorkBuddy-style desktop AI agent harness from scratch.
 - [linux-use-recipes](https://awesomecua.com/zh/resources/github-javimosch-linux-use-recipes/) — Date not recorded
   A collection of recipes for automating Linux desktop applications and websites with linux-use. It covers browser setup, accessibility pitfalls, posting workflows and verification.
+- [TagUI Bricks](https://awesomecua.com/zh/resources/github-aimakerspace-tagui-bricks/) — Date not recorded
+  A set of sample TagUI workflows for websites and desktop apps, such as emailing forex rates through Gmail, OCR on tax notices and filling Word letters, each offered as a downloadable template.
 - [The TinyFish Cookbook](https://awesomecua.com/zh/resources/github-tinyfish-io-tinyfish-cookbook/) — Date not recorded
   A collection of sample applications and recipes for TinyFish web agents, covering page retrieval, structured search, and multi-step browser automation.

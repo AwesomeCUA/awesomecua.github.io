@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/planning/index.md
 
+- [lumos_unified_plan_iterative-13B](https://awesomecua.com/zh/resources/url-eb6a5940793aa81153d0/)
 - [lumos_web_agent_plan_iterative](https://awesomecua.com/zh/resources/url-e35db30fee209ef9b57d/)
 - [lumos_web_agent_plan_iterative-13B](https://awesomecua.com/zh/resources/url-7e7de336b1d8a2adce2c/)
 - [Magma](https://awesomecua.com/zh/resources/github-microsoft-magma/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/7/
 - [AutoManual](https://awesomecua.com/zh/resources/github-minghchen-automanual/)
 - [AutoTask](https://awesomecua.com/zh/resources/github-bowenbryanwang-autotask/)
 - [Avenir-Web](https://awesomecua.com/zh/resources/github-princeton-ai2-lab-avenir-web/)
-- [BabyAGI](https://awesomecua.com/zh/resources/github-yoheinakajima-babyagi/)

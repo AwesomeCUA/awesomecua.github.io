@@ -4,6 +4,12 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/sandbox/index.md
 
+- [OpenMobile-2 extended Android AVDs](https://awesomecua.com/zh/resources/url-f039da43799772645c92/)
+- [Orbit UI](https://awesomecua.com/zh/resources/github-aadya940-orbit-ui/)
+- [Orchard-Agentic](https://awesomecua.com/zh/resources/github-microsoft-orchard-agentic/)
+- [orion-vm-arm](https://awesomecua.com/zh/resources/url-7e2e6225864f97b5238c/)
+- [OSWorld Ubuntu VM images](https://awesomecua.com/zh/resources/url-346ca54794cbdffc8797/)
+- [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/zh/resources/url-ce775111626bae220596/)
 - [OSWorld Web](https://awesomecua.com/zh/resources/github-task-web-osworld-web/)
 - [OSWorld Windows VM images](https://awesomecua.com/zh/resources/url-232a1698849e2fea425c/)
 - [OvoBrowser](https://awesomecua.com/zh/resources/github-ovobrowsersupport-ovobrowser/)
@@ -58,9 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/6/
 - [Twiko](https://awesomecua.com/zh/resources/github-ezocomp118-source-twiko/)
 - [Undetectable Browser MCP Server](https://awesomecua.com/zh/resources/github-undetectable-io-undetectable-browser-mcp/)
 - [Unraid Camofox Stealth Browser](https://awesomecua.com/zh/resources/github-mircoblitz-unraid-camofox-stealth-browser/)
-- [UseAgent](https://awesomecua.com/zh/resources/github-useagenthq-useagent/)
-- [vadgr-agent-os](https://awesomecua.com/zh/resources/github-montbrain-vadgr-agent-os/)
-- [Valk](https://awesomecua.com/zh/resources/github-ercbot-valk/)
-- [vePhone](https://awesomecua.com/zh/resources/github-volcengine-vephone/)
-- [VK DeviceHub](https://awesomecua.com/zh/resources/github-vkcom-devicehub/)
-- [VNC MCP Server](https://awesomecua.com/zh/resources/github-volkan-m-vnc-mcp-server/)

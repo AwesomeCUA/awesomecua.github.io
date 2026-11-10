@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/grounding/index.md
 
+- [GUI-Net-1M](https://awesomecua.com/zh/resources/url-8c9aaafb918aaf8b4e92/)
 - [GUI-Net-Mini](https://awesomecua.com/zh/resources/url-0627940da1b988739f75/)
 - [GUI-R1 data bundle](https://awesomecua.com/zh/resources/url-df680385f18b01a825be/)
 - [GUI-SD-data](https://awesomecua.com/zh/resources/url-1a495ecc8b0d73e04308/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/7/
 - [AgentCPM-GUI](https://awesomecua.com/zh/resources/github-openbmb-agentcpm-gui/)
 - [AgentCPM-GUI 8B checkpoint](https://awesomecua.com/zh/resources/url-8ef3985dce697e5feea9/)
 - [Aguvis](https://awesomecua.com/zh/resources/github-xlang-ai-aguvis/)
-- [Aguvis-7B-720P](https://awesomecua.com/zh/resources/url-ac62da857db91f68376b/)

@@ -110,6 +110,8 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
   A curated reading list of reinforcement learning work on GUI agents, organized by learning methods, reward and efficiency questions, datasets, and training environments.
 - [Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches](https://awesomecua.com/zh/resources/github-cdxeve-awesome-computer-use-agents/) — Date not recorded
   A curated reading list and accompanying report organize computer-use research, including agents that act through web, desktop, and mobile interfaces.
+- [GUI Agent Research Landscape](https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-agent-research-landscape/) — Date not recorded
+  A research-landscape analysis of GUI and OS agent papers from 2016 to 2025: citation mining, keyword filtering to about 600 papers, LLM-extracted contributions, period trend tables and citation-network rankings.
 - [NeurIPS 2025: 45 Computer-Use Agent Papers You Should Know About](https://awesomecua.com/zh/resources/url-5f211a7eba35415ea382/) — Date not recorded
   An annotated reading list of 45 NeurIPS 2025 computer-use agent papers, organized around benchmarks, safety, grounding and agent architectures.
 - [Open Operator](https://awesomecua.com/zh/resources/github-openhands-open-operator/) — Date not recorded

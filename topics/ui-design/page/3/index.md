@@ -4,8 +4,13 @@ HTML page: https://awesomecua.com/topics/ui-design/page/3/
 
 Full list: https://awesomecua.com/topics/ui-design/index.md
 
+- [pursr](https://awesomecua.com/resources/github-0xheycat-pursr/)
+- [RecreationWorld](https://awesomecua.com/resources/github-qwenlm-recreationworld/)
+- [ReproSight](https://awesomecua.com/resources/github-tungcorn-reprosight/)
+- [Richmack Browser OS](https://awesomecua.com/resources/github-iamrichmack111-richmack-browser/)
 - [SameState WebMCP](https://awesomecua.com/resources/github-breeznik-samestate-webmcp/)
 - [shoal](https://awesomecua.com/resources/github-raynan00-shoal/)
+- [SnapEye](https://awesomecua.com/resources/github-zumerlab-snapeye/)
 - [SoftwareGym](https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/)
 - [TeleGen](https://awesomecua.com/resources/github-commoluo-telegen/)
 - [Touchline](https://awesomecua.com/resources/github-edenbuilds-touchline/)

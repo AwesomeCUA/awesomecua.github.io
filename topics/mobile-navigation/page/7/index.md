@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/topics/mobile-navigation/page/7/
 
 Full list: https://awesomecua.com/topics/mobile-navigation/index.md
 
+- [Holo3.1 35B-A3B](https://awesomecua.com/resources/url-0c9ce9f220b2fdfd70b0/)
+- [Holo3.1 4B](https://awesomecua.com/resources/url-90b24afa7bb8b2181205/)
 - [Holo3.1 9B](https://awesomecua.com/resources/url-4e9e46b2c7a0a21e130d/)
 - [Holo4-27B-NVFP4](https://awesomecua.com/resources/url-b1457a20d437732b60f7/)
 - [inclusionAI/UI-Venus-Navi-7B](https://awesomecua.com/resources/url-6d36e088ada02184c6bc/)
@@ -15,6 +17,7 @@ Full list: https://awesomecua.com/topics/mobile-navigation/index.md
 - [MobileRL 9B checkpoint](https://awesomecua.com/resources/url-d5667c854845c77b9f5b/)
 - [MobileVLM](https://awesomecua.com/resources/github-xiaomi-mobilevlm/)
 - [OmniJev](https://awesomecua.com/resources/github-tinnel123666888-omnijev/)
+- [OmniJev](https://awesomecua.com/resources/url-6bdda64c5782f03b0f54/)
 - [OpenMobile-2 27B](https://awesomecua.com/resources/url-1611de0e6d606165d12d/)
 - [OpenMobile-2 9B](https://awesomecua.com/resources/url-d35224f787e7ec21ce36/)
 - [OpenMobile-8B](https://awesomecua.com/resources/url-6616228d4f267363458e/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/mobile-navigation/index.md
 - [V-Droid-8B-0323](https://awesomecua.com/resources/url-82adab61eb515398da48/)
 - [A2R2 (Android Agent Reliability Runtime)](https://awesomecua.com/resources/github-rty90-android-agent-reliability-runtime/)
 - [AbaoPal (阿宝Pal)](https://awesomecua.com/resources/github-banye-technology-abaopal/)
-- [Actell](https://awesomecua.com/resources/github-ja1chen-actell/)
-- [adb](https://awesomecua.com/resources/github-vcaesar-adb/)
-- [ADB MCP Server Pro](https://awesomecua.com/resources/github-tiendung2k03-adb-mcp-server-pro/)

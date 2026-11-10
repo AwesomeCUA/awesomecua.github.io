@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/planning/index.md
 
+- [Tongyi UI Agent API](https://awesomecua.com/zh/resources/url-ce0af37931cd5aa20233/)
 - [ToolCUA](https://awesomecua.com/zh/resources/github-x-plug-toolcua/)
 - [Turan AI](https://awesomecua.com/zh/resources/github-aykutkrm67-turan-ai/)
 - [TuriX-CUA](https://awesomecua.com/zh/resources/github-turixai-turix-cua/)

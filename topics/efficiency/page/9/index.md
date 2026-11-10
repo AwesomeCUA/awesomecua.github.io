@@ -4,6 +4,12 @@ HTML page: https://awesomecua.com/topics/efficiency/page/9/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
+- [pebkac](https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/)
+- [perceive](https://awesomecua.com/resources/github-gauthierpiarrette-perceive/)
+- [PhoneClaw](https://awesomecua.com/resources/github-kellyvv-phoneclaw/)
+- [PhoneCLI](https://awesomecua.com/resources/github-hkuds-phonecli/)
+- [Pi Jev Browser](https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/)
+- [pixelpi](https://awesomecua.com/resources/github-josharsh-pixelpi/)
 - [Plasmate](https://awesomecua.com/resources/github-plasmate-labs-plasmate/)
 - [Playwright CLI](https://awesomecua.com/resources/github-microsoft-playwright-cli/)
 - [POK-Agent](https://awesomecua.com/resources/github-acekorneya-pok-agent/)
@@ -41,6 +47,7 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Spectra MCP](https://awesomecua.com/resources/github-astroqueststudio-spectra-mcp/)
 - [Spooky Action](https://awesomecua.com/resources/github-jumpsy-spooky-action/)
 - [Stagehand](https://awesomecua.com/resources/url-0210d8713fd41ca1448f/)
+- [stagehand-plasmate](https://awesomecua.com/resources/github-plasmate-labs-stagehand-plasmate/)
 - [super-computer-use](https://awesomecua.com/resources/github-paperfoot-super-computer-use/)
 - [System1-Agents](https://awesomecua.com/resources/github-thinkflowlab-system1-agents/)
 - [TalkAct](https://awesomecua.com/resources/github-19pine-ai-talkact/)
@@ -57,10 +64,3 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Unbrowse](https://awesomecua.com/resources/github-unbrowse-ai-unbrowse/)
 - [VACT (Vector Agent Context Transport)](https://awesomecua.com/resources/github-fy2ne-vact/)
 - [Vedanshu7 Operant](https://awesomecua.com/resources/github-vedanshu7-operant/)
-- [VG-GUI-TASKER](https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/)
-- [VisionAX](https://awesomecua.com/resources/github-rao-studios-visionax/)
-- [Visual Context Router](https://awesomecua.com/resources/github-fangsylar-pixel-visual-context-router/)
-- [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/)
-- [WAREX Supplementary Code](https://awesomecua.com/resources/github-sumanknath-waber/)
-- [WebAgents Protocol](https://awesomecua.com/resources/github-betterwright-webagents/)
-- [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/)

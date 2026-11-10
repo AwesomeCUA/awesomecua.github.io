@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/planning/page/10/
 
 Full list: https://awesomecua.com/topics/planning/index.md
 
+- [Tongyi UI Agent API](https://awesomecua.com/resources/url-ce0af37931cd5aa20233/)
 - [ToolCUA](https://awesomecua.com/resources/github-x-plug-toolcua/)
 - [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/)
 - [TuriX-CUA](https://awesomecua.com/resources/github-turixai-turix-cua/)

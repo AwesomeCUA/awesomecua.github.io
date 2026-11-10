@@ -646,6 +646,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 
 - [Aguvis stage 2 trajectory data](https://awesomecua.com/zh/resources/url-b5e2127e07f692d516b9/) — Date not recorded
   The second-stage Aguvis collection of interface trajectories for learning action sequences, planning and reasoning after grounding pretraining.
+- [ExACT-VWA](https://awesomecua.com/zh/resources/url-792920a5f64df66d34d7/) — Date not recorded
+  Post-processed R-MCTS and GPT-4o agent trajectories collected on VisualWebArena, stored as context and response pairs with domain and task metadata; part of the set was used to fine-tune GPT-4o.
 - [GUI-CIDER causal knowledge data](https://awesomecua.com/zh/resources/url-d0300db5ba754b1a64fa/) — Date not recorded
   A published JSONL corpus of synthesized planning and causal knowledge for GUI-agent mid-training, linked directly from the official GUI-CIDER project.
 - [GUIMid training data](https://awesomecua.com/zh/resources/url-422010da7a5c845a18f6/) — Date not recorded

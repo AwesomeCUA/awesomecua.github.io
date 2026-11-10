@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/data-generation/index.md
 
+- [ScreenRef Annotations](https://awesomecua.com/zh/resources/url-c1db2ba79e6d6a3db2b9/)
+- [sharryXR/asil-training-data](https://awesomecua.com/zh/resources/url-e9423bcf01a8d6b078bc/)
+- [ShowUI Desktop](https://awesomecua.com/zh/resources/url-f976dec3d1c5e0bedbd7/)
 - [ShowUI-web](https://awesomecua.com/zh/resources/url-8933977bb0a57940ed23/)
 - [ShowUI-web-8K](https://awesomecua.com/zh/resources/url-2260aaa47fb9c63bb917/)
 - [TreeCUA-Datasets](https://awesomecua.com/zh/resources/url-2e8bba756c71f9fe3fbd/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/9/
 - [anybridge](https://awesomecua.com/zh/resources/github-justvugg-anybridge/)
 - [Ausca MCP Services](https://awesomecua.com/zh/resources/github-auscahq-ausca/)
 - [AutoDroid V2](https://awesomecua.com/zh/resources/github-mobilellm-autodroid-v2/)
-- [AutoGUI code](https://awesomecua.com/zh/resources/github-zjulihongxin-autogui/)
-- [AWorld-RL](https://awesomecua.com/zh/resources/github-inclusionai-agenticlearning/)
-- [Browser AI Agent Examples (Tiered Web Agent)](https://awesomecua.com/zh/resources/github-quantumproxies-browser-ai-agent-examples/)

@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [AIOS](https://awesomecua.com/zh/resources/github-agiresearch-aios/)
+- [AIPex](https://awesomecua.com/zh/resources/github-aipexstudio-aipex/)
+- [Airbrowser MCP](https://awesomecua.com/zh/resources/github-ifokeev-airbrowser-mcp/)
+- [Airi-PC Computer Mode Runtime](https://awesomecua.com/zh/resources/github-arancione3000-airi-pc-bootstrap/)
+- [Airplane Check-In Skill](https://awesomecua.com/zh/resources/github-bee-san-airplane-checkin-skill/)
 - [alohajet CLI](https://awesomecua.com/zh/resources/github-alohabrowser-alohajet-cli/)
 - [Altairpaca DSH Computer Use for Windows](https://awesomecua.com/zh/resources/github-altairpaca-dsh-computer-use-windows/)
 - [Alumnium](https://awesomecua.com/zh/resources/github-alumnium-hq-alumnium/)
@@ -35,6 +40,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/6/
 - [AppCopilot](https://awesomecua.com/zh/resources/github-openbmb-appcopilot/)
 - [appium-ios](https://awesomecua.com/zh/resources/github-appium-appium-ios/)
 - [April Agent Action Filter](https://awesomecua.com/zh/resources/github-newssourcecrawler-april-agent-action-filter/)
+- [ARC CUA](https://awesomecua.com/zh/resources/github-itw-code-arc-cua/)
 - [arc-control-mcp](https://awesomecua.com/zh/resources/github-db-25-arc-control-mcp/)
 - [Arelis](https://awesomecua.com/zh/resources/github-sanct1x-arelis/)
 - [argos-eye](https://awesomecua.com/zh/resources/github-xhae123-argos-eye/)
@@ -58,9 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/6/
 - [Auto Browser](https://awesomecua.com/zh/resources/github-lvcidpsyche-auto-browser/)
 - [Auto WebMCP Chrome](https://awesomecua.com/zh/resources/github-pauloportella-auto-webmcp-chrome/)
 - [AutoCoA](https://awesomecua.com/zh/resources/github-adam-bjtu-autocoa/)
-- [AutoCodeRover](https://awesomecua.com/zh/resources/github-nus-apr-auto-code-rover/)
-- [autocomputer](https://awesomecua.com/zh/resources/github-yygg693-autocomputer/)
-- [AutoCua](https://awesomecua.com/zh/resources/github-computeruseagent-autocua/)
-- [Autodesk Claude Browser Test Skills](https://awesomecua.com/zh/resources/github-autodesk-claude-browser-test-skills/)
-- [AutoDoubao](https://awesomecua.com/zh/resources/github-linxxcat000-autodoubao/)
-- [AutoDroid V2](https://awesomecua.com/zh/resources/github-mobilellm-autodroid-v2/)

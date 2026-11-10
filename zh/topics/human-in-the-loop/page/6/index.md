@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/human-in-the-loop/index.md
 
+- [Ribband (Agentic WebMCP)](https://awesomecua.com/zh/resources/github-somnora-agentic-webmcp/)
+- [Ringlight WebMCP](https://awesomecua.com/zh/resources/github-doom2quake-ringlight/)
+- [Rove (Thread WebMCP Workspace)](https://awesomecua.com/zh/resources/github-chris-miracle-thread/)
+- [RPA-Everything](https://awesomecua.com/zh/resources/github-mingqian94-rpa-everything/)
 - [Ruyi (如意)](https://awesomecua.com/zh/resources/github-icesword0760-ruyi/)
 - [s1](https://awesomecua.com/zh/resources/github-matthew-eucaristo-s1/)
 - [Sandbar](https://awesomecua.com/zh/resources/github-jdrolls-sandbar/)

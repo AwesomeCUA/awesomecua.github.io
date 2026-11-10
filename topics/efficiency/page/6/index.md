@@ -4,7 +4,10 @@ HTML page: https://awesomecua.com/topics/efficiency/page/6/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
+- [ApexCommander-RS](https://awesomecua.com/resources/github-buckster123-apexcommander-rs/)
+- [ApiTap](https://awesomecua.com/resources/github-n1byn1kt-apitap/)
 - [Appwalk](https://awesomecua.com/resources/github-kubstack-appwalk/)
+- [ARC CUA](https://awesomecua.com/resources/github-itw-code-arc-cua/)
 - [arc-cua](https://awesomecua.com/resources/github-shhivv-arc-cua/)
 - [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/resources/github-sharryxr-asil/)
 - [ask-web-ai](https://awesomecua.com/resources/github-pgw10086-ask-web-ai/)
@@ -35,11 +38,13 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [cdp-drive](https://awesomecua.com/resources/github-immineal-cdp-drive/)
 - [cdp-toolkit](https://awesomecua.com/resources/github-sblattj-cdp-toolkit/)
 - [cdpilot](https://awesomecua.com/resources/github-mehmetnadir-cdpilot/)
+- [Chrome Bridge](https://awesomecua.com/resources/github-frsorrentino-chrome-bridge/)
 - [chrome-agent-search](https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/)
 - [chrome-eye](https://awesomecua.com/resources/github-trvux-chrome-eye/)
 - [Claude Chrome Stream](https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/)
 - [claude-browser-crawl-cdp](https://awesomecua.com/resources/github-gruncode-claude-browser-crawl-cdp/)
 - [claude-chrome-speed](https://awesomecua.com/resources/github-cr1707-claude-chrome-speed/)
+- [Clearcote Jet](https://awesomecua.com/resources/github-clearcotelabs-clearcote-jet/)
 - [clef-use](https://awesomecua.com/resources/github-kotori0919-clef-use/)
 - [Clique Já](https://awesomecua.com/resources/github-paivaxqz-cliqueja/)
 - [cloak-cdp-cli](https://awesomecua.com/resources/github-ezumyn-aliegm-cloak-cdp-cli/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Desktop Pilot MCP](https://awesomecua.com/resources/github-versoxbt-desktop-pilot-mcp/)
 - [desktop-cli](https://awesomecua.com/resources/github-adamsautomations-desktop-cli/)
 - [desktop-hub](https://awesomecua.com/resources/github-zty552252kevin-code-desktop-hub/)
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/)
-- [DesktopCtl](https://awesomecua.com/resources/github-yaroshevych-desktopctl/)
-- [Deterministic Computer-Use Automation](https://awesomecua.com/resources/github-joncody-computer-use-automation/)
-- [DietSurf](https://awesomecua.com/resources/github-100x-bot-dietsurf/)
-- [Digi-Q](https://awesomecua.com/resources/github-digirl-agent-digiq/)

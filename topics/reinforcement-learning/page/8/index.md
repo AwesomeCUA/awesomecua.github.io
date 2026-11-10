@@ -4,6 +4,14 @@ HTML page: https://awesomecua.com/topics/reinforcement-learning/page/8/
 
 Full list: https://awesomecua.com/topics/reinforcement-learning/index.md
 
+- [DistRL](https://awesomecua.com/resources/github-distrl-lab-distrl-open/)
+- [ENVISIONS](https://awesomecua.com/resources/github-xufangzhi-envisions/)
+- [ENVS (Environment-Native Verified Search)](https://awesomecua.com/resources/github-artysicistz-envs/)
+- [ETO (Exploration-Based Trajectory Optimization)](https://awesomecua.com/resources/github-yifan-song793-eto/)
+- [Grounded Language Agent for Product Search](https://awesomecua.com/resources/github-multifacetednlp-web-agents-unsupervised/)
+- [GroundGUI training and evaluation code](https://awesomecua.com/resources/github-prentisai-groundgui/)
+- [GTA1: GUI Test-time Scaling Agent](https://awesomecua.com/resources/github-yan98-gta1/)
+- [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/)
 - [GUI-RC / GUI-RCPO](https://awesomecua.com/resources/github-zju-real-gui-rcpo/)
 - [GUI-Rise](https://awesomecua.com/resources/github-leon022-gui-rise-code/)
 - [GUI-SD](https://awesomecua.com/resources/github-zhangyan-ucas-gui-sd-code/)
@@ -22,6 +30,7 @@ Full list: https://awesomecua.com/topics/reinforcement-learning/index.md
 - [OpAgent](https://awesomecua.com/resources/github-codefuse-ai-oagent/)
 - [OpAgent](https://awesomecua.com/resources/github-codefuse-ai-opagent/)
 - [OpenWebVoyager](https://awesomecua.com/resources/github-minorjerry-openwebvoyager/)
+- [Orchard-Agentic](https://awesomecua.com/resources/github-microsoft-orchard-agentic/)
 - [OSRS PvP Reinforcement Learning](https://awesomecua.com/resources/github-naton1-osrs-pvp-reinforcement-learning/)
 - [Pix2Act](https://awesomecua.com/resources/github-google-deepmind-pix2act/)
 - [Proposer-Agent-Evaluator (PAE)](https://awesomecua.com/resources/github-amazon-science-pae/)

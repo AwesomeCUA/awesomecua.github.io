@@ -5,6 +5,7 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/5/
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
 - [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/zh/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/)
+- [FunUI-Benchmark](https://awesomecua.com/zh/resources/url-92241e51e909ea9ca564/)
 - [Gomoku Computer-Use Model Comparison](https://awesomecua.com/zh/resources/github-jns-c-model-comparison-gomoku/)
 - [GuideBench](https://awesomecua.com/zh/resources/url-37b4f525e6d7a56a9967/)
 - [GUIGuard-Bench public-ladder release](https://awesomecua.com/zh/resources/url-61860953a680776ffe53/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/5/
 - [RICO-ScreenQA](https://awesomecua.com/zh/resources/url-bd15fb092ff80643ed97/)
 - [RICO-ScreenQA-Short](https://awesomecua.com/zh/resources/url-060c9288c7197c5a188e/)
 - [RICO-WidgetCaptioning](https://awesomecua.com/zh/resources/url-013bb9256ca6ad5188be/)
-- [Screen Annotation](https://awesomecua.com/zh/resources/github-google-research-datasets-screen-annotation/)

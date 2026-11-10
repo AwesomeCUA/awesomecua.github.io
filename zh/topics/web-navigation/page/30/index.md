@@ -1,0 +1,35 @@
+# 网页导航：Computer-Use 研究与资源（第 30 页）
+
+HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/30/
+
+完整列表：https://awesomecua.com/zh/topics/web-navigation/index.md
+
+- [Yutori](https://awesomecua.com/zh/resources/url-eff580f3185f2a36c265/)
+- [ZCode JetBrains Plugin](https://awesomecua.com/zh/resources/github-csuftt-zcode-jetbrains-plugin/)
+- [zen-mcp](https://awesomecua.com/zh/resources/github-sh6drack-zen-mcp/)
+- [Zendriver](https://awesomecua.com/zh/resources/github-cdpdriver-zendriver/)
+- [ZennoBrowser MCP Server](https://awesomecua.com/zh/resources/github-zennolab-zennobrowser-mcp-server/)
+- [ZennoPoster MCP](https://awesomecua.com/zh/resources/github-zennolab-zennoposter-mcp/)
+- [Zhuque Recruiting (朱雀招聘)](https://awesomecua.com/zh/resources/github-shenkemin-sketch-zhuque-recruiting/)
+- [Zoom Search](https://awesomecua.com/zh/resources/github-goofrey-zoom-search/)
+- [zseven-w DSH Browser](https://awesomecua.com/zh/resources/github-zseven-w-dsh-browser/)
+- [zuhair-01 chrome-agent-bridge](https://awesomecua.com/zh/resources/github-zuhair-01-chrome-agent-bridge/)
+- [Agentic UI Testing Codelab](https://awesomecua.com/zh/resources/github-a-bhimava-agentic-ui-testing/)
+- [Agentic Web](https://awesomecua.com/zh/resources/github-saferl-lab-agentic-web/)
+- [Amazon Nova Act Samples](https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/)
+- [awb-recipes](https://awesomecua.com/zh/resources/github-jeet-dhandha-awb-recipes/)
+- [Awesome Plasmate](https://awesomecua.com/zh/resources/github-plasmate-labs-awesome-plasmate/)
+- [Building AI Browser Agents](https://awesomecua.com/zh/resources/url-aa693ca3e8948623f31e/)
+- [chromedp examples](https://awesomecua.com/zh/resources/github-chromedp-examples/)
+- [Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches](https://awesomecua.com/zh/resources/github-cdxeve-awesome-computer-use-agents/)
+- [Google Developer Codelab: Automated UI Testing with Antigravity (Agy) CLI, BrowserMCP, Playwright, and the Browser Agent](https://awesomecua.com/zh/resources/github-derailed-dash-agentic-ui-testing/)
+- [H.AI cookbook](https://awesomecua.com/zh/resources/github-hcompai-hai-cookbook/)
+- [linux-use-recipes](https://awesomecua.com/zh/resources/github-javimosch-linux-use-recipes/)
+- [Midscene Examples](https://awesomecua.com/zh/resources/github-web-infra-dev-midscene-example/)
+- [Open Operator](https://awesomecua.com/zh/resources/github-openhands-open-operator/)
+- [Plasmate Notebooks](https://awesomecua.com/zh/resources/github-plasmate-labs-notebooks/)
+- [Predicate SDK Playground](https://awesomecua.com/zh/resources/github-predicatesystems-predicate-sdk-playground/)
+- [Solari Cookbook](https://awesomecua.com/zh/resources/github-solari-sdk-solari-cookbook/)
+- [Steel Cookbook](https://awesomecua.com/zh/resources/github-steel-dev-steel-cookbook/)
+- [The TinyFish Cookbook](https://awesomecua.com/zh/resources/github-tinyfish-io-tinyfish-cookbook/)
+- [Web Browser Automation with Agents (smolagents tutorial)](https://awesomecua.com/zh/resources/url-5857c840372512cfe3fc/)

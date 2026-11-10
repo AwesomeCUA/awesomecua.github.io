@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/13/
 
 完整列表：https://awesomecua.com/zh/topics/grounding/index.md
 
+- [Cappuccino](https://awesomecua.com/zh/resources/github-gml-fmgroup-cappuccino/)
+- [CaptiOCR](https://awesomecua.com/zh/resources/github-carlosacchi-captiocr/)
+- [CGL (Continual GUI Learning)](https://awesomecua.com/zh/resources/github-skounputer-cgl/)
+- [Claude Computer Use Demo for macOS](https://awesomecua.com/zh/resources/github-pallavag-claude-computer-use-macos/)
 - [Claude Computer-Use Tools MCP Server](https://awesomecua.com/zh/resources/github-yossifibrahem-computer-use-mcp-server/)
 - [clef-use](https://awesomecua.com/zh/resources/github-kotori0919-clef-use/)
 - [ClickAgent](https://awesomecua.com/zh/resources/github-samsung-clickagent/)
@@ -60,7 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/13/
 - [FerrisGrid-CLI](https://awesomecua.com/zh/resources/github-brunov21-ferrisgrid-cli/)
 - [FinalRun](https://awesomecua.com/zh/resources/url-3b99bbbd3480dbc1ec6b/)
 - [FIVE-UI-Evol](https://awesomecua.com/zh/resources/github-microsoft-five-ui-evol/)
-- [Frigate](https://awesomecua.com/zh/resources/github-rao-studios-frigate/)
-- [frontprompt](https://awesomecua.com/zh/resources/github-surrealmindai-frontprompt/)
-- [GACUA](https://awesomecua.com/zh/resources/github-openmule-gacua/)
-- [Game AI - Balatro](https://awesomecua.com/zh/resources/github-proj-airi-game-playing-ai-balatro/)

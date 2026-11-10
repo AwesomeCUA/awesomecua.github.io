@@ -4,10 +4,12 @@ HTML page: https://awesomecua.com/topics/automation/page/5/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
+- [AI Browser Bridge](https://awesomecua.com/resources/github-xinqi5921-ai-browser-bridge/)
 - [AI Deep Search Agent (AI 深度搜索助手)](https://awesomecua.com/resources/github-gupi-bill-ai-deep-search-agent/)
 - [AI Medical Claim Form-Filling Agent](https://awesomecua.com/resources/github-caicai-jin-ai-medicalclaimform-filling-agent/)
 - [AI Mime](https://awesomecua.com/resources/github-prakhar1114-ai-mime/)
 - [ai-browser-bridge](https://awesomecua.com/resources/github-yosefhayim-ai-browser-bridge/)
+- [ai-phone](https://awesomecua.com/resources/github-dongxinsuperman-ai-phone/)
 - [AI-Work](https://awesomecua.com/resources/github-peiwenzhang-git-ai-work/)
 - [AI-XiaoDao Browser MCP Server](https://awesomecua.com/resources/github-ai-xiaodao-ai-browser-mcp/)
 - [AiBrowser for Android](https://awesomecua.com/resources/github-doable-team-aibrowser-android/)
@@ -33,6 +35,8 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Anchor-Inference Daedalus](https://awesomecua.com/resources/github-anchor-inference-daedalus/)
 - [android-mcp-beta](https://awesomecua.com/resources/github-cursortouch-android-mcp/)
 - [Android-MCP-go](https://awesomecua.com/resources/github-tintupratap-android-mcp-go/)
+- [android-uiautomator-server](https://awesomecua.com/resources/github-openatx-android-uiautomator-server/)
+- [android-uiautomator-server-jar](https://awesomecua.com/resources/github-openatx-android-uiautomator-server-jar/)
 - [android-use](https://awesomecua.com/resources/github-austinintelligence-android-use/)
 - [android_mcp](https://awesomecua.com/resources/github-void032-android-mcp/)
 - [AndroidClaw](https://awesomecua.com/resources/github-xiuqianli1996-androidclaw/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [appium-android](https://awesomecua.com/resources/github-appium-appium-android/)
 - [appium-ios](https://awesomecua.com/resources/github-appium-appium-ios/)
 - [appium-ios-device](https://awesomecua.com/resources/github-appium-appium-ios-device/)
-- [Apprentice](https://awesomecua.com/resources/github-bluzername-apprentice/)
-- [arc-control-mcp](https://awesomecua.com/resources/github-db-25-arc-control-mcp/)
-- [arc-cua](https://awesomecua.com/resources/github-shhivv-arc-cua/)
-- [Arelis](https://awesomecua.com/resources/github-sanct1x-arelis/)

@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/sandbox/page/3/
 
 Full list: https://awesomecua.com/topics/sandbox/index.md
 
+- [aic-pod](https://awesomecua.com/resources/github-veypi-aic-pod/)
 - [Ailoy](https://awesomecua.com/resources/github-brekkylab-ailoy/)
 - [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/)
 - [Airbrowser MCP](https://awesomecua.com/resources/github-ifokeev-airbrowser-mcp/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/resources/github-tmustier-codex-computer-use-mcp/)
 - [Computer Agents](https://awesomecua.com/resources/url-e73eb2f901a50145c37e/)
 - [Computer Use (gVisor Cloud REPL)](https://awesomecua.com/resources/github-r33drichards-computer-use/)
-- [Computer Use VM](https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/)

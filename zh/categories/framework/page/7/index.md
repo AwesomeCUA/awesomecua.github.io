@@ -4,6 +4,16 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/7/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [TestDriver SDK](https://awesomecua.com/zh/resources/github-testdriverai-testdriverai/)：Vitest 插件，可创建临时设备，并使用基于视觉的 LLM 构建网页应用、桌面应用和浏览器扩展的端到端测试。
+- [TEX (tex-browse-use)](https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/)：面向 Claude Code 的自托管浏览器使用引擎，通过操控真实浏览器操作缺少 API 的网页应用。
+- [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)：THEIA（The Human Environment Intelligence Aperture）是面向 AI 智能体的视觉感知和 UI 计算机使用插件及框架。
+- [Threadline WebMCP](https://awesomecua.com/zh/resources/github-jameswirths-threadline/)：面向浏览器智能体的 WebMCP 参数调试器和研究工作区，具备人工把关的来源追踪功能。
+- [TideSurf](https://awesomecua.com/zh/resources/github-tidesurf-core/)：TideSurf 通过精简的结构化 DOM 压缩将 Chromium 连接到 LLM 智能体，每个网页只需 50 至 200 个 token。
+- [tinybrowser](https://awesomecua.com/zh/resources/github-tinyhumansai-tinybrowser/)：适用于 Rust 的智能体浏览器 API 和 TinyBus 模块，用于管理无头及有界面的网页会话。
+- [tinycomputer](https://awesomecua.com/zh/resources/github-tinyhumansai-tinycomputer/)：用于快速执行桌面和浏览器动作的 Jev 决策模型测试框架。
+- [TongUI training and inference framework](https://awesomecua.com/zh/resources/github-tongui-agent-tongui-agent/)：提供基于教程训练的 GUI 模型的训练配置、预处理和推理示例，包括 LLaMA-Factory 微调流程及截图定位接口。
+- [ToolGen](https://awesomecua.com/zh/resources/github-reason-wang-toolgen/)：ToolGen 将外部工具表示为虚拟词表 token，通过自回归生成统一大规模工具检索与执行。
+- [ToolTok](https://awesomecua.com/zh/resources/github-zephinuecode-tooltok/)：ToolTok 引入原子化的方向性光标移动词元，用于在 ScreenSpot 和 ScreenSpot-Pro 上进行多步迭代式 GUI 视觉定位。
 - [TopoClaw](https://awesomecua.com/zh/resources/github-madeagents-topoclaw/)：TopoClaw 是具备拓扑感知能力的多智能体数字助手，支持技能验证，并在桌面、网页和移动端执行沙箱化操作。
 - [Touchline](https://awesomecua.com/zh/resources/github-edenbuilds-touchline/)：多智能体浏览器团队，基于证据检查网站并重建前端。
 - [Touchpoint](https://awesomecua.com/zh/resources/github-touchpoint-labs-touchpoint/)：Touchpoint 是跨平台桌面无障碍 API 和 MCP 服务器，为 AI 智能体提供统一的 UI 检查与控制能力。

@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/categories/agent/page/3/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
+- [Buddy](https://awesomecua.com/resources/github-ghorbelhamdi-buddy-android/)
+- [BugCraft](https://awesomecua.com/resources/url-ec17d3267cd49548d2d4/)
+- [Butler](https://awesomecua.com/resources/github-coasty-ai-butler/)
+- [BX Browser](https://awesomecua.com/resources/github-painbaba-bx-browser/)
+- [Bytebot](https://awesomecua.com/resources/github-bytebot-ai-bytebot/)
+- [CAAP Agent](https://awesomecua.com/resources/github-caap-agent-caap-agent/)
+- [Caesar Agent](https://awesomecua.com/resources/github-jasonzliang-caesar-agent/)
 - [CalebNewtonUSC Nova (Mac Operator)](https://awesomecua.com/resources/github-calebnewtonusc-nova/)
 - [Cappuccino](https://awesomecua.com/resources/github-gml-fmgroup-cappuccino/)
 - [Cetus](https://awesomecua.com/resources/github-drewnekota-cetus/)
@@ -97,10 +104,3 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [Jcua (Jev Computer Use Agent)](https://awesomecua.com/resources/github-1deat0r-jcua/)
 - [Jev Browser Agent](https://awesomecua.com/resources/github-amyivychoi-jev-browser-agent/)
 - [Jev for Chrome](https://awesomecua.com/resources/github-chy4pro-jev-for-chrome/)
-- [Jev macOS Loop](https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/)
-- [jev-for-chrome](https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/)
-- [jev-use](https://awesomecua.com/resources/github-savka777-jev-use/)
-- [jev-windows-agent](https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/)
-- [Job Hunter](https://awesomecua.com/resources/github-liooo0-job-hunter/)
-- [Job Hunter AI](https://awesomecua.com/resources/github-fred-brown-3-job-hunter-ai/)
-- [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)

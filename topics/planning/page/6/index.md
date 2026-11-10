@@ -21,6 +21,7 @@ Full list: https://awesomecua.com/topics/planning/index.md
 - [MarketBench](https://awesomecua.com/resources/github-santos-sanz-marketbench/)
 - [WebWalker](https://awesomecua.com/resources/github-alibaba-nlp-webwalker/)
 - [Aguvis stage 2 trajectory data](https://awesomecua.com/resources/url-b5e2127e07f692d516b9/)
+- [ExACT-VWA](https://awesomecua.com/resources/url-792920a5f64df66d34d7/)
 - [GUI-CIDER causal knowledge data](https://awesomecua.com/resources/url-d0300db5ba754b1a64fa/)
 - [GUIMid training data](https://awesomecua.com/resources/url-422010da7a5c845a18f6/)
 - [lumos_unified_plan_iterative](https://awesomecua.com/resources/url-543aff764901777e6ad5/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/planning/index.md
 - [InfiGUI-R1](https://awesomecua.com/resources/github-reallm-labs-infigui-r1/)
 - [lumos_unified_ground_iterative-13B](https://awesomecua.com/resources/url-b0b2cd616f8c30b4b09d/)
 - [lumos_unified_plan_iterative](https://awesomecua.com/resources/url-457c2111894524e9dfda/)
-- [lumos_unified_plan_iterative-13B](https://awesomecua.com/resources/url-eb6a5940793aa81153d0/)

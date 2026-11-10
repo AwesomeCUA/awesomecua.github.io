@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/safety-security/index.md
 
+- [agent-browser-plugin-proton-pass](https://awesomecua.com/zh/resources/github-evrenverse-agent-browser-plugin-proton-pass/)
 - [Agent-OS (J.A.R.V.I.S. macOS Harness)](https://awesomecua.com/zh/resources/github-my-cmdhub-agent-os/)
 - [AgentCurtain](https://awesomecua.com/zh/resources/github-felixlark-agent-curtain/)
 - [Agentic Shopping Autopilot](https://awesomecua.com/zh/resources/github-andriishramko-agentic-shopping-autopilot/)
@@ -24,6 +25,7 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/7/
 - [bitwarden-use](https://awesomecua.com/zh/resources/github-leeguooooo-bitwarden-use/)
 - [BLAXCY](https://awesomecua.com/zh/resources/github-alex3430143-blaxcyds/)
 - [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/zh/resources/github-momoyi0929-gui-agent/)
+- [Brotector](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-brotector/)
 - [Browser Agent Bridge](https://awesomecua.com/zh/resources/github-rxluz-browser-agent-bridge/)
 - [Browser Bridge MCP](https://awesomecua.com/zh/resources/github-adbarc92-mcp-browser-bridge/)
 - [Browser Control MCP](https://awesomecua.com/zh/resources/github-eyalzh-browser-control-mcp/)
@@ -35,6 +37,7 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/7/
 - [browser-action-receipt](https://awesomecua.com/zh/resources/github-scalar-atelier-browser-action-receipt/)
 - [browser-bridge](https://awesomecua.com/zh/resources/github-whg517-browser-bridge/)
 - [browser-handoff](https://awesomecua.com/zh/resources/github-synacktraa-browser-handoff/)
+- [browser-with-fingerprints](https://awesomecua.com/zh/resources/github-bablosoft-browser-with-fingerprints/)
 - [BrowserGuard](https://awesomecua.com/zh/resources/github-david-wu1119-browserguard/)
 - [BrowserRig](https://awesomecua.com/zh/resources/github-castor6-browserrig/)
 - [Buddy](https://awesomecua.com/zh/resources/github-ghorbelhamdi-buddy-android/)
@@ -48,6 +51,7 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/7/
 - [Clawd Cursor](https://awesomecua.com/zh/resources/github-amrdab-clawdcursor/)
 - [Codex Chrome Browser Control Skill](https://awesomecua.com/zh/resources/github-qlk-x-codex-chrome-browser-control/)
 - [cookie-use](https://awesomecua.com/zh/resources/github-leeguooooo-cookie-use/)
+- [Cowork Protocol](https://awesomecua.com/zh/resources/github-ellmos-ai-cowork-protocol/)
 - [cua_agent](https://awesomecua.com/zh/resources/github-lacassef-computeruse/)
 - [CUGA](https://awesomecua.com/zh/resources/github-cuga-project-cuga-agent/)
 - [Cyber Seeds WebMCP](https://awesomecua.com/zh/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/)
@@ -60,7 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/7/
 - [dibs](https://awesomecua.com/zh/resources/github-joshteravest-dibs/)
 - [DispatchShield](https://awesomecua.com/zh/resources/github-venusone-lee-dispatchshield/)
 - [DjangoAILab DSH Plugins](https://awesomecua.com/zh/resources/github-djangoailab-dsh-plugins/)
-- [DoomArena](https://awesomecua.com/zh/resources/github-servicenow-doomarena/)
-- [DrishtiGuard](https://awesomecua.com/zh/resources/github-atharvasamant4-drishtiguard/)
-- [DSB (逗沙包)](https://awesomecua.com/zh/resources/github-tianye1999-dsb/)
-- [DSH Desktop Operator](https://awesomecua.com/zh/resources/github-zjh02249-dsh-desktop-operator/)

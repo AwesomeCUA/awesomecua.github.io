@@ -1,0 +1,31 @@
+# invisible_puppeteer
+
+A Python package with pyppeteer's Puppeteer API that drives an anti-detect Firefox, setting the browser fingerprint inside the engine and moving the mouse along humanized paths.
+
+- Catalog URL: https://awesomecua.com/resources/github-feder-cr-invisible-puppeteer/
+- Original source: https://github.com/feder-cr/invisible_puppeteer
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-10T06:29:23Z
+- ID: github:feder-cr/invisible_puppeteer
+
+## Limitations
+
+Installed from PyPI as invisible-puppeteer; its fetch command downloads the patched Firefox engine. It supports Windows x86_64/ARM64 and Linux x86_64, seeded fingerprints, proxies and persistent profiles. MIT license; the Firefox binary is MPL-2.0.
+
+- Record JSON: https://awesomecua.com/resources/github-feder-cr-invisible-puppeteer/record.json
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/feder-cr/invisible_puppeteer/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/feder-cr/invisible_puppeteer/eab9ce88060cc59e51ba1b76d271fe595ea70072/README.md (retrieved 2026-11-10T06:29:23Z; SHA-256 9083f941112d8d073784293eabd24f2a6f2fe813a4415a0d114d53105d41f716)
+- https://raw.githubusercontent.com/feder-cr/invisible_puppeteer/HEAD/LICENSE (retrieved 2026-11-10T06:22:24Z; SHA-256 2abb03e63a96918967f383cbc36e3faefe10a47ae20b2cab43212ef965e02f96)

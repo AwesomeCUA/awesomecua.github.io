@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/grounding/index.md
 
+- [Aguvis-7B-720P](https://awesomecua.com/zh/resources/url-ac62da857db91f68376b/)
 - [AGW-35B](https://awesomecua.com/zh/resources/url-39e2a96f88ed3223ece9/)
 - [Aria-UI](https://awesomecua.com/zh/resources/github-ariaui-aria-ui/)
 - [Aria-UI context-aware checkpoint](https://awesomecua.com/zh/resources/url-085b6811ddd6f797475d/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/8/
 - [GUI-G2 7B](https://awesomecua.com/zh/resources/url-90eea6f6d099a3297850/)
 - [GUI-Libra](https://awesomecua.com/zh/resources/github-gui-libra-gui-libra/)
 - [GUI-Libra 3B](https://awesomecua.com/zh/resources/url-ae8e3fa5a67a608804f8/)
-- [GUI-Libra 4B](https://awesomecua.com/zh/resources/url-9082bb5effe5d1a1cada/)

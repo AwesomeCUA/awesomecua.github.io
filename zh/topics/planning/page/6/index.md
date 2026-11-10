@@ -21,6 +21,7 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/6/
 - [MarketBench](https://awesomecua.com/zh/resources/github-santos-sanz-marketbench/)
 - [WebWalker](https://awesomecua.com/zh/resources/github-alibaba-nlp-webwalker/)
 - [Aguvis stage 2 trajectory data](https://awesomecua.com/zh/resources/url-b5e2127e07f692d516b9/)
+- [ExACT-VWA](https://awesomecua.com/zh/resources/url-792920a5f64df66d34d7/)
 - [GUI-CIDER causal knowledge data](https://awesomecua.com/zh/resources/url-d0300db5ba754b1a64fa/)
 - [GUIMid training data](https://awesomecua.com/zh/resources/url-422010da7a5c845a18f6/)
 - [lumos_unified_plan_iterative](https://awesomecua.com/zh/resources/url-543aff764901777e6ad5/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/6/
 - [InfiGUI-R1](https://awesomecua.com/zh/resources/github-reallm-labs-infigui-r1/)
 - [lumos_unified_ground_iterative-13B](https://awesomecua.com/zh/resources/url-b0b2cd616f8c30b4b09d/)
 - [lumos_unified_plan_iterative](https://awesomecua.com/zh/resources/url-457c2111894524e9dfda/)
-- [lumos_unified_plan_iterative-13B](https://awesomecua.com/zh/resources/url-eb6a5940793aa81153d0/)

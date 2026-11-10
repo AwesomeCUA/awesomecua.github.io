@@ -941,6 +941,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   WebGen-Bench evaluates generated websites with automated tests, including a UI agent that carries out interactions and checks outcomes. The repository supplies evaluation code and data.
 - [WebGuard](https://awesomecua.com/resources/github-osu-nlp-group-webguard/) — Date not recorded
   Codebase, annotation toolkit, and action-level risk dataset for training and evaluating guardrail models that flag unsafe browser-agent actions before execution.
+- [WebHarbor](https://awesomecua.com/resources/github-aiming-lab-webharbor/) — Date not recorded
+  Docker-based local mirrors of 153 real websites with auth and databases, plus 3,518 tasks with verifiers for evaluating and RL-training GUI web agents, and a control plane for sub-second site resets.
 - [WebLINX](https://awesomecua.com/resources/github-mcgill-nlp-weblinx/) — Date not recorded
   Demonstrations and evaluation for conversational web navigation.
 - [WebLINX 1.1 (WebLINX-BrowserGym)](https://awesomecua.com/resources/url-77afb3a9b045a157167c/) — Date not recorded
@@ -980,6 +982,10 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
 
 - [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/resources/url-3ab90a696d8578c944c8/) — Date not recorded
   AgentLab run logs of the A3-Qwen3.5-9B web agent on BrowserGym benchmarks, stored per task as step JSON files with goals, page URLs, DOM and accessibility observations and actions; this address opens the WebArena folder.
+- [agentboard](https://awesomecua.com/resources/url-be5b952e5f0b4b7e4747/) — Date not recorded
+  Evaluation data of the AgentBoard benchmark for multi-turn LLM agents: 9 tasks in embodied, game, web and tool settings, including WebShop and WebArena, with goals, subgoals and difficulty labels.
+- [AgentGym-RL-Data-ID](https://awesomecua.com/resources/url-9140ca5ba8252d373b8d/) — Date not recorded
+  Train and eval task splits for AgentGym-RL multi-turn reinforcement learning, listing task IDs for WebArena web navigation alongside search, game, embodied and science environments.
 - [AgentRewardBench dataset](https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/) — Date not recorded
   Hugging Face dataset release for AgentRewardBench containing trajectory evaluation instances across WebArena, VisualWebArena, AssistantBench, WorkArena, and OSWorld.
 - [AssistantBench](https://awesomecua.com/resources/url-447997967beea3b07f6f/) — Date not recorded
@@ -992,6 +998,12 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   A browser-agent task corpus for everyday work on live websites, with V1 and V2 test splits, task context, and schemas that intercept final submissions.
 - [ClawBenchV2Trace](https://awesomecua.com/resources/url-3452cef2f99d7de2935a/) — Date not recorded
   Raw execution traces of browser-agent runs on the 130-task ClawBench V2 set, each with a screen recording, network capture, browser action stream, agent reasoning, the intercepted final request and a judge verdict.
+- [CognitiveKernel-Pro-Query](https://awesomecua.com/resources/url-2304547d5025246abbe4/) — Date not recorded
+  CognitiveKernel-Pro-Query holds the training queries generated for Cognitive Kernel-Pro: multi-hop URLQA and hint-annotated AgentWebQA in JSONL, used to sample web agent trajectories.
+- [CognitiveKernel-Pro-SFT](https://awesomecua.com/resources/url-7c431ccb1d5dc1f035d8/) — Date not recorded
+  CognitiveKernel-Pro-SFT contains rejection-sampled GPT-4.1 trajectories for fine-tuning Cognitive Kernel-Pro agents, from URLQA web queries, DocBench, TableBench and a WebWalkerQA subset.
+- [ExACT-VWA](https://awesomecua.com/resources/url-792920a5f64df66d34d7/) — Date not recorded
+  Post-processed R-MCTS and GPT-4o agent trajectories collected on VisualWebArena, stored as context and response pairs with domain and task metadata; part of the set was used to fine-tune GPT-4o.
 - [Go-Browse-WA processed data](https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/) — Date not recorded
   Flattened web-interaction training records with accessibility-tree observations, assistant completions, trajectory rewards and step-link metadata.
 - [go-browse-wa-raw](https://awesomecua.com/resources/url-edb0eadcc3df5559e941/) — Date not recorded
@@ -1090,6 +1102,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Hugging Face copy of the 70 WebsiteBench tasks in Harbor format, where agents explore a production-level reference website in a browser and rebuild a full-stack clone scored by hidden functional and visual tests.
 - [WebSRC](https://awesomecua.com/resources/github-x-lance-websrc-baseline/) — Date not recorded
   WebSRC provides baseline models and processing pipelines for the Web-Based Structural Reading Comprehension dataset over HTML and screenshots.
+- [westworld](https://awesomecua.com/resources/url-b43faa43e897c074b7c8/) — Date not recorded
+  The task dataset of the Halluminate Westworld web-agent benchmark: 100 validation tasks across e-commerce and travel sites, each with a generation config, domain, categories, difficulty and step limit.
 - [world_model_for_wa_desc_with_tao_dataset](https://awesomecua.com/resources/url-96bb23bd687d6c227a41/) — Date not recorded
   Training data for the world model of the WMA web agent: 14744 steps pairing an objective, previous actions, an observation and the current action with the next state and a description of what changed.
 - [world_model_for_wa_desc_with_tao_formatted_w_cot](https://awesomecua.com/resources/url-3ef18fbb67e0376561db/) — Date not recorded
@@ -1187,6 +1201,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Encoder-only DeBERTa-v3-base model from MindAct that scores task query and page element pairs, so the top 50 candidates on a Mind2Web page go on to the action prediction model.
 - [nnetnav-wa-qwen-7B](https://awesomecua.com/resources/url-511ba336435d406f3761/) — Date not recorded
   Qwen-2.5-7B-Instruct fine-tuned on the NNetNav-WA WebArena trajectories, released by the Go-Browse project as its NNetNav-7B comparison model for WebArena web navigation.
+- [OmniJev](https://awesomecua.com/resources/url-6bdda64c5782f03b0f54/) — Date not recorded
+  OmniJev v1.1 is a 4B LoRA adapter with decision heads for Qwen3.5-4B that answers typed questions about screens and other images with probabilities; its task families include androidcontrol and web.
 - [OpAgent-32B](https://awesomecua.com/resources/url-875b417b3ef43021cd74/) — Date not recorded
   A vision-language model fine-tuned for web navigation. It takes a task instruction and webpage screenshot and produces a browser action or final answer.
 - [OpenCSG-Qwen2.5-7B-GUI](https://awesomecua.com/resources/url-2462fb9d529bac7fa896/) — Date not recorded
@@ -1223,6 +1239,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.
 - [Qwen-CUA](https://awesomecua.com/resources/url-a886fea306211d527701/) — Date not recorded
   Qwen-CUA is a screenshot-based computer-use model that generates grounded keyboard and mouse actions. Its release includes weights and a browser reference runtime.
+- [Qwen3-8B-CK-Pro](https://awesomecua.com/resources/url-f06109ae04d4c3133f90/) — Date not recorded
+  Qwen3-8B-CK-Pro is the CK-Pro-8B agent foundation model from Cognitive Kernel-Pro, fine-tuned from Qwen3-8B on self-collected trajectories; the card reports 32.7% Pass@1 on the GAIA dev set.
 - [Qwen3-8B-FormFactory-GRPO-LoRA](https://awesomecua.com/resources/url-4a3799bd1b6db15afffe/) — Date not recorded
   Qwen3-8B-FormFactory-GRPO-LoRA is a browser form-filling adapter for Qwen3-8B, trained with supervised initialization and online GRPO using real browser execution.
 - [Qwen3-8B-FormFactory-SFT-LoRA](https://awesomecua.com/resources/url-994d4cf27b0931fb53e3/) — Date not recorded
@@ -1266,6 +1284,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Governed credential-injection and browser-control bridge where AI agents operate authenticated sessions without seeing raw secrets.
 - [@jshookmcp/jshook](https://awesomecua.com/resources/github-vmoranv-jshookmcp/) — Date not recorded
   An MCP server for agent-assisted front-end analysis that combines browser automation, network inspection, and JavaScript and WASM analysis tools.
+- [@mcp-b](https://awesomecua.com/resources/github-webmcp-org-npm-packages/) — Date not recorded
+  TypeScript packages that connect pages registering tools through the WebMCP document.modelContext API to MCP, so agents in an extension, the browser or desktop clients can call them.
 - [Accio Work](https://awesomecua.com/resources/url-07f92766e53439739eab/) — Date not recorded
   Agent workspace powered by Alibaba for small-business sourcing, store operations and marketing, whose agents can operate the user's own Chromium browser to navigate, click, type, take screenshots and extract data.
 - [action-receipt](https://awesomecua.com/resources/github-jeremiahm37-action-receipt/) — Date not recorded
@@ -1416,6 +1436,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Model Context Protocol server for searching and controlling Amazon Music playback from Claude Desktop.
 - [Amazon Nova Act](https://awesomecua.com/resources/url-dec156cbf0cb1181f7b6/) — Date not recorded
   AWS service for building and deploying agents that automate browser-based UI workflows from natural language and Python, powered by a custom Nova 2 Lite model.
+- [Amazon Nova Act Human Intervention Service](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-human-intervention/) — Date not recorded
+  A reference AWS deployment that adds approval requests and live UI takeover to Nova Act browser workflows, with a Python client SDK and CDK stacks.
 - [Amazon Return Skill](https://awesomecua.com/resources/github-peterquads-amazon-return/) — Date not recorded
   Claude browser skill that completes end-to-end Amazon return workflows inside the user's signed-in browser.
 - [Anchor](https://awesomecua.com/resources/url-74a98d385b656cf5e980/) — Date not recorded
@@ -1446,6 +1468,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Solari browser agent that cross-examines job postings against live product websites to verify engineering roles.
 - [Appwalk](https://awesomecua.com/resources/github-kubstack-appwalk/) — Date not recorded
   AI-powered CLI that explores a web application in a browser and compiles the run into verified Playwright test suites.
+- [ARC CUA](https://awesomecua.com/resources/github-itw-code-arc-cua/) — Date not recorded
+  Browser harness that gives an agent a token-budgeted accessibility tree with indexed actions and checks each action for state change, plus a document-to-form pipeline and an MCP server.
 - [arc-control-mcp](https://awesomecua.com/resources/github-db-25-arc-control-mcp/) — Date not recorded
   Model Context Protocol server that drives the Arc browser on macOS, including spaces, tabs, navigation, and page interaction.
 - [Arelis](https://awesomecua.com/resources/github-sanct1x-arelis/) — Date not recorded
@@ -1648,6 +1672,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Official CapSolver integration tools for Browser Use agents to detect and resolve CAPTCHA challenges during web workflows.
 - [browser-use-rs](https://awesomecua.com/resources/github-bb-fat-browser-use-rs/) — Date not recorded
   browser-use-rs is a lightweight pure-Rust library for driving Chromium browsers over the Chrome DevTools Protocol with LLM agents.
+- [browser-with-fingerprints](https://awesomecua.com/resources/github-bablosoft-browser-with-fingerprints/) — Date not recorded
+  A Windows Node.js package that launches browsers with fingerprints fetched from the FingerprintSwitcher service and serves as the base for framework-specific plugins.
 - [Browser4](https://awesomecua.com/resources/github-platonai-browser4/) — Date not recorded
   Browser4 is an AI-native browser engine and coroutines runtime for high-concurrency web agents, workflow automation, and page extraction.
 - [Browserable](https://awesomecua.com/resources/github-browserable-browserable/) — Date not recorded
@@ -1768,6 +1794,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Browser companion that lets Grok and other AI agents drive an already-open Chrome window.
 - [Chrome Agent Bridge](https://awesomecua.com/resources/github-escapewu-chrome-agent-bridge/) — Date not recorded
   A local Chrome extension and MCP server connect agents to an existing browser session for page inspection, navigation, interface actions, and debugging.
+- [Chrome Bridge](https://awesomecua.com/resources/github-frsorrentino-chrome-bridge/) — Date not recorded
+  MCP server and Chrome extension that let Claude Code operate the user's signed-in Chrome with 69 tools covering forms, navigation, DOM and network inspection, audits and WebMCP tools declared by pages.
 - [Chrome Control MCP](https://awesomecua.com/resources/github-randynorthrup-chrome-control-mcp/) — Date not recorded
   Visible, secure Chrome control server for AI assistants using MCP, Native Messaging, and the Chrome DevTools Protocol.
 - [Chrome DevTools MCP Persistent Bridge](https://awesomecua.com/resources/github-dev-newb-chrome-devtools-mcp-persistent-bridge/) — Date not recorded
@@ -1808,6 +1836,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Lets coding agents (Claude Code, Codex CLI) drive the user's real logged-in Chrome browser to click, fill forms, and inspect pages.
 - [ChromeMCP (WSL2-to-Windows Bridge)](https://awesomecua.com/resources/github-rizonetech-chromemcp/) — Date not recorded
   Allows coding agents running inside WSL2 Linux to drive the host's signed-in Windows Chrome browser over Playwright MCP.
+- [Chromium Bridge](https://awesomecua.com/resources/github-dashi96-chromium-bridge/) — Date not recorded
+  Chrome extension and stdio MCP server that let Claude Code drive any Chromium browser with tabs, clicks, typing, screenshots and accessibility-tree reads, plus an in-browser chat panel with an approval mode.
 - [chromium-screenshots](https://awesomecua.com/resources/github-samestrin-chromium-screenshots/) — Date not recorded
   Playwright-based MCP server and API that captures zero-drift Chromium screenshots paired with authenticated DOM state for vision agents.
 - [ChromiumFish](https://awesomecua.com/resources/github-arman-bd-chromiumfish/) — Date not recorded
@@ -1846,6 +1876,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Chrome Manifest V3 command center for OpenClaw agents to capture page context, review planned actions, and monitor runs.
 - [Clearcote Browser](https://awesomecua.com/resources/github-clearcotelabs-clearcote-browser/) — Date not recorded
   Open-source stealth Chromium browser with engine-level fingerprint spoofing designed as a drop-in runtime for AI web agents.
+- [Clearcote Jet](https://awesomecua.com/resources/github-clearcotelabs-clearcote-jet/) — Date not recorded
+  A browser agent that reads a page, picks each next step with a decision model and acts in Clearcote with curved mouse paths and key-by-key typing; finished tasks are saved as skills that replay without model calls.
 - [Clearcote Profile Manager](https://awesomecua.com/resources/github-clearcotelabs-clearcote-profile-manager/) — Date not recorded
   A desktop and web app for managing persistent browser profiles. Its task feature learns a procedure in one profile and repeats it across others with approval before irreversible clicks.
 - [clickcast](https://awesomecua.com/resources/github-alexkay28-clickcast/) — Date not recorded
@@ -1870,6 +1902,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   A macOS terminal and workspace app with a scriptable browser that lets agents inspect page accessibility data, click elements, fill forms and run JavaScript.
 - [cmux-skill](https://awesomecua.com/resources/github-george4data-cmux-skill/) — Date not recorded
   Agent skill enabling Claude Code and coding agents to drive the `cmux` terminal and embedded browser workspace.
+- [cmux-skills](https://awesomecua.com/resources/github-manaflow-ai-cmux-skills/) — Date not recorded
+  Agent Skills for the cmux macOS terminal that teach coding agents its CLI, workspaces and panes, and how to drive its embedded browser with snapshots, element refs, clicks, waits and screenshots.
 - [Cockroach Browser](https://awesomecua.com/resources/github-ajnasnb-cockroach-browser/) — Date not recorded
   Local-first browser automation platform for AI agents supporting isolated Chromium, Firefox, and WebKit profiles.
 - [Coddy](https://awesomecua.com/resources/github-coddy-project-coddy-agent/) — Date not recorded
@@ -1890,6 +1924,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Codex skill for reliable, filename-aware local file uploads into browser file-input dialogs.
 - [CodexQA Jev Browser](https://awesomecua.com/resources/github-openqa-cn-jev-browser/) — Date not recorded
   CodexQA Jev Browser operates Playwright pages through indexed controls and model-selected actions, with case replay and reports based on visible page evidence.
+- [Cognitive Kernel](https://awesomecua.com/resources/github-tencent-cogkernel/) — Date not recorded
+  Cognitive Kernel is a dockerized agent system whose fine-tuned policy model drives a Playwright browser by clicking, typing and scrolling, alongside file handling and long-term memory.
 - [Cognitive Kernel-Pro](https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/) — Date not recorded
   Cognitive Kernel-Pro is a deep-research agent with a browser-backed web component and multimodal model configuration. Its repository includes code and examples for running research tasks.
 - [Collection of WebMCP tools](https://awesomecua.com/resources/github-googlechromelabs-webmcp-tools/) — Date not recorded
@@ -1910,6 +1946,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Lifecycle-safe Cordis plugin suite for orchestrating ProfileFleet, OpenAI Codex, and multi-profile browser workflows.
 - [CowAgent](https://awesomecua.com/resources/github-zhayujie-cowagent/) — Date not recorded
   CowAgent is an open-source assistant that plans tasks and controls a computer, browser, and external services. It combines browser tools with memory, skills, and service integrations.
+- [Cowork Protocol](https://awesomecua.com/resources/github-ellmos-ai-cowork-protocol/) — Date not recorded
+  A WebMCP collaboration protocol for people and web agents: agents read bounded field focus packets, propose visible changes that a human click applies, and act alone only inside scoped leases.
 - [CraftDriver](https://awesomecua.com/resources/github-dtopuzov-craftdriver/) — Date not recorded
   CraftDriver automates browsers through WebDriver and BiDi, with locators, actions, assertions, traces, and a CLI that lets coding agents inspect live pages.
 - [Crawl4AI](https://awesomecua.com/resources/github-unclecode-crawl4ai/) — Date not recorded
@@ -2272,6 +2310,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Hanzi Browse is a site-adapter and browser execution layer that supplies structured YAML recipes for complex dynamic web applications.
 - [Harborage](https://awesomecua.com/resources/github-vadym-iefremov-harborage/) — Date not recorded
   On-demand pool manager providing isolated headless browser sessions for concurrent AI web agents.
+- [Harden Vanilla Puppeteer](https://awesomecua.com/resources/github-prescience-data-harden-puppeteer/) — Date not recorded
+  Patch-package diffs that edit core Puppeteer files to run page calls in an isolated world and strip Puppeteer strings from error traces and profile names, lowering automation detection.
 - [HarmonyGuard](https://awesomecua.com/resources/github-yurunchen-harmonyguard/) — Date not recorded
   HarmonyGuard enforces adaptive safety policies and dual-objective utility-security optimization for autonomous web and computer-use agents.
 - [HarvestNet](https://awesomecua.com/resources/github-lethe044-harvestnet/) — Date not recorded
@@ -2286,6 +2326,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Browser side-panel extension for Hermes Agent enabling the agent to observe and drive active Chrome tabs.
 - [Hermes Connector](https://awesomecua.com/resources/github-corsenai-hermes-connector/) — Date not recorded
   Hermes Connector is a Chrome extension that bridges Hermes Agent to the user's live browser tabs, DOM context, and authenticated sessions.
+- [Hermes Jev Skills](https://awesomecua.com/resources/github-kerpopule-hermes-jev-skills/) — Date not recorded
+  SKILL.md skills for Hermes, Claude Code and Codex agents that pass small decisions to the Jev model, including desktop and browser skills in which Jev picks each next action from a caller-built table.
 - [Hermes login-bridge Plugin](https://awesomecua.com/resources/github-kfastov-hermes-plugin-login-bridge/) — Date not recorded
   Hermes Agent plugin that temporarily hands the agent's browser session to a human operator to complete a login.
 - [Hermod](https://awesomecua.com/resources/github-klaiderman-hermod/) — Date not recorded
@@ -2346,6 +2388,10 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   invisible_playwright provides a drop-in Python Playwright client backed by an anti-detect Firefox build for stealth browser agent automation.
 - [invisible_playwright_mcp](https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/) — Date not recorded
   MCP server and local web UI that let an LLM drive an anti-detect Firefox build with moving-pointer and key-press input, seeded browser identities, optional proxies and persistent profiles.
+- [invisible_puppeteer](https://awesomecua.com/resources/github-feder-cr-invisible-puppeteer/) — Date not recorded
+  A Python package with pyppeteer's Puppeteer API that drives an anti-detect Firefox, setting the browser fingerprint inside the engine and moving the mouse along humanized paths.
+- [invisible_selenium](https://awesomecua.com/resources/github-feder-cr-invisible-selenium/) — Date not recorded
+  A Python package with Selenium's webdriver API that drives an anti-detect Firefox without geckodriver, setting the browser fingerprint inside the engine and moving the mouse along humanized paths.
 - [ITR Wala AI Agent](https://awesomecua.com/resources/github-aianytime-itr-wala-ai-agent/) — Date not recorded
   Terminal-driven browser agent that automates Indian income-tax-return preparation and portal filing with human review.
 - [IXR Agent](https://awesomecua.com/resources/github-vishnu-madhavan-git-ixr-agent/) — Date not recorded
@@ -2504,12 +2550,16 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Native macOS WKWebView web browser exposed directly as a Model Context Protocol server for AI agents.
 - [MCP Browser Use Server](https://awesomecua.com/resources/github-jovanipink-mcp-browser-use/) — Date not recorded
   FastAPI Model Context Protocol server that exposes browser-use autonomous web navigation workflows as callable MCP tools.
+- [MCP Link](https://awesomecua.com/resources/github-aurafriday-mcp-link/) — Date not recorded
+  A browser extension that lets chat AIs such as ChatGPT and Claude call user-approved MCP tools; with the companion MCP Link Server it adds automated browsing and web interactions.
 - [MCP Link Server](https://awesomecua.com/resources/github-aurafriday-mcp-link-server/) — Date not recorded
   A local MCP server that lets agents run approved system and browser tools, including web automation through a connected browser extension.
 - [MCP Master Puppeteer](https://awesomecua.com/resources/github-flrngel-mcp-master-puppeteer/) — Date not recorded
   MCP Master Puppeteer is a Puppeteer Model Context Protocol server optimized for minimal token usage via compact DOM/accessibility extraction.
 - [MCP Session Bridge](https://awesomecua.com/resources/github-t3ratech-mcp-session-bridge/) — Date not recorded
   Model Context Protocol server that drives the browser session the user is already signed into.
+- [MCP-B](https://awesomecua.com/resources/github-miguelspizza-webmcp/) — Date not recorded
+  The earlier MCP-B codebase: a Chrome extension that discovers and calls tools websites expose as MCP servers, a Cloudflare Workers backend and a native server that relays those tools to desktop MCP clients.
 - [mcp-camoufox](https://awesomecua.com/resources/github-agelyhq-mcp-camoufox/) — Date not recorded
   Browser automation MCP server built on the Camoufox anti-detect Firefox browser for bypassing bot walls during agent navigation.
 - [mcp-chrome-bridge](https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-chrome-bridge/) — Date not recorded
@@ -2518,6 +2568,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Cross-platform Model Context Protocol bridge for deterministic ChatGPT Web code and plan reviews from Codex or Claude Code.
 - [mcp-dia](https://awesomecua.com/resources/github-aissablk1-mcp-dia/) — Date not recorded
   Model Context Protocol server for controlling Dia Browser tabs, pages, and built-in AI features over the Chrome DevTools Protocol.
+- [mcp-patchright](https://awesomecua.com/resources/github-maestrojeong-mcp-patchright/) — Date not recorded
+  An MCP server built on Patchright that exposes 64 browser tools to agents, from accessibility snapshots with element refs to clicks, form filling, cookies and network control.
 - [MCP-RealBrowser](https://awesomecua.com/resources/github-obbbba-mcp-realbrowser/) — Date not recorded
   Model Context Protocol server providing 20 browser tools over a persistent, logged-in browser profile.
 - [mcp-server-browser-use](https://awesomecua.com/resources/github-saik0s-mcp-browser-use/) — Date not recorded
@@ -2584,6 +2636,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Safety-first Hermes browser agent for ordering food through a visible web browser with explicit checkout confirmation.
 - [naive-user](https://awesomecua.com/resources/github-techgardencode-naive-user/) — Date not recorded
   Source-blind browser agent that explores live web applications as a first-time user to uncover UX friction and broken flows.
+- [Nakama](https://awesomecua.com/resources/github-ahmadrosid-nakama/) — Date not recorded
+  A team AI agent platform, run as managed cloud or one Docker container, whose agents can drive a per-user Kernel cloud browser or Chrome on the server to open pages, click and fill forms.
 - [Nanobrowser](https://awesomecua.com/resources/github-nanobrowser-nanobrowser/) — Date not recorded
   A browser-extension agent that reads pages, interacts with elements and moves between tabs from a side-panel task interface.
 - [Nanobrowser Free AI](https://awesomecua.com/resources/github-aminemabrouk17-nanobrowser-free-ai/) — Date not recorded
@@ -2624,18 +2678,24 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Model Context Protocol server exposing 70 stealth Chrome workspace, DOM extraction, and interaction tools powered by `nodriver`.
 - [NOMOS Browser](https://awesomecua.com/resources/github-voltolini-space-nomos-browser/) — Date not recorded
   Governed AI agent web browser featuring a side-panel assistant, policy guardrails, and human handoff.
+- [Noodle Flights](https://awesomecua.com/resources/github-halluminate-noodle-flights/) — Date not recorded
+  A Next.js flight-search simulator for evaluating web agents, with one-way, round-trip and multi-city flows, deterministic seeded results and an OpenEnv wrapper for the Hugging Face OpenEnv Hub.
 - [Northstar (Legacy Portal CUA)](https://awesomecua.com/resources/github-zoyaarief-legacy-credit-union-automation/) — Date not recorded
   Discovers workflows on legacy credit-union web portals with an AI agent once and compiles them into deterministic scripts.
 - [NotebookLM Claude Code Skill](https://awesomecua.com/resources/github-pleaseprompto-notebooklm-skill/) — Date not recorded
   A Claude Code skill automates browser-based questions to NotebookLM and returns answers from uploaded documents. It includes scripts for authentication and notebook management.
 - [NotebookLM for Codex](https://awesomecua.com/resources/github-jockeys97-notebooklm-codex-skill/) — Date not recorded
   Codex skill that queries Google Gemini NotebookLM directly through browser automation.
+- [NotebookLM MCP Server](https://awesomecua.com/resources/github-pleaseprompto-notebooklm-mcp/) — Date not recorded
+  MCP server that operates Google NotebookLM in a real Chrome through Patchright, letting coding agents ask notebook questions, add sources, generate audio overviews and read citations.
 - [Notte](https://awesomecua.com/resources/github-nottelabs-notte/) — Date not recorded
   Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.
 - [Notte CLI](https://awesomecua.com/resources/github-nottelabs-notte-cli/) — Date not recorded
   A command-line tool for controlling remote browser sessions, handling files and running repeatable web automation workflows.
 - [Notte Skills](https://awesomecua.com/resources/github-nottelabs-notte-skills/) — Date not recorded
   Notte Skills equips coding agents to operate local or cloud browsers through browser actions and hosted MCP tools, with support for reusable automation functions.
+- [Nova Act Extension](https://awesomecua.com/resources/github-aws-nova-act-extension/) — Date not recorded
+  A VS Code, Kiro and Cursor extension for writing Nova Act browser-agent scripts, with chat-to-script generation, 7 templates, live debugging, an action viewer and AWS deployment.
 - [Nova Act SDK](https://awesomecua.com/resources/github-aws-nova-act/) — Date not recorded
   A Python SDK for defining and deploying browser agents that carry out UI workflows. Nova Act supports code-guided steps, human escalation and workflow monitoring.
 - [Nudge](https://awesomecua.com/resources/github-kaxxcode-nudge/) — Date not recorded
@@ -2732,6 +2792,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Historical OpenAI browser-agent research preview.
 - [Operit AI](https://awesomecua.com/resources/github-aaswordman-operit/) — Date not recorded
   An Android agent platform that operates app interfaces and web pages using visual screen understanding, device controls, and browser actions.
+- [Operit2](https://awesomecua.com/resources/github-aaswordman-operit2/) — Date not recorded
+  A cross-device personal agent in preview that continues conversations and tasks across phones, desktops and cloud nodes, with file, terminal and browser tools that click, type and snapshot web pages.
 - [ora webmcp](https://awesomecua.com/resources/github-ora-webmcp/) — Date not recorded
   Coding-agent plugin and toolkit for auditing, implementing, and verifying WebMCP support on websites.
 - [Oracle E-Business Suite Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/) — Date not recorded
@@ -2740,6 +2802,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   A browser automation scaffold for Oracle PeopleSoft that defines actions for queries, leave requests, employee records, and payroll workflows through Puppeteer or Anchor Browser.
 - [ORBIT framework](https://awesomecua.com/resources/github-wlanderson0-orbit/) — Date not recorded
   Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
+- [Orchard-Agentic](https://awesomecua.com/resources/github-microsoft-orchard-agentic/) — Date not recorded
+  Orchard-Agentic holds the Orchard environment service, an RL training stack and evaluation code, with recipes for software, browser-navigation and CLI agents and an index of follow-on projects.
 - [Ossabellator Bounded Computer-Use Runtime](https://awesomecua.com/resources/github-ossabellator-computer-use/) — Date not recorded
   Bounded computer-use runtime and semantic browser engine with explicit capability and policy enforcement.
 - [OSWorld Web](https://awesomecua.com/resources/github-task-web-osworld-web/) — Date not recorded
@@ -2786,6 +2850,12 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Lightweight in-browser AI agent framework that retrofits natural-language automation onto legacy enterprise web portals.
 - [Patchright](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/) — Date not recorded
   Patchright is a modified Playwright driver for Chromium automation, with browser interaction through Playwright-style APIs and separate client packages.
+- [Patchright .NET](https://awesomecua.com/resources/github-deventerprisesoftware-patchright-dotnet/) — Date not recorded
+  Patchright .NET is the .NET package of Patchright: a patched Playwright that replaces the Microsoft.Playwright package and drives Chromium with automation leaks removed.
+- [Patchright NodeJS](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/) — Date not recorded
+  Patchright NodeJS is the Node.js package of Patchright: a patched Playwright that drives Chromium through the standard JavaScript API with automation leaks removed.
+- [Patchright Python](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/) — Date not recorded
+  Patchright Python is the Python package of Patchright: a patched Playwright that drives Chromium through the usual sync and async APIs with automation leaks removed.
 - [PawWork (爪爪 / BrowserKitten)](https://awesomecua.com/resources/github-player-yn-browserkitten/) — Date not recorded
   Selection-first Chrome web agent where users highlight elements on the live page to scope and guide agent actions.
 - [pebkac](https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/) — Date not recorded
@@ -2828,12 +2898,16 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   A web-agent framework that separates high-level planning from action execution, with replanning and synthetic planner-data generation components.
 - [Plasmate](https://awesomecua.com/resources/github-plasmate-labs-plasmate/) — Date not recorded
   Plasmate is a Rust browser engine for AI agents that transforms HTML and DOM state into a compact, actionable Semantic Object Model.
+- [Plasmate Skill for OpenClaw](https://awesomecua.com/resources/github-plasmate-labs-skill-openclaw/) — Date not recorded
+  OpenClaw skill with an Agent Web Protocol client that drives a local Plasmate server to navigate pages, click and type by element reference, and extract structured data.
 - [plasmate-mcp](https://awesomecua.com/resources/github-plasmate-labs-plasmate-mcp/) — Date not recorded
   plasmate-mcp gives MCP clients browser sessions and tools to inspect semantic page structure, click elements and run JavaScript through the Plasmate engine.
 - [Playwright CLI](https://awesomecua.com/resources/github-microsoft-playwright-cli/) — Date not recorded
   Playwright CLI provides a token-efficient command-line interface and skill set for coding and computer-use agents to automate web browsers.
 - [Playwright Flow Tester MCP](https://awesomecua.com/resources/github-sadiuysal-playwright-flow-tester/) — Date not recorded
   Parameterized UI/UX flow testing suite with Model Context Protocol integration and structured execution logging over Playwright.
+- [Playwright for Python](https://awesomecua.com/resources/github-microsoft-playwright-python/) — Date not recorded
+  Python package of Playwright that drives Chromium, Firefox and WebKit through one API, with synchronous and asynchronous interfaces for page navigation and screenshots.
 - [Playwright MCP](https://awesomecua.com/resources/url-9900690ea9b418a1a7c6/) — Date not recorded
   An MCP server that gives LLM clients browser navigation and interaction tools. It identifies page elements through structured accessibility snapshots.
 - [Playwright MCP Server (ExecuteAutomation)](https://awesomecua.com/resources/github-executeautomation-mcp-playwright/) — Date not recorded
@@ -2904,6 +2978,10 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Puppeteer is a JavaScript browser-control library for Chrome and Firefox. Its API supports scripted page navigation and interaction.
 - [Puppeteer MCP Server](https://awesomecua.com/resources/github-sultannaufal-puppeteer-mcp-server/) — Date not recorded
   Self-hosted Puppeteer MCP server with remote Server-Sent Events (SSE) transport, API key authentication, and Docker deployment.
+- [Puppeteer Real Browser](https://awesomecua.com/resources/github-zfcsoftware-puppeteer-real-browser/) — Date not recorded
+  Node.js package that launches Chrome and connects Puppeteer for browsing with fewer automation signals, with Turnstile clicking and cursor-driven clicks. Its maintainers have ended updates.
+- [puppeteer-with-fingerprints](https://awesomecua.com/resources/github-bablosoft-puppeteer-with-fingerprints/) — Date not recorded
+  puppeteer-with-fingerprints is a Windows plugin that launches Puppeteer browsers with fingerprints fetched from the FingerprintSwitcher service.
 - [Pursuit Permit WebMCP](https://awesomecua.com/resources/github-moaqil-pursuit-permit-webmcp/) — Date not recorded
   Revision-bound capacity permit protocol for WebMCP browser agents that invalidates stale approvals when page state changes.
 - [PuterVision Behavior-MCP](https://awesomecua.com/resources/github-putervision-behavior-mcp/) — Date not recorded
@@ -3008,6 +3086,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   A managed Chromium browser reached through WebSocket and controlled with Puppeteer or Playwright, with configurable sessions, fingerprints and network egress.
 - [Scrapfly MCP Server](https://awesomecua.com/resources/github-scrapfly-scrapfly-mcp/) — Date not recorded
   Official Scrapfly Model Context Protocol server providing cloud anti-bot browser rendering and structured web extraction for AI agents.
+- [Scrapling](https://awesomecua.com/resources/github-d4vinci-scrapling/) — Date not recorded
+  A Python scraping framework with HTTP and stealth browser fetchers and spiders, plus an MCP server whose seventeen tools let AI agents click, fill forms, type and take screenshots in browser sessions.
 - [ScribeAgent](https://awesomecua.com/resources/github-colonylabs-scribeagent/) — Date not recorded
   ScribeAgent trains web agents from recorded workflows represented with page HTML and prior actions. The repository provides preprocessing, fine-tuning, and evaluation code.
 - [Search-o1](https://awesomecua.com/resources/github-sunnynexus-search-o1/) — Date not recorded
@@ -3022,10 +3102,14 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Python Model Context Protocol server exposing Selenium WebDriver browser navigation, element interaction, and screenshot tools.
 - [Selenium Self-Healing MCP Server](https://awesomecua.com/resources/github-aiqualitylab-selenium-selfhealing-mcp/) — Date not recorded
   MCP server that diagnoses broken Selenium DOM locators after UI changes and synthesizes self-healing replacement selectors.
+- [Selenium-Driverless](https://awesomecua.com/resources/github-kaliiiiiiiiii-selenium-driverless/) — Date not recorded
+  A Python browser automation library for Google Chrome that runs without chromedriver, offering element lookup, pointer clicks, multiple tabs, isolated incognito contexts and network interception.
 - [selenium-mcp](https://awesomecua.com/resources/github-gaforov-selenium-mcp/) — Date not recorded
   Selenium Model Context Protocol server exposing 41 browser automation tools including page snapshots, assertions, and selector generation.
 - [selenium-stealth](https://awesomecua.com/resources/github-diprajpatra-selenium-stealth/) — Date not recorded
   selenium-stealth is a Python utility that configures Selenium-driven Chrome or Chromium sessions to reduce browser automation detection.
+- [selenium-with-fingerprints](https://awesomecua.com/resources/github-bablosoft-selenium-with-fingerprints/) — Date not recorded
+  selenium-with-fingerprints is a Windows plugin that launches Selenium WebDriver browsers with fingerprints fetched from the FingerprintSwitcher service.
 - [Self-Healing Browser Agent](https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/) — Date not recorded
   Combines Claude planning with Playwright execution and ranked selector fallback to self-heal broken web automation steps.
 - [Self-Hosted Cloud Browser MCP](https://awesomecua.com/resources/github-bk927-cloud-browser-mcp/) — Date not recorded
@@ -3110,6 +3194,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Browser automation framework combining code and natural-language actions.
 - [Stagehand](https://awesomecua.com/resources/url-0210d8713fd41ca1448f/) — Date not recorded
   An SDK for browser agents that combines Playwright-style page control with natural-language actions, observation, and extraction. It runs beside the browser as an extension.
+- [stagehand-plasmate](https://awesomecua.com/resources/github-plasmate-labs-stagehand-plasmate/) — Date not recorded
+  TypeScript wrapper that gives Stagehand pages Plasmate's Semantic Object Model JSON in place of raw DOM, with SOM queries by role, text or ID, while act() and observe() go to Stagehand.
 - [Starizon AI](https://awesomecua.com/resources/url-5aa01cb259a5d9a07d6e/) — Date not recorded
   Chrome side-panel agent that researches across tabs, bookmarks and a local knowledge base, and hands click-and-type tasks on signed-in sites to its Agent S6 browser agent, with replays, schedules and page monitors.
 - [StateAct](https://awesomecua.com/resources/github-ai-nikolai-stateact/) — Date not recorded
@@ -3268,6 +3354,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   wavexis is a browser automation CLI that runs navigation and page actions through CDP or WebDriver BiDi, with interactive and multi-action modes.
 - [wavexis-mcp](https://awesomecua.com/resources/github-mathiaspaulenko-wavexis-mcp/) — Date not recorded
   Pure-Python Model Context Protocol server exposing 220 browser automation tools for Chrome, Edge, and Firefox over CDP and WebDriver BiDi.
+- [wc3-chrome](https://awesomecua.com/resources/github-fatmind-wc3-chrome/) — Date not recorded
+  A Chrome MV3 extension that executes webclaw3 browser operations: it takes op commands from a local relay over WebSocket and drives real Chrome through chrome.* APIs, with aria-tree element references.
 - [Weave WebMCP](https://awesomecua.com/resources/github-doom2quake-weave/) — Date not recorded
   Browser-native WebMCP idea-to-plan canvas where human users and web agents co-edit structured task plans.
 - [Weavetab MCP](https://awesomecua.com/resources/github-weavetab-mcp/) — Date not recorded
@@ -3292,6 +3380,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Hosted browser-agent service that carries out web tasks from natural-language prompts, billed per second of execution, with a REST API, Make, n8n and Zapier integrations and a self-hostable open-source version.
 - [WebAgents Protocol](https://awesomecua.com/resources/github-betterwright-webagents/) — Date not recorded
   Open protocol specification and toolkit exposing batch-native website actions to browser agents.
+- [WebAggregator](https://awesomecua.com/resources/github-tencent-webaggregator/) — Date not recorded
+  WebAggregator is the code for Explore to Evolve: it builds verifiable web QA data by agent exploration of URLs, samples trajectories with a smolagents agent that clicks and types in a browser, and runs evaluation.
 - [webarena-docker](https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/) — Date not recorded
   A Docker setup for WebArena websites provides scripts to start site containers and restore their state between experiments involving browser tasks.
 - [webarena-setup](https://awesomecua.com/resources/github-gasse-webarena-setup/) — Date not recorded
@@ -3326,6 +3416,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Playwright-based Model Context Protocol server providing webpage navigation, viewport screenshots, clicking, and form filling for AI agents.
 - [WebLlama](https://awesomecua.com/resources/github-mcgill-nlp-webllama/) — Date not recorded
   Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.
+- [WebMCP](https://awesomecua.com/resources/github-jasonjmcghee-webmcp/) — Date not recorded
+  An early WebMCP proposal and code: a script widget on a website registers its tools, resources and prompts, which MCP clients reach through a token-secured localhost WebSocket server.
 - [WebMCP](https://awesomecua.com/resources/github-webmachinelearning-webmcp/) — Date not recorded
   A client-side web API proposal that lets pages expose structured JavaScript tools to browser agents. Agents can invoke page functions while sharing the visible interface and context with users.
 - [WebMCP Deadbolt](https://awesomecua.com/resources/github-faxanfm-webmcp-deadbolt/) — Date not recorded
@@ -3390,6 +3482,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.
 - [Worldline](https://awesomecua.com/resources/github-artemyx-datascientist-worldline/) — Date not recorded
   Modular, user-controlled AI browser kernel for structured web parsing, navigation, and workflow automation.
+- [X Article Publisher Skill](https://awesomecua.com/resources/github-wshuyi-x-article-publisher-skill/) — Date not recorded
+  A Claude Code skill that converts a Markdown file to HTML and uses Playwright MCP to fill the X Articles editor, paste rich text, insert images by block index and save a draft.
 - [Xiaozhuang DSH](https://awesomecua.com/resources/github-niushuanan-xiaozhuang-dsh/) — Date not recorded
   Plugin-enhanced DeepSeek Harness distribution pre-packaged with desktop computer use and browser automation.
 - [Xihe Agent (羲和)](https://awesomecua.com/resources/github-jiugao-yi-xihe-agent/) — Date not recorded

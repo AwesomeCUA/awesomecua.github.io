@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/grounding/page/9/
 
 Full list: https://awesomecua.com/topics/grounding/index.md
 
+- [GUI-Libra 4B](https://awesomecua.com/resources/url-9082bb5effe5d1a1cada/)
 - [GUI-Libra 7B](https://awesomecua.com/resources/url-f52794224f9541fd9eb3/)
 - [GUI-Libra 8B](https://awesomecua.com/resources/url-6694391b0cf50389d2e9/)
 - [GUI-Owl 1.5 2B Instruct](https://awesomecua.com/resources/url-0b94b29f2afbfe8a3abb/)
@@ -17,6 +18,7 @@ Full list: https://awesomecua.com/topics/grounding/index.md
 - [GUI-R1](https://awesomecua.com/resources/github-ritzz-ai-gui-r1/)
 - [GUI-R1 checkpoint bundle](https://awesomecua.com/resources/url-61a5321db10fc8a312b9/)
 - [GUI-Spotlight](https://awesomecua.com/resources/github-bin123apple-gui-spotlight/)
+- [GUI_Reflection_8b_pretrain](https://awesomecua.com/resources/url-534151cf8b1e1df5bf96/)
 - [Hcompany/Holo4-35B-A3B-NVFP4](https://awesomecua.com/resources/url-ef732d252e9eb9b04e20/)
 - [Holo Model Family](https://awesomecua.com/resources/url-c0bd07d82ce25ad1d99d/)
 - [Holo-3.1-35B-A3B-FP8](https://awesomecua.com/resources/url-566bd1469811983951f3/)
@@ -62,5 +64,3 @@ Full list: https://awesomecua.com/topics/grounding/index.md
 - [InternVL3_5-30B-A3B](https://awesomecua.com/resources/url-4d7042b462e937c33406/)
 - [InternVL3_5-30B-A3B-HF](https://awesomecua.com/resources/url-2ebcbc24ecbdc2db22fb/)
 - [InternVL3_5-38B](https://awesomecua.com/resources/url-33b35b47d8bb269d84a1/)
-- [InternVL3_5-8B-HF](https://awesomecua.com/resources/url-15c5435c1cb4f9e6b737/)
-- [jadechoghari/Ferret-UI-Llama8b](https://awesomecua.com/resources/url-4b66957b9799a9e3decc/)

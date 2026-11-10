@@ -4,6 +4,18 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [AgentStudio](https://awesomecua.com/zh/resources/github-skyworkai-agent-studio/)：用于通过 GUI 和 API 交互构建、评估通用计算机使用智能体的工具包及基于 Ubuntu 的环境。
+- [AgentSynth task-generation pipeline](https://awesomecua.com/zh/resources/github-sunblaze-ucb-agentsynth/)：在 OSWorld 桌面环境和 InSTA 浏览器环境中生成合成计算机使用任务并记录轨迹。
+- [AI-Agentic QA Framework](https://awesomecua.com/zh/resources/github-daud-khan-qa-ai-agentic-qa-framework/)：面向智能体式网页 QA 的零依赖 CDP 浏览器驱动和页面激活可靠性测试框架。
+- [AI-Work](https://awesomecua.com/zh/resources/github-peiwenzhang-git-ai-work/)：支持人工参与的 Windows 桌面自动化运行时，具备 MCP 支持、受限文件访问和逐步审批功能。
+- [aic-pod](https://awesomecua.com/zh/resources/github-veypi-aic-pod/)：将物理机或虚拟机变为可由 LLM 调用的执行节点，提供沙箱化的 shell、文件、浏览器和桌面控制功能。
+- [Ailoy](https://awesomecua.com/zh/resources/github-brekkylab-ailoy/)：Ailoy 是多语言 AI 智能体 SDK，可为计算机使用、CAD 和桌面自动化智能体创建隔离的微型虚拟机沙箱。
+- [Airi-PC Computer Mode Runtime](https://awesomecua.com/zh/resources/github-arancione3000-airi-pc-bootstrap/)：面向 Airi-PC 桌面智能体的本地 Computer Mode 运行时和可复现的引导配置。
+- [Alumnium](https://awesomecua.com/zh/resources/github-alumnium-hq-alumnium/)：AI 原生端到端测试库和 MCP，让智能体通过自动化驱动程序与应用交互并验证断言。
+- [Android-Skill-Agent](https://awesomecua.com/zh/resources/github-xiru0834-eng-android-skill-agent/)：Android-Skill-Agent 从演示中提取参数化操作技能，并通过无障碍树进行验证，以供 Android 应用使用。
+- [AndroTMem inference and evaluation code](https://awesomecua.com/zh/resources/github-cvc2233-androtmem/)：公开的 Android GUI 评估框架，提供操作历史、摘要和锚定记忆提示模式，以及分步操作评分和考虑依赖关系的任务评分。
+- [anpl1623 AgentOS](https://awesomecua.com/zh/resources/github-anpl1623-agentos/)：本地优先的开源智能体运行时，用于在用户个人计算机上安全执行 AI 驱动的任务。
+- [AntyBrowser SDK](https://awesomecua.com/zh/resources/github-antybrowser-sdk/)：用于操作 AntyBrowser 反检测浏览器配置的官方多语言 SDK（TypeScript、Python、C#、Go、PHP、Ruby）。
 - [anybridge](https://awesomecua.com/zh/resources/github-justvugg-anybridge/)：从实时浏览器会话中捕获网站已认证的网络调用，并将其作为可供任何 AI 智能体调用的工具。
 - [AnyBrowser](https://awesomecua.com/zh/resources/github-christopher-inegbedion-anybrowser/)：可插拔的浏览器自动化与网页智能体运行时，支持替换 LLM 提供方和浏览器引擎。
 - [AnyTool](https://awesomecua.com/zh/resources/github-hkuds-anytool/)：AnyTool 是面向 AI 智能体的通用工具使用层，支持 MCP、GUI、网页和 shell 工具，并具备分层检索与自我反思能力。
@@ -92,15 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English
 - [CrossHands](https://awesomecua.com/zh/resources/github-caelaxie-crosshands/)：面向编码智能体的本地计算机使用运行时，通过 JSON CLI 和 stdio MCP 提供桌面检查及输入动作。
 - [CUA Evaluation & RL with Autonomous Feedback](https://awesomecua.com/zh/resources/github-martasumyk-cua-eval-and-finetuning/)：实现利用自主评测器反馈的强化学习，用于计算机使用智能体的微调和基准评测。
 - [cua_agent](https://awesomecua.com/zh/resources/github-lacassef-computeruse/)：cua_agent 是模块化的 Python 计算机使用框架，具备与操作系统无关的规划、语义化 UI 定位，以及经过策略检查的桌面和浏览器驱动。
-- [CUArena](https://awesomecua.com/zh/resources/github-ogutdgn-cuarena/)：CUArena 将桌面和网页应用封装为可重置、可观察且可通过程序评分的强化学习环境。
-- [cuforge](https://awesomecua.com/zh/resources/github-huzjie-cuforge/)：cuforge 是在线强化学习与可验证任务合成平台，用于训练计算机使用 GUI 智能体。
-- [cuse](https://awesomecua.com/zh/resources/github-cuse-dev-cuse/)：cuse 是开源框架，用于构建通过显示、鼠标和键盘 API 控制虚拟化 Linux 桌面及浏览器的 AI 智能体。
-- [Cyber Seeds WebMCP](https://awesomecua.com/zh/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/)：面向操作消费者网页仪表盘的 WebMCP 浏览器智能体、由人类授权的安全与同意模式。
-- [Cybergod](https://awesomecua.com/zh/resources/github-james4ever0-agi-computer-control/)：计算机操作智能体实验性单体仓库，包含 tmux 终端环境、在 noVNC/ttyd Docker 工作进程中记录 GUI 和终端会话的网页记录器，以及随机输入数据收集。
-- [D-PoT evaluation code](https://awesomecua.com/zh/resources/github-sqzhang-lazy-d-pot/)：用于在 Android-in-the-Wild 上评估 Dynamic Planning of Thoughts 的离线提示与评估代码，包括动作提取及与参考动作的比较。
-- [DART-GUI](https://awesomecua.com/zh/resources/github-computer-use-agents-dart-gui/)：DART-GUI 实现解耦式多轮强化学习和自适应轨迹筛选，用于训练计算机使用 GUI 智能体。
-- [dcc-cua](https://awesomecua.com/zh/resources/github-dcc-mcp-dcc-cua/)：跨平台 Rust 运行时和 CLI，让 AI 智能体观察并控制指定范围内的桌面应用窗口。
-- [DeepSeekEyes](https://awesomecua.com/zh/resources/github-dttxorg-deepseekeyes/)：面向 DeepSeek Harness 的可审计视觉与跨平台计算机使用运行时，提供加密证据凭据。
-- [DeskCanvas](https://awesomecua.com/zh/resources/github-sorry123luck-desk-canvas/)：DeskCanvas 将实时 Windows 应用窗口转换为结构化语义状态，并为 AI 智能体提供受保护的动作执行能力。
-- [DeskCtl (Desktop Control Engine)](https://awesomecua.com/zh/resources/github-mini-mind-deskctl/)：面向 GUI 智能体的桌面控制引擎，主要使用 UIA 和 AT-SPI 无障碍树，并在必要时回退到视觉方式。
-- [DeskForge](https://awesomecua.com/zh/resources/github-saidgurbuz-deskforge/)：DeskForge 从桌面执行环境提取密集的步骤级监督信号，用于训练和验证计算机使用智能体。

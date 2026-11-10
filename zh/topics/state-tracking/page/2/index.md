@@ -45,6 +45,7 @@ HTML 页面：https://awesomecua.com/zh/topics/state-tracking/page/2/
 - [AGI-0 Agent](https://awesomecua.com/zh/resources/url-06f6618d8f95f3d041cf/)
 - [AH64-dll Browser Automation Toolkit](https://awesomecua.com/zh/resources/github-ah64-dll-browser-automation-toolkit/)
 - [Anionex DSH Computer Use](https://awesomecua.com/zh/resources/github-anionex-dsh-computer-use/)
+- [ARC CUA](https://awesomecua.com/zh/resources/github-itw-code-arc-cua/)
 - [Astra plays GTA Vice City](https://awesomecua.com/zh/resources/github-da03-astra-plays-gta/)
 - [AXTree API](https://awesomecua.com/zh/resources/github-amaar-mc-axtree-api/)
 - [Brobot](https://awesomecua.com/zh/resources/github-jspinak-brobot/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/state-tracking/page/2/
 - [ESP (Echo-Skeleton Perception)](https://awesomecua.com/zh/resources/github-badtheorylabs-esp/)
 - [FinalRun](https://awesomecua.com/zh/resources/url-3b99bbbd3480dbc1ec6b/)
 - [GenPark SPA Settlement Waiter Skill](https://awesomecua.com/zh/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/)
-- [Godot Editor MCP](https://awesomecua.com/zh/resources/github-hybridindie-godot-mcp/)

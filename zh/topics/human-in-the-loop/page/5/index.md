@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/human-in-the-loop/index.md
 
+- [Mac MCP (Menu Bar & Local Server)](https://awesomecua.com/zh/resources/github-bulutarkan-mac-mcp/)
+- [MagenticLite / Magentic UI](https://awesomecua.com/zh/resources/github-microsoft-magentic-ui/)
+- [Magpie Computer Use](https://awesomecua.com/zh/resources/github-sammysnake-d-magpie-computer-use-agent/)
 - [magpie Computer Use](https://awesomecua.com/zh/resources/github-wbb6517-magpie-computer-use/)
 - [Mano skill](https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-skill/)
 - [MaskClaw](https://awesomecua.com/zh/resources/github-theodora-y-maskclaw/)
@@ -18,6 +21,7 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/5/
 - [mobius-browser-guard](https://awesomecua.com/zh/resources/github-mobius-style-mobius-browser-guard/)
 - [Momo](https://awesomecua.com/zh/resources/github-holdtroop-momo/)
 - [MyFood Hermes Agent](https://awesomecua.com/zh/resources/github-delltrak-myfood-hermes-agent/)
+- [Nakama](https://awesomecua.com/zh/resources/github-ahmadrosid-nakama/)
 - [Nanobrowser](https://awesomecua.com/zh/resources/github-nanobrowser-nanobrowser/)
 - [nanoMuse](https://awesomecua.com/zh/resources/github-nano-muse-nanomuse/)
 - [NaviFlow](https://awesomecua.com/zh/resources/github-marc-ing-navi-flow/)
@@ -60,7 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/5/
 - [redux-webmcp](https://awesomecua.com/zh/resources/github-breeznik-redux-webmcp/)
 - [Reins](https://awesomecua.com/zh/resources/github-pegasi-ai-reins/)
 - [Relay AI Virtual Desktop](https://awesomecua.com/zh/resources/github-jahrulnr-virtual-desktop/)
-- [Ribband (Agentic WebMCP)](https://awesomecua.com/zh/resources/github-somnora-agentic-webmcp/)
-- [Ringlight WebMCP](https://awesomecua.com/zh/resources/github-doom2quake-ringlight/)
-- [Rove (Thread WebMCP Workspace)](https://awesomecua.com/zh/resources/github-chris-miracle-thread/)
-- [RPA-Everything](https://awesomecua.com/zh/resources/github-mingqian94-rpa-everything/)

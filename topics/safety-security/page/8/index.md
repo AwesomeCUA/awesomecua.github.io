@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/topics/safety-security/page/8/
 
 Full list: https://awesomecua.com/topics/safety-security/index.md
 
+- [DoomArena](https://awesomecua.com/resources/github-servicenow-doomarena/)
+- [DrishtiGuard](https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/)
+- [DSB (逗沙包)](https://awesomecua.com/resources/github-tianye1999-dsb/)
+- [DSH Desktop Operator](https://awesomecua.com/resources/github-zjh02249-dsh-desktop-operator/)
 - [dsh-browser-secure](https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/)
 - [DualKey](https://awesomecua.com/resources/github-wadekeith-dualkey-agent/)
 - [DualTAP](https://awesomecua.com/resources/github-fyzhang1-dualtap/)
@@ -21,6 +25,7 @@ Full list: https://awesomecua.com/topics/safety-security/index.md
 - [handraise-telegram](https://awesomecua.com/resources/github-sy-d-handraise-telegram/)
 - [HarmonyGuard](https://awesomecua.com/resources/github-yurunchen-harmonyguard/)
 - [HelpRelay WebMCP](https://awesomecua.com/resources/github-akigarage-helprelay-webmcp/)
+- [Hermes Jev Skills](https://awesomecua.com/resources/github-kerpopule-hermes-jev-skills/)
 - [Hermes login-bridge Plugin](https://awesomecua.com/resources/github-kfastov-hermes-plugin-login-bridge/)
 - [IdemStep](https://awesomecua.com/resources/github-supermarioyl-idemstep/)
 - [InnerOS WebMCP](https://awesomecua.com/resources/github-rafa-innerchispa-inneros-webmcp/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/safety-security/index.md
 - [Ocular](https://awesomecua.com/resources/github-guatxlabs-ocular/)
 - [Open Grok Bot](https://awesomecua.com/resources/github-anil-matcha-open-grok-bot/)
 - [open-compute](https://awesomecua.com/resources/github-ellmos-ai-open-compute/)
-- [openadapt-privacy](https://awesomecua.com/resources/github-openadaptai-openadapt-privacy/)
-- [OpenComet](https://awesomecua.com/resources/github-princechouhan19-opencometai/)
-- [OpenDesk](https://awesomecua.com/resources/github-vitalops-opendesk/)
-- [OpenPhone (Secondly)](https://awesomecua.com/resources/github-secondly-com-openphone/)
-- [Operant](https://awesomecua.com/resources/github-alpharomerojl-operant/)

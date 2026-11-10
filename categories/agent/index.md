@@ -2,7 +2,7 @@
 
 Computer-use agents are complete systems that observe a screen or web page, plan, and act through clicks, typing, browser commands or shell tools to finish a user task.
 
-> 475 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
+> 481 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T06:29:47Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -13,9 +13,9 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 | Agent | Platform | License | Linked records |
 | --- | --- | --- | --- |
 | [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) | Mobile · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE) | 33 |
-| [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 26 |
+| [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 28 |
+| [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE) | 17 |
 | [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) | Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE) | 16 |
-| [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE) | 16 |
 | [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE) | 13 |
 | [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/) | Desktop | [MIT (code)](https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE) | 11 |
 
@@ -23,23 +23,53 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which agents are mentioned most in the catalog?
 
-[Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) (27 records), [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) (26 records) and [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) (16 records) are mentioned in the reviewed sources of the most other catalog records.
+[Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) (28 records), [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) (27 records) and [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) (17 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these agents cover?
 
-Of 475 reviewed agents, 243 are tagged web, 228 desktop, 92 mobile and 59 cross-platform; 3 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 481 reviewed agents, 247 are tagged web, 229 desktop, 95 mobile and 60 cross-platform; 3 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which agents come with a research paper?
 
-70 of 475 link the arXiv paper that introduces or documents them, for example [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/), [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) and [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/).
+70 of 481 link the arXiv paper that introduces or documents them, for example [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/), [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) and [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/).
 
 ### Which licenses do agents declare?
 
-The most common declared licenses are MIT (207), Apache-2.0 (89) and AGPL-3.0 (12). 145 of 475 have no declared license in their record.
+The most common declared licenses are MIT (210), Apache-2.0 (90) and AGPL-3.0 (13). 146 of 481 have no declared license in their record.
 
 ### How is this list ordered?
 
 By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
+
+---
+
+## Hermes Agent
+
+Hermes Agent is a self-improving autonomous agent by Nous Research with procedural skill synthesis, browser control, and multi-platform sandboxes.
+
+- Catalog URL: https://awesomecua.com/resources/github-nousresearch-hermes-agent/
+- Original source: https://github.com/NousResearch/hermes-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, linux, macos, windows
+- Topics: memory, self-reflection, tool-integration, automation
+- Evidence checked: 2026-11-04T13:12:28Z
+- ID: github:nousresearch/hermes-agent
+
+- Record JSON: https://awesomecua.com/resources/github-nousresearch-hermes-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/README.md (retrieved 2026-11-04T13:12:28Z; SHA-256 38b023e1bb33bf302dbc7d0856dd7d79e87cbd67de506dac47a3fed6e5c776bc)
+- https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE (retrieved 2026-11-04T13:42:17Z; SHA-256 821556e6336796450ab852d375117b48a4887e71d255794fd6318d99982a5ab6)
 
 ---
 
@@ -77,33 +107,33 @@ This repository contains multiple Mobile-Agent generations. Platform coverage di
 
 ---
 
-## Hermes Agent
+## OpenClaw
 
-Hermes Agent is a self-improving autonomous agent by Nous Research with procedural skill synthesis, browser control, and multi-platform sandboxes.
+OpenClaw is an open-source personal computer-use assistant that executes browser, desktop, terminal, and messaging workflows across local devices.
 
-- Catalog URL: https://awesomecua.com/resources/github-nousresearch-hermes-agent/
-- Original source: https://github.com/NousResearch/hermes-agent
+- Catalog URL: https://awesomecua.com/resources/github-openclaw-openclaw/
+- Original source: https://github.com/openclaw/openclaw
 - Kind: agent
 - Review: curated
 - Scope: core
-- Environments: cross-platform, desktop, web, linux, macos, windows
-- Topics: memory, self-reflection, tool-integration, automation
-- Evidence checked: 2026-11-04T13:12:28Z
-- ID: github:nousresearch/hermes-agent
+- Environments: cross-platform, desktop, web, macos, windows, linux
+- Topics: automation, tool-integration, workflow
+- Evidence checked: 2026-11-04T13:12:29Z
+- ID: github:openclaw/openclaw
 
-- Record JSON: https://awesomecua.com/resources/github-nousresearch-hermes-agent/record.json
+- Record JSON: https://awesomecua.com/resources/github-openclaw-openclaw/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/README.md (retrieved 2026-11-04T13:12:28Z; SHA-256 38b023e1bb33bf302dbc7d0856dd7d79e87cbd67de506dac47a3fed6e5c776bc)
-- https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE (retrieved 2026-11-04T13:42:17Z; SHA-256 821556e6336796450ab852d375117b48a4887e71d255794fd6318d99982a5ab6)
+- https://raw.githubusercontent.com/openclaw/openclaw/HEAD/README.md (retrieved 2026-11-04T13:12:29Z; SHA-256 6065920be49194c3297db3cc923a5f42ad4c579feea93e987329379a8d5d195d)
+- https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE (retrieved 2026-11-04T13:23:26Z; SHA-256 9efd316ecf1c4c60f6fd5d26433142fff2b6794d7d328e9bc6179b29bf9c82a4)
 
 ---
 
@@ -134,36 +164,6 @@ OpenAI Codex CLI is a local terminal and desktop coding agent that executes comm
 
 - https://raw.githubusercontent.com/openai/codex/HEAD/README.md (retrieved 2026-11-04T13:12:29Z; SHA-256 ba4e1f69ff48386e72a9c5e1edaf76aad64a475c2d51af79ccba6d1128261ba7)
 - https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE (retrieved 2026-11-04T13:42:24Z; SHA-256 d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc)
-
----
-
-## OpenClaw
-
-OpenClaw is an open-source personal computer-use assistant that executes browser, desktop, terminal, and messaging workflows across local devices.
-
-- Catalog URL: https://awesomecua.com/resources/github-openclaw-openclaw/
-- Original source: https://github.com/openclaw/openclaw
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, web, macos, windows, linux
-- Topics: automation, tool-integration, workflow
-- Evidence checked: 2026-11-04T13:12:29Z
-- ID: github:openclaw/openclaw
-
-- Record JSON: https://awesomecua.com/resources/github-openclaw-openclaw/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/openclaw/openclaw/HEAD/README.md (retrieved 2026-11-04T13:12:29Z; SHA-256 6065920be49194c3297db3cc923a5f42ad4c579feea93e987329379a8d5d195d)
-- https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE (retrieved 2026-11-04T13:23:26Z; SHA-256 9efd316ecf1c4c60f6fd5d26433142fff2b6794d7d328e9bc6179b29bf9c82a4)
 
 ---
 
@@ -411,6 +411,40 @@ DeskMind is a local-first macOS computer-use agent that combines accessibility i
 
 - https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/README.md (retrieved 2026-11-04T14:02:44Z; SHA-256 d54adb312f01132ceced24bea22be3670a4bc4645c8b59ceb99982cbdf74c941)
 - https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/LICENSE (retrieved 2026-11-04T14:07:46Z; SHA-256 1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d)
+
+---
+
+## GUI Reflection
+
+GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.
+
+- Catalog URL: https://awesomecua.com/resources/github-penghao-wu-gui-reflection/
+- Original source: https://github.com/penghao-wu/GUI_Reflection
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: self-reflection, action-prediction, evaluation, imitation-learning
+- Evidence checked: 2026-11-09T19:57:49Z
+- ID: github:penghao-wu/gui_reflection
+
+### Limitations
+
+The README links separate training datasets and model checkpoints. It says the supplied data omits source images, and declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-penghao-wu-gui-reflection/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/penghao-wu/GUI_Reflection/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/penghao-wu/GUI_Reflection/HEAD/README.md (retrieved 2026-11-09T19:57:49Z; SHA-256 60756d8e7b6d04a3dce4c4007d04f5711cf4a57a0a290168c924a70ebc982b11)
+- https://raw.githubusercontent.com/penghao-wu/GUI_Reflection/HEAD/LICENSE (retrieved 2026-11-09T14:21:17Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -896,6 +930,39 @@ Anthropic reference implementations including the containerized Claude Computer 
 
 ---
 
+## Cognitive Kernel-Pro
+
+Cognitive Kernel-Pro is a deep-research agent with a browser-backed web component and multimodal model configuration. Its repository includes code and examples for running research tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/
+- Original source: https://github.com/Tencent/CognitiveKernel-Pro
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, screen-understanding, evaluation
+- Evidence checked: 2026-11-09T19:55:58Z
+- ID: github:tencent/cognitivekernel-pro
+
+### Limitations
+
+The README gives Linux and Mac setup instructions for its web server and examples using model endpoints. It also describes SFT and RL training recipes.
+
+- Record JSON: https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Tencent/CognitiveKernel-Pro/HEAD/readme.md (retrieved 2026-11-09T19:55:58Z; SHA-256 ef9fed10995ac7d1d196ab5381f93db58e413bf596ebdfc53c711a2d37808c35)
+
+---
+
 ## GPT-4V-Act
 
 GPT-4V-Act combines Chromium DOM auto-labeling and Set-of-Mark visual prompting to drive web browser interactions with multimodal LLMs.
@@ -952,6 +1019,70 @@ Open Computer Use runs open-source vision-language models inside an E2B Desktop 
 
 - https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/README.md (retrieved 2026-11-04T13:12:13Z; SHA-256 5ef533102ffbd847273c11f1139c8a84b6c38d92182abe55e64c902e23fbd13e)
 - https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/LICENSE (retrieved 2026-11-04T13:42:06Z; SHA-256 46c828e30f9c217b84ed1843aa08ee79658347042680c6d328f69f6da15fc4ce)
+
+---
+
+## OpenWebVoyager
+
+OpenWebVoyager trains multimodal web navigation agents through iterative real-world web exploration, feedback verification, and trajectory tuning.
+
+- Catalog URL: https://awesomecua.com/resources/github-minorjerry-openwebvoyager/
+- Original source: https://github.com/MinorJerry/OpenWebVoyager
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, imitation-learning, reinforcement-learning
+- Evidence checked: 2026-11-04T13:12:26Z
+- ID: github:minorjerry/openwebvoyager
+
+- Record JSON: https://awesomecua.com/resources/github-minorjerry-openwebvoyager/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/README.md (retrieved 2026-11-04T13:12:26Z; SHA-256 d21bff8addefac48b0f1d8957c6cefdf04ece467ac616fb0eb7669793603d732)
+- https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/LICENSE (retrieved 2026-11-04T13:23:25Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## Orion
+
+A biomedical analysis agent that operates scientific desktop applications, a browser, and terminal tools in an Ubuntu virtual machine. Its repository includes task configurations and launchers.
+
+- Catalog URL: https://awesomecua.com/resources/github-genentech-orion/
+- Original source: https://github.com/Genentech/Orion
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, linux, web
+- Topics: science, tool-integration, workflow, screen-understanding
+- Evidence checked: 2026-11-09T19:57:15Z
+- ID: github:genentech/orion
+
+### Limitations
+
+The README lists CellProfiler, QuPath, and napari workflows. Setup requires VMware and an Ubuntu guest image; the repository includes agent runtime code, task configs, tools, and comparison runners. The repository layout names an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-genentech-orion/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Genentech/Orion/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Genentech/Orion/HEAD/README.md (retrieved 2026-11-09T19:57:15Z; SHA-256 8f924d3dfd9991aee0c9db670b6d97cf35c76766508b02decb23176b3ae6a43c)
+- https://raw.githubusercontent.com/Genentech/Orion/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 08ea5491726e2f87ab21b4a99b6cfcc97076244c3e824033d7cbbb8e6a213788)
 
 ---
 
@@ -1284,6 +1415,40 @@ Compact single-file reference browser agent designed to run inside a Solari Sand
 
 - https://raw.githubusercontent.com/Konuktor/agent-gauntlet-example-agent/master/README.md (retrieved 2026-11-04T18:11:33Z; SHA-256 ad23f322503d7d3029a32d05eb0a4d45b2415ed090aaf003b7ec90cd86869ac2)
 - https://raw.githubusercontent.com/Konuktor/agent-gauntlet-example-agent/HEAD/LICENSE (retrieved 2026-11-04T18:16:43Z; SHA-256 22918c4bed6907f7570e308f338130ec1820cbc22dc42e500ac40bacd3907bf9)
+
+---
+
+## ai-phone
+
+A self-hosted platform that runs natural-language test cases on iOS, Android and HarmonyOS phones and virtual devices with a vision-only VLM decision loop, device queues and HTML reports.
+
+- Catalog URL: https://awesomecua.com/resources/github-dongxinsuperman-ai-phone/
+- Original source: https://github.com/dongxinsuperman/ai-phone
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android, ios, harmonyos
+- Topics: mobile-navigation, automation, evaluation
+- Evidence checked: 2026-11-10T06:29:21Z
+- ID: github:dongxinsuperman/ai-phone
+
+### Limitations
+
+Includes device agents, a scheduling server, a browser workbench with live screen streaming via scrcpy, WDA and hypium, stuck detection and before/after assertions. License MIT.
+
+- Record JSON: https://awesomecua.com/resources/github-dongxinsuperman-ai-phone/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/dongxinsuperman/ai-phone/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/dongxinsuperman/ai-phone/a96cb091903922f4f002f48c38cdfb1146653f93/README.md (retrieved 2026-11-10T06:29:21Z; SHA-256 913c28d05a8ac68a35db11daacf8fce64418d2ea2d5a830935f91b1600584b0e)
+- https://raw.githubusercontent.com/dongxinsuperman/ai-phone/HEAD/LICENSE (retrieved 2026-11-10T06:22:22Z; SHA-256 b825925aa35feb626875db9db2afc4f71e8cf0abeb1f1bcecfa23efa307a17ce)
 
 ---
 
@@ -1886,6 +2051,40 @@ The repository includes the FreeCAD source tree and a CADAgent workbench. It req
 
 ---
 
+## Clearcote Jet
+
+A browser agent that reads a page, picks each next step with a decision model and acts in Clearcote with curved mouse paths and key-by-key typing; finished tasks are saved as skills that replay without model calls.
+
+- Catalog URL: https://awesomecua.com/resources/github-clearcotelabs-clearcote-jet/
+- Original source: https://github.com/clearcotelabs/clearcote-jet
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, memory, efficiency
+- Evidence checked: 2026-11-10T06:29:21Z
+- ID: github:clearcotelabs/clearcote-jet
+
+### Limitations
+
+Ships a Python library, a command-line tool with a worker mode, and an MCP server. TYPESAFE_API_KEY, the key for the decision model, is the one required setting; a Clearcote licence key is optional, and without one the open build runs. The LICENSE file is MIT.
+
+- Record JSON: https://awesomecua.com/resources/github-clearcotelabs-clearcote-jet/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/clearcotelabs/clearcote-jet/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/clearcotelabs/clearcote-jet/a4995bf64b2ba5c4939b3a813e163e8d71236b17/README.md (retrieved 2026-11-10T06:29:21Z; SHA-256 f596e3945110b9a2568385f0d5b56859d02939aadc5c3ec82d4825684b536aeb)
+- https://raw.githubusercontent.com/clearcotelabs/clearcote-jet/HEAD/LICENSE (retrieved 2026-11-10T06:22:21Z; SHA-256 084cf7a7128a1035a1157da947e03e7031d416fcb870767be9bbb0a6d245201c)
+
+---
+
 ## Clicky
 
 An open-source macOS teaching assistant that uses screenshots and spoken questions to explain on-screen content and point to interface elements with a cursor overlay.
@@ -1988,36 +2187,37 @@ The README describes HTML reports with screenshots and session video. Model deci
 
 ---
 
-## Cognitive Kernel-Pro
+## Cognitive Kernel
 
-Cognitive Kernel-Pro is a deep-research agent with a browser-backed web component and multimodal model configuration. Its repository includes code and examples for running research tasks.
+Cognitive Kernel is a dockerized agent system whose fine-tuned policy model drives a Playwright browser by clicking, typing and scrolling, alongside file handling and long-term memory.
 
-- Catalog URL: https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/
-- Original source: https://github.com/Tencent/CognitiveKernel-Pro
+- Catalog URL: https://awesomecua.com/resources/github-tencent-cogkernel/
+- Original source: https://github.com/Tencent/CogKernel
 - Kind: agent
 - Review: curated
 - Scope: core
 - Environments: web
-- Topics: web-navigation, tool-integration, screen-understanding, evaluation
-- Evidence checked: 2026-11-09T19:55:58Z
-- ID: github:tencent/cognitivekernel-pro
+- Topics: web-navigation, memory, tool-integration
+- Evidence checked: 2026-11-10T06:29:30Z
+- ID: github:tencent/cogkernel
 
 ### Limitations
 
-The README gives Linux and Mac setup instructions for its web server and examples using model endpoints. It also describes SFT and RL training recipes.
+The release includes the system code and 8B and 70B Llama 3 policy models plus a 1B helper model on Hugging Face; deployment uses vLLM, TGI, an embedding service and docker compose.
 
-- Record JSON: https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/record.json
+- Record JSON: https://awesomecua.com/resources/github-tencent-cogkernel/record.json
 
 ### License declarations
 
-- code: not recorded
+- code: Apache-2.0 — https://raw.githubusercontent.com/Tencent/CogKernel/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/Tencent/CognitiveKernel-Pro/HEAD/readme.md (retrieved 2026-11-09T19:55:58Z; SHA-256 ef9fed10995ac7d1d196ab5381f93db58e413bf596ebdfc53c711a2d37808c35)
+- https://raw.githubusercontent.com/Tencent/CogKernel/153ab9cc43625c5edc632d4731b7cdea72ad168d/README.md (retrieved 2026-11-10T06:29:30Z; SHA-256 d76ee34925f4bb8475128381cd88246814247cecdabe5a062471df1a9ae6710c)
+- https://raw.githubusercontent.com/Tencent/CogKernel/HEAD/LICENSE (retrieved 2026-11-10T06:22:35Z; SHA-256 42042d00596aee3ca7e49da961d8355298128a56121d3bc24da4e3e977826263)
 
 ---
 
@@ -2178,6 +2378,39 @@ The repository documents replay and retrieval-based agent modes, application ski
 
 - https://raw.githubusercontent.com/microsoft/cua_skill/HEAD/README.md (retrieved 2026-11-09T21:10:38Z; SHA-256 5d6384efe254417dd8f4120f6368aaa725126b79140a8a8787451965fe2011b1)
 - https://raw.githubusercontent.com/microsoft/cua_skill/HEAD/LICENSE (retrieved 2026-11-09T21:12:23Z; SHA-256 275b4dd619de4e16a017b10d0beec72abbbbf14ee8a2fc68f8bdb398e821f623)
+
+---
+
+## EAS agent-device demo
+
+An Expo example that runs an AI SDK QA agent on EAS Workflows, driving an Android app and iOS simulator with agent-device, capturing screenshots and posting a PR summary.
+
+- Catalog URL: https://awesomecua.com/resources/github-callstackincubator-eas-agent-device/
+- Original source: https://github.com/callstackincubator/eas-agent-device
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android, ios
+- Topics: mobile-navigation, automation, evaluation
+- Evidence checked: 2026-11-10T06:29:21Z
+- ID: github:callstackincubator/eas-agent-device
+
+### Limitations
+
+Contains an EAS workflow file, eas.json and a Node.js runner at scripts/agent-qa/index.ts. Requires an EAS project with an AI_GATEWAY_API_KEY; the default model is openai/gpt-5.4-mini.
+
+- Record JSON: https://awesomecua.com/resources/github-callstackincubator-eas-agent-device/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/callstackincubator/eas-agent-device/6ac251b3a20909e475dfdf098de4d825fe89916c/README.md (retrieved 2026-11-10T06:29:21Z; SHA-256 c055e1be916b21ef40e7b8131cdc2f5988625e30d7d33bf1b3c2261639b1a277)
 
 ---
 
@@ -2487,40 +2720,6 @@ globot.py implements the Playwright browser wrapper and example.py the action lo
 
 ---
 
-## GUI Reflection
-
-GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.
-
-- Catalog URL: https://awesomecua.com/resources/github-penghao-wu-gui-reflection/
-- Original source: https://github.com/penghao-wu/GUI_Reflection
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: unspecified
-- Topics: self-reflection, action-prediction, evaluation, imitation-learning
-- Evidence checked: 2026-11-09T19:57:49Z
-- ID: github:penghao-wu/gui_reflection
-
-### Limitations
-
-The README links separate training datasets and model checkpoints. It says the supplied data omits source images, and declares an Apache-2.0 license.
-
-- Record JSON: https://awesomecua.com/resources/github-penghao-wu-gui-reflection/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/penghao-wu/GUI_Reflection/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/penghao-wu/GUI_Reflection/HEAD/README.md (retrieved 2026-11-09T19:57:49Z; SHA-256 60756d8e7b6d04a3dce4c4007d04f5711cf4a57a0a290168c924a70ebc982b11)
-- https://raw.githubusercontent.com/penghao-wu/GUI_Reflection/HEAD/LICENSE (retrieved 2026-11-09T14:21:17Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
-
----
-
 ## Humanoid
 
 Android app exploration component that uses a model learned from human usage traces to rank the input events proposed by DroidBot.
@@ -2618,6 +2817,46 @@ The release includes a local demo, operation history, recorded evidence, and ben
 
 - https://raw.githubusercontent.com/socai-io/jev-social/HEAD/README.md (retrieved 2026-11-09T21:09:07Z; SHA-256 257b13eef5778afda1bd3716f36e9bbdaa2da2c7cb02e6a21ef759e6ffc36e48)
 - https://raw.githubusercontent.com/socai-io/jev-social/HEAD/LICENSE (retrieved 2026-11-09T21:11:25Z; SHA-256 be1c3513d1a051784fd0a3aa4d7572943027dc82d8500dcef1126861fc7a8ed5)
+
+---
+
+## jev-use
+
+macOS voice and typed computer-use app that walks the front app's Accessibility tree, has the hosted Jev model pick an operation and a numbered target each step, and acts via Accessibility actions and synthetic input.
+
+- Catalog URL: https://awesomecua.com/resources/github-savka777-jev-use/
+- Original source: https://github.com/savka777/jev-use
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: automation, efficiency, human-in-the-loop
+- Evidence checked: 2026-10-20T07:55:46Z
+- ID: github:savka777/jev-use
+
+### Limitations
+
+The Swift app (built as Desktop Voice.app; macOS 14.2+ and Xcode) reads the front window's Accessibility tree, skipping secure text fields, and sends the command, app and window names, numbered targets and recent actions to TypeSafe's hosted systemone endpoint with model jev-latest; no screenshots are sent (Sources/JevDesktop/Desktop.swift, Sources/JevCore/Decision.swift). Actions use Accessibility presses and value setting plus CGEvent mouse, key and scroll events. An optional OpenRouter key enables a planner model (default inception/mercury-2.5) that splits a spoken command into steps; Jev still chooses each on-screen target (Sources/JevCore/Planner.swift). Input is Apple Speech hold-to-talk, hands-free mode, an optional "Hey Jev" wake phrase, or typed commands. The README says low-confidence and destructive picks stop and ask. Jev is a hosted model.
+
+- Record JSON: https://awesomecua.com/resources/github-savka777-jev-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/savka777/jev-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/savka777/jev-use/HEAD/README.md (retrieved 2026-10-20T07:55:46Z; SHA-256 33dcaacf9df33772c939e9d47b9f9d9b2a62aa89350f18679c1efa30a9b53a72)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/README.md (retrieved 2026-10-20T07:55:00Z; SHA-256 33dcaacf9df33772c939e9d47b9f9d9b2a62aa89350f18679c1efa30a9b53a72)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevDesktop/Desktop.swift (retrieved 2026-10-20T07:55:00Z; SHA-256 749d56d50e44b0b186075823f2ebde9b7ce0202dca0433508b1525d8c8fd1efe)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevCore/Decision.swift (retrieved 2026-10-20T07:55:01Z; SHA-256 be29bfdff736e2d471f00fb20d8777f9195653385708baf6ceba42f70e0248e7)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevCore/Planner.swift (retrieved 2026-10-20T07:55:01Z; SHA-256 d415336ae42e87dd015503c62ca947cba81f6ea7a6266e586da63941331d6b94)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevDesktop/JevDesktopApp.swift (retrieved 2026-10-20T07:55:04Z; SHA-256 b3e1a792f0a817662ecc2d87cd8fe4900d76ba1e8251a38b5c1ac916d2d7594a)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/LICENSE (retrieved 2026-10-20T07:55:04Z; SHA-256 d07df820340b2caa015b0135264e779facb2e2098874fa12bc99dd7069480be3)
+- https://raw.githubusercontent.com/savka777/jev-use/HEAD/LICENSE (retrieved 2026-10-20T07:55:53Z; SHA-256 d07df820340b2caa015b0135264e779facb2e2098874fa12bc99dd7069480be3)
 
 ---
 
@@ -2986,6 +3225,40 @@ The source describes configurable OpenAI-compatible model services and optional 
 
 ---
 
+## Nakama
+
+A team AI agent platform, run as managed cloud or one Docker container, whose agents can drive a per-user Kernel cloud browser or Chrome on the server to open pages, click and fill forms.
+
+- Catalog URL: https://awesomecua.com/resources/github-ahmadrosid-nakama/
+- Original source: https://github.com/ahmadrosid/nakama
+- Kind: agent
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, human-in-the-loop, tool-integration
+- Evidence checked: 2026-11-10T06:29:34Z
+- ID: github:ahmadrosid/nakama
+
+### Limitations
+
+browser-tools.ts defines six cloud-browser tools (browser_navigate, browser_read, browser_scroll, browser_playwright, browser_screenshot, browser_computer) backed by Kernel, which needs a Kernel API key; the user watches and signs in through a live Browser panel and approves outgoing messages. The agent-browser skill runs the agent-browser CLI with Chrome through the bash tool. Declared license MIT.
+
+- Record JSON: https://awesomecua.com/resources/github-ahmadrosid-nakama/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ahmadrosid/nakama/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ahmadrosid/nakama/bfc563424cd8353f0020da2f80398bbef685075c/README.md (retrieved 2026-11-10T06:29:34Z; SHA-256 b0783bad84b1ec2ede804cb6ab9aca106620de4a6293f6781a8d98a03ba41e56)
+- https://raw.githubusercontent.com/ahmadrosid/nakama/HEAD/LICENSE (retrieved 2026-11-10T06:22:36Z; SHA-256 243a8f957c5f593ffd1378dd55163e6bcbefd502f32c143f32cf2bdb08a46193)
+
+---
+
 ## OmniAgent
 
 A resident assistant that can inspect screenshots and operate a local desktop through mouse and keyboard tools or an Android device through ADB, alongside chat and memory features.
@@ -3194,36 +3467,6 @@ The repository contains server, task worker, browser worker, and application cod
 
 ---
 
-## OpenWebVoyager
-
-OpenWebVoyager trains multimodal web navigation agents through iterative real-world web exploration, feedback verification, and trajectory tuning.
-
-- Catalog URL: https://awesomecua.com/resources/github-minorjerry-openwebvoyager/
-- Original source: https://github.com/MinorJerry/OpenWebVoyager
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, imitation-learning, reinforcement-learning
-- Evidence checked: 2026-11-04T13:12:26Z
-- ID: github:minorjerry/openwebvoyager
-
-- Record JSON: https://awesomecua.com/resources/github-minorjerry-openwebvoyager/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/README.md (retrieved 2026-11-04T13:12:26Z; SHA-256 d21bff8addefac48b0f1d8957c6cefdf04ece467ac616fb0eb7669793603d732)
-- https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/LICENSE (retrieved 2026-11-04T13:23:25Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
-
----
-
 ## Operit AI
 
 An Android agent platform that operates app interfaces and web pages using visual screen understanding, device controls, and browser actions.
@@ -3255,6 +3498,40 @@ The README describes Accessibility, Shizuku, and Root options for Android automa
 
 - https://raw.githubusercontent.com/AAswordman/Operit/HEAD/README.md (retrieved 2026-11-09T19:58:08Z; SHA-256 e675f79170f744802f68d9b72fd29b08ff644fbd09130deba71418a9afb0622a)
 - https://raw.githubusercontent.com/AAswordman/Operit/HEAD/LICENSE (retrieved 2026-11-09T14:21:22Z; SHA-256 e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118)
+
+---
+
+## Operit2
+
+A cross-device personal agent in preview that continues conversations and tasks across phones, desktops and cloud nodes, with file, terminal and browser tools that click, type and snapshot web pages.
+
+- Catalog URL: https://awesomecua.com/resources/github-aaswordman-operit2/
+- Original source: https://github.com/AAswordman/Operit2
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web, desktop, windows, macos, linux, android, ios, harmonyos, cross-platform
+- Topics: web-navigation, tool-integration
+- Evidence checked: 2026-11-10T06:29:34Z
+- ID: github:aaswordman/operit2
+
+### Limitations
+
+The repository has a Rust core with a CLI/TUI and a Flutter app for Android, iOS, Windows, Linux, macOS, OpenHarmony and Web; browser_* tools drive a WebView through the runtime host. A technical whitepaper PDF is in docs/. AGPL-3.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-aaswordman-operit2/record.json
+
+### License declarations
+
+- code: AGPL-3.0 — https://raw.githubusercontent.com/AAswordman/Operit2/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/AAswordman/Operit2/dd6d34d81591f6455935c43ddf7101cd9a1215d2/README.md (retrieved 2026-11-10T06:29:34Z; SHA-256 d4de3ebbd9009e0a912be94eb965bea5bfa031954c258e65a06dbd0597bf8b13)
+- https://raw.githubusercontent.com/AAswordman/Operit2/HEAD/LICENSE (retrieved 2026-11-10T06:22:36Z; SHA-256 0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0)
 
 ---
 
@@ -3294,40 +3571,6 @@ Published by echoVic as the npm package @blade-ai/orca and native binaries for m
 - https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/crates/orca-computer-use/src/protocol.rs (retrieved 2026-10-20T08:17:34Z; SHA-256 89778d5b83be50682142b7db9709d3368174717e79fc448a4a9945cac2e48477)
 - https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/crates/orca-computer-use/src/observation.rs (retrieved 2026-10-20T08:17:34Z; SHA-256 fc3df4cb6b4528cf6fe77a4323999734cecd093e7023ebcb930e32ee5f085f0f)
 - https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/LICENSE (retrieved 2026-10-20T08:18:12Z; SHA-256 ca3956b24fe4d01f280e49f616774a467372007a090ebe9f56b1df7dbfb1de86)
-
----
-
-## Orion
-
-A biomedical analysis agent that operates scientific desktop applications, a browser, and terminal tools in an Ubuntu virtual machine. Its repository includes task configurations and launchers.
-
-- Catalog URL: https://awesomecua.com/resources/github-genentech-orion/
-- Original source: https://github.com/Genentech/Orion
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, linux, web
-- Topics: science, tool-integration, workflow, screen-understanding
-- Evidence checked: 2026-11-09T19:57:15Z
-- ID: github:genentech/orion
-
-### Limitations
-
-The README lists CellProfiler, QuPath, and napari workflows. Setup requires VMware and an Ubuntu guest image; the repository includes agent runtime code, task configs, tools, and comparison runners. The repository layout names an MIT license.
-
-- Record JSON: https://awesomecua.com/resources/github-genentech-orion/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/Genentech/Orion/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/Genentech/Orion/HEAD/README.md (retrieved 2026-11-09T19:57:15Z; SHA-256 8f924d3dfd9991aee0c9db670b6d97cf35c76766508b02decb23176b3ae6a43c)
-- https://raw.githubusercontent.com/Genentech/Orion/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 08ea5491726e2f87ab21b4a99b6cfcc97076244c3e824033d7cbbb8e6a213788)
 
 ---
 
@@ -9569,46 +9812,6 @@ Chrome extension that drives web browsing, clicking, and typing using TypeSafe J
 
 - https://raw.githubusercontent.com/luciferlu755/jev-for-chrome/HEAD/README.md (retrieved 2026-11-04T16:51:42Z; SHA-256 307f76ea74035711c78167fa18161f81e755f286b442b25206c24a2d18851932)
 - https://raw.githubusercontent.com/luciferlu755/jev-for-chrome/HEAD/LICENSE (retrieved 2026-11-04T16:56:54Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
-
----
-
-## jev-use
-
-macOS voice and typed computer-use app that walks the front app's Accessibility tree, has the hosted Jev model pick an operation and a numbered target each step, and acts via Accessibility actions and synthetic input.
-
-- Catalog URL: https://awesomecua.com/resources/github-savka777-jev-use/
-- Original source: https://github.com/savka777/jev-use
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: automation, efficiency, human-in-the-loop
-- Evidence checked: 2026-10-20T07:55:46Z
-- ID: github:savka777/jev-use
-
-### Limitations
-
-The Swift app (built as Desktop Voice.app; macOS 14.2+ and Xcode) reads the front window's Accessibility tree, skipping secure text fields, and sends the command, app and window names, numbered targets and recent actions to TypeSafe's hosted systemone endpoint with model jev-latest; no screenshots are sent (Sources/JevDesktop/Desktop.swift, Sources/JevCore/Decision.swift). Actions use Accessibility presses and value setting plus CGEvent mouse, key and scroll events. An optional OpenRouter key enables a planner model (default inception/mercury-2.5) that splits a spoken command into steps; Jev still chooses each on-screen target (Sources/JevCore/Planner.swift). Input is Apple Speech hold-to-talk, hands-free mode, an optional "Hey Jev" wake phrase, or typed commands. The README says low-confidence and destructive picks stop and ask. Jev is a hosted model.
-
-- Record JSON: https://awesomecua.com/resources/github-savka777-jev-use/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/savka777/jev-use/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/savka777/jev-use/HEAD/README.md (retrieved 2026-10-20T07:55:46Z; SHA-256 33dcaacf9df33772c939e9d47b9f9d9b2a62aa89350f18679c1efa30a9b53a72)
-- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/README.md (retrieved 2026-10-20T07:55:00Z; SHA-256 33dcaacf9df33772c939e9d47b9f9d9b2a62aa89350f18679c1efa30a9b53a72)
-- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevDesktop/Desktop.swift (retrieved 2026-10-20T07:55:00Z; SHA-256 749d56d50e44b0b186075823f2ebde9b7ce0202dca0433508b1525d8c8fd1efe)
-- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevCore/Decision.swift (retrieved 2026-10-20T07:55:01Z; SHA-256 be29bfdff736e2d471f00fb20d8777f9195653385708baf6ceba42f70e0248e7)
-- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevCore/Planner.swift (retrieved 2026-10-20T07:55:01Z; SHA-256 d415336ae42e87dd015503c62ca947cba81f6ea7a6266e586da63941331d6b94)
-- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevDesktop/JevDesktopApp.swift (retrieved 2026-10-20T07:55:04Z; SHA-256 b3e1a792f0a817662ecc2d87cd8fe4900d76ba1e8251a38b5c1ac916d2d7594a)
-- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/LICENSE (retrieved 2026-10-20T07:55:04Z; SHA-256 d07df820340b2caa015b0135264e779facb2e2098874fa12bc99dd7069480be3)
-- https://raw.githubusercontent.com/savka777/jev-use/HEAD/LICENSE (retrieved 2026-10-20T07:55:53Z; SHA-256 d07df820340b2caa015b0135264e779facb2e2098874fa12bc99dd7069480be3)
 
 ---
 

@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/memory/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/memory/index.md
 
+- [lean-computer-use-mcp](https://awesomecua.com/zh/resources/github-kvxw1105-lean-computer-use-mcp/)
+- [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonai-litewebagent/)
 - [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonaiorg-litewebagent/)
 - [LKO Mark 3.4](https://awesomecua.com/zh/resources/github-shubhransh-gupta-lko-mark-3-4/)
 - [LLM Wiki for Chrome](https://awesomecua.com/zh/resources/github-nvk-llm-wiki-chrome/)

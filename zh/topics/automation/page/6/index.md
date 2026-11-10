@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
+- [Apprentice](https://awesomecua.com/zh/resources/github-bluzername-apprentice/)
+- [arc-control-mcp](https://awesomecua.com/zh/resources/github-db-25-arc-control-mcp/)
+- [arc-cua](https://awesomecua.com/zh/resources/github-shhivv-arc-cua/)
+- [Arelis](https://awesomecua.com/zh/resources/github-sanct1x-arelis/)
+- [Argent](https://awesomecua.com/zh/resources/github-software-mansion-argent/)
 - [Argus (macOS Vision-AX MCP Plugin)](https://awesomecua.com/zh/resources/github-korisame-argus/)
 - [AriaOS](https://awesomecua.com/zh/resources/github-jeremie225ci-ariaos/)
 - [Ark Web](https://awesomecua.com/zh/resources/github-aebt01-ark-web/)
@@ -43,6 +48,7 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/6/
 - [Automation MCP](https://awesomecua.com/zh/resources/github-ashwwwin-automation-mcp/)
 - [Automify](https://awesomecua.com/zh/resources/github-aldovincenti-automify/)
 - [AutoPy](https://awesomecua.com/zh/resources/github-autopilot-rs-autopy/)
+- [AutoPyDriverServer](https://awesomecua.com/zh/resources/github-daluu-autopydriverserver/)
 - [AutoTask](https://awesomecua.com/zh/resources/github-bowenbryanwang-autotask/)
 - [AutoWebNav](https://awesomecua.com/zh/resources/github-mindattic-autowebnav/)
 - [AUV](https://awesomecua.com/zh/resources/github-moeru-ai-auv/)
@@ -50,6 +56,7 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/6/
 - [Awictor Relay](https://awesomecua.com/zh/resources/github-awictor-relay/)
 - [aworld-mcp-servers](https://awesomecua.com/zh/resources/github-qingw-dev-aworld-mcp-servers/)
 - [axcli](https://awesomecua.com/zh/resources/github-andelf-axcli/)
+- [AXe](https://awesomecua.com/zh/resources/github-cameroncooke-axe/)
 - [axiom.ai](https://awesomecua.com/zh/resources/url-ef5f03efdbd5e3da2ed7/)
 - [Axon](https://awesomecua.com/zh/resources/github-gxcsoccer-axon/)
 - [AXON OS](https://awesomecua.com/zh/resources/github-frezzaroukos-axon-os/)
@@ -57,10 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/6/
 - [axstream](https://awesomecua.com/zh/resources/github-milind-soni-axstream/)
 - [AXTree API](https://awesomecua.com/zh/resources/github-amaar-mc-axtree-api/)
 - [AzaiSakura dsh-computer-use (macOS)](https://awesomecua.com/zh/resources/github-azaisakura-dsh-computer-use/)
-- [background-computer-use](https://awesomecua.com/zh/resources/github-panchangam18-background-computer-use/)
-- [Bah](https://awesomecua.com/zh/resources/github-alexvilelabah-bah-browser/)
-- [Bardeen](https://awesomecua.com/zh/resources/url-87bc346934a4117b554c/)
-- [bb-browser](https://awesomecua.com/zh/resources/github-epiral-bb-browser/)
-- [bb-sites](https://awesomecua.com/zh/resources/github-epiral-bb-sites/)
-- [bdg - Browser Debugger CLI](https://awesomecua.com/zh/resources/github-szymdzum-browser-debugger-cli/)
-- [Bees Desktop](https://awesomecua.com/zh/resources/github-bees-bot-bees-desktop/)

@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/human-in-the-loop/page/5/
 
 Full list: https://awesomecua.com/topics/human-in-the-loop/index.md
 
+- [Mac MCP (Menu Bar & Local Server)](https://awesomecua.com/resources/github-bulutarkan-mac-mcp/)
+- [MagenticLite / Magentic UI](https://awesomecua.com/resources/github-microsoft-magentic-ui/)
+- [Magpie Computer Use](https://awesomecua.com/resources/github-sammysnake-d-magpie-computer-use-agent/)
 - [magpie Computer Use](https://awesomecua.com/resources/github-wbb6517-magpie-computer-use/)
 - [Mano skill](https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/)
 - [MaskClaw](https://awesomecua.com/resources/github-theodora-y-maskclaw/)
@@ -18,6 +21,7 @@ Full list: https://awesomecua.com/topics/human-in-the-loop/index.md
 - [mobius-browser-guard](https://awesomecua.com/resources/github-mobius-style-mobius-browser-guard/)
 - [Momo](https://awesomecua.com/resources/github-holdtroop-momo/)
 - [MyFood Hermes Agent](https://awesomecua.com/resources/github-delltrak-myfood-hermes-agent/)
+- [Nakama](https://awesomecua.com/resources/github-ahmadrosid-nakama/)
 - [Nanobrowser](https://awesomecua.com/resources/github-nanobrowser-nanobrowser/)
 - [nanoMuse](https://awesomecua.com/resources/github-nano-muse-nanomuse/)
 - [NaviFlow](https://awesomecua.com/resources/github-marc-ing-navi-flow/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/human-in-the-loop/index.md
 - [redux-webmcp](https://awesomecua.com/resources/github-breeznik-redux-webmcp/)
 - [Reins](https://awesomecua.com/resources/github-pegasi-ai-reins/)
 - [Relay AI Virtual Desktop](https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/)
-- [Ribband (Agentic WebMCP)](https://awesomecua.com/resources/github-somnora-agentic-webmcp/)
-- [Ringlight WebMCP](https://awesomecua.com/resources/github-doom2quake-ringlight/)
-- [Rove (Thread WebMCP Workspace)](https://awesomecua.com/resources/github-chris-miracle-thread/)
-- [RPA-Everything](https://awesomecua.com/resources/github-mingqian94-rpa-everything/)

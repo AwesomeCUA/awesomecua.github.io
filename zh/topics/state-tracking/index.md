@@ -220,6 +220,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Suite of five Python CDP utilities including a page watcher, form filler, table scraper, DOM change differ, and health checker.
 - [Anionex DSH Computer Use](https://awesomecua.com/zh/resources/github-anionex-dsh-computer-use/) — Date not recorded
   macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility observations, stale-state rejection, and scoped permissions.
+- [ARC CUA](https://awesomecua.com/zh/resources/github-itw-code-arc-cua/) — Date not recorded
+  Browser harness that gives an agent a token-budgeted accessibility tree with indexed actions and checks each action for state change, plus a document-to-form pipeline and an MCP server.
 - [Astra plays GTA Vice City](https://awesomecua.com/zh/resources/github-da03-astra-plays-gta/) — Date not recorded
   A macOS helper and prompt let a desktop agent control GTA Vice City through screenshots and short input steps, pausing the game while it decides what to do next.
 - [AXTree API](https://awesomecua.com/zh/resources/github-amaar-mc-axtree-api/) — Date not recorded

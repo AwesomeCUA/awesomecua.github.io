@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/19/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
+- [TimeWarp](https://awesomecua.com/zh/resources/github-sparklabutah-timewarp/)
+- [TurkingBench](https://awesomecua.com/zh/resources/url-808a22468ee0bf565d6e/)
+- [UI-FaultLab](https://awesomecua.com/zh/resources/github-kakoyvostorg-ui-faultlab/)
+- [UI-I2E-Bench](https://awesomecua.com/zh/resources/url-c08566be0d973ec40c48/)
 - [UI-NEXUS](https://awesomecua.com/zh/resources/github-starwalkin-ui-nexus/)
 - [UniClawBench](https://awesomecua.com/zh/resources/github-hku-mmlab-uniclawbench/)
 - [UserZero](https://awesomecua.com/zh/resources/github-aafre-userzero/)
@@ -36,6 +40,7 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/19/
 - [WebGames](https://awesomecua.com/zh/resources/github-convergence-ai-webgames/)
 - [WebGen-Bench](https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/)
 - [WebGuard](https://awesomecua.com/zh/resources/github-osu-nlp-group-webguard/)
+- [WebHarbor](https://awesomecua.com/zh/resources/github-aiming-lab-webharbor/)
 - [WebLINX](https://awesomecua.com/zh/resources/github-mcgill-nlp-weblinx/)
 - [WebLINX 1.1 (WebLINX-BrowserGym)](https://awesomecua.com/zh/resources/url-77afb3a9b045a157167c/)
 - [WebMall](https://awesomecua.com/zh/resources/github-wbsg-uni-mannheim-webmall/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/19/
 - [WindTunnel](https://awesomecua.com/zh/resources/github-nekuda-ai-windtunnel/)
 - [WONDERBREAD](https://awesomecua.com/zh/resources/github-hazyresearch-wonderbread/)
 - [WorkArena](https://awesomecua.com/zh/resources/github-servicenow-workarena/)
-- [WorkArena-Instances](https://awesomecua.com/zh/resources/url-01b9e39cd2526d41c527/)
-- [WorldGUI](https://awesomecua.com/zh/resources/github-showlab-worldgui/)
-- [Wornpage WebMCP Conformance](https://awesomecua.com/zh/resources/github-wornpage-webmcp-conformance/)
-- [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/zh/resources/url-3ab90a696d8578c944c8/)
-- [Agent Humanization Benchmark (AHB) recordings](https://awesomecua.com/zh/resources/url-3e1a864c46c8ed5735d4/)

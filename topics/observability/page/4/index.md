@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/observability/page/4/
 
 Full list: https://awesomecua.com/topics/observability/index.md
 
+- [MaaEvidenceKit](https://awesomecua.com/resources/github-windsland52-maaevidencekit/)
+- [MaaInspector](https://awesomecua.com/resources/github-tanyashue-maainspector/)
+- [MaaLogAnalyzer](https://awesomecua.com/resources/github-maaxyz-maaloganalyzer/)
+- [MaaPipelineEditor](https://awesomecua.com/resources/github-kqcoxn-maapipelineeditor/)
+- [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/resources/github-mapleluvr-cu/)
 - [MELRA](https://awesomecua.com/resources/github-xagi-lab-melra/)
 - [Memori](https://awesomecua.com/resources/github-memorilabs-memori/)
 - [Midscene Java](https://awesomecua.com/resources/github-alstafeev-midscene-java/)
@@ -15,6 +20,7 @@ Full list: https://awesomecua.com/topics/observability/index.md
 - [nemosr dsh-personal-plugins](https://awesomecua.com/resources/github-nemosr-dsh-personal-plugins/)
 - [neuron-inspector](https://awesomecua.com/resources/github-conquext-neuron-inspector/)
 - [Nexus Computer Use Harness (NexusCUH)](https://awesomecua.com/resources/github-subasah-computer-use-harness/)
+- [Nova Act Extension](https://awesomecua.com/resources/github-aws-nova-act-extension/)
 - [Open Computer](https://awesomecua.com/resources/github-mintplex-labs-open-computer/)
 - [openadapt-viewer](https://awesomecua.com/resources/github-openadaptai-openadapt-viewer/)
 - [OpenAgent](https://awesomecua.com/resources/github-the-open-agent-openagent/)
@@ -58,9 +64,3 @@ Full list: https://awesomecua.com/topics/observability/index.md
 - [UI Debugger MCP](https://awesomecua.com/resources/github-developerz-ai-ui-debugger-mcp/)
 - [UnderPixel](https://awesomecua.com/resources/github-leluth-underpixel/)
 - [Vadgr](https://awesomecua.com/resources/github-montbrain-vadgr/)
-- [Valk](https://awesomecua.com/resources/github-ercbot-valk/)
-- [web-eval-agent](https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/)
-- [WebMCP - Model Context Tool Inspector](https://awesomecua.com/resources/github-beaufortfrancois-model-context-tool-inspector/)
-- [WebOperator Experiments](https://awesomecua.com/resources/github-mahirlabibdihan-weboperator-experiments/)
-- [windows-mcp-server](https://awesomecua.com/resources/github-deploymenttheory-windows-mcp-server/)
-- [WinWright](https://awesomecua.com/resources/github-alegauss-winwright/)

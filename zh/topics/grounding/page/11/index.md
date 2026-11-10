@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/11/
 
 完整列表：https://awesomecua.com/zh/topics/grounding/index.md
 
+- [qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain](https://awesomecua.com/zh/resources/url-fe85a6b4ffbdb303f382/)
+- [Qwen-CUA](https://awesomecua.com/zh/resources/url-a886fea306211d527701/)
+- [Qwen-GUI checkpoint](https://awesomecua.com/zh/resources/url-23bc63f93d3c31d74af3/)
 - [Qwen/Qwen3-VL-8B-Instruct](https://awesomecua.com/zh/resources/url-90ae002dbf099d42fabb/)
 - [Qwen2.5-VL-32B-Instruct](https://awesomecua.com/zh/resources/url-beafd78bf2ea84211e6d/)
 - [Qwen2.5-VL-3B-Instruct](https://awesomecua.com/zh/resources/url-52ec96785d9c0ae8e039/)
@@ -19,6 +22,7 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/11/
 - [Qwen3-VL-30B-A3B-Instruct](https://awesomecua.com/zh/resources/url-7fafb31cac59ad3a7e03/)
 - [Qwen3-VL-32B-Thinking](https://awesomecua.com/zh/resources/url-ecf889aadea335aa5e25/)
 - [Rex-Omni](https://awesomecua.com/zh/resources/github-idea-research-rex-omni/)
+- [Rex-Omni](https://awesomecua.com/zh/resources/url-37880875f816f46f6dfe/)
 - [S1-Accurate-LoRA](https://awesomecua.com/zh/resources/url-d34be9d27efef6c1b37a/)
 - [S1-Fast](https://awesomecua.com/zh/resources/url-51fd7f79dff766278d83/)
 - [Salesforce/GTA1-32B](https://awesomecua.com/zh/resources/url-5288515eb50aef1e84a2/)
@@ -60,7 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/11/
 - [UI-TARS 72B DPO](https://awesomecua.com/zh/resources/url-0447e1fb83a794507aa2/)
 - [UI-TARS 72B SFT](https://awesomecua.com/zh/resources/url-fdb901523979ed1e831b/)
 - [UI-TARS 7B DPO](https://awesomecua.com/zh/resources/url-a8b43a1f2bebd998f612/)
-- [UI-TARS 7B SFT](https://awesomecua.com/zh/resources/url-dbd880ec31b412487945/)
-- [UI-Venus](https://awesomecua.com/zh/resources/github-inclusionai-ui-venus/)
-- [UI-Venus 2 9B](https://awesomecua.com/zh/resources/url-611df37e5f3caa6befd7/)
-- [UI-Venus-Navi-72B](https://awesomecua.com/zh/resources/url-80ec6c9a43360adbbc6b/)

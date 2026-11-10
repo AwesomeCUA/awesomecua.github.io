@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/recording/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/recording/index.md
 
+- [webreel](https://awesomecua.com/zh/resources/github-vercel-labs-webreel/)
+- [WebVIA](https://awesomecua.com/zh/resources/github-zheny2751-dotcom-webvia/)
+- [Windows Local Action Recorder](https://awesomecua.com/zh/resources/github-week833-windows-local-action-recorder/)
+- [windows-computer-use-mcp (Scan-Code & Multi-Monitor)](https://awesomecua.com/zh/resources/github-sshh12-windows-computer-use-mcp/)
 - [Witness](https://awesomecua.com/zh/resources/github-ericfinland-witness/)
 - [Work2Skill](https://awesomecua.com/zh/resources/github-china-qijizhifeng-work2skill/)
 - [Workflow Use](https://awesomecua.com/zh/resources/github-browser-use-workflow-use/)

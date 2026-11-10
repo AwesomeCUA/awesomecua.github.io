@@ -557,9 +557,13 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   A browser-hosted mobile-app simulator with programmable state, parameterized tasks and deterministic state-checking judges for parallel GUI-agent evaluation and online reinforcement learning.
 - [pptxgym (CUA-Gym.pptx)](https://awesomecua.com/zh/resources/github-lyt060814-cua-gym-pptx/) — Date not recorded
   Synthesizes and grades verifiable computer-use reinforcement-learning tasks from real PowerPoint presentation decks.
+- [WebHarbor](https://awesomecua.com/zh/resources/github-aiming-lab-webharbor/) — Date not recorded
+  Docker-based local mirrors of 153 real websites with auth and databases, plus 3,518 tasks with verifiers for evaluating and RL-training GUI web agents, and a control plane for sub-second site resets.
 
 ## 数据集
 
+- [AgentGym-RL-Data-ID](https://awesomecua.com/zh/resources/url-9140ca5ba8252d373b8d/) — Date not recorded
+  Train and eval task splits for AgentGym-RL multi-turn reinforcement learning, listing task IDs for WebArena web navigation alongside search, game, embodied and science environments.
 - [GroundGUI RL Dataset](https://awesomecua.com/zh/resources/url-4e71dc456c4112eed727/) — Date not recorded
   Desktop grounding prompts selected from GroundCUA and formatted for click-based reinforcement learning with target-box rewards.
 - [GUI-R1 data bundle](https://awesomecua.com/zh/resources/url-df680385f18b01a825be/) — Date not recorded
@@ -753,6 +757,10 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   A GUI grounding checkpoint that locates interface elements from instructions. Its training combines varied instruction formulations with reinforcement learning.
 - [UI-Ins-7B](https://awesomecua.com/zh/resources/url-62cf0bee7a14cfbc84a0/) — Date not recorded
   UI-Ins-7B is a GUI-grounding checkpoint trained on varied instruction formulations and reinforcement learning to locate interface elements for agent actions.
+- [UI-Mate-27B](https://awesomecua.com/zh/resources/url-ad993f634943aadbc3f7/) — Date not recorded
+  A 27B GUI agent model from the UI-Mate release, trained from Qwen3.6-27B with supervised fine-tuning and online reinforcement learning to turn instructions and screenshots into keyboard and mouse actions.
+- [UI-Mate-9B](https://awesomecua.com/zh/resources/url-d9e6788adf3eb50a9b87/) — Date not recorded
+  A 9B GUI agent model from the UI-Mate release, trained from Qwen3.5-9B with supervised fine-tuning and online reinforcement learning to turn instructions and screenshots into keyboard and mouse actions.
 - [UI-R1](https://awesomecua.com/zh/resources/github-lll6gg-ui-r1/) — Date not recorded
   Rule-based reinforcement learning for GUI action prediction, releasing UI-R1-3B, trained from Qwen2.5-VL-3B, the efficiency-oriented UI-R1-E-3B, and training data.
 - [UI-R1 3B](https://awesomecua.com/zh/resources/url-f13474d7aa734a30624d/) — Date not recorded
@@ -769,6 +777,10 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   A 7B OS agent model that carries out GUI actions under normal conditions and asks a person for input when it detects an untrustworthy scenario, trained in three stages with SFT and GRPO.
 - [webarena-world-model-rlvr](https://awesomecua.com/zh/resources/url-e02a165e76cd7c43e2ca/) — Date not recorded
   A language world model for web page state prediction on WebArena, post-trained with RLVR from an SFT checkpoint and used for model predictive control of web agents.
+- [WebGenAgent-LM-7B-Step-GRPO](https://awesomecua.com/zh/resources/url-cdb9a1ad26e169a411f5/) — Date not recorded
+  The 7B Step-GRPO checkpoint of WebGen-Agent, which writes website code from instructions; training used screenshot scores and GUI-agent test scores as step-level rewards.
+- [WebGenAgent-LM-8B-Step-GRPO](https://awesomecua.com/zh/resources/url-7ebba507c0df876c6113/) — Date not recorded
+  The 8B Step-GRPO checkpoint of WebGen-Agent, which writes website code from instructions; training used screenshot scores and GUI-agent test scores as step-level rewards.
 - [WebRL Llama 3.1 8B](https://awesomecua.com/zh/resources/url-a6ee20fea67438d91e06/) — Date not recorded
   A WebRL browser-policy checkpoint for performing actions in the five website environments of WebArena.
 - [WebRL outcome reward model 8B](https://awesomecua.com/zh/resources/url-d1e85aeb6d96859c109d/) — Date not recorded
@@ -785,6 +797,10 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Released reasoning checkpoint for web research that searches and navigates pages through interactive clicks while drafting reports from gathered information.
 - [WebThinker-R1-7B](https://awesomecua.com/zh/resources/url-564c980a531e7204447c/) — Date not recorded
   A released 7B reasoning model for web research that searches and navigates pages through interactive elements while drafting reports.
+- [WildAWM-35B-A3B](https://awesomecua.com/zh/resources/url-201acf47dde3df755bfe/) — Date not recorded
+  WildAWM-35B-A3B is a Qwen3.6-35B-A3B agent checkpoint post-trained on WildAWM cross-interface computer tasks that mix web, MCP and CLI actions, served text-only with SGLang.
+- [WildAWM-4B](https://awesomecua.com/zh/resources/url-3f0e524544c55025c9d9/) — Date not recorded
+  WildAWM-4B is a Qwen3.5-4B agent checkpoint post-trained on WildAWM cross-interface computer tasks that mix web, MCP and CLI actions, served text-only with SGLang.
 - [ZeroGUI-AndroidLab-7B](https://awesomecua.com/zh/resources/url-f75cab7180d8f5264606/) — Date not recorded
   ZeroGUI-AndroidLab-7B is a GUI-agent checkpoint associated with training that generates interface tasks, estimates rewards from screenshots, and adapts through online reinforcement learning.
 - [ZeroGUI-OSWorld-7B](https://awesomecua.com/zh/resources/url-6ea345c7ba56049476e8/) — Date not recorded
@@ -894,6 +910,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   A web navigation agent with single-model and modular modes. Its modular loop observes screenshots, plans actions, grounds page targets, and executes browser operations through Playwright.
 - [OpenWebVoyager](https://awesomecua.com/zh/resources/github-minorjerry-openwebvoyager/) — Date not recorded
   OpenWebVoyager trains multimodal web navigation agents through iterative real-world web exploration, feedback verification, and trajectory tuning.
+- [Orchard-Agentic](https://awesomecua.com/zh/resources/github-microsoft-orchard-agentic/) — Date not recorded
+  Orchard-Agentic holds the Orchard environment service, an RL training stack and evaluation code, with recipes for software, browser-navigation and CLI agents and an index of follow-on projects.
 - [OSRS PvP Reinforcement Learning](https://awesomecua.com/zh/resources/github-naton1-osrs-pvp-reinforcement-learning/) — Date not recorded
   Trains PPO self-play reinforcement learning agents for real-time Old School RuneScape PvP combat across high-dimensional action spaces.
 - [Pix2Act](https://awesomecua.com/zh/resources/github-google-deepmind-pix2act/) — Date not recorded

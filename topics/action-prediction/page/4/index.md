@@ -4,6 +4,12 @@ HTML page: https://awesomecua.com/topics/action-prediction/page/4/
 
 Full list: https://awesomecua.com/topics/action-prediction/index.md
 
+- [OpenCUA 72B](https://awesomecua.com/resources/url-4a0b1692589594745a3c/)
+- [OpenCUA-7B](https://awesomecua.com/resources/url-2803eda78cff23fb63cc/)
+- [OpenCUA-7B-exl2](https://awesomecua.com/resources/url-76f3981d219bb87b4eea/)
+- [OpenJev](https://awesomecua.com/resources/github-alanhuangyoo-openjev/)
+- [OpenJev-1.7B](https://awesomecua.com/resources/url-24ec6c30e9bb9946c13f/)
+- [OpenJev-4B](https://awesomecua.com/resources/url-e592a1ff8bfcafcc7061/)
 - [OpenJev-8B](https://awesomecua.com/resources/url-8f5a8144b96447be84c5/)
 - [OpenMobile-8B](https://awesomecua.com/resources/url-6616228d4f267363458e/)
 - [OpenWebVoyager/OpenWebVoyager-IL](https://awesomecua.com/resources/url-725f9a8225f0f9c40d93/)
@@ -20,6 +26,7 @@ Full list: https://awesomecua.com/topics/action-prediction/index.md
 - [OS-Genesis 8B WA](https://awesomecua.com/resources/url-f2c34526651f5f57cf98/)
 - [PC-Agent-E checkpoint](https://awesomecua.com/resources/url-04aa7569d183379d615c/)
 - [Plan-and-Act Actor 70B](https://awesomecua.com/resources/url-8a284d122d7dcf23479d/)
+- [PlayJev-0.8B](https://awesomecua.com/resources/url-b6a26f1b74d70fc783da/)
 - [Qwen-CUA](https://awesomecua.com/resources/url-a886fea306211d527701/)
 - [Qwen-GUI checkpoint](https://awesomecua.com/resources/url-23bc63f93d3c31d74af3/)
 - [Qwen2.5-VL](https://awesomecua.com/resources/url-4bece2c969edcdfc2e8d/)
@@ -56,11 +63,4 @@ Full list: https://awesomecua.com/topics/action-prediction/index.md
 - [UI-Act model](https://awesomecua.com/resources/github-tobiasnorlund-ui-act-model/)
 - [UI-Genie Agent 3B](https://awesomecua.com/resources/url-43d811a5957d8effb7ed/)
 - [UI-Genie Agent 7B](https://awesomecua.com/resources/url-6d959b58bd4a2e98e417/)
-- [UI-R1 3B](https://awesomecua.com/resources/url-f13474d7aa734a30624d/)
-- [UI-S1 7B](https://awesomecua.com/resources/url-1c4ee99a9a55ae71a7ac/)
-- [UI-TARS 2B SFT](https://awesomecua.com/resources/url-bd9f8174e5503055c0bd/)
-- [UI-TARS 72B DPO](https://awesomecua.com/resources/url-0447e1fb83a794507aa2/)
-- [UI-TARS 72B SFT](https://awesomecua.com/resources/url-fdb901523979ed1e831b/)
-- [UI-TARS 7B DPO](https://awesomecua.com/resources/url-a8b43a1f2bebd998f612/)
-- [UI-TARS 7B SFT](https://awesomecua.com/resources/url-dbd880ec31b412487945/)
-- [UI-Venus-Navi-72B](https://awesomecua.com/resources/url-80ec6c9a43360adbbc6b/)
+- [UI-Mate-27B](https://awesomecua.com/resources/url-ad993f634943aadbc3f7/)

@@ -8,6 +8,7 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [adb-automation-mcp](https://awesomecua.com/resources/github-allaudin-adb-automation-mcp/)
 - [AdbGPT](https://awesomecua.com/resources/github-sidongfeng-adbgpt/)
 - [ADBKeyBoard](https://awesomecua.com/resources/github-senzhk-adbkeyboard/)
+- [adbutils](https://awesomecua.com/resources/github-openatx-adbutils/)
 - [ADP Workforce Now Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-adp-workforce-now-browser-automation/)
 - [Aegis-Agent (Privacy Firewall Browser Agent)](https://awesomecua.com/resources/github-lukan-lawslaf-aegis-agent/)
 - [aegis-desktop](https://awesomecua.com/resources/github-mihneateodorstoica-aegis-desktop/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [AH64-dll Browser Automation Toolkit](https://awesomecua.com/resources/github-ah64-dll-browser-automation-toolkit/)
 - [ahk-mcp](https://awesomecua.com/resources/github-anomalous3-ahk-mcp/)
 - [ahsaanfarooq browser-agent MCP](https://awesomecua.com/resources/github-ahsaanfarooq-browser-agent/)
-- [AI Browser Bridge](https://awesomecua.com/resources/github-xinqi5921-ai-browser-bridge/)

@@ -4,12 +4,16 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/2/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/benchmark/index.md
 
+- [Odysseys](https://awesomecua.com/zh/resources/github-ljang0-odysseys/)：包含 200 项取自真实浏览会话的长流程网页任务，通过 OSWorld 运行器在 Chrome 中访问实时互联网，并由 LLM 评判器依据轨迹截图和操作按评分细则逐项评分。
+- [OmniAct](https://awesomecua.com/zh/resources/url-849a86beaee006c6b147/)：OmniAct 是用于生成计算机交互程序的数据集和基准。
+- [only-cli/benchmarks](https://awesomecua.com/zh/resources/github-only-cli-benchmarks/)：这套可复现的基准测试比较智能体读取实时网页所用的工具，通过页面查看和浏览任务衡量内容获取情况、耗时及令牌用量。
 - [Open CaptchaWorld](https://awesomecua.com/zh/resources/github-metaagentx-opencaptchaworld/)：Open CaptchaWorld 通过网页界面中的交互式验证码谜题评估多模态网页智能体，提供谜题数据、答案检查和结果记录。
 - [OpenAgentSafety](https://awesomecua.com/zh/resources/github-open-agent-safety-openagentsafety/)：这是一个智能体安全基准，采用涉及浏览器、文件系统、终端和消息工具的多步模拟任务，测试智能体如何应对含糊、冲突和对抗性指令。
 - [OS-Harm](https://awesomecua.com/zh/resources/github-tml-epfl-os-harm/)：评估计算机使用智能体在滥用、提示注入和模型意外行为方面安全性的基准。
 - [OSWorld 2.0](https://awesomecua.com/zh/resources/github-xlang-ai-osworld-v2/)：OSWorld 2.0 通过更新的任务集、轨迹查看器和容器沙箱，评测计算机使用智能体执行长流程桌面工作流的能力。
 - [PersonalAlign](https://awesomecua.com/zh/resources/github-ilearn-lab-acl26-personalalign/)：PersonalAlign 发布 AndroidIntent 评测，用于测试个性化移动界面智能体，并提供利用长期交互记录的 HIM-Agent 记忆方法。
 - [PhoneHarness](https://awesomecua.com/zh/resources/github-phoneharness-phoneharness/)：PhoneHarness 评估结合图形界面操作、设备命令和主机工具的 Android 手机智能体。它提供运行环境、部分基准测试运行程序，以及基于运行轨迹的任务结果检查。
+- [PhoneHarness Bench](https://awesomecua.com/zh/resources/url-92b80b37a7a117acfd3c/)：包含 124 个混合动作 Android 手机任务和 30 个安全任务的任务定义与验证器元数据，智能体可通过应用 GUI、设备命令和 MCP 风格工具执行操作。
 - [PopupAttack](https://awesomecua.com/zh/resources/github-salt-nlp-popupattack/)：用于评估 GUI 智能体在恶意弹窗指令下表现的资源。
 - [PPTC](https://awesomecua.com/zh/resources/github-gydpku-pptc/)：PPTC 是 PowerPoint 创建与编辑基准，通过 API 执行任务，并检查生成的演示文稿文件。
 - [RecreationBench](https://awesomecua.com/zh/resources/url-d9d8e68f19ef0956d189/)：通过混合式计算机交互复刻参考应用的任务。
@@ -26,6 +30,7 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/2/ · [English
 - [web-agent-eval (REAL Benchmark Runner)](https://awesomecua.com/zh/resources/github-saarthak-yadav-web-agent-eval/)：在明确的步骤、token 和预算约束下，使用 REAL 评测基准中的 102 个复刻网站评测网页智能体。
 - [WebArena-Infinity](https://awesomecua.com/zh/resources/github-web-arena-x-webarena-infinity/)：生成模仿 GitLab、PayPal、Xero、Elation EHR 等产品的网页应用，具备可重置状态及供浏览器智能体使用的 Python 验证任务，并附有构建应用的编程智能体流水线。
 - [WebGen-Bench](https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/)：WebGen-Bench 用自动化测试评估生成的网站，其中包括让界面智能体执行交互并检查结果。仓库提供评测代码和数据。
+- [WebHarbor](https://awesomecua.com/zh/resources/github-aiming-lab-webharbor/)：WebHarbor 将 153 个真实网站做成基于 Docker 的本地镜像，包含登录和数据库，并提供 3,518 个带验证器的任务，用于评估和强化学习训练 GUI 网页智能体，另有控制面实现亚秒级站点重置。
 - [WebReplayBench](https://awesomecua.com/zh/resources/github-mahirlabibdihan-webreplaybench/)：一个网页智能体基准，提供本地商店网站、BrowserGym 任务和数据库审计记录，用于衡量任务完成情况以及回溯时的重复写入。
 - [WebRetriever](https://awesomecua.com/zh/resources/github-mininglamp-ai-webretriever/)：WebRetriever 提供网页智能体评测运行器，并利用采集到的网络请求、操作和页面 URL 判断任务是否完成。
 - [WebRewardBench](https://awesomecua.com/zh/resources/url-ac6d0f80765f5a32255a/)：用于网页过程奖励模型的离线偏好评估集，将页面和轨迹上下文与受偏好及被拒绝的候选决策配对。
@@ -99,8 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/2/ · [English
 - [GBOX MCP + Claude Code](https://awesomecua.com/zh/resources/github-babelcloud-android-world-benchmark/)：这是基于 AndroidWorld 的评测配置，通过 GBOX MCP 将 Claude 智能体连接到 Android 模拟器，并提供任务完成信号工具。
 - [Gomoku Computer-Use Model Comparison](https://awesomecua.com/zh/resources/github-jns-c-model-comparison-gomoku/)：受控评测基准，用于比较前沿 Claude 模型在交互式棋盘游戏推理和 GUI 执行方面的表现。
 - [Graph-Guided Agentic Testing](https://awesomecua.com/zh/resources/github-avikundal-graph-guided-agentic-testing/)：使用浏览器智能体探索网页结账流程，将其构建为 Neo4j 状态图，并生成由图引导的端到端测试。
-- [GroundUI-18K](https://awesomecua.com/zh/resources/url-d206aacf01e1b7dc786d/)：AgentStudio 的完整 GUI 元素定位测试集，汇集 Mind2Web、OmniACT、MoTIF、ScreenSpot 和 AgentStudio 的网页、桌面及移动端截图，含 18,026 条指令与目标边界框样例。
-- [GUI-Robust](https://awesomecua.com/zh/resources/github-chessbean1-gui-robust/)：提供评估脚本和关联数据，用于比较普通及异常界面条件下的 GUI 操作预测和任务执行。
-- [GuideBench](https://awesomecua.com/zh/resources/url-37b4f525e6d7a56a9967/)：GUIDE 基准发布的数据：来自 10 款应用的新手口述屏幕录像的标注片段，用于预测用户行为状态、短期意图，以及是否提供帮助和如何帮助。
-- [GUIGuard-Bench evaluation code](https://awesomecua.com/zh/resources/github-shaluoyan523-guiguard-bench/)：GUIGuard-Bench 评估代码涵盖隐私区域识别评分、基于 LLM 评判的遮挡截图规划一致性，以及受保护界面的点击定位，并附少量 Android 和 PC 示例。
-- [GUIHalluBench](https://awesomecua.com/zh/resources/github-ant-research-guihallubench/)：将模型列出的界面元素边界框和描述与人工标注比对，衡量其解析 1,000 张英文和 1,000 张中文截图时的幻觉。

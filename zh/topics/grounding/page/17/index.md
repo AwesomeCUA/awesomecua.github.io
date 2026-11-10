@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/17/
 
 完整列表：https://awesomecua.com/zh/topics/grounding/index.md
 
+- [Terminator](https://awesomecua.com/zh/resources/github-mediar-ai-terminator/)
+- [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)
+- [tinycomputer](https://awesomecua.com/zh/resources/github-tinyhumansai-tinycomputer/)
+- [TipTour](https://awesomecua.com/zh/resources/github-milind-soni-tiptour-macos/)
+- [ToL Hierarchical GUI region detection](https://awesomecua.com/zh/resources/github-llv22-tol-gui-region-detection/)
 - [TongUI training and inference framework](https://awesomecua.com/zh/resources/github-tongui-agent-tongui-agent/)
 - [ToolTok](https://awesomecua.com/zh/resources/github-zephinuecode-tooltok/)
 - [TuriX-CUA](https://awesomecua.com/zh/resources/github-turixai-turix-cua/)

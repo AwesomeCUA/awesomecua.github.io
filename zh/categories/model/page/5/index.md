@@ -4,6 +4,27 @@ HTML 页面：https://awesomecua.com/zh/categories/model/page/5/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/model/index.md
 
+- [GUI-Owl 1.5 32B Think](https://awesomecua.com/zh/resources/url-e0e4712ee701f652bf31/)：GUI-Owl 1.5 的 32B 思考版原生 GUI 智能体模型，基于 Qwen3-VL，随 Mobile-Agent-v3.5 发布，用于桌面、移动端和浏览器操作；采用 MIT 许可，约有 33.4B 个 BF16 参数。
+- [GUI-Owl 1.5 4B Instruct](https://awesomecua.com/zh/resources/url-17a0422036ebea8d4e93/)：GUI-Owl 1.5 的 4B 指令版检查点，属于基于 Qwen3-VL 的 Mobile-Agent-v3.5 原生 GUI 智能体系列，用于桌面、移动端和浏览器任务，可独立使用或在该框架中承担角色。
+- [GUI-Owl 1.5 8B Think](https://awesomecua.com/zh/resources/url-374138c6e18c9f1dd44a/)：8B GUI-Owl 1.5 原生 GUI 智能体模型的推理版，基于 Qwen3-VL，随 Mobile-Agent-v3.5 发布，用于桌面、移动端和浏览器控制，约有 8.8B 个 BF16 参数，采用 MIT 许可。
+- [GUI-Spotlight](https://awesomecua.com/zh/resources/github-bin123apple-gui-spotlight/)：GUI-Spotlight 是一种通过图像思考的 GUI 视觉定位模型，可在高分辨率屏幕上反复裁剪并细化关注区域。
+- [GUI-Vid](https://awesomecua.com/zh/resources/url-579b1c0ceac633eeb328/)：GUI-Vid 是基于 GUI-World 重新训练的视频语言模型，用于理解视频中的图形界面。
+- [gWorld (GuiWorld)](https://awesomecua.com/zh/resources/github-trillion-labs-gworld/)：gWorld 是开放权重的 8B/32B 移动端 GUI 世界模型，通过生成可渲染的网页代码预测下一步屏幕状态。
+- [HobbyLM-1B Computer Use](https://awesomecua.com/zh/resources/url-12470a40c8f82ef0294a/)：一款设备端 LoRA 适配器，根据英文请求和 Mac 状态生成单步操作，由配套应用执行；仓库还提供训练代码和评测记录。
+- [Holo Model Family](https://awesomecua.com/zh/resources/url-c0bd07d82ce25ad1d99d/)：H 计算机使用模型系列及各发布版本的访问方式。
+- [Holo-3.1-35B-A3B-FP8](https://awesomecua.com/zh/resources/url-566bd1469811983951f3/)：Holo3.1 视觉语言模型系列的 FP8 权重，用于计算机使用智能体。模型卡介绍网页、桌面和移动任务，并链接部署指南。
+- [Holo-3.1-35B-A3B-GGUF](https://awesomecua.com/zh/resources/url-ee3a18b51eb44d94a94b/)：Holo3.1 的量化视觉语言模型检查点，面向网页、桌面和移动界面的计算机使用智能体，支持界面定位与函数调用。
+- [Holo-3.1-35B-A3B-NVFP4](https://awesomecua.com/zh/resources/url-aeffabf23c16f8cf2139/)：Holo-3.1-35B-A3B-NVFP4 是面向网页、桌面和移动端任务的量化计算机使用视觉语言模型权重，支持函数调用。
+- [Holo2 4B](https://awesomecua.com/zh/resources/url-16a51d9e725ad5a5c629/)：基于 Qwen3-VL 的检查点，用于在网页、桌面和移动端界面中导航及执行多步 GUI 操作。
+- [Holo2 8B](https://awesomecua.com/zh/resources/url-38942453b2b7018c0d01/)：Holo2 检查点基于 Qwen3-VL-8B-Thinking，经过监督训练和在线强化学习，用于在网页、桌面和移动界面中定位 UI 元素及执行多步导航。
+- [Holo3](https://awesomecua.com/zh/resources/url-a03c649e4b14e293e2dd/)：Holo3 是面向计算机使用的模型系列，使用合成导航数据和企业工作流程训练。发布方报告了桌面基准测试结果，并提供推理服务和开放权重。
+- [Holo3.1 0.8B](https://awesomecua.com/zh/resources/url-df84f6a103123387b0dd/)：H Company 的 Holo3.1 视觉语言模型系列中最小的检查点，面向网页、桌面和移动端计算机使用智能体，并为智能体框架提供原生函数调用。
+- [Holo3.1 4B](https://awesomecua.com/zh/resources/url-90b24afa7bb8b2181205/)：H Company 的 Holo3.1 系列 4B 检查点，采用稠密 Qwen3.5 架构，是面向网页、桌面和移动端计算机使用智能体、原生支持函数调用的视觉语言模型。
+- [Holo3.1 9B](https://awesomecua.com/zh/resources/url-4e9e46b2c7a0a21e130d/)：H Company 的 Holo3.1 系列 9B 视觉语言模型检查点，面向网页、桌面和移动端计算机使用智能体，原生支持供智能体框架使用的函数调用。
+- [HTLM](https://awesomecua.com/zh/resources/github-espetro-htlm/)：HTLM 是在 Mind2Web 上微调的紧凑型 350M 浏览器智能体模型，用于在设备端和浏览器内快速预测 DOM 动作。
+- [inclusionAI/UI-Venus-Navi-7B](https://awesomecua.com/zh/resources/url-6d36e088ada02184c6bc/)：基于 Qwen2.5-VL 发布的界面智能体模型，结合截图和先前操作，预测图形界面导航动作及目标元素位置。
+- [Indeed-UI](https://awesomecua.com/zh/resources/github-intelligence-indeed-indeed-ui/)：面向桌面、移动端和浏览器界面的 GUI 定位模型；仓库提供 ScreenSpot-Pro 评估与放大脚本。
+- [Indeed-UI-8B](https://awesomecua.com/zh/resources/url-26157e2cda7fb73cf99c/)：在 GUI-Owl 1.5-8B 基础上用界面定位数据和高分辨率训练微调的 GUI 定位模型；模型卡报告其在 ScreenSpot-Pro 上得分 73.4、ScreenSpot-V2 上 94.4、OSWorld-G 上 68.3。
 - [InfiGUI-R1 3B](https://awesomecua.com/zh/resources/url-35b9879a351cc3b3d7d5/)：采用 Actor2Reasoner 流程训练的 Qwen2.5-VL 检查点，将界面定位与规划、恢复推理相结合。
 - [jadechoghari/Ferret-UI-Llama8b](https://awesomecua.com/zh/resources/url-4b66957b9799a9e3decc/)：Ferret-UI 的 Llama-3-8B 版本，可理解界面截图、回答选定区域的问题，并用边界框定位界面元素。
 - [kev-browser-use](https://awesomecua.com/zh/resources/github-arbazsiddiqui-kev-browser-use/)：kev-browser-use 是紧凑的 0.6B System-One 动作模型，在 Mind2Web 上微调，用于低延迟地选择浏览器元素。

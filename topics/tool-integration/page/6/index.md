@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/6/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/)
+- [AIPex](https://awesomecua.com/resources/github-aipexstudio-aipex/)
+- [Airbrowser MCP](https://awesomecua.com/resources/github-ifokeev-airbrowser-mcp/)
+- [Airi-PC Computer Mode Runtime](https://awesomecua.com/resources/github-arancione3000-airi-pc-bootstrap/)
+- [Airplane Check-In Skill](https://awesomecua.com/resources/github-bee-san-airplane-checkin-skill/)
 - [alohajet CLI](https://awesomecua.com/resources/github-alohabrowser-alohajet-cli/)
 - [Altairpaca DSH Computer Use for Windows](https://awesomecua.com/resources/github-altairpaca-dsh-computer-use-windows/)
 - [Alumnium](https://awesomecua.com/resources/github-alumnium-hq-alumnium/)
@@ -35,6 +40,7 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [AppCopilot](https://awesomecua.com/resources/github-openbmb-appcopilot/)
 - [appium-ios](https://awesomecua.com/resources/github-appium-appium-ios/)
 - [April Agent Action Filter](https://awesomecua.com/resources/github-newssourcecrawler-april-agent-action-filter/)
+- [ARC CUA](https://awesomecua.com/resources/github-itw-code-arc-cua/)
 - [arc-control-mcp](https://awesomecua.com/resources/github-db-25-arc-control-mcp/)
 - [Arelis](https://awesomecua.com/resources/github-sanct1x-arelis/)
 - [argos-eye](https://awesomecua.com/resources/github-xhae123-argos-eye/)
@@ -58,9 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Auto Browser](https://awesomecua.com/resources/github-lvcidpsyche-auto-browser/)
 - [Auto WebMCP Chrome](https://awesomecua.com/resources/github-pauloportella-auto-webmcp-chrome/)
 - [AutoCoA](https://awesomecua.com/resources/github-adam-bjtu-autocoa/)
-- [AutoCodeRover](https://awesomecua.com/resources/github-nus-apr-auto-code-rover/)
-- [autocomputer](https://awesomecua.com/resources/github-yygg693-autocomputer/)
-- [AutoCua](https://awesomecua.com/resources/github-computeruseagent-autocua/)
-- [Autodesk Claude Browser Test Skills](https://awesomecua.com/resources/github-autodesk-claude-browser-test-skills/)
-- [AutoDoubao](https://awesomecua.com/resources/github-linxxcat000-autodoubao/)
-- [AutoDroid V2](https://awesomecua.com/resources/github-mobilellm-autodroid-v2/)

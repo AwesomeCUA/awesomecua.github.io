@@ -4,6 +4,17 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/6/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [PageRunner](https://awesomecua.com/zh/resources/github-say-5-pagerunner/)：PageRunner 是浏览器智能体编排平台，提供有界执行循环、确定性重放和标准轨迹验证。
+- [Paragent](https://awesomecua.com/zh/resources/github-myselfsiddharth-paragent/)：有状态的浏览器执行层，只需记录一次智能体任务，即可在无需调用 LLM 的情况下重放，并在选择器变化时自行修复。
+- [PatchBridge Agent](https://awesomecua.com/zh/resources/github-hanhan666666-patchbridge-agent/)：轻量级浏览器内 AI 智能体框架，为旧版企业网页门户添加自然语言自动化能力。
+- [Peerframe OpenBot](https://awesomecua.com/zh/resources/github-peerframe-openbot/)：自托管的跨平台控制平台，用于管理具备浏览器和桌面能力的常驻数字员工。
+- [perceive](https://awesomecua.com/zh/resources/github-gauthierpiarrette-perceive/)：perceive 是面向浏览器智能体的感知层，通过可达性筛选剔除不可交互或被遮挡的 DOM 元素。
+- [Personae Browser](https://awesomecua.com/zh/resources/github-leek-emperor-personae/)：桌面浏览器，将每个身份置于隔离的 Chromium 分区中，用于多账户的人与智能体工作流程。
+- [philosophy79 web-agent](https://awesomecua.com/zh/resources/github-philosophy79-web-agent/)：本地优先的网页和桌面自动化工具包，集成浏览器控制、屏幕捕获和 LLM 工具调用。
+- [PhoneClaw](https://awesomecua.com/zh/resources/github-kellyvv-phoneclaw/)：PhoneClaw 将 iOS 和 Android 智能手机变为本地 AI 智能体运行时，支持设备端模型推理和原生系统技能。
+- [PhoneCLI](https://awesomecua.com/zh/resources/github-hkuds-phonecli/)：移动智能体框架将应用爬取为 YAML 屏幕地图，通过 iOS 上的 WebDriverAgent 或 Android 上的 ADB 重放编译后的导航命令，并在遇到未知屏幕时回退至 VLM。
+- [Pix2Act](https://awesomecua.com/zh/resources/github-google-deepmind-pix2act/)：Pix2Act 提供用于 MiniWoB++ 纯像素 GUI 智能体的 JAX/T5X 训练与评测代码，采用行为克隆和树搜索。
+- [pixelpi](https://awesomecua.com/zh/resources/github-josharsh-pixelpi/)：仅含 6 个工具的精简浏览器智能体测试框架，其完整工具定义只需 1,196 个 token，便于节省网页自动化的上下文空间。
 - [Plip OSS](https://awesomecua.com/zh/resources/github-hussainn7-plip-oss/)：开源 macOS 刘海区域助手和运行时，面向具备可验证动作预览、与模型无关的定位型计算机使用智能体。
 - [Polyform a11y-guide](https://awesomecua.com/zh/resources/github-polyform-ai-a11y-guide/)：同时面向辅助技术和 AI 浏览器智能体设计的语义无障碍页面引导层。
 - [Praefectus](https://awesomecua.com/zh/resources/github-tschk-praefectus/)：用于经主机授权的后台计算机使用执行的策略中立 Rust 库和 JSON CLI。
@@ -51,7 +62,6 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/6/ · [English
 - [ScreenSuite](https://awesomecua.com/zh/resources/github-huggingface-screensuite/)：ScreenSuite 是共用的评估框架，基于 smolagents 构建简易智能体，在现有基准上评估 GUI 模型的感知、离线动作预测和多步交互。
 - [SEAgent](https://awesomecua.com/zh/resources/github-sunzey-seagent/)：SEAgent 使用 World State Model 和课程任务生成器，使计算机使用智能体能够在陌生软件环境中自我进化。
 - [Search-o1](https://awesomecua.com/zh/resources/github-sunnynexus-search-o1/)：Search-o1 将智能体式网页搜索和推理过程中的文档细化整合进大型推理模型，用于多跳问答。
-- [SeleniumBase](https://awesomecua.com/zh/resources/github-seleniumbase-seleniumbase/)：用于网页爬取、端到端测试和数据抓取的 Python 浏览器自动化框架，配有生成测试的录制器和隐身选项。
 - [Self-Healing Browser Agent](https://awesomecua.com/zh/resources/github-25andresbernal-self-healing-browser-agent/)：结合 Claude 规划、Playwright 执行和按优先级排序的选择器回退，自动修复失效的网页自动化步骤。
 - [Self-MAP](https://awesomecua.com/zh/resources/github-magicgh-self-map/)：Self-MAP 是对话式网页智能体实现，包含候选操作排序和记忆辅助的操作规划，并可选用记忆简化、优化和自我反思模块。
 - [Semantic Browser (agent-browser)](https://awesomecua.com/zh/resources/github-atreasureboy-agent-browser/)：供智能体读取的语义浏览器层，支持节省 token 的网页理解和结构化动作执行。
@@ -94,13 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/6/ · [English
 - [TankWork](https://awesomecua.com/zh/resources/github-agenttankos-tankwork/)：TankWork 是结合 OmniParser 视觉定位、OCR 和 PyAutoGUI 动作执行的桌面智能体框架。
 - [taproot](https://awesomecua.com/zh/resources/github-shivampkumar-taproot/)：taproot 是开源移动端 GUI 智能体测试框架，在 AndroidWorld 上结合视觉语言模型与无障碍树定位。
 - [taskforge](https://awesomecua.com/zh/resources/github-huzjie-taskforge/)：taskforge 是长时程工作流编排引擎，结合多步骤规划、工具调用和 GUI 状态验证。
-- [TestDriver SDK](https://awesomecua.com/zh/resources/github-testdriverai-testdriverai/)：Vitest 插件，可创建临时设备，并使用基于视觉的 LLM 构建网页应用、桌面应用和浏览器扩展的端到端测试。
-- [TEX (tex-browse-use)](https://awesomecua.com/zh/resources/github-hanzmaulwurf-tex-browse-use/)：面向 Claude Code 的自托管浏览器使用引擎，通过操控真实浏览器操作缺少 API 的网页应用。
-- [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)：THEIA（The Human Environment Intelligence Aperture）是面向 AI 智能体的视觉感知和 UI 计算机使用插件及框架。
-- [Threadline WebMCP](https://awesomecua.com/zh/resources/github-jameswirths-threadline/)：面向浏览器智能体的 WebMCP 参数调试器和研究工作区，具备人工把关的来源追踪功能。
-- [TideSurf](https://awesomecua.com/zh/resources/github-tidesurf-core/)：TideSurf 通过精简的结构化 DOM 压缩将 Chromium 连接到 LLM 智能体，每个网页只需 50 至 200 个 token。
-- [tinybrowser](https://awesomecua.com/zh/resources/github-tinyhumansai-tinybrowser/)：适用于 Rust 的智能体浏览器 API 和 TinyBus 模块，用于管理无头及有界面的网页会话。
-- [tinycomputer](https://awesomecua.com/zh/resources/github-tinyhumansai-tinycomputer/)：用于快速执行桌面和浏览器动作的 Jev 决策模型测试框架。
-- [TongUI training and inference framework](https://awesomecua.com/zh/resources/github-tongui-agent-tongui-agent/)：提供基于教程训练的 GUI 模型的训练配置、预处理和推理示例，包括 LLaMA-Factory 微调流程及截图定位接口。
-- [ToolGen](https://awesomecua.com/zh/resources/github-reason-wang-toolgen/)：ToolGen 将外部工具表示为虚拟词表 token，通过自回归生成统一大规模工具检索与执行。
-- [ToolTok](https://awesomecua.com/zh/resources/github-zephinuecode-tooltok/)：ToolTok 引入原子化的方向性光标移动词元，用于在 ScreenSpot 和 ScreenSpot-Pro 上进行多步迭代式 GUI 视觉定位。

@@ -53,6 +53,7 @@ HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/5/
 - [MWMBench](https://awesomecua.com/zh/resources/url-a3ea3a844de7dd8a6792/)
 - [PersonalAlign](https://awesomecua.com/zh/resources/github-ilearn-lab-acl26-personalalign/)
 - [PhoneHarness](https://awesomecua.com/zh/resources/github-phoneharness-phoneharness/)
+- [PhoneHarness Bench](https://awesomecua.com/zh/resources/url-92b80b37a7a117acfd3c/)
 - [RLG-ALE](https://awesomecua.com/zh/resources/url-0596dd7e97fd30abaadc/)
 - [SMAN-Bench](https://awesomecua.com/zh/resources/github-gezelligheid0314-sman-bench/)
 - [SPA-Bench](https://awesomecua.com/zh/resources/github-ai-agents-2030-spa-bench/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/5/
 - [AMEX-8K](https://awesomecua.com/zh/resources/url-2b4b3e54d9c52f868b4e/)
 - [Android in the Wild](https://awesomecua.com/zh/resources/component-google-research-android-in-the-wild/)
 - [android_control_test](https://awesomecua.com/zh/resources/url-1f248862e4b691b85343/)
-- [AndroidControl](https://awesomecua.com/zh/resources/component-google-research-android-control/)

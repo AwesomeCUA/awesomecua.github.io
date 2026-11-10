@@ -544,8 +544,12 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   cc-haha is a clean-room TypeScript implementation and visual debugger of the Claude Code agent harness, memory, and tool runtime.
 - [ClawMobile](https://awesomecua.com/resources/github-clawmobile-clawmobile/) — Date not recorded
   ClawMobile is an Android agent runtime built on OpenClaw for controlling mobile apps, learning reusable skills, and executing device workflows.
+- [Clearcote Jet](https://awesomecua.com/resources/github-clearcotelabs-clearcote-jet/) — Date not recorded
+  A browser agent that reads a page, picks each next step with a decision model and acts in Clearcote with curved mouse paths and key-by-key typing; finished tasks are saved as skills that replay without model calls.
 - [ClosePaw](https://awesomecua.com/resources/github-imoonkey-closepaw/) — Date not recorded
   On-device Android agent app that reads the accessibility tree, with optional screenshots, acts through accessibility node actions or gesture taps, and can run on a Shizuku virtual display in the background.
+- [Cognitive Kernel](https://awesomecua.com/resources/github-tencent-cogkernel/) — Date not recorded
+  Cognitive Kernel is a dockerized agent system whose fine-tuned policy model drives a Playwright browser by clicking, typing and scrolling, alongside file handling and long-term memory.
 - [ColorBrowserAgent](https://awesomecua.com/resources/github-madeagents-browser-agent/) — Date not recorded
   A browser agent for long web tasks that compresses progress into summaries and incorporates human supplied site knowledge to guide later actions.
 - [CoMEM-Agent](https://awesomecua.com/resources/github-wenyiwu0111-comem-agent/) — Date not recorded

@@ -4,8 +4,13 @@ HTML 页面：https://awesomecua.com/zh/topics/ui-design/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/ui-design/index.md
 
+- [pursr](https://awesomecua.com/zh/resources/github-0xheycat-pursr/)
+- [RecreationWorld](https://awesomecua.com/zh/resources/github-qwenlm-recreationworld/)
+- [ReproSight](https://awesomecua.com/zh/resources/github-tungcorn-reprosight/)
+- [Richmack Browser OS](https://awesomecua.com/zh/resources/github-iamrichmack111-richmack-browser/)
 - [SameState WebMCP](https://awesomecua.com/zh/resources/github-breeznik-samestate-webmcp/)
 - [shoal](https://awesomecua.com/zh/resources/github-raynan00-shoal/)
+- [SnapEye](https://awesomecua.com/zh/resources/github-zumerlab-snapeye/)
 - [SoftwareGym](https://awesomecua.com/zh/resources/github-mrkiing-jin-softwaregym/)
 - [TeleGen](https://awesomecua.com/zh/resources/github-commoluo-telegen/)
 - [Touchline](https://awesomecua.com/zh/resources/github-edenbuilds-touchline/)

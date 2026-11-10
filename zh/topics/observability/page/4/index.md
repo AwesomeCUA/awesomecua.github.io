@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/observability/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/observability/index.md
 
+- [MaaEvidenceKit](https://awesomecua.com/zh/resources/github-windsland52-maaevidencekit/)
+- [MaaInspector](https://awesomecua.com/zh/resources/github-tanyashue-maainspector/)
+- [MaaLogAnalyzer](https://awesomecua.com/zh/resources/github-maaxyz-maaloganalyzer/)
+- [MaaPipelineEditor](https://awesomecua.com/zh/resources/github-kqcoxn-maapipelineeditor/)
+- [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/zh/resources/github-mapleluvr-cu/)
 - [MELRA](https://awesomecua.com/zh/resources/github-xagi-lab-melra/)
 - [Memori](https://awesomecua.com/zh/resources/github-memorilabs-memori/)
 - [Midscene Java](https://awesomecua.com/zh/resources/github-alstafeev-midscene-java/)
@@ -15,6 +20,7 @@ HTML 页面：https://awesomecua.com/zh/topics/observability/page/4/
 - [nemosr dsh-personal-plugins](https://awesomecua.com/zh/resources/github-nemosr-dsh-personal-plugins/)
 - [neuron-inspector](https://awesomecua.com/zh/resources/github-conquext-neuron-inspector/)
 - [Nexus Computer Use Harness (NexusCUH)](https://awesomecua.com/zh/resources/github-subasah-computer-use-harness/)
+- [Nova Act Extension](https://awesomecua.com/zh/resources/github-aws-nova-act-extension/)
 - [Open Computer](https://awesomecua.com/zh/resources/github-mintplex-labs-open-computer/)
 - [openadapt-viewer](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-viewer/)
 - [OpenAgent](https://awesomecua.com/zh/resources/github-the-open-agent-openagent/)
@@ -58,9 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/observability/page/4/
 - [UI Debugger MCP](https://awesomecua.com/zh/resources/github-developerz-ai-ui-debugger-mcp/)
 - [UnderPixel](https://awesomecua.com/zh/resources/github-leluth-underpixel/)
 - [Vadgr](https://awesomecua.com/zh/resources/github-montbrain-vadgr/)
-- [Valk](https://awesomecua.com/zh/resources/github-ercbot-valk/)
-- [web-eval-agent](https://awesomecua.com/zh/resources/github-refreshdotdev-web-eval-agent/)
-- [WebMCP - Model Context Tool Inspector](https://awesomecua.com/zh/resources/github-beaufortfrancois-model-context-tool-inspector/)
-- [WebOperator Experiments](https://awesomecua.com/zh/resources/github-mahirlabibdihan-weboperator-experiments/)
-- [windows-mcp-server](https://awesomecua.com/zh/resources/github-deploymenttheory-windows-mcp-server/)
-- [WinWright](https://awesomecua.com/zh/resources/github-alegauss-winwright/)

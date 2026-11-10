@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/screen-understanding/index.md
 
+- [Screen Annotation](https://awesomecua.com/zh/resources/github-google-research-datasets-screen-annotation/)
 - [Screen Point-and-Read Data](https://awesomecua.com/zh/resources/url-4b747a376f628e6f9760/)
 - [Screen2AX-Element](https://awesomecua.com/zh/resources/url-e96299566d12e790422e/)
 - [Screen2AX-Group](https://awesomecua.com/zh/resources/url-6680e812b94c168e6bed/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/screen-understanding/page/6/
 - [GLM-4.6V-Flash](https://awesomecua.com/zh/resources/url-e01fe95f620b699bb00d/)
 - [GLM-4.6V-FP8](https://awesomecua.com/zh/resources/url-2a99aab63fc1fe65610d/)
 - [GLM-V](https://awesomecua.com/zh/resources/github-zai-org-glm-v/)
-- [GPA-GUI-Detector](https://awesomecua.com/zh/resources/url-87f28e117d95985d5177/)

@@ -4,6 +4,12 @@ HTML page: https://awesomecua.com/categories/agent/page/5/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
+- [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/resources/github-333-wg-pi-wm/)
+- [Piskie](https://awesomecua.com/resources/github-piskie-dev-piskie/)
+- [PocketCode](https://awesomecua.com/resources/github-m1ssbe4r-pocketcode/)
+- [Pocketwatch](https://awesomecua.com/resources/github-psamme-pocketwatch/)
+- [Pointer](https://awesomecua.com/resources/url-98122987ca3e7c764d0e/)
+- [PokeClaw](https://awesomecua.com/resources/github-agents-io-pokeclaw/)
 - [Portal Operator](https://awesomecua.com/resources/github-pwmcgovern-afk-portal-operator/)
 - [Prism-Shadow Travel Agent](https://awesomecua.com/resources/github-prism-shadow-travel-agent/)
 - [PrivateAI for Mac](https://awesomecua.com/resources/github-jacobjiangwei-privateai-for-mac/)

@@ -2,7 +2,7 @@
 
 Infrastructure covers the browsers, sandboxes, virtual machines, emulators and input-automation libraries that computer-use agents run inside or act through.
 
-> 117 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
+> 122 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T06:29:47Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -12,30 +12,30 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 | Infrastructure resource | Platform | License | Linked records |
 | --- | --- | --- | --- |
-| [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 12 |
+| [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 13 |
 | [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | Mobile | [Apache-2.0 (code)](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 8 |
 | [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) | Desktop | — | 8 |
 | [E2B Desktop](https://awesomecua.com/resources/github-e2b-dev-desktop/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE) | 6 |
 | [Steel Browser](https://awesomecua.com/resources/github-steel-dev-steel-browser/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE) | 4 |
-| [Lightpanda Browser](https://awesomecua.com/resources/github-lightpanda-io-browser/) | Web · Desktop | [AGPL-3.0 (code)](https://raw.githubusercontent.com/lightpanda-io/browser/HEAD/LICENSE) | 4 |
+| [Appium](https://awesomecua.com/resources/github-appium-appium/) | Mobile | [Apache-2.0 (code)](https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE) | 4 |
 
 ## Questions
 
 ### Which infrastructure resources are mentioned most in the catalog?
 
-[Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) (12 records), [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) (8 records) and [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) (7 records) are mentioned in the reviewed sources of the most other catalog records.
+[Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) (13 records), [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) (8 records) and [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) (7 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these infrastructure resources cover?
 
-Of 117 reviewed infrastructure resources, 76 are tagged desktop, 62 web, 21 mobile and 11 cross-platform; 2 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 122 reviewed infrastructure resources, 78 are tagged desktop, 65 web, 22 mobile and 11 cross-platform; 2 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which infrastructure resources come with a research paper?
 
-12 of 117 link the arXiv paper that introduces or documents them, for example [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/), [ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/) and [AutoWechat](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-wechat-v2/).
+12 of 122 link the arXiv paper that introduces or documents them, for example [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/), [WildAWM](https://awesomecua.com/resources/github-msr-orchard-wildawm/) and [ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/).
 
 ### Which licenses do infrastructure resources declare?
 
-The most common declared licenses are MIT (40), Apache-2.0 (31) and AGPL-3.0 (4). 40 of 117 have no declared license in their record.
+The most common declared licenses are MIT (42), Apache-2.0 (32) and AGPL-3.0 (5). 41 of 122 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -168,6 +168,36 @@ Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driv
 
 ---
 
+## Appium
+
+Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.
+
+- Catalog URL: https://awesomecua.com/resources/github-appium-appium/
+- Original source: https://github.com/appium/appium
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: android, ios
+- Topics: automation
+- Evidence checked: 2026-10-16T06:36:04Z
+- ID: github:appium/appium
+
+- Record JSON: https://awesomecua.com/resources/github-appium-appium/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/appium/appium/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 ecd5b8033cbc17a2ce5aebf1b35260b77c4906aea7c549a0b86e5d55b9ebe135)
+- https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 5cb791a45cafc4bdaef57f3ba49fb7691a98c756e8148467f9e241295728490f)
+
+---
+
 ## Lightpanda Browser
 
 A headless browser for AI agents and automation, with released Linux and macOS binaries and interfaces for browser control and scripted tasks.
@@ -231,6 +261,42 @@ Desktop automation library for keyboard, mouse, and screen interaction.
 
 ---
 
+## Selenium
+
+Browser automation project implementing W3C WebDriver, with Java, Python, Ruby, .NET and JavaScript bindings, Selenium Grid for spreading sessions across machines, and the Rust-based Selenium Manager for driver setup.
+
+- Catalog URL: https://awesomecua.com/resources/github-seleniumhq-selenium/
+- Original source: https://github.com/SeleniumHQ/selenium
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation
+- Evidence checked: 2026-10-20T07:47:28Z
+- ID: github:seleniumhq/selenium
+
+### Limitations
+
+The repository README addresses contributors and points users to the documentation on selenium.dev, the project website. The inspected tree holds the WebDriver bindings (java, py, rb, dotnet, javascript), the Java Grid server, the Internet Explorer driver (cpp/iedriver) and Selenium Manager (rust), a command-line tool that locates or downloads browsers and drivers. Selenium IDE, the record-and-playback tool also presented on selenium.dev, lives in the separate SeleniumHQ/selenium-ide repository. Agents use Selenium as an execution layer for browser actions; it contains no agent or model of its own.
+
+- Record JSON: https://awesomecua.com/resources/github-seleniumhq-selenium/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/README.md (retrieved 2026-10-20T07:47:28Z; SHA-256 ef1a1505315cb887dcf485f657947cbab59c11cdd8c63b32ffc54af413ac6f31)
+- https://api.github.com/repos/SeleniumHQ/selenium/git/trees/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c?recursive=1 (retrieved 2026-10-20T05:02:04Z; SHA-256 223db50df54239caa7d0413212e9b32debc17f7c872c93217b76749c0414770b)
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c/rust/README.md (retrieved 2026-10-20T05:02:47Z; SHA-256 38588ba31b43bb9e9df672451edaa4a35ace2ffe826367b28204747744a9e3ec)
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE (retrieved 2026-10-20T05:02:59Z; SHA-256 307012b4481479a56605420e81db14686a0274d246d06d224c363ee09297d330)
+
+---
+
 ## Steel Browser
 
 Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
@@ -258,36 +324,6 @@ Open-source browser API managing Chrome sessions for agents, reachable through P
 
 - https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 668949f121cb5a8ac262a8d3222a31eaee6692bfc0de9b86e60ae04f885ccc9b)
 - https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
-
----
-
-## Appium
-
-Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.
-
-- Catalog URL: https://awesomecua.com/resources/github-appium-appium/
-- Original source: https://github.com/appium/appium
-- Kind: infrastructure
-- Review: curated
-- Scope: adjacent
-- Environments: android, ios
-- Topics: automation
-- Evidence checked: 2026-10-16T06:36:04Z
-- ID: github:appium/appium
-
-- Record JSON: https://awesomecua.com/resources/github-appium-appium/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/appium/appium/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 ecd5b8033cbc17a2ce5aebf1b35260b77c4906aea7c549a0b86e5d55b9ebe135)
-- https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 5cb791a45cafc4bdaef57f3ba49fb7691a98c756e8148467f9e241295728490f)
 
 ---
 
@@ -663,39 +699,36 @@ The README names macOS, Windows, and Linux releases and states an MIT license. I
 
 ---
 
-## Selenium
+## WildAWM
 
-Browser automation project implementing W3C WebDriver, with Java, Python, Ruby, .NET and JavaScript bindings, Selenium Grid for spreading sessions across machines, and the Rust-based Selenium Manager for driver setup.
+WildAWM supplies a pipeline for generating computer environments and cross-interface tasks, with execution checks and tools for evaluating agents.
 
-- Catalog URL: https://awesomecua.com/resources/github-seleniumhq-selenium/
-- Original source: https://github.com/SeleniumHQ/selenium
+- Catalog URL: https://awesomecua.com/resources/github-msr-orchard-wildawm/
+- Original source: https://github.com/MSR-Orchard/WildAWM
 - Kind: infrastructure
 - Review: curated
-- Scope: adjacent
-- Environments: web
-- Topics: automation
-- Evidence checked: 2026-10-20T07:47:28Z
-- ID: github:seleniumhq/selenium
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: data-generation, sandbox, evaluation, cross-app
+- Evidence checked: 2026-11-09T21:10:52Z
+- ID: github:msr-orchard/wildawm
 
 ### Limitations
 
-The repository README addresses contributors and points users to the documentation on selenium.dev, the project website. The inspected tree holds the WebDriver bindings (java, py, rb, dotnet, javascript), the Java Grid server, the Internet Explorer driver (cpp/iedriver) and Selenium Manager (rust), a command-line tool that locates or downloads browsers and drivers. Selenium IDE, the record-and-playback tool also presented on selenium.dev, lives in the separate SeleniumHQ/selenium-ide repository. Agents use Selenium as an execution layer for browser actions; it contains no agent or model of its own.
+The release includes synthesis and evaluation code and links to environment-task data and trained checkpoints. Setup requires Python, Docker, Node.js, and configured model endpoints.
 
-- Record JSON: https://awesomecua.com/resources/github-seleniumhq-selenium/record.json
+- Record JSON: https://awesomecua.com/resources/github-msr-orchard-wildawm/record.json
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE
+- code: not recorded
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/README.md (retrieved 2026-10-20T07:47:28Z; SHA-256 ef1a1505315cb887dcf485f657947cbab59c11cdd8c63b32ffc54af413ac6f31)
-- https://api.github.com/repos/SeleniumHQ/selenium/git/trees/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c?recursive=1 (retrieved 2026-10-20T05:02:04Z; SHA-256 223db50df54239caa7d0413212e9b32debc17f7c872c93217b76749c0414770b)
-- https://raw.githubusercontent.com/SeleniumHQ/selenium/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c/rust/README.md (retrieved 2026-10-20T05:02:47Z; SHA-256 38588ba31b43bb9e9df672451edaa4a35ace2ffe826367b28204747744a9e3ec)
-- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE (retrieved 2026-10-20T05:02:59Z; SHA-256 307012b4481479a56605420e81db14686a0274d246d06d224c363ee09297d330)
+- https://raw.githubusercontent.com/MSR-Orchard/WildAWM/HEAD/README.md (retrieved 2026-11-09T21:10:52Z; SHA-256 e1387107a75037580b4f16258ab8ca26e35a9a05c4da47e215f20d34d61d981a)
 
 ---
 
@@ -1192,6 +1225,40 @@ The source lists Kubernetes, Podman and a native runtime. It describes sandbox l
 
 - https://raw.githubusercontent.com/latere-ai/cella/HEAD/README.md (retrieved 2026-11-09T19:57:55Z; SHA-256 b1cc4fd4172b1f00a50593b0191174d7be2aab807e0509461e83d60c9f86716f)
 - https://raw.githubusercontent.com/latere-ai/cella/HEAD/LICENSE (retrieved 2026-11-09T14:21:21Z; SHA-256 e4c4d1a5ef742bc74016912b92e16f4a856ff96cab48de9df363d10bf0cdd803)
+
+---
+
+## chrome-aws-lambda
+
+chrome-aws-lambda bundles Chromium for running Puppeteer or Playwright inside AWS Lambda and Google Cloud Functions, with launch flags and page helpers for clicking, form filling and waiting.
+
+- Catalog URL: https://awesomecua.com/resources/github-alixaxel-chrome-aws-lambda/
+- Original source: https://github.com/alixaxel/chrome-aws-lambda
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation
+- Evidence checked: 2026-11-10T06:29:20Z
+- ID: github:alixaxel/chrome-aws-lambda
+
+### Limitations
+
+Distributed as the chrome-aws-lambda npm package and used with puppeteer-core or playwright-core; the README recommends 1600 MB of Lambda memory. MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-alixaxel-chrome-aws-lambda/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/alixaxel/chrome-aws-lambda/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/alixaxel/chrome-aws-lambda/f9d5a9ff0282ef8e172a29d6d077efc468ca3c76/README.md (retrieved 2026-11-10T06:29:20Z; SHA-256 505e0fd3a3b3406a261562b139d432745b71b0144ccd5bda076c295ee625a7b0)
+- https://raw.githubusercontent.com/alixaxel/chrome-aws-lambda/HEAD/LICENSE (retrieved 2026-11-10T06:22:20Z; SHA-256 be89028514dcb68e6582767af2223ccac73a0ab848488c9a58b19bf2c6098e78)
 
 ---
 
@@ -1733,6 +1800,74 @@ The card identifies michael_scott.qcow2 as the current image and michael_scott_r
 
 ---
 
+## Noodle Flights
+
+A Next.js flight-search simulator for evaluating web agents, with one-way, round-trip and multi-city flows, deterministic seeded results and an OpenEnv wrapper for the Hugging Face OpenEnv Hub.
+
+- Catalog URL: https://awesomecua.com/resources/github-halluminate-noodle-flights/
+- Original source: https://github.com/Halluminate/noodle-flights
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, evaluation, sandbox
+- Evidence checked: 2026-11-10T06:29:24Z
+- ID: github:halluminate/noodle-flights
+
+### Limitations
+
+The repository holds the simulator app, bundled airport, airline and aircraft datasets, determinism and snapshot checks, and an OpenEnv scaffold (openenv.yaml, client.py, server/). Benchmark tasks and verifiers live in the westworld repository.
+
+- Record JSON: https://awesomecua.com/resources/github-halluminate-noodle-flights/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Halluminate/noodle-flights/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Halluminate/noodle-flights/a8625847a0409f8ea55f480e02d75824b52e0f80/README.md (retrieved 2026-11-10T06:29:24Z; SHA-256 023c4a9b4cd28b7eae33eb0d03da4869649e335d550a74d7edcba3b0206c1dee)
+- https://raw.githubusercontent.com/Halluminate/noodle-flights/HEAD/LICENSE (retrieved 2026-11-10T06:22:25Z; SHA-256 376142c2f248915e17becc7f05c5e6f9a73ff4ac3dc90eb386794699fc92accb)
+
+---
+
+## Online Environment for GUI Reflection
+
+Host-worker Android emulator environment from the GUI Reflection project, with configs that collect interaction data and evaluate GUI models while inference runs on a separate host machine.
+
+- Catalog URL: https://awesomecua.com/resources/github-penghao-wu-gui-reflection-env/
+- Original source: https://github.com/penghao-wu/gui_reflection_env
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: sandbox, data-generation, evaluation, mobile-navigation
+- Evidence checked: 2026-11-10T06:29:28Z
+- ID: github:penghao-wu/gui_reflection_env
+
+### Limitations
+
+Built on DigiRL, DistRL and AndroidWorld. Worker machines need the Android 33 emulator, the provided AW.zip device image and SSH access from the host, which needs InternVL installed.
+
+- Record JSON: https://awesomecua.com/resources/github-penghao-wu-gui-reflection-env/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/penghao-wu/gui_reflection_env/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/penghao-wu/gui_reflection_env/691e32d2f920923bca81838cbb3677a5ddc5b32d/README.md (retrieved 2026-11-10T06:29:28Z; SHA-256 09a3e4658ca0870b54869e907ff0ffb3c5d207f90dbd7dce4175a4242b0a8001)
+- https://raw.githubusercontent.com/penghao-wu/gui_reflection_env/HEAD/LICENSE (retrieved 2026-11-10T06:22:29Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 ## Open Computer
 
 Open Computer gives agents an isolated Debian desktop with a browser and native app controls. People can watch and assist through a live interface.
@@ -1803,6 +1938,40 @@ The Hub dataset repository at revision 4d2be380 has no card and no license decla
 - https://huggingface.co/api/datasets/yanhhh/AndroidAvd/revision/4d2be38083d1a4395ab0de9749983f7091714070 (retrieved 2026-10-18T16:13:14Z; SHA-256 adaf8975470b1bc32f97d0385b5f232184182047fd14885ccd2a0e867a88ec20)
 - https://huggingface.co/datasets/yanhhh/AndroidAvd/raw/4d2be38083d1a4395ab0de9749983f7091714070/MineAndroid.avd/config.ini (retrieved 2026-10-18T16:11:45Z; SHA-256 dec904f33ded1925234db80035d4e3dadda318fb8a5e362da9a4afa8ab02774f)
 - https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/11e26ddc32a98112db38d6363274588cb2387817/README.md (retrieved 2026-10-18T16:11:45Z; SHA-256 485279038266d9454df75e27a80a0a0d71c24e90700126d2dcfa0da921b1273d)
+
+---
+
+## orion-vm-arm
+
+A VMware Fusion snapshot of the Orion agent's Ubuntu guest for arm64 Macs, with CellProfiler, QuPath and napari pre-installed, released as a single OS.zip archive.
+
+- Catalog URL: https://awesomecua.com/resources/url-7e2e6225864f97b5238c/
+- Original source: https://huggingface.co/datasets/orion-agent/orion-vm-arm
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, macos
+- Topics: sandbox, science
+- Evidence checked: 2026-11-10T06:29:24Z
+- ID: url:7e2e6225864f97b5238c
+
+### Limitations
+
+The repository contains OS.zip and a short card. Orion boots the guest with vmrun and talks to swerex-remote and the DesktopEnv server inside it; other hosts build the guest from VM_SETUP.md.
+
+- Record JSON: https://awesomecua.com/resources/url-7e2e6225864f97b5238c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/orion-agent/orion-vm-arm (retrieved 2026-11-10T06:29:24Z; SHA-256 d5bb17111868d1d099509f27c7621a92e7a6d185ceedaa9d3ac44ff4f45c71a6)
+- https://huggingface.co/api/datasets/orion-agent/orion-vm-arm (retrieved 2026-11-10T06:29:24Z; SHA-256 d5bb17111868d1d099509f27c7621a92e7a6d185ceedaa9d3ac44ff4f45c71a6)
 
 ---
 
@@ -2216,39 +2385,6 @@ The webarena/ and visualwebarena/ folders each hold numbered scripts configured 
 
 ---
 
-## WildAWM
-
-WildAWM supplies a pipeline for generating computer environments and cross-interface tasks, with execution checks and tools for evaluating agents.
-
-- Catalog URL: https://awesomecua.com/resources/github-msr-orchard-wildawm/
-- Original source: https://github.com/MSR-Orchard/WildAWM
-- Kind: infrastructure
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, web
-- Topics: data-generation, sandbox, evaluation, cross-app
-- Evidence checked: 2026-11-09T21:10:52Z
-- ID: github:msr-orchard/wildawm
-
-### Limitations
-
-The release includes synthesis and evaluation code and links to environment-task data and trained checkpoints. Setup requires Python, Docker, Node.js, and configured model endpoints.
-
-- Record JSON: https://awesomecua.com/resources/github-msr-orchard-wildawm/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/MSR-Orchard/WildAWM/HEAD/README.md (retrieved 2026-11-09T21:10:52Z; SHA-256 e1387107a75037580b4f16258ab8ca26e35a9a05c4da47e215f20d34d61d981a)
-
----
-
 ## youtube_sim
 
 youtube_sim is a YouTube-style Android test app with local media, interaction logs and task validators for checking mobile interface actions and resulting state.
@@ -2279,6 +2415,40 @@ The README describes task_state.json and messages.json logs for searches, likes,
 ### Primary evidence
 
 - https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-Youtube/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 7b96351d84e447a7b771440f38461f553fb5ab91bd3054c9d747657eb0c5ba90)
+
+---
+
+## zendriver-docker
+
+A Docker project template that runs Zendriver against a headed, GPU-accelerated Chrome on a virtual Wayland display, with VNC access for watching and debugging runs.
+
+- Catalog URL: https://awesomecua.com/resources/github-cdpdriver-zendriver-docker/
+- Original source: https://github.com/cdpdriver/zendriver-docker
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop, linux
+- Topics: sandbox, automation
+- Evidence checked: 2026-11-10T06:29:21Z
+- ID: github:cdpdriver/zendriver-docker
+
+### Limitations
+
+Includes docker-compose files for AMD/Intel and Nvidia GPUs and a demo app; Linux hosts only. Based on swayvnc-chrome; license AGPL-3.0.
+
+- Record JSON: https://awesomecua.com/resources/github-cdpdriver-zendriver-docker/record.json
+
+### License declarations
+
+- code: AGPL-3.0 — https://raw.githubusercontent.com/cdpdriver/zendriver-docker/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cdpdriver/zendriver-docker/59718f66a605708454a734224b2cd5f54fbf910c/README.md (retrieved 2026-11-10T06:29:21Z; SHA-256 29df74338c8384b9d2b440b37634e12c4c504d6d280092bf22c63f5a931ef8bb)
+- https://raw.githubusercontent.com/cdpdriver/zendriver-docker/HEAD/LICENSE (retrieved 2026-11-10T06:22:21Z; SHA-256 4c07b14947925c5c3d125ca8d7f1fadbf604a6df626edbb0b78cefa26b9bb8f6)
 
 ---
 

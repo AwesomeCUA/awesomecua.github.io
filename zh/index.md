@@ -1,46 +1,46 @@
 # AwesomeCUA
 
-> 计算机使用、GUI、网页和移动端智能体研究资源目录：5,215 条已审核记录，其中论文与综述 1,718 条，其他资源 3,497 条。每条记录均核对一手来源。
+> 计算机使用、GUI、网页和移动端智能体研究资源目录：5,354 条已审核记录，其中论文与综述 1,718 条，其他资源 3,636 条。每条记录均核对一手来源。
 
-快照：2026-11-10T03:01:53Z。另有 906 条书目记录和 525 个已发现标识符待审核。
+快照：2026-11-10T06:29:47Z。另有 906 条书目记录和 33 个已发现标识符待审核。
 
 HTML 页面：https://awesomecua.com/zh/ · [English](https://awesomecua.com/index.md) · 智能体索引：https://awesomecua.com/llms.txt
 
 ## 最近审核的资源
 
-- [Adept Fuyu-Heavy](https://awesomecua.com/zh/resources/url-1a20a291c766bd4e6861/) — 模型 · 审核于 2026-11-10：Adept 面向数字智能体、将 Fuyu 架构放大后的多模态模型，主要针对界面理解；Adept 报告了它在 MMMU、VQAv2、AI2D 和 ChartQA 上与 Gemini 模型的对比得分。
-- [GPT-6 Astra](https://awesomecua.com/zh/resources/url-039a4975e102cb538c36/) — 模型 · 审核于 2026-11-10：OpenAI 的通用模型，其发布文章涵盖计算机操作与网页浏览；OpenAI 报告其在 OSWorld 2.0 上以每个任务约 40 分钟取得 72.6%，并给出 ScreenSpot-Pro 与 Mind2Web 结果。
-- [Indeed-UI-8B](https://awesomecua.com/zh/resources/url-26157e2cda7fb73cf99c/) — 模型 · 审核于 2026-11-10：在 GUI-Owl 1.5-8B 基础上用界面定位数据和高分辨率训练微调的 GUI 定位模型；模型卡报告其在 ScreenSpot-Pro 上得分 73.4、ScreenSpot-V2 上 94.4、OSWorld-G 上 68.3。
-- [Muse Spark 1.1](https://awesomecua.com/zh/resources/url-f8a956094e526a92caf3/) — 模型 · 审核于 2026-11-10：Meta 超级智能实验室推出的多模态推理模型，面向智能体任务，经训练可在跨多个应用的计算机操作流程中选择编写脚本或直接点击界面。
-- [UXAgent](https://awesomecua.com/zh/resources/url-2f73fe78c423e263d451/) — 框架 · 审核于 2026-11-10：一套可用性测试系统：生成模拟用户画像，让大模型智能体通过浏览器连接器在目标网站上完成任务，并在结果查看界面中展示其问卷回答与操作日志。
-- [CUA_World_State_Model](https://awesomecua.com/zh/resources/url-f0ffbdc41c9dca4c585f/) — 模型 · 审核于 2026-11-10：SEAgent 的世界状态模型（World State Model），基于 Qwen2.5-VL-7B-Instruct 微调，依据截图逐步评估计算机使用智能体的轨迹，用于标注成功与失败并驱动课程式任务生成。
-- [InternVL3_5-2B](https://awesomecua.com/zh/resources/url-feaad5e9f2497d1ed9ca/) — 模型 · 审核于 2026-11-10：InternVL3.5-2B 检查点，包含 0.3B 视觉编码器和 2.0B 语言模型，所属多模态模型系列采用 Cascade RL 训练，其能力列表包括 GUI 交互。
-- [OpenPhone_dataset](https://awesomecua.com/zh/resources/url-e7ea65893ab264517d83/) — 数据集 · 审核于 2026-11-10：OpenPhone 移动智能体的训练数据：包含 AndroidLab 训练数据压缩包，以及带有大模型生成的推理与反思链、按 GRPO 训练格式整理的 Hugging Face 视觉语言数据集。
-- [OpenWebVoyager-opt-2](https://awesomecua.com/zh/resources/url-f4f6f5bfe051e6ba3d94/) — 模型 · 审核于 2026-11-10：OpenWebVoyager 第二轮优化迭代的检查点：基于 idefics2-8b 的多模态网页智能体，先经模仿学习训练，再利用 GPT-4o 反馈筛选出的真实网站成功轨迹进行优化。
-- [Qwen3-VL-8B-Instruct-MobileWorld-SFT](https://awesomecua.com/zh/resources/url-e58270c90ea4fa83cfb4/) — 模型 · 审核于 2026-11-10：在 MobileWorld 数据集上微调的 Qwen3-VL-8B-Instruct 语义世界模型，用自然语言描述移动端 GUI 界面在执行动作后的变化，供移动智能体规划使用。
-- [TianXi_Action_Grounding_7B](https://awesomecua.com/zh/resources/url-f644200c18bea88da7b3/) — 模型 · 审核于 2026-11-10：来自 SEA 计算机使用智能体工作的 7B GUI 动作定位模型，以 Qwen2_5_VL 架构的 safetensors 权重发布；配套的 GitHub 仓库提供在 ScreenSpot-Pro 上按不同指令风格和语言运行该模型的评测脚本。
-- [TimeWarp-GPT5-Traces](https://awesomecua.com/zh/resources/url-fa8fd2873571ab1b3556/) — 数据集 · 审核于 2026-11-10：TimeWarp 网页基准上的 GPT-5 教师轨迹，按 UI 版本分组，包含每一步的 SoM 标注截图和实验日志，用于通过 LlamaFactory 微调网页智能体。
-- [webarena-world-model-rlvr](https://awesomecua.com/zh/resources/url-e02a165e76cd7c43e2ca/) — 模型 · 审核于 2026-11-10：面向 WebArena 网页状态预测的语言世界模型，在 SFT 检查点基础上用 RLVR 进行后训练，用于网页智能体的模型预测控制。
-- [ACT-SOP](https://awesomecua.com/zh/resources/url-ab4587d17c4f541bb94c/) — 模型 · 审核于 2026-11-10：MobileAgent 发布的 Llama-2-7b LoRA 适配器。MobileAgent 是一个移动设备控制智能体，引入标准作业程序（SOP）上下文，在 AitW 屏幕上预测动作。
-- [Aguvis-7B-720P](https://awesomecua.com/zh/resources/url-ac62da857db91f68376b/) — 模型 · 审核于 2026-11-10：Aguvis 发布的 Aguvis-7B-720P 检查点：仅依赖视觉的 GUI 智能体模型，先训练定位能力，再训练规划与推理，基于截图在网页、桌面和移动端执行操作。
-- [asil-qwen35-9b-rl](https://awesomecua.com/zh/resources/url-c5cedb2f95336a8e48aa/) — 模型 · 审核于 2026-11-10：ASIL 的 Qwen3.5-9B 强化学习检查点，基于 JSON 状态观测、以代码形式的语义动作操作桌面应用，在 SFT 之后使用 320 个任务提示训练。
-- [InternVL3_5-2B-HF](https://awesomecua.com/zh/resources/url-d1f0e13ad96c108ef09b/) — 模型 · 审核于 2026-11-10：HF 格式、2.3B 参数的 InternVL3.5 检查点，该多模态模型的说明卡将 GUI 交互列为训练所得能力之一，并报告了该系列的 GUI 任务结果。
-- [InternVL3_5-GPT-OSS-20B-A4B-Preview-HF](https://awesomecua.com/zh/resources/url-c09ce6d4ca2ddaf02fae/) — 模型 · 审核于 2026-11-10：基于 GPT-OSS 语言模型的 HF 格式 InternVL3.5 预览检查点（总计 21.2B，A4B），该多模态模型的说明卡将 GUI 交互列为训练所得能力之一，并报告了 GUI 结果。
-- [LFM2-350M-ComputerUse](https://awesomecua.com/zh/resources/url-b68b02b47c87f006533e/) — 模型 · 审核于 2026-11-10：基于 LFM2-350M 的 LoRA 适配器，使用 GRPO 训练，在 MiniWoB click-test 任务中点击按钮；它以 BrowserGym 无障碍树读取页面，并在沙箱浏览器中执行操作。
-- [lora_qformer_uitars_test_V1-400_merged](https://awesomecua.com/zh/resources/url-b144605ae24674ffb917/) — 模型 · 审核于 2026-11-10：合并了 CoMEM 连续记忆的 UI-TARS-V1.5-7B 检查点，通过 LoRA 微调的 Q-Former 将检索到的 GUI 轨迹压缩为定长嵌入，供网页智能体使用。
+- [Hermes Jev Skills](https://awesomecua.com/zh/resources/github-kerpopule-hermes-jev-skills/) — 工具 · 审核于 2026-11-10：面向 Hermes、Claude Code 和 Codex 智能体的 SKILL.md 技能集，把细小决策交给 Jev 模型，其中包括桌面与浏览器技能：由 Jev 从调用方构建的动作表中选出每一步动作。
+- [AI GameStore](https://awesomecua.com/zh/resources/github-lance-ying-aigamestore/) — 评测基准 · 审核于 2026-11-10：一个基准，收录 100 款由 App Store 和 Steam 榜单游戏改编的网页版游戏，并配有 Playwright 评测框架，将游戏截图发送给视觉语言模型并执行模型返回的按键。
+- [idevice](https://awesomecua.com/zh/resources/github-jkcoxson-idevice/) — 工具 · 审核于 2026-11-10：一个 Rust 库，通过 lockdownd、usbmuxd 和 RSD 与 iOS 设备服务通信，提供截图、SpringBoard 控制、应用安装以及启动 WebDriverAgent 运行器等功能。
+- [MCP Link](https://awesomecua.com/zh/resources/github-aurafriday-mcp-link/) — 工具 · 审核于 2026-11-10：一个浏览器扩展，让 ChatGPT、Claude 等聊天 AI 调用用户批准的 MCP 工具；配合 MCP Link Server 使用时，可实现自动浏览和网页交互。
+- [Operit2](https://awesomecua.com/zh/resources/github-aaswordman-operit2/) — 智能体 · 审核于 2026-11-10：一个处于预览阶段的跨设备个人智能体，可在手机、桌面和云端节点之间延续对话与任务，并提供文件、终端和浏览器工具，能在网页上点击、输入和获取页面快照。
+- [Scrapling](https://awesomecua.com/zh/resources/github-d4vinci-scrapling/) — 工具 · 审核于 2026-11-10：一个 Python 网页抓取框架，提供 HTTP 与隐身浏览器抓取器和爬虫，并附带 MCP 服务器，其十七个工具可让 AI 智能体在浏览器会话中点击、填写表单、输入文本和截图。
+- [Nakama](https://awesomecua.com/zh/resources/github-ahmadrosid-nakama/) — 智能体 · 审核于 2026-11-10：Nakama 是面向团队的 AI 智能体平台，可通过托管云或单个 Docker 容器运行；其智能体可操控每位用户的 Kernel 云浏览器或服务器上的 Chrome，打开网页、点击并填写表单。
+- [OmniJev](https://awesomecua.com/zh/resources/url-6bdda64c5782f03b0f54/) — 模型 · 审核于 2026-11-10：OmniJev v1.1 是用于 Qwen3.5-4B 的 4B LoRA 适配器及决策头，以概率形式回答关于屏幕和其他图像的类型化问题；其任务族包括 androidcontrol 和 web。
+- [Patchright .NET](https://awesomecua.com/zh/resources/github-deventerprisesoftware-patchright-dotnet/) — 工具 · 审核于 2026-11-10：Patchright .NET 是 Patchright 的 .NET 包：Patchright 是经过修补的 Playwright，可替换 Microsoft.Playwright 包来驱动 Chromium，并去除了自动化特征泄露。
+- [Patchright NodeJS](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/) — 工具 · 审核于 2026-11-10：Patchright NodeJS 是 Patchright 的 Node.js 包：Patchright 是经过修补的 Playwright，通过标准 JavaScript API 驱动 Chromium，并去除了自动化特征泄露。
+- [Patchright Python](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/) — 工具 · 审核于 2026-11-10：Patchright Python 是 Patchright 的 Python 包：Patchright 是经过修补的 Playwright，通过常规的同步与异步 API 驱动 Chromium，并去除了自动化特征泄露。
+- [@mcp-b](https://awesomecua.com/zh/resources/github-webmcp-org-npm-packages/) — 框架 · 审核于 2026-11-10：一组 TypeScript 软件包，将通过 WebMCP document.modelContext API 注册工具的网页接入 MCP，使扩展、浏览器或桌面客户端中的智能体能够调用这些工具。
+- [AgentGym-RL-Data-ID](https://awesomecua.com/zh/resources/url-9140ca5ba8252d373b8d/) — 数据集 · 审核于 2026-11-10：AgentGym-RL 多轮强化学习的训练与评测任务划分，列出 WebArena 网页导航任务的 ID，以及搜索、游戏、具身和科学类环境的任务 ID。
+- [go-ios](https://awesomecua.com/zh/resources/github-danielpaulus-go-ios/) — 工具 · 审核于 2026-11-10：一个 Go 命令行工具和模块，可在 Linux、Windows 或 macOS 上自动化操作 iOS 设备：安装和启动应用、运行 XCTest 与 WebDriverAgent、截取屏幕并操控界面。
+- [MCP-B](https://awesomecua.com/zh/resources/github-miguelspizza-webmcp/) — 框架 · 审核于 2026-11-10：早期的 MCP-B 代码库：包含一个发现并调用网站以 MCP 服务器形式提供的工具的 Chrome 扩展、一个 Cloudflare Workers 后端，以及将这些工具转发给桌面 MCP 客户端的本地服务器。
+- [PTFakeTouch](https://awesomecua.com/zh/resources/github-ret70-ptfaketouch/) — 工具 · 审核于 2026-11-10：一个 iOS 框架，可在应用内部注入模拟触摸事件，提供触摸开始、移动和结束阶段的调用，用于在指定位置点击和滑动。
+- [WebMCP](https://awesomecua.com/zh/resources/github-jasonjmcghee-webmcp/) — 框架 · 审核于 2026-11-10：早期的 WebMCP 提案与代码：网站上的脚本小组件注册其工具、资源和提示词，MCP 客户端通过带令牌验证的本地 WebSocket 服务器访问它们。
+- [AXe](https://awesomecua.com/zh/resources/github-cameroncooke-axe/) — 工具 · 审核于 2026-11-10：一款用于 iOS 模拟器自动化的命令行工具，通过无障碍 API 读取界面，并发送 HID 点击、滑动和文本输入，同时支持截图与视频录制。
+- [SnapEye](https://awesomecua.com/zh/resources/github-zumerlab-snapeye/) — 工具 · 审核于 2026-11-10：一套基于 SnapDOM 的工具，让编码智能体通过命令行、页面内 API 或 URL 触发，对运行中的网页应用元素进行截取、比对和录制，并返回 JSON 结果与退出码。
+- [CUBE Standard](https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-standard/) — 框架 · 审核于 2026-11-10：一套 Python 协议，用统一的 Tool、Task、Benchmark、Observation 和 Action 类型封装智能体基准，并提供可选的浏览器会话、虚拟机后端以及浏览器和桌面计算机工具。
 
 ## 按资源类型浏览
 
-- [模型](https://awesomecua.com/zh/categories/model/index.md)：454 条已审核记录
-- [数据集](https://awesomecua.com/zh/categories/dataset/index.md)：267 条已审核记录
-- [评测基准](https://awesomecua.com/zh/categories/benchmark/index.md)：305 条已审核记录
-- [智能体](https://awesomecua.com/zh/categories/agent/index.md)：475 条已审核记录
-- [框架](https://awesomecua.com/zh/categories/framework/index.md)：665 条已审核记录
-- [基础设施](https://awesomecua.com/zh/categories/infrastructure/index.md)：117 条已审核记录
-- [工具](https://awesomecua.com/zh/categories/tool/index.md)：1,084 条已审核记录
+- [模型](https://awesomecua.com/zh/categories/model/index.md)：475 条已审核记录
+- [数据集](https://awesomecua.com/zh/categories/dataset/index.md)：278 条已审核记录
+- [评测基准](https://awesomecua.com/zh/categories/benchmark/index.md)：310 条已审核记录
+- [智能体](https://awesomecua.com/zh/categories/agent/index.md)：481 条已审核记录
+- [框架](https://awesomecua.com/zh/categories/framework/index.md)：675 条已审核记录
+- [基础设施](https://awesomecua.com/zh/categories/infrastructure/index.md)：122 条已审核记录
+- [工具](https://awesomecua.com/zh/categories/tool/index.md)：1,163 条已审核记录
 - [产品](https://awesomecua.com/zh/categories/product/index.md)：75 条已审核记录
 - [发布方](https://awesomecua.com/zh/categories/company/index.md)：19 条已审核记录
-- [学习资源](https://awesomecua.com/zh/categories/learning/index.md)：36 条已审核记录
+- [学习资源](https://awesomecua.com/zh/categories/learning/index.md)：38 条已审核记录
 - [综述](https://awesomecua.com/zh/categories/survey/index.md)：37 条已审核记录
 - [论文](https://awesomecua.com/zh/papers/index.md)：1,681 条已审核记录
 

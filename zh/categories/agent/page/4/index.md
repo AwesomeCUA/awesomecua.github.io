@@ -4,6 +4,12 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/4/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [Jev macOS Loop](https://awesomecua.com/zh/resources/github-jcpsimmons-jev-macos-loop/)：Jev macOS Loop 结合 Apple Silicon 本地 Jev 决策模型、OmniParser 定位和原生 macOS Accessibility 操作。
+- [jev-for-chrome](https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/)：Chrome 扩展，使用 TypeSafe Jev System-One 决策模型执行网页浏览、点击和输入。
+- [jev-windows-agent](https://awesomecua.com/zh/resources/github-vbs2004-jev-windows-agent/)：jev-windows-agent 将 Windows UI Automation 检查与快速 Jev System-One 决策循环结合，实现低延迟桌面控制。
+- [Job Hunter](https://awesomecua.com/zh/resources/github-liooo0-job-hunter/)：AI 辅助的求职申请浏览器智能体，可匹配简历与职位、自动填写表单并记录提交轨迹。
+- [Job Hunter AI](https://awesomecua.com/zh/resources/github-fred-brown-3-job-hunter-ai/)：智能体式 AI 求职助手，具备自动化候选人信息采集和经过核验的浏览器表单填写功能。
+- [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)：原生、100% 离线的 Windows 桌面语音和 GUI 自动化助手。
 - [Kirk Engine](https://awesomecua.com/zh/resources/url-80c8abf734a29f7affc5/)：Kirk Engine 是结合截图和无障碍树选择点击、输入及滑动操作的安卓智能体；页面报告 AndroidWorld 测试，并说明逐任务验证材料。
 - [Kota-Kawa Browser-Agent](https://awesomecua.com/zh/resources/github-kota-kawa-browser-agent/)：基于 FastAPI 和 browser-use 的网页智能体，支持实时 CDP 会话流、Server-Sent Events（SSE）进度日志和交互式 UI 控制。
 - [Kushatish AI Browser Copilot](https://awesomecua.com/zh/resources/github-kushatish-ai-browser-copilot/)：Chrome 扩展，由 Groq LLMs 驱动，提供基于页面内容的问答和经用户批准的浏览器动作。
@@ -98,9 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/4/ · [English](ht
 - [Pegoles Agent](https://awesomecua.com/zh/resources/github-zezortdx-pegoles-agent/)：Pegoles Agent 使用 macOS 计算机使用控制器操作隔离的 Linux 虚拟机，并在执行前进行确定性的策略检查。
 - [PhysiClaw](https://awesomecua.com/zh/resources/github-physiclaw-physiclaw/)：PhysiClaw 使用俯视摄像头和 3 轴电容式触控笔龙门架，对未经改装的智能手机进行实体点击和滑动。
 - [Pi Jev Browser](https://awesomecua.com/zh/resources/github-laihenyi-pi-jev-browser/)：Pi Jev Browser 是面向 pi 编码框架的浏览器及 macOS 智能体，由 Jev 根据结构化页面观测结果选择动作。
-- [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/zh/resources/github-333-wg-pi-wm/)：基于 pi-agent 构建的桌面 AI 智能体工作空间，用于执行本地任务和浏览器自动化。
-- [Piskie](https://awesomecua.com/zh/resources/github-piskie-dev-piskie/)：面向真实网页的桌面 AI 智能体，内置具备反检测功能的指纹浏览器。
-- [PocketCode](https://awesomecua.com/zh/resources/github-m1ssbe4r-pocketcode/)：在设备端运行的 Android AI 编码和自动化智能体，能够直接在手机上构建和运行应用。
-- [Pocketwatch](https://awesomecua.com/zh/resources/github-psamme-pocketwatch/)：面向 iPhone 实体设备应用的 AI 测试版测试智能体，通过 macOS iPhone Mirroring 执行用户操作流程。
-- [Pointer](https://awesomecua.com/zh/resources/url-98122987ca3e7c764d0e/)：Pointer 介绍一款桌面计算机使用智能体：先检查任务可行性，再规划阶段目标，由执行器结合界面、代码与浏览器工具完成任务。
-- [PokeClaw](https://awesomecua.com/zh/resources/github-agents-io-pokeclaw/)：Android 应用在设备端运行手机控制智能体，通过 Accessibility 服务读取 UI 树，并用设备端 Gemma 4 或可选云端模型执行点击、滑动和输入。

@@ -43,6 +43,7 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/2/
 - [vimgolf-gym](https://awesomecua.com/zh/resources/github-james4ever0-vimgolf-gym/)
 - [WeaveBench](https://awesomecua.com/zh/resources/github-weavebench-weavebench/)
 - [WebArena-Infinity](https://awesomecua.com/zh/resources/github-web-arena-x-webarena-infinity/)
+- [WebHarbor](https://awesomecua.com/zh/resources/github-aiming-lab-webharbor/)
 - [WorkArena-Instances](https://awesomecua.com/zh/resources/url-01b9e39cd2526d41c527/)
 - [ChilleD/WildAWM](https://awesomecua.com/zh/resources/url-eb8af3be965f5c0fde6a/)
 - [@sparticuz/chromium](https://awesomecua.com/zh/resources/github-sparticuz-chromium/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/2/
 - [AgentTab](https://awesomecua.com/zh/resources/github-wolfiesch-chrome-bridge/)
 - [AGI SDK](https://awesomecua.com/zh/resources/github-agi-inc-agisdk/)
 - [AI SDK Computer Use](https://awesomecua.com/zh/resources/github-vercel-labs-ai-sdk-computer-use/)
-- [aic-pod](https://awesomecua.com/zh/resources/github-veypi-aic-pod/)

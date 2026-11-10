@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/categories/infrastructure/page/2/ · [En
 
 完整类别注释：https://awesomecua.com/zh/categories/infrastructure/index.md
 
+- [Latere Sandbox Images](https://awesomecua.com/zh/resources/github-latere-ai-sandbox-images/)：面向编码智能体和计算机使用桌面智能体的容器镜像，兼容 Docker、Podman 和 Cella 沙箱。
+- [Lume](https://awesomecua.com/zh/resources/github-trycua-lume/)：用于本地计算机使用环境的虚拟机管理工具。
+- [Mobile Env](https://awesomecua.com/zh/resources/github-x-lance-mobile-env/)：基于 AndroidEnv 的 GUI 智能体基准构建与训练平台；任务定义文件根据屏幕文本、视图层级或日志事件生成指令、奖励和回合结束信号。
+- [modal-computer-use](https://awesomecua.com/zh/resources/github-ashtonchew-modal-computer-use/)：提供以守护进程为核心的计算机使用基础功能，用于在 Modal 云沙箱中配置和控制 GUI 桌面。
+- [Nehemiah](https://awesomecua.com/zh/resources/github-boringcomputers-nehemiah/)：Nehemiah 按需创建配备浏览器和桌面环境的 Linux Firecracker 微型虚拟机，供 AI 智能体使用。
 - [Neo Lab](https://awesomecua.com/zh/resources/github-belarusian-neo-lab/)：Neo Lab 是 macOS 计算机使用沙箱，可用于录制示范、重放技能和测试 GUI 自动化方案。
 - [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/zh/resources/url-ce775111626bae220596/)：托管 OSWorld 的 Ubuntu 虚拟机归档，供其 VirtualBox 提供程序在 x86 主机上下载并通过 VBoxManage 导入；仓库没有数据卡或许可声明。
 - [OSWorld Windows VM images](https://awesomecua.com/zh/resources/url-232a1698849e2fea425c/)：托管 OSWorld 预构建的 Windows 10 虚拟机：含 VMware 和 QEMU qcow2 归档，供 OSWorld 的 VMware 和 Docker 提供程序首次运行 Windows 任务时下载。

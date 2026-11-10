@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/planning/index.md
 
+- [BabyAGI](https://awesomecua.com/zh/resources/github-yoheinakajima-babyagi/)
 - [BLAXIN](https://awesomecua.com/zh/resources/github-tasinxxx-blaxin/)
 - [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/zh/resources/github-momoyi0929-gui-agent/)
 - [Browser Operator](https://awesomecua.com/zh/resources/github-browseroperator-browser-operator-core/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/8/
 - [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonaiorg-litewebagent/)
 - [LongHorizon-Harness](https://awesomecua.com/zh/resources/github-amap-ml-longhorizon-harness/)
 - [Lusipad Browser Agent](https://awesomecua.com/zh/resources/github-lusipad-browser-agent/)
-- [MacOS Agent (BIGAI)](https://awesomecua.com/zh/resources/github-computer-use-agents-macos-agent/)

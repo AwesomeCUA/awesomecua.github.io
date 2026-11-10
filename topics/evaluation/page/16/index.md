@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/evaluation/page/16/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
+- [CRAB](https://awesomecua.com/resources/github-camel-ai-crab/)
 - [cskwork vigil](https://awesomecua.com/resources/github-cskwork-vigil/)
 - [CUA Eval Kit](https://awesomecua.com/resources/github-marwanalsiddiq-cua-eval-kit/)
 - [cua-bench (ERPNext)](https://awesomecua.com/resources/github-vaiyr-cua-bench/)
@@ -35,6 +36,7 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [FlashAdventure](https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/)
 - [FronTalk](https://awesomecua.com/resources/github-shirley-wu-frontalk/)
 - [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/)
+- [FunUI-Benchmark](https://awesomecua.com/resources/url-92241e51e909ea9ca564/)
 - [GA-Technical-Report](https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/)
 - [GameWorld](https://awesomecua.com/resources/github-gameworld-project-gameworld/)
 - [GameWorld Games](https://awesomecua.com/resources/github-gameworld-project-gameworld-games/)
@@ -45,6 +47,7 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [GroundUI-1K](https://awesomecua.com/resources/url-d86f55753bfea45fe313/)
 - [GUI-Perturbed](https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/)
 - [GUI-Robust](https://awesomecua.com/resources/github-chessbean1-gui-robust/)
+- [GUI_Reflection_Task_Suite_Benchmark](https://awesomecua.com/resources/url-dea0e09f027df704ca00/)
 - [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/)
 - [GUIGuard-Bench evaluation code](https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/)
 - [GUIGuard-Bench public-ladder release](https://awesomecua.com/resources/url-61860953a680776ffe53/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [Inspect Evals](https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/)
 - [Intention-in-Interaction (IN3) & Mistral-Interact](https://awesomecua.com/resources/github-openbmb-tell-me-more/)
 - [Intentproof](https://awesomecua.com/resources/github-egagofur-intentproof/)
-- [iOSWorld](https://awesomecua.com/resources/github-ljang0-iosworld/)
-- [jev-click-bench](https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/)
-- [Kane](https://awesomecua.com/resources/github-venkat5599-kane/)

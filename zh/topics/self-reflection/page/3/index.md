@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/self-reflection/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/self-reflection/index.md
 
+- [MobA](https://awesomecua.com/zh/resources/github-opendfm-moba/)
+- [Mobile-Agent-E code component](https://awesomecua.com/zh/resources/component-x-plug-mobileagent-mobile-agent-e/)
+- [MobilePilot Runtime](https://awesomecua.com/zh/resources/github-qizhanggu-mobilepilot-runtime/)
+- [Narada Code and OperatorMini](https://awesomecua.com/zh/resources/url-fd28110220935a0fae26/)
 - [NORTHTEK Ghost](https://awesomecua.com/zh/resources/github-northtekdevs-ghost/)
 - [Open Frame](https://awesomecua.com/zh/resources/github-off-camber-open-frame/)
 - [OpenAmer Agent](https://awesomecua.com/zh/resources/github-openamer-openamer/)

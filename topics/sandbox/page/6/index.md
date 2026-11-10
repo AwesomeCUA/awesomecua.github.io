@@ -4,6 +4,12 @@ HTML page: https://awesomecua.com/topics/sandbox/page/6/
 
 Full list: https://awesomecua.com/topics/sandbox/index.md
 
+- [OpenMobile-2 extended Android AVDs](https://awesomecua.com/resources/url-f039da43799772645c92/)
+- [Orbit UI](https://awesomecua.com/resources/github-aadya940-orbit-ui/)
+- [Orchard-Agentic](https://awesomecua.com/resources/github-microsoft-orchard-agentic/)
+- [orion-vm-arm](https://awesomecua.com/resources/url-7e2e6225864f97b5238c/)
+- [OSWorld Ubuntu VM images](https://awesomecua.com/resources/url-346ca54794cbdffc8797/)
+- [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/resources/url-ce775111626bae220596/)
 - [OSWorld Web](https://awesomecua.com/resources/github-task-web-osworld-web/)
 - [OSWorld Windows VM images](https://awesomecua.com/resources/url-232a1698849e2fea425c/)
 - [OvoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/)
@@ -58,9 +64,3 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [Twiko](https://awesomecua.com/resources/github-ezocomp118-source-twiko/)
 - [Undetectable Browser MCP Server](https://awesomecua.com/resources/github-undetectable-io-undetectable-browser-mcp/)
 - [Unraid Camofox Stealth Browser](https://awesomecua.com/resources/github-mircoblitz-unraid-camofox-stealth-browser/)
-- [UseAgent](https://awesomecua.com/resources/github-useagenthq-useagent/)
-- [vadgr-agent-os](https://awesomecua.com/resources/github-montbrain-vadgr-agent-os/)
-- [Valk](https://awesomecua.com/resources/github-ercbot-valk/)
-- [vePhone](https://awesomecua.com/resources/github-volcengine-vephone/)
-- [VK DeviceHub](https://awesomecua.com/resources/github-vkcom-devicehub/)
-- [VNC MCP Server](https://awesomecua.com/resources/github-volkan-m-vnc-mcp-server/)

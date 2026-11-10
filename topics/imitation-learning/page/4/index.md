@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/imitation-learning/page/4/
 
 Full list: https://awesomecua.com/topics/imitation-learning/index.md
 
+- [Operant](https://awesomecua.com/resources/github-alpharomerojl-operant/)
+- [OysterWorkflow](https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/)
+- [PC-Agent-E training and deployment](https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/)
+- [Pix2Act](https://awesomecua.com/resources/github-google-deepmind-pix2act/)
+- [PlayJev](https://awesomecua.com/resources/github-omnijev-playjev/)
 - [Protean](https://awesomecua.com/resources/github-aibrain-mnemis-protean/)
 - [record-and-replay-skill](https://awesomecua.com/resources/github-ugarchance-record-and-replay-skill/)
 - [Replay (Teach-by-Demonstration)](https://awesomecua.com/resources/github-misb74-replay/)

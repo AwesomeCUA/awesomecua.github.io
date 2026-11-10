@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/safety-security/index.md
 
+- [DoomArena](https://awesomecua.com/zh/resources/github-servicenow-doomarena/)
+- [DrishtiGuard](https://awesomecua.com/zh/resources/github-atharvasamant4-drishtiguard/)
+- [DSB (逗沙包)](https://awesomecua.com/zh/resources/github-tianye1999-dsb/)
+- [DSH Desktop Operator](https://awesomecua.com/zh/resources/github-zjh02249-dsh-desktop-operator/)
 - [dsh-browser-secure](https://awesomecua.com/zh/resources/github-frankxie-java-dsh-browser-secure/)
 - [DualKey](https://awesomecua.com/zh/resources/github-wadekeith-dualkey-agent/)
 - [DualTAP](https://awesomecua.com/zh/resources/github-fyzhang1-dualtap/)
@@ -21,6 +25,7 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/8/
 - [handraise-telegram](https://awesomecua.com/zh/resources/github-sy-d-handraise-telegram/)
 - [HarmonyGuard](https://awesomecua.com/zh/resources/github-yurunchen-harmonyguard/)
 - [HelpRelay WebMCP](https://awesomecua.com/zh/resources/github-akigarage-helprelay-webmcp/)
+- [Hermes Jev Skills](https://awesomecua.com/zh/resources/github-kerpopule-hermes-jev-skills/)
 - [Hermes login-bridge Plugin](https://awesomecua.com/zh/resources/github-kfastov-hermes-plugin-login-bridge/)
 - [IdemStep](https://awesomecua.com/zh/resources/github-supermarioyl-idemstep/)
 - [InnerOS WebMCP](https://awesomecua.com/zh/resources/github-rafa-innerchispa-inneros-webmcp/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/safety-security/page/8/
 - [Ocular](https://awesomecua.com/zh/resources/github-guatxlabs-ocular/)
 - [Open Grok Bot](https://awesomecua.com/zh/resources/github-anil-matcha-open-grok-bot/)
 - [open-compute](https://awesomecua.com/zh/resources/github-ellmos-ai-open-compute/)
-- [openadapt-privacy](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-privacy/)
-- [OpenComet](https://awesomecua.com/zh/resources/github-princechouhan19-opencometai/)
-- [OpenDesk](https://awesomecua.com/zh/resources/github-vitalops-opendesk/)
-- [OpenPhone (Secondly)](https://awesomecua.com/zh/resources/github-secondly-com-openphone/)
-- [Operant](https://awesomecua.com/zh/resources/github-alpharomerojl-operant/)

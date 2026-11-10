@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/evaluation/page/18/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
+- [openadapt-evals](https://awesomecua.com/resources/github-openadaptai-openadapt-evals/)
+- [OpenAgentSafety](https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/)
+- [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/)
 - [OS-Critic Bench](https://awesomecua.com/resources/url-c73ba0618d1b3c505887/)
 - [OS-Harm](https://awesomecua.com/resources/github-tml-epfl-os-harm/)
 - [OS-Map](https://awesomecua.com/resources/github-os-copilot-os-map/)
@@ -22,6 +25,7 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [Persona UX Test](https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/)
 - [PersonalAlign](https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/)
 - [PhoneHarness](https://awesomecua.com/resources/github-phoneharness-phoneharness/)
+- [PhoneHarness Bench](https://awesomecua.com/resources/url-92b80b37a7a117acfd3c/)
 - [Plasmate Benchmarks](https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/)
 - [pms-race](https://awesomecua.com/resources/github-lgoyal6-pms-race/)
 - [Pointerbench](https://awesomecua.com/resources/github-warmwindos-pointerbench/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [taskproof](https://awesomecua.com/resources/github-taskproof-taskproof/)
 - [TestPilot](https://awesomecua.com/resources/github-h0ngza1-testpilot/)
 - [TheAgentCompany](https://awesomecua.com/resources/github-theagentcompany-theagentcompany/)
-- [TimeWarp](https://awesomecua.com/resources/github-sparklabutah-timewarp/)
-- [TurkingBench](https://awesomecua.com/resources/url-808a22468ee0bf565d6e/)
-- [UI-FaultLab](https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/)
-- [UI-I2E-Bench](https://awesomecua.com/resources/url-c08566be0d973ec40c48/)

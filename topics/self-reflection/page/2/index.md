@@ -4,8 +4,12 @@ HTML page: https://awesomecua.com/topics/self-reflection/page/2/
 
 Full list: https://awesomecua.com/topics/self-reflection/index.md
 
+- [Kane](https://awesomecua.com/resources/github-venkat5599-kane/)
 - [OmniWebBench](https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/)
 - [GUI_Reflection_SFT_train](https://awesomecua.com/resources/url-528f6fe128b77e9615aa/)
+- [GUI_Reflection_Task_Suite_train](https://awesomecua.com/resources/url-f68939821685c9dcc78c/)
+- [GUI_Reflection_8b_pretrain](https://awesomecua.com/resources/url-534151cf8b1e1df5bf96/)
+- [GUI_Reflection_8b_SFT](https://awesomecua.com/resources/url-e2c687595af929b4332a/)
 - [InfiGUI-R1 3B](https://awesomecua.com/resources/url-35b9879a351cc3b3d7d5/)
 - [Northstar-CUA-Fast](https://awesomecua.com/resources/url-52de9679739ad0a50f69/)
 - [OpenCUA 32B](https://awesomecua.com/resources/url-ad7f176848fd84de64e2/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/self-reflection/index.md
 - [Lynx Agent](https://awesomecua.com/resources/github-wangjiang314-lynx-agent/)
 - [MAI](https://awesomecua.com/resources/github-fluxaster-mai/)
 - [MCP for Blender](https://awesomecua.com/resources/github-ahujasid-blender-mcp/)
-- [MobA](https://awesomecua.com/resources/github-opendfm-moba/)
-- [Mobile-Agent-E code component](https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/)
-- [MobilePilot Runtime](https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/)
-- [Narada Code and OperatorMini](https://awesomecua.com/resources/url-fd28110220935a0fae26/)

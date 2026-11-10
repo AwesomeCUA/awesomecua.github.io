@@ -203,6 +203,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
 - [Auto-UI](https://awesomecua.com/zh/resources/url-952cb4c3f308418aa85b/) — Date not recorded
   Trained Auto-UI checkpoints and BLIP-processed AITW features for a chain-of-action agent that predicts device actions from screenshots, previous actions and planned future actions.
+- [CLM-v0.1-8B](https://awesomecua.com/zh/resources/url-0b272935f82c063d9384/) — Date not recorded
+  Weights for CLM-8B, a contrastive model with state and action heads on a frozen Qwen3-8B encoder that ranks candidate actions; the authors report computer-use, gaming and tool-calling results.
 - [CogAgent 9B 20241220](https://awesomecua.com/zh/resources/url-c5eb975c0d66f8a2954f/) — Date not recorded
   A bilingual GLM-4V-based execution model that uses screenshots, task instructions and action history to predict GUI operations.
 - [cogagent-vqa-hf](https://awesomecua.com/zh/resources/url-64d0220e17b4e67485f3/) — Date not recorded
@@ -271,6 +273,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWorld, released as a research checkpoint for validating environment-RL improvements, with production use outside its stated purpose.
 - [GUI-R1 checkpoint bundle](https://awesomecua.com/zh/resources/url-61a5321db10fc8a312b9/) — Date not recorded
   A single Hub release containing GUI-R1 3B and 7B action-model checkpoints trained with reinforcement learning across interface platforms.
+- [GUI_Reflection_8b_SFT](https://awesomecua.com/zh/resources/url-e2c687595af929b4332a/) — Date not recorded
+  Final GUI Reflection agent checkpoint, built on InternVL, that predicts mobile GUI actions from a screenshot and task goal after training on reflection and error-correction data.
 - [gWorld (GuiWorld)](https://awesomecua.com/zh/resources/github-trillion-labs-gworld/) — Date not recorded
   gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step screen states via renderable web code generation.
 - [Hcompany/Holo4-35B-A3B-GGUF](https://awesomecua.com/zh/resources/url-d96a6dcdd2aa622c523b/) — Date not recorded
@@ -359,6 +363,14 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   A 4B-parameter computer-use model trained with GUI reinforcement learning that maps text and screenshots to actions such as clicks, typing, and scrolling.
 - [OmniJev](https://awesomecua.com/zh/resources/github-tinnel123666888-omnijev/) — Date not recorded
   OmniJev is a multimodal decision model that scores typed choices from screens and other visual input. Released weights and inference code cover web and phone tasks alongside other domains.
+- [OmniJev](https://awesomecua.com/zh/resources/url-6bdda64c5782f03b0f54/) — Date not recorded
+  OmniJev v1.1 is a 4B LoRA adapter with decision heads for Qwen3.5-4B that answers typed questions about screens and other images with probabilities; its task families include androidcontrol and web.
+- [OmniJev-0.8B](https://awesomecua.com/zh/resources/url-8d584b241812a89a964e/) — Date not recorded
+  OmniJev decision adapter for Qwen3.5-0.8B: LoRA weights and heads that return probabilities for typed questions about screens, video and robot scenes, evaluated on web and phone task families.
+- [OmniJev-2B](https://awesomecua.com/zh/resources/url-aa4abc9055c3f3248a1a/) — Date not recorded
+  OmniJev decision adapter for Qwen3.5-2B: LoRA weights and heads that return probabilities for typed questions about screens, video and robot scenes, evaluated on web and phone task families.
+- [OmniJev-SFT-0.8B](https://awesomecua.com/zh/resources/url-a236b756e1940a873e9f/) — Date not recorded
+  Generative SFT baseline from the OmniJev release: a LoRA adapter over Qwen3.5-0.8B, trained for 12,500 steps, that answers image questions with text; the card reports scores on AndroidControl, web and phone families.
 - [OneJev](https://awesomecua.com/zh/resources/github-omnijev-onejev/) — Date not recorded
   OneJev is a multimodal System-One decision model based on Qwen that returns calibrated probabilities over typed action choices.
 - [OpAgent-32B](https://awesomecua.com/zh/resources/url-875b417b3ef43021cd74/) — Date not recorded
@@ -407,6 +419,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Computer-use checkpoint fine-tuned on PC-Agent-E trajectories; the model-card prose identifies Qwen2.5-VL-72B-Instruct as its starting model.
 - [Plan-and-Act Actor 70B](https://awesomecua.com/zh/resources/url-8a284d122d7dcf23479d/) — Date not recorded
   Llama-3.3-70B-Instruct-based executor checkpoint from the Plan-and-Act web-agent framework that translates high-level plans into browser actions.
+- [PlayJev-0.8B](https://awesomecua.com/zh/resources/url-b6a26f1b74d70fc783da/) — Date not recorded
+  A 0.8B checkpoint fine-tuned from Qwen3.5-0.8B-Base that picks a move in ten browser games from one rendered frame and an option list, trained by behaviour cloning and three DAgger rounds.
 - [Qwen-CUA](https://awesomecua.com/zh/resources/url-a886fea306211d527701/) — Date not recorded
   Qwen-CUA is a screenshot-based computer-use model that generates grounded keyboard and mouse actions. Its release includes weights and a browser reference runtime.
 - [Qwen-GUI checkpoint](https://awesomecua.com/zh/resources/url-23bc63f93d3c31d74af3/) — Date not recorded
@@ -479,6 +493,12 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   A Qwen2.5-VL-3B mobile GUI action model fine-tuned on AndroidControl, AMEX, AndroidLab and UI-Genie synthetic trajectories to predict app launches, taps, swipes, typing and system-button presses.
 - [UI-Genie Agent 7B](https://awesomecua.com/zh/resources/url-6d959b58bd4a2e98e417/) — Date not recorded
   A Qwen2.5-VL mobile action model trained using existing and reward-guided synthetic trajectories from the UI-Genie framework.
+- [UI-Mate-27B](https://awesomecua.com/zh/resources/url-ad993f634943aadbc3f7/) — Date not recorded
+  A 27B GUI agent model from the UI-Mate release, trained from Qwen3.6-27B with supervised fine-tuning and online reinforcement learning to turn instructions and screenshots into keyboard and mouse actions.
+- [UI-Mate-9B](https://awesomecua.com/zh/resources/url-d9e6788adf3eb50a9b87/) — Date not recorded
+  A 9B GUI agent model from the UI-Mate release, trained from Qwen3.5-9B with supervised fine-tuning and online reinforcement learning to turn instructions and screenshots into keyboard and mouse actions.
+- [UI-Mate-democua-27B](https://awesomecua.com/zh/resources/url-4425e20ebe68c9eb805f/) — Date not recorded
+  A 27B checkpoint of the UI-Mate desktop agent, fine-tuned from Qwen3.6-27B, that reads screenshots and can follow one recorded demonstration to plan keyboard and mouse actions on a new task.
 - [UI-R1 3B](https://awesomecua.com/zh/resources/url-f13474d7aa734a30624d/) — Date not recorded
   A Qwen2.5-VL checkpoint trained with reinforcement learning for GUI action prediction and evaluated on mobile, desktop and web grounding tasks.
 - [UI-S1 7B](https://awesomecua.com/zh/resources/url-1c4ee99a9a55ae71a7ac/) — Date not recorded
@@ -548,6 +568,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.
 - [GUI-Shift](https://awesomecua.com/zh/resources/github-ubiquitouslearning-gui-shift/) — Date not recorded
   GUI-Shift is a training framework that uses pairs of GUI screenshots to teach vision-language models to predict the action behind an interface transition.
+- [Hermes Jev Skills](https://awesomecua.com/zh/resources/github-kerpopule-hermes-jev-skills/) — Date not recorded
+  SKILL.md skills for Hermes, Claude Code and Codex agents that pass small decisions to the Jev model, including desktop and browser skills in which Jev picks each next action from a caller-built table.
 - [Human Browser Copilot](https://awesomecua.com/zh/resources/github-officiallemmy254-droid-human-browser-copilot/) — Date not recorded
   Agentic Chrome copilot featuring organic mouse kinematics, visual perception, and natural-language web task execution.
 - [Humanoid](https://awesomecua.com/zh/resources/github-yzygitzh-humanoid/) — Date not recorded

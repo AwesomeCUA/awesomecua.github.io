@@ -63,4 +63,4 @@ Full list: https://awesomecua.com/topics/observability/index.md
 - [lean-chronoscope-mcp](https://awesomecua.com/resources/github-yyhezkel-lean-chronoscope-mcp/)
 - [lnwjud (Windows MCP Access)](https://awesomecua.com/resources/github-phuongt2576-lnwjud-readme/)
 - [Lumen browser agent](https://awesomecua.com/resources/github-omxyz-lumen/)
-- [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/resources/github-mapleluvr-cu/)
+- [MaaDebugger](https://awesomecua.com/resources/github-maaxyz-maadebugger/)

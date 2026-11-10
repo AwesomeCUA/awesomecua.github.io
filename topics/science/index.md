@@ -68,8 +68,16 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 ## Datasets
 
+- [JUMPDiscovery](https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/) — Date not recorded
+  Task data for the Orion computer-using agent's open discovery task: a problem statement, CellProfiler pipelines, gene sets and a script that downloads JUMP Cell Painting morphological profiles.
+- [JUMPDiscovery_results](https://awesomecua.com/resources/url-4c4b6238a1b1f1dfd4f4/) — Date not recorded
+  Outputs of the Orion computer-using agent on the JUMP Cell Painting discovery task: one folder per attempt with hypotheses, figures, analysis scripts and reports, plus an example trajectory.
+- [Microscopy-Dataset](https://awesomecua.com/resources/url-62a92edacc4b703aaa05/) — Date not recorded
+  Task set for the Orion computer-using agent's microscopy image-processing task: 12 CellProfiler training modules and 14 test challenges with problem statements, images, ground truth and unit tests.
 - [OSWorld-Science task data](https://awesomecua.com/resources/url-263e82b29d4fca964463/) — Date not recorded
   Gated Hub release of OSWorld-Science task definitions, staged inputs, grader references and prepared Ubuntu VM images for computer-use agents working in scientific software.
+- [Pathology-Dataset](https://awesomecua.com/resources/url-6aa8885dd2c713b4c64f/) — Date not recorded
+  Task set for the Orion computer-using agent's digital pathology task in QuPath: tutorial material, lymph-node metastasis segmentation on CAMELYON slides and TP53 index calculation, with test suites.
 - [ScienceBoard evaluation trajectories](https://awesomecua.com/resources/url-4784f63cd7117f64a2a3/) — Date not recorded
   Archives of ScienceBoard agent evaluation runs, separated by agent configuration and screenshot, accessibility-tree or set-of-marks observation mode.
 
@@ -124,6 +132,8 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
   Model Context Protocol server that drives VRoid Studio 3D character creation via Linux Wayland GUI automation.
 - [Orion](https://awesomecua.com/resources/github-genentech-orion/) — Date not recorded
   A biomedical analysis agent that operates scientific desktop applications, a browser, and terminal tools in an Ubuntu virtual machine. Its repository includes task configurations and launchers.
+- [orion-vm-arm](https://awesomecua.com/resources/url-7e2e6225864f97b5238c/) — Date not recorded
+  A VMware Fusion snapshot of the Orion agent's Ubuntu guest for arm64 Macs, with CellProfiler, QuPath and napari pre-installed, released as a single OS.zip archive.
 - [ScienceBoard VMware environment](https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/) — Date not recorded
   A prebuilt Ubuntu virtual-machine archive containing the software environment used for ScienceBoard scientific computer-use tasks.
 - [WellSet WebMCP](https://awesomecua.com/resources/github-kinhikars-wellset-webmcp/) — Date not recorded

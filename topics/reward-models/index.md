@@ -189,6 +189,8 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   Digi-Q agent checkpoint for the AitW General task set: an AutoUI device-control policy trained offline with a learned VLM Q-value function that re-ranks proposed actions.
 - [aitw-webshop-digiq-agent](https://awesomecua.com/resources/url-5281c8befef1059590f3/) — Date not recorded
   Digi-Q device-control agent checkpoint trained on the AitW Web Shopping task set, an AutoUI-based actor learned offline with a VLM Q-value function; the repository reports a 70.8 test-set score.
+- [CLM-v0.1-8B](https://awesomecua.com/resources/url-0b272935f82c063d9384/) — Date not recorded
+  Weights for CLM-8B, a contrastive model with state and action heads on a frozen Qwen3-8B encoder that ranks candidate actions; the authors report computer-use, gaming and tool-calling results.
 - [CUA_World_State_Model](https://awesomecua.com/resources/url-f0ffbdc41c9dca4c585f/) — Date not recorded
   SEAgent's World State Model, a Qwen2.5-VL-7B-Instruct fine-tune that assesses computer-use trajectories step by step from screenshots, used to label successes and failures and to drive curriculum task generation.
 - [GLM-V](https://awesomecua.com/resources/github-zai-org-glm-v/) — Date not recorded
@@ -203,6 +205,10 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   QLoRA adapter for Llama-3.1-8B-Instruct that acts as the value model of the WMA web agent, rating world-model predictions of each candidate action's outcome so the agent can choose the top-scored one.
 - [V-Droid-8B-0323](https://awesomecua.com/resources/url-82adab61eb515398da48/) — Date not recorded
   A verifier model for the V-Droid Android GUI agent scores candidate actions from a device description and task, helping select the next mobile operation.
+- [WebGenAgent-LM-7B-Step-GRPO](https://awesomecua.com/resources/url-cdb9a1ad26e169a411f5/) — Date not recorded
+  The 7B Step-GRPO checkpoint of WebGen-Agent, which writes website code from instructions; training used screenshot scores and GUI-agent test scores as step-level rewards.
+- [WebGenAgent-LM-8B-Step-GRPO](https://awesomecua.com/resources/url-7ebba507c0df876c6113/) — Date not recorded
+  The 8B Step-GRPO checkpoint of WebGen-Agent, which writes website code from instructions; training used screenshot scores and GUI-agent test scores as step-level rewards.
 - [WebJudge 7B](https://awesomecua.com/resources/url-772161f06c2b3d4978b5/) — Date not recorded
   A visual trajectory judge that retains selected intermediate screenshots to evaluate whether a web agent completed its task.
 - [WebRL outcome reward model 8B](https://awesomecua.com/resources/url-d1e85aeb6d96859c109d/) — Date not recorded

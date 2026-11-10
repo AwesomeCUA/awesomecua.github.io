@@ -1,5 +1,5 @@
 {
-  "relation_count": 1134,
+  "relation_count": 1155,
   "semantics": "Reviewed semantic links.",
   "relations": [
     {
@@ -208,6 +208,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/AI-secure/AdvWeb/HEAD/README.md",
       "target_id": "arxiv:2410.17401",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:aiming-lab/webharbor",
+      "source_name": "WebHarbor",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/aiming-lab/WebHarbor/db506e3a28d8829a8295a2bb5f06c299e1db47f6/README.md",
+      "target_id": "arxiv:2611.03634",
       "type": "documented_by"
     },
     {
@@ -1755,6 +1763,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:microsoft/orchard-agentic",
+      "source_name": "Orchard-Agentic",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/Orchard-Agentic/769f7460c8cbf1d65521732721f57877ca0a6365/README.md",
+      "target_id": "arxiv:2605.15040",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:microsoft/phi-ground",
       "source_name": "Phi-Ground",
       "source_kind": "model",
@@ -3024,6 +3040,14 @@
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/Tencent/UI-Mate/HEAD/README.md",
       "target_id": "arxiv:2608.15930",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:tencent/webaggregator",
+      "source_name": "WebAggregator",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Tencent/WebAggregator/0e4f4d1583431abb838895267f925c018b0df510/readme.md",
+      "target_id": "arxiv:2510.14438",
       "type": "documented_by"
     },
     {
@@ -4635,6 +4659,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:1ff9a17a7d0802a71b1a",
+      "source_name": "WebGenAgent-LM-7B-SFT",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/luzimu/WebGenAgent-LM-7B-SFT",
+      "target_id": "arxiv:2509.22644",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:201acf47dde3df755bfe",
+      "source_name": "WildAWM-35B-A3B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/ChilleD/WildAWM-35B-A3B",
+      "target_id": "arxiv:2610.26828",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:20f7cdee10b0dd70815f",
       "source_name": "Uni-GUI-Desktop-1",
       "source_kind": "dataset",
@@ -4680,6 +4720,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/api/datasets/zonghanHZH/ShowUI-web-8k",
       "target_id": "arxiv:2506.23491",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:2304547d5025246abbe4",
+      "source_name": "CognitiveKernel-Pro-Query",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-Query",
+      "target_id": "arxiv:2508.00414",
       "type": "documented_by"
     },
     {
@@ -5163,6 +5211,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:37880875f816f46f6dfe",
+      "source_name": "Rex-Omni",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/IDEA-Research/Rex-Omni",
+      "target_id": "arxiv:2510.12798",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:37b4f525e6d7a56a9967",
       "source_name": "GuideBench",
       "source_kind": "benchmark",
@@ -5355,6 +5411,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:3f0e524544c55025c9d9",
+      "source_name": "WildAWM-4B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/ChilleD/WildAWM-4B",
+      "target_id": "arxiv:2610.26828",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:405959de004b6e32c911",
       "source_name": "luzimu/WebGen-Bench",
       "source_kind": "dataset",
@@ -5432,6 +5496,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/osunlp/MindAct_CandidateGeneration_deberta-v3-base",
       "target_id": "arxiv:2306.06070",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:4425e20ebe68c9eb805f",
+      "source_name": "UI-Mate-democua-27B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/tencent/UI-Mate-democua-27B",
+      "target_id": "arxiv:2608.15930",
       "type": "documented_by"
     },
     {
@@ -6547,6 +6619,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:792920a5f64df66d34d7",
+      "source_name": "ExACT-VWA",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/Columbia-NLP/ExACT-VWA",
+      "target_id": "arxiv:2410.02052",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:7ae2670859e3796e8607",
       "source_name": "BrowserAct",
       "source_kind": "product",
@@ -6595,6 +6675,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:7c431ccb1d5dc1f035d8",
+      "source_name": "CognitiveKernel-Pro-SFT",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-SFT",
+      "target_id": "arxiv:2508.00414",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:7c568d88a472f914d316",
       "source_name": "UI-R1 3B training data",
       "source_kind": "dataset",
@@ -6640,6 +6728,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/osunlp/UGround-V1-72B",
       "target_id": "arxiv:2410.05243",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:7ebba507c0df876c6113",
+      "source_name": "WebGenAgent-LM-8B-Step-GRPO",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/luzimu/WebGenAgent-LM-8B-Step-GRPO",
+      "target_id": "arxiv:2509.22644",
       "type": "documented_by"
     },
     {
@@ -7016,6 +7112,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/inclusionAI/GUI-G2-7B/raw/main/README.md",
       "target_id": "arxiv:2507.15846",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:9140ca5ba8252d373b8d",
+      "source_name": "AgentGym-RL-Data-ID",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/AgentGym/AgentGym-RL-Data-ID",
+      "target_id": "arxiv:2509.08755",
       "type": "documented_by"
     },
     {
@@ -7499,6 +7603,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:ad993f634943aadbc3f7",
+      "source_name": "UI-Mate-27B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/tencent/UI-Mate-27B",
+      "target_id": "arxiv:2608.15930",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:adb613aec8c5ebdeab89",
       "source_name": "InternVL3-14B",
       "source_kind": "model",
@@ -7632,6 +7744,22 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/OpenGVLab/InternVL3-38B",
       "target_id": "arxiv:2504.10479",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:b2b683f72ef4835c0826",
+      "source_name": "pix2struct-large",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/google/pix2struct-large",
+      "target_id": "arxiv:2210.03347",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:b3dd615ebfe977392f90",
+      "source_name": "WebGenAgent-LM-8B-SFT",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/luzimu/WebGenAgent-LM-8B-SFT",
+      "target_id": "arxiv:2509.22644",
       "type": "documented_by"
     },
     {
@@ -8027,6 +8155,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:cdb9a1ad26e169a411f5",
+      "source_name": "WebGenAgent-LM-7B-Step-GRPO",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/luzimu/WebGenAgent-LM-7B-Step-GRPO",
+      "target_id": "arxiv:2509.22644",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:ce775111626bae220596",
       "source_name": "OSWorld VirtualBox Ubuntu image",
       "source_kind": "infrastructure",
@@ -8323,6 +8459,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:d9e6788adf3eb50a9b87",
+      "source_name": "UI-Mate-9B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/tencent/UI-Mate-9B",
+      "target_id": "arxiv:2608.15930",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:dad3d02b2f9603713287",
       "source_name": "Holo2 235B-A22B",
       "source_kind": "model",
@@ -8432,6 +8576,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md",
       "target_id": "arxiv:2610.19100",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:dea0e09f027df704ca00",
+      "source_name": "GUI_Reflection_Task_Suite_Benchmark",
+      "source_kind": "benchmark",
+      "evidence_url": "https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_Benchmark",
+      "target_id": "arxiv:2506.08012",
       "type": "documented_by"
     },
     {
@@ -8787,6 +8939,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:f06109ae04d4c3133f90",
+      "source_name": "Qwen3-8B-CK-Pro",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/CognitiveKernel/Qwen3-8B-CK-Pro",
+      "target_id": "arxiv:2508.00414",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:f0ffbdc41c9dca4c585f",
       "source_name": "CUA_World_State_Model",
       "source_kind": "model",
@@ -8888,6 +9048,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/tangliang/TianXi_Action_Grounding_7B",
       "target_id": "arxiv:2508.04037",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:f68939821685c9dcc78c",
+      "source_name": "GUI_Reflection_Task_Suite_train",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_train",
+      "target_id": "arxiv:2506.08012",
       "type": "documented_by"
     },
     {

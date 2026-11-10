@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [OpenMobile-Data-v2](https://awesomecua.com/zh/resources/url-546e6c95825d1318c98d/)
 - [SWEeper-Bench-traces](https://awesomecua.com/zh/resources/url-54907fd6dc968eaced34/)
 - [asil-qwen35-2b-rl](https://awesomecua.com/zh/resources/url-d740ec821c7c466db2bf/)
 - [asil-qwen35-9b-rl](https://awesomecua.com/zh/resources/url-c5cedb2f95336a8e48aa/)
@@ -46,6 +47,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/4/
 - [Qwen2.5-VL-32B-Instruct](https://awesomecua.com/zh/resources/url-beafd78bf2ea84211e6d/)
 - [Qwen2.5-VL-3B-Instruct-AWQ](https://awesomecua.com/zh/resources/url-0ab0de943c5396cdf366/)
 - [Qwen2.5-VL-7B-Instruct-AWQ](https://awesomecua.com/zh/resources/url-06c351d14bee24bc3f01/)
+- [Qwen3-8B-CK-Pro](https://awesomecua.com/zh/resources/url-f06109ae04d4c3133f90/)
 - [Qwen3-VL-235B-A22B-Thinking](https://awesomecua.com/zh/resources/url-b8702b4ca9ceac2ca3ee/)
 - [Qwen3-VL-2B-Instruct](https://awesomecua.com/zh/resources/url-c4d0846c44df2c0d4099/)
 - [Qwen3-VL-2B-Thinking](https://awesomecua.com/zh/resources/url-24013b35fccf6b504bc5/)
@@ -57,10 +59,8 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/4/
 - [Qwen3-VL-4B-Thinking](https://awesomecua.com/zh/resources/url-b5690e43822ef84015c5/)
 - [Qwen3-VL-8B-Thinking](https://awesomecua.com/zh/resources/url-d1305a893a47ac03d0de/)
 - [sharryXR/asil-qwen35-2b-sft](https://awesomecua.com/zh/resources/url-d59976834d3d0d3a1809/)
+- [WildAWM-35B-A3B](https://awesomecua.com/zh/resources/url-201acf47dde3df755bfe/)
+- [WildAWM-4B](https://awesomecua.com/zh/resources/url-3f0e524544c55025c9d9/)
 - [404.directory](https://awesomecua.com/zh/resources/github-mm-sheng-404-directory/)
 - [988hj7tczd-oss dsh-computer-use](https://awesomecua.com/zh/resources/github-988hj7tczd-oss-dsh-computer-use/)
 - [@jshookmcp/jshook](https://awesomecua.com/zh/resources/github-vmoranv-jshookmcp/)
-- [aashutoshkumarr JARVIS Desktop Assistant](https://awesomecua.com/zh/resources/github-aashutoshkumarr-ai-desktop-assistant/)
-- [Accio Computer Use](https://awesomecua.com/zh/resources/github-accio-org-accio-cu/)
-- [Accio Work](https://awesomecua.com/zh/resources/url-07f92766e53439739eab/)
-- [AClaw](https://awesomecua.com/zh/resources/github-magnusdot-aclaw/)

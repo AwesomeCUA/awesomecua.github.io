@@ -5,6 +5,7 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/5/
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
 - [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/)
+- [FunUI-Benchmark](https://awesomecua.com/resources/url-92241e51e909ea9ca564/)
 - [Gomoku Computer-Use Model Comparison](https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/)
 - [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/)
 - [GUIGuard-Bench public-ladder release](https://awesomecua.com/resources/url-61860953a680776ffe53/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [RICO-ScreenQA](https://awesomecua.com/resources/url-bd15fb092ff80643ed97/)
 - [RICO-ScreenQA-Short](https://awesomecua.com/resources/url-060c9288c7197c5a188e/)
 - [RICO-WidgetCaptioning](https://awesomecua.com/resources/url-013bb9256ca6ad5188be/)
-- [Screen Annotation](https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/)

@@ -117,6 +117,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Apprentice is a local-first macOS agent that observes repeated user routines across allowlisted apps and replays them with click-by-click approval.
 - [Appwalk](https://awesomecua.com/resources/github-kubstack-appwalk/) — Date not recorded
   AI-powered CLI that explores a web application in a browser and compiles the run into verified Playwright test suites.
+- [Argent](https://awesomecua.com/resources/github-software-mansion-argent/) — Date not recorded
+  Argent is a CLI toolkit that lets an AI assistant tap, swipe and type in iOS simulators, Android emulators and devices, TVs and Electron apps, and also records end-to-end test paths, diffs screens and profiles apps.
 - [augur-sdk](https://awesomecua.com/resources/github-mercurialsolo-augur-sdk/) — Date not recorded
   augur-sdk instruments screenshot-grounded computer-use agents to record structured telemetry bundles, screenshots, and failure traces.
 - [Automata](https://awesomecua.com/resources/github-mindattic-automata/) — Date not recorded
@@ -219,6 +221,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Learns a legacy browser workflow once with an LLM and compiles it into a verified, reusable capability module.
 - [Libretto](https://awesomecua.com/resources/github-cashew-labs-libretto/) — Date not recorded
   Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.
+- [libuiohook](https://awesomecua.com/resources/github-kwhat-libuiohook/) — Date not recorded
+  C library that installs global keyboard and mouse hooks from userland on Windows, macOS and Linux and can post synthetic input events, with hook and event-post demos.
 - [Lightfeed Replayable Browser Agent](https://awesomecua.com/resources/github-lightfeed-browser-agent/) — Date not recorded
   TypeScript browser agent library that uses an LLM to complete a web navigation workflow once and replays cached selectors with zero LLM tokens.
 - [MacControlKit](https://awesomecua.com/resources/github-tzafon-maccontrolkit/) — Date not recorded
@@ -273,6 +277,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Stateful browser execution layer that records an agent task once, replays it without LLM calls, and self-repairs when selectors change.
 - [Pilion Browser](https://awesomecua.com/resources/github-echovic-pilion-browser/) — Date not recorded
   Pilion Browser connects agents to a user's desktop browser tabs through MCP. It supports browser actions, approval before actions, human takeover, recorded workflows, and session resume.
+- [Playwright CRX](https://awesomecua.com/resources/github-ruifigueira-playwright-crx/) — Date not recorded
+  Chrome extension edition of Playwright that drives open browser tabs through chrome.debugger, usable as a library and as an extension that records and replays scripts with tracing.
 - [Playwright Test for VS Code](https://awesomecua.com/resources/github-microsoft-playwright-vscode/) — Date not recorded
   A VS Code extension for Playwright browser testing that records page actions into tests and provides test running, locator inspection, debugging, and trace viewing.
 - [Prism AI Screen Reader](https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/) — Date not recorded
@@ -325,6 +331,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Screenpipe continuously captures desktop screen text via accessibility/OCR and audio transcripts into a local database for AI agents.
 - [screenshotting-gui](https://awesomecua.com/resources/github-evilfreelancer-screenshotting-gui/) — Date not recorded
   Agent skill for Claude Code, Codex, and Cursor that captures repeatable, window-scoped screenshots of native desktop and browser GUI apps.
+- [Scribe](https://awesomecua.com/resources/github-sameelarif-scribe/) — Date not recorded
+  Toolkit for human-like cursor motion in browser automation: a web UI that records mouse movements, scripts that train a model on them, and a Puppeteer plugin that moves the cursor along generated paths.
 - [Scribe](https://awesomecua.com/resources/url-63ef8c7e455951a20281/) — Date not recorded
   Workflow recording and documentation product adjacent to agent data collection.
 - [SeleniumBase](https://awesomecua.com/resources/github-seleniumbase-seleniumbase/) — Date not recorded

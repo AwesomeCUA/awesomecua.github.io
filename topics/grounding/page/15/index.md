@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/grounding/page/15/
 
 Full list: https://awesomecua.com/topics/grounding/index.md
 
+- [Local Grounding MCP](https://awesomecua.com/resources/github-archie-ib-dev-local-grounding-mcp/)
+- [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/)
+- [Lusipad Browser Agent](https://awesomecua.com/resources/github-lusipad-browser-agent/)
+- [macOS Control CLI](https://awesomecua.com/resources/github-ferdinandl007-macos-control-cli/)
+- [macOS Visual Agent](https://awesomecua.com/resources/github-peakmojo-macos-visual-agent/)
 - [macos-computer-use](https://awesomecua.com/resources/github-iamme19862002-macos-computer-use/)
 - [macOS-Use](https://awesomecua.com/resources/github-jeomon-macos-use/)
 - [Magnitude](https://awesomecua.com/resources/github-magnitudedev-browser-agent/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/grounding/index.md
 - [OS-Symphony](https://awesomecua.com/resources/github-os-copilot-os-symphony/)
 - [OSRS-CV](https://awesomecua.com/resources/github-kaustubhlall-osrs-cv/)
 - [OSWorld Qwen2.5-VL Enhanced](https://awesomecua.com/resources/github-issumer-ku-osworld-qwen2-5vl-enhanced/)
-- [OSWorld-CogAgent](https://awesomecua.com/resources/github-issumer-ku-osworld-cogagent/)
-- [Overlay Companion MCP](https://awesomecua.com/resources/github-ryansopensourcerice-overlay-companion-mcp/)
-- [PawWork (爪爪 / BrowserKitten)](https://awesomecua.com/resources/github-player-yn-browserkitten/)
-- [Peekaboo](https://awesomecua.com/resources/github-openclaw-peekaboo/)
-- [PeekabooWin](https://awesomecua.com/resources/github-felixkruger-peekaboowin/)

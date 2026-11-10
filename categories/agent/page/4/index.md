@@ -4,6 +4,12 @@ HTML page: https://awesomecua.com/categories/agent/page/4/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
+- [Jev macOS Loop](https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/)
+- [jev-for-chrome](https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/)
+- [jev-windows-agent](https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/)
+- [Job Hunter](https://awesomecua.com/resources/github-liooo0-job-hunter/)
+- [Job Hunter AI](https://awesomecua.com/resources/github-fred-brown-3-job-hunter-ai/)
+- [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
 - [Kirk Engine](https://awesomecua.com/resources/url-80c8abf734a29f7affc5/)
 - [Kota-Kawa Browser-Agent](https://awesomecua.com/resources/github-kota-kawa-browser-agent/)
 - [Kushatish AI Browser Copilot](https://awesomecua.com/resources/github-kushatish-ai-browser-copilot/)
@@ -98,9 +104,3 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [Pegoles Agent](https://awesomecua.com/resources/github-zezortdx-pegoles-agent/)
 - [PhysiClaw](https://awesomecua.com/resources/github-physiclaw-physiclaw/)
 - [Pi Jev Browser](https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/)
-- [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/resources/github-333-wg-pi-wm/)
-- [Piskie](https://awesomecua.com/resources/github-piskie-dev-piskie/)
-- [PocketCode](https://awesomecua.com/resources/github-m1ssbe4r-pocketcode/)
-- [Pocketwatch](https://awesomecua.com/resources/github-psamme-pocketwatch/)
-- [Pointer](https://awesomecua.com/resources/url-98122987ca3e7c764d0e/)
-- [PokeClaw](https://awesomecua.com/resources/github-agents-io-pokeclaw/)

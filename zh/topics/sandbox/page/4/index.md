@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/4/
 
 完整列表：https://awesomecua.com/zh/topics/sandbox/index.md
 
+- [Computer Use VM](https://awesomecua.com/zh/resources/github-zimengxiong-computer-use-vm/)
 - [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/zh/resources/github-shayanamir0-computer-use-with-slm/)
 - [computer-use-mcp-gateway](https://awesomecua.com/zh/resources/github-git-ksk-computer-use-mcp-gateway/)
 - [CopilotKit OpenBot](https://awesomecua.com/zh/resources/github-copilotkit-openbot/)
@@ -12,6 +13,7 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/4/
 - [cua-lite](https://awesomecua.com/zh/resources/github-justanotheruser82174-cua-lite/)
 - [CuaOS](https://awesomecua.com/zh/resources/github-cuaos-cuaos/)
 - [CUArena](https://awesomecua.com/zh/resources/github-ogutdgn-cuarena/)
+- [CUBE Standard](https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-standard/)
 - [cuforge](https://awesomecua.com/zh/resources/github-huzjie-cuforge/)
 - [cuse](https://awesomecua.com/zh/resources/github-cuse-dev-cuse/)
 - [Cyberdesk](https://awesomecua.com/zh/resources/github-cyberdesk-hq-cyberdesk/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/4/
 - [HAICOSYSTEM](https://awesomecua.com/zh/resources/github-xuhuizhou-haicosystem/)
 - [Halo Bot](https://awesomecua.com/zh/resources/github-galactic717-halo-bot/)
 - [Harborage](https://awesomecua.com/zh/resources/github-vadym-iefremov-harborage/)
-- [headless-use](https://awesomecua.com/zh/resources/github-flyingsquirrel0419-headless-use/)
-- [HeroDesktop](https://awesomecua.com/zh/resources/github-deathlegionteamlk-herodesktop/)

@@ -4,6 +4,14 @@ HTML 页面：https://awesomecua.com/zh/topics/reinforcement-learning/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/reinforcement-learning/index.md
 
+- [DistRL](https://awesomecua.com/zh/resources/github-distrl-lab-distrl-open/)
+- [ENVISIONS](https://awesomecua.com/zh/resources/github-xufangzhi-envisions/)
+- [ENVS (Environment-Native Verified Search)](https://awesomecua.com/zh/resources/github-artysicistz-envs/)
+- [ETO (Exploration-Based Trajectory Optimization)](https://awesomecua.com/zh/resources/github-yifan-song793-eto/)
+- [Grounded Language Agent for Product Search](https://awesomecua.com/zh/resources/github-multifacetednlp-web-agents-unsupervised/)
+- [GroundGUI training and evaluation code](https://awesomecua.com/zh/resources/github-prentisai-groundgui/)
+- [GTA1: GUI Test-time Scaling Agent](https://awesomecua.com/zh/resources/github-yan98-gta1/)
+- [GUI Exploration Lab](https://awesomecua.com/zh/resources/github-summoneryhl-gelab-engine/)
 - [GUI-RC / GUI-RCPO](https://awesomecua.com/zh/resources/github-zju-real-gui-rcpo/)
 - [GUI-Rise](https://awesomecua.com/zh/resources/github-leon022-gui-rise-code/)
 - [GUI-SD](https://awesomecua.com/zh/resources/github-zhangyan-ucas-gui-sd-code/)
@@ -22,6 +30,7 @@ HTML 页面：https://awesomecua.com/zh/topics/reinforcement-learning/page/8/
 - [OpAgent](https://awesomecua.com/zh/resources/github-codefuse-ai-oagent/)
 - [OpAgent](https://awesomecua.com/zh/resources/github-codefuse-ai-opagent/)
 - [OpenWebVoyager](https://awesomecua.com/zh/resources/github-minorjerry-openwebvoyager/)
+- [Orchard-Agentic](https://awesomecua.com/zh/resources/github-microsoft-orchard-agentic/)
 - [OSRS PvP Reinforcement Learning](https://awesomecua.com/zh/resources/github-naton1-osrs-pvp-reinforcement-learning/)
 - [Pix2Act](https://awesomecua.com/zh/resources/github-google-deepmind-pix2act/)
 - [Proposer-Agent-Evaluator (PAE)](https://awesomecua.com/zh/resources/github-amazon-science-pae/)

@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/7/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [GPA-GUI-Detector](https://awesomecua.com/resources/url-87f28e117d95985d5177/)
 - [GroundAnything](https://awesomecua.com/resources/github-groundingpi-groundanything/)
 - [GroundAnything-VLM](https://awesomecua.com/resources/url-a80a37148148aad731a9/)
 - [GroundGUI-8B](https://awesomecua.com/resources/url-de31b07ff24ab15d9bdf/)
@@ -13,6 +14,7 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [GUI-AIMA](https://awesomecua.com/resources/github-sjz5202-gui-aima/)
 - [GUI-Spotlight](https://awesomecua.com/resources/github-bin123apple-gui-spotlight/)
 - [GUI-Vid](https://awesomecua.com/resources/url-579b1c0ceac633eeb328/)
+- [GUI_Reflection_8b_pretrain](https://awesomecua.com/resources/url-534151cf8b1e1df5bf96/)
 - [gWorld-8B](https://awesomecua.com/resources/url-78802d1a2fce25f20f85/)
 - [Hcompany/Holo4-35B-A3B-GGUF](https://awesomecua.com/resources/url-d96a6dcdd2aa622c523b/)
 - [Holo1.5 3B](https://awesomecua.com/resources/url-dc20a06c296207ac11a6/)
@@ -49,6 +51,7 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [KV-Ground](https://awesomecua.com/resources/github-vocaela-kv-ground/)
 - [KV-Ground-4B-BaseGuiOwl1.5-0228](https://awesomecua.com/resources/url-709d8b51bbc8d257318f/)
 - [KV-Ground-4B-BaseQw3vl](https://awesomecua.com/resources/url-969eb56a53187cda74c7/)
+- [LocateAnything-3B](https://awesomecua.com/resources/url-59b8a8cfdd3db7b21058/)
 - [Magma-8B](https://awesomecua.com/resources/url-d3247ff0ff9a1f6bc247/)
 - [Mano-CUA-2.0-4B](https://awesomecua.com/resources/url-1b08ff264bbf2f8a10a3/)
 - [microsoft/OmniParser](https://awesomecua.com/resources/url-b5fb13515d7779218f5d/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [moonshotai/Kimi-VL-A3B-Thinking](https://awesomecua.com/resources/url-c1851e7db3b0e53d2218/)
 - [MP-GUI](https://awesomecua.com/resources/github-bigtaige-mp-gui/)
 - [Muse-Glimmer-30B-GUI-Grounding-Fast](https://awesomecua.com/resources/url-7645072fe9580fa9993a/)
-- [Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16](https://awesomecua.com/resources/url-ddb5d413e19be8a4416e/)
-- [OmniJev](https://awesomecua.com/resources/github-tinnel123666888-omnijev/)
-- [OmniParser v2 model bundle](https://awesomecua.com/resources/url-e21ca7c859544dbf5fb6/)

@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/imitation-learning/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/imitation-learning/index.md
 
+- [lumos_unified_plan_iterative-13B](https://awesomecua.com/zh/resources/url-eb6a5940793aa81153d0/)
+- [nnetnav-wa-qwen-7B](https://awesomecua.com/zh/resources/url-511ba336435d406f3761/)
 - [OpenMobile-8B](https://awesomecua.com/zh/resources/url-6616228d4f267363458e/)
 - [OpenWebVoyager-opt-1](https://awesomecua.com/zh/resources/url-bd293c9a5f9bf16b8199/)
 - [OpenWebVoyager-opt-2](https://awesomecua.com/zh/resources/url-f4f6f5bfe051e6ba3d94/)
@@ -19,6 +21,7 @@ HTML 页面：https://awesomecua.com/zh/topics/imitation-learning/page/3/
 - [OS-Genesis 8B AW](https://awesomecua.com/zh/resources/url-2eaf614de14193997f33/)
 - [OS-Genesis 8B WA](https://awesomecua.com/zh/resources/url-f2c34526651f5f57cf98/)
 - [PC-Agent-E checkpoint](https://awesomecua.com/zh/resources/url-04aa7569d183379d615c/)
+- [PlayJev-0.8B](https://awesomecua.com/zh/resources/url-b6a26f1b74d70fc783da/)
 - [Qwen3-8B-FormFactory-SFT-LoRA](https://awesomecua.com/zh/resources/url-994d4cf27b0931fb53e3/)
 - [Qwen3.5-4B-Browser-Agent-SFT-FP8](https://awesomecua.com/zh/resources/url-6eda678ca03ea2b10d2d/)
 - [SCOPE-SFT-9B](https://awesomecua.com/zh/resources/url-389202404e2653f59838/)
@@ -29,6 +32,8 @@ HTML 页面：https://awesomecua.com/zh/topics/imitation-learning/page/3/
 - [UI-Genie Agent 3B](https://awesomecua.com/zh/resources/url-43d811a5957d8effb7ed/)
 - [UI-Genie Agent 7B](https://awesomecua.com/zh/resources/url-6d959b58bd4a2e98e417/)
 - [UI-Voyager](https://awesomecua.com/zh/resources/url-e2ddf502803f46085aca/)
+- [WebGenAgent-LM-7B-SFT](https://awesomecua.com/zh/resources/url-1ff9a17a7d0802a71b1a/)
+- [WebGenAgent-LM-8B-SFT](https://awesomecua.com/zh/resources/url-b3dd615ebfe977392f90/)
 - [Ace](https://awesomecua.com/zh/resources/url-7a35f44787f99834f13e/)
 - [Agent Lumos](https://awesomecua.com/zh/resources/github-allenai-lumos/)
 - [Android-Skill-Agent](https://awesomecua.com/zh/resources/github-xiru0834-eng-android-skill-agent/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/imitation-learning/page/3/
 - [openadapt-ml](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-ml/)
 - [OpenMobile code](https://awesomecua.com/zh/resources/github-njucckevin-openmobile-code/)
 - [OpenWebVoyager](https://awesomecua.com/zh/resources/github-minorjerry-openwebvoyager/)
-- [Operant](https://awesomecua.com/zh/resources/github-alpharomerojl-operant/)
-- [OysterWorkflow](https://awesomecua.com/zh/resources/github-shuxinyang111-oysterworkflow/)
-- [PC-Agent-E training and deployment](https://awesomecua.com/zh/resources/github-gair-nlp-pc-agent-e/)
-- [Pix2Act](https://awesomecua.com/zh/resources/github-google-deepmind-pix2act/)
-- [PlayJev](https://awesomecua.com/zh/resources/github-omnijev-playjev/)

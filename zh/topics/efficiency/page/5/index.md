@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [dart-gui-7b](https://awesomecua.com/zh/resources/url-689fea75118e3113476b/)
 - [DeskMind Eyes](https://awesomecua.com/zh/resources/github-deskmind-ai-eyes/)
 - [DiMo-GUI](https://awesomecua.com/zh/resources/github-vivo-dimo-gui/)
 - [GPT-6 Astra](https://awesomecua.com/zh/resources/url-039a4975e102cb538c36/)
@@ -21,6 +22,7 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/5/
 - [kev-browser-use](https://awesomecua.com/zh/resources/github-arbazsiddiqui-kev-browser-use/)
 - [Laya-Android](https://awesomecua.com/zh/resources/github-byun11-laya-android/)
 - [laya-browser](https://awesomecua.com/zh/resources/url-c5b0e2eab771f62792fb/)
+- [LocateAnything-3B](https://awesomecua.com/zh/resources/url-59b8a8cfdd3db7b21058/)
 - [lora_qformer_test_V4-700_merged](https://awesomecua.com/zh/resources/url-8a5201470d27334977fa/)
 - [lora_qformer_uitars_test_V1-400_merged](https://awesomecua.com/zh/resources/url-b144605ae24674ffb917/)
 - [Mano-P](https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-p/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/5/
 - [anybridge](https://awesomecua.com/zh/resources/github-justvugg-anybridge/)
 - [AnyTool](https://awesomecua.com/zh/resources/github-hkuds-anytool/)
 - [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/zh/resources/github-19pine-ai-aoi/)
-- [ApexCommander-RS](https://awesomecua.com/zh/resources/github-buckster123-apexcommander-rs/)
-- [ApiTap](https://awesomecua.com/zh/resources/github-n1byn1kt-apitap/)

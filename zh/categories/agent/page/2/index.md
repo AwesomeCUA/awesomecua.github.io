@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/2/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [OpenAI Computer Use Sample Apps](https://awesomecua.com/zh/resources/github-openai-openai-cua-sample-app/)：OpenAI 参考智能体通过 Playwright JavaScript 操作浏览器，或通过 PyAutoGUI Python 操作桌面，由模型经 Responses API 编写代码，并附有模拟看板、绘图和预订实验环境。
+- [OpenBridge](https://awesomecua.com/zh/resources/github-afk-surf-openbridge/)：一款本地 macOS 智能体应用，可在获得批准后查看和操作桌面应用，并提供沙箱供用户审查拟议的文件更改。
+- [OpenMinis](https://awesomecua.com/zh/resources/github-openminis-openminis/)：OpenMinis 是面向 iOS 和 Android 的开源移动智能体，可与网站和设备工具交互，并在设备上的 Linux 沙箱中运行脚本。
+- [OpenMuse](https://awesomecua.com/zh/resources/github-copilotkit-openmuse/)：OpenMuse 是一款个人智能体应用，可在持久化的 Chromium 中浏览公开网页，并让用户查看或接管会话。它还支持终端、文件和 PDF 操作。
+- [Operit AI](https://awesomecua.com/zh/resources/github-aaswordman-operit/)：这是一个 Android 智能体平台，利用视觉屏幕理解、设备控制和浏览器操作来操控应用界面与网页。
+- [Operit2](https://awesomecua.com/zh/resources/github-aaswordman-operit2/)：一个处于预览阶段的跨设备个人智能体，可在手机、桌面和云端节点之间延续对话与任务，并提供文件、终端和浏览器工具，能在网页上点击、输入和获取页面快照。
+- [Orca](https://awesomecua.com/zh/resources/github-echovic-orca-agent/)：Rust 编写的 DeepSeek 原生终端编程智能体，内置 macOS 计算机使用驱动；经逐应用批准后，可查看其他应用的无障碍树和截图，并点击、输入、发送按键和滚动。
 - [OS-Copilot](https://awesomecua.com/zh/resources/github-os-copilot-os-copilot/)：面向操作系统中的网页、终端、文件和第三方应用的通用智能体开源库，包含可接入自定义工具并自主学习 Excel 任务的 FRIDAY 助手。
 - [Page Agent](https://awesomecua.com/zh/resources/github-alibaba-page-agent/)：Page Agent 是 Alibaba 开发的页内 JavaScript GUI 智能体，通过 DOM 脱水处理，根据自然语言控制网页界面。
 - [Phone Agent](https://awesomecua.com/zh/resources/github-boboabw-phone-agent/)：一款 iPhone 智能体，通过 ESP32-S3 蓝牙鼠标和键盘配件观察共享屏幕并跨应用操作。发布内容包括应用程序和固件源码。
@@ -97,10 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/2/ · [English](ht
 - [BrowserGPT](https://awesomecua.com/zh/resources/github-mayt-browsergpt/)：BrowserGPT 是一个浏览器自动化脚本，使用 GPT-4 根据自然语言任务生成 Playwright 代码，以导航网页并与之交互。
 - [BrowserPilot](https://awesomecua.com/zh/resources/github-ai-naymul-browserpilot/)：BrowserPilot 是开源的隐蔽式浏览器智能体，可执行自然语言网页导航和结构化抓取工作流。
 - [Browy](https://awesomecua.com/zh/resources/github-browyhq-browy/)：Browy 是浏览器自动化智能体，利用现有 AI 编码 CLI 订阅操控实时 Chrome 标签页。
-- [Buddy](https://awesomecua.com/zh/resources/github-ghorbelhamdi-buddy-android/)：Android 应用通过无障碍服务提供本地 MCP 手机工具服务器，使设备端 proot Linux 中运行的 Claude Code、Codex 或 OpenCode 能读取屏幕、点击、输入和打开应用。
-- [BugCraft](https://awesomecua.com/zh/resources/url-ec17d3267cd49548d2d4/)：这款视觉智能体将 Minecraft 崩溃报告转成复现步骤，并通过宏接口执行。项目页还介绍了 BugCraft-Bench。
-- [Butler](https://awesomecua.com/zh/resources/github-coasty-ai-butler/)：Butler 是语音优先的 macOS 桌面助手，结合 MCP 工具执行与原生 Swift 桌面控制回退机制。
-- [BX Browser](https://awesomecua.com/zh/resources/github-painbaba-bx-browser/)：以 DOM 为主、具备视觉能力的自主浏览器智能体，可规划并执行多步骤网页任务。
-- [Bytebot](https://awesomecua.com/zh/resources/github-bytebot-ai-bytebot/)：开源桌面智能体，在自有 Ubuntu Linux 虚拟桌面中工作，提供网页任务界面、任务及直接控制的 REST API、接管模式和密码管理器登录功能。
-- [CAAP Agent](https://awesomecua.com/zh/resources/github-caap-agent-caap-agent/)：用于 MiniWoB++ 和 WebShop 的截图驱动智能体实现，通过视觉观察器和上下文感知提示发出鼠标与键盘操作。
-- [Caesar Agent](https://awesomecua.com/zh/resources/github-jasonzliang-caesar-agent/)：Caesar 是开源的深度研究网页智能体，可规划多步骤查询、抓取网页并综合生成带引用的报告。

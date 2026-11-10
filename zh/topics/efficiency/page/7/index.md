@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [DesktopAgent (S1-Fast)](https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/)
+- [DesktopCtl](https://awesomecua.com/zh/resources/github-yaroshevych-desktopctl/)
+- [Deterministic Computer-Use Automation](https://awesomecua.com/zh/resources/github-joncody-computer-use-automation/)
+- [DietSurf](https://awesomecua.com/zh/resources/github-100x-bot-dietsurf/)
+- [Digi-Q](https://awesomecua.com/zh/resources/github-digirl-agent-digiq/)
 - [DistRL](https://awesomecua.com/zh/resources/github-distrl-lab-distrl-open/)
 - [DOMShell](https://awesomecua.com/zh/resources/github-apireno-domshell/)
 - [DrishtiGuard](https://awesomecua.com/zh/resources/github-atharvasamant4-drishtiguard/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/7/
 - [Jev for Chrome](https://awesomecua.com/zh/resources/github-chy4pro-jev-for-chrome/)
 - [Jev GUI Delegate](https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/)
 - [Jev macOS Loop](https://awesomecua.com/zh/resources/github-jcpsimmons-jev-macos-loop/)
-- [Jev Ultrafast](https://awesomecua.com/zh/resources/github-browser-use-jev-ultrafast/)
-- [jev-browser](https://awesomecua.com/zh/resources/github-doruktarhan-jev-browser/)
-- [jev-browser](https://awesomecua.com/zh/resources/github-mahmoudadelbghany-jev-browser/)
-- [jev-for-chrome](https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/)
-- [jev-use](https://awesomecua.com/zh/resources/github-savka777-jev-use/)

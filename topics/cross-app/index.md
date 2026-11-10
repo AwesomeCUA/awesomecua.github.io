@@ -169,6 +169,10 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   MiniMax M3 is a multimodal model whose release page describes desktop operation from visual input and cross-application tasks through MiniMax Code.
 - [Muse Spark 1.1](https://awesomecua.com/resources/url-f8a956094e526a92caf3/) — Date not recorded
   Meta Superintelligence Labs multimodal reasoning model for agentic work, trained to choose between writing scripts and clicking in computer-use workflows that span several applications.
+- [WildAWM-35B-A3B](https://awesomecua.com/resources/url-201acf47dde3df755bfe/) — Date not recorded
+  WildAWM-35B-A3B is a Qwen3.6-35B-A3B agent checkpoint post-trained on WildAWM cross-interface computer tasks that mix web, MCP and CLI actions, served text-only with SGLang.
+- [WildAWM-4B](https://awesomecua.com/resources/url-3f0e524544c55025c9d9/) — Date not recorded
+  WildAWM-4B is a Qwen3.5-4B agent checkpoint post-trained on WildAWM cross-interface computer tasks that mix web, MCP and CLI actions, served text-only with SGLang.
 
 ## Engineering & industry
 

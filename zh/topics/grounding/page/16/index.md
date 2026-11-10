@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/16/
 
 完整列表：https://awesomecua.com/zh/topics/grounding/index.md
 
+- [OSWorld-CogAgent](https://awesomecua.com/zh/resources/github-issumer-ku-osworld-cogagent/)
+- [Overlay Companion MCP](https://awesomecua.com/zh/resources/github-ryansopensourcerice-overlay-companion-mcp/)
+- [PawWork (爪爪 / BrowserKitten)](https://awesomecua.com/zh/resources/github-player-yn-browserkitten/)
+- [Peekaboo](https://awesomecua.com/zh/resources/github-openclaw-peekaboo/)
+- [PeekabooWin](https://awesomecua.com/zh/resources/github-felixkruger-peekaboowin/)
 - [PeekabooX](https://awesomecua.com/zh/resources/github-nordbyte-peekaboox/)
 - [perceive](https://awesomecua.com/zh/resources/github-gauthierpiarrette-perceive/)
 - [PhysiClaw](https://awesomecua.com/zh/resources/github-physiclaw-physiclaw/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/16/
 - [taproot](https://awesomecua.com/zh/resources/github-shivampkumar-taproot/)
 - [Taskhomie](https://awesomecua.com/zh/resources/github-suitedaces-computer-agent/)
 - [Taylor-Bayouth Browser Agent](https://awesomecua.com/zh/resources/github-taylor-bayouth-browser-agent/)
-- [Terminator](https://awesomecua.com/zh/resources/github-mediar-ai-terminator/)
-- [THEIA Computer Use](https://awesomecua.com/zh/resources/github-tree-ind-theia-ui-computer-use/)
-- [tinycomputer](https://awesomecua.com/zh/resources/github-tinyhumansai-tinycomputer/)
-- [TipTour](https://awesomecua.com/zh/resources/github-milind-soni-tiptour-macos/)
-- [ToL Hierarchical GUI region detection](https://awesomecua.com/zh/resources/github-llv22-tol-gui-region-detection/)

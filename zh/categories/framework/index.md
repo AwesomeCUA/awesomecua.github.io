@@ -2,7 +2,7 @@
 
 框架是用于构建、运行、评估或训练计算机使用智能体的库和 SDK，从浏览器自动化智能体库到强化学习训练栈。
 
-> AwesomeCUA 目录收录 665 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
+> AwesomeCUA 目录收录 675 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T06:29:47Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https://awesomecua.com/categories/framework/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -13,9 +13,9 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https
 | [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 60 |
 | [Cua](https://awesomecua.com/resources/github-trycua-cua/) | 桌面 | [MIT（代码）](https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md) | 46 |
 | [Epic EHR Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/epic-ehr-browser-automation/HEAD/LICENSE) | 13 |
+| [MaaFramework](https://awesomecua.com/resources/github-maaxyz-maaframework/) | 桌面 · 手机 · 跨平台 | — | 13 |
 | [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/) | 桌面 | — | 13 |
-| [Stagehand](https://awesomecua.com/resources/github-browserbase-stagehand/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE) | 10 |
-| [AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/LICENSE) | 9 |
+| [WebMCP](https://awesomecua.com/resources/github-webmachinelearning-webmcp/) | 网页 | — | 12 |
 
 ## 常见问题
 
@@ -25,15 +25,15 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https
 
 ### 这些框架覆盖哪些平台？
 
-在 665 条已审核框架中，网页 463 条、桌面 309 条、跨平台 154 条、手机 104 条；26 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 675 条已审核框架中，网页 472 条、桌面 312 条、跨平台 154 条、手机 105 条；26 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些框架有对应的论文？
 
-665 条中有 139 条链接到提出或说明它的 arXiv 论文，例如 [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)、[AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) 和 [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/)。
+675 条中有 141 条链接到提出或说明它的 arXiv 论文，例如 [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)、[AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) 和 [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/)。
 
 ### 框架使用哪些许可证？
 
-最常见的声明许可证是 MIT（304 条）、Apache-2.0（159 条）和 GPL-3.0（7 条）。665 条中有 178 条未记录声明的许可证。
+最常见的声明许可证是 MIT（309 条）、Apache-2.0（160 条）和 GPL-3.0（7 条）。675 条中有 182 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -135,6 +135,39 @@ The repository lists authentication, session, action and utility modules with ex
 
 ---
 
+## MaaFramework
+
+MaaFramework 是用于黑盒测试的图像识别自动化框架，提供低代码任务流水线，以及集成接口和 API 文档。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-maaxyz-maaframework/
+- 原始来源：https://github.com/MaaXYZ/MaaFramework
+- 类型：框架
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：跨平台、桌面、Windows、Linux、macOS、Android
+- 主题：自动化、界面理解、工作流
+- 证据核查日期：2026-11-09T19:57:10Z
+- ID：github:maaxyz/maaframework
+
+### 范围记录
+
+The repository lists C++ source, headers, samples, tests, and documentation. The README names Windows, Linux, macOS, and Android in its platform badge.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-maaxyz-maaframework/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MaaXYZ/MaaFramework/HEAD/README.md（获取于 2026-11-09T19:57:10Z；SHA-256：49b4064ba88dc41fa9c2bea4581d39b69684e9df4839ec1c5ff5436caac37dda）
+
+---
+
 ## SCALE-CUA (THUDM)
 
 计算机使用训练框架，包含 VeriGen 任务合成、自适应推演采样和视觉上下文分割。
@@ -168,36 +201,6 @@ A distinct project from OpenGVLab/ScaleCUA, which documents arXiv:2509.15221.
 
 ---
 
-## Stagehand
-
-结合代码和自然语言操作的浏览器自动化框架。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-browserbase-stagehand/
-- 原始来源：https://github.com/browserbase/stagehand
-- 类型：框架
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航
-- 证据核查日期：2026-10-16T06:36:03Z
-- ID：github:browserbase/stagehand
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-browserbase-stagehand/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/browserbase/stagehand/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：fb2039ee569e37cf1d652ca26c0a1951a318d4ac3240018b958985c0aec91007）
-- https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE（获取于 2026-10-16T06:42:05Z；SHA-256：fac7e7cd1cfc504054ee1fc53c38e0f3099d7357917e85a73792f6511fe0ea96）
-
----
-
 ## WebMCP
 
 一项客户端网页 API 提案，让页面向浏览器智能体提供结构化的 JavaScript 工具。智能体可调用页面功能，同时与用户共享可见界面和上下文。
@@ -228,6 +231,36 @@ The repository contains API documentation and explainers. The README describes t
 ### 一手证据
 
 - https://raw.githubusercontent.com/webmachinelearning/webmcp/HEAD/README.md（获取于 2026-11-09T19:57:58Z；SHA-256：8ac90b8bcaa8ae476de7f9f453e3178a9a658f7108d41057ed04f628edbe6714）
+
+---
+
+## Stagehand
+
+结合代码和自然语言操作的浏览器自动化框架。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-browserbase-stagehand/
+- 原始来源：https://github.com/browserbase/stagehand
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航
+- 证据核查日期：2026-10-16T06:36:03Z
+- ID：github:browserbase/stagehand
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-browserbase-stagehand/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/browserbase/stagehand/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：fb2039ee569e37cf1d652ca26c0a1951a318d4ac3240018b958985c0aec91007）
+- https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE（获取于 2026-10-16T06:42:05Z；SHA-256：fac7e7cd1cfc504054ee1fc53c38e0f3099d7357917e85a73792f6511fe0ea96）
 
 ---
 
@@ -359,21 +392,25 @@ The README requires Python 3.10 or newer and describes API key login. It declare
 
 ---
 
-## Skyvern
+## puppeteer-extra
 
-使用视觉 LLM 和智能体群实现浏览器工作流程自动化，提供兼容 Playwright 的 SDK 和无代码工作流程构建器。
+面向 Puppeteer 的模块化插件框架，以 monorepo 形式维护插件和相关软件包。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-skyvern-ai-skyvern/
-- 原始来源：https://github.com/Skyvern-AI/skyvern
+- 目录页面：https://awesomecua.com/zh/resources/github-berstend-puppeteer-extra/
+- 原始来源：https://github.com/berstend/puppeteer-extra
 - 类型：框架
 - 审核状态：已审核
-- 范围：核心
+- 范围：相关研究
 - 运行环境：网页
-- 主题：工作流
-- 证据核查日期：2026-10-16T06:36:03Z
-- ID：github:skyvern-ai/skyvern
+- 主题：自动化、工具集成
+- 证据核查日期：2026-11-06T16:36:31Z
+- ID：github:berstend/puppeteer-extra
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-skyvern-ai-skyvern/record.json
+### 范围记录
+
+The monorepo also includes playwright-extra for Playwright support. It uses Lerna and Yarn workspaces.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-berstend-puppeteer-extra/record.json
 
 ### 许可证信息
 
@@ -384,7 +421,7 @@ The README requires Python 3.10 or newer and describes API key login. It declare
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/Skyvern-AI/skyvern/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：68fda945255825907aeada13d19de19209708c14504ac975e63a235f0cd9343b）
+- https://raw.githubusercontent.com/berstend/puppeteer-extra/39248f1f5deeb21b1e7eb6ae07b8ef73f1231ab9/README.md（获取于 2026-11-06T16:36:31Z；SHA-256：0f0b47a7506bf234286008258421ab6be6b0532ef6fc972c88bae33bd257beb7）
 
 ---
 
@@ -415,6 +452,35 @@ The README requires Python 3.10 or newer and describes API key login. It declare
 
 - https://raw.githubusercontent.com/DigiRL-agent/digirl/HEAD/README.md（获取于 2026-10-16T06:36:04Z；SHA-256：464e26d88420cd2694abe4c014bfd088417622c3a980aadf19b2bf01988d5b65）
 - https://raw.githubusercontent.com/DigiRL-agent/digirl/HEAD/LICENSE（获取于 2026-10-16T06:42:05Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## Skyvern
+
+使用视觉 LLM 和智能体群实现浏览器工作流程自动化，提供兼容 Playwright 的 SDK 和无代码工作流程构建器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-skyvern-ai-skyvern/
+- 原始来源：https://github.com/Skyvern-AI/skyvern
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：工作流
+- 证据核查日期：2026-10-16T06:36:03Z
+- ID：github:skyvern-ai/skyvern
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-skyvern-ai-skyvern/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Skyvern-AI/skyvern/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：68fda945255825907aeada13d19de19209708c14504ac975e63a235f0cd9343b）
 
 ---
 
@@ -474,39 +540,6 @@ LangGraph 是有状态的图编排框架，用于构建长期运行、循环执�
 ### 一手证据
 
 - https://raw.githubusercontent.com/nottelabs/notte/HEAD/README.md（获取于 2026-10-16T06:36:04Z；SHA-256：5ecb73264cce10b75ec04dea59aaff77ffde552259fba6932507779a35681c5b）
-
----
-
-## puppeteer-extra
-
-面向 Puppeteer 的模块化插件框架，以 monorepo 形式维护插件和相关软件包。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-berstend-puppeteer-extra/
-- 原始来源：https://github.com/berstend/puppeteer-extra
-- 类型：框架
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化、工具集成
-- 证据核查日期：2026-11-06T16:36:31Z
-- ID：github:berstend/puppeteer-extra
-
-### 范围记录
-
-The monorepo also includes playwright-extra for Playwright support. It uses Lerna and Yarn workspaces.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-berstend-puppeteer-extra/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/berstend/puppeteer-extra/39248f1f5deeb21b1e7eb6ae07b8ef73f1231ab9/README.md（获取于 2026-11-06T16:36:31Z；SHA-256：0f0b47a7506bf234286008258421ab6be6b0532ef6fc972c88bae33bd257beb7）
 
 ---
 
@@ -804,6 +837,108 @@ The README marks evaluation code, checkpoints, environments, and data as release
 
 ---
 
+## pyppeteer
+
+Pyppeteer 是用于自动操作 Chrome 和 Chromium 页面的 Python 库，提供导航、截图、元素查询及页面 JavaScript 接口。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-pyppeteer-pyppeteer/
+- 原始来源：https://github.com/pyppeteer/pyppeteer
+- 类型：框架
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-09T21:10:15Z
+- ID：github:pyppeteer/pyppeteer
+
+### 范围记录
+
+The README requires Python 3.8 or later and declares an MIT license. It says the repository is unmaintained.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-pyppeteer-pyppeteer/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/pyppeteer/pyppeteer/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/pyppeteer/pyppeteer/HEAD/README.md（获取于 2026-11-09T21:10:15Z；SHA-256：7b981cf0b05e6660f1a301f07458bdae8ac20dbc8a3e6cc2a7584de15224bd1c）
+- https://raw.githubusercontent.com/pyppeteer/pyppeteer/HEAD/LICENSE（获取于 2026-11-09T21:12:14Z；SHA-256：b7ff9c007e9f3f58bd8d3c4387c7d7df9ed0f1211941422cdbe272ef54d84f95）
+
+---
+
+## Scrapeless Node SDK
+
+一款用于创建浏览器会话的 Node.js SDK，可通过 Playwright 或 Puppeteer 控制会话。它还提供浏览器配置文件、爬取、数据抓取和代理服务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-node/
+- 原始来源：https://github.com/scrapeless-ai/sdk-node
+- 类型：框架
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航
+- 证据核查日期：2026-11-09T21:10:09Z
+- ID：github:scrapeless-ai/sdk-node
+
+### 范围记录
+
+The README provides browser connection examples and says an API key is required. It declares an MIT license and includes TypeScript definitions.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-scrapeless-ai-sdk-node/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/scrapeless-ai/sdk-node/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/scrapeless-ai/sdk-node/HEAD/README.md（获取于 2026-11-09T21:10:09Z；SHA-256：b4e41e913b7c2dc405473df08a6e1a85385396d74af55ae53a1ec426021a8292）
+- https://raw.githubusercontent.com/scrapeless-ai/sdk-node/HEAD/LICENSE（获取于 2026-11-09T21:12:14Z；SHA-256：1fd8467561cebb8092262020e63e5f8dbe565ece3d2aa7e600145883068bf22c）
+
+---
+
+## Scrapeless Python SDK
+
+Scrapeless Python SDK 为 Playwright 和 Pyppeteer 创建托管浏览器会话，支持持久化配置，并提供网页交互与内容提取服务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-python/
+- 原始来源：https://github.com/scrapeless-ai/sdk-python
+- 类型：框架
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：网页导航、自动化、工作流
+- 证据核查日期：2026-11-09T21:10:46Z
+- ID：github:scrapeless-ai/sdk-python
+
+### 范围记录
+
+The repository lists SDK code and examples. The README requires a Scrapeless API key and states that the project uses the MIT License.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-scrapeless-ai-sdk-python/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/scrapeless-ai/sdk-python/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/scrapeless-ai/sdk-python/HEAD/README.md（获取于 2026-11-09T21:10:46Z；SHA-256：3214c0a822e4c1aca8a3740e324b3339066112945f317bf315f8edbed8bd2d8d）
+- https://raw.githubusercontent.com/scrapeless-ai/sdk-python/HEAD/LICENSE（获取于 2026-11-09T21:12:23Z；SHA-256：1fd8467561cebb8092262020e63e5f8dbe565ece3d2aa7e600145883068bf22c）
+
+---
+
 ## ScreenParse Webshot toolkit
 
 ScreenParse 官方代码：Webshot 工具集使用 Playwright 渲染网站，将可见 DOM 元素记录为带边界框的嵌套标注，再用 Qwen3-VL 重新标注、导出 YOLO 数据并评估解析器。
@@ -883,6 +1018,40 @@ The tree contains ms-swift-based training and AndroidControl evaluation scripts.
 
 ---
 
+## @mcp-b
+
+一组 TypeScript 软件包，将通过 WebMCP document.modelContext API 注册工具的网页接入 MCP，使扩展、浏览器或桌面客户端中的智能体能够调用这些工具。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-webmcp-org-npm-packages/
+- 原始来源：https://github.com/WebMCP-org/npm-packages
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：工具集成、网页导航
+- 证据核查日期：2026-11-10T06:29:32Z
+- ID：github:webmcp-org/npm-packages
+
+### 范围记录
+
+Packages include @mcp-b/global, @mcp-b/transports, @mcp-b/webmcp-local-relay, @mcp-b/react-webmcp, usewebmcp and @mcp-b/smart-dom-reader. Development needs Node.js 22.18 or later and pnpm 10. License: MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-webmcp-org-npm-packages/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/WebMCP-org/npm-packages/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/WebMCP-org/npm-packages/c9d70eccd519c82a1afd22eaaab19f6a37007ad5/README.md（获取于 2026-11-10T06:29:32Z；SHA-256：be6f7f5b06c22f8bca041c97ca99db096e22ddfb8114c67196738e80c80c5510）
+- https://raw.githubusercontent.com/WebMCP-org/npm-packages/HEAD/LICENSE（获取于 2026-11-10T06:22:35Z；SHA-256：94c733ee952e0c922e566db77612b773e29c19f4fc926c29c1708e8ab92a823a）
+
+---
+
 ## Agent Workflow Memory implementation
 
 研究代码从演示或既往执行中提取可复用的浏览器任务流程，将其存为工作流记忆，供后续导航使用。
@@ -955,6 +1124,40 @@ The release includes the agentenv Python package and environment servers. The RE
 
 - https://raw.githubusercontent.com/WooooDyy/AgentGym/HEAD/README.md（获取于 2026-11-09T06:16:34Z；SHA-256：086fb4cebe0f7be202f44bf3d406dcc3202a1c08d2bc074e99413cf7368a24d0）
 - https://raw.githubusercontent.com/WooooDyy/AgentGym/HEAD/LICENSE（获取于 2026-11-09T06:13:38Z；SHA-256：8ad66ce3d27068244b92e10cf1373ad5b9d52ee9c0d0e1b3fae7697eb66b9168）
+
+---
+
+## AgentGym-RL
+
+一个面向多轮智能体的强化学习框架，包含 WebArena 网页导航任务，并提供在训练中逐步延长交互过程的方法。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-woooodyy-agentgym-rl/
+- 原始来源：https://github.com/WooooDyy/AgentGym-RL
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：强化学习、长任务、网页导航、评测
+- 证据核查日期：2026-11-09T21:09:34Z
+- ID：github:woooodyy/agentgym-rl
+
+### 范围记录
+
+The repository includes training code and examples. The README documents PPO, GRPO, RLOO and REINFORCE++ and recommends CUDA, PyTorch and Python for setup.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-woooodyy-agentgym-rl/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/WooooDyy/AgentGym-RL/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/WooooDyy/AgentGym-RL/HEAD/README.md（获取于 2026-11-09T21:09:34Z；SHA-256：c90878180c0bd560a5114227839d918ecb91d0b5d80fdf64f02ea4ea5cbc2b95）
+- https://raw.githubusercontent.com/WooooDyy/AgentGym-RL/HEAD/LICENSE（获取于 2026-11-09T21:11:47Z；SHA-256：ae88eae55dad9b25b964260a8c66656dd33158a522783022a89359f0cc9c2d8c）
 
 ---
 
@@ -1119,6 +1322,39 @@ The repository includes the core library, examples, documentation and GUI integr
 
 ---
 
+## Capybara
+
+Capybara 是网页应用验收测试框架，通过浏览器和无头驱动模拟用户交互。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-teamcapybara-capybara/
+- 原始来源：https://github.com/teamcapybara/capybara
+- 类型：框架
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航、评测
+- 证据核查日期：2026-11-06T16:36:33Z
+- ID：github:teamcapybara/capybara
+
+### 范围记录
+
+Capybara requires Ruby 3.0.0 or later. Its default RackTest driver does not support JavaScript or remote applications.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-teamcapybara-capybara/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/teamcapybara/capybara/265d2d175f4be3ddf785d7597bdfd19b231f844a/README.md（获取于 2026-11-06T16:36:33Z；SHA-256：f0a832e3a8c188d7bf534e44afd6a1072953d593cb00d25eed323f02266e7808）
+
+---
+
 ## ClawGUI
 
 用于 GUI 智能体训练、评估和部署的框架。
@@ -1270,6 +1506,39 @@ CopilotKit 的自托管企业 AI 助手和计算机使用工作区，具备容�
 
 ---
 
+## cube-harness
+
+cube-harness 在兼容的基准测试中运行智能体评估，包括 MiniWob，并提供交互轨迹、截图和实验查看器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-harness/
+- 原始来源：https://github.com/the-AI-Alliance/cube-harness
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面
+- 主题：评测、可观测性、录制
+- 证据核查日期：2026-11-09T21:10:35Z
+- ID：github:the-ai-alliance/cube-harness
+
+### 范围记录
+
+The repository includes runtime source code, recipes, tests, and documentation. Its README says the project is in alpha and uses Ray for parallel execution.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/the-AI-Alliance/cube-harness/HEAD/README.md（获取于 2026-11-09T21:10:35Z；SHA-256：ef985f2189e0ccbdb75204bf856b9ae27b4c0824ff5d119454c63384674865c1）
+
+---
+
 ## Eko
 
 Eko 是用于构建多步骤智能体的 JavaScript 框架，可在计算机和浏览器环境中运行，并提供工作流与工具控制功能。
@@ -1304,39 +1573,6 @@ The source describes browser and Node.js packages, parallel agent execution, pau
 
 ---
 
-## MaaFramework
-
-MaaFramework 是用于黑盒测试的图像识别自动化框架，提供低代码任务流水线，以及集成接口和 API 文档。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-maaxyz-maaframework/
-- 原始来源：https://github.com/MaaXYZ/MaaFramework
-- 类型：框架
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：跨平台、桌面、Windows、Linux、macOS、Android
-- 主题：自动化、界面理解、工作流
-- 证据核查日期：2026-11-09T19:57:10Z
-- ID：github:maaxyz/maaframework
-
-### 范围记录
-
-The repository lists C++ source, headers, samples, tests, and documentation. The README names Windows, Linux, macOS, and Android in its platform badge.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-maaxyz-maaframework/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/MaaXYZ/MaaFramework/HEAD/README.md（获取于 2026-11-09T19:57:10Z；SHA-256：49b4064ba88dc41fa9c2bea4581d39b69684e9df4839ec1c5ff5436caac37dda）
-
----
-
 ## midscene-pc
 
 midscene-pc 将 Midscene.js 扩展到本地和远程 PC 桌面，使 Windows、Linux 和 macOS 上的 GUI 自动化可由自然语言驱动。
@@ -1364,6 +1600,40 @@ midscene-pc 将 Midscene.js 扩展到本地和远程 PC 桌面，使 Windows、L
 
 - https://raw.githubusercontent.com/Mofangbao/midscene-pc/HEAD/README.md（获取于 2026-11-04T15:45:42Z；SHA-256：04f11e5d34949f51f960840ebaac9d40ce522d50e102af80e572ad889d8c9213）
 - https://raw.githubusercontent.com/Mofangbao/midscene-pc/HEAD/LICENSE（获取于 2026-11-04T15:57:30Z；SHA-256：1e08d60ec9e5067a54c51fcedbce65d82dc55aa363a2ff1336bcdd6340b1f24f）
+
+---
+
+## Nova Act SDK
+
+这是一款用于定义和部署浏览器智能体的 Python SDK，可执行界面工作流。Nova Act 支持代码引导的步骤、人工接管和工作流监控。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-aws-nova-act/
+- 原始来源：https://github.com/aws/nova-act
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、macOS、Linux、Windows、网页
+- 主题：网页导航、工作流、人机协作、工具集成
+- 证据核查日期：2026-11-09T21:08:45Z
+- ID：github:aws/nova-act
+
+### 范围记录
+
+The repository includes SDK source and documents API-key authentication. The README names macOS, Ubuntu, WSL2 and Windows prerequisites, plus AWS deployment and console monitoring.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-aws-nova-act/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/aws/nova-act/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/aws/nova-act/HEAD/README.md（获取于 2026-11-09T21:08:45Z；SHA-256：7ace8eda84d6b75ab303536c32eb51e262c16d96543bc307d8a7b73a1e54f9cb）
+- https://raw.githubusercontent.com/aws/nova-act/HEAD/LICENSE（获取于 2026-11-09T21:11:16Z；SHA-256：9c91b6e7d0a4507284e4b11b1d414898a3f97e8e3136663d3161860ce7e13479）
 
 ---
 
@@ -1504,71 +1774,37 @@ Source code and browser-environment modules are present. The repository LICENSE 
 
 ---
 
-## Scrapeless Node SDK
+## Scrapeless SDK Go
 
-一款用于创建浏览器会话的 Node.js SDK，可通过 Playwright 或 Puppeteer 控制会话。它还提供浏览器配置文件、爬取、数据抓取和代理服务。
+一个 Scrapeless 平台的 Go 客户端，可创建带反检测选项的远程浏览器会话，管理配置文件和扩展，并调用爬取与抓取 API。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-node/
-- 原始来源：https://github.com/scrapeless-ai/sdk-node
+- 目录页面：https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-go/
+- 原始来源：https://github.com/scrapeless-ai/sdk-go
 - 类型：框架
 - 审核状态：已审核
 - 范围：相关研究
 - 运行环境：网页
-- 主题：自动化、网页导航
-- 证据核查日期：2026-11-09T21:10:09Z
-- ID：github:scrapeless-ai/sdk-node
+- 主题：自动化
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:scrapeless-ai/sdk-go
 
 ### 范围记录
 
-The README provides browser connection examples and says an API key is required. It declares an MIT license and includes TypeScript definitions.
+Requires a SCRAPELESS_API_KEY for the hosted service; examples cover browser sessions, profiles, captcha, crawl and proxies. The README declares the MIT License.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-scrapeless-ai-sdk-node/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-scrapeless-ai-sdk-go/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/scrapeless-ai/sdk-node/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/scrapeless-ai/sdk-go/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/scrapeless-ai/sdk-node/HEAD/README.md（获取于 2026-11-09T21:10:09Z；SHA-256：b4e41e913b7c2dc405473df08a6e1a85385396d74af55ae53a1ec426021a8292）
-- https://raw.githubusercontent.com/scrapeless-ai/sdk-node/HEAD/LICENSE（获取于 2026-11-09T21:12:14Z；SHA-256：1fd8467561cebb8092262020e63e5f8dbe565ece3d2aa7e600145883068bf22c）
-
----
-
-## Scrapeless Python SDK
-
-Scrapeless Python SDK 为 Playwright 和 Pyppeteer 创建托管浏览器会话，支持持久化配置，并提供网页交互与内容提取服务。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-scrapeless-ai-sdk-python/
-- 原始来源：https://github.com/scrapeless-ai/sdk-python
-- 类型：框架
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：网页导航、自动化、工作流
-- 证据核查日期：2026-11-09T21:10:46Z
-- ID：github:scrapeless-ai/sdk-python
-
-### 范围记录
-
-The repository lists SDK code and examples. The README requires a Scrapeless API key and states that the project uses the MIT License.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-scrapeless-ai-sdk-python/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/scrapeless-ai/sdk-python/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/scrapeless-ai/sdk-python/HEAD/README.md（获取于 2026-11-09T21:10:46Z；SHA-256：3214c0a822e4c1aca8a3740e324b3339066112945f317bf315f8edbed8bd2d8d）
-- https://raw.githubusercontent.com/scrapeless-ai/sdk-python/HEAD/LICENSE（获取于 2026-11-09T21:12:23Z；SHA-256：1fd8467561cebb8092262020e63e5f8dbe565ece3d2aa7e600145883068bf22c）
+- https://raw.githubusercontent.com/scrapeless-ai/sdk-go/4e20d5ef0b3991a8fc6ed51b21ec274e8452c383/README.md（获取于 2026-11-10T06:29:30Z；SHA-256：80941423ba242f2fd89bd1c5d2255215eafa75b74c31e25afbbe4dab93bff833）
+- https://raw.githubusercontent.com/scrapeless-ai/sdk-go/HEAD/LICENSE（获取于 2026-11-10T06:22:34Z；SHA-256：1fd8467561cebb8092262020e63e5f8dbe565ece3d2aa7e600145883068bf22c）
 
 ---
 
@@ -1599,6 +1835,39 @@ SWE-agent 提出 Agent-Computer Interfaces（ACI），使语言模型能够自�
 
 - https://raw.githubusercontent.com/SWE-agent/SWE-agent/HEAD/README.md（获取于 2026-11-04T13:12:38Z；SHA-256：dcd880557720efbab0f5c0e68f2bc742309efecfce83244c9e670ec1f1adf76f）
 - https://raw.githubusercontent.com/SWE-agent/SWE-agent/HEAD/LICENSE（获取于 2026-11-04T13:42:03Z；SHA-256：7610ed3916f6674e34b78417894abd57ff538b3cfdda3085e3643d82acbaf31f）
+
+---
+
+## Tencent AI LAB - Self-Improving Agent
+
+这个研究代码合集包含 WebEvolver 和 WebCoT，分别围绕世界模型及重构推理轨迹改进网页智能体。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-tencent-selfevolvingagent/
+- 原始来源：https://github.com/Tencent/SelfEvolvingAgent
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自我反思、世界模型
+- 证据核查日期：2026-11-09T06:16:38Z
+- ID：github:tencent/selfevolvingagent
+
+### 范围记录
+
+The repository lists separate WebEvolver and WebCoT directories and also includes VScan, a visual-token reduction project.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-tencent-selfevolvingagent/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Tencent/SelfEvolvingAgent/HEAD/README.md（获取于 2026-11-09T06:16:38Z；SHA-256：873a78a46309fa3892d94b72cf73fd55542bae0e0ba8235afb26a848a64a8255）
 
 ---
 
@@ -1790,40 +2059,6 @@ The official GitHub API resolves AI-secure/AdvWeb to AI-secure/AdvAgent. Public 
 
 ---
 
-## AgentGym-RL
-
-一个面向多轮智能体的强化学习框架，包含 WebArena 网页导航任务，并提供在训练中逐步延长交互过程的方法。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-woooodyy-agentgym-rl/
-- 原始来源：https://github.com/WooooDyy/AgentGym-RL
-- 类型：框架
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：强化学习、长任务、网页导航、评测
-- 证据核查日期：2026-11-09T21:09:34Z
-- ID：github:woooodyy/agentgym-rl
-
-### 范围记录
-
-The repository includes training code and examples. The README documents PPO, GRPO, RLOO and REINFORCE++ and recommends CUDA, PyTorch and Python for setup.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-woooodyy-agentgym-rl/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/WooooDyy/AgentGym-RL/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/WooooDyy/AgentGym-RL/HEAD/README.md（获取于 2026-11-09T21:09:34Z；SHA-256：c90878180c0bd560a5114227839d918ecb91d0b5d80fdf64f02ea4ea5cbc2b95）
-- https://raw.githubusercontent.com/WooooDyy/AgentGym-RL/HEAD/LICENSE（获取于 2026-11-09T21:11:47Z；SHA-256：ae88eae55dad9b25b964260a8c66656dd33158a522783022a89359f0cc9c2d8c）
-
----
-
 ## Agentless
 
 Agentless 通过定位、修复和补丁验证三个阶段的流程解决软件工程问题。
@@ -1979,6 +2214,39 @@ The README also lists Chromedriver support, a Compose test app, and device-setti
 
 - https://raw.githubusercontent.com/appium/appium-android/HEAD/README.md（获取于 2026-11-09T21:10:08Z；SHA-256：3638759b0d0651053b0ae8583d951d2591e70a95a93fb99b8696be7002275ca5）
 - https://raw.githubusercontent.com/appium/appium-android/HEAD/LICENSE（获取于 2026-11-09T21:12:13Z；SHA-256：ae9194687e7f3b7d85e8eeb5c973e22d52c4653b1e4332fa0e5c6e82b038ab29）
+
+---
+
+## ARC CUA
+
+浏览器执行框架，为智能体提供按 token 预算裁剪、带索引动作的可访问性树，并检查每个动作是否引起状态变化；另含文档到表单的处理流程和 MCP 服务器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-itw-code-arc-cua/
+- 原始来源：https://github.com/itw-code/arc-cua
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、效率、状态追踪、工具集成
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：github:itw-code/arc-cua
+
+### 范围记录
+
+Runs on Solari cloud browsers, a local Chromium or any CDP endpoint; the README reports measured runs on Solari browsers on 2026-09-27/29 and says earlier mock-execution figures were replaced. Benchmarks need GEMINI_API_KEY and SOLARI_API_KEY, and an optional System-2 decision model is served by SGLang.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-itw-code-arc-cua/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/itw-code/arc-cua/27530bdbbcb10713dd64c09d775bf5ab108fc694/README.md（获取于 2026-11-10T06:29:22Z；SHA-256：61301c7010f6b242cf655e2c4c5242efec6b57107c47dd28ddbc1d586a0d349e）
 
 ---
 
@@ -2261,39 +2529,6 @@ The README lists Python and TypeScript packages and points to a Cloud quickstart
 
 ---
 
-## Capybara
-
-Capybara 是网页应用验收测试框架，通过浏览器和无头驱动模拟用户交互。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-teamcapybara-capybara/
-- 原始来源：https://github.com/teamcapybara/capybara
-- 类型：框架
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化、网页导航、评测
-- 证据核查日期：2026-11-06T16:36:33Z
-- ID：github:teamcapybara/capybara
-
-### 范围记录
-
-Capybara requires Ruby 3.0.0 or later. Its default RackTest driver does not support JavaScript or remote applications.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-teamcapybara-capybara/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/teamcapybara/capybara/265d2d175f4be3ddf785d7597bdfd19b231f844a/README.md（获取于 2026-11-06T16:36:33Z；SHA-256：f0a832e3a8c188d7bf534e44afd6a1072953d593cb00d25eed323f02266e7808）
-
----
-
 ## Clearcote Browser
 
 开源隐身 Chromium 浏览器，在引擎层伪装指纹，设计为 AI 网页智能体的即插即用运行时。
@@ -2362,25 +2597,59 @@ The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with 
 
 ---
 
-## cube-harness
+## Cowork Protocol
 
-cube-harness 在兼容的基准测试中运行智能体评估，包括 MiniWob，并提供交互轨迹、截图和实验查看器。
+一个面向人与网页智能体协作的 WebMCP 协议：智能体读取有界的字段焦点数据包，提出须经人工点击才会生效的可见修改，并且只在限定范围的租约内独立操作。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-harness/
-- 原始来源：https://github.com/the-AI-Alliance/cube-harness
+- 目录页面：https://awesomecua.com/zh/resources/github-ellmos-ai-cowork-protocol/
+- 原始来源：https://github.com/ellmos-ai/cowork-protocol
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面、Windows
+- 主题：人机协作、网页导航、工具集成、安全与防护
+- 证据核查日期：2026-11-10T06:29:23Z
+- ID：github:ellmos-ai/cowork-protocol
+
+### 范围记录
+
+The repository holds the protocol packages, a FormBuilder showcase, a Chrome side-panel bridge extension and a Windows Desktop Companion with an optional Open Compute fallback. It runs on Node.js 22 or newer and accepts an OpenAI-compatible model endpoint. MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ellmos-ai-cowork-protocol/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/ellmos-ai/cowork-protocol/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ellmos-ai/cowork-protocol/0e0b615f601b79648e0d47c15b8f6b6ce6fa612e/README.md（获取于 2026-11-10T06:29:23Z；SHA-256：1e76c034aeee60d8c86d7bc7f10b30eb7e316712fd2a83521063f5545affd13d）
+- https://raw.githubusercontent.com/ellmos-ai/cowork-protocol/HEAD/LICENSE（获取于 2026-11-10T06:22:24Z；SHA-256：739ebacc8dda8403cef9e58134236067012b53a126e4f983d44ff4aed6bae07f）
+
+---
+
+## CUBE Standard
+
+一套 Python 协议，用统一的 Tool、Task、Benchmark、Observation 和 Action 类型封装智能体基准，并提供可选的浏览器会话、虚拟机后端以及浏览器和桌面计算机工具。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-standard/
+- 原始来源：https://github.com/The-AI-Alliance/cube-standard
 - 类型：框架
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：网页、桌面
-- 主题：评测、可观测性、录制
-- 证据核查日期：2026-11-09T21:10:35Z
-- ID：github:the-ai-alliance/cube-harness
+- 主题：评测、沙箱
+- 证据核查日期：2026-11-10T06:29:31Z
+- ID：github:the-ai-alliance/cube-standard
 
 ### 范围记录
 
-The repository includes runtime source code, recipes, tests, and documentation. Its README says the project is in alpha and uses Ray for parallel execution.
+Requires Python 3.12+ and installs from PyPI as cube-standard, with Docker, Modal and Daytona extras; a cube CLI scaffolds, lists and tests benchmark packages. The README marks the project as alpha; code is Apache-2.0 and documentation CC-BY-4.0.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-the-ai-alliance-cube-standard/record.json
 
 ### 许可证信息
 
@@ -2391,7 +2660,7 @@ The repository includes runtime source code, recipes, tests, and documentation. 
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/the-AI-Alliance/cube-harness/HEAD/README.md（获取于 2026-11-09T21:10:35Z；SHA-256：ef985f2189e0ccbdb75204bf856b9ae27b4c0824ff5d119454c63384674865c1）
+- https://raw.githubusercontent.com/The-AI-Alliance/cube-standard/9ca7c062d211450df05eb8318a1e847b5373b689/README.md（获取于 2026-11-10T06:29:31Z；SHA-256：923fe3076241f364c4a66bbcff05b68750fa81fac4ef3d0f23d6986c2e568a53）
 
 ---
 
@@ -2426,6 +2695,40 @@ The README lists filesystem and GitHub repository devices alongside desktop and 
 
 - https://raw.githubusercontent.com/agentsea/devicebay/HEAD/README.md（获取于 2026-11-09T05:05:02Z；SHA-256：28a5f2c562cb79dff28130721e206b0733e40732792912d02f6590f073e17b7d）
 - https://raw.githubusercontent.com/agentsea/devicebay/HEAD/LICENSE（获取于 2026-11-09T05:07:27Z；SHA-256：40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499）
+
+---
+
+## DistRL
+
+面向 Android 智能体的分布式在线强化学习框架，提供环境搭建和轨迹采集工具。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-distrl-lab-distrl-open/
+- 原始来源：https://github.com/DistRL-lab/distrl-open
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：强化学习、效率
+- 证据核查日期：2026-10-16T10:42:12Z
+- ID：github:distrl-lab/distrl-open
+
+### 范围记录
+
+The README identifies model weights and dataset release as pending; this entry covers the code framework.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-distrl-lab-distrl-open/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/README.md（获取于 2026-10-16T10:42:12Z；SHA-256：f501f8de6aac53758f60882a8c595a5ac27145f327c73b0cfa7921b45ccae75a）
+- https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/LICENSE（获取于 2026-10-16T10:48:41Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 
 ---
 
@@ -3162,6 +3465,39 @@ LongHorizon-Harness 将桌面和 CLI 智能体置于持续的规划、动作、�
 
 ---
 
+## MCP-B
+
+早期的 MCP-B 代码库：包含一个发现并调用网站以 MCP 服务器形式提供的工具的 Chrome 扩展、一个 Cloudflare Workers 后端，以及将这些工具转发给桌面 MCP 客户端的本地服务器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-miguelspizza-webmcp/
+- 原始来源：https://github.com/MiguelsPizza/WebMCP
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：工具集成、网页导航、历史
+- 证据核查日期：2026-11-10T06:29:33Z
+- ID：github:miguelspizza/webmcp
+
+### 范围记录
+
+The monorepo holds the extension, a Cloudflare Workers backend and a native messaging host based on mcp-chrome; the extension chat needs an OpenAI or Anthropic key. Requires Node.js 22.12 or later and pnpm 10. License: AGPL-3.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-miguelspizza-webmcp/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MiguelsPizza/WebMCP/1143b2184edd4f33ef60fd1d10b0d71c26a2e87e/README.md（获取于 2026-11-10T06:29:33Z；SHA-256：7b339faeb5ff2dfbfb281143a92b290c7c3c067a6a301726674bc1909ab05c00）
+
+---
+
 ## Melaya
 
 Melaya 提供智能体平台的 SDK 和文档；该平台可操作 Android 应用和浏览器标签页，并设有权限范围控制和人工审批。
@@ -3600,40 +3936,6 @@ Neurosim 是用于构建、模拟和评测多步 AI 及计算机使用智能体�
 
 ---
 
-## Nova Act SDK
-
-这是一款用于定义和部署浏览器智能体的 Python SDK，可执行界面工作流。Nova Act 支持代码引导的步骤、人工接管和工作流监控。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-aws-nova-act/
-- 原始来源：https://github.com/aws/nova-act
-- 类型：框架
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：跨平台、桌面、macOS、Linux、Windows、网页
-- 主题：网页导航、工作流、人机协作、工具集成
-- 证据核查日期：2026-11-09T21:08:45Z
-- ID：github:aws/nova-act
-
-### 范围记录
-
-The repository includes SDK source and documents API-key authentication. The README names macOS, Ubuntu, WSL2 and Windows prerequisites, plus AWS deployment and console monitoring.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-aws-nova-act/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/aws/nova-act/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/aws/nova-act/HEAD/README.md（获取于 2026-11-09T21:08:45Z；SHA-256：7ace8eda84d6b75ab303536c32eb51e262c16d96543bc307d8a7b73a1e54f9cb）
-- https://raw.githubusercontent.com/aws/nova-act/HEAD/LICENSE（获取于 2026-11-09T21:11:16Z；SHA-256：9c91b6e7d0a4507284e4b11b1d414898a3f97e8e3136663d3161860ce7e13479）
-
----
-
 ## Nuphus
 
 以本地运行为先的桌面 AI 智能体平台，支持在真实桌面 GUI 中执行操作，并配有移动端第二屏控制器。
@@ -3691,6 +3993,40 @@ Oh My DSH 通过共享的比较并交换任务图，以及基于原生视觉的 
 
 - https://raw.githubusercontent.com/secretxuan/oh-my-dsh/HEAD/README.md（获取于 2026-11-04T15:03:40Z；SHA-256：a3307dacd65ef5576590794a19984999c7403fd09dec1f53023fc7389dbf3e5a）
 - https://raw.githubusercontent.com/secretxuan/oh-my-dsh/HEAD/LICENSE（获取于 2026-11-04T15:22:53Z；SHA-256：f72449b2e2a4e57038eae3571c4f9a4c9cfaa6466119512af0cb1daed8d75a55）
+
+---
+
+## ok-script
+
+一个用于 Windows 应用、游戏和 Android 设备屏幕自动化的 Python 框架，提供模板匹配、OCR 和输入功能，并带有 MCP 服务，编程智能体可通过它截取目标画面、运行、重载和打包任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ok-oldking-ok-script/
+- 原始来源：https://github.com/ok-oldking/ok-script
+- 类型：框架
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、Windows、Android
+- 主题：自动化、工具集成、界面理解
+- 证据核查日期：2026-11-10T06:29:26Z
+- ID：github:ok-oldking/ok-script
+
+### 范围记录
+
+Installed with pip as ok-script[default] on Python 3.11 or later; the MCP server listens on loopback over Streamable HTTP with a bearer token. Finished tasks run headless or in a PySide6 GUI without the agent. Licensed Apache 2.0 with Commons Clause and additional terms.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ok-oldking-ok-script/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/ok-oldking/ok-script/HEAD/LICENSE.txt
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ok-oldking/ok-script/37db3d1f236b56168543661f6ea1c3e27f171627/README.md（获取于 2026-11-10T06:29:26Z；SHA-256：e29214a853e36312ac944c765d8515bab93c15042b80444e48ec12c62c0a8bbb）
+- https://raw.githubusercontent.com/ok-oldking/ok-script/HEAD/LICENSE.txt（获取于 2026-11-10T06:22:28Z；SHA-256：31d615200438b02fb695b86b72b02c8054c5d93837aabc84701b3b44453dc57e）
 
 ---
 
@@ -3818,6 +4154,40 @@ Optics Framework 是面向移动端、网页和 TV 界面的自修复测试自�
 
 - https://raw.githubusercontent.com/mozarkai/optics-framework/HEAD/README.md（获取于 2026-11-04T13:12:26Z；SHA-256：3df921d0524c768112f341380af22992d12849d61352f2f7c06e709194b5e165）
 - https://raw.githubusercontent.com/mozarkai/optics-framework/HEAD/LICENSE（获取于 2026-11-04T13:41:45Z；SHA-256：7e476637f3217b72839ab47f82d08915ae4295345e449ffd239de907029ea12a）
+
+---
+
+## Orchard-Agentic
+
+Orchard-Agentic 收录 Orchard 环境服务、强化学习训练栈和评测代码，提供面向软件工程、网页导航和命令行智能体的训练方案，并索引后续项目。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-microsoft-orchard-agentic/
+- 原始来源：https://github.com/microsoft/Orchard-Agentic
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：强化学习、沙箱、网页导航、工具集成
+- 证据核查日期：2026-11-10T06:29:27Z
+- ID：github:microsoft/orchard-agentic
+
+### 范围记录
+
+Contains orchard_env (Kubernetes sandbox service with a Python SDK), orchard_eval for SWE-bench Verified, and a slime fork as a git submodule with orchard_gui rollout examples. Research data lives in the microsoft/Orchard Hugging Face dataset. Declared license: MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-microsoft-orchard-agentic/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/microsoft/Orchard-Agentic/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/microsoft/Orchard-Agentic/769f7460c8cbf1d65521732721f57877ca0a6365/README.md（获取于 2026-11-10T06:29:27Z；SHA-256：90a81d6574a85656fc429cc3446030be767bf765b20f1a64d2f7eade88d962bb）
+- https://raw.githubusercontent.com/microsoft/Orchard-Agentic/HEAD/LICENSE（获取于 2026-11-10T06:22:28Z；SHA-256：7df20dcdf9197e9945c14858d41c60f11b52b93e5b69e2b63416b874d598d322）
 
 ---
 
@@ -4149,40 +4519,6 @@ The README documents synchronous and asynchronous APIs and a Playwright-compatib
 
 ---
 
-## pyppeteer
-
-Pyppeteer 是用于自动操作 Chrome 和 Chromium 页面的 Python 库，提供导航、截图、元素查询及页面 JavaScript 接口。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-pyppeteer-pyppeteer/
-- 原始来源：https://github.com/pyppeteer/pyppeteer
-- 类型：框架
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化、网页导航
-- 证据核查日期：2026-11-09T21:10:15Z
-- ID：github:pyppeteer/pyppeteer
-
-### 范围记录
-
-The README requires Python 3.8 or later and declares an MIT license. It says the repository is unmaintained.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-pyppeteer-pyppeteer/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/pyppeteer/pyppeteer/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/pyppeteer/pyppeteer/HEAD/README.md（获取于 2026-11-09T21:10:15Z；SHA-256：7b981cf0b05e6660f1a301f07458bdae8ac20dbc8a3e6cc2a7584de15224bd1c）
-- https://raw.githubusercontent.com/pyppeteer/pyppeteer/HEAD/LICENSE（获取于 2026-11-09T21:12:14Z；SHA-256：b7ff9c007e9f3f58bd8d3c4387c7d7df9ed0f1211941422cdbe272ef54d84f95）
-
----
-
 ## Qontinui
 
 Qontinui 是基于模型的 GUI 自动化框架，以状态图表示应用屏幕，并使用视觉模板和 OCR 匹配。
@@ -4404,6 +4740,39 @@ The README gives a Qwen2.5-VL training command and ScreenSpot evaluation command
 ### 一手证据
 
 - https://raw.githubusercontent.com/YXB-NKU/SE-GUI/HEAD/README.md（获取于 2026-11-09T06:16:39Z；SHA-256：6452101c34cd07a9c1b84fbaa52cd6ac228fa71800d549cb09cc6e09f0e920db）
+
+---
+
+## SeleniumBase
+
+用于网页爬取、端到端测试和数据抓取的 Python 浏览器自动化框架，配有生成测试的录制器和隐身选项。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-seleniumbase-seleniumbase/
+- 原始来源：https://github.com/seleniumbase/SeleniumBase
+- 类型：框架
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、录制、评测
+- 证据核查日期：2026-11-06T16:36:31Z
+- ID：github:seleniumbase/seleniumbase
+
+### 范围记录
+
+Release v4.57.1 dated 2026-11-05. Declared license MIT.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-seleniumbase-seleniumbase/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/seleniumbase/SeleniumBase/b806f54ab0c998c90654b59a817d959f7ff7920c/README.md（获取于 2026-11-06T16:36:31Z；SHA-256：972f3699b8b5b3584a7ec980fcb1f464be33cddd822b2012e946f38ddb808116）
 
 ---
 
@@ -4766,39 +5135,6 @@ TeachReplay 是不依赖特定测试框架的示范教学引擎，可记录人�
 
 ---
 
-## Tencent AI LAB - Self-Improving Agent
-
-这个研究代码合集包含 WebEvolver 和 WebCoT，分别围绕世界模型及重构推理轨迹改进网页智能体。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-tencent-selfevolvingagent/
-- 原始来源：https://github.com/Tencent/SelfEvolvingAgent
-- 类型：框架
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、自我反思、世界模型
-- 证据核查日期：2026-11-09T06:16:38Z
-- ID：github:tencent/selfevolvingagent
-
-### 范围记录
-
-The repository lists separate WebEvolver and WebCoT directories and also includes VScan, a visual-token reduction project.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-tencent-selfevolvingagent/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/Tencent/SelfEvolvingAgent/HEAD/README.md（获取于 2026-11-09T06:16:38Z；SHA-256：873a78a46309fa3892d94b72cf73fd55542bae0e0ba8235afb26a848a64a8255）
-
----
-
 ## ToolCUA
 
 ToolCUA 训练计算机使用智能体在 OSWorld-MCP 上协调混合使用 MCP 工具调用和 GUI 动作。
@@ -4923,6 +5259,39 @@ The repository includes a Python package, scripts and Dockerfiles. Its README sp
 
 ---
 
+## WebAggregator
+
+WebAggregator 是 Explore to Evolve 的代码：它通过智能体探索网址构建可验证的网页问答数据，用在浏览器中点击和输入的 smolagents 智能体采样轨迹，并运行评测。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-tencent-webaggregator/
+- 原始来源：https://github.com/Tencent/WebAggregator
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：数据生成、网页导航、评测
+- 证据核查日期：2026-11-10T06:29:30Z
+- ID：github:tencent/webaggregator
+
+### 范围记录
+
+Builds on a bundled modified smolagents with trajectory collection; queries, trajectories and the WebAggregator 8B and 32B models are on Hugging Face. Configuration needs model endpoints set in config.py.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-tencent-webaggregator/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Tencent/WebAggregator/0e4f4d1583431abb838895267f925c018b0df510/readme.md（获取于 2026-11-10T06:29:30Z；SHA-256：32af3519b17bd562dc2e1d14d0b5f29a1a6493619caff2dfff73f443bd677c63）
+
+---
+
 ## WebLlama
 
 WebLlama 提供对话引导的网页智能体训练、评估和集成工具，包括 Llama 微调流程及围绕 WebLINX 构建的 BrowserGym 示例。
@@ -4959,6 +5328,40 @@ The manifest contains modeling/training code, BrowserGym examples, documentation
 - https://api.github.com/repos/McGill-NLP/webllama（获取于 2026-10-17T12:30:55Z；SHA-256：6605b7b09e8be77cce9d5bfd1a6199c2256cbfc1f067b93b2b952c1d19e74f10）
 - https://api.github.com/repos/McGill-NLP/webllama/git/trees/main?recursive=1（获取于 2026-10-17T12:32:06Z；SHA-256：915620d7a155f5c5fe099cdb0461d9614e1894b38559f0d2f9a6a138afe06212）
 - https://raw.githubusercontent.com/McGill-NLP/webllama/HEAD/LICENSE（获取于 2026-10-17T12:34:10Z；SHA-256：e69268828e67ffd1d3393a2d3530f97df6deaa0b961039fc971abea28cec8715）
+
+---
+
+## WebMCP
+
+早期的 WebMCP 提案与代码：网站上的脚本小组件注册其工具、资源和提示词，MCP 客户端通过带令牌验证的本地 WebSocket 服务器访问它们。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-jasonjmcghee-webmcp/
+- 原始来源：https://github.com/jasonjmcghee/WebMCP
+- 类型：框架
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：工具集成、网页导航、历史
+- 证据核查日期：2026-11-10T06:29:33Z
+- ID：github:jasonjmcghee/webmcp
+
+### 范围记录
+
+Distributed as the npm package @jason.today/webmcp with an auto-config command for Claude, Cursor, Cline and Windsurf; websites include webmcp.js. Docker files support running the WebSocket server. License: MIT. The README points to the W3C WebMCP repository as the current specification.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-jasonjmcghee-webmcp/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/jasonjmcghee/WebMCP/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/jasonjmcghee/WebMCP/d3a442733a8e799844df008ad89545d483b2ac1c/README.md（获取于 2026-11-10T06:29:33Z；SHA-256：aa154eb06206c524eb4432ac3c9303cbe452cccf611ce2b6990dd0fde1c97578）
+- https://raw.githubusercontent.com/jasonjmcghee/WebMCP/HEAD/LICENSE（获取于 2026-11-10T06:22:35Z；SHA-256：47882db9d8845bd4793a846726d298caac0294f9d0eab46052f12535ce4f1a15）
 
 ---
 
@@ -9708,40 +10111,6 @@ device-use 让 AI 智能体通过科学实验室仪器原生的桌面 GUI 软件
 
 - https://raw.githubusercontent.com/RonanDavalan/dinoer/main/README.md（获取于 2026-11-04T17:20:43Z；SHA-256：ddf5c6be9eb34c975f31730ae815a317ef5f30518cfa2ff840cf0bafb4feb92d）
 - https://raw.githubusercontent.com/RonanDavalan/dinoer/HEAD/LICENSE（获取于 2026-11-04T17:26:52Z；SHA-256：f5e84521f37a096d90a28a3289d146bab41254f78bcabb9c0561e13aa6962c86）
-
----
-
-## DistRL
-
-面向 Android 智能体的分布式在线强化学习框架，提供环境搭建和轨迹采集工具。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-distrl-lab-distrl-open/
-- 原始来源：https://github.com/DistRL-lab/distrl-open
-- 类型：框架
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：Android
-- 主题：强化学习、效率
-- 证据核查日期：2026-10-16T10:42:12Z
-- ID：github:distrl-lab/distrl-open
-
-### 范围记录
-
-The README identifies model weights and dataset release as pending; this entry covers the code framework.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-distrl-lab-distrl-open/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/README.md（获取于 2026-10-16T10:42:12Z；SHA-256：f501f8de6aac53758f60882a8c595a5ac27145f327c73b0cfa7921b45ccae75a）
-- https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/LICENSE（获取于 2026-10-16T10:48:41Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 
 ---
 
@@ -17019,39 +17388,6 @@ Search-o1 将智能体式网页搜索和推理过程中的文档细化整合进�
 
 - https://raw.githubusercontent.com/sunnynexus/Search-o1/HEAD/README.md（获取于 2026-11-04T13:12:38Z；SHA-256：b0f8e61cf444b2437b366fedd4fbfafbed6d40b8b3138cc49cb7950b2b1d9741）
 - https://raw.githubusercontent.com/sunnynexus/Search-o1/HEAD/LICENSE（获取于 2026-11-04T13:41:55Z；SHA-256：b101f949ba866c4de767be4b8563ef0bbd54d1b289c4b49c6edda3f2851c848a）
-
----
-
-## SeleniumBase
-
-用于网页爬取、端到端测试和数据抓取的 Python 浏览器自动化框架，配有生成测试的录制器和隐身选项。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-seleniumbase-seleniumbase/
-- 原始来源：https://github.com/seleniumbase/SeleniumBase
-- 类型：框架
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化、录制、评测
-- 证据核查日期：2026-11-06T16:36:31Z
-- ID：github:seleniumbase/seleniumbase
-
-### 范围记录
-
-Release v4.57.1 dated 2026-11-05. Declared license MIT.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-seleniumbase-seleniumbase/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/seleniumbase/SeleniumBase/b806f54ab0c998c90654b59a817d959f7ff7920c/README.md（获取于 2026-11-06T16:36:31Z；SHA-256：972f3699b8b5b3584a7ec980fcb1f464be33cddd822b2012e946f38ddb808116）
 
 ---
 

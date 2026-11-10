@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/reinforcement-learning/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/reinforcement-learning/index.md
 
+- [Gelato](https://awesomecua.com/zh/resources/github-mlfoundations-gelato/)
+- [Gelato-30B-A3B](https://awesomecua.com/zh/resources/url-46502d87b2c13515790a/)
 - [Gelato-UI-TARS-1.5-7B](https://awesomecua.com/zh/resources/url-7617bb21031bc5fb6574/)
 - [GroundNext-7B-V0](https://awesomecua.com/zh/resources/url-174e10a319d62c338879/)
 - [GT-r1](https://awesomecua.com/zh/resources/url-1a6fc60f2b931acbd057/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/reinforcement-learning/page/6/
 - [ScaleCUA (THUDM) GLM-4.6V-Flash OSWorld](https://awesomecua.com/zh/resources/url-77c708f5cff2d4c95e90/)
 - [ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard](https://awesomecua.com/zh/resources/url-4bcb6a451d6f4d25343c/)
 - [ScaleCUA (THUDM) Qwen3-VL-8B OSWorld](https://awesomecua.com/zh/resources/url-1807bdb33fc352a97240/)
-- [ScaleCUA (THUDM) Qwen3-VL-8B ScienceBoard](https://awesomecua.com/zh/resources/url-73c169c32b5765688376/)
-- [ScaleCUA (THUDM) Qwen3.5-9B OSWorld](https://awesomecua.com/zh/resources/url-0919e695670c5740a123/)

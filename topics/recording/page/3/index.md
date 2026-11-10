@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/topics/recording/page/3/
 
 Full list: https://awesomecua.com/topics/recording/index.md
 
+- [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/)
+- [OpenAdapt Desktop](https://awesomecua.com/resources/github-openadaptai-openadapt-desktop/)
 - [openadapt-capture](https://awesomecua.com/resources/github-openadaptai-openadapt-capture/)
 - [openadapt-flow](https://awesomecua.com/resources/github-openadaptai-openadapt-flow/)
 - [openadapt-privacy](https://awesomecua.com/resources/github-openadaptai-openadapt-privacy/)
@@ -13,6 +15,7 @@ Full list: https://awesomecua.com/topics/recording/index.md
 - [PageRunner](https://awesomecua.com/resources/github-say-5-pagerunner/)
 - [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/)
 - [Pilion Browser](https://awesomecua.com/resources/github-echovic-pilion-browser/)
+- [Playwright CRX](https://awesomecua.com/resources/github-ruifigueira-playwright-crx/)
 - [Playwright Test for VS Code](https://awesomecua.com/resources/github-microsoft-playwright-vscode/)
 - [Prism AI Screen Reader](https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/)
 - [Process Discovery](https://awesomecua.com/resources/url-79e0b911afaf4313fa6c/)
@@ -39,6 +42,7 @@ Full list: https://awesomecua.com/topics/recording/index.md
 - [ScreenClaw (睇虾)](https://awesomecua.com/resources/github-ginsing1226-screenclaw/)
 - [Screenpipe](https://awesomecua.com/resources/github-screenpipe-screenpipe/)
 - [screenshotting-gui](https://awesomecua.com/resources/github-evilfreelancer-screenshotting-gui/)
+- [Scribe](https://awesomecua.com/resources/github-sameelarif-scribe/)
 - [Scribe](https://awesomecua.com/resources/url-63ef8c7e455951a20281/)
 - [SeleniumBase](https://awesomecua.com/resources/github-seleniumbase-seleniumbase/)
 - [Shadow](https://awesomecua.com/resources/github-ghostwright-shadow/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/recording/index.md
 - [usecomputer](https://awesomecua.com/resources/github-remorses-usecomputer/)
 - [Vedanshu7 Operant](https://awesomecua.com/resources/github-vedanshu7-operant/)
 - [Web Agent Protocol (WAP)](https://awesomecua.com/resources/github-ota-tech-ai-web-agent-protocol/)
-- [webreel](https://awesomecua.com/resources/github-vercel-labs-webreel/)
-- [WebVIA](https://awesomecua.com/resources/github-zheny2751-dotcom-webvia/)
-- [Windows Local Action Recorder](https://awesomecua.com/resources/github-week833-windows-local-action-recorder/)
-- [windows-computer-use-mcp (Scan-Code & Multi-Monitor)](https://awesomecua.com/resources/github-sshh12-windows-computer-use-mcp/)

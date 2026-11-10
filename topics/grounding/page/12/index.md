@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/topics/grounding/page/12/
 
 Full list: https://awesomecua.com/topics/grounding/index.md
 
+- [UI-TARS 7B SFT](https://awesomecua.com/resources/url-dbd880ec31b412487945/)
+- [UI-Venus](https://awesomecua.com/resources/github-inclusionai-ui-venus/)
+- [UI-Venus 2 9B](https://awesomecua.com/resources/url-611df37e5f3caa6befd7/)
+- [UI-Venus-Navi-72B](https://awesomecua.com/resources/url-80ec6c9a43360adbbc6b/)
 - [UIX-Qwen2](https://awesomecua.com/resources/url-54997a3c67e54abdf319/)
 - [UIX-Qwen2-Mind2Web](https://awesomecua.com/resources/url-592e434848a1514efef0/)
 - [V2P-7B](https://awesomecua.com/resources/url-a815c128627d11011e89/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/grounding/index.md
 - [BX Browser](https://awesomecua.com/resources/github-painbaba-bx-browser/)
 - [c-vision (DSH Vision & Computer Use Plugin)](https://awesomecua.com/resources/github-cczzyy-cn-c-vision/)
 - [CanpGrid](https://awesomecua.com/resources/github-yeqi99-canpgrid/)
-- [Cappuccino](https://awesomecua.com/resources/github-gml-fmgroup-cappuccino/)
-- [CaptiOCR](https://awesomecua.com/resources/github-carlosacchi-captiocr/)
-- [CGL (Continual GUI Learning)](https://awesomecua.com/resources/github-skounputer-cgl/)
-- [Claude Computer Use Demo for macOS](https://awesomecua.com/resources/github-pallavag-claude-computer-use-macos/)

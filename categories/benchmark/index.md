@@ -2,7 +2,7 @@
 
 Computer-use benchmarks are task suites and environments that score agents operating web browsers, desktop applications or mobile devices. Each pairs a fixed set of tasks with an evaluator, such as execution-based state checks, answer matching or target localization.
 
-> 305 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
+> 310 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T06:29:47Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -23,15 +23,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which benchmarks are mentioned most in the catalog?
 
-[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) (60 records), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) (31 records) and [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) (21 records) are mentioned in the reviewed sources of the most other catalog records.
+[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) (60 records), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) (31 records) and [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) (22 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these benchmarks cover?
 
-Of 305 reviewed benchmarks, 209 are tagged web, 95 desktop, 44 mobile and 28 cross-platform; 13 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 310 reviewed benchmarks, 211 are tagged web, 95 desktop, 46 mobile and 28 cross-platform; 14 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which benchmarks have an official leaderboard?
 
-25 of 305 benchmarks link an official leaderboard from their reviewed source, including [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/), [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) and [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/).
+25 of 310 benchmarks link an official leaderboard from their reviewed source, including [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/), [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) and [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/).
 
 ### How many benchmarks are interactive and how many offline?
 
@@ -39,7 +39,7 @@ Of 94 benchmarks with a recorded protocol, 56 are interactive, 34 are offline an
 
 ### Which licenses do benchmarks declare?
 
-The most common declared licenses are MIT (119), Apache-2.0 (70) and CC-BY-4.0 (7). 100 of 305 have no declared license in their record.
+The most common declared licenses are MIT (121), Apache-2.0 (71) and CC-BY-4.0 (7). 101 of 310 have no declared license in their record.
 
 ---
 
@@ -367,52 +367,6 @@ These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, an
 
 ---
 
-## AndroidLab
-
-Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.
-
-- Catalog URL: https://awesomecua.com/resources/github-thudm-android-lab/
-- Original source: https://github.com/THUDM/Android-Lab
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: android
-- Topics: evaluation, mobile-navigation
-- Evidence checked: 2026-10-16T06:35:58Z
-- ID: github:thudm/android-lab
-
-- Record JSON: https://awesomecua.com/resources/github-thudm-android-lab/record.json
-
-### Structured profile
-
-- Actions / outputs: Android operations through the agent framework
-- Evaluation: The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
-- Focus: Android task completion, subgoal completion, operation efficiency
-- Observations: UI XML, set-of-marks views
-- Setting: interactive
-
-#### Count observations
-
-- 138 tasks — benchmark task collection (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
-- 9 applications — benchmark application set (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
-
-The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks; Android Instruct is a separately released training set.
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b)
-- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b)
-- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE (retrieved 2026-10-16T06:41:58Z; SHA-256 1bbbee919161337e2456c587c6be809214406482cd9f1292a9eb62428f6961f3)
-
----
-
 ## WebVoyager
 
 Multimodal web navigation agent and evaluation tasks on real websites.
@@ -456,6 +410,52 @@ The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites 
 
 - https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5)
 - https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
+
+---
+
+## AndroidLab
+
+Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.
+
+- Catalog URL: https://awesomecua.com/resources/github-thudm-android-lab/
+- Original source: https://github.com/THUDM/Android-Lab
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation
+- Evidence checked: 2026-10-16T06:35:58Z
+- ID: github:thudm/android-lab
+
+- Record JSON: https://awesomecua.com/resources/github-thudm-android-lab/record.json
+
+### Structured profile
+
+- Actions / outputs: Android operations through the agent framework
+- Evaluation: The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
+- Focus: Android task completion, subgoal completion, operation efficiency
+- Observations: UI XML, set-of-marks views
+- Setting: interactive
+
+#### Count observations
+
+- 138 tasks — benchmark task collection (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
+- 9 applications — benchmark application set (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
+
+The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks; Android Instruct is a separately released training set.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b)
+- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b)
+- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE (retrieved 2026-10-16T06:41:58Z; SHA-256 1bbbee919161337e2456c587c6be809214406482cd9f1292a9eb62428f6961f3)
 
 ---
 
@@ -812,6 +812,36 @@ The repository retains original OSWorld-G.json and refined OSWorld-G_refined.jso
 
 ---
 
+## Plasmate Benchmarks
+
+Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
+
+- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
+- Original source: https://github.com/plasmate-labs/plasmate-benchmarks
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, efficiency
+- Evidence checked: 2026-11-04T13:12:31Z
+- ID: github:plasmate-labs/plasmate-benchmarks
+
+- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6)
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE (retrieved 2026-11-04T13:22:33Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
+
+---
+
 ## ScreenSpot v2
 
 Second version of the ScreenSpot grounding test set, published by OS-Copilot as separate desktop, mobile and web annotation files with a shared screenshot archive.
@@ -964,36 +994,6 @@ openadapt-evals scores GUI agents and compiled workflows on benchmarks such as W
 
 - https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 f7c6b6da8b6fe579d9e4e576829c6daf4bd9611a5f134cf478fe85a0e2862156)
 - https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE (retrieved 2026-11-04T14:45:03Z; SHA-256 59aeac47ca72de18ba99dd38f0b2f9596b822f85e9cf816684369fadb6664e06)
-
----
-
-## Plasmate Benchmarks
-
-Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
-
-- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
-- Original source: https://github.com/plasmate-labs/plasmate-benchmarks
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation, efficiency
-- Evidence checked: 2026-11-04T13:12:31Z
-- ID: github:plasmate-labs/plasmate-benchmarks
-
-- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6)
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE (retrieved 2026-11-04T13:22:33Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
 
 ---
 
@@ -1463,6 +1463,40 @@ CUA-Gym-Hub provides 98 self-contained mock web applications with deterministic 
 
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/README.md (retrieved 2026-11-04T14:20:05Z; SHA-256 979699e12a3ee57f2059720cf2f22abbd42fd07a97896826522f9ec5ccb8e9c5)
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/LICENSE (retrieved 2026-11-04T14:23:33Z; SHA-256 4b90ed4baf4f3ac8df3e7e9bb4bb0cf758146d1ab716a687366cbee9f7418af4)
+
+---
+
+## Halluminate Westworld
+
+Halluminate Westworld evaluates web agents on tasks set in realistic websites and provides task loading, a manual demo and evaluator interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/github-halluminate-westworld/
+- Original source: https://github.com/Halluminate/westworld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, sandbox
+- Evidence checked: 2026-11-09T21:09:49Z
+- ID: github:halluminate/westworld
+
+### Limitations
+
+The source links a Hugging Face task dataset. Its demo requires browser support and an API key for simulated environments.
+
+- Record JSON: https://awesomecua.com/resources/github-halluminate-westworld/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/README.md (retrieved 2026-11-09T21:09:49Z; SHA-256 20455fb9e6f65fd921eb20b8de96bda4e1c996487b10904972ffb901e5f7a734)
+- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE (retrieved 2026-11-09T21:12:08Z; SHA-256 db2802dd8e3073d4d30d53e8195c98047c3a53998177460a3d7d1357974f02a1)
 
 ---
 
@@ -2499,6 +2533,40 @@ Counts refer to the paper study.
 
 ---
 
+## AI GameStore
+
+A benchmark of 100 games adapted from App Store and Steam charts into web-playable versions, with a Playwright harness that sends game screenshots to vision-language models and executes their key presses.
+
+- Catalog URL: https://awesomecua.com/resources/github-lance-ying-aigamestore/
+- Original source: https://github.com/lance-ying/aigamestore
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: evaluation
+- Evidence checked: 2026-11-10T06:29:34Z
+- ID: github:lance-ying/aigamestore
+
+### Limitations
+
+Ten of the 100 games are public and the other 90 form a private test set; the release adds the game generation pipeline and human study data from 87 participants. The harness needs Python 3.10+, Playwright Chromium and a provider API key. Code is MIT and study data CC BY 4.0.
+
+- Record JSON: https://awesomecua.com/resources/github-lance-ying-aigamestore/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/lance-ying/aigamestore/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lance-ying/aigamestore/a6da2626be43ea99de170ee93da14994b8d3fc17/README.md (retrieved 2026-11-10T06:29:34Z; SHA-256 8418bd0bf40150c77b5f5df56ac02d9b7e60229f3a558de18f9d84b4de7e5ea3)
+- https://raw.githubusercontent.com/lance-ying/aigamestore/HEAD/LICENSE (retrieved 2026-11-10T06:22:37Z; SHA-256 f5fbc6ba0443b7e025761812bfcd3fa553caace70fb23e4feb1053513bd5be86)
+
+---
+
 ## AndroidDaily
 
 Android GUI benchmark dataset from Step-GUI containing 3,146 static action evaluation items and 235 end-to-end daily mobile tasks.
@@ -3143,6 +3211,40 @@ The README reports 100 dialogues, 1000 turns and 3676 test cases. The repository
 
 ---
 
+## FunUI-Benchmark
+
+FunUI is a Chinese-English benchmark built on 2,150 Chinese and 9,347 English Android screens, testing UI grounding, UI referring, screen question answering and screen summarization.
+
+- Catalog URL: https://awesomecua.com/resources/url-92241e51e909ea9ca564/
+- Original source: https://huggingface.co/datasets/Earthiii/FunUI-Benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, grounding, evaluation
+- Evidence checked: 2026-11-10T06:29:22Z
+- ID: url:92241e51e909ea9ca564
+
+### Limitations
+
+The Hugging Face repository holds zipped Chinese and English screen images and per-task JSON annotation files for the four tasks. The card cites the UI-Hawk preprint and declares the CC BY-SA 4.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-92241e51e909ea9ca564/record.json
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-sa-4.0 — https://huggingface.co/datasets/Earthiii/FunUI-Benchmark
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Earthiii/FunUI-Benchmark (retrieved 2026-11-10T06:29:22Z; SHA-256 ae52a62986e54c85e3599835eb1b59a47d047e325259ad0c1d4d57905279c4bc)
+- https://huggingface.co/api/datasets/Earthiii/FunUI-Benchmark (retrieved 2026-11-10T06:29:22Z; SHA-256 ae52a62986e54c85e3599835eb1b59a47d047e325259ad0c1d4d57905279c4bc)
+
+---
+
 ## GA-Technical-Report
 
 Evaluation materials for GenericAgent cover web browsing and other agent tasks, with benchmark folders documenting setup, protocols, and reproduction.
@@ -3287,6 +3389,40 @@ Each example is one screenshot, instruction and target box; four visual variants
 - https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml (retrieved 2026-10-18T15:59:07Z; SHA-256 119930290bb21bcceb3f3a2b22d4f738ce5d0eb4531652cb7e7ad0dde348e30a)
 - https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval (retrieved 2026-10-18T15:59:07Z; SHA-256 5a23805cf7a6122abf01288f46139bb3c7890306678ec0280e9e6d488adb5908)
 - https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md (retrieved 2026-10-18T15:59:36Z; SHA-256 6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e)
+
+---
+
+## GUI_Reflection_Task_Suite_Benchmark
+
+Evaluation split of the GUI Reflection Task Suite, with JSONL files for action verification, action reversal and mistake-informed reattempts on ScreenSpot and ScreenSpot v2.
+
+- Catalog URL: https://awesomecua.com/resources/url-dea0e09f027df704ca00/
+- Original source: https://huggingface.co/datasets/craigwu/GUI_Reflection_Task_Suite_Benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: self-reflection, evaluation
+- Evidence checked: 2026-11-10T06:29:28Z
+- ID: url:dea0e09f027df704ca00
+
+### Limitations
+
+The repository holds four JSONL annotation files; screenshots come from AndroidControl, GUI Odyssey, ScreenSpot and ScreenSpot v2. The card declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-dea0e09f027df704ca00/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/craigwu/GUI_Reflection_Task_Suite_Benchmark
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_Benchmark (retrieved 2026-11-10T06:29:28Z; SHA-256 ba5e4bd41a45665879a796dd338b0b5640e1ac0a5fa4e9ecf0c9404095b072cf)
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_Benchmark (retrieved 2026-11-10T06:29:28Z; SHA-256 ba5e4bd41a45665879a796dd338b0b5640e1ac0a5fa4e9ecf0c9404095b072cf)
 
 ---
 
@@ -3441,40 +3577,6 @@ The README reports 100 real-time minigames with non-real-time counterparts, five
 
 - https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/README.md (retrieved 2026-11-09T19:57:06Z; SHA-256 cb6c110b595d725b0dca10f598158e8c5e98b1a64e683c4bb5160a9c20397223)
 - https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/LICENSE (retrieved 2026-11-09T14:20:51Z; SHA-256 813d1fbc50ef21c3581c6cfd5733aed82db3b5850042fde0629db45afa6d082e)
-
----
-
-## Halluminate Westworld
-
-Halluminate Westworld evaluates web agents on tasks set in realistic websites and provides task loading, a manual demo and evaluator interfaces.
-
-- Catalog URL: https://awesomecua.com/resources/github-halluminate-westworld/
-- Original source: https://github.com/Halluminate/westworld
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation, sandbox
-- Evidence checked: 2026-11-09T21:09:49Z
-- ID: github:halluminate/westworld
-
-### Limitations
-
-The source links a Hugging Face task dataset. Its demo requires browser support and an API key for simulated environments.
-
-- Record JSON: https://awesomecua.com/resources/github-halluminate-westworld/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/README.md (retrieved 2026-11-09T21:09:49Z; SHA-256 20455fb9e6f65fd921eb20b8de96bda4e1c996487b10904972ffb901e5f7a734)
-- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE (retrieved 2026-11-09T21:12:08Z; SHA-256 db2802dd8e3073d4d30d53e8195c98047c3a53998177460a3d7d1357974f02a1)
 
 ---
 
@@ -4398,6 +4500,40 @@ The README names Android emulators, a GUI worker, JSONL traces and HTML viewers.
 
 ---
 
+## PhoneHarness Bench
+
+Task definitions and verifier metadata for 124 mixed-action Android phone tasks and 30 safety tasks, where agents may act through app GUIs, device commands and MCP-style tools.
+
+- Catalog URL: https://awesomecua.com/resources/url-92b80b37a7a117acfd3c/
+- Original source: https://huggingface.co/datasets/PhoneHarness/phoneharness-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, tool-integration, safety-security
+- Evidence checked: 2026-11-10T06:29:29Z
+- ID: url:92b80b37a7a117acfd3c
+
+### Limitations
+
+Files are main_tasks.jsonl with a CSV mirror, safety_tasks.jsonl and dataset_summary.json; the release holds task definitions and verifier metadata only. Safety tasks carry SAFE_COMPLETE, CONFIRM_FIRST or NEVER_AUTO policy labels. The card declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-92b80b37a7a117acfd3c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/PhoneHarness/phoneharness-bench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/PhoneHarness/phoneharness-bench (retrieved 2026-11-10T06:29:29Z; SHA-256 76172803083e0404125ed5be7523cf2afaf47a5cf793511e2429fcd3be3957b0)
+- https://huggingface.co/api/datasets/PhoneHarness/phoneharness-bench (retrieved 2026-11-10T06:29:29Z; SHA-256 76172803083e0404125ed5be7523cf2afaf47a5cf793511e2429fcd3be3957b0)
+
+---
+
 ## PopupAttack
 
 Resources for evaluating GUI agents under malicious popup instructions.
@@ -4940,6 +5076,39 @@ The repository includes data, evaluation scripts and archived experiment outputs
 ### Primary evidence
 
 - https://raw.githubusercontent.com/mnluzimu/WebGen-Bench/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 f579d4f90c17ed8a9e862f2ba6b2862886637425fdce8fdf495ea37d246a5b10)
+
+---
+
+## WebHarbor
+
+Docker-based local mirrors of 153 real websites with auth and databases, plus 3,518 tasks with verifiers for evaluating and RL-training GUI web agents, and a control plane for sub-second site resets.
+
+- Catalog URL: https://awesomecua.com/resources/github-aiming-lab-webharbor/
+- Original source: https://github.com/aiming-lab/WebHarbor
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: sandbox, evaluation, web-navigation, reinforcement-learning
+- Evidence checked: 2026-11-10T06:29:27Z
+- ID: github:aiming-lab/webharbor
+
+### Limitations
+
+Prebuilt images on Docker Hub (about 20 GB for all sites); tasks are in Harbor format on Hugging Face with train, test and WebVoyager splits, and harnesses for browser-use, OpenCode and OpenWebRL are in harbor/. The authors report a 75.8 average for WebHarbor-4B on WebVoyager and Online-Mind2Web.
+
+- Record JSON: https://awesomecua.com/resources/github-aiming-lab-webharbor/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/aiming-lab/WebHarbor/db506e3a28d8829a8295a2bb5f06c299e1db47f6/README.md (retrieved 2026-11-10T06:29:27Z; SHA-256 850d1ffba550f7e2d776d69009cd2ea3aed05acf3b3bdc4d798facc41ef19080)
 
 ---
 

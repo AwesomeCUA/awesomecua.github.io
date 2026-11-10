@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/topics/efficiency/page/7/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
+- [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/)
+- [DesktopCtl](https://awesomecua.com/resources/github-yaroshevych-desktopctl/)
+- [Deterministic Computer-Use Automation](https://awesomecua.com/resources/github-joncody-computer-use-automation/)
+- [DietSurf](https://awesomecua.com/resources/github-100x-bot-dietsurf/)
+- [Digi-Q](https://awesomecua.com/resources/github-digirl-agent-digiq/)
 - [DistRL](https://awesomecua.com/resources/github-distrl-lab-distrl-open/)
 - [DOMShell](https://awesomecua.com/resources/github-apireno-domshell/)
 - [DrishtiGuard](https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/)
@@ -59,8 +64,3 @@ Full list: https://awesomecua.com/topics/efficiency/index.md
 - [Jev for Chrome](https://awesomecua.com/resources/github-chy4pro-jev-for-chrome/)
 - [Jev GUI Delegate](https://awesomecua.com/resources/github-yuta-fywoo-jev-gui-delegate/)
 - [Jev macOS Loop](https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/)
-- [Jev Ultrafast](https://awesomecua.com/resources/github-browser-use-jev-ultrafast/)
-- [jev-browser](https://awesomecua.com/resources/github-doruktarhan-jev-browser/)
-- [jev-browser](https://awesomecua.com/resources/github-mahmoudadelbghany-jev-browser/)
-- [jev-for-chrome](https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/)
-- [jev-use](https://awesomecua.com/resources/github-savka777-jev-use/)

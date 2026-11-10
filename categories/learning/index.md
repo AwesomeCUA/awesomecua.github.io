@@ -2,7 +2,7 @@
 
 Learning resources are courses, cookbooks, tutorials, example collections and curated lists for building and studying computer-use agents.
 
-> 36 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
+> 38 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T06:29:47Z.
 
 HTML page: https://awesomecua.com/categories/learning/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -10,32 +10,32 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ## How to choose
 
-| Learning resource | Platform | License | Linked records |
-| --- | --- | --- | --- |
-| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 9 |
-| [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) | Web | — | 5 |
-| [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE) | 4 |
-| [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | Web | [MIT (code)](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |
-| [Amazon Nova Act Samples](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/) | Web | — | 2 |
-| [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) | Web · Desktop · Cross-platform | — | 2 |
+| Learning resource | License | Linked records |
+| --- | --- | --- |
+| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | [Apache-2.0 (code)](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 9 |
+| [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) | — | 6 |
+| [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) | [Apache-2.0 (code)](https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE) | 5 |
+| [Amazon Nova Act Samples](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/) | — | 3 |
+| [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | [MIT (code)](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |
+| [awb-recipes](https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/) | [MIT (code)](https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE) | 2 |
 
 ## Questions
 
 ### Which learning resources are mentioned most in the catalog?
 
-[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) (8 records), [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) (5 records) and [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) (4 records) are mentioned in the reviewed sources of the most other catalog records.
+[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) (8 records), [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) (6 records) and [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) (5 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these learning resources cover?
 
-Of 36 reviewed learning resources, 29 are tagged web, 18 desktop, 18 cross-platform and 4 mobile; 1 has no platform recorded. An entry tagged with several platforms counts under each.
+Of 38 reviewed learning resources, 30 are tagged web, 19 desktop, 19 cross-platform and 4 mobile; 1 has no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which learning resources come with a research paper?
 
-1 of 36 links the arXiv paper that introduces or documents it: [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/).
+1 of 38 links the arXiv paper that introduces or documents it: [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/).
 
 ### Which licenses do learning resources declare?
 
-The most common declared licenses are MIT (11), Apache-2.0 (4) and Unlicense (1). 20 of 36 have no declared license in their record.
+The most common declared licenses are MIT (11), Apache-2.0 (6) and Unlicense (1). 20 of 38 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -144,6 +144,39 @@ The README lists four notebooks and a quick-start command requiring Plasmate, Ju
 
 ---
 
+## Amazon Nova Act Samples
+
+Code examples and reference applications show how to build browser workflows with Amazon Nova Act and deploy the SDK on AWS compute services.
+
+- Catalog URL: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/
+- Original source: https://github.com/amazon-agi-labs/nova-act-samples
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, web-navigation, workflow, human-in-the-loop
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:amazon-agi-labs/nova-act-samples
+
+### Limitations
+
+The repository organizes AWS CDK deployment samples, lightweight SDK examples, and complete applications into separate directories. The examples require dependency installation and SDK authentication configuration.
+
+- Record JSON: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-samples/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 bf9262920c20fa71c0bfa305d3b05ac78c183f23c07537e0d9840317e4ce4878)
+
+---
+
 ## Steel Cookbook
 
 A collection of Steel browser automation examples covering browser libraries, screenshot-driven computer-use models and agent frameworks in several programming languages.
@@ -178,36 +211,37 @@ The repository lists example directories and catalogs TypeScript, Python, Go and
 
 ---
 
-## Amazon Nova Act Samples
+## awb-recipes
 
-Code examples and reference applications show how to build browser workflows with Amazon Nova Act and deploy the SDK on AWS compute services.
+A collection of dated recipes for browser agents to complete tasks on logged-in sites, recording action steps, selectors, caveats and verification status.
 
-- Catalog URL: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/
-- Original source: https://github.com/amazon-agi-labs/nova-act-samples
+- Catalog URL: https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/
+- Original source: https://github.com/jeet-dhandha/awb-recipes
 - Kind: learning
 - Review: curated
 - Scope: core
 - Environments: web
-- Topics: automation, web-navigation, workflow, human-in-the-loop
-- Evidence checked: 2026-11-09T06:16:37Z
-- ID: github:amazon-agi-labs/nova-act-samples
+- Topics: web-navigation, workflow, automation
+- Evidence checked: 2026-11-09T21:09:42Z
+- ID: github:jeet-dhandha/awb-recipes
 
 ### Limitations
 
-The repository organizes AWS CDK deployment samples, lightweight SDK examples, and complete applications into separate directories. The examples require dependency installation and SDK authentication configuration.
+Recipes are stored as JSON files, and site-independent guidance appears in a patterns directory. The source declares an MIT license.
 
-- Record JSON: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/record.json
+- Record JSON: https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/record.json
 
 ### License declarations
 
-- code: not recorded
+- code: MIT — https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-samples/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 bf9262920c20fa71c0bfa305d3b05ac78c183f23c07537e0d9840317e4ce4878)
+- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/README.md (retrieved 2026-11-09T21:09:42Z; SHA-256 54ebfe9b9b2b81fc6b77e526b84f084ca37e393c09dd9577a15865395fc00ee7)
+- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE (retrieved 2026-11-09T21:12:04Z; SHA-256 01613c1dd35e25e8e14b6487025f393d2535b9d544b4862b5d263ff631931f23)
 
 ---
 
@@ -480,40 +514,6 @@ The repository contains a README and supporting documentation with categorized p
 
 ---
 
-## awb-recipes
-
-A collection of dated recipes for browser agents to complete tasks on logged-in sites, recording action steps, selectors, caveats and verification status.
-
-- Catalog URL: https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/
-- Original source: https://github.com/jeet-dhandha/awb-recipes
-- Kind: learning
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, workflow, automation
-- Evidence checked: 2026-11-09T21:09:42Z
-- ID: github:jeet-dhandha/awb-recipes
-
-### Limitations
-
-Recipes are stored as JSON files, and site-independent guidance appears in a patterns directory. The source declares an MIT license.
-
-- Record JSON: https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/README.md (retrieved 2026-11-09T21:09:42Z; SHA-256 54ebfe9b9b2b81fc6b77e526b84f084ca37e393c09dd9577a15865395fc00ee7)
-- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE (retrieved 2026-11-09T21:12:04Z; SHA-256 01613c1dd35e25e8e14b6487025f393d2535b9d544b4862b5d263ff631931f23)
-
----
-
 ## Awesome Computer Use Ecosystem
 
 A curated reading list of computer-use tools for desktop and browser agents, organized by product ecosystem and capability, with a separate project catalog.
@@ -611,6 +611,40 @@ The repository includes the codelab text and a React demo application. The instr
 ### Primary evidence
 
 - https://raw.githubusercontent.com/derailed-dash/agentic-ui-testing/HEAD/README.md (retrieved 2026-11-09T19:57:27Z; SHA-256 6a72b59448d07d5af2973097486154957d22f7d793400fae9bec1fab1fe70391)
+
+---
+
+## GUI Agent Research Landscape
+
+A research-landscape analysis of GUI and OS agent papers from 2016 to 2025: citation mining, keyword filtering to about 600 papers, LLM-extracted contributions, period trend tables and citation-network rankings.
+
+- Catalog URL: https://awesomecua.com/resources/github-harpreetsahota204-gui-agent-research-landscape/
+- Original source: https://github.com/harpreetsahota204/gui_agent_research_landscape
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: survey
+- Evidence checked: 2026-11-10T06:29:24Z
+- ID: github:harpreetsahota204/gui_agent_research_landscape
+
+### Limitations
+
+The repository holds the extraction, filtering, analysis and visualization scripts plus JSON outputs enriched with Qwen3-8B and Qwen3-14B. Its seed list comes from the LLM-Brained GUI Agents Survey dataset.
+
+- Record JSON: https://awesomecua.com/resources/github-harpreetsahota204-gui-agent-research-landscape/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/harpreetsahota204/gui_agent_research_landscape/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/harpreetsahota204/gui_agent_research_landscape/e61550476ce577d7fa3581adac78d169eeceaf12/README.md (retrieved 2026-11-10T06:29:24Z; SHA-256 9e6b9ce1096b1006d39d987135d90535a772e1f06fdfc943b81e1ff337943601)
+- https://raw.githubusercontent.com/harpreetsahota204/gui_agent_research_landscape/HEAD/LICENSE (retrieved 2026-11-10T06:22:25Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -745,6 +779,40 @@ The repository describes eight demos, including local model and cloud model conf
 ### Primary evidence
 
 - https://raw.githubusercontent.com/PredicateSystems/predicate-sdk-playground/HEAD/README.md (retrieved 2026-11-09T21:09:42Z; SHA-256 3dfc998bab1d914b5cee533dc0c0eb3e4e6376491183e13aaf938fd09c85a72a)
+
+---
+
+## TagUI Bricks
+
+A set of sample TagUI workflows for websites and desktop apps, such as emailing forex rates through Gmail, OCR on tax notices and filling Word letters, each offered as a downloadable template.
+
+- Catalog URL: https://awesomecua.com/resources/github-aimakerspace-tagui-bricks/
+- Original source: https://github.com/aimakerspace/TagUI-Bricks
+- Kind: learning
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop, macos
+- Topics: automation, workflow
+- Evidence checked: 2026-11-10T06:29:22Z
+- ID: github:aimakerspace/tagui-bricks
+
+### Limitations
+
+GitHub serves the repository as aisingapore/TagUI-Bricks; its eight workflow folders each have a template ZIP in the v1.0.0 release, and the README shows GIF demos for seven workflows and a PNG cover image for Xero Accounting. The Gmail and Microsoft Word steps were built on macOS at 125% and 200% zoom, and their images may need replacing in other environments. The LICENSE file is Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/github-aimakerspace-tagui-bricks/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/aimakerspace/TagUI-Bricks/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/aisingapore/TagUI-Bricks/9f9833e513a8baceeecf3a89755b397c8fe175a0/README.md (retrieved 2026-11-10T06:29:22Z; SHA-256 260358d468889972fb1f6793d49db3c026ec14b5c6ff1ac098ebbd93f3015262)
+- https://raw.githubusercontent.com/aimakerspace/TagUI-Bricks/HEAD/LICENSE (retrieved 2026-11-10T06:22:22Z; SHA-256 38a846dad5dd5c8a3479086647c5773407b770cc2d15309c589105afdd445055)
 
 ---
 

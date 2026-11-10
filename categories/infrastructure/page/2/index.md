@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/categories/infrastructure/page/2/
 
 Full category annotations: https://awesomecua.com/categories/infrastructure/index.md
 
+- [Latere Sandbox Images](https://awesomecua.com/resources/github-latere-ai-sandbox-images/)
+- [Lume](https://awesomecua.com/resources/github-trycua-lume/)
+- [Mobile Env](https://awesomecua.com/resources/github-x-lance-mobile-env/)
+- [modal-computer-use](https://awesomecua.com/resources/github-ashtonchew-modal-computer-use/)
+- [Nehemiah](https://awesomecua.com/resources/github-boringcomputers-nehemiah/)
 - [Neo Lab](https://awesomecua.com/resources/github-belarusian-neo-lab/)
 - [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/resources/url-ce775111626bae220596/)
 - [OSWorld Windows VM images](https://awesomecua.com/resources/url-232a1698849e2fea425c/)

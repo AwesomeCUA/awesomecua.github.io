@@ -4,6 +4,13 @@ HTML page: https://awesomecua.com/categories/agent/page/2/
 
 Full category annotations: https://awesomecua.com/categories/agent/index.md
 
+- [OpenAI Computer Use Sample Apps](https://awesomecua.com/resources/github-openai-openai-cua-sample-app/)
+- [OpenBridge](https://awesomecua.com/resources/github-afk-surf-openbridge/)
+- [OpenMinis](https://awesomecua.com/resources/github-openminis-openminis/)
+- [OpenMuse](https://awesomecua.com/resources/github-copilotkit-openmuse/)
+- [Operit AI](https://awesomecua.com/resources/github-aaswordman-operit/)
+- [Operit2](https://awesomecua.com/resources/github-aaswordman-operit2/)
+- [Orca](https://awesomecua.com/resources/github-echovic-orca-agent/)
 - [OS-Copilot](https://awesomecua.com/resources/github-os-copilot-os-copilot/)
 - [Page Agent](https://awesomecua.com/resources/github-alibaba-page-agent/)
 - [Phone Agent](https://awesomecua.com/resources/github-boboabw-phone-agent/)
@@ -97,10 +104,3 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [BrowserGPT](https://awesomecua.com/resources/github-mayt-browsergpt/)
 - [BrowserPilot](https://awesomecua.com/resources/github-ai-naymul-browserpilot/)
 - [Browy](https://awesomecua.com/resources/github-browyhq-browy/)
-- [Buddy](https://awesomecua.com/resources/github-ghorbelhamdi-buddy-android/)
-- [BugCraft](https://awesomecua.com/resources/url-ec17d3267cd49548d2d4/)
-- [Butler](https://awesomecua.com/resources/github-coasty-ai-butler/)
-- [BX Browser](https://awesomecua.com/resources/github-painbaba-bx-browser/)
-- [Bytebot](https://awesomecua.com/resources/github-bytebot-ai-bytebot/)
-- [CAAP Agent](https://awesomecua.com/resources/github-caap-agent-caap-agent/)
-- [Caesar Agent](https://awesomecua.com/resources/github-jasonzliang-caesar-agent/)

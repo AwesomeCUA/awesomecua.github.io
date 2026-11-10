@@ -125,6 +125,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   Continuous browser QA harness that reproduces reported bugs and autonomously expands end-to-end test coverage on live web URLs.
 - [done-or-not](https://awesomecua.com/resources/github-tatra-labs-done-or-not/) — Date not recorded
   done-or-not is an offline benchmark of 910 computer-use trajectories across three simulated computers for grading completion verifiers.
+- [GUI_Reflection_Task_Suite_Benchmark](https://awesomecua.com/resources/url-dea0e09f027df704ca00/) — Date not recorded
+  Evaluation split of the GUI Reflection Task Suite, with JSONL files for action verification, action reversal and mistake-informed reattempts on ScreenSpot and ScreenSpot v2.
 - [HoloSkill Gym](https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/) — Date not recorded
   Gym environment and optimization framework for self-evolving CLI and computer-use agent skills.
 - [Kane](https://awesomecua.com/resources/github-venkat5599-kane/) — Date not recorded
@@ -136,9 +138,15 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
 
 - [GUI_Reflection_SFT_train](https://awesomecua.com/resources/url-528f6fe128b77e9615aa/) — Date not recorded
   Offline supervised fine-tuning data for GUI Reflection, released as JSONL files. Users obtain the corresponding images from the source datasets named in the card.
+- [GUI_Reflection_Task_Suite_train](https://awesomecua.com/resources/url-f68939821685c9dcc78c/) — Date not recorded
+  Training split of the GUI Reflection Task Suite: JSONL files for action verification, action reversal and mistake-informed reattempt, built on AndroidControl, GUI Odyssey, AMEX, OS-Atlas and Wave UI.
 
 ## Models
 
+- [GUI_Reflection_8b_pretrain](https://awesomecua.com/resources/url-534151cf8b1e1df5bf96/) — Date not recorded
+  GUI Reflection checkpoint from the GUI pre-training stage, trained on grounding, captioning, OCR and VQA data plus reflection-task data, before the offline SFT stage.
+- [GUI_Reflection_8b_SFT](https://awesomecua.com/resources/url-e2c687595af929b4332a/) — Date not recorded
+  Final GUI Reflection agent checkpoint, built on InternVL, that predicts mobile GUI actions from a screenshot and task goal after training on reflection and error-correction data.
 - [InfiGUI-R1 3B](https://awesomecua.com/resources/url-35b9879a351cc3b3d7d5/) — Date not recorded
   A Qwen2.5-VL checkpoint trained with the Actor2Reasoner procedure to combine interface grounding with planning and recovery reasoning.
 - [Northstar-CUA-Fast](https://awesomecua.com/resources/url-52de9679739ad0a50f69/) — Date not recorded

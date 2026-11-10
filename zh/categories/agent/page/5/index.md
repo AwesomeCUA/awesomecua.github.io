@@ -4,6 +4,12 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/5/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/zh/resources/github-333-wg-pi-wm/)：基于 pi-agent 构建的桌面 AI 智能体工作空间，用于执行本地任务和浏览器自动化。
+- [Piskie](https://awesomecua.com/zh/resources/github-piskie-dev-piskie/)：面向真实网页的桌面 AI 智能体，内置具备反检测功能的指纹浏览器。
+- [PocketCode](https://awesomecua.com/zh/resources/github-m1ssbe4r-pocketcode/)：在设备端运行的 Android AI 编码和自动化智能体，能够直接在手机上构建和运行应用。
+- [Pocketwatch](https://awesomecua.com/zh/resources/github-psamme-pocketwatch/)：面向 iPhone 实体设备应用的 AI 测试版测试智能体，通过 macOS iPhone Mirroring 执行用户操作流程。
+- [Pointer](https://awesomecua.com/zh/resources/url-98122987ca3e7c764d0e/)：Pointer 介绍一款桌面计算机使用智能体：先检查任务可行性，再规划阶段目标，由执行器结合界面、代码与浏览器工具完成任务。
+- [PokeClaw](https://awesomecua.com/zh/resources/github-agents-io-pokeclaw/)：Android 应用在设备端运行手机控制智能体，通过 Accessibility 服务读取 UI 树，并用设备端 Gemma 4 或可选云端模型执行点击、滑动和输入。
 - [Portal Operator](https://awesomecua.com/zh/resources/github-pwmcgovern-afk-portal-operator/)：自主浏览器智能体，旨在真实浏览器中端到端操作传统保险公司网页门户。
 - [Prism-Shadow Travel Agent](https://awesomecua.com/zh/resources/github-prism-shadow-travel-agent/)：开源旅行规划浏览器智能体，可在实时预订网站上搜索和比较航班与酒店。
 - [PrivateAI for Mac](https://awesomecua.com/zh/resources/github-jacobjiangwei-privateai-for-mac/)：由 Ollama 驱动的原生 macOS 本地 AI 智能体，具备系统控制、文件工具和浏览器自动化功能。

@@ -627,6 +627,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   A benchmark for agent safety in multi-step simulations involving browser, filesystem, terminal and messaging tools. It tests responses to ambiguous, conflicting and adversarial instructions.
 - [OS-Harm](https://awesomecua.com/zh/resources/github-tml-epfl-os-harm/) — Date not recorded
   Benchmark for safety of computer-use agents across misuse, prompt injection, and unintended model behavior.
+- [PhoneHarness Bench](https://awesomecua.com/zh/resources/url-92b80b37a7a117acfd3c/) — Date not recorded
+  Task definitions and verifier metadata for 124 mixed-action Android phone tasks and 30 safety tasks, where agents may act through app GUIs, device commands and MCP-style tools.
 - [PoisonPage](https://awesomecua.com/zh/resources/github-redbotster-poisonpage/) — Date not recorded
   Adversarial testbed demonstrating indirect prompt injection and API-key exfiltration against AI shopping web agents.
 - [PopupAttack](https://awesomecua.com/zh/resources/github-salt-nlp-popupattack/) — Date not recorded
@@ -778,6 +780,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   BLAXCY is a policy-gated, self-verifying Linux desktop computer-use agent with action confirmation and state verification.
 - [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/zh/resources/github-momoyi0929-gui-agent/) — Date not recorded
   Bounded multimodal desktop GUI agent built with LangChain and LangGraph featuring OCR grounding, action safety checks, and Mind2Web/ScreenAgent evals.
+- [Brotector](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-brotector/) — Date not recorded
+  JavaScript test page that detects webdriver automation from Selenium, Puppeteer, Playwright, nodriver and related tools through leaks such as navigator.webdriver, Runtime.enable and untrusted input events.
 - [Browser Agent Bridge](https://awesomecua.com/zh/resources/github-rxluz-browser-agent-bridge/) — Date not recorded
   Secure local Model Context Protocol bridge for operating an existing authenticated Chrome session.
 - [Browser Bridge MCP](https://awesomecua.com/zh/resources/github-adbarc92-mcp-browser-bridge/) — Date not recorded
@@ -800,6 +804,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   An MCP browser-control bridge that uses a Chrome extension and native host to let agents inspect and act in existing tabs and signed-in sessions.
 - [browser-handoff](https://awesomecua.com/zh/resources/github-synacktraa-browser-handoff/) — Date not recorded
   Human-in-the-loop handoff utility for browser-use agents that pauses automation for manual user intervention and resumes seamlessly.
+- [browser-with-fingerprints](https://awesomecua.com/zh/resources/github-bablosoft-browser-with-fingerprints/) — Date not recorded
+  A Windows Node.js package that launches browsers with fingerprints fetched from the FingerprintSwitcher service and serves as the base for framework-specific plugins.
 - [BrowserGuard](https://awesomecua.com/zh/resources/github-david-wu1119-browserguard/) — Date not recorded
   BrowserGuard is a runtime safety layer that evaluates proposed browser and computer-use agent actions against security policies.
 - [BrowserRig](https://awesomecua.com/zh/resources/github-castor6-browserrig/) — Date not recorded
@@ -826,6 +832,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Local-first OpenAI Codex skill and Chrome extension for safe, user-bounded browser tab control.
 - [cookie-use](https://awesomecua.com/zh/resources/github-leeguooooo-cookie-use/) — Date not recorded
   cookie-use stores website sessions in an encrypted vault and lets agents select accounts and apply their sessions to browser contexts.
+- [Cowork Protocol](https://awesomecua.com/zh/resources/github-ellmos-ai-cowork-protocol/) — Date not recorded
+  A WebMCP collaboration protocol for people and web agents: agents read bounded field focus packets, propose visible changes that a human click applies, and act alone only inside scoped leases.
 - [cua_agent](https://awesomecua.com/zh/resources/github-lacassef-computeruse/) — Date not recorded
   cua_agent is a modular Python computer-use framework with OS-agnostic planning, semantic UI grounding, and policy-checked desktop/browser drivers.
 - [CUGA](https://awesomecua.com/zh/resources/github-cuga-project-cuga-agent/) — Date not recorded
@@ -892,6 +900,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   HarmonyGuard enforces adaptive safety policies and dual-objective utility-security optimization for autonomous web and computer-use agents.
 - [HelpRelay WebMCP](https://awesomecua.com/zh/resources/github-akigarage-helprelay-webmcp/) — Date not recorded
   Dependency-free WebMCP collaboration runtime enabling human operators and browser agents to co-navigate web tasks safely.
+- [Hermes Jev Skills](https://awesomecua.com/zh/resources/github-kerpopule-hermes-jev-skills/) — Date not recorded
+  SKILL.md skills for Hermes, Claude Code and Codex agents that pass small decisions to the Jev model, including desktop and browser skills in which Jev picks each next action from a caller-built table.
 - [Hermes login-bridge Plugin](https://awesomecua.com/zh/resources/github-kfastov-hermes-plugin-login-bridge/) — Date not recorded
   Hermes Agent plugin that temporarily hands the agent's browser session to a human operator to complete a login.
 - [IdemStep](https://awesomecua.com/zh/resources/github-supermarioyl-idemstep/) — Date not recorded
@@ -1014,6 +1024,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Governable, local-first desktop agent runtime with policy enforcement and auditable execution traces.
 - [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/zh/resources/url-4ee15c39dc38f230ad58/) — Date not recorded
   Runtime trust layer for browser agents: a sidecar checks each action against local policy before it runs, and SDKs turn pages into compact ranked element snapshots and verify outcomes with DOM assertions.
+- [predicate-authorityd](https://awesomecua.com/zh/resources/github-predicatesystems-predicate-authority-sidecar/) — Date not recorded
+  Rust sidecar that checks each agent action, such as a browser click on a URL, against local ALLOW/DENY policy rules and issues short-lived mandates, with a terminal dashboard and a web UI.
 - [predicate-secure](https://awesomecua.com/zh/resources/github-predicatesystems-predicate-secure/) — Date not recorded
   predicate-secure is a security wrapper for browser agents that checks actions against policy, verifies outcomes, and records audit evidence.
 - [PrivateAI for Mac](https://awesomecua.com/zh/resources/github-jacobjiangwei-privateai-for-mac/) — Date not recorded
@@ -1024,10 +1036,14 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Pre-approval review and verification runtime where every agent finding and UI state is backed by a SHA-hashed capture.
 - [PrzedWysylka WebMCP Lab](https://awesomecua.com/zh/resources/github-greqone-przedwysylkawebmcplab/) — Date not recorded
   Browser-local WebMCP validation lab where agent proposals are verified against JSON schemas before human approval.
+- [puppeteer-with-fingerprints](https://awesomecua.com/zh/resources/github-bablosoft-puppeteer-with-fingerprints/) — Date not recorded
+  puppeteer-with-fingerprints is a Windows plugin that launches Puppeteer browsers with fingerprints fetched from the FingerprintSwitcher service.
 - [Pursuit Permit WebMCP](https://awesomecua.com/zh/resources/github-moaqil-pursuit-permit-webmcp/) — Date not recorded
   Revision-bound capacity permit protocol for WebMCP browser agents that invalidates stale approvals when page state changes.
 - [QUESTZ](https://awesomecua.com/zh/resources/github-pnx89-questz/) — Date not recorded
   Fail-closed browser automation reliability framework that halts execution on structural DOM drift before corrupting downstream data.
+- [rebrowser-bot-detector](https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-bot-detector/) — Date not recorded
+  Browser test page whose checks flag automation leaks from Puppeteer and Playwright, such as Runtime.enable use, injected source URLs, main-world execution and headless signals, each with a suggested fix.
 - [rebrowser-patches](https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-patches/) — Date not recorded
   rebrowser-patches modifies Puppeteer and Playwright to reduce browser automation signals, and provides drop-in packages for both libraries.
 - [REDLINE WebMCP](https://awesomecua.com/zh/resources/github-eloiramos-redline/) — Date not recorded
@@ -1044,6 +1060,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   A framework that generates and validates desktop GUI tasks for OSWorld, then creates paired safety tasks while retaining the original goal and completion evaluator.
 - [Secure Browser MCP](https://awesomecua.com/zh/resources/github-pranavgawasproject-secure-browser-mcp/) — Date not recorded
   Security-hardened browser-automation MCP server featuring persistent sessions, domain allowlists, and SSRF protection.
+- [selenium-with-fingerprints](https://awesomecua.com/zh/resources/github-bablosoft-selenium-with-fingerprints/) — Date not recorded
+  selenium-with-fingerprints is a Windows plugin that launches Selenium WebDriver browsers with fingerprints fetched from the FingerprintSwitcher service.
 - [sentineldesk-agent](https://awesomecua.com/zh/resources/github-sentineldesk-agent/) — Date not recorded
   sentineldesk-agent operates a Linux desktop through MCP tools, offering terminal and browser chat interfaces while logging goals, actions and results.
 - [SIH26 Privacy-Preserving Browser Agent](https://awesomecua.com/zh/resources/github-dalwadi-aryan-pranavkumar-sih-26/) — Date not recorded

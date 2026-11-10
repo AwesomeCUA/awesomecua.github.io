@@ -38,6 +38,7 @@ Full list: https://awesomecua.com/topics/action-prediction/index.md
 - [asil-qwen35-9b-rl](https://awesomecua.com/resources/url-c5cedb2f95336a8e48aa/)
 - [asil-qwen35-9b-sft](https://awesomecua.com/resources/url-9960d240939244c3edaa/)
 - [Auto-UI](https://awesomecua.com/resources/url-952cb4c3f308418aa85b/)
+- [CLM-v0.1-8B](https://awesomecua.com/resources/url-0b272935f82c063d9384/)
 - [CogAgent 9B 20241220](https://awesomecua.com/resources/url-c5eb975c0d66f8a2954f/)
 - [cogagent-vqa-hf](https://awesomecua.com/resources/url-64d0220e17b4e67485f3/)
 - [ColorGUI-32B](https://awesomecua.com/resources/url-38672ac9af2e25fbfb58/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/action-prediction/index.md
 - [GUI-Libra 7B](https://awesomecua.com/resources/url-f52794224f9541fd9eb3/)
 - [GUI-Libra 8B](https://awesomecua.com/resources/url-6694391b0cf50389d2e9/)
 - [GUI-Owl 1.5 2B Instruct](https://awesomecua.com/resources/url-0b94b29f2afbfe8a3abb/)
-- [GUI-Owl 1.5 32B Instruct](https://awesomecua.com/resources/url-6a943fb3667791b6cdb4/)

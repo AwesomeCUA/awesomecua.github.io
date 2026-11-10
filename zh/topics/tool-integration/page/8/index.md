@@ -4,6 +4,12 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/tool-integration/index.md
 
+- [Browser Workbench for Codex](https://awesomecua.com/zh/resources/github-slemmis-browser-workbench-for-codex/)
+- [browser-account-guard & flaky-browser-ui](https://awesomecua.com/zh/resources/github-praticoeq-sudo-browser-account-guard/)
+- [browser-agent-kit](https://awesomecua.com/zh/resources/github-nicolascine-browser-agent-kit/)
+- [browser-for-ai (bfa)](https://awesomecua.com/zh/resources/github-icueth-browser-for-ai/)
+- [browser-gateway](https://awesomecua.com/zh/resources/github-browser-gateway-browser-gateway/)
+- [browser-link](https://awesomecua.com/zh/resources/github-jobshimo-browser-link/)
 - [browser-mcp](https://awesomecua.com/zh/resources/github-sandraschi-browser-mcp/)
 - [browser-rs-mcp](https://awesomecua.com/zh/resources/github-maestrojeong-browser-rs-mcp/)
 - [browser-use-capsolver](https://awesomecua.com/zh/resources/github-capsolver-browser-use-capsolver/)
@@ -54,13 +60,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/8/
 - [Chromanche](https://awesomecua.com/zh/resources/github-marcobazzani-chromanche/)
 - [Chrome Actuator](https://awesomecua.com/zh/resources/github-xlreon-chrome-actuator/)
 - [Chrome Agent Bridge](https://awesomecua.com/zh/resources/github-escapewu-chrome-agent-bridge/)
+- [Chrome Bridge](https://awesomecua.com/zh/resources/github-frsorrentino-chrome-bridge/)
 - [Chrome Control MCP](https://awesomecua.com/zh/resources/github-randynorthrup-chrome-control-mcp/)
 - [Chrome DevTools MCP](https://awesomecua.com/zh/resources/github-chromedevtools-chrome-devtools-mcp/)
 - [Chrome DevTools MCP Persistent Bridge](https://awesomecua.com/zh/resources/github-dev-newb-chrome-devtools-mcp-persistent-bridge/)
-- [Chrome Extension Tester MCP](https://awesomecua.com/zh/resources/github-bhuvan-rj-chrome-extension-testing-mcp/)
-- [Chrome Faithful](https://awesomecua.com/zh/resources/github-bpc-oss-chrome-faithful/)
-- [Chrome for AI](https://awesomecua.com/zh/resources/github-pelag-michael-chrome-for-ai/)
-- [Chrome Live MCP](https://awesomecua.com/zh/resources/github-wankaiyi-chrome-live-mcp/)
-- [Chrome MCP Docker](https://awesomecua.com/zh/resources/github-null-runner-chrome-mcp-docker/)
-- [Chrome MCP Server (18 Tools)](https://awesomecua.com/zh/resources/github-syedazharmbnr1-chrome-mcp-server/)
-- [Chrome Orchestrator](https://awesomecua.com/zh/resources/github-sh7vansh-chrome-orchestrator/)

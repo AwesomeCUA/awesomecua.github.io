@@ -286,6 +286,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Aider is an AI pair-programming CLI and browser agent that maps repositories, edits multi-file codebases, and runs linters and test suites.
 - [AIHawk](https://awesomecua.com/resources/github-feder-cr-aihawk/) — Date not recorded
   AIHawk searches and scores jobs against a resume, then uses Firefox to fill and submit applications selected by the user. It retains each page's response and a screenshot.
+- [Amazon Nova Act Human Intervention Service](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-human-intervention/) — Date not recorded
+  A reference AWS deployment that adds approval requests and live UI takeover to Nova Act browser workflows, with a Python client SDK and CDK stacks.
 - [annotate-mcp](https://awesomecua.com/resources/github-elainemhr-annotate-mcp/) — Date not recorded
   Model Context Protocol server that injects a drawing and comment overlay into live webpages so coding agents can read visual markup.
 - [Apprentice](https://awesomecua.com/resources/github-bluzername-apprentice/) — Date not recorded
@@ -344,6 +346,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   macOS client for running and reviewing coding-agent runtimes; its built-in runtime bundles a computer-use helper that acts on the frontmost app's numbered Accessibility elements, plus Chrome control.
 - [Chrome Control MCP](https://awesomecua.com/resources/github-randynorthrup-chrome-control-mcp/) — Date not recorded
   Visible, secure Chrome control server for AI assistants using MCP, Native Messaging, and the Chrome DevTools Protocol.
+- [Chromium Bridge](https://awesomecua.com/resources/github-dashi96-chromium-bridge/) — Date not recorded
+  Chrome extension and stdio MCP server that let Claude Code drive any Chromium browser with tabs, clicks, typing, screenshots and accessibility-tree reads, plus an in-browser chat panel with an approval mode.
 - [Claude in Safari](https://awesomecua.com/resources/github-dolomite1337-claude-in-safari/) — Date not recorded
   Open-source macOS Safari web extension that lets Claude read pages and execute interactive browser tasks locally.
 - [ClawPilot Command Center](https://awesomecua.com/resources/github-edgeagent-clawpilot-command-center/) — Date not recorded
@@ -372,6 +376,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Copilot Studio agent tool that operates websites and Windows desktop apps on a configured machine through a computer-using model, with stored credentials, site and app allow lists and human supervision.
 - [Council Bridge](https://awesomecua.com/resources/github-christopherdent-council-bridge/) — Date not recorded
   Council Bridge is a browser extension that routes human messages between assigned ChatGPT and Gemini tabs and captures their replies in a side panel.
+- [Cowork Protocol](https://awesomecua.com/resources/github-ellmos-ai-cowork-protocol/) — Date not recorded
+  A WebMCP collaboration protocol for people and web agents: agents read bounded field focus packets, propose visible changes that a human click applies, and act alone only inside scoped leases.
 - [Crimson-Heart](https://awesomecua.com/resources/github-yeyvhaiou-crimson-heart/) — Date not recorded
   Persistent multimodal desktop agent with explicit runtime state management, priority-aware scheduling, and interruptible execution.
 - [Cursor Companion (MacScreenCompanion)](https://awesomecua.com/resources/github-pradyut-das-macscreencompanion/) — Date not recorded
@@ -526,6 +532,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Policy-compliant autonomous AI browser agent operating in local context with transparent intent logging and human oversight.
 - [MyFood Hermes Agent](https://awesomecua.com/resources/github-delltrak-myfood-hermes-agent/) — Date not recorded
   Safety-first Hermes browser agent for ordering food through a visible web browser with explicit checkout confirmation.
+- [Nakama](https://awesomecua.com/resources/github-ahmadrosid-nakama/) — Date not recorded
+  A team AI agent platform, run as managed cloud or one Docker container, whose agents can drive a per-user Kernel cloud browser or Chrome on the server to open pages, click and fill forms.
 - [Nanobrowser](https://awesomecua.com/resources/github-nanobrowser-nanobrowser/) — Date not recorded
   A browser-extension agent that reads pages, interacts with elements and moves between tabs from a side-panel task interface.
 - [nanoMuse](https://awesomecua.com/resources/github-nano-muse-nanomuse/) — Date not recorded

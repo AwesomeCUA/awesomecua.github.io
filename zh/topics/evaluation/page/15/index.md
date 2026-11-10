@@ -19,6 +19,7 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/15/
 - [agentic-browser-boundary-tests](https://awesomecua.com/zh/resources/github-larrypeseckis-agentic-browser-boundary-tests/)
 - [AgentReady](https://awesomecua.com/zh/resources/github-williehems-agentready/)
 - [AgentRewardBench](https://awesomecua.com/zh/resources/github-mcgill-nlp-agent-reward-bench/)
+- [AI GameStore](https://awesomecua.com/zh/resources/github-lance-ying-aigamestore/)
 - [AndroidArena](https://awesomecua.com/zh/resources/github-androidarenaagent-androidarena/)
 - [AndroidControl-Curated](https://awesomecua.com/zh/resources/url-dda8a0f1413a6bc7c26f/)
 - [AndroidDaily](https://awesomecua.com/zh/resources/url-8697c910c05d48152916/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/15/
 - [Collision Canary](https://awesomecua.com/zh/resources/github-mystiquemide-collision-canary/)
 - [ColorBench](https://awesomecua.com/zh/resources/github-madeagents-colorbench/)
 - [Computer Agent Arena](https://awesomecua.com/zh/resources/github-xlang-ai-computer-agent-arena/)
-- [CRAB](https://awesomecua.com/zh/resources/github-camel-ai-crab/)

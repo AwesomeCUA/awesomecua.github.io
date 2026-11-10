@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/data-generation/page/10/
 
 Full list: https://awesomecua.com/topics/data-generation/index.md
 
+- [AutoGUI code](https://awesomecua.com/resources/github-zjulihongxin-autogui/)
+- [AWorld-RL](https://awesomecua.com/resources/github-inclusionai-agenticlearning/)
+- [Browser AI Agent Examples (Tiered Web Agent)](https://awesomecua.com/resources/github-quantumproxies-browser-ai-agent-examples/)
 - [Browser4](https://awesomecua.com/resources/github-platonai-browser4/)
 - [BrowserPilot](https://awesomecua.com/resources/github-ai-naymul-browserpilot/)
 - [Captr for macOS](https://awesomecua.com/resources/github-anaishowland-captr-macos/)
@@ -54,13 +57,10 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [Multi-Agent Browser](https://awesomecua.com/resources/github-sanzizlohar-multi-agent-browser/)
 - [NNetNav](https://awesomecua.com/resources/github-murtyshikhar-nnetnav/)
 - [NotebookLM for Codex](https://awesomecua.com/resources/github-jockeys97-notebooklm-codex-skill/)
+- [Online Environment for GUI Reflection](https://awesomecua.com/resources/github-penghao-wu-gui-reflection-env/)
 - [openadapt-capture](https://awesomecua.com/resources/github-openadaptai-openadapt-capture/)
 - [openadapt-ml](https://awesomecua.com/resources/github-openadaptai-openadapt-ml/)
 - [OpenMobile code](https://awesomecua.com/resources/github-njucckevin-openmobile-code/)
 - [PC-Agent-E training and deployment](https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/)
 - [Perplexity Toolkit](https://awesomecua.com/resources/github-mfang0126-perplexity-toolkit/)
 - [Plan-and-Act](https://awesomecua.com/resources/github-squeezeailab-plan-and-act/)
-- [Project Tendril](https://awesomecua.com/resources/github-gadgethd-project-tendril/)
-- [Proposer-Agent-Evaluator (PAE)](https://awesomecua.com/resources/github-amazon-science-pae/)
-- [reverseloom](https://awesomecua.com/resources/github-kuichi-x-reverseloom/)
-- [rtrvr CLI & SDK](https://awesomecua.com/resources/github-rtrvr-ai-rtrvr-cli/)

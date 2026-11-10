@@ -4,6 +4,14 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/page/2/ · [English](
 
 完整类别注释：https://awesomecua.com/zh/categories/dataset/index.md
 
+- [KNOWS Benchmark](https://awesomecua.com/zh/resources/url-573954fad8617c3d5e57/)：KNOWS 提供 110 项网页智能体任务的提示词和评分细则，用于在 Google Workspace 中创建文档、电子表格和幻灯片。
+- [kuangtie/GUI-Robust](https://awesomecua.com/zh/resources/url-369456114b26b0ff0a05/)：GUI-Robust 数据的 Hub 发布版本：包含 GUI 任务的逐步截图及 JSON 标注，任务涵盖七类真实场景异常，可用 GUI-Robust 评测脚本评估单步定位与完整任务成功率。
+- [LexBench-Trajectory-Replay](https://awesomecua.com/zh/resources/url-c049eba816b97d5076d0/)：LexBench-Trajectory-Replay 提供 30 个公开网站任务，包含固定的浏览器操作和断言，用于评估浏览器执行与信息获取。
+- [LexBench-WebArena-Replay](https://awesomecua.com/zh/resources/url-a96c70bcf5a235f980b6/)：LexBench-WebArena-Replay 将 WebArena 任务定义与固定的浏览器操作配对，供 Browser Eval 重放操作并对已发布的 812 项任务评估完成情况。
+- [LGWM data and RSWT-Bench](https://awesomecua.com/zh/resources/url-fde41ce8459b7d3f647f/)：一个用于训练世界模型的图形界面屏幕状态转换数据集，并附有 RSWT-Bench，用于评估观察到的屏幕是否由预期操作产生。
+- [LPS-Bench](https://awesomecua.com/zh/resources/url-625bd97c7aa32cf05833/)：一个用于评测计算机操作智能体轨迹安全性的数据集，包含 570 个基础案例和 40 个技能变体，覆盖良性任务与对抗性任务。
+- [lumos_unified_ground_iterative](https://awesomecua.com/zh/resources/url-87bba046fba8c1cd968c/)：这是供 Lumos-I 定位模块训练的 JSONL 数据集，汇集数学、问答和网页智能体标注，其中包括 Mind2Web 样本。
+- [lumos_unified_plan_iterative](https://awesomecua.com/zh/resources/url-543aff764901777e6ad5/)：lumos_unified_plan_iterative 是用于训练 Lumos 规划模块的 JSONL 数据集，汇集了网页智能体、数学和复杂问答任务的样本。
 - [lumos_web_agent_ground_iterative](https://awesomecua.com/zh/resources/url-1e85f7557b39ae40193f/)：这是用于训练网页智能体定位模块的 Lumos-Iterative 数据集。数据卡列出 1009 条 Mind2Web 标注，并链接到使用该数据训练的模型。
 - [lumos_web_agent_plan_iterative](https://awesomecua.com/zh/resources/url-0772193ae2967c407d22/)：这是用于训练 Lumos-Iterative 网页智能体规划模块的数据集；数据概览列出 1009 条 Mind2Web 任务标注。
 - [luzimu/WebGen-Bench](https://awesomecua.com/zh/resources/url-405959de004b6e32c911/)：该数据集收录网站生成指令和 UI 测试用例，用于评估交互式网站，并设有独立的训练集和测试集。
@@ -13,6 +21,7 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/page/2/ · [English](
 - [McGill-NLP/safearena](https://awesomecua.com/zh/resources/url-be4ca14d1724b0cf8314/)：SafeArena 提供安全与有害任务分组，用于评估自主网页智能体的安全性；配套环境归档需申请权限后获取。
 - [MemGUI-Bench agent trajectories](https://awesomecua.com/zh/resources/url-2b7363c3a20d8022b319/)：MemGUI-Bench 移动 GUI 智能体及模型的运行记录按智能体打包为 ZIP，包含逐步截图、操作日志和评估输出，并提供供排行榜查看器使用的压缩轨迹预览。
 - [META-GUI dataset](https://awesomecua.com/zh/resources/url-05a9a7c592089d1ddd46/)：META-GUI 的 Hub 发布版，收录智能体操作移动应用的任务型对话；每轮将对话与截图、视图层级 XML、记录的 GUI 操作和回复配对。
+- [Microscopy-Dataset](https://awesomecua.com/zh/resources/url-62a92edacc4b703aaa05/)：供 Orion 计算机使用智能体执行显微图像处理任务的数据集：包含 12 个 CellProfiler 训练模块和 14 个测试挑战，附问题描述、图像、真值和单元测试。
 - [Mind2Web 2 task data and judge scripts](https://awesomecua.com/zh/resources/url-4f4c4f0bf0cec93c59d1/)：Mind2Web 2 在 Hub 上自动设置访问限制的发布版：用于长程自主网页搜索的开发集与测试集任务 CSV，以及充当评判智能体的 130 个逐任务 Python 评估脚本。
 - [Mind2Web bbox eval (MultiUI)](https://awesomecua.com/zh/resources/url-56b5936190d20fa3d1c1/)：Mind2Web 步骤经 MultiUI 作者重新打包为 JPEG 截图及逐步 JSONL 查询和候选元素框，用于 MultiUI 基于截图的 Mind2Web 操作评估。
 - [Mind2Web-cleaned-lite-value-model-w-cot-test](https://awesomecua.com/zh/resources/url-9e2c14b01faf8d48b4e9/)：一个包含 6125 条网页操作记录的 Mind2Web 数据集，涵盖元素候选项、无障碍树、先前操作、推理说明和价值评分。
@@ -37,6 +46,7 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/page/2/ · [English](
 - [OSWorld-V2 0624 Codex attempt trajectories](https://awesomecua.com/zh/resources/url-9112dfcb201f2de7241f/)：自报的 OSWorld-V2 运行数据，涵盖 Codex 框架使用 gpt-5.6-sol 在全部 108 项任务上的逐步 CLI 和 GUI 操作、截图及评分，以及重试记录和指导操作的解题卡与恢复卡。
 - [P-GUI-Evo](https://awesomecua.com/zh/resources/url-b79ca6f7731ebf067709/)：这是一个包含 622 个图形界面场景的合成数据集，用于评估智能体如何提取隐私规则、判断拟执行的操作并响应用户反馈。
 - [pae-data](https://awesomecua.com/zh/resources/url-72301bf2dec104205c8d/)：pae-data 发布与 PAE 互联网智能体研究相关的数据，包括 WebArena 和 WebVoyager 的任务文件及模型检查点文件。
+- [Pathology-Dataset](https://awesomecua.com/zh/resources/url-6aa8885dd2c713b4c64f/)：供 Orion 计算机使用智能体在 QuPath 中执行数字病理任务的数据集：包含教程材料、基于 CAMELYON 切片的淋巴结转移分割和 TP53 指数计算，并附测试套件。
 - [PC-Agent-E training data](https://awesomecua.com/zh/resources/url-14449fe321e0a1ca34ea/)：已发布的 PC-Agent-E 训练数据集，官方流程将其用于改进人工轨迹和合成操作推理。
 - [Plan-and-Act training data](https://awesomecua.com/zh/resources/url-ba6453cfdae0eb049ced/)：面向 WebArena-Lite 和 WebVoyager 的规划器与操作执行器训练样例，包含按模型处理的文件和原始轨迹标注。
 - [Preflight Bench](https://awesomecua.com/zh/resources/url-a40fc87ac700add33232/)：这是一个用于评估动态网页点击前检查的数据集，包含成对的截图、点击结果和检查器答案，并提供 Lance 数据表及开发集和测试集。
@@ -84,6 +94,7 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/page/2/ · [English](
 - [WebsiteBench](https://awesomecua.com/zh/resources/url-687a7b27f38720fe54bc/)：WebsiteBench 70 个任务的 Hugging Face 版本，采用 Harbor 格式：智能体通过浏览器探索一个生产级网站，并重建其全栈副本，由隐藏的功能与视觉测试评分。
 - [WebSRC v1.0](https://awesomecua.com/zh/resources/url-e0ba328ae1a643b0a5aa/)：用于结构化阅读理解的网页片段、问题、答案、HTML、截图和布局元数据。
 - [WenyiWU0111/CoMEM-agent-memory-trajectories](https://awesomecua.com/zh/resources/url-87e0195f2401d5f6f66f/)：用于图形界面智能体记忆研究的数据集，包含扩展的网页链接、合成任务，以及成功和失败的执行轨迹。
+- [westworld](https://awesomecua.com/zh/resources/url-b43faa43e897c074b7c8/)：Halluminate Westworld 网页智能体基准的任务数据集：包含 100 个验证任务，覆盖电商和出行网站，每个任务带有生成配置、领域、类别、难度和步数上限。
 - [widget-caption](https://awesomecua.com/zh/resources/github-google-research-datasets-widget-caption/)：一个描述界面控件功能的说明文字数据集，用于训练和评估界面元素描述模型。它包含 61,286 个带说明文字的控件。
 - [WikiHow Task Set](https://awesomecua.com/zh/resources/url-25af759a783f1514fe58/)：用于 Mobile-Env 的 WikiHow 应用导航评测任务集，另含跨 Android 应用的补充任务，提供任务定义和改写的指令。
 - [WinDeskGround](https://awesomecua.com/zh/resources/url-897db7dba36e69a60e5e/)：用于多窗口合成桌面 GUI 元素定位的基准数据：585 张图像上的 1356 个样本，包含受控的遮挡、语义干扰和杂乱设置，以及 L1 至 L5 难度等级。
@@ -93,14 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/page/2/ · [English](
 - [world_model_for_wa_desc_with_tao_formatted_w_cot](https://awesomecua.com/zh/resources/url-3ef18fbb67e0376561db/)：用于训练 WMA 世界模型的格式化指令、输入与输出样本；该模型描述动作执行后 WebArena 页面如何变化。数据含 11795 条训练样本和 2949 条验证样本。
 - [WorldGUI-Bench](https://awesomecua.com/zh/resources/url-b540fe81c57cedb1f556/)：这套桌面图形界面评估数据包含用户请求、教学视频和用于改变任务初始状态的预操作，并提供任务元数据与数据归档。
 - [xunsss/osworld2-codex-gpt56sol-0624-attempt-preview](https://awesomecua.com/zh/resources/url-bf57897ba4d047112345/)：这个 OSWorld-V2 数据集提供精简数据表，用于浏览 Codex 的任务摘要、尝试记录、轨迹事件，以及已执行的图形界面或命令行操作。
-- [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/zh/resources/url-3ab90a696d8578c944c8/)：A3-Qwen3.5-9B 网页智能体在 BrowserGym 基准上的 AgentLab 运行日志，按任务以逐步 JSON 文件保存目标、页面 URL、DOM 与无障碍树观测以及动作；该地址指向其中的 WebArena 文件夹。
-- [Agent Humanization Benchmark (AHB) recordings](https://awesomecua.com/zh/resources/url-3e1a864c46c8ed5735d4/)：记录人类与移动端 GUI 智能体完成相同中文 Android 应用任务时的触摸手势和运动传感器数据，附任务列表和元数据，用于训练区分智能体与人类的检测器。
-- [AgentSynth tasks and trajectories](https://awesomecua.com/zh/resources/url-58a209f2b3b970916396/)：已发布的 AgentSynth 任务定义和记录的 GUI 轨迹，包含 OSWorld 及 InSTA 训练配置，以及打包的截图、思考内容和命令。
-- [AgentTrek](https://awesomecua.com/zh/resources/github-xlang-ai-agenttrek/)：以网页教程为指引，通过重放合成浏览器智能体轨迹；发布包含多模态定位与推理信息的轨迹数据及 AgentTrek-32B 智能体。
-- [AMEX](https://awesomecua.com/zh/resources/github-yuxiangchai-amex-codebase/)：AMEX Android GUI 数据处理代码，将 3 个标注层级转为问答对并微调 LLaMA2-Accessory 模型，同时发布了模型检查点。
-- [Android in the Wild](https://awesomecua.com/zh/resources/component-google-research-android-in-the-wild/)：Android 任务的人类操作演示，包含截图和触摸操作。
-- [android_icon_dataset](https://awesomecua.com/zh/resources/url-b1c6b94743e6dbac930d/)：Android 图标标注数据集，用于研究界面中的视觉元素；训练集包含图像和字符串类别标签。
-- [AndroidControl](https://awesomecua.com/zh/resources/component-google-research-android-control/)：Android 操作演示，包含高层目标、分步指令、截图和无障碍树。
-- [AndroidHowTo](https://awesomecua.com/zh/resources/github-debymf-generating-android-howto/)：AndroidHowTo 提供脚本和标注，用于构建将操作指南步骤与 Android 屏幕关联的移动端 UI 动作数据集。
-- [AutoDroid V2 training data](https://awesomecua.com/zh/resources/url-9a3506ca6ef034adb424/)：用于微调 AutoDroid V2 的对话格式监督数据；项目文档提供了 ShareGPT 风格的 JSON 配置。
-- [bevaya/RICO-ScreenQA-Complex](https://awesomecua.com/zh/resources/url-b6114625f883ec0fda33/)：这是面向 RICO 界面截图的复杂问答测试数据集，包含截图、问题和标准答案。数据卡列出 11,781 个样本。

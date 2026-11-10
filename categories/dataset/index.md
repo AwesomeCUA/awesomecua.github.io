@@ -2,7 +2,7 @@
 
 Computer-use datasets supply screenshots, instructions, element annotations and action trajectories for training or evaluating GUI agents. Supervision ranges from single-element grounding to complete multi-step trajectories.
 
-> 267 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T03:01:53Z.
+> 278 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T06:29:47Z.
 
 HTML page: https://awesomecua.com/categories/dataset/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -27,15 +27,15 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ### Which platforms do these datasets cover?
 
-Of 267 reviewed datasets, 116 are tagged web, 74 desktop, 74 mobile and 34 cross-platform; 35 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 278 reviewed datasets, 122 are tagged web, 78 desktop, 74 mobile and 34 cross-platform; 36 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which datasets record their supervision and scale?
 
-125 of 267 datasets have a profile with supervision, modalities, formats, splits and counts with units. The most common supervision types are element grounding (6), agent-generated trajectories (5) and interaction trajectories (4). The [dataset comparison page](https://awesomecua.com/compare/datasets/) sets them side by side.
+125 of 278 datasets have a profile with supervision, modalities, formats, splits and counts with units. The most common supervision types are element grounding (6), agent-generated trajectories (5) and interaction trajectories (4). The [dataset comparison page](https://awesomecua.com/compare/datasets/) sets them side by side.
 
 ### Which licenses do datasets declare?
 
-The most common declared licenses are Apache-2.0 (71), MIT (44) and CC-BY-4.0 (35). 85 of 267 have no declared license in their record.
+The most common declared licenses are Apache-2.0 (72), MIT (45) and CC-BY-4.0 (35). 90 of 278 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -367,6 +367,55 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 
 ---
 
+## Online-Mind2Web task data
+
+Gated Hub release of the Online-Mind2Web task set: one JSON test split of tasks on live websites, 300 tasks on 136 sites per the project README, which the publishers revise when sites change.
+
+- Catalog URL: https://awesomecua.com/resources/url-a252b36bf1c440269a2e/
+- Original source: https://huggingface.co/datasets/osunlp/Online-Mind2Web
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, evaluation
+- Evidence checked: 2026-10-18T11:39:35Z
+- ID: url:a252b36bf1c440269a2e
+
+### Limitations
+
+The Hub API at revision eacad896 reports gated 'auto' (access is approved automatically after a logged-in request) and one data file, Online_Mind2Web.json, configured as the test split. The card and task file sit behind the gate; the description and counts come from the project README, which links this dataset as its data. The Hub card metadata declares CC BY 4.0, matching the README's dataset license; the repository code is MIT and is not applied to the data. The publishers replace invalid tasks over time (36 on 2025-11-03), so a result needs the dataset revision.
+
+- Record JSON: https://awesomecua.com/resources/url-a252b36bf1c440269a2e/record.json
+
+### Structured profile
+
+- Formats: JSON
+- Modalities: text
+- Splits: test
+- Supervision: task definitions for live-web evaluation
+
+#### Count observations
+
+- 300 tasks — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
+- 136 websites — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
+
+Counts describe the task set according to the README; the gated file count remains unknown. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/osunlp/Online-Mind2Web
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web (retrieved 2026-10-18T11:39:35Z; SHA-256 a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23)
+- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md (retrieved 2026-10-18T11:39:36Z; SHA-256 49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa)
+- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web (retrieved 2026-10-18T11:39:35Z; SHA-256 a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23)
+
+---
+
 ## Click-100k
 
 101,314 screenshot–instruction pairs with target boxes for click grounding, filtered from public GUI grounding sets and tutorial-video frames, packaged with EasyR1 point-prediction prompts.
@@ -547,55 +596,6 @@ Quantities are rounded publisher descriptions. Data-license declarations conflic
 - https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md (retrieved 2026-10-16T06:36:01Z; SHA-256 0968273442bfb9a6478fe78f8b9a6247a3bb8e6d028880939b432fd009961e98)
 - https://huggingface.co/api/datasets/yiye2023/GUIAct (retrieved 2026-10-17T04:01:33Z; SHA-256 624ccdd6e6c5b29b588a4289d1d94c1a1c0803868bd586175f2c9ebc3bfdd0b6)
 - https://huggingface.co/datasets/yiye2023/GUIAct/raw/main/README.md (retrieved 2026-10-17T04:01:33Z; SHA-256 98b45ea81164d1e1a1dd82255207053b15cd6c69d922a1c5cf3387ce604d4b74)
-
----
-
-## Online-Mind2Web task data
-
-Gated Hub release of the Online-Mind2Web task set: one JSON test split of tasks on live websites, 300 tasks on 136 sites per the project README, which the publishers revise when sites change.
-
-- Catalog URL: https://awesomecua.com/resources/url-a252b36bf1c440269a2e/
-- Original source: https://huggingface.co/datasets/osunlp/Online-Mind2Web
-- Kind: dataset
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, evaluation
-- Evidence checked: 2026-10-18T11:39:35Z
-- ID: url:a252b36bf1c440269a2e
-
-### Limitations
-
-The Hub API at revision eacad896 reports gated 'auto' (access is approved automatically after a logged-in request) and one data file, Online_Mind2Web.json, configured as the test split. The card and task file sit behind the gate; the description and counts come from the project README, which links this dataset as its data. The Hub card metadata declares CC BY 4.0, matching the README's dataset license; the repository code is MIT and is not applied to the data. The publishers replace invalid tasks over time (36 on 2025-11-03), so a result needs the dataset revision.
-
-- Record JSON: https://awesomecua.com/resources/url-a252b36bf1c440269a2e/record.json
-
-### Structured profile
-
-- Formats: JSON
-- Modalities: text
-- Splits: test
-- Supervision: task definitions for live-web evaluation
-
-#### Count observations
-
-- 300 tasks — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
-- 136 websites — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
-
-Counts describe the task set according to the README; the gated file count remains unknown. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
-
-### License declarations
-
-- code: not recorded
-- data: cc-by-4.0 — https://huggingface.co/datasets/osunlp/Online-Mind2Web
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web (retrieved 2026-10-18T11:39:35Z; SHA-256 a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23)
-- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md (retrieved 2026-10-18T11:39:36Z; SHA-256 49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa)
-- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web (retrieved 2026-10-18T11:39:35Z; SHA-256 a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23)
 
 ---
 
@@ -2417,6 +2417,74 @@ The release lists trajectory ZIP archives for WebArena, Android, and iOS, plus s
 
 ---
 
+## agentboard
+
+Evaluation data of the AgentBoard benchmark for multi-turn LLM agents: 9 tasks in embodied, game, web and tool settings, including WebShop and WebArena, with goals, subgoals and difficulty labels.
+
+- Catalog URL: https://awesomecua.com/resources/url-be5b952e5f0b4b7e4747/
+- Original source: https://huggingface.co/datasets/hkust-nlp/agentboard
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-10T06:29:24Z
+- ID: url:be5b952e5f0b4b7e4747
+
+### Limitations
+
+Each task has a test.jsonl split, and data.tar.gz holds the complete data with extra environment files; the card says the Dataset Viewer data is incomplete. GPL-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-be5b952e5f0b4b7e4747/record.json
+
+### License declarations
+
+- code: not recorded
+- data: gpl-2.0 — https://huggingface.co/datasets/hkust-nlp/agentboard
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/hkust-nlp/agentboard (retrieved 2026-11-10T06:29:24Z; SHA-256 f00f1166fdfdea0d991b12cacb9534f7076c4abb5e46ceb14d3df9c992e165ba)
+- https://huggingface.co/api/datasets/hkust-nlp/agentboard (retrieved 2026-11-10T06:29:24Z; SHA-256 f00f1166fdfdea0d991b12cacb9534f7076c4abb5e46ceb14d3df9c992e165ba)
+
+---
+
+## AgentGym-RL-Data-ID
+
+Train and eval task splits for AgentGym-RL multi-turn reinforcement learning, listing task IDs for WebArena web navigation alongside search, game, embodied and science environments.
+
+- Catalog URL: https://awesomecua.com/resources/url-9140ca5ba8252d373b8d/
+- Original source: https://huggingface.co/datasets/AgentGym/AgentGym-RL-Data-ID
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: reinforcement-learning, web-navigation, long-horizon, evaluation
+- Evidence checked: 2026-11-10T06:29:33Z
+- ID: url:9140ca5ba8252d373b8d
+
+### Limitations
+
+JSON files under train/ and eval/ hold item_id values that select tasks served by the AgentGym environment servers; training and evaluation scripts live in the AgentGym-RL repository. The card states the CC-BY-NC-4.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-9140ca5ba8252d373b8d/record.json
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-4.0 — https://huggingface.co/datasets/AgentGym/AgentGym-RL-Data-ID
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/AgentGym/AgentGym-RL-Data-ID (retrieved 2026-11-10T06:29:33Z; SHA-256 e16a910a9a3f4c09d8632ed9ff5f2ef2da2861d0bae40f45150257cd6dd23365)
+- https://huggingface.co/api/datasets/AgentGym/AgentGym-RL-Data-ID (retrieved 2026-11-10T06:29:33Z; SHA-256 e16a910a9a3f4c09d8632ed9ff5f2ef2da2861d0bae40f45150257cd6dd23365)
+
+---
+
 ## AgentNet
 
 22.6K human-annotated desktop computer-use tasks on Windows, macOS and Ubuntu, released with OpenCUA for training and evaluating vision-language-action models.
@@ -2986,6 +3054,74 @@ The repository lists image.zip, data.zip, and output.zip. The card says the arch
 
 ---
 
+## CognitiveKernel-Pro-Query
+
+CognitiveKernel-Pro-Query holds the training queries generated for Cognitive Kernel-Pro: multi-hop URLQA and hint-annotated AgentWebQA in JSONL, used to sample web agent trajectories.
+
+- Catalog URL: https://awesomecua.com/resources/url-2304547d5025246abbe4/
+- Original source: https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, web-navigation
+- Evidence checked: 2026-11-10T06:29:31Z
+- ID: url:2304547d5025246abbe4
+
+### Limitations
+
+Files are urlqa.jsonl (Section 3.2 of the paper) and agentwebqa_hint.jsonl (Section 3.3); the card also names queries reused from WebWalkerQA and other sets. Custom cognitive-kernel-pro license.
+
+- Record JSON: https://awesomecua.com/resources/url-2304547d5025246abbe4/record.json
+
+### License declarations
+
+- code: not recorded
+- data: other — https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-Query (retrieved 2026-11-10T06:29:31Z; SHA-256 538f06629296adf6b3546ea67a26670eeb04b628b8e7e7e08d8a8fe56623063d)
+- https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-Query (retrieved 2026-11-10T06:29:31Z; SHA-256 538f06629296adf6b3546ea67a26670eeb04b628b8e7e7e08d8a8fe56623063d)
+
+---
+
+## CognitiveKernel-Pro-SFT
+
+CognitiveKernel-Pro-SFT contains rejection-sampled GPT-4.1 trajectories for fine-tuning Cognitive Kernel-Pro agents, from URLQA web queries, DocBench, TableBench and a WebWalkerQA subset.
+
+- Catalog URL: https://awesomecua.com/resources/url-7c431ccb1d5dc1f035d8/
+- Original source: https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-SFT
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, web-navigation, imitation-learning
+- Evidence checked: 2026-11-10T06:29:31Z
+- ID: url:7c431ccb1d5dc1f035d8
+
+### Limitations
+
+Four JSONL files: ck-pro-web, docbench, tablebench and webwalker_subset SFT data. Custom cognitive-kernel-pro license.
+
+- Record JSON: https://awesomecua.com/resources/url-7c431ccb1d5dc1f035d8/record.json
+
+### License declarations
+
+- code: not recorded
+- data: other — https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-SFT
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-SFT (retrieved 2026-11-10T06:29:31Z; SHA-256 8c494a616c08cab5ddd2447adf9f6f004b4f71397d36950a58980b1563db2e2f)
+- https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-SFT (retrieved 2026-11-10T06:29:31Z; SHA-256 8c494a616c08cab5ddd2447adf9f6f004b4f71397d36950a58980b1563db2e2f)
+
+---
+
 ## ConClick-Data
 
 ConClick-Data provides screenshot grounding examples with target coordinates and distractor boxes, released as JSONL files for training.
@@ -3088,6 +3224,40 @@ The release provides JSONL data and API annotations. This is Android intent-call
 
 - https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md (retrieved 2026-10-17T02:02:28Z; SHA-256 08a6c5cfa655e1ecd774a41a9a815e845ad0afd47b289378bc1d6ee66c81dda9)
 - https://huggingface.co/api/datasets/mllmTeam/DroidCall (retrieved 2026-10-17T02:02:28Z; SHA-256 c7804987d56b03314a4c48e3ddf2e5819fc0d9c83cc65ba54a981a2f4a584dd9)
+
+---
+
+## ExACT-VWA
+
+Post-processed R-MCTS and GPT-4o agent trajectories collected on VisualWebArena, stored as context and response pairs with domain and task metadata; part of the set was used to fine-tune GPT-4o.
+
+- Catalog URL: https://awesomecua.com/resources/url-792920a5f64df66d34d7/
+- Original source: https://huggingface.co/datasets/Columbia-NLP/ExACT-VWA
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, imitation-learning
+- Evidence checked: 2026-11-10T06:29:27Z
+- ID: url:792920a5f64df66d34d7
+
+### Limitations
+
+One parquet train split of 176 examples; fields are a context message list, a response string and metadata with domain, source and task_id. The card states no license.
+
+- Record JSON: https://awesomecua.com/resources/url-792920a5f64df66d34d7/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Columbia-NLP/ExACT-VWA (retrieved 2026-11-10T06:29:27Z; SHA-256 05f511ce57c9320391e448d4371894807852b6ee6df1de19212e6625823c750c)
+- https://huggingface.co/api/datasets/Columbia-NLP/ExACT-VWA (retrieved 2026-11-10T06:29:27Z; SHA-256 05f511ce57c9320391e448d4371894807852b6ee6df1de19212e6625823c750c)
 
 ---
 
@@ -3655,6 +3825,40 @@ The repository lists JSONL files for several source datasets and reflection exam
 
 ---
 
+## GUI_Reflection_Task_Suite_train
+
+Training split of the GUI Reflection Task Suite: JSONL files for action verification, action reversal and mistake-informed reattempt, built on AndroidControl, GUI Odyssey, AMEX, OS-Atlas and Wave UI.
+
+- Catalog URL: https://awesomecua.com/resources/url-f68939821685c9dcc78c/
+- Original source: https://huggingface.co/datasets/craigwu/GUI_Reflection_Task_Suite_train
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: self-reflection, data-generation
+- Evidence checked: 2026-11-10T06:29:28Z
+- ID: url:f68939821685c9dcc78c
+
+### Limitations
+
+The repository holds seven JSONL annotation files; screenshots come from the source datasets. The card declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-f68939821685c9dcc78c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/craigwu/GUI_Reflection_Task_Suite_train
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_train (retrieved 2026-11-10T06:29:28Z; SHA-256 5a7fa4c17a1a944b61e55c23e2c730c60a5609efab9ce7635e278b66bafb93bd)
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_train (retrieved 2026-11-10T06:29:28Z; SHA-256 5a7fa4c17a1a944b61e55c23e2c730c60a5609efab9ce7635e278b66bafb93bd)
+
+---
+
 ## GUICourse
 
 Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grounding, GUIAct with 67k single-step and 15k multi-step web and Android actions, and GUIChat dialogues.
@@ -3920,6 +4124,74 @@ Coordinates were resized for a specified Qwen2.5-VL image processor and must rem
 - https://huggingface.co/api/datasets/xlangai/Jedi (retrieved 2026-10-16T09:33:18Z; SHA-256 63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad)
 - https://huggingface.co/datasets/xlangai/Jedi/raw/main/README.md (retrieved 2026-10-17T02:02:38Z; SHA-256 1d4d15c0cd27837602d55f0fda1ed91d9e8a98b33b3e3c4ba64decae42399558)
 - https://huggingface.co/api/datasets/xlangai/Jedi (retrieved 2026-10-16T09:33:18Z; SHA-256 63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad)
+
+---
+
+## JUMPDiscovery
+
+Task data for the Orion computer-using agent's open discovery task: a problem statement, CellProfiler pipelines, gene sets and a script that downloads JUMP Cell Painting morphological profiles.
+
+- Catalog URL: https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/
+- Original source: https://huggingface.co/datasets/orion-agent/JUMPDiscovery
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: science, long-horizon
+- Evidence checked: 2026-11-10T06:29:24Z
+- ID: url:925ca9e4519cb9ecdc00
+
+### Limitations
+
+Gated dataset of about 124 kB holding ProblemStatement.md, two .cppipe pipelines, hallmark_genesets.json, Verified_Hypothesis.txt and download_JUMP_features.sh. Discovery runs are evaluated manually, and the agent outputs are published as JUMPDiscovery_results.
+
+- Record JSON: https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/orion-agent/JUMPDiscovery (retrieved 2026-11-10T06:29:24Z; SHA-256 c529651cbfcb78e3274d09010fd4783e4279964bcfc744c3e2ff6d7346fafa4f)
+- https://huggingface.co/api/datasets/orion-agent/JUMPDiscovery (retrieved 2026-11-10T06:29:24Z; SHA-256 c529651cbfcb78e3274d09010fd4783e4279964bcfc744c3e2ff6d7346fafa4f)
+
+---
+
+## JUMPDiscovery_results
+
+Outputs of the Orion computer-using agent on the JUMP Cell Painting discovery task: one folder per attempt with hypotheses, figures, analysis scripts and reports, plus an example trajectory.
+
+- Catalog URL: https://awesomecua.com/resources/url-4c4b6238a1b1f1dfd4f4/
+- Original source: https://huggingface.co/datasets/orion-agent/JUMPDiscovery_results
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: science
+- Evidence checked: 2026-11-10T06:29:23Z
+- ID: url:4c4b6238a1b1f1dfd4f4
+
+### Limitations
+
+Gated dataset (accept the conditions to access), about 12.9 GB. Two attempts, attempt_17_final and attempt_44_final, were refined through review rounds; the Orion agent runs in an Ubuntu desktop VM.
+
+- Record JSON: https://awesomecua.com/resources/url-4c4b6238a1b1f1dfd4f4/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/orion-agent/JUMPDiscovery_results (retrieved 2026-11-10T06:29:23Z; SHA-256 88062ea9e94316c575807cbb02f6c72fab11dd209dedae1a29aad4a6ee05333c)
+- https://huggingface.co/api/datasets/orion-agent/JUMPDiscovery_results (retrieved 2026-11-10T06:29:23Z; SHA-256 88062ea9e94316c575807cbb02f6c72fab11dd209dedae1a29aad4a6ee05333c)
 
 ---
 
@@ -4530,6 +4802,40 @@ Splits are the two Hub archive names; the baseline README's processed data uses 
 - https://huggingface.co/api/datasets/X-LANCE/META-GUI/revision/12660de515ad55e40e8c4e5afa8f4d0e7430ab34 (retrieved 2026-10-18T15:45:56Z; SHA-256 ef370ba12e94c45d0fb74fe3e44b29f9e058e19fab739a15a6a1d04f4101460d)
 - https://raw.githubusercontent.com/X-LANCE/META-GUI-baseline/a845f88e7d89fe60d3666d15adb32d4e2ef907db/README.md (retrieved 2026-10-18T15:45:57Z; SHA-256 2cea1be73ea75acd46990ab1fb567fbd83ad58a2bc69ca858b207660df9fe8c1)
 - https://huggingface.co/datasets/X-LANCE/META-GUI/raw/12660de515ad55e40e8c4e5afa8f4d0e7430ab34/README.md (retrieved 2026-10-18T15:46:20Z; SHA-256 cb86b4648766f07f671290abec4b75658496082a2e77661ca47aa593351eacda)
+
+---
+
+## Microscopy-Dataset
+
+Task set for the Orion computer-using agent's microscopy image-processing task: 12 CellProfiler training modules and 14 test challenges with problem statements, images, ground truth and unit tests.
+
+- Catalog URL: https://awesomecua.com/resources/url-62a92edacc4b703aaa05/
+- Original source: https://huggingface.co/datasets/orion-agent/Microscopy-Dataset
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: science, evaluation
+- Evidence checked: 2026-11-10T06:29:24Z
+- ID: url:62a92edacc4b703aaa05
+
+### Limitations
+
+Gated dataset of about 575 MB. Each task folder holds a ProblemStatement.md, a starting .cppipe pipeline and images; test challenges add ground-truth answers and a unit_test.py.
+
+- Record JSON: https://awesomecua.com/resources/url-62a92edacc4b703aaa05/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/orion-agent/Microscopy-Dataset (retrieved 2026-11-10T06:29:24Z; SHA-256 aba559162b8e545df6e0f829c1a3af3177b64687a42e59691434e315de2e7b68)
+- https://huggingface.co/api/datasets/orion-agent/Microscopy-Dataset (retrieved 2026-11-10T06:29:24Z; SHA-256 aba559162b8e545df6e0f829c1a3af3177b64687a42e59691434e315de2e7b68)
 
 ---
 
@@ -5554,6 +5860,40 @@ The repository file list includes JSONL task sets, an example archive, and check
 
 - https://huggingface.co/api/datasets/yifeizhou/pae-data (retrieved 2026-11-09T19:57:11Z; SHA-256 9a6673f9c8b9eeca2b641e402ac60e3adf9b8881fcd8d47805afb18bed3b92d0)
 - https://huggingface.co/api/datasets/yifeizhou/pae-data (retrieved 2026-11-09T19:57:11Z; SHA-256 9a6673f9c8b9eeca2b641e402ac60e3adf9b8881fcd8d47805afb18bed3b92d0)
+
+---
+
+## Pathology-Dataset
+
+Task set for the Orion computer-using agent's digital pathology task in QuPath: tutorial material, lymph-node metastasis segmentation on CAMELYON slides and TP53 index calculation, with test suites.
+
+- Catalog URL: https://awesomecua.com/resources/url-6aa8885dd2c713b4c64f/
+- Original source: https://huggingface.co/datasets/orion-agent/Pathology-Dataset
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: science, evaluation
+- Evidence checked: 2026-11-10T06:29:24Z
+- ID: url:6aa8885dd2c713b4c64f
+
+### Limitations
+
+Gated dataset of about 4.75 GB. The tutorial split reuses QuPath documentation and a slide, the segmentation split uses H&E sentinel lymph node sections from CAMELYON, and the TP53 split uses a tissue microarray from the Human Protein Atlas; a download script fetches large slides.
+
+- Record JSON: https://awesomecua.com/resources/url-6aa8885dd2c713b4c64f/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/orion-agent/Pathology-Dataset (retrieved 2026-11-10T06:29:24Z; SHA-256 3eaf0b6b0b65369b9491b5c37b485ef4187fd108b3c198a642ee67647d332ae3)
+- https://huggingface.co/api/datasets/orion-agent/Pathology-Dataset (retrieved 2026-11-10T06:29:24Z; SHA-256 3eaf0b6b0b65369b9491b5c37b485ef4187fd108b3c198a642ee67647d332ae3)
 
 ---
 
@@ -7500,6 +7840,40 @@ The card reports 222,235 synthesized tasks and 188,451 trajectories. It lists Ap
 
 - https://huggingface.co/api/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories (retrieved 2026-11-09T19:58:09Z; SHA-256 e272987a86a523262373eea1dc5f950a298eed8202a6bf124bd8330a66108d37)
 - https://huggingface.co/api/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories (retrieved 2026-11-09T19:58:09Z; SHA-256 e272987a86a523262373eea1dc5f950a298eed8202a6bf124bd8330a66108d37)
+
+---
+
+## westworld
+
+The task dataset of the Halluminate Westworld web-agent benchmark: 100 validation tasks across e-commerce and travel sites, each with a generation config, domain, categories, difficulty and step limit.
+
+- Catalog URL: https://awesomecua.com/resources/url-b43faa43e897c074b7c8/
+- Original source: https://huggingface.co/datasets/Halluminate/westworld
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-10T06:29:24Z
+- ID: url:b43faa43e897c074b7c8
+
+### Limitations
+
+One parquet validation split loaded with the datasets library; tasks are instantiated with the westworld package, and the simulated environments need a Halluminate API key. Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-b43faa43e897c074b7c8/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/Halluminate/westworld
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Halluminate/westworld (retrieved 2026-11-10T06:29:24Z; SHA-256 fa8696e036db3105b15a84e9f0233981c8266615805819ad75dfa7776cc572d4)
+- https://huggingface.co/api/datasets/Halluminate/westworld (retrieved 2026-11-10T06:29:24Z; SHA-256 fa8696e036db3105b15a84e9f0233981c8266615805819ad75dfa7776cc572d4)
 
 ---
 

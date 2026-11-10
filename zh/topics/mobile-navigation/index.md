@@ -587,6 +587,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   PersonalAlign releases AndroidIntent evaluations of personalized mobile GUI agents and HIM-Agent memory for using long-term interaction records.
 - [PhoneHarness](https://awesomecua.com/zh/resources/github-phoneharness-phoneharness/) — Date not recorded
   PhoneHarness evaluates Android phone agents that combine GUI actions with device commands and host tools. It provides a runtime, a benchmark runner subset and trace-based checks of task outcomes.
+- [PhoneHarness Bench](https://awesomecua.com/zh/resources/url-92b80b37a7a117acfd3c/) — Date not recorded
+  Task definitions and verifier metadata for 124 mixed-action Android phone tasks and 30 safety tasks, where agents may act through app GUIs, device commands and MCP-style tools.
 - [RLG-ALE](https://awesomecua.com/zh/resources/url-0596dd7e97fd30abaadc/) — Date not recorded
   RLG-ALE evaluates mobile GUI agents on inspectable Android tasks. Its page shows sample episodes with prompts, screenshots, evaluation records, and resettable environments.
 - [SMAN-Bench](https://awesomecua.com/zh/resources/github-gezelligheid0314-sman-bench/) — Date not recorded
@@ -717,6 +719,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   GUI-Libra checkpoint fine-tuned from Qwen2.5-VL-7B-Instruct (about 8.29B BF16 parameters) that turns a screenshot, task and action history into a <think> reasoning block and a JSON action with point_2d coordinates.
 - [GUI-Libra 8B](https://awesomecua.com/zh/resources/url-6694391b0cf50389d2e9/) — Date not recorded
   GUI-Libra checkpoint fine-tuned from Qwen3-VL-8B-Instruct (about 8.77B BF16 parameters) that turns a screenshot, task and action history into a <thinking> reasoning block and a JSON action with point_2d coordinates.
+- [GUI_Reflection_8b_SFT](https://awesomecua.com/zh/resources/url-e2c687595af929b4332a/) — Date not recorded
+  Final GUI Reflection agent checkpoint, built on InternVL, that predicts mobile GUI actions from a screenshot and task goal after training on reflection and error-correction data.
 - [gWorld (GuiWorld)](https://awesomecua.com/zh/resources/github-trillion-labs-gworld/) — Date not recorded
   gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step screen states via renderable web code generation.
 - [gWorld-32B](https://awesomecua.com/zh/resources/url-e44096836ef47bc66d9c/) — Date not recorded
@@ -757,6 +761,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   MobileVLM is a vision-language model pre-trained on the Mobile3M UI transition graph for intra-screen and inter-screen mobile UI understanding.
 - [OmniJev](https://awesomecua.com/zh/resources/github-tinnel123666888-omnijev/) — Date not recorded
   OmniJev is a multimodal decision model that scores typed choices from screens and other visual input. Released weights and inference code cover web and phone tasks alongside other domains.
+- [OmniJev](https://awesomecua.com/zh/resources/url-6bdda64c5782f03b0f54/) — Date not recorded
+  OmniJev v1.1 is a 4B LoRA adapter with decision heads for Qwen3.5-4B that answers typed questions about screens and other images with probabilities; its task families include androidcontrol and web.
 - [OpenMobile-2 27B](https://awesomecua.com/zh/resources/url-1611de0e6d606165d12d/) — Date not recorded
   Mobile-agent checkpoint based on Qwen3.6-27B for GUI and app-native tool interaction.
 - [OpenMobile-2 9B](https://awesomecua.com/zh/resources/url-d35224f787e7ec21ce36/) — Date not recorded
@@ -880,6 +886,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   AgenticX-GUIAgent is a multi-agent Android GUI automation system with coordinated manager, executor, reflector, and notetaker roles.
 - [AGI-0 Agent](https://awesomecua.com/zh/resources/url-06f6618d8f95f3d041cf/) — Date not recorded
   AGI-0 uses screenshots to navigate Android apps, planning subtasks and checking screen changes after each action. Its publisher reports AndroidWorld results.
+- [ai-phone](https://awesomecua.com/zh/resources/github-dongxinsuperman-ai-phone/) — Date not recorded
+  A self-hosted platform that runs natural-language test cases on iOS, Android and HarmonyOS phones and virtual devices with a vision-only VLM decision loop, device queues and HTML reports.
 - [AiBrowser for Android](https://awesomecua.com/zh/resources/github-doable-team-aibrowser-android/) — Date not recorded
   Turns a spare Android phone into a headed Chromium instance that AI agents can drive remotely.
 - [Aico Link Firmware](https://awesomecua.com/zh/resources/github-aidenai-io-aiden-firmware/) — Date not recorded
@@ -936,6 +944,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   An Android food-delivery app built as a local test environment for AI interaction. It supplies shopping workflows, predefined tasks, action logging and evaluation scripts.
 - [AppSim-UberEats](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-ubereats/) — Date not recorded
   AppSim-UberEats is an Android app replica with interactive shopping screens, seeded data and scripts for checking task events and answers during mobile-agent evaluation.
+- [Argent](https://awesomecua.com/zh/resources/github-software-mansion-argent/) — Date not recorded
+  Argent is a CLI toolkit that lets an AI assistant tap, swipe and type in iOS simulators, Android emulators and devices, TVs and Electron apps, and also records end-to-end test paths, diffs screens and profiles apps.
 - [Aries AI](https://awesomecua.com/zh/resources/github-zg0704666-aries-ai/) — Date not recorded
   Aries AI is an Android agent that uses a language model to interpret screens, plan natural-language tasks and operate apps through accessibility or virtual-display input.
 - [ARTEMIS](https://awesomecua.com/zh/resources/github-google-artemis/) — Date not recorded
@@ -958,6 +968,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   An Android agent that explores mobile interfaces to execute voice commands and uses what it learns during interaction to guide later actions.
 - [AutoWechat](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-wechat-v2/) — Date not recorded
   A simulated WeChat Android app from the AppSim-Bench suite, with chat lists, group chats, contacts and Moments posts backed by local JSON data for AI automation tests.
+- [AXe](https://awesomecua.com/zh/resources/github-cameroncooke-axe/) — Date not recorded
+  A command-line tool for iOS Simulator automation that reads the UI through accessibility APIs and sends HID taps, swipes and text input, with screenshot and video capture.
 - [Buddy](https://awesomecua.com/zh/resources/github-ghorbelhamdi-buddy-android/) — Date not recorded
   Android app whose accessibility service serves a local MCP server of phone tools, letting Claude Code, Codex or OpenCode, run in an on-device proot Linux, read the screen, tap, type and open apps.
 - [CHOP](https://awesomecua.com/zh/resources/github-yuqi-zhou-chop/) — Date not recorded
@@ -1016,6 +1028,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Android app that runs the DeepSeek Harness agent locally in a PRoot Debian sandbox and gives it a WebView browser CLI and a phone assistant that operates native apps via Accessibility and Shizuku backends.
 - [DualTAP](https://awesomecua.com/zh/resources/github-fyzhang1-dualtap/) — Date not recorded
   DualTAP is a dual-task adversarial protection framework for mobile MLLM GUI agents against environmental and visual prompt attacks.
+- [EAS agent-device demo](https://awesomecua.com/zh/resources/github-callstackincubator-eas-agent-device/) — Date not recorded
+  An Expo example that runs an AI SDK QA agent on EAS Workflows, driving an Android app and iOS simulator with agent-device, capturing screenshots and posting a PR summary.
 - [ESP32 iPhone Agent](https://awesomecua.com/zh/resources/github-onehumanbeing-esp32-iphone-agent/) — Date not recorded
   ESP32 iPhone Agent controls unmodified iPhones via Bluetooth HID mouse/keyboard emulation from an ESP32 paired with vision-language screen parsing.
 - [ExpActivator](https://awesomecua.com/zh/resources/github-fyzhang1-expactivator/) — Date not recorded
@@ -1040,6 +1054,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Ghost in the Droid is an Android GUI agent that combines accessibility trees, screenshot perception, and ADB/on-device execution.
 - [glassbox](https://awesomecua.com/zh/resources/github-yoyicue-glassbox/) — Date not recorded
   glassbox is an iOS and iPadOS computer-use runtime that drives physical iPhones and iPads from screen observations and hardware/bridge control.
+- [go-ios](https://awesomecua.com/zh/resources/github-danielpaulus-go-ios/) — Date not recorded
+  A Go CLI and module that automates iOS devices from Linux, Windows or macOS: installing and launching apps, running XCTest and WebDriverAgent, taking screenshots and driving the UI.
 - [GoSosmed Mobile Agent](https://awesomecua.com/zh/resources/github-dedy45-gososmed-mobile-agent/) — Date not recorded
   Android AccessibilityService automation engine and control dashboard for managing multi-device mobile workflows.
 - [GPTVoiceTasker](https://awesomecua.com/zh/resources/github-vuminhduc796-gptvoicetasker/) — Date not recorded
@@ -1058,6 +1074,10 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   On-device Android AI agent for automating phone apps and daily mobile tasks.
 - [iOS Agent Harness](https://awesomecua.com/zh/resources/github-a178960320-ios-agent-harness/) — Date not recorded
   iOS Agent Harness runs a Manager-Executor-Reflector GUI agent loop on iPhones to automate cross-app tasks from natural language.
+- [iosef](https://awesomecua.com/zh/resources/github-riwsky-iosef/) — Date not recorded
+  Swift CLI and MCP server that lets agents drive the iOS Simulator: read the accessibility tree, tap by selector or coordinates, swipe, pinch, type and take screenshots.
+- [ipb](https://awesomecua.com/zh/resources/github-ipbtools-ipb/) — Date not recorded
+  CLI that drives iOS 27 devices over CoreDevice HID with taps, swipes, keys and a live screen stream, reads accessibility trees, presses elements, and exposes the commands as MCP tools.
 - [iPhone CUA](https://awesomecua.com/zh/resources/github-masone-iphone-cua/) — Date not recorded
   iPhone CUA steers physical iPhones from macOS by pairing an iPhone screen/control bridge with OpenAI Computer-Using Agent models.
 - [iphone-control (iPhone Mirroring Skill)](https://awesomecua.com/zh/resources/github-charlesmorgansoftware-iphone-control/) — Date not recorded
@@ -1066,6 +1086,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   MCP server and CLI that lets Claude Code, Codex, and MCP agents read real iPhone screens as structured text and execute taps/swipes.
 - [iphone-use-flows](https://awesomecua.com/zh/resources/github-leeguooooo-iphone-use-flows/) — Date not recorded
   A registry of reusable iPhone app workflows for iphone-use. Its JSON flows define phone actions, inputs, and checks for completing repeated tasks.
+- [Kea2](https://awesomecua.com/zh/resources/github-ecnusse-kea2/) — Date not recorded
+  A Python tool for fuzzing Android apps that joins Fastbot's automated UI exploration with human-written scripts and property-based assertions to find crashes and functional bugs.
 - [Kirk Engine](https://awesomecua.com/zh/resources/url-80c8abf734a29f7affc5/) — Date not recorded
   An Android agent that uses screenshots and accessibility trees to choose taps, typing and swipes. Its page reports an AndroidWorld run and describes per-task verification artifacts.
 - [K²-Agent](https://awesomecua.com/zh/resources/github-k2-agent-k2-agent/) — Date not recorded
@@ -1082,6 +1104,10 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Lucy is a voice-and-screen Android agent that perceives live app screens with Gemini vision and executes taps, swipes, and text input.
 - [Lynx Agent](https://awesomecua.com/zh/resources/github-wangjiang314-lynx-agent/) — Date not recorded
   Lynx Agent is a completion-first Android phone-use agent with evidence-based state verification, recovery, and safety checks.
+- [MaaFwApp](https://awesomecua.com/zh/resources/github-aliothmoon-maafwapp/) — Date not recorded
+  An Android app that runs MaaFramework automation projects described by Project Interface V2 on the phone itself, capturing the screen and tapping through a Shizuku or root process, with runs on a virtual display.
+- [MaaTouch](https://awesomecua.com/zh/resources/github-maaassistantarknights-maatouch/) — Date not recorded
+  An Android-native implementation of the minitouch input protocol that accepts line commands for touch down, move and up, waits, key events and text entry to drive a device.
 - [macos-desktop-control](https://awesomecua.com/zh/resources/github-d-wwei-macos-desktop-control/) — Date not recorded
   Native macOS desktop automation MCP server providing screen capture, mouse/keyboard input, window management, and iOS Simulator control.
 - [MAI-UI inference and evaluation code](https://awesomecua.com/zh/resources/github-tongyi-mai-mai-ui/) — Date not recorded
@@ -1096,8 +1122,12 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Midscene Java is a framework for natural-language UI automation across web pages and Android apps, with modules for element location, actions, extraction and assertions.
 - [Midscene Python](https://awesomecua.com/zh/resources/github-python51888-midscene-python/) — Date not recorded
   Midscene Python is a framework for natural-language automation of websites and Android devices, with model-assisted actions, element location, extraction and assertions.
+- [minicap](https://awesomecua.com/zh/resources/github-devicefarmer-minicap/) — Date not recorded
+  An Android component that streams live screen frames as JPEG over a local socket, built with the NDK and used by STF for remote device control; recent devices reach 30-40 FPS.
 - [Minitap mobile-use](https://awesomecua.com/zh/resources/github-minitap-ai-mobile-use/) — Date not recorded
   Minitap mobile-use is a multi-agent mobile automation system that controls physical and emulated Android and iOS devices from natural language.
+- [minitouch](https://awesomecua.com/zh/resources/github-devicefarmer-minitouch/) — Date not recorded
+  An Android binary that injects multitouch events and gestures sent as line-based text commands over a socket, stdin or a file, running without root through ADB on older SDK levels.
 - [MM-Navigator](https://awesomecua.com/zh/resources/github-zzxslp-mm-navigator/) — Date not recorded
   Example code for the GPT-4V smartphone navigation study: a prompt builder that sends raw and number-tagged screenshots plus action history to GPT-4V for the next Android action, and an action-matching evaluation script.
 - [MobA](https://awesomecua.com/zh/resources/github-opendfm-moba/) — Date not recorded
@@ -1124,6 +1154,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Android automation component with hierarchical planning, reflection and persistent tips/shortcuts learned across task sequences.
 - [MobileAgent (Alipay)](https://awesomecua.com/zh/resources/github-alipay-mobile-agent/) — Date not recorded
   Mobile-control research implementation combining operating-procedure context with human interaction for personalized task execution.
+- [MobileBuildMCP](https://awesomecua.com/zh/resources/github-getsentry-xcodebuildmcp/) — Date not recorded
+  MCP server and CLI that lets coding agents build, run and debug iOS and macOS apps, and drive iOS simulators with taps, swipes, typing, UI snapshots and screenshots.
 - [MobileClaw](https://awesomecua.com/zh/resources/github-eggbrid2-mobileclaw/) — Date not recorded
   MobileClaw is an open Android AI agent runtime for phone control, VLM screen reading, and reusable mobile skill execution.
 - [mobilecli](https://awesomecua.com/zh/resources/github-mobile-next-mobilecli/) — Date not recorded
@@ -1148,6 +1180,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Mobilewright automates iOS and Android devices through semantic locators and actions. It exposes accessibility trees that agents can use to inspect and operate mobile apps.
 - [Mobster engine](https://awesomecua.com/zh/resources/github-radishsoftware-mobster/) — Date not recorded
   iOS agent engine organized around an observe, decide, verify and act loop, using WebDriverAgent screen state and phone actions such as taps, typing, swipes and app switches.
+- [muse-gadget-actell-mods](https://awesomecua.com/zh/resources/github-ja1chen-muse-gadget-actell-mods/) — Date not recorded
+  Extensions for the Muse Gadget SDK on an ESP32-S3 AMOLED board that let the Muse assistant operate a phone through Actell, with screenshot capture, coordinate input tools and LAN pairing.
 - [MuseLite](https://awesomecua.com/zh/resources/github-yxq953-muselite/) — Date not recorded
   MuseLite is a Python-first AI agent workspace for Android combining chat, execution sandboxes, browser automation, and scheduled tasks.
 - [MyInstagram](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-instagram/) — Date not recorded
@@ -1160,6 +1194,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Oh-Matilda is a Tauri v2 on-device Android AI agent that autonomously opens apps and executes taps, text entry, and scrolling without ADB.
 - [OmniAgent](https://awesomecua.com/zh/resources/github-momo-null-omniagent/) — Date not recorded
   A resident assistant that can inspect screenshots and operate a local desktop through mouse and keyboard tools or an Android device through ADB, alongside chat and memory features.
+- [Online Environment for GUI Reflection](https://awesomecua.com/zh/resources/github-penghao-wu-gui-reflection-env/) — Date not recorded
+  Host-worker Android emulator environment from the GUI Reflection project, with configs that collect interaction data and evaluate GUI models while inference runs on a separate host machine.
 - [Open-AutoGLM](https://awesomecua.com/zh/resources/github-zai-org-open-autoglm/) — Date not recorded
   Phone agent model and framework with device interaction tooling.
 - [opencode-mobile-use](https://awesomecua.com/zh/resources/github-system1970-opencode-mobile-use/) — Date not recorded
@@ -1200,6 +1236,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   AI beta-testing agent for physical iPhone applications that drives user journeys over macOS iPhone Mirroring.
 - [PokeClaw](https://awesomecua.com/zh/resources/github-agents-io-pokeclaw/) — Date not recorded
   Android app that runs a phone-control agent on the device, reading the UI tree through an Accessibility service and tapping, swiping and typing with on-device Gemma 4 or an optional cloud model.
+- [pymobiledevice3](https://awesomecua.com/zh/resources/github-doronz88-pymobiledevice3/) — Date not recorded
+  Pure Python 3 library and CLI for iOS devices, with browser-based screen mirroring and touch control, a CDP bridge for Safari and WebViews, and a device-operator skill for Claude Code.
 - [redroid](https://awesomecua.com/zh/resources/github-remote-android-redroid-doc/) — Date not recorded
   redroid provides containerized Android instances on Linux hosts, with ADB connectivity and configurable displays for mobile automation environments.
 - [Roubao](https://awesomecua.com/zh/resources/github-turbo1123-roubao/) — Date not recorded
@@ -1240,6 +1278,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   UI-Hawk is a GUI agent designed to interpret sequences of screens during navigation. Its research release describes a history-aware visual encoder, screen tasks, and the FunUI benchmark.
 - [UI-Voyager](https://awesomecua.com/zh/resources/github-ui-voyager-ui-voyager/) — Date not recorded
   UI-Voyager is a self-evolving mobile GUI agent framework that learns from failed execution trajectories via group-relative reflection.
+- [uiautodev](https://awesomecua.com/zh/resources/github-uiautodev-uiautodev/) — Date not recorded
+  A mobile device control and UI automation tool for Android, iOS and HarmonyOS with a desktop app and a server; this repository holds the npm CLI that downloads and runs the server binary.
 - [uiautomator2](https://awesomecua.com/zh/resources/github-openatx-uiautomator2/) — Date not recorded
   uiautomator2 is a Python library for controlling Android devices through a device-side UiAutomator service, including app launch and UI element actions.
 - [Unattended Android Automation Toolkit](https://awesomecua.com/zh/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/) — Date not recorded
@@ -1280,6 +1320,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Alibaba Cloud Wuying service that runs Qwen-driven agents (MobileUseAgent with OpenClaw) in cloud Android containers to carry out natural-language tasks across apps, for process automation and app testing.
 - [Wuying Cloud Phone](https://awesomecua.com/zh/resources/url-9480f580f8bf9d3ba65d/) — Date not recorded
   Alibaba Cloud service of virtual Android phones run on ARM servers and streamed to users' devices, sold with a built-in Mobile Use Agent and an Agentic Mobile option that runs Qwen-driven agents in the phones.
+- [XDeviceBridge](https://awesomecua.com/zh/resources/github-scrctl-xdevicebridge/) — Date not recorded
+  A C library, server and xdb CLI for iPhone and iPad discovery, pairing, screenshots, video capture and touch, keyboard and text input over USB or Wi-Fi.
 - [YADB](https://awesomecua.com/zh/resources/github-ysbing-yadb/) — Date not recorded
   YADB extends Android Debug Bridge with text input, screenshots, UI layout dumps and simulated gestures for device automation.
 - [youtube_sim](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-youtube/) — Date not recorded

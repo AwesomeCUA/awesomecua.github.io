@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/mobile-navigation/index.md
 
+- [AndroidControl](https://awesomecua.com/zh/resources/component-google-research-android-control/)
 - [AndroidHowTo](https://awesomecua.com/zh/resources/github-debymf-generating-android-howto/)
 - [AutoDroid V2 training data](https://awesomecua.com/zh/resources/url-9a3506ca6ef034adb424/)
 - [DroidCall data](https://awesomecua.com/zh/resources/url-ae8f5208eea9e7f1f606/)
@@ -55,6 +56,7 @@ HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/6/
 - [GUI-Libra 4B](https://awesomecua.com/zh/resources/url-9082bb5effe5d1a1cada/)
 - [GUI-Libra 7B](https://awesomecua.com/zh/resources/url-f52794224f9541fd9eb3/)
 - [GUI-Libra 8B](https://awesomecua.com/zh/resources/url-6694391b0cf50389d2e9/)
+- [GUI_Reflection_8b_SFT](https://awesomecua.com/zh/resources/url-e2c687595af929b4332a/)
 - [gWorld (GuiWorld)](https://awesomecua.com/zh/resources/github-trillion-labs-gworld/)
 - [gWorld-32B](https://awesomecua.com/zh/resources/url-e44096836ef47bc66d9c/)
 - [gWorld-8B](https://awesomecua.com/zh/resources/url-78802d1a2fce25f20f85/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/6/
 - [Holo-3.1-35B-A3B-GGUF](https://awesomecua.com/zh/resources/url-ee3a18b51eb44d94a94b/)
 - [Holo-3.1-35B-A3B-NVFP4](https://awesomecua.com/zh/resources/url-aeffabf23c16f8cf2139/)
 - [Holo3.1 0.8B](https://awesomecua.com/zh/resources/url-df84f6a103123387b0dd/)
-- [Holo3.1 35B-A3B](https://awesomecua.com/zh/resources/url-0c9ce9f220b2fdfd70b0/)
-- [Holo3.1 4B](https://awesomecua.com/zh/resources/url-90b24afa7bb8b2181205/)

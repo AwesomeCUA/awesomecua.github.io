@@ -4,6 +4,16 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [JARVIS-1](https://awesomecua.com/zh/resources/github-craftjarvis-jarvis-1/)：JARVIS-1 是开放世界多模态 Minecraft 智能体，具备情节式多模态记忆和目标条件化的键盘、鼠标控制能力。
+- [KWWKComputerUseCore](https://awesomecua.com/zh/resources/github-eyhn-kwwk-computer-use-core/)：这是一个 Swift 计算机操作运行时，可获取 macOS 应用状态和截图，并发送鼠标及键盘操作。它提供结构化输出和面向智能体的输出。
+- [LaVague](https://awesomecua.com/zh/resources/github-lavague-ai-lavague/)：LaVague 是开源网页智能体框架：World Model 根据目标和当前页面生成指令，Action Engine 将指令编译为 Selenium 或 Playwright 代码并执行。
+- [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonai-litewebagent/)：开源 VLM 网页智能体框架，提供 Playwright 浏览器控制、规划、工作流记忆、树搜索以及 FastAPI/Vercel 部署支持。
+- [LLM-in-Sandbox](https://awesomecua.com/zh/resources/github-llm-in-sandbox-llm-in-sandbox/)：LLM-in-Sandbox 为语言模型配备虚拟化 Linux 计算机沙箱和 RL 训练流水线，用于执行多轮任务。
+- [LongHorizon-Harness](https://awesomecua.com/zh/resources/github-amap-ml-longhorizon-harness/)：LongHorizon-Harness 将桌面和 CLI 智能体置于持续的规划、动作、验证、恢复循环中，以执行长达数小时的自主计算机使用工作流。
+- [MCP-B](https://awesomecua.com/zh/resources/github-miguelspizza-webmcp/)：早期的 MCP-B 代码库：包含一个发现并调用网站以 MCP 服务器形式提供的工具的 Chrome 扩展、一个 Cloudflare Workers 后端，以及将这些工具转发给桌面 MCP 客户端的本地服务器。
+- [Melaya](https://awesomecua.com/zh/resources/github-melaya-labs-melaya/)：Melaya 提供智能体平台的 SDK 和文档；该平台可操作 Android 应用和浏览器标签页，并设有权限范围控制和人工审批。
+- [Melaya MCP](https://awesomecua.com/zh/resources/github-melaya-labs-melaya-mcp/)：连接 AI 智能体与 6,000 多个浏览器、桌面及 API 工具的智能体编排和 Model Context Protocol 运行环境。
+- [Mem0](https://awesomecua.com/zh/resources/github-mem0ai-mem0/)：Mem0 为 AI 智能体提供可扩展的长期记忆层，用于提取、整合和检索用户及会话事实。
 - [MemAgent](https://awesomecua.com/zh/resources/github-dialogbased-interaction-goal-alignment/)：MemAgent 研究网页智能体如何借助任务信息和微调语言模型，通过对话与用户目标保持一致。其仓库提供数据、训练脚本和执行脚本。
 - [MemGUI-Agent](https://awesomecua.com/zh/resources/github-kwai-memgui-agent/)：MemGUI-Agent 的训练与离线评估工具提供轨迹转换、LoRA SFT 模板，以及对 GUI 操作、记忆更新和上下文折叠的逐步检查。
 - [META-GUI baseline](https://awesomecua.com/zh/resources/github-x-lance-meta-gui-baseline/)：面向对话式移动端 GUI 智能体的训练与评估流程，涵盖操作预测、回复生成和数据集处理。
@@ -14,13 +24,14 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [MobileForge](https://awesomecua.com/zh/resources/github-kwai-mobileforge/)：MobileForge 是 Android GUI 智能体适配框架，结合应用探索、生成的课程安排和交互反馈，采用由提示信息引导的逐步 GRPO；文档中的公开训练流程面向 Qwen3-VL-8B。
 - [Mobilewright](https://awesomecua.com/zh/resources/github-mobile-next-mobilewright/)：Mobilewright 通过语义定位器和操作接口自动化控制 iOS 与 Android 设备，并向智能体开放无障碍树以读取和操作移动应用。
 - [Neurosim](https://awesomecua.com/zh/resources/github-anaishowland-neurosim/)：Neurosim 是用于构建、模拟和评测多步 AI 及计算机使用智能体系统的 Python 框架。
-- [Nova Act SDK](https://awesomecua.com/zh/resources/github-aws-nova-act/)：这是一款用于定义和部署浏览器智能体的 Python SDK，可执行界面工作流。Nova Act 支持代码引导的步骤、人工接管和工作流监控。
 - [Nuphus](https://awesomecua.com/zh/resources/github-mrpulor-gh-nuphus/)：以本地运行为先的桌面 AI 智能体平台，支持在真实桌面 GUI 中执行操作，并配有移动端第二屏控制器。
 - [Oh My DSH](https://awesomecua.com/zh/resources/github-secretxuan-oh-my-dsh/)：Oh My DSH 通过共享的比较并交换任务图，以及基于原生视觉的 Windows 计算机使用能力，为 DeepSeek Harness 协调多智能体团队。
+- [ok-script](https://awesomecua.com/zh/resources/github-ok-oldking-ok-script/)：一个用于 Windows 应用、游戏和 Android 设备屏幕自动化的 Python 框架，提供模板匹配、OCR 和输入功能，并带有 MCP 服务，编程智能体可通过它截取目标画面、运行、重载和打包任务。
 - [openadapt-types](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-types/)：openadapt-types 提供经过校验的 Python 模型和 JSON 模式，用于表示计算机操作中的屏幕、动作、结果和交互轨迹。
 - [OpenManus](https://awesomecua.com/zh/resources/github-foundationagents-openmanus/)：OpenManus 是开源智能体框架，可从终端运行任务，并通过 Browser Use 集成浏览器操作和截图。
 - [OpenWebAgent](https://awesomecua.com/zh/resources/github-thudm-openwebagent/)：OpenWebAgent 提供 Chrome 扩展、HTML 简化解析器和后端服务器，用于构建由 LLM 驱动的网页浏览智能体。
 - [Optics Framework](https://awesomecua.com/zh/resources/github-mozarkai-optics-framework/)：Optics Framework 是面向移动端、网页和 TV 界面的自修复测试自动化引擎，提供 Vision/OCR 备用方案和 MCP 服务器。
+- [Orchard-Agentic](https://awesomecua.com/zh/resources/github-microsoft-orchard-agentic/)：Orchard-Agentic 收录 Orchard 环境服务、强化学习训练栈和评测代码，提供面向软件工程、网页导航和命令行智能体的训练方案，并索引后续项目。
 - [OS-Symphony](https://awesomecua.com/zh/resources/github-os-copilot-os-symphony/)：OS-Symphony 是一个综合性的计算机使用智能体框架，结合了 Reflection-Memory Agent、多用途工具集和多模态搜索器。
 - [outlive](https://awesomecua.com/zh/resources/github-sy-d-outlive/)：跨越 10 分钟容器超时，对长时间运行的 Solari 云浏览器会话进行检查点保存和恢复。
 - [PC-Agent-E training and deployment](https://awesomecua.com/zh/resources/github-gair-nlp-pc-agent-e/)：提供工具，用于整理和扩充人类计算机使用轨迹、准备监督训练数据，以及部署原生 PC-Agent-E 框架。
@@ -31,7 +42,6 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [predicate-secure](https://awesomecua.com/zh/resources/github-predicatesystems-predicate-secure/)：predicate-secure 是面向浏览器智能体的安全封装库，可依据策略检查操作、验证结果并记录审计证据。
 - [Programming with Pixels (PwP)](https://awesomecua.com/zh/resources/github-programmingwithpixels-pwp/)：Programming with Pixels 提供框架和基准，用于开发及评估通过截图、输入和点击操作 IDE 的软件工程智能体。
 - [Pydoll](https://awesomecua.com/zh/resources/github-autoscrape-labs-pydoll/)：Pydoll 是一个 Python 浏览器自动化库，通过开发者工具协议控制 Chrome 或 Edge，支持页面导航、元素交互和数据提取。
-- [pyppeteer](https://awesomecua.com/zh/resources/github-pyppeteer-pyppeteer/)：Pyppeteer 是用于自动操作 Chrome 和 Chromium 页面的 Python 库，提供导航、截图、元素查询及页面 JavaScript 接口。
 - [Qontinui](https://awesomecua.com/zh/resources/github-qontinui-qontinui/)：Qontinui 是基于模型的 GUI 自动化框架，以状态图表示应用屏幕，并使用视觉模板和 OCR 匹配。
 - [RecreationWorld](https://awesomecua.com/zh/resources/github-qwenlm-recreationworld/)：面向混合式计算机使用智能体的框架，让智能体探索运行中的参考应用、使用编程工具编写复刻版本，并在五类平台上验证行为。
 - [redux-webmcp](https://awesomecua.com/zh/resources/github-breeznik-redux-webmcp/)：这是面向 Redux Toolkit 应用的 WebMCP 桥接库，让浏览器智能体执行获准的操作并查看状态变化。开发者可要求特定操作先获得批准。
@@ -39,6 +49,7 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [RPA for Python](https://awesomecua.com/zh/resources/github-tebelorg-rpa-python/)：RPA for Python 在 TagUI 之上提供 Python API，通过视觉 OCR 自动操作网站和桌面 GUI 应用，并自动执行命令行工作流。
 - [SCOPE-Gen](https://awesomecua.com/zh/resources/github-k4ngzy-scope-gen/)：一个为 OSWorld 生成并验证桌面图形界面任务的框架；它还会在保留原始目标和完成度评估器的前提下，构造配对的安全任务。
 - [SE-GUI](https://awesomecua.com/zh/resources/github-yxb-nku-se-gui/)：SE-GUI 提供 GUI 元素定位模型的训练与评测代码，通过位置奖励和注意力反馈改进定位，并链接另行发布的权重与种子数据。
+- [SeleniumBase](https://awesomecua.com/zh/resources/github-seleniumbase-seleniumbase/)：用于网页爬取、端到端测试和数据抓取的 Python 浏览器自动化框架，配有生成测试的录制器和隐身选项。
 - [Serpent.AI](https://awesomecua.com/zh/resources/github-serpentai-serpentai/)：一个用于构建与原生视频游戏交互的智能体的 Python 框架，通过插件和辅助模块将游戏用作研究环境。
 - [SimpAgent](https://awesomecua.com/zh/resources/github-jiutian-vl-simpagent/)：SimpAgent 通过上下文感知的历史简化和视觉 token 剪枝，加速多模态 GUI 智能体。
 - [Snapsurf](https://awesomecua.com/zh/resources/github-zumerlab-snapsurf/)：面向 AI 智能体的网页导航和验证层，提供精简的语义页面摘要和带类型的动作后 DOM 差异。
@@ -50,12 +61,13 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [Surfkit](https://awesomecua.com/zh/resources/github-agentsea-surfkit/)：用于构建、发布和运行多模态设备操作智能体的 Python 工具包与 CLI，支持在本地或 Kubernetes 上操作 Ubuntu 桌面等设备，并提供任务跟踪器和智能体中心。
 - [Synapse](https://awesomecua.com/zh/resources/github-ltzheng-synapse/)：Synapse 是计算机操作研究实现，从记忆中检索示例轨迹，抽象与任务相关的状态，并通过提示引导智能体完成浏览器任务。
 - [TeachReplay](https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay/)：TeachReplay 是不依赖特定测试框架的示范教学引擎，可记录人类 UI 工作流并将其编译为参数化技能。
-- [Tencent AI LAB - Self-Improving Agent](https://awesomecua.com/zh/resources/github-tencent-selfevolvingagent/)：这个研究代码合集包含 WebEvolver 和 WebCoT，分别围绕世界模型及重构推理轨迹改进网页智能体。
 - [ToolCUA](https://awesomecua.com/zh/resources/github-x-plug-toolcua/)：ToolCUA 训练计算机使用智能体在 OSWorld-MCP 上协调混合使用 MCP 工具调用和 GUI 动作。
 - [Upsonic (GPT Computer Assistant)](https://awesomecua.com/zh/resources/github-onuratakan-gpt-computer-assistant/)：Upsonic（原名 GPT Computer Assistant）是一个支持 MCP 和桌面屏幕及输入自动化的 Python 智能体框架。
 - [VisionAX](https://awesomecua.com/zh/resources/github-rao-studios-visionax/)：计算机视觉无障碍树（AX/A11Y）生成器，从原始桌面像素合成结构化 UI 树。
 - [VISTA](https://awesomecua.com/zh/resources/github-joshhhhhan-vista/)：VISTA 是面向视觉游戏智能体的运行框架，将游戏操作、画面检查和可检索的观察历史结合起来，支持较长的任务。
+- [WebAggregator](https://awesomecua.com/zh/resources/github-tencent-webaggregator/)：WebAggregator 是 Explore to Evolve 的代码：它通过智能体探索网址构建可验证的网页问答数据，用在浏览器中点击和输入的 smolagents 智能体采样轨迹，并运行评测。
 - [WebLlama](https://awesomecua.com/zh/resources/github-mcgill-nlp-webllama/)：WebLlama 提供对话引导的网页智能体训练、评估和集成工具，包括 Llama 微调流程及围绕 WebLINX 构建的 BrowserGym 示例。
+- [WebMCP](https://awesomecua.com/zh/resources/github-jasonjmcghee-webmcp/)：早期的 WebMCP 提案与代码：网站上的脚本小组件注册其工具、资源和提示词，MCP 客户端通过带令牌验证的本地 WebSocket 服务器访问它们。
 - [WebThinker](https://awesomecua.com/zh/resources/github-ruc-nlpir-webthinker/)：WebThinker 使大型推理模型在深度思考过程中自主搜索、浏览网页并起草研究报告。
 - [Work2Skill](https://awesomecua.com/zh/resources/github-china-qijizhifeng-work2skill/)：收集人类 GUI 操作示范，分析多模态证据，从中提炼可复用的智能体工作流技能。
 - [ZeroGUI](https://awesomecua.com/zh/resources/github-opengvlab-zerogui/)：GUI 智能体在线 RL 框架，由 VLM 生成训练任务并根据轨迹截图判断是否成功；提供基于 UI-TARS-7B-DPO 训练的 OSWorld 和 AndroidLab 检查点。
@@ -92,15 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [agentmemory](https://awesomecua.com/zh/resources/github-rohitg00-agentmemory/)：agentmemory 为包括 Claude Code、Codex 和 OpenClaw 在内的编程与计算机使用智能体提供跨会话持久记忆和 MCP 集成。
 - [AgentProg](https://awesomecua.com/zh/resources/github-mobilellm-agentprog/)：Android GUI 智能体框架，以结构化程序、变量和控制流保存长时间运行任务的上下文，并提供 CLI 和 AndroidWorld 集成。
 - [AgentSeat](https://awesomecua.com/zh/resources/github-vimalinx-agentseat/)：轻量级 Wayland 支架，将 AI 智能体隔离在其专属虚拟席位中，以操作单个 GUI 应用。
-- [AgentStudio](https://awesomecua.com/zh/resources/github-skyworkai-agent-studio/)：用于通过 GUI 和 API 交互构建、评估通用计算机使用智能体的工具包及基于 Ubuntu 的环境。
-- [AgentSynth task-generation pipeline](https://awesomecua.com/zh/resources/github-sunblaze-ucb-agentsynth/)：在 OSWorld 桌面环境和 InSTA 浏览器环境中生成合成计算机使用任务并记录轨迹。
-- [AI-Agentic QA Framework](https://awesomecua.com/zh/resources/github-daud-khan-qa-ai-agentic-qa-framework/)：面向智能体式网页 QA 的零依赖 CDP 浏览器驱动和页面激活可靠性测试框架。
-- [AI-Work](https://awesomecua.com/zh/resources/github-peiwenzhang-git-ai-work/)：支持人工参与的 Windows 桌面自动化运行时，具备 MCP 支持、受限文件访问和逐步审批功能。
-- [aic-pod](https://awesomecua.com/zh/resources/github-veypi-aic-pod/)：将物理机或虚拟机变为可由 LLM 调用的执行节点，提供沙箱化的 shell、文件、浏览器和桌面控制功能。
-- [Ailoy](https://awesomecua.com/zh/resources/github-brekkylab-ailoy/)：Ailoy 是多语言 AI 智能体 SDK，可为计算机使用、CAD 和桌面自动化智能体创建隔离的微型虚拟机沙箱。
-- [Airi-PC Computer Mode Runtime](https://awesomecua.com/zh/resources/github-arancione3000-airi-pc-bootstrap/)：面向 Airi-PC 桌面智能体的本地 Computer Mode 运行时和可复现的引导配置。
-- [Alumnium](https://awesomecua.com/zh/resources/github-alumnium-hq-alumnium/)：AI 原生端到端测试库和 MCP，让智能体通过自动化驱动程序与应用交互并验证断言。
-- [Android-Skill-Agent](https://awesomecua.com/zh/resources/github-xiru0834-eng-android-skill-agent/)：Android-Skill-Agent 从演示中提取参数化操作技能，并通过无障碍树进行验证，以供 Android 应用使用。
-- [AndroTMem inference and evaluation code](https://awesomecua.com/zh/resources/github-cvc2233-androtmem/)：公开的 Android GUI 评估框架，提供操作历史、摘要和锚定记忆提示模式，以及分步操作评分和考虑依赖关系的任务评分。
-- [anpl1623 AgentOS](https://awesomecua.com/zh/resources/github-anpl1623-agentos/)：本地优先的开源智能体运行时，用于在用户个人计算机上安全执行 AI 驱动的任务。
-- [AntyBrowser SDK](https://awesomecua.com/zh/resources/github-antybrowser-sdk/)：用于操作 AntyBrowser 反检测浏览器配置的官方多语言 SDK（TypeScript、Python、C#、Go、PHP、Ruby）。

@@ -30,6 +30,7 @@ HTML 页面：https://awesomecua.com/zh/categories/model/page/2/ · [English](ht
 - [browserground-mlx](https://awesomecua.com/zh/resources/url-ea8bb3d3d41be83852a0/)：browserground-mlx 是面向 Apple Silicon 的浏览器界面定位模型的 4 位 MLX 转换版本。它接收屏幕截图和目标描述，用于定位界面元素。
 - [Captioner](https://awesomecua.com/zh/resources/url-4f98919eaf7a92e8faab/)：Captioner 是面向图形界面的密集描述模型，发布内容包括模型检查点，并附有在线演示和参考服务端代码的链接。
 - [ClawGUI-2B](https://awesomecua.com/zh/resources/url-1a54e63277eaffdaef57/)：ClawGUI-2B 是一个 2B 移动端 GUI 智能体模型，使用 ClawGUI-RL 流水线和 GiGPO 端到端训练；作者报告其 MobileWorld 成功率为 17.1，基线为 11.1。
+- [CLM-v0.1-8B](https://awesomecua.com/zh/resources/url-0b272935f82c063d9384/)：CLM-8B 的权重：一个在冻结的 Qwen3-8B 编码器上加入状态头和动作头的对比学习模型，用于对候选动作排序；作者报告了其在计算机使用、游戏和工具调用任务上的结果。
 - [CODA-PLANNER-TARS-32B](https://awesomecua.com/zh/resources/url-cf16d0a4a05ea7270ffa/)：CODA-PLANNER-TARS-32B 是面向科学软件训练的图形界面智能体规划模型检查点，可在 ScienceBoard 中与专用执行模型配合使用。
 - [Code2World-8B checkpoint](https://awesomecua.com/zh/resources/url-bc3deaf8eeecf569e73b/)：已发布的 GUI 世界模型检查点，将截图和拟执行的操作转换为 HTML，以渲染预测的下一屏幕。
 - [CogAgent 9B 20241220](https://awesomecua.com/zh/resources/url-c5eb975c0d66f8a2954f/)：基于 GLM-4V 的双语执行模型，利用截图、任务指令和操作历史预测 GUI 操作。
@@ -77,6 +78,8 @@ HTML 页面：https://awesomecua.com/zh/categories/model/page/2/ · [English](ht
 - [GUI-Owl 7B](https://awesomecua.com/zh/resources/url-aeb32973694f91ad9920/)：随 Mobile-Agent-v3 发布的基于 Qwen2.5-VL 的 GUI 模型检查点，支持界面定位后的操作及其智能体框架中的专门角色。
 - [GUI-Owl 7B Desktop-RL](https://awesomecua.com/zh/resources/url-b01a78c76299196e3df1/)：Mobile-Agent-v3 的 GUI-Owl 7B 变体，针对 OSWorld 桌面使用进行强化学习调优，作为验证环境强化学习改进的研究检查点发布，生产用途不在其声明的用途范围内。
 - [GUI-R1 checkpoint bundle](https://awesomecua.com/zh/resources/url-61a5321db10fc8a312b9/)：单个 Hub 发布包包含 GUI-R1 3B 和 7B 动作模型检查点，均通过跨界面平台的强化学习训练。
+- [GUI_Reflection_8b_pretrain](https://awesomecua.com/zh/resources/url-534151cf8b1e1df5bf96/)：GUI Reflection 在 GUI 预训练阶段得到的检查点，训练数据包括定位、描述生成、OCR 和 VQA 数据以及反思任务数据，处于离线 SFT 阶段之前。
+- [GUI_Reflection_8b_SFT](https://awesomecua.com/zh/resources/url-e2c687595af929b4332a/)：GUI Reflection 的最终智能体检查点，基于 InternVL，在反思与纠错数据上训练后，根据截图和任务目标预测移动端 GUI 动作。
 - [gWorld-32B](https://awesomecua.com/zh/resources/url-e44096836ef47bc66d9c/)：这是一个已发布的移动端图形界面世界模型，接收屏幕截图和操作，并以可渲染的 HTML 预测下一界面。模型卡称其基于 Qwen3-VL-32B。
 - [gWorld-8B](https://awesomecua.com/zh/resources/url-78802d1a2fce25f20f85/)：gWorld-8B 是已发布的移动端图形界面世界模型，根据当前截图和操作生成可渲染的 HTML，以预测操作后的屏幕。
 - [Holo1.5 3B](https://awesomecua.com/zh/resources/url-dc20a06c296207ac11a6/)：Holo1.5 系列最小检查点由 Qwen2.5-VL-3B-Instruct 经监督训练和 GRPO 微调，用于定位网页、桌面及移动屏幕中的界面元素并回答相关问题。
@@ -101,6 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/model/page/2/ · [English](ht
 - [InternVL3_5-30B-A3B-HF](https://awesomecua.com/zh/resources/url-2ebcbc24ecbdc2db22fb/)：InternVL3.5 的 Transformers 格式检查点，总参数 30.8B、激活参数 3B；其论文报告了该模型在 ScreenSpot、OSWorld-G、WindowsAgentArena 和 WebArena-Lite-v2 上的 GUI 定位与在线智能体结果。
 - [InternVL3_5-38B](https://awesomecua.com/zh/resources/url-33b35b47d8bb269d84a1/)：InternVL3.5 检查点，共 38.4B 参数，由 5.5B 视觉编码器与 32.8B 语言模型组成；其论文报告了该模型在 ScreenSpot、OSWorld-G 和 WindowsAgentArena 上的 GUI 定位与在线智能体结果。
 - [InternVL3_5-38B-HF](https://awesomecua.com/zh/resources/url-099960c12bbdd80f73cb/)：这是 InternVL3.5 多模态模型家族的 HF 格式 38B 检查点；模型卡将图形界面交互列为其能力之一，并介绍了分阶段训练和推理。
-- [InternVL3_5-4B-HF](https://awesomecua.com/zh/resources/url-0585c680192ac22d2735/)：这是 InternVL3.5 多模态模型系列的 HF 格式检查点，模型卡将图形界面交互列为该系列的能力之一。发布内容包含模型权重。
-- [InternVL3_5-8B](https://awesomecua.com/zh/resources/url-7f7d17a0873e6ffda2b9/)：这是 InternVL3.5 系列中的一个 8B 多模态模型检查点；模型卡在介绍更广泛的视觉推理和推理效率工作时，也说明了其图形界面交互能力。
-- [InternVL3_5-8B-HF](https://awesomecua.com/zh/resources/url-15c5435c1cb4f9e6b737/)：Hugging Face Transformers 格式的 InternVL3.5-8B 多模态模型；其技术报告在 GUI 定位以及 OSWorld、WindowsAgentArena 和 WebArena-Lite-v2 在线智能体任务上评测了该系列模型。

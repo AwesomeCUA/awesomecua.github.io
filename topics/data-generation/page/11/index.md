@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/topics/data-generation/page/11/
 
 Full list: https://awesomecua.com/topics/data-generation/index.md
 
+- [Project Tendril](https://awesomecua.com/resources/github-gadgethd-project-tendril/)
+- [Proposer-Agent-Evaluator (PAE)](https://awesomecua.com/resources/github-amazon-science-pae/)
+- [reverseloom](https://awesomecua.com/resources/github-kuichi-x-reverseloom/)
+- [rtrvr CLI & SDK](https://awesomecua.com/resources/github-rtrvr-ai-rtrvr-cli/)
 - [RUSS](https://awesomecua.com/resources/github-xnancy-russ/)
 - [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)
 - [SCOPE-Gen](https://awesomecua.com/resources/github-k4ngzy-scope-gen/)
@@ -12,6 +16,7 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [screen2gym](https://awesomecua.com/resources/github-marc-saouda-screen2gym/)
 - [ScreenAgent Web Client](https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/)
 - [ScreenParse Webshot toolkit](https://awesomecua.com/resources/github-saidgurbuz-screenparse/)
+- [Scribe](https://awesomecua.com/resources/github-sameelarif-scribe/)
 - [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/)
 - [Seq2act code (google-research)](https://awesomecua.com/resources/component-google-research-seq2act/)
 - [Shadow](https://awesomecua.com/resources/github-ghostwright-shadow/)
@@ -30,6 +35,7 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [UI-Genie](https://awesomecua.com/resources/github-euphoria16-ui-genie/)
 - [UI2API](https://awesomecua.com/resources/github-merezarezaei-ui2api/)
 - [Video2GUI](https://awesomecua.com/resources/github-weiminxiong-video2gui/)
+- [WebAggregator](https://awesomecua.com/resources/github-tencent-webaggregator/)
 - [WebEvolver code component](https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/)
 - [WebRain](https://awesomecua.com/resources/github-prokopis3-webrain/)
 - [WebRL](https://awesomecua.com/resources/github-thudm-webrl/)

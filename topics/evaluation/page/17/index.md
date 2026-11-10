@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/evaluation/page/17/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
+- [iOSWorld](https://awesomecua.com/resources/github-ljang0-iosworld/)
+- [jev-click-bench](https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/)
+- [Kane](https://awesomecua.com/resources/github-venkat5599-kane/)
 - [Kernel Eval Protocol](https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/)
 - [KNOWS Benchmark](https://awesomecua.com/resources/github-alexgill321-knows-benchmark/)
 - [LAST DOOR](https://awesomecua.com/resources/github-agentsimdev-last-door/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [Open CaptchaWorld](https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/)
 - [Open Operator Evals](https://awesomecua.com/resources/github-nottelabs-open-operator-evals/)
 - [Open User](https://awesomecua.com/resources/github-tiacoo-open-user/)
-- [openadapt-evals](https://awesomecua.com/resources/github-openadaptai-openadapt-evals/)
-- [OpenAgentSafety](https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/)
-- [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/)

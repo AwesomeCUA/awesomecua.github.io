@@ -43,6 +43,7 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [vimgolf-gym](https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/)
 - [WeaveBench](https://awesomecua.com/resources/github-weavebench-weavebench/)
 - [WebArena-Infinity](https://awesomecua.com/resources/github-web-arena-x-webarena-infinity/)
+- [WebHarbor](https://awesomecua.com/resources/github-aiming-lab-webharbor/)
 - [WorkArena-Instances](https://awesomecua.com/resources/url-01b9e39cd2526d41c527/)
 - [ChilleD/WildAWM](https://awesomecua.com/resources/url-eb8af3be965f5c0fde6a/)
 - [@sparticuz/chromium](https://awesomecua.com/resources/github-sparticuz-chromium/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [AgentTab](https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/)
 - [AGI SDK](https://awesomecua.com/resources/github-agi-inc-agisdk/)
 - [AI SDK Computer Use](https://awesomecua.com/resources/github-vercel-labs-ai-sdk-computer-use/)
-- [aic-pod](https://awesomecua.com/resources/github-veypi-aic-pod/)

@@ -21,6 +21,8 @@ HTML 页面：https://awesomecua.com/zh/topics/cross-app/page/2/
 - [Mano-CUA-2.0-4B-MLX-8bit](https://awesomecua.com/zh/resources/url-430e47e1ca9f3b2a302f/)
 - [MiniMax M3](https://awesomecua.com/zh/resources/url-50089323623ee780a426/)
 - [Muse Spark 1.1](https://awesomecua.com/zh/resources/url-f8a956094e526a92caf3/)
+- [WildAWM-35B-A3B](https://awesomecua.com/zh/resources/url-201acf47dde3df755bfe/)
+- [WildAWM-4B](https://awesomecua.com/zh/resources/url-3f0e524544c55025c9d9/)
 - [AppCopilot](https://awesomecua.com/zh/resources/github-openbmb-appcopilot/)
 - [Aries AI](https://awesomecua.com/zh/resources/github-zg0704666-aries-ai/)
 - [ARTEMIS](https://awesomecua.com/zh/resources/github-google-artemis/)

@@ -50,6 +50,7 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/3/
 - [OpenAgentSafety](https://awesomecua.com/zh/resources/github-open-agent-safety-openagentsafety/)
 - [OSWorld-MCP](https://awesomecua.com/zh/resources/github-x-plug-osworld-mcp/)
 - [PhoneHarness](https://awesomecua.com/zh/resources/github-phoneharness-phoneharness/)
+- [PhoneHarness Bench](https://awesomecua.com/zh/resources/url-92b80b37a7a117acfd3c/)
 - [PPTC](https://awesomecua.com/zh/resources/github-gydpku-pptc/)
 - [RecreationBench](https://awesomecua.com/zh/resources/url-d9d8e68f19ef0956d189/)
 - [WeaveBench](https://awesomecua.com/zh/resources/github-weavebench-weavebench/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/tool-integration/page/3/
 - [ChilleD/WildAWM](https://awesomecua.com/zh/resources/url-eb8af3be965f5c0fde6a/)
 - [DroidCall data](https://awesomecua.com/zh/resources/url-ae8f5208eea9e7f1f606/)
 - [gui_and_terminal_operation_recording](https://awesomecua.com/zh/resources/url-dfa0c83ebd679a37ad00/)
-- [OpenMobile-Data-v2](https://awesomecua.com/zh/resources/url-546e6c95825d1318c98d/)

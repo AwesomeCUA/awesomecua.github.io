@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/sandbox/page/4/
 
 Full list: https://awesomecua.com/topics/sandbox/index.md
 
+- [Computer Use VM](https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/)
 - [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/resources/github-shayanamir0-computer-use-with-slm/)
 - [computer-use-mcp-gateway](https://awesomecua.com/resources/github-git-ksk-computer-use-mcp-gateway/)
 - [CopilotKit OpenBot](https://awesomecua.com/resources/github-copilotkit-openbot/)
@@ -12,6 +13,7 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [cua-lite](https://awesomecua.com/resources/github-justanotheruser82174-cua-lite/)
 - [CuaOS](https://awesomecua.com/resources/github-cuaos-cuaos/)
 - [CUArena](https://awesomecua.com/resources/github-ogutdgn-cuarena/)
+- [CUBE Standard](https://awesomecua.com/resources/github-the-ai-alliance-cube-standard/)
 - [cuforge](https://awesomecua.com/resources/github-huzjie-cuforge/)
 - [cuse](https://awesomecua.com/resources/github-cuse-dev-cuse/)
 - [Cyberdesk](https://awesomecua.com/resources/github-cyberdesk-hq-cyberdesk/)
@@ -62,5 +64,3 @@ Full list: https://awesomecua.com/topics/sandbox/index.md
 - [HAICOSYSTEM](https://awesomecua.com/resources/github-xuhuizhou-haicosystem/)
 - [Halo Bot](https://awesomecua.com/resources/github-galactic717-halo-bot/)
 - [Harborage](https://awesomecua.com/resources/github-vadym-iefremov-harborage/)
-- [headless-use](https://awesomecua.com/resources/github-flyingsquirrel0419-headless-use/)
-- [HeroDesktop](https://awesomecua.com/resources/github-deathlegionteamlk-herodesktop/)

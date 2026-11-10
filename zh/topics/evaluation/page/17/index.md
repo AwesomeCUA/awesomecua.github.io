@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/17/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
+- [iOSWorld](https://awesomecua.com/zh/resources/github-ljang0-iosworld/)
+- [jev-click-bench](https://awesomecua.com/zh/resources/github-arthurkatcher-jev-click-bench/)
+- [Kane](https://awesomecua.com/zh/resources/github-venkat5599-kane/)
 - [Kernel Eval Protocol](https://awesomecua.com/zh/resources/github-kernel-kernel-eval-protocol-quickstart/)
 - [KNOWS Benchmark](https://awesomecua.com/zh/resources/github-alexgill321-knows-benchmark/)
 - [LAST DOOR](https://awesomecua.com/zh/resources/github-agentsimdev-last-door/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/17/
 - [Open CaptchaWorld](https://awesomecua.com/zh/resources/github-metaagentx-opencaptchaworld/)
 - [Open Operator Evals](https://awesomecua.com/zh/resources/github-nottelabs-open-operator-evals/)
 - [Open User](https://awesomecua.com/zh/resources/github-tiacoo-open-user/)
-- [openadapt-evals](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-evals/)
-- [OpenAgentSafety](https://awesomecua.com/zh/resources/github-open-agent-safety-openagentsafety/)
-- [OpenApps](https://awesomecua.com/zh/resources/github-facebookresearch-openapps/)

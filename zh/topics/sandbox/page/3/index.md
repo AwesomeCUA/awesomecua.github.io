@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/sandbox/index.md
 
+- [aic-pod](https://awesomecua.com/zh/resources/github-veypi-aic-pod/)
 - [Ailoy](https://awesomecua.com/zh/resources/github-brekkylab-ailoy/)
 - [AIOS](https://awesomecua.com/zh/resources/github-agiresearch-aios/)
 - [Airbrowser MCP](https://awesomecua.com/zh/resources/github-ifokeev-airbrowser-mcp/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/sandbox/page/3/
 - [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/zh/resources/github-tmustier-codex-computer-use-mcp/)
 - [Computer Agents](https://awesomecua.com/zh/resources/url-e73eb2f901a50145c37e/)
 - [Computer Use (gVisor Cloud REPL)](https://awesomecua.com/zh/resources/github-r33drichards-computer-use/)
-- [Computer Use VM](https://awesomecua.com/zh/resources/github-zimengxiong-computer-use-vm/)

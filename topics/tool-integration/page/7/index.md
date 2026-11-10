@@ -4,6 +4,12 @@ HTML page: https://awesomecua.com/topics/tool-integration/page/7/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
+- [AutoCodeRover](https://awesomecua.com/resources/github-nus-apr-auto-code-rover/)
+- [autocomputer](https://awesomecua.com/resources/github-yygg693-autocomputer/)
+- [AutoCua](https://awesomecua.com/resources/github-computeruseagent-autocua/)
+- [Autodesk Claude Browser Test Skills](https://awesomecua.com/resources/github-autodesk-claude-browser-test-skills/)
+- [AutoDoubao](https://awesomecua.com/resources/github-linxxcat000-autodoubao/)
+- [AutoDroid V2](https://awesomecua.com/resources/github-mobilellm-autodroid-v2/)
 - [AutoGen](https://awesomecua.com/resources/github-microsoft-autogen/)
 - [AutoGPT](https://awesomecua.com/resources/github-significant-gravitas-autogpt/)
 - [autohotkey-mcp](https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/)
@@ -58,9 +64,3 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [Browser Use Pi](https://awesomecua.com/resources/github-browser-use-browser-use-pi/)
 - [Browser Use SDKs](https://awesomecua.com/resources/github-browser-use-sdk/)
 - [Browser Use WebUI](https://awesomecua.com/resources/github-browser-use-web-ui/)
-- [Browser Workbench for Codex](https://awesomecua.com/resources/github-slemmis-browser-workbench-for-codex/)
-- [browser-account-guard & flaky-browser-ui](https://awesomecua.com/resources/github-praticoeq-sudo-browser-account-guard/)
-- [browser-agent-kit](https://awesomecua.com/resources/github-nicolascine-browser-agent-kit/)
-- [browser-for-ai (bfa)](https://awesomecua.com/resources/github-icueth-browser-for-ai/)
-- [browser-gateway](https://awesomecua.com/resources/github-browser-gateway-browser-gateway/)
-- [browser-link](https://awesomecua.com/resources/github-jobshimo-browser-link/)

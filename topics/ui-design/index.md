@@ -173,6 +173,14 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   An FP8 multimodal model checkpoint supports tool calls using screenshots as inputs and generates or edits frontend code from images of interfaces.
 - [UI2Code_N](https://awesomecua.com/resources/url-b04608609a8c392d110b/) — Date not recorded
   A visual language model that turns UI screenshots into code and supports iterative interface editing and polishing. Its card includes a screenshot-to-HTML inference example.
+- [WebGenAgent-LM-7B-SFT](https://awesomecua.com/resources/url-1ff9a17a7d0802a71b1a/) — Date not recorded
+  The 7B supervised fine-tuned checkpoint of WebGen-Agent, which writes website code from instructions and refines it with screenshot critiques and GUI-agent functional tests.
+- [WebGenAgent-LM-7B-Step-GRPO](https://awesomecua.com/resources/url-cdb9a1ad26e169a411f5/) — Date not recorded
+  The 7B Step-GRPO checkpoint of WebGen-Agent, which writes website code from instructions; training used screenshot scores and GUI-agent test scores as step-level rewards.
+- [WebGenAgent-LM-8B-SFT](https://awesomecua.com/resources/url-b3dd615ebfe977392f90/) — Date not recorded
+  The 8B supervised fine-tuned checkpoint of WebGen-Agent, which writes website code from instructions and refines it with screenshot critiques and GUI-agent functional tests.
+- [WebGenAgent-LM-8B-Step-GRPO](https://awesomecua.com/resources/url-7ebba507c0df876c6113/) — Date not recorded
+  The 8B Step-GRPO checkpoint of WebGen-Agent, which writes website code from instructions; training used screenshot scores and GUI-agent test scores as step-level rewards.
 - [WebVIA-Agent](https://awesomecua.com/resources/url-62724cba1b5814215cf7/) — Date not recorded
   GLM-4.1V-9B-based web exploration agent from WebVIA that reads a page screenshot and DOM tree and picks click, type or select actions to reach each interactive UI state for UI-to-code work.
 
@@ -262,6 +270,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   WebMCP reference architecture exposing Redux frontend state directly to browser agents for synchronized human-agent interaction.
 - [shoal](https://awesomecua.com/resources/github-raynan00-shoal/) — Date not recorded
   Deploys a swarm of concurrent AI browser agents to stress-test websites and visualize UX bottlenecks.
+- [SnapEye](https://awesomecua.com/resources/github-zumerlab-snapeye/) — Date not recorded
+  A SnapDOM-based toolkit that lets coding agents capture, diff and record elements of a running web app through a CLI, an in-page API or URL triggers, with JSON results and exit codes.
 - [SoftwareGym](https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/) — Date not recorded
   SoftwareGym synthesizes runnable GUI applications as environments for computer-use agents. It tests generated apps through screenshot-based actions in Ubuntu virtual machines and uses feedback to repair them.
 - [TeleGen](https://awesomecua.com/resources/github-commoluo-telegen/) — Date not recorded

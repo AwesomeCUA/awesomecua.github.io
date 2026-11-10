@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/planning/page/9/
 
 Full list: https://awesomecua.com/topics/planning/index.md
 
+- [MacOS Agent (BIGAI)](https://awesomecua.com/resources/github-computer-use-agents-macos-agent/)
 - [MAI](https://awesomecua.com/resources/github-fluxaster-mai/)
 - [Mano skill](https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/)
 - [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/planning/index.md
 - [Synapse](https://awesomecua.com/resources/github-ltzheng-synapse/)
 - [taskforge](https://awesomecua.com/resources/github-huzjie-taskforge/)
 - [TENKA](https://awesomecua.com/resources/github-om-khode-tenka/)
-- [Tongyi UI Agent API](https://awesomecua.com/resources/url-ce0af37931cd5aa20233/)

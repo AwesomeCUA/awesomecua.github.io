@@ -4,6 +4,13 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/3/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [Buddy](https://awesomecua.com/zh/resources/github-ghorbelhamdi-buddy-android/)：Android 应用通过无障碍服务提供本地 MCP 手机工具服务器，使设备端 proot Linux 中运行的 Claude Code、Codex 或 OpenCode 能读取屏幕、点击、输入和打开应用。
+- [BugCraft](https://awesomecua.com/zh/resources/url-ec17d3267cd49548d2d4/)：这款视觉智能体将 Minecraft 崩溃报告转成复现步骤，并通过宏接口执行。项目页还介绍了 BugCraft-Bench。
+- [Butler](https://awesomecua.com/zh/resources/github-coasty-ai-butler/)：Butler 是语音优先的 macOS 桌面助手，结合 MCP 工具执行与原生 Swift 桌面控制回退机制。
+- [BX Browser](https://awesomecua.com/zh/resources/github-painbaba-bx-browser/)：以 DOM 为主、具备视觉能力的自主浏览器智能体，可规划并执行多步骤网页任务。
+- [Bytebot](https://awesomecua.com/zh/resources/github-bytebot-ai-bytebot/)：开源桌面智能体，在自有 Ubuntu Linux 虚拟桌面中工作，提供网页任务界面、任务及直接控制的 REST API、接管模式和密码管理器登录功能。
+- [CAAP Agent](https://awesomecua.com/zh/resources/github-caap-agent-caap-agent/)：用于 MiniWoB++ 和 WebShop 的截图驱动智能体实现，通过视觉观察器和上下文感知提示发出鼠标与键盘操作。
+- [Caesar Agent](https://awesomecua.com/zh/resources/github-jasonzliang-caesar-agent/)：Caesar 是开源的深度研究网页智能体，可规划多步骤查询、抓取网页并综合生成带引用的报告。
 - [CalebNewtonUSC Nova (Mac Operator)](https://awesomecua.com/zh/resources/github-calebnewtonusc-nova/)：自主式 macOS 桌面操作智能体，可检查屏幕状态并操控原生 Mac 应用。
 - [Cappuccino](https://awesomecua.com/zh/resources/github-gml-fmgroup-cappuccino/)：Cappuccino 是纯视觉桌面 GUI 智能体，可根据自然语言指令规划并执行多步骤计算机任务。
 - [Cetus](https://awesomecua.com/zh/resources/github-drewnekota-cetus/)：用于运行和审阅编码智能体运行环境的 macOS 客户端；内置运行环境含通过带编号的 Accessibility 元素操作前台应用的计算机使用辅助工具，并支持 Chrome 控制。
@@ -97,10 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/3/ · [English](ht
 - [Jcua (Jev Computer Use Agent)](https://awesomecua.com/zh/resources/github-1deat0r-jcua/)：Jcua 是一款由 Jev 决策模型驱动的跨平台计算机使用智能体，可在 Linux、Windows 和 macOS 桌面上运行。
 - [Jev Browser Agent](https://awesomecua.com/zh/resources/github-amyivychoi-jev-browser-agent/)：Jev Browser Agent 结合 Browser Use DOM 提取、Jev System-One 动作选择和确定性浏览器测试框架执行。
 - [Jev for Chrome](https://awesomecua.com/zh/resources/github-chy4pro-jev-for-chrome/)：Chrome 扩展智能体将可见页面控件的索引表发送给 TypeSafe Jev 决策模型，仅向小型文本模型请求待输入字符串，并通过 Chrome 调试器输入执行操作。
-- [Jev macOS Loop](https://awesomecua.com/zh/resources/github-jcpsimmons-jev-macos-loop/)：Jev macOS Loop 结合 Apple Silicon 本地 Jev 决策模型、OmniParser 定位和原生 macOS Accessibility 操作。
-- [jev-for-chrome](https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/)：Chrome 扩展，使用 TypeSafe Jev System-One 决策模型执行网页浏览、点击和输入。
-- [jev-use](https://awesomecua.com/zh/resources/github-savka777-jev-use/)：macOS 语音和文字计算机使用应用，遍历前台应用的无障碍树，由托管的 Jev 模型逐步选择操作和编号目标，再通过无障碍操作及模拟输入执行。
-- [jev-windows-agent](https://awesomecua.com/zh/resources/github-vbs2004-jev-windows-agent/)：jev-windows-agent 将 Windows UI Automation 检查与快速 Jev System-One 决策循环结合，实现低延迟桌面控制。
-- [Job Hunter](https://awesomecua.com/zh/resources/github-liooo0-job-hunter/)：AI 辅助的求职申请浏览器智能体，可匹配简历与职位、自动填写表单并记录提交轨迹。
-- [Job Hunter AI](https://awesomecua.com/zh/resources/github-fred-brown-3-job-hunter-ai/)：智能体式 AI 求职助手，具备自动化候选人信息采集和经过核验的浏览器表单填写功能。
-- [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)：原生、100% 离线的 Windows 桌面语音和 GUI 自动化助手。

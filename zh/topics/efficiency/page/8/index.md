@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [Jev Ultrafast](https://awesomecua.com/zh/resources/github-browser-use-jev-ultrafast/)
+- [jev-browser](https://awesomecua.com/zh/resources/github-doruktarhan-jev-browser/)
+- [jev-browser](https://awesomecua.com/zh/resources/github-mahmoudadelbghany-jev-browser/)
+- [jev-for-chrome](https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/)
+- [jev-use](https://awesomecua.com/zh/resources/github-savka777-jev-use/)
 - [jev-windows-agent](https://awesomecua.com/zh/resources/github-vbs2004-jev-windows-agent/)
 - [Kiko Windows Voice Assistant](https://awesomecua.com/zh/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/)
 - [Kitewright](https://awesomecua.com/zh/resources/github-kitewright-kitewright/)
@@ -24,6 +29,7 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/8/
 - [Lusipad Browser Agent](https://awesomecua.com/zh/resources/github-lusipad-browser-agent/)
 - [lvyuan1688 browser-use-rs](https://awesomecua.com/zh/resources/github-lvyuan1688-browser-use-rs/)
 - [mac-pilot](https://awesomecua.com/zh/resources/github-shxmi03-mac-pilot/)
+- [macbot-mcp](https://awesomecua.com/zh/resources/github-anomalous3-macbot-mcp/)
 - [maponce](https://awesomecua.com/zh/resources/github-shivampatel0714-maponce/)
 - [Marey](https://awesomecua.com/zh/resources/github-badalraj9-marey/)
 - [Master Internet Unit](https://awesomecua.com/zh/resources/github-0bifthenelse-master-internet-unit/)
@@ -58,9 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/8/
 - [Paragent](https://awesomecua.com/zh/resources/github-myselfsiddharth-paragent/)
 - [parallel-browser-mcp](https://awesomecua.com/zh/resources/github-etairl-parallel-browser-mcp/)
 - [pc-screen-control](https://awesomecua.com/zh/resources/github-desteny-dev-pc-screen-control/)
-- [pebkac](https://awesomecua.com/zh/resources/github-michaelsoftmd-pebkac-chrome/)
-- [perceive](https://awesomecua.com/zh/resources/github-gauthierpiarrette-perceive/)
-- [PhoneClaw](https://awesomecua.com/zh/resources/github-kellyvv-phoneclaw/)
-- [PhoneCLI](https://awesomecua.com/zh/resources/github-hkuds-phonecli/)
-- [Pi Jev Browser](https://awesomecua.com/zh/resources/github-laihenyi-pi-jev-browser/)
-- [pixelpi](https://awesomecua.com/zh/resources/github-josharsh-pixelpi/)

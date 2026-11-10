@@ -2,7 +2,7 @@
 
 计算机使用评测基准是一组任务与环境，用来给操作网页浏览器、桌面应用或移动设备的智能体打分。每个基准都把固定的任务集与评估器配在一起，评估方式包括基于执行的状态检查、答案匹配和目标定位。
 
-> AwesomeCUA 目录收录 305 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
+> AwesomeCUA 目录收录 310 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T06:29:47Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https://awesomecua.com/categories/benchmark/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -21,15 +21,15 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 
 ### 目录中被提及最多的评测基准有哪些？
 
-[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)（60 条记录）、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)（31 条记录）和 [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/)（21 条记录）在其他目录记录的已审核来源中被提及最多。
+[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)（60 条记录）、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)（31 条记录）和 [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/)（22 条记录）在其他目录记录的已审核来源中被提及最多。
 
 ### 这些评测基准覆盖哪些平台？
 
-在 305 条已审核评测基准中，网页 209 条、桌面 95 条、手机 44 条、跨平台 28 条；13 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 310 条已审核评测基准中，网页 211 条、桌面 95 条、手机 46 条、跨平台 28 条；14 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些评测基准有官方排行榜？
 
-305 条评测基准中有 25 条在已审核来源中链接了官方排行榜，包括 [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)、[AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) 和 [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/)。
+310 条评测基准中有 25 条在已审核来源中链接了官方排行榜，包括 [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)、[AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) 和 [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/)。
 
 ### 交互式评测和离线评测各有多少？
 
@@ -37,7 +37,7 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 
 ### 评测基准使用哪些许可证？
 
-最常见的声明许可证是 MIT（119 条）、Apache-2.0（70 条）和 CC-BY-4.0（7 条）。305 条中有 100 条未记录声明的许可证。
+最常见的声明许可证是 MIT（121 条）、Apache-2.0（71 条）和 CC-BY-4.0（7 条）。310 条中有 101 条未记录声明的许可证。
 
 ---
 
@@ -365,52 +365,6 @@ These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, an
 
 ---
 
-## AndroidLab
-
-可复现的 Android 基准，在预设虚拟设备上的 9 个应用中包含 138 项任务，可在 Mac 上通过 AVD 或在 Linux 上通过 Docker 运行，并与 Android Instruct 训练集一同发布。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-thudm-android-lab/
-- 原始来源：https://github.com/THUDM/Android-Lab
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：Android
-- 主题：评测、手机操作
-- 证据核查日期：2026-10-16T06:35:58Z
-- ID：github:thudm/android-lab
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-thudm-android-lab/record.json
-
-### 结构化规格
-
-- 动作 / 输出：Android operations through the agent framework
-- 评测方式：The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
-- 侧重：Android task completion, subgoal completion, operation efficiency
-- 观测：UI XML, set-of-marks views
-- 任务设置：交互式
-
-#### 数量记录
-
-- 138 个任务 — benchmark task collection（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
-- 9 个应用 — benchmark application set（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
-
-The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks; Android Instruct is a separately released training set.
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md（获取于 2026-10-16T06:35:58Z；SHA-256：340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b）
-- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md（获取于 2026-10-16T06:35:58Z；SHA-256：340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b）
-- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE（获取于 2026-10-16T06:41:58Z；SHA-256：1bbbee919161337e2456c587c6be809214406482cd9f1292a9eb62428f6961f3）
-
----
-
 ## WebVoyager
 
 多模态网页导航智能体，以及基于真实网站的评估任务。
@@ -454,6 +408,52 @@ The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites 
 
 - https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5）
 - https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1）
+
+---
+
+## AndroidLab
+
+可复现的 Android 基准，在预设虚拟设备上的 9 个应用中包含 138 项任务，可在 Mac 上通过 AVD 或在 Linux 上通过 Docker 运行，并与 Android Instruct 训练集一同发布。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-thudm-android-lab/
+- 原始来源：https://github.com/THUDM/Android-Lab
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：评测、手机操作
+- 证据核查日期：2026-10-16T06:35:58Z
+- ID：github:thudm/android-lab
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-thudm-android-lab/record.json
+
+### 结构化规格
+
+- 动作 / 输出：Android operations through the agent framework
+- 评测方式：The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
+- 侧重：Android task completion, subgoal completion, operation efficiency
+- 观测：UI XML, set-of-marks views
+- 任务设置：交互式
+
+#### 数量记录
+
+- 138 个任务 — benchmark task collection（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
+- 9 个应用 — benchmark application set（来源报告；来源：https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md）
+
+The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks; Android Instruct is a separately released training set.
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md（获取于 2026-10-16T06:35:58Z；SHA-256：340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b）
+- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md（获取于 2026-10-16T06:35:58Z；SHA-256：340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b）
+- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE（获取于 2026-10-16T06:41:58Z；SHA-256：1bbbee919161337e2456c587c6be809214406482cd9f1292a9eb62428f6961f3）
 
 ---
 
@@ -810,6 +810,36 @@ The repository retains original OSWorld-G.json and refined OSWorld-G_refined.jso
 
 ---
 
+## Plasmate Benchmarks
+
+Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟、内存和 token 效率评测。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-benchmarks/
+- 原始来源：https://github.com/plasmate-labs/plasmate-benchmarks
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、效率
+- 证据核查日期：2026-11-04T13:12:31Z
+- ID：github:plasmate-labs/plasmate-benchmarks
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md（获取于 2026-11-04T13:12:31Z；SHA-256：a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6）
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE（获取于 2026-11-04T13:22:33Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
+
+---
+
 ## ScreenSpot v2
 
 ScreenSpot 定位测试集的第二版，由 OS-Copilot 发布，桌面、移动端和网页标注分别存放，截图则共用一个归档文件。
@@ -962,36 +992,6 @@ openadapt-evals 使用可复现的评测器，在 Windows Agent Arena 等评测�
 
 - https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/README.md（获取于 2026-11-04T14:41:44Z；SHA-256：f7c6b6da8b6fe579d9e4e576829c6daf4bd9611a5f134cf478fe85a0e2862156）
 - https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE（获取于 2026-11-04T14:45:03Z；SHA-256：59aeac47ca72de18ba99dd38f0b2f9596b822f85e9cf816684369fadb6664e06）
-
----
-
-## Plasmate Benchmarks
-
-Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟、内存和 token 效率评测。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-benchmarks/
-- 原始来源：https://github.com/plasmate-labs/plasmate-benchmarks
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航、效率
-- 证据核查日期：2026-11-04T13:12:31Z
-- ID：github:plasmate-labs/plasmate-benchmarks
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md（获取于 2026-11-04T13:12:31Z；SHA-256：a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6）
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE（获取于 2026-11-04T13:22:33Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
 
 ---
 
@@ -1461,6 +1461,40 @@ CUA-Gym-Hub 提供 98 个自包含的模拟网页应用，配有确定性状态�
 
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/README.md（获取于 2026-11-04T14:20:05Z；SHA-256：979699e12a3ee57f2059720cf2f22abbd42fd07a97896826522f9ec5ccb8e9c5）
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/LICENSE（获取于 2026-11-04T14:23:33Z；SHA-256：4b90ed4baf4f3ac8df3e7e9bb4bb0cf758146d1ab716a687366cbee9f7418af4）
+
+---
+
+## Halluminate Westworld
+
+Halluminate Westworld 使用设于仿真网站的任务评估网页智能体，并提供任务加载、手动演示和评测接口。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-halluminate-westworld/
+- 原始来源：https://github.com/Halluminate/westworld
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、沙箱
+- 证据核查日期：2026-11-09T21:09:49Z
+- ID：github:halluminate/westworld
+
+### 范围记录
+
+The source links a Hugging Face task dataset. Its demo requires browser support and an API key for simulated environments.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-halluminate-westworld/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/README.md（获取于 2026-11-09T21:09:49Z；SHA-256：20455fb9e6f65fd921eb20b8de96bda4e1c996487b10904972ffb901e5f7a734）
+- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE（获取于 2026-11-09T21:12:08Z；SHA-256：db2802dd8e3073d4d30d53e8195c98047c3a53998177460a3d7d1357974f02a1）
 
 ---
 
@@ -2497,6 +2531,40 @@ Counts refer to the paper study.
 
 ---
 
+## AI GameStore
+
+一个基准，收录 100 款由 App Store 和 Steam 榜单游戏改编的网页版游戏，并配有 Playwright 评测框架，将游戏截图发送给视觉语言模型并执行模型返回的按键。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-lance-ying-aigamestore/
+- 原始来源：https://github.com/lance-ying/aigamestore
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：评测
+- 证据核查日期：2026-11-10T06:29:34Z
+- ID：github:lance-ying/aigamestore
+
+### 范围记录
+
+Ten of the 100 games are public and the other 90 form a private test set; the release adds the game generation pipeline and human study data from 87 participants. The harness needs Python 3.10+, Playwright Chromium and a provider API key. Code is MIT and study data CC BY 4.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-lance-ying-aigamestore/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/lance-ying/aigamestore/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/lance-ying/aigamestore/a6da2626be43ea99de170ee93da14994b8d3fc17/README.md（获取于 2026-11-10T06:29:34Z；SHA-256：8418bd0bf40150c77b5f5df56ac02d9b7e60229f3a558de18f9d84b4de7e5ea3）
+- https://raw.githubusercontent.com/lance-ying/aigamestore/HEAD/LICENSE（获取于 2026-11-10T06:22:37Z；SHA-256：f5fbc6ba0443b7e025761812bfcd3fa553caace70fb23e4feb1053513bd5be86）
+
+---
+
 ## AndroidDaily
 
 来自 Step-GUI 的 Android GUI 评测基准数据集，包含 3,146 个静态动作评测条目和 235 项端到端移动端日常任务。
@@ -3141,6 +3209,40 @@ The README reports 100 dialogues, 1000 turns and 3676 test cases. The repository
 
 ---
 
+## FunUI-Benchmark
+
+FunUI 是一个中英双语基准，基于 2,150 张中文和 9,347 张英文 Android 屏幕，测试 UI 定位、UI 指代、屏幕问答和屏幕摘要。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-92241e51e909ea9ca564/
+- 原始来源：https://huggingface.co/datasets/Earthiii/FunUI-Benchmark
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：界面理解、GUI 定位、评测
+- 证据核查日期：2026-11-10T06:29:22Z
+- ID：url:92241e51e909ea9ca564
+
+### 范围记录
+
+The Hugging Face repository holds zipped Chinese and English screen images and per-task JSON annotation files for the four tasks. The card cites the UI-Hawk preprint and declares the CC BY-SA 4.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-92241e51e909ea9ca564/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-sa-4.0 — https://huggingface.co/datasets/Earthiii/FunUI-Benchmark
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Earthiii/FunUI-Benchmark（获取于 2026-11-10T06:29:22Z；SHA-256：ae52a62986e54c85e3599835eb1b59a47d047e325259ad0c1d4d57905279c4bc）
+- https://huggingface.co/api/datasets/Earthiii/FunUI-Benchmark（获取于 2026-11-10T06:29:22Z；SHA-256：ae52a62986e54c85e3599835eb1b59a47d047e325259ad0c1d4d57905279c4bc）
+
+---
+
 ## GA-Technical-Report
 
 GenericAgent 的评估材料涵盖网页浏览及其他智能体任务；各基准测试文件夹说明了任务设置、评估协议和复现方法。
@@ -3285,6 +3387,40 @@ Each example is one screenshot, instruction and target box; four visual variants
 - https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml（获取于 2026-10-18T15:59:07Z；SHA-256：119930290bb21bcceb3f3a2b22d4f738ce5d0eb4531652cb7e7ad0dde348e30a）
 - https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval（获取于 2026-10-18T15:59:07Z；SHA-256：5a23805cf7a6122abf01288f46139bb3c7890306678ec0280e9e6d488adb5908）
 - https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md（获取于 2026-10-18T15:59:36Z；SHA-256：6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e）
+
+---
+
+## GUI_Reflection_Task_Suite_Benchmark
+
+GUI Reflection 任务套件的评测部分，包含动作验证、动作回退以及在 ScreenSpot 和 ScreenSpot v2 上基于错误重试的 JSONL 文件。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-dea0e09f027df704ca00/
+- 原始来源：https://huggingface.co/datasets/craigwu/GUI_Reflection_Task_Suite_Benchmark
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：自我反思、评测
+- 证据核查日期：2026-11-10T06:29:28Z
+- ID：url:dea0e09f027df704ca00
+
+### 范围记录
+
+The repository holds four JSONL annotation files; screenshots come from AndroidControl, GUI Odyssey, ScreenSpot and ScreenSpot v2. The card declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-dea0e09f027df704ca00/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/craigwu/GUI_Reflection_Task_Suite_Benchmark
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_Benchmark（获取于 2026-11-10T06:29:28Z；SHA-256：ba5e4bd41a45665879a796dd338b0b5640e1ac0a5fa4e9ecf0c9404095b072cf）
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_Benchmark（获取于 2026-11-10T06:29:28Z；SHA-256：ba5e4bd41a45665879a796dd338b0b5640e1ac0a5fa4e9ecf0c9404095b072cf）
 
 ---
 
@@ -3439,40 +3575,6 @@ The README reports 100 real-time minigames with non-real-time counterparts, five
 
 - https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/README.md（获取于 2026-11-09T19:57:06Z；SHA-256：cb6c110b595d725b0dca10f598158e8c5e98b1a64e683c4bb5160a9c20397223）
 - https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/LICENSE（获取于 2026-11-09T14:20:51Z；SHA-256：813d1fbc50ef21c3581c6cfd5733aed82db3b5850042fde0629db45afa6d082e）
-
----
-
-## Halluminate Westworld
-
-Halluminate Westworld 使用设于仿真网站的任务评估网页智能体，并提供任务加载、手动演示和评测接口。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-halluminate-westworld/
-- 原始来源：https://github.com/Halluminate/westworld
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航、沙箱
-- 证据核查日期：2026-11-09T21:09:49Z
-- ID：github:halluminate/westworld
-
-### 范围记录
-
-The source links a Hugging Face task dataset. Its demo requires browser support and an API key for simulated environments.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-halluminate-westworld/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/README.md（获取于 2026-11-09T21:09:49Z；SHA-256：20455fb9e6f65fd921eb20b8de96bda4e1c996487b10904972ffb901e5f7a734）
-- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE（获取于 2026-11-09T21:12:08Z；SHA-256：db2802dd8e3073d4d30d53e8195c98047c3a53998177460a3d7d1357974f02a1）
 
 ---
 
@@ -4396,6 +4498,40 @@ The README names Android emulators, a GUI worker, JSONL traces and HTML viewers.
 
 ---
 
+## PhoneHarness Bench
+
+包含 124 个混合动作 Android 手机任务和 30 个安全任务的任务定义与验证器元数据，智能体可通过应用 GUI、设备命令和 MCP 风格工具执行操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-92b80b37a7a117acfd3c/
+- 原始来源：https://huggingface.co/datasets/PhoneHarness/phoneharness-bench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：评测、手机操作、工具集成、安全与防护
+- 证据核查日期：2026-11-10T06:29:29Z
+- ID：url:92b80b37a7a117acfd3c
+
+### 范围记录
+
+Files are main_tasks.jsonl with a CSV mirror, safety_tasks.jsonl and dataset_summary.json; the release holds task definitions and verifier metadata only. Safety tasks carry SAFE_COMPLETE, CONFIRM_FIRST or NEVER_AUTO policy labels. The card declares Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-92b80b37a7a117acfd3c/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/PhoneHarness/phoneharness-bench
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/PhoneHarness/phoneharness-bench（获取于 2026-11-10T06:29:29Z；SHA-256：76172803083e0404125ed5be7523cf2afaf47a5cf793511e2429fcd3be3957b0）
+- https://huggingface.co/api/datasets/PhoneHarness/phoneharness-bench（获取于 2026-11-10T06:29:29Z；SHA-256：76172803083e0404125ed5be7523cf2afaf47a5cf793511e2429fcd3be3957b0）
+
+---
+
 ## PopupAttack
 
 用于评估 GUI 智能体在恶意弹窗指令下表现的资源。
@@ -4938,6 +5074,39 @@ The repository includes data, evaluation scripts and archived experiment outputs
 ### 一手证据
 
 - https://raw.githubusercontent.com/mnluzimu/WebGen-Bench/HEAD/README.md（获取于 2026-11-09T06:16:36Z；SHA-256：f579d4f90c17ed8a9e862f2ba6b2862886637425fdce8fdf495ea37d246a5b10）
+
+---
+
+## WebHarbor
+
+WebHarbor 将 153 个真实网站做成基于 Docker 的本地镜像，包含登录和数据库，并提供 3,518 个带验证器的任务，用于评估和强化学习训练 GUI 网页智能体，另有控制面实现亚秒级站点重置。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-aiming-lab-webharbor/
+- 原始来源：https://github.com/aiming-lab/WebHarbor
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：沙箱、评测、网页导航、强化学习
+- 证据核查日期：2026-11-10T06:29:27Z
+- ID：github:aiming-lab/webharbor
+
+### 范围记录
+
+Prebuilt images on Docker Hub (about 20 GB for all sites); tasks are in Harbor format on Hugging Face with train, test and WebVoyager splits, and harnesses for browser-use, OpenCode and OpenWebRL are in harbor/. The authors report a 75.8 average for WebHarbor-4B on WebVoyager and Online-Mind2Web.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-aiming-lab-webharbor/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/aiming-lab/WebHarbor/db506e3a28d8829a8295a2bb5f06c299e1db47f6/README.md（获取于 2026-11-10T06:29:27Z；SHA-256：850d1ffba550f7e2d776d69009cd2ea3aed05acf3b3bdc4d798facc41ef19080）
 
 ---
 

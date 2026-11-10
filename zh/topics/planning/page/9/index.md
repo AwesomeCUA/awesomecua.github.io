@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/planning/index.md
 
+- [MacOS Agent (BIGAI)](https://awesomecua.com/zh/resources/github-computer-use-agents-macos-agent/)
 - [MAI](https://awesomecua.com/zh/resources/github-fluxaster-mai/)
 - [Mano skill](https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-skill/)
 - [Mantis](https://awesomecua.com/zh/resources/github-mercurialsolo-mantis/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/9/
 - [Synapse](https://awesomecua.com/zh/resources/github-ltzheng-synapse/)
 - [taskforge](https://awesomecua.com/zh/resources/github-huzjie-taskforge/)
 - [TENKA](https://awesomecua.com/zh/resources/github-om-khode-tenka/)
-- [Tongyi UI Agent API](https://awesomecua.com/zh/resources/url-ce0af37931cd5aa20233/)

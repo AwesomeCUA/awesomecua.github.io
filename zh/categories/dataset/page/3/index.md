@@ -4,6 +4,17 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/page/3/ · [English](
 
 完整类别注释：https://awesomecua.com/zh/categories/dataset/index.md
 
+- [a3-qwen-3.5-9b-trajectories](https://awesomecua.com/zh/resources/url-3ab90a696d8578c944c8/)：A3-Qwen3.5-9B 网页智能体在 BrowserGym 基准上的 AgentLab 运行日志，按任务以逐步 JSON 文件保存目标、页面 URL、DOM 与无障碍树观测以及动作；该地址指向其中的 WebArena 文件夹。
+- [Agent Humanization Benchmark (AHB) recordings](https://awesomecua.com/zh/resources/url-3e1a864c46c8ed5735d4/)：记录人类与移动端 GUI 智能体完成相同中文 Android 应用任务时的触摸手势和运动传感器数据，附任务列表和元数据，用于训练区分智能体与人类的检测器。
+- [AgentSynth tasks and trajectories](https://awesomecua.com/zh/resources/url-58a209f2b3b970916396/)：已发布的 AgentSynth 任务定义和记录的 GUI 轨迹，包含 OSWorld 及 InSTA 训练配置，以及打包的截图、思考内容和命令。
+- [AgentTrek](https://awesomecua.com/zh/resources/github-xlang-ai-agenttrek/)：以网页教程为指引，通过重放合成浏览器智能体轨迹；发布包含多模态定位与推理信息的轨迹数据及 AgentTrek-32B 智能体。
+- [AMEX](https://awesomecua.com/zh/resources/github-yuxiangchai-amex-codebase/)：AMEX Android GUI 数据处理代码，将 3 个标注层级转为问答对并微调 LLaMA2-Accessory 模型，同时发布了模型检查点。
+- [Android in the Wild](https://awesomecua.com/zh/resources/component-google-research-android-in-the-wild/)：Android 任务的人类操作演示，包含截图和触摸操作。
+- [android_icon_dataset](https://awesomecua.com/zh/resources/url-b1c6b94743e6dbac930d/)：Android 图标标注数据集，用于研究界面中的视觉元素；训练集包含图像和字符串类别标签。
+- [AndroidControl](https://awesomecua.com/zh/resources/component-google-research-android-control/)：Android 操作演示，包含高层目标、分步指令、截图和无障碍树。
+- [AndroidHowTo](https://awesomecua.com/zh/resources/github-debymf-generating-android-howto/)：AndroidHowTo 提供脚本和标注，用于构建将操作指南步骤与 Android 屏幕关联的移动端 UI 动作数据集。
+- [AutoDroid V2 training data](https://awesomecua.com/zh/resources/url-9a3506ca6ef034adb424/)：用于微调 AutoDroid V2 的对话格式监督数据；项目文档提供了 ShareGPT 风格的 JSON 配置。
+- [bevaya/RICO-ScreenQA-Complex](https://awesomecua.com/zh/resources/url-b6114625f883ec0fda33/)：这是面向 RICO 界面截图的复杂问答测试数据集，包含截图、问题和标准答案。数据卡列出 11,781 个样本。
 - [Browser Agent Failure Corpus](https://awesomecua.com/zh/resources/github-mutantweb-browser-agent-failure-corpus/)：Browser Agent Failure Corpus 是一个带版本管理的数据集，收录浏览器智能体的动作失败、执行轨迹和防护机制反例。
 - [CMGUI](https://awesomecua.com/zh/resources/url-ab26f9ef56d651cee587/)：包含来自电商、社交媒体等领域 50 多个中文移动应用的 18k 条轨迹、共 98k 步，用于构建面向中文应用的 GUI 智能体。
 - [Computer Use Large (markov-ai)](https://awesomecua.com/zh/resources/url-f00b2ed65c517295a6cc/)：从互联网收集的 48,478 段经裁剪且无音频的屏幕录制视频，约 12,300 小时，展示 AutoCAD、Blender、Excel、Photoshop、Salesforce 和 VS Code 的使用；附时长元数据，无操作标签。

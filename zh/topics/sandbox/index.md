@@ -207,6 +207,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   WeaveBench evaluates computer-use agents on long-horizon real-world workflows across hybrid GUI, web, and programmatic tool interfaces.
 - [WebArena-Infinity](https://awesomecua.com/zh/resources/github-web-arena-x-webarena-infinity/) — Date not recorded
   Generated web apps modeled on GitLab, PayPal, Xero, Elation EHR and other products, each with resettable state and Python-verified tasks for browser agents, plus the coding-agent pipeline that builds them.
+- [WebHarbor](https://awesomecua.com/zh/resources/github-aiming-lab-webharbor/) — Date not recorded
+  Docker-based local mirrors of 153 real websites with auth and databases, plus 3,518 tasks with verifiers for evaluating and RL-training GUI web agents, and a control plane for sub-second site resets.
 - [WorkArena-Instances](https://awesomecua.com/zh/resources/url-01b9e39cd2526d41c527/) — Date not recorded
   A restricted-access set of ServiceNow instances for running WorkArena benchmark evaluations. The repository provides instance information and states research-use conditions.
 
@@ -391,6 +393,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   CuaOS runs a Qwen3-VL computer-use agent that autonomously controls an Ubuntu virtual desktop inside a local Docker sandbox.
 - [CUArena](https://awesomecua.com/zh/resources/github-ogutdgn-cuarena/) — Date not recorded
   CUArena wraps desktop and web applications into resettable, observable, and programmatically gradable reinforcement-learning environments.
+- [CUBE Standard](https://awesomecua.com/zh/resources/github-the-ai-alliance-cube-standard/) — Date not recorded
+  A Python protocol for wrapping agent benchmarks behind shared Tool, Task, Benchmark, Observation and Action types, with optional browser sessions, VM backends and browser and desktop computer tools.
 - [cuforge](https://awesomecua.com/zh/resources/github-huzjie-cuforge/) — Date not recorded
   cuforge is an online reinforcement-learning and verifiable task-synthesis platform for training computer-use GUI agents.
 - [cuse](https://awesomecua.com/zh/resources/github-cuse-dev-cuse/) — Date not recorded
@@ -575,6 +579,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   NexusCUH is a computer-use agent harness with sandboxed execution, MCP integration, policy guardrails, and trace observability.
 - [Nik-Browser MCP](https://awesomecua.com/zh/resources/github-nikolay-3d-nik-browser-mcp/) — Date not recorded
   Local Model Context Protocol server providing LLMs with an independent, persistent-login Chromium browser and DOM snapshots.
+- [Noodle Flights](https://awesomecua.com/zh/resources/github-halluminate-noodle-flights/) — Date not recorded
+  A Next.js flight-search simulator for evaluating web agents, with one-way, round-trip and multi-city flows, deterministic seeded results and an OpenEnv wrapper for the Hugging Face OpenEnv Hub.
 - [Numera Browser](https://awesomecua.com/zh/resources/github-kiarosama-numera-browser/) — Date not recorded
   Local-first multi-profile browser manager for isolated testing and agentic web automation.
 - [Obscura](https://awesomecua.com/zh/resources/github-h4ckf0r0day-obscura/) — Date not recorded
@@ -583,6 +589,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   A Hermes browser-provider plugin that routes browser-agent tools through an Obscura CDP server. It can start a local server per session or connect to an existing one.
 - [Oculr MCP](https://awesomecua.com/zh/resources/github-oculr-ai-oculr-mcp/) — Date not recorded
   Model Context Protocol server for driving isolated, anti-detect Oculr Chromium profiles over MCP and raw CDP.
+- [Online Environment for GUI Reflection](https://awesomecua.com/zh/resources/github-penghao-wu-gui-reflection-env/) — Date not recorded
+  Host-worker Android emulator environment from the GUI Reflection project, with configs that collect interaction data and evaluate GUI models while inference runs on a separate host machine.
 - [Open Claudex Computer Use](https://awesomecua.com/zh/resources/github-opencodexlabs-open-codex-computer-use/) — Date not recorded
   Open-source background macOS computer-use MCP server for Claude Code and Codex.
 - [Open Computer](https://awesomecua.com/zh/resources/github-mintplex-labs-open-computer/) — Date not recorded
@@ -611,6 +619,10 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Seven preconfigured Pixel 6 emulator images for Android API 33 (arm64) with an Apple Silicon install script, listed in the OpenMobile-2 release as its extended Android AVDs.
 - [Orbit UI](https://awesomecua.com/zh/resources/github-aadya940-orbit-ui/) — Date not recorded
   Self-hosted visual workflow builder for authoring and running desktop computer-use automation inside Docker containers.
+- [Orchard-Agentic](https://awesomecua.com/zh/resources/github-microsoft-orchard-agentic/) — Date not recorded
+  Orchard-Agentic holds the Orchard environment service, an RL training stack and evaluation code, with recipes for software, browser-navigation and CLI agents and an index of follow-on projects.
+- [orion-vm-arm](https://awesomecua.com/zh/resources/url-7e2e6225864f97b5238c/) — Date not recorded
+  A VMware Fusion snapshot of the Orion agent's Ubuntu guest for arm64 Macs, with CellProfiler, QuPath and napari pre-installed, released as a single OS.zip archive.
 - [OSWorld Ubuntu VM images](https://awesomecua.com/zh/resources/url-346ca54794cbdffc8797/) — Date not recorded
   Hub host of OSWorld's prebuilt Ubuntu virtual machines: VMware archives for x86 and arm64 and a QEMU qcow2 archive, which OSWorld's VMware and Docker providers download on first run.
 - [OSWorld VirtualBox Ubuntu image](https://awesomecua.com/zh/resources/url-ce775111626bae220596/) — Date not recorded
@@ -755,6 +767,8 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Alibaba Cloud Wuying service that runs Qwen-driven agents (MobileUseAgent with OpenClaw) in cloud Android containers to carry out natural-language tasks across apps, for process automation and app testing.
 - [Wuying Cloud Phone](https://awesomecua.com/zh/resources/url-9480f580f8bf9d3ba65d/) — Date not recorded
   Alibaba Cloud service of virtual Android phones run on ARM servers and streamed to users' devices, sold with a built-in Mobile Use Agent and an Agentic Mobile option that runs Qwen-driven agents in the phones.
+- [zendriver-docker](https://awesomecua.com/zh/resources/github-cdpdriver-zendriver-docker/) — Date not recorded
+  A Docker project template that runs Zendriver against a headed, GPU-accelerated Chrome on a virtual Wayland display, with VNC access for watching and debugging runs.
 - [ZennoBrowser MCP Server](https://awesomecua.com/zh/resources/github-zennolab-zennobrowser-mcp-server/) — Date not recorded
   Official Model Context Protocol server for controlling ZennoBrowser anti-detect browser profiles, proxies, cookies, and web actions.
 

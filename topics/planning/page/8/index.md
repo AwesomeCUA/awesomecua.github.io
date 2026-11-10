@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/planning/page/8/
 
 Full list: https://awesomecua.com/topics/planning/index.md
 
+- [BabyAGI](https://awesomecua.com/resources/github-yoheinakajima-babyagi/)
 - [BLAXIN](https://awesomecua.com/resources/github-tasinxxx-blaxin/)
 - [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/resources/github-momoyi0929-gui-agent/)
 - [Browser Operator](https://awesomecua.com/resources/github-browseroperator-browser-operator-core/)
@@ -63,4 +64,3 @@ Full list: https://awesomecua.com/topics/planning/index.md
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/)
 - [LongHorizon-Harness](https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/)
 - [Lusipad Browser Agent](https://awesomecua.com/resources/github-lusipad-browser-agent/)
-- [MacOS Agent (BIGAI)](https://awesomecua.com/resources/github-computer-use-agents-macos-agent/)

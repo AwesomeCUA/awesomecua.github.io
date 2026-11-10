@@ -4,6 +4,9 @@ HTML page: https://awesomecua.com/topics/data-generation/page/8/
 
 Full list: https://awesomecua.com/topics/data-generation/index.md
 
+- [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/)
+- [InSTA 150k Tasks (v3)](https://awesomecua.com/resources/url-a80c7330dbfd4f897693/)
+- [James4Ever0/the_frozen_forest](https://awesomecua.com/resources/url-ede673f7e6f369eae600/)
 - [Jedi](https://awesomecua.com/resources/url-e062cf1445eaee0f3ade/)
 - [LGWM data and RSWT-Bench](https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/)
 - [lumos_unified_plan_iterative](https://awesomecua.com/resources/url-543aff764901777e6ad5/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [Screen2AX-Tree](https://awesomecua.com/resources/url-3821c0d8516819a50d28/)
 - [ScreenParse](https://awesomecua.com/resources/url-98e8a413ddd670214755/)
 - [ScreenRef](https://awesomecua.com/resources/url-56bda04bd8d3a438deb3/)
-- [ScreenRef Annotations](https://awesomecua.com/resources/url-c1db2ba79e6d6a3db2b9/)
-- [sharryXR/asil-training-data](https://awesomecua.com/resources/url-e9423bcf01a8d6b078bc/)
-- [ShowUI Desktop](https://awesomecua.com/resources/url-f976dec3d1c5e0bedbd7/)

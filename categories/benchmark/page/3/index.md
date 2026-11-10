@@ -4,6 +4,11 @@ HTML page: https://awesomecua.com/categories/benchmark/page/3/
 
 Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 
+- [GroundUI-18K](https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/)
+- [GUI-Robust](https://awesomecua.com/resources/github-chessbean1-gui-robust/)
+- [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/)
+- [GUIGuard-Bench evaluation code](https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/)
+- [GUIHalluBench](https://awesomecua.com/resources/github-ant-research-guihallubench/)
 - [GUITestBench](https://awesomecua.com/resources/github-adam-bjtu-guitestbench/)
 - [HealthEnv](https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/)
 - [HoloSkill Gym](https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/)
@@ -99,8 +104,3 @@ Full category annotations: https://awesomecua.com/categories/benchmark/index.md
 - [WebGames](https://awesomecua.com/resources/github-convergence-ai-webgames/)
 - [WebGuard](https://awesomecua.com/resources/github-osu-nlp-group-webguard/)
 - [WebMall](https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/)
-- [WebMCP Description Benchmarks](https://awesomecua.com/resources/github-clouatre-labs-webmcp-description-benchmarks/)
-- [WebsiteBench](https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/)
-- [WebTestBench](https://awesomecua.com/resources/github-friedrichor-webtestbench/)
-- [WebWalker](https://awesomecua.com/resources/github-alibaba-nlp-webwalker/)
-- [WinDeskGround](https://awesomecua.com/resources/github-zzzhr-1-windeskground/)

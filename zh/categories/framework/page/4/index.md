@@ -4,6 +4,18 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/4/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [CUArena](https://awesomecua.com/zh/resources/github-ogutdgn-cuarena/)：CUArena 将桌面和网页应用封装为可重置、可观察且可通过程序评分的强化学习环境。
+- [cuforge](https://awesomecua.com/zh/resources/github-huzjie-cuforge/)：cuforge 是在线强化学习与可验证任务合成平台，用于训练计算机使用 GUI 智能体。
+- [cuse](https://awesomecua.com/zh/resources/github-cuse-dev-cuse/)：cuse 是开源框架，用于构建通过显示、鼠标和键盘 API 控制虚拟化 Linux 桌面及浏览器的 AI 智能体。
+- [Cyber Seeds WebMCP](https://awesomecua.com/zh/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/)：面向操作消费者网页仪表盘的 WebMCP 浏览器智能体、由人类授权的安全与同意模式。
+- [Cybergod](https://awesomecua.com/zh/resources/github-james4ever0-agi-computer-control/)：计算机操作智能体实验性单体仓库，包含 tmux 终端环境、在 noVNC/ttyd Docker 工作进程中记录 GUI 和终端会话的网页记录器，以及随机输入数据收集。
+- [D-PoT evaluation code](https://awesomecua.com/zh/resources/github-sqzhang-lazy-d-pot/)：用于在 Android-in-the-Wild 上评估 Dynamic Planning of Thoughts 的离线提示与评估代码，包括动作提取及与参考动作的比较。
+- [DART-GUI](https://awesomecua.com/zh/resources/github-computer-use-agents-dart-gui/)：DART-GUI 实现解耦式多轮强化学习和自适应轨迹筛选，用于训练计算机使用 GUI 智能体。
+- [dcc-cua](https://awesomecua.com/zh/resources/github-dcc-mcp-dcc-cua/)：跨平台 Rust 运行时和 CLI，让 AI 智能体观察并控制指定范围内的桌面应用窗口。
+- [DeepSeekEyes](https://awesomecua.com/zh/resources/github-dttxorg-deepseekeyes/)：面向 DeepSeek Harness 的可审计视觉与跨平台计算机使用运行时，提供加密证据凭据。
+- [DeskCanvas](https://awesomecua.com/zh/resources/github-sorry123luck-desk-canvas/)：DeskCanvas 将实时 Windows 应用窗口转换为结构化语义状态，并为 AI 智能体提供受保护的动作执行能力。
+- [DeskCtl (Desktop Control Engine)](https://awesomecua.com/zh/resources/github-mini-mind-deskctl/)：面向 GUI 智能体的桌面控制引擎，主要使用 UIA 和 AT-SPI 无障碍树，并在必要时回退到视觉方式。
+- [DeskForge](https://awesomecua.com/zh/resources/github-saidgurbuz-deskforge/)：DeskForge 从桌面执行环境提取密集的步骤级监督信号，用于训练和验证计算机使用智能体。
 - [Desktop Action Agent](https://awesomecua.com/zh/resources/github-dax0056-desktop-action-agent/)：在沙箱中运行的本地计算机自动化智能体参考架构，具备窗口检测和动作验证功能。
 - [deskwork](https://awesomecua.com/zh/resources/github-ashnkumar-deskwork/)：deskwork 通过检索领域文档增强 Claude Computer Use，以执行基于合规要求的桌面和浏览器工作流。
 - [Deterministic Computer-Use Automation](https://awesomecua.com/zh/resources/github-joncody-computer-use-automation/)：两阶段计算机使用自动化框架，将 LLM 驱动的 UI 探索编译为确定性的回放脚本。
@@ -11,7 +23,6 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/4/ · [English
 - [dibs](https://awesomecua.com/zh/resources/github-joshteravest-dibs/)：本地协调中心和锁管理器，让多个 AI 智能体预留并使用计算机使用资源，避免冲突。
 - [Digi-Q](https://awesomecua.com/zh/resources/github-digirl-agent-digiq/)：离线设备控制训练代码，学习操作价值并据此选择有潜力的操作，同时提供关联的轨迹和模型检查点。
 - [Dinoer](https://awesomecua.com/zh/resources/github-ronandavalan-dinoer/)：面向 LLM 智能体、本地优先的网页研究与浏览器自动化框架，结合 SearXNG 发现功能和无头浏览器控制。
-- [DistRL](https://awesomecua.com/zh/resources/github-distrl-lab-distrl-open/)：面向 Android 智能体的分布式在线强化学习框架，提供环境搭建和轨迹采集工具。
 - [Domstamp](https://awesomecua.com/zh/resources/github-zuub-don-domstamp/)：与框架无关的浏览器状态快照工具，为 AI 网页智能体捕获精简且可比较差异的 DOM 和无障碍状态。
 - [draiqw browser-agent (bu_mcp)](https://awesomecua.com/zh/resources/github-draiqw-browser-agent/)：增强版 Browser-Use 发行版，在自主网页导航之上增加了 bu_mcp Model Context Protocol 层。
 - [DrishtiGuard](https://awesomecua.com/zh/resources/github-atharvasamant4-drishtiguard/)：在设备上运行的视觉隐私防护层，在轻量级浏览器智能体处理帧之前检测并遮盖屏幕中的敏感区域。
@@ -93,14 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/4/ · [English
 - [Kopilotti WebMCP](https://awesomecua.com/zh/resources/github-mikko-lab-kopilotti-webmcp/)：WebMCP 参考应用，其中浏览器智能体准备不具约束力的提案，且提案需要人类明确批准。
 - [Kortix Suna](https://awesomecua.com/zh/resources/github-kortix-ai-suna/)：Kortix Suna 是开源通用智能体平台，集成容器化浏览器、代码解释器、文件管理器和工具运行时。
 - [Kryptic](https://awesomecua.com/zh/resources/github-adnqcr7-code-kryptic/)：本地优先的 AI 工程与浏览器控制智能体运行环境，具备受限执行、验证和自我修复功能。
-- [LAI (Linux Native OS Agent)](https://awesomecua.com/zh/resources/github-cufelix-lai/)：面向 Linux 桌面的原生操作系统智能体运行时，提供系统范围的屏幕观察、无障碍信息检查和输入控制。
-- [Language Agent Tree Search (LATS)](https://awesomecua.com/zh/resources/github-lapisrocks-languageagenttreesearch/)：Language Agent Tree Search（LATS）将 LLM 推理、行动和 Monte Carlo Tree Search 与自我反思结合，用于 WebShop 和编程任务。
-- [LASSO WebMCP](https://awesomecua.com/zh/resources/github-smkzz-lasso/)：AI 辅助调度控制台，将人类在网页上用套索选取的视觉区域转化为实时、带类型的 WebMCP 能力。
-- [Latitude Browser](https://awesomecua.com/zh/resources/github-djblack1209-coder-latitude-browser/)：用于管理隔离的浏览器配置文件、代理路由和多会话网页自动化的桌面工作空间。
-- [Legacy UI Capability Engine](https://awesomecua.com/zh/resources/github-saitejareddi3636-legacy-ui-capability-engine/)：通过 LLM 学习一次传统浏览器工作流，并将其编译为经过验证、可复用的能力模块。
-- [LegacyBridge](https://awesomecua.com/zh/resources/github-peterhaupt-legacybridge/)：基于本地开放权重 LLM 的智能体框架，用于在没有 API 的情况下自动操作旧版企业 ERP 和桌面业务软件。
-- [LGWM (Latent GUI World Model)](https://awesomecua.com/zh/resources/github-jiamingzhang94-lgwm/)：LGWM 是以动作为条件的潜在 GUI 世界模型，可预测下一状态表示，以验证 GUI 智能体的状态转换。
-- [Lightcone SDK](https://awesomecua.com/zh/resources/github-tzafon-lightcone/)：Lightcone 是 Tzafon 的 Python 和 TypeScript SDK，用于构建由 Northstar GUI 视觉语言模型驱动的计算机使用智能体。
-- [Lightfeed Replayable Browser Agent](https://awesomecua.com/zh/resources/github-lightfeed-browser-agent/)：TypeScript 浏览器智能体库，使用 LLM 完成一次网页导航流程，之后以零 LLM token 重放缓存的选择器。
-- [Liha WebMCP Adapter](https://awesomecua.com/zh/resources/github-liha-app-webmcp-adapter/)：为现有网站加入结构化 WebMCP 工具定义，无需修改后端代码。
-- [Linux CUA (5omeotherguy)](https://awesomecua.com/zh/resources/github-5omeotherguy-linux-computer-use/)：面向计算机使用智能体的 Linux 桌面工具包，提供隔离的 X11 工作空间、窗口捕获和输入模拟。

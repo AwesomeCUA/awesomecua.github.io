@@ -392,8 +392,12 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 
 ## 数据集
 
+- [AgentGym-RL-Data-ID](https://awesomecua.com/zh/resources/url-9140ca5ba8252d373b8d/) — Date not recorded
+  Train and eval task splits for AgentGym-RL multi-turn reinforcement learning, listing task IDs for WebArena web navigation alongside search, game, embodied and science environments.
 - [AgentSynth tasks and trajectories](https://awesomecua.com/zh/resources/url-58a209f2b3b970916396/) — Date not recorded
   Published AgentSynth task definitions and recorded GUI trajectories, with OSWorld and InSTA training configurations and packaged screenshots, thoughts and commands.
+- [JUMPDiscovery](https://awesomecua.com/zh/resources/url-925ca9e4519cb9ecdc00/) — Date not recorded
+  Task data for the Orion computer-using agent's open discovery task: a problem statement, CellProfiler pipelines, gene sets and a script that downloads JUMP Cell Painting morphological profiles.
 - [LPS-Bench](https://awesomecua.com/zh/resources/url-625bd97c7aa32cf05833/) — Date not recorded
   A dataset for evaluating safety across computer-use agent trajectories, with 570 base cases and 40 skill variants covering benign and adversarial tasks.
 - [Mind2Web 2 task data and judge scripts](https://awesomecua.com/zh/resources/url-4f4c4f0bf0cec93c59d1/) — Date not recorded
@@ -415,6 +419,16 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   An MLX-quantized Mano-CUA model for Apple Silicon that reads screenshots and task instructions to produce structured GUI actions.
 - [Plan-and-Act Planner 70B](https://awesomecua.com/zh/resources/url-3932d69c6b6f9b2a7ba8/) — Date not recorded
   The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.
+- [UI-Mate-27B](https://awesomecua.com/zh/resources/url-ad993f634943aadbc3f7/) — Date not recorded
+  A 27B GUI agent model from the UI-Mate release, trained from Qwen3.6-27B with supervised fine-tuning and online reinforcement learning to turn instructions and screenshots into keyboard and mouse actions.
+- [UI-Mate-9B](https://awesomecua.com/zh/resources/url-d9e6788adf3eb50a9b87/) — Date not recorded
+  A 9B GUI agent model from the UI-Mate release, trained from Qwen3.5-9B with supervised fine-tuning and online reinforcement learning to turn instructions and screenshots into keyboard and mouse actions.
+- [UI-Mate-democua-27B](https://awesomecua.com/zh/resources/url-4425e20ebe68c9eb805f/) — Date not recorded
+  A 27B checkpoint of the UI-Mate desktop agent, fine-tuned from Qwen3.6-27B, that reads screenshots and can follow one recorded demonstration to plan keyboard and mouse actions on a new task.
+- [WildAWM-35B-A3B](https://awesomecua.com/zh/resources/url-201acf47dde3df755bfe/) — Date not recorded
+  WildAWM-35B-A3B is a Qwen3.6-35B-A3B agent checkpoint post-trained on WildAWM cross-interface computer tasks that mix web, MCP and CLI actions, served text-only with SGLang.
+- [WildAWM-4B](https://awesomecua.com/zh/resources/url-3f0e524544c55025c9d9/) — Date not recorded
+  WildAWM-4B is a Qwen3.5-4B agent checkpoint post-trained on WildAWM cross-interface computer tasks that mix web, MCP and CLI actions, served text-only with SGLang.
 
 ## 工程与产业
 

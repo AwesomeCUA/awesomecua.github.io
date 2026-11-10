@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/14/
 
 完整列表：https://awesomecua.com/zh/topics/grounding/index.md
 
+- [Frigate](https://awesomecua.com/zh/resources/github-rao-studios-frigate/)
+- [frontprompt](https://awesomecua.com/zh/resources/github-surrealmindai-frontprompt/)
+- [GACUA](https://awesomecua.com/zh/resources/github-openmule-gacua/)
+- [Game AI - Balatro](https://awesomecua.com/zh/resources/github-proj-airi-game-playing-ai-balatro/)
 - [GAZE](https://awesomecua.com/zh/resources/github-kevintrinhdev-gaze/)
 - [gcv](https://awesomecua.com/zh/resources/github-vcaesar-gcv/)
 - [Genie](https://awesomecua.com/zh/resources/github-vimalmathew26-genie/)
@@ -21,6 +25,7 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/14/
 - [GUI Grounding Pre-training Data for SeeClick](https://awesomecua.com/zh/resources/github-chuyg1005-seeclick-crawler/)
 - [GUI Grounding via Iterative Narrowing](https://awesomecua.com/zh/resources/github-ant-8-gui-grounding-via-iterative-narrowing/)
 - [GUI Object Detection Benchmark & Models](https://awesomecua.com/zh/resources/github-chenjshnn-object-detection-for-graphical-user-interface/)
+- [GUI-Actor-for-FiftyOne](https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-actor-for-fiftyone/)
 - [gui-agent](https://awesomecua.com/zh/resources/github-waynchi-gui-agent/)
 - [GUI-DR](https://awesomecua.com/zh/resources/github-manifoldrg-webdomainrandomizer/)
 - [GUI-RC / GUI-RCPO](https://awesomecua.com/zh/resources/github-zju-real-gui-rcpo/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/14/
 - [Lightcone SDK](https://awesomecua.com/zh/resources/github-tzafon-lightcone/)
 - [Linux Desktop MCP Server](https://awesomecua.com/zh/resources/github-beckhamlabsllc-linux-desktop-mcp/)
 - [Local Computer-Use Agent](https://awesomecua.com/zh/resources/github-storage1n1-local-computer-use-agent/)
-- [Local Grounding MCP](https://awesomecua.com/zh/resources/github-archie-ib-dev-local-grounding-mcp/)
-- [look-decide-act](https://awesomecua.com/zh/resources/github-ivanposel-look-decide-act/)
-- [Lusipad Browser Agent](https://awesomecua.com/zh/resources/github-lusipad-browser-agent/)
-- [macOS Control CLI](https://awesomecua.com/zh/resources/github-ferdinandl007-macos-control-cli/)
-- [macOS Visual Agent](https://awesomecua.com/zh/resources/github-peakmojo-macos-visual-agent/)

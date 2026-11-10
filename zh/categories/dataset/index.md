@@ -2,7 +2,7 @@
 
 计算机使用数据集提供截图、指令、界面元素标注和动作轨迹，用于训练或评估 GUI 智能体。监督信号从单个元素的定位到完整的多步轨迹不等。
 
-> AwesomeCUA 目录收录 267 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T03:01:53Z。
+> AwesomeCUA 目录收录 278 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T06:29:47Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https://awesomecua.com/categories/dataset/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -25,15 +25,15 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https:/
 
 ### 这些数据集覆盖哪些平台？
 
-在 267 条已审核数据集中，网页 116 条、桌面 74 条、手机 74 条、跨平台 34 条；35 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 278 条已审核数据集中，网页 122 条、桌面 78 条、手机 74 条、跨平台 34 条；36 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些数据集记录了监督信号和规模？
 
-267 条数据集中有 125 条附有数据集档案，记录监督信号、模态、格式、划分以及带单位的计数。最常见的监督信号是 element grounding（6 条）、agent-generated trajectories（5 条）和 interaction trajectories（4 条）。[数据集对比页](https://awesomecua.com/compare/datasets/)可逐项比较。
+278 条数据集中有 125 条附有数据集档案，记录监督信号、模态、格式、划分以及带单位的计数。最常见的监督信号是 element grounding（6 条）、agent-generated trajectories（5 条）和 interaction trajectories（4 条）。[数据集对比页](https://awesomecua.com/compare/datasets/)可逐项比较。
 
 ### 数据集使用哪些许可证？
 
-最常见的声明许可证是 Apache-2.0（71 条）、MIT（44 条）和 CC-BY-4.0（35 条）。267 条中有 85 条未记录声明的许可证。
+最常见的声明许可证是 Apache-2.0（72 条）、MIT（45 条）和 CC-BY-4.0（35 条）。278 条中有 90 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -365,6 +365,55 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 
 ---
 
+## Online-Mind2Web task data
+
+Online-Mind2Web 任务集的受限 Hub 发布版，含实时网站任务的单个 JSON 测试集；据项目 README，共有 136 个网站上的 300 项任务，发布方会随网站变化修订。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-a252b36bf1c440269a2e/
+- 原始来源：https://huggingface.co/datasets/osunlp/Online-Mind2Web
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、评测
+- 证据核查日期：2026-10-18T11:39:35Z
+- ID：url:a252b36bf1c440269a2e
+
+### 范围记录
+
+The Hub API at revision eacad896 reports gated 'auto' (access is approved automatically after a logged-in request) and one data file, Online_Mind2Web.json, configured as the test split. The card and task file sit behind the gate; the description and counts come from the project README, which links this dataset as its data. The Hub card metadata declares CC BY 4.0, matching the README's dataset license; the repository code is MIT and is not applied to the data. The publishers replace invalid tasks over time (36 on 2025-11-03), so a result needs the dataset revision.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-a252b36bf1c440269a2e/record.json
+
+### 结构化规格
+
+- 格式：JSON
+- 模态：text
+- 数据划分：test
+- 监督信号：task definitions for live-web evaluation
+
+#### 数量记录
+
+- 300 个任务 — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 136 个网站 — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+
+Counts describe the task set according to the README; the gated file count remains unknown. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/osunlp/Online-Mind2Web
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web（获取于 2026-10-18T11:39:35Z；SHA-256：a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23）
+- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md（获取于 2026-10-18T11:39:36Z；SHA-256：49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa）
+- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web（获取于 2026-10-18T11:39:35Z；SHA-256：a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23）
+
+---
+
 ## Click-100k
 
 101,314 组截图与指令配对数据，附点击定位目标框，从公开 GUI 定位数据集及教程视频帧中筛选，并配有 EasyR1 点位预测提示。
@@ -545,55 +594,6 @@ Quantities are rounded publisher descriptions. Data-license declarations conflic
 - https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md（获取于 2026-10-16T06:36:01Z；SHA-256：0968273442bfb9a6478fe78f8b9a6247a3bb8e6d028880939b432fd009961e98）
 - https://huggingface.co/api/datasets/yiye2023/GUIAct（获取于 2026-10-17T04:01:33Z；SHA-256：624ccdd6e6c5b29b588a4289d1d94c1a1c0803868bd586175f2c9ebc3bfdd0b6）
 - https://huggingface.co/datasets/yiye2023/GUIAct/raw/main/README.md（获取于 2026-10-17T04:01:33Z；SHA-256：98b45ea81164d1e1a1dd82255207053b15cd6c69d922a1c5cf3387ce604d4b74）
-
----
-
-## Online-Mind2Web task data
-
-Online-Mind2Web 任务集的受限 Hub 发布版，含实时网站任务的单个 JSON 测试集；据项目 README，共有 136 个网站上的 300 项任务，发布方会随网站变化修订。
-
-- 目录页面：https://awesomecua.com/zh/resources/url-a252b36bf1c440269a2e/
-- 原始来源：https://huggingface.co/datasets/osunlp/Online-Mind2Web
-- 类型：数据集
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、评测
-- 证据核查日期：2026-10-18T11:39:35Z
-- ID：url:a252b36bf1c440269a2e
-
-### 范围记录
-
-The Hub API at revision eacad896 reports gated 'auto' (access is approved automatically after a logged-in request) and one data file, Online_Mind2Web.json, configured as the test split. The card and task file sit behind the gate; the description and counts come from the project README, which links this dataset as its data. The Hub card metadata declares CC BY 4.0, matching the README's dataset license; the repository code is MIT and is not applied to the data. The publishers replace invalid tasks over time (36 on 2025-11-03), so a result needs the dataset revision.
-
-- 完整记录 JSON：https://awesomecua.com/resources/url-a252b36bf1c440269a2e/record.json
-
-### 结构化规格
-
-- 格式：JSON
-- 模态：text
-- 数据划分：test
-- 监督信号：task definitions for live-web evaluation
-
-#### 数量记录
-
-- 300 个任务 — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
-- 136 个网站 — Online-Mind2Web task set as documented in the README（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
-
-Counts describe the task set according to the README; the gated file count remains unknown. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：cc-by-4.0 — https://huggingface.co/datasets/osunlp/Online-Mind2Web
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web（获取于 2026-10-18T11:39:35Z；SHA-256：a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23）
-- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md（获取于 2026-10-18T11:39:36Z；SHA-256：49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa）
-- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web（获取于 2026-10-18T11:39:35Z；SHA-256：a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23）
 
 ---
 
@@ -2415,6 +2415,74 @@ The release lists trajectory ZIP archives for WebArena, Android, and iOS, plus s
 
 ---
 
+## agentboard
+
+AgentBoard 多轮大语言模型智能体基准的评测数据：涵盖具身、游戏、网页和工具场景的 9 个任务，包括 WebShop 和 WebArena，并附目标、子目标和难度标签。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-be5b952e5f0b4b7e4747/
+- 原始来源：https://huggingface.co/datasets/hkust-nlp/agentboard
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：url:be5b952e5f0b4b7e4747
+
+### 范围记录
+
+Each task has a test.jsonl split, and data.tar.gz holds the complete data with extra environment files; the card says the Dataset Viewer data is incomplete. GPL-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-be5b952e5f0b4b7e4747/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：gpl-2.0 — https://huggingface.co/datasets/hkust-nlp/agentboard
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/hkust-nlp/agentboard（获取于 2026-11-10T06:29:24Z；SHA-256：f00f1166fdfdea0d991b12cacb9534f7076c4abb5e46ceb14d3df9c992e165ba）
+- https://huggingface.co/api/datasets/hkust-nlp/agentboard（获取于 2026-11-10T06:29:24Z；SHA-256：f00f1166fdfdea0d991b12cacb9534f7076c4abb5e46ceb14d3df9c992e165ba）
+
+---
+
+## AgentGym-RL-Data-ID
+
+AgentGym-RL 多轮强化学习的训练与评测任务划分，列出 WebArena 网页导航任务的 ID，以及搜索、游戏、具身和科学类环境的任务 ID。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-9140ca5ba8252d373b8d/
+- 原始来源：https://huggingface.co/datasets/AgentGym/AgentGym-RL-Data-ID
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：强化学习、网页导航、长任务、评测
+- 证据核查日期：2026-11-10T06:29:33Z
+- ID：url:9140ca5ba8252d373b8d
+
+### 范围记录
+
+JSON files under train/ and eval/ hold item_id values that select tasks served by the AgentGym environment servers; training and evaluation scripts live in the AgentGym-RL repository. The card states the CC-BY-NC-4.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-9140ca5ba8252d373b8d/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-nc-4.0 — https://huggingface.co/datasets/AgentGym/AgentGym-RL-Data-ID
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/AgentGym/AgentGym-RL-Data-ID（获取于 2026-11-10T06:29:33Z；SHA-256：e16a910a9a3f4c09d8632ed9ff5f2ef2da2861d0bae40f45150257cd6dd23365）
+- https://huggingface.co/api/datasets/AgentGym/AgentGym-RL-Data-ID（获取于 2026-11-10T06:29:33Z；SHA-256：e16a910a9a3f4c09d8632ed9ff5f2ef2da2861d0bae40f45150257cd6dd23365）
+
+---
+
 ## AgentNet
 
 AgentNet 包含 Windows、macOS 和 Ubuntu 上的 22.6K 个人工标注桌面计算机使用任务，随 OpenCUA 发布，用于训练和评估视觉语言动作模型。
@@ -2984,6 +3052,74 @@ The repository lists image.zip, data.zip, and output.zip. The card says the arch
 
 ---
 
+## CognitiveKernel-Pro-Query
+
+CognitiveKernel-Pro-Query 收录为 Cognitive Kernel-Pro 生成的训练查询：JSONL 格式的多跳 URLQA 和带提示的 AgentWebQA，用于采样网页智能体轨迹。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-2304547d5025246abbe4/
+- 原始来源：https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：数据生成、网页导航
+- 证据核查日期：2026-11-10T06:29:31Z
+- ID：url:2304547d5025246abbe4
+
+### 范围记录
+
+Files are urlqa.jsonl (Section 3.2 of the paper) and agentwebqa_hint.jsonl (Section 3.3); the card also names queries reused from WebWalkerQA and other sets. Custom cognitive-kernel-pro license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-2304547d5025246abbe4/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：other — https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-Query
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-Query（获取于 2026-11-10T06:29:31Z；SHA-256：538f06629296adf6b3546ea67a26670eeb04b628b8e7e7e08d8a8fe56623063d）
+- https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-Query（获取于 2026-11-10T06:29:31Z；SHA-256：538f06629296adf6b3546ea67a26670eeb04b628b8e7e7e08d8a8fe56623063d）
+
+---
+
+## CognitiveKernel-Pro-SFT
+
+CognitiveKernel-Pro-SFT 包含经拒绝采样得到的 GPT-4.1 轨迹，用于微调 Cognitive Kernel-Pro 智能体，来源包括 URLQA 网页查询、DocBench、TableBench 和 WebWalkerQA 子集。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-7c431ccb1d5dc1f035d8/
+- 原始来源：https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-SFT
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：数据生成、网页导航、模仿学习
+- 证据核查日期：2026-11-10T06:29:31Z
+- ID：url:7c431ccb1d5dc1f035d8
+
+### 范围记录
+
+Four JSONL files: ck-pro-web, docbench, tablebench and webwalker_subset SFT data. Custom cognitive-kernel-pro license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-7c431ccb1d5dc1f035d8/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：other — https://huggingface.co/datasets/CognitiveKernel/CognitiveKernel-Pro-SFT
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-SFT（获取于 2026-11-10T06:29:31Z；SHA-256：8c494a616c08cab5ddd2447adf9f6f004b4f71397d36950a58980b1563db2e2f）
+- https://huggingface.co/api/datasets/CognitiveKernel/CognitiveKernel-Pro-SFT（获取于 2026-11-10T06:29:31Z；SHA-256：8c494a616c08cab5ddd2447adf9f6f004b4f71397d36950a58980b1563db2e2f）
+
+---
+
 ## ConClick-Data
 
 ConClick-Data 提供带目标坐标和干扰项框的截图定位样本，以 JSONL 文件形式发布，供训练使用。
@@ -3086,6 +3222,40 @@ The release provides JSONL data and API annotations. This is Android intent-call
 
 - https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md（获取于 2026-10-17T02:02:28Z；SHA-256：08a6c5cfa655e1ecd774a41a9a815e845ad0afd47b289378bc1d6ee66c81dda9）
 - https://huggingface.co/api/datasets/mllmTeam/DroidCall（获取于 2026-10-17T02:02:28Z；SHA-256：c7804987d56b03314a4c48e3ddf2e5819fc0d9c83cc65ba54a981a2f4a584dd9）
+
+---
+
+## ExACT-VWA
+
+在 VisualWebArena 上收集的经后处理的 R-MCTS 与 GPT-4o 智能体轨迹，以上下文与回复配对存储，并附领域和任务元数据；其中一部分用于微调 GPT-4o。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-792920a5f64df66d34d7/
+- 原始来源：https://huggingface.co/datasets/Columbia-NLP/ExACT-VWA
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、规划、模仿学习
+- 证据核查日期：2026-11-10T06:29:27Z
+- ID：url:792920a5f64df66d34d7
+
+### 范围记录
+
+One parquet train split of 176 examples; fields are a context message list, a response string and metadata with domain, source and task_id. The card states no license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-792920a5f64df66d34d7/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Columbia-NLP/ExACT-VWA（获取于 2026-11-10T06:29:27Z；SHA-256：05f511ce57c9320391e448d4371894807852b6ee6df1de19212e6625823c750c）
+- https://huggingface.co/api/datasets/Columbia-NLP/ExACT-VWA（获取于 2026-11-10T06:29:27Z；SHA-256：05f511ce57c9320391e448d4371894807852b6ee6df1de19212e6625823c750c）
 
 ---
 
@@ -3653,6 +3823,40 @@ The repository lists JSONL files for several source datasets and reflection exam
 
 ---
 
+## GUI_Reflection_Task_Suite_train
+
+GUI Reflection 任务套件的训练部分：包含动作验证、动作回退和基于错误重试的 JSONL 文件，构建于 AndroidControl、GUI Odyssey、AMEX、OS-Atlas 和 Wave UI 之上。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-f68939821685c9dcc78c/
+- 原始来源：https://huggingface.co/datasets/craigwu/GUI_Reflection_Task_Suite_train
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：自我反思、数据生成
+- 证据核查日期：2026-11-10T06:29:28Z
+- ID：url:f68939821685c9dcc78c
+
+### 范围记录
+
+The repository holds seven JSONL annotation files; screenshots come from the source datasets. The card declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-f68939821685c9dcc78c/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/craigwu/GUI_Reflection_Task_Suite_train
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_train（获取于 2026-11-10T06:29:28Z；SHA-256：5a7fa4c17a1a944b61e55c23e2c730c60a5609efab9ce7635e278b66bafb93bd）
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_Task_Suite_train（获取于 2026-11-10T06:29:28Z；SHA-256：5a7fa4c17a1a944b61e55c23e2c730c60a5609efab9ce7635e278b66bafb93bd）
+
+---
+
 ## GUICourse
 
 用于将通用 VLM 转化为 GUI 智能体的 3 个数据集：面向 OCR 和定位的 GUIEnv、含 67k 条单步及 15k 条多步网页和 Android 操作的 GUIAct，以及 GUIChat 对话数据。
@@ -3918,6 +4122,74 @@ Coordinates were resized for a specified Qwen2.5-VL image processor and must rem
 - https://huggingface.co/api/datasets/xlangai/Jedi（获取于 2026-10-16T09:33:18Z；SHA-256：63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad）
 - https://huggingface.co/datasets/xlangai/Jedi/raw/main/README.md（获取于 2026-10-17T02:02:38Z；SHA-256：1d4d15c0cd27837602d55f0fda1ed91d9e8a98b33b3e3c4ba64decae42399558）
 - https://huggingface.co/api/datasets/xlangai/Jedi（获取于 2026-10-16T09:33:18Z；SHA-256：63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad）
+
+---
+
+## JUMPDiscovery
+
+Orion 计算机使用智能体开放式发现任务的数据：包含问题描述、CellProfiler 流程、基因集，以及下载 JUMP Cell Painting 形态学特征的脚本。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-925ca9e4519cb9ecdc00/
+- 原始来源：https://huggingface.co/datasets/orion-agent/JUMPDiscovery
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：科学工作流、长任务
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：url:925ca9e4519cb9ecdc00
+
+### 范围记录
+
+Gated dataset of about 124 kB holding ProblemStatement.md, two .cppipe pipelines, hallmark_genesets.json, Verified_Hypothesis.txt and download_JUMP_features.sh. Discovery runs are evaluated manually, and the agent outputs are published as JUMPDiscovery_results.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/orion-agent/JUMPDiscovery（获取于 2026-11-10T06:29:24Z；SHA-256：c529651cbfcb78e3274d09010fd4783e4279964bcfc744c3e2ff6d7346fafa4f）
+- https://huggingface.co/api/datasets/orion-agent/JUMPDiscovery（获取于 2026-11-10T06:29:24Z；SHA-256：c529651cbfcb78e3274d09010fd4783e4279964bcfc744c3e2ff6d7346fafa4f）
+
+---
+
+## JUMPDiscovery_results
+
+Orion 计算机使用智能体在 JUMP Cell Painting 发现任务上的输出：每次尝试对应一个文件夹，包含假设、图表、分析脚本和报告，另附一条示例轨迹。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-4c4b6238a1b1f1dfd4f4/
+- 原始来源：https://huggingface.co/datasets/orion-agent/JUMPDiscovery_results
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：科学工作流
+- 证据核查日期：2026-11-10T06:29:23Z
+- ID：url:4c4b6238a1b1f1dfd4f4
+
+### 范围记录
+
+Gated dataset (accept the conditions to access), about 12.9 GB. Two attempts, attempt_17_final and attempt_44_final, were refined through review rounds; the Orion agent runs in an Ubuntu desktop VM.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-4c4b6238a1b1f1dfd4f4/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/orion-agent/JUMPDiscovery_results（获取于 2026-11-10T06:29:23Z；SHA-256：88062ea9e94316c575807cbb02f6c72fab11dd209dedae1a29aad4a6ee05333c）
+- https://huggingface.co/api/datasets/orion-agent/JUMPDiscovery_results（获取于 2026-11-10T06:29:23Z；SHA-256：88062ea9e94316c575807cbb02f6c72fab11dd209dedae1a29aad4a6ee05333c）
 
 ---
 
@@ -4528,6 +4800,40 @@ Splits are the two Hub archive names; the baseline README's processed data uses 
 - https://huggingface.co/api/datasets/X-LANCE/META-GUI/revision/12660de515ad55e40e8c4e5afa8f4d0e7430ab34（获取于 2026-10-18T15:45:56Z；SHA-256：ef370ba12e94c45d0fb74fe3e44b29f9e058e19fab739a15a6a1d04f4101460d）
 - https://raw.githubusercontent.com/X-LANCE/META-GUI-baseline/a845f88e7d89fe60d3666d15adb32d4e2ef907db/README.md（获取于 2026-10-18T15:45:57Z；SHA-256：2cea1be73ea75acd46990ab1fb567fbd83ad58a2bc69ca858b207660df9fe8c1）
 - https://huggingface.co/datasets/X-LANCE/META-GUI/raw/12660de515ad55e40e8c4e5afa8f4d0e7430ab34/README.md（获取于 2026-10-18T15:46:20Z；SHA-256：cb86b4648766f07f671290abec4b75658496082a2e77661ca47aa593351eacda）
+
+---
+
+## Microscopy-Dataset
+
+供 Orion 计算机使用智能体执行显微图像处理任务的数据集：包含 12 个 CellProfiler 训练模块和 14 个测试挑战，附问题描述、图像、真值和单元测试。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-62a92edacc4b703aaa05/
+- 原始来源：https://huggingface.co/datasets/orion-agent/Microscopy-Dataset
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：科学工作流、评测
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：url:62a92edacc4b703aaa05
+
+### 范围记录
+
+Gated dataset of about 575 MB. Each task folder holds a ProblemStatement.md, a starting .cppipe pipeline and images; test challenges add ground-truth answers and a unit_test.py.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-62a92edacc4b703aaa05/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/orion-agent/Microscopy-Dataset（获取于 2026-11-10T06:29:24Z；SHA-256：aba559162b8e545df6e0f829c1a3af3177b64687a42e59691434e315de2e7b68）
+- https://huggingface.co/api/datasets/orion-agent/Microscopy-Dataset（获取于 2026-11-10T06:29:24Z；SHA-256：aba559162b8e545df6e0f829c1a3af3177b64687a42e59691434e315de2e7b68）
 
 ---
 
@@ -5552,6 +5858,40 @@ The repository file list includes JSONL task sets, an example archive, and check
 
 - https://huggingface.co/api/datasets/yifeizhou/pae-data（获取于 2026-11-09T19:57:11Z；SHA-256：9a6673f9c8b9eeca2b641e402ac60e3adf9b8881fcd8d47805afb18bed3b92d0）
 - https://huggingface.co/api/datasets/yifeizhou/pae-data（获取于 2026-11-09T19:57:11Z；SHA-256：9a6673f9c8b9eeca2b641e402ac60e3adf9b8881fcd8d47805afb18bed3b92d0）
+
+---
+
+## Pathology-Dataset
+
+供 Orion 计算机使用智能体在 QuPath 中执行数字病理任务的数据集：包含教程材料、基于 CAMELYON 切片的淋巴结转移分割和 TP53 指数计算，并附测试套件。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-6aa8885dd2c713b4c64f/
+- 原始来源：https://huggingface.co/datasets/orion-agent/Pathology-Dataset
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：科学工作流、评测
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：url:6aa8885dd2c713b4c64f
+
+### 范围记录
+
+Gated dataset of about 4.75 GB. The tutorial split reuses QuPath documentation and a slide, the segmentation split uses H&E sentinel lymph node sections from CAMELYON, and the TP53 split uses a tissue microarray from the Human Protein Atlas; a download script fetches large slides.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-6aa8885dd2c713b4c64f/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/orion-agent/Pathology-Dataset（获取于 2026-11-10T06:29:24Z；SHA-256：3eaf0b6b0b65369b9491b5c37b485ef4187fd108b3c198a642ee67647d332ae3）
+- https://huggingface.co/api/datasets/orion-agent/Pathology-Dataset（获取于 2026-11-10T06:29:24Z；SHA-256：3eaf0b6b0b65369b9491b5c37b485ef4187fd108b3c198a642ee67647d332ae3）
 
 ---
 
@@ -7498,6 +7838,40 @@ The card reports 222,235 synthesized tasks and 188,451 trajectories. It lists Ap
 
 - https://huggingface.co/api/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories（获取于 2026-11-09T19:58:09Z；SHA-256：e272987a86a523262373eea1dc5f950a298eed8202a6bf124bd8330a66108d37）
 - https://huggingface.co/api/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories（获取于 2026-11-09T19:58:09Z；SHA-256：e272987a86a523262373eea1dc5f950a298eed8202a6bf124bd8330a66108d37）
+
+---
+
+## westworld
+
+Halluminate Westworld 网页智能体基准的任务数据集：包含 100 个验证任务，覆盖电商和出行网站，每个任务带有生成配置、领域、类别、难度和步数上限。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-b43faa43e897c074b7c8/
+- 原始来源：https://huggingface.co/datasets/Halluminate/westworld
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-10T06:29:24Z
+- ID：url:b43faa43e897c074b7c8
+
+### 范围记录
+
+One parquet validation split loaded with the datasets library; tasks are instantiated with the westworld package, and the simulated environments need a Halluminate API key. Apache-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-b43faa43e897c074b7c8/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/Halluminate/westworld
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Halluminate/westworld（获取于 2026-11-10T06:29:24Z；SHA-256：fa8696e036db3105b15a84e9f0233981c8266615805819ad75dfa7776cc572d4）
+- https://huggingface.co/api/datasets/Halluminate/westworld（获取于 2026-11-10T06:29:24Z；SHA-256：fa8696e036db3105b15a84e9f0233981c8266615805819ad75dfa7776cc572d4）
 
 ---
 

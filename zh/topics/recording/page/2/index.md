@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/recording/page/2/
 
 完整列表：https://awesomecua.com/zh/topics/recording/index.md
 
+- [Browse AI](https://awesomecua.com/zh/resources/url-307838fec5f74218b032/)
 - [Browser Agent Recorder](https://awesomecua.com/zh/resources/github-velvetabyss-browser-agent-recorder/)
 - [Browser Use WebUI](https://awesomecua.com/zh/resources/github-browser-use-web-ui/)
 - [BrowserOS / BrowserOS neo](https://awesomecua.com/zh/resources/github-browseros-ai-browseros/)
@@ -46,6 +47,7 @@ HTML 页面：https://awesomecua.com/zh/topics/recording/page/2/
 - [lean-computer-use-mcp](https://awesomecua.com/zh/resources/github-kvxw1105-lean-computer-use-mcp/)
 - [Legacy UI Capability Engine](https://awesomecua.com/zh/resources/github-saitejareddi3636-legacy-ui-capability-engine/)
 - [Libretto](https://awesomecua.com/zh/resources/github-cashew-labs-libretto/)
+- [libuiohook](https://awesomecua.com/zh/resources/github-kwhat-libuiohook/)
 - [Lightfeed Replayable Browser Agent](https://awesomecua.com/zh/resources/github-lightfeed-browser-agent/)
 - [MacControlKit](https://awesomecua.com/zh/resources/github-tzafon-maccontrolkit/)
 - [Maestro (AI-Drivable RPA)](https://awesomecua.com/zh/resources/github-rexchengm-maestro/)
@@ -62,5 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/recording/page/2/
 - [Open Codex Computer History](https://awesomecua.com/zh/resources/github-hqhq1025-open-codex-computer-history/)
 - [Open Codex Record & Replay](https://awesomecua.com/zh/resources/github-hqhq1025-open-codex-record-and-replay/)
 - [Open Record/Replay](https://awesomecua.com/zh/resources/github-humblebanana-open-record-replay/)
-- [OpenAdapt](https://awesomecua.com/zh/resources/github-openadaptai-openadapt/)
-- [OpenAdapt Desktop](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-desktop/)
