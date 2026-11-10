@@ -8,7 +8,7 @@ lang: en
 
 # Awesome CUA
 
-> A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 5,347 curated records (1,718 papers and surveys, 3,629 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
+> Awesome CUA (Awesome Computer-Use Agents) is a source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 5,347 curated records (1,718 papers and surveys, 3,629 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
 
 Snapshot 2026-11-10T08:20:17Z. Awaiting review and not counted above: 1,188 metadata-only bibliography records and 181 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
 
