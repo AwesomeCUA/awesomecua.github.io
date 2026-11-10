@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/23/ · [Previous page](https://awesomecua.com/papers/page/22/index.md) · [Next page](https://awesomecua.com/papers/page/24/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -1046,7 +1046,7 @@ Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold C
 - Publisher: Association for Computational Linguistics
 - Pages: 449-455
 - DOI: 10.18653/v1/2025.naacl-demo.36
-- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/4.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.naacl-demo.36/
@@ -2262,7 +2262,7 @@ Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whiteh
 - Publisher: Association for Computational Linguistics
 - Pages: 6300-6323
 - DOI: 10.18653/v1/2025.findings-acl.326
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. Landing-page citation metadata gives Ahmed Hassan for the final author, while the supplied BibTeX expands the name to Ahmed Hassan Awadallah; the PDF uses Ahmed Awadallah.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.326/, https://aclanthology.org/2025.findings-acl.326.pdf
@@ -2801,7 +2801,7 @@ Qinzhuo Wu, Wei Liu, Jian Luan, Bin Wang
 - Publisher: Association for Computational Linguistics
 - Pages: 4760-4775
 - DOI: 10.18653/v1/2025.naacl-long.244
-- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/4.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.naacl-long.244/

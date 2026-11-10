@@ -25,7 +25,7 @@ The Android AccessibilityService contains concrete screen-reading and action pat
 - document: not recorded
 - weights: not recorded
 
-- code review: Complete root MIT license text inspected at the pinned commit. Repository software only; data, weights and third-party assets retain separate terms.
+- code review: Complete root MIT license text inspected at the pinned commit; it covers the repository software.
   Sources: https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE
 
 ## Primary evidence

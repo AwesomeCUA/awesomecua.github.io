@@ -15,7 +15,7 @@
 
 ## 范围记录
 
-The manifest contains two safetensors shards in GUI-R1-3B and four in GUI-R1-7B. Both are counted as one Hub resource. The model card declares MIT; this does not automatically apply to source training data or upstream base models.
+The manifest contains two safetensors shards in GUI-R1-3B and four in GUI-R1-7B. Both are counted as one Hub resource. The model card declares MIT for the model.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-61a5321db10fc8a312b9/record.json
 

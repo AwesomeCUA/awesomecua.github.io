@@ -99,6 +99,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Computer-use automation infrastructure for legacy financial software that compiles LLM-discovered UI flows into deterministic replays.
 - [Agent VCR](https://awesomecua.com/resources/github-ixchio-agent-vcr/) — Date not recorded
   Agent VCR records, replays, and diffs deterministic cassettes of multi-turn agent tool calls, state transitions, and execution traces.
+- [agentd](https://awesomecua.com/resources/github-agentsea-agentd/) — Date not recorded
+  AgentD exposes a desktop session through an HTTP API for screenshots, mouse and keyboard actions, browser opening, and session recording.
 - [AgentEnv](https://awesomecua.com/resources/github-llamatouch-agentenv/) — Date not recorded
   AgentEnv connects agent models to Android devices or emulators, translating actions and returning screenshots and view hierarchies while recording interactions.
 - [AgentScrub](https://awesomecua.com/resources/github-codewithsupra-agentscrub/) — Date not recorded
@@ -119,6 +121,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   augur-sdk instruments screenshot-grounded computer-use agents to record structured telemetry bundles, screenshots, and failure traces.
 - [Automata](https://awesomecua.com/resources/github-mindattic-automata/) — Date not recorded
   Record-once, replay-many browser automation runtime for Windows that records live user actions into deterministic workflows.
+- [AutoWebNav](https://awesomecua.com/resources/github-mindattic-autowebnav/) — Date not recorded
+  AutoWebNav is a .NET library for WebView2 browser automation, combining page actions and element resolution with interaction recording and live observation.
 - [AXON OS](https://awesomecua.com/resources/github-frezzaroukos-axon-os/) — Date not recorded
   Local-first, policy-governed action layer for Linux desktop automation with preview, approval, and rollback receipts.
 - [axstream](https://awesomecua.com/resources/github-milind-soni-axstream/) — Date not recorded
@@ -153,6 +157,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Computer Use Data Collection is a desktop recorder that captures synchronized screenshots, mouse clicks, and keystrokes for training CUA models.
 - [Computer-Use Cache](https://awesomecua.com/resources/github-rohanarun-computer-use-cache/) — Date not recorded
   Drop-in OpenAI-compatible caching proxy that records and replays repeated computer-use and browser-agent workflows.
+- [cube-harness](https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/) — Date not recorded
+  cube-harness runs agent evaluations across compatible benchmarks, including MiniWob, and provides trajectories, screenshots, and an experiment viewer.
 - [Cybergod](https://awesomecua.com/resources/github-james4ever0-agi-computer-control/) — Date not recorded
   Experimental monorepo for computer-control agents with a tmux terminal environment, a web recorder for GUI and terminal sessions in noVNC/ttyd Docker workers, and random-input data collection.
 - [demosmith-mcp](https://awesomecua.com/resources/github-g0d2i11a-demosmith-mcp/) — Date not recorded
@@ -185,6 +191,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Records browser walkthroughs once, stores structured locator cues, and replays parameterized web workflows with self-healing recovery.
 - [Forged](https://awesomecua.com/resources/github-sam-siavoshian-forged/) — Date not recorded
   Self-learning browser automation MCP server that records successful agent trajectories and replays deterministic Playwright steps.
+- [gohook](https://awesomecua.com/resources/github-robotn-gohook/) — Date not recorded
+  A Go library for listening to keyboard and mouse events, with callback registration and an event stream that can support capture of desktop interactions.
 - [gpuview](https://awesomecua.com/resources/github-onlyterp-gpuview/) — Date not recorded
   GPU-native Windows screen perception tool capturing frames directly from the DXGI Desktop Duplication compositor handoff for AI agents.
 - [GUI Label Tool](https://awesomecua.com/resources/github-ethanyxx-gui-label-tool/) — Date not recorded
@@ -235,6 +243,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   A macOS recorder that stores screen snapshots, accessibility elements, OCR, input events, and audio in a local SQLite database and serves the captured activity through a local API.
 - [Northstar (Legacy Portal CUA)](https://awesomecua.com/resources/github-zoyaarief-legacy-credit-union-automation/) — Date not recorded
   Discovers workflows on legacy credit-union web portals with an AI agent once and compiles them into deterministic scripts.
+- [Open Claude in Chrome](https://awesomecua.com/resources/github-noemica-io-open-claude-in-chrome/) — Date not recorded
+  Open Claude in Chrome connects Claude Code to Chromium browser actions through an extension and MCP server, and includes browser-session recording.
 - [Open Codex Computer History](https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/) — Date not recorded
   Clean-room macOS implementation of event-stream interaction recording using Accessibility hit-testing, CGEvent taps, and SkyLight window snapshots.
 - [Open Codex Record & Replay](https://awesomecua.com/resources/github-hqhq1025-open-codex-record-and-replay/) — Date not recorded
@@ -299,6 +309,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Record-once, replay-many computer-use automation framework for legacy banking and back-office web applications lacking APIs.
 - [RPA-Everything](https://awesomecua.com/resources/github-mingqian94-rpa-everything/) — Date not recorded
   Compiles repeated browser, desktop, Android, and office workflows into reviewed, deterministic RPA skills for AI agents.
+- [rrweb](https://awesomecua.com/resources/github-rrweb-io-rrweb/) — Date not recorded
+  rrweb captures web-page state and user interactions, then reconstructs sessions for replay through its recording, replay, and player packages.
 - [Ruyi (如意)](https://awesomecua.com/resources/github-icesword0760-ruyi/) — Date not recorded
   Ruyi streams remote Chrome sessions to the user's browser for collaborative human-AI control and compiles actions into self-healing scripts.
 - [scrcpy](https://awesomecua.com/resources/github-genymobile-scrcpy/) — Date not recorded
@@ -323,6 +335,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Desktop agent that records demonstrations, derives semantic action traces, and uses them to plan and execute related workflows.
 - [SightRig](https://awesomecua.com/resources/github-coetzeexu-sightrig/) — Date not recorded
   SightRig is a traceable runtime and visual workbench for inspecting, guarding, and replaying GUI agent perceptions and actions.
+- [simpilot](https://awesomecua.com/resources/github-passerby2049-simpilot/) — Date not recorded
+  An MCP server that lets an agent inspect and operate iOS Simulator apps through UI trees, taps, text entry, swipes, screenshots, and screen recordings.
 - [SkillPacks](https://awesomecua.com/resources/github-agentsea-skillpacks/) — Date not recorded
   SkillPacks records and approves agent tool actions for retrieval and later training, illustrated with a desktop-control example.
 - [skillproof](https://awesomecua.com/resources/github-hccccc01333-skillproof/) — Date not recorded
@@ -335,6 +349,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Captures a logged-in browser task demonstration once and compiles it into a deterministic zero-token replay skill.
 - [TeachReplay](https://awesomecua.com/resources/github-ottohere-mourn-teachreplay/) — Date not recorded
   TeachReplay is a harness-agnostic teach-by-demonstration engine that records human UI workflows and compiles them into parameterized skills.
+- [TeachReplay — OpenMausBot Integration](https://awesomecua.com/resources/github-ottohere-mourn-teachreplay-openmausbot/) — Date not recorded
+  This OpenMausBot integration adds a panel for recording computer demonstrations, compiling reusable skills, and replaying them with new inputs.
 - [TERX](https://awesomecua.com/resources/github-ixchio-terx/) — Date not recorded
   Browser-agent procedural memory and MCP server that compiles repeated web workflows into deterministic zero-token replays.
 - [ThinkRun](https://awesomecua.com/resources/github-dundas-thinkrun/) — Date not recorded
@@ -353,6 +369,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Records browser sessions with a Chrome extension and turns them into exact or LLM-condensed smart replay lists, replays them with a bundled Browser Use agent, and converts recordings into MCP servers.
 - [webreel](https://awesomecua.com/resources/github-vercel-labs-webreel/) — Date not recorded
   webreel drives a Chrome browser through JSON-defined actions and records the resulting interaction as video with cursor and keystroke overlays.
+- [WebVIA](https://awesomecua.com/resources/github-zheny2751-dotcom-webvia/) — Date not recorded
+  WebVIA links an agent that explores web pages and records actions to modules that generate HTML and verify the resulting interface.
 - [Windows Local Action Recorder](https://awesomecua.com/resources/github-week833-windows-local-action-recorder/) — Date not recorded
   Windows desktop action recorder and controlled replay tool that packages human UI demonstrations for Codex agents.
 - [windows-computer-use-mcp (Scan-Code & Multi-Monitor)](https://awesomecua.com/resources/github-sshh12-windows-computer-use-mcp/) — Date not recorded
@@ -372,3 +390,5 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
 
 - [Awesome Computer Use Ecosystem](https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/) — Date not recorded
   A curated reading list of computer-use tools for desktop and browser agents, organized by product ecosystem and capability, with a separate project catalog.
+- [Solari Cookbook](https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/) — Date not recorded
+  Solari Cookbook collects runnable examples for cloud browsers, sandboxes, and desktops, including browser session recording and screenshot, click, and typing operations on a Linux GUI.

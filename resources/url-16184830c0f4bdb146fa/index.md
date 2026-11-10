@@ -14,7 +14,7 @@ A public example subset of the UI-S1 mobile training data, packaged as JSONL ann
 
 ## Limitations
 
-The release contains train_1000.jsonl and images.parquet. The official README explicitly describes 1,000 released examples and calls the release only part of the training dataset. Apache-2.0 is declared by the dataset card; this is not the complete training corpus.
+The release contains train_1000.jsonl and images.parquet. The official README explicitly describes 1,000 released examples and calls the release only part of the training dataset. Apache-2.0 is declared by the dataset card. The release contains part of the training corpus.
 
 - Record JSON: https://awesomecua.com/resources/url-16184830c0f4bdb146fa/record.json
 

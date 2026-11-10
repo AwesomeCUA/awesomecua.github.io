@@ -3,7 +3,7 @@
   <title>AwesomeCUA: newly reviewed resources</title>
   <subtitle>Computer-use agent papers, models, datasets, benchmarks and tools as they pass source review, newest review first. Metadata-only bibliography records and unreviewed candidates are not included.</subtitle>
   <id>https://awesomecua.com/feed.xml</id>
-  <updated>2026-11-09T20:03:14Z</updated>
+  <updated>2026-11-09T21:12:34Z</updated>
   <link href="https://awesomecua.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://awesomecua.com/" rel="alternate" type="text/html" />
   <link href="https://awesomecua.com/feed.json" rel="alternate" type="application/feed+json" />
@@ -12,6 +12,83 @@
     <uri>https://awesomecua.com/</uri>
   </author>
   <rights>Catalog annotations: MIT. Linked resources keep their own terms.</rights>
+  <entry>
+    <title>Frigate</title>
+    <id>https://awesomecua.com/resources/github-rao-studios-frigate/</id>
+    <link href="https://awesomecua.com/resources/github-rao-studios-frigate/" rel="alternate" type="text/html" />
+    <link href="https://github.com/rao-studios/Frigate" rel="related" />
+    <link href="https://awesomecua.com/resources/github-rao-studios-frigate/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:15:43Z</published>
+    <updated>2026-11-09T21:12:34Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>A Swift ML package that includes a macOS screen-perception module. It detects regions, recognizes text, classifies interface roles, and produces a page map.</summary>
+  </entry>
+  <entry>
+    <title>agentd</title>
+    <id>https://awesomecua.com/resources/github-agentsea-agentd/</id>
+    <link href="https://awesomecua.com/resources/github-agentsea-agentd/" rel="alternate" type="text/html" />
+    <link href="https://github.com/agentsea/agentd" rel="related" />
+    <link href="https://awesomecua.com/resources/github-agentsea-agentd/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:35Z</published>
+    <updated>2026-11-09T21:12:31Z</updated>
+    <category term="infrastructure" label="Infrastructure" />
+    <summary>AgentD exposes a desktop session through an HTTP API for screenshots, mouse and keyboard actions, browser opening, and session recording.</summary>
+  </entry>
+  <entry>
+    <title>Blender AI Plugin</title>
+    <id>https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/</id>
+    <link href="https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/" rel="alternate" type="text/html" />
+    <link href="https://github.com/proyecto26/blender-ai-plugin" rel="related" />
+    <link href="https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:35Z</published>
+    <updated>2026-11-09T21:12:32Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>Blender AI Plugin equips an agent to inspect and edit an open Blender scene through MCP, using an orchestrator, skills, and scripts for asset workflows.</summary>
+  </entry>
+  <entry>
+    <title>Caster User Directory</title>
+    <id>https://awesomecua.com/resources/github-amirf147-caster-user-directory-and-notes/</id>
+    <link href="https://awesomecua.com/resources/github-amirf147-caster-user-directory-and-notes/" rel="alternate" type="text/html" />
+    <link href="https://github.com/amirf147/caster-user-directory-and-notes" rel="related" />
+    <link href="https://awesomecua.com/resources/github-amirf147-caster-user-directory-and-notes/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:35Z</published>
+    <updated>2026-11-09T21:10:52Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Caster User Directory combines Windows voice automation with window switching and accessibility-based tracking of focused desktop context.</summary>
+  </entry>
+  <entry>
+    <title>CloakBrowser</title>
+    <id>https://awesomecua.com/resources/github-cloakhq-cloakbrowser/</id>
+    <link href="https://awesomecua.com/resources/github-cloakhq-cloakbrowser/" rel="alternate" type="text/html" />
+    <link href="https://github.com/CloakHQ/CloakBrowser" rel="related" />
+    <link href="https://awesomecua.com/resources/github-cloakhq-cloakbrowser/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:35Z</published>
+    <updated>2026-11-09T21:12:32Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>CloakBrowser provides a modified Chromium build with Playwright and Puppeteer compatible APIs for scripted browser interaction.</summary>
+  </entry>
+  <entry>
+    <title>easyGooglePlay</title>
+    <id>https://awesomecua.com/resources/github-xxjrq-easy-google-play/</id>
+    <link href="https://awesomecua.com/resources/github-xxjrq-easy-google-play/" rel="alternate" type="text/html" />
+    <link href="https://github.com/xxjrq/easy-google-play" rel="related" />
+    <link href="https://awesomecua.com/resources/github-xxjrq-easy-google-play/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:35Z</published>
+    <updated>2026-11-09T21:12:33Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>easyGooglePlay is an agent skill for building Android releases and completing Google Play Console publishing steps through a signed-in browser bridge.</summary>
+  </entry>
+  <entry>
+    <title>OpenHuman</title>
+    <id>https://awesomecua.com/resources/github-tinyhumansai-openhuman/</id>
+    <link href="https://awesomecua.com/resources/github-tinyhumansai-openhuman/" rel="alternate" type="text/html" />
+    <link href="https://github.com/tinyhumansai/openhuman" rel="related" />
+    <link href="https://awesomecua.com/resources/github-tinyhumansai-openhuman/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:35Z</published>
+    <updated>2026-11-09T21:12:33Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>OpenHuman is an agent harness offered as a desktop app and Rust library, with browser and desktop controls that select actions from visible buttons.</summary>
+  </entry>
   <entry>
     <title>Patchright</title>
     <id>https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/</id>
@@ -22,6 +99,281 @@
     <updated>2026-11-09T19:55:43Z</updated>
     <category term="tool" label="Tools" />
     <summary>Patchright is a modified Playwright driver for Chromium automation, with browser interaction through Playwright-style APIs and separate client packages.</summary>
+  </entry>
+  <entry>
+    <title>WebVIA</title>
+    <id>https://awesomecua.com/resources/github-zheny2751-dotcom-webvia/</id>
+    <link href="https://awesomecua.com/resources/github-zheny2751-dotcom-webvia/" rel="alternate" type="text/html" />
+    <link href="https://github.com/zheny2751-dotcom/WebVIA" rel="related" />
+    <link href="https://awesomecua.com/resources/github-zheny2751-dotcom-webvia/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:35Z</published>
+    <updated>2026-11-09T21:10:54Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>WebVIA links an agent that explores web pages and records actions to modules that generate HTML and verify the resulting interface.</summary>
+  </entry>
+  <entry>
+    <title>WildAWM</title>
+    <id>https://awesomecua.com/resources/github-msr-orchard-wildawm/</id>
+    <link href="https://awesomecua.com/resources/github-msr-orchard-wildawm/" rel="alternate" type="text/html" />
+    <link href="https://github.com/MSR-Orchard/WildAWM" rel="related" />
+    <link href="https://awesomecua.com/resources/github-msr-orchard-wildawm/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:35Z</published>
+    <updated>2026-11-09T21:10:52Z</updated>
+    <category term="infrastructure" label="Infrastructure" />
+    <summary>WildAWM supplies a pipeline for generating computer environments and cross-interface tasks, with execution checks and tools for evaluating agents.</summary>
+  </entry>
+  <entry>
+    <title>bb-sites</title>
+    <id>https://awesomecua.com/resources/github-epiral-bb-sites/</id>
+    <link href="https://awesomecua.com/resources/github-epiral-bb-sites/" rel="alternate" type="text/html" />
+    <link href="https://github.com/epiral/bb-sites" rel="related" />
+    <link href="https://awesomecua.com/resources/github-epiral-bb-sites/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:18Z</published>
+    <updated>2026-11-09T21:10:51Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>A collection of JavaScript adapters that turn site searches, data retrieval and selected account actions into commands run through a logged-in browser.</summary>
+  </entry>
+  <entry>
+    <title>cmux</title>
+    <id>https://awesomecua.com/resources/github-manaflow-ai-cmux/</id>
+    <link href="https://awesomecua.com/resources/github-manaflow-ai-cmux/" rel="alternate" type="text/html" />
+    <link href="https://github.com/manaflow-ai/cmux" rel="related" />
+    <link href="https://awesomecua.com/resources/github-manaflow-ai-cmux/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:18Z</published>
+    <updated>2026-11-09T21:10:51Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>A macOS terminal and workspace app with a scriptable browser that lets agents inspect page accessibility data, click elements, fill forms and run JavaScript.</summary>
+  </entry>
+  <entry>
+    <title>DeskMind Hands</title>
+    <id>https://awesomecua.com/resources/github-deskmind-ai-hands/</id>
+    <link href="https://awesomecua.com/resources/github-deskmind-ai-hands/" rel="alternate" type="text/html" />
+    <link href="https://github.com/deskmind-ai/hands" rel="related" />
+    <link href="https://awesomecua.com/resources/github-deskmind-ai-hands/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:18Z</published>
+    <updated>2026-11-09T21:12:29Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>A desktop agent harness that runs planner decisions through macOS input and accessibility controls, with a mock desktop, task verification and oracle-labelled training workflows.</summary>
+  </entry>
+  <entry>
+    <title>Solari Research Suite: ARC &amp; ColdStart</title>
+    <id>https://awesomecua.com/resources/github-itw-code-solari-cookbook/</id>
+    <link href="https://awesomecua.com/resources/github-itw-code-solari-cookbook/" rel="alternate" type="text/html" />
+    <link href="https://github.com/itw-code/solari-cookbook" rel="related" />
+    <link href="https://awesomecua.com/resources/github-itw-code-solari-cookbook/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:18Z</published>
+    <updated>2026-11-09T21:12:29Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>A research suite combining an accessibility-based browser-agent harness with an evaluation harness that changes a web task app and verifies completed actions against database state.</summary>
+  </entry>
+  <entry>
+    <title>@sparticuz/chromium</title>
+    <id>https://awesomecua.com/resources/github-sparticuz-chromium/</id>
+    <link href="https://awesomecua.com/resources/github-sparticuz-chromium/" rel="alternate" type="text/html" />
+    <link href="https://github.com/Sparticuz/chromium" rel="related" />
+    <link href="https://awesomecua.com/resources/github-sparticuz-chromium/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:07Z</published>
+    <updated>2026-11-09T21:12:29Z</updated>
+    <category term="infrastructure" label="Infrastructure" />
+    <summary>@sparticuz/chromium supplies a headless Linux Chromium build and launch settings for serverless browser automation with Puppeteer or Playwright.</summary>
+  </entry>
+  <entry>
+    <title>Agenta</title>
+    <id>https://awesomecua.com/resources/github-agenta-ai-agenta/</id>
+    <link href="https://awesomecua.com/resources/github-agenta-ai-agenta/" rel="alternate" type="text/html" />
+    <link href="https://github.com/agenta-ai/agenta" rel="related" />
+    <link href="https://awesomecua.com/resources/github-agenta-ai-agenta/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:07Z</published>
+    <updated>2026-11-09T21:12:25Z</updated>
+    <category term="product" label="Products" />
+    <summary>Agenta is a team workspace for building and running agents. Its agents can use a browser and files to work on websites, alongside connected apps and scheduled automations.</summary>
+  </entry>
+  <entry>
+    <title>arc-cua</title>
+    <id>https://awesomecua.com/resources/github-shhivv-arc-cua/</id>
+    <link href="https://awesomecua.com/resources/github-shhivv-arc-cua/" rel="alternate" type="text/html" />
+    <link href="https://github.com/shhivv/arc-cua" rel="related" />
+    <link href="https://awesomecua.com/resources/github-shhivv-arc-cua/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:07Z</published>
+    <updated>2026-11-09T21:12:29Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>arc-cua is a macOS computer-use package with an app-window driver and a decision-model loop for executing bounded desktop subtasks handed off by an agent.</summary>
+  </entry>
+  <entry>
+    <title>ChromiumFish</title>
+    <id>https://awesomecua.com/resources/github-arman-bd-chromiumfish/</id>
+    <link href="https://awesomecua.com/resources/github-arman-bd-chromiumfish/" rel="alternate" type="text/html" />
+    <link href="https://github.com/arman-bd/chromiumfish" rel="related" />
+    <link href="https://awesomecua.com/resources/github-arman-bd-chromiumfish/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:07Z</published>
+    <updated>2026-11-09T21:12:29Z</updated>
+    <category term="infrastructure" label="Infrastructure" />
+    <summary>ChromiumFish packages a modified Chromium browser for Playwright and external agents. It also includes an agent that reads pages and performs clicks, typing, and navigation.</summary>
+  </entry>
+  <entry>
+    <title>PeekabooX</title>
+    <id>https://awesomecua.com/resources/github-nordbyte-peekaboox/</id>
+    <link href="https://awesomecua.com/resources/github-nordbyte-peekaboox/" rel="alternate" type="text/html" />
+    <link href="https://github.com/nordbyte/PeekabooX" rel="related" />
+    <link href="https://awesomecua.com/resources/github-nordbyte-peekaboox/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:07Z</published>
+    <updated>2026-11-09T21:12:29Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>PeekabooX is a Linux desktop automation toolkit with screen capture, semantic UI inspection, input actions, and workflows exposed through CLI, Python, and MCP interfaces.</summary>
+  </entry>
+  <entry>
+    <title>Qontinui Runner</title>
+    <id>https://awesomecua.com/resources/github-qontinui-qontinui-runner/</id>
+    <link href="https://awesomecua.com/resources/github-qontinui-qontinui-runner/" rel="alternate" type="text/html" />
+    <link href="https://github.com/qontinui/qontinui-runner" rel="related" />
+    <link href="https://awesomecua.com/resources/github-qontinui-qontinui-runner/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:14:07Z</published>
+    <updated>2026-11-09T21:12:29Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Qontinui Runner is a desktop application that executes configured GUI automation projects and monitors their progress. It supports mouse, keyboard, and screen actions.</summary>
+  </entry>
+  <entry>
+    <title>Mechanize</title>
+    <id>https://awesomecua.com/resources/github-sparklemotion-mechanize/</id>
+    <link href="https://awesomecua.com/resources/github-sparklemotion-mechanize/" rel="alternate" type="text/html" />
+    <link href="https://github.com/sparklemotion/mechanize" rel="related" />
+    <link href="https://awesomecua.com/resources/github-sparklemotion-mechanize/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:58Z</published>
+    <updated>2026-11-09T21:10:46Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Mechanize is a Ruby library that automates website interactions, including navigation, cookie handling, and form submission.</summary>
+  </entry>
+  <entry>
+    <title>Mind2Web-cleaned-lite-value-model-w-cot-test</title>
+    <id>https://awesomecua.com/resources/url-9e2c14b01faf8d48b4e9/</id>
+    <link href="https://awesomecua.com/resources/url-9e2c14b01faf8d48b4e9/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/datasets/LangAGI-Lab/Mind2Web-cleaned-lite-value-model-w-cot-test" rel="related" />
+    <link href="https://awesomecua.com/resources/url-9e2c14b01faf8d48b4e9/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:58Z</published>
+    <updated>2026-11-09T21:10:46Z</updated>
+    <category term="dataset" label="Datasets" />
+    <summary>A Mind2Web dataset of 6125 web-action records with element candidates, accessibility trees, prior actions, rationales, and value scores.</summary>
+  </entry>
+  <entry>
+    <title>InternVL3-78B</title>
+    <id>https://awesomecua.com/resources/url-6fc89a4fd815cb273777/</id>
+    <link href="https://awesomecua.com/resources/url-6fc89a4fd815cb273777/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/OpenGVLab/InternVL3-78B" rel="related" />
+    <link href="https://awesomecua.com/resources/url-6fc89a4fd815cb273777/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:54Z</published>
+    <updated>2026-11-09T21:10:46Z</updated>
+    <category term="model" label="Models and checkpoints" />
+    <summary>InternVL3-78B is a released multimodal checkpoint whose model-family card describes GUI-operation training data and a GUI-grounding evaluation alongside broader vision-language tasks.</summary>
+  </entry>
+  <entry>
+    <title>jev-browser</title>
+    <id>https://awesomecua.com/resources/github-mahmoudadelbghany-jev-browser/</id>
+    <link href="https://awesomecua.com/resources/github-mahmoudadelbghany-jev-browser/" rel="alternate" type="text/html" />
+    <link href="https://github.com/MahmoudAdelbghany/jev-browser" rel="related" />
+    <link href="https://awesomecua.com/resources/github-mahmoudadelbghany-jev-browser/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:54Z</published>
+    <updated>2026-11-09T21:10:45Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>jev-browser is an MCP server that lets an agent navigate Chromium pages through Jev-selected actions. It checks page changes and returns uncertain steps to the driving agent.</summary>
+  </entry>
+  <entry>
+    <title>KC Browser</title>
+    <id>https://awesomecua.com/resources/github-kuichi-x-kc-browser/</id>
+    <link href="https://awesomecua.com/resources/github-kuichi-x-kc-browser/" rel="alternate" type="text/html" />
+    <link href="https://github.com/KuiChi-x/kc-browser" rel="related" />
+    <link href="https://awesomecua.com/resources/github-kuichi-x-kc-browser/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:54Z</published>
+    <updated>2026-11-09T21:10:44Z</updated>
+    <category term="infrastructure" label="Infrastructure" />
+    <summary>KC Browser is a Chromium-based browser binary for automated web sessions. It generates seeded browser identities and can be launched through Playwright or Puppeteer.</summary>
+  </entry>
+  <entry>
+    <title>Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16</title>
+    <id>https://awesomecua.com/resources/url-ddb5d413e19be8a4416e/</id>
+    <link href="https://awesomecua.com/resources/url-ddb5d413e19be8a4416e/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16" rel="related" />
+    <link href="https://awesomecua.com/resources/url-ddb5d413e19be8a4416e/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:54Z</published>
+    <updated>2026-11-09T21:10:46Z</updated>
+    <category term="model" label="Models and checkpoints" />
+    <summary>Nemotron 3 Nano Omni is a released multimodal model for image, video, audio and text understanding. Its card identifies GUI capability and automation for browser agents among its uses.</summary>
+  </entry>
+  <entry>
+    <title>PlayCoder</title>
+    <id>https://awesomecua.com/resources/github-tencent-playcoder/</id>
+    <link href="https://awesomecua.com/resources/github-tencent-playcoder/" rel="alternate" type="text/html" />
+    <link href="https://github.com/Tencent/PlayCoder" rel="related" />
+    <link href="https://awesomecua.com/resources/github-tencent-playcoder/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:54Z</published>
+    <updated>2026-11-09T21:10:46Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>PlayCoder generates and refines GUI application code using interactive tests. Its PlayTester observes application screenshots, performs interface actions and feeds results into repair.</summary>
+  </entry>
+  <entry>
+    <title>Scrapeless Python SDK</title>
+    <id>https://awesomecua.com/resources/github-scrapeless-ai-sdk-python/</id>
+    <link href="https://awesomecua.com/resources/github-scrapeless-ai-sdk-python/" rel="alternate" type="text/html" />
+    <link href="https://github.com/scrapeless-ai/sdk-python" rel="related" />
+    <link href="https://awesomecua.com/resources/github-scrapeless-ai-sdk-python/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:54Z</published>
+    <updated>2026-11-09T21:12:23Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>The Scrapeless Python SDK creates managed browser sessions for Playwright and Pyppeteer, supports persistent profiles, and exposes web interaction and extraction services.</summary>
+  </entry>
+  <entry>
+    <title>TagUI</title>
+    <id>https://awesomecua.com/resources/github-aisingapore-tagui/</id>
+    <link href="https://awesomecua.com/resources/github-aisingapore-tagui/" rel="alternate" type="text/html" />
+    <link href="https://github.com/aisingapore/TagUI" rel="related" />
+    <link href="https://awesomecua.com/resources/github-aisingapore-tagui/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:54Z</published>
+    <updated>2026-11-09T21:12:24Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>TagUI runs scripted flows across websites and desktop applications using web, image, text or coordinate targets. Its MCP server exposes flow creation and execution to AI clients.</summary>
+  </entry>
+  <entry>
+    <title>Contrastive Language Models</title>
+    <id>https://awesomecua.com/resources/github-contrastive-lm-clm/</id>
+    <link href="https://awesomecua.com/resources/github-contrastive-lm-clm/" rel="alternate" type="text/html" />
+    <link href="https://github.com/Contrastive-LM/CLM" rel="related" />
+    <link href="https://awesomecua.com/resources/github-contrastive-lm-clm/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:53Z</published>
+    <updated>2026-11-09T21:12:22Z</updated>
+    <category term="model" label="Models and checkpoints" />
+    <summary>CLM-8B ranks candidate actions against a state with separate embeddings and a serving API. Its authors report evaluations that include computer-use tasks.</summary>
+  </entry>
+  <entry>
+    <title>CUA Skill</title>
+    <id>https://awesomecua.com/resources/github-microsoft-cua-skill/</id>
+    <link href="https://awesomecua.com/resources/github-microsoft-cua-skill/" rel="alternate" type="text/html" />
+    <link href="https://github.com/microsoft/cua_skill" rel="related" />
+    <link href="https://awesomecua.com/resources/github-microsoft-cua-skill/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:53Z</published>
+    <updated>2026-11-09T21:12:23Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>CUA Skill runs Windows desktop tasks by retrieving and executing reusable action sequences. Its agent modes use screenshots, accessibility trees, and visual grounding.</summary>
+  </entry>
+  <entry>
+    <title>FlaUI</title>
+    <id>https://awesomecua.com/resources/github-flaui-flaui/</id>
+    <link href="https://awesomecua.com/resources/github-flaui-flaui/" rel="alternate" type="text/html" />
+    <link href="https://github.com/FlaUI/FlaUI" rel="related" />
+    <link href="https://awesomecua.com/resources/github-flaui-flaui/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:53Z</published>
+    <updated>2026-11-09T21:10:37Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>FlaUI is a .NET library for locating and operating Windows application controls through Microsoft UI Automation. It supports automated interface tests and interactions.</summary>
+  </entry>
+  <entry>
+    <title>Lightpanda Skill for LLM Agents</title>
+    <id>https://awesomecua.com/resources/github-lightpanda-io-agent-skill/</id>
+    <link href="https://awesomecua.com/resources/github-lightpanda-io-agent-skill/" rel="alternate" type="text/html" />
+    <link href="https://github.com/lightpanda-io/agent-skill" rel="related" />
+    <link href="https://awesomecua.com/resources/github-lightpanda-io-agent-skill/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:53Z</published>
+    <updated>2026-11-09T21:12:22Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Lightpanda Skill for LLM Agents gives agents instructions for using Lightpanda's browser interfaces for interactive browsing and for creating reusable PandaScript tasks.</summary>
   </entry>
   <entry>
     <title>Predicate Python SDK</title>
@@ -35,6 +387,380 @@
     <summary>The Predicate Python SDK gives browser agents semantic page snapshots, UI assertions, and run traces so they can verify actions and inspect failures.</summary>
   </entry>
   <entry>
+    <title>predicate-secure</title>
+    <id>https://awesomecua.com/resources/github-predicatesystems-predicate-secure/</id>
+    <link href="https://awesomecua.com/resources/github-predicatesystems-predicate-secure/" rel="alternate" type="text/html" />
+    <link href="https://github.com/PredicateSystems/predicate-secure" rel="related" />
+    <link href="https://awesomecua.com/resources/github-predicatesystems-predicate-secure/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:53Z</published>
+    <updated>2026-11-09T21:10:43Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>predicate-secure is a security wrapper for browser agents that checks actions against policy, verifies outcomes, and records audit evidence.</summary>
+  </entry>
+  <entry>
+    <title>Blade Code</title>
+    <id>https://awesomecua.com/resources/github-echovic-blade-code/</id>
+    <link href="https://awesomecua.com/resources/github-echovic-blade-code/" rel="alternate" type="text/html" />
+    <link href="https://github.com/echoVic/blade-code" rel="related" />
+    <link href="https://awesomecua.com/resources/github-echovic-blade-code/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:50Z</published>
+    <updated>2026-11-09T21:12:19Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>Blade Code is a coding agent with native Chromium automation, ARIA page snapshots, and browser actions available through its agent workflow.</summary>
+  </entry>
+  <entry>
+    <title>CodexQA Jev Browser</title>
+    <id>https://awesomecua.com/resources/github-openqa-cn-jev-browser/</id>
+    <link href="https://awesomecua.com/resources/github-openqa-cn-jev-browser/" rel="alternate" type="text/html" />
+    <link href="https://github.com/openqa-cn/jev-browser" rel="related" />
+    <link href="https://awesomecua.com/resources/github-openqa-cn-jev-browser/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:50Z</published>
+    <updated>2026-11-09T21:12:21Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>CodexQA Jev Browser operates Playwright pages through indexed controls and model-selected actions, with case replay and reports based on visible page evidence.</summary>
+  </entry>
+  <entry>
+    <title>cube-harness</title>
+    <id>https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/</id>
+    <link href="https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/" rel="alternate" type="text/html" />
+    <link href="https://github.com/the-AI-Alliance/cube-harness" rel="related" />
+    <link href="https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:50Z</published>
+    <updated>2026-11-09T21:10:35Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>cube-harness runs agent evaluations across compatible benchmarks, including MiniWob, and provides trajectories, screenshots, and an experiment viewer.</summary>
+  </entry>
+  <entry>
+    <title>DesignRepair</title>
+    <id>https://awesomecua.com/resources/github-ugaiforge-designrepair/</id>
+    <link href="https://awesomecua.com/resources/github-ugaiforge-designrepair/" rel="alternate" type="text/html" />
+    <link href="https://github.com/UGAIForge/DesignRepair" rel="related" />
+    <link href="https://awesomecua.com/resources/github-ugaiforge-designrepair/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:50Z</published>
+    <updated>2026-11-09T21:12:21Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>DesignRepair analyzes frontend code and rendered pages, then uses Material Design guidance and an LLM to identify and repair interface design issues.</summary>
+  </entry>
+  <entry>
+    <title>dsh-plugin-browser</title>
+    <id>https://awesomecua.com/resources/github-xu1132-dsh-plugin-browser/</id>
+    <link href="https://awesomecua.com/resources/github-xu1132-dsh-plugin-browser/" rel="alternate" type="text/html" />
+    <link href="https://github.com/xu1132/dsh-plugin-browser" rel="related" />
+    <link href="https://awesomecua.com/resources/github-xu1132-dsh-plugin-browser/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:50Z</published>
+    <updated>2026-11-09T21:12:22Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>dsh-plugin-browser adds model-callable Playwright tools to DeepSeek Harness for reading rendered pages, navigating, clicking, typing, and taking screenshots.</summary>
+  </entry>
+  <entry>
+    <title>GA-Technical-Report</title>
+    <id>https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/</id>
+    <link href="https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/" rel="alternate" type="text/html" />
+    <link href="https://github.com/JinyiHan99/GA-Technical-Report" rel="related" />
+    <link href="https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:50Z</published>
+    <updated>2026-11-09T21:10:35Z</updated>
+    <category term="benchmark" label="Benchmarks" />
+    <summary>Evaluation materials for GenericAgent cover web browsing and other agent tasks, with benchmark folders documenting setup, protocols, and reproduction.</summary>
+  </entry>
+  <entry>
+    <title>Pydoll</title>
+    <id>https://awesomecua.com/resources/github-autoscrape-labs-pydoll/</id>
+    <link href="https://awesomecua.com/resources/github-autoscrape-labs-pydoll/" rel="alternate" type="text/html" />
+    <link href="https://github.com/autoscrape-labs/pydoll" rel="related" />
+    <link href="https://awesomecua.com/resources/github-autoscrape-labs-pydoll/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:50Z</published>
+    <updated>2026-11-09T21:10:35Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>Pydoll is a Python browser automation library that controls Chrome or Edge through the DevTools Protocol and supports navigation, element interaction, and extraction.</summary>
+  </entry>
+  <entry>
+    <title>TeleGen</title>
+    <id>https://awesomecua.com/resources/github-commoluo-telegen/</id>
+    <link href="https://awesomecua.com/resources/github-commoluo-telegen/" rel="alternate" type="text/html" />
+    <link href="https://github.com/commoluo/TeleGen" rel="related" />
+    <link href="https://awesomecua.com/resources/github-commoluo-telegen/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:50Z</published>
+    <updated>2026-11-09T21:10:35Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>TeleGen runs browser tasks against instrumented web apps, condenses interaction telemetry, and gives the resulting evidence to a code repair agent.</summary>
+  </entry>
+  <entry>
+    <title>Ferrum</title>
+    <id>https://awesomecua.com/resources/github-rubycdp-ferrum/</id>
+    <link href="https://awesomecua.com/resources/github-rubycdp-ferrum/" rel="alternate" type="text/html" />
+    <link href="https://github.com/rubycdp/ferrum" rel="related" />
+    <link href="https://awesomecua.com/resources/github-rubycdp-ferrum/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:38Z</published>
+    <updated>2026-11-09T21:12:18Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Ferrum is a Ruby API for controlling Chrome or Chromium through the DevTools Protocol. It supports browser navigation, page interaction and screenshots.</summary>
+  </entry>
+  <entry>
+    <title>fingerprint-suite</title>
+    <id>https://awesomecua.com/resources/github-apify-fingerprint-suite/</id>
+    <link href="https://awesomecua.com/resources/github-apify-fingerprint-suite/" rel="alternate" type="text/html" />
+    <link href="https://github.com/apify/fingerprint-suite" rel="related" />
+    <link href="https://awesomecua.com/resources/github-apify-fingerprint-suite/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:38Z</published>
+    <updated>2026-11-09T21:12:16Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Fingerprint Suite generates browser fingerprints and injects them into Playwright or Puppeteer browser sessions. Its packages also generate configurable HTTP headers.</summary>
+  </entry>
+  <entry>
+    <title>NotebookLM Claude Code Skill</title>
+    <id>https://awesomecua.com/resources/github-pleaseprompto-notebooklm-skill/</id>
+    <link href="https://awesomecua.com/resources/github-pleaseprompto-notebooklm-skill/" rel="alternate" type="text/html" />
+    <link href="https://github.com/PleasePrompto/notebooklm-skill" rel="related" />
+    <link href="https://awesomecua.com/resources/github-pleaseprompto-notebooklm-skill/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:38Z</published>
+    <updated>2026-11-09T21:12:17Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>A Claude Code skill automates browser-based questions to NotebookLM and returns answers from uploaded documents. It includes scripts for authentication and notebook management.</summary>
+  </entry>
+  <entry>
+    <title>PhoneHarness</title>
+    <id>https://awesomecua.com/resources/github-phoneharness-phoneharness/</id>
+    <link href="https://awesomecua.com/resources/github-phoneharness-phoneharness/" rel="alternate" type="text/html" />
+    <link href="https://github.com/PhoneHarness/PhoneHarness" rel="related" />
+    <link href="https://awesomecua.com/resources/github-phoneharness-phoneharness/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:38Z</published>
+    <updated>2026-11-09T21:10:25Z</updated>
+    <category term="benchmark" label="Benchmarks" />
+    <summary>PhoneHarness evaluates Android phone agents that combine GUI actions with device commands and host tools. It provides a runtime, a benchmark runner subset and trace-based checks of task outcomes.</summary>
+  </entry>
+  <entry>
+    <title>SnapDOM</title>
+    <id>https://awesomecua.com/resources/github-zumerlab-snapdom/</id>
+    <link href="https://awesomecua.com/resources/github-zumerlab-snapdom/" rel="alternate" type="text/html" />
+    <link href="https://github.com/zumerlab/snapdom" rel="related" />
+    <link href="https://awesomecua.com/resources/github-zumerlab-snapdom/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:38Z</published>
+    <updated>2026-11-09T21:12:18Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>SnapDOM captures rendered browser elements and exports images or structured page context. Its plugins can provide agents with text, JSON and images paired with element maps.</summary>
+  </entry>
+  <entry>
+    <title>SoftwareGym</title>
+    <id>https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/</id>
+    <link href="https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/" rel="alternate" type="text/html" />
+    <link href="https://github.com/MrKiing-Jin/SoftwareGym" rel="related" />
+    <link href="https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:38Z</published>
+    <updated>2026-11-09T21:10:20Z</updated>
+    <category term="infrastructure" label="Infrastructure" />
+    <summary>SoftwareGym synthesizes runnable GUI applications as environments for computer-use agents. It tests generated apps through screenshot-based actions in Ubuntu virtual machines and uses feedback to repair them.</summary>
+  </entry>
+  <entry>
+    <title>aworld-mcp-servers</title>
+    <id>https://awesomecua.com/resources/github-qingw-dev-aworld-mcp-servers/</id>
+    <link href="https://awesomecua.com/resources/github-qingw-dev-aworld-mcp-servers/" rel="alternate" type="text/html" />
+    <link href="https://github.com/qingw-dev/aworld-mcp-servers" rel="related" />
+    <link href="https://awesomecua.com/resources/github-qingw-dev-aworld-mcp-servers/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:37Z</published>
+    <updated>2026-11-09T21:12:16Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>A collection of service endpoints that includes a Browser Use API for natural-language web tasks. Its browser endpoint can return an execution trace.</summary>
+  </entry>
+  <entry>
+    <title>Bodhi</title>
+    <id>https://awesomecua.com/resources/github-bigduu-zenith/</id>
+    <link href="https://awesomecua.com/resources/github-bigduu-zenith/" rel="alternate" type="text/html" />
+    <link href="https://github.com/bigduu/Zenith" rel="related" />
+    <link href="https://awesomecua.com/resources/github-bigduu-zenith/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:37Z</published>
+    <updated>2026-11-09T21:12:15Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>Bodhi is a desktop agent workbench built around a Rust runtime. Its optional Nova tools let the agent operate native applications and browsers.</summary>
+  </entry>
+  <entry>
+    <title>InternVL3_5-4B-HF</title>
+    <id>https://awesomecua.com/resources/url-0585c680192ac22d2735/</id>
+    <link href="https://awesomecua.com/resources/url-0585c680192ac22d2735/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/OpenGVLab/InternVL3_5-4B-HF" rel="related" />
+    <link href="https://awesomecua.com/resources/url-0585c680192ac22d2735/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:37Z</published>
+    <updated>2026-11-09T21:10:18Z</updated>
+    <category term="model" label="Models and checkpoints" />
+    <summary>An HF-format checkpoint in the InternVL3.5 multimodal model family, whose card names GUI interaction among its capabilities. The release includes model weights.</summary>
+  </entry>
+  <entry>
+    <title>KWWKComputerUseCore</title>
+    <id>https://awesomecua.com/resources/github-eyhn-kwwk-computer-use-core/</id>
+    <link href="https://awesomecua.com/resources/github-eyhn-kwwk-computer-use-core/" rel="alternate" type="text/html" />
+    <link href="https://github.com/EYHN/kwwk-computer-use-core" rel="related" />
+    <link href="https://awesomecua.com/resources/github-eyhn-kwwk-computer-use-core/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:37Z</published>
+    <updated>2026-11-09T21:12:15Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>A Swift computer-use runtime that captures macOS app state and screenshots and sends mouse and keyboard actions. It offers structured and agent-facing outputs.</summary>
+  </entry>
+  <entry>
+    <title>Adapt ERP</title>
+    <id>https://awesomecua.com/resources/github-guomonth-dsh-erp/</id>
+    <link href="https://awesomecua.com/resources/github-guomonth-dsh-erp/" rel="alternate" type="text/html" />
+    <link href="https://github.com/GuoMonth/dsh-erp" rel="related" />
+    <link href="https://awesomecua.com/resources/github-guomonth-dsh-erp/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:32Z</published>
+    <updated>2026-11-09T21:12:14Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Adapt ERP is a DeepSeek Harness plugin that explores signed-in ERP pages, keeps a local index of observed menus and fields, and requests approval before writes.</summary>
+  </entry>
+  <entry>
+    <title>AutoWebNav</title>
+    <id>https://awesomecua.com/resources/github-mindattic-autowebnav/</id>
+    <link href="https://awesomecua.com/resources/github-mindattic-autowebnav/" rel="alternate" type="text/html" />
+    <link href="https://github.com/mindattic/AutoWebNav" rel="related" />
+    <link href="https://awesomecua.com/resources/github-mindattic-autowebnav/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:32Z</published>
+    <updated>2026-11-09T21:12:14Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>AutoWebNav is a .NET library for WebView2 browser automation, combining page actions and element resolution with interaction recording and live observation.</summary>
+  </entry>
+  <entry>
+    <title>Co-Design Bench</title>
+    <id>https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/</id>
+    <link href="https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/datasets/Wiselnn/Co-Design-Bench" rel="related" />
+    <link href="https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:32Z</published>
+    <updated>2026-11-09T21:10:15Z</updated>
+    <category term="benchmark" label="Benchmarks" />
+    <summary>Co-Design Bench evaluates application revisions from multimodal requests using 96 editing tasks with annotated screenshots and 521 criteria checked against source and browser evidence.</summary>
+  </entry>
+  <entry>
+    <title>Council Bridge</title>
+    <id>https://awesomecua.com/resources/github-christopherdent-council-bridge/</id>
+    <link href="https://awesomecua.com/resources/github-christopherdent-council-bridge/" rel="alternate" type="text/html" />
+    <link href="https://github.com/christopherdent/council-bridge" rel="related" />
+    <link href="https://awesomecua.com/resources/github-christopherdent-council-bridge/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:32Z</published>
+    <updated>2026-11-09T21:10:10Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Council Bridge is a browser extension that routes human messages between assigned ChatGPT and Gemini tabs and captures their replies in a side panel.</summary>
+  </entry>
+  <entry>
+    <title>LCU</title>
+    <id>https://awesomecua.com/resources/github-amontlabs-lcu/</id>
+    <link href="https://awesomecua.com/resources/github-amontlabs-lcu/" rel="alternate" type="text/html" />
+    <link href="https://github.com/amontlabs/lcu" rel="related" />
+    <link href="https://awesomecua.com/resources/github-amontlabs-lcu/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:32Z</published>
+    <updated>2026-11-09T21:12:14Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>LCU connects an installed desktop computer-use runtime to agent harnesses for window observation and input actions, with optional control of approved Chrome tabs.</summary>
+  </entry>
+  <entry>
+    <title>pyppeteer</title>
+    <id>https://awesomecua.com/resources/github-pyppeteer-pyppeteer/</id>
+    <link href="https://awesomecua.com/resources/github-pyppeteer-pyppeteer/" rel="alternate" type="text/html" />
+    <link href="https://github.com/pyppeteer/pyppeteer" rel="related" />
+    <link href="https://awesomecua.com/resources/github-pyppeteer-pyppeteer/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:32Z</published>
+    <updated>2026-11-09T21:12:14Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>Pyppeteer is a Python library for automating Chrome and Chromium pages, with APIs for navigation, screenshots, element queries, and page JavaScript.</summary>
+  </entry>
+  <entry>
+    <title>appium-android</title>
+    <id>https://awesomecua.com/resources/github-appium-appium-android/</id>
+    <link href="https://awesomecua.com/resources/github-appium-appium-android/" rel="alternate" type="text/html" />
+    <link href="https://github.com/appium/appium-android" rel="related" />
+    <link href="https://awesomecua.com/resources/github-appium-appium-android/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:30Z</published>
+    <updated>2026-11-09T21:12:13Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>A monorepo of Appium packages for Android device and UI automation, including an Android driver, an ADB wrapper, and a device server for UiAutomator2 commands.</summary>
+  </entry>
+  <entry>
+    <title>AutoDesign</title>
+    <id>https://awesomecua.com/resources/github-yaxin9luo-autodesign/</id>
+    <link href="https://awesomecua.com/resources/github-yaxin9luo-autodesign/" rel="alternate" type="text/html" />
+    <link href="https://github.com/Yaxin9Luo/AutoDesign" rel="related" />
+    <link href="https://awesomecua.com/resources/github-yaxin9luo-autodesign/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:30Z</published>
+    <updated>2026-11-09T21:12:14Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>An agentic design system that turns a paper into editable posters, slides, webpages, and videos. Its workflow uses a browser audit to check rendered screen and print output.</summary>
+  </entry>
+  <entry>
+    <title>BlenderWorld</title>
+    <id>https://awesomecua.com/resources/url-883e7c46e883b005762c/</id>
+    <link href="https://awesomecua.com/resources/url-883e7c46e883b005762c/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/datasets/Qwen/BlenderWorld" rel="related" />
+    <link href="https://awesomecua.com/resources/url-883e7c46e883b005762c/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:30Z</published>
+    <updated>2026-11-09T21:10:10Z</updated>
+    <category term="benchmark" label="Benchmarks" />
+    <summary>A benchmark of 223 Blender creation tasks with text, image, and video inputs. Agents submit editable projects for rendering and rubric-based evaluation.</summary>
+  </entry>
+  <entry>
+    <title>Scenario for Blender</title>
+    <id>https://awesomecua.com/resources/github-scenario-labs-blender-plugin/</id>
+    <link href="https://awesomecua.com/resources/github-scenario-labs-blender-plugin/" rel="alternate" type="text/html" />
+    <link href="https://github.com/scenario-labs/blender-plugin" rel="related" />
+    <link href="https://awesomecua.com/resources/github-scenario-labs-blender-plugin/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:30Z</published>
+    <updated>2026-11-09T21:12:14Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>A Blender extension for generating media and scene assets. Its local MCP server lets agents inspect an open scene and request generation work.</summary>
+  </entry>
+  <entry>
+    <title>Scrapeless Node SDK</title>
+    <id>https://awesomecua.com/resources/github-scrapeless-ai-sdk-node/</id>
+    <link href="https://awesomecua.com/resources/github-scrapeless-ai-sdk-node/" rel="alternate" type="text/html" />
+    <link href="https://github.com/scrapeless-ai/sdk-node" rel="related" />
+    <link href="https://awesomecua.com/resources/github-scrapeless-ai-sdk-node/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:30Z</published>
+    <updated>2026-11-09T21:12:14Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>A Node.js SDK for creating browser sessions controlled through Playwright or Puppeteer. It also exposes browser profiles, crawling, scraping, and proxy services.</summary>
+  </entry>
+  <entry>
+    <title>UI2Code^N</title>
+    <id>https://awesomecua.com/resources/github-zai-org-ui2code-n/</id>
+    <link href="https://awesomecua.com/resources/github-zai-org-ui2code-n/" rel="alternate" type="text/html" />
+    <link href="https://github.com/zai-org/UI2Code_N" rel="related" />
+    <link href="https://awesomecua.com/resources/github-zai-org-ui2code-n/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:12:30Z</published>
+    <updated>2026-11-09T21:10:09Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>A UI-to-code system that drafts interface code from screenshots and refines it through repeated rendering and visual feedback. The repository provides demos and evaluation scripts.</summary>
+  </entry>
+  <entry>
+    <title>Appium Mac2 Driver</title>
+    <id>https://awesomecua.com/resources/github-appium-appium-mac2-driver/</id>
+    <link href="https://awesomecua.com/resources/github-appium-appium-mac2-driver/" rel="alternate" type="text/html" />
+    <link href="https://github.com/appium/appium-mac2-driver" rel="related" />
+    <link href="https://awesomecua.com/resources/github-appium-appium-mac2-driver/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:08:09Z</published>
+    <updated>2026-11-09T21:12:12Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Appium Mac2 Driver uses Apple's XCTest framework to automate macOS applications through Appium.</summary>
+  </entry>
+  <entry>
+    <title>Korgo Bot</title>
+    <id>https://awesomecua.com/resources/github-nickvasilescu-korgo-bot/</id>
+    <link href="https://awesomecua.com/resources/github-nickvasilescu-korgo-bot/" rel="alternate" type="text/html" />
+    <link href="https://github.com/nickvasilescu/korgo-bot" rel="related" />
+    <link href="https://awesomecua.com/resources/github-nickvasilescu-korgo-bot/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:08:09Z</published>
+    <updated>2026-11-09T21:12:12Z</updated>
+    <category term="product" label="Products" />
+    <summary>Korgo Bot is a macOS app for persistent bots that share a cloud desktop. Bots can use screen and file tools or send GUI and browser tasks to a hosted agent.</summary>
+  </entry>
+  <entry>
+    <title>Qwen2.5-VL-72B-Instruct-AWQ</title>
+    <id>https://awesomecua.com/resources/url-fe24586d646989d5c916/</id>
+    <link href="https://awesomecua.com/resources/url-fe24586d646989d5c916/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct-AWQ" rel="related" />
+    <link href="https://awesomecua.com/resources/url-fe24586d646989d5c916/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:08:09Z</published>
+    <updated>2026-11-09T21:10:08Z</updated>
+    <category term="model" label="Models and checkpoints" />
+    <summary>This instruction-tuned Qwen2.5-VL checkpoint supports visual localization and tool-directed computer and phone use. The repository provides weights and inference examples.</summary>
+  </entry>
+  <entry>
     <title>WebRetriever</title>
     <id>https://awesomecua.com/resources/github-mininglamp-ai-webretriever/</id>
     <link href="https://awesomecua.com/resources/github-mininglamp-ai-webretriever/" rel="alternate" type="text/html" />
@@ -46,1070 +772,344 @@
     <summary>WebRetriever supplies a web-agent evaluation runner and a judge that assesses task completion from captured requests, actions and page URLs.</summary>
   </entry>
   <entry>
-    <title>UI-Mate</title>
-    <id>https://awesomecua.com/resources/github-tencent-ui-mate/</id>
-    <link href="https://awesomecua.com/resources/github-tencent-ui-mate/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Tencent/UI-Mate" rel="related" />
-    <link href="https://awesomecua.com/resources/github-tencent-ui-mate/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T14:02:02Z</published>
-    <updated>2026-11-09T19:55:43Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>UI-Mate is a desktop GUI agent that uses screenshots and keyboard and mouse actions for tasks across applications. It also supports workflows learned from recorded demonstrations.</summary>
-  </entry>
-  <entry>
-    <title>DSH Vision Toolkit</title>
-    <id>https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/</id>
-    <link href="https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/" rel="alternate" type="text/html" />
-    <link href="https://github.com/anionex/dsh-vision-toolkit" rel="related" />
-    <link href="https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:55:10Z</published>
-    <updated>2026-11-09T19:58:09Z</updated>
+    <title>Blender Agent Studio</title>
+    <id>https://awesomecua.com/resources/github-ifbars-blender-agent-studio/</id>
+    <link href="https://awesomecua.com/resources/github-ifbars-blender-agent-studio/" rel="alternate" type="text/html" />
+    <link href="https://github.com/ifBars/blender-agent-studio" rel="related" />
+    <link href="https://awesomecua.com/resources/github-ifbars-blender-agent-studio/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:08Z</updated>
     <category term="tool" label="Tools" />
-    <summary>DSH Vision Toolkit adds screenshot reading, visual grounding, UI reconstruction, and pixel comparison tools to DeepSeek Harness agents.</summary>
+    <summary>Blender Agent Studio connects coding agents to local Blender to create editable scenes, render previews and inspect visual results.</summary>
   </entry>
   <entry>
-    <title>opencli-plugin-goofish</title>
-    <id>https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/</id>
-    <link href="https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/" rel="alternate" type="text/html" />
-    <link href="https://github.com/vecyang1/opencli-plugin-goofish" rel="related" />
-    <link href="https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:55:01Z</published>
-    <updated>2026-11-09T19:58:09Z</updated>
+    <title>BrowserMCP</title>
+    <id>https://awesomecua.com/resources/github-smotree-browsermcp/</id>
+    <link href="https://awesomecua.com/resources/github-smotree-browsermcp/" rel="alternate" type="text/html" />
+    <link href="https://github.com/Smotree/BrowserMCP" rel="related" />
+    <link href="https://awesomecua.com/resources/github-smotree-browsermcp/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:11Z</updated>
     <category term="tool" label="Tools" />
-    <summary>An OpenCLI adapter for Goofish that exposes shopping, account, listing, and messaging actions through commands backed by a signed-in Chrome session.</summary>
+    <summary>BrowserMCP connects AI clients to a Chrome extension through a Node.js MCP server and WebSocket bridge for browser navigation and interaction.</summary>
   </entry>
   <entry>
-    <title>qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain</title>
-    <id>https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/</id>
-    <link href="https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain" rel="related" />
-    <link href="https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:55:01Z</published>
-    <updated>2026-11-09T19:58:09Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A GUI-grounding checkpoint built on Qwen2.5-VL-7B-Instruct with an attention-based action head. Its example predicts a click point from a screenshot and instruction.</summary>
-  </entry>
-  <entry>
-    <title>THUDM/cogagent-chat-hf</title>
-    <id>https://awesomecua.com/resources/url-5726382dc813f040f829/</id>
-    <link href="https://awesomecua.com/resources/url-5726382dc813f040f829/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/THUDM/cogagent-chat-hf" rel="related" />
-    <link href="https://awesomecua.com/resources/url-5726382dc813f040f829/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:55:01Z</published>
-    <updated>2026-11-09T20:03:14Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A CogAgent chat checkpoint for interpreting GUI screenshots and proposing plans, next actions, and coordinates. The card describes use with web, desktop, and mobile interfaces.</summary>
-  </entry>
-  <entry>
-    <title>webclaw3</title>
-    <id>https://awesomecua.com/resources/github-fatmind-webclaw3/</id>
-    <link href="https://awesomecua.com/resources/github-fatmind-webclaw3/" rel="alternate" type="text/html" />
-    <link href="https://github.com/fatmind/webclaw3" rel="related" />
-    <link href="https://awesomecua.com/resources/github-fatmind-webclaw3/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:55:01Z</published>
-    <updated>2026-11-09T19:58:09Z</updated>
+    <title>Codex Minecraft Gameplay</title>
+    <id>https://awesomecua.com/resources/github-wz1119-codex-minecraft-gameplay/</id>
+    <link href="https://awesomecua.com/resources/github-wz1119-codex-minecraft-gameplay/" rel="alternate" type="text/html" />
+    <link href="https://github.com/wz1119/Codex-Minecraft-Gameplay" rel="related" />
+    <link href="https://awesomecua.com/resources/github-wz1119-codex-minecraft-gameplay/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:12Z</updated>
     <category term="tool" label="Tools" />
-    <summary>A browser-agent skill that uses a local Chrome session to explore tasks, then generates reusable scripts for repeating successful browser workflows.</summary>
+    <summary>Codex Minecraft Gameplay supplies Windows input controls and screenshots so computer-use agents can act through Minecraft's visible interface.</summary>
   </entry>
   <entry>
-    <title>WenyiWU0111/CoMEM-agent-memory-trajectories</title>
-    <id>https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/</id>
-    <link href="https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories" rel="related" />
-    <link href="https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:55:01Z</published>
-    <updated>2026-11-09T19:58:09Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A dataset for GUI-agent memory research containing expanded web links, synthesized tasks, and executed trajectories with successful and failed outcomes.</summary>
-  </entry>
-  <entry>
-    <title>Operit AI</title>
-    <id>https://awesomecua.com/resources/github-aaswordman-operit/</id>
-    <link href="https://awesomecua.com/resources/github-aaswordman-operit/" rel="alternate" type="text/html" />
-    <link href="https://github.com/AAswordman/Operit" rel="related" />
-    <link href="https://awesomecua.com/resources/github-aaswordman-operit/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:34Z</published>
-    <updated>2026-11-09T19:58:08Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>An Android agent platform that operates app interfaces and web pages using visual screen understanding, device controls, and browser actions.</summary>
-  </entry>
-  <entry>
-    <title>Screen2AX-Element</title>
-    <id>https://awesomecua.com/resources/url-e96299566d12e790422e/</id>
-    <link href="https://awesomecua.com/resources/url-e96299566d12e790422e/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/MacPaw/Screen2AX-Element" rel="related" />
-    <link href="https://awesomecua.com/resources/url-e96299566d12e790422e/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:34Z</published>
-    <updated>2026-11-09T20:03:13Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A dataset of macOS application screenshots with UI element boxes and category labels for training and evaluating interface element detectors.</summary>
-  </entry>
-  <entry>
-    <title>ScreenVLM</title>
-    <id>https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/</id>
-    <link href="https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/docling-project/ScreenVLM" rel="related" />
-    <link href="https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:34Z</published>
-    <updated>2026-11-09T19:58:08Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A model that converts web page screenshots into structured markup containing UI element locations, class labels, and visible text.</summary>
-  </entry>
-  <entry>
-    <title>Actell</title>
-    <id>https://awesomecua.com/resources/github-ja1chen-actell/</id>
-    <link href="https://awesomecua.com/resources/github-ja1chen-actell/" rel="alternate" type="text/html" />
-    <link href="https://github.com/ja1chen/actell" rel="related" />
-    <link href="https://awesomecua.com/resources/github-ja1chen-actell/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:29Z</published>
-    <updated>2026-11-09T19:58:06Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>An iPhone agent prototype observes screenshots or accessibility content and issues taps and drags through CoreDevice, using a VPN loopback or optional hardware relay.</summary>
-  </entry>
-  <entry>
-    <title>AutoGUI-v1-zip</title>
-    <id>https://awesomecua.com/resources/url-02370867dd4b96000a33/</id>
-    <link href="https://awesomecua.com/resources/url-02370867dd4b96000a33/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/WebAgent/AutoGUI-v1-zip" rel="related" />
-    <link href="https://awesomecua.com/resources/url-02370867dd4b96000a33/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:29Z</published>
-    <updated>2026-11-09T20:03:11Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A training data repository for AutoGUI containing an annotated GUI set and selected vision datasets, with instructions for merging their JSON files for fine-tuning.</summary>
-  </entry>
-  <entry>
-    <title>Blender MCP</title>
-    <id>https://awesomecua.com/resources/github-bpy-dev-blender-mcp/</id>
-    <link href="https://awesomecua.com/resources/github-bpy-dev-blender-mcp/" rel="alternate" type="text/html" />
-    <link href="https://github.com/bpy-dev/blender-mcp" rel="related" />
-    <link href="https://awesomecua.com/resources/github-bpy-dev-blender-mcp/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:29Z</published>
-    <updated>2026-11-09T19:58:08Z</updated>
+    <title>cookie-use</title>
+    <id>https://awesomecua.com/resources/github-leeguooooo-cookie-use/</id>
+    <link href="https://awesomecua.com/resources/github-leeguooooo-cookie-use/" rel="alternate" type="text/html" />
+    <link href="https://github.com/leeguooooo/cookie-use" rel="related" />
+    <link href="https://awesomecua.com/resources/github-leeguooooo-cookie-use/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:08Z</updated>
     <category term="tool" label="Tools" />
-    <summary>An MCP server links agents to Blender through a live add-on or saved project files, offering scene execution, runtime Python API lookup and benchmark tools.</summary>
+    <summary>cookie-use stores website sessions in an encrypted vault and lets agents select accounts and apply their sessions to browser contexts.</summary>
   </entry>
   <entry>
-    <title>IOS13-SimulateTouch</title>
-    <id>https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/</id>
-    <link href="https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/" rel="alternate" type="text/html" />
-    <link href="https://github.com/xuan32546/IOS13-SimulateTouch" rel="related" />
-    <link href="https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:29Z</published>
-    <updated>2026-11-09T19:58:07Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>An iOS touch-control library supports scripted and remote touch input, records events for playback, and offers image matching and OCR on jailbroken devices.</summary>
-  </entry>
-  <entry>
-    <title>S1-Accurate-LoRA</title>
-    <id>https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/</id>
-    <link href="https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/elidot007/S1-Accurate-LoRA" rel="related" />
-    <link href="https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:29Z</published>
-    <updated>2026-11-09T19:58:08Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A LoRA adapter for a desktop agent's decision model uses window screenshots to select an operation and target element from candidate actions when a faster model is uncertain.</summary>
-  </entry>
-  <entry>
-    <title>Spice</title>
-    <id>https://awesomecua.com/resources/github-shells-com-spice/</id>
-    <link href="https://awesomecua.com/resources/github-shells-com-spice/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Shells-com/spice" rel="related" />
-    <link href="https://awesomecua.com/resources/github-shells-com-spice/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:29Z</published>
-    <updated>2026-11-09T19:58:07Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A Go SPICE client library receives remote desktop display updates and sends mouse and keyboard events, with interfaces for connection, rendering and clipboard handling.</summary>
-  </entry>
-  <entry>
-    <title>Vision_GUI_Assistant</title>
-    <id>https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/</id>
-    <link href="https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/zylate/Vision_GUI_Assistant" rel="related" />
-    <link href="https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:29Z</published>
-    <updated>2026-11-09T19:58:08Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A GUI-image conversation dataset provides instruction and conversation JSON files for staged visual fine-tuning; its examples ask models to identify interface buttons.</summary>
-  </entry>
-  <entry>
-    <title>AndroidViewClient</title>
-    <id>https://awesomecua.com/resources/github-dtmilano-androidviewclient/</id>
-    <link href="https://awesomecua.com/resources/github-dtmilano-androidviewclient/" rel="alternate" type="text/html" />
-    <link href="https://github.com/dtmilano/AndroidViewClient" rel="related" />
-    <link href="https://awesomecua.com/resources/github-dtmilano-androidviewclient/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:25Z</published>
-    <updated>2026-11-09T19:58:04Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A Python Android UI automation tool that creates reusable tests and exposes view-based, gesture and device controls to AI assistants through an MCP server.</summary>
-  </entry>
-  <entry>
-    <title>LGWM data and RSWT-Bench</title>
-    <id>https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/</id>
-    <link href="https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/jiamingzz/lgwm-data" rel="related" />
-    <link href="https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:25Z</published>
-    <updated>2026-11-09T19:58:06Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A dataset of GUI screen transitions for training a world model, released with RSWT-Bench to evaluate whether observed screens follow the intended actions.</summary>
-  </entry>
-  <entry>
-    <title>Mano-CUA-2.0-4B</title>
-    <id>https://awesomecua.com/resources/url-1b08ff264bbf2f8a10a3/</id>
-    <link href="https://awesomecua.com/resources/url-1b08ff264bbf2f8a10a3/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/Mininglamp-2718/Mano-CUA-2.0-4B" rel="related" />
-    <link href="https://awesomecua.com/resources/url-1b08ff264bbf2f8a10a3/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:25Z</published>
-    <updated>2026-11-09T19:58:06Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A released GUI action model that takes a desktop screenshot and task context to produce structured actions, including clicks, typing, scrolling and app launches.</summary>
-  </entry>
-  <entry>
-    <title>autohotkey-mcp</title>
-    <id>https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/</id>
-    <link href="https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/" rel="alternate" type="text/html" />
-    <link href="https://github.com/sandraschi/autohotkey-mcp" rel="related" />
-    <link href="https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:17Z</published>
-    <updated>2026-11-09T19:57:58Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>MCP server that lets assistants list, run, stop, and draft AutoHotkey scripts for Windows input automation.</summary>
-  </entry>
-  <entry>
-    <title>handraise-slack</title>
-    <id>https://awesomecua.com/resources/github-sy-d-handraise-slack/</id>
-    <link href="https://awesomecua.com/resources/github-sy-d-handraise-slack/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Sy-D/handraise-slack" rel="related" />
-    <link href="https://awesomecua.com/resources/github-sy-d-handraise-slack/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:17Z</published>
-    <updated>2026-11-09T19:58:04Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>Slack channel adapter for browser-agent handoffs that sends approval requests with page screenshots and returns a person's decision to handraise.</summary>
-  </entry>
-  <entry>
-    <title>Humanoid</title>
-    <id>https://awesomecua.com/resources/github-yzygitzh-humanoid/</id>
-    <link href="https://awesomecua.com/resources/github-yzygitzh-humanoid/" rel="alternate" type="text/html" />
-    <link href="https://github.com/yzygitzh/Humanoid" rel="related" />
-    <link href="https://awesomecua.com/resources/github-yzygitzh-humanoid/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:17Z</published>
-    <updated>2026-11-09T19:58:04Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>Android app exploration component that uses a model learned from human usage traces to rank the input events proposed by DroidBot.</summary>
-  </entry>
-  <entry>
-    <title>WebThinker-R1-32B</title>
-    <id>https://awesomecua.com/resources/url-8076f65dc82b4dcea18c/</id>
-    <link href="https://awesomecua.com/resources/url-8076f65dc82b4dcea18c/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/lixiaoxi45/WebThinker-R1-32B" rel="related" />
-    <link href="https://awesomecua.com/resources/url-8076f65dc82b4dcea18c/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:54:17Z</published>
-    <updated>2026-11-09T19:58:04Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>Released reasoning checkpoint for web research that searches and navigates pages through interactive clicks while drafting reports from gathered information.</summary>
-  </entry>
-  <entry>
-    <title>cliclick</title>
-    <id>https://awesomecua.com/resources/github-bluem-cliclick/</id>
-    <link href="https://awesomecua.com/resources/github-bluem-cliclick/" rel="alternate" type="text/html" />
-    <link href="https://github.com/BlueM/cliclick" rel="related" />
-    <link href="https://awesomecua.com/resources/github-bluem-cliclick/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:53:58Z</published>
-    <updated>2026-11-09T19:57:58Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A macOS command-line utility that performs mouse and keyboard actions. It accepts action commands as arguments or from a file for scripted desktop control.</summary>
-  </entry>
-  <entry>
-    <title>UI2Code_N</title>
-    <id>https://awesomecua.com/resources/url-b04608609a8c392d110b/</id>
-    <link href="https://awesomecua.com/resources/url-b04608609a8c392d110b/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/zai-org/UI2Code_N" rel="related" />
-    <link href="https://awesomecua.com/resources/url-b04608609a8c392d110b/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:53:58Z</published>
-    <updated>2026-11-09T19:57:58Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A visual language model that turns UI screenshots into code and supports iterative interface editing and polishing. Its card includes a screenshot-to-HTML inference example.</summary>
-  </entry>
-  <entry>
-    <title>WebMCP</title>
-    <id>https://awesomecua.com/resources/github-webmachinelearning-webmcp/</id>
-    <link href="https://awesomecua.com/resources/github-webmachinelearning-webmcp/" rel="alternate" type="text/html" />
-    <link href="https://github.com/webmachinelearning/webmcp" rel="related" />
-    <link href="https://awesomecua.com/resources/github-webmachinelearning-webmcp/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:53:58Z</published>
-    <updated>2026-11-09T19:57:58Z</updated>
+    <title>Eko</title>
+    <id>https://awesomecua.com/resources/github-fellouai-eko/</id>
+    <link href="https://awesomecua.com/resources/github-fellouai-eko/" rel="alternate" type="text/html" />
+    <link href="https://github.com/FellouAI/eko" rel="related" />
+    <link href="https://awesomecua.com/resources/github-fellouai-eko/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:08Z</updated>
     <category term="framework" label="Frameworks" />
-    <summary>A client-side web API proposal that lets pages expose structured JavaScript tools to browser agents. Agents can invoke page functions while sharing the visible interface and context with users.</summary>
+    <summary>Eko is a JavaScript framework for building multi-step agents that operate in computer and browser environments, with workflow and tool controls.</summary>
   </entry>
   <entry>
-    <title>Cella</title>
-    <id>https://awesomecua.com/resources/github-latere-ai-cella/</id>
-    <link href="https://awesomecua.com/resources/github-latere-ai-cella/" rel="alternate" type="text/html" />
-    <link href="https://github.com/latere-ai/cella" rel="related" />
-    <link href="https://awesomecua.com/resources/github-latere-ai-cella/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:53:43Z</published>
-    <updated>2026-11-09T19:57:55Z</updated>
-    <category term="infrastructure" label="Infrastructure" />
-    <summary>A control plane for agent sandboxes defined by manifests. It runs workloads on several runtimes and exposes a virtual desktop with screen viewing and input controls.</summary>
-  </entry>
-  <entry>
-    <title>lean-computer-use-mcp</title>
-    <id>https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/</id>
-    <link href="https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Kvxw1105/lean-computer-use-mcp" rel="related" />
-    <link href="https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:53:43Z</published>
-    <updated>2026-11-09T19:57:55Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>An MCP facade for Windows computer use that condenses accessibility observations, checks state freshness, and records desktop actions for later replay.</summary>
-  </entry>
-  <entry>
-    <title>Claude Chrome Stream</title>
-    <id>https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/</id>
-    <link href="https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/" rel="alternate" type="text/html" />
-    <link href="https://github.com/joemccann/claude-chrome-stream" rel="related" />
-    <link href="https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:59Z</published>
-    <updated>2026-11-09T19:57:51Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A Chrome automation plugin for computer-use agents that streams browser frames through CDP and links actions to frame IDs. It includes commands and MCP tools.</summary>
-  </entry>
-  <entry>
-    <title>lumos_web_agent_plan_iterative</title>
-    <id>https://awesomecua.com/resources/url-e35db30fee209ef9b57d/</id>
-    <link href="https://awesomecua.com/resources/url-e35db30fee209ef9b57d/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/ai2lumos/lumos_web_agent_plan_iterative" rel="related" />
-    <link href="https://awesomecua.com/resources/url-e35db30fee209ef9b57d/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:59Z</published>
-    <updated>2026-11-09T19:57:55Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A fine-tuned Lumos planning-module checkpoint for web-agent tasks, released as model weights alongside a separately listed training dataset.</summary>
-  </entry>
-  <entry>
-    <title>PlayJev</title>
-    <id>https://awesomecua.com/resources/github-omnijev-playjev/</id>
-    <link href="https://awesomecua.com/resources/github-omnijev-playjev/" rel="alternate" type="text/html" />
-    <link href="https://github.com/OmniJev/PlayJev" rel="related" />
-    <link href="https://awesomecua.com/resources/github-omnijev-playjev/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:59Z</published>
-    <updated>2026-11-09T19:57:55Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>A browser-game agent that selects moves from rendered frames. Its repository provides game environments, a demo, and scripts for training and evaluation.</summary>
-  </entry>
-  <entry>
-    <title>GUI Reflection</title>
-    <id>https://awesomecua.com/resources/github-penghao-wu-gui-reflection/</id>
-    <link href="https://awesomecua.com/resources/github-penghao-wu-gui-reflection/" rel="alternate" type="text/html" />
-    <link href="https://github.com/penghao-wu/GUI_Reflection" rel="related" />
-    <link href="https://awesomecua.com/resources/github-penghao-wu-gui-reflection/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:39Z</published>
-    <updated>2026-11-09T19:57:49Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.</summary>
-  </entry>
-  <entry>
-    <title>macOSWorld</title>
-    <id>https://awesomecua.com/resources/github-showlab-macosworld/</id>
-    <link href="https://awesomecua.com/resources/github-showlab-macosworld/" rel="alternate" type="text/html" />
-    <link href="https://github.com/showlab/macosworld" rel="related" />
-    <link href="https://awesomecua.com/resources/github-showlab-macosworld/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:38Z</published>
-    <updated>2026-11-09T19:57:51Z</updated>
+    <title>GameWorld Games</title>
+    <id>https://awesomecua.com/resources/github-gameworld-project-gameworld-games/</id>
+    <link href="https://awesomecua.com/resources/github-gameworld-project-gameworld-games/" rel="alternate" type="text/html" />
+    <link href="https://github.com/gameworld-project/GameWorld-Games" rel="related" />
+    <link href="https://awesomecua.com/resources/github-gameworld-project-gameworld-games/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:09:44Z</updated>
     <category term="benchmark" label="Benchmarks" />
-    <summary>macOSWorld benchmarks GUI agents on tasks across 30 macOS apps in five languages. It supplies a Python testbench for AWS macOS instances and a safety task subset.</summary>
+    <summary>GameWorld Games supplies browser-game snapshots for agent evaluation, each with an API for initialization, reset and game-state inspection.</summary>
   </entry>
   <entry>
-    <title>AgentTab</title>
-    <id>https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/</id>
-    <link href="https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/" rel="alternate" type="text/html" />
-    <link href="https://github.com/wolfiesch/chrome-bridge" rel="related" />
-    <link href="https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:37Z</published>
-    <updated>2026-11-09T19:57:48Z</updated>
-    <category term="infrastructure" label="Infrastructure" />
-    <summary>AgentTab provides task-owned Chrome tabs for AI agents, with page snapshots, browser actions, human handoff, and optional review of consequential actions.</summary>
-  </entry>
-  <entry>
-    <title>asil-qwen35-2b-rl</title>
-    <id>https://awesomecua.com/resources/url-d740ec821c7c466db2bf/</id>
-    <link href="https://awesomecua.com/resources/url-d740ec821c7c466db2bf/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/sharryXR/asil-qwen35-2b-rl" rel="related" />
-    <link href="https://awesomecua.com/resources/url-d740ec821c7c466db2bf/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:37Z</published>
-    <updated>2026-11-09T19:57:49Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>An ASIL reinforcement-learning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.</summary>
-  </entry>
-  <entry>
-    <title>asil-qwen35-9b-sft</title>
-    <id>https://awesomecua.com/resources/url-9960d240939244c3edaa/</id>
-    <link href="https://awesomecua.com/resources/url-9960d240939244c3edaa/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/sharryXR/asil-qwen35-9b-sft" rel="related" />
-    <link href="https://awesomecua.com/resources/url-9960d240939244c3edaa/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:37Z</published>
-    <updated>2026-11-09T19:57:49Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.</summary>
-  </entry>
-  <entry>
-    <title>cogagent-vqa-hf</title>
-    <id>https://awesomecua.com/resources/url-64d0220e17b4e67485f3/</id>
-    <link href="https://awesomecua.com/resources/url-64d0220e17b4e67485f3/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/THUDM/cogagent-vqa-hf" rel="related" />
-    <link href="https://awesomecua.com/resources/url-64d0220e17b4e67485f3/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:37Z</published>
-    <updated>2026-11-09T20:03:08Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A CogAgent checkpoint oriented toward single-turn visual dialogue; its card also describes GUI screenshot understanding, coordinate actions, and reported GUI dataset results.</summary>
-  </entry>
-  <entry>
-    <title>GUI-DR</title>
-    <id>https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/</id>
-    <link href="https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/" rel="alternate" type="text/html" />
-    <link href="https://github.com/ManifoldRG/WebDomainRandomizer" rel="related" />
-    <link href="https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:37Z</published>
-    <updated>2026-11-09T19:57:48Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>GUI-DR generates perturbed web screenshots and interaction trajectories from Mind2Web archives to support GUI grounding evaluation and fine-tuning.</summary>
-  </entry>
-  <entry>
-    <title>Qwen3-VL-2B-Thinking</title>
-    <id>https://awesomecua.com/resources/url-24013b35fccf6b504bc5/</id>
-    <link href="https://awesomecua.com/resources/url-24013b35fccf6b504bc5/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking" rel="related" />
-    <link href="https://awesomecua.com/resources/url-24013b35fccf6b504bc5/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:37Z</published>
-    <updated>2026-11-09T19:57:49Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>Qwen3-VL-2B-Thinking, the 2B reasoning edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.</summary>
-  </entry>
-  <entry>
-    <title>Qwen3-VL-32B-Instruct</title>
-    <id>https://awesomecua.com/resources/url-560a21b67220296ba009/</id>
-    <link href="https://awesomecua.com/resources/url-560a21b67220296ba009/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct" rel="related" />
-    <link href="https://awesomecua.com/resources/url-560a21b67220296ba009/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:37Z</published>
-    <updated>2026-11-09T19:57:49Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>Qwen3-VL-32B-Instruct, the 32B instruction-tuned edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.</summary>
-  </entry>
-  <entry>
-    <title>AndroidGen-Llama-3-70B</title>
-    <id>https://awesomecua.com/resources/url-75e93dff049c046c586e/</id>
-    <link href="https://awesomecua.com/resources/url-75e93dff049c046c586e/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/THUDM/androidgen-llama-3-70b" rel="related" />
-    <link href="https://awesomecua.com/resources/url-75e93dff049c046c586e/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:26Z</published>
-    <updated>2026-11-09T20:03:07Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>AndroidGen-Llama-3-70B is a released model for agents that carry out tasks across Android applications such as messaging, email and settings without manually labeled interaction data.</summary>
-  </entry>
-  <entry>
-    <title>flutter-skill</title>
-    <id>https://awesomecua.com/resources/github-ai-dashboad-flutter-skill/</id>
-    <link href="https://awesomecua.com/resources/github-ai-dashboad-flutter-skill/" rel="alternate" type="text/html" />
-    <link href="https://github.com/ai-dashboad/flutter-skill" rel="related" />
-    <link href="https://awesomecua.com/resources/github-ai-dashboad-flutter-skill/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:05Z</published>
-    <updated>2026-11-09T19:57:44Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>An MCP server and CLI that give AI agents screen inspection and interaction tools for running web, desktop and mobile apps. It supports navigation, taps, typing and test assertions.</summary>
-  </entry>
-  <entry>
-    <title>GLM-4.5V</title>
-    <id>https://awesomecua.com/resources/url-97cfbcd45f879ff71499/</id>
-    <link href="https://awesomecua.com/resources/url-97cfbcd45f879ff71499/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/zai-org/GLM-4.5V" rel="related" />
-    <link href="https://awesomecua.com/resources/url-97cfbcd45f879ff71499/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:05Z</published>
-    <updated>2026-11-09T19:57:46Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A released vision-language model that documents screen reading, icon recognition, visual-element grounding and desktop operation assistance among its supported tasks.</summary>
-  </entry>
-  <entry>
-    <title>GUI-Actor-3B-Qwen2.5-VL-LiteTrain</title>
-    <id>https://awesomecua.com/resources/url-5e0c3173aea8edd0f3b7/</id>
-    <link href="https://awesomecua.com/resources/url-5e0c3173aea8edd0f3b7/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/qianhuiwu/GUI-Actor-3B-Qwen2.5-VL-LiteTrain" rel="related" />
-    <link href="https://awesomecua.com/resources/url-5e0c3173aea8edd0f3b7/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:05Z</published>
-    <updated>2026-11-09T19:57:46Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A GUI-grounding checkpoint built on Qwen2.5-VL-3B with an attention-based action head. Given a screenshot and instruction, it predicts a click location.</summary>
-  </entry>
-  <entry>
-    <title>OpenAgentSafety</title>
-    <id>https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/</id>
-    <link href="https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Open-Agent-Safety/OpenAgentSafety" rel="related" />
-    <link href="https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:05Z</published>
-    <updated>2026-11-09T19:57:44Z</updated>
+    <title>Halluminate Westworld</title>
+    <id>https://awesomecua.com/resources/github-halluminate-westworld/</id>
+    <link href="https://awesomecua.com/resources/github-halluminate-westworld/" rel="alternate" type="text/html" />
+    <link href="https://github.com/Halluminate/westworld" rel="related" />
+    <link href="https://awesomecua.com/resources/github-halluminate-westworld/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:08Z</updated>
     <category term="benchmark" label="Benchmarks" />
-    <summary>A benchmark for agent safety in multi-step simulations involving browser, filesystem, terminal and messaging tools. It tests responses to ambiguous, conflicting and adversarial instructions.</summary>
+    <summary>Halluminate Westworld evaluates web agents on tasks set in realistic websites and provides task loading, a manual demo and evaluator interfaces.</summary>
   </entry>
   <entry>
-    <title>Preflight Bench</title>
-    <id>https://awesomecua.com/resources/url-a40fc87ac700add33232/</id>
-    <link href="https://awesomecua.com/resources/url-a40fc87ac700add33232/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/multimodal-ai-engineering/preflight-bench" rel="related" />
-    <link href="https://awesomecua.com/resources/url-a40fc87ac700add33232/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:05Z</published>
-    <updated>2026-11-09T19:57:47Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A dataset of paired screenshots, click outcomes and checker answers for evaluating pre-click checks on changing web pages. It includes Lance tables and development and test splits.</summary>
-  </entry>
-  <entry>
-    <title>VK DeviceHub</title>
-    <id>https://awesomecua.com/resources/github-vkcom-devicehub/</id>
-    <link href="https://awesomecua.com/resources/github-vkcom-devicehub/" rel="alternate" type="text/html" />
-    <link href="https://github.com/VKCOM/devicehub" rel="related" />
-    <link href="https://awesomecua.com/resources/github-vkcom-devicehub/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:05Z</published>
-    <updated>2026-11-09T19:57:46Z</updated>
-    <category term="infrastructure" label="Infrastructure" />
-    <summary>A device-management system for viewing and controlling Android and iOS devices through a browser. It provides remote input, device inventory and a REST API.</summary>
-  </entry>
-  <entry>
-    <title>webmcpify</title>
-    <id>https://awesomecua.com/resources/github-tuejon-webmcpify/</id>
-    <link href="https://awesomecua.com/resources/github-tuejon-webmcpify/" rel="alternate" type="text/html" />
-    <link href="https://github.com/TueJon/webmcpify" rel="related" />
-    <link href="https://awesomecua.com/resources/github-tuejon-webmcpify/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:52:05Z</published>
-    <updated>2026-11-09T19:57:46Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>An agent skill that adds WebMCP tools to existing web apps. It inventories app functions, asks for approval of a tool manifest and checks tool effects in Chrome.</summary>
-  </entry>
-  <entry>
-    <title>Cie1/MMSearch-Plus</title>
-    <id>https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/</id>
-    <link href="https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/Cie1/MMSearch-Plus" rel="related" />
-    <link href="https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:51:58Z</published>
-    <updated>2026-11-09T19:57:44Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A dataset of 311 image-based tasks for evaluating multimodal browsing agents that use iterative image and text retrieval to answer questions.</summary>
-  </entry>
-  <entry>
-    <title>dsh-computer-use-windows</title>
-    <id>https://awesomecua.com/resources/github-qphotoai-dsh-computer-use-windows/</id>
-    <link href="https://awesomecua.com/resources/github-qphotoai-dsh-computer-use-windows/" rel="alternate" type="text/html" />
-    <link href="https://github.com/qphotoai/dsh-computer-use-windows" rel="related" />
-    <link href="https://awesomecua.com/resources/github-qphotoai-dsh-computer-use-windows/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:51:58Z</published>
-    <updated>2026-11-09T19:57:42Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A Windows computer-use plugin for DeepSeek Harness that observes UI Automation controls and supports window actions, with optional screenshot-based visual recognition.</summary>
-  </entry>
-  <entry>
-    <title>EverFern Navis Extension</title>
-    <id>https://awesomecua.com/resources/github-everfern-ai-navis-extension/</id>
-    <link href="https://awesomecua.com/resources/github-everfern-ai-navis-extension/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Everfern-AI/Navis-Extension" rel="related" />
-    <link href="https://awesomecua.com/resources/github-everfern-ai-navis-extension/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:51:58Z</published>
-    <updated>2026-11-09T19:57:42Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A browser extension that connects Navis to a user's regular browser profile through EverFern Desktop, with builds for Chromium browsers and Firefox.</summary>
-  </entry>
-  <entry>
-    <title>Floorp MCP Server</title>
-    <id>https://awesomecua.com/resources/github-floorp-projects-floorp-mcp-server/</id>
-    <link href="https://awesomecua.com/resources/github-floorp-projects-floorp-mcp-server/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Floorp-Projects/floorp-mcp-server" rel="related" />
-    <link href="https://awesomecua.com/resources/github-floorp-projects-floorp-mcp-server/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:51:58Z</published>
-    <updated>2026-11-09T19:57:42Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>An MCP server that lets AI assistants read pages and operate the Floorp browser through tab controls, navigation, clicks, and form filling.</summary>
-  </entry>
-  <entry>
-    <title>OS-Copilot/OS-Shepherd-100K</title>
-    <id>https://awesomecua.com/resources/url-d716497286ae5cd5e762/</id>
-    <link href="https://awesomecua.com/resources/url-d716497286ae5cd5e762/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/OS-Copilot/OS-Shepherd-100K" rel="related" />
-    <link href="https://awesomecua.com/resources/url-d716497286ae5cd5e762/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:51:58Z</published>
-    <updated>2026-11-09T19:57:44Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A dataset of GUI agent trajectories and screenshots for training models to judge task completion, with supervised records and reinforcement learning splits.</summary>
-  </entry>
-  <entry>
-    <title>gui_and_terminal_operation_recording</title>
-    <id>https://awesomecua.com/resources/url-dfa0c83ebd679a37ad00/</id>
-    <link href="https://awesomecua.com/resources/url-dfa0c83ebd679a37ad00/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/cybergod-agi/gui_and_terminal_operation_recording" rel="related" />
-    <link href="https://awesomecua.com/resources/url-dfa0c83ebd679a37ad00/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:51:57Z</published>
-    <updated>2026-11-09T19:57:42Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A dataset of GUI and terminal operation recordings. GUI sessions include timestamped screenshots, mouse events and keyboard events; terminal sessions include input and output logs.</summary>
-  </entry>
-  <entry>
-    <title>InternVL3-38B</title>
-    <id>https://awesomecua.com/resources/url-b2a83cef835559f24351/</id>
-    <link href="https://awesomecua.com/resources/url-b2a83cef835559f24351/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/OpenGVLab/InternVL3-38B" rel="related" />
-    <link href="https://awesomecua.com/resources/url-b2a83cef835559f24351/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:51:57Z</published>
-    <updated>2026-11-09T19:57:41Z</updated>
+    <title>KV-Ground</title>
+    <id>https://awesomecua.com/resources/github-vocaela-kv-ground/</id>
+    <link href="https://awesomecua.com/resources/github-vocaela-kv-ground/" rel="alternate" type="text/html" />
+    <link href="https://github.com/vocaela/kv-ground" rel="related" />
+    <link href="https://awesomecua.com/resources/github-vocaela-kv-ground/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:12Z</updated>
     <category term="model" label="Models and checkpoints" />
-    <summary>A released InternVL3-38B multimodal checkpoint from a model family whose card documents GUI-operation training samples and GUI-grounding evaluation.</summary>
+    <summary>KV-Ground releases compact models for locating targets in high-resolution GUI images, alongside training and evaluation code.</summary>
   </entry>
   <entry>
-    <title>linux-use-recipes</title>
-    <id>https://awesomecua.com/resources/github-javimosch-linux-use-recipes/</id>
-    <link href="https://awesomecua.com/resources/github-javimosch-linux-use-recipes/" rel="alternate" type="text/html" />
-    <link href="https://github.com/javimosch/linux-use-recipes" rel="related" />
-    <link href="https://awesomecua.com/resources/github-javimosch-linux-use-recipes/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:51:57Z</published>
-    <updated>2026-11-09T19:57:41Z</updated>
-    <category term="learning" label="Learning resources" />
-    <summary>A collection of recipes for automating Linux desktop applications and websites with linux-use. It covers browser setup, accessibility pitfalls, posting workflows and verification.</summary>
-  </entry>
-  <entry>
-    <title>Qwen3.5-4B-Browser-Agent-SFT-FP8</title>
-    <id>https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/</id>
-    <link href="https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/visnia-ai/Qwen3.5-4B-Browser-Agent-SFT-FP8" rel="related" />
-    <link href="https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:51:57Z</published>
-    <updated>2026-11-09T19:57:41Z</updated>
+    <title>lumos_unified_plan_iterative-13B</title>
+    <id>https://awesomecua.com/resources/url-eb6a5940793aa81153d0/</id>
+    <link href="https://awesomecua.com/resources/url-eb6a5940793aa81153d0/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/ai2lumos/lumos_unified_plan_iterative-13B" rel="related" />
+    <link href="https://awesomecua.com/resources/url-eb6a5940793aa81153d0/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:10:03Z</updated>
     <category term="model" label="Models and checkpoints" />
-    <summary>An FP8 Qwen3.5-4B checkpoint fine-tuned on browser-agent trajectories with structured actions. Its card provides vLLM serving settings and reports BrowseWebApp-Bench v2 results.</summary>
+    <summary>A Lumos planning checkpoint fine-tuned on web-agent, question-answering, multimodal and math tasks within a modular agent system.</summary>
   </entry>
   <entry>
-    <title>Claude-Surf</title>
-    <id>https://awesomecua.com/resources/github-vibesurf-ai-claude-surf/</id>
-    <link href="https://awesomecua.com/resources/github-vibesurf-ai-claude-surf/" rel="alternate" type="text/html" />
-    <link href="https://github.com/vibesurf-ai/claude-surf" rel="related" />
-    <link href="https://awesomecua.com/resources/github-vibesurf-ai-claude-surf/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:49Z</published>
-    <updated>2026-11-09T19:57:41Z</updated>
+    <title>Magnitude WebVoyager Benchmark Results</title>
+    <id>https://awesomecua.com/resources/github-magnitudedev-webvoyager/</id>
+    <link href="https://awesomecua.com/resources/github-magnitudedev-webvoyager/" rel="alternate" type="text/html" />
+    <link href="https://github.com/magnitudedev/webvoyager" rel="related" />
+    <link href="https://awesomecua.com/resources/github-magnitudedev-webvoyager/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:09:58Z</updated>
+    <category term="benchmark" label="Benchmarks" />
+    <summary>A WebVoyager evaluation release for the Magnitude browser agent, including reported task results, task patches and reproduction instructions.</summary>
+  </entry>
+  <entry>
+    <title>Mobile Agent</title>
+    <id>https://awesomecua.com/resources/github-looper42-mobile-agent/</id>
+    <link href="https://awesomecua.com/resources/github-looper42-mobile-agent/" rel="alternate" type="text/html" />
+    <link href="https://github.com/looper42/mobile_agent" rel="related" />
+    <link href="https://awesomecua.com/resources/github-looper42-mobile-agent/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:09Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>Mobile Agent is an Android assistant that can use local tools and optional accessibility-based device control, with approval for sensitive actions.</summary>
+  </entry>
+  <entry>
+    <title>MWMBench</title>
+    <id>https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/</id>
+    <link href="https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/datasets/trillionlabs/MWMBench" rel="related" />
+    <link href="https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:10:03Z</updated>
+    <category term="benchmark" label="Benchmarks" />
+    <summary>MWMBench evaluates mobile GUI world models by asking them to predict the next screen from a screenshot and coordinate action.</summary>
+  </entry>
+  <entry>
+    <title>profile-use</title>
+    <id>https://awesomecua.com/resources/github-leeguooooo-profile-use/</id>
+    <link href="https://awesomecua.com/resources/github-leeguooooo-profile-use/" rel="alternate" type="text/html" />
+    <link href="https://github.com/leeguooooo/profile-use" rel="related" />
+    <link href="https://awesomecua.com/resources/github-leeguooooo-profile-use/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:09Z</updated>
     <category term="tool" label="Tools" />
-    <summary>A Claude Code plugin that connects to VibeSurf to control browser pages, run web automation workflows and access browser-use agents.</summary>
+    <summary>profile-use supplies local profile data for agent-driven web forms and applies confirmation and domain checks before sensitive entries or submission.</summary>
   </entry>
   <entry>
-    <title>InternVL3-9B</title>
-    <id>https://awesomecua.com/resources/url-1e3655e5a2b664102ac7/</id>
-    <link href="https://awesomecua.com/resources/url-1e3655e5a2b664102ac7/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/OpenGVLab/InternVL3-9B" rel="related" />
-    <link href="https://awesomecua.com/resources/url-1e3655e5a2b664102ac7/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:49Z</published>
-    <updated>2026-11-09T19:57:41Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A released multimodal checkpoint whose training includes GUI operations and whose card documents GUI grounding alongside broader visual and language tasks.</summary>
-  </entry>
-  <entry>
-    <title>Qwen3-VL-4B-Thinking</title>
-    <id>https://awesomecua.com/resources/url-b5690e43822ef84015c5/</id>
-    <link href="https://awesomecua.com/resources/url-b5690e43822ef84015c5/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking" rel="related" />
-    <link href="https://awesomecua.com/resources/url-b5690e43822ef84015c5/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:49Z</published>
-    <updated>2026-11-09T19:57:41Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A vision-language checkpoint whose card describes visual-agent operation of PC and mobile interfaces, including element recognition and tool use.</summary>
-  </entry>
-  <entry>
-    <title>Scrapeless Scraping Browser</title>
-    <id>https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/</id>
-    <link href="https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/" rel="alternate" type="text/html" />
-    <link href="https://github.com/scraperapigather/scrapeless-scraping-browser" rel="related" />
-    <link href="https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:49Z</published>
-    <updated>2026-11-09T19:57:41Z</updated>
-    <category term="infrastructure" label="Infrastructure" />
-    <summary>A managed Chromium browser reached through WebSocket and controlled with Puppeteer or Playwright, with configurable sessions, fingerprints and network egress.</summary>
-  </entry>
-  <entry>
-    <title>SikuliX1</title>
-    <id>https://awesomecua.com/resources/github-raiman-sikulix1/</id>
-    <link href="https://awesomecua.com/resources/github-raiman-sikulix1/" rel="alternate" type="text/html" />
-    <link href="https://github.com/RaiMan/SikuliX1" rel="related" />
-    <link href="https://awesomecua.com/resources/github-raiman-sikulix1/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:49Z</published>
-    <updated>2026-11-09T19:57:41Z</updated>
+    <title>Q-Verifier / Q-Reflector</title>
+    <id>https://awesomecua.com/resources/github-pockyitachi-q-verifier/</id>
+    <link href="https://awesomecua.com/resources/github-pockyitachi-q-verifier/" rel="alternate" type="text/html" />
+    <link href="https://github.com/pockyitachi/Q-Verifier" rel="related" />
+    <link href="https://awesomecua.com/resources/github-pockyitachi-q-verifier/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:10:00Z</updated>
     <category term="tool" label="Tools" />
-    <summary>An archived desktop automation codebase that locates on-screen elements through image recognition and controls them with simulated mouse and keyboard input.</summary>
+    <summary>Q-Reflector checks a GUI agent's action against before-and-after screenshots and task context, with training and online evaluation code.</summary>
   </entry>
   <entry>
-    <title>AndroidGen-GLM-4-9B</title>
-    <id>https://awesomecua.com/resources/url-66d842fe6552d3ca62a1/</id>
-    <link href="https://awesomecua.com/resources/url-66d842fe6552d3ca62a1/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/THUDM/androidgen-glm-4-9b" rel="related" />
-    <link href="https://awesomecua.com/resources/url-66d842fe6552d3ca62a1/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:38Z</published>
-    <updated>2026-11-09T20:03:02Z</updated>
+    <title>Qwen3-VL-235B-A22B-Instruct</title>
+    <id>https://awesomecua.com/resources/url-8f5ec99c2aad6c73fed7/</id>
+    <link href="https://awesomecua.com/resources/url-8f5ec99c2aad6c73fed7/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct" rel="related" />
+    <link href="https://awesomecua.com/resources/url-8f5ec99c2aad6c73fed7/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:10:03Z</updated>
     <category term="model" label="Models and checkpoints" />
-    <summary>AndroidGen-GLM-4-9B is a released model for agents that carry out tasks across Android apps without manually labeled interaction data.</summary>
+    <summary>A Qwen3-VL vision-language checkpoint whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.</summary>
   </entry>
   <entry>
-    <title>openadapt-types</title>
-    <id>https://awesomecua.com/resources/github-openadaptai-openadapt-types/</id>
-    <link href="https://awesomecua.com/resources/github-openadaptai-openadapt-types/" rel="alternate" type="text/html" />
-    <link href="https://github.com/OpenAdaptAI/openadapt-types" rel="related" />
-    <link href="https://awesomecua.com/resources/github-openadaptai-openadapt-types/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:38Z</published>
-    <updated>2026-11-09T19:57:39Z</updated>
+    <title>Snapgrab</title>
+    <id>https://awesomecua.com/resources/github-quartzunit-snapgrab/</id>
+    <link href="https://awesomecua.com/resources/github-quartzunit-snapgrab/" rel="alternate" type="text/html" />
+    <link href="https://github.com/QuartzUnit/snapgrab" rel="related" />
+    <link href="https://awesomecua.com/resources/github-quartzunit-snapgrab/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:10Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Snapgrab captures website screenshots and page metadata through a Python API and MCP tools, with viewport and image-format options.</summary>
+  </entry>
+  <entry>
+    <title>Thursday</title>
+    <id>https://awesomecua.com/resources/github-cgoinglove-thursday-agent/</id>
+    <link href="https://awesomecua.com/resources/github-cgoinglove-thursday-agent/" rel="alternate" type="text/html" />
+    <link href="https://github.com/cgoinglove/thursday-agent" rel="related" />
+    <link href="https://awesomecua.com/resources/github-cgoinglove-thursday-agent/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:07:00Z</published>
+    <updated>2026-11-09T21:12:07Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>Thursday is a local voice assistant that delegates longer tasks to bots able to use a browser, shell and files while the conversation continues.</summary>
+  </entry>
+  <entry>
+    <title>Aico Link Firmware</title>
+    <id>https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/</id>
+    <link href="https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/" rel="alternate" type="text/html" />
+    <link href="https://github.com/AidenAI-IO/aiden-firmware" rel="related" />
+    <link href="https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:41Z</published>
+    <updated>2026-11-09T21:09:43Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>Aico Link firmware runs an agent that views a phone or computer through HDMI capture and sends input through USB HID. The repository includes hardware services, agent runtime, and update tooling.</summary>
+  </entry>
+  <entry>
+    <title>Interlock Relay</title>
+    <id>https://awesomecua.com/resources/github-wsk-build-interlock-relay/</id>
+    <link href="https://awesomecua.com/resources/github-wsk-build-interlock-relay/" rel="alternate" type="text/html" />
+    <link href="https://github.com/WSK-build/interlock-relay" rel="related" />
+    <link href="https://awesomecua.com/resources/github-wsk-build-interlock-relay/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:41Z</published>
+    <updated>2026-11-09T21:12:07Z</updated>
     <category term="framework" label="Frameworks" />
-    <summary>openadapt-types supplies validated Python models and JSON schemas for computer-use screens, actions, results, and interaction trajectories.</summary>
+    <summary>Interlock Relay is an Android library that connects sandboxed agents to host-app capabilities through an approval gate. It provides execution backends, quotas, artifacts, and audit logs.</summary>
   </entry>
   <entry>
-    <title>PersonalAlign</title>
-    <id>https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/</id>
-    <link href="https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/" rel="alternate" type="text/html" />
-    <link href="https://github.com/iLearn-Lab/ACL26-PersonalAlign" rel="related" />
-    <link href="https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:38Z</published>
-    <updated>2026-11-09T19:57:38Z</updated>
-    <category term="benchmark" label="Benchmarks" />
-    <summary>PersonalAlign releases AndroidIntent evaluations of personalized mobile GUI agents and HIM-Agent memory for using long-term interaction records.</summary>
-  </entry>
-  <entry>
-    <title>uiautomator2</title>
-    <id>https://awesomecua.com/resources/github-openatx-uiautomator2/</id>
-    <link href="https://awesomecua.com/resources/github-openatx-uiautomator2/" rel="alternate" type="text/html" />
-    <link href="https://github.com/openatx/uiautomator2" rel="related" />
-    <link href="https://awesomecua.com/resources/github-openatx-uiautomator2/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:38Z</published>
-    <updated>2026-11-09T19:57:39Z</updated>
+    <title>open-compute-mcp</title>
+    <id>https://awesomecua.com/resources/github-ellmos-ai-open-compute-mcp/</id>
+    <link href="https://awesomecua.com/resources/github-ellmos-ai-open-compute-mcp/" rel="alternate" type="text/html" />
+    <link href="https://github.com/ellmos-ai/open-compute-mcp" rel="related" />
+    <link href="https://awesomecua.com/resources/github-ellmos-ai-open-compute-mcp/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:41Z</published>
+    <updated>2026-11-09T21:12:06Z</updated>
     <category term="tool" label="Tools" />
-    <summary>uiautomator2 is a Python library for controlling Android devices through a device-side UiAutomator service, including app launch and UI element actions.</summary>
+    <summary>open-compute-mcp launches a Python computer-use MCP server and relays requests over local standard I/O. The backend exposes Windows desktop capture, interface inspection, and input tools.</summary>
   </entry>
   <entry>
-    <title>Vadgr</title>
-    <id>https://awesomecua.com/resources/github-montbrain-vadgr/</id>
-    <link href="https://awesomecua.com/resources/github-montbrain-vadgr/" rel="alternate" type="text/html" />
-    <link href="https://github.com/MONTBRAIN/vadgr" rel="related" />
-    <link href="https://awesomecua.com/resources/github-montbrain-vadgr/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:38Z</published>
-    <updated>2026-11-09T19:57:39Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>Vadgr runs agent tasks on a desktop computer through a CLI or phone app, using screenshots and input controls for optional app automation.</summary>
-  </entry>
-  <entry>
-    <title>AutoGUI-Qwen-v0.1</title>
-    <id>https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/</id>
-    <link href="https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/HongxinLi/AutoGUI-Qwen-v0.1" rel="related" />
-    <link href="https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:37Z</published>
-    <updated>2026-11-09T19:57:38Z</updated>
+    <title>Qwen2.5-VL-32B-Instruct</title>
+    <id>https://awesomecua.com/resources/url-beafd78bf2ea84211e6d/</id>
+    <link href="https://awesomecua.com/resources/url-beafd78bf2ea84211e6d/" rel="alternate" type="text/html" />
+    <link href="https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct" rel="related" />
+    <link href="https://awesomecua.com/resources/url-beafd78bf2ea84211e6d/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:41Z</published>
+    <updated>2026-11-09T21:09:44Z</updated>
     <category term="model" label="Models and checkpoints" />
-    <summary>A UI vision-language model checkpoint trained on AutoGUI-625k data and fine-tuned from Qwen-VL-Chat for interpreting interfaces.</summary>
+    <summary>Qwen2.5-VL-32B-Instruct is a released vision-language checkpoint. Its card describes visual-agent computer and phone use, visual localization, and interface benchmark results.</summary>
   </entry>
   <entry>
-    <title>Game AI - Dome Keeper</title>
-    <id>https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/</id>
-    <link href="https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/" rel="alternate" type="text/html" />
-    <link href="https://github.com/proj-airi/game-playing-ai-dome-keeper" rel="related" />
-    <link href="https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:37Z</published>
-    <updated>2026-11-09T19:57:38Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>A game-playing agent for Dome Keeper that combines computer vision and a language model. Its active mod is written in TypeScript and converted to GDScript.</summary>
-  </entry>
-  <entry>
-    <title>InternVL3_5-241B-A28B</title>
-    <id>https://awesomecua.com/resources/url-c8d93b1c274acd679694/</id>
-    <link href="https://awesomecua.com/resources/url-c8d93b1c274acd679694/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B" rel="related" />
-    <link href="https://awesomecua.com/resources/url-c8d93b1c274acd679694/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:37Z</published>
-    <updated>2026-11-09T19:57:38Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A released InternVL3.5 multimodal checkpoint from a family whose card describes GUI interaction, Cascade RL training and adaptive visual resolution.</summary>
-  </entry>
-  <entry>
-    <title>SilbercueSwift</title>
-    <id>https://awesomecua.com/resources/github-silbercue-silbercueswift/</id>
-    <link href="https://awesomecua.com/resources/github-silbercue-silbercueswift/" rel="alternate" type="text/html" />
-    <link href="https://github.com/silbercue/SilbercueSwift" rel="related" />
-    <link href="https://awesomecua.com/resources/github-silbercue-silbercueswift/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:37Z</published>
-    <updated>2026-11-09T19:57:38Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>An MCP server for iOS development that gives agents simulator screenshots, UI element inspection, navigation actions and structured test results.</summary>
-  </entry>
-  <entry>
-    <title>GTA1: GUI Test-time Scaling Agent</title>
-    <id>https://awesomecua.com/resources/github-yan98-gta1/</id>
-    <link href="https://awesomecua.com/resources/github-yan98-gta1/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Yan98/GTA1" rel="related" />
-    <link href="https://awesomecua.com/resources/github-yan98-gta1/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:13Z</published>
-    <updated>2026-11-09T19:57:38Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>GTA1 is a GUI agent that samples action proposals, uses a judge to select one, and maps it to a visual target with a reinforcement-trained grounding model.</summary>
-  </entry>
-  <entry>
-    <title>agent-view</title>
-    <id>https://awesomecua.com/resources/github-petukhovart-agent-view/</id>
-    <link href="https://awesomecua.com/resources/github-petukhovart-agent-view/" rel="alternate" type="text/html" />
-    <link href="https://github.com/PetukhovArt/agent-view" rel="related" />
-    <link href="https://awesomecua.com/resources/github-petukhovart-agent-view/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:07Z</published>
-    <updated>2026-11-09T19:57:37Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A CLI for agents to inspect and operate Electron, Windows Tauri, and Chromium apps through Chrome DevTools Protocol, with accessibility, screenshot, input, and diagnostic commands.</summary>
-  </entry>
-  <entry>
-    <title>AIHawk</title>
-    <id>https://awesomecua.com/resources/github-feder-cr-aihawk/</id>
-    <link href="https://awesomecua.com/resources/github-feder-cr-aihawk/" rel="alternate" type="text/html" />
-    <link href="https://github.com/feder-cr/AIHawk" rel="related" />
-    <link href="https://awesomecua.com/resources/github-feder-cr-aihawk/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:07Z</published>
-    <updated>2026-11-09T19:57:37Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>AIHawk searches and scores jobs against a resume, then uses Firefox to fill and submit applications selected by the user. It retains each page's response and a screenshot.</summary>
-  </entry>
-  <entry>
-    <title>lumos_unified_ground_iterative</title>
-    <id>https://awesomecua.com/resources/url-87bba046fba8c1cd968c/</id>
-    <link href="https://awesomecua.com/resources/url-87bba046fba8c1cd968c/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/ai2lumos/lumos_unified_ground_iterative" rel="related" />
-    <link href="https://awesomecua.com/resources/url-87bba046fba8c1cd968c/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:50:07Z</published>
-    <updated>2026-11-09T19:57:38Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A JSONL training dataset for the Lumos-I grounding module, combining math, question-answering, and web-agent annotations, including examples from Mind2Web.</summary>
-  </entry>
-  <entry>
-    <title>BlenderWorld</title>
-    <id>https://awesomecua.com/resources/github-qwenlm-blenderworld/</id>
-    <link href="https://awesomecua.com/resources/github-qwenlm-blenderworld/" rel="alternate" type="text/html" />
-    <link href="https://github.com/QwenLM/BlenderWorld" rel="related" />
-    <link href="https://awesomecua.com/resources/github-qwenlm-blenderworld/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:51Z</published>
-    <updated>2026-11-09T19:57:37Z</updated>
-    <category term="benchmark" label="Benchmarks" />
-    <summary>A benchmark for agents creating editable Blender projects from text and visual references. It supplies 223 tasks, submission packaging, and an evaluator for scene and visual criteria.</summary>
-  </entry>
-  <entry>
-    <title>InternVL3_5-38B-HF</title>
-    <id>https://awesomecua.com/resources/url-099960c12bbdd80f73cb/</id>
-    <link href="https://awesomecua.com/resources/url-099960c12bbdd80f73cb/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/OpenGVLab/InternVL3_5-38B-HF" rel="related" />
-    <link href="https://awesomecua.com/resources/url-099960c12bbdd80f73cb/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:51Z</published>
-    <updated>2026-11-09T19:57:37Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>An HF-format 38B checkpoint in the InternVL3.5 multimodal model family, whose card lists GUI interaction among its capabilities and describes staged training and inference.</summary>
-  </entry>
-  <entry>
-    <title>Qwen3-8B-FormFactory-SFT-LoRA</title>
-    <id>https://awesomecua.com/resources/url-994d4cf27b0931fb53e3/</id>
-    <link href="https://awesomecua.com/resources/url-994d4cf27b0931fb53e3/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/billyenrizky/Qwen3-8B-FormFactory-SFT-LoRA" rel="related" />
-    <link href="https://awesomecua.com/resources/url-994d4cf27b0931fb53e3/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:51Z</published>
-    <updated>2026-11-09T19:57:37Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A Qwen3-8B LoRA adapter fine-tuned on 992 demonstrations for filling web forms in FormFactory, released with instructions for loading it through PEFT.</summary>
-  </entry>
-  <entry>
-    <title>SCOPE-SFT-9B</title>
-    <id>https://awesomecua.com/resources/url-389202404e2653f59838/</id>
-    <link href="https://awesomecua.com/resources/url-389202404e2653f59838/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/k4ng/SCOPE-SFT-9B" rel="related" />
-    <link href="https://awesomecua.com/resources/url-389202404e2653f59838/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:51Z</published>
-    <updated>2026-11-09T19:57:37Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A Qwen3.5-9B computer-use checkpoint trained on desktop task demonstrations and safety response trajectories, with reported task and attack-avoidance evaluations.</summary>
-  </entry>
-  <entry>
-    <title>Windows MCP Server</title>
-    <id>https://awesomecua.com/resources/github-sbroenne-mcp-windows/</id>
-    <link href="https://awesomecua.com/resources/github-sbroenne-mcp-windows/" rel="alternate" type="text/html" />
-    <link href="https://github.com/sbroenne/mcp-windows" rel="related" />
-    <link href="https://awesomecua.com/resources/github-sbroenne-mcp-windows/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:51Z</published>
-    <updated>2026-11-09T19:57:37Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>An MCP server and CLI that let AI agents inspect Windows application controls and perform desktop actions, with screenshots, mouse, and keyboard available for visual tasks.</summary>
-  </entry>
-  <entry>
-    <title>yolov11l-ui-elements-detection</title>
-    <id>https://awesomecua.com/resources/url-5d824526d56f179d3d51/</id>
-    <link href="https://awesomecua.com/resources/url-5d824526d56f179d3d51/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/MacPaw/yolov11l-ui-elements-detection" rel="related" />
-    <link href="https://awesomecua.com/resources/url-5d824526d56f179d3d51/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:51Z</published>
-    <updated>2026-11-09T20:03:00Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A YOLO11 fine-tune that locates five kinds of interface elements in macOS application screenshots to support accessibility metadata generation.</summary>
-  </entry>
-  <entry>
-    <title>Awesome Computer Use Ecosystem</title>
-    <id>https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/</id>
-    <link href="https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/" rel="alternate" type="text/html" />
-    <link href="https://github.com/hqhq1025/awesome-computer-use-ecosystem" rel="related" />
-    <link href="https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:31Z</published>
-    <updated>2026-11-09T19:57:36Z</updated>
+    <title>Solari Cookbook</title>
+    <id>https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/</id>
+    <link href="https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/" rel="alternate" type="text/html" />
+    <link href="https://github.com/solari-sdk/solari-cookbook" rel="related" />
+    <link href="https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:41Z</published>
+    <updated>2026-11-09T21:12:07Z</updated>
     <category term="learning" label="Learning resources" />
-    <summary>A curated reading list of computer-use tools for desktop and browser agents, organized by product ecosystem and capability, with a separate project catalog.</summary>
+    <summary>Solari Cookbook collects runnable examples for cloud browsers, sandboxes, and desktops, including browser session recording and screenshot, click, and typing operations on a Linux GUI.</summary>
   </entry>
   <entry>
-    <title>Claude Blender</title>
-    <id>https://awesomecua.com/resources/github-minihellboy-claude-blender/</id>
-    <link href="https://awesomecua.com/resources/github-minihellboy-claude-blender/" rel="alternate" type="text/html" />
-    <link href="https://github.com/minihellboy/claude-blender" rel="related" />
-    <link href="https://awesomecua.com/resources/github-minihellboy-claude-blender/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:31Z</published>
-    <updated>2026-11-09T19:57:36Z</updated>
+    <title>aevra-desktop</title>
+    <id>https://awesomecua.com/resources/github-the-long-ride-aevra-desktop-use/</id>
+    <link href="https://awesomecua.com/resources/github-the-long-ride-aevra-desktop-use/" rel="alternate" type="text/html" />
+    <link href="https://github.com/the-long-ride/aevra-desktop-use" rel="related" />
+    <link href="https://awesomecua.com/resources/github-the-long-ride-aevra-desktop-use/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:27Z</published>
+    <updated>2026-11-09T21:12:05Z</updated>
     <category term="tool" label="Tools" />
-    <summary>An MCP server and Blender add-on that let an AI assistant control scenes through tools, inspect screenshots and renders, and revise work using visual feedback.</summary>
+    <summary>A desktop-control MCP server that lets agents inspect and operate application controls through accessibility APIs, with screenshots and an application allowlist.</summary>
   </entry>
   <entry>
-    <title>kev-0.6b-browser-use-ONNX</title>
-    <id>https://awesomecua.com/resources/url-295e0be27996e41738f8/</id>
-    <link href="https://awesomecua.com/resources/url-295e0be27996e41738f8/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use-ONNX" rel="related" />
-    <link href="https://awesomecua.com/resources/url-295e0be27996e41738f8/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:31Z</published>
-    <updated>2026-11-09T19:57:36Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A WebGPU-compatible ONNX browser-use model that selects a page element and operation from a goal and candidate elements, with a 4-bit export for JavaScript use.</summary>
-  </entry>
-  <entry>
-    <title>Tango</title>
-    <id>https://awesomecua.com/resources/github-yume-chan-ya-webadb/</id>
-    <link href="https://awesomecua.com/resources/github-yume-chan-ya-webadb/" rel="alternate" type="text/html" />
-    <link href="https://github.com/yume-chan/ya-webadb" rel="related" />
-    <link href="https://awesomecua.com/resources/github-yume-chan-ya-webadb/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:49:31Z</published>
-    <updated>2026-11-09T19:57:36Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A TypeScript Android Debug Bridge client that runs in Chromium-based browsers, Node.js, and Electron to provide access to Android devices.</summary>
-  </entry>
-  <entry>
-    <title>easyAppStore</title>
-    <id>https://awesomecua.com/resources/github-xxjrq-easy-app-store/</id>
-    <link href="https://awesomecua.com/resources/github-xxjrq-easy-app-store/" rel="alternate" type="text/html" />
-    <link href="https://github.com/xxjrq/easy-app-store" rel="related" />
-    <link href="https://awesomecua.com/resources/github-xxjrq-easy-app-store/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:31Z</published>
-    <updated>2026-11-09T19:57:35Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>easyAppStore is an agent skill for preparing an iOS release and completing App Store Connect submission steps through a signed-in Chromium browser.</summary>
-  </entry>
-  <entry>
-    <title>Game AI - Balatro</title>
-    <id>https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/</id>
-    <link href="https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/" rel="alternate" type="text/html" />
-    <link href="https://github.com/proj-airi/game-playing-ai-balatro" rel="related" />
-    <link href="https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:31Z</published>
-    <updated>2026-11-09T19:57:35Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>Game AI - Balatro combines detection of cards and interface controls with code for automating play in the Balatro desktop game.</summary>
-  </entry>
-  <entry>
-    <title>Hronaut for Claude Code</title>
-    <id>https://awesomecua.com/resources/github-hronaut-hronaut-claude-plugin/</id>
-    <link href="https://awesomecua.com/resources/github-hronaut-hronaut-claude-plugin/" rel="alternate" type="text/html" />
-    <link href="https://github.com/hronaut/hronaut-claude-plugin" rel="related" />
-    <link href="https://awesomecua.com/resources/github-hronaut-hronaut-claude-plugin/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:31Z</published>
-    <updated>2026-11-09T19:57:28Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>Hronaut for Claude Code is a plugin that supplies a coding agent with an MCP server and skill for using a visible browser in a separate project workspace.</summary>
-  </entry>
-  <entry>
-    <title>kev-0.6b-browser-use</title>
-    <id>https://awesomecua.com/resources/url-3c55f225a1f66a6261ac/</id>
-    <link href="https://awesomecua.com/resources/url-3c55f225a1f66a6261ac/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use" rel="related" />
-    <link href="https://awesomecua.com/resources/url-3c55f225a1f66a6261ac/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:31Z</published>
-    <updated>2026-11-09T19:57:35Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>kev-0.6b-browser-use is a 0.6B browser decision model that scores candidate page elements and chooses a click, type, or select operation from a task goal.</summary>
-  </entry>
-  <entry>
-    <title>OpenJev-Data</title>
-    <id>https://awesomecua.com/resources/url-a54a35c90681ced60cec/</id>
-    <link href="https://awesomecua.com/resources/url-a54a35c90681ced60cec/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/alanhuangya/OpenJev-Data" rel="related" />
-    <link href="https://awesomecua.com/resources/url-a54a35c90681ced60cec/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:31Z</published>
-    <updated>2026-11-09T19:57:36Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>OpenJev-Data provides labeled browser steps for training models to choose a web agent's next operation and target element, plus a fixed test set for endpoint evaluation.</summary>
-  </entry>
-  <entry>
-    <title>Programming with Pixels (PwP)</title>
-    <id>https://awesomecua.com/resources/github-programmingwithpixels-pwp/</id>
-    <link href="https://awesomecua.com/resources/github-programmingwithpixels-pwp/" rel="alternate" type="text/html" />
-    <link href="https://github.com/ProgrammingwithPixels/PwP" rel="related" />
-    <link href="https://awesomecua.com/resources/github-programmingwithpixels-pwp/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:31Z</published>
-    <updated>2026-11-09T19:57:28Z</updated>
-    <category term="framework" label="Frameworks" />
-    <summary>Programming with Pixels provides a framework and benchmark for software-engineering agents that work in IDEs through screenshots, typing, and clicks.</summary>
-  </entry>
-  <entry>
-    <title>rebrowser-patches</title>
-    <id>https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/</id>
-    <link href="https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/" rel="alternate" type="text/html" />
-    <link href="https://github.com/rebrowser/rebrowser-patches" rel="related" />
-    <link href="https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:31Z</published>
-    <updated>2026-11-09T19:57:35Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>rebrowser-patches modifies Puppeteer and Playwright to reduce browser automation signals, and provides drop-in packages for both libraries.</summary>
-  </entry>
-  <entry>
-    <title>James4Ever0/the_frozen_forest</title>
-    <id>https://awesomecua.com/resources/url-ede673f7e6f369eae600/</id>
-    <link href="https://awesomecua.com/resources/url-ede673f7e6f369eae600/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/James4Ever0/the_frozen_forest" rel="related" />
-    <link href="https://awesomecua.com/resources/url-ede673f7e6f369eae600/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:30Z</published>
-    <updated>2026-11-09T19:57:28Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>A dataset archive of screen recordings paired with keyboard and mouse events. Timestamp files align video frames with recorded input actions.</summary>
-  </entry>
-  <entry>
-    <title>ydotool</title>
-    <id>https://awesomecua.com/resources/github-reimunotmoe-ydotool/</id>
-    <link href="https://awesomecua.com/resources/github-reimunotmoe-ydotool/" rel="alternate" type="text/html" />
-    <link href="https://github.com/ReimuNotMoe/ydotool" rel="related" />
-    <link href="https://awesomecua.com/resources/github-reimunotmoe-ydotool/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:30Z</published>
-    <updated>2026-11-09T19:57:27Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>ydotool is a Linux command-line utility for sending mouse and keyboard input. It provides commands to click, move the pointer, type text and press keys.</summary>
-  </entry>
-  <entry>
-    <title>aside-telegram-bridge</title>
-    <id>https://awesomecua.com/resources/github-saiamartya-aside-telegram-bridge/</id>
-    <link href="https://awesomecua.com/resources/github-saiamartya-aside-telegram-bridge/" rel="alternate" type="text/html" />
-    <link href="https://github.com/SaiAmartya/aside-telegram-bridge" rel="related" />
-    <link href="https://awesomecua.com/resources/github-saiamartya-aside-telegram-bridge/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:23Z</published>
-    <updated>2026-11-09T19:57:27Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A Telegram bridge and phone Mini App for sending tasks to the Aside browser agent, viewing live progress and transcripts, and responding to its decisions.</summary>
-  </entry>
-  <entry>
-    <title>Google Developer Codelab: Automated UI Testing with Antigravity (Agy) CLI, BrowserMCP, Playwright, and the Browser Agent</title>
-    <id>https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/</id>
-    <link href="https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/" rel="alternate" type="text/html" />
-    <link href="https://github.com/derailed-dash/agentic-ui-testing" rel="related" />
-    <link href="https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T13:48:23Z</published>
-    <updated>2026-11-09T19:57:27Z</updated>
+    <title>awb-recipes</title>
+    <id>https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/</id>
+    <link href="https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/" rel="alternate" type="text/html" />
+    <link href="https://github.com/jeet-dhandha/awb-recipes" rel="related" />
+    <link href="https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:27Z</published>
+    <updated>2026-11-09T21:12:04Z</updated>
     <category term="learning" label="Learning resources" />
-    <summary>A hands-on codelab for creating browser-based UI tests with Antigravity CLI, BrowserMCP and a Playwright agent skill, using an included demo application.</summary>
+    <summary>A collection of dated recipes for browser agents to complete tasks on logged-in sites, recording action steps, selectors, caveats and verification status.</summary>
+  </entry>
+  <entry>
+    <title>BrowserGym-Knows</title>
+    <id>https://awesomecua.com/resources/github-farhanishmam-browsergym-knows/</id>
+    <link href="https://awesomecua.com/resources/github-farhanishmam-browsergym-knows/" rel="alternate" type="text/html" />
+    <link href="https://github.com/farhanishmam/BrowserGym-Knows" rel="related" />
+    <link href="https://awesomecua.com/resources/github-farhanishmam-browsergym-knows/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:27Z</published>
+    <updated>2026-11-09T21:11:59Z</updated>
+    <category term="benchmark" label="Benchmarks" />
+    <summary>A BrowserGym fork for evaluating agents on Google Workspace tasks performed in Chromium, with task results graded through Workspace APIs.</summary>
+  </entry>
+  <entry>
+    <title>clawtouch-hid</title>
+    <id>https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-hid/</id>
+    <link href="https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-hid/" rel="alternate" type="text/html" />
+    <link href="https://github.com/tinqiao-oss/clawtouch-hid" rel="related" />
+    <link href="https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-hid/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:27Z</published>
+    <updated>2026-11-09T21:12:05Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>CircuitPython firmware and a Python wire protocol module that let host software send keyboard and mouse actions through a Raspberry Pi Pico 2 USB HID device.</summary>
+  </entry>
+  <entry>
+    <title>computer-use</title>
+    <id>https://awesomecua.com/resources/github-leeguooooo-computer-use/</id>
+    <link href="https://awesomecua.com/resources/github-leeguooooo-computer-use/" rel="alternate" type="text/html" />
+    <link href="https://github.com/leeguooooo/computer-use" rel="related" />
+    <link href="https://awesomecua.com/resources/github-leeguooooo-computer-use/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:27Z</published>
+    <updated>2026-11-09T21:09:42Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>An archived macOS broker that lets MCP clients delegate computer-use tasks to the official Codex runtime and receive the nested agent's final response.</summary>
+  </entry>
+  <entry>
+    <title>gohook</title>
+    <id>https://awesomecua.com/resources/github-robotn-gohook/</id>
+    <link href="https://awesomecua.com/resources/github-robotn-gohook/" rel="alternate" type="text/html" />
+    <link href="https://github.com/robotn/gohook" rel="related" />
+    <link href="https://awesomecua.com/resources/github-robotn-gohook/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:27Z</published>
+    <updated>2026-11-09T21:12:05Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>A Go library for listening to keyboard and mouse events, with callback registration and an event stream that can support capture of desktop interactions.</summary>
+  </entry>
+  <entry>
+    <title>handraise-telegram</title>
+    <id>https://awesomecua.com/resources/github-sy-d-handraise-telegram/</id>
+    <link href="https://awesomecua.com/resources/github-sy-d-handraise-telegram/" rel="alternate" type="text/html" />
+    <link href="https://github.com/Sy-D/handraise-telegram" rel="related" />
+    <link href="https://awesomecua.com/resources/github-sy-d-handraise-telegram/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:27Z</published>
+    <updated>2026-11-09T21:12:05Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>A Telegram adapter for browser-agent handoffs that sends a page screenshot and approval buttons to a chat, then returns the person's decision.</summary>
+  </entry>
+  <entry>
+    <title>LangHire</title>
+    <id>https://awesomecua.com/resources/github-jaimaann-langhire/</id>
+    <link href="https://awesomecua.com/resources/github-jaimaann-langhire/" rel="alternate" type="text/html" />
+    <link href="https://github.com/jaimaann/LangHire" rel="related" />
+    <link href="https://awesomecua.com/resources/github-jaimaann-langhire/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:27Z</published>
+    <updated>2026-11-09T21:12:04Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>A desktop app whose browser agents search for jobs and complete online applications, using stored knowledge of applicant tracking systems across tasks.</summary>
+  </entry>
+  <entry>
+    <title>mano-afk</title>
+    <id>https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/</id>
+    <link href="https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/" rel="alternate" type="text/html" />
+    <link href="https://github.com/Mininglamp-AI/mano-afk" rel="related" />
+    <link href="https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T14:06:27Z</published>
+    <updated>2026-11-09T21:12:04Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>An app-building agent that deploys software and tests it through browser GUI actions, with retry loops and an included benchmark for GUI automation.</summary>
   </entry>
 </feed>

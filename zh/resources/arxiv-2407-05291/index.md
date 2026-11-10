@@ -40,7 +40,7 @@ Léo Boisvert, Megh Thakkar, Maxime Gasse, Massimo Caccia, Thibault Le Sellier D
 - 卷：37
 - 页码：5996-6051
 - DOI：10.52202/079017-0195
-- 日期来源：Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024-12-16.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - 发表证据：https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html

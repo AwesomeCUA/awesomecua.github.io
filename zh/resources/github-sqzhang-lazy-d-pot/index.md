@@ -26,7 +26,7 @@ README describes AITW test sampling and preprocessing reused from Auto-GUI, foll
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：No project-wide code license is established by the inspected README/API/tree; third-party code presence does not establish a license for this package.
+- 代码审核：A project-wide code license is unrecorded in the inspected README/API/tree.
   来源：https://raw.githubusercontent.com/sqzhang-lazy/D-PoT/HEAD/README.md
 
 ## 一手证据

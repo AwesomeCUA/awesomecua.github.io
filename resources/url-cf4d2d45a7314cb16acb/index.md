@@ -38,7 +38,7 @@ The manifest lists 58,953 HTML files; the >80k reported pairs use a different un
 - document: not recorded
 - weights: not recorded
 
-- data review: Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.
+- data review: Publisher dataset-card declaration for this release.
   Sources: https://huggingface.co/datasets/GD-ML/AndroidCode/raw/af316a6be79bbe08c4fc09ea588b5f80f177ed25/README.md
 
 ## Primary evidence

@@ -4,6 +4,11 @@ HTML 页面：https://awesomecua.com/zh/topics/memory/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/memory/index.md
 
+- [LLM Wiki for Chrome](https://awesomecua.com/zh/resources/github-nvk-llm-wiki-chrome/)
+- [Lumen browser agent](https://awesomecua.com/zh/resources/github-omxyz-lumen/)
+- [Mary (Personal AI OS)](https://awesomecua.com/zh/resources/github-rao-studios-mary/)
+- [Mem0](https://awesomecua.com/zh/resources/github-mem0ai-mem0/)
+- [MemAgent](https://awesomecua.com/zh/resources/github-dialogbased-interaction-goal-alignment/)
 - [MemGUI-Agent](https://awesomecua.com/zh/resources/github-kwai-memgui-agent/)
 - [Memlayer](https://awesomecua.com/zh/resources/github-divagr18-memlayer/)
 - [MemMachine](https://awesomecua.com/zh/resources/github-memmachine-memmachine/)
@@ -44,6 +49,7 @@ HTML 页面：https://awesomecua.com/zh/topics/memory/page/6/
 - [TENKA](https://awesomecua.com/zh/resources/github-om-khode-tenka/)
 - [TERX](https://awesomecua.com/zh/resources/github-ixchio-terx/)
 - [TuriX-CUA](https://awesomecua.com/zh/resources/github-turixai-turix-cua/)
+- [VISTA](https://awesomecua.com/zh/resources/github-joshhhhhan-vista/)
 - [Webcmd](https://awesomecua.com/zh/resources/github-agentrhq-webcmd/)
 - [WebTactix](https://awesomecua.com/zh/resources/url-40795d2c86388ae89f43/)
 - [WeChat Mac RPA](https://awesomecua.com/zh/resources/github-wq19901103wq-wechat-mac-rpa/)

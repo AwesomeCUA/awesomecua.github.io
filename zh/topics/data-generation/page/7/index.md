@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/data-generation/index.md
 
+- [Agent-Trajectories](https://awesomecua.com/zh/resources/url-61c09ceb7c78f6b5e74f/)
 - [AgentNet](https://awesomecua.com/zh/resources/url-964d70c40bfc5ca8e1ee/)
 - [AgentSynth tasks and trajectories](https://awesomecua.com/zh/resources/url-58a209f2b3b970916396/)
 - [AgentTrek](https://awesomecua.com/zh/resources/github-xlang-ai-agenttrek/)
@@ -26,12 +27,14 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/7/
 - [ConClick-Data](https://awesomecua.com/zh/resources/url-bf416a816f74718f94dd/)
 - [cua-ai/cua-s1-forms](https://awesomecua.com/zh/resources/url-62d912811f786f787ae4/)
 - [CUA-Gym](https://awesomecua.com/zh/resources/url-6aa1aa58a7a888395189/)
+- [DeskForge-1M](https://awesomecua.com/zh/resources/url-e555cae98afb22876f3b/)
 - [Dreamer V1 Data](https://awesomecua.com/zh/resources/url-eadc6cba9ea46c38dd1d/)
 - [DroidCall data](https://awesomecua.com/zh/resources/url-ae8f5208eea9e7f1f606/)
 - [Fanbin/waa_steve_trajectories](https://awesomecua.com/zh/resources/url-2bab4b78c81cde1d5ecb/)
 - [FiftyOne GUI Grounding Training Set](https://awesomecua.com/zh/resources/url-f0eac3ad813245645492/)
 - [FiftyOne GUI Grounding Training Set with Synthetic Augmentation](https://awesomecua.com/zh/resources/url-c10fd1906c2e7ee289ec/)
 - [FingerTip-20K](https://awesomecua.com/zh/resources/github-tsinghua-fib-lab-fingertip-20k/)
+- [gameworld-qwen38-flash-next-trajectory](https://awesomecua.com/zh/resources/url-e3c3e5a5a00f024ebac5/)
 - [GroundCUA](https://awesomecua.com/zh/resources/github-servicenow-groundcua/)
 - [GroundCUA dataset](https://awesomecua.com/zh/resources/url-f6c88faa4392848f81b6/)
 - [GroundGUI RL Dataset](https://awesomecua.com/zh/resources/url-4e71dc456c4112eed727/)
@@ -61,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/7/
 - [InSTA 150k Tasks (v3)](https://awesomecua.com/zh/resources/url-a80c7330dbfd4f897693/)
 - [James4Ever0/the_frozen_forest](https://awesomecua.com/zh/resources/url-ede673f7e6f369eae600/)
 - [Jedi](https://awesomecua.com/zh/resources/url-e062cf1445eaee0f3ade/)
-- [LGWM data and RSWT-Bench](https://awesomecua.com/zh/resources/url-fde41ce8459b7d3f647f/)
-- [lumos_unified_plan_iterative](https://awesomecua.com/zh/resources/url-543aff764901777e6ad5/)
-- [lumos_web_agent_plan_iterative](https://awesomecua.com/zh/resources/url-0772193ae2967c407d22/)

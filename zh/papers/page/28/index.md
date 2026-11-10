@@ -879,7 +879,7 @@ Zhuosheng Zhang, Aston Zhang
 - 出版方：Association for Computational Linguistics
 - 页码：3132-3149
 - DOI：10.18653/v1/2024.findings-acl.186
-- 日期来源：Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024/8.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2024.findings-acl.186/
@@ -1322,7 +1322,7 @@ Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 - 卷：36
 - 页码：59708-59728
 - DOI：10.52202/075280-2609
-- 日期来源：Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2023-12-15.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html
@@ -2437,7 +2437,7 @@ Sagar Gubbi Venkatesh, Partha Talukdar, Srini Narayanan
 - 出版方：Association for Computational Linguistics
 - 页码：1390-1399
 - DOI：10.18653/v1/2024.findings-naacl.89
-- 日期来源：Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024/6.
 - 版本对应依据：Same work under a revised title: the same three authors in the same order and the same specific contribution in the complete publisher abstract (UGIF-DataSet with 4,184 smartphone tasks across 8 languages, and end-to-end completion falling from 48% for English to 32% for other languages) were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title is 'UGIF-DataSet: A New Dataset for Cross-lingual, Cross-modal Sequential actions on the UI', while the retained arXiv v2 title is 'UGIF: UI Grounded Instruction Following'.
 - 发表证据：https://aclanthology.org/2024.findings-naacl.89/
@@ -3083,7 +3083,7 @@ Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhapari
 - 日期来源：Explicit publisher metadata: 2022/06/28; precision=day.
 - 会议日期：17--23 Jul 2022
 - 版本对应依据：Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- 来源备注：The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- 来源备注：The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately as an event date. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - 发表证据：https://proceedings.mlr.press/v162/humphreys22a.html, https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf
 
 ### arXiv 版本记录

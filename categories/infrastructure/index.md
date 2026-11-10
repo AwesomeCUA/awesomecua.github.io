@@ -2,40 +2,40 @@
 
 Infrastructure covers the browsers, sandboxes, virtual machines, emulators and input-automation libraries that computer-use agents run inside or act through.
 
-> 101 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
+> 114 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ## How to choose
 
 | Infrastructure resource | Platform | License | Mentions |
 | --- | --- | --- | --- |
-| [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 10 |
+| [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 12 |
 | [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) | Desktop | — | 8 |
 | [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | Mobile | [Apache-2.0 (code)](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 7 |
 | [E2B Desktop](https://awesomecua.com/resources/github-e2b-dev-desktop/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE) | 6 |
-| [Steel Browser](https://awesomecua.com/resources/github-steel-dev-steel-browser/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE) | 4 |
-| [E2B](https://awesomecua.com/resources/github-e2b-dev-e2b/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE) | 3 |
+| [Lightpanda Browser](https://awesomecua.com/resources/github-lightpanda-io-browser/) | Web · Desktop | [AGPL-3.0 (code)](https://raw.githubusercontent.com/lightpanda-io/browser/HEAD/LICENSE) | 4 |
+| [Nut.js](https://awesomecua.com/resources/github-nut-tree-nut-js/) | Desktop | — | 4 |
 
 ## Questions
 
 ### Which infrastructure resources are mentioned most in the catalog?
 
-[Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) (10 records), [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) (8 records) and [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) (7 records) are mentioned in the reviewed sources of the most other catalog records.
+[Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) (12 records), [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) (8 records) and [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) (7 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these infrastructure resources cover?
 
-Of 101 reviewed infrastructure resources, 66 are tagged desktop, 51 web, 18 mobile and 8 cross-platform; 1 has no platform recorded. An entry tagged with several platforms counts under each.
+Of 114 reviewed infrastructure resources, 76 are tagged desktop, 60 web, 20 mobile and 11 cross-platform; 2 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which infrastructure resources come with a research paper?
 
-7 of 101 link the arXiv paper that introduces or documents them, for example [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/), [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/) and [OpenMobile-2 extended Android AVDs](https://awesomecua.com/resources/url-f039da43799772645c92/).
+11 of 114 link the arXiv paper that introduces or documents them, for example [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/), [ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/) and [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/).
 
 ### Which licenses do infrastructure resources declare?
 
-The most common declared licenses are MIT (34), Apache-2.0 (27) and AGPL-3.0 (4). 34 of 101 have no declared license in their record.
+The most common declared licenses are MIT (40), Apache-2.0 (30) and AGPL-3.0 (4). 38 of 114 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -168,70 +168,6 @@ Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driv
 
 ---
 
-## Steel Browser
-
-Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
-
-- Catalog URL: https://awesomecua.com/resources/github-steel-dev-steel-browser/
-- Original source: https://github.com/steel-dev/steel-browser
-- Kind: infrastructure
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: sandbox, web-navigation
-- Evidence checked: 2026-10-16T06:36:04Z
-- ID: github:steel-dev/steel-browser
-
-- Record JSON: https://awesomecua.com/resources/github-steel-dev-steel-browser/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 668949f121cb5a8ac262a8d3222a31eaee6692bfc0de9b86e60ae04f885ccc9b)
-- https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
-
----
-
-## E2B
-
-Cloud sandbox infrastructure for agents, with a Desktop SDK that exposes screenshots, mouse and keyboard control, application launch, and streaming.
-
-- Catalog URL: https://awesomecua.com/resources/github-e2b-dev-e2b/
-- Original source: https://github.com/e2b-dev/E2B
-- Kind: infrastructure
-- Review: curated
-- Scope: core
-- Environments: desktop
-- Topics: sandbox, automation, tool-integration
-- Evidence checked: 2026-11-09T05:05:17Z
-- ID: github:e2b-dev/e2b
-
-### Limitations
-
-The README provides JavaScript and Python SDK examples. Creating a sandbox requires an E2B API key; the README also links to self-hosting guidance.
-
-- Record JSON: https://awesomecua.com/resources/github-e2b-dev-e2b/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/README.md (retrieved 2026-11-09T05:05:17Z; SHA-256 5951729113017efbe02952b197a3ad61d0014cfaba3e6b1aad37a25a5b97b0c2)
-- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE (retrieved 2026-11-09T05:07:33Z; SHA-256 b4ef1bf811cb4095229fb86b574199e467c78f0ac4078cf8be62189e1fbd0818)
-
----
-
 ## Lightpanda Browser
 
 A headless browser for AI agents and automation, with released Linux and macOS binaries and interfaces for browser control and scripted tasks.
@@ -295,6 +231,134 @@ Desktop automation library for keyboard, mouse, and screen interaction.
 
 ---
 
+## Steel Browser
+
+Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
+
+- Catalog URL: https://awesomecua.com/resources/github-steel-dev-steel-browser/
+- Original source: https://github.com/steel-dev/steel-browser
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: sandbox, web-navigation
+- Evidence checked: 2026-10-16T06:36:04Z
+- ID: github:steel-dev/steel-browser
+
+- Record JSON: https://awesomecua.com/resources/github-steel-dev-steel-browser/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 668949f121cb5a8ac262a8d3222a31eaee6692bfc0de9b86e60ae04f885ccc9b)
+- https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## Appium
+
+Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.
+
+- Catalog URL: https://awesomecua.com/resources/github-appium-appium/
+- Original source: https://github.com/appium/appium
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: android, ios
+- Topics: automation
+- Evidence checked: 2026-10-16T06:36:04Z
+- ID: github:appium/appium
+
+- Record JSON: https://awesomecua.com/resources/github-appium-appium/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/appium/appium/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 ecd5b8033cbc17a2ce5aebf1b35260b77c4906aea7c549a0b86e5d55b9ebe135)
+- https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 5cb791a45cafc4bdaef57f3ba49fb7691a98c756e8148467f9e241295728490f)
+
+---
+
+## E2B
+
+Cloud sandbox infrastructure for agents, with a Desktop SDK that exposes screenshots, mouse and keyboard control, application launch, and streaming.
+
+- Catalog URL: https://awesomecua.com/resources/github-e2b-dev-e2b/
+- Original source: https://github.com/e2b-dev/E2B
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: sandbox, automation, tool-integration
+- Evidence checked: 2026-11-09T05:05:17Z
+- ID: github:e2b-dev/e2b
+
+### Limitations
+
+The README provides JavaScript and Python SDK examples. Creating a sandbox requires an E2B API key; the README also links to self-hosting guidance.
+
+- Record JSON: https://awesomecua.com/resources/github-e2b-dev-e2b/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/README.md (retrieved 2026-11-09T05:05:17Z; SHA-256 5951729113017efbe02952b197a3ad61d0014cfaba3e6b1aad37a25a5b97b0c2)
+- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE (retrieved 2026-11-09T05:07:33Z; SHA-256 b4ef1bf811cb4095229fb86b574199e467c78f0ac4078cf8be62189e1fbd0818)
+
+---
+
+## Obscura
+
+Obscura is a Rust headless browser for agent automation. It runs JavaScript, exposes the Chrome DevTools Protocol and supports screenshots and browser automation tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-h4ckf0r0day-obscura/
+- Original source: https://github.com/h4ckf0r0day/obscura
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web, desktop, linux, macos, windows
+- Topics: automation, web-navigation, sandbox
+- Evidence checked: 2026-11-09T05:05:09Z
+- ID: github:h4ckf0r0day/obscura
+
+### Limitations
+
+The repository provides source code and release binaries for Linux, macOS and Windows. The README declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-h4ckf0r0day-obscura/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/README.md (retrieved 2026-11-09T05:05:09Z; SHA-256 6325697c2012d2876f07c2bee8feea463d0f303ad61c98bcc256dc771d7748c7)
+- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE (retrieved 2026-11-09T05:07:28Z; SHA-256 50e6751797c50dedd75ef1b8a0d9e42f5f8472e9fbce91f34718e9f97b0c780a)
+
+---
+
 ## Universe legacy GUI interaction client
 
 An archived Gym-compatible client that exposes screen observations and keyboard/mouse actions over VNC for remote application and browser environments, including the historical World of Bits integration.
@@ -331,6 +395,36 @@ GitHub marks this repository archived, and the README declares the library depre
 - https://api.github.com/repos/openai/universe (retrieved 2026-10-17T11:18:15Z; SHA-256 94a7a4d383f754b96601bc0486b90e62760b8bfc35abc607077c8eb6e7934b2d)
 - https://api.github.com/repos/openai/universe/git/trees/master?recursive=1 (retrieved 2026-10-17T11:19:47Z; SHA-256 1808d7524506d1386dad507de8a8fa0f89080443a970ae032cea4c204699d113)
 - https://raw.githubusercontent.com/openai/universe/HEAD/LICENSE (retrieved 2026-10-17T11:23:05Z; SHA-256 ecd4a4aacc4512a31bbdc3252ffc014d37ac7ef56ed34bc2a5d0f6337df6daa5)
+
+---
+
+## AgentDesk
+
+Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
+
+- Catalog URL: https://awesomecua.com/resources/github-agentsea-agentdesk/
+- Original source: https://github.com/agentsea/agentdesk
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: sandbox
+- Evidence checked: 2026-10-16T06:40:53Z
+- ID: github:agentsea/agentdesk
+
+- Record JSON: https://awesomecua.com/resources/github-agentsea-agentdesk/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/README.md (retrieved 2026-10-16T06:40:53Z; SHA-256 3ee6212ef10c39943546d20a3beeed412262f4a8a910120becb5409626569b0f)
+- https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE (retrieved 2026-10-16T06:42:07Z; SHA-256 40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499)
 
 ---
 
@@ -535,37 +629,107 @@ The README names Linux, macOS, and Windows support and describes CLI, CDP, WebDr
 
 ---
 
-## Obscura
+## Pilion Browser
 
-Obscura is a Rust headless browser for agent automation. It runs JavaScript, exposes the Chrome DevTools Protocol and supports screenshots and browser automation tools.
+Pilion Browser connects agents to a user's desktop browser tabs through MCP. It supports browser actions, approval before actions, human takeover, recorded workflows, and session resume.
 
-- Catalog URL: https://awesomecua.com/resources/github-h4ckf0r0day-obscura/
-- Original source: https://github.com/h4ckf0r0day/obscura
+- Catalog URL: https://awesomecua.com/resources/github-echovic-pilion-browser/
+- Original source: https://github.com/echoVic/pilion-browser
 - Kind: infrastructure
 - Review: curated
-- Scope: adjacent
-- Environments: cross-platform, web, desktop, linux, macos, windows
-- Topics: automation, web-navigation, sandbox
-- Evidence checked: 2026-11-09T05:05:09Z
-- ID: github:h4ckf0r0day/obscura
+- Scope: core
+- Environments: desktop, macos, windows, linux, web, cross-platform
+- Topics: web-navigation, human-in-the-loop, recording, workflow
+- Evidence checked: 2026-11-09T19:56:44Z
+- ID: github:echovic/pilion-browser
 
 ### Limitations
 
-The repository provides source code and release binaries for Linux, macOS and Windows. The README declares an Apache-2.0 license.
+The README names macOS, Windows, and Linux releases and states an MIT license. It describes Agent Client Protocol connections and an Electron desktop application.
 
-- Record JSON: https://awesomecua.com/resources/github-h4ckf0r0day-obscura/record.json
+- Record JSON: https://awesomecua.com/resources/github-echovic-pilion-browser/record.json
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/README.md (retrieved 2026-11-09T05:05:09Z; SHA-256 6325697c2012d2876f07c2bee8feea463d0f303ad61c98bcc256dc771d7748c7)
-- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE (retrieved 2026-11-09T05:07:28Z; SHA-256 50e6751797c50dedd75ef1b8a0d9e42f5f8472e9fbce91f34718e9f97b0c780a)
+- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/README.md (retrieved 2026-11-09T19:56:44Z; SHA-256 2c9451d922baab9a1fd2e5b2325ddcf3263d96a3580b86577cdff91dd1b38e2e)
+- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE (retrieved 2026-11-09T14:20:46Z; SHA-256 26ae051def8e601adcec978a905c9f6eb93b0af658344d24af20872f4c7ef71e)
+
+---
+
+## Selenium
+
+Browser automation project implementing W3C WebDriver, with Java, Python, Ruby, .NET and JavaScript bindings, Selenium Grid for spreading sessions across machines, and the Rust-based Selenium Manager for driver setup.
+
+- Catalog URL: https://awesomecua.com/resources/github-seleniumhq-selenium/
+- Original source: https://github.com/SeleniumHQ/selenium
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation
+- Evidence checked: 2026-10-20T07:47:28Z
+- ID: github:seleniumhq/selenium
+
+### Limitations
+
+The repository README addresses contributors and points users to the documentation on selenium.dev, the project website. The inspected tree holds the WebDriver bindings (java, py, rb, dotnet, javascript), the Java Grid server, the Internet Explorer driver (cpp/iedriver) and Selenium Manager (rust), a command-line tool that locates or downloads browsers and drivers. Selenium IDE, the record-and-playback tool also presented on selenium.dev, lives in the separate SeleniumHQ/selenium-ide repository. Agents use Selenium as an execution layer for browser actions; it contains no agent or model of its own.
+
+- Record JSON: https://awesomecua.com/resources/github-seleniumhq-selenium/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/README.md (retrieved 2026-10-20T07:47:28Z; SHA-256 ef1a1505315cb887dcf485f657947cbab59c11cdd8c63b32ffc54af413ac6f31)
+- https://api.github.com/repos/SeleniumHQ/selenium/git/trees/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c?recursive=1 (retrieved 2026-10-20T05:02:04Z; SHA-256 223db50df54239caa7d0413212e9b32debc17f7c872c93217b76749c0414770b)
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c/rust/README.md (retrieved 2026-10-20T05:02:47Z; SHA-256 38588ba31b43bb9e9df672451edaa4a35ace2ffe826367b28204747744a9e3ec)
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE (retrieved 2026-10-20T05:02:59Z; SHA-256 307012b4481479a56605420e81db14686a0274d246d06d224c363ee09297d330)
+
+---
+
+## @sparticuz/chromium
+
+@sparticuz/chromium supplies a headless Linux Chromium build and launch settings for serverless browser automation with Puppeteer or Playwright.
+
+- Catalog URL: https://awesomecua.com/resources/github-sparticuz-chromium/
+- Original source: https://github.com/Sparticuz/chromium
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop, linux
+- Topics: automation, sandbox
+- Evidence checked: 2026-11-09T21:10:51Z
+- ID: github:sparticuz/chromium
+
+### Limitations
+
+The README describes Brotli-compressed browser files and a smaller package that requires separately hosted files. It states that the supplied binary is compiled for Linux.
+
+- Record JSON: https://awesomecua.com/resources/github-sparticuz-chromium/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Sparticuz/chromium/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Sparticuz/chromium/HEAD/README.md (retrieved 2026-11-09T21:10:51Z; SHA-256 190b862d6dcbe1b1236b9c8bee37b9361dcbdde175e919be3856d12bd6de5845)
+- https://raw.githubusercontent.com/Sparticuz/chromium/HEAD/LICENSE (retrieved 2026-11-09T21:12:29Z; SHA-256 3569040c1b042820ece7d85760a7f12b4ce8e66fa5b10f44252a923a46af5e2b)
 
 ---
 
@@ -633,33 +797,37 @@ The README describes X11 and native Wayland backends and provides system package
 
 ---
 
-## AgentDesk
+## agentd
 
-Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
+AgentD exposes a desktop session through an HTTP API for screenshots, mouse and keyboard actions, browser opening, and session recording.
 
-- Catalog URL: https://awesomecua.com/resources/github-agentsea-agentdesk/
-- Original source: https://github.com/agentsea/agentdesk
+- Catalog URL: https://awesomecua.com/resources/github-agentsea-agentd/
+- Original source: https://github.com/agentsea/agentd
 - Kind: infrastructure
 - Review: curated
 - Scope: core
-- Environments: desktop
-- Topics: sandbox
-- Evidence checked: 2026-10-16T06:40:53Z
-- ID: github:agentsea/agentdesk
+- Environments: desktop, linux, web
+- Topics: sandbox, recording, automation
+- Evidence checked: 2026-11-09T21:10:51Z
+- ID: github:agentsea/agentd
 
-- Record JSON: https://awesomecua.com/resources/github-agentsea-agentdesk/record.json
+### Limitations
+
+The README describes a Qemu image, cloud VM images, and installation on an Ubuntu VM. The repository lists daemon code, documentation, and tests.
+
+- Record JSON: https://awesomecua.com/resources/github-agentsea-agentd/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/agentsea/agentd/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/README.md (retrieved 2026-10-16T06:40:53Z; SHA-256 3ee6212ef10c39943546d20a3beeed412262f4a8a910120becb5409626569b0f)
-- https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE (retrieved 2026-10-16T06:42:07Z; SHA-256 40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499)
+- https://raw.githubusercontent.com/agentsea/agentd/HEAD/README.md (retrieved 2026-11-09T21:10:51Z; SHA-256 1adc7e0c910e9103ed14bc1355397d931dff2d515d2f524fa5dafa95eec5b3af)
+- https://raw.githubusercontent.com/agentsea/agentd/HEAD/LICENSE (retrieved 2026-11-09T21:12:31Z; SHA-256 40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499)
 
 ---
 
@@ -730,33 +898,37 @@ The repository lists Android application code and scripts for preparing map, rou
 
 ---
 
-## Appium
+## Anvil Engine
 
-Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.
+A self-hosted Chrome service that exposes browser sessions, page actions, screenshots and recordings through REST, CDP, a TypeScript SDK and an MCP server.
 
-- Catalog URL: https://awesomecua.com/resources/github-appium-appium/
-- Original source: https://github.com/appium/appium
+- Catalog URL: https://awesomecua.com/resources/github-awictor-anvil-engine/
+- Original source: https://github.com/awictor/anvil-engine
 - Kind: infrastructure
 - Review: curated
-- Scope: adjacent
-- Environments: android, ios
-- Topics: automation
-- Evidence checked: 2026-10-16T06:36:04Z
-- ID: github:appium/appium
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, sandbox
+- Evidence checked: 2026-11-09T21:09:29Z
+- ID: github:awictor/anvil-engine
 
-- Record JSON: https://awesomecua.com/resources/github-appium-appium/record.json
+### Limitations
+
+The repository contains server, SDK and MCP code. It requires Node.js and Chrome or Chromium, and its README states an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-awictor-anvil-engine/record.json
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/awictor/anvil-engine/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/appium/appium/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 ecd5b8033cbc17a2ce5aebf1b35260b77c4906aea7c549a0b86e5d55b9ebe135)
-- https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 5cb791a45cafc4bdaef57f3ba49fb7691a98c756e8148467f9e241295728490f)
+- https://raw.githubusercontent.com/awictor/anvil-engine/HEAD/README.md (retrieved 2026-11-09T21:09:29Z; SHA-256 be3f3fcda158e72de7b7fd910d4840670b4f0851458dd1a9fbfb6ba582e3967b)
+- https://raw.githubusercontent.com/awictor/anvil-engine/HEAD/LICENSE (retrieved 2026-11-09T21:11:45Z; SHA-256 2a5af5134df8c3c105a5e17896f6e9d79bd5586ea773948bab2b77276655858a)
 
 ---
 
@@ -859,6 +1031,40 @@ The README describes a Jetpack Compose build, JSON assets and event logs in the 
 
 ---
 
+## ASIL Benchmark Images
+
+Prebuilt Singularity/Apptainer runtime images for reproducing the ASIL agent benchmark, supplied with versioned manifests and checksums.
+
+- Catalog URL: https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/
+- Original source: https://huggingface.co/datasets/sharryXR/asil-benchmark-images
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: sandbox, evaluation
+- Evidence checked: 2026-11-09T21:09:15Z
+- ID: url:6545629632b5e3e3a3d6
+
+### Limitations
+
+The release contains SIF images, two image manifests, and SHA256SUMS. The card declares an Apache-2.0 license and links the ASIL code release.
+
+- Record JSON: https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/sharryXR/asil-benchmark-images
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/sharryXR/asil-benchmark-images (retrieved 2026-11-09T21:09:15Z; SHA-256 698c7b91ef12312c22ffd8d577712745c15da88290478963e55fa6dcaef1de1c)
+- https://huggingface.co/api/datasets/sharryXR/asil-benchmark-images (retrieved 2026-11-09T21:09:15Z; SHA-256 698c7b91ef12312c22ffd8d577712745c15da88290478963e55fa6dcaef1de1c)
+
+---
+
 ## Browser Use macOS Harness
 
 Official Browser Use harness for provisioning and driving isolated macOS virtual machines and desktop sessions.
@@ -956,6 +1162,40 @@ The source lists Kubernetes, Podman and a native runtime. It describes sandbox l
 
 ---
 
+## ChromiumFish
+
+ChromiumFish packages a modified Chromium browser for Playwright and external agents. It also includes an agent that reads pages and performs clicks, typing, and navigation.
+
+- Catalog URL: https://awesomecua.com/resources/github-arman-bd-chromiumfish/
+- Original source: https://github.com/arman-bd/chromiumfish
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web, desktop, macos, linux
+- Topics: web-navigation, automation, tool-integration, safety-security
+- Evidence checked: 2026-11-09T21:10:52Z
+- ID: github:arman-bd/chromiumfish
+
+### Limitations
+
+The repository describes browser patches, Python and JavaScript SDKs, release binaries, and an MCP server. The built-in agent requires an OpenAI-compatible model; prebuilt browsers are named for macOS and Linux.
+
+- Record JSON: https://awesomecua.com/resources/github-arman-bd-chromiumfish/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/arman-bd/chromiumfish/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://github.com/arman-bd/chromiumfish (retrieved 2026-11-09T21:10:52Z; SHA-256 c7297ed73ded3095b6061b00503222ef037721a870f049f09c9de4b203531811)
+- https://raw.githubusercontent.com/arman-bd/chromiumfish/HEAD/LICENSE (retrieved 2026-11-09T21:12:29Z; SHA-256 19a6419f4b52cf90c6da431b130f9d7aacbcf2b2ca2598aaa412d299efd7bd49)
+
+---
+
 ## CLYRedNote
 
 An Android Compose clone app for GUI-agent testing, with shopping, messaging, search, and content screens backed by seeded fictional data.
@@ -1048,6 +1288,40 @@ Dockur Windows runs full Windows desktop environments inside Docker/KVM containe
 ### Primary evidence
 
 - https://raw.githubusercontent.com/dockur/windows/HEAD/readme.md (retrieved 2026-11-04T13:12:15Z; SHA-256 29875eaf1d84f70a016f4dee7473159d772569133a38f11dd53a462d91722bd0)
+
+---
+
+## GBOX
+
+An environment service with CLI and MCP access that lets agents operate Android apps and desktop applications, including browsers and terminals.
+
+- Catalog URL: https://awesomecua.com/resources/github-babelcloud-gbox/
+- Original source: https://github.com/babelcloud/gbox
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: cross-platform, android, desktop, macos, linux, windows, web
+- Topics: sandbox, mobile-navigation, automation, tool-integration
+- Evidence checked: 2026-11-09T21:09:34Z
+- ID: github:babelcloud/gbox
+
+### Limitations
+
+The README documents CLI installation on macOS, Linux and Windows, plus Android device connection and MCP configuration. It names ADB and Appium among setup dependencies.
+
+- Record JSON: https://awesomecua.com/resources/github-babelcloud-gbox/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/babelcloud/gbox/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/babelcloud/gbox/HEAD/README.md (retrieved 2026-11-09T21:09:34Z; SHA-256 4db3520a552b72ed0d57e1be6ce6f7b2900a10f0ddf5ed637836c768c5118927)
+- https://raw.githubusercontent.com/babelcloud/gbox/HEAD/LICENSE (retrieved 2026-11-09T21:11:45Z; SHA-256 c82358a2fdd54ed8e4bbd71e5ca9f51da62e97930cfc02b2f5ece615c478de4f)
 
 ---
 
@@ -1153,6 +1427,40 @@ The repository lists environment, data-engine, evaluation and training code. Its
 
 ---
 
+## GUI-Docker-Env
+
+GUI-Docker-Env hosts OSWorld Ubuntu desktop simulators in Docker, with configurable VM images, authentication, concurrency limits and status endpoints.
+
+- Catalog URL: https://awesomecua.com/resources/github-computer-use-agents-gui-docker-env/
+- Original source: https://github.com/Computer-use-agents/GUI-Docker-Env
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: sandbox, evaluation
+- Evidence checked: 2026-11-09T21:08:36Z
+- ID: github:computer-use-agents/gui-docker-env
+
+### Limitations
+
+The guide requires a QCOW2 Ubuntu image and a Docker runtime image. It includes an environment test using DesktopEnv and describes a dashboard for simulator status.
+
+- Record JSON: https://awesomecua.com/resources/github-computer-use-agents-gui-docker-env/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Computer-use-agents/GUI-Docker-Env/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Computer-use-agents/GUI-Docker-Env/HEAD/README.md (retrieved 2026-11-09T21:08:36Z; SHA-256 e8c592cd25419dd3283e2a36e211afecb3a894cad6ee88f48e55bcf8cf7dd88a)
+- https://raw.githubusercontent.com/Computer-use-agents/GUI-Docker-Env/HEAD/LICENSE (retrieved 2026-11-09T21:11:06Z; SHA-256 a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec)
+
+---
+
 ## ibara
 
 ibara connects MCP-enabled agents to spare Omarchy computers for desktop and browser tasks. A console displays screens and tasks and lets a person take control.
@@ -1222,6 +1530,39 @@ GitHub reports this repository as a fork of KDE/kalgebra. The ScienceBoard READM
 - https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/e3f962b95447d3b76244edbc2048a8c98e2022b7/src/control (retrieved 2026-10-18T12:14:45Z; SHA-256 c5d41b60d9578a98c3bcd3d53bb9786bc02fd35b35c2a10c569fb8cdcdcd7622)
 - https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/e3f962b95447d3b76244edbc2048a8c98e2022b7/src/main.cpp (retrieved 2026-10-18T12:14:45Z; SHA-256 701ca41ac449ab2f88a06f7812ce382e88ea814037c99ddc82ad78e3ba03985a)
 - https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/HEAD/COPYING (retrieved 2026-10-18T12:15:13Z; SHA-256 8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643)
+
+---
+
+## KC Browser
+
+KC Browser is a Chromium-based browser binary for automated web sessions. It generates seeded browser identities and can be launched through Playwright or Puppeteer.
+
+- Catalog URL: https://awesomecua.com/resources/github-kuichi-x-kc-browser/
+- Original source: https://github.com/KuiChi-x/kc-browser
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop, windows, linux
+- Topics: web-navigation, automation, robustness
+- Evidence checked: 2026-11-09T21:10:44Z
+- ID: github:kuichi-x/kc-browser
+
+### Limitations
+
+The README links prebuilt Windows and Linux binaries and provides Python Playwright and Node Puppeteer examples. The listed repository files contain documentation; the browser binaries are linked as releases.
+
+- Record JSON: https://awesomecua.com/resources/github-kuichi-x-kc-browser/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/KuiChi-x/kc-browser/HEAD/README.md (retrieved 2026-11-09T21:10:44Z; SHA-256 e5a81a5d72f02ed2fbd03d1c657e86240b7e9866675f4ed919f252acd2bcc6bd)
 
 ---
 
@@ -1325,6 +1666,40 @@ The README describes Kotlin and Jetpack Compose source, local JSON assets, and r
 
 ---
 
+## MyPCBench VM images
+
+MyPCBench VM images provides disk images for evaluating computer-use agents on seeded web apps, alongside a task suite with grading rubrics.
+
+- Catalog URL: https://awesomecua.com/resources/url-01b4f010bda4dc4a5731/
+- Original source: https://huggingface.co/datasets/ljang0/mypcbench-qemu-baseline
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: sandbox, evaluation
+- Evidence checked: 2026-11-09T21:08:39Z
+- ID: url:01b4f010bda4dc4a5731
+
+### Limitations
+
+The card identifies michael_scott.qcow2 as the current image and michael_scott_round78e.qcow2 as the archived paper baseline. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-01b4f010bda4dc4a5731/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/ljang0/mypcbench-qemu-baseline
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/ljang0/mypcbench-qemu-baseline (retrieved 2026-11-09T21:08:39Z; SHA-256 83caba8f162fd353c4bbf219e9e8c4f9099aba9bdd4854062f07ffccdfed6da5)
+- https://huggingface.co/api/datasets/ljang0/mypcbench-qemu-baseline (retrieved 2026-11-09T21:08:39Z; SHA-256 83caba8f162fd353c4bbf219e9e8c4f9099aba9bdd4854062f07ffccdfed6da5)
+
+---
+
 ## Open Computer
 
 Open Computer gives agents an isolated Debian desktop with a browser and native app controls. People can watch and assist through a live interface.
@@ -1375,7 +1750,7 @@ Seven preconfigured Pixel 6 emulator images for Android API 33 (arm64) with an A
 
 ### Limitations
 
-The Hub dataset repository at revision 4d2be380 has no card and no license declaration. It lists 143 files, about 130 GB by listed sizes: seven AVD directories (MineAndroid plus auto, general-user, manual, senior, student and travel variants), their .ini pointers and install_avd.sh. Every config.ini targets android-33 with arm64-v8a on a Pixel 6 profile and Play Store disabled. The script requires an Apple Silicon Mac, installs the android-33 Google APIs arm64-v8a system image through sdkmanager, and warns that -wipe-data erases the installed apps. The variants' app contents remain undocumented; the images remain uninspected. The OpenMobile2-Code README links this repository as 'Extended Android AVDs' in its release list; that repository's Apache-2.0 license does not cover these images or the Android system image.
+The Hub dataset repository at revision 4d2be380 has no card and no license declaration. It lists 143 files, about 130 GB by listed sizes: seven AVD directories (MineAndroid plus auto, general-user, manual, senior, student and travel variants), their .ini pointers and install_avd.sh. Every config.ini targets android-33 with arm64-v8a on a Pixel 6 profile and Play Store disabled. The script requires an Apple Silicon Mac, installs the android-33 Google APIs arm64-v8a system image through sdkmanager, and warns that -wipe-data erases the installed apps. The variants' app contents remain undocumented; the images remain uninspected. The OpenMobile2-Code README links this repository as 'Extended Android AVDs' in its release list.
 
 - Record JSON: https://awesomecua.com/resources/url-f039da43799772645c92/record.json
 
@@ -1436,37 +1811,70 @@ Adjacent: environment images that the curated OSWorld benchmark boots; this asse
 
 ---
 
-## Pilion Browser
+## redroid
 
-Pilion Browser connects agents to a user's desktop browser tabs through MCP. It supports browser actions, approval before actions, human takeover, recorded workflows, and session resume.
+redroid provides containerized Android instances on Linux hosts, with ADB connectivity and configurable displays for mobile automation environments.
 
-- Catalog URL: https://awesomecua.com/resources/github-echovic-pilion-browser/
-- Original source: https://github.com/echoVic/pilion-browser
+- Catalog URL: https://awesomecua.com/resources/github-remote-android-redroid-doc/
+- Original source: https://github.com/remote-android/redroid-doc
 - Kind: infrastructure
 - Review: curated
-- Scope: core
-- Environments: desktop, macos, windows, linux, web, cross-platform
-- Topics: web-navigation, human-in-the-loop, recording, workflow
-- Evidence checked: 2026-11-09T19:56:44Z
-- ID: github:echovic/pilion-browser
+- Scope: adjacent
+- Environments: cross-platform, android, desktop, linux
+- Topics: sandbox, automation, mobile-navigation
+- Evidence checked: 2026-11-09T21:09:40Z
+- ID: github:remote-android/redroid-doc
 
 ### Limitations
 
-The README names macOS, Windows, and Linux releases and states an MIT license. It describes Agent Client Protocol connections and an Electron desktop application.
+The source lists Android image versions and Docker startup instructions. It describes arm64 and amd64 host support.
 
-- Record JSON: https://awesomecua.com/resources/github-echovic-pilion-browser/record.json
+- Record JSON: https://awesomecua.com/resources/github-remote-android-redroid-doc/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE
+- code: not recorded
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/README.md (retrieved 2026-11-09T19:56:44Z; SHA-256 2c9451d922baab9a1fd2e5b2325ddcf3263d96a3580b86577cdff91dd1b38e2e)
-- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE (retrieved 2026-11-09T14:20:46Z; SHA-256 26ae051def8e601adcec978a905c9f6eb93b0af658344d24af20872f4c7ef71e)
+- https://raw.githubusercontent.com/remote-android/redroid-doc/HEAD/README.md (retrieved 2026-11-09T21:09:40Z; SHA-256 075716ff0391dcc6bc128b9052ba812328bfeb7f79339ead0aa51d326622dc21)
+
+---
+
+## Sandbar
+
+A self-hosted Linux desktop container for computer-use agents, with a browser-streamed workspace, human takeover, and optional API and MCP control.
+
+- Catalog URL: https://awesomecua.com/resources/github-jdrolls-sandbar/
+- Original source: https://github.com/jdrolls/sandbar
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, human-in-the-loop, observability, tool-integration
+- Evidence checked: 2026-11-09T21:09:12Z
+- ID: github:jdrolls/sandbar
+
+### Limitations
+
+The README describes Debian with XFCE inside Docker, a bundled Hermes agent, and support for OpenClaw or a user-supplied agent. It states that the single-container image works and that a multi-computer control plane is under development. The repository declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-jdrolls-sandbar/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/jdrolls/sandbar/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/jdrolls/sandbar/HEAD/README.md (retrieved 2026-11-09T21:09:12Z; SHA-256 f865b348e4360ecd12bca1e6ffa6c4c9fe93b399667ba25c0f2e7aee2e5b3bd4)
+- https://raw.githubusercontent.com/jdrolls/sandbar/HEAD/LICENSE (retrieved 2026-11-09T21:11:37Z; SHA-256 fca3d78e0d507a2a8e891ffd48a95e02a8c434d5457e62740ee6f490c1cd594e)
 
 ---
 
@@ -1541,39 +1949,36 @@ The repository includes connection examples for Puppeteer and Playwright. The br
 
 ---
 
-## Selenium
+## SoftwareGym
 
-Browser automation project implementing W3C WebDriver, with Java, Python, Ruby, .NET and JavaScript bindings, Selenium Grid for spreading sessions across machines, and the Rust-based Selenium Manager for driver setup.
+SoftwareGym synthesizes runnable GUI applications as environments for computer-use agents. It tests generated apps through screenshot-based actions in Ubuntu virtual machines and uses feedback to repair them.
 
-- Catalog URL: https://awesomecua.com/resources/github-seleniumhq-selenium/
-- Original source: https://github.com/SeleniumHQ/selenium
+- Catalog URL: https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/
+- Original source: https://github.com/MrKiing-Jin/SoftwareGym
 - Kind: infrastructure
 - Review: curated
-- Scope: adjacent
-- Environments: web
-- Topics: automation
-- Evidence checked: 2026-10-20T07:47:28Z
-- ID: github:seleniumhq/selenium
+- Scope: core
+- Environments: desktop, linux
+- Topics: data-generation, evaluation, sandbox, ui-design
+- Evidence checked: 2026-11-09T21:10:20Z
+- ID: github:mrkiing-jin/softwaregym
 
 ### Limitations
 
-The repository README addresses contributors and points users to the documentation on selenium.dev, the project website. The inspected tree holds the WebDriver bindings (java, py, rb, dotnet, javascript), the Java Grid server, the Internet Explorer driver (cpp/iedriver) and Selenium Manager (rust), a command-line tool that locates or downloads browsers and drivers. Selenium IDE, the record-and-playback tool also presented on selenium.dev, lives in the separate SeleniumHQ/selenium-ide repository. Agents use Selenium as an execution layer for browser actions; it contains no agent or model of its own.
+The repository includes pipeline orchestration, GUI evaluation code and OSWorld container management. Its README says the OSWorld base VM image is required separately.
 
-- Record JSON: https://awesomecua.com/resources/github-seleniumhq-selenium/record.json
+- Record JSON: https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/record.json
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE
+- code: not recorded
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/README.md (retrieved 2026-10-20T07:47:28Z; SHA-256 ef1a1505315cb887dcf485f657947cbab59c11cdd8c63b32ffc54af413ac6f31)
-- https://api.github.com/repos/SeleniumHQ/selenium/git/trees/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c?recursive=1 (retrieved 2026-10-20T05:02:04Z; SHA-256 223db50df54239caa7d0413212e9b32debc17f7c872c93217b76749c0414770b)
-- https://raw.githubusercontent.com/SeleniumHQ/selenium/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c/rust/README.md (retrieved 2026-10-20T05:02:47Z; SHA-256 38588ba31b43bb9e9df672451edaa4a35ace2ffe826367b28204747744a9e3ec)
-- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE (retrieved 2026-10-20T05:02:59Z; SHA-256 307012b4481479a56605420e81db14686a0274d246d06d224c363ee09297d330)
+- https://raw.githubusercontent.com/MrKiing-Jin/SoftwareGym/HEAD/README.md (retrieved 2026-11-09T21:10:20Z; SHA-256 69b78b3ca555ea55a0dc4d7b84e7beca2d9186846904241c39c2a01720647195)
 
 ---
 
@@ -1708,6 +2113,39 @@ The README includes image and data setup for GitLab, shopping sites, Reddit, Wik
 ### Primary evidence
 
 - https://raw.githubusercontent.com/mahirlabibdihan/webarena-docker/HEAD/README.md (retrieved 2026-11-09T19:56:59Z; SHA-256 0a2f11ae610d352b5064e85d4d55c90059066adf3edf7775eaf5c24ec7e14b35)
+
+---
+
+## WildAWM
+
+WildAWM supplies a pipeline for generating computer environments and cross-interface tasks, with execution checks and tools for evaluating agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-msr-orchard-wildawm/
+- Original source: https://github.com/MSR-Orchard/WildAWM
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: data-generation, sandbox, evaluation, cross-app
+- Evidence checked: 2026-11-09T21:10:52Z
+- ID: github:msr-orchard/wildawm
+
+### Limitations
+
+The release includes synthesis and evaluation code and links to environment-task data and trained checkpoints. Setup requires Python, Docker, Node.js, and configured model endpoints.
+
+- Record JSON: https://awesomecua.com/resources/github-msr-orchard-wildawm/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MSR-Orchard/WildAWM/HEAD/README.md (retrieved 2026-11-09T21:10:52Z; SHA-256 e1387107a75037580b4f16258ab8ca26e35a9a05c4da47e215f20d34d61d981a)
 
 ---
 
@@ -2085,7 +2523,7 @@ The one repository includes BrowserOS neo and BrowserOS; they are retained as on
 - document: not recorded
 - weights: not recorded
 
-- code review: The repository explicitly identifies its code as AGPL-3.0; this declaration does not cover every incorporated third-party component.
+- code review: The repository explicitly identifies its code as AGPL-3.0.
   Sources: https://raw.githubusercontent.com/browseros-ai/BrowserOS/HEAD/LICENSE, https://raw.githubusercontent.com/browseros-ai/BrowserOS/HEAD/README.md
 
 ### Primary evidence
@@ -2886,7 +3324,7 @@ Native macOS client of a Chromium browser whose agent Spaces let the built-in as
 
 ### Limitations
 
-This is the open macOS client (Swift, AppKit and SwiftUI). Building it requires the prebuilt Phi Framework, the publisher's own Chromium build, whose source is not published and which the Apache-2.0 license does not cover; the built-in assistant's models, prompts and pipelines are server-side and not in this repository, and a self-built copy does not reach Phi Cloud. Sources/ChromiumBridge/AgentCDP/AgentCDPListener.swift owns a Unix-domain socket through which agent tools reach the browser's DevTools endpoint after per-agent user consent. tools/phi-browser-skill (SKILL.md, scripts/lib/cdp.mjs) is an Agent Skill that drives agent Spaces: hidden windows on a chosen profile that the user can watch, take over and hand back, or off-screen shadow windows. Privacy and local-model statements are publisher claims.
+This is the open macOS client (Swift, AppKit and SwiftUI). Building it requires the prebuilt Phi Framework, the publisher's own Chromium build, whose source is unpublished; the built-in assistant's models, prompts and pipelines run server-side, outside this repository, and a self-built copy has no Phi Cloud access. Sources/ChromiumBridge/AgentCDP/AgentCDPListener.swift owns a Unix-domain socket through which agent tools reach the browser's DevTools endpoint after per-agent user consent. tools/phi-browser-skill (SKILL.md, scripts/lib/cdp.mjs) is an Agent Skill that drives agent Spaces: hidden windows on a chosen profile that the user can watch, take over and hand back, or off-screen shadow windows. Privacy and local-model statements are publisher claims.
 
 - Record JSON: https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/record.json
 

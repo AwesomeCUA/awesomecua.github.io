@@ -43,7 +43,7 @@ Trajectories, screenshots and annotations are different units and are counted se
 - document: not recorded
 - weights: not recorded
 
-- data review: Publisher dataset-card declaration for this release; it does not establish rights to the applications, websites and personal content shown in the screenshots.
+- data review: Publisher dataset-card declaration for this release.
   Sources: https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md
 
 ## Primary evidence

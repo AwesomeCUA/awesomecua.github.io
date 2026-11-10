@@ -673,6 +673,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Claude tool capability for screenshot-based computer interaction.
 - [CODA-PLANNER-TARS-32B](https://awesomecua.com/resources/url-cf16d0a4a05ea7270ffa/) — Date not recorded
   CODA-PLANNER-TARS-32B is a GUI agent planner checkpoint trained for scientific applications and deployed alongside a specialist executor in ScienceBoard.
+- [DeskMind Brain](https://awesomecua.com/resources/github-deskmind-ai-brain/) — Date not recorded
+  DeskMind Brain provides local models that choose the next macOS desktop action and return probabilities for typed decisions about targets and task completion.
 - [Dreamer-7B](https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/) — Date not recorded
   WebDreamer model checkpoint that predicts the consequences of web actions from screenshots and textual descriptions.
 - [Dreamer-7B-Classifieds](https://awesomecua.com/resources/url-b7ccf7acb2e9d8a11853/) — Date not recorded
@@ -725,6 +727,10 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   3B GUI agent trained in two stages: distilling spatial reasoning from teacher models, then reinforcement learning that rewards accurate sub-goals and trains error recovery.
 - [lumos_unified_ground_iterative-13B](https://awesomecua.com/resources/url-b0b2cd616f8c30b4b09d/) — Date not recorded
   A released Lumos grounding-module checkpoint fine-tuned on web-agent tasks alongside question answering, multimodal and math tasks.
+- [lumos_unified_plan_iterative](https://awesomecua.com/resources/url-457c2111894524e9dfda/) — Date not recorded
+  A released Lumos planning checkpoint fine-tuned for web-agent tasks alongside question answering, multimodal, and math tasks.
+- [lumos_unified_plan_iterative-13B](https://awesomecua.com/resources/url-eb6a5940793aa81153d0/) — Date not recorded
+  A Lumos planning checkpoint fine-tuned on web-agent, question-answering, multimodal and math tasks within a modular agent system.
 - [lumos_web_agent_plan_iterative](https://awesomecua.com/resources/url-e35db30fee209ef9b57d/) — Date not recorded
   A fine-tuned Lumos planning-module checkpoint for web-agent tasks, released as model weights alongside a separately listed training dataset.
 - [lumos_web_agent_plan_iterative-13B](https://awesomecua.com/resources/url-7e7de336b1d8a2adce2c/) — Date not recorded
@@ -743,6 +749,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and reflective reasoning to predict executable desktop actions.
 - [OpenCUA-7B](https://awesomecua.com/resources/url-2803eda78cff23fb63cc/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint that produces desktop actions from screenshots and instructions, using recent screen history for context.
+- [OS-Atlas-Pro-4B](https://awesomecua.com/resources/url-b87dd2aed7f4c1982b6b/) — Date not recorded
+  A GUI action checkpoint fine-tuned from OS-Atlas-Base-4B that uses a task instruction, screenshot, and action definitions to generate reasoning and a next action.
 - [OTA-v1](https://awesomecua.com/resources/url-404c719910f8f4a37149/) — Date not recorded
   OTA-v1 is a fine-tuned browser-agent checkpoint designed to plan browser actions, use tools and maintain context across multi-step web tasks.
 - [Plan-and-Act Actor 70B](https://awesomecua.com/resources/url-8a284d122d7dcf23479d/) — Date not recorded
@@ -765,6 +773,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   UI-Venus 2 GUI-agent checkpoint fine-tuned from Qwen3.5-9B, with about 9.4B BF16 parameters in the Qwen3.5 multimodal architecture, loaded through Transformers for image-text-to-text.
 - [WebThinker-QwQ-32B](https://awesomecua.com/resources/url-e058cc2487a805f976fd/) — Date not recorded
   WebThinker-QwQ-32B is a released reasoning model for searching and navigating web pages while drafting research reports. Its card describes training on preferences derived from reasoning trajectories.
+- [WebThinker-R1-14B](https://awesomecua.com/resources/url-7d198acee96b3ec197aa/) — Date not recorded
+  WebThinker-R1-14B is a released reasoning model whose card describes web search, page exploration through clicks, and report drafting during research tasks.
 - [WebThinker-R1-32B](https://awesomecua.com/resources/url-8076f65dc82b4dcea18c/) — Date not recorded
   Released reasoning checkpoint for web research that searches and navigates pages through interactive clicks while drafting reports from gathered information.
 - [WebThinker-R1-7B](https://awesomecua.com/resources/url-564c980a531e7204447c/) — Date not recorded
@@ -846,6 +856,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Chromium-based AI browser whose DevTools panel runs a multi-agent framework (web-task, action, form-fill, research and verification agents) over accessibility trees with OpenRouter, OpenAI, Groq or LiteLLM models.
 - [Browserable](https://awesomecua.com/resources/github-browserable-browserable/) — Date not recorded
   Self-hosted browser-agent platform with a JS SDK and REST API: a planner sets high-level steps, and a runner reads a screenshot and a numbered DOM chunk to pick Playwright actions in a local or hosted browser.
+- [BrowserBee](https://awesomecua.com/resources/github-parsaghaffari-browserbee/) — Date not recorded
+  A Chrome extension that takes natural-language instructions and uses an LLM with Playwright to observe and operate websites, with locally stored task memories and user approval for selected actions.
 - [BRYES (Brain-Eyes)](https://awesomecua.com/resources/github-alvseek-bryes/) — Date not recorded
   BRYES decouples a high-level reasoning planner ('Brain') from swappable visual perception and grounding backends ('Eyes') for computer use.
 - [BugCraft](https://awesomecua.com/resources/url-ec17d3267cd49548d2d4/) — Date not recorded
@@ -880,6 +892,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
 - [CrewAI](https://awesomecua.com/resources/github-joaomdmoura-crewai/) — Date not recorded
   CrewAI is a Python framework for orchestrating role-playing autonomous AI agent teams and event-driven multi-step workflows.
+- [CUA Skill](https://awesomecua.com/resources/github-microsoft-cua-skill/) — Date not recorded
+  CUA Skill runs Windows desktop tasks by retrieving and executing reusable action sequences. Its agent modes use screenshots, accessibility trees, and visual grounding.
 - [cua_agent](https://awesomecua.com/resources/github-lacassef-computeruse/) — Date not recorded
   cua_agent is a modular Python computer-use framework with OS-agnostic planning, semantic UI grounding, and policy-checked desktop/browser drivers.
 - [D-PoT evaluation code](https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/) — Date not recorded
@@ -890,12 +904,16 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Autonomous AI web agent that plans and executes multi-step browser interactions from natural-language prompts.
 - [dsh-reasoning-bridge](https://awesomecua.com/resources/github-shangdi178-dsh-reasoning-bridge/) — Date not recorded
   DeepSeek Harness plugin that offloads complex reasoning steps to logged-in web AI sessions (ChatGPT, Claude, Gemini) via browser control.
+- [Eko](https://awesomecua.com/resources/github-fellouai-eko/) — Date not recorded
+  Eko is a JavaScript framework for building multi-step agents that operate in computer and browser environments, with workflow and tool controls.
 - [ENVISIONS](https://awesomecua.com/resources/github-xufangzhi-envisions/) — Date not recorded
   ENVISIONS is an environment-guided neural-symbolic self-training framework for language agents across symbolic reasoning and WebShop tasks.
 - [ENVS (Environment-Native Verified Search)](https://awesomecua.com/resources/github-artysicistz-envs/) — Date not recorded
   ENVS is a post-training and verified tree-search pipeline for long-horizon GUI agents operating in live desktop and web environments.
 - [EverFern](https://awesomecua.com/resources/github-everfern-ai-everfern/) — Date not recorded
   Electron desktop agent whose LangGraph orchestrator runs a screenshot-driven computer-use loop with robotjs mouse and keyboard input, a Navis browser agent and shell tools, with local or cloud models.
+- [ExACT](https://awesomecua.com/resources/github-microsoft-exact/) — Date not recorded
+  ExACT supplies a web agent that uses reflective tree search to explore and assess interface states, plus scripts for running and evaluating tasks in VisualWebArena.
 - [ExpActivator](https://awesomecua.com/resources/github-fyzhang1-expactivator/) — Date not recorded
   ExpActivator selectively retrieves and verifies applicable historical interaction experiences for personalized GUI agents.
 - [FastAgent](https://awesomecua.com/resources/github-hkuds-fastagent/) — Date not recorded
@@ -930,6 +948,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   iOS Agent Harness runs a Manager-Executor-Reflector GUI agent loop on iPhones to automate cross-app tasks from natural language.
 - [JARVIS-1](https://awesomecua.com/resources/github-craftjarvis-jarvis-1/) — Date not recorded
   JARVIS-1 is an open-world multimodal Minecraft agent with episodic multimodal memory and goal-conditioned keyboard/mouse control.
+- [Jev Social](https://awesomecua.com/resources/github-socai-io-jev-social/) — Date not recorded
+  Jev Social researches Instagram, TikTok, and LinkedIn through a signed-in Chrome browser, choosing successive actions and assembling reports from captured source evidence.
 - [kamalesh404 AgentOS](https://awesomecua.com/resources/github-kamalesh404-agentos/) — Date not recorded
   Autonomous AI agent framework for orchestrating web browsing, coding, and desktop tasks.
 - [K²-Agent](https://awesomecua.com/resources/github-k2-agent-k2-agent/) — Date not recorded

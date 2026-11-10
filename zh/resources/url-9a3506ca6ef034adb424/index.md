@@ -39,7 +39,7 @@ The card has license metadata only. The project training README supplies formatt
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card license declaration; does not establish permissions for model weights or third-party application content.
+- 数据审核：Publisher dataset-card license declaration for the released data.
   来源：https://huggingface.co/datasets/BlitherBoom/AutoDroid-V2-Dataset/raw/main/README.md
 
 ## 一手证据

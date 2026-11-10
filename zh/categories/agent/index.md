@@ -2,7 +2,7 @@
 
 计算机使用智能体是完整的系统：观察屏幕或网页，制定计划，再通过点击、输入、浏览器命令或命令行工具完成用户任务。
 
-> AwesomeCUA 目录收录 444 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
+> AwesomeCUA 目录收录 471 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://awesomecua.com/categories/agent/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -11,29 +11,29 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://a
 | 智能体 | 平台 | 许可证 | 提及 |
 | --- | --- | --- | --- |
 | [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) | 手机 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE) | 27 |
-| [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 22 |
+| [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 26 |
+| [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) | 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE) | 16 |
 | [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE) | 16 |
-| [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) | 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE) | 15 |
+| [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/) | 桌面 | [MIT（代码）](https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE) | 11 |
 | [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) | 桌面 | [Apache-2.0（代码）](https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE) | 10 |
-| [Gemini CLI](https://awesomecua.com/resources/github-google-gemini-gemini-cli/) | 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/google-gemini/gemini-cli/HEAD/LICENSE) | 10 |
 
 ## 常见问题
 
 ### 目录中被提及最多的智能体有哪些？
 
-[Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)（27 条记录）、[Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/)（22 条记录）和 [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/)（16 条记录）在其他目录记录的已审核来源中被提及最多。
+[Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)（27 条记录）、[Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/)（26 条记录）和 [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/)（16 条记录）在其他目录记录的已审核来源中被提及最多。
 
 ### 这些智能体覆盖哪些平台？
 
-在 444 条已审核智能体中，网页 223 条、桌面 214 条、手机 83 条、跨平台 49 条；3 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 471 条已审核智能体中，网页 241 条、桌面 228 条、手机 90 条、跨平台 59 条；3 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些智能体有对应的论文？
 
-444 条中有 62 条链接到提出或说明它的 arXiv 论文，例如 [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)、[Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) 和 [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/)。
+471 条中有 67 条链接到提出或说明它的 arXiv 论文，例如 [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)、[Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) 和 [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/)。
 
 ### 智能体使用哪些许可证？
 
-最常见的声明许可证是 MIT（189 条）、Apache-2.0（86 条）和 AGPL-3.0（12 条）。444 条中有 136 条未记录声明的许可证。
+最常见的声明许可证是 MIT（206 条）、Apache-2.0（89 条）和 AGPL-3.0（12 条）。471 条中有 142 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -105,6 +105,36 @@ Hermes Agent 是 Nous Research 开发的可自我改进的自主智能体，具�
 
 ---
 
+## OpenAI Codex CLI
+
+OpenAI Codex CLI 是本地终端和桌面编程智能体，可在操作系统强制隔离的沙箱中执行命令和编辑文件。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-openai-codex/
+- 原始来源：https://github.com/openai/codex
+- 类型：智能体
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：跨平台、桌面、macOS、Linux、Windows
+- 主题：工具集成、沙箱、自动化
+- 证据核查日期：2026-11-04T13:12:29Z
+- ID：github:openai/codex
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openai-codex/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/openai/codex/HEAD/README.md（获取于 2026-11-04T13:12:29Z；SHA-256：ba4e1f69ff48386e72a9c5e1edaf76aad64a475c2d51af79ccba6d1128261ba7）
+- https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE（获取于 2026-11-04T13:42:24Z；SHA-256：d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc）
+
+---
+
 ## OpenClaw
 
 OpenClaw 是开源的个人计算机使用助手，可在本地设备上执行浏览器、桌面、终端和消息处理工作流。
@@ -135,33 +165,33 @@ OpenClaw 是开源的个人计算机使用助手，可在本地设备上执行�
 
 ---
 
-## OpenAI Codex CLI
+## OpenAdapt
 
-OpenAI Codex CLI 是本地终端和桌面编程智能体，可在操作系统强制隔离的沙箱中执行命令和编辑文件。
+从桌面操作演示中学习并自动化工作流程的工具。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-openai-codex/
-- 原始来源：https://github.com/openai/codex
+- 目录页面：https://awesomecua.com/zh/resources/github-openadaptai-openadapt/
+- 原始来源：https://github.com/OpenAdaptAI/OpenAdapt
 - 类型：智能体
 - 审核状态：已审核
-- 范围：相关研究
-- 运行环境：跨平台、桌面、macOS、Linux、Windows
-- 主题：工具集成、沙箱、自动化
-- 证据核查日期：2026-11-04T13:12:29Z
-- ID：github:openai/codex
+- 范围：核心
+- 运行环境：桌面
+- 主题：录制、工作流
+- 证据核查日期：2026-10-16T06:36:03Z
+- ID：github:openadaptai/openadapt
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-openai-codex/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-openadaptai-openadapt/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/openai/codex/HEAD/README.md（获取于 2026-11-04T13:12:29Z；SHA-256：ba4e1f69ff48386e72a9c5e1edaf76aad64a475c2d51af79ccba6d1128261ba7）
-- https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE（获取于 2026-11-04T13:42:24Z；SHA-256：d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc）
+- https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：36a6e7d56a1d474ee83e5811babe8e11cb113ee12386f9621bba64ffd957a6bc）
+- https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE（获取于 2026-10-16T06:42:05Z；SHA-256：7f2bc0ccbf15854bbe46f5fa0e7cb26fe42f88ec9f8c9b151f0f93c4415820f9）
 
 ---
 
@@ -225,33 +255,37 @@ Gemini CLI 是 Google 的开源终端智能体，提供 shell 执行、文件操
 
 ---
 
-## OpenAdapt
+## Jev Ultrafast
 
-从桌面操作演示中学习并自动化工作流程的工具。
+Jev Ultrafast 从可见控件的索引表中选择操作和目标来操控浏览器，并在需要输入文字时由单独的模型生成文本。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-openadaptai-openadapt/
-- 原始来源：https://github.com/OpenAdaptAI/OpenAdapt
+- 目录页面：https://awesomecua.com/zh/resources/github-browser-use-jev-ultrafast/
+- 原始来源：https://github.com/browser-use/jev-ultrafast
 - 类型：智能体
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：桌面
-- 主题：录制、工作流
-- 证据核查日期：2026-10-16T06:36:03Z
-- ID：github:openadaptai/openadapt
+- 运行环境：网页
+- 主题：网页导航、GUI 定位、效率、鲁棒性
+- 证据核查日期：2026-11-09T21:09:27Z
+- ID：github:browser-use/jev-ultrafast
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-openadaptai-openadapt/record.json
+### 范围记录
+
+The repository includes the agent loop, browser connection, model code, local inspector, and performance notes. The example requires TypeSafe and text-model API keys and connects to Chrome through Browser Harness.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-browser-use-jev-ultrafast/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/browser-use/jev-ultrafast/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：36a6e7d56a1d474ee83e5811babe8e11cb113ee12386f9621bba64ffd957a6bc）
-- https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE（获取于 2026-10-16T06:42:05Z；SHA-256：7f2bc0ccbf15854bbe46f5fa0e7cb26fe42f88ec9f8c9b151f0f93c4415820f9）
+- https://raw.githubusercontent.com/browser-use/jev-ultrafast/HEAD/README.md（获取于 2026-11-09T21:09:27Z；SHA-256：eada256e81e9d20f043b40ba594fee95be4b6dcbdb39bab5be136997d6221284）
+- https://raw.githubusercontent.com/browser-use/jev-ultrafast/HEAD/LICENSE（获取于 2026-11-09T21:11:41Z；SHA-256：5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631）
 
 ---
 
@@ -345,6 +379,36 @@ The repository has evolved substantially; computer-use functionality is document
 
 - https://raw.githubusercontent.com/OpenInterpreter/open-interpreter/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：8f6c33487eca77769798677d32bce15335d0439f129c9a0413e12e0d9e70ab7a）
 - https://raw.githubusercontent.com/OpenInterpreter/open-interpreter/HEAD/LICENSE（获取于 2026-10-16T06:42:04Z；SHA-256：d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc）
+
+---
+
+## DeskMind
+
+DeskMind 是优先在本地运行的 macOS 计算机使用智能体，结合无障碍信息检查、DeskMind Eyes 定位和向用户澄清。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-deskmind-ai-deskmind/
+- 原始来源：https://github.com/deskmind-ai/deskmind
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS
+- 主题：自动化、GUI 定位、人机协作、效率
+- 证据核查日期：2026-11-04T14:02:44Z
+- ID：github:deskmind-ai/deskmind
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-deskmind-ai-deskmind/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/README.md（获取于 2026-11-04T14:02:44Z；SHA-256：d54adb312f01132ceced24bea22be3670a4bc4645c8b59ceb99982cbdf74c941）
+- https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/LICENSE（获取于 2026-11-04T14:07:46Z；SHA-256：1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d）
 
 ---
 
@@ -543,6 +607,45 @@ The official repository publishes extension source and a v0.3.0 ZIP release. It 
 
 ---
 
+## OpenMausBot
+
+桌面聊天应用，其机器人可运行本地 Claude、Codex 或 Grok CLI，并各自通过 Cua Driver 使用云端 Linux 桌面、本地虚拟机、VPS 或宿主机，还内置浏览器和审批卡片。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-milind-soni-openmausbot/
+- 原始来源：https://github.com/milind-soni/OpenMausBot
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS、Linux、网页
+- 主题：沙箱、人机协作、工具集成
+- 证据核查日期：2026-10-18T11:40:28Z
+- ID：github:milind-soni/openmausbot
+
+### 范围记录
+
+OpenMausBot ships no model: an Electron shell talks to a local harness server that runs the claude, codex and grok CLIs or other ACP engines and normalises their events. Host control uses the bundled Cua Driver and needs explicit opt-in; the README marks it supported on macOS, beta on Ubuntu Xorg and disabled on Wayland. Cloud computers come from the third-party Boat service and connected apps from Composio. The README says the project was formerly OpenGrokBot. Everything outside enterprise/ is Apache-2.0; enterprise/ is source-available under its own license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-milind-soni-openmausbot/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/README.md（获取于 2026-10-18T11:40:28Z；SHA-256：506bc30fecdebe7a024e7f694304c3dfecfce9c362a1b01ee9751a71faad888f）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/docs/computer-use-integration.md（获取于 2026-10-18T11:40:04Z；SHA-256：06789e95d4eca5cd14bdfe9be11bf4c1911c08b21890777d6b33b87912e801bc）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/apps/docs/content/docs/computers/index.mdx（获取于 2026-10-18T11:40:05Z；SHA-256：16765486dc0d3ab46f7c3d740cf1f1c64ed6c146923caba72a45f61ae49cc05a）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/third_party/cua-driver/README.md（获取于 2026-10-18T11:40:05Z；SHA-256：3462019dea5235431871a0c9c8f83352b9460d49c7694f8e45eb4177662934a8）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSE（获取于 2026-10-18T11:40:05Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSING.md（获取于 2026-10-18T11:40:05Z；SHA-256：e2741dbfc0f289c53b7a6bdbbce4ddca82155c5263ebd478ae19156975cc77b2）
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE（获取于 2026-10-18T11:40:33Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
+
+---
+
 ## UFO
 
 用于 Windows 应用和桌面自动化的智能体框架。
@@ -599,6 +702,40 @@ The official repository publishes extension source and a v0.3.0 ZIP release. It 
 
 - https://raw.githubusercontent.com/EmergenceAI/Agent-E/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：fc3099072ca60acf2294a63dd2c3e343e90c901a7c7581f723cfdccc5a1edc2b）
 - https://raw.githubusercontent.com/EmergenceAI/Agent-E/HEAD/LICENSE.txt（获取于 2026-10-16T06:42:04Z；SHA-256：555ac6a8bf7ef4a3c82f4ee258be9d751042f8d2a6c901e5eac7c43596563c75）
+
+---
+
+## AIHawk
+
+AIHawk 根据简历搜索并评估职位，再用 Firefox 填写并提交用户选定的申请。它会保存每个页面的回复和截图。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-aihawk/
+- 原始来源：https://github.com/feder-cr/AIHawk
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Windows、Linux、网页
+- 主题：网页导航、自动化、人机协作、可观测性
+- 证据核查日期：2026-11-09T19:57:37Z
+- ID：github:feder-cr/aihawk
+
+### 范围记录
+
+The repository includes Windows and Linux installation scripts. Installation requires an OrcaRouter key.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-aihawk/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/README.md（获取于 2026-11-09T19:57:37Z；SHA-256：2f90d166fb1bf175a5baf2e0ab4f04292c964b301b42a1695f89c3250bb29dfc）
+- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE（获取于 2026-11-09T14:21:08Z；SHA-256：f8e26bc469ae827b30a93daa0a6ce8f12a65036334e700600280bf70f0fbbd9e）
 
 ---
 
@@ -663,6 +800,40 @@ The official repository publishes extension source and a v0.3.0 ZIP release. It 
 
 ---
 
+## Blade Code
+
+Blade Code 是一款编程智能体，在智能体工作流程中提供原生 Chromium 自动化、ARIA 页面快照和浏览器操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-echovic-blade-code/
+- 原始来源：https://github.com/echoVic/blade-code
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工具集成、自动化
+- 证据核查日期：2026-11-09T21:10:35Z
+- ID：github:echovic/blade-code
+
+### 范围记录
+
+The README describes CLI, web, and headless modes, a Chromium installation command, and an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-echovic-blade-code/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/echoVic/blade-code/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/echoVic/blade-code/HEAD/README.md（获取于 2026-11-09T21:10:35Z；SHA-256：906d1cee147cbe5759d132294b8c3e0986f501960a60f448f78a507f43cf61f1）
+- https://raw.githubusercontent.com/echoVic/blade-code/HEAD/LICENSE（获取于 2026-11-09T21:12:19Z；SHA-256：4374a054ed72efa06f1dec8f88cc4293bc7a8148611bb0dc720a7f02a37eec7e）
+
+---
+
 ## Claude Quickstarts (Computer Use Demo)
 
 Anthropic 参考实现，包括使用 Xvfb、VNC 和 bash/浏览器工具的容器化 Claude Computer Use 桌面智能体演示。
@@ -690,36 +861,6 @@ Anthropic 参考实现，包括使用 Xvfb、VNC 和 bash/浏览器工具的容�
 
 - https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/README.md（获取于 2026-11-04T13:12:07Z；SHA-256：535355b019ed44e201847b2454551454d28af36c9f29b8991c7154c1b9afdddb）
 - https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/LICENSE（获取于 2026-11-04T13:42:05Z；SHA-256：d7a04bf11ce24a7b79cd44b4a78dcc9971eaeb3b565821de437e0ecb7723e634）
-
----
-
-## DeskMind
-
-DeskMind 是优先在本地运行的 macOS 计算机使用智能体，结合无障碍信息检查、DeskMind Eyes 定位和向用户澄清。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-deskmind-ai-deskmind/
-- 原始来源：https://github.com/deskmind-ai/deskmind
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、macOS
-- 主题：自动化、GUI 定位、人机协作、效率
-- 证据核查日期：2026-11-04T14:02:44Z
-- ID：github:deskmind-ai/deskmind
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-deskmind-ai-deskmind/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/README.md（获取于 2026-11-04T14:02:44Z；SHA-256：d54adb312f01132ceced24bea22be3670a4bc4645c8b59ceb99982cbdf74c941）
-- https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/LICENSE（获取于 2026-11-04T14:07:46Z；SHA-256：1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d）
 
 ---
 
@@ -809,45 +950,6 @@ Open Computer Use 在 E2B Desktop 云端 Linux 沙箱中运行开源视觉语言
 
 - https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/README.md（获取于 2026-11-04T13:12:13Z；SHA-256：5ef533102ffbd847273c11f1139c8a84b6c38d92182abe55e64c902e23fbd13e）
 - https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/LICENSE（获取于 2026-11-04T13:42:06Z；SHA-256：46c828e30f9c217b84ed1843aa08ee79658347042680c6d328f69f6da15fc4ce）
-
----
-
-## OpenMausBot
-
-桌面聊天应用，其机器人可运行本地 Claude、Codex 或 Grok CLI，并各自通过 Cua Driver 使用云端 Linux 桌面、本地虚拟机、VPS 或宿主机，还内置浏览器和审批卡片。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-milind-soni-openmausbot/
-- 原始来源：https://github.com/milind-soni/OpenMausBot
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、macOS、Linux、网页
-- 主题：沙箱、人机协作、工具集成
-- 证据核查日期：2026-10-18T11:40:28Z
-- ID：github:milind-soni/openmausbot
-
-### 范围记录
-
-OpenMausBot ships no model: an Electron shell talks to a local harness server that runs the claude, codex and grok CLIs or other ACP engines and normalises their events. Host control uses the bundled Cua Driver and needs explicit opt-in; the README marks it supported on macOS, beta on Ubuntu Xorg and disabled on Wayland. Cloud computers come from the third-party Boat service and connected apps from Composio. The README says the project was formerly OpenGrokBot. Everything outside enterprise/ is Apache-2.0; enterprise/ is source-available under its own license.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-milind-soni-openmausbot/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/README.md（获取于 2026-10-18T11:40:28Z；SHA-256：506bc30fecdebe7a024e7f694304c3dfecfce9c362a1b01ee9751a71faad888f）
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/docs/computer-use-integration.md（获取于 2026-10-18T11:40:04Z；SHA-256：06789e95d4eca5cd14bdfe9be11bf4c1911c08b21890777d6b33b87912e801bc）
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/apps/docs/content/docs/computers/index.mdx（获取于 2026-10-18T11:40:05Z；SHA-256：16765486dc0d3ab46f7c3d740cf1f1c64ed6c146923caba72a45f61ae49cc05a）
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/third_party/cua-driver/README.md（获取于 2026-10-18T11:40:05Z；SHA-256：3462019dea5235431871a0c9c8f83352b9460d49c7694f8e45eb4177662934a8）
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSE（获取于 2026-10-18T11:40:05Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSING.md（获取于 2026-10-18T11:40:05Z；SHA-256：e2741dbfc0f289c53b7a6bdbbce4ddca82155c5263ebd478ae19156975cc77b2）
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE（获取于 2026-10-18T11:40:33Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
 
 ---
 
@@ -1052,6 +1154,39 @@ pyproject.toml pins browser-use 0.9.5; the README also credits LangGraph and Lan
 
 ---
 
+## WebGen-Agent
+
+WebGen-Agent 根据指令生成网站代码，再利用截图、视觉反馈和 GUI 智能体执行的测试进行改进。仓库提供推理和训练代码。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-mnluzimu-webgen-agent/
+- 原始来源：https://github.com/mnluzimu/WebGen-Agent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：界面设计、评测、强化学习、网页导航
+- 证据核查日期：2026-11-09T21:09:08Z
+- ID：github:mnluzimu/webgen-agent
+
+### 范围记录
+
+The repository includes a GUI-agent integration, inference scripts and supervised fine-tuning and GRPO training scripts. Inference requires model endpoints and API keys; the README also names Node.js and Chrome as dependencies.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-mnluzimu-webgen-agent/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/mnluzimu/WebGen-Agent/HEAD/README.md（获取于 2026-11-09T21:09:08Z；SHA-256：4d2f900ee1cb5b074b1b299a4bf757f7411220fb48687ee4a4d39a423f203691）
+
+---
+
 ## Actell
 
 这款 iPhone 智能体原型读取截图或无障碍内容，并通过 CoreDevice 发出点按和拖动操作，连接方式为 VPN 环回或可选的硬件中继。
@@ -1150,37 +1285,36 @@ MIT per LICENSE. Release v2.15 dated 2026-11-01. Needs a supported AI account, a
 
 ---
 
-## AIHawk
+## Aico Link Firmware
 
-AIHawk 根据简历搜索并评估职位，再用 Firefox 填写并提交用户选定的申请。它会保存每个页面的回复和截图。
+Aico Link 固件运行一个智能体，通过 HDMI 采集查看手机或电脑画面，并通过 USB HID 发送输入。仓库包含硬件服务、智能体运行时和更新工具。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-feder-cr-aihawk/
-- 原始来源：https://github.com/feder-cr/AIHawk
+- 目录页面：https://awesomecua.com/zh/resources/github-aidenai-io-aiden-firmware/
+- 原始来源：https://github.com/AidenAI-IO/aiden-firmware
 - 类型：智能体
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：桌面、Windows、Linux、网页
-- 主题：网页导航、自动化、人机协作、可观测性
-- 证据核查日期：2026-11-09T19:57:37Z
-- ID：github:feder-cr/aihawk
+- 运行环境：跨平台、桌面、Android、iOS
+- 主题：手机操作、界面理解、动作预测、记忆
+- 证据核查日期：2026-11-09T21:09:43Z
+- ID：github:aidenai-io/aiden-firmware
 
 ### 范围记录
 
-The repository includes Windows and Linux installation scripts. Installation requires an OrcaRouter key.
+The source lists a firmware overlay, C++ capture and audio services, a Go agent, tests, and benchmark support. It says the target must support video output and USB HID input; iOS control requires AssistiveTouch.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-aihawk/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE
+- 代码：未记录
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/README.md（获取于 2026-11-09T19:57:37Z；SHA-256：2f90d166fb1bf175a5baf2e0ab4f04292c964b301b42a1695f89c3250bb29dfc）
-- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE（获取于 2026-11-09T14:21:08Z；SHA-256：f8e26bc469ae827b30a93daa0a6ce8f12a65036334e700600280bf70f0fbbd9e）
+- https://raw.githubusercontent.com/AidenAI-IO/aiden-firmware/HEAD/README.md（获取于 2026-11-09T21:09:43Z；SHA-256：0fb5c33dc1cac8fc9c5189ecd19312c815aaeab49017424bd38df3b880a8123a）
 
 ---
 
@@ -1445,6 +1579,141 @@ The README points to processed data and trained models in a separate repository,
 
 ---
 
+## AutoDesign
+
+一套将论文转化为可编辑海报、幻灯片、网页和视频的智能体设计系统。其工作流程通过浏览器审查渲染后的屏幕和打印效果。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-yaxin9luo-autodesign/
+- 原始来源：https://github.com/Yaxin9Luo/AutoDesign
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：界面设计、工作流、界面理解
+- 证据核查日期：2026-11-09T21:10:09Z
+- ID：github:yaxin9luo/autodesign
+
+### 范围记录
+
+The repository includes source code, agent skills, a web workbench, demos, and evaluation material. Local setup lists Python, Node.js, and provider keys as requirements.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-yaxin9luo-autodesign/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/Yaxin9Luo/AutoDesign/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Yaxin9Luo/AutoDesign/HEAD/README.md（获取于 2026-11-09T21:10:09Z；SHA-256：e5c18daf16c5e021bb427e98914b0a1b84e956b1334eefcfd863c8520727feeb）
+- https://raw.githubusercontent.com/Yaxin9Luo/AutoDesign/HEAD/LICENSE（获取于 2026-11-09T21:12:14Z；SHA-256：c1f183e117913e5c054ad61f3a6e8091689e6da6a82f48b56ce327ff1cccbabc）
+
+---
+
+## AutoGLM Android 助手
+
+一款 Android 智能体，通过读取屏幕截图并借助 Shizuku 模拟触控，执行语音或文字指令。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-sidhu-master-androidautoglm/
+- 原始来源：https://github.com/sidhu-master/AndroidAutoGLM
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、自动化、界面理解
+- 证据核查日期：2026-11-09T21:08:40Z
+- ID：github:sidhu-master/androidautoglm
+
+### 范围记录
+
+The repository includes Android app source. It requires Android 11 or later, Shizuku pairing, overlay permission, and a Zhipu AI API key. The README permits personal, research, and noncommercial use and requires written authorization for commercial use.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-sidhu-master-androidautoglm/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/sidhu-master/AndroidAutoGLM/HEAD/README.md（获取于 2026-11-09T21:08:40Z；SHA-256：f3bc01b096d0b7f182db59aaf28a623126dd7c55ac36bbf299b2af61d82c2b35）
+
+---
+
+## Blender AI Plugin
+
+Blender AI Plugin 通过 MCP 让智能体检查和编辑已打开的 Blender 场景，并以编排智能体、技能和脚本完成资产制作流程。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-proyecto26-blender-ai-plugin/
+- 原始来源：https://github.com/proyecto26/blender-ai-plugin
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：工具集成、界面设计、工作流
+- 证据核查日期：2026-11-09T21:10:54Z
+- ID：github:proyecto26/blender-ai-plugin
+
+### 范围记录
+
+The README describes an installable plugin with skill manifests and tested bpy scripts. Setup requires Blender and the Blender Lab MCP server add-on.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/proyecto26/blender-ai-plugin/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/proyecto26/blender-ai-plugin/HEAD/README.md（获取于 2026-11-09T21:10:54Z；SHA-256：9fccb7907464dbc9417ec3ce238968534c518331035781a04ddb7e0d30286007）
+- https://raw.githubusercontent.com/proyecto26/blender-ai-plugin/HEAD/LICENSE（获取于 2026-11-09T21:12:32Z；SHA-256：6d67bb1f95df1bddc3ee2fea5196a68694910a0705890072da906c9a8de4311a）
+
+---
+
+## Bodhi
+
+Bodhi 是围绕 Rust 运行时构建的桌面智能体工作台。其可选的 Nova 工具让智能体操作原生应用和浏览器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-bigduu-zenith/
+- 原始来源：https://github.com/bigduu/Zenith
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS、Windows、Linux、网页、跨平台
+- 主题：自动化、工具集成、工作流
+- 证据核查日期：2026-11-09T21:10:16Z
+- ID：github:bigduu/zenith
+
+### 范围记录
+
+Zenith indexes the desktop app, runtime and MCP tools through source modules. Packaged installations are described for macOS, Windows and Linux; the README declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-bigduu-zenith/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/bigduu/Zenith/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/bigduu/Zenith/HEAD/README.md（获取于 2026-11-09T21:10:16Z；SHA-256：4b01725406c3bdd90830982b1de0c0db2f99a5634c1b192bc87d4431392daf49）
+- https://raw.githubusercontent.com/bigduu/Zenith/HEAD/LICENSE（获取于 2026-11-09T21:12:15Z；SHA-256：a47706d592a1f15855061143e627d1a4fc12cb32647b36d407326d5da899d413）
+
+---
+
 ## Browser Agent
 
 Browser Agent 通过 Chromium 执行自然语言网页任务，提供命令行工具以及可传送进度并返回任务结果的 TypeScript 和 Python SDK。
@@ -1476,6 +1745,40 @@ The README lists Node.js, Chrome or Chromium, and a configured model provider as
 
 - https://raw.githubusercontent.com/visnia-ai/browser-agent/HEAD/README.md（获取于 2026-11-09T19:57:07Z；SHA-256：9ed752ea752eefe94fb7facffeadb9d114d781cff22901aa0c478d895942c42f）
 - https://raw.githubusercontent.com/visnia-ai/browser-agent/HEAD/LICENSE.md（获取于 2026-11-09T14:20:51Z；SHA-256：5d44f7c0d69e4fc93d0e2549662437931157d33b68f7662f643d0ba29eb9383e）
+
+---
+
+## BrowserBee
+
+一款 Chrome 扩展，可接收自然语言指令，结合大语言模型与 Playwright 观察和操作网站，并在本地保存任务记忆，对特定操作征求用户批准。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-parsaghaffari-browserbee/
+- 原始来源：https://github.com/parsaghaffari/browserbee
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、记忆、人机协作、规划
+- 证据核查日期：2026-11-09T21:09:38Z
+- ID：github:parsaghaffari/browserbee
+
+### 范围记录
+
+The README provides source-build instructions, a release download, and a Chrome Web Store listing. It states that development has stopped and that the extension requires a configured LLM provider.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-parsaghaffari-browserbee/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/parsaghaffari/browserbee/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/parsaghaffari/browserbee/HEAD/README.md（获取于 2026-11-09T21:09:38Z；SHA-256：706be076c43586e8604619740f3dbd2c7842cf30c470dcefd9e7cf8c4a6e4d17）
+- https://raw.githubusercontent.com/parsaghaffari/browserbee/HEAD/LICENSE（获取于 2026-11-09T21:11:53Z；SHA-256：2f2578f60722ea925da9e029578628522bfff1589be7a8cd5cd8e403019af22a）
 
 ---
 
@@ -1612,6 +1915,74 @@ The repository includes Swift app code and a Cloudflare Worker proxy. Local setu
 
 - https://raw.githubusercontent.com/farzaa/clicky/HEAD/README.md（获取于 2026-11-09T19:56:09Z；SHA-256：03d3ec102b9475fa62af1cfefa8a7e093dc31dd3082789be4bb74bc69e92f9a0）
 - https://raw.githubusercontent.com/farzaa/clicky/HEAD/LICENSE（获取于 2026-11-09T14:20:38Z；SHA-256：3eb6241cdc30b83a6fac3ffed7c36d2be666e8c852260846dcbd92d678b96011）
+
+---
+
+## Coddy
+
+Coddy 是提供桌面、终端和编辑器界面的智能体运行框架。其浏览器扩展让智能体查看页面，并在共享标签页中执行操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-coddy-project-coddy-agent/
+- 原始来源：https://github.com/coddy-project/coddy-agent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面、Linux、macOS、Windows、跨平台
+- 主题：网页导航、工具集成、自动化
+- 证据核查日期：2026-11-09T21:08:31Z
+- ID：github:coddy-project/coddy-agent
+
+### 范围记录
+
+The README describes a static Go binary, browser extension, shared sessions, and releases for Linux, macOS, and Windows.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-coddy-project-coddy-agent/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/coddy-project/coddy-agent/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/coddy-project/coddy-agent/HEAD/README.md（获取于 2026-11-09T21:08:31Z；SHA-256：a302045dcf16f6482b1d7a94f3bb86f1b322128337bf162692ecc29b614cd8b7）
+- https://raw.githubusercontent.com/coddy-project/coddy-agent/HEAD/LICENSE（获取于 2026-11-09T21:11:05Z；SHA-256：c3e1be9b60cb2797323867b2cc7edd00d68ed96acc0efd6e82138b9af73cccfd）
+
+---
+
+## CodexQA Jev Browser
+
+CodexQA Jev Browser 通过索引化控件和模型选择的操作控制 Playwright 页面，并提供用例重放及基于可见页面证据的报告。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-openqa-cn-jev-browser/
+- 原始来源：https://github.com/openqa-cn/jev-browser
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、GUI 定位、评测、可观测性
+- 证据核查日期：2026-11-09T21:10:35Z
+- ID：github:openqa-cn/jev-browser
+
+### 范围记录
+
+The README describes HTML reports with screenshots and session video. Model decisions use Jev or an OpenAI-compatible API; replay can use recorded decisions.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openqa-cn-jev-browser/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/openqa-cn/jev-browser/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/openqa-cn/jev-browser/HEAD/README.md（获取于 2026-11-09T21:10:35Z；SHA-256：8d230e4d9f1543cdb46e78b6d89d1c879281774f1316add27299ca618af1c208）
+- https://raw.githubusercontent.com/openqa-cn/jev-browser/HEAD/LICENSE（获取于 2026-11-09T21:12:21Z；SHA-256：d83dc7b3dff8d8464b2a2cf2900cc4e4c373a87f32817935b63bbca534d605ac）
 
 ---
 
@@ -1774,6 +2145,40 @@ The README documents built-in and generated personas, Markdown and HTML reports,
 
 ---
 
+## CUA Skill
+
+CUA Skill 通过检索并执行可复用的操作序列来完成 Windows 桌面任务。其智能体模式使用屏幕截图、无障碍树和视觉定位。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-microsoft-cua-skill/
+- 原始来源：https://github.com/microsoft/cua_skill
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Windows
+- 主题：自动化、GUI 定位、规划、工作流
+- 证据核查日期：2026-11-09T21:10:38Z
+- ID：github:microsoft/cua_skill
+
+### 范围记录
+
+The repository documents replay and retrieval-based agent modes, application skill modules, task generation, and Windows Agent Arena evaluation. The README lists Windows and Azure OpenAI access as prerequisites.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-microsoft-cua-skill/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/microsoft/cua_skill/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/microsoft/cua_skill/HEAD/README.md（获取于 2026-11-09T21:10:38Z；SHA-256：5d6384efe254417dd8f4120f6368aaa725126b79140a8a8787451965fe2011b1）
+- https://raw.githubusercontent.com/microsoft/cua_skill/HEAD/LICENSE（获取于 2026-11-09T21:12:23Z；SHA-256：275b4dd619de4e16a017b10d0beec72abbbbf14ee8a2fc68f8bdb398e821f623）
+
+---
+
 ## ESP32 iPhone Agent
 
 ESP32 iPhone Agent 将 ESP32 的 Bluetooth HID 鼠标和键盘模拟与视觉语言屏幕解析结合，用于控制未经改动的 iPhone。
@@ -1801,6 +2206,40 @@ ESP32 iPhone Agent 将 ESP32 的 Bluetooth HID 鼠标和键盘模拟与视觉语
 
 - https://raw.githubusercontent.com/onehumanbeing/esp32-iphone-agent/HEAD/README.md（获取于 2026-11-04T13:12:29Z；SHA-256：ccb4ca275f7a3d01adf629446ee70a063d9ac7f655438dd27087ef034d11b3e5）
 - https://raw.githubusercontent.com/onehumanbeing/esp32-iphone-agent/HEAD/LICENSE（获取于 2026-11-04T13:23:26Z；SHA-256：8ced745c0be8568fb1708a4d21665a8dafbaffb1f23bcafcbb105b15001260b2）
+
+---
+
+## ExACT
+
+ExACT 提供一个使用反思式树搜索来探索并评估界面状态的网页智能体，以及在 VisualWebArena 中运行和评估任务的脚本。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-microsoft-exact/
+- 原始来源：https://github.com/microsoft/ExACT
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、规划、自我反思、评测
+- 证据核查日期：2026-11-09T21:09:36Z
+- ID：github:microsoft/exact
+
+### 范围记录
+
+The README identifies separate branches for VisualWebArena and OSWorld. Setup requires the web environment and model provider credentials; it also links to released VWA training trajectories.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-microsoft-exact/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/microsoft/ExACT/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/microsoft/ExACT/HEAD/README.md（获取于 2026-11-09T21:09:36Z；SHA-256：aa298d7dc5d9747c4223f3047f2675d3a76b3e39170460bf7273669cbd50d449）
+- https://raw.githubusercontent.com/microsoft/ExACT/HEAD/LICENSE（获取于 2026-11-09T21:11:49Z；SHA-256：c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383）
 
 ---
 
@@ -2079,6 +2518,141 @@ The README documents an XMLRPC service and lists Python, TensorFlow, DroidBot, a
 
 ---
 
+## Jev GUI Delegate
+
+Jev GUI Delegate 是本地控制器，可执行委派的 Windows 和 Chrome 任务，在选择不确定时调用 Jev，并在操作后核对结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/
+- 原始来源：https://github.com/YUTA-fywoo/jev-gui-delegate
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、Windows、网页
+- 主题：自动化、GUI 定位、状态追踪、效率
+- 证据核查日期：2026-11-09T21:09:40Z
+- ID：github:yuta-fywoo/jev-gui-delegate
+
+### 范围记录
+
+The repository links controller, driver, security, and test code, plus a Windows installation package. The source says it requires a TypeSafe key and a compatible host browser session for the Chrome path.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-yuta-fywoo-jev-gui-delegate/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/YUTA-fywoo/jev-gui-delegate/HEAD/README.md（获取于 2026-11-09T21:09:40Z；SHA-256：0f11a973f5f82ccb6f08fbdb783c168573f8264b0adde48a3c9f8a774060a1cf）
+
+---
+
+## Jev Social
+
+Jev Social 通过已登录的 Chrome 浏览器研究 Instagram、TikTok 和 LinkedIn，逐步选择操作，并根据采集的来源证据生成报告。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-socai-io-jev-social/
+- 原始来源：https://github.com/socai-io/jev-social
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面、Windows、macOS、Linux
+- 主题：网页导航、规划、交互历史、工作流
+- 证据核查日期：2026-11-09T21:09:07Z
+- ID：github:socai-io/jev-social
+
+### 范围记录
+
+The release includes a local demo, operation history, recorded evidence, and benchmark tasks. It requires Node 22+, Chrome, the socai CLI, and a decision provider such as OpenRouter.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-socai-io-jev-social/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/socai-io/jev-social/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/socai-io/jev-social/HEAD/README.md（获取于 2026-11-09T21:09:07Z；SHA-256：257b13eef5778afda1bd3716f36e9bbdaa2da2c7cb02e6a21ef759e6ffc36e48）
+- https://raw.githubusercontent.com/socai-io/jev-social/HEAD/LICENSE（获取于 2026-11-09T21:11:25Z；SHA-256：be1c3513d1a051784fd0a3aa4d7572943027dc82d8500dcef1126861fc7a8ed5）
+
+---
+
+## Jevry
+
+Jevry 是一款桌面浏览器智能体，将页面上观察到的控件转为候选操作，利用模型选择操作并规划任务，同时展示处理网站任务的过程。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-michaelswissa-jevry/
+- 原始来源：https://github.com/michaelswissa/jevry
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、macOS、Windows、网页
+- 主题：网页导航、动作预测、人机协作、状态追踪
+- 证据核查日期：2026-11-09T21:09:35Z
+- ID：github:michaelswissa/jevry
+
+### 范围记录
+
+The source preview requires Node.js, a TypeSafe Jev API key, and a separate text-model connection. The README describes macOS and Windows builds and an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-michaelswissa-jevry/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/michaelswissa/jevry/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/michaelswissa/jevry/HEAD/README.md（获取于 2026-11-09T21:09:35Z；SHA-256：91a6451101046f38012024b8ac9511eae76de286f56064f133349c7489de6146）
+- https://raw.githubusercontent.com/michaelswissa/jevry/HEAD/LICENSE（获取于 2026-11-09T21:11:47Z；SHA-256：1bf94b64c55e81163d11fdf80c1286c7aaf55da035afa5b4ec5ad3967b4258c2）
+
+---
+
+## LangHire
+
+一款桌面应用，其浏览器智能体可搜索职位并完成在线申请，还会利用跨任务保存的求职系统知识。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-jaimaann-langhire/
+- 原始来源：https://github.com/jaimaann/LangHire
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、macOS、Windows、Linux、网页
+- 主题：网页导航、工作流、记忆、自动化
+- 证据核查日期：2026-11-09T21:09:42Z
+- ID：github:jaimaann/langhire
+
+### 范围记录
+
+The source lists macOS, Windows and Linux downloads. It says the app requires an LLM API key and installs Chromium on first launch.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-jaimaann-langhire/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/jaimaann/LangHire/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/jaimaann/LangHire/HEAD/README.md（获取于 2026-11-09T21:09:42Z；SHA-256：ccc182685b3ec505d48f25e50f987fb1c9ee0d9a412642fc2bf7d044cc7fbb99）
+- https://raw.githubusercontent.com/jaimaann/LangHire/HEAD/LICENSE（获取于 2026-11-09T21:12:04Z；SHA-256：57d0f5641a0e56ebb7e2a4c5b9b1dd75505f51f171934726d976892d568134d7）
+
+---
+
 ## LearnAct
 
 LearnAct 公开了用于 LearnGUI-Offline 上由演示引导的移动 GUI 智能体的推理和评估代码；仓库还描述了多智能体适配方法，并链接 LearnGUI 演示数据。
@@ -2212,6 +2786,40 @@ The repository contains a CLI specification and a skill directory. Its local mod
 
 ---
 
+## mano-afk
+
+一个应用构建智能体，可部署软件并通过浏览器图形界面操作进行测试，包含重试循环和图形界面自动化基准。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-afk/
+- 原始来源：https://github.com/Mininglamp-AI/mano-afk
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面、macOS
+- 主题：自动化、评测、网页导航、工作流
+- 证据核查日期：2026-11-09T21:09:42Z
+- ID：github:mininglamp-ai/mano-afk
+
+### 范围记录
+
+The repository describes local testing with Mano-P on Mac or cloud testing with Claude CUA. It includes a skill, CLI scripts and benchmark files; the source declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/Mininglamp-AI/mano-afk/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Mininglamp-AI/mano-afk/HEAD/README.md（获取于 2026-11-09T21:09:42Z；SHA-256：c80b92568eb181d7308a58eef09aea58fbdd39c5d494de1634bdde1af5244f00）
+- https://raw.githubusercontent.com/Mininglamp-AI/mano-afk/HEAD/LICENSE（获取于 2026-11-09T21:12:04Z；SHA-256：3713510be4bb49dba137c29b3e6c804e0ab682bd24bdda81b72d375dd10171ce）
+
+---
+
 ## Mind2Web-Live
 
 这是面向 Mind2Web-Live 的 SeeAct-V 网页智能体实现。它根据屏幕图像规划操作，并用视觉定位模型确定需要坐标的操作目标。
@@ -2272,6 +2880,74 @@ Minitap mobile-use 是多智能体移动端自动化系统，可根据自然语�
 
 - https://raw.githubusercontent.com/minitap-ai/mobile-use/HEAD/README.md（获取于 2026-11-04T13:12:25Z；SHA-256：d9f1dc9560baec4746a58f3c0fa8b167a9fb365b7e2888698d0cb75f803c856c）
 - https://raw.githubusercontent.com/minitap-ai/mobile-use/HEAD/LICENSE（获取于 2026-11-04T13:23:24Z；SHA-256：83eacb160cdeea43e85545f6dbed7eb9588c56e604dae639063cd7846cfc67f3）
+
+---
+
+## Mobile Agent
+
+Mobile Agent 是 Android 助手，可使用本地工具及可选的无障碍设备控制，并对敏感操作请求批准。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-looper42-mobile-agent/
+- 原始来源：https://github.com/looper42/mobile_agent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、工具集成、人机协作、安全与防护
+- 证据核查日期：2026-11-09T21:09:58Z
+- ID：github:looper42/mobile_agent
+
+### 范围记录
+
+The source describes configurable OpenAI-compatible model services and optional root access. It states an Apache License 2.0 for its own source code.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-looper42-mobile-agent/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/looper42/mobile_agent/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/looper42/mobile_agent/HEAD/README.md（获取于 2026-11-09T21:09:58Z；SHA-256：685596699576c8f8a555c25790a4445f6853d3c671d0e867b45b2a54b75b44dd）
+- https://raw.githubusercontent.com/looper42/mobile_agent/HEAD/LICENSE（获取于 2026-11-09T21:12:09Z；SHA-256：41337b0bca634e1942b4202e2c08146393941a0a659b4c67a695ed235430cafe）
+
+---
+
+## OmniAgent
+
+一款常驻智能体，可查看截图，并通过鼠标和键盘工具操作本地桌面，或通过 ADB 操作安卓设备，同时提供聊天和记忆功能。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-momo-null-omniagent/
+- 原始来源：https://github.com/momo-null/OmniAgent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、Windows、Android
+- 主题：自动化、手机操作、界面理解、工具集成
+- 证据核查日期：2026-11-09T21:09:14Z
+- ID：github:momo-null/omniagent
+
+### 范围记录
+
+The README describes Windows-first local setup, with computer and Android control supplied by optional plugins that are disabled by default. The repository includes desktop, web, backend, and plugin directories.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-momo-null-omniagent/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/momo-null/OmniAgent/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/momo-null/OmniAgent/HEAD/README.md（获取于 2026-11-09T21:09:14Z；SHA-256：961c38e6220bc50472ad43da3dd126d27aa5a60f7f5e716687627fe60c8fb91b）
+- https://raw.githubusercontent.com/momo-null/OmniAgent/HEAD/LICENSE（获取于 2026-11-09T21:11:37Z；SHA-256：15ecfd268398c3e86fbe6d40fb13339e5690a250968f04e5cbaf615390997eaa）
 
 ---
 
@@ -2347,6 +3023,40 @@ The repository (ID 946708780, created 2025-03-11) keeps its original name and a 
 
 ---
 
+## OpenBridge
+
+一款本地 macOS 智能体应用，可在获得批准后查看和操作桌面应用，并提供沙箱供用户审查拟议的文件更改。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-afk-surf-openbridge/
+- 原始来源：https://github.com/AFK-surf/OpenBridge
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS
+- 主题：自动化、人机协作、沙箱
+- 证据核查日期：2026-11-09T21:09:41Z
+- ID：github:afk-surf/openbridge
+
+### 范围记录
+
+The source describes a SwiftUI app, a local agent runtime and a sandbox VM workflow. It also describes support for user-supplied model providers.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-afk-surf-openbridge/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/AFK-surf/OpenBridge/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/AFK-surf/OpenBridge/HEAD/README.md（获取于 2026-11-09T21:09:41Z；SHA-256：43837419d4a5a223953dc56bbb0bf63bbd71db3547505059d92e4e78888eba29）
+- https://raw.githubusercontent.com/AFK-surf/OpenBridge/HEAD/LICENSE（获取于 2026-11-09T21:11:58Z；SHA-256：9767140be9df8625359bd28b2807dc4010b69a468cd43b2068f37465d932c240）
+
+---
+
 ## OpenMinis
 
 OpenMinis 是面向 iOS 和 Android 的开源移动智能体，可与网站和设备工具交互，并在设备上的 Linux 沙箱中运行脚本。
@@ -2378,6 +3088,40 @@ The README links to an App Store listing and an Android APK release. It describe
 
 - https://raw.githubusercontent.com/OpenMinis/OpenMinis/HEAD/README.md（获取于 2026-11-09T19:56:41Z；SHA-256：4132119846058ba47347353dbf68237a6ad38a02b8f6b7f542a4331c77c64f4c）
 - https://raw.githubusercontent.com/OpenMinis/OpenMinis/HEAD/LICENSE（获取于 2026-11-09T14:20:45Z；SHA-256：3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986）
+
+---
+
+## OpenMuse
+
+OpenMuse 是一款个人智能体应用，可在持久化的 Chromium 中浏览公开网页，并让用户查看或接管会话。它还支持终端、文件和 PDF 操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-copilotkit-openmuse/
+- 原始来源：https://github.com/CopilotKit/OpenMuse
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、网页、Android、iOS
+- 主题：网页导航、工具集成、人机协作、工作流
+- 证据核查日期：2026-11-09T21:09:36Z
+- ID：github:copilotkit/openmuse
+
+### 范围记录
+
+The repository contains server, task worker, browser worker, and application code. The README lists Node 24 LTS, pnpm 11.19.0, and a CopilotKit Intelligence project key as requirements, and states an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-copilotkit-openmuse/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/CopilotKit/OpenMuse/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/CopilotKit/OpenMuse/HEAD/README.md（获取于 2026-11-09T21:09:36Z；SHA-256：2995dec40931a6294be16952de5cee0085715d3e2dbe6c11c850827b95f67517）
+- https://raw.githubusercontent.com/CopilotKit/OpenMuse/HEAD/LICENSE（获取于 2026-11-09T21:11:50Z；SHA-256：399a9cccf1b228c9e8ad348ef66a0a5802d438d46735d0d068390925aee5ee36）
 
 ---
 
@@ -2578,6 +3322,39 @@ Page Agent 是 Alibaba 开发的页内 JavaScript GUI 智能体，通过 DOM 脱
 
 ---
 
+## Phone Agent
+
+一款 iPhone 智能体，通过 ESP32-S3 蓝牙鼠标和键盘配件观察共享屏幕并跨应用操作。发布内容包括应用程序和固件源码。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-boboabw-phone-agent/
+- 原始来源：https://github.com/boboabw/phone-agent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：iOS
+- 主题：手机操作、界面理解、自动化、人机协作
+- 证据核查日期：2026-11-09T21:09:37Z
+- ID：github:boboabw/phone-agent
+
+### 范围记录
+
+The README requires iOS 27, an ESP32-S3 board, AssistiveTouch, screen sharing, an image-capable model endpoint, and an API key. The app is built with Xcode, and the repository includes Swift app code and accessory firmware.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-boboabw-phone-agent/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/boboabw/phone-agent/HEAD/README.md（获取于 2026-11-09T21:09:37Z；SHA-256：510a037c75e54902ac60011172969db29df5c265fcb0b1f7dc54713814f3c9eb）
+
+---
+
 ## PlayJev
 
 一个根据渲染画面选择操作的浏览器游戏智能体。其仓库提供游戏环境、演示，以及训练和评估脚本。
@@ -2724,6 +3501,40 @@ Kotlin Android app (minimum SDK 26) published by Turbo1123. Shizuku gives it ADB
 - https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/vlm/GUIOwlClient.kt（获取于 2026-10-20T07:56:14Z；SHA-256：69a77101ff939d49def1af6d7bd5a8511eb60bec4ab72ac1cabbd878731726df）
 - https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/vlm/MAIUIClient.kt（获取于 2026-10-20T07:56:14Z；SHA-256：332089c55843bd7e02e6a5e1075b881834cb43c556ccecf15586b76191197cd6）
 - https://raw.githubusercontent.com/Turbo1123/roubao/HEAD/LICENSE（获取于 2026-10-20T07:57:19Z；SHA-256：aabaf29fcf492a29bc5ac5c7d014596a7b11bd2d4cc2272880db8c5627e11818）
+
+---
+
+## RSIGame
+
+这是一个智能体游戏开发系统，会试玩生成的游戏，利用截图和运行证据指导修改，并通过重放游戏版本检查改动。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-wenyiwu0111-rsigame/
+- 原始来源：https://github.com/WenyiWU0111/RSIGame
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、Linux、macOS、网页
+- 主题：自动化、自我反思、评测、长任务
+- 证据核查日期：2026-11-09T21:09:11Z
+- ID：github:wenyiwu0111/rsigame
+
+### 范围记录
+
+The repository includes controller code, configurations, scripts, and patches for a separate GameCraft-Bench checkout. The README requires Linux or macOS and a separate repair-agent project.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-wenyiwu0111-rsigame/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/WenyiWU0111/RSIGame/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/WenyiWU0111/RSIGame/HEAD/README.md（获取于 2026-11-09T21:09:11Z；SHA-256：f63cb685b4028f2cd05385fe55e1c2ca600a9038c3bd65339fb66d55fd0ad6a6）
+- https://raw.githubusercontent.com/WenyiWU0111/RSIGame/HEAD/LICENSE（获取于 2026-11-09T21:11:36Z；SHA-256：c6ce1b0645f8183e274ba7f642b23b81a99c1f9090ba535adb72a900d2385f71）
 
 ---
 
@@ -2915,6 +3726,107 @@ Thursday 是语音驱动的计算机助手，将后台网页浏览和桌面自�
 
 - https://raw.githubusercontent.com/cgoinglove/thursday/HEAD/README.md（获取于 2026-11-04T13:12:09Z；SHA-256：5fe34027f92394e4c8137452dad36470fb2f136d3a71068a52d596227f211f19）
 - https://raw.githubusercontent.com/cgoinglove/thursday/HEAD/LICENSE（获取于 2026-11-04T13:42:15Z；SHA-256：54a5f0ee58c88993fdcc5c1208a2550956eaf201629f22a0d2f4813adef957ec）
+
+---
+
+## Thursday
+
+Thursday 是本地语音助手，可将耗时任务交给能使用浏览器、终端和文件的智能体，同时继续对话。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-cgoinglove-thursday-agent/
+- 原始来源：https://github.com/cgoinglove/thursday-agent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、macOS、Linux、网页
+- 主题：网页导航、工具集成、人机协作、工作流
+- 证据核查日期：2026-11-09T21:09:44Z
+- ID：github:cgoinglove/thursday-agent
+
+### 范围记录
+
+The source requires Node.js and a ChatGPT sign-in or OpenAI API key. It describes macOS as its development platform, Linux as expected to work, and an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-cgoinglove-thursday-agent/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/cgoinglove/thursday-agent/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/cgoinglove/thursday-agent/HEAD/README.md（获取于 2026-11-09T21:09:44Z；SHA-256：5fe34027f92394e4c8137452dad36470fb2f136d3a71068a52d596227f211f19）
+- https://raw.githubusercontent.com/cgoinglove/thursday-agent/HEAD/LICENSE（获取于 2026-11-09T21:12:07Z；SHA-256：54a5f0ee58c88993fdcc5c1208a2550956eaf201629f22a0d2f4813adef957ec）
+
+---
+
+## UI-Hawk
+
+UI-Hawk 是一种在界面导航中理解连续屏幕画面的智能体。其研究资料介绍了感知历史画面的视觉编码器、屏幕理解任务和 FunUI 基准。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-imnearth-uihawk/
+- 原始来源：https://github.com/IMNearth/UIHawk
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：界面理解、交互历史、GUI 定位、手机操作
+- 证据核查日期：2026-11-09T21:09:36Z
+- ID：github:imnearth/uihawk
+
+### 范围记录
+
+The repository lists a preprint PDF and assets. Its README describes FunUI as a bilingual benchmark with screens from Android devices; the listed repository files contain no agent code or weights.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-imnearth-uihawk/record.json
+
+### 许可证信息
+
+- 代码：CC-BY-NC-SA-4.0 — https://raw.githubusercontent.com/IMNearth/UIHawk/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/IMNearth/UIHawk/HEAD/README.md（获取于 2026-11-09T21:09:36Z；SHA-256：3103c56311d65e21387e6ecdb346b2e6bd85a668b4ef9885d7423fea69f21673）
+- https://raw.githubusercontent.com/IMNearth/UIHawk/HEAD/LICENSE（获取于 2026-11-09T21:11:51Z；SHA-256：7399d96e74201c11de619d79d97c664df890b789599fc23335dc9af7ed9aaa94）
+
+---
+
+## UI2Code^N
+
+一套根据截图起草界面代码，并通过反复渲染和视觉反馈加以改进的界面转代码系统。仓库提供演示程序和评测脚本。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-zai-org-ui2code-n/
+- 原始来源：https://github.com/zai-org/UI2Code_N
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：界面设计、界面理解、强化学习
+- 证据核查日期：2026-11-09T21:10:09Z
+- ID：github:zai-org/ui2code_n
+
+### 范围记录
+
+The repository contains demo and evaluation directories. The README links to a separately hosted model built on GLM-4.1V-9B-Base and cites arXiv:2511.08195.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-zai-org-ui2code-n/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/zai-org/UI2Code_N/HEAD/README.md（获取于 2026-11-09T21:10:09Z；SHA-256：9ce56b35375307eb8abc087d6f3ced0341d93c212b905524836a8965fc887c13）
 
 ---
 
@@ -4007,7 +4919,7 @@ Kotlin Android app for Android 11 (API 30) or later, published by KUAFUAI, with 
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Root LICENSE is the custom Andee Open Source License, the Apache-2.0 text modified by additional conditions in its Part A (no white-labelling, no multi-tenant hosting without written authorisation, written authorisation to distribute it inside another product); it is not a standard SPDX license, and GitHub reports NOASSERTION.
+- 代码审核：Root LICENSE is the custom Andee Open Source License, the Apache-2.0 text modified by additional conditions in its Part A (no white-labelling, no multi-tenant hosting without written authorisation, written authorisation to distribute it inside another product); GitHub reports NOASSERTION.
   来源：https://raw.githubusercontent.com/kuafuai/andee/634c6ee34ef11454116de7311bc901c3783c345c/LICENSE
 
 ### 一手证据
@@ -5558,7 +6470,7 @@ Code is released for the two named browser benchmarks. Visual-observer checkpoin
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate. The inspected text does not establish -only versus -or-later for the project.
+- 代码审核：Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate. The project’s -only versus -or-later license choice is unrecorded.
   来源：https://raw.githubusercontent.com/caap-agent/caap-agent/HEAD/LICENSE
 
 ### 一手证据
@@ -9862,7 +10774,7 @@ Android 自动化组件，采用分层规划和反思，并保留从多个任务
 
 ### 范围记录
 
-The inspected README supports Android only, with experiments on Samsung Galaxy A15; macOS/Linux instructions describe host-machine setup. Agent code, launch scripts and benchmark definitions are present. The root MIT code license does not establish terms for the separately published task dataset or external models.
+The inspected README supports Android only, with experiments on Samsung Galaxy A15; macOS/Linux instructions describe host-machine setup. Agent code, launch scripts and benchmark definitions are present. The root MIT license covers the repository code.
 
 - 完整记录 JSON：https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/record.json
 
@@ -9946,7 +10858,7 @@ The old mobilegptsys repository resolves to fclab-skku/MobileGPT. Public Android
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Repository source license; linked benchmark data and external models retain separate terms.
+- 代码审核：Repository source license.
   来源：https://raw.githubusercontent.com/fclab-skku/MobileGPT/HEAD/LICENSE
 
 ### 一手证据
@@ -12900,7 +13812,7 @@ The publisher describes a ReAct loop, task validation and failure recovery. It r
 
 ### 范围记录
 
-Archived on GitHub, and the README marks it deprecated in favour of H Company's hosted Models API and Agent API and the hai-agents clients. The loop keeps the last three screenshots by default for the navigation step, which chooses click_element, write_element, scroll, go_back, refresh, wait, restart or answer; click and write targets are named elements that a localizer model (Holo1 or the structured Holo1.5 path) turns into viewport coordinates for Selenium ActionChains. Models are reached through OpenAI-compatible endpoints: H Company's hosted API, a local vLLM server, or a SageMaker deployment; one script uses GPT-4.1 as validator. A FastAPI agent_server.py and a Next.js frontend stream runs to a browser UI. Root LICENSE is the BSD 3-Clause text with an H Company copyright and does not cover the Holo weights.
+Archived on GitHub, and the README marks it deprecated in favour of H Company's hosted Models API and Agent API and the hai-agents clients. The loop keeps the last three screenshots by default for the navigation step, which chooses click_element, write_element, scroll, go_back, refresh, wait, restart or answer; click and write targets are named elements that a localizer model (Holo1 or the structured Holo1.5 path) turns into viewport coordinates for Selenium ActionChains. Models are reached through OpenAI-compatible endpoints: H Company's hosted API, a local vLLM server, or a SageMaker deployment; one script uses GPT-4.1 as validator. A FastAPI agent_server.py and a Next.js frontend stream runs to a browser UI. Root LICENSE is the BSD 3-Clause text with an H Company copyright, covering the repository code.
 
 - 完整记录 JSON：https://awesomecua.com/resources/github-hcompai-surfer-h-cli/record.json
 
@@ -13451,7 +14363,7 @@ The official lowercase readme.md and source tree expose automatic and step-by-st
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Repository GNU GPL version 3 license; pretrained models and linked data retain separate terms.
+- 代码审核：Repository GNU GPL version 3 license.
   来源：https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/LICENSE
 
 ### 一手证据
@@ -14185,7 +15097,7 @@ The Android AccessibilityService contains concrete screen-reading and action pat
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Complete root MIT license text inspected at the pinned commit. Repository software only; data, weights and third-party assets retain separate terms.
+- 代码审核：Complete root MIT license text inspected at the pinned commit; it covers the repository software.
   来源：https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE
 
 ### 一手证据

@@ -26,7 +26,7 @@ Code is released for the two named browser benchmarks. Visual-observer checkpoin
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate. The inspected text does not establish -only versus -or-later for the project.
+- 代码审核：Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate. The project’s -only versus -or-later license choice is unrecorded.
   来源：https://raw.githubusercontent.com/caap-agent/caap-agent/HEAD/LICENSE
 
 ## 一手证据

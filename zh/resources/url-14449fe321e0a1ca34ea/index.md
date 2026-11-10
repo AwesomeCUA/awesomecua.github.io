@@ -39,7 +39,7 @@ Public manifest exposes data.zip; the internal file schema and number of example
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.
+- 数据审核：Publisher dataset-card declaration for this release.
   来源：https://huggingface.co/datasets/henryhe0123/PC-Agent-E/raw/4f64c7b055154bed9ffea677aa86aeb51a01cb73/README.md
 
 ## 一手证据

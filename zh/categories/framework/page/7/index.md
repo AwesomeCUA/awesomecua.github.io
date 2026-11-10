@@ -4,6 +4,30 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/7/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [Touchpoint](https://awesomecua.com/zh/resources/github-touchpoint-labs-touchpoint/)：Touchpoint 是跨平台桌面无障碍 API 和 MCP 服务器，为 AI 智能体提供统一的 UI 检查与控制能力。
+- [TraceFact](https://awesomecua.com/zh/resources/github-alex0ai-tracefact/)：面向编程和浏览器智能体、以证据为先的可靠性报告与确定性回放框架。
+- [TreeCUA](https://awesomecua.com/zh/resources/github-uitron-hub-treecua/)：通过树状探索和验证生成 GUI 操作轨迹的框架。
+- [Trope CUA](https://awesomecua.com/zh/resources/github-tropeai-trope-cua/)：Trope CUA 支持在 Windows 和 macOS 上进行后台桌面检查与 GUI 操作，同时不打断用户的前台工作。
+- [Trusted WebMCP Actions](https://awesomecua.com/zh/resources/github-markneville-trusted-webmcp-actions/)：参考架构，用于在有重大后果的 WebMCP 浏览器智能体动作中，以密码学方式验证用户授权。
+- [Tsaagan](https://awesomecua.com/zh/resources/github-michaelolmos-tsaagan/)：Tsaagan 是面向 AI 智能体、先验证再继续的浏览器控制框架，在进入下一步前验证每次点击和表单动作是否成功。
+- [TuriX-CUA](https://awesomecua.com/zh/resources/github-turixai-turix-cua/)：TuriX-CUA 是面向 macOS 和 Windows 的多智能体桌面自动化框架，结合规划者、执行者、反思者和记忆技能。
+- [UI-Voyager](https://awesomecua.com/zh/resources/github-ui-voyager-ui-voyager/)：UI-Voyager 是自我演进的移动端 GUI 智能体框架，通过组相对反思从失败的执行轨迹中学习。
+- [Ui.Vision RPA](https://awesomecua.com/zh/resources/github-a9t9-rpa/)：Ui.Vision 结合了兼容 Selenium 的浏览器命令、基于视觉的桌面 OCR 和模板自动化，以及面向 AI 智能体的 MCP 服务器。
+- [UI2API](https://awesomecua.com/zh/resources/github-merezarezaei-ui2api/)：对网站的 UI 和网络流量进行一次分析，为 AI 智能体生成可复用且无需浏览器的 API 工具。
+- [uia-agent](https://awesomecua.com/zh/resources/github-supermarioyl-uia-agent/)：uia-agent 定义开源 LLM 智能体的动作空间，通过 UI Automation 树驱动传统 Windows 桌面应用。
+- [Unattended Android Automation Toolkit](https://awesomecua.com/zh/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/)：面向无人值守 Android 应用自动化、崩溃恢复和 UI 状态采集的可靠性优先构建组件。
+- [Understudy](https://awesomecua.com/zh/resources/github-understudy-ai-understudy/)：Understudy 观察人类在桌面和浏览器中的操作演示，并将其编译为可参数化、可重放的计算机使用技能。
+- [Universal AI Studio (OmniAI Desktop)](https://awesomecua.com/zh/resources/github-osamalvzx-universal-ai-studio/)：一体化桌面 AI 工作室，集成多模型 LLM 聊天、计算机使用和浏览器自动化。
+- [V-Droid](https://awesomecua.com/zh/resources/github-v-droid-agent-v-droid/)：V-Droid 将移动端 GUI 执行者与生成式验证器配对，在 Android 设备上执行候选动作前为其评分。
+- [VACT (Vector Agent Context Transport)](https://awesomecua.com/zh/resources/github-fy2ne-vact/)：面向桌面计算机使用智能体的高频 GPU 屏幕感知和低延迟输入传输协议。
+- [vco (Visual Computer Operate)](https://awesomecua.com/zh/resources/github-lo2589-vco/)：由 Shell 驱动的可视化计算机使用工具包，使 LLM 能够查看和点击网页及桌面屏幕。
+- [Vedanshu7 Operant](https://awesomecua.com/zh/resources/github-vedanshu7-operant/)：通过 LLM 探索一次如何在没有 API 的应用中完成任务，并将轨迹编译为可重复执行的形式。
+- [VEM GUI-Agent-RL](https://awesomecua.com/zh/resources/github-microsoft-gui-agent-rl/)：训练代码从离线 Android 交互数据中学习价值环境模型，并用冻结的价值估计指导 GUI 策略优化。
+- [Venxuix Dccide](https://awesomecua.com/zh/resources/github-venxuix-dccide-venxuix/)：位于 Windows 之上的 2D/3D 智能体操作环境，供人类和 AI 智能体共同编排桌面任务。
+- [VeriOS](https://awesomecua.com/zh/resources/github-wuzheng02-verios/)：用于人与 GUI 智能体主动验证的研究代码，包括离线交互循环、双智能体评估脚本及 LLaMA-Factory 微调配置。
+- [VeriSafe Agent](https://awesomecua.com/zh/resources/github-verisafeagent-verisafeagent/)：面向 Android GUI 智能体的运行时验证框架，依据从用户指令和开发者定义的应用状态中推导出的逻辑规则检查拟执行的操作。
+- [VG-GUI-TASKER](https://awesomecua.com/zh/resources/github-vg-gui-tasker-vg-gui-tasker/)：VG-GUI-TASKER 从教学演示视频中提取有用的关键帧，用于指导多模态 GUI 智能体。
+- [Video2GUI](https://awesomecua.com/zh/resources/github-weiminxiong-video2gui/)：Video2GUI 通过逆向动力学和 VLM 标注，从未标注的屏幕录制视频中合成大规模 GUI 交互轨迹。
 - [VideoCAD training and evaluation code](https://awesomecua.com/zh/resources/github-ghadinehme-videocad/)：提供 VideoCADFormer 训练、操作日志预处理和评估代码，用于从浏览器版 Onshape 的屏幕录像中学习 CAD 界面操作序列。
 - [VillagerAgent & VillagerBench](https://awesomecua.com/zh/resources/github-cnsdqd-dyb-villageragent/)：VillagerAgent 提供基于有向无环图的多智能体协调器，以及 Minecraft 中的 VillagerBench 评测套件。
 - [ViMo code](https://awesomecua.com/zh/resources/github-ai-agents-2030-vimo/)：ViMo GUI 世界模型的代码，包括基于 Gemini 的下一屏文本预测、AITW 和 AndroidControl 数据处理、InstructPix2Pix 风格的图像推断，以及调用该模型的 AndroidWorld 智能体。

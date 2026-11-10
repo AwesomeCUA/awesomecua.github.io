@@ -25,7 +25,7 @@ Kotlin Android app for Android 11 (API 30) or later, published by KUAFUAI, with 
 - document: not recorded
 - weights: not recorded
 
-- code review: Root LICENSE is the custom Andee Open Source License, the Apache-2.0 text modified by additional conditions in its Part A (no white-labelling, no multi-tenant hosting without written authorisation, written authorisation to distribute it inside another product); it is not a standard SPDX license, and GitHub reports NOASSERTION.
+- code review: Root LICENSE is the custom Andee Open Source License, the Apache-2.0 text modified by additional conditions in its Part A (no white-labelling, no multi-tenant hosting without written authorisation, written authorisation to distribute it inside another product); GitHub reports NOASSERTION.
   Sources: https://raw.githubusercontent.com/kuafuai/andee/634c6ee34ef11454116de7311bc901c3783c345c/LICENSE
 
 ## Primary evidence

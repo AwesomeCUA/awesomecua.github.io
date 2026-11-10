@@ -4,6 +4,33 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/2/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [Phone Agent](https://awesomecua.com/zh/resources/github-boboabw-phone-agent/)：一款 iPhone 智能体，通过 ESP32-S3 蓝牙鼠标和键盘配件观察共享屏幕并跨应用操作。发布内容包括应用程序和固件源码。
+- [PlayJev](https://awesomecua.com/zh/resources/github-omnijev-playjev/)：一个根据渲染画面选择操作的浏览器游戏智能体。其仓库提供游戏环境、演示，以及训练和评估脚本。
+- [POK-Agent](https://awesomecua.com/zh/resources/github-acekorneya-pok-agent/)：POK-Agent 是一款 Windows 计算机使用智能体，将云端规划器与快速本地执行器配合使用，并把重复的 UI 工作流缓存为技能。
+- [Proxy Lite](https://awesomecua.com/zh/resources/github-convergence-ai-proxy-lite/)：Convergence AI 的开放权重网页智能体执行器：Playwright Chromium 循环将带标注的截图和编号元素列表发送给 proxy-lite-3b，并执行其点击、输入、滚动及浏览工具调用。
+- [Roubao](https://awesomecua.com/zh/resources/github-turbo1123-roubao/)：Kotlin 编写的设备端 Android 手机智能体，无需 PC 即可通过 Shizuku 截图、点击、滑动和输入，使用任意兼容 OpenAI 的 VLM、GUI-Owl 或 MAI-UI 运行规划、执行和反思循环。
+- [RSIGame](https://awesomecua.com/zh/resources/github-wenyiwu0111-rsigame/)：这是一个智能体游戏开发系统，会试玩生成的游戏，利用截图和运行证据指导修改，并通过重放游戏版本检查改动。
+- [SeeAct Web Agent (Chrome Extension)](https://awesomecua.com/zh/resources/github-osu-nlp-group-seeactchromeextension/)：一款在现有 Chrome 会话中运行 SeeAct 智能体的扩展，可浏览网站、收集信息并准备表单。
+- [sentineldesk-agent](https://awesomecua.com/zh/resources/github-sentineldesk-agent/)：sentineldesk-agent 通过 MCP 工具操作 Linux 桌面，提供终端和浏览器聊天界面，并记录目标、操作及结果。
+- [ShowUI-Aloha](https://awesomecua.com/zh/resources/github-showlab-showui-aloha/)：桌面智能体，可录制操作演示、提取语义动作轨迹，并据此规划和执行相关工作流程。
+- [TalkAct](https://awesomecua.com/zh/resources/github-19pine-ai-talkact/)：TalkAct 是一款双模型语音与计算机使用智能体，可在执行后台 GUI 动作的同时进行实时语音对话。
+- [TENKA](https://awesomecua.com/zh/resources/github-om-khode-tenka/)：TENKA 是 Windows 语音智能体，通过浏览器控制、原生界面操作和视觉后备方式完成浏览器及桌面任务，并保存对话记忆。
+- [Thursday](https://awesomecua.com/zh/resources/github-cgoinglove-thursday/)：Thursday 是语音驱动的计算机助手，将后台网页浏览和桌面自动化任务委派给 Playwright 子智能体。
+- [Thursday](https://awesomecua.com/zh/resources/github-cgoinglove-thursday-agent/)：Thursday 是本地语音助手，可将耗时任务交给能使用浏览器、终端和文件的智能体，同时继续对话。
+- [UI-Hawk](https://awesomecua.com/zh/resources/github-imnearth-uihawk/)：UI-Hawk 是一种在界面导航中理解连续屏幕画面的智能体。其研究资料介绍了感知历史画面的视觉编码器、屏幕理解任务和 FunUI 基准。
+- [UI2Code^N](https://awesomecua.com/zh/resources/github-zai-org-ui2code-n/)：一套根据截图起草界面代码，并通过反复渲染和视觉反馈加以改进的界面转代码系统。仓库提供演示程序和评测脚本。
+- [universe-starter-agent](https://awesomecua.com/zh/resources/github-openai-universe-starter-agent/)：这款已弃用的入门智能体使用 A3C 训练，在 Universe 游戏中操作，包括通过 VNC 远程桌面运行、观察和操作存在延迟的游戏。
+- [VersaiOS](https://awesomecua.com/zh/resources/github-zhaodashuaibi-versaios/)：VersaiOS 使用视觉语言模型定位 iPhone 屏幕上的目标，再通过 ESP32 蓝牙鼠标根据自然语言指令执行点击。
+- [Webagent (webagent.cloud)](https://awesomecua.com/zh/resources/github-webagent-cloud-webagent/)：可自行托管的浏览器智能体服务器，运行 Browser Use 或 Notte 智能体，将运行记录中的操作转为参数化工作流，再通过 Playwright 重放，步骤失败时交由智能体处理。
+- [WebBrain](https://awesomecua.com/zh/resources/github-webbrain-one-webbrain/)：WebBrain 是面向 Chrome 和 Firefox 的开源 AI 浏览器智能体扩展，可自动执行多步骤网页工作流程。
+- [WeChat Mac RPA](https://awesomecua.com/zh/resources/github-wq19901103wq-wechat-mac-rpa/)：WeChat Mac RPA 是 macOS 微信智能体，通过截图识别聊天界面、理解对话，并借助系统自动化发送消息和切换会话。
+- [Windows-Use](https://awesomecua.com/zh/resources/github-jeomon-windows-use/)：Python 智能体通过 UI Automation 树操作 Windows 应用，也可结合截图，由 LLM 选择点击、输入、滚动、快捷键、窗口操作和 PowerShell 命令。
+- [WMA Web Agent](https://awesomecua.com/zh/resources/github-kyle8581-wma-agents/)：该网页智能体利用训练得到的世界模型预测操作可能引发的重要页面变化，再选择行动。仓库提供轨迹处理和推理代码。
+- [aashutoshkumarr JARVIS Desktop Assistant](https://awesomecua.com/zh/resources/github-aashutoshkumarr-ai-desktop-assistant/)：基于 Python 的 Windows 语音与 GUI 桌面自动化助手。
+- [AbaoPal (阿宝Pal)](https://awesomecua.com/zh/resources/github-banye-technology-abaopal/)：开源多智能体 Android 手机自动化助手，可理解屏幕、规划跨应用任务并执行可复用技能。
+- [AdbGPT](https://awesomecua.com/zh/resources/github-sidongfeng-adbgpt/)：Android 缺陷重现智能体，从文字缺陷报告提取操作信息，并结合当前应用界面引导重现步骤。
+- [Aether Agent Browser](https://awesomecua.com/zh/resources/github-aetherai3-agent-browser/)：自托管的 Chrome 智能体运行环境，支持受限的 API 控制、实时 VNC 观察和人工接管。
+- [Aevora](https://awesomecua.com/zh/resources/github-atluri0001-aevora/)：自主式网页智能体，将自然语言意图转化为多步骤浏览器动作。
 - [Aeyes (Voice Browser Assistant)](https://awesomecua.com/zh/resources/github-evalutik-ai-partner-catalyst/)：Aeyes 是一款语音控制的 Chrome 扩展助手，旨在帮助盲人和视障用户浏览网站。
 - [Agent Friday](https://awesomecua.com/zh/resources/github-mahsaanullah-agent-friday/)：由 LangGraph 驱动的自主操作系统级桌面助手，用于多步骤系统和 GUI 工作流。
 - [Agent-OS (J.A.R.V.I.S. macOS Harness)](https://awesomecua.com/zh/resources/github-my-cmdhub-agent-os/)：以语音为主的 macOS 无障碍智能体，将屏幕状态读取为结构化文本，并验证每个 GUI 动作。
@@ -77,30 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/2/ · [English](ht
 - [Caesar Agent](https://awesomecua.com/zh/resources/github-jasonzliang-caesar-agent/)：Caesar 是开源的深度研究网页智能体，可规划多步骤查询、抓取网页并综合生成带引用的报告。
 - [CalebNewtonUSC Nova (Mac Operator)](https://awesomecua.com/zh/resources/github-calebnewtonusc-nova/)：自主式 macOS 桌面操作智能体，可检查屏幕状态并操控原生 Mac 应用。
 - [Cappuccino](https://awesomecua.com/zh/resources/github-gml-fmgroup-cappuccino/)：Cappuccino 是纯视觉桌面 GUI 智能体，可根据自然语言指令规划并执行多步骤计算机任务。
-- [Cetus](https://awesomecua.com/zh/resources/github-drewnekota-cetus/)：用于运行和审阅编码智能体运行环境的 macOS 客户端；内置运行环境含通过带编号的 Accessibility 元素操作前台应用的计算机使用辅助工具，并支持 Chrome 控制。
-- [ChromeClaw](https://awesomecua.com/zh/resources/github-algopian-chromeclaw/)：ChromeClaw 在 Chrome 扩展沙箱内运行自主浏览器和工作区智能体，配备支持多家提供商的 LLM 和标签页自动化工具。
-- [Claude Computer Use Demo for macOS](https://awesomecua.com/zh/resources/github-pallavag-claude-computer-use-macos/)：将工具调用转换为原生 macOS 屏幕捕获和输入动作，使 Anthropic Claude Computer Use 无需 Docker 即可直接在 macOS 上运行。
-- [claude-minecraft-use](https://awesomecua.com/zh/resources/github-observedobserver-claude-minecraft-use/)：为 macOS 上的 Anthropic Claude Computer Use 增加连续移动和视角控制，使其能够根据屏幕观察结果游玩 Minecraft。
-- [Clevrr Computer](https://awesomecua.com/zh/resources/github-clevrr-ai-clevrr-computer/)：Clevrr Computer 是基于 PyAutoGUI 的桌面自动化智能体，可捕获截图，并根据 LLM 规划执行鼠标和键盘动作。
-- [ClickAgent](https://awesomecua.com/zh/resources/github-samsung-clickagent/)：ClickAgent 将高层 MLLM 动作推理与专门的 UI 元素定位模型分离，用于 Android 任务自动化。
-- [ClosePaw](https://awesomecua.com/zh/resources/github-imoonkey-closepaw/)：本地运行的 Android 智能体应用读取无障碍树，可选用截图，通过无障碍节点操作或手势点击执行任务，也可在后台的 Shizuku 虚拟显示屏上运行。
-- [CoCo-Agent](https://awesomecua.com/zh/resources/github-xbmxb-coco-agent/)：结合屏幕与布局感知、条件式操作预测的智能手机自动化研究实现。
-- [COLA demo](https://awesomecua.com/zh/resources/github-alokia-cola-demo/)：协作式 Windows GUI 自动化研究演示，包含动态任务调度和恢复机制。
-- [ColorBrowserAgent](https://awesomecua.com/zh/resources/github-madeagents-browser-agent/)：面向长程网页任务的浏览器智能体，将执行进度压缩为摘要，并利用人工提供的网站知识指导后续操作。
-- [CoMEM-Agent](https://awesomecua.com/zh/resources/github-wenyiwu0111-comem-agent/)：网页 GUI 智能体实现，将以往交互轨迹编码为紧凑嵌入并检索作记忆；仓库提供推理与训练代码。
-- [CompBuddy](https://awesomecua.com/zh/resources/github-lewiswlker-compbuddy/)：CompBuddy 是后台运行的 macOS 计算机使用智能体，能够观察目标窗口并执行 Accessibility 和 CGEvent 动作，而不抢占焦点。
-- [Computer-Use-Agent (Windows)](https://awesomecua.com/zh/resources/github-nabhpatodi10-computer-use-agent/)：基于 LangGraph 的 Windows 计算机使用智能体，结合 UI Automation 树检查、OmniParser 视觉定位和人工确认关卡。
-- [CrashTranslator](https://awesomecua.com/zh/resources/github-wuchiuwong-crashtranslator/)：CrashTranslator 根据堆栈跟踪生成 Android 应用操作以复现崩溃；仓库提供代码、数据及模拟器运行说明。
-- [Crimson-Heart](https://awesomecua.com/zh/resources/github-yeyvhaiou-crimson-heart/)：持续运行的多模态桌面智能体，具备显式运行时状态管理、感知优先级的调度和可中断执行能力。
-- [cua-lite](https://awesomecua.com/zh/resources/github-justanotheruser82174-cua-lite/)：cua-lite 是跨平台桌面应用和测试框架，用于运行、评测和微调计算机使用智能体。
-- [cuAgent](https://awesomecua.com/zh/resources/github-xhqing-cuagent/)：cuAgent 是桌面计算机使用智能体，通过 open-computer-use Model Context Protocol 服务器操作 GUI 应用。
-- [CuaOS](https://awesomecua.com/zh/resources/github-cuaos-cuaos/)：CuaOS 在本地 Docker 沙箱中运行 Qwen3-VL 计算机使用智能体，自主控制 Ubuntu 虚拟桌面。
-- [CUGA](https://awesomecua.com/zh/resources/github-cuga-project-cuga-agent/)：企业通用智能体框架通过 API、MCP 或 OpenAPI 工具规划任务，在网页或混合模式下经浏览器扩展操作页面，并提供意图约束、工具审批和工具约束。
-- [Cursor Companion (MacScreenCompanion)](https://awesomecua.com/zh/resources/github-pradyut-das-macscreencompanion/)：原生 macOS AI 助手，可通过快捷键调用，感知屏幕内容并对当前屏幕上的内容进行检查和操作。
-- [Cuse (macOS AI Cursor Agent)](https://awesomecua.com/zh/resources/github-muneebkhan08-cuse/)：Cuse 是面向 macOS 的开源语音与文本 AI 光标智能体，可通过视觉定位 UI 控件并执行鼠标和键盘任务。
-- [CyberRaccoon](https://awesomecua.com/zh/resources/github-chaoticpixelio-cyberraccoon/)：非侵入式物理计算机使用智能体，通过 Raspberry Pi 捕获 HDMI 视频并发送 USB HID 鼠标和键盘动作。
-- [dcc123456 Browser Copilot](https://awesomecua.com/zh/resources/github-dcc123456-browser-copilot/)：Chrome 侧边栏 AI 助手，可读取当前网页并执行用户批准的浏览器动作。
-- [DEIMOS (Environment-Aware Computer Agent)](https://awesomecua.com/zh/resources/github-sakshamjuneja007-freaky-monkey/)：感知环境的自主计算机使用智能体，可感知 OS 状态并执行多步骤桌面工作流。
-- [Desktop Agent](https://awesomecua.com/zh/resources/github-ruslankoroy-desktop-agent/)：Desktop Agent 通过截图网格叠加标注、OCR 文本检测、语音命令以及鼠标和键盘操作来控制本地计算机。
-- [DesktopAgent (.NET 9)](https://awesomecua.com/zh/resources/github-alessiobianchini-desktopagent/)：基于 .NET 9 构建、以安全为先的本地桌面自动化智能体，配有跨平台 OS 适配器、策略检查和 MCP 服务器。
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/zh/resources/github-elidot007-desktop-agent/)：DesktopAgent 使用本地 0.33B System-One 决策模型（S1-Fast）和 UI Automation，在后台操作 Windows 桌面应用。

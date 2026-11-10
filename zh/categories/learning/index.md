@@ -2,7 +2,7 @@
 
 学习资源是用于构建和研究计算机使用智能体的课程、实践手册、教程、示例合集和精选列表。
 
-> AwesomeCUA 目录收录 32 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
+> AwesomeCUA 目录收录 36 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/learning/ · [English](https://awesomecua.com/categories/learning/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -11,29 +11,29 @@ HTML 页面：https://awesomecua.com/zh/categories/learning/ · [English](https:
 | 学习资源 | 平台 | 许可证 | 提及 |
 | --- | --- | --- | --- |
 | [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 8 |
+| [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) | 网页 | — | 5 |
+| [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE) | 4 |
 | [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |
+| [Amazon Nova Act Samples](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/) | 网页 | — | 2 |
 | [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) | 网页 · 桌面 · 跨平台 | — | 2 |
-| [chromedp examples](https://awesomecua.com/resources/github-chromedp-examples/) | 网页 | — | 2 |
-| [Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches](https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/) | 网页 · 桌面 · 跨平台 | — | 2 |
-| [The TinyFish Cookbook](https://awesomecua.com/resources/github-tinyfish-io-tinyfish-cookbook/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/tinyfish-io/tinyfish-cookbook/HEAD/LICENSE) | 2 |
 
 ## 常见问题
 
 ### 目录中被提及最多的学习资源有哪些？
 
-[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)（8 条记录）、[Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/)（3 条记录）和 [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/)（2 条记录）在其他目录记录的已审核来源中被提及最多。
+[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)（8 条记录）、[Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/)（5 条记录）和 [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/)（4 条记录）在其他目录记录的已审核来源中被提及最多。
 
 ### 这些学习资源覆盖哪些平台？
 
-在 32 条已审核学习资源中，网页 25 条、桌面 17 条、跨平台 17 条、手机 4 条；1 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 36 条已审核学习资源中，网页 29 条、桌面 18 条、跨平台 18 条、手机 4 条；1 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些学习资源有对应的论文？
 
-32 条中有 1 条链接到提出或说明它的 arXiv 论文，即 [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)。
+36 条中有 1 条链接到提出或说明它的 arXiv 论文，即 [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)。
 
 ### 学习资源使用哪些许可证？
 
-最常见的声明许可证是 MIT（9 条）、Apache-2.0（4 条）和 Unlicense（1 条）。32 条中有 18 条未记录声明的许可证。
+最常见的声明许可证是 MIT（11 条）、Apache-2.0（4 条）和 Unlicense（1 条）。36 条中有 20 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -75,6 +75,73 @@ The repository links to vLLM and SageMaker deployment guides and navigation and 
 
 ---
 
+## Awesome Plasmate
+
+Awesome Plasmate 是围绕面向 AI 智能体的浏览器引擎整理的文档、集成和工具列表，涵盖智能体框架与自动化资源。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-awesome-plasmate/
+- 原始来源：https://github.com/plasmate-labs/awesome-plasmate
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工具集成
+- 证据核查日期：2026-11-09T21:08:44Z
+- ID：github:plasmate-labs/awesome-plasmate
+
+### 范围记录
+
+The README groups links under sections for official resources, AI framework integrations, automation, developer tools and articles.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/awesome-plasmate/HEAD/README.md（获取于 2026-11-09T21:08:44Z；SHA-256：3d8de887e6a62a3a99c6acd0ea0a8c0cdbd6f18ce16e5eb4c8c581dd6c49c5c7）
+
+---
+
+## Plasmate Notebooks
+
+Plasmate Notebooks 通过 Jupyter 示例介绍面向智能体的浏览器引擎，涵盖页面结构、令牌量比较、批量提取和研究工作流。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-notebooks/
+- 原始来源：https://github.com/plasmate-labs/notebooks
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：界面理解、网页导航、效率
+- 证据核查日期：2026-11-09T19:57:10Z
+- ID：github:plasmate-labs/notebooks
+
+### 范围记录
+
+The README lists four notebooks and a quick-start command requiring Plasmate, Jupyter, tiktoken, pandas, and matplotlib. A Colab link is provided for the getting-started notebook.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-notebooks/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/README.md（获取于 2026-11-09T19:57:10Z；SHA-256：34e63824f03d5f277afb112eb11591442457534048699237db32b5cdde9bb444）
+- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE（获取于 2026-11-09T14:20:53Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
+
+---
+
 ## Steel Cookbook
 
 Steel Cookbook 汇集了多种语言的浏览器自动化示例，涵盖浏览器库、基于截图的计算机使用模型及智能体框架。
@@ -106,6 +173,39 @@ The repository lists example directories and catalogs TypeScript, Python, Go and
 
 - https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/README.md（获取于 2026-11-09T06:16:38Z；SHA-256：fc60a3a24218cad4417a15e830f3d632ef452c6089ed1e32ee54b93ec681bd64）
 - https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE（获取于 2026-11-09T06:13:56Z；SHA-256：834262fd95a89ba32917d40e269d9cecc989bcff92d79078b6f573edb8c614d4）
+
+---
+
+## Amazon Nova Act Samples
+
+代码示例和参考应用展示如何使用 Amazon Nova Act 构建浏览器工作流，并将 SDK 部署到 AWS 计算服务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/
+- 原始来源：https://github.com/amazon-agi-labs/nova-act-samples
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：自动化、网页导航、工作流、人机协作
+- 证据核查日期：2026-11-09T06:16:37Z
+- ID：github:amazon-agi-labs/nova-act-samples
+
+### 范围记录
+
+The repository organizes AWS CDK deployment samples, lightweight SDK examples, and complete applications into separate directories. The examples require dependency installation and SDK authentication configuration.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-samples/HEAD/README.md（获取于 2026-11-09T06:16:37Z；SHA-256：bf9262920c20fa71c0bfa305d3b05ac78c183f23c07537e0d9840317e4ce4878）
 
 ---
 
@@ -175,6 +275,40 @@ The README lists runnable programs and their arguments. It specifies Go 1.27 for
 
 ---
 
+## clawtouch-skills
+
+这套 Markdown 操作指南为通过 HID 控制桌面的智能体提供特定应用的菜单路径、快捷键和交互技巧。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-tinqiao-oss-clawtouch-skills/
+- 原始来源：https://github.com/tinqiao-oss/clawtouch-skills
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、Windows、macOS、Linux
+- 主题：自动化、工作流、记忆
+- 证据核查日期：2026-11-09T19:57:03Z
+- ID：github:tinqiao-oss/clawtouch-skills
+
+### 范围记录
+
+The README lists guides for WPS Office, Feishu, DingTalk, text entry and grid UI automation. It declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/README.md（获取于 2026-11-09T19:57:03Z；SHA-256：eb7d9a478ecb3c9d0d46c60cf866b83508647a08200f163fc7279e380fb16ead）
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE（获取于 2026-11-09T14:20:49Z；SHA-256：be6018d34e8d0508c2637e14dd93ade6475ac0c1f3595dbfa4e457ea24f5b117）
+
+---
+
 ## Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches
 
 这份精选阅读清单及附带报告梳理计算机使用研究，涵盖通过网页、桌面和移动界面操作的智能体。
@@ -205,6 +339,40 @@ The repository contains a README reading list and a linked PDF overview report.
 ### 一手证据
 
 - https://raw.githubusercontent.com/cdxeve/awesome-computer-use-agents/HEAD/README.md（获取于 2026-11-09T05:04:59Z；SHA-256：cb10a118fa532ac1c48b51ad73c5d9e052458379d214cf178557ac748dcfe749）
+
+---
+
+## Solari Cookbook
+
+Solari Cookbook 汇集云浏览器、沙箱和桌面的可运行示例，包括浏览器会话录制，以及在 Linux 图形界面上截图、点击和输入。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-solari-sdk-solari-cookbook/
+- 原始来源：https://github.com/solari-sdk/solari-cookbook
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、网页、桌面、Linux
+- 主题：自动化、沙箱、录制、网页导航
+- 证据核查日期：2026-11-09T21:09:44Z
+- ID：github:solari-sdk/solari-cookbook
+
+### 范围记录
+
+The repository organizes self-contained examples and larger applications. The source says the examples use Solari services behind an API key and declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/solari-sdk/solari-cookbook/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/solari-sdk/solari-cookbook/HEAD/README.md（获取于 2026-11-09T21:09:44Z；SHA-256：9a22cc4fe8e628d106f29c40316170a1e87077f7d5cfe7e08387ef022242a319）
+- https://raw.githubusercontent.com/solari-sdk/solari-cookbook/HEAD/LICENSE（获取于 2026-11-09T21:12:07Z；SHA-256：3efb6319acebefe4992ff432c420f50c0cb3b922ef658ae0a59d85bfffd7f44f）
 
 ---
 
@@ -310,36 +478,37 @@ The repository contains a README and supporting documentation with categorized p
 
 ---
 
-## Amazon Nova Act Samples
+## awb-recipes
 
-代码示例和参考应用展示如何使用 Amazon Nova Act 构建浏览器工作流，并将 SDK 部署到 AWS 计算服务。
+一组带日期的浏览器智能体操作配方，用于完成已登录网站上的任务，记录操作步骤、选择器、注意事项和验证状态。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-amazon-agi-labs-nova-act-samples/
-- 原始来源：https://github.com/amazon-agi-labs/nova-act-samples
+- 目录页面：https://awesomecua.com/zh/resources/github-jeet-dhandha-awb-recipes/
+- 原始来源：https://github.com/jeet-dhandha/awb-recipes
 - 类型：学习资源
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：网页
-- 主题：自动化、网页导航、工作流、人机协作
-- 证据核查日期：2026-11-09T06:16:37Z
-- ID：github:amazon-agi-labs/nova-act-samples
+- 主题：网页导航、工作流、自动化
+- 证据核查日期：2026-11-09T21:09:42Z
+- ID：github:jeet-dhandha/awb-recipes
 
 ### 范围记录
 
-The repository organizes AWS CDK deployment samples, lightweight SDK examples, and complete applications into separate directories. The examples require dependency installation and SDK authentication configuration.
+Recipes are stored as JSON files, and site-independent guidance appears in a patterns directory. The source declares an MIT license.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/record.json
 
 ### 许可证信息
 
-- 代码：未记录
+- 代码：MIT — https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-samples/HEAD/README.md（获取于 2026-11-09T06:16:37Z；SHA-256：bf9262920c20fa71c0bfa305d3b05ac78c183f23c07537e0d9840317e4ce4878）
+- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/README.md（获取于 2026-11-09T21:09:42Z；SHA-256：54ebfe9b9b2b81fc6b77e526b84f084ca37e393c09dd9577a15865395fc00ee7）
+- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE（获取于 2026-11-09T21:12:04Z；SHA-256：01613c1dd35e25e8e14b6487025f393d2535b9d544b4862b5d263ff631931f23）
 
 ---
 
@@ -407,40 +576,6 @@ The repository contains a bibliography and sections on offline, online, and hybr
 
 - https://raw.githubusercontent.com/Steve2457/Awesome-RL-GUI-Agents/HEAD/README.md（获取于 2026-11-09T06:16:34Z；SHA-256：ba8846ec7f3e05a242bb0728395b74b0f7d754f2116133bb470e193cbe575673）
 - https://raw.githubusercontent.com/Steve2457/Awesome-RL-GUI-Agents/HEAD/LICENSE（获取于 2026-11-09T06:13:37Z；SHA-256：70e87b65d448f7b60f21360bbf0f0453bc1856836e8b2d1399de1d9b83a41d2a）
-
----
-
-## clawtouch-skills
-
-这套 Markdown 操作指南为通过 HID 控制桌面的智能体提供特定应用的菜单路径、快捷键和交互技巧。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-tinqiao-oss-clawtouch-skills/
-- 原始来源：https://github.com/tinqiao-oss/clawtouch-skills
-- 类型：学习资源
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：跨平台、桌面、Windows、macOS、Linux
-- 主题：自动化、工作流、记忆
-- 证据核查日期：2026-11-09T19:57:03Z
-- ID：github:tinqiao-oss/clawtouch-skills
-
-### 范围记录
-
-The README lists guides for WPS Office, Feishu, DingTalk, text entry and grid UI automation. It declares an MIT license.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/README.md（获取于 2026-11-09T19:57:03Z；SHA-256：eb7d9a478ecb3c9d0d46c60cf866b83508647a08200f163fc7279e380fb16ead）
-- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE（获取于 2026-11-09T14:20:49Z；SHA-256：be6018d34e8d0508c2637e14dd93ade6475ac0c1f3595dbfa4e457ea24f5b117）
 
 ---
 
@@ -578,37 +713,36 @@ The repository contains benchmark pages and separate pages for open and closed s
 
 ---
 
-## Plasmate Notebooks
+## Predicate SDK Playground
 
-Plasmate Notebooks 通过 Jupyter 示例介绍面向智能体的浏览器引擎，涵盖页面结构、令牌量比较、批量提取和研究工作流。
+一组可运行的浏览器智能体演示，使用语义化页面快照和断言，并提供日志、截图及令牌用量统计以供评估。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-notebooks/
-- 原始来源：https://github.com/plasmate-labs/notebooks
+- 目录页面：https://awesomecua.com/zh/resources/github-predicatesystems-predicate-sdk-playground/
+- 原始来源：https://github.com/PredicateSystems/predicate-sdk-playground
 - 类型：学习资源
 - 审核状态：已审核
-- 范围：相关研究
+- 范围：核心
 - 运行环境：网页
-- 主题：界面理解、网页导航、效率
-- 证据核查日期：2026-11-09T19:57:10Z
-- ID：github:plasmate-labs/notebooks
+- 主题：评测、网页导航、可观测性
+- 证据核查日期：2026-11-09T21:09:42Z
+- ID：github:predicatesystems/predicate-sdk-playground
 
 ### 范围记录
 
-The README lists four notebooks and a quick-start command requiring Plasmate, Jupyter, tiktoken, pandas, and matplotlib. A Colab link is provided for the getting-started notebook.
+The repository describes eight demos, including local model and cloud model configurations. It includes run artifacts such as logs and screenshots.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-notebooks/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-predicatesystems-predicate-sdk-playground/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE
+- 代码：未记录
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/README.md（获取于 2026-11-09T19:57:10Z；SHA-256：34e63824f03d5f277afb112eb11591442457534048699237db32b5cdde9bb444）
-- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE（获取于 2026-11-09T14:20:53Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
+- https://raw.githubusercontent.com/PredicateSystems/predicate-sdk-playground/HEAD/README.md（获取于 2026-11-09T21:09:42Z；SHA-256：3dfc998bab1d914b5cee533dc0c0eb3e4e6376491183e13aaf938fd09c85a72a）
 
 ---
 

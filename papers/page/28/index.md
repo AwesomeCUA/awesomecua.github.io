@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/28/ · [Previous page](https://awesomecua.com/papers/page/27/index.md) · [Next page](https://awesomecua.com/papers/page/29/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -881,7 +881,7 @@ Zhuosheng Zhang, Aston Zhang
 - Publisher: Association for Computational Linguistics
 - Pages: 3132-3149
 - DOI: 10.18653/v1/2024.findings-acl.186
-- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2024/8.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2024.findings-acl.186/
@@ -1324,7 +1324,7 @@ Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 - Volume: 36
 - Pages: 59708-59728
 - DOI: 10.52202/075280-2609
-- Date source: Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2023-12-15.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html
@@ -2439,7 +2439,7 @@ Sagar Gubbi Venkatesh, Partha Talukdar, Srini Narayanan
 - Publisher: Association for Computational Linguistics
 - Pages: 1390-1399
 - DOI: 10.18653/v1/2024.findings-naacl.89
-- Date source: Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2024/6.
 - Identity basis: Same work under a revised title: the same three authors in the same order and the same specific contribution in the complete publisher abstract (UGIF-DataSet with 4,184 smartphone tasks across 8 languages, and end-to-end completion falling from 48% for English to 32% for other languages) were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title is 'UGIF-DataSet: A New Dataset for Cross-lingual, Cross-modal Sequential actions on the UI', while the retained arXiv v2 title is 'UGIF: UI Grounded Instruction Following'.
 - Publication evidence: https://aclanthology.org/2024.findings-naacl.89/
@@ -3085,7 +3085,7 @@ Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhapari
 - Date source: Explicit publisher metadata: 2022/06/28; precision=day.
 - Event dates: 17--23 Jul 2022
 - Identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- Source notes: The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Source notes: The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately as an event date. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - Publication evidence: https://proceedings.mlr.press/v162/humphreys22a.html, https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf
 
 ### Recorded arXiv snapshot

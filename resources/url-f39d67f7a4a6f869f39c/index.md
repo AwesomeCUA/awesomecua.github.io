@@ -25,7 +25,7 @@ Hub API at revision 525e05a4 lists seven safetensors shards (about 33.01B parame
 - document: not recorded
 - weights: NVIDIA Open Model License — https://huggingface.co/Hcompany/Holotron-3-Nano/raw/525e05a4b21747ea5c32b09a5969bfc425d5e95c/README.md
 
-- weights review: Publisher model-card text names the NVIDIA Open Model License for this checkpoint, matching H's models page; the Hub value 'other' is not a license name.
+- weights review: Publisher model-card text names the NVIDIA Open Model License for this checkpoint, matching H's models page.
   Sources: https://huggingface.co/Hcompany/Holotron-3-Nano/raw/525e05a4b21747ea5c32b09a5969bfc425d5e95c/README.md, https://hcompany.ai/research/models
 
 ## Primary evidence

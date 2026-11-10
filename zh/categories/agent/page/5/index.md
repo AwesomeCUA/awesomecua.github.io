@@ -4,6 +4,33 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/5/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [QAgent](https://awesomecua.com/zh/resources/github-rishabhcli-qagent/)：QAgent 是本地优先的网页 QA 与修复智能体，具备 Electron 桌面 UI、CLI、MCP 服务器和隔离的 Git 工作树执行环境。
+- [qz-browser-agent](https://awesomecua.com/zh/resources/github-alibaba-qz-browser-agent/)：Chrome 扩展智能体读取页面 DOM 和无障碍树，跨标签页操作带索引的元素或截图坐标，并通过内置 CLI 和 MCP 桥接接收委派任务。
+- [RCI Agent](https://awesomecua.com/zh/resources/github-posgnu-rci-agent/)：MiniWoB++ 智能体，使用显式和隐式的递归批评与改进提示来优化操作计划，并将操作定位到浏览器状态。
+- [Recallo](https://awesomecua.com/zh/resources/github-tianqi-bu-recallo/)：Recallo 是以本地为优先的浏览器智能体，使用持久化 SQLite 情节记忆保存跨浏览会话的信息。
+- [Recruit Auto-Reply](https://awesomecua.com/zh/resources/github-kxc7558-recruit-auto-reply/)：面向招聘平台的本地浏览器扩展智能体，从检索知识库中获取答案以回复候选人消息，并上报未知问题。
+- [RegionCUA](https://awesomecua.com/zh/resources/github-region-ai-region-cua/)：RegionCUA 是由本地 Ollama 驱动的桌面智能体，可探索 GUI 应用并生成带说明的截图、视频和重放脚本。
+- [Resume Autofill Agent](https://awesomecua.com/zh/resources/github-ccc-zach-resume-autofill-agent/)：AI 浏览器智能体和 Chrome 扩展，可解析简历并自主填写复杂的求职网页表单。
+- [Ribband (Agentic WebMCP)](https://awesomecua.com/zh/resources/github-somnora-agentic-webmcp/)：基于 WebMCP 协议、有来源依据的个人决策与购物浏览器智能体。
+- [Ruyi (如意)](https://awesomecua.com/zh/resources/github-icesword0760-ruyi/)：Ruyi 将远程 Chrome 会话流式传输到用户浏览器，供人和 AI 协同控制，并将动作编译为自修复脚本。
+- [s1](https://awesomecua.com/zh/resources/github-matthew-eucaristo-s1/)：s1 是以语音为主要交互方式的 macOS 计算机使用智能体，可检查无障碍树、执行 UI 动作并显示可审查的步骤记录。
+- [Scout](https://awesomecua.com/zh/resources/github-outcrawlai-scout/)：TypeScript 浏览器智能体通过 CDP 操作任意 Chromium，按观察、行动、检查循环运行，可分别选择操作、推理、视觉和提取模型，并可输出符合 JSON Schema 的答案。
+- [Scout Browser Agent](https://awesomecua.com/zh/resources/github-sanjeev29-scout-browser-agent/)：浏览器智能体采用四层感知级联，从轻量级 HTTP 文本逐步扩展到无障碍树，并以视觉感知作为后备方式。
+- [Screen Intelligence](https://awesomecua.com/zh/resources/github-zacfink-screen-intelligence/)：Screen Intelligence 是 macOS 桌面智能体，使用多模态 LLM 读取屏幕并执行鼠标和键盘动作。
+- [ScreenBuddy](https://awesomecua.com/zh/resources/github-nideesh1-screen-buddy/)：ScreenBuddy 是一个原生 Rust 和 Tauri macOS 桌面客户端，用于运行自带密钥的 Claude Computer Use 工作流。
+- [ScreenPilot](https://awesomecua.com/zh/resources/github-droppinganvil-screenpilot/)：ScreenPilot 是设计用于在 8GB VRAM 内运行的本地计算机使用智能体，结合截图规划与鼠标、键盘控制。
+- [ScribeAgent](https://awesomecua.com/zh/resources/github-colonylabs-scribeagent/)：ScribeAgent 利用含网页 HTML 和历史操作的流程记录训练网页智能体；仓库提供数据预处理、微调和评测代码。
+- [Self Operating Computer](https://awesomecua.com/zh/resources/github-othersideai-self-operating-computer/)：2023 年 11 月发布的框架，由多模态模型观察屏幕并选择鼠标和键盘操作以完成目标，支持 GPT-4o、Claude 3、Gemini 和 LLaVA 等后端。
+- [SheetCopilot](https://awesomecua.com/zh/resources/github-bravegroup-sheetcopilot/)：面向 Windows 和 Excel 的电子表格自动化智能体，提供基准资源，并另行发布无界面的 Ubuntu 评估后端。
+- [shoal](https://awesomecua.com/zh/resources/github-raynan00-shoal/)：部署并发 AI 浏览器智能体群，对网站进行压力测试并可视化 UX 瓶颈。
+- [Sidelook](https://awesomecua.com/zh/resources/github-ucsandman-sidelook/)：Windows 桌面伴随智能体，可观察当前应用上下文并执行经用户批准的 UI 动作。
+- [Sidemates](https://awesomecua.com/zh/resources/github-prisacariurobert-sidemates/)：开源桌面 AI 伴侣，可观察活动窗口并协助完成日常计算机任务。
+- [Smart Pet Agent](https://awesomecua.com/zh/resources/github-realstreetsmartnyc-smart-pet-agent/)：本地优先的环境感知桌面宠物智能体，观察工作区上下文并自动执行日常桌面动作。
+- [Solari Voice Agent](https://awesomecua.com/zh/resources/github-muhammad-abdullahghani-solari-voice-agent/)：基于 Solari Desktop 和 LangGraph 构建的语音指令驱动自主计算机使用智能体。
+- [SREY Voice Assistant](https://awesomecua.com/zh/resources/github-mishrasreyansh86-cloud-srey-voice-assistant/)：基于 Python 的桌面语音助手，用于自动操作本地应用、进行网页搜索和控制系统。
+- [Steel Atlas](https://awesomecua.com/zh/resources/github-steel-dev-atlas/)：Steel Atlas 是基于 Steel 云浏览器运行环境构建的开放网络研究与浏览器自动化智能体。
+- [StrawManus](https://awesomecua.com/zh/resources/github-painbaba-strawmanus/)：浏览器控制智能体，结合 Manus 的扁平化 12 工具动作架构与本地 Chromium 自动化。
+- [Surf New](https://awesomecua.com/zh/resources/github-steel-dev-surf-new/)：Steel 提供的 Next.js 和 FastAPI 试验平台，用于在受控浏览器环境中试用网页智能体，可实时查看浏览器交互，并支持 Claude、GPT-4 等模型提供方。
 - [Surfer 2](https://awesomecua.com/zh/resources/url-efd78f56fcde1f4f05e5/)：Surfer 2 是面向桌面、网页和移动设备任务的计算机使用智能体；其协调模块分配子任务，并由其他组件完成视觉定位与执行。
 - [Surfer-H-CLI](https://awesomecua.com/zh/resources/github-hcompai-surfer-h-cli/)：已弃用的 H Company Surfer-H 网页智能体运行器：策略模型读取近期 Chrome 截图，Holo 定位器给出点击坐标，Selenium 执行操作，可选验证器检查答案。
 - [Svate](https://awesomecua.com/zh/resources/github-jieao-re-svate/)：Svate 是设备端 Android UI 自动化智能体，结合 Accessibility 树、截图、动作前安全检查和恢复功能。

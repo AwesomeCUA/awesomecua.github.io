@@ -25,7 +25,7 @@ README describes AITW test sampling and preprocessing reused from Auto-GUI, foll
 - document: not recorded
 - weights: not recorded
 
-- code review: No project-wide code license is established by the inspected README/API/tree; third-party code presence does not establish a license for this package.
+- code review: A project-wide code license is unrecorded in the inspected README/API/tree.
   Sources: https://raw.githubusercontent.com/sqzhang-lazy/D-PoT/HEAD/README.md
 
 ## Primary evidence

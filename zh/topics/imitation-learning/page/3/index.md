@@ -4,6 +4,10 @@ HTML 页面：https://awesomecua.com/zh/topics/imitation-learning/page/3/
 
 完整列表：https://awesomecua.com/zh/topics/imitation-learning/index.md
 
+- [OS-Genesis 4B AW](https://awesomecua.com/zh/resources/url-a2362e23fdcbc73763e6/)
+- [OS-Genesis 4B WA](https://awesomecua.com/zh/resources/url-807dadc7dc4ba995bbbe/)
+- [OS-Genesis 7B AC](https://awesomecua.com/zh/resources/url-80858580c1009eba0e98/)
+- [OS-Genesis 7B AW](https://awesomecua.com/zh/resources/url-7afa17db925828d9a035/)
 - [OS-Genesis 7B WA](https://awesomecua.com/zh/resources/url-93c98e3b5aea945e0877/)
 - [OS-Genesis 8B AC](https://awesomecua.com/zh/resources/url-2be7f81cdca0eb8566c6/)
 - [OS-Genesis 8B AW](https://awesomecua.com/zh/resources/url-2eaf614de14193997f33/)
@@ -16,6 +20,7 @@ HTML 页面：https://awesomecua.com/zh/topics/imitation-learning/page/3/
 - [UI-Act model](https://awesomecua.com/zh/resources/github-tobiasnorlund-ui-act-model/)
 - [UI-Genie Agent 3B](https://awesomecua.com/zh/resources/url-43d811a5957d8effb7ed/)
 - [UI-Genie Agent 7B](https://awesomecua.com/zh/resources/url-6d959b58bd4a2e98e417/)
+- [UI-Voyager](https://awesomecua.com/zh/resources/url-e2ddf502803f46085aca/)
 - [Ace](https://awesomecua.com/zh/resources/url-7a35f44787f99834f13e/)
 - [Agent Lumos](https://awesomecua.com/zh/resources/github-allenai-lumos/)
 - [Android-Skill-Agent](https://awesomecua.com/zh/resources/github-xiru0834-eng-android-skill-agent/)
@@ -59,8 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/imitation-learning/page/3/
 - [Smol2Operator](https://awesomecua.com/zh/resources/github-huggingface-smol2operator/)
 - [Synapse](https://awesomecua.com/zh/resources/github-ltzheng-synapse/)
 - [Taprun (tap)](https://awesomecua.com/zh/resources/github-leonting1010-tap/)
-- [TeachReplay](https://awesomecua.com/zh/resources/github-ottohere-mourn-teachreplay/)
-- [TongUI training and inference framework](https://awesomecua.com/zh/resources/github-tongui-agent-tongui-agent/)
-- [UI-Genie](https://awesomecua.com/zh/resources/github-euphoria16-ui-genie/)
-- [UI-Mate](https://awesomecua.com/zh/resources/github-tencent-ui-mate/)
-- [Understudy](https://awesomecua.com/zh/resources/github-understudy-ai-understudy/)

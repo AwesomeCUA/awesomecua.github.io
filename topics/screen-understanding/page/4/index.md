@@ -62,5 +62,5 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [Astra Game Arena](https://awesomecua.com/resources/github-gih10012-astra-game-arena/)
 - [AutomotiveUI-Bench-4K](https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/)
 - [BearCubs](https://awesomecua.com/resources/url-86229ebd22143128bcf7/)
-- [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/)
-- [Gomoku Computer-Use Model Comparison](https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/)
+- [Co-Design Bench](https://awesomecua.com/resources/github-wiselnn570-co-design-bench/)
+- [Co-Design Bench](https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/)

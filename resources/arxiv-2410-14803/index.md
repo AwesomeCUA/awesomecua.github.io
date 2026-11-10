@@ -38,7 +38,7 @@ Taiyi Wang, Zhihao Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao
 - Venue: International Conference on Learning Representations
 - Volume: 2025
 - Pages: 74757-74782
-- Date source: Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025-05-01.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher title uses singular Agent; the preprint uses Agents. The authors and DistRL contribution agree.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2025/hash/b9e472cd579c83e2f6aa3459f46aac28-Abstract-Conference.html

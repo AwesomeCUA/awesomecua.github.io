@@ -4,6 +4,12 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [atlas-desktop](https://awesomecua.com/zh/resources/github-abydin-atlas-desktop/)
+- [Auto_OS](https://awesomecua.com/zh/resources/github-jaswanth1902-auto-os/)
+- [AutoFiller Universal](https://awesomecua.com/zh/resources/github-fedetrain-autofiller-universal/)
+- [Automata](https://awesomecua.com/zh/resources/github-mindattic-automata/)
+- [AUV](https://awesomecua.com/zh/resources/github-moeru-ai-auv/)
+- [axstream](https://awesomecua.com/zh/resources/github-milind-soni-axstream/)
 - [azderus browser-agent](https://awesomecua.com/zh/resources/github-azderus-browser-agent/)
 - [Better AI Browser Utilities (BABU)](https://awesomecua.com/zh/resources/github-itmediatech-better-ai-browser-utilities/)
 - [Better AX for Computer Use](https://awesomecua.com/zh/resources/github-hqhq1025-better-ax-for-computer-use/)
@@ -58,9 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/6/
 - [DrishtiGuard](https://awesomecua.com/zh/resources/github-atharvasamant4-drishtiguard/)
 - [Drisp Browser MCP](https://awesomecua.com/zh/resources/github-drisplabs-browser-mcp/)
 - [dsh-vision-click](https://awesomecua.com/zh/resources/github-zdd3143-dsh-vision-click/)
-- [DXcam](https://awesomecua.com/zh/resources/github-ra1nty-dxcam/)
-- [ecobrowser (ai-browser)](https://awesomecua.com/zh/resources/github-haidaresber-ai-browser/)
-- [ESP (Echo-Skeleton Perception)](https://awesomecua.com/zh/resources/github-badtheorylabs-esp/)
-- [EvalOps browser-use-rs](https://awesomecua.com/zh/resources/github-dx-corp-browser-use-rs/)
-- [Evoui Browser](https://awesomecua.com/zh/resources/github-salmonbird-evoui-browser/)
-- [eyehands](https://awesomecua.com/zh/resources/github-shameindemgg-eyehands/)

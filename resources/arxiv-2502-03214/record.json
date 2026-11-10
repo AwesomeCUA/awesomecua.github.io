@@ -1,14 +1,14 @@
 {
   "status": "excluded",
   "id": "arxiv:2502.03214",
-  "reason": "Benchmarks VLM spatial reasoning on an interactive sliding-tile puzzle in 3D, 2D and text modes. This puzzle environment is not a GUI, web or device interface.",
+  "reason": "Benchmarks VLM spatial reasoning on an interactive sliding-tile puzzle in 3D, 2D and text modes. This puzzle environment sits outside GUI, web and device interfaces.",
   "decision": {
     "id": "arxiv:2502.03214",
     "name": "iVISPAR -- An Interactive Visual-Spatial Reasoning Benchmark for VLMs",
     "url": "https://arxiv.org/abs/2502.03214",
     "decision": "out_of_scope",
     "basis": "primary_abstract_review",
-    "reason": "Benchmarks VLM spatial reasoning on an interactive sliding-tile puzzle in 3D, 2D and text modes. This puzzle environment is not a GUI, web or device interface.",
+    "reason": "Benchmarks VLM spatial reasoning on an interactive sliding-tile puzzle in 3D, 2D and text modes. This puzzle environment sits outside GUI, web and device interfaces.",
     "reviewed_at": "2026-11-05T23:58:03Z",
     "metadata_fingerprint": "e5264c28beefcb652f591d7e5f90a62890f4f74e85987d9dc77d02279668a29c",
     "evidence": {

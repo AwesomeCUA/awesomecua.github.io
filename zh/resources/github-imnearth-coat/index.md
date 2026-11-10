@@ -26,7 +26,7 @@ The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with 
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Apache-2.0 badge alone does not establish component-scoped source terms; the inspected non-truncated tree has no license file.
+- 代码审核：The inspected non-truncated tree has no license file; the README displays an Apache-2.0 badge.
   来源：https://raw.githubusercontent.com/IMNearth/CoAT/HEAD/README.md, https://api.github.com/repos/IMNearth/CoAT/git/trees/main?recursive=1
 
 ## 一手证据

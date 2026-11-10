@@ -141,10 +141,14 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
 
 - [InfiGUI-R1 3B](https://awesomecua.com/zh/resources/url-35b9879a351cc3b3d7d5/) — Date not recorded
   A Qwen2.5-VL checkpoint trained with the Actor2Reasoner procedure to combine interface grounding with planning and recovery reasoning.
+- [Northstar-CUA-Fast](https://awesomecua.com/zh/resources/url-52de9679739ad0a50f69/) — Date not recorded
+  A 4B-parameter computer-use model trained with GUI reinforcement learning that maps text and screenshots to actions such as clicks, typing, and scrolling.
 - [OpenCUA 32B](https://awesomecua.com/zh/resources/url-ad7f176848fd84de64e2/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history with planning and grounded executable actions.
 - [OpenCUA 72B](https://awesomecua.com/zh/resources/url-4a0b1692589594745a3c/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and reflective reasoning to predict executable desktop actions.
+- [UI-Voyager](https://awesomecua.com/zh/resources/url-e2ddf502803f46085aca/) — Date not recorded
+  A released mobile GUI agent checkpoint fine-tuned from Qwen3-VL-4B-Instruct to operate device interfaces, with AndroidWorld evaluation instructions.
 
 ## 工程与产业
 
@@ -158,6 +162,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   LLM-powered Android agent over ADB that reads the screen, executes tap/swipe/type actions, and verifies outcomes at each step.
 - [AgenticX-GUIAgent](https://awesomecua.com/zh/resources/github-demondamon-agenticx-guiagent/) — Date not recorded
   AgenticX-GUIAgent is a multi-agent Android GUI automation system with coordinated manager, executor, reflector, and notetaker roles.
+- [AgentVision](https://awesomecua.com/zh/resources/github-amitpatole-agent-vision/) — Date not recorded
+  A visual review tool for AI agents that renders interfaces and reports layout, contrast, text, and image issues. Agents can use its findings to revise and check their output again.
 - [Anchor-Inference Daedalus](https://awesomecua.com/zh/resources/github-anchor-inference-daedalus/) — Date not recorded
   Self-developing personal AI agent with its own desktop app, persistent memory, and computer-use tools.
 - [AndroidGen](https://awesomecua.com/zh/resources/github-thudm-androidgen/) — Date not recorded
@@ -200,6 +206,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   ENVISIONS is an environment-guided neural-symbolic self-training framework for language agents across symbolic reasoning and WebShop tasks.
 - [ENVS (Environment-Native Verified Search)](https://awesomecua.com/zh/resources/github-artysicistz-envs/) — Date not recorded
   ENVS is a post-training and verified tree-search pipeline for long-horizon GUI agents operating in live desktop and web environments.
+- [ExACT](https://awesomecua.com/zh/resources/github-microsoft-exact/) — Date not recorded
+  ExACT supplies a web agent that uses reflective tree search to explore and assess interface states, plus scripts for running and evaluating tasks in VisualWebArena.
 - [GenericAgent](https://awesomecua.com/zh/resources/github-lsdefine-genericagent/) — Date not recorded
   GenericAgent is a minimal self-evolving agent framework that synthesizes reusable skills for browser, OS, and ADB mobile control.
 - [Genie](https://awesomecua.com/zh/resources/github-vimalmathew26-genie/) — Date not recorded
@@ -238,6 +246,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   Lynx Agent is a completion-first Android phone-use agent with evidence-based state verification, recovery, and safety checks.
 - [MAI](https://awesomecua.com/zh/resources/github-fluxaster-mai/) — Date not recorded
   MAI combines MaaFramework with multimodal LLMs in a Planner-Executor-Verifier loop for game and application GUI automation.
+- [MCP for Blender](https://awesomecua.com/zh/resources/github-ahujasid-blender-mcp/) — Date not recorded
+  MCP for Blender connects AI clients to Blender through an addon and MCP server for scene edits, Python commands and visual verification using views and renders.
 - [MobA](https://awesomecua.com/zh/resources/github-opendfm-moba/) — Date not recorded
   An Android agent that combines global task planning and memory with a local action executor, using reflection to revise mobile interaction steps.
 - [Mobile-Agent-E code component](https://awesomecua.com/zh/resources/component-x-plug-mobileagent-mobile-agent-e/) — Date not recorded
@@ -262,14 +272,20 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   WebMCP marketplace and verification harness featuring a closed-loop self-healing browser verifier.
 - [PC-Agent (X-PLUG component)](https://awesomecua.com/zh/resources/component-x-plug-mobileagent-pc-agent/) — Date not recorded
   Multi-agent desktop automation component for Windows and macOS, combining active perception, task decomposition and reflection for workflows spanning applications.
+- [PlayCoder](https://awesomecua.com/zh/resources/github-tencent-playcoder/) — Date not recorded
+  PlayCoder generates and refines GUI application code using interactive tests. Its PlayTester observes application screenshots, performs interface actions and feeds results into repair.
 - [Q-Reflector](https://awesomecua.com/zh/resources/github-pockyitachi-q-reflector/) — Date not recorded
   Q-Reflector trains an 8B vision-language verifier with generated pre/post-action conditions to detect and correct GUI action errors.
+- [Q-Verifier / Q-Reflector](https://awesomecua.com/zh/resources/github-pockyitachi-q-verifier/) — Date not recorded
+  Q-Reflector checks a GUI agent's action against before-and-after screenshots and task context, with training and online evaluation code.
 - [QAgent](https://awesomecua.com/zh/resources/github-rishabhcli-qagent/) — Date not recorded
   QAgent is a local-first web QA and repair agent with an Electron desktop UI, CLI, MCP server, and isolated Git worktree execution.
 - [RCI Agent](https://awesomecua.com/zh/resources/github-posgnu-rci-agent/) — Date not recorded
   A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
 - [Roubao](https://awesomecua.com/zh/resources/github-turbo1123-roubao/) — Date not recorded
   On-device Android phone agent in Kotlin that captures screenshots and taps, swipes and types through Shizuku without a PC, running a planner, executor and reflector loop on any OpenAI-compatible VLM, GUI-Owl or MAI-UI.
+- [RSIGame](https://awesomecua.com/zh/resources/github-wenyiwu0111-rsigame/) — Date not recorded
+  An agentic game-development system that plays generated games, uses screenshots and run evidence to guide revisions, and replays builds to check the changes.
 - [SEAgent](https://awesomecua.com/zh/resources/github-sunzey-seagent/) — Date not recorded
   SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.
 - [Self-Healing Browser Agent](https://awesomecua.com/zh/resources/github-25andresbernal-self-healing-browser-agent/) — Date not recorded

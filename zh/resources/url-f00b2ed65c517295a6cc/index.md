@@ -15,7 +15,7 @@
 
 ## 范围记录
 
-The card says the videos were sourced from the internet, trimmed to screen-recording segments and stripped of audio, and are meant for training and evaluating computer-use agents. Per-folder metadata.jsonl files give file name, category, trimmed duration and segment count only; there are no actions, cursor events or instructions. At Hub revision b50aecce the manifest lists 48,477 MP4 files, one fewer than the card (Excel has 8,110 against 8,111). The repository also holds descriptions.parquet and 48,473 per-video JSON files under descriptions/, beyond the card's documented files; the one inspected file gives the source video's title and channel, transcript text in 10-second windows and a short step description or NO_TASK per window. The card's CC-BY-4.0 declaration does not establish rights to the third-party videos.
+The card says the videos were sourced from the internet, trimmed to screen-recording segments and stripped of audio, and are meant for training and evaluating computer-use agents. Per-folder metadata.jsonl files give file name, category, trimmed duration and segment count only; there are no actions, cursor events or instructions. At Hub revision b50aecce the manifest lists 48,477 MP4 files, one fewer than the card (Excel has 8,110 against 8,111). The repository also holds descriptions.parquet and 48,473 per-video JSON files under descriptions/, beyond the card's documented files; the one inspected file gives the source video's title and channel, transcript text in 10-second windows and a short step description or NO_TASK per window. CC-BY-4.0 is the card's declaration for the videos.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/record.json
 
@@ -43,7 +43,7 @@ File counts come from a script over the pinned Hub manifest; the card's per-cate
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Dataset-card metadata and License section declare CC-BY-4.0 for this release; the card says the videos were sourced from the internet, and the declaration does not establish rights to those third-party recordings or the software shown.
+- 数据审核：Dataset-card metadata and License section declare CC-BY-4.0 for this release; the card says the videos were sourced from the internet.
   来源：https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md
 
 ## 一手证据

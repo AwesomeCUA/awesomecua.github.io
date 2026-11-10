@@ -1986,7 +1986,7 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 - 出版方：Association for Computational Linguistics
 - 页码：7436-7465
 - DOI：10.18653/v1/2025.acl-long.369
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: the same 29 authors in the same order and the same OS Agents survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity, whose abstract presents the 9-page version accepted by ACL 2025 and whose comment reads ACL 2025 (Oral). The titles differ only in their final phrase.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title ends with 'for Computer, Phone and Browser Use', while the retained arXiv v1 title ends with 'for General Computing Devices Use'.
 - 发表证据：https://aclanthology.org/2025.acl-long.369/

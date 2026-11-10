@@ -42,7 +42,7 @@ Counts come from a script over the pinned Hub file list. Every task directory ho
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Dataset-card metadata declaration (license: mit) for this release; the card has no other text, and the declaration does not establish rights to the applications or content shown in the screenshots.
+- 数据审核：Dataset-card metadata declaration (license: mit) for this release; the card contains only that metadata.
   来源：https://huggingface.co/datasets/mlfoundations/gelato-osworld-agent-trajectories/raw/b9495a8eca361b16d564e62cc0041ed3aecef618/README.md
 
 ## 一手证据

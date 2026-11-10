@@ -423,6 +423,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Mobile control benchmark with varied interface configurations.
 - [Bellwether](https://awesomecua.com/zh/resources/github-al-mohad-bell-weather/) — Date not recorded
   Bellwether measures multi-trial pass^k consistency of computer-use agents on legacy enterprise UI workflows.
+- [Browser AI Agent — live-web benchmark audit](https://awesomecua.com/zh/resources/github-saarthak-yadav-browser-agent-webvoyager/) — Date not recorded
+  An archived audit of live website tasks for web-agent evaluation, with task subsets and scripts that examine site decay, access barriers, and measurement errors.
 - [BrowserAgentRegression](https://awesomecua.com/zh/resources/github-albertxxuu-browseragentregression/) — Date not recorded
   Local-first regression testing benchmark for evaluating browser agents against controlled UI and DOM mutations.
 - [BrowserTransactionBench](https://awesomecua.com/zh/resources/github-lamenting-hawthorn-browserbench/) — Date not recorded
@@ -567,6 +569,10 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Self-healing web extraction and browser automation framework for .NET.
 - [IdemStep](https://awesomecua.com/zh/resources/github-supermarioyl-idemstep/) — Date not recorded
   Deduplicates repeated agent actions and HTTP retries using keyed idempotency caches and a local verification proxy.
+- [Jev Ultrafast](https://awesomecua.com/zh/resources/github-browser-use-jev-ultrafast/) — Date not recorded
+  Jev Ultrafast operates a browser by selecting actions and targets from an indexed table of visible controls, with a separate model generating text when needed.
+- [KC Browser](https://awesomecua.com/zh/resources/github-kuichi-x-kc-browser/) — Date not recorded
+  KC Browser is a Chromium-based browser binary for automated web sessions. It generates seeded browser identities and can be launched through Playwright or Puppeteer.
 - [llm-browser-agent](https://awesomecua.com/zh/resources/github-justifysiddh-llm-browser-agent/) — Date not recorded
   Self-healing browser automation framework that replaces brittle CSS selectors with LLM-guided semantic element resolution.
 - [MobilePilot Runtime](https://awesomecua.com/zh/resources/github-qizhanggu-mobilepilot-runtime/) — Date not recorded
@@ -585,16 +591,22 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Fail-closed browser automation reliability framework that halts execution on structural DOM drift before corrupting downstream data.
 - [rebrowser-patches](https://awesomecua.com/zh/resources/github-rebrowser-rebrowser-patches/) — Date not recorded
   rebrowser-patches modifies Puppeteer and Playwright to reduce browser automation signals, and provides drop-in packages for both libraries.
+- [ReproSight](https://awesomecua.com/zh/resources/github-tungcorn-reprosight/) — Date not recorded
+  ReproSight is a CLI that lets coding agents reproduce visual defects in a browser, collect evidence, isolate edits in a worktree, and run regression checks.
 - [Selenium Self-Healing MCP Server](https://awesomecua.com/zh/resources/github-aiqualitylab-selenium-selfhealing-mcp/) — Date not recorded
   MCP server that diagnoses broken Selenium DOM locators after UI changes and synthesizes self-healing replacement selectors.
 - [Self-Healing Browser Agent](https://awesomecua.com/zh/resources/github-25andresbernal-self-healing-browser-agent/) — Date not recorded
   Combines Claude planning with Playwright execution and ranked selector fallback to self-heal broken web automation steps.
+- [Solari Research Suite: ARC & ColdStart](https://awesomecua.com/zh/resources/github-itw-code-solari-cookbook/) — Date not recorded
+  A research suite combining an accessibility-based browser-agent harness with an evaluation harness that changes a web task app and verifies completed actions against database state.
 - [SOLO](https://awesomecua.com/zh/resources/github-wzq975-solo/) — Date not recorded
   SOLO performs single-rollout test-time adaptation for GUI agents using online self-supervised feedback during deployment.
 - [SoulSniper Browser SDK](https://awesomecua.com/zh/resources/github-soulsniper-v2-browser-sdk/) — Date not recorded
   Provider-neutral TypeScript browser automation SDK with automatic session failover and stealth profile support.
 - [SuperSelector Studio](https://awesomecua.com/zh/resources/github-pirate-cua-superselector/) — Date not recorded
   Resilient, cacheable fuzzy UI element identifiers and studio for Codex Computer Use recording and replay.
+- [Synthetic GUI Samples Plugin for FiftyOne](https://awesomecua.com/zh/resources/github-harpreetsahota204-synthetic-gui-samples-plugins/) — Date not recorded
+  A FiftyOne plugin that augments annotated GUI screenshots and task descriptions for training GUI understanding models while retaining annotations and transformation history.
 - [Tsaagan](https://awesomecua.com/zh/resources/github-michaelolmos-tsaagan/) — Date not recorded
   Tsaagan is a verify-first browser control framework for AI agents that proves every click and form action succeeded before advancing.
 - [UiPath ScreenPlay](https://awesomecua.com/zh/resources/url-b09d10b87e42b7e74de9/) — Date not recorded

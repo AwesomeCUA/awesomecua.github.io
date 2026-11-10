@@ -31,6 +31,7 @@ HTML 页面：https://awesomecua.com/zh/topics/robustness/page/4/
 - [AgentGauntlet](https://awesomecua.com/zh/resources/github-konuktor-agent-gauntlet/)
 - [B-MoCA](https://awesomecua.com/zh/resources/github-jylee425-b-moca/)
 - [Bellwether](https://awesomecua.com/zh/resources/github-al-mohad-bell-weather/)
+- [Browser AI Agent — live-web benchmark audit](https://awesomecua.com/zh/resources/github-saarthak-yadav-browser-agent-webvoyager/)
 - [BrowserAgentRegression](https://awesomecua.com/zh/resources/github-albertxxuu-browseragentregression/)
 - [BrowserTransactionBench](https://awesomecua.com/zh/resources/github-lamenting-hawthorn-browserbench/)
 - [Collision Canary](https://awesomecua.com/zh/resources/github-mystiquemide-collision-canary/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/robustness/page/4/
 - [UI-FaultLab](https://awesomecua.com/zh/resources/github-kakoyvostorg-ui-faultlab/)
 - [Verisim](https://awesomecua.com/zh/resources/github-clay-good-verisim/)
 - [WindowsAgentArena-V2](https://awesomecua.com/zh/resources/github-gair-nlp-windowsagentarena-v2/)
-- [WorldGUI](https://awesomecua.com/zh/resources/github-showlab-worldgui/)

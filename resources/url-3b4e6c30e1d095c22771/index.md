@@ -46,7 +46,7 @@ Counts come from the Hub tree listings at the pinned revision. A task folder is 
 - document: not recorded
 - weights: not recorded
 
-- data review: No data-license declaration is readable: the card is behind the access gate and the Hub API has no card metadata. The OSWorld-V2 code license does not establish terms for these runs, screenshots or third-party model outputs.
+- data review: No data-license declaration is readable: the card is behind the access gate and the Hub API has no card metadata.
   Sources: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory
 
 ## Primary evidence

@@ -111,6 +111,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Contextual-integrity benchmark for computer-use agents: 117 synthetic multi-app workspace scenarios that pair under-specified requests with must-share and must-not-share lists, plus a 50-scenario live-UI subset.
 - [AppWorld](https://awesomecua.com/zh/resources/github-stonybrooknlp-appworld/) — Date not recorded
   Simulated applications, user data, and state-based task checks for evaluating agents that interact through APIs and code.
+- [ASIL Benchmark](https://awesomecua.com/zh/resources/url-9b01ef4cc50d241ff34a/) — Date not recorded
+  ASIL Benchmark releases indexed software-agent tasks for single-application and multi-application evaluation, with task definitions and public assets.
 - [ColorBench](https://awesomecua.com/zh/resources/github-madeagents-colorbench/) — Date not recorded
   A graph-based mobile GUI benchmark that evaluates long tasks through screenshot states and multiple valid or erroneous transitions, including reflection, replanning and backtracking.
 - [CRAB](https://awesomecua.com/zh/resources/github-camel-ai-crab/) — Date not recorded
@@ -161,6 +163,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 
 - [AndroidGen-Llama-3-70B](https://awesomecua.com/zh/resources/url-75e93dff049c046c586e/) — Date not recorded
   AndroidGen-Llama-3-70B is a released model for agents that carry out tasks across Android applications such as messaging, email and settings without manually labeled interaction data.
+- [Mano-CUA-2.0-4B-MLX-8bit](https://awesomecua.com/zh/resources/url-430e47e1ca9f3b2a302f/) — Date not recorded
+  An MLX-quantized Mano-CUA model for Apple Silicon that reads screenshots and task instructions to produce structured GUI actions.
 - [MiniMax M3](https://awesomecua.com/zh/resources/url-50089323623ee780a426/) — Date not recorded
   MiniMax M3 is a multimodal model whose release page describes desktop operation from visual input and cross-application tasks through MiniMax Code.
 
@@ -172,6 +176,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Aries AI is an Android agent that uses a language model to interpret screens, plan natural-language tasks and operate apps through accessibility or virtual-display input.
 - [ARTEMIS](https://awesomecua.com/zh/resources/github-google-artemis/) — Date not recorded
   ARTEMIS is an Android agent that carries out natural-language tasks across apps. It targets UI elements visually or by index and exposes device runs through an MCP server.
+- [Council Bridge](https://awesomecua.com/zh/resources/github-christopherdent-council-bridge/) — Date not recorded
+  Council Bridge is a browser extension that routes human messages between assigned ChatGPT and Gemini tabs and captures their replies in a side panel.
 - [debug-kit](https://awesomecua.com/zh/resources/github-dxiongya-debug-kit/) — Date not recorded
   Cross-platform Agent Skill for driving, inspecting, and testing applications across macOS, iOS, Android, Web, Electron, Windows, and Linux.
 - [GUI-ReWalk](https://awesomecua.com/zh/resources/github-bytedance-gui-rewalk/) — Date not recorded
@@ -202,6 +208,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Windows agent framework for application and desktop automation.
 - [UI-Mate](https://awesomecua.com/zh/resources/github-tencent-ui-mate/) — Date not recorded
   UI-Mate is a desktop GUI agent that uses screenshots and keyboard and mouse actions for tasks across applications. It also supports workflows learned from recorded demonstrations.
+- [WildAWM](https://awesomecua.com/zh/resources/github-msr-orchard-wildawm/) — Date not recorded
+  WildAWM supplies a pipeline for generating computer environments and cross-interface tasks, with execution checks and tools for evaluating agents.
 
 ## 学习资源
 

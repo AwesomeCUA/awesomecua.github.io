@@ -15,7 +15,7 @@
 
 ## 范围记录
 
-Hub API at revision f366a1db lists two F32 safetensors shards (about 2.44B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. The card's online agent table has no 2B row, and its sibling links also name a GGUF conversion that this record does not cover.
+Hub API at revision f366a1db lists two F32 safetensors shards (about 2.44B parameters) in the Qwen2VLForConditionalGeneration architecture; access is open. The card declares Apache-2.0 for the checkpoint. The card's sibling links use the earlier bytedance-research namespace. The card’s online agent table has no 2B row; its sibling links also name a separate GGUF conversion.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-bd9f8174e5503055c0bd/record.json
 

@@ -204,8 +204,12 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
 
 ## Datasets
 
+- [Agent-Trajectories](https://awesomecua.com/resources/url-61c09ceb7c78f6b5e74f/) — Date not recorded
+  An archive dataset of evaluated web, Android, and iOS agent trajectories, including iOS emulator runs and WebArena runs used for agent refinement.
 - [Fanbin/waa_steve_trajectories](https://awesomecua.com/resources/url-2bab4b78c81cde1d5ecb/) — Date not recorded
   A dataset of STEVE-R1 evaluation trajectories on WindowsAgentArena, pairing task screenshots and agent responses with action traces and outcome labels.
+- [gameworld-qwen38-flash-next-trajectory](https://awesomecua.com/resources/url-e3c3e5a5a00f024ebac5/) — Date not recorded
+  A dataset of 1,020 GameWorld agent trajectories from general and computer-use interfaces, with step records, screenshots, outcomes, and metrics.
 - [go-browse-wa-raw](https://awesomecua.com/resources/url-edb0eadcc3df5559e941/) — Date not recorded
   go-browse-wa-raw is a browser-agent trajectory dataset with page observations, actions, goals, rewards, and images. Its train split contains 196462 examples.
 - [WenyiWU0111/CoMEM-agent-memory-trajectories](https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/) — Date not recorded
@@ -215,6 +219,8 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
 
 ## Models
 
+- [AGW-35B](https://awesomecua.com/resources/url-39e2a96f88ed3223ece9/) — Date not recorded
+  A screenshot-based GUI action model fine-tuned on 79,266 synthetic interaction examples. It uses a task, current screen and recent actions to predict structured computer-use calls.
 - [Aria-UI context-aware checkpoint](https://awesomecua.com/resources/url-085b6811ddd6f797475d/) — Date not recorded
   The context-aware Aria-UI release that uses interaction context to support grounding in dynamic Android and desktop agent tasks.
 - [Aria-UI/Aria-UI-base](https://awesomecua.com/resources/url-2866edbea80fa34aa684/) — Date not recorded
@@ -228,15 +234,25 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
 
 - [Auto-UI](https://awesomecua.com/resources/github-gimme1dollar-auto-ui/) — Date not recorded
   A multimodal interface agent that uses earlier actions and future action plans to predict the next action. The repository provides training and inference instructions.
+- [COCO4GUI Dataset Importer](https://awesomecua.com/resources/github-harpreetsahota204-coco4gui-fiftyone/) — Date not recorded
+  COCO4GUI Dataset Importer loads GUI interaction annotations into FiftyOne, preserving element regions, action points, workflow sequences, and application metadata.
 - [GUI-Rise](https://awesomecua.com/resources/github-leon022-gui-rise-code/) — Date not recorded
   A GUI navigation agent that combines stepwise reasoning with history summarization; its repository provides supervised training, reinforcement learning, and evaluation instructions.
 - [HiconAgent](https://awesomecua.com/resources/github-ilearn-lab-cvpr26-hiconagent/) — Date not recorded
   HiconAgent provides GUI-policy training code that samples histories of varied lengths and compresses past interactions during policy optimization.
+- [Jev Social](https://awesomecua.com/resources/github-socai-io-jev-social/) — Date not recorded
+  Jev Social researches Instagram, TikTok, and LinkedIn through a signed-in Chrome browser, choosing successive actions and assembling reports from captured source evidence.
 - [MemGUI-Agent](https://awesomecua.com/resources/github-kwai-memgui-agent/) — Date not recorded
   MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
 - [nocta-recorder](https://awesomecua.com/resources/github-nossa-y-nocta-recorder/) — Date not recorded
   A macOS recorder that stores screen snapshots, accessibility elements, OCR, input events, and audio in a local SQLite database and serves the captured activity through a local API.
 - [Open Codex Computer History](https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/) — Date not recorded
   Clean-room macOS implementation of event-stream interaction recording using Accessibility hit-testing, CGEvent taps, and SkyLight window snapshots.
+- [Q-Verifier / Q-Reflector](https://awesomecua.com/resources/github-pockyitachi-q-verifier/) — Date not recorded
+  Q-Reflector checks a GUI agent's action against before-and-after screenshots and task context, with training and online evaluation code.
+- [rrweb](https://awesomecua.com/resources/github-rrweb-io-rrweb/) — Date not recorded
+  rrweb captures web-page state and user interactions, then reconstructs sessions for replay through its recording, replay, and player packages.
 - [Taxy AI](https://awesomecua.com/resources/github-taxyai-browser-extension/) — Date not recorded
   Taxy AI is a Chrome extension that turns user instructions and a simplified page DOM into clicks and text entry, then checks the updated page before continuing.
+- [UI-Hawk](https://awesomecua.com/resources/github-imnearth-uihawk/) — Date not recorded
+  UI-Hawk is a GUI agent designed to interpret sequences of screens during navigation. Its research release describes a history-aware visual encoder, screen tasks, and the FunUI benchmark.

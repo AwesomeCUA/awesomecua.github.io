@@ -26,7 +26,7 @@ The one repository includes BrowserOS neo and BrowserOS; they are retained as on
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：The repository explicitly identifies its code as AGPL-3.0; this declaration does not cover every incorporated third-party component.
+- 代码审核：The repository explicitly identifies its code as AGPL-3.0.
   来源：https://raw.githubusercontent.com/browseros-ai/BrowserOS/HEAD/LICENSE, https://raw.githubusercontent.com/browseros-ai/BrowserOS/HEAD/README.md
 
 ## 一手证据

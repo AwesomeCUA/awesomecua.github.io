@@ -25,7 +25,7 @@ The official lowercase readme.md and source tree expose automatic and step-by-st
 - document: not recorded
 - weights: not recorded
 
-- code review: Repository GNU GPL version 3 license; pretrained models and linked data retain separate terms.
+- code review: Repository GNU GPL version 3 license.
   Sources: https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/LICENSE
 
 ## Primary evidence

@@ -4,6 +4,16 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/10/
 
 完整列表：https://awesomecua.com/zh/topics/planning/index.md
 
+- [UiPath ScreenPlay](https://awesomecua.com/zh/resources/url-b09d10b87e42b7e74de9/)
+- [VillagerAgent & VillagerBench](https://awesomecua.com/zh/resources/github-cnsdqd-dyb-villageragent/)
+- [VisionTasker](https://awesomecua.com/zh/resources/github-akimotoayako-visiontasker/)
+- [VLAA-GUI](https://awesomecua.com/zh/resources/github-ucsc-vlaa-vlaa-gui/)
+- [vnc-use](https://awesomecua.com/zh/resources/github-mayflower-vnc-use/)
+- [VSC-RL code](https://awesomecua.com/zh/resources/github-ai-agents-2030-vsc-rl/)
+- [Weave WebMCP](https://awesomecua.com/zh/resources/github-doom2quake-weave/)
+- [WebDreamer](https://awesomecua.com/zh/resources/github-osu-nlp-group-webdreamer/)
+- [WebOperator](https://awesomecua.com/zh/resources/github-kagnlp-weboperator/)
+- [WebTactix](https://awesomecua.com/zh/resources/url-40795d2c86388ae89f43/)
 - [WebThinker](https://awesomecua.com/zh/resources/github-ruc-nlpir-webthinker/)
 - [WMA Web Agent](https://awesomecua.com/zh/resources/github-kyle8581-wma-agents/)
 - [WorkForceAgent-R1](https://awesomecua.com/zh/resources/github-night-chen-workforceagent-r1/)

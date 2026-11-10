@@ -39,7 +39,7 @@ Qinzhuo Wu, Weikai Xu, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wa
 - Publisher: Association for Computational Linguistics
 - Pages: 10231-10251
 - DOI: 10.18653/v1/2024.findings-emnlp.599
-- Date source: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2024/11.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. The landing page and its BibTeX list the fifth author as Liujian Liujianfeng; the PDF names Jianfeng Liu.
 - Publication evidence: https://aclanthology.org/2024.findings-emnlp.599/, https://aclanthology.org/2024.findings-emnlp.599.pdf

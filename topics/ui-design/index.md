@@ -125,6 +125,12 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   An evaluation and revision pipeline tests generated websites with computer-use agents, checks task completion against rules, and summarizes navigation failures.
 - [AgentReady](https://awesomecua.com/resources/github-williehems-agentready/) — Date not recorded
   Cloud-browser evaluation harness that tests whether an autonomous AI agent can complete a website's primary conversion action.
+- [Co-Design Bench](https://awesomecua.com/resources/github-wiselnn570-co-design-bench/) — Date not recorded
+  Co-Design Bench evaluates application revisions made by coding agents from multimodal requests, checking requirements against source code and browser evidence.
+- [Co-Design Bench](https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/) — Date not recorded
+  Co-Design Bench evaluates application revisions from multimodal requests using 96 editing tasks with annotated screenshots and 521 criteria checked against source and browser evidence.
+- [FronTalk](https://awesomecua.com/resources/github-shirley-wu-frontalk/) — Date not recorded
+  FronTalk benchmarks multi-turn website coding from text and visual instructions. It supplies dialogue tasks and test cases, with a web agent used to evaluate generated sites.
 - [HumanQA](https://awesomecua.com/resources/github-hotragn-humanqa/) — Date not recorded
   Evidence-first product quality and UX evaluation harness for testing web applications with browser agents.
 - [Open User](https://awesomecua.com/resources/github-tiacoo-open-user/) — Date not recorded
@@ -146,6 +152,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
 
 - [luzimu/WebGen-Bench](https://awesomecua.com/resources/url-405959de004b6e32c911/) — Date not recorded
   A dataset of website-generation instructions and UI test cases for evaluating interactive sites, with separate training and test splits.
+- [luzimu/WebGen-Bench_train_data](https://awesomecua.com/resources/url-c47b5927fc41eb9a24d4/) — Date not recorded
+  WebGen-Instruct is a training dataset of 6,667 website generation instructions, including 600 trajectories and fields describing expected UI tasks.
 - [Rico Dataset](https://awesomecua.com/resources/url-0c845d69c9498dd4e20c/) — Date not recorded
   Rico Dataset is a collection of mobile app interaction and design data presented through Interaction Mining, with 70k screens and 10k user flows across 5k apps.
 - [RICO-Screen2Words](https://awesomecua.com/resources/url-cf7c132c9a988d3a6ec4/) — Date not recorded
@@ -157,6 +165,10 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
 
 ## Models
 
+- [GLM-4.6V](https://awesomecua.com/resources/url-17d4fdd26efe4e3b9e05/) — Date not recorded
+  GLM-4.6V is a vision-language model whose release describes screenshot-based tool use and reconstruction and editing of web interfaces from UI images.
+- [GLM-4.6V-Flash](https://awesomecua.com/resources/url-e01fe95f620b699bb00d/) — Date not recorded
+  GLM-4.6V-Flash is a vision-language checkpoint that accepts screenshots in tool calls and can reconstruct and edit web interfaces from UI images.
 - [GLM-4.6V-FP8](https://awesomecua.com/resources/url-2a99aab63fc1fe65610d/) — Date not recorded
   An FP8 multimodal model checkpoint supports tool calls using screenshots as inputs and generates or edits frontend code from images of interfaces.
 - [UI2Code_N](https://awesomecua.com/resources/url-b04608609a8c392d110b/) — Date not recorded
@@ -174,10 +186,16 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Vision toolkit and skill pack equipping text-only LLMs with multi-image reading, UI reconstruction, and GUI automation.
 - [Agentic Web Check](https://awesomecua.com/resources/github-ericovirgy-agentic-web-check/) — Date not recorded
   Agentic Web Check is a Lighthouse-style auditor that scores websites across 43 checks for AI browser-agent accessibility and controllability.
+- [AgentVision](https://awesomecua.com/resources/github-amitpatole-agent-vision/) — Date not recorded
+  A visual review tool for AI agents that renders interfaces and reports layout, contrast, text, and image issues. Agents can use its findings to revise and check their output again.
 - [annotate-mcp](https://awesomecua.com/resources/github-elainemhr-annotate-mcp/) — Date not recorded
   Model Context Protocol server that injects a drawing and comment overlay into live webpages so coding agents can read visual markup.
+- [AutoDesign](https://awesomecua.com/resources/github-yaxin9luo-autodesign/) — Date not recorded
+  An agentic design system that turns a paper into editable posters, slides, webpages, and videos. Its workflow uses a browser audit to check rendered screen and print output.
 - [Avenir-UX](https://awesomecua.com/resources/github-onflow-ai-avenir-ux/) — Date not recorded
   Avenir-UX runs web tasks and scores interface usability after agent actions. It combines step assessments with persona settings and produces session reports.
+- [Blender AI Plugin](https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/) — Date not recorded
+  Blender AI Plugin equips an agent to inspect and edit an open Blender scene through MCP, using an orchestrator, skills, and scripts for asset workflows.
 - [Blender Computer Use Artist](https://awesomecua.com/resources/github-xiaof631-blender-computer-use-artist/) — Date not recorded
   Codex computer-use skill for automating Blender 3D modeling, rendering, animation, and visual QA.
 - [CamouForge](https://awesomecua.com/resources/github-rycen7822-camouforge/) — Date not recorded
@@ -190,8 +208,12 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   macOS desktop companion app for DeepSeek Harness with research-file attachments and local tool management.
 - [DeepSeek Harness Desktop YukiRyou](https://awesomecua.com/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/) — Date not recorded
   Enhanced desktop client distribution for DeepSeek Harness with pre-integrated computer-use and browser plugins.
+- [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/) — Date not recorded
+  DesignRepair analyzes frontend code and rendered pages, then uses Material Design guidance and an LLM to identify and repair interface design issues.
 - [DSH Vision Toolkit](https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/) — Date not recorded
   DSH Vision Toolkit adds screenshot reading, visual grounding, UI reconstruction, and pixel comparison tools to DeepSeek Harness agents.
+- [dsh-design](https://awesomecua.com/resources/github-viger1-dsh-design/) — Date not recorded
+  A browser-based design audit for agent-created pages that measures rendered contrast, typography, spacing, colors, and controls. It includes a design-system skill.
 - [dsh-plugin-ui-debug](https://awesomecua.com/resources/github-featherhunter-dsh-plugin-ui-debug/) — Date not recorded
   DeepSeek Harness plugin for inspecting live DOM styles, layout issues, and console errors during frontend UI debugging.
 - [flutter_copilot](https://awesomecua.com/resources/github-anasfik-flutter-copilot/) — Date not recorded
@@ -230,24 +252,36 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Visual QA, accessibility auditing, screenshot diffing, and MCP browser automation toolkit.
 - [RecreationWorld](https://awesomecua.com/resources/github-qwenlm-recreationworld/) — Date not recorded
   Framework for hybrid computer-use agents that inspect running reference apps, implement replicas with coding tools, and verify behavior across five platforms.
+- [ReproSight](https://awesomecua.com/resources/github-tungcorn-reprosight/) — Date not recorded
+  ReproSight is a CLI that lets coding agents reproduce visual defects in a browser, collect evidence, isolate edits in a worktree, and run regression checks.
 - [Richmack Browser OS](https://awesomecua.com/resources/github-iamrichmack111-richmack-browser/) — Date not recorded
   Keyboard-driven Chromium browser environment with modular workspace panels for developer and agent workflows.
 - [SameState WebMCP](https://awesomecua.com/resources/github-breeznik-samestate-webmcp/) — Date not recorded
   WebMCP reference architecture exposing Redux frontend state directly to browser agents for synchronized human-agent interaction.
 - [shoal](https://awesomecua.com/resources/github-raynan00-shoal/) — Date not recorded
   Deploys a swarm of concurrent AI browser agents to stress-test websites and visualize UX bottlenecks.
+- [SoftwareGym](https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/) — Date not recorded
+  SoftwareGym synthesizes runnable GUI applications as environments for computer-use agents. It tests generated apps through screenshot-based actions in Ubuntu virtual machines and uses feedback to repair them.
+- [TeleGen](https://awesomecua.com/resources/github-commoluo-telegen/) — Date not recorded
+  TeleGen runs browser tasks against instrumented web apps, condenses interaction telemetry, and gives the resulting evidence to a code repair agent.
 - [Touchline](https://awesomecua.com/resources/github-edenbuilds-touchline/) — Date not recorded
   Multi-agent browser squad for evidence-led website inspection and frontend reconstruction.
 - [UI Image to Code Studio](https://awesomecua.com/resources/github-zwq-top-ui-image-to-code-studio/) — Date not recorded
   Codex skill for converting UI screenshots and live websites into React, Vue, or HTML code with visual browser verification.
+- [UI2Code^N](https://awesomecua.com/resources/github-zai-org-ui2code-n/) — Date not recorded
+  A UI-to-code system that drafts interface code from screenshots and refines it through repeated rendering and visual feedback. The repository provides demos and evaluation scripts.
 - [Venxuix Dccide](https://awesomecua.com/resources/github-venxuix-dccide-venxuix/) — Date not recorded
   2D/3D agentic operating environment layered above Windows where humans and AI agents co-orchestrate desktop tasks.
 - [Voice Mirror](https://awesomecua.com/resources/github-contextmirror-voice-mirror/) — Date not recorded
   Voice Mirror is a Tauri desktop IDE where voice and multimodal agents inspect, click, and live-edit rendered web applications.
+- [WebGen-Agent](https://awesomecua.com/resources/github-mnluzimu-webgen-agent/) — Date not recorded
+  WebGen-Agent creates website code from instructions, then refines it using screenshots, visual feedback and tests performed by a GUI agent. The repository includes inference and training code.
 - [WebMCP](https://awesomecua.com/resources/github-webmachinelearning-webmcp/) — Date not recorded
   A client-side web API proposal that lets pages expose structured JavaScript tools to browser agents. Agents can invoke page functions while sharing the visible interface and context with users.
 - [WebMCPcss](https://awesomecua.com/resources/github-cochinoraptor-webmcpcss/) — Date not recorded
   Extends the WebMCP standard by declaring agent-callable website actions and semantic affordances directly through CSS rules.
+- [WebVIA](https://awesomecua.com/resources/github-zheny2751-dotcom-webvia/) — Date not recorded
+  WebVIA links an agent that explores web pages and records actions to modules that generate HTML and verify the resulting interface.
 - [wix-editor-mcp](https://awesomecua.com/resources/github-naieum-wix-editor-mcp/) — Date not recorded
   Model Context Protocol server for automating page layout, text, images, and SEO inside the classic Wix Editor.
 

@@ -15,7 +15,7 @@ Holo1 3B 动作视觉语言模型由 Qwen2.5-VL-3B-Instruct 微调而成，可�
 
 ## 范围记录
 
-The manifest lists two Safetensors shards (3,754,622,976 BF16 parameters per the Hub API) plus localization, navigation and ScreenSpot evaluation scripts. The card's license link and the LICENSE file put the weights under the H Product Research License Agreement, a non-commercial research license that also defers to the Qwen Research License for the base model; this is not generalized to other Holo1 sizes. The card's 89.7% WebVoyager figure is for Surfer-H with Holo1-3B, measured by the publisher. H's current models page lists later Holo generations and leaves Holo1 unlisted, leaving a family relation unrecorded.
+The manifest lists two Safetensors shards (3,754,622,976 BF16 parameters per the Hub API) plus localization, navigation and ScreenSpot evaluation scripts. The card’s license link and LICENSE file put this checkpoint’s weights under the H Product Research License Agreement, a non-commercial research license that also defers to the Qwen Research License for the base model. The card's 89.7% WebVoyager figure is for Surfer-H with Holo1-3B, measured by the publisher. H's current models page lists later Holo generations and leaves Holo1 unlisted, leaving a family relation unrecorded.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-c491c446a71cac1def66/record.json
 

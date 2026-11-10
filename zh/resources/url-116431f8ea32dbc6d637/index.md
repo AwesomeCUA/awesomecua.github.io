@@ -15,7 +15,7 @@ WebChain 原始版收录真实网站上的人工标注轨迹，提供原始 JSON
 
 ## 范围记录
 
-The publisher's cleaned v2 release is a separate Hub repository (webagentlab/webchain) whose card calls this repository the original release with the least-processed artifacts and earlier high- and low-level formulations; v2 reports different counts after cleaning. Here the image and full-page screenshot folders are split ZIP sets, and the card says full-page screenshots cover only some steps. Rationales come from synthetic generation. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content.
+The publisher's cleaned v2 release is a separate Hub repository (webagentlab/webchain) whose card calls this repository the original release with the least-processed artifacts and earlier high- and low-level formulations; v2 reports different counts after cleaning. Here the image and full-page screenshot folders are split ZIP sets, and the card says full-page screenshots cover only some steps. Rationales come from synthetic generation. CC-BY-4.0 is the card's data declaration.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-116431f8ea32dbc6d637/record.json
 

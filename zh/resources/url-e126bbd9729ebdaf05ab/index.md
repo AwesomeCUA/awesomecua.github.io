@@ -39,7 +39,7 @@ Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevol
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.
+- 数据审核：Publisher dataset-card declaration for this release.
   来源：https://huggingface.co/datasets/CognitiveKernel/WebEvolver/raw/13f4f45b359e138a45b1c89bd4e913298c586ca9/README.md
 
 ## 一手证据

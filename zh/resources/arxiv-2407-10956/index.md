@@ -40,7 +40,7 @@ Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xin
 - 卷：37
 - 页码：107703-107744
 - DOI：10.52202/079017-3421
-- 日期来源：Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024-12-16.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html

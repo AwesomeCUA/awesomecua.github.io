@@ -1,14 +1,14 @@
 {
   "status": "excluded",
   "id": "arxiv:2605.23204",
-  "reason": "The abstract surveys AI systems that automate scientific research workflows from literature grounding to reporting. This AI-for-science survey does not cover agents operating graphical interfaces, web pages or devices.",
+  "reason": "The abstract surveys AI systems that automate scientific research workflows from literature grounding to reporting. This AI-for-science survey sits outside computer-use agents.",
   "decision": {
     "id": "arxiv:2605.23204",
     "name": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
     "url": "https://arxiv.org/abs/2605.23204",
     "decision": "out_of_scope",
     "basis": "primary_abstract_review",
-    "reason": "The abstract surveys AI systems that automate scientific research workflows from literature grounding to reporting. This AI-for-science survey does not cover agents operating graphical interfaces, web pages or devices.",
+    "reason": "The abstract surveys AI systems that automate scientific research workflows from literature grounding to reporting. This AI-for-science survey sits outside computer-use agents.",
     "reviewed_at": "2026-11-05T23:58:03Z",
     "metadata_fingerprint": "1f49d5b7086cac3b575a59afce4e5656d2dfcf31911a122017fa90fe0b60aaef",
     "evidence": {

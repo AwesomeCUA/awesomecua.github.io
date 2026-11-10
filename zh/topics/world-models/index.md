@@ -111,6 +111,11 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
 - [MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control](https://awesomecua.com/zh/resources/arxiv-2403-12037/) — 2024-03-18
   Introduces MineDreamer, a Minecraft agent that imagines stages of an instruction and turns them into keyboard-and-mouse actions in a simulated world.
 
+## 评测基准
+
+- [MWMBench](https://awesomecua.com/zh/resources/url-a3ea3a844de7dd8a6792/) — Date not recorded
+  MWMBench evaluates mobile GUI world models by asking them to predict the next screen from a screenshot and coordinate action.
+
 ## 数据集
 
 - [AndroidCode](https://awesomecua.com/zh/resources/url-cf4d2d45a7314cb16acb/) — Date not recorded
@@ -138,6 +143,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   A shopping-domain Dreamer-7B checkpoint for WebDreamer, which uses screenshot-conditioned predictions of candidate web actions to support agent planning.
 - [gWorld (GuiWorld)](https://awesomecua.com/zh/resources/github-trillion-labs-gworld/) — Date not recorded
   gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step screen states via renderable web code generation.
+- [gWorld-32B](https://awesomecua.com/zh/resources/url-e44096836ef47bc66d9c/) — Date not recorded
+  A released mobile GUI world model that takes a screenshot and an action, then predicts the next interface as renderable HTML. The card identifies Qwen3-VL-32B as its base.
 - [gWorld-8B](https://awesomecua.com/zh/resources/url-78802d1a2fce25f20f85/) — Date not recorded
   gWorld-8B is a released mobile GUI world model that predicts the screen after an action by generating renderable HTML from the current screenshot and action.
 - [jiamingzz/lgwm](https://awesomecua.com/zh/resources/url-512cd7335068b2c17859/) — Date not recorded

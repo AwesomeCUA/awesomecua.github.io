@@ -4,6 +4,16 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/9/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
+- [Project Interface (Legacy Web UI Compiler)](https://awesomecua.com/zh/resources/github-shahadeven-project-interface/)
+- [Public Browser](https://awesomecua.com/zh/resources/github-silbercue-public-browser/)
+- [PuterVision Behavior-MCP](https://awesomecua.com/zh/resources/github-putervision-behavior-mcp/)
+- [Rapid PC Use](https://awesomecua.com/zh/resources/github-tntcannon5000-rapid-pc-use/)
+- [Raystyle Browser Harness](https://awesomecua.com/zh/resources/github-raystyle-browser-harness/)
+- [Re-Prefill](https://awesomecua.com/zh/resources/github-linjiaping1-re-prefill/)
+- [recast](https://awesomecua.com/zh/resources/github-yagna-1-recast/)
+- [Replay AI](https://awesomecua.com/zh/resources/github-bryansbtian-replay-ai/)
+- [reverseloom](https://awesomecua.com/zh/resources/github-kuichi-x-reverseloom/)
+- [RishabhP1508 Understudy](https://awesomecua.com/zh/resources/github-rishabhp1508-understudy/)
 - [rote](https://awesomecua.com/zh/resources/github-bhuvanb3110-rote/)
 - [rs_peekaboo](https://awesomecua.com/zh/resources/github-undivisible-rs-peekaboo/)
 - [SCALE-CUA (THUDM)](https://awesomecua.com/zh/resources/github-thudm-scale-cua/)
@@ -54,6 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/9/
 - [WebSense MCP 2.0](https://awesomecua.com/zh/resources/github-spliffspliff70-wq-websense-mcp/)
 - [Workroom (MLX Computer-Use Agent)](https://awesomecua.com/zh/resources/github-iamibrahimmemon-mlx-llm-workroom/)
 - [Zoom Search](https://awesomecua.com/zh/resources/github-goofrey-zoom-search/)
-- [ZRui-C DSH Computer Use](https://awesomecua.com/zh/resources/github-zrui-c-dsh-computer-use/)
-- [zseven-w DSH Browser](https://awesomecua.com/zh/resources/github-zseven-w-dsh-browser/)
-- [Plasmate Notebooks](https://awesomecua.com/zh/resources/github-plasmate-labs-notebooks/)

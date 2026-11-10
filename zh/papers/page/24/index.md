@@ -752,7 +752,7 @@ Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhe
 - 出版方：Association for Computational Linguistics
 - 页码：5555-5579
 - DOI：10.18653/v1/2025.acl-long.277
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.acl-long.277/
@@ -978,7 +978,7 @@ Yuhao Yang, Yue Wang, Dongxu Li, Ziyang Luo, Bei Chen, Chao Huang, Junnan Li
 - 出版方：Association for Computational Linguistics
 - 页码：22418-22433
 - DOI：10.18653/v1/2025.findings-acl.1152
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.findings-acl.1152/
@@ -1148,7 +1148,7 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 - 出版方：Association for Computational Linguistics
 - 页码：22522-22538
 - DOI：10.18653/v1/2025.findings-acl.1158
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - 发表证据：https://aclanthology.org/2025.findings-acl.1158/
@@ -1738,7 +1738,7 @@ Yiqin Wang, Haoji Zhang, Jingqi Tian, Yansong Tang
 - 出版方：Association for Computational Linguistics
 - 页码：1461-1473
 - DOI：10.18653/v1/2025.findings-acl.76
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.findings-acl.76/
@@ -2080,7 +2080,7 @@ Gaurav Verma, Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Tucker Balch, Manuela
 - 出版方：Association for Computational Linguistics
 - 页码：20635-20651
 - DOI：10.18653/v1/2025.acl-long.1008
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.acl-long.1008/
@@ -2563,7 +2563,7 @@ Yanzhe Zhang, Tao Yu, Diyi Yang
 - 出版方：Association for Computational Linguistics
 - 页码：8387-8401
 - DOI：10.18653/v1/2025.acl-long.411
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.acl-long.411/
@@ -2737,7 +2737,7 @@ Boyuan Zheng, Boyu Gou, Scott Salisbury, Zheng Du, Huan Sun, Yu Su
 - 出版方：Association for Computational Linguistics
 - 页码：187-197
 - DOI：10.18653/v1/2024.emnlp-demo.20
-- 日期来源：Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024/11.
 - 版本对应依据：No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
 - 来源备注：Publisher proceedings edition (EMNLP 2024 System Demonstrations).
 - 发表证据：https://aclanthology.org/2024.emnlp-demo.20/
@@ -2798,7 +2798,7 @@ Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Da
 - 出版方：Association for Computational Linguistics
 - 页码：2144-2166
 - DOI：10.18653/v1/2025.acl-long.107
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - 发表证据：https://aclanthology.org/2025.acl-long.107/
@@ -2920,7 +2920,7 @@ Haoyi Qiu, Alexander R. Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, 
 - 出版方：Association for Computational Linguistics
 - 页码：3978-4005
 - DOI：10.18653/v1/2025.findings-naacl.222
-- 日期来源：Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/4.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - 发表证据：https://aclanthology.org/2025.findings-naacl.222/
@@ -3207,7 +3207,7 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, Tianqing Fang, Z
 - 出版方：Association for Computational Linguistics
 - 页码：27545-27564
 - DOI：10.18653/v1/2025.acl-long.1336
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.acl-long.1336/
@@ -3328,7 +3328,7 @@ Lawrence Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Ro
 - 发表于：International Conference on Learning Representations
 - 卷：2025
 - 页码：36934-36958
-- 日期来源：Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025-05-01.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html

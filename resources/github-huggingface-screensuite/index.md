@@ -14,7 +14,7 @@ A shared evaluation harness for GUI-model perception, offline action prediction 
 
 ## Limitations
 
-The publisher states that the suite compares the underlying multimodal models. Public source includes benchmark adapters and registry code. Multi-step environments require Docker and KVM; constituent datasets, remote model services and OSWorld account-dependent tasks retain their own setup and terms. Apache-2.0 is scoped to this repository code.
+The publisher states that the suite compares the underlying multimodal models. Public source includes benchmark adapters and registry code. Multi-step environments require Docker and KVM; constituent datasets, remote model services and OSWorld account-dependent tasks have separate setup and terms. Apache-2.0 is scoped to this repository code.
 
 - Record JSON: https://awesomecua.com/resources/github-huggingface-screensuite/record.json
 

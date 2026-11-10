@@ -173,6 +173,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   mac-agent-bench runs computer-use tools on a logged-in Mac, checking task outcomes with scripts while measuring changes to the foreground app and cursor.
 - [Maudslay](https://awesomecua.com/resources/github-theo-ai-lab-maudslay/) — Date not recorded
   Maudslay evaluates release readiness and pass^k reliability of computer-use agents against independent backend and email ground truth.
+- [PhoneHarness](https://awesomecua.com/resources/github-phoneharness-phoneharness/) — Date not recorded
+  PhoneHarness evaluates Android phone agents that combine GUI actions with device commands and host tools. It provides a runtime, a benchmark runner subset and trace-based checks of task outcomes.
 - [UI-FaultLab](https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/) — Date not recorded
   UI-FaultLab benchmarks auditable agent-versus-application failure attribution in visual UI testing workflows.
 - [UniClawBench](https://awesomecua.com/resources/github-hku-mmlab-uniclawbench/) — Date not recorded
@@ -203,6 +205,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
 
 ## Engineering & industry
 
+- [@jshookmcp/jshook](https://awesomecua.com/resources/github-vmoranv-jshookmcp/) — Date not recorded
+  An MCP server for agent-assisted front-end analysis that combines browser automation, network inspection, and JavaScript and WASM analysis tools.
 - [A2R2 (Android Agent Reliability Runtime)](https://awesomecua.com/resources/github-rty90-android-agent-reliability-runtime/) — Date not recorded
   A2R2 is a black-box safety and reliability runtime for Android GUI agents that intercepts unsafe actions and detects execution loops.
 - [action-receipt](https://awesomecua.com/resources/github-jeremiahm37-action-receipt/) — Date not recorded
@@ -249,10 +253,14 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Desktop GUI automation platform combining a Rust execution core, Python SDK, MCP server, and HTML5 monitoring dashboard.
 - [Autonomous Vision Browser-Use Agent](https://awesomecua.com/resources/github-therealfullmetal55555-browser-use-agent/) — Date not recorded
   Playwright-based vision browser agent featuring loop detection, DOM-plus-screenshot grounding, and per-step token telemetry.
+- [AutoWebNav](https://awesomecua.com/resources/github-mindattic-autowebnav/) — Date not recorded
+  AutoWebNav is a .NET library for WebView2 browser automation, combining page actions and element resolution with interaction recording and live observation.
 - [AUV](https://awesomecua.com/resources/github-moeru-ai-auv/) — Date not recorded
   Rust toolkit, CLI and MCP server for scripting reusable GUI operations on macOS, Linux and Windows, with native input drivers, accessibility trees, OCR and traced, verifiable action results.
 - [Avenir-UX](https://awesomecua.com/resources/github-onflow-ai-avenir-ux/) — Date not recorded
   Avenir-UX runs web tasks and scores interface usability after agent actions. It combines step assessments with persona settings and produces session reports.
+- [aworld-mcp-servers](https://awesomecua.com/resources/github-qingw-dev-aworld-mcp-servers/) — Date not recorded
+  A collection of service endpoints that includes a Browser Use API for natural-language web tasks. Its browser endpoint can return an execution trace.
 - [bdg - Browser Debugger CLI](https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/) — Date not recorded
   A browser CLI for agents to navigate and interact with pages while inspecting the DOM, network requests, console output, and layout through individual commands.
 - [Browser Use Terminal](https://awesomecua.com/resources/github-browser-use-terminal/) — Date not recorded
@@ -267,10 +275,14 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Local, cloud-free replay debugger that records each Browser Use step's screenshot, URL, action and model I/O as a timeline and reports the step at which a failed run diverges from a known-good one.
 - [BrowserTrack](https://awesomecua.com/resources/github-litepacks-browsertrack/) — Date not recorded
   Local browser diagnostics collector and Model Context Protocol bridge for sharing live console/network traces with coding agents.
+- [Case Flow](https://awesomecua.com/resources/github-dongxinsuperman-case-flow-ai/) — Date not recorded
+  Case Flow is a visual test workbench that sends cases to phone and web executors, then gathers run status, reports, and evidence for review.
 - [cc-haha](https://awesomecua.com/resources/github-nanmicoder-cc-haha/) — Date not recorded
   cc-haha is a clean-room TypeScript implementation and visual debugger of the Claude Code agent harness, memory, and tool runtime.
 - [Chrome DevTools MCP Persistent Bridge](https://awesomecua.com/resources/github-dev-newb-chrome-devtools-mcp-persistent-bridge/) — Date not recorded
   Persistent, fail-closed Chrome DevTools Model Context Protocol bridge for OpenAI Codex on Windows.
+- [chrome-agent](https://awesomecua.com/resources/github-captivus-chrome-agent/) — Date not recorded
+  A CLI that exposes Chrome DevTools Protocol commands to agents for browser navigation, screenshots and event monitoring, with shared browser access.
 - [chromedp-proxy](https://awesomecua.com/resources/github-chromedp-chromedp-proxy/) — Date not recorded
   chromedp-proxy forwards Chrome DevTools Protocol traffic between a client and browser while logging session messages for debugging browser automation.
 - [ClaudeDesk](https://awesomecua.com/resources/github-phantivia-claudedesk/) — Date not recorded
@@ -279,6 +291,10 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Chrome Manifest V3 command center for OpenClaw agents to capture page context, review planned actions, and monitor runs.
 - [Codex Boss Desktop](https://awesomecua.com/resources/github-zhiheng-zhang-mera-codex-boss/) — Date not recorded
   Local-first Electron controller for multi-model deliberation and evidence-preserving computer-use orchestration.
+- [CodexQA Jev Browser](https://awesomecua.com/resources/github-openqa-cn-jev-browser/) — Date not recorded
+  CodexQA Jev Browser operates Playwright pages through indexed controls and model-selected actions, with case replay and reports based on visible page evidence.
+- [cube-harness](https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/) — Date not recorded
+  cube-harness runs agent evaluations across compatible benchmarks, including MiniWob, and provides trajectories, screenshots, and an experiment viewer.
 - [Custom Chrome Dev MCP](https://awesomecua.com/resources/github-habaandrei-custom-chrome-dev-mcp/) — Date not recorded
   Local-only Model Context Protocol server that drives the user's already-open Chrome session over DevTools.
 - [Deck](https://awesomecua.com/resources/github-cofy-x-deck/) — Date not recorded
@@ -297,6 +313,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Framework-neutral browser-state snapshotter capturing compact, diffable DOM and accessibility states for AI web agents.
 - [DSH Patrol](https://awesomecua.com/resources/github-qigelunbiya-dsh-patrol/) — Date not recorded
   Teach-once, patrol-repeatedly website inspection and monitoring plugin for DeepSeek Harness.
+- [DSH × Termux — mobile operations kit](https://awesomecua.com/resources/github-maopk-dsh-termux-kit/) — Date not recorded
+  An Android operations kit for DeepSeek Harness with widgets, a Console app, and an Accessibility bridge that lets an AI read and control the phone screen.
 - [dsh-browser-secure](https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/) — Date not recorded
   Security-hardened fork of `dsh-browser` for DeepSeek Harness adding audit logging and domain egress allowlists.
 - [dsh-plugin-ui-debug](https://awesomecua.com/resources/github-featherhunter-dsh-plugin-ui-debug/) — Date not recorded
@@ -335,10 +353,16 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Archived Laminar browser agent in Python that drives Playwright Chromium with vision-capable LLMs, returns Pydantic-structured results and offers an interactive CLI with optional Laminar tracing.
 - [Inside the Agent (SAE Browser Harness)](https://awesomecua.com/resources/github-kalyvask-inside-the-agent/) — Date not recorded
   Reproducible harness for Sparse Autoencoder (SAE) feature steering and live interpretability monitoring of browser agents.
+- [Interlock Relay](https://awesomecua.com/resources/github-wsk-build-interlock-relay/) — Date not recorded
+  Interlock Relay is an Android library that connects sandboxed agents to host-app capabilities through an approval gate. It provides execution backends, quotas, artifacts, and audit logs.
 - [Kernel](https://awesomecua.com/resources/github-kernel-kernel-images/) — Date not recorded
   Kernel supplies isolated Chrome browser instances for web agents and automation. Its images support remote control, live viewing, and session recording.
+- [Kernel CLI](https://awesomecua.com/resources/github-onkernel-cli/) — Date not recorded
+  Kernel CLI manages sandboxed Chrome sessions for browser automation and web agents. It can deploy applications, invoke actions, and provide live views of managed browsers.
 - [Kota-Kawa Browser-Agent](https://awesomecua.com/resources/github-kota-kawa-browser-agent/) — Date not recorded
   FastAPI and browser-use web agent featuring live CDP session streaming, Server-Sent Events (SSE) progress logs, and interactive UI control.
+- [lazy-mobile-mcp](https://awesomecua.com/resources/github-leaf76-lazy-mobile-mcp/) — Date not recorded
+  Lazy-mobile-mcp gives MCP clients tools to inspect and control Android and iOS devices, with screenshots, touch actions, UI dumps, and performance sampling.
 - [lean-chronoscope-mcp](https://awesomecua.com/resources/github-yyhezkel-lean-chronoscope-mcp/) — Date not recorded
   Token-efficient headless Chrome MCP server in Docker that records console, network, and DOM timelines for coding agents.
 - [lnwjud (Windows MCP Access)](https://awesomecua.com/resources/github-phuongt2576-lnwjud-readme/) — Date not recorded
@@ -371,10 +395,14 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   NexusCUH is a computer-use agent harness with sandboxed execution, MCP integration, policy guardrails, and trace observability.
 - [Open Computer](https://awesomecua.com/resources/github-mintplex-labs-open-computer/) — Date not recorded
   Open Computer gives agents an isolated Debian desktop with a browser and native app controls. People can watch and assist through a live interface.
+- [openadapt-viewer](https://awesomecua.com/resources/github-openadaptai-openadapt-viewer/) — Date not recorded
+  openadapt-viewer builds an HTML report from desktop or web agent runs, showing task outcomes and step-by-step screenshots alongside actions and reasoning.
 - [OpenAgent](https://awesomecua.com/resources/github-the-open-agent-openagent/) — Date not recorded
   OpenAgent is a self-hostable assistant whose agent loop can operate a browser by navigating, clicking and filling forms. It also runs code and connects to external tools.
 - [OpenAI Computer Use Sample Apps](https://awesomecua.com/resources/github-openai-openai-cua-sample-app/) — Date not recorded
   OpenAI reference agents that drive a browser through Playwright JavaScript or a desktop through PyAutoGUI Python, with the model writing code via the Responses API, plus mock kanban, paint and booking labs.
+- [opencli-plugin-albato](https://awesomecua.com/resources/github-vecyang1-opencli-plugin-albato/) — Date not recorded
+  An OpenCLI adapter lets agents inspect and change Albato automations through its web console, then reads the live DOM to verify state changes.
 - [ORBIT framework](https://awesomecua.com/resources/github-wlanderson0-orbit/) — Date not recorded
   Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
 - [PhantomJS](https://awesomecua.com/resources/github-ariya-phantomjs/) — Date not recorded
@@ -387,22 +415,32 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   Runtime trust layer for browser agents: a sidecar checks each action against local policy before it runs, and SDKs turn pages into compact ranked element snapshots and verify outcomes with DOM assertions.
 - [Predicate TypeScript SDK](https://awesomecua.com/resources/github-predicatesystems-sdk-typescript/) — Date not recorded
   Predicate TypeScript SDK supplies browser-agent snapshots, element actions, assertions and traces for building runs that check UI outcomes.
+- [predicate-secure](https://awesomecua.com/resources/github-predicatesystems-predicate-secure/) — Date not recorded
+  predicate-secure is a security wrapper for browser agents that checks actions against policy, verifies outcomes, and records audit evidence.
 - [Prism AI Screen Reader](https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/) — Date not recorded
   Prism is a macOS screen reader and activity analyzer that captures screenshots and summarizes user desktop workflows with vision-language models.
 - [ProofPack](https://awesomecua.com/resources/github-ebt55-proofpack/) — Date not recorded
   Pre-approval review and verification runtime where every agent finding and UI state is backed by a SHA-hashed capture.
+- [Qontinui Runner](https://awesomecua.com/resources/github-qontinui-qontinui-runner/) — Date not recorded
+  Qontinui Runner is a desktop application that executes configured GUI automation projects and monitors their progress. It supports mouse, keyboard, and screen actions.
 - [ReactSentinel](https://awesomecua.com/resources/github-edgarbnt-reactsentinel/) — Date not recorded
   Model Context Protocol server that lets AI agents inspect live React component state, replay interactions, and validate UI fixes in the browser.
 - [redux-webmcp](https://awesomecua.com/resources/github-breeznik-redux-webmcp/) — Date not recorded
   A WebMCP bridge for Redux Toolkit apps that lets browser agents dispatch allowed actions and inspect state changes. Developers can require approval for selected actions.
+- [ReproSight](https://awesomecua.com/resources/github-tungcorn-reprosight/) — Date not recorded
+  ReproSight is a CLI that lets coding agents reproduce visual defects in a browser, collect evidence, isolate edits in a worktree, and run regression checks.
 - [Reqvexa](https://awesomecua.com/resources/github-kareemheshaam-reqvexa/) — Date not recorded
   HAR-based HTTP provenance analyzer that traces cookies, tokens, and headers behind browser-agent network requests.
 - [Ringlight WebMCP](https://awesomecua.com/resources/github-doom2quake-ringlight/) — Date not recorded
   WebMCP investigation console where browser agents trace entity graphs across live web views with human review.
 - [Rocuronium](https://awesomecua.com/resources/github-kageroumado-rocuronium/) — Date not recorded
   Isolates macOS computer-use agents inside a separate login session while rendering a live visible-agent overlay on the host screen.
+- [rrweb](https://awesomecua.com/resources/github-rrweb-io-rrweb/) — Date not recorded
+  rrweb captures web-page state and user interactions, then reconstructs sessions for replay through its recording, replay, and player packages.
 - [Safari iOS Web Inspector MCP](https://awesomecua.com/resources/github-rodneyrdx-safari-ios-webinspector-mcp/) — Date not recorded
   TypeScript Model Context Protocol server for inspecting and debugging live iPhone Safari WebKit sessions from macOS.
+- [Sandbar](https://awesomecua.com/resources/github-jdrolls-sandbar/) — Date not recorded
+  A self-hosted Linux desktop container for computer-use agents, with a browser-streamed workspace, human takeover, and optional API and MCP control.
 - [Scavenge](https://awesomecua.com/resources/github-aarohim24-scavenge/) — Date not recorded
   Deterministic web-field inspector that extracts and verifies single webpage values with cryptographic evidence for coding agents.
 - [Screenpipe](https://awesomecua.com/resources/github-screenpipe-screenpipe/) — Date not recorded
@@ -425,6 +463,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   WebMCP reference console for auditable, human-approved supply-chain actions executed by browser agents.
 - [Talox](https://awesomecua.com/resources/github-avant-iconic-talox/) — Date not recorded
   Talox is a stateful Playwright browser runtime for AI agents with stealth interaction, structured page state, and trace observability.
+- [TeleGen](https://awesomecua.com/resources/github-commoluo-telegen/) — Date not recorded
+  TeleGen runs browser tasks against instrumented web apps, condenses interaction telemetry, and gives the resulting evidence to a code repair agent.
 - [termcast](https://awesomecua.com/resources/github-chromedp-termcast/) — Date not recorded
   A Go utility that displays a chromedp browser page in a graphics terminal using screencast frames, with options to show the whole page or one element.
 - [ThinkRun](https://awesomecua.com/resources/github-dundas-thinkrun/) — Date not recorded
@@ -447,9 +487,16 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   A Chrome extension displays WebMCP tools exposed by a page and lets developers inspect and execute them through a side panel.
 - [WebOperator Experiments](https://awesomecua.com/resources/github-mahirlabibdihan-weboperator-experiments/) — Date not recorded
   Browsable viewers show WebOperator task trajectories for WebArena and WebArena-lite, with screenshots loaded from a linked Hugging Face dataset.
+- [windows-mcp-server](https://awesomecua.com/resources/github-deploymenttheory-windows-mcp-server/) — Date not recorded
+  An MCP server lets agents inspect and control Windows desktops through accessibility data and input tools, with device policy checks and audit logging.
 - [WinWright](https://awesomecua.com/resources/github-alegauss-winwright/) — Date not recorded
   Playwright-inspired Windows desktop automation and testing framework that drives native apps and reports verified UI state.
 - [Witness](https://awesomecua.com/resources/github-ericfinland-witness/) — Date not recorded
   Local-first observability and execution trace recorder for AI browser agents.
 - [Zhuque Recruiting (朱雀招聘)](https://awesomecua.com/resources/github-shenkemin-sketch-zhuque-recruiting/) — Date not recorded
   Auditable Codex Computer Use skill for automating candidate sourcing and screening across web recruiting platforms.
+
+## Learning resources
+
+- [Predicate SDK Playground](https://awesomecua.com/resources/github-predicatesystems-predicate-sdk-playground/) — Date not recorded
+  A collection of runnable browser-agent demos using semantic page snapshots and assertions, with logs, screenshots and token accounting for evaluation.

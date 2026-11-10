@@ -26,7 +26,7 @@ The Android AccessibilityService contains concrete screen-reading and action pat
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Complete root MIT license text inspected at the pinned commit. Repository software only; data, weights and third-party assets retain separate terms.
+- 代码审核：Complete root MIT license text inspected at the pinned commit; it covers the repository software.
   来源：https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE
 
 ## 一手证据

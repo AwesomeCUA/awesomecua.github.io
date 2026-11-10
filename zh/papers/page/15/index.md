@@ -2311,7 +2311,7 @@ Phil Cuvin, Hao Zhu, Diyi Yang
 - 发表于：International Conference on Learning Representations
 - 卷：2026
 - 页码：95945-95977
-- 日期来源：Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2026-04-20.
 - 版本对应依据：Same work: the proceedings title is the retained arXiv title without its DECEPTICON: prefix, the same three authors appear in the same order, and the publisher abstract matches the arXiv abstract, including the 700-task DECEPTICON environment (600 generated and 100 real-world tasks).
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. The proceedings title omits the DECEPTICON: prefix that the arXiv title carries. Volume 2026 and pages 95945-95977 are explicit publisher citation metadata.
 - 发表证据：https://proceedings.iclr.cc/paper_files/paper/2026/hash/9afca5107064eb89546fabb4abc379a7-Abstract-Conference.html

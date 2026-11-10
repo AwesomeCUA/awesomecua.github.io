@@ -40,7 +40,7 @@ Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Ku
 - 卷：37
 - 页码：12461-12495
 - DOI：10.52202/079017-0397
-- 日期来源：Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024-12-16.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html

@@ -40,7 +40,7 @@ Zichen Zhu, Hao Tang, Yansi Li, Dingye Liu, Hongshen Xu, Kunyao Lan, Danyang Zha
 - 出版方：Association for Computational Linguistics
 - 页码：535-549
 - DOI：10.18653/v1/2025.naacl-demo.43
-- 日期来源：Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/4.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.naacl-demo.43/

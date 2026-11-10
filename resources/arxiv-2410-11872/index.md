@@ -39,7 +39,7 @@ Jakub Hoscilowicz, Bartosz Maj, Bartosz Kozakiewicz, Oleksii Tymoshchuk, Artur J
 - Publisher: Association for Computational Linguistics
 - Pages: 471-476
 - DOI: 10.18653/v1/2025.sigdial-1.38
-- Date source: Explicit publisher citation_publication_date: 2025/8. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/8.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the five-author list on page 1 of the publisher PDF. Landing-page citation metadata lists only Jakub Hoscilowicz and Artur Janicki.
 - Publication evidence: https://aclanthology.org/2025.sigdial-1.38/, https://aclanthology.org/2025.sigdial-1.38.pdf

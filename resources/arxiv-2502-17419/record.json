@@ -1,14 +1,14 @@
 {
   "status": "excluded",
   "id": "arxiv:2502.17419",
-  "reason": "Surveys reasoning LLMs such as o1 and R1, covering how they are built and reasoning benchmarks. This general LLM reasoning review does not cover agents operating GUIs, web pages or devices.",
+  "reason": "Surveys reasoning LLMs such as o1 and R1, covering how they are built and reasoning benchmarks. This general LLM reasoning review sits outside computer-use agents.",
   "decision": {
     "id": "arxiv:2502.17419",
     "name": "From System 1 to System 2: A Survey of Reasoning Large Language Models",
     "url": "https://arxiv.org/abs/2502.17419",
     "decision": "out_of_scope",
     "basis": "primary_abstract_review",
-    "reason": "Surveys reasoning LLMs such as o1 and R1, covering how they are built and reasoning benchmarks. This general LLM reasoning review does not cover agents operating GUIs, web pages or devices.",
+    "reason": "Surveys reasoning LLMs such as o1 and R1, covering how they are built and reasoning benchmarks. This general LLM reasoning review sits outside computer-use agents.",
     "reviewed_at": "2026-11-05T23:58:03Z",
     "metadata_fingerprint": "ce166245189e9f614fe5d8a31ed776529898b1ca872b6951758fef8390b8fdcf",
     "evidence": {

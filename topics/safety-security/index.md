@@ -619,6 +619,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Android emulator testbed that scores mobile device-control agents on both safety and helpfulness, using ADB and Appium for observations, actions and success checks.
 - [Next-Gen CAPTCHAs](https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/) — Date not recorded
   Next-Gen CAPTCHAs provides an interactive benchmark and generator of cognitive-gap CAPTCHA challenges for defending against GUI web agents.
+- [Open CaptchaWorld](https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/) — Date not recorded
+  Open CaptchaWorld evaluates multimodal web agents on interactive CAPTCHA puzzles through a web interface, with puzzle data, answer checks and recorded results.
 - [OpenAgentSafety](https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/) — Date not recorded
   A benchmark for agent safety in multi-step simulations involving browser, filesystem, terminal and messaging tools. It tests responses to ambiguous, conflicting and adversarial instructions.
 - [OS-Harm](https://awesomecua.com/resources/github-tml-epfl-os-harm/) — Date not recorded
@@ -637,6 +639,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Verisim is a coverage certifier and adversarial evaluation suite for testing pre-execution guardrails on computer-use and tool agents.
 - [WAInjectBench](https://awesomecua.com/resources/github-norrrrrrr-lyn-wainjectbench/) — Date not recorded
   WAInjectBench benchmarks prompt injection detection in web agents across six text and image attack types targeting web interaction pipelines.
+- [WASP](https://awesomecua.com/resources/github-facebookresearch-wasp/) — Date not recorded
+  WASP is an executable benchmark for testing prompt-injection attacks on web agents in simulated website environments.
 - [WATCHER](https://awesomecua.com/resources/github-aaman-911-watcher/) — Date not recorded
   Prompt-injection defense classifier, evaluation benchmark, and defended browser harness for autonomous web agents.
 - [WebGuard](https://awesomecua.com/resources/github-osu-nlp-group-webguard/) — Date not recorded
@@ -664,10 +668,14 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   EnvDistraction provides simulated GUI environments and evaluation scripts for measuring multimodal agent susceptibility to environmental distractions.
 - [LGWM data and RSWT-Bench](https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/) — Date not recorded
   A dataset of GUI screen transitions for training a world model, released with RSWT-Bench to evaluate whether observed screens follow the intended actions.
+- [LPS-Bench](https://awesomecua.com/resources/url-625bd97c7aa32cf05833/) — Date not recorded
+  A dataset for evaluating safety across computer-use agent trajectories, with 570 base cases and 40 skill variants covering benign and adversarial tasks.
 - [McGill-NLP/safearena](https://awesomecua.com/resources/url-be4ca14d1724b0cf8314/) — Date not recorded
   SafeArena supplies safe and harmful task splits for evaluating the safety of autonomous web agents, with accompanying environment archives under gated access.
 - [P-GUI-Evo](https://awesomecua.com/resources/url-b79ca6f7731ebf067709/) — Date not recorded
   A synthetic dataset of 622 GUI scenarios for evaluating how agents extract privacy rules, judge proposed actions, and respond to user feedback.
+- [PrivScreen](https://awesomecua.com/resources/url-a0f2b96269c91c5c815c/) — Date not recorded
+  PrivScreen is a dataset associated with research on protecting privacy in mobile-agent screenshots; its repository contains images and question-answer files.
 - [SATraj-OS](https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/) — Date not recorded
   Desktop computer-use trajectories with per-step screenshots and success, safety and attack labels, split into capability runs, safe-completion and refusal runs, and a legacy RiOSWorld-derived safety archive.
 - [VeriOS-Bench](https://awesomecua.com/resources/url-16a5ccde8bb16cda19ff/) — Date not recorded
@@ -718,6 +726,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Extensible Linux-first desktop-control MCP server with pluggable window, input, screenshot, OCR, and policy backends.
 - [aevra](https://awesomecua.com/resources/github-the-long-ride-aevra/) — Date not recorded
   Secure Model Context Protocol gateway enabling ChatGPT, Claude, and Grok to remotely execute commands and control a host machine.
+- [aevra-desktop](https://awesomecua.com/resources/github-the-long-ride-aevra-desktop-use/) — Date not recorded
+  A desktop-control MCP server that lets agents inspect and operate application controls through accessibility APIs, with screenshots and an application allowlist.
 - [Agent Browser Shield](https://awesomecua.com/resources/github-pixiebrix-agent-browser-shield/) — Date not recorded
   Browser extension for filtering potentially unsafe agent input.
 - [agent-browser-plugin-proton-pass](https://awesomecua.com/resources/github-evrenverse-agent-browser-plugin-proton-pass/) — Date not recorded
@@ -744,6 +754,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Local-first open-source agent runtime for safely executing AI-driven tasks on a user's personal computer.
 - [April Agent Action Filter](https://awesomecua.com/resources/github-newssourcecrawler-april-agent-action-filter/) — Date not recorded
   April Agent Action Filter is a Rust policy library that inspects and gates proposed computer-use agent actions before tool execution.
+- [arc-cua](https://awesomecua.com/resources/github-shhivv-arc-cua/) — Date not recorded
+  arc-cua is a macOS computer-use package with an app-window driver and a decision-model loop for executing bounded desktop subtasks handed off by an agent.
 - [AstraClaw Agent Computer Use MCP](https://awesomecua.com/resources/github-astraclawteam-agent-computer-use-mcp/) — Date not recorded
   Evidence-driven Windows Computer Use MCP server providing semantic UI observation, secure screenshots, and verified actions.
 - [Attest](https://awesomecua.com/resources/github-cyrus580529-attest/) — Date not recorded
@@ -778,6 +790,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Pair of Claude skills for protecting account credentials and stabilizing flaky UI interactions when agents drive web panels.
 - [browser-action-receipt](https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/) — Date not recorded
   Verification protocol that binds human approval to target DOM state, aborting clicks and emitting a receipt if the page mutates.
+- [browser-bridge](https://awesomecua.com/resources/github-whg517-browser-bridge/) — Date not recorded
+  An MCP browser-control bridge that uses a Chrome extension and native host to let agents inspect and act in existing tabs and signed-in sessions.
 - [browser-handoff](https://awesomecua.com/resources/github-synacktraa-browser-handoff/) — Date not recorded
   Human-in-the-loop handoff utility for browser-use agents that pauses automation for manual user intervention and resumes seamlessly.
 - [BrowserGuard](https://awesomecua.com/resources/github-david-wu1119-browserguard/) — Date not recorded
@@ -794,6 +808,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   A control plane for agent sandboxes defined by manifests. It runs workloads on several runtimes and exposes a virtual desktop with screen viewing and input controls.
 - [Chrome Control MCP](https://awesomecua.com/resources/github-randynorthrup-chrome-control-mcp/) — Date not recorded
   Visible, secure Chrome control server for AI assistants using MCP, Native Messaging, and the Chrome DevTools Protocol.
+- [ChromiumFish](https://awesomecua.com/resources/github-arman-bd-chromiumfish/) — Date not recorded
+  ChromiumFish packages a modified Chromium browser for Playwright and external agents. It also includes an agent that reads pages and performs clicks, typing, and navigation.
 - [chromiumfish_mcp](https://awesomecua.com/resources/github-loworbitlab-chromiumfish-mcp/) — Date not recorded
   Session-aware Model Context Protocol server for driving ChromiumFish browser automation.
 - [ClawBox](https://awesomecua.com/resources/github-coderkk1992-clawbox/) — Date not recorded
@@ -802,6 +818,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Local MCP server that compiles desktop screens into stable UI element maps with action verification and safety guardrails.
 - [Codex Chrome Browser Control Skill](https://awesomecua.com/resources/github-qlk-x-codex-chrome-browser-control/) — Date not recorded
   Local-first OpenAI Codex skill and Chrome extension for safe, user-bounded browser tab control.
+- [cookie-use](https://awesomecua.com/resources/github-leeguooooo-cookie-use/) — Date not recorded
+  cookie-use stores website sessions in an encrypted vault and lets agents select accounts and apply their sessions to browser contexts.
 - [cua_agent](https://awesomecua.com/resources/github-lacassef-computeruse/) — Date not recorded
   cua_agent is a modular Python computer-use framework with OS-agnostic planning, semantic UI grounding, and policy-checked desktop/browser drivers.
 - [CUGA](https://awesomecua.com/resources/github-cuga-project-cuga-agent/) — Date not recorded
@@ -862,6 +880,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Human escalation and live-session handoff layer for Solari browser agents when encountering CAPTCHAs, 2FA, or ambiguity.
 - [handraise-slack](https://awesomecua.com/resources/github-sy-d-handraise-slack/) — Date not recorded
   Slack channel adapter for browser-agent handoffs that sends approval requests with page screenshots and returns a person's decision to handraise.
+- [handraise-telegram](https://awesomecua.com/resources/github-sy-d-handraise-telegram/) — Date not recorded
+  A Telegram adapter for browser-agent handoffs that sends a page screenshot and approval buttons to a chat, then returns the person's decision.
 - [HarmonyGuard](https://awesomecua.com/resources/github-yurunchen-harmonyguard/) — Date not recorded
   HarmonyGuard enforces adaptive safety policies and dual-objective utility-security optimization for autonomous web and computer-use agents.
 - [HelpRelay WebMCP](https://awesomecua.com/resources/github-akigarage-helprelay-webmcp/) — Date not recorded
@@ -874,6 +894,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Capability-bounded WebMCP browser control surface for the InnerOS local AI runtime.
 - [Inside the Agent (SAE Browser Harness)](https://awesomecua.com/resources/github-kalyvask-inside-the-agent/) — Date not recorded
   Reproducible harness for Sparse Autoencoder (SAE) feature steering and live interpretability monitoring of browser agents.
+- [Interlock Relay](https://awesomecua.com/resources/github-wsk-build-interlock-relay/) — Date not recorded
+  Interlock Relay is an Android library that connects sandboxed agents to host-app capabilities through an approval gate. It provides execution backends, quotas, artifacts, and audit logs.
 - [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) — Date not recorded
   Interpreter Workstation is a desktop agent workspace that connects to local or remote computers and combines an agent runtime with browser access and file and app controls.
 - [Invictum Browser Bridge](https://awesomecua.com/resources/github-invictumhr-ai-invictum-browser-bridge/) — Date not recorded
@@ -886,6 +908,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Local-first AI engineering and browser-control agent runtime with bounded execution, verification, and self-repair.
 - [lazy-desktop-mcp](https://awesomecua.com/resources/github-leaf76-lazy-desktop-mcp/) — Date not recorded
   Local-first desktop control MCP server combining a Rust native host and Node.js launcher with policy-gated computer-use tools.
+- [LCU](https://awesomecua.com/resources/github-amontlabs-lcu/) — Date not recorded
+  LCU connects an installed desktop computer-use runtime to agent harnesses for window observation and input actions, with optional control of approved Chrome tabs.
 - [LockInTime headless](https://awesomecua.com/resources/github-lockintime-headless/) — Date not recorded
   Persistent, safety-enforced browser control runtime for AI agents with a semantic CLI.
 - [Locopilot](https://awesomecua.com/resources/github-pradhankukiran-locopilot/) — Date not recorded
@@ -902,12 +926,16 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Implements DOM-injected pop-up and toast indirect prompt injection attacks against multimodal web agents in VisualWebArena and OSWorld.
 - [MaskClaw](https://awesomecua.com/resources/github-theodora-y-maskclaw/) — Date not recorded
   MaskClaw is an on-device privacy guardrail that intercepts sensitive GUI/tool actions and enforces self-evolving user privacy rules.
+- [MCP Link Server](https://awesomecua.com/resources/github-aurafriday-mcp-link-server/) — Date not recorded
+  A local MCP server that lets agents run approved system and browser tools, including web automation through a connected browser extension.
 - [MechCP](https://awesomecua.com/resources/github-rsgoksel-mechcp/) — Date not recorded
   Hardened Model Context Protocol server giving AI agents Chrome DevTools Protocol browser control and dynamic Playwright execution.
 - [MELRA](https://awesomecua.com/resources/github-xagi-lab-melra/) — Date not recorded
   Modular Execution Layer for Reliable Autonomy (MELRA), a local MCP runtime that validates agent tool calls and gates risky actions.
 - [MirrorGuard code](https://awesomecua.com/resources/github-whitzardagent-mirrorguard/) — Date not recorded
   MirrorGuard pipeline that synthesizes risky and benign computer-use trajectories in a text-based GUI simulator, builds unsafe-to-safe thought corrections for training, and plugs the corrector into OSWorld-style agents.
+- [Mobile Agent](https://awesomecua.com/resources/github-looper42-mobile-agent/) — Date not recorded
+  Mobile Agent is an Android assistant that can use local tools and optional accessibility-based device control, with approval for sensitive actions.
 - [Mobile Agent Guardian](https://awesomecua.com/resources/github-salus-ryan-mobile-agent-guardian/) — Date not recorded
   Five-level safety and action-verification layer for mobile GUI agents that classifies and gates risky phone operations.
 - [mobius-browser-guard](https://awesomecua.com/resources/github-mobius-style-mobius-browser-guard/) — Date not recorded
@@ -962,6 +990,10 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Desktop browser where every identity runs in an isolated Chromium partition for multi-account human and agent workflows.
 - [Phi Browser](https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/) — Date not recorded
   Native macOS client of a Chromium browser whose agent Spaces let the built-in assistant or external agents drive windows over a consent-gated DevTools Protocol socket while the user watches and can take control.
+- [Plasmate Cookie Export](https://awesomecua.com/resources/github-plasmate-labs-plasmate-extension/) — Date not recorded
+  A Chrome extension transfers cookies from a user's signed-in browser session to Plasmate's local bridge, giving browser agents access to authenticated sites.
+- [playwright-with-fingerprints](https://awesomecua.com/resources/github-bablosoft-playwright-with-fingerprints/) — Date not recorded
+  playwright-with-fingerprints is a Windows plugin that applies fetched browser fingerprints to Playwright sessions used for web automation.
 - [Plip OSS](https://awesomecua.com/resources/github-hussainn7-plip-oss/) — Date not recorded
   Open-source macOS notch assistant and runtime for grounded, model-agnostic computer-use agents with verifiable action previews.
 - [Plow Hermes Agent Template](https://awesomecua.com/resources/github-delltrak-plow-hermes-agent-template/) — Date not recorded
@@ -976,8 +1008,12 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Governable, local-first desktop agent runtime with policy enforcement and auditable execution traces.
 - [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/) — Date not recorded
   Runtime trust layer for browser agents: a sidecar checks each action against local policy before it runs, and SDKs turn pages into compact ranked element snapshots and verify outcomes with DOM assertions.
+- [predicate-secure](https://awesomecua.com/resources/github-predicatesystems-predicate-secure/) — Date not recorded
+  predicate-secure is a security wrapper for browser agents that checks actions against policy, verifies outcomes, and records audit evidence.
 - [PrivateAI for Mac](https://awesomecua.com/resources/github-jacobjiangwei-privateai-for-mac/) — Date not recorded
   Native macOS local AI agent powered by Ollama with system control, file tools, and browser automation.
+- [profile-use](https://awesomecua.com/resources/github-leeguooooo-profile-use/) — Date not recorded
+  profile-use supplies local profile data for agent-driven web forms and applies confirmation and domain checks before sensitive entries or submission.
 - [ProofPack](https://awesomecua.com/resources/github-ebt55-proofpack/) — Date not recorded
   Pre-approval review and verification runtime where every agent finding and UI state is backed by a SHA-hashed capture.
 - [PrzedWysylka WebMCP Lab](https://awesomecua.com/resources/github-greqone-przedwysylkawebmcplab/) — Date not recorded
@@ -1062,6 +1098,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Demo of WebSentinel's context check: GPT-4o judges pre-extracted pop-up, email and message HTML segments from 144 injected webpage samples against the page context and reports how many it misses.
 - [windows-computer-use-mcp](https://awesomecua.com/resources/github-sandraschi-windows-computer-use-mcp/) — Date not recorded
   windows-computer-use-mcp provides 22 MCP tools for Windows UI Automation, OCR, mouse/keyboard control, and UAC safety guardrails.
+- [windows-mcp-server](https://awesomecua.com/resources/github-deploymenttheory-windows-mcp-server/) — Date not recorded
+  An MCP server lets agents inspect and control Windows desktops through accessibility data and input tools, with device policy checks and audit logging.
 - [Wraith](https://awesomecua.com/resources/github-nightraven-x-wraith/) — Date not recorded
   Windows system-tray utility that blocks physical keyboard and mouse interference while allowing synthetic AI agent input events through.
 - [Xiaoshe Agent (小蛇 Agent)](https://awesomecua.com/resources/github-jackygilbert498-debug-xiaoshe-agent/) — Date not recorded

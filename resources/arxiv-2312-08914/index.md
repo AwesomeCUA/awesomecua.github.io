@@ -39,7 +39,7 @@ The annotation and scope were reviewed against the primary paper abstract.
 - Pages: 14281-14290
 - Date source: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier. The publisher PDF title and complete first-page author list were visually checked.
-- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen. Each edition retains its own authors.
+- Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen.
 - Publication evidence: https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html, https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf
 
 ## Recorded arXiv snapshot

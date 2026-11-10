@@ -38,7 +38,7 @@ Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevol
 - document: not recorded
 - weights: not recorded
 
-- data review: Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.
+- data review: Publisher dataset-card declaration for this release.
   Sources: https://huggingface.co/datasets/CognitiveKernel/WebEvolver/raw/13f4f45b359e138a45b1c89bd4e913298c586ca9/README.md
 
 ## Primary evidence

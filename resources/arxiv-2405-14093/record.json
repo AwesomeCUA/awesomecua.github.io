@@ -1,14 +1,14 @@
 {
   "status": "excluded",
   "id": "arxiv:2405.14093",
-  "reason": "The abstract surveys vision-language-action models for language-conditioned robotic control and planning. This embodied robotics survey does not cover agents operating graphical interfaces, web pages or devices.",
+  "reason": "The abstract surveys vision-language-action models for language-conditioned robotic control and planning. This embodied robotics survey sits outside computer-use agents.",
   "decision": {
     "id": "arxiv:2405.14093",
     "name": "A Survey on Vision-Language-Action Models for Embodied AI",
     "url": "https://arxiv.org/abs/2405.14093",
     "decision": "out_of_scope",
     "basis": "primary_abstract_review",
-    "reason": "The abstract surveys vision-language-action models for language-conditioned robotic control and planning. This embodied robotics survey does not cover agents operating graphical interfaces, web pages or devices.",
+    "reason": "The abstract surveys vision-language-action models for language-conditioned robotic control and planning. This embodied robotics survey sits outside computer-use agents.",
     "reviewed_at": "2026-11-05T23:58:03Z",
     "metadata_fingerprint": "eeebd1bd9d6610db6c6937552296afa518821db913c447961f8ab21943995c4f",
     "evidence": {

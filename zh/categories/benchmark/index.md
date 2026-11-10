@@ -2,7 +2,7 @@
 
 计算机使用评测基准是一组任务与环境，用来给操作网页浏览器、桌面应用或移动设备的智能体打分。每个基准都把固定的任务集与评估器配在一起，评估方式包括基于执行的状态检查、答案匹配和目标定位。
 
-> AwesomeCUA 目录收录 281 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
+> AwesomeCUA 目录收录 300 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https://awesomecua.com/categories/benchmark/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -15,21 +15,21 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 | [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) | 手机 | 交互式 | [116 task definitions](https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md) | [排行榜](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0) |
 | [BrowserGym](https://awesomecua.com/resources/github-servicenow-browsergym/) | 网页 | 混合 | — | — |
 | [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/) | 桌面 | 离线 | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [排行榜](https://gui-agent.github.io/grounding-leaderboard) |
-| [Mind2Web](https://awesomecua.com/resources/github-osu-nlp-group-mind2web/) | 网页 | 离线 | [1,009 task instances](https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md) | — |
+| [VisualWebArena](https://awesomecua.com/resources/github-web-arena-x-visualwebarena/) | 网页 | 交互式 | [910 tasks](https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md) | — |
 
 ## 常见问题
 
 ### 目录中被提及最多的评测基准有哪些？
 
-[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)（60 条记录）、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)（28 条记录）和 [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/)（21 条记录）在其他目录记录的已审核来源中被提及最多。
+[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)（60 条记录）、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)（30 条记录）和 [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/)（21 条记录）在其他目录记录的已审核来源中被提及最多。
 
 ### 这些评测基准覆盖哪些平台？
 
-在 281 条已审核评测基准中，网页 193 条、桌面 93 条、手机 40 条、跨平台 28 条；11 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 300 条已审核评测基准中，网页 207 条、桌面 94 条、手机 43 条、跨平台 28 条；12 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些评测基准有官方排行榜？
 
-281 条评测基准中有 25 条在已审核来源中链接了官方排行榜，包括 [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)、[AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) 和 [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/)。
+300 条评测基准中有 25 条在已审核来源中链接了官方排行榜，包括 [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)、[AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) 和 [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/)。
 
 ### 交互式评测和离线评测各有多少？
 
@@ -37,7 +37,7 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https
 
 ### 评测基准使用哪些许可证？
 
-最常见的声明许可证是 MIT（115 条）、Apache-2.0（66 条）和 CC-BY-4.0（6 条）。281 条中有 86 条未记录声明的许可证。
+最常见的声明许可证是 MIT（118 条）、Apache-2.0（70 条）和 CC-BY-4.0（7 条）。300 条中有 96 条未记录声明的许可证。
 
 ---
 
@@ -273,6 +273,50 @@ Language, instruction style, and positive/negative target configuration are expl
 
 ---
 
+## VisualWebArena
+
+在 WebArena 评估设置基础上扩展的视觉定位网页任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-web-arena-x-visualwebarena/
+- 原始来源：https://github.com/web-arena-x/visualwebarena
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、界面理解
+- 证据核查日期：2026-10-16T06:35:57Z
+- ID：github:web-arena-x/visualwebarena
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-web-arena-x-visualwebarena/record.json
+
+### 结构化规格
+
+- 动作 / 输出：browser element actions
+- 评测方式：Execution-based completion checks for visually grounded web tasks.
+- 侧重：multimodal web task completion
+- 观测：screenshots with set-of-mark annotations, caption-augmented accessibility tree
+- 任务设置：interactive
+
+#### 数量记录
+
+- 910 tasks — full VWA suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
+- 233 human trajectories — one task from each template type（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
+
+The 233 demonstration trajectories and the full 910-task evaluation set are different populations. Observation modes and captioning components differ across baseline agents.
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：182529c2fce1e41f3a2162727205c54da8b3d2381b2273d726170ee9d8cf65cc）
+
+---
+
 ## Mind2Web
 
 提供用于通用网页导航研究的人类演示和任务。
@@ -318,50 +362,6 @@ These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, an
 - https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：157dbd840264ea29f958c0b7383d63783845c573b3e19a1f39b773be22e0b32d）
 - https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：157dbd840264ea29f958c0b7383d63783845c573b3e19a1f39b773be22e0b32d）
 - https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：953ff47dbbc0c0563d1ec2d245b06d1206f2f38c4ed2f0da728e027ae2e5a973）
-
----
-
-## VisualWebArena
-
-在 WebArena 评估设置基础上扩展的视觉定位网页任务。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-web-arena-x-visualwebarena/
-- 原始来源：https://github.com/web-arena-x/visualwebarena
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、界面理解
-- 证据核查日期：2026-10-16T06:35:57Z
-- ID：github:web-arena-x/visualwebarena
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-web-arena-x-visualwebarena/record.json
-
-### 结构化规格
-
-- 动作 / 输出：browser element actions
-- 评测方式：Execution-based completion checks for visually grounded web tasks.
-- 侧重：multimodal web task completion
-- 观测：screenshots with set-of-mark annotations, caption-augmented accessibility tree
-- 任务设置：interactive
-
-#### 数量记录
-
-- 910 tasks — full VWA suite（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
-- 233 human trajectories — one task from each template type（来源报告；来源：https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md）
-
-The 233 demonstration trajectories and the full 910-task evaluation set are different populations. Observation modes and captioning components differ across baseline agents.
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：182529c2fce1e41f3a2162727205c54da8b3d2381b2273d726170ee9d8cf65cc）
 
 ---
 
@@ -411,49 +411,49 @@ The benchmark uses predefined virtual-device images and apps chosen to work with
 
 ---
 
-## WebShop
+## WebVoyager
 
-用于遵循指令的网页智能体的模拟购物环境。
+多模态网页导航智能体，以及基于真实网站的评估任务。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-princeton-nlp-webshop/
-- 原始来源：https://github.com/princeton-nlp/WebShop
+- 目录页面：https://awesomecua.com/zh/resources/github-minorjerry-webvoyager/
+- 原始来源：https://github.com/MinorJerry/WebVoyager
 - 类型：评测基准
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：网页
 - 主题：评测、网页导航
 - 证据核查日期：2026-10-16T06:35:57Z
-- ID：github:princeton-nlp/webshop
+- ID：github:minorjerry/webvoyager
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-princeton-nlp-webshop/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
 
 ### 结构化规格
 
-- 动作 / 输出：search queries, click actions, product option selection
-- 评测方式：未记录
-- 侧重：instruction-conditioned product selection, web navigation
-- 观测：HTML pages, simplified text views
+- 动作 / 输出：Selenium-backed browser interactions
+- 评测方式：The repository supplies an automated multimodal-model evaluation protocol.
+- 侧重：live-web task completion
+- 观测：webpage screenshots, textual task instructions
 - 任务设置：interactive
 
 #### 数量记录
 
-- 12,087 instructions — crowd-sourced instruction collection（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
-- ≈ 1,180,000 products — full product inventory（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
+- 643 task queries — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 15 websites — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 90 tasks — separate GAIA validation-derived web subset（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
 
-This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations.
+The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/LICENSE.md
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：79b7a90a1413a52deb53142b5bbd81ecf40f61743bd4601c2835e91375898ec0）
-- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：79b7a90a1413a52deb53142b5bbd81ecf40f61743bd4601c2835e91375898ec0）
-- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/LICENSE.md（获取于 2026-10-16T06:41:58Z；SHA-256：8872dbf8660b00890b5e07ce1ea1f7a44fa7ae4e1857da56caba172b51dab3cb）
+- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5）
+- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1）
 
 ---
 
@@ -501,35 +501,6 @@ Counted unique identifiers in the inspected manifest. Normal and hard modes diff
 - https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/docs/Develop-Tasks.md（获取于 2026-10-17T02:06:30Z；SHA-256：c565dc02ab0049bf9710b87e2760dda8d7c92268ea78f0354952695ab59c0de3）
 - https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json（获取于 2026-10-17T02:06:30Z；SHA-256：902fb24cf0a9e146bf6c29288e74a7254fe40294e49dd47363e0b15d65608fef）
 - https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：9906940f61b1f0b533fa7d99baf55178b2808fbe113ea51dfbfad8572ccd5f2b）
-
----
-
-## Browser Use Benchmark (BU Bench)
-
-Browser Use Benchmark (BU Bench V2.1) 在 200 项真实网页导航和交互任务上评测浏览器智能体。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-browser-use-benchmark/
-- 原始来源：https://github.com/browser-use/benchmark
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航
-- 证据核查日期：2026-11-04T14:41:44Z
-- ID：github:browser-use/benchmark
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-browser-use-benchmark/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/browser-use/benchmark/HEAD/README.md（获取于 2026-11-04T14:41:44Z；SHA-256：849a8da2e5e5c972ae5ab6f46620c740b3c2440add259650fa08cb4dfd9917aa）
 
 ---
 
@@ -587,49 +558,78 @@ Publisher-reported inventory. GUI-only, agent-user and MCP-augmented configurati
 
 ---
 
-## WebVoyager
+## WebShop
 
-多模态网页导航智能体，以及基于真实网站的评估任务。
+用于遵循指令的网页智能体的模拟购物环境。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-minorjerry-webvoyager/
-- 原始来源：https://github.com/MinorJerry/WebVoyager
+- 目录页面：https://awesomecua.com/zh/resources/github-princeton-nlp-webshop/
+- 原始来源：https://github.com/princeton-nlp/WebShop
 - 类型：评测基准
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：网页
 - 主题：评测、网页导航
 - 证据核查日期：2026-10-16T06:35:57Z
-- ID：github:minorjerry/webvoyager
+- ID：github:princeton-nlp/webshop
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-princeton-nlp-webshop/record.json
 
 ### 结构化规格
 
-- 动作 / 输出：Selenium-backed browser interactions
-- 评测方式：The repository supplies an automated multimodal-model evaluation protocol.
-- 侧重：live-web task completion
-- 观测：webpage screenshots, textual task instructions
+- 动作 / 输出：search queries, click actions, product option selection
+- 评测方式：未记录
+- 侧重：instruction-conditioned product selection, web navigation
+- 观测：HTML pages, simplified text views
 - 任务设置：interactive
 
 #### 数量记录
 
-- 643 task queries — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
-- 15 websites — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
-- 90 tasks — separate GAIA validation-derived web subset（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 12,087 instructions — crowd-sourced instruction collection（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
+- ≈ 1,180,000 products — full product inventory（来源报告；来源：https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md）
 
-The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
+This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations.
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/LICENSE.md
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5）
-- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1）
+- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：79b7a90a1413a52deb53142b5bbd81ecf40f61743bd4601c2835e91375898ec0）
+- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：79b7a90a1413a52deb53142b5bbd81ecf40f61743bd4601c2835e91375898ec0）
+- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/LICENSE.md（获取于 2026-10-16T06:41:58Z；SHA-256：8872dbf8660b00890b5e07ce1ea1f7a44fa7ae4e1857da56caba172b51dab3cb）
+
+---
+
+## Browser Use Benchmark (BU Bench)
+
+Browser Use Benchmark (BU Bench V2.1) 在 200 项真实网页导航和交互任务上评测浏览器智能体。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-browser-use-benchmark/
+- 原始来源：https://github.com/browser-use/benchmark
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-04T14:41:44Z
+- ID：github:browser-use/benchmark
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-browser-use-benchmark/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/browser-use/benchmark/HEAD/README.md（获取于 2026-11-04T14:41:44Z；SHA-256：849a8da2e5e5c972ae5ab6f46620c740b3c2440add259650fa08cb4dfd9917aa）
 
 ---
 
@@ -715,6 +715,51 @@ LMMs-Eval 是面向大型多模态模型的标准化评测测试框架，涵盖 
 
 - https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/README.md（获取于 2026-11-04T13:12:14Z；SHA-256：f14d00e5d467b739b9bbbbf03eacf78dbbd6f28ec65f74ee52939556e6f02e23）
 - https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE（获取于 2026-11-04T13:41:32Z；SHA-256：17358b5caadacb8108f14a6a319779cc8a20feed699f79c59e396e7e9dd5c33b）
+
+---
+
+## Online Mind2Web
+
+提供 136 个在线网站上的 300 项任务，用于在线评估网页智能体；过时任务会逐步替换，提交结果经人工审核，并配有 WebJudge 自动评估器。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-osu-nlp-group-online-mind2web/
+- 原始来源：https://github.com/OSU-NLP-Group/Online-Mind2Web
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-10-16T06:35:57Z
+- ID：github:osu-nlp-group/online-mind2web
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/record.json
+
+### 结构化规格
+
+- 动作 / 输出：web interactions
+- 评测方式：Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
+- 侧重：live-web task completion
+- 观测：未记录
+- 任务设置：interactive
+
+#### 数量记录
+
+- 300 tasks — documented Online-Mind2Web suite（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+- 136 websites — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
+
+Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema because tasks are actively replaced when websites or requirements become invalid.
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa）
+- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：93675f9d13697ae98889d703b8fae86a7200623e7ae8d844c9ee2200ad480583）
 
 ---
 
@@ -860,48 +905,33 @@ The card reports more than 100 websites. Grounding accuracy and task completion 
 
 ---
 
-## Online Mind2Web
+## DeskMind Bench
 
-提供 136 个在线网站上的 300 项任务，用于在线评估网页智能体；过时任务会逐步替换，提交结果经人工审核，并配有 WebJudge 自动评估器。
+DeskMind Bench 提供沙箱化的 macOS 桌面任务、状态评分器和参考轨迹，用于评测计算机使用智能体。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-osu-nlp-group-online-mind2web/
-- 原始来源：https://github.com/OSU-NLP-Group/Online-Mind2Web
+- 目录页面：https://awesomecua.com/zh/resources/github-deskmind-ai-bench/
+- 原始来源：https://github.com/deskmind-ai/bench
 - 类型：评测基准
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航
-- 证据核查日期：2026-10-16T06:35:57Z
-- ID：github:osu-nlp-group/online-mind2web
+- 运行环境：桌面、macOS
+- 主题：评测、沙箱
+- 证据核查日期：2026-11-04T14:02:44Z
+- ID：github:deskmind-ai/bench
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/record.json
-
-### 结构化规格
-
-- 动作 / 输出：web interactions
-- 评测方式：Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
-- 侧重：live-web task completion
-- 观测：未记录
-- 任务设置：interactive
-
-#### 数量记录
-
-- 300 tasks — documented Online-Mind2Web suite（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
-- 136 websites — documented site coverage（来源报告；来源：https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md）
-
-Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema because tasks are actively replaced when websites or requirements become invalid.
+- 完整记录 JSON：https://awesomecua.com/resources/github-deskmind-ai-bench/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa）
-- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：93675f9d13697ae98889d703b8fae86a7200623e7ae8d844c9ee2200ad480583）
+- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/README.md（获取于 2026-11-04T14:02:44Z；SHA-256：b2b3c0839d1286be08764abf1c747ac4c76a7e8d3ab8b25c28024abafac9c8e4）
+- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE（获取于 2026-11-04T14:07:17Z；SHA-256：1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d）
 
 ---
 
@@ -932,6 +962,36 @@ openadapt-evals 使用可复现的评测器，在 Windows Agent Arena 等评测�
 
 - https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/README.md（获取于 2026-11-04T14:41:44Z；SHA-256：f7c6b6da8b6fe579d9e4e576829c6daf4bd9611a5f134cf478fe85a0e2862156）
 - https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE（获取于 2026-11-04T14:45:03Z；SHA-256：59aeac47ca72de18ba99dd38f0b2f9596b822f85e9cf816684369fadb6664e06）
+
+---
+
+## Plasmate Benchmarks
+
+Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟、内存和 token 效率评测。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-benchmarks/
+- 原始来源：https://github.com/plasmate-labs/plasmate-benchmarks
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、效率
+- 证据核查日期：2026-11-04T13:12:31Z
+- ID：github:plasmate-labs/plasmate-benchmarks
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md（获取于 2026-11-04T13:12:31Z；SHA-256：a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6）
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE（获取于 2026-11-04T13:22:33Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
 
 ---
 
@@ -1307,6 +1367,40 @@ Definitions and instantiated tasks are different units. ServiceNow instance acce
 
 ---
 
+## BlenderWorld
+
+一项包含 223 个 Blender 创作任务的基准，输入涵盖文本、图像和视频。智能体提交可编辑项目，由评测程序渲染并依据评分细则评估。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-883e7c46e883b005762c/
+- 原始来源：https://huggingface.co/datasets/Qwen/BlenderWorld
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：评测、科学工作流、工具集成
+- 证据核查日期：2026-11-09T21:10:10Z
+- ID：url:883e7c46e883b005762c
+
+### 范围记录
+
+The package includes task inputs, Blender environments, verifier code, and rubric data. Its Harbor setup calls for a GPU-capable Linux sandbox; the adapter and evaluator code is MIT licensed.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-883e7c46e883b005762c/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/Qwen/BlenderWorld
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Qwen/BlenderWorld（获取于 2026-11-09T21:10:10Z；SHA-256：dd659d8f6434ac87c396b423811baeb9679fb5a5831f822938caef08b33b8079）
+- https://huggingface.co/api/datasets/Qwen/BlenderWorld（获取于 2026-11-09T21:10:10Z；SHA-256：dd659d8f6434ac87c396b423811baeb9679fb5a5831f822938caef08b33b8079）
+
+---
+
 ## CUA-Gym-Hub
 
 CUA-Gym-Hub 提供 98 个自包含的模拟网页应用，配有确定性状态验证器，可用作 RL 训练和评测环境。
@@ -1334,36 +1428,6 @@ CUA-Gym-Hub 提供 98 个自包含的模拟网页应用，配有确定性状态�
 
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/README.md（获取于 2026-11-04T14:20:05Z；SHA-256：979699e12a3ee57f2059720cf2f22abbd42fd07a97896826522f9ec5ccb8e9c5）
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/LICENSE（获取于 2026-11-04T14:23:33Z；SHA-256：4b90ed4baf4f3ac8df3e7e9bb4bb0cf758146d1ab716a687366cbee9f7418af4）
-
----
-
-## DeskMind Bench
-
-DeskMind Bench 提供沙箱化的 macOS 桌面任务、状态评分器和参考轨迹，用于评测计算机使用智能体。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-deskmind-ai-bench/
-- 原始来源：https://github.com/deskmind-ai/bench
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、macOS
-- 主题：评测、沙箱
-- 证据核查日期：2026-11-04T14:02:44Z
-- ID：github:deskmind-ai/bench
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-deskmind-ai-bench/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/README.md（获取于 2026-11-04T14:02:44Z；SHA-256：b2b3c0839d1286be08764abf1c747ac4c76a7e8d3ab8b25c28024abafac9c8e4）
-- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE（获取于 2026-11-04T14:07:17Z；SHA-256：1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d）
 
 ---
 
@@ -1596,6 +1660,40 @@ The split-ID inventory counts task IDs. Extra runtime/data dependencies and thir
 
 ---
 
+## MyPCBench
+
+一个 Linux 桌面基准，包含跨预置网页应用和办公软件的 184 项任务，使用虚拟机运行器与评分细则进行评分。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-ljang0-mypcbench/
+- 原始来源：https://github.com/ljang0/MyPCBench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux、网页
+- 主题：评测、跨应用、沙箱、长任务
+- 证据核查日期：2026-11-09T06:16:33Z
+- ID：github:ljang0/mypcbench
+
+### 范围记录
+
+The repository ships the harness, tasks, rubrics, persona metadata and documentation. The runnable VM is distributed separately as a Docker image and a qcow2 file; the README specifies Linux, KVM and QEMU for direct runs.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ljang0-mypcbench/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：5b82d77eeb655123ee6b287b23491d113bea762de0850e522e540a0fd4c768a3）
+- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE（获取于 2026-11-09T06:13:33Z；SHA-256：1e18ae7e58d5f87ba1edec3967e53489879185d3b932f57f14308fd2014f3b80）
+
+---
+
 ## OSWorkerBench
 
 桌面图形界面智能体基准，包含横跨 17 个业务领域和 41 个应用的 100 项办公任务。它发布任务表和演示数据表，供 UI-Mate 评测框架使用。
@@ -1656,6 +1754,40 @@ OSWorld-MCP 在 OSWorld 中评测计算机使用智能体混合使用 GUI 交互
 ### 一手证据
 
 - https://raw.githubusercontent.com/X-PLUG/OSWorld-MCP/HEAD/README.md（获取于 2026-11-04T13:12:43Z；SHA-256：6fd51bd79a5603e9513f84e69f98b8ca733cef762a8a2391bb287ae3698399ec）
+
+---
+
+## REAL
+
+一个浏览器智能体评测工具包，提供可复现的网站副本、任务目标、智能体 API 和评测框架。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-agi-inc-real/
+- 原始来源：https://github.com/agi-inc/REAL
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、沙箱、网页导航
+- 证据核查日期：2026-11-09T19:55:56Z
+- ID：github:agi-inc/real
+
+### 范围记录
+
+The source includes SDK installation instructions and custom-agent examples. Evaluation requires browser dependencies and a model API key.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-agi-inc-real/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/README.md（获取于 2026-11-09T19:55:56Z；SHA-256：b3ab8cc93c834bf26b59a67c3f0d30d30602f5f1aad1fe4a1f4864f263f87e79）
+- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE（获取于 2026-11-09T14:20:31Z；SHA-256：229b91680e13d4ec18779fae8da1f75958703be023e14fb3149f8d96c1e254d6）
 
 ---
 
@@ -1857,6 +1989,40 @@ A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstr
 - https://raw.githubusercontent.com/McGill-NLP/weblinx-browsergym/297e5de4e773b8756b0d4c044f23d5075950dc3d/weblinx_browsergym/__init__.py（获取于 2026-10-18T12:21:41Z；SHA-256：9f16aa5ee665b9d1b6eb36bd2b1c4303d53c1f0e7cb6b6b664fce03d389c7ab0）
 - https://raw.githubusercontent.com/McGill-NLP/weblinx/9a7e814ffaac36d36ae5291dc3407c530055e16f/README.md（获取于 2026-10-18T12:21:41Z；SHA-256：15c3f1656afd861894b180bca7d9214b4cf78a6ad9cd0601c80f5d67d2839528）
 - https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md（获取于 2026-10-18T12:21:40Z；SHA-256：15791d57bbcc8d4c5c88a8a3f5316ed72bc1e2ace939b1fb8dd6039b9a7b0d8b）
+
+---
+
+## WebRetriever
+
+这是一个网页智能体基准，包含导航、文档引导导航和端到端信息提取三种评测协议，涵盖 1,550 项任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-e96228937fdb3bc51531/
+- 原始来源：https://huggingface.co/datasets/Mininglamp-2718/WebRetriever
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、工作流
+- 证据核查日期：2026-11-09T21:09:04Z
+- ID：url:e96228937fdb3bc51531
+
+### 范围记录
+
+The repository lists three protocol JSON files. The page says access to file content requires accepting its conditions and declares a CC BY 4.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-e96228937fdb3bc51531/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Mininglamp-2718/WebRetriever（获取于 2026-11-09T21:09:04Z；SHA-256：2d969c171d618bd202d1aa360b929d48d2b09c35f0fceb60d3a2a1a6f09be65c）
+- https://huggingface.co/api/datasets/Mininglamp-2718/WebRetriever（获取于 2026-11-09T21:09:04Z；SHA-256：2d969c171d618bd202d1aa360b929d48d2b09c35f0fceb60d3a2a1a6f09be65c）
 
 ---
 
@@ -2260,6 +2426,39 @@ Counts refer to the paper study.
 
 ---
 
+## AppControlBench
+
+AppControlBench 在模拟器中评估智能体完成 iOS 应用任务的表现，根据最终截图评分，并发布任务定义和运行记录。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-software-mansion-app-control-bench/
+- 原始来源：https://github.com/software-mansion/app-control-bench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：iOS
+- 主题：评测、手机操作
+- 证据核查日期：2026-11-09T21:09:09Z
+- ID：github:software-mansion/app-control-bench
+
+### 范围记录
+
+The README describes 60 tasks across Bluesky and Element iOS and a matrix of 720 runs. It says each run uses a fresh simulator clone.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-software-mansion-app-control-bench/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/software-mansion/app-control-bench/HEAD/README.md（获取于 2026-11-09T21:09:09Z；SHA-256：2d40459d39c1e9342b1aa85cca2e3cb396290ffa8b43182b3f4896463a10f6d3）
+
+---
+
 ## AppWorld
 
 提供模拟应用、用户数据和基于状态的任务检查，用于评估通过 API 和代码交互的智能体。
@@ -2307,6 +2506,40 @@ This is an adjacent API/coding benchmark. Preserve the named release; task count
 - https://raw.githubusercontent.com/stonybrooknlp/appworld/HEAD/README.md（获取于 2026-10-16T10:45:03Z；SHA-256：f4049141b6e520217395b7ccd9f27048c8e0f90331690dcbef300d2bc4ff7bdd）
 - https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50（获取于 2026-10-16T06:31:32Z；SHA-256：b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb）
 - https://raw.githubusercontent.com/StonyBrookNLP/appworld/HEAD/LICENSE（获取于 2026-10-16T10:48:42Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## ASIL Benchmark
+
+ASIL Benchmark 发布带索引的软件智能体任务，用于单应用和多应用评测，并提供任务定义及公开素材。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-9b01ef4cc50d241ff34a/
+- 原始来源：https://huggingface.co/datasets/sharryXR/asil-benchmark
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：评测、跨应用
+- 证据核查日期：2026-11-09T21:08:39Z
+- ID：url:9b01ef4cc50d241ff34a
+
+### 范围记录
+
+The card lists main, multi-application, hard, and easier task indexes under evaluation_examples/. It declares a CC BY 4.0 license; training data and runtime images are separate releases.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-9b01ef4cc50d241ff34a/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/sharryXR/asil-benchmark
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/sharryXR/asil-benchmark（获取于 2026-11-09T21:08:39Z；SHA-256：dfd90aac095ca49cd7b5e6bba4b3f5aa7b3dfcb0b1d523762b1bfc7a67800dad）
+- https://huggingface.co/api/datasets/sharryXR/asil-benchmark（获取于 2026-11-09T21:08:39Z；SHA-256：dfd90aac095ca49cd7b5e6bba4b3f5aa7b3dfcb0b1d523762b1bfc7a67800dad）
 
 ---
 
@@ -2377,6 +2610,74 @@ The repository includes a Python package and documentation for dataset, submissi
 
 ---
 
+## Browser AI Agent — live-web benchmark audit
+
+一项已归档的网页智能体实时网站任务评估审查，提供任务子集和脚本，用于检查网站变化、访问障碍与测量错误。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-saarthak-yadav-browser-agent-webvoyager/
+- 原始来源：https://github.com/saarthak-yadav/browser-agent-webvoyager
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、鲁棒性、网页导航、历史
+- 证据核查日期：2026-11-09T21:09:38Z
+- ID：github:saarthak-yadav/browser-agent-webvoyager
+
+### 范围记录
+
+The repository includes audit artifacts, subset rules, Playwright scripts, and tests. Its README says the planned agent did not produce a pass rate. Code is MIT licensed; included task files retain their upstream licenses.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-saarthak-yadav-browser-agent-webvoyager/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/saarthak-yadav/browser-agent-webvoyager/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/saarthak-yadav/browser-agent-webvoyager/HEAD/README.md（获取于 2026-11-09T21:09:38Z；SHA-256：be9c2510bdf218a5c0c71b82fc0ec292e93226f950d5cd3ed206e3b40794f34b）
+- https://raw.githubusercontent.com/saarthak-yadav/browser-agent-webvoyager/HEAD/LICENSE（获取于 2026-11-09T21:11:53Z；SHA-256：080d93a39040f6bdcc157f8a9bda0c8f5f68dc54b16b00db1175da9c6f45b2f0）
+
+---
+
+## BrowserGym-Knows
+
+一个用于评估智能体的 BrowserGym 分支，让智能体在 Chromium 中完成 Google Workspace 任务，并通过 Workspace API 评定结果。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-farhanishmam-browsergym-knows/
+- 原始来源：https://github.com/farhanishmam/BrowserGym-Knows
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、工作流
+- 证据核查日期：2026-11-09T21:09:42Z
+- ID：github:farhanishmam/browsergym-knows
+
+### 范围记录
+
+The setup uses companion repositories as submodules. It requires a Google account, a service account for grading and model API keys.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-farhanishmam-browsergym-knows/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/farhanishmam/BrowserGym-Knows/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/farhanishmam/BrowserGym-Knows/HEAD/README.md（获取于 2026-11-09T21:09:42Z；SHA-256：018c86069ef7a83a2a257b104c2b3918b030369d9d2329ac9d256c2c2b3f208f）
+- https://raw.githubusercontent.com/farhanishmam/BrowserGym-Knows/HEAD/LICENSE（获取于 2026-11-09T21:11:59Z；SHA-256：b192c58991e8ff585cc574615d40e74185404d4b96c1109d423071ab1367344b）
+
+---
+
 ## ClawBench
 
 真实网站上的日常任务基准，让浏览器智能体在容器化 Chromium 中运行，拦截每次最终提交请求并通过 URL 匹配和 LLM 裁判评分，同时记录 5 层运行证据。
@@ -2434,6 +2735,103 @@ The README says two ASPCA tasks were removed after publication, so the shipped c
 
 ---
 
+## Co-Design Bench
+
+Co-Design Bench 评估编码智能体依据多模态请求修改应用程序的结果，并结合源代码和浏览器证据检查需求是否满足。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-wiselnn570-co-design-bench/
+- 原始来源：https://github.com/Wiselnn570/Co-Design-Bench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、界面设计、界面理解
+- 证据核查日期：2026-11-09T21:09:08Z
+- ID：github:wiselnn570/co-design-bench
+
+### 范围记录
+
+The README describes a public Multimodal Editing subset with 96 tasks and 521 acceptance criteria, plus scoring and judging commands. Dataset archives are distributed separately; the reference judge requires an authenticated Claude CLI, Node.js, Playwright, and Chromium.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-wiselnn570-co-design-bench/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Wiselnn570/Co-Design-Bench/HEAD/README.md（获取于 2026-11-09T21:09:08Z；SHA-256：c7c4f4c3953ec95db5efe4a07866aa01ed05de9ad2cf2b7937bc72b3cf20da9a）
+
+---
+
+## Co-Design Bench
+
+Co-Design Bench 用 96 个带标注截图的编辑任务和 521 项标准，根据源代码及浏览器证据评估智能体对多模态请求所做的应用修改。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-7cfe1cd1a61d7ebfd083/
+- 原始来源：https://huggingface.co/datasets/Wiselnn/Co-Design-Bench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、界面设计、界面理解
+- 证据核查日期：2026-11-09T21:10:15Z
+- ID：url:7cfe1cd1a61d7ebfd083
+
+### 范围记录
+
+The release describes solver and evaluation archives, Parquet task and rubric indexes, and a separate code package for preparing, judging, and scoring submissions.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Wiselnn/Co-Design-Bench（获取于 2026-11-09T21:10:15Z；SHA-256：999f23474c0196074ede24093fc38629e23e02db9ef6c6bf151718386d0233a5）
+- https://huggingface.co/api/datasets/Wiselnn/Co-Design-Bench（获取于 2026-11-09T21:10:15Z；SHA-256：999f23474c0196074ede24093fc38629e23e02db9ef6c6bf151718386d0233a5）
+
+---
+
+## CodexQA
+
+一套包含 11 个本地优先 QA Agent Skills 的工具，供 Cursor、Claude Code 和 Codex 验证实时网页和桌面用户操作流程。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-openqa-cn-codexqa/
+- 原始来源：https://github.com/openqa-cn/codexqa
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面
+- 主题：评测、网页导航、工具集成、工作流
+- 证据核查日期：2026-11-04T18:11:44Z
+- ID：github:openqa-cn/codexqa
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openqa-cn-codexqa/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/openqa-cn/codexqa/main/README.md（获取于 2026-11-04T18:11:44Z；SHA-256：c4021c817fba23ac4172c2024e996fe9b00751c5cfecec6c83a64fe3a758f092）
+- https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE（获取于 2026-11-04T18:16:07Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
+
+---
+
 ## CUAVerifierBench
 
 人工标注的浏览器智能体轨迹，用于将自动化任务成功与过程质量验证器的判断同评审人员的判断进行比较。
@@ -2488,6 +2886,40 @@ Trajectory rows and reviewer rows have different grains. The released Parquet fi
 
 ---
 
+## Dev Browser Eval
+
+Dev Browser Eval 在游戏追踪网页应用的任务中比较三种浏览器自动化方法，并根据重复运行的结果生成报告。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-sawyerhood-dev-browser-eval/
+- 原始来源：https://github.com/SawyerHood/dev-browser-eval
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-09T21:08:54Z
+- ID：github:sawyerhood/dev-browser-eval
+
+### 范围记录
+
+The setup script clones the game-tracker repository, copies a local environment file, and installs dependencies. The README lists dev-browser, playwright-skill, and playwright-mcp as methods.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-sawyerhood-dev-browser-eval/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/SawyerHood/dev-browser-eval/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/SawyerHood/dev-browser-eval/HEAD/README.md（获取于 2026-11-09T21:08:54Z；SHA-256：96658b39ac860470dbfd7cc842a095995ae1025c3a2b963d730cbaa24a7a9b3f）
+- https://raw.githubusercontent.com/SawyerHood/dev-browser-eval/HEAD/LICENSE（获取于 2026-11-09T21:11:18Z；SHA-256：03d74e251e5e0908889933e57337de443989b87a8f43cc6377d21350bdb77316）
+
+---
+
 ## FedMABench
 
 联邦式移动端智能体训练与评估套件，可调整用户数据异质性和应用分布，并发布了分区标注及推理、评分脚本。
@@ -2538,6 +2970,134 @@ The dataset-family count measures dataset families. Code and data licenses are u
 - https://api.github.com/repos/wwh0411/FedMABench/git/trees/master?recursive=1（获取于 2026-10-17T11:22:54Z；SHA-256：4fb977a469cee3d5083da0b5bf2984fedc6b867146a90b20963985e08f9e9716）
 - https://huggingface.co/api/datasets/wwh0411/FedMABench（获取于 2026-10-17T11:23:06Z；SHA-256：df5379f4a9b350dad0c3d374d2f9a1d6eacd974b6d54750e2a14ecec1faec6e5）
 - https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md（获取于 2026-10-17T11:23:06Z；SHA-256：2874269995d8c9f5dabe266433ecf724bf54c27af599d899f3f0090b8ee37cdc）
+
+---
+
+## FronTalk
+
+FronTalk 评测根据文本和视觉指令进行的多轮网站编码。它提供对话任务和测试用例，并使用网页智能体评估生成的网站。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-shirley-wu-frontalk/
+- 原始来源：https://github.com/shirley-wu/frontalk
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、界面设计、网页导航
+- 证据核查日期：2026-11-09T21:09:09Z
+- ID：github:shirley-wu/frontalk
+
+### 范围记录
+
+The README reports 100 dialogues, 1000 turns and 3676 test cases. The repository includes data.jsonl, inference scripts and evaluation scripts; the documented setup may require Chrome and ChromeDriver.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-shirley-wu-frontalk/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/shirley-wu/frontalk/HEAD/README.md（获取于 2026-11-09T21:09:09Z；SHA-256：fd6fd0a3ae9772be5f0ade679e403044db589deb744768bfd63133dad804a02a）
+
+---
+
+## GA-Technical-Report
+
+GenericAgent 的评估材料涵盖网页浏览及其他智能体任务；各基准测试文件夹说明了任务设置、评估协议和复现方法。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-jinyihan99-ga-technical-report/
+- 原始来源：https://github.com/JinyiHan99/GA-Technical-Report
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-09T21:10:35Z
+- ID：github:jinyihan99/ga-technical-report
+
+### 范围记录
+
+The repository also contains a technical report PDF. The runnable agent is linked in a separate source-code repository.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/JinyiHan99/GA-Technical-Report/HEAD/README.md（获取于 2026-11-09T21:10:35Z；SHA-256：cf4a3da62848163b6c4c48390f2924f14cd4b5fc017c02c2ac07657ecaf7cf9f）
+
+---
+
+## GameWorld
+
+GameWorld 提供标准化的浏览器端评测套件，涵盖 34 款游戏和 170 项可验证任务，用于评测多模态游戏智能体。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-gameworld-project-gameworld/
+- 原始来源：https://github.com/gameworld-project/GameWorld
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面
+- 主题：评测、动作预测、规划
+- 证据核查日期：2026-11-04T14:02:40Z
+- ID：github:gameworld-project/gameworld
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-gameworld-project-gameworld/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/gameworld-project/GameWorld/HEAD/README.md（获取于 2026-11-04T14:02:40Z；SHA-256：a20fdc3d534295ba721ce7c12b121f03b56a0ededb9f2eacc40d5aefa56da624）
+
+---
+
+## GameWorld Games
+
+GameWorld Games 提供用于智能体评测的浏览器游戏快照，每个游戏都有初始化、重置和检查游戏状态的 API。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-gameworld-project-gameworld-games/
+- 原始来源：https://github.com/gameworld-project/GameWorld-Games
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、沙箱、状态追踪
+- 证据核查日期：2026-11-09T21:09:44Z
+- ID：github:gameworld-project/gameworld-games
+
+### 范围记录
+
+The source lists 34 games under benchmark directories and shows a JSON-safe window.gameAPI interface. It restricts the assets to educational and research purposes.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-gameworld-project-gameworld-games/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/gameworld-project/GameWorld-Games/HEAD/README.md（获取于 2026-11-09T21:09:44Z；SHA-256：02fa6d682de1a5589e481a0754b0a36c6ca34e55faa5e856a2b7f01ad0e94c89）
 
 ---
 
@@ -2638,7 +3198,7 @@ Trajectories, screenshots and annotations are different units and are counted se
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card declaration for this release; it does not establish rights to the applications, websites and personal content shown in the screenshots.
+- 数据审核：Publisher dataset-card declaration for this release.
   来源：https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md
 
 ### 一手证据
@@ -2744,6 +3304,40 @@ The README reports 100 real-time minigames with non-real-time counterparts, five
 
 - https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/README.md（获取于 2026-11-09T19:57:06Z；SHA-256：cb6c110b595d725b0dca10f598158e8c5e98b1a64e683c4bb5160a9c20397223）
 - https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/LICENSE（获取于 2026-11-09T14:20:51Z；SHA-256：813d1fbc50ef21c3581c6cfd5733aed82db3b5850042fde0629db45afa6d082e）
+
+---
+
+## Halluminate Westworld
+
+Halluminate Westworld 使用设于仿真网站的任务评估网页智能体，并提供任务加载、手动演示和评测接口。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-halluminate-westworld/
+- 原始来源：https://github.com/Halluminate/westworld
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、沙箱
+- 证据核查日期：2026-11-09T21:09:49Z
+- ID：github:halluminate/westworld
+
+### 范围记录
+
+The source links a Hugging Face task dataset. Its demo requires browser support and an API key for simulated environments.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-halluminate-westworld/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/README.md（获取于 2026-11-09T21:09:49Z；SHA-256：20455fb9e6f65fd921eb20b8de96bda4e1c996487b10904972ffb901e5f7a734）
+- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE（获取于 2026-11-09T21:12:08Z；SHA-256：db2802dd8e3073d4d30d53e8195c98047c3a53998177460a3d7d1357974f02a1）
 
 ---
 
@@ -3026,6 +3620,39 @@ The repository includes task files, agent adapters, evaluation scripts, and inst
 
 ---
 
+## Magnitude WebVoyager Benchmark Results
+
+这是 Magnitude 浏览器智能体的 WebVoyager 评测发布内容，包括所报告的任务结果、任务修订和复现说明。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-magnitudedev-webvoyager/
+- 原始来源：https://github.com/magnitudedev/webvoyager
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-09T21:09:58Z
+- ID：github:magnitudedev/webvoyager
+
+### 范围记录
+
+The repository links to run results and includes patches.json for updated or removed WebVoyager tasks. Its performance figures are the authors' reported results.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-magnitudedev-webvoyager/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/magnitudedev/webvoyager/HEAD/README.md（获取于 2026-11-09T21:09:58Z；SHA-256：5b39c1ad16cacd674666b689bd71f1fabc61f72df1549f26999a7c45bf2e99a7）
+
+---
+
 ## Mobile-Bench-v2 released data
 
 移动端智能体的离线任务数据，涵盖常见任务，并发布了含噪声、受污染和指令含糊的子集。
@@ -3180,37 +3807,67 @@ The task count was checked against unique task_id values in the published manife
 
 ---
 
-## MyPCBench
+## MWMBench
 
-一个 Linux 桌面基准，包含跨预置网页应用和办公软件的 184 项任务，使用虚拟机运行器与评分细则进行评分。
+MWMBench 通过要求模型依据截图和坐标操作预测下一屏幕，评估移动端 GUI 世界模型。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-ljang0-mypcbench/
-- 原始来源：https://github.com/ljang0/MyPCBench
+- 目录页面：https://awesomecua.com/zh/resources/url-a3ea3a844de7dd8a6792/
+- 原始来源：https://huggingface.co/datasets/trillionlabs/MWMBench
 - 类型：评测基准
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：桌面、Linux、网页
-- 主题：评测、跨应用、沙箱、长任务
-- 证据核查日期：2026-11-09T06:16:33Z
-- ID：github:ljang0/mypcbench
+- 运行环境：Android
+- 主题：评测、世界模型、手机操作
+- 证据核查日期：2026-11-09T21:10:03Z
+- ID：url:a3ea3a844de7dd8a6792
 
 ### 范围记录
 
-The repository ships the harness, tasks, rubrics, persona metadata and documentation. The runnable VM is distributed separately as a Docker image and a qcow2 file; the README specifies Linux, KVM and QEMU for direct runs.
+The card documents screenshot, next-screenshot and action-prompt fields, a train split and an Apache-2.0 license. It identifies the gWorld paper as its introduction.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-ljang0-mypcbench/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/trillionlabs/MWMBench
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/trillionlabs/MWMBench（获取于 2026-11-09T21:10:03Z；SHA-256：1aaae08e85dd73b94273f198ba322210384e5dcabfd4999afb50b0471ec04079）
+- https://huggingface.co/api/datasets/trillionlabs/MWMBench（获取于 2026-11-09T21:10:03Z；SHA-256：1aaae08e85dd73b94273f198ba322210384e5dcabfd4999afb50b0471ec04079）
+
+---
+
+## Next-Gen CAPTCHAs
+
+Next-Gen CAPTCHAs 提供交互式评测基准和认知差距 CAPTCHA 挑战生成器，用于防范 GUI 网页智能体。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-metaagentx-nextgen-captchas/
+- 原始来源：https://github.com/MetaAgentX/NextGen-CAPTCHAs
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、安全与防护、网页导航
+- 证据核查日期：2026-11-04T13:12:24Z
+- ID：github:metaagentx/nextgen-captchas
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：5b82d77eeb655123ee6b287b23491d113bea762de0850e522e540a0fd4c768a3）
-- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE（获取于 2026-11-09T06:13:33Z；SHA-256：1e18ae7e58d5f87ba1edec3967e53489879185d3b932f57f14308fd2014f3b80）
+- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/README.md（获取于 2026-11-04T13:12:24Z；SHA-256：44711dbb604684fdb67fe1214f65eca22368dfb1f2599304c75ce87e24b280ba）
+- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE（获取于 2026-11-04T13:22:28Z；SHA-256：d009312b46edeace3d9fa5a66a6b11e71b78701aa1f2d1085500033b87821feb）
 
 ---
 
@@ -3352,6 +4009,39 @@ The repository includes task definitions, tool adapters, runner scripts and save
 
 ---
 
+## Open CaptchaWorld
+
+Open CaptchaWorld 通过网页界面中的交互式验证码谜题评估多模态网页智能体，提供谜题数据、答案检查和结果记录。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-metaagentx-opencaptchaworld/
+- 原始来源：https://github.com/MetaAgentX/OpenCaptchaWorld
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、界面理解、安全与防护
+- 证据核查日期：2026-11-09T21:08:36Z
+- ID：github:metaagentx/opencaptchaworld
+
+### 范围记录
+
+The README describes puzzle images and ground-truth files, a Flask application, API endpoints and a benchmark CLI. It links the project to its research paper.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MetaAgentX/OpenCaptchaWorld/HEAD/README.md（获取于 2026-11-09T21:08:36Z；SHA-256：782dab58f840519c2255664e35151d5c442754d5b96456734be026c2a147378a）
+
+---
+
 ## OpenAgentSafety
 
 这是一个智能体安全基准，采用涉及浏览器、文件系统、终端和消息工具的多步模拟任务，测试智能体如何应对含糊、冲突和对抗性指令。
@@ -3421,7 +4111,7 @@ The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior I
 - 10 task IDs — released injection task-ID list; before injection/goal expansion（计算得出；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json）
 - 50 task IDs — released misbehavior task-ID list; before injection/goal expansion（计算得出；来源：https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json）
 
-README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.
+README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Apache-2.0 covers the code. Publisher asks that the benchmark not be used directly as agent training data.
 
 ### 许可证信息
 
@@ -3504,33 +4194,36 @@ The README gives evaluation scripts for personalized execution, proactive sugges
 
 ---
 
-## Plasmate Benchmarks
+## PhoneHarness
 
-Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟、内存和 token 效率评测。
+PhoneHarness 评估结合图形界面操作、设备命令和主机工具的 Android 手机智能体。它提供运行环境、部分基准测试运行程序，以及基于运行轨迹的任务结果检查。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-benchmarks/
-- 原始来源：https://github.com/plasmate-labs/plasmate-benchmarks
+- 目录页面：https://awesomecua.com/zh/resources/github-phoneharness-phoneharness/
+- 原始来源：https://github.com/PhoneHarness/PhoneHarness
 - 类型：评测基准
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航、效率
-- 证据核查日期：2026-11-04T13:12:31Z
-- ID：github:plasmate-labs/plasmate-benchmarks
+- 运行环境：Android
+- 主题：评测、手机操作、工具集成、可观测性
+- 证据核查日期：2026-11-09T21:10:25Z
+- ID：github:phoneharness/phoneharness
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
+### 范围记录
+
+The README names Android emulators, a GUI worker, JSONL traces and HTML viewers. It points to a separate Hugging Face benchmark dataset and requires locally obtained apps and model endpoint credentials.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-phoneharness-phoneharness/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
+- 代码：未记录
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md（获取于 2026-11-04T13:12:31Z；SHA-256：a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6）
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE（获取于 2026-11-04T13:22:33Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
+- https://raw.githubusercontent.com/PhoneHarness/PhoneHarness/HEAD/README.md（获取于 2026-11-09T21:10:25Z；SHA-256：73e0a238aac7161c80d4c3a86d0afa4abea646fd371e8b2649218ce096b36894）
 
 ---
 
@@ -3590,40 +4283,6 @@ PPTC 是 PowerPoint 创建与编辑基准，通过 API 执行任务，并检查�
 
 - https://raw.githubusercontent.com/gydpku/PPTC/HEAD/README.md（获取于 2026-10-16T10:42:12Z；SHA-256：63349e7557bd99240d4628de3994a53b69e54e3bd809895be11e9879bfba40cb）
 - https://raw.githubusercontent.com/gydpku/PPTC/HEAD/LICENSE（获取于 2026-10-16T10:48:41Z；SHA-256：f872ff2b1a064f46a45eee86f2cb2562fc0513285b80036c6cf7df9a5ffc6c70）
-
----
-
-## REAL
-
-一个浏览器智能体评测工具包，提供可复现的网站副本、任务目标、智能体 API 和评测框架。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-agi-inc-real/
-- 原始来源：https://github.com/agi-inc/REAL
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、沙箱、网页导航
-- 证据核查日期：2026-11-09T19:55:56Z
-- ID：github:agi-inc/real
-
-### 范围记录
-
-The source includes SDK installation instructions and custom-agent examples. Evaluation requires browser dependencies and a model API key.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-agi-inc-real/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/README.md（获取于 2026-11-09T19:55:56Z；SHA-256：b3ab8cc93c834bf26b59a67c3f0d30d30602f5f1aad1fe4a1f4864f263f87e79）
-- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE（获取于 2026-11-09T14:20:31Z；SHA-256：229b91680e13d4ec18779fae8da1f75958703be023e14fb3149f8d96c1e254d6）
 
 ---
 
@@ -3927,6 +4586,40 @@ The package provides local, online and custom challenges, plus a Docker executio
 
 ---
 
+## WASP
+
+WASP 是一套可运行的基准测试，在模拟网站环境中评估针对网页智能体的提示注入攻击。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-facebookresearch-wasp/
+- 原始来源：https://github.com/facebookresearch/wasp
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、安全与防护、网页导航
+- 证据核查日期：2026-11-09T21:08:28Z
+- ID：github:facebookresearch/wasp
+
+### 范围记录
+
+The repository includes attack configurations and code based on VisualWebArena and computer-use demos. The README specifies Python, Playwright, site setup, and model API credentials.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-facebookresearch-wasp/record.json
+
+### 许可证信息
+
+- 代码：CC-BY-NC-4.0 — https://raw.githubusercontent.com/facebookresearch/wasp/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/facebookresearch/wasp/HEAD/README.md（获取于 2026-11-09T21:08:28Z；SHA-256：c8cad77d7b99dc4880fafd4bfd929697e4db987aa0cbfa6b378490b61b0f5d64）
+- https://raw.githubusercontent.com/facebookresearch/wasp/HEAD/LICENSE（获取于 2026-11-09T21:11:04Z；SHA-256：4b531055125dcda36059651634bdb424ad2612f4759b3d2067a731d2823d1cdc）
+
+---
+
 ## WeaveBench
 
 WeaveBench 是结合图形界面交互与代码执行的计算机使用基准。
@@ -3954,6 +4647,36 @@ WeaveBench 是结合图形界面交互与代码执行的计算机使用基准。
 
 - https://huggingface.co/api/datasets/wanlilll/WeaveBench（获取于 2026-10-16T06:38:27Z；SHA-256：e65e5793fe5b251ef7793a0618f4e8139fe5c92c2cf8093d0cc6142e8ece9d02）
 - https://huggingface.co/api/datasets/wanlilll/WeaveBench（获取于 2026-10-16T06:38:27Z；SHA-256：e65e5793fe5b251ef7793a0618f4e8139fe5c92c2cf8093d0cc6142e8ece9d02）
+
+---
+
+## web-agent-eval (REAL Benchmark Runner)
+
+在明确的步骤、token 和预算约束下，使用 REAL 评测基准中的 102 个复刻网站评测网页智能体。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-saarthak-yadav-web-agent-eval/
+- 原始来源：https://github.com/saarthak-yadav/web-agent-eval
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、可观测性
+- 证据核查日期：2026-11-04T14:41:52Z
+- ID：github:saarthak-yadav/web-agent-eval
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/README.md（获取于 2026-11-04T14:41:52Z；SHA-256：71898649b30cdb23817a348aec099bdd0741454e50f950c4dcfd231f8ca2ff31）
+- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE（获取于 2026-11-04T14:45:07Z；SHA-256：080d93a39040f6bdcc157f8a9bda0c8f5f68dc54b16b00db1175da9c6f45b2f0）
 
 ---
 
@@ -4013,6 +4736,39 @@ The repository holds three more environment directories than the blog's release 
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/vision_agents.py（获取于 2026-10-20T04:06:22Z；SHA-256：03c1cf3728ac0977ed56a9b1dfe52a0bef979443802905d0ea16fa1d88bfd5dc）
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/docs/environment-protocol.md（获取于 2026-10-20T04:06:22Z；SHA-256：21a54a5f85b4cc75539af061d8b066fa582941fc40268d1052dfe17062d46d44）
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/HEAD/LICENSE（获取于 2026-10-20T04:07:54Z；SHA-256：8954170f22d127cd7d0b7d1d62c25356d0989167eec26e68c69782892e480b94）
+
+---
+
+## WebGen-Bench
+
+WebGen-Bench 用自动化测试评估生成的网站，其中包括让界面智能体执行交互并检查结果。仓库提供评测代码和数据。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/
+- 原始来源：https://github.com/mnluzimu/WebGen-Bench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、界面设计
+- 证据核查日期：2026-11-09T06:16:36Z
+- ID：github:mnluzimu/webgen-bench
+
+### 范围记录
+
+The repository includes data, evaluation scripts and archived experiment outputs. The README describes Windows and Linux execution paths and optional deployment of a UI testing model.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-mnluzimu-webgen-bench/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/mnluzimu/WebGen-Bench/HEAD/README.md（获取于 2026-11-09T06:16:36Z；SHA-256：f579d4f90c17ed8a9e862f2ba6b2862886637425fdce8fdf495ea37d246a5b10）
 
 ---
 
@@ -4213,6 +4969,40 @@ The repository lists task files, evaluation code, result files, and training dat
 ### 一手证据
 
 - https://raw.githubusercontent.com/yunyuntsai/webuiproof-benchmark/HEAD/README.md（获取于 2026-11-09T19:56:02Z；SHA-256：ff8d4a9d821839772032e5d4b764ca8fd5e2211ad74e69ad3ec27d93024cf095）
+
+---
+
+## WindTunnel
+
+WindTunnel 通过相同的网页任务比较浏览器智能体的交互接口，并依据应用状态检查衡量任务完成情况、执行时间、令牌用量和成本。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-nekuda-ai-windtunnel/
+- 原始来源：https://github.com/nekuda-ai/WindTunnel
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、效率
+- 证据核查日期：2026-11-09T21:08:36Z
+- ID：github:nekuda-ai/windtunnel
+
+### 范围记录
+
+The README describes a harness, task definitions, scoring checks and published run artifacts. Running the full benchmark requires Docker and an API key.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-nekuda-ai-windtunnel/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/nekuda-ai/WindTunnel/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/nekuda-ai/WindTunnel/HEAD/README.md（获取于 2026-11-09T21:08:36Z；SHA-256：861f45f93f5e88ef03d7cd477f7efa543241a0daaa36a9fb81c50ae328e06b45）
+- https://raw.githubusercontent.com/nekuda-ai/WindTunnel/HEAD/LICENSE（获取于 2026-11-09T21:11:07Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
 
 ---
 
@@ -4863,7 +5653,7 @@ B-MoCA 是涵盖不同界面配置的移动设备控制基准。
 - 35 environment configuration rows — environments_train.csv, retained release/ver.3 snapshot（计算得出；来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv）
 - 10 environment configuration rows — environments_test.csv, retained release/ver.3 snapshot（计算得出；来源：https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv）
 
-Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.
+Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Apache-2.0 covers the code.
 
 ### 许可证信息
 
@@ -5423,36 +6213,6 @@ CaptchaArena 提供实时服务器和涵盖 20 种交互式 CAPTCHA 类型的细
 
 - https://raw.githubusercontent.com/X0X0X00/CaptchaArena/HEAD/README.md（获取于 2026-11-04T14:02:42Z；SHA-256：2d5624b9ac25a06c7d26acb1cc7a0b4ea60cf9a90f0118b9172bd692f2b2ff94）
 - https://raw.githubusercontent.com/X0X0X00/CaptchaArena/HEAD/LICENSE（获取于 2026-11-04T14:07:17Z；SHA-256：1229a048b92c0897722046f02ecd47c2308f6528dc063e9c45fec006242881b1）
-
----
-
-## CodexQA
-
-一套包含 11 个本地优先 QA Agent Skills 的工具，供 Cursor、Claude Code 和 Codex 验证实时网页和桌面用户操作流程。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-openqa-cn-codexqa/
-- 原始来源：https://github.com/openqa-cn/codexqa
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页、桌面
-- 主题：评测、网页导航、工具集成、工作流
-- 证据核查日期：2026-11-04T18:11:44Z
-- ID：github:openqa-cn/codexqa
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-openqa-cn-codexqa/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/openqa-cn/codexqa/main/README.md（获取于 2026-11-04T18:11:44Z；SHA-256：c4021c817fba23ac4172c2024e996fe9b00751c5cfecec6c83a64fe3a758f092）
-- https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE（获取于 2026-11-04T18:16:07Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
 
 ---
 
@@ -6418,35 +7178,6 @@ FlashAdventure 通过 34 款需要长期记忆的 Flash 点击式冒险游戏，
 
 - https://raw.githubusercontent.com/DhruvRaval04/do-frozen-vision-backbones-transfer-to-guis/HEAD/README.md（获取于 2026-11-04T14:20:10Z；SHA-256：6d06d48b23063c6a8269c2edc267c0d4490061f13c2169ed030c65c5ba3938da）
 - https://raw.githubusercontent.com/DhruvRaval04/do-frozen-vision-backbones-transfer-to-guis/HEAD/LICENSE（获取于 2026-11-04T14:23:35Z；SHA-256：902f12393a01c4aa835ee0e288c4d9045721744dbb6418f1b8da5bb65f196901）
-
----
-
-## GameWorld
-
-GameWorld 提供标准化的浏览器端评测套件，涵盖 34 款游戏和 170 项可验证任务，用于评测多模态游戏智能体。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-gameworld-project-gameworld/
-- 原始来源：https://github.com/gameworld-project/GameWorld
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页、桌面
-- 主题：评测、动作预测、规划
-- 证据核查日期：2026-11-04T14:02:40Z
-- ID：github:gameworld-project/gameworld
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-gameworld-project-gameworld/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/gameworld-project/GameWorld/HEAD/README.md（获取于 2026-11-04T14:02:40Z；SHA-256：a20fdc3d534295ba721ce7c12b121f03b56a0ededb9f2eacc40d5aefa56da624）
 
 ---
 
@@ -7808,7 +8539,7 @@ Features are task_id, instruction, type, apps, scenario, rubrics and human-refer
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：No data-license declaration is present in the inspected task card; companion code MIT does not establish a dataset grant.
+- 数据审核：A data-license declaration is unrecorded in the inspected task card.
   来源：https://huggingface.co/datasets/mikewang/mobile_eval_e/raw/b8eca82988ed8d4f9dec01eaa9d51abf4b35aa83/README.md
 
 ### 一手证据
@@ -7986,36 +8717,6 @@ Navi-Bench 通过直接在实时网站上执行的日常消费者任务，并使
 
 ---
 
-## Next-Gen CAPTCHAs
-
-Next-Gen CAPTCHAs 提供交互式评测基准和认知差距 CAPTCHA 挑战生成器，用于防范 GUI 网页智能体。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-metaagentx-nextgen-captchas/
-- 原始来源：https://github.com/MetaAgentX/NextGen-CAPTCHAs
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、安全与防护、网页导航
-- 证据核查日期：2026-11-04T13:12:24Z
-- ID：github:metaagentx/nextgen-captchas
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/README.md（获取于 2026-11-04T13:12:24Z；SHA-256：44711dbb604684fdb67fe1214f65eca22368dfb1f2599304c75ce87e24b280ba）
-- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE（获取于 2026-11-04T13:22:28Z；SHA-256：d009312b46edeace3d9fa5a66a6b11e71b78701aa1f2d1085500033b87821feb）
-
----
-
 ## Nightshift
 
 运行于 Solari 的黑盒计算机使用质量检查测试框架，无需访问应用测试钩子即可评测实时用户界面。
@@ -8180,7 +8881,7 @@ Counts are distinct task identifiers and website_name values in the inspected ta
 
 ### 范围记录
 
-Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and says even that tag differs at the byte level from the published runs. CC-BY-NC-4.0 is the repository’s declared code license; third-party WebShop, map and icon content retain separate terms. No commercial-use permission or fixed downloadable task total is inferred.
+Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and says even that tag differs at the byte level from the published runs. CC-BY-NC-4.0 is the repository’s declared code license. No commercial-use permission or fixed downloadable task total is inferred.
 
 - 完整记录 JSON：https://awesomecua.com/resources/github-facebookresearch-openapps/record.json
 
@@ -9977,7 +10678,7 @@ Fixed local-page observations; the reported run uses claude-sonnet-5 and a share
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：The inspected root LICENSE contains complete MIT terms for repository software. The methodology explicitly leaves redistribution permission for captured third-party practice-site pages unresolved; code MIT is not a blanket snapshot/data license.
+- 代码审核：The inspected root LICENSE contains complete MIT terms for repository software. Redistribution permission for captured third-party practice-site pages is unresolved in the methodology.
   来源：https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE
 
 ### 一手证据
@@ -10018,36 +10719,6 @@ web-agent-bench 根据 Token 用量、延迟和任务完成情况，比较浏览
 
 - https://raw.githubusercontent.com/nsosio/web-agent-bench/HEAD/README.md（获取于 2026-11-04T14:02:47Z；SHA-256：5771611bda8ae442bf31a5a6f0498d21d4eb1509f83f15e0823b93fb0526172a）
 - https://raw.githubusercontent.com/nsosio/web-agent-bench/HEAD/LICENSE（获取于 2026-11-04T14:07:21Z；SHA-256：d034230dad809f4f558a0a817456f6b8698cb0fdfd43b7e3555e89e1784eb6b4）
-
----
-
-## web-agent-eval (REAL Benchmark Runner)
-
-在明确的步骤、token 和预算约束下，使用 REAL 评测基准中的 102 个复刻网站评测网页智能体。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-saarthak-yadav-web-agent-eval/
-- 原始来源：https://github.com/saarthak-yadav/web-agent-eval
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航、可观测性
-- 证据核查日期：2026-11-04T14:41:52Z
-- ID：github:saarthak-yadav/web-agent-eval
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/README.md（获取于 2026-11-04T14:41:52Z；SHA-256：71898649b30cdb23817a348aec099bdd0741454e50f950c4dcfd231f8ca2ff31）
-- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE（获取于 2026-11-04T14:45:07Z；SHA-256：080d93a39040f6bdcc157f8a9bda0c8f5f68dc54b16b00db1175da9c6f45b2f0）
 
 ---
 
@@ -10135,39 +10806,6 @@ The released CSV has columns ID, Starting URL, Category and Task, with 1,637 REA
 
 - https://raw.githubusercontent.com/convergence-ai/webgames/HEAD/README.md（获取于 2026-10-16T06:35:59Z；SHA-256：a2df62f9b4359f7839c7d6c6917ff654f9eadeafa92f96311495b71e37abd9ba）
 - https://raw.githubusercontent.com/convergence-ai/webgames/HEAD/LICENSE（获取于 2026-10-16T06:42:00Z；SHA-256：0e03b68c7acb0b340e47f9000ac3808950e2ac8c4cd05960437a9e46e3c09a62）
-
----
-
-## WebGen-Bench
-
-WebGen-Bench 用自动化测试评估生成的网站，其中包括让界面智能体执行交互并检查结果。仓库提供评测代码和数据。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/
-- 原始来源：https://github.com/mnluzimu/WebGen-Bench
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航、界面设计
-- 证据核查日期：2026-11-09T06:16:36Z
-- ID：github:mnluzimu/webgen-bench
-
-### 范围记录
-
-The repository includes data, evaluation scripts and archived experiment outputs. The README describes Windows and Linux execution paths and optional deployment of a UI testing model.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-mnluzimu-webgen-bench/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/mnluzimu/WebGen-Bench/HEAD/README.md（获取于 2026-11-09T06:16:36Z；SHA-256：f579d4f90c17ed8a9e862f2ba6b2862886637425fdce8fdf495ea37d246a5b10）
 
 ---
 
@@ -10352,7 +10990,7 @@ The 100 archive files form an artifact inventory. Backend/tool versions and depl
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Repository source LICENSE; external tools and services retain their own licenses.
+- 代码审核：Repository source LICENSE.
   来源：https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/LICENSE
 
 - 数据审核：Publisher Hub-card license declaration for the released benchmark dataset.
@@ -10515,7 +11153,7 @@ WindowsWorld 是跨应用的 Windows 基准，支持对任务中间步骤进行�
 - 181 tasks — WindowsWorld benchmark described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
 - 17 desktop applications — WindowsWorld coverage described in the retained README（来源报告；来源：https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md）
 
-Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code; Windows, apps and VM artifacts retain separate terms.
+Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code.
 
 ### 许可证信息
 
@@ -10576,7 +11214,7 @@ Counts are publisher-reported. The gold subset covers 162 workflows and differs 
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：The linked Zenodo dataset release declares CC-BY-4.0; this does not assign a code license to the repository.
+- 数据审核：The linked Zenodo dataset release declares CC-BY-4.0.
   来源：https://zenodo.org/api/records/14094162
 
 ### 一手证据

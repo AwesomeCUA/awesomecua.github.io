@@ -39,7 +39,7 @@ Yijun Qian, Yujie Lu, Alexander G. Hauptmann, Oriana Riva
 - Publisher: Association for Computational Linguistics
 - Pages: 97-107
 - DOI: 10.18653/v1/2024.naacl-industry.9
-- Date source: Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2024/6.
 - Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this paper was found.
 - Source notes: Publisher proceedings edition (NAACL 2024 Industry Track).
 - Publication evidence: https://aclanthology.org/2024.naacl-industry.9/

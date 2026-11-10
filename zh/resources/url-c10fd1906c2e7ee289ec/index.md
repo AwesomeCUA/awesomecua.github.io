@@ -15,7 +15,7 @@
 
 ## 范围记录
 
-First published as harpreetsahota/FiftyOne-GUI-Grounding-Train-with-Synthetic, which the Hub now resolves to this repository. The card describes grayscale, color inversion, six color-vision simulations, resolution scaling and text variants, and says synthetic samples carry a transform_record field. The exported samples at revision 3deedc5d have no such field (metadata.json lists none), and their tags name only three transforms: 1,884 tritanopia, 942 color-inverted and 471 task-description-augmented samples. The 739 originals are tagged 370 train and 369 val, and every synthetic sample is tagged train. The card's Apache-2.0 declaration does not cover the third-party applications and websites in the screenshots.
+First published as harpreetsahota/FiftyOne-GUI-Grounding-Train-with-Synthetic, which the Hub now resolves to this repository. The card describes grayscale, color inversion, six color-vision simulations, resolution scaling and text variants, and says synthetic samples carry a transform_record field. The exported samples at revision 3deedc5d have no such field (metadata.json lists none), and their tags name only three transforms: 1,884 tritanopia, 942 color-inverted and 471 task-description-augmented samples. The 739 originals are tagged 370 train and 369 val, and every synthetic sample is tagged train. Apache-2.0 is the card's data declaration.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-c10fd1906c2e7ee289ec/record.json
 
@@ -42,7 +42,7 @@ Computed from samples.json at this revision (15.7 MB, read once): 4,036 samples,
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card declaration for this release; it does not establish rights to the third-party applications and websites shown in the screenshots.
+- 数据审核：Publisher dataset-card declaration for this release.
   来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md
 
 ## 一手证据

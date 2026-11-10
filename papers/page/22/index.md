@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/22/ · [Previous page](https://awesomecua.com/papers/page/21/index.md) · [Next page](https://awesomecua.com/papers/page/23/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -1620,7 +1620,7 @@ Xinyi Liu, Xiaoyi Zhang, Ziyun Zhang, Yan Lu
 - Publisher: Association for Computational Linguistics
 - Pages: 15668-15684
 - DOI: 10.18653/v1/2025.findings-acl.809
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.809/

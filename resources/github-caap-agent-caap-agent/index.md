@@ -25,7 +25,7 @@ Code is released for the two named browser benchmarks. Visual-observer checkpoin
 - document: not recorded
 - weights: not recorded
 
-- code review: Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate. The inspected text does not establish -only versus -or-later for the project.
+- code review: Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate. The project’s -only versus -or-later license choice is unrecorded.
   Sources: https://raw.githubusercontent.com/caap-agent/caap-agent/HEAD/LICENSE
 
 ## Primary evidence

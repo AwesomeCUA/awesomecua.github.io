@@ -426,7 +426,7 @@
           "Partha Talukdar",
           "Srini Narayanan"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/6.",
         "date_parts": [
           2024,
           6
@@ -620,7 +620,7 @@
           "Oriana Riva",
           "Timothy Lillicrap"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2023-12-15.",
         "date_parts": [
           2023,
           12,
@@ -772,7 +772,7 @@
           "Zhuosheng Zhang",
           "Aston Zhang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8.",
         "date_parts": [
           2024,
           8
@@ -1653,7 +1653,7 @@
           "Zhuosheng Zhang",
           "Hai Zhao (赵海)"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8.",
         "date_parts": [
           2024,
           8
@@ -1755,7 +1755,7 @@
           "Zhongyu Wei (魏忠钰)",
           "Duyu Tang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11.",
         "date_parts": [
           2024,
           11
@@ -2120,7 +2120,7 @@
           "Timothy Lillicrap",
           "Oriana Riva"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -2289,7 +2289,7 @@
           "Divya Tyamagundlu",
           "Oriana Riva"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16.",
         "date_parts": [
           2024,
           12,
@@ -2455,7 +2455,7 @@
           "Sergey Levine",
           "Aviral Kumar"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16.",
         "date_parts": [
           2024,
           12,
@@ -2751,7 +2751,7 @@
           "Shuai Ren",
           "Hongsheng Li"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -2764,7 +2764,7 @@
         ],
         "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.",
         "issue": null,
-        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, lists nine authors including Guozhi Wang; the retained arXiv snapshot lists eight. Each edition retains its own authors.",
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, lists nine authors including Guozhi Wang; the retained arXiv snapshot lists eight.",
         "pages": "2138-2156",
         "pdf_url": "https://aclanthology.org/2025.findings-acl.110.pdf",
         "publisher": "Association for Computational Linguistics",
@@ -2972,7 +2972,7 @@
           "Tiejun Zhao (赵铁军)",
           "Min Zhang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11.",
         "date_parts": [
           2024,
           11
@@ -3120,7 +3120,7 @@
           "Oleksii Tymoshchuk",
           "Artur Janicki"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/8.",
         "date_parts": [
           2025,
           8
@@ -3255,7 +3255,7 @@
           "Lu Chen",
           "Kai Yu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4.",
         "date_parts": [
           2025,
           4
@@ -3393,7 +3393,7 @@
           "Jun Wang",
           "Kun Shao"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -3565,7 +3565,7 @@
           "Jie Tang",
           "Yuxiao Dong"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -4238,7 +4238,7 @@
           "Jian Luan",
           "Bin Wang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4.",
         "date_parts": [
           2025,
           4
@@ -5421,7 +5421,7 @@
           "Bin Wang",
           "Bo An"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20.",
         "date_parts": [
           2026,
           4,
@@ -5958,7 +5958,7 @@
           "Min Zhang",
           "Liqiang Nie"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -6332,7 +6332,7 @@
           "Zhiyuan Liu",
           "Maosong Sun (孙茂松)"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/11.",
         "date_parts": [
           2025,
           11
@@ -18184,7 +18184,7 @@
         ],
         "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
         "issue": null,
-        "notes": "Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month/day are not independently identified by the retained sources.",
+        "notes": "Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month and day are unrecorded in retained sources.",
         "pages": "6038-6049",
         "pdf_url": "https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf",
         "publisher": null,
@@ -18573,7 +18573,7 @@
           "Max Lin",
           "Oriana Riva"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/6.",
         "date_parts": [
           2024,
           6

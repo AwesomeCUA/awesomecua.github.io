@@ -1044,7 +1044,7 @@ Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold C
 - 出版方：Association for Computational Linguistics
 - 页码：449-455
 - DOI：10.18653/v1/2025.naacl-demo.36
-- 日期来源：Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/4.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.naacl-demo.36/
@@ -2260,7 +2260,7 @@ Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whiteh
 - 出版方：Association for Computational Linguistics
 - 页码：6300-6323
 - DOI：10.18653/v1/2025.findings-acl.326
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. Landing-page citation metadata gives Ahmed Hassan for the final author, while the supplied BibTeX expands the name to Ahmed Hassan Awadallah; the PDF uses Ahmed Awadallah.
 - 发表证据：https://aclanthology.org/2025.findings-acl.326/, https://aclanthology.org/2025.findings-acl.326.pdf
@@ -2799,7 +2799,7 @@ Qinzhuo Wu, Wei Liu, Jian Luan, Bin Wang
 - 出版方：Association for Computational Linguistics
 - 页码：4760-4775
 - DOI：10.18653/v1/2025.naacl-long.244
-- 日期来源：Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/4.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.naacl-long.244/

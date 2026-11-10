@@ -4,6 +4,24 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/page/3/ · [English](
 
 完整类别注释：https://awesomecua.com/zh/categories/dataset/index.md
 
+- [Mobile-GUI-Worldmodel-SFT](https://awesomecua.com/zh/resources/url-e041226738f8ea43a878/)：这是用于移动界面世界模型训练与评估的数据集。轨迹归档将截图与页面状态文本及动作格式的训练样例配对。
+- [Mobile-R1 trajectory sample](https://awesomecua.com/zh/resources/url-114ced4a94d12f384d69/)：Mobile-R1 中文 Android 应用标注轨迹的开放样本：1,007 个任务的各步骤将截图与思路、子任务及点击、滑动、输入或打开等 mobile_use 动作配对。
+- [MONDAY](https://awesomecua.com/zh/resources/github-runamu-monday/)：从教学视频提取的跨平台移动 GUI 轨迹数据集，提供数据处理辅助工具和适用于 Android 及 iOS 数据的评估示例代码。
+- [MT-Mind2Web](https://awesomecua.com/zh/resources/url-bdfb50330deb97893ce4/)：基于 Mind2Web 交互构建的多轮网页导航对话，包含对话轮次、HTML 快照、候选元素及点击、输入、选择操作序列。
+- [NNetNav WebArena data](https://awesomecua.com/zh/resources/url-25a4d0ab29b60250863a/)：NNetNav 发布的面向 WebArena 的浏览器交互数据，训练文件和测试文件分别提供。
+- [OS-Genesis mobile training data](https://awesomecua.com/zh/resources/url-d3ec5122a2b52fd5ae4b/)：通过逆向任务合成得到的移动端轨迹，分别以 AndroidControl 和 AndroidWorld 训练标注文件发布。
+- [OS-Genesis web training data](https://awesomecua.com/zh/resources/url-31768421b4ecd1ad89f7/)：受访问控制的 OS-Genesis 网页数据版本，含一个反向任务合成训练轨迹 JSONL 文件和截图归档；项目 README 将其列为 WA 检查点的训练数据。
+- [OSWorld file cache (Ubuntu)](https://awesomecua.com/zh/resources/url-c885712b9c69579ac591/)：OSWorld 的 Ubuntu 任务配置在设置和评估时下载的文件的 Hub 托管副本，从 Google Drive 迁移后按应用和任务 ID 组织。
+- [OSWorld-Verified trajectories](https://awesomecua.com/zh/resources/url-2c99f0de2840277abc72/)：收录多种计算机使用智能体在 Ubuntu 上以不同步数预算运行 OSWorld-Verified 的评估轨迹；每个归档含截图、操作、模型推理和逐任务结果，供分析使用。
+- [PixelWeb](https://awesomecua.com/zh/resources/url-67ae69986d6408fde468/)：PixelWeb 提供 1K、10K 和 100K 规模的网页截图、DOM 数据及元素图像，并附有掩码、轮廓和边界框标注。
+- [PSAI Computer Use Dataset](https://awesomecua.com/zh/resources/github-anaishowland-computeruse-data-psai/)：PSAI Computer Use Dataset 提供 3,167 条人机交互轨迹，包含同步的屏幕视频、输入事件和 DOM/AX 快照。
+- [RelationGUI & RelationQA](https://awesomecua.com/zh/resources/github-malonghui-relationgui/)：RelationGUI 提供数据集和训练代码，帮助 GUI 智能体明确理解空间、层级和功能关系。
+- [Rico](https://awesomecua.com/zh/resources/url-0b134b082a7bd507fc6a/)：用于 UI 研究的移动应用截图、视图层级和交互轨迹。
+- [Rico Dataset](https://awesomecua.com/zh/resources/url-0c845d69c9498dd4e20c/)：Rico Dataset 是 Interaction Mining 展示的移动应用交互与设计数据集，包含来自 5k 款应用的 70k 张屏幕和 10k 条用户操作流程。
+- [RICO Semantics](https://awesomecua.com/zh/resources/github-google-research-datasets-rico-semantics/)：RICO Semantics 提供针对 RICO 移动端屏幕的 500,000 条人工标注，涵盖图标形状、语义角色和文本元素关联。
+- [RICO-SCA](https://awesomecua.com/zh/resources/url-72f05843df9bd7ea35af/)：一套移动界面数据集，将截图、控件边界框、合成描述和视图层级配对，用于屏幕理解与界面定位。
+- [RICO-Screen2Words](https://awesomecua.com/zh/resources/url-cf7c132c9a988d3a6ec4/)：RICO-Screen2Words 将 Android 应用截图与人工编写的界面摘要、应用元数据和视图层级配对，用于移动界面理解。
+- [RICO-ScreenAnnotation](https://awesomecua.com/zh/resources/url-2a4dd75acb6efdeb0e4a/)：这是标准化的 Rico 屏幕标注数据集，将移动端截图与界面元素及其位置的文字描述配对，并提供训练、验证和测试集。
 - [RICO-ScreenQA](https://awesomecua.com/zh/resources/url-bd15fb092ff80643ed97/)：RICO-ScreenQA 提供应用截图问答数据，包含图像、答案文本和界面元素边界框，并划分为训练、验证和测试集。
 - [RICO-ScreenQA-Short](https://awesomecua.com/zh/resources/url-060c9288c7197c5a188e/)：基于 RICO 界面图像的屏幕问答数据集，将问题与机器生成的简短答案配对，提供训练、验证和测试划分。
 - [RICO-WidgetCaptioning](https://awesomecua.com/zh/resources/url-013bb9256ca6ad5188be/)：移动界面数据集，将 RICO 截图及控件区域与人工描述配对，并提供视图层级以及训练、验证和测试数据划分。

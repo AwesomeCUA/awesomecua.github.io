@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/24/ · [Previous page](https://awesomecua.com/papers/page/23/index.md) · [Next page](https://awesomecua.com/papers/page/25/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -754,7 +754,7 @@ Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhe
 - Publisher: Association for Computational Linguistics
 - Pages: 5555-5579
 - DOI: 10.18653/v1/2025.acl-long.277
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.277/
@@ -980,7 +980,7 @@ Yuhao Yang, Yue Wang, Dongxu Li, Ziyang Luo, Bei Chen, Chao Huang, Junnan Li
 - Publisher: Association for Computational Linguistics
 - Pages: 22418-22433
 - DOI: 10.18653/v1/2025.findings-acl.1152
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.1152/
@@ -1150,7 +1150,7 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 - Publisher: Association for Computational Linguistics
 - Pages: 22522-22538
 - DOI: 10.18653/v1/2025.findings-acl.1158
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.1158/
@@ -1740,7 +1740,7 @@ Yiqin Wang, Haoji Zhang, Jingqi Tian, Yansong Tang
 - Publisher: Association for Computational Linguistics
 - Pages: 1461-1473
 - DOI: 10.18653/v1/2025.findings-acl.76
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.findings-acl.76/
@@ -2082,7 +2082,7 @@ Gaurav Verma, Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Tucker Balch, Manuela
 - Publisher: Association for Computational Linguistics
 - Pages: 20635-20651
 - DOI: 10.18653/v1/2025.acl-long.1008
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.1008/
@@ -2565,7 +2565,7 @@ Yanzhe Zhang, Tao Yu, Diyi Yang
 - Publisher: Association for Computational Linguistics
 - Pages: 8387-8401
 - DOI: 10.18653/v1/2025.acl-long.411
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.411/
@@ -2739,7 +2739,7 @@ Boyuan Zheng, Boyu Gou, Scott Salisbury, Zheng Du, Huan Sun, Yu Su
 - Publisher: Association for Computational Linguistics
 - Pages: 187-197
 - DOI: 10.18653/v1/2024.emnlp-demo.20
-- Date source: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2024/11.
 - Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
 - Source notes: Publisher proceedings edition (EMNLP 2024 System Demonstrations).
 - Publication evidence: https://aclanthology.org/2024.emnlp-demo.20/
@@ -2800,7 +2800,7 @@ Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Da
 - Publisher: Association for Computational Linguistics
 - Pages: 2144-2166
 - DOI: 10.18653/v1/2025.acl-long.107
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.acl-long.107/
@@ -2922,7 +2922,7 @@ Haoyi Qiu, Alexander R. Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, 
 - Publisher: Association for Computational Linguistics
 - Pages: 3978-4005
 - DOI: 10.18653/v1/2025.findings-naacl.222
-- Date source: Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/4.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.findings-naacl.222/
@@ -3209,7 +3209,7 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, Tianqing Fang, Z
 - Publisher: Association for Computational Linguistics
 - Pages: 27545-27564
 - DOI: 10.18653/v1/2025.acl-long.1336
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.1336/
@@ -3330,7 +3330,7 @@ Lawrence Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Ro
 - Venue: International Conference on Learning Representations
 - Volume: 2025
 - Pages: 36934-36958
-- Date source: Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025-05-01.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html

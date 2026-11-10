@@ -4,6 +4,9 @@ HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/6/
 
 完整列表：https://awesomecua.com/zh/topics/mobile-navigation/index.md
 
+- [AutoDroid V2 training data](https://awesomecua.com/zh/resources/url-9a3506ca6ef034adb424/)
+- [DroidCall data](https://awesomecua.com/zh/resources/url-ae8f5208eea9e7f1f606/)
+- [FedMABench data partitions](https://awesomecua.com/zh/resources/url-86b3c2ee65911daf84a8/)
 - [GUI-Libra-81K-SFT](https://awesomecua.com/zh/resources/url-f6e1a7527f9346ed1c1d/)
 - [GUI-Odyssey — original OpenGVLab release](https://awesomecua.com/zh/resources/url-5f7e55313246edf727bf/)
 - [GUI-Xplore](https://awesomecua.com/zh/resources/url-f56dbd8bfac8b0545e07/)
@@ -18,6 +21,7 @@ HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/6/
 - [OpenMobile-Data](https://awesomecua.com/zh/resources/url-3849b18aa87edefc6afd/)
 - [OpenMobile-Data-v2](https://awesomecua.com/zh/resources/url-546e6c95825d1318c98d/)
 - [OS-Genesis mobile training data](https://awesomecua.com/zh/resources/url-d3ec5122a2b52fd5ae4b/)
+- [Regimes/androidcontrol-cl](https://awesomecua.com/zh/resources/url-461e9b8305356347077e/)
 - [RICO-WidgetCaptioning](https://awesomecua.com/zh/resources/url-013bb9256ca6ad5188be/)
 - [UI-Genie reward data](https://awesomecua.com/zh/resources/url-84e5aeeffaf561baa966/)
 - [UI-Genie trajectory data](https://awesomecua.com/zh/resources/url-2e1927450da2183a5abe/)
@@ -41,6 +45,7 @@ HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/6/
 - [GUI-Libra 7B](https://awesomecua.com/zh/resources/url-f52794224f9541fd9eb3/)
 - [GUI-Libra 8B](https://awesomecua.com/zh/resources/url-6694391b0cf50389d2e9/)
 - [gWorld (GuiWorld)](https://awesomecua.com/zh/resources/github-trillion-labs-gworld/)
+- [gWorld-32B](https://awesomecua.com/zh/resources/url-e44096836ef47bc66d9c/)
 - [gWorld-8B](https://awesomecua.com/zh/resources/url-78802d1a2fce25f20f85/)
 - [Holo-3.1-35B-A3B-FP8](https://awesomecua.com/zh/resources/url-566bd1469811983951f3/)
 - [Holo-3.1-35B-A3B-GGUF](https://awesomecua.com/zh/resources/url-ee3a18b51eb44d94a94b/)
@@ -58,9 +63,4 @@ HTML 页面：https://awesomecua.com/zh/topics/mobile-navigation/page/6/
 - [Milo-Pointer](https://awesomecua.com/zh/resources/github-chayworks-milo-pointer/)
 - [MobileRL 9B checkpoint](https://awesomecua.com/zh/resources/url-d5667c854845c77b9f5b/)
 - [MobileVLM](https://awesomecua.com/zh/resources/github-xiaomi-mobilevlm/)
-- [OpenMobile-2 27B](https://awesomecua.com/zh/resources/url-1611de0e6d606165d12d/)
-- [OpenMobile-2 9B](https://awesomecua.com/zh/resources/url-d35224f787e7ec21ce36/)
-- [OpenMobile-8B](https://awesomecua.com/zh/resources/url-6616228d4f267363458e/)
-- [OS-Genesis 4B AC](https://awesomecua.com/zh/resources/url-b1837823421bd08cb826/)
-- [OS-Genesis 4B AW](https://awesomecua.com/zh/resources/url-a2362e23fdcbc73763e6/)
-- [OS-Genesis 7B AC](https://awesomecua.com/zh/resources/url-80858580c1009eba0e98/)
+- [OmniJev](https://awesomecua.com/zh/resources/github-tinnel123666888-omnijev/)

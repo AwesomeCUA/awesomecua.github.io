@@ -363,7 +363,7 @@
           "Daniel Fried",
           "Aditi Raghunathan"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -1047,7 +1047,7 @@
           "Nanyun Peng",
           "Chien-Sheng Wu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4.",
         "date_parts": [
           2025,
           4
@@ -1129,7 +1129,7 @@
           "Tao Yu",
           "Diyi Yang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -6889,7 +6889,7 @@
           "Hao Zhu",
           "Diyi Yang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20.",
         "date_parts": [
           2026,
           4,
@@ -17275,7 +17275,7 @@
           "Huan Sun",
           "Yu Su"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11.",
         "date_parts": [
           2024,
           11

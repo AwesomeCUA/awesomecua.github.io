@@ -40,7 +40,7 @@ Steps, files and archive groups are different units and are counted separately. 
 - document: not recorded
 - weights: not recorded
 
-- data review: Publisher dataset-card declaration for this release; it does not establish rights to the upstream screenshots and source datasets it repackages.
+- data review: Publisher dataset-card declaration for this release.
   Sources: https://huggingface.co/datasets/GUI-Libra/GUI-Libra-81K-SFT/raw/05bb2c5f7e81de38f3d7826739db46913dd08a23/README.md
 
 ## Primary evidence

@@ -15,7 +15,7 @@
 
 ## 范围记录
 
-The former THUDM model URL resolves to zai-org. Six public safetensors shards are present. Weights use the custom CogAgent License, including a registration requirement for commercial use. The card cites the 2023 CogAgent paper as previous work and links a later technical report; no claim that the old paper documents this 2024 checkpoint is asserted.
+The former THUDM model URL resolves to zai-org. Six public safetensors shards are present. Weights use the custom CogAgent License, including a registration requirement for commercial use. The card cites the 2023 CogAgent paper as previous work and links a later technical report for this 2024 checkpoint.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-c5eb975c0d66f8a2954f/record.json
 

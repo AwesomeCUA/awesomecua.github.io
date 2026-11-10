@@ -1846,7 +1846,7 @@
           "Bin Wang",
           "Bo An"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20.",
         "date_parts": [
           2026,
           4,
@@ -6495,7 +6495,7 @@
           "Huan Sun",
           "Yu Su"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11.",
         "date_parts": [
           2024,
           11
@@ -6703,7 +6703,7 @@
         ],
         "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
         "issue": null,
-        "notes": "Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month/day are not independently identified by the retained sources.",
+        "notes": "Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month and day are unrecorded in retained sources.",
         "pages": "6038-6049",
         "pdf_url": "https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf",
         "publisher": null,

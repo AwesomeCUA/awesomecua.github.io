@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/cross-app/page/2/
 
 完整列表：https://awesomecua.com/zh/topics/cross-app/index.md
 
+- [MyPCBench](https://awesomecua.com/zh/resources/github-ljang0-mypcbench/)
 - [OpenApps](https://awesomecua.com/zh/resources/github-facebookresearch-openapps/)
 - [OS-Map](https://awesomecua.com/zh/resources/github-os-copilot-os-map/)
 - [OSWorld](https://awesomecua.com/zh/resources/github-xlang-ai-osworld/)
@@ -17,10 +18,12 @@ HTML 页面：https://awesomecua.com/zh/topics/cross-app/page/2/
 - [GUIOdyssey — current data release](https://awesomecua.com/zh/resources/url-511903ebfac45e6751b2/)
 - [Uni-GUI-Desktop-1](https://awesomecua.com/zh/resources/url-20f7cdee10b0dd70815f/)
 - [AndroidGen-Llama-3-70B](https://awesomecua.com/zh/resources/url-75e93dff049c046c586e/)
+- [Mano-CUA-2.0-4B-MLX-8bit](https://awesomecua.com/zh/resources/url-430e47e1ca9f3b2a302f/)
 - [MiniMax M3](https://awesomecua.com/zh/resources/url-50089323623ee780a426/)
 - [AppCopilot](https://awesomecua.com/zh/resources/github-openbmb-appcopilot/)
 - [Aries AI](https://awesomecua.com/zh/resources/github-zg0704666-aries-ai/)
 - [ARTEMIS](https://awesomecua.com/zh/resources/github-google-artemis/)
+- [Council Bridge](https://awesomecua.com/zh/resources/github-christopherdent-council-bridge/)
 - [debug-kit](https://awesomecua.com/zh/resources/github-dxiongya-debug-kit/)
 - [GUI-ReWalk](https://awesomecua.com/zh/resources/github-bytedance-gui-rewalk/)
 - [Intelligence Indeed](https://awesomecua.com/zh/resources/github-intelligence-indeed-intelligence-indeed/)
@@ -36,4 +39,5 @@ HTML 页面：https://awesomecua.com/zh/topics/cross-app/page/2/
 - [Touchpoint](https://awesomecua.com/zh/resources/github-touchpoint-labs-touchpoint/)
 - [UFO](https://awesomecua.com/zh/resources/github-microsoft-ufo/)
 - [UI-Mate](https://awesomecua.com/zh/resources/github-tencent-ui-mate/)
+- [WildAWM](https://awesomecua.com/zh/resources/github-msr-orchard-wildawm/)
 - [Midscene Examples](https://awesomecua.com/zh/resources/github-web-infra-dev-midscene-example/)

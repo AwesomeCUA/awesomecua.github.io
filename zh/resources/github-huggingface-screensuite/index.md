@@ -15,7 +15,7 @@ ScreenSuite 是共用的评估框架，基于 smolagents 构建简易智能体�
 
 ## 范围记录
 
-The publisher states that the suite compares the underlying multimodal models. Public source includes benchmark adapters and registry code. Multi-step environments require Docker and KVM; constituent datasets, remote model services and OSWorld account-dependent tasks retain their own setup and terms. Apache-2.0 is scoped to this repository code.
+The publisher states that the suite compares the underlying multimodal models. Public source includes benchmark adapters and registry code. Multi-step environments require Docker and KVM; constituent datasets, remote model services and OSWorld account-dependent tasks have separate setup and terms. Apache-2.0 is scoped to this repository code.
 
 - 完整记录 JSON：https://awesomecua.com/resources/github-huggingface-screensuite/record.json
 

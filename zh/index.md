@@ -1,46 +1,46 @@
 # AwesomeCUA
 
-> 计算机使用、GUI、网页和移动端智能体研究资源目录：4,857 条已审核记录，其中论文与综述 1,718 条，其他资源 3,139 条。每条记录均核对一手来源。
+> 计算机使用、GUI、网页和移动端智能体研究资源目录：5,115 条已审核记录，其中论文与综述 1,718 条，其他资源 3,397 条。每条记录均核对一手来源。
 
-快照：2026-11-09T20:03:14Z。另有 885 条书目记录和 468 个已发现标识符待审核。
+快照：2026-11-09T21:12:48Z。另有 885 条书目记录和 206 个已发现标识符待审核。
 
 HTML 页面：https://awesomecua.com/zh/ · [English](https://awesomecua.com/index.md) · 智能体索引：https://awesomecua.com/llms.txt
 
 ## 最近审核的资源
 
+- [Frigate](https://awesomecua.com/zh/resources/github-rao-studios-frigate/) — 框架 · 审核于 2026-11-09：一个包含 macOS 屏幕感知模块的 Swift 机器学习软件包。它检测屏幕区域、识别文字、分类界面元素角色，并生成页面结构图。
+- [agentd](https://awesomecua.com/zh/resources/github-agentsea-agentd/) — 基础设施 · 审核于 2026-11-09：AgentD 通过 HTTP API 提供桌面会话访问，支持截图、鼠标和键盘操作、打开浏览器及会话录制。
+- [Blender AI Plugin](https://awesomecua.com/zh/resources/github-proyecto26-blender-ai-plugin/) — 智能体 · 审核于 2026-11-09：Blender AI Plugin 通过 MCP 让智能体检查和编辑已打开的 Blender 场景，并以编排智能体、技能和脚本完成资产制作流程。
+- [Caster User Directory](https://awesomecua.com/zh/resources/github-amirf147-caster-user-directory-and-notes/) — 工具 · 审核于 2026-11-09：Caster User Directory 将 Windows 语音自动化、窗口切换和基于无障碍接口的桌面焦点上下文跟踪结合在一起。
+- [CloakBrowser](https://awesomecua.com/zh/resources/github-cloakhq-cloakbrowser/) — 工具 · 审核于 2026-11-09：CloakBrowser 提供经过修改的 Chromium 版本，以及兼容 Playwright 和 Puppeteer 的 API，用于脚本化浏览器交互。
+- [easyGooglePlay](https://awesomecua.com/zh/resources/github-xxjrq-easy-google-play/) — 工具 · 审核于 2026-11-09：easyGooglePlay 是一项智能体技能，通过已登录的浏览器桥接服务构建 Android 发布包并完成 Google Play Console 上架步骤。
+- [OpenHuman](https://awesomecua.com/zh/resources/github-tinyhumansai-openhuman/) — 框架 · 审核于 2026-11-09：OpenHuman 是以桌面应用和 Rust 库形式提供的智能体运行框架，具备根据可见按钮选择操作的浏览器和桌面控制功能。
 - [Patchright](https://awesomecua.com/zh/resources/github-kaliiiiiiiiii-vinyzu-patchright/) — 工具 · 审核于 2026-11-09：Patchright 是用于 Chromium 自动化的修改版 Playwright 驱动，通过 Playwright 风格的 API 进行浏览器交互，并提供独立的客户端软件包。
-- [Predicate Python SDK](https://awesomecua.com/zh/resources/github-predicatesystems-predicate-runtime-python/) — 框架 · 审核于 2026-11-09：Predicate Python SDK 为浏览器智能体提供语义化页面快照、界面断言和运行轨迹，用于验证操作并检查失败原因。
-- [WebRetriever](https://awesomecua.com/zh/resources/github-mininglamp-ai-webretriever/) — 评测基准 · 审核于 2026-11-09：WebRetriever 提供网页智能体评测运行器，并利用采集到的网络请求、操作和页面 URL 判断任务是否完成。
-- [UI-Mate](https://awesomecua.com/zh/resources/github-tencent-ui-mate/) — 智能体 · 审核于 2026-11-09：UI-Mate 是桌面图形界面智能体，通过截图及键盘、鼠标操作完成跨应用任务。它也支持从录制的演示中学习工作流程。
-- [DSH Vision Toolkit](https://awesomecua.com/zh/resources/github-anionex-dsh-vision-toolkit/) — 工具 · 审核于 2026-11-09：DSH Vision Toolkit 为 DeepSeek Harness 智能体添加截图读取、视觉定位、界面重建和像素比对工具。
-- [opencli-plugin-goofish](https://awesomecua.com/zh/resources/github-vecyang1-opencli-plugin-goofish/) — 工具 · 审核于 2026-11-09：一款面向闲鱼的 OpenCLI 适配器，通过已登录的 Chrome 会话支持以命令执行购物、账户、商品列表和私信操作。
-- [qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain](https://awesomecua.com/zh/resources/url-fe85a6b4ffbdb303f382/) — 模型 · 审核于 2026-11-09：基于 Qwen2.5-VL-7B-Instruct、配有注意力动作头的图形界面定位模型权重。其示例根据截图和指令预测点击位置。
-- [THUDM/cogagent-chat-hf](https://awesomecua.com/zh/resources/url-5726382dc813f040f829/) — 模型 · 审核于 2026-11-09：CogAgent 的对话模型权重，可解读图形界面截图并提出计划、下一步操作和坐标。模型卡描述了它在网页、桌面和移动界面中的用途。
-- [webclaw3](https://awesomecua.com/zh/resources/github-fatmind-webclaw3/) — 工具 · 审核于 2026-11-09：一款浏览器智能体技能，使用本地 Chrome 会话探索任务，再生成可复用脚本，重复执行已成功的浏览器工作流程。
-- [WenyiWU0111/CoMEM-agent-memory-trajectories](https://awesomecua.com/zh/resources/url-87e0195f2401d5f6f66f/) — 数据集 · 审核于 2026-11-09：用于图形界面智能体记忆研究的数据集，包含扩展的网页链接、合成任务，以及成功和失败的执行轨迹。
-- [Operit AI](https://awesomecua.com/zh/resources/github-aaswordman-operit/) — 智能体 · 审核于 2026-11-09：这是一个 Android 智能体平台，利用视觉屏幕理解、设备控制和浏览器操作来操控应用界面与网页。
-- [Screen2AX-Element](https://awesomecua.com/zh/resources/url-e96299566d12e790422e/) — 数据集 · 审核于 2026-11-09：该数据集包含 macOS 应用截图，以及界面元素的边界框和类别标签，用于训练和评估界面元素检测模型。
-- [ScreenVLM](https://awesomecua.com/zh/resources/url-e3d85e557f8d53f8df64/) — 模型 · 审核于 2026-11-09：该模型将网页截图转换为结构化标记，其中包含界面元素的位置、类别标签和可见文本。
-- [Actell](https://awesomecua.com/zh/resources/github-ja1chen-actell/) — 智能体 · 审核于 2026-11-09：这款 iPhone 智能体原型读取截图或无障碍内容，并通过 CoreDevice 发出点按和拖动操作，连接方式为 VPN 环回或可选的硬件中继。
-- [AutoGUI-v1-zip](https://awesomecua.com/zh/resources/url-02370867dd4b96000a33/) — 数据集 · 审核于 2026-11-09：这是 AutoGUI 的训练数据仓库，包含带标注的图形界面数据集和选定的视觉数据集，并说明如何合并其 JSON 文件用于微调。
-- [Blender MCP](https://awesomecua.com/zh/resources/github-bpy-dev-blender-mcp/) — 工具 · 审核于 2026-11-09：这个 MCP 服务器通过实时运行的插件或已保存的工程文件连接智能体与 Blender，提供场景操作、运行时 Python API 查询和基准测试工具。
-- [IOS13-SimulateTouch](https://awesomecua.com/zh/resources/github-xuan32546-ios13-simulatetouch/) — 工具 · 审核于 2026-11-09：这个 iOS 触控库可在越狱设备上执行脚本或远程触控，录制触控事件供回放，并提供图像匹配和 OCR 功能。
-- [S1-Accurate-LoRA](https://awesomecua.com/zh/resources/url-d34be9d27efef6c1b37a/) — 模型 · 审核于 2026-11-09：这个用于桌面智能体决策模型的 LoRA 适配器，在较快模型无法确定下一步时，根据窗口截图从候选操作中选择动作和目标元素。
-- [Spice](https://awesomecua.com/zh/resources/github-shells-com-spice/) — 工具 · 审核于 2026-11-09：这个 Go 语言 SPICE 客户端库接收远程桌面画面更新并发送鼠标和键盘事件，还提供连接、画面渲染和剪贴板处理接口。
-- [Vision_GUI_Assistant](https://awesomecua.com/zh/resources/url-b9a56cf9e9346a359c0b/) — 数据集 · 审核于 2026-11-09：这个图形界面图像对话数据集提供指令和对话 JSON 文件，用于分阶段视觉微调；示例要求模型识别界面按钮。
+- [WebVIA](https://awesomecua.com/zh/resources/github-zheny2751-dotcom-webvia/) — 框架 · 审核于 2026-11-09：WebVIA 将探索网页并记录操作的智能体，与生成 HTML 和验证所得界面的模块连接起来。
+- [WildAWM](https://awesomecua.com/zh/resources/github-msr-orchard-wildawm/) — 基础设施 · 审核于 2026-11-09：WildAWM 提供生成计算机环境和跨界面任务的流程，并配有执行检查及智能体评测工具。
+- [bb-sites](https://awesomecua.com/zh/resources/github-epiral-bb-sites/) — 工具 · 审核于 2026-11-09：这是一套 JavaScript 适配器，可将网站搜索、数据获取及部分账户操作转为命令，并通过已登录的浏览器执行。
+- [cmux](https://awesomecua.com/zh/resources/github-manaflow-ai-cmux/) — 工具 · 审核于 2026-11-09：这是一款 macOS 终端与工作区应用，内置可编程浏览器，使智能体能检查网页辅助功能数据、点击元素、填写表单并运行 JavaScript。
+- [DeskMind Hands](https://awesomecua.com/zh/resources/github-deskmind-ai-hands/) — 框架 · 审核于 2026-11-09：这是一个桌面智能体运行框架，通过 macOS 输入与辅助功能控件执行规划器的决策，并提供模拟桌面、任务验证和由规则程序标注的训练流程。
+- [Solari Research Suite: ARC & ColdStart](https://awesomecua.com/zh/resources/github-itw-code-solari-cookbook/) — 框架 · 审核于 2026-11-09：这套研究工具结合了基于辅助功能信息的浏览器智能体运行框架，以及会改变网页任务应用并依据数据库状态验证操作结果的评测框架。
+- [@sparticuz/chromium](https://awesomecua.com/zh/resources/github-sparticuz-chromium/) — 基础设施 · 审核于 2026-11-09：@sparticuz/chromium 提供无界面的 Linux Chromium 构建版本和启动设置，供 Puppeteer 或 Playwright 在无服务器环境中进行浏览器自动化。
+- [Agenta](https://awesomecua.com/zh/resources/github-agenta-ai-agenta/) — 产品 · 审核于 2026-11-09：Agenta 是供团队构建和运行智能体的工作空间。其智能体可使用浏览器和文件处理网站任务，也可使用已连接的应用并执行定时自动化任务。
+- [arc-cua](https://awesomecua.com/zh/resources/github-shhivv-arc-cua/) — 框架 · 审核于 2026-11-09：arc-cua 是一套 macOS 计算机操作软件包，包含应用窗口驱动程序，以及用于执行智能体交付的限定范围桌面子任务的决策模型循环。
+- [ChromiumFish](https://awesomecua.com/zh/resources/github-arman-bd-chromiumfish/) — 基础设施 · 审核于 2026-11-09：ChromiumFish 将经过修改的 Chromium 浏览器打包，供 Playwright 和外部智能体使用。它还内置智能体，可读取网页并执行点击、输入和导航操作。
+- [PeekabooX](https://awesomecua.com/zh/resources/github-nordbyte-peekaboox/) — 工具 · 审核于 2026-11-09：PeekabooX 是一套 Linux 桌面自动化工具，提供屏幕捕获、语义界面检查、输入操作和工作流，并通过命令行、Python 和 MCP 接口提供这些能力。
+- [Qontinui Runner](https://awesomecua.com/zh/resources/github-qontinui-qontinui-runner/) — 工具 · 审核于 2026-11-09：Qontinui Runner 是一款桌面应用，可执行按配置定义的图形界面自动化项目并监控其进度。它支持鼠标、键盘和屏幕操作。
 
 ## 按资源类型浏览
 
-- [模型](https://awesomecua.com/zh/categories/model/index.md)：351 条已审核记录
-- [数据集](https://awesomecua.com/zh/categories/dataset/index.md)：225 条已审核记录
-- [评测基准](https://awesomecua.com/zh/categories/benchmark/index.md)：281 条已审核记录
-- [智能体](https://awesomecua.com/zh/categories/agent/index.md)：444 条已审核记录
-- [框架](https://awesomecua.com/zh/categories/framework/index.md)：638 条已审核记录
-- [基础设施](https://awesomecua.com/zh/categories/infrastructure/index.md)：101 条已审核记录
-- [工具](https://awesomecua.com/zh/categories/tool/index.md)：976 条已审核记录
-- [产品](https://awesomecua.com/zh/categories/product/index.md)：72 条已审核记录
+- [模型](https://awesomecua.com/zh/categories/model/index.md)：400 条已审核记录
+- [数据集](https://awesomecua.com/zh/categories/dataset/index.md)：243 条已审核记录
+- [评测基准](https://awesomecua.com/zh/categories/benchmark/index.md)：300 条已审核记录
+- [智能体](https://awesomecua.com/zh/categories/agent/index.md)：471 条已审核记录
+- [框架](https://awesomecua.com/zh/categories/framework/index.md)：662 条已审核记录
+- [基础设施](https://awesomecua.com/zh/categories/infrastructure/index.md)：114 条已审核记录
+- [工具](https://awesomecua.com/zh/categories/tool/index.md)：1,077 条已审核记录
+- [产品](https://awesomecua.com/zh/categories/product/index.md)：75 条已审核记录
 - [发布方](https://awesomecua.com/zh/categories/company/index.md)：19 条已审核记录
-- [学习资源](https://awesomecua.com/zh/categories/learning/index.md)：32 条已审核记录
+- [学习资源](https://awesomecua.com/zh/categories/learning/index.md)：36 条已审核记录
 - [综述](https://awesomecua.com/zh/categories/survey/index.md)：37 条已审核记录
 - [论文](https://awesomecua.com/zh/papers/index.md)：1,681 条已审核记录
 

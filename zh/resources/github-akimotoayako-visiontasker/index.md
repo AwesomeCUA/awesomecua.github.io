@@ -26,7 +26,7 @@ The official lowercase readme.md and source tree expose automatic and step-by-st
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Repository GNU GPL version 3 license; pretrained models and linked data retain separate terms.
+- 代码审核：Repository GNU GPL version 3 license.
   来源：https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/LICENSE
 
 ## 一手证据

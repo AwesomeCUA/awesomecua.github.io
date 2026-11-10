@@ -39,7 +39,7 @@ Fixed local-page observations; the reported run uses claude-sonnet-5 and a share
 - document: not recorded
 - weights: not recorded
 
-- code review: The inspected root LICENSE contains complete MIT terms for repository software. The methodology explicitly leaves redistribution permission for captured third-party practice-site pages unresolved; code MIT is not a blanket snapshot/data license.
+- code review: The inspected root LICENSE contains complete MIT terms for repository software. Redistribution permission for captured third-party practice-site pages is unresolved in the methodology.
   Sources: https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE
 
 ## Primary evidence

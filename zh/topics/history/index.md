@@ -4,6 +4,11 @@ Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/history/records.jsonl
 
+## 评测基准
+
+- [Browser AI Agent — live-web benchmark audit](https://awesomecua.com/zh/resources/github-saarthak-yadav-browser-agent-webvoyager/) — Date not recorded
+  An archived audit of live website tasks for web-agent evaluation, with task subsets and scripts that examine site decay, access barriers, and measurement errors.
+
 ## 工程与产业
 
 - [agent-computer-use](https://awesomecua.com/zh/resources/github-kortix-ai-agent-computer-use/) — Date not recorded
@@ -14,12 +19,16 @@ Full source records: https://awesomecua.com/downloads/topics/history/records.jso
   A deprecated Node.js device-control library that lets Appium communicate with iOS devices and access device services and XCTest.
 - [CasperJS](https://awesomecua.com/zh/resources/github-casperjs-casperjs/) — Date not recorded
   CasperJS is a browser navigation scripting and testing utility for PhantomJS and SlimerJS, with helpers for forms, links, screenshots and assertions.
+- [computer-use](https://awesomecua.com/zh/resources/github-leeguooooo-computer-use/) — Date not recorded
+  An archived macOS broker that lets MCP clients delegate computer-use tasks to the official Codex runtime and receive the nested agent's final response.
 - [Droidrun iOS Portal](https://awesomecua.com/zh/resources/github-droidrun-ios-portal/) — Date not recorded
   An archived iOS automation portal that exposes screenshots, accessibility trees, app launch, gestures, and text input through an XCTest HTTP server.
 - [Index](https://awesomecua.com/zh/resources/github-lmnr-ai-index/) — Date not recorded
   Archived Laminar browser agent in Python that drives Playwright Chromium with vision-capable LLMs, returns Pydantic-structured results and offers an interactive CLI with optional Laminar tracing.
 - [macOS-use](https://awesomecua.com/zh/resources/github-browser-use-macos-use/) — Date not recorded
   An archived Browser Use project that lets an LLM operate macOS apps by reading their accessibility trees and pressing, typing into and opening elements through the macOS Accessibility API.
+- [NotebookLM Claude Code Skill](https://awesomecua.com/zh/resources/github-pleaseprompto-notebooklm-skill/) — Date not recorded
+  A Claude Code skill automates browser-based questions to NotebookLM and returns answers from uploaded documents. It includes scripts for authentication and notebook management.
 - [openadapt-flow](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-flow/) — Date not recorded
   openadapt-flow turns recorded web or desktop tasks into reusable programs, replays them locally, and verifies saved records. Its standalone repository is archived.
 - [openadapt-grounding](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-grounding/) — Date not recorded

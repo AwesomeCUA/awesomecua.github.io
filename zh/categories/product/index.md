@@ -2,7 +2,7 @@
 
 产品是由发布方运营的商业化或托管式计算机使用服务，例如浏览器智能体、桌面助手和智能体 API。
 
-> AwesomeCUA 目录收录 72 条已审核产品。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
+> AwesomeCUA 目录收录 75 条已审核产品。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/product/ · [English](https://awesomecua.com/categories/product/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -10,30 +10,98 @@ HTML 页面：https://awesomecua.com/zh/categories/product/ · [English](https:/
 
 | 产品 | 平台 | 许可证 | 提及 |
 | --- | --- | --- | --- |
+| [Agenta](https://awesomecua.com/resources/github-agenta-ai-agenta/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/agenta-ai/agenta/HEAD/LICENSE) | 1 |
+| [Case Flow](https://awesomecua.com/resources/github-dongxinsuperman-case-flow-ai/) | 网页 · 手机 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/dongxinsuperman/case-flow-ai/HEAD/LICENSE) | 1 |
 | [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) | 网页 · 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE) | 1 |
+| [Korgo Bot](https://awesomecua.com/resources/github-nickvasilescu-korgo-bot/) | 网页 · 桌面 | [MIT（代码）](https://raw.githubusercontent.com/nickvasilescu/korgo-bot/HEAD/LICENSE) | 1 |
 | [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) | 网页 · 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/LICENSE) | 1 |
 | [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/LICENSE) | 1 |
-| [Accio Work](https://awesomecua.com/resources/url-07f92766e53439739eab/) | 网页 | — | 0 |
-| [Ace](https://awesomecua.com/resources/url-7a35f44787f99834f13e/) | 桌面 | — | 0 |
-| [agent-qa](https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/) | 网页 · 手机 · 跨平台 | — | 0 |
 
 ## 常见问题
 
 ### 这些产品覆盖哪些平台？
 
-在 72 条已审核产品中，网页 61 条、桌面 22 条、跨平台 7 条、手机 5 条。标注多个平台的条目在每个平台下各计一次。
+在 75 条已审核产品中，网页 64 条、桌面 23 条、跨平台 8 条、手机 6 条。标注多个平台的条目在每个平台下各计一次。
 
 ### 这些产品由谁发布？
 
-72 款产品中有 20 款通过已审核的发布方关系标明了发布方，其中产品最多的是 [OpenAI](https://awesomecua.com/resources/organization-openai/)（3 款）和 [Anthropic](https://awesomecua.com/resources/organization-anthropic/)（2 款）。
+75 款产品中有 20 款通过已审核的发布方关系标明了发布方，其中产品最多的是 [OpenAI](https://awesomecua.com/resources/organization-openai/)（3 款）和 [Anthropic](https://awesomecua.com/resources/organization-anthropic/)（2 款）。
 
 ### 哪些产品公开了定价？
 
-72 款产品中有 18 款链接了官方定价页，51 款记录为由发布方托管的服务。
+75 款产品中有 18 款链接了官方定价页，51 款记录为由发布方托管的服务。
 
 ### 这个列表按什么排序？
 
 按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
+
+---
+
+## Agenta
+
+Agenta 是供团队构建和运行智能体的工作空间。其智能体可使用浏览器和文件处理网站任务，也可使用已连接的应用并执行定时自动化任务。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-agenta-ai-agenta/
+- 原始来源：https://github.com/agenta-ai/agenta
+- 类型：产品
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化、工作流、产业
+- 证据核查日期：2026-11-09T21:10:46Z
+- ID：github:agenta-ai/agenta
+
+### 范围记录
+
+The repository lists application code, SDKs, examples, and documentation. The README describes cloud and self-hosted use and displays an MIT license badge.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-agenta-ai-agenta/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/agenta-ai/agenta/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/agenta-ai/agenta/HEAD/README.md（获取于 2026-11-09T21:10:46Z；SHA-256：66bc4be13848597ace9626cc357eef9ffde6cfdbfcbe04a63d10890623cfec9a）
+- https://raw.githubusercontent.com/agenta-ai/agenta/HEAD/LICENSE（获取于 2026-11-09T21:12:25Z；SHA-256：efd1323753fcbf4d4fc74c82d5d469263b0641dbee4a65b4690ccb0c3d12b68b）
+
+---
+
+## Case Flow
+
+Case Flow 是可视化测试工作台，可将测试用例分发给手机和网页执行器，再汇集运行状态、报告和证据供审核。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-dongxinsuperman-case-flow-ai/
+- 原始来源：https://github.com/dongxinsuperman/case-flow-ai
+- 类型：产品
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、网页、Android、iOS、鸿蒙
+- 主题：评测、工作流、可观测性、人机协作
+- 证据核查日期：2026-11-09T21:09:40Z
+- ID：github:dongxinsuperman/case-flow-ai
+
+### 范围记录
+
+The source describes separate AI Phone and AI Web executors and built-in API and hybrid capabilities. It declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-dongxinsuperman-case-flow-ai/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/dongxinsuperman/case-flow-ai/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/dongxinsuperman/case-flow-ai/HEAD/README.md（获取于 2026-11-09T21:09:40Z；SHA-256：831f38faebe66dac6532930b2c5faf112858a0a9f4ab649546651a18005960f0）
+- https://raw.githubusercontent.com/dongxinsuperman/case-flow-ai/HEAD/LICENSE（获取于 2026-11-09T21:11:55Z；SHA-256：bbd91da2d19b48e575bcdbc24cdde75403f483e229e25b13c9fb5eaba49b2e01）
 
 ---
 
@@ -68,6 +136,40 @@ The repository contains the Workstation shell, desktop host, browser adapters an
 
 - https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：205b577980981d8c98c1610af912d779aa3889c457a835c67cf90a66da0d34a6）
 - https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE（获取于 2026-11-09T06:13:31Z；SHA-256：d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc）
+
+---
+
+## Korgo Bot
+
+Korgo Bot 是一款 macOS 应用，让持久运行的智能体共用云端桌面。智能体可以使用屏幕和文件工具，也可以将图形界面及浏览器任务交给托管智能体。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-nickvasilescu-korgo-bot/
+- 原始来源：https://github.com/nickvasilescu/korgo-bot
+- 类型：产品
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS、网页
+- 主题：工具集成、沙箱、网页导航、工作流
+- 证据核查日期：2026-11-09T21:10:08Z
+- ID：github:nickvasilescu/korgo-bot
+
+### 范围记录
+
+The source describes running the app from its repository. Cloud mode requires an Orgo account and API key, Tailscale, and a supported model provider.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-nickvasilescu-korgo-bot/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/nickvasilescu/korgo-bot/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/nickvasilescu/korgo-bot/HEAD/README.md（获取于 2026-11-09T21:10:08Z；SHA-256：d8185817ffe290ebc8424d0dce628e4b7bb8241d45250823c24e8edda7e0d05a）
+- https://raw.githubusercontent.com/nickvasilescu/korgo-bot/HEAD/LICENSE（获取于 2026-11-09T21:12:12Z；SHA-256：821556e6336796450ab852d375117b48a4887e71d255794fd6318d99982a5ab6）
 
 ---
 
@@ -190,7 +292,7 @@ General Agents 的桌面自动驾驶工具根据录制的专家行为训练，�
 
 ### 范围记录
 
-The Ace page describes a computer autopilot that uses the mouse and keyboard on the user's desktop, says it was trained by software specialists and domain experts on over a million tasks, and charts publisher figures for click-prediction accuracy for ace-control-medium and ace-control-small against Operator, Claude 3.7 Sonnet, UI-TARS-72B-SFT and other models, plus action latency. The About page says Ace learns from experts' screen recordings with mouse and keyboard logs, and that General Agents is developing video-language-action models. The official Python client (generalagents-python 0.1.1 at commit d36f6a8) posts a WebP screenshot, the instruction and recent actions to /v1/control/predict on api.generalagents.com; its macOS Computer class captures the screen with screencapture and performs clicks, drags, scrolls, key presses and typing through pyautogui. The client's Apache-2.0 code license does not cover the hosted models. At review time api.generalagents.com and docs.generalagents.com had DNS resolution failures; the reviewed pages leave pricing, download and sign-up paths unspecified, so current availability remains unknown.
+The Ace page describes a computer autopilot that uses the mouse and keyboard on the user's desktop, says it was trained by software specialists and domain experts on over a million tasks, and charts publisher figures for click-prediction accuracy for ace-control-medium and ace-control-small against Operator, Claude 3.7 Sonnet, UI-TARS-72B-SFT and other models, plus action latency. The About page says Ace learns from experts' screen recordings with mouse and keyboard logs, and that General Agents is developing video-language-action models. The official Python client (generalagents-python 0.1.1 at commit d36f6a8) posts a WebP screenshot, the instruction and recent actions to /v1/control/predict on api.generalagents.com; its macOS Computer class captures the screen with screencapture and performs clicks, drags, scrolls, key presses and typing through pyautogui. Apache-2.0 covers the client's code. At review time api.generalagents.com and docs.generalagents.com had DNS resolution failures; the reviewed pages leave pricing, download and sign-up paths unspecified, so current availability remains unknown.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-7a35f44787f99834f13e/record.json
 
@@ -1273,7 +1375,7 @@ Publisher claims. The homepage describes Deep Action (plan, then execute multi-s
 
 ### 范围记录
 
-Recorded as adjacent: the publisher presents Firecrawl as a web data API for AI agents, and its search, scrape, map and crawl endpoints return page content as Markdown, HTML, JSON or screenshots without operating the page. Interact continues from a scrape result: POST /v2/scrape/{scrapeId}/interact takes either a natural-language prompt, which it carries out by clicking, typing and scrolling, or Playwright code, and returns a CDP URL and live-view URLs; named profiles keep browser state such as logins between sessions. The Browser Sandbox (POST /v2/interact) opens a standalone isolated browser session with Playwright and the agent-browser CLI preinstalled, CDP access and an embeddable interactive live view. The /agent endpoint gathers data from a prompt by searching and navigating sites and runs on the publisher's Spark 2 model. The homepage HTML changes on every request, so the primary receipt is the documentation introduction. The homepage also links the repository github.com/firecrawl/firecrawl; which hosted features that code includes was not reviewed, and its license does not cover the hosted service.
+Recorded as adjacent: the publisher presents Firecrawl as a web data API for AI agents, and its search, scrape, map and crawl endpoints return page content as Markdown, HTML, JSON or screenshots without operating the page. Interact continues from a scrape result: POST /v2/scrape/{scrapeId}/interact takes either a natural-language prompt, which it carries out by clicking, typing and scrolling, or Playwright code, and returns a CDP URL and live-view URLs; named profiles keep browser state such as logins between sessions. The Browser Sandbox (POST /v2/interact) opens a standalone isolated browser session with Playwright and the agent-browser CLI preinstalled, CDP access and an embeddable interactive live view. The /agent endpoint gathers data from a prompt by searching and navigating sites and runs on the publisher's Spark 2 model. The homepage HTML changes on every request, so the primary receipt is the documentation introduction. The homepage also links the repository github.com/firecrawl/firecrawl; hosted feature coverage in that code is unreviewed.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-a06f5cb81d3c41338bb6/record.json
 

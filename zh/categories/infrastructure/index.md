@@ -2,7 +2,7 @@
 
 基础设施指计算机使用智能体在其中运行或借以操作的浏览器、沙箱、虚拟机、模拟器和输入自动化库。
 
-> AwesomeCUA 目录收录 101 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
+> AwesomeCUA 目录收录 114 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](https://awesomecua.com/categories/infrastructure/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -10,30 +10,30 @@ HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](
 
 | 基础设施 | 平台 | 许可证 | 提及 |
 | --- | --- | --- | --- |
-| [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 10 |
+| [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 12 |
 | [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) | 桌面 | — | 8 |
 | [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | 手机 | [Apache-2.0（代码）](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 7 |
 | [E2B Desktop](https://awesomecua.com/resources/github-e2b-dev-desktop/) | 桌面 | [Apache-2.0（代码）](https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE) | 6 |
-| [Steel Browser](https://awesomecua.com/resources/github-steel-dev-steel-browser/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE) | 4 |
-| [E2B](https://awesomecua.com/resources/github-e2b-dev-e2b/) | 桌面 | [Apache-2.0（代码）](https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE) | 3 |
+| [Lightpanda Browser](https://awesomecua.com/resources/github-lightpanda-io-browser/) | 网页 · 桌面 | [AGPL-3.0（代码）](https://raw.githubusercontent.com/lightpanda-io/browser/HEAD/LICENSE) | 4 |
+| [Nut.js](https://awesomecua.com/resources/github-nut-tree-nut-js/) | 桌面 | — | 4 |
 
 ## 常见问题
 
 ### 目录中被提及最多的基础设施有哪些？
 
-[Playwright](https://awesomecua.com/resources/github-microsoft-playwright/)（10 条记录）、[PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/)（8 条记录）和 [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/)（7 条记录）在其他目录记录的已审核来源中被提及最多。
+[Playwright](https://awesomecua.com/resources/github-microsoft-playwright/)（12 条记录）、[PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/)（8 条记录）和 [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/)（7 条记录）在其他目录记录的已审核来源中被提及最多。
 
 ### 这些基础设施覆盖哪些平台？
 
-在 101 条已审核基础设施中，桌面 66 条、网页 51 条、手机 18 条、跨平台 8 条；1 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 114 条已审核基础设施中，桌面 76 条、网页 60 条、手机 20 条、跨平台 11 条；2 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些基础设施有对应的论文？
 
-101 条中有 7 条链接到提出或说明它的 arXiv 论文，例如 [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/)、[GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/) 和 [OpenMobile-2 extended Android AVDs](https://awesomecua.com/resources/url-f039da43799772645c92/)。
+114 条中有 11 条链接到提出或说明它的 arXiv 论文，例如 [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/)、[ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/) 和 [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/)。
 
 ### 基础设施使用哪些许可证？
 
-最常见的声明许可证是 MIT（34 条）、Apache-2.0（27 条）和 AGPL-3.0（4 条）。101 条中有 34 条未记录声明的许可证。
+最常见的声明许可证是 MIT（40 条）、Apache-2.0（30 条）和 AGPL-3.0（4 条）。114 条中有 38 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -166,70 +166,6 @@ Formerly published as deepmind/android_env. That address now redirects to this r
 
 ---
 
-## Steel Browser
-
-管理智能体 Chrome 会话的开源浏览器 API，可通过 Puppeteer、Playwright 或 Selenium 经由 CDP 访问，支持 Cookie 持久化、代理轮换、隐蔽模式和会话调试界面。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-steel-dev-steel-browser/
-- 原始来源：https://github.com/steel-dev/steel-browser
-- 类型：基础设施
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：沙箱、网页导航
-- 证据核查日期：2026-10-16T06:36:04Z
-- ID：github:steel-dev/steel-browser
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-steel-dev-steel-browser/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/README.md（获取于 2026-10-16T06:36:04Z；SHA-256：668949f121cb5a8ac262a8d3222a31eaee6692bfc0de9b86e60ae04f885ccc9b）
-- https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE（获取于 2026-10-16T06:42:05Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
-
----
-
-## E2B
-
-面向智能体的云端沙箱基础设施；其桌面 SDK 提供截图、鼠标和键盘控制、应用启动及画面串流接口。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-e2b-dev-e2b/
-- 原始来源：https://github.com/e2b-dev/E2B
-- 类型：基础设施
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面
-- 主题：沙箱、自动化、工具集成
-- 证据核查日期：2026-11-09T05:05:17Z
-- ID：github:e2b-dev/e2b
-
-### 范围记录
-
-The README provides JavaScript and Python SDK examples. Creating a sandbox requires an E2B API key; the README also links to self-hosting guidance.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-e2b-dev-e2b/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/README.md（获取于 2026-11-09T05:05:17Z；SHA-256：5951729113017efbe02952b197a3ad61d0014cfaba3e6b1aad37a25a5b97b0c2）
-- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE（获取于 2026-11-09T05:07:33Z；SHA-256：b4ef1bf811cb4095229fb86b574199e467c78f0ac4078cf8be62189e1fbd0818）
-
----
-
 ## Lightpanda Browser
 
 面向 AI 智能体与自动化的无界面浏览器，提供 Linux 和 macOS 可执行文件，以及浏览器控制和脚本任务接口。
@@ -293,6 +229,134 @@ The README describes nightly binaries for Linux and macOS and says there is no n
 
 ---
 
+## Steel Browser
+
+管理智能体 Chrome 会话的开源浏览器 API，可通过 Puppeteer、Playwright 或 Selenium 经由 CDP 访问，支持 Cookie 持久化、代理轮换、隐蔽模式和会话调试界面。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-steel-dev-steel-browser/
+- 原始来源：https://github.com/steel-dev/steel-browser
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：沙箱、网页导航
+- 证据核查日期：2026-10-16T06:36:04Z
+- ID：github:steel-dev/steel-browser
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-steel-dev-steel-browser/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/README.md（获取于 2026-10-16T06:36:04Z；SHA-256：668949f121cb5a8ac262a8d3222a31eaee6692bfc0de9b86e60ae04f885ccc9b）
+- https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE（获取于 2026-10-16T06:42:05Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## Appium
+
+基于 WebDriver 的开源自动化服务器，面向移动、桌面和 IoT 应用；通过 iOS、Android、macOS 和 Windows 的平台驱动、插件及 Java、Python、Ruby 和 C#客户端扩展。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-appium-appium/
+- 原始来源：https://github.com/appium/appium
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android、iOS
+- 主题：自动化
+- 证据核查日期：2026-10-16T06:36:04Z
+- ID：github:appium/appium
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-appium-appium/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/appium/appium/HEAD/README.md（获取于 2026-10-16T06:36:04Z；SHA-256：ecd5b8033cbc17a2ce5aebf1b35260b77c4906aea7c549a0b86e5d55b9ebe135）
+- https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE（获取于 2026-10-16T06:42:06Z；SHA-256：5cb791a45cafc4bdaef57f3ba49fb7691a98c756e8148467f9e241295728490f）
+
+---
+
+## E2B
+
+面向智能体的云端沙箱基础设施；其桌面 SDK 提供截图、鼠标和键盘控制、应用启动及画面串流接口。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-e2b-dev-e2b/
+- 原始来源：https://github.com/e2b-dev/E2B
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：沙箱、自动化、工具集成
+- 证据核查日期：2026-11-09T05:05:17Z
+- ID：github:e2b-dev/e2b
+
+### 范围记录
+
+The README provides JavaScript and Python SDK examples. Creating a sandbox requires an E2B API key; the README also links to self-hosting guidance.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-e2b-dev-e2b/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/README.md（获取于 2026-11-09T05:05:17Z；SHA-256：5951729113017efbe02952b197a3ad61d0014cfaba3e6b1aad37a25a5b97b0c2）
+- https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE（获取于 2026-11-09T05:07:33Z；SHA-256：b4ef1bf811cb4095229fb86b574199e467c78f0ac4078cf8be62189e1fbd0818）
+
+---
+
+## Obscura
+
+Obscura 是面向智能体自动化的 Rust 无头浏览器，可运行 JavaScript、提供 Chrome DevTools Protocol 接口，并支持截图和浏览器自动化工具。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-h4ckf0r0day-obscura/
+- 原始来源：https://github.com/h4ckf0r0day/obscura
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：跨平台、网页、桌面、Linux、macOS、Windows
+- 主题：自动化、网页导航、沙箱
+- 证据核查日期：2026-11-09T05:05:09Z
+- ID：github:h4ckf0r0day/obscura
+
+### 范围记录
+
+The repository provides source code and release binaries for Linux, macOS and Windows. The README declares an Apache-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-h4ckf0r0day-obscura/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/README.md（获取于 2026-11-09T05:05:09Z；SHA-256：6325697c2012d2876f07c2bee8feea463d0f303ad61c98bcc256dc771d7748c7）
+- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE（获取于 2026-11-09T05:07:28Z；SHA-256：50e6751797c50dedd75ef1b8a0d9e42f5f8472e9fbce91f34718e9f97b0c780a）
+
+---
+
 ## Universe legacy GUI interaction client
 
 已归档的 Gym 兼容客户端，通过 VNC 为远程应用和浏览器环境提供屏幕观察及键盘、鼠标操作，包括早期的 World of Bits 集成。
@@ -329,6 +393,36 @@ GitHub marks this repository archived, and the README declares the library depre
 - https://api.github.com/repos/openai/universe（获取于 2026-10-17T11:18:15Z；SHA-256：94a7a4d383f754b96601bc0486b90e62760b8bfc35abc607077c8eb6e7934b2d）
 - https://api.github.com/repos/openai/universe/git/trees/master?recursive=1（获取于 2026-10-17T11:19:47Z；SHA-256：1808d7524506d1386dad507de8a8fa0f89080443a970ae032cea4c204699d113）
 - https://raw.githubusercontent.com/openai/universe/HEAD/LICENSE（获取于 2026-10-17T11:23:05Z；SHA-256：ecd4a4aacc4512a31bbdc3252ffc014d37ac7ef56ed34bc2a5d0f6337df6daa5）
+
+---
+
+## AgentDesk
+
+供 AI 智能体通过程序控制的桌面环境，基于 agentd REST 守护进程，可通过 Docker 在本地运行或部署到 Kubernetes，并为 LMM 输入提供坐标网格叠加层。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-agentsea-agentdesk/
+- 原始来源：https://github.com/agentsea/agentdesk
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：沙箱
+- 证据核查日期：2026-10-16T06:40:53Z
+- ID：github:agentsea/agentdesk
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-agentsea-agentdesk/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/README.md（获取于 2026-10-16T06:40:53Z；SHA-256：3ee6212ef10c39943546d20a3beeed412262f4a8a910120becb5409626569b0f）
+- https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE（获取于 2026-10-16T06:42:07Z；SHA-256：40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499）
 
 ---
 
@@ -533,37 +627,107 @@ The README names Linux, macOS, and Windows support and describes CLI, CDP, WebDr
 
 ---
 
-## Obscura
+## Pilion Browser
 
-Obscura 是面向智能体自动化的 Rust 无头浏览器，可运行 JavaScript、提供 Chrome DevTools Protocol 接口，并支持截图和浏览器自动化工具。
+Pilion Browser 通过 MCP 将智能体连接到用户桌面浏览器的标签页，支持浏览器操作、操作前审批、人工接管、工作流录制及会话恢复。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-h4ckf0r0day-obscura/
-- 原始来源：https://github.com/h4ckf0r0day/obscura
+- 目录页面：https://awesomecua.com/zh/resources/github-echovic-pilion-browser/
+- 原始来源：https://github.com/echoVic/pilion-browser
 - 类型：基础设施
 - 审核状态：已审核
-- 范围：相关研究
-- 运行环境：跨平台、网页、桌面、Linux、macOS、Windows
-- 主题：自动化、网页导航、沙箱
-- 证据核查日期：2026-11-09T05:05:09Z
-- ID：github:h4ckf0r0day/obscura
+- 范围：核心
+- 运行环境：桌面、macOS、Windows、Linux、网页、跨平台
+- 主题：网页导航、人机协作、录制、工作流
+- 证据核查日期：2026-11-09T19:56:44Z
+- ID：github:echovic/pilion-browser
 
 ### 范围记录
 
-The repository provides source code and release binaries for Linux, macOS and Windows. The README declares an Apache-2.0 license.
+The README names macOS, Windows, and Linux releases and states an MIT license. It describes Agent Client Protocol connections and an Electron desktop application.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-h4ckf0r0day-obscura/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-echovic-pilion-browser/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/README.md（获取于 2026-11-09T05:05:09Z；SHA-256：6325697c2012d2876f07c2bee8feea463d0f303ad61c98bcc256dc771d7748c7）
-- https://raw.githubusercontent.com/h4ckf0r0day/obscura/HEAD/LICENSE（获取于 2026-11-09T05:07:28Z；SHA-256：50e6751797c50dedd75ef1b8a0d9e42f5f8472e9fbce91f34718e9f97b0c780a）
+- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/README.md（获取于 2026-11-09T19:56:44Z；SHA-256：2c9451d922baab9a1fd2e5b2325ddcf3263d96a3580b86577cdff91dd1b38e2e）
+- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE（获取于 2026-11-09T14:20:46Z；SHA-256：26ae051def8e601adcec978a905c9f6eb93b0af658344d24af20872f4c7ef71e）
+
+---
+
+## Selenium
+
+实现 W3C WebDriver 的浏览器自动化项目，提供 Java、Python、Ruby、.NET 和 JavaScript 绑定、用于跨机器分配会话的 Selenium Grid，以及用于配置驱动的 Rust 版 Selenium Manager。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-seleniumhq-selenium/
+- 原始来源：https://github.com/SeleniumHQ/selenium
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化
+- 证据核查日期：2026-10-20T07:47:28Z
+- ID：github:seleniumhq/selenium
+
+### 范围记录
+
+The repository README addresses contributors and points users to the documentation on selenium.dev, the project website. The inspected tree holds the WebDriver bindings (java, py, rb, dotnet, javascript), the Java Grid server, the Internet Explorer driver (cpp/iedriver) and Selenium Manager (rust), a command-line tool that locates or downloads browsers and drivers. Selenium IDE, the record-and-playback tool also presented on selenium.dev, lives in the separate SeleniumHQ/selenium-ide repository. Agents use Selenium as an execution layer for browser actions; it contains no agent or model of its own.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-seleniumhq-selenium/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/README.md（获取于 2026-10-20T07:47:28Z；SHA-256：ef1a1505315cb887dcf485f657947cbab59c11cdd8c63b32ffc54af413ac6f31）
+- https://api.github.com/repos/SeleniumHQ/selenium/git/trees/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c?recursive=1（获取于 2026-10-20T05:02:04Z；SHA-256：223db50df54239caa7d0413212e9b32debc17f7c872c93217b76749c0414770b）
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c/rust/README.md（获取于 2026-10-20T05:02:47Z；SHA-256：38588ba31b43bb9e9df672451edaa4a35ace2ffe826367b28204747744a9e3ec）
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE（获取于 2026-10-20T05:02:59Z；SHA-256：307012b4481479a56605420e81db14686a0274d246d06d224c363ee09297d330）
+
+---
+
+## @sparticuz/chromium
+
+@sparticuz/chromium 提供无界面的 Linux Chromium 构建版本和启动设置，供 Puppeteer 或 Playwright 在无服务器环境中进行浏览器自动化。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-sparticuz-chromium/
+- 原始来源：https://github.com/Sparticuz/chromium
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页、桌面、Linux
+- 主题：自动化、沙箱
+- 证据核查日期：2026-11-09T21:10:51Z
+- ID：github:sparticuz/chromium
+
+### 范围记录
+
+The README describes Brotli-compressed browser files and a smaller package that requires separately hosted files. It states that the supplied binary is compiled for Linux.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-sparticuz-chromium/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/Sparticuz/chromium/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Sparticuz/chromium/HEAD/README.md（获取于 2026-11-09T21:10:51Z；SHA-256：190b862d6dcbe1b1236b9c8bee37b9361dcbdde175e919be3856d12bd6de5845）
+- https://raw.githubusercontent.com/Sparticuz/chromium/HEAD/LICENSE（获取于 2026-11-09T21:12:29Z；SHA-256：3569040c1b042820ece7d85760a7f12b4ce8e66fa5b10f44252a923a46af5e2b）
 
 ---
 
@@ -631,33 +795,37 @@ The README describes X11 and native Wayland backends and provides system package
 
 ---
 
-## AgentDesk
+## agentd
 
-供 AI 智能体通过程序控制的桌面环境，基于 agentd REST 守护进程，可通过 Docker 在本地运行或部署到 Kubernetes，并为 LMM 输入提供坐标网格叠加层。
+AgentD 通过 HTTP API 提供桌面会话访问，支持截图、鼠标和键盘操作、打开浏览器及会话录制。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-agentsea-agentdesk/
-- 原始来源：https://github.com/agentsea/agentdesk
+- 目录页面：https://awesomecua.com/zh/resources/github-agentsea-agentd/
+- 原始来源：https://github.com/agentsea/agentd
 - 类型：基础设施
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：桌面
-- 主题：沙箱
-- 证据核查日期：2026-10-16T06:40:53Z
-- ID：github:agentsea/agentdesk
+- 运行环境：桌面、Linux、网页
+- 主题：沙箱、录制、自动化
+- 证据核查日期：2026-11-09T21:10:51Z
+- ID：github:agentsea/agentd
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-agentsea-agentdesk/record.json
+### 范围记录
+
+The README describes a Qemu image, cloud VM images, and installation on an Ubuntu VM. The repository lists daemon code, documentation, and tests.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-agentsea-agentd/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/agentsea/agentd/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/README.md（获取于 2026-10-16T06:40:53Z；SHA-256：3ee6212ef10c39943546d20a3beeed412262f4a8a910120becb5409626569b0f）
-- https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE（获取于 2026-10-16T06:42:07Z；SHA-256：40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499）
+- https://raw.githubusercontent.com/agentsea/agentd/HEAD/README.md（获取于 2026-11-09T21:10:51Z；SHA-256：1adc7e0c910e9103ed14bc1355397d931dff2d515d2f524fa5dafa95eec5b3af）
+- https://raw.githubusercontent.com/agentsea/agentd/HEAD/LICENSE（获取于 2026-11-09T21:12:31Z；SHA-256：40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499）
 
 ---
 
@@ -728,33 +896,37 @@ The repository lists Android application code and scripts for preparing map, rou
 
 ---
 
-## Appium
+## Anvil Engine
 
-基于 WebDriver 的开源自动化服务器，面向移动、桌面和 IoT 应用；通过 iOS、Android、macOS 和 Windows 的平台驱动、插件及 Java、Python、Ruby 和 C#客户端扩展。
+一个可自行托管的 Chrome 服务，通过 REST、CDP、TypeScript SDK 和 MCP 服务器提供浏览器会话、页面操作、截图与录制功能。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-appium-appium/
-- 原始来源：https://github.com/appium/appium
+- 目录页面：https://awesomecua.com/zh/resources/github-awictor-anvil-engine/
+- 原始来源：https://github.com/awictor/anvil-engine
 - 类型：基础设施
 - 审核状态：已审核
-- 范围：相关研究
-- 运行环境：Android、iOS
-- 主题：自动化
-- 证据核查日期：2026-10-16T06:36:04Z
-- ID：github:appium/appium
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化、沙箱
+- 证据核查日期：2026-11-09T21:09:29Z
+- ID：github:awictor/anvil-engine
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-appium-appium/record.json
+### 范围记录
+
+The repository contains server, SDK and MCP code. It requires Node.js and Chrome or Chromium, and its README states an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-awictor-anvil-engine/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/awictor/anvil-engine/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/appium/appium/HEAD/README.md（获取于 2026-10-16T06:36:04Z；SHA-256：ecd5b8033cbc17a2ce5aebf1b35260b77c4906aea7c549a0b86e5d55b9ebe135）
-- https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE（获取于 2026-10-16T06:42:06Z；SHA-256：5cb791a45cafc4bdaef57f3ba49fb7691a98c756e8148467f9e241295728490f）
+- https://raw.githubusercontent.com/awictor/anvil-engine/HEAD/README.md（获取于 2026-11-09T21:09:29Z；SHA-256：be3f3fcda158e72de7b7fd910d4840670b4f0851458dd1a9fbfb6ba582e3967b）
+- https://raw.githubusercontent.com/awictor/anvil-engine/HEAD/LICENSE（获取于 2026-11-09T21:11:45Z；SHA-256：2a5af5134df8c3c105a5e17896f6e9d79bd5586ea773948bab2b77276655858a）
 
 ---
 
@@ -857,6 +1029,40 @@ The README describes a Jetpack Compose build, JSON assets and event logs in the 
 
 ---
 
+## ASIL Benchmark Images
+
+用于复现 ASIL 智能体基准测试的预构建 Singularity/Apptainer 运行环境镜像，附有版本化清单和校验和。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-6545629632b5e3e3a3d6/
+- 原始来源：https://huggingface.co/datasets/sharryXR/asil-benchmark-images
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：沙箱、评测
+- 证据核查日期：2026-11-09T21:09:15Z
+- ID：url:6545629632b5e3e3a3d6
+
+### 范围记录
+
+The release contains SIF images, two image manifests, and SHA256SUMS. The card declares an Apache-2.0 license and links the ASIL code release.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/sharryXR/asil-benchmark-images
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/sharryXR/asil-benchmark-images（获取于 2026-11-09T21:09:15Z；SHA-256：698c7b91ef12312c22ffd8d577712745c15da88290478963e55fa6dcaef1de1c）
+- https://huggingface.co/api/datasets/sharryXR/asil-benchmark-images（获取于 2026-11-09T21:09:15Z；SHA-256：698c7b91ef12312c22ffd8d577712745c15da88290478963e55fa6dcaef1de1c）
+
+---
+
 ## Browser Use macOS Harness
 
 Browser Use 官方测试框架，用于创建和操控隔离的 macOS 虚拟机及桌面会话。
@@ -954,6 +1160,40 @@ The source lists Kubernetes, Podman and a native runtime. It describes sandbox l
 
 ---
 
+## ChromiumFish
+
+ChromiumFish 将经过修改的 Chromium 浏览器打包，供 Playwright 和外部智能体使用。它还内置智能体，可读取网页并执行点击、输入和导航操作。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-arman-bd-chromiumfish/
+- 原始来源：https://github.com/arman-bd/chromiumfish
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面、macOS、Linux
+- 主题：网页导航、自动化、工具集成、安全与防护
+- 证据核查日期：2026-11-09T21:10:52Z
+- ID：github:arman-bd/chromiumfish
+
+### 范围记录
+
+The repository describes browser patches, Python and JavaScript SDKs, release binaries, and an MCP server. The built-in agent requires an OpenAI-compatible model; prebuilt browsers are named for macOS and Linux.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-arman-bd-chromiumfish/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/arman-bd/chromiumfish/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://github.com/arman-bd/chromiumfish（获取于 2026-11-09T21:10:52Z；SHA-256：c7297ed73ded3095b6061b00503222ef037721a870f049f09c9de4b203531811）
+- https://raw.githubusercontent.com/arman-bd/chromiumfish/HEAD/LICENSE（获取于 2026-11-09T21:12:29Z；SHA-256：19a6419f4b52cf90c6da431b130f9d7aacbcf2b2ca2598aaa412d299efd7bd49）
+
+---
+
 ## CLYRedNote
 
 这是用于 GUI 智能体测试的 Android Compose 仿应用，提供购物、消息、搜索和内容页面，并使用预置的虚构数据。
@@ -1046,6 +1286,40 @@ Dockur Windows 在 Docker/KVM 容器中运行完整的 Windows 桌面环境，�
 ### 一手证据
 
 - https://raw.githubusercontent.com/dockur/windows/HEAD/readme.md（获取于 2026-11-04T13:12:15Z；SHA-256：29875eaf1d84f70a016f4dee7473159d772569133a38f11dd53a462d91722bd0）
+
+---
+
+## GBOX
+
+一个提供 CLI 和 MCP 接入的环境服务，让智能体操作 Android 应用及包括浏览器和终端在内的桌面应用。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-babelcloud-gbox/
+- 原始来源：https://github.com/babelcloud/gbox
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、Android、桌面、macOS、Linux、Windows、网页
+- 主题：沙箱、手机操作、自动化、工具集成
+- 证据核查日期：2026-11-09T21:09:34Z
+- ID：github:babelcloud/gbox
+
+### 范围记录
+
+The README documents CLI installation on macOS, Linux and Windows, plus Android device connection and MCP configuration. It names ADB and Appium among setup dependencies.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-babelcloud-gbox/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/babelcloud/gbox/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/babelcloud/gbox/HEAD/README.md（获取于 2026-11-09T21:09:34Z；SHA-256：4db3520a552b72ed0d57e1be6ce6f7b2900a10f0ddf5ed637836c768c5118927）
+- https://raw.githubusercontent.com/babelcloud/gbox/HEAD/LICENSE（获取于 2026-11-09T21:11:45Z；SHA-256：c82358a2fdd54ed8e4bbd71e5ca9f51da62e97930cfc02b2f5ece615c478de4f）
 
 ---
 
@@ -1151,6 +1425,40 @@ The repository lists environment, data-engine, evaluation and training code. Its
 
 ---
 
+## GUI-Docker-Env
+
+GUI-Docker-Env 在 Docker 中托管 OSWorld Ubuntu 桌面模拟器，提供可配置的虚拟机镜像、身份验证、并发限制和状态接口。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-computer-use-agents-gui-docker-env/
+- 原始来源：https://github.com/Computer-use-agents/GUI-Docker-Env
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：沙箱、评测
+- 证据核查日期：2026-11-09T21:08:36Z
+- ID：github:computer-use-agents/gui-docker-env
+
+### 范围记录
+
+The guide requires a QCOW2 Ubuntu image and a Docker runtime image. It includes an environment test using DesktopEnv and describes a dashboard for simulator status.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-computer-use-agents-gui-docker-env/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/Computer-use-agents/GUI-Docker-Env/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Computer-use-agents/GUI-Docker-Env/HEAD/README.md（获取于 2026-11-09T21:08:36Z；SHA-256：e8c592cd25419dd3283e2a36e211afecb3a894cad6ee88f48e55bcf8cf7dd88a）
+- https://raw.githubusercontent.com/Computer-use-agents/GUI-Docker-Env/HEAD/LICENSE（获取于 2026-11-09T21:11:06Z；SHA-256：a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec）
+
+---
+
 ## ibara
 
 ibara 通过 MCP 将智能体连接到备用 Omarchy 电脑，执行桌面及浏览器任务；控制台可查看屏幕与任务，并供人接管操作。
@@ -1220,6 +1528,39 @@ GitHub reports this repository as a fork of KDE/kalgebra. The ScienceBoard READM
 - https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/e3f962b95447d3b76244edbc2048a8c98e2022b7/src/control（获取于 2026-10-18T12:14:45Z；SHA-256：c5d41b60d9578a98c3bcd3d53bb9786bc02fd35b35c2a10c569fb8cdcdcd7622）
 - https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/e3f962b95447d3b76244edbc2048a8c98e2022b7/src/main.cpp（获取于 2026-10-18T12:14:45Z；SHA-256：701ca41ac449ab2f88a06f7812ce382e88ea814037c99ddc82ad78e3ba03985a）
 - https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/HEAD/COPYING（获取于 2026-10-18T12:15:13Z；SHA-256：8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643）
+
+---
+
+## KC Browser
+
+KC Browser 是用于自动化网页会话的 Chromium 浏览器程序。它根据种子生成浏览器身份，可通过 Playwright 或 Puppeteer 启动。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-kuichi-x-kc-browser/
+- 原始来源：https://github.com/KuiChi-x/kc-browser
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页、桌面、Windows、Linux
+- 主题：网页导航、自动化、鲁棒性
+- 证据核查日期：2026-11-09T21:10:44Z
+- ID：github:kuichi-x/kc-browser
+
+### 范围记录
+
+The README links prebuilt Windows and Linux binaries and provides Python Playwright and Node Puppeteer examples. The listed repository files contain documentation; the browser binaries are linked as releases.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-kuichi-x-kc-browser/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/KuiChi-x/kc-browser/HEAD/README.md（获取于 2026-11-09T21:10:44Z；SHA-256：e5a81a5d72f02ed2fbd03d1c657e86240b7e9866675f4ed919f252acd2bcc6bd）
 
 ---
 
@@ -1323,6 +1664,40 @@ The README describes Kotlin and Jetpack Compose source, local JSON assets, and r
 
 ---
 
+## MyPCBench VM images
+
+MyPCBench VM images 提供虚拟机磁盘镜像，用于在预置网页应用中评测计算机操作智能体，并附有包含评分标准的任务集。
+
+- 目录页面：https://awesomecua.com/zh/resources/url-01b4f010bda4dc4a5731/
+- 原始来源：https://huggingface.co/datasets/ljang0/mypcbench-qemu-baseline
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：沙箱、评测
+- 证据核查日期：2026-11-09T21:08:39Z
+- ID：url:01b4f010bda4dc4a5731
+
+### 范围记录
+
+The card identifies michael_scott.qcow2 as the current image and michael_scott_round78e.qcow2 as the archived paper baseline. It declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-01b4f010bda4dc4a5731/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/ljang0/mypcbench-qemu-baseline
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/ljang0/mypcbench-qemu-baseline（获取于 2026-11-09T21:08:39Z；SHA-256：83caba8f162fd353c4bbf219e9e8c4f9099aba9bdd4854062f07ffccdfed6da5）
+- https://huggingface.co/api/datasets/ljang0/mypcbench-qemu-baseline（获取于 2026-11-09T21:08:39Z；SHA-256：83caba8f162fd353c4bbf219e9e8c4f9099aba9bdd4854062f07ffccdfed6da5）
+
+---
+
 ## Open Computer
 
 Open Computer 为智能体提供隔离的 Debian 桌面，配有浏览器和原生应用控制功能。用户可通过实时界面观察并协助智能体。
@@ -1373,7 +1748,7 @@ The source describes a QEMU virtual machine, an interface service, and a Pi-base
 
 ### 范围记录
 
-The Hub dataset repository at revision 4d2be380 has no card and no license declaration. It lists 143 files, about 130 GB by listed sizes: seven AVD directories (MineAndroid plus auto, general-user, manual, senior, student and travel variants), their .ini pointers and install_avd.sh. Every config.ini targets android-33 with arm64-v8a on a Pixel 6 profile and Play Store disabled. The script requires an Apple Silicon Mac, installs the android-33 Google APIs arm64-v8a system image through sdkmanager, and warns that -wipe-data erases the installed apps. The variants' app contents remain undocumented; the images remain uninspected. The OpenMobile2-Code README links this repository as 'Extended Android AVDs' in its release list; that repository's Apache-2.0 license does not cover these images or the Android system image.
+The Hub dataset repository at revision 4d2be380 has no card and no license declaration. It lists 143 files, about 130 GB by listed sizes: seven AVD directories (MineAndroid plus auto, general-user, manual, senior, student and travel variants), their .ini pointers and install_avd.sh. Every config.ini targets android-33 with arm64-v8a on a Pixel 6 profile and Play Store disabled. The script requires an Apple Silicon Mac, installs the android-33 Google APIs arm64-v8a system image through sdkmanager, and warns that -wipe-data erases the installed apps. The variants' app contents remain undocumented; the images remain uninspected. The OpenMobile2-Code README links this repository as 'Extended Android AVDs' in its release list.
 
 - 完整记录 JSON：https://awesomecua.com/resources/url-f039da43799772645c92/record.json
 
@@ -1434,37 +1809,70 @@ Adjacent: environment images that the curated OSWorld benchmark boots; this asse
 
 ---
 
-## Pilion Browser
+## redroid
 
-Pilion Browser 通过 MCP 将智能体连接到用户桌面浏览器的标签页，支持浏览器操作、操作前审批、人工接管、工作流录制及会话恢复。
+redroid 在 Linux 主机上提供容器化 Android 实例，配有 ADB 连接和可配置显示设置，可用于移动端自动化环境。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-echovic-pilion-browser/
-- 原始来源：https://github.com/echoVic/pilion-browser
+- 目录页面：https://awesomecua.com/zh/resources/github-remote-android-redroid-doc/
+- 原始来源：https://github.com/remote-android/redroid-doc
 - 类型：基础设施
 - 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、macOS、Windows、Linux、网页、跨平台
-- 主题：网页导航、人机协作、录制、工作流
-- 证据核查日期：2026-11-09T19:56:44Z
-- ID：github:echovic/pilion-browser
+- 范围：相关研究
+- 运行环境：跨平台、Android、桌面、Linux
+- 主题：沙箱、自动化、手机操作
+- 证据核查日期：2026-11-09T21:09:40Z
+- ID：github:remote-android/redroid-doc
 
 ### 范围记录
 
-The README names macOS, Windows, and Linux releases and states an MIT license. It describes Agent Client Protocol connections and an Electron desktop application.
+The source lists Android image versions and Docker startup instructions. It describes arm64 and amd64 host support.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-echovic-pilion-browser/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-remote-android-redroid-doc/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE
+- 代码：未记录
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/README.md（获取于 2026-11-09T19:56:44Z；SHA-256：2c9451d922baab9a1fd2e5b2325ddcf3263d96a3580b86577cdff91dd1b38e2e）
-- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE（获取于 2026-11-09T14:20:46Z；SHA-256：26ae051def8e601adcec978a905c9f6eb93b0af658344d24af20872f4c7ef71e）
+- https://raw.githubusercontent.com/remote-android/redroid-doc/HEAD/README.md（获取于 2026-11-09T21:09:40Z；SHA-256：075716ff0391dcc6bc128b9052ba812328bfeb7f79339ead0aa51d326622dc21）
+
+---
+
+## Sandbar
+
+一种供计算机操作智能体使用的自托管 Linux 桌面容器，提供浏览器串流工作区、人工接管，以及可选的 API 和 MCP 控制。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-jdrolls-sandbar/
+- 原始来源：https://github.com/jdrolls/sandbar
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux、网页
+- 主题：沙箱、人机协作、可观测性、工具集成
+- 证据核查日期：2026-11-09T21:09:12Z
+- ID：github:jdrolls/sandbar
+
+### 范围记录
+
+The README describes Debian with XFCE inside Docker, a bundled Hermes agent, and support for OpenClaw or a user-supplied agent. It states that the single-container image works and that a multi-computer control plane is under development. The repository declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-jdrolls-sandbar/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/jdrolls/sandbar/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/jdrolls/sandbar/HEAD/README.md（获取于 2026-11-09T21:09:12Z；SHA-256：f865b348e4360ecd12bca1e6ffa6c4c9fe93b399667ba25c0f2e7aee2e5b3bd4）
+- https://raw.githubusercontent.com/jdrolls/sandbar/HEAD/LICENSE（获取于 2026-11-09T21:11:37Z；SHA-256：fca3d78e0d507a2a8e891ffd48a95e02a8c434d5457e62740ee6f490c1cd594e）
 
 ---
 
@@ -1539,39 +1947,36 @@ The repository includes connection examples for Puppeteer and Playwright. The br
 
 ---
 
-## Selenium
+## SoftwareGym
 
-实现 W3C WebDriver 的浏览器自动化项目，提供 Java、Python、Ruby、.NET 和 JavaScript 绑定、用于跨机器分配会话的 Selenium Grid，以及用于配置驱动的 Rust 版 Selenium Manager。
+SoftwareGym 合成可运行的图形界面应用，作为计算机操作智能体的环境。它在 Ubuntu 虚拟机中通过基于截图的操作测试生成的应用，并利用反馈修复应用。
 
-- 目录页面：https://awesomecua.com/zh/resources/github-seleniumhq-selenium/
-- 原始来源：https://github.com/SeleniumHQ/selenium
+- 目录页面：https://awesomecua.com/zh/resources/github-mrkiing-jin-softwaregym/
+- 原始来源：https://github.com/MrKiing-Jin/SoftwareGym
 - 类型：基础设施
 - 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页
-- 主题：自动化
-- 证据核查日期：2026-10-20T07:47:28Z
-- ID：github:seleniumhq/selenium
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：数据生成、评测、沙箱、界面设计
+- 证据核查日期：2026-11-09T21:10:20Z
+- ID：github:mrkiing-jin/softwaregym
 
 ### 范围记录
 
-The repository README addresses contributors and points users to the documentation on selenium.dev, the project website. The inspected tree holds the WebDriver bindings (java, py, rb, dotnet, javascript), the Java Grid server, the Internet Explorer driver (cpp/iedriver) and Selenium Manager (rust), a command-line tool that locates or downloads browsers and drivers. Selenium IDE, the record-and-playback tool also presented on selenium.dev, lives in the separate SeleniumHQ/selenium-ide repository. Agents use Selenium as an execution layer for browser actions; it contains no agent or model of its own.
+The repository includes pipeline orchestration, GUI evaluation code and OSWorld container management. Its README says the OSWorld base VM image is required separately.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-seleniumhq-selenium/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE
+- 代码：未记录
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/README.md（获取于 2026-10-20T07:47:28Z；SHA-256：ef1a1505315cb887dcf485f657947cbab59c11cdd8c63b32ffc54af413ac6f31）
-- https://api.github.com/repos/SeleniumHQ/selenium/git/trees/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c?recursive=1（获取于 2026-10-20T05:02:04Z；SHA-256：223db50df54239caa7d0413212e9b32debc17f7c872c93217b76749c0414770b）
-- https://raw.githubusercontent.com/SeleniumHQ/selenium/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c/rust/README.md（获取于 2026-10-20T05:02:47Z；SHA-256：38588ba31b43bb9e9df672451edaa4a35ace2ffe826367b28204747744a9e3ec）
-- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE（获取于 2026-10-20T05:02:59Z；SHA-256：307012b4481479a56605420e81db14686a0274d246d06d224c363ee09297d330）
+- https://raw.githubusercontent.com/MrKiing-Jin/SoftwareGym/HEAD/README.md（获取于 2026-11-09T21:10:20Z；SHA-256：69b78b3ca555ea55a0dc4d7b84e7beca2d9186846904241c39c2a01720647195）
 
 ---
 
@@ -1706,6 +2111,39 @@ The README includes image and data setup for GitLab, shopping sites, Reddit, Wik
 ### 一手证据
 
 - https://raw.githubusercontent.com/mahirlabibdihan/webarena-docker/HEAD/README.md（获取于 2026-11-09T19:56:59Z；SHA-256：0a2f11ae610d352b5064e85d4d55c90059066adf3edf7775eaf5c24ec7e14b35）
+
+---
+
+## WildAWM
+
+WildAWM 提供生成计算机环境和跨界面任务的流程，并配有执行检查及智能体评测工具。
+
+- 目录页面：https://awesomecua.com/zh/resources/github-msr-orchard-wildawm/
+- 原始来源：https://github.com/MSR-Orchard/WildAWM
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、网页
+- 主题：数据生成、沙箱、评测、跨应用
+- 证据核查日期：2026-11-09T21:10:52Z
+- ID：github:msr-orchard/wildawm
+
+### 范围记录
+
+The release includes synthesis and evaluation code and links to environment-task data and trained checkpoints. Setup requires Python, Docker, Node.js, and configured model endpoints.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-msr-orchard-wildawm/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MSR-Orchard/WildAWM/HEAD/README.md（获取于 2026-11-09T21:10:52Z；SHA-256：e1387107a75037580b4f16258ab8ca26e35a9a05c4da47e215f20d34d61d981a）
 
 ---
 
@@ -2083,7 +2521,7 @@ The one repository includes BrowserOS neo and BrowserOS; they are retained as on
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：The repository explicitly identifies its code as AGPL-3.0; this declaration does not cover every incorporated third-party component.
+- 代码审核：The repository explicitly identifies its code as AGPL-3.0.
   来源：https://raw.githubusercontent.com/browseros-ai/BrowserOS/HEAD/LICENSE, https://raw.githubusercontent.com/browseros-ai/BrowserOS/HEAD/README.md
 
 ### 一手证据
@@ -2884,7 +3322,7 @@ Chromium 浏览器的原生 macOS 客户端；其智能体 Spaces 允许内置�
 
 ### 范围记录
 
-This is the open macOS client (Swift, AppKit and SwiftUI). Building it requires the prebuilt Phi Framework, the publisher's own Chromium build, whose source is not published and which the Apache-2.0 license does not cover; the built-in assistant's models, prompts and pipelines are server-side and not in this repository, and a self-built copy does not reach Phi Cloud. Sources/ChromiumBridge/AgentCDP/AgentCDPListener.swift owns a Unix-domain socket through which agent tools reach the browser's DevTools endpoint after per-agent user consent. tools/phi-browser-skill (SKILL.md, scripts/lib/cdp.mjs) is an Agent Skill that drives agent Spaces: hidden windows on a chosen profile that the user can watch, take over and hand back, or off-screen shadow windows. Privacy and local-model statements are publisher claims.
+This is the open macOS client (Swift, AppKit and SwiftUI). Building it requires the prebuilt Phi Framework, the publisher's own Chromium build, whose source is unpublished; the built-in assistant's models, prompts and pipelines run server-side, outside this repository, and a self-built copy has no Phi Cloud access. Sources/ChromiumBridge/AgentCDP/AgentCDPListener.swift owns a Unix-domain socket through which agent tools reach the browser's DevTools endpoint after per-agent user consent. tools/phi-browser-skill (SKILL.md, scripts/lib/cdp.mjs) is an Agent Skill that drives agent Spaces: hidden windows on a chosen profile that the user can watch, take over and hand back, or off-screen shadow windows. Privacy and local-model statements are publisher claims.
 
 - 完整记录 JSON：https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/record.json
 

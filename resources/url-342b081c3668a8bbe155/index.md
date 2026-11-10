@@ -39,7 +39,7 @@ Features are task_id, instruction, type, apps, scenario, rubrics and human-refer
 - document: not recorded
 - weights: not recorded
 
-- data review: No data-license declaration is present in the inspected task card; companion code MIT does not establish a dataset grant.
+- data review: A data-license declaration is unrecorded in the inspected task card.
   Sources: https://huggingface.co/datasets/mikewang/mobile_eval_e/raw/b8eca82988ed8d4f9dec01eaa9d51abf4b35aa83/README.md
 
 ## Primary evidence

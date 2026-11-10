@@ -38,7 +38,7 @@ Yao Zhang, Shijie Tang, Zeyu Li, Zhen Han, Volker Tresp
 - Venue: International Conference on Learning Representations
 - Volume: 2026
 - Pages: 123661-123688
-- Date source: Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2026-04-20.
 - Identity basis: Same work: the same five authors in the same order, the same WebArbiter process reward model and WebPRMBench benchmark, and a publisher abstract that matches the retained arXiv v2 abstract apart from one figure. The proceedings PDF title page carries the retained arXiv title.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The landing page and its BibTeX title the paper WebArbiter: A Generative Reasoning Process Reward Model for Web Agents, while the proceedings PDF title page and arXiv read A Principle-Guided Reasoning Process Reward Model. The landing abstract reports a WebArena-Lite gain of up to 7.2 points, as arXiv v1 does; the PDF and the retained v2 report 6.4 points. Volume 2026 and pages 123661-123688 are explicit publisher citation metadata.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2026/hash/c8bd227b32b458970d3ab01a2c372055-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2026/file/c8bd227b32b458970d3ab01a2c372055-Paper-Conference.pdf

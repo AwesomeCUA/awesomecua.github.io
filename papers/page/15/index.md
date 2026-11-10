@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/15/ · [Previous page](https://awesomecua.com/papers/page/14/index.md) · [Next page](https://awesomecua.com/papers/page/16/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -2313,7 +2313,7 @@ Phil Cuvin, Hao Zhu, Diyi Yang
 - Venue: International Conference on Learning Representations
 - Volume: 2026
 - Pages: 95945-95977
-- Date source: Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2026-04-20.
 - Identity basis: Same work: the proceedings title is the retained arXiv title without its DECEPTICON: prefix, the same three authors appear in the same order, and the publisher abstract matches the arXiv abstract, including the 700-task DECEPTICON environment (600 generated and 100 real-world tasks).
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The proceedings title omits the DECEPTICON: prefix that the arXiv title carries. Volume 2026 and pages 95945-95977 are explicit publisher citation metadata.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2026/hash/9afca5107064eb89546fabb4abc379a7-Abstract-Conference.html

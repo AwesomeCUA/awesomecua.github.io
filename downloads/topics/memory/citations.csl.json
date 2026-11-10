@@ -592,7 +592,7 @@
           "See Kiong Ng",
           "Tat-Seng Chua"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8.",
         "date_parts": [
           2024,
           8
@@ -800,7 +800,7 @@
           "Liang-Yu Chen",
           "Ziwei Liu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -1100,7 +1100,7 @@
         ],
         "identity_basis": "Same work: exact title, the same four authors in the same order, and a publisher abstract that matches the arXiv abstract (workflow induction on Mind2Web and WebArena with 24.6% and 51.1% relative success-rate gains).",
         "issue": null,
-        "notes": "The landing page links the OpenReview forum NTAhi2JEEE and the code repository github.com/zorazrw/agent-workflow-memory. The publisher issue date comes from citation_publication_date; the conference date range 13--19 Jul 2025 is retained separately as an event date and does not replace it. Volume 267 and pages 63897-63911 are explicit publisher citation metadata. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "notes": "The landing page links the OpenReview forum NTAhi2JEEE and the code repository github.com/zorazrw/agent-workflow-memory. The publisher issue date comes from citation_publication_date; the conference date range 13--19 Jul 2025 is retained separately as an event date. Volume 267 and pages 63897-63911 are explicit publisher citation metadata. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
         "pages": "63897-63911",
         "pdf_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25bx/wang25bx.pdf",
         "publisher": "PMLR",
@@ -1231,7 +1231,7 @@
           "Ang Li",
           "Xin Wang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -1366,7 +1366,7 @@
           "Lu Chen",
           "Kai Yu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4.",
         "date_parts": [
           2025,
           4
@@ -1532,7 +1532,7 @@
           "Rogerio Bonatti",
           "Kazuhito Koishida"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -1631,7 +1631,7 @@
           "Chao Huang",
           "Junnan Li"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -2492,7 +2492,7 @@
           "Min Zhang",
           "Liqiang Nie"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7

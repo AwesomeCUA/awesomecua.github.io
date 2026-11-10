@@ -43,7 +43,7 @@ Dhananjay Ashok, Shantanu Agarwal, Vivek Datla, Jonathan May, Alfy Samuel
 - document: CC-BY-4.0 — https://arxiv.org/html/2610.02542v1
 - weights: not recorded
 
-- document review: The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0. This document declaration does not establish code, training-data or model-weight licenses.
+- document review: The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0.
   Sources: https://arxiv.org/html/2610.02542v1
 
 ## Primary evidence

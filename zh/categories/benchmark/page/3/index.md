@@ -4,6 +4,28 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/benchmark/index.md
 
+- [Inspect Evals](https://awesomecua.com/zh/resources/github-ukgovernmentbeis-inspect-evals/)：Inspect Evals 是面向 UK AISI Inspect 框架的社区评测基准套件，包含 OSWorld、GAIA、SWE-bench 以及网络安全和智能体评测。
+- [Intention-in-Interaction (IN3) & Mistral-Interact](https://awesomecua.com/zh/resources/github-openbmb-tell-me-more/)：提供 Intention-in-Interaction (IN3) 评测基准和 Mistral-Interact 模型，用于在智能体任务中主动澄清用户意图。
+- [Intentproof](https://awesomecua.com/zh/resources/github-egagofur-intentproof/)：由 AI 驱动的端到端验证编排工具和交互式浏览器测试框架。
+- [iOSWorld](https://awesomecua.com/zh/resources/github-ljang0-iosworld/)：iOSWorld 是原生 iPhone 模拟器基准，包含共享用户数据、应用工作流程、智能体运行器和基于评分细则的评分。
+- [jev-click-bench](https://awesomecua.com/zh/resources/github-arthurkatcher-jev-click-bench/)：jev-click-bench 使用官方评分方法和逐次点击日志，在 ScreenSpot-v2 和 ScreenSpot-Pro 上评测 Jev 1.14 的边界框定位。
+- [Kane](https://awesomecua.com/zh/resources/github-venkat5599-kane/)：面向 AI 构建的网页应用的通俗英语浏览器验证测试框架，将 UI 故障报告给编码智能体。
+- [Kernel Eval Protocol](https://awesomecua.com/zh/resources/github-kernel-kernel-eval-protocol-quickstart/)：使用 Eval Protocol、Kernel 云浏览器和可验证的任务评分器，评测并微调视觉语言浏览器智能体。
+- [LAST DOOR](https://awesomecua.com/zh/resources/github-agentsimdev-last-door/)：认证韧性评测基准和 WebMCP 权限编译器，用于测试浏览器智能体在登录及权限边界处的行为。
+- [LLM as a Judge for Computer-Use Agents](https://awesomecua.com/zh/resources/github-anaishowland-llm-judge-psai/)：LLM 充当评判者的评测测试框架，用于评估计算机使用智能体在网页浏览和桌面交互任务中的轨迹。
+- [LongPuzzleBench](https://awesomecua.com/zh/resources/github-bingozhang-verapraxis-longpuzzlebench/)：LongPuzzleBench 通过需要多步骤空间推理的长时程视觉解谜游戏，评测 GUI 和计算机使用智能体。
+- [LPS-Bench](https://awesomecua.com/zh/resources/github-tychenn-lps-bench/)：LPS-Bench 在良性及对抗性执行场景下，评测计算机使用智能体进行长程规划时的安全意识。
+- [MacArena](https://awesomecua.com/zh/resources/github-macpaw-macarena/)：MacArena 在可复现的在线 macOS 虚拟机环境中，通过跨应用桌面任务评测计算机使用智能体。
+- [MalURLBench](https://awesomecua.com/zh/resources/github-jiangyinger-malurlbench/)：MalURLBench 在 10 个真实网页场景中，评测基于 LLM 的网页智能体遭受网络钓鱼和恶意 URL 攻击时的脆弱性。
+- [MarketBench](https://awesomecua.com/zh/resources/github-santos-sanz-marketbench/)：MarketBench 是可复现的 WebMCP 评测基准，用于评测浏览器智能体在模拟市场中跨数周的经济决策。
+- [Maudslay](https://awesomecua.com/zh/resources/github-theo-ai-lab-maudslay/)：Maudslay 根据独立的后端和电子邮件真实结果，评测计算机使用智能体的发布就绪程度与 pass^k 可靠性。
+- [MCPWorld](https://awesomecua.com/zh/resources/github-saagent-mcpworld/)：结合计算机交互与工具访问的评估环境。
+- [MedSPOT](https://awesomecua.com/zh/resources/github-tajamul21-medspot/)：覆盖 10 款医学影像应用的连续式界面定位评测集，用于评估模型在多步骤工作流程中定位目标的能力，并提供评测脚本。
+- [mimiq](https://awesomecua.com/zh/resources/github-gojiplus-mimiq/)：mimiq 是动态端到端智能体模拟和网页 UI 评测运行器，集成 Cypress、Playwright 和 Stagehand。
+- [Mind2Web 2](https://awesomecua.com/zh/resources/github-osu-nlp-group-mind2web-2/)：长程智能体网页搜索基准，使用 Agent-as-a-Judge 框架评估随时间变化且有引文支持的答案，并提供开发集和测试集的评估脚本。
+- [Mirage (Adversarial Web Benchmark)](https://awesomecua.com/zh/resources/github-shushant17711-mirage/)：受控的对抗性网页环境，用于衡量自主浏览器智能体如何在欺骗性 UI 和提示陷阱下失败。
+- [MLA-Trust](https://awesomecua.com/zh/resources/github-thu-ml-mla-trust/)：统一评估框架，衡量多模态 LLM 智能体在交互式网页和移动 GUI 任务中的真实性、可控性、安全性与隐私表现。
+- [MM-SafetyBench](https://awesomecua.com/zh/resources/github-ai45lab-mm-safetybench/)：MM-SafetyBench 在 13 种场景中，使用与查询相关的对抗性图像和排版安全提示评测多模态大语言模型。
 - [MMInA](https://awesomecua.com/zh/resources/github-shulin16-mmina/)：基于 WebArena 环境的多模态网页任务，需在购物网站、Wikipedia 等站点间完成 1 至 10 跳的操作，用于测试长链推理。
 - [MMSearch-Plus](https://awesomecua.com/zh/resources/github-mmsearch-plus-mmsearch-plus/)：面向多模态网页智能体的评测集，含 311 道需反复检索图像与文本的视觉推理任务；仓库链接数据集并提供加载辅助程序。
 - [MobBench task definitions](https://awesomecua.com/zh/resources/url-b53e03a6e4ca4226d126/)：用于评估 MobA 的公开真机移动任务定义集，中文和英文任务材料以带版本号的 JSON 形式发布。
@@ -14,7 +36,6 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 - [MobileSafetyBench](https://awesomecua.com/zh/resources/github-jylee425-mobilesafetybench/)：MobileSafetyBench 是 Android 模拟器测试环境，借助 ADB 和 Appium 获取观察、执行操作并检查任务是否成功，同时评估移动设备控制智能体的安全性与有用性。
 - [MobileWorldBench](https://awesomecua.com/zh/resources/github-jacklishufan-mobileworld/)：MobileWorldBench 是评估移动智能体语义世界建模的基准，包含问答任务和由 GPT 评判的生成任务，并提供基于 AitW 及 AndroidControl 屏幕构建的训练数据。
 - [Navi-Bench](https://awesomecua.com/zh/resources/github-yutori-ai-navi-bench/)：Navi-Bench 通过直接在实时网站上执行的日常消费者任务，并使用确定性结果验证器，评测网页智能体。
-- [Next-Gen CAPTCHAs](https://awesomecua.com/zh/resources/github-metaagentx-nextgen-captchas/)：Next-Gen CAPTCHAs 提供交互式评测基准和认知差距 CAPTCHA 挑战生成器，用于防范 GUI 网页智能体。
 - [Nightshift](https://awesomecua.com/zh/resources/github-yayaq1-nightshift/)：运行于 Solari 的黑盒计算机使用质量检查测试框架，无需访问应用测试钩子即可评测实时用户界面。
 - [OmniWebBench](https://awesomecua.com/zh/resources/github-fanxutherealone-omniwebbench/)：OmniWebBench 从端到端网页导航、动作执行、故障恢复和证据核验等方面评测智能体浏览器。
 - [Open Operator Evals](https://awesomecua.com/zh/resources/github-nottelabs-open-operator-evals/)：Notte Labs 已归档的评测框架和结果，对 WebVoyager 的 30 项任务子集让网页智能体各运行八次，以 GPT-4o 截图评判器评分，并与智能体自报成功情况比较。
@@ -69,10 +90,8 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 - [Web Agent Comparison](https://awesomecua.com/zh/resources/github-pleasedodisturb-web-agent-comparison/)：可复现的 8 维评测基准，从延迟、token 开销和任务成功率等方面比较 7 个浏览器自动化 MCP 服务器。
 - [Web Context Bench (Python)](https://awesomecua.com/zh/resources/github-charlypoly-web-context-bench-python/)：基于本地页面的基准，比较 6 种浏览器表示在 token 用量、事实读取和目标元素选择上的表现，并采用确定性答案评分。
 - [web-agent-bench](https://awesomecua.com/zh/resources/github-nsosio-web-agent-bench/)：web-agent-bench 根据 Token 用量、延迟和任务完成情况，比较浏览器自动化测试框架（Playwright MCP、agent-browser、Stagehand）。
-- [web-agent-eval (REAL Benchmark Runner)](https://awesomecua.com/zh/resources/github-saarthak-yadav-web-agent-eval/)：在明确的步骤、token 和预算约束下，使用 REAL 评测基准中的 102 个复刻网站评测网页智能体。
 - [WebBench](https://awesomecua.com/zh/resources/github-halluminate-webbench/)：Halluminate 与 Skyvern 的实时网页基准，涵盖 452 个高流量网站上的读取、创建、更新、删除和文件下载任务，包括登录与表单填写，并发布各智能体的运行结果。
 - [WebGames](https://awesomecua.com/zh/resources/github-convergence-ai-webgames/)：包含 5 个能力领域的 150 个客户端网页挑战，设计为人类容易完成、浏览器操作智能体难以完成；每关解答后会显示密码。
-- [WebGen-Bench](https://awesomecua.com/zh/resources/github-mnluzimu-webgen-bench/)：WebGen-Bench 用自动化测试评估生成的网站，其中包括让界面智能体执行交互并检查结果。仓库提供评测代码和数据。
 - [WebGuard](https://awesomecua.com/zh/resources/github-osu-nlp-group-webguard/)：提供代码库、标注工具包和操作级风险数据集，用于训练和评估在执行前标记浏览器智能体不安全操作的防护模型。
 - [WebMall](https://awesomecua.com/zh/resources/github-wbsg-uni-mannheim-webmall/)：WebMall 是多商店电子商务网页智能体评测基准，评测跨网站比价、商品搜索和购物车结账。
 - [WebMCP Description Benchmarks](https://awesomecua.com/zh/resources/github-clouatre-labs-webmcp-description-benchmarks/)：WebMCP Description Benchmarks 评测浏览器内 WebMCP 工具的模式描述如何影响智能体选择工具和执行任务的准确率。

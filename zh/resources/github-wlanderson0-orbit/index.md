@@ -15,7 +15,7 @@
 
 ## 范围记录
 
-BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task and tests the local send condition. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.
+BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task and tests the local send condition. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration. No installation, release archive or live evaluation was tested.
 
 - 完整记录 JSON：https://awesomecua.com/resources/github-wlanderson0-orbit/record.json
 

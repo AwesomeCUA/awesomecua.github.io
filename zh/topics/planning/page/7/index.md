@@ -4,10 +4,14 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/planning/index.md
 
+- [Magma](https://awesomecua.com/zh/resources/github-microsoft-magma/)
+- [Mano-CUA-2.0-4B](https://awesomecua.com/zh/resources/url-1b08ff264bbf2f8a10a3/)
+- [OpenAI CUA](https://awesomecua.com/zh/resources/url-74eeb7c9fb20674fe6e2/)
 - [OpenCUA](https://awesomecua.com/zh/resources/github-xlang-ai-opencua/)
 - [OpenCUA 32B](https://awesomecua.com/zh/resources/url-ad7f176848fd84de64e2/)
 - [OpenCUA 72B](https://awesomecua.com/zh/resources/url-4a0b1692589594745a3c/)
 - [OpenCUA-7B](https://awesomecua.com/zh/resources/url-2803eda78cff23fb63cc/)
+- [OS-Atlas-Pro-4B](https://awesomecua.com/zh/resources/url-b87dd2aed7f4c1982b6b/)
 - [OTA-v1](https://awesomecua.com/zh/resources/url-404c719910f8f4a37149/)
 - [Plan-and-Act Actor 70B](https://awesomecua.com/zh/resources/url-8a284d122d7dcf23479d/)
 - [Plan-and-Act Planner 70B](https://awesomecua.com/zh/resources/url-3932d69c6b6f9b2a7ba8/)
@@ -19,6 +23,7 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/7/
 - [UI-Venus](https://awesomecua.com/zh/resources/github-inclusionai-ui-venus/)
 - [UI-Venus 2 9B](https://awesomecua.com/zh/resources/url-611df37e5f3caa6befd7/)
 - [WebThinker-QwQ-32B](https://awesomecua.com/zh/resources/url-e058cc2487a805f976fd/)
+- [WebThinker-R1-14B](https://awesomecua.com/zh/resources/url-7d198acee96b3ec197aa/)
 - [WebThinker-R1-32B](https://awesomecua.com/zh/resources/url-8076f65dc82b4dcea18c/)
 - [WebThinker-R1-7B](https://awesomecua.com/zh/resources/url-564c980a531e7204447c/)
 - [AbaoPal (阿宝Pal)](https://awesomecua.com/zh/resources/github-banye-technology-abaopal/)
@@ -58,9 +63,4 @@ HTML 页面：https://awesomecua.com/zh/topics/planning/page/7/
 - [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/zh/resources/github-momoyi0929-gui-agent/)
 - [Browser Operator](https://awesomecua.com/zh/resources/github-browseroperator-browser-operator-core/)
 - [Browserable](https://awesomecua.com/zh/resources/github-browserable-browserable/)
-- [BRYES (Brain-Eyes)](https://awesomecua.com/zh/resources/github-alvseek-bryes/)
-- [BugCraft](https://awesomecua.com/zh/resources/url-ec17d3267cd49548d2d4/)
-- [CAAP Agent](https://awesomecua.com/zh/resources/github-caap-agent-caap-agent/)
-- [CAD-Assistant](https://awesomecua.com/zh/resources/github-dimitrismallis-cad-assistant/)
-- [Caesar Agent](https://awesomecua.com/zh/resources/github-jasonzliang-caesar-agent/)
-- [Cappuccino](https://awesomecua.com/zh/resources/github-gml-fmgroup-cappuccino/)
+- [BrowserBee](https://awesomecua.com/zh/resources/github-parsaghaffari-browserbee/)

@@ -14,7 +14,7 @@ Research code that learns browser-control policies by constraining exploration w
 
 ## Limitations
 
-The released repository includes training policies, experiment configuration and a MiniWoB sandbox extended for the 2018 paper. This is the WGE implementation, a separate project from the Farama MiniWoB++ benchmark and original OpenAI MiniWoB release. Its documented dependency is PyTorch 0.1.12. Stanford code declares Apache-2.0; bundled third-party browser tasks and externally downloaded demonstration/embedding data retain their own terms.
+The released repository includes training policies, experiment configuration and a MiniWoB sandbox extended for the 2018 paper. This is the WGE implementation, a separate project from the Farama MiniWoB++ benchmark and original OpenAI MiniWoB release. Its documented dependency is PyTorch 0.1.12. Stanford code declares Apache-2.0.
 
 - Record JSON: https://awesomecua.com/resources/github-stanfordnlp-wge/record.json
 

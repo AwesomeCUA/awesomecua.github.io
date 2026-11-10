@@ -15,7 +15,7 @@
 
 ## 范围记录
 
-The public tree includes training configs, preprocessing, inference and serving examples. The project still marks release of all experiment/evaluation scripts as work in progress. This entry covers the implementation and its 3B/7B/32B model-size variants. The inspected project tree has no root source license; linked frameworks, data and checkpoints retain their own terms.
+The public tree includes training configs, preprocessing, inference and serving examples. The project still marks release of all experiment/evaluation scripts as work in progress. This entry covers the implementation and its 3B/7B/32B model-size variants. A root source license is unrecorded in the inspected project tree.
 
 - 完整记录 JSON：https://awesomecua.com/resources/github-tongui-agent-tongui-agent/record.json
 

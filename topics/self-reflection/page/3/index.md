@@ -4,12 +4,20 @@ HTML page: https://awesomecua.com/topics/self-reflection/page/3/
 
 Full list: https://awesomecua.com/topics/self-reflection/index.md
 
+- [Open Frame](https://awesomecua.com/resources/github-off-camber-open-frame/)
+- [OpenAmer Agent](https://awesomecua.com/resources/github-openamer-openamer/)
+- [OpenVINO Autonomous GUI Agent](https://awesomecua.com/resources/github-shehrozkashif-openvino-autonomous-gui-agent/)
+- [Orquestrador de Features](https://awesomecua.com/resources/github-gustavo-em-orchestrator-features/)
+- [OS-Symphony](https://awesomecua.com/resources/github-os-copilot-os-symphony/)
 - [Pactora](https://awesomecua.com/resources/github-mrnetwork0001-pactora/)
 - [PC-Agent (X-PLUG component)](https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/)
+- [PlayCoder](https://awesomecua.com/resources/github-tencent-playcoder/)
 - [Q-Reflector](https://awesomecua.com/resources/github-pockyitachi-q-reflector/)
+- [Q-Verifier / Q-Reflector](https://awesomecua.com/resources/github-pockyitachi-q-verifier/)
 - [QAgent](https://awesomecua.com/resources/github-rishabhcli-qagent/)
 - [RCI Agent](https://awesomecua.com/resources/github-posgnu-rci-agent/)
 - [Roubao](https://awesomecua.com/resources/github-turbo1123-roubao/)
+- [RSIGame](https://awesomecua.com/resources/github-wenyiwu0111-rsigame/)
 - [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/)
 - [Self-Healing Browser Agent](https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/)
 - [Self-MAP](https://awesomecua.com/resources/github-magicgh-self-map/)

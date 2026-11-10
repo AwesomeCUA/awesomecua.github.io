@@ -38,7 +38,7 @@ The card has license metadata only. The project training README supplies formatt
 - document: not recorded
 - weights: not recorded
 
-- data review: Publisher dataset-card license declaration; does not establish permissions for model weights or third-party application content.
+- data review: Publisher dataset-card license declaration for the released data.
   Sources: https://huggingface.co/datasets/BlitherBoom/AutoDroid-V2-Dataset/raw/main/README.md
 
 ## Primary evidence

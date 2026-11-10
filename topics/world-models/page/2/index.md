@@ -4,9 +4,11 @@ HTML page: https://awesomecua.com/topics/world-models/page/2/
 
 Full list: https://awesomecua.com/topics/world-models/index.md
 
+- [Dreamer-7B-Classifieds](https://awesomecua.com/resources/url-b7ccf7acb2e9d8a11853/)
 - [Dreamer-7B-Reddit](https://awesomecua.com/resources/url-dfa8047521d1f3b3aa54/)
 - [Dreamer-7B-Shopping](https://awesomecua.com/resources/url-3173abbb295c74d0e9ec/)
 - [gWorld (GuiWorld)](https://awesomecua.com/resources/github-trillion-labs-gworld/)
+- [gWorld-32B](https://awesomecua.com/resources/url-e44096836ef47bc66d9c/)
 - [gWorld-8B](https://awesomecua.com/resources/url-78802d1a2fce25f20f85/)
 - [jiamingzz/lgwm](https://awesomecua.com/resources/url-512cd7335068b2c17859/)
 - [Textual Foresight](https://awesomecua.com/resources/github-aburns4-textualforesight/)

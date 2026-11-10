@@ -204,8 +204,12 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Released dataset used to train PC-Agent-E, linked by the official pipeline for refining human trajectories and synthesizing action reasoning.
 - [PSAI Computer Use Dataset](https://awesomecua.com/zh/resources/github-anaishowland-computeruse-data-psai/) — Date not recorded
   PSAI Computer Use Dataset provides 3,167 human-computer interaction trajectories with synchronized screen video, input events, and DOM/AX snapshots.
+- [Regimes/androidcontrol-cl](https://awesomecua.com/zh/resources/url-461e9b8305356347077e/) — Date not recorded
+  AndroidControl-CL provides Android GUI screenshot trajectories and structured training and evaluation data for continual GUI learning.
 - [SATraj-OS](https://awesomecua.com/zh/resources/url-73b9b17648ea7af7aa8f/) — Date not recorded
   Desktop computer-use trajectories with per-step screenshots and success, safety and attack labels, split into capability runs, safe-completion and refusal runs, and a legacy RiOSWorld-derived safety archive.
+- [sharryXR/asil-training-data](https://awesomecua.com/zh/resources/url-e9423bcf01a8d6b078bc/) — Date not recorded
+  Training data for ASIL agents includes replayed action traces, guided supervision, and an evaluator-backed reinforcement-learning curriculum in JSONL and Parquet splits.
 - [ShowUI-π training data](https://awesomecua.com/zh/resources/url-3dab53c6c38c9e7217ea/) — Date not recorded
   Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, presentation, handwriting and other interface tasks.
 - [UI-Genie trajectory data](https://awesomecua.com/zh/resources/url-2e1927450da2183a5abe/) — Date not recorded
@@ -233,6 +237,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   A web-agent checkpoint fine-tuned from Qwen2.5-32B-Instruct using the AgentTrek trajectory-synthesis project. The release includes model weights.
 - [asil-qwen35-9b-sft](https://awesomecua.com/zh/resources/url-9960d240939244c3edaa/) — Date not recorded
   An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+- [DeskMind Brain](https://awesomecua.com/zh/resources/github-deskmind-ai-brain/) — Date not recorded
+  DeskMind Brain provides local models that choose the next macOS desktop action and return probabilities for typed decisions about targets and task completion.
 - [espetro/htlm-lfm2.5-350m](https://awesomecua.com/zh/resources/url-df38112df002157ce4b0/) — Date not recorded
   A fine-tuned LFM2.5-350M model that selects click, type, or select actions from an instruction and indexed web elements, with a GGUF file for browser inference.
 - [Go-Browse WebArena Qwen 7B](https://awesomecua.com/zh/resources/url-db1b7b7efe3755ae5693/) — Date not recorded
@@ -241,6 +247,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions and dialogue, predicting browser actions from a textual state representation.
 - [Llama8b-NNetNav-WA](https://awesomecua.com/zh/resources/url-c9d2a9288a568db12bd1/) — Date not recorded
   A Llama checkpoint trained on demonstrations gathered through WebArena exploration. It takes a task instruction and selects browser actions to navigate webpages.
+- [lumos_unified_plan_iterative-13B](https://awesomecua.com/zh/resources/url-eb6a5940793aa81153d0/) — Date not recorded
+  A Lumos planning checkpoint fine-tuned on web-agent, question-answering, multimodal and math tasks within a modular agent system.
 - [OpenMobile-8B](https://awesomecua.com/zh/resources/url-6616228d4f267363458e/) — Date not recorded
   Mobile agent checkpoint with a Qwen3-VL architecture, released with OpenMobile and fine-tuned on its synthesized Android trajectories; the code README serves it with vLLM for AndroidWorld evaluation.
 - [OpenWebVoyager/OpenWebVoyager-IL](https://awesomecua.com/zh/resources/url-725f9a8225f0f9c40d93/) — Date not recorded
@@ -279,6 +287,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   A Qwen2.5-VL-3B mobile GUI action model fine-tuned on AndroidControl, AMEX, AndroidLab and UI-Genie synthetic trajectories to predict app launches, taps, swipes, typing and system-button presses.
 - [UI-Genie Agent 7B](https://awesomecua.com/zh/resources/url-6d959b58bd4a2e98e417/) — Date not recorded
   A Qwen2.5-VL mobile action model trained using existing and reward-guided synthetic trajectories from the UI-Genie framework.
+- [UI-Voyager](https://awesomecua.com/zh/resources/url-e2ddf502803f46085aca/) — Date not recorded
+  A released mobile GUI agent checkpoint fine-tuned from Qwen3-VL-4B-Instruct to operate device interfaces, with AndroidWorld evaluation instructions.
 
 ## 工程与产业
 

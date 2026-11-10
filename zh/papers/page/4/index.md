@@ -2084,7 +2084,7 @@ Tingyu Qu, Weigao Sun, Yuecheng Liu, Yucheng Zhao, Yi Zhu, Yifeng Ding, Qiyi Wan
 - 文档：CC-BY-4.0 — https://arxiv.org/html/2609.29892v1
 - 权重：未记录
 
-- 文档审核：Record the paper-specific arXiv document declaration; it does not establish code, data or model-weight permissions.
+- 文档审核：The paper has an arXiv document declaration.
   来源：https://arxiv.org/html/2609.29892v1
 
 ### 一手证据

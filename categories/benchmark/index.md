@@ -2,11 +2,11 @@
 
 Computer-use benchmarks are task suites and environments that score agents operating web browsers, desktop applications or mobile devices. Each pairs a fixed set of tasks with an evaluator, such as execution-based state checks, answer matching or target localization.
 
-> 281 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
+> 300 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ## How to choose
 
@@ -17,21 +17,21 @@ Reviews are AI-assisted inspections of primary sources. Code, data, weights and 
 | [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) | Mobile | Interactive | [116 task definitions](https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md) | [Leaderboard](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0) |
 | [BrowserGym](https://awesomecua.com/resources/github-servicenow-browsergym/) | Web | Mixed | — | — |
 | [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/) | Desktop | Offline | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [Leaderboard](https://gui-agent.github.io/grounding-leaderboard) |
-| [Mind2Web](https://awesomecua.com/resources/github-osu-nlp-group-mind2web/) | Web | Offline | [1,009 task instances](https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md) | — |
+| [VisualWebArena](https://awesomecua.com/resources/github-web-arena-x-visualwebarena/) | Web | Interactive | [910 tasks](https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md) | — |
 
 ## Questions
 
 ### Which benchmarks are mentioned most in the catalog?
 
-[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) (60 records), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) (28 records) and [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) (21 records) are mentioned in the reviewed sources of the most other catalog records.
+[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) (60 records), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) (30 records) and [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) (21 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these benchmarks cover?
 
-Of 281 reviewed benchmarks, 193 are tagged web, 93 desktop, 40 mobile and 28 cross-platform; 11 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 300 reviewed benchmarks, 207 are tagged web, 94 desktop, 43 mobile and 28 cross-platform; 12 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which benchmarks have an official leaderboard?
 
-25 of 281 benchmarks link an official leaderboard from their reviewed source, including [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/), [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) and [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/).
+25 of 300 benchmarks link an official leaderboard from their reviewed source, including [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/), [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) and [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/).
 
 ### How many benchmarks are interactive and how many offline?
 
@@ -39,7 +39,7 @@ Of 94 benchmarks with a recorded protocol, 56 are interactive, 34 are offline an
 
 ### Which licenses do benchmarks declare?
 
-The most common declared licenses are MIT (115), Apache-2.0 (66) and CC-BY-4.0 (6). 86 of 281 have no declared license in their record.
+The most common declared licenses are MIT (118), Apache-2.0 (70) and CC-BY-4.0 (7). 96 of 300 have no declared license in their record.
 
 ---
 
@@ -275,6 +275,50 @@ Language, instruction style, and positive/negative target configuration are expl
 
 ---
 
+## VisualWebArena
+
+Visually grounded web tasks extending the WebArena evaluation setting.
+
+- Catalog URL: https://awesomecua.com/resources/github-web-arena-x-visualwebarena/
+- Original source: https://github.com/web-arena-x/visualwebarena
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, screen-understanding
+- Evidence checked: 2026-10-16T06:35:57Z
+- ID: github:web-arena-x/visualwebarena
+
+- Record JSON: https://awesomecua.com/resources/github-web-arena-x-visualwebarena/record.json
+
+### Structured profile
+
+- Actions / outputs: browser element actions
+- Evaluation: Execution-based completion checks for visually grounded web tasks.
+- Focus: multimodal web task completion
+- Observations: screenshots with set-of-mark annotations, caption-augmented accessibility tree
+- Setting: interactive
+
+#### Count observations
+
+- 910 tasks — full VWA suite (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
+- 233 human trajectories — one task from each template type (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
+
+The 233 demonstration trajectories and the full 910-task evaluation set are different populations. Observation modes and captioning components differ across baseline agents.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 182529c2fce1e41f3a2162727205c54da8b3d2381b2273d726170ee9d8cf65cc)
+
+---
+
 ## Mind2Web
 
 Human demonstrations and tasks for generalist web navigation research.
@@ -320,50 +364,6 @@ These are reported split inventories. Original Mind2Web, Multimodal-Mind2Web, an
 - https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 157dbd840264ea29f958c0b7383d63783845c573b3e19a1f39b773be22e0b32d)
 - https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 157dbd840264ea29f958c0b7383d63783845c573b3e19a1f39b773be22e0b32d)
 - https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 953ff47dbbc0c0563d1ec2d245b06d1206f2f38c4ed2f0da728e027ae2e5a973)
-
----
-
-## VisualWebArena
-
-Visually grounded web tasks extending the WebArena evaluation setting.
-
-- Catalog URL: https://awesomecua.com/resources/github-web-arena-x-visualwebarena/
-- Original source: https://github.com/web-arena-x/visualwebarena
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, screen-understanding
-- Evidence checked: 2026-10-16T06:35:57Z
-- ID: github:web-arena-x/visualwebarena
-
-- Record JSON: https://awesomecua.com/resources/github-web-arena-x-visualwebarena/record.json
-
-### Structured profile
-
-- Actions / outputs: browser element actions
-- Evaluation: Execution-based completion checks for visually grounded web tasks.
-- Focus: multimodal web task completion
-- Observations: screenshots with set-of-mark annotations, caption-augmented accessibility tree
-- Setting: interactive
-
-#### Count observations
-
-- 910 tasks — full VWA suite (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
-- 233 human trajectories — one task from each template type (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
-
-The 233 demonstration trajectories and the full 910-task evaluation set are different populations. Observation modes and captioning components differ across baseline agents.
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 182529c2fce1e41f3a2162727205c54da8b3d2381b2273d726170ee9d8cf65cc)
 
 ---
 
@@ -413,49 +413,49 @@ The benchmark uses predefined virtual-device images and apps chosen to work with
 
 ---
 
-## WebShop
+## WebVoyager
 
-Simulated shopping environment for instruction-following web agents.
+Multimodal web navigation agent and evaluation tasks on real websites.
 
-- Catalog URL: https://awesomecua.com/resources/github-princeton-nlp-webshop/
-- Original source: https://github.com/princeton-nlp/WebShop
+- Catalog URL: https://awesomecua.com/resources/github-minorjerry-webvoyager/
+- Original source: https://github.com/MinorJerry/WebVoyager
 - Kind: benchmark
 - Review: curated
 - Scope: core
 - Environments: web
 - Topics: evaluation, web-navigation
 - Evidence checked: 2026-10-16T06:35:57Z
-- ID: github:princeton-nlp/webshop
+- ID: github:minorjerry/webvoyager
 
-- Record JSON: https://awesomecua.com/resources/github-princeton-nlp-webshop/record.json
+- Record JSON: https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
 
 ### Structured profile
 
-- Actions / outputs: search queries, click actions, product option selection
-- Evaluation: not recorded
-- Focus: instruction-conditioned product selection, web navigation
-- Observations: HTML pages, simplified text views
+- Actions / outputs: Selenium-backed browser interactions
+- Evaluation: The repository supplies an automated multimodal-model evaluation protocol.
+- Focus: live-web task completion
+- Observations: webpage screenshots, textual task instructions
 - Setting: interactive
 
 #### Count observations
 
-- 12,087 instructions — crowd-sourced instruction collection (reported; source: https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md)
-- ≈ 1,180,000 products — full product inventory (reported; source: https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md)
+- 643 task queries — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
+- 15 websites — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
+- 90 tasks — separate GAIA validation-derived web subset (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
 
-This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations.
+The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/LICENSE.md
+- code: Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 79b7a90a1413a52deb53142b5bbd81ecf40f61743bd4601c2835e91375898ec0)
-- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 79b7a90a1413a52deb53142b5bbd81ecf40f61743bd4601c2835e91375898ec0)
-- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/LICENSE.md (retrieved 2026-10-16T06:41:58Z; SHA-256 8872dbf8660b00890b5e07ce1ea1f7a44fa7ae4e1857da56caba172b51dab3cb)
+- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5)
+- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
 
 ---
 
@@ -503,35 +503,6 @@ Counted unique identifiers in the inspected manifest. Normal and hard modes diff
 - https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/docs/Develop-Tasks.md (retrieved 2026-10-17T02:06:30Z; SHA-256 c565dc02ab0049bf9710b87e2760dda8d7c92268ea78f0354952695ab59c0de3)
 - https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json (retrieved 2026-10-17T02:06:30Z; SHA-256 902fb24cf0a9e146bf6c29288e74a7254fe40294e49dd47363e0b15d65608fef)
 - https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 9906940f61b1f0b533fa7d99baf55178b2808fbe113ea51dfbfad8572ccd5f2b)
-
----
-
-## Browser Use Benchmark (BU Bench)
-
-Browser Use Benchmark (BU Bench V2.1) evaluates browser agents across 200 real-world web navigation and interaction tasks.
-
-- Catalog URL: https://awesomecua.com/resources/github-browser-use-benchmark/
-- Original source: https://github.com/browser-use/benchmark
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation
-- Evidence checked: 2026-11-04T14:41:44Z
-- ID: github:browser-use/benchmark
-
-- Record JSON: https://awesomecua.com/resources/github-browser-use-benchmark/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/browser-use/benchmark/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 849a8da2e5e5c972ae5ab6f46620c740b3c2440add259650fa08cb4dfd9917aa)
 
 ---
 
@@ -589,49 +560,78 @@ Publisher-reported inventory. GUI-only, agent-user and MCP-augmented configurati
 
 ---
 
-## WebVoyager
+## WebShop
 
-Multimodal web navigation agent and evaluation tasks on real websites.
+Simulated shopping environment for instruction-following web agents.
 
-- Catalog URL: https://awesomecua.com/resources/github-minorjerry-webvoyager/
-- Original source: https://github.com/MinorJerry/WebVoyager
+- Catalog URL: https://awesomecua.com/resources/github-princeton-nlp-webshop/
+- Original source: https://github.com/princeton-nlp/WebShop
 - Kind: benchmark
 - Review: curated
 - Scope: core
 - Environments: web
 - Topics: evaluation, web-navigation
 - Evidence checked: 2026-10-16T06:35:57Z
-- ID: github:minorjerry/webvoyager
+- ID: github:princeton-nlp/webshop
 
-- Record JSON: https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
+- Record JSON: https://awesomecua.com/resources/github-princeton-nlp-webshop/record.json
 
 ### Structured profile
 
-- Actions / outputs: Selenium-backed browser interactions
-- Evaluation: The repository supplies an automated multimodal-model evaluation protocol.
-- Focus: live-web task completion
-- Observations: webpage screenshots, textual task instructions
+- Actions / outputs: search queries, click actions, product option selection
+- Evaluation: not recorded
+- Focus: instruction-conditioned product selection, web navigation
+- Observations: HTML pages, simplified text views
 - Setting: interactive
 
 #### Count observations
 
-- 643 task queries — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
-- 15 websites — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
-- 90 tasks — separate GAIA validation-derived web subset (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
+- 12,087 instructions — crowd-sourced instruction collection (reported; source: https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md)
+- ≈ 1,180,000 products — full product inventory (reported; source: https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md)
 
-The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
+This is a simulated shop. The default preview loads 1,000 products, while the full inventory is much larger; report the loaded subset and observation mode. Instructions and products are different populations.
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/LICENSE.md
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5)
-- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
+- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 79b7a90a1413a52deb53142b5bbd81ecf40f61743bd4601c2835e91375898ec0)
+- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 79b7a90a1413a52deb53142b5bbd81ecf40f61743bd4601c2835e91375898ec0)
+- https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/LICENSE.md (retrieved 2026-10-16T06:41:58Z; SHA-256 8872dbf8660b00890b5e07ce1ea1f7a44fa7ae4e1857da56caba172b51dab3cb)
+
+---
+
+## Browser Use Benchmark (BU Bench)
+
+Browser Use Benchmark (BU Bench V2.1) evaluates browser agents across 200 real-world web navigation and interaction tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-benchmark/
+- Original source: https://github.com/browser-use/benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-04T14:41:44Z
+- ID: github:browser-use/benchmark
+
+- Record JSON: https://awesomecua.com/resources/github-browser-use-benchmark/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browser-use/benchmark/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 849a8da2e5e5c972ae5ab6f46620c740b3c2440add259650fa08cb4dfd9917aa)
 
 ---
 
@@ -717,6 +717,51 @@ LMMs-Eval is a standardized evaluation harness for large multimodal models cover
 
 - https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/README.md (retrieved 2026-11-04T13:12:14Z; SHA-256 f14d00e5d467b739b9bbbbf03eacf78dbbd6f28ec65f74ee52939556e6f02e23)
 - https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE (retrieved 2026-11-04T13:41:32Z; SHA-256 17358b5caadacb8108f14a6a319779cc8a20feed699f79c59e396e7e9dd5c33b)
+
+---
+
+## Online Mind2Web
+
+300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
+
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/
+- Original source: https://github.com/OSU-NLP-Group/Online-Mind2Web
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-10-16T06:35:57Z
+- ID: github:osu-nlp-group/online-mind2web
+
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/record.json
+
+### Structured profile
+
+- Actions / outputs: web interactions
+- Evaluation: Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
+- Focus: live-web task completion
+- Observations: not recorded
+- Setting: interactive
+
+#### Count observations
+
+- 300 tasks — documented Online-Mind2Web suite (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
+- 136 websites — documented site coverage (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
+
+Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema because tasks are actively replaced when websites or requirements become invalid.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa)
+- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 93675f9d13697ae98889d703b8fae86a7200623e7ae8d844c9ee2200ad480583)
 
 ---
 
@@ -862,48 +907,33 @@ The card reports more than 100 websites. Grounding accuracy and task completion 
 
 ---
 
-## Online Mind2Web
+## DeskMind Bench
 
-300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
+DeskMind Bench provides sandboxed macOS desktop tasks, state graders, and reference trajectories for evaluating computer-use agents.
 
-- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/
-- Original source: https://github.com/OSU-NLP-Group/Online-Mind2Web
+- Catalog URL: https://awesomecua.com/resources/github-deskmind-ai-bench/
+- Original source: https://github.com/deskmind-ai/bench
 - Kind: benchmark
 - Review: curated
 - Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation
-- Evidence checked: 2026-10-16T06:35:57Z
-- ID: github:osu-nlp-group/online-mind2web
+- Environments: desktop, macos
+- Topics: evaluation, sandbox
+- Evidence checked: 2026-11-04T14:02:44Z
+- ID: github:deskmind-ai/bench
 
-- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/record.json
-
-### Structured profile
-
-- Actions / outputs: web interactions
-- Evaluation: Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
-- Focus: live-web task completion
-- Observations: not recorded
-- Setting: interactive
-
-#### Count observations
-
-- 300 tasks — documented Online-Mind2Web suite (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
-- 136 websites — documented site coverage (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
-
-Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema because tasks are actively replaced when websites or requirements become invalid.
+- Record JSON: https://awesomecua.com/resources/github-deskmind-ai-bench/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE
+- code: Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa)
-- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 93675f9d13697ae98889d703b8fae86a7200623e7ae8d844c9ee2200ad480583)
+- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/README.md (retrieved 2026-11-04T14:02:44Z; SHA-256 b2b3c0839d1286be08764abf1c747ac4c76a7e8d3ab8b25c28024abafac9c8e4)
+- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE (retrieved 2026-11-04T14:07:17Z; SHA-256 1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d)
 
 ---
 
@@ -934,6 +964,36 @@ openadapt-evals scores GUI agents and compiled workflows on benchmarks such as W
 
 - https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 f7c6b6da8b6fe579d9e4e576829c6daf4bd9611a5f134cf478fe85a0e2862156)
 - https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE (retrieved 2026-11-04T14:45:03Z; SHA-256 59aeac47ca72de18ba99dd38f0b2f9596b822f85e9cf816684369fadb6664e06)
+
+---
+
+## Plasmate Benchmarks
+
+Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
+
+- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
+- Original source: https://github.com/plasmate-labs/plasmate-benchmarks
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, efficiency
+- Evidence checked: 2026-11-04T13:12:31Z
+- ID: github:plasmate-labs/plasmate-benchmarks
+
+- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6)
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE (retrieved 2026-11-04T13:22:33Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
 
 ---
 
@@ -1309,6 +1369,40 @@ Definitions and instantiated tasks are different units. ServiceNow instance acce
 
 ---
 
+## BlenderWorld
+
+A benchmark of 223 Blender creation tasks with text, image, and video inputs. Agents submit editable projects for rendering and rubric-based evaluation.
+
+- Catalog URL: https://awesomecua.com/resources/url-883e7c46e883b005762c/
+- Original source: https://huggingface.co/datasets/Qwen/BlenderWorld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, science, tool-integration
+- Evidence checked: 2026-11-09T21:10:10Z
+- ID: url:883e7c46e883b005762c
+
+### Limitations
+
+The package includes task inputs, Blender environments, verifier code, and rubric data. Its Harbor setup calls for a GPU-capable Linux sandbox; the adapter and evaluator code is MIT licensed.
+
+- Record JSON: https://awesomecua.com/resources/url-883e7c46e883b005762c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/Qwen/BlenderWorld
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Qwen/BlenderWorld (retrieved 2026-11-09T21:10:10Z; SHA-256 dd659d8f6434ac87c396b423811baeb9679fb5a5831f822938caef08b33b8079)
+- https://huggingface.co/api/datasets/Qwen/BlenderWorld (retrieved 2026-11-09T21:10:10Z; SHA-256 dd659d8f6434ac87c396b423811baeb9679fb5a5831f822938caef08b33b8079)
+
+---
+
 ## CUA-Gym-Hub
 
 CUA-Gym-Hub provides 98 self-contained mock web applications with deterministic state verifiers as RL training and evaluation environments.
@@ -1336,36 +1430,6 @@ CUA-Gym-Hub provides 98 self-contained mock web applications with deterministic 
 
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/README.md (retrieved 2026-11-04T14:20:05Z; SHA-256 979699e12a3ee57f2059720cf2f22abbd42fd07a97896826522f9ec5ccb8e9c5)
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/LICENSE (retrieved 2026-11-04T14:23:33Z; SHA-256 4b90ed4baf4f3ac8df3e7e9bb4bb0cf758146d1ab716a687366cbee9f7418af4)
-
----
-
-## DeskMind Bench
-
-DeskMind Bench provides sandboxed macOS desktop tasks, state graders, and reference trajectories for evaluating computer-use agents.
-
-- Catalog URL: https://awesomecua.com/resources/github-deskmind-ai-bench/
-- Original source: https://github.com/deskmind-ai/bench
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: evaluation, sandbox
-- Evidence checked: 2026-11-04T14:02:44Z
-- ID: github:deskmind-ai/bench
-
-- Record JSON: https://awesomecua.com/resources/github-deskmind-ai-bench/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/README.md (retrieved 2026-11-04T14:02:44Z; SHA-256 b2b3c0839d1286be08764abf1c747ac4c76a7e8d3ab8b25c28024abafac9c8e4)
-- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE (retrieved 2026-11-04T14:07:17Z; SHA-256 1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d)
 
 ---
 
@@ -1598,6 +1662,40 @@ The split-ID inventory counts task IDs. Extra runtime/data dependencies and thir
 
 ---
 
+## MyPCBench
+
+A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.
+
+- Catalog URL: https://awesomecua.com/resources/github-ljang0-mypcbench/
+- Original source: https://github.com/ljang0/MyPCBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: evaluation, cross-app, sandbox, long-horizon
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:ljang0/mypcbench
+
+### Limitations
+
+The repository ships the harness, tasks, rubrics, persona metadata and documentation. The runnable VM is distributed separately as a Docker image and a qcow2 file; the README specifies Linux, KVM and QEMU for direct runs.
+
+- Record JSON: https://awesomecua.com/resources/github-ljang0-mypcbench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 5b82d77eeb655123ee6b287b23491d113bea762de0850e522e540a0fd4c768a3)
+- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE (retrieved 2026-11-09T06:13:33Z; SHA-256 1e18ae7e58d5f87ba1edec3967e53489879185d3b932f57f14308fd2014f3b80)
+
+---
+
 ## OSWorkerBench
 
 A desktop GUI-agent benchmark with 100 office tasks spanning 17 business tracks and 41 applications. It releases task and demonstration tables for evaluation with the UI-Mate harness.
@@ -1658,6 +1756,40 @@ OSWorld-MCP benchmarks computer-use agents on hybrid GUI interaction and Model C
 ### Primary evidence
 
 - https://raw.githubusercontent.com/X-PLUG/OSWorld-MCP/HEAD/README.md (retrieved 2026-11-04T13:12:43Z; SHA-256 6fd51bd79a5603e9513f84e69f98b8ca733cef762a8a2391bb287ae3698399ec)
+
+---
+
+## REAL
+
+A browser-agent evaluation toolkit with reproducible website replicas, task goals, an agent API, and a benchmarking harness.
+
+- Catalog URL: https://awesomecua.com/resources/github-agi-inc-real/
+- Original source: https://github.com/agi-inc/REAL
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, sandbox, web-navigation
+- Evidence checked: 2026-11-09T19:55:56Z
+- ID: github:agi-inc/real
+
+### Limitations
+
+The source includes SDK installation instructions and custom-agent examples. Evaluation requires browser dependencies and a model API key.
+
+- Record JSON: https://awesomecua.com/resources/github-agi-inc-real/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/README.md (retrieved 2026-11-09T19:55:56Z; SHA-256 b3ab8cc93c834bf26b59a67c3f0d30d30602f5f1aad1fe4a1f4864f263f87e79)
+- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE (retrieved 2026-11-09T14:20:31Z; SHA-256 229b91680e13d4ec18779fae8da1f75958703be023e14fb3149f8d96c1e254d6)
 
 ---
 
@@ -1859,6 +1991,40 @@ A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstr
 - https://raw.githubusercontent.com/McGill-NLP/weblinx-browsergym/297e5de4e773b8756b0d4c044f23d5075950dc3d/weblinx_browsergym/__init__.py (retrieved 2026-10-18T12:21:41Z; SHA-256 9f16aa5ee665b9d1b6eb36bd2b1c4303d53c1f0e7cb6b6b664fce03d389c7ab0)
 - https://raw.githubusercontent.com/McGill-NLP/weblinx/9a7e814ffaac36d36ae5291dc3407c530055e16f/README.md (retrieved 2026-10-18T12:21:41Z; SHA-256 15c3f1656afd861894b180bca7d9214b4cf78a6ad9cd0601c80f5d67d2839528)
 - https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md (retrieved 2026-10-18T12:21:40Z; SHA-256 15791d57bbcc8d4c5c88a8a3f5316ed72bc1e2ace939b1fb8dd6039b9a7b0d8b)
+
+---
+
+## WebRetriever
+
+A web-agent benchmark with navigation, documentation-guided navigation and end-to-end information-extraction protocols across 1,550 tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-e96228937fdb3bc51531/
+- Original source: https://huggingface.co/datasets/Mininglamp-2718/WebRetriever
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, workflow
+- Evidence checked: 2026-11-09T21:09:04Z
+- ID: url:e96228937fdb3bc51531
+
+### Limitations
+
+The repository lists three protocol JSON files. The page says access to file content requires accepting its conditions and declares a CC BY 4.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-e96228937fdb3bc51531/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Mininglamp-2718/WebRetriever (retrieved 2026-11-09T21:09:04Z; SHA-256 2d969c171d618bd202d1aa360b929d48d2b09c35f0fceb60d3a2a1a6f09be65c)
+- https://huggingface.co/api/datasets/Mininglamp-2718/WebRetriever (retrieved 2026-11-09T21:09:04Z; SHA-256 2d969c171d618bd202d1aa360b929d48d2b09c35f0fceb60d3a2a1a6f09be65c)
 
 ---
 
@@ -2262,6 +2428,39 @@ Android GUI benchmark dataset from Step-GUI containing 3,146 static action evalu
 
 ---
 
+## AppControlBench
+
+AppControlBench evaluates agents on iOS app tasks in a simulator, grading final screenshots and publishing task definitions and run records.
+
+- Catalog URL: https://awesomecua.com/resources/github-software-mansion-app-control-bench/
+- Original source: https://github.com/software-mansion/app-control-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: ios
+- Topics: evaluation, mobile-navigation
+- Evidence checked: 2026-11-09T21:09:09Z
+- ID: github:software-mansion/app-control-bench
+
+### Limitations
+
+The README describes 60 tasks across Bluesky and Element iOS and a matrix of 720 runs. It says each run uses a fresh simulator clone.
+
+- Record JSON: https://awesomecua.com/resources/github-software-mansion-app-control-bench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/software-mansion/app-control-bench/HEAD/README.md (retrieved 2026-11-09T21:09:09Z; SHA-256 2d40459d39c1e9342b1aa85cca2e3cb396290ffa8b43182b3f4896463a10f6d3)
+
+---
+
 ## AppWorld
 
 Simulated applications, user data, and state-based task checks for evaluating agents that interact through APIs and code.
@@ -2309,6 +2508,40 @@ This is an adjacent API/coding benchmark. Preserve the named release; task count
 - https://raw.githubusercontent.com/stonybrooknlp/appworld/HEAD/README.md (retrieved 2026-10-16T10:45:03Z; SHA-256 f4049141b6e520217395b7ccd9f27048c8e0f90331690dcbef300d2bc4ff7bdd)
 - https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
 - https://raw.githubusercontent.com/StonyBrookNLP/appworld/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## ASIL Benchmark
+
+ASIL Benchmark releases indexed software-agent tasks for single-application and multi-application evaluation, with task definitions and public assets.
+
+- Catalog URL: https://awesomecua.com/resources/url-9b01ef4cc50d241ff34a/
+- Original source: https://huggingface.co/datasets/sharryXR/asil-benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, cross-app
+- Evidence checked: 2026-11-09T21:08:39Z
+- ID: url:9b01ef4cc50d241ff34a
+
+### Limitations
+
+The card lists main, multi-application, hard, and easier task indexes under evaluation_examples/. It declares a CC BY 4.0 license; training data and runtime images are separate releases.
+
+- Record JSON: https://awesomecua.com/resources/url-9b01ef4cc50d241ff34a/record.json
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/sharryXR/asil-benchmark
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/sharryXR/asil-benchmark (retrieved 2026-11-09T21:08:39Z; SHA-256 dfd90aac095ca49cd7b5e6bba4b3f5aa7b3dfcb0b1d523762b1bfc7a67800dad)
+- https://huggingface.co/api/datasets/sharryXR/asil-benchmark (retrieved 2026-11-09T21:08:39Z; SHA-256 dfd90aac095ca49cd7b5e6bba4b3f5aa7b3dfcb0b1d523762b1bfc7a67800dad)
 
 ---
 
@@ -2379,6 +2612,74 @@ The repository includes a Python package and documentation for dataset, submissi
 
 ---
 
+## Browser AI Agent — live-web benchmark audit
+
+An archived audit of live website tasks for web-agent evaluation, with task subsets and scripts that examine site decay, access barriers, and measurement errors.
+
+- Catalog URL: https://awesomecua.com/resources/github-saarthak-yadav-browser-agent-webvoyager/
+- Original source: https://github.com/saarthak-yadav/browser-agent-webvoyager
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, robustness, web-navigation, history
+- Evidence checked: 2026-11-09T21:09:38Z
+- ID: github:saarthak-yadav/browser-agent-webvoyager
+
+### Limitations
+
+The repository includes audit artifacts, subset rules, Playwright scripts, and tests. Its README says the planned agent did not produce a pass rate. Code is MIT licensed; included task files retain their upstream licenses.
+
+- Record JSON: https://awesomecua.com/resources/github-saarthak-yadav-browser-agent-webvoyager/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/saarthak-yadav/browser-agent-webvoyager/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/saarthak-yadav/browser-agent-webvoyager/HEAD/README.md (retrieved 2026-11-09T21:09:38Z; SHA-256 be9c2510bdf218a5c0c71b82fc0ec292e93226f950d5cd3ed206e3b40794f34b)
+- https://raw.githubusercontent.com/saarthak-yadav/browser-agent-webvoyager/HEAD/LICENSE (retrieved 2026-11-09T21:11:53Z; SHA-256 080d93a39040f6bdcc157f8a9bda0c8f5f68dc54b16b00db1175da9c6f45b2f0)
+
+---
+
+## BrowserGym-Knows
+
+A BrowserGym fork for evaluating agents on Google Workspace tasks performed in Chromium, with task results graded through Workspace APIs.
+
+- Catalog URL: https://awesomecua.com/resources/github-farhanishmam-browsergym-knows/
+- Original source: https://github.com/farhanishmam/BrowserGym-Knows
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, workflow
+- Evidence checked: 2026-11-09T21:09:42Z
+- ID: github:farhanishmam/browsergym-knows
+
+### Limitations
+
+The setup uses companion repositories as submodules. It requires a Google account, a service account for grading and model API keys.
+
+- Record JSON: https://awesomecua.com/resources/github-farhanishmam-browsergym-knows/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/farhanishmam/BrowserGym-Knows/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/farhanishmam/BrowserGym-Knows/HEAD/README.md (retrieved 2026-11-09T21:09:42Z; SHA-256 018c86069ef7a83a2a257b104c2b3918b030369d9d2329ac9d256c2c2b3f208f)
+- https://raw.githubusercontent.com/farhanishmam/BrowserGym-Knows/HEAD/LICENSE (retrieved 2026-11-09T21:11:59Z; SHA-256 b192c58991e8ff585cc574615d40e74185404d4b96c1109d423071ab1367344b)
+
+---
+
 ## ClawBench
 
 Everyday-task benchmark on live websites that runs browser agents in containerized Chromium, blocks each final submission request for scoring by URL match and an LLM judge, and records five layers of run evidence.
@@ -2436,6 +2737,103 @@ The README says two ASPCA tasks were removed after publication, so the shipped c
 
 ---
 
+## Co-Design Bench
+
+Co-Design Bench evaluates application revisions made by coding agents from multimodal requests, checking requirements against source code and browser evidence.
+
+- Catalog URL: https://awesomecua.com/resources/github-wiselnn570-co-design-bench/
+- Original source: https://github.com/Wiselnn570/Co-Design-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, ui-design, screen-understanding
+- Evidence checked: 2026-11-09T21:09:08Z
+- ID: github:wiselnn570/co-design-bench
+
+### Limitations
+
+The README describes a public Multimodal Editing subset with 96 tasks and 521 acceptance criteria, plus scoring and judging commands. Dataset archives are distributed separately; the reference judge requires an authenticated Claude CLI, Node.js, Playwright, and Chromium.
+
+- Record JSON: https://awesomecua.com/resources/github-wiselnn570-co-design-bench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Wiselnn570/Co-Design-Bench/HEAD/README.md (retrieved 2026-11-09T21:09:08Z; SHA-256 c7c4f4c3953ec95db5efe4a07866aa01ed05de9ad2cf2b7937bc72b3cf20da9a)
+
+---
+
+## Co-Design Bench
+
+Co-Design Bench evaluates application revisions from multimodal requests using 96 editing tasks with annotated screenshots and 521 criteria checked against source and browser evidence.
+
+- Catalog URL: https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/
+- Original source: https://huggingface.co/datasets/Wiselnn/Co-Design-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, ui-design, screen-understanding
+- Evidence checked: 2026-11-09T21:10:15Z
+- ID: url:7cfe1cd1a61d7ebfd083
+
+### Limitations
+
+The release describes solver and evaluation archives, Parquet task and rubric indexes, and a separate code package for preparing, judging, and scoring submissions.
+
+- Record JSON: https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Wiselnn/Co-Design-Bench (retrieved 2026-11-09T21:10:15Z; SHA-256 999f23474c0196074ede24093fc38629e23e02db9ef6c6bf151718386d0233a5)
+- https://huggingface.co/api/datasets/Wiselnn/Co-Design-Bench (retrieved 2026-11-09T21:10:15Z; SHA-256 999f23474c0196074ede24093fc38629e23e02db9ef6c6bf151718386d0233a5)
+
+---
+
+## CodexQA
+
+Suite of 11 local-first QA Agent Skills for Cursor, Claude Code, and Codex to verify live web and desktop user journeys.
+
+- Catalog URL: https://awesomecua.com/resources/github-openqa-cn-codexqa/
+- Original source: https://github.com/openqa-cn/codexqa
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, web-navigation, tool-integration, workflow
+- Evidence checked: 2026-11-04T18:11:44Z
+- ID: github:openqa-cn/codexqa
+
+- Record JSON: https://awesomecua.com/resources/github-openqa-cn-codexqa/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/openqa-cn/codexqa/main/README.md (retrieved 2026-11-04T18:11:44Z; SHA-256 c4021c817fba23ac4172c2024e996fe9b00751c5cfecec6c83a64fe3a758f092)
+- https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE (retrieved 2026-11-04T18:16:07Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
 ## CUAVerifierBench
 
 Human-annotated browser-agent trajectories for comparing automated task-success and process-quality verifiers against reviewer judgments.
@@ -2490,6 +2888,40 @@ Trajectory rows and reviewer rows have different grains. The released Parquet fi
 
 ---
 
+## Dev Browser Eval
+
+Dev Browser Eval compares three browser automation methods on tasks in a game-tracker web application and generates a report from repeated runs.
+
+- Catalog URL: https://awesomecua.com/resources/github-sawyerhood-dev-browser-eval/
+- Original source: https://github.com/SawyerHood/dev-browser-eval
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-09T21:08:54Z
+- ID: github:sawyerhood/dev-browser-eval
+
+### Limitations
+
+The setup script clones the game-tracker repository, copies a local environment file, and installs dependencies. The README lists dev-browser, playwright-skill, and playwright-mcp as methods.
+
+- Record JSON: https://awesomecua.com/resources/github-sawyerhood-dev-browser-eval/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/SawyerHood/dev-browser-eval/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SawyerHood/dev-browser-eval/HEAD/README.md (retrieved 2026-11-09T21:08:54Z; SHA-256 96658b39ac860470dbfd7cc842a095995ae1025c3a2b963d730cbaa24a7a9b3f)
+- https://raw.githubusercontent.com/SawyerHood/dev-browser-eval/HEAD/LICENSE (retrieved 2026-11-09T21:11:18Z; SHA-256 03d74e251e5e0908889933e57337de443989b87a8f43cc6377d21350bdb77316)
+
+---
+
 ## FedMABench
 
 A federated mobile-agent training and evaluation suite that varies user-data heterogeneity and application distribution, with released partition annotations and inference/scoring scripts.
@@ -2540,6 +2972,134 @@ The dataset-family count measures dataset families. Code and data licenses are u
 - https://api.github.com/repos/wwh0411/FedMABench/git/trees/master?recursive=1 (retrieved 2026-10-17T11:22:54Z; SHA-256 4fb977a469cee3d5083da0b5bf2984fedc6b867146a90b20963985e08f9e9716)
 - https://huggingface.co/api/datasets/wwh0411/FedMABench (retrieved 2026-10-17T11:23:06Z; SHA-256 df5379f4a9b350dad0c3d374d2f9a1d6eacd974b6d54750e2a14ecec1faec6e5)
 - https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md (retrieved 2026-10-17T11:23:06Z; SHA-256 2874269995d8c9f5dabe266433ecf724bf54c27af599d899f3f0090b8ee37cdc)
+
+---
+
+## FronTalk
+
+FronTalk benchmarks multi-turn website coding from text and visual instructions. It supplies dialogue tasks and test cases, with a web agent used to evaluate generated sites.
+
+- Catalog URL: https://awesomecua.com/resources/github-shirley-wu-frontalk/
+- Original source: https://github.com/shirley-wu/frontalk
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, ui-design, web-navigation
+- Evidence checked: 2026-11-09T21:09:09Z
+- ID: github:shirley-wu/frontalk
+
+### Limitations
+
+The README reports 100 dialogues, 1000 turns and 3676 test cases. The repository includes data.jsonl, inference scripts and evaluation scripts; the documented setup may require Chrome and ChromeDriver.
+
+- Record JSON: https://awesomecua.com/resources/github-shirley-wu-frontalk/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/shirley-wu/frontalk/HEAD/README.md (retrieved 2026-11-09T21:09:09Z; SHA-256 fd6fd0a3ae9772be5f0ade679e403044db589deb744768bfd63133dad804a02a)
+
+---
+
+## GA-Technical-Report
+
+Evaluation materials for GenericAgent cover web browsing and other agent tasks, with benchmark folders documenting setup, protocols, and reproduction.
+
+- Catalog URL: https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/
+- Original source: https://github.com/JinyiHan99/GA-Technical-Report
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-09T21:10:35Z
+- ID: github:jinyihan99/ga-technical-report
+
+### Limitations
+
+The repository also contains a technical report PDF. The runnable agent is linked in a separate source-code repository.
+
+- Record JSON: https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/JinyiHan99/GA-Technical-Report/HEAD/README.md (retrieved 2026-11-09T21:10:35Z; SHA-256 cf4a3da62848163b6c4c48390f2924f14cd4b5fc017c02c2ac07657ecaf7cf9f)
+
+---
+
+## GameWorld
+
+GameWorld provides a standardized browser-based evaluation suite for multimodal game agents across 34 games and 170 verifiable tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-gameworld-project-gameworld/
+- Original source: https://github.com/gameworld-project/GameWorld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, action-prediction, planning
+- Evidence checked: 2026-11-04T14:02:40Z
+- ID: github:gameworld-project/gameworld
+
+- Record JSON: https://awesomecua.com/resources/github-gameworld-project-gameworld/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gameworld-project/GameWorld/HEAD/README.md (retrieved 2026-11-04T14:02:40Z; SHA-256 a20fdc3d534295ba721ce7c12b121f03b56a0ededb9f2eacc40d5aefa56da624)
+
+---
+
+## GameWorld Games
+
+GameWorld Games supplies browser-game snapshots for agent evaluation, each with an API for initialization, reset and game-state inspection.
+
+- Catalog URL: https://awesomecua.com/resources/github-gameworld-project-gameworld-games/
+- Original source: https://github.com/gameworld-project/GameWorld-Games
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, sandbox, state-tracking
+- Evidence checked: 2026-11-09T21:09:44Z
+- ID: github:gameworld-project/gameworld-games
+
+### Limitations
+
+The source lists 34 games under benchmark directories and shows a JSON-safe window.gameAPI interface. It restricts the assets to educational and research purposes.
+
+- Record JSON: https://awesomecua.com/resources/github-gameworld-project-gameworld-games/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gameworld-project/GameWorld-Games/HEAD/README.md (retrieved 2026-11-09T21:09:44Z; SHA-256 02fa6d682de1a5589e481a0754b0a36c6ca34e55faa5e856a2b7f01ad0e94c89)
 
 ---
 
@@ -2640,7 +3200,7 @@ Trajectories, screenshots and annotations are different units and are counted se
 - document: not recorded
 - weights: not recorded
 
-- data review: Publisher dataset-card declaration for this release; it does not establish rights to the applications, websites and personal content shown in the screenshots.
+- data review: Publisher dataset-card declaration for this release.
   Sources: https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md
 
 ### Primary evidence
@@ -2746,6 +3306,40 @@ The README reports 100 real-time minigames with non-real-time counterparts, five
 
 - https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/README.md (retrieved 2026-11-09T19:57:06Z; SHA-256 cb6c110b595d725b0dca10f598158e8c5e98b1a64e683c4bb5160a9c20397223)
 - https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/LICENSE (retrieved 2026-11-09T14:20:51Z; SHA-256 813d1fbc50ef21c3581c6cfd5733aed82db3b5850042fde0629db45afa6d082e)
+
+---
+
+## Halluminate Westworld
+
+Halluminate Westworld evaluates web agents on tasks set in realistic websites and provides task loading, a manual demo and evaluator interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/github-halluminate-westworld/
+- Original source: https://github.com/Halluminate/westworld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, sandbox
+- Evidence checked: 2026-11-09T21:09:49Z
+- ID: github:halluminate/westworld
+
+### Limitations
+
+The source links a Hugging Face task dataset. Its demo requires browser support and an API key for simulated environments.
+
+- Record JSON: https://awesomecua.com/resources/github-halluminate-westworld/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/README.md (retrieved 2026-11-09T21:09:49Z; SHA-256 20455fb9e6f65fd921eb20b8de96bda4e1c996487b10904972ffb901e5f7a734)
+- https://raw.githubusercontent.com/Halluminate/westworld/HEAD/LICENSE (retrieved 2026-11-09T21:12:08Z; SHA-256 db2802dd8e3073d4d30d53e8195c98047c3a53998177460a3d7d1357974f02a1)
 
 ---
 
@@ -3028,6 +3622,39 @@ The repository includes task files, agent adapters, evaluation scripts, and inst
 
 ---
 
+## Magnitude WebVoyager Benchmark Results
+
+A WebVoyager evaluation release for the Magnitude browser agent, including reported task results, task patches and reproduction instructions.
+
+- Catalog URL: https://awesomecua.com/resources/github-magnitudedev-webvoyager/
+- Original source: https://github.com/magnitudedev/webvoyager
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-09T21:09:58Z
+- ID: github:magnitudedev/webvoyager
+
+### Limitations
+
+The repository links to run results and includes patches.json for updated or removed WebVoyager tasks. Its performance figures are the authors' reported results.
+
+- Record JSON: https://awesomecua.com/resources/github-magnitudedev-webvoyager/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/magnitudedev/webvoyager/HEAD/README.md (retrieved 2026-11-09T21:09:58Z; SHA-256 5b39c1ad16cacd674666b689bd71f1fabc61f72df1549f26999a7c45bf2e99a7)
+
+---
+
 ## Mobile-Bench-v2 released data
 
 Offline mobile-agent task data spanning common tasks and released noisy, contaminated and ambiguous-instruction subsets.
@@ -3182,37 +3809,67 @@ The task count was checked against unique task_id values in the published manife
 
 ---
 
-## MyPCBench
+## MWMBench
 
-A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.
+MWMBench evaluates mobile GUI world models by asking them to predict the next screen from a screenshot and coordinate action.
 
-- Catalog URL: https://awesomecua.com/resources/github-ljang0-mypcbench/
-- Original source: https://github.com/ljang0/MyPCBench
+- Catalog URL: https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/
+- Original source: https://huggingface.co/datasets/trillionlabs/MWMBench
 - Kind: benchmark
 - Review: curated
 - Scope: core
-- Environments: desktop, linux, web
-- Topics: evaluation, cross-app, sandbox, long-horizon
-- Evidence checked: 2026-11-09T06:16:33Z
-- ID: github:ljang0/mypcbench
+- Environments: android
+- Topics: evaluation, world-models, mobile-navigation
+- Evidence checked: 2026-11-09T21:10:03Z
+- ID: url:a3ea3a844de7dd8a6792
 
 ### Limitations
 
-The repository ships the harness, tasks, rubrics, persona metadata and documentation. The runnable VM is distributed separately as a Docker image and a qcow2 file; the README specifies Linux, KVM and QEMU for direct runs.
+The card documents screenshot, next-screenshot and action-prompt fields, a train split and an Apache-2.0 license. It identifies the gWorld paper as its introduction.
 
-- Record JSON: https://awesomecua.com/resources/github-ljang0-mypcbench/record.json
+- Record JSON: https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/trillionlabs/MWMBench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/trillionlabs/MWMBench (retrieved 2026-11-09T21:10:03Z; SHA-256 1aaae08e85dd73b94273f198ba322210384e5dcabfd4999afb50b0471ec04079)
+- https://huggingface.co/api/datasets/trillionlabs/MWMBench (retrieved 2026-11-09T21:10:03Z; SHA-256 1aaae08e85dd73b94273f198ba322210384e5dcabfd4999afb50b0471ec04079)
+
+---
+
+## Next-Gen CAPTCHAs
+
+Next-Gen CAPTCHAs provides an interactive benchmark and generator of cognitive-gap CAPTCHA challenges for defending against GUI web agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/
+- Original source: https://github.com/MetaAgentX/NextGen-CAPTCHAs
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, web-navigation
+- Evidence checked: 2026-11-04T13:12:24Z
+- ID: github:metaagentx/nextgen-captchas
+
+- Record JSON: https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 5b82d77eeb655123ee6b287b23491d113bea762de0850e522e540a0fd4c768a3)
-- https://raw.githubusercontent.com/ljang0/MyPCBench/HEAD/LICENSE (retrieved 2026-11-09T06:13:33Z; SHA-256 1e18ae7e58d5f87ba1edec3967e53489879185d3b932f57f14308fd2014f3b80)
+- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/README.md (retrieved 2026-11-04T13:12:24Z; SHA-256 44711dbb604684fdb67fe1214f65eca22368dfb1f2599304c75ce87e24b280ba)
+- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE (retrieved 2026-11-04T13:22:28Z; SHA-256 d009312b46edeace3d9fa5a66a6b11e71b78701aa1f2d1085500033b87821feb)
 
 ---
 
@@ -3354,6 +4011,39 @@ The repository includes task definitions, tool adapters, runner scripts and save
 
 ---
 
+## Open CaptchaWorld
+
+Open CaptchaWorld evaluates multimodal web agents on interactive CAPTCHA puzzles through a web interface, with puzzle data, answer checks and recorded results.
+
+- Catalog URL: https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/
+- Original source: https://github.com/MetaAgentX/OpenCaptchaWorld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, screen-understanding, safety-security
+- Evidence checked: 2026-11-09T21:08:36Z
+- ID: github:metaagentx/opencaptchaworld
+
+### Limitations
+
+The README describes puzzle images and ground-truth files, a Flask application, API endpoints and a benchmark CLI. It links the project to its research paper.
+
+- Record JSON: https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MetaAgentX/OpenCaptchaWorld/HEAD/README.md (retrieved 2026-11-09T21:08:36Z; SHA-256 782dab58f840519c2255664e35151d5c442754d5b96456734be026c2a147378a)
+
+---
+
 ## OpenAgentSafety
 
 A benchmark for agent safety in multi-step simulations involving browser, filesystem, terminal and messaging tools. It tests responses to ambiguous, conflicting and adversarial instructions.
@@ -3423,7 +4113,7 @@ The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior I
 - 10 task IDs — released injection task-ID list; before injection/goal expansion (computed) (computed; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json)
 - 50 task IDs — released misbehavior task-ID list; before injection/goal expansion (computed) (computed; source: https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json)
 
-README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.
+README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Apache-2.0 covers the code. Publisher asks that the benchmark not be used directly as agent training data.
 
 ### License declarations
 
@@ -3506,33 +4196,36 @@ The README gives evaluation scripts for personalized execution, proactive sugges
 
 ---
 
-## Plasmate Benchmarks
+## PhoneHarness
 
-Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
+PhoneHarness evaluates Android phone agents that combine GUI actions with device commands and host tools. It provides a runtime, a benchmark runner subset and trace-based checks of task outcomes.
 
-- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
-- Original source: https://github.com/plasmate-labs/plasmate-benchmarks
+- Catalog URL: https://awesomecua.com/resources/github-phoneharness-phoneharness/
+- Original source: https://github.com/PhoneHarness/PhoneHarness
 - Kind: benchmark
 - Review: curated
 - Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation, efficiency
-- Evidence checked: 2026-11-04T13:12:31Z
-- ID: github:plasmate-labs/plasmate-benchmarks
+- Environments: android
+- Topics: evaluation, mobile-navigation, tool-integration, observability
+- Evidence checked: 2026-11-09T21:10:25Z
+- ID: github:phoneharness/phoneharness
 
-- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
+### Limitations
+
+The README names Android emulators, a GUI worker, JSONL traces and HTML viewers. It points to a separate Hugging Face benchmark dataset and requires locally obtained apps and model endpoint credentials.
+
+- Record JSON: https://awesomecua.com/resources/github-phoneharness-phoneharness/record.json
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
+- code: not recorded
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6)
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE (retrieved 2026-11-04T13:22:33Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
+- https://raw.githubusercontent.com/PhoneHarness/PhoneHarness/HEAD/README.md (retrieved 2026-11-09T21:10:25Z; SHA-256 73e0a238aac7161c80d4c3a86d0afa4abea646fd371e8b2649218ce096b36894)
 
 ---
 
@@ -3592,40 +4285,6 @@ PowerPoint creation and editing benchmark with API-based execution and checks of
 
 - https://raw.githubusercontent.com/gydpku/PPTC/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 63349e7557bd99240d4628de3994a53b69e54e3bd809895be11e9879bfba40cb)
 - https://raw.githubusercontent.com/gydpku/PPTC/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 f872ff2b1a064f46a45eee86f2cb2562fc0513285b80036c6cf7df9a5ffc6c70)
-
----
-
-## REAL
-
-A browser-agent evaluation toolkit with reproducible website replicas, task goals, an agent API, and a benchmarking harness.
-
-- Catalog URL: https://awesomecua.com/resources/github-agi-inc-real/
-- Original source: https://github.com/agi-inc/REAL
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, sandbox, web-navigation
-- Evidence checked: 2026-11-09T19:55:56Z
-- ID: github:agi-inc/real
-
-### Limitations
-
-The source includes SDK installation instructions and custom-agent examples. Evaluation requires browser dependencies and a model API key.
-
-- Record JSON: https://awesomecua.com/resources/github-agi-inc-real/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/README.md (retrieved 2026-11-09T19:55:56Z; SHA-256 b3ab8cc93c834bf26b59a67c3f0d30d30602f5f1aad1fe4a1f4864f263f87e79)
-- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE (retrieved 2026-11-09T14:20:31Z; SHA-256 229b91680e13d4ec18779fae8da1f75958703be023e14fb3149f8d96c1e254d6)
 
 ---
 
@@ -3929,6 +4588,40 @@ The package provides local, online and custom challenges, plus a Docker executio
 
 ---
 
+## WASP
+
+WASP is an executable benchmark for testing prompt-injection attacks on web agents in simulated website environments.
+
+- Catalog URL: https://awesomecua.com/resources/github-facebookresearch-wasp/
+- Original source: https://github.com/facebookresearch/wasp
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, web-navigation
+- Evidence checked: 2026-11-09T21:08:28Z
+- ID: github:facebookresearch/wasp
+
+### Limitations
+
+The repository includes attack configurations and code based on VisualWebArena and computer-use demos. The README specifies Python, Playwright, site setup, and model API credentials.
+
+- Record JSON: https://awesomecua.com/resources/github-facebookresearch-wasp/record.json
+
+### License declarations
+
+- code: CC-BY-NC-4.0 — https://raw.githubusercontent.com/facebookresearch/wasp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/facebookresearch/wasp/HEAD/README.md (retrieved 2026-11-09T21:08:28Z; SHA-256 c8cad77d7b99dc4880fafd4bfd929697e4db987aa0cbfa6b378490b61b0f5d64)
+- https://raw.githubusercontent.com/facebookresearch/wasp/HEAD/LICENSE (retrieved 2026-11-09T21:11:04Z; SHA-256 4b531055125dcda36059651634bdb424ad2612f4759b3d2067a731d2823d1cdc)
+
+---
+
 ## WeaveBench
 
 Computer-use benchmark mixing graphical interaction and code execution.
@@ -3956,6 +4649,36 @@ Computer-use benchmark mixing graphical interaction and code execution.
 
 - https://huggingface.co/api/datasets/wanlilll/WeaveBench (retrieved 2026-10-16T06:38:27Z; SHA-256 e65e5793fe5b251ef7793a0618f4e8139fe5c92c2cf8093d0cc6142e8ece9d02)
 - https://huggingface.co/api/datasets/wanlilll/WeaveBench (retrieved 2026-10-16T06:38:27Z; SHA-256 e65e5793fe5b251ef7793a0618f4e8139fe5c92c2cf8093d0cc6142e8ece9d02)
+
+---
+
+## web-agent-eval (REAL Benchmark Runner)
+
+Evaluates web agents on 102 replica websites from the REAL benchmark under explicit step, token, and budget constraints.
+
+- Catalog URL: https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/
+- Original source: https://github.com/saarthak-yadav/web-agent-eval
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, observability
+- Evidence checked: 2026-11-04T14:41:52Z
+- ID: github:saarthak-yadav/web-agent-eval
+
+- Record JSON: https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/README.md (retrieved 2026-11-04T14:41:52Z; SHA-256 71898649b30cdb23817a348aec099bdd0741454e50f950c4dcfd231f8ca2ff31)
+- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE (retrieved 2026-11-04T14:45:07Z; SHA-256 080d93a39040f6bdcc157f8a9bda0c8f5f68dc54b16b00db1175da9c6f45b2f0)
 
 ---
 
@@ -4015,6 +4738,39 @@ The repository holds three more environment directories than the blog's release 
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/vision_agents.py (retrieved 2026-10-20T04:06:22Z; SHA-256 03c1cf3728ac0977ed56a9b1dfe52a0bef979443802905d0ea16fa1d88bfd5dc)
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/docs/environment-protocol.md (retrieved 2026-10-20T04:06:22Z; SHA-256 21a54a5f85b4cc75539af061d8b066fa582941fc40268d1052dfe17062d46d44)
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/HEAD/LICENSE (retrieved 2026-10-20T04:07:54Z; SHA-256 8954170f22d127cd7d0b7d1d62c25356d0989167eec26e68c69782892e480b94)
+
+---
+
+## WebGen-Bench
+
+WebGen-Bench evaluates generated websites with automated tests, including a UI agent that carries out interactions and checks outcomes. The repository supplies evaluation code and data.
+
+- Catalog URL: https://awesomecua.com/resources/github-mnluzimu-webgen-bench/
+- Original source: https://github.com/mnluzimu/WebGen-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, ui-design
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:mnluzimu/webgen-bench
+
+### Limitations
+
+The repository includes data, evaluation scripts and archived experiment outputs. The README describes Windows and Linux execution paths and optional deployment of a UI testing model.
+
+- Record JSON: https://awesomecua.com/resources/github-mnluzimu-webgen-bench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mnluzimu/WebGen-Bench/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 f579d4f90c17ed8a9e862f2ba6b2862886637425fdce8fdf495ea37d246a5b10)
 
 ---
 
@@ -4215,6 +4971,40 @@ The repository lists task files, evaluation code, result files, and training dat
 ### Primary evidence
 
 - https://raw.githubusercontent.com/yunyuntsai/webuiproof-benchmark/HEAD/README.md (retrieved 2026-11-09T19:56:02Z; SHA-256 ff8d4a9d821839772032e5d4b764ca8fd5e2211ad74e69ad3ec27d93024cf095)
+
+---
+
+## WindTunnel
+
+WindTunnel compares browser-agent interfaces on shared website tasks, measuring task completion, execution time, token use and cost with application-state checks.
+
+- Catalog URL: https://awesomecua.com/resources/github-nekuda-ai-windtunnel/
+- Original source: https://github.com/nekuda-ai/WindTunnel
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, efficiency
+- Evidence checked: 2026-11-09T21:08:36Z
+- ID: github:nekuda-ai/windtunnel
+
+### Limitations
+
+The README describes a harness, task definitions, scoring checks and published run artifacts. Running the full benchmark requires Docker and an API key.
+
+- Record JSON: https://awesomecua.com/resources/github-nekuda-ai-windtunnel/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/nekuda-ai/WindTunnel/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/nekuda-ai/WindTunnel/HEAD/README.md (retrieved 2026-11-09T21:08:36Z; SHA-256 861f45f93f5e88ef03d7cd477f7efa543241a0daaa36a9fb81c50ae328e06b45)
+- https://raw.githubusercontent.com/nekuda-ai/WindTunnel/HEAD/LICENSE (retrieved 2026-11-09T21:11:07Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
 
 ---
 
@@ -4865,7 +5655,7 @@ Mobile control benchmark with varied interface configurations.
 - 35 environment configuration rows — environments_train.csv, retained release/ver.3 snapshot (computed) (computed; source: https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv)
 - 10 environment configuration rows — environments_test.csv, retained release/ver.3 snapshot (computed) (computed; source: https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv)
 
-Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.
+Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Apache-2.0 covers the code.
 
 ### License declarations
 
@@ -5425,36 +6215,6 @@ CaptchaArena provides a live server and fine-grained trajectory dataset across 2
 
 - https://raw.githubusercontent.com/X0X0X00/CaptchaArena/HEAD/README.md (retrieved 2026-11-04T14:02:42Z; SHA-256 2d5624b9ac25a06c7d26acb1cc7a0b4ea60cf9a90f0118b9172bd692f2b2ff94)
 - https://raw.githubusercontent.com/X0X0X00/CaptchaArena/HEAD/LICENSE (retrieved 2026-11-04T14:07:17Z; SHA-256 1229a048b92c0897722046f02ecd47c2308f6528dc063e9c45fec006242881b1)
-
----
-
-## CodexQA
-
-Suite of 11 local-first QA Agent Skills for Cursor, Claude Code, and Codex to verify live web and desktop user journeys.
-
-- Catalog URL: https://awesomecua.com/resources/github-openqa-cn-codexqa/
-- Original source: https://github.com/openqa-cn/codexqa
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web, desktop
-- Topics: evaluation, web-navigation, tool-integration, workflow
-- Evidence checked: 2026-11-04T18:11:44Z
-- ID: github:openqa-cn/codexqa
-
-- Record JSON: https://awesomecua.com/resources/github-openqa-cn-codexqa/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/openqa-cn/codexqa/main/README.md (retrieved 2026-11-04T18:11:44Z; SHA-256 c4021c817fba23ac4172c2024e996fe9b00751c5cfecec6c83a64fe3a758f092)
-- https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE (retrieved 2026-11-04T18:16:07Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
 
 ---
 
@@ -6420,35 +7180,6 @@ Benchmarks dense versus global features across frozen vision backbones for pixel
 
 - https://raw.githubusercontent.com/DhruvRaval04/do-frozen-vision-backbones-transfer-to-guis/HEAD/README.md (retrieved 2026-11-04T14:20:10Z; SHA-256 6d06d48b23063c6a8269c2edc267c0d4490061f13c2169ed030c65c5ba3938da)
 - https://raw.githubusercontent.com/DhruvRaval04/do-frozen-vision-backbones-transfer-to-guis/HEAD/LICENSE (retrieved 2026-11-04T14:23:35Z; SHA-256 902f12393a01c4aa835ee0e288c4d9045721744dbb6418f1b8da5bb65f196901)
-
----
-
-## GameWorld
-
-GameWorld provides a standardized browser-based evaluation suite for multimodal game agents across 34 games and 170 verifiable tasks.
-
-- Catalog URL: https://awesomecua.com/resources/github-gameworld-project-gameworld/
-- Original source: https://github.com/gameworld-project/GameWorld
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web, desktop
-- Topics: evaluation, action-prediction, planning
-- Evidence checked: 2026-11-04T14:02:40Z
-- ID: github:gameworld-project/gameworld
-
-- Record JSON: https://awesomecua.com/resources/github-gameworld-project-gameworld/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/gameworld-project/GameWorld/HEAD/README.md (retrieved 2026-11-04T14:02:40Z; SHA-256 a20fdc3d534295ba721ce7c12b121f03b56a0ededb9f2eacc40d5aefa56da624)
 
 ---
 
@@ -7810,7 +8541,7 @@ Features are task_id, instruction, type, apps, scenario, rubrics and human-refer
 - document: not recorded
 - weights: not recorded
 
-- data review: No data-license declaration is present in the inspected task card; companion code MIT does not establish a dataset grant.
+- data review: A data-license declaration is unrecorded in the inspected task card.
   Sources: https://huggingface.co/datasets/mikewang/mobile_eval_e/raw/b8eca82988ed8d4f9dec01eaa9d51abf4b35aa83/README.md
 
 ### Primary evidence
@@ -7988,36 +8719,6 @@ Navi-Bench evaluates web agents on everyday consumer tasks executed directly on 
 
 ---
 
-## Next-Gen CAPTCHAs
-
-Next-Gen CAPTCHAs provides an interactive benchmark and generator of cognitive-gap CAPTCHA challenges for defending against GUI web agents.
-
-- Catalog URL: https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/
-- Original source: https://github.com/MetaAgentX/NextGen-CAPTCHAs
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, safety-security, web-navigation
-- Evidence checked: 2026-11-04T13:12:24Z
-- ID: github:metaagentx/nextgen-captchas
-
-- Record JSON: https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/README.md (retrieved 2026-11-04T13:12:24Z; SHA-256 44711dbb604684fdb67fe1214f65eca22368dfb1f2599304c75ce87e24b280ba)
-- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE (retrieved 2026-11-04T13:22:28Z; SHA-256 d009312b46edeace3d9fa5a66a6b11e71b78701aa1f2d1085500033b87821feb)
-
----
-
 ## Nightshift
 
 Black-box computer-use QA harness on Solari that evaluates live user interfaces without access to application test hooks.
@@ -8182,7 +8883,7 @@ Configurable browser apps and task rewards for testing computer-use agents under
 
 ### Limitations
 
-Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and says even that tag differs at the byte level from the published runs. CC-BY-NC-4.0 is the repository’s declared code license; third-party WebShop, map and icon content retain separate terms. No commercial-use permission or fixed downloadable task total is inferred.
+Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and says even that tag differs at the byte level from the published runs. CC-BY-NC-4.0 is the repository’s declared code license. No commercial-use permission or fixed downloadable task total is inferred.
 
 - Record JSON: https://awesomecua.com/resources/github-facebookresearch-openapps/record.json
 
@@ -9979,7 +10680,7 @@ Fixed local-page observations; the reported run uses claude-sonnet-5 and a share
 - document: not recorded
 - weights: not recorded
 
-- code review: The inspected root LICENSE contains complete MIT terms for repository software. The methodology explicitly leaves redistribution permission for captured third-party practice-site pages unresolved; code MIT is not a blanket snapshot/data license.
+- code review: The inspected root LICENSE contains complete MIT terms for repository software. Redistribution permission for captured third-party practice-site pages is unresolved in the methodology.
   Sources: https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE
 
 ### Primary evidence
@@ -10020,36 +10721,6 @@ web-agent-bench compares browser-automation harnesses (Playwright MCP, agent-bro
 
 - https://raw.githubusercontent.com/nsosio/web-agent-bench/HEAD/README.md (retrieved 2026-11-04T14:02:47Z; SHA-256 5771611bda8ae442bf31a5a6f0498d21d4eb1509f83f15e0823b93fb0526172a)
 - https://raw.githubusercontent.com/nsosio/web-agent-bench/HEAD/LICENSE (retrieved 2026-11-04T14:07:21Z; SHA-256 d034230dad809f4f558a0a817456f6b8698cb0fdfd43b7e3555e89e1784eb6b4)
-
----
-
-## web-agent-eval (REAL Benchmark Runner)
-
-Evaluates web agents on 102 replica websites from the REAL benchmark under explicit step, token, and budget constraints.
-
-- Catalog URL: https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/
-- Original source: https://github.com/saarthak-yadav/web-agent-eval
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation, observability
-- Evidence checked: 2026-11-04T14:41:52Z
-- ID: github:saarthak-yadav/web-agent-eval
-
-- Record JSON: https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/README.md (retrieved 2026-11-04T14:41:52Z; SHA-256 71898649b30cdb23817a348aec099bdd0741454e50f950c4dcfd231f8ca2ff31)
-- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE (retrieved 2026-11-04T14:45:07Z; SHA-256 080d93a39040f6bdcc157f8a9bda0c8f5f68dc54b16b00db1175da9c6f45b2f0)
 
 ---
 
@@ -10137,39 +10808,6 @@ The released CSV has columns ID, Starting URL, Category and Task, with 1,637 REA
 
 - https://raw.githubusercontent.com/convergence-ai/webgames/HEAD/README.md (retrieved 2026-10-16T06:35:59Z; SHA-256 a2df62f9b4359f7839c7d6c6917ff654f9eadeafa92f96311495b71e37abd9ba)
 - https://raw.githubusercontent.com/convergence-ai/webgames/HEAD/LICENSE (retrieved 2026-10-16T06:42:00Z; SHA-256 0e03b68c7acb0b340e47f9000ac3808950e2ac8c4cd05960437a9e46e3c09a62)
-
----
-
-## WebGen-Bench
-
-WebGen-Bench evaluates generated websites with automated tests, including a UI agent that carries out interactions and checks outcomes. The repository supplies evaluation code and data.
-
-- Catalog URL: https://awesomecua.com/resources/github-mnluzimu-webgen-bench/
-- Original source: https://github.com/mnluzimu/WebGen-Bench
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation, ui-design
-- Evidence checked: 2026-11-09T06:16:36Z
-- ID: github:mnluzimu/webgen-bench
-
-### Limitations
-
-The repository includes data, evaluation scripts and archived experiment outputs. The README describes Windows and Linux execution paths and optional deployment of a UI testing model.
-
-- Record JSON: https://awesomecua.com/resources/github-mnluzimu-webgen-bench/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/mnluzimu/WebGen-Bench/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 f579d4f90c17ed8a9e862f2ba6b2862886637425fdce8fdf495ea37d246a5b10)
 
 ---
 
@@ -10354,7 +10992,7 @@ The 100 archive files form an artifact inventory. Backend/tool versions and depl
 - document: not recorded
 - weights: not recorded
 
-- code review: Repository source LICENSE; external tools and services retain their own licenses.
+- code review: Repository source LICENSE.
   Sources: https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/LICENSE
 
 - data review: Publisher Hub-card license declaration for the released benchmark dataset.
@@ -10517,7 +11155,7 @@ Cross-application Windows benchmark with intermediate task evaluation.
 - 181 tasks — WindowsWorld benchmark described in the retained README (reported; source: https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md)
 - 17 desktop applications — WindowsWorld coverage described in the retained README (reported; source: https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md)
 
-Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code; Windows, apps and VM artifacts retain separate terms.
+Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code.
 
 ### License declarations
 
@@ -10578,7 +11216,7 @@ Counts are publisher-reported. The gold subset covers 162 workflows and differs 
 - document: not recorded
 - weights: not recorded
 
-- data review: The linked Zenodo dataset release declares CC-BY-4.0; this does not assign a code license to the repository.
+- data review: The linked Zenodo dataset release declares CC-BY-4.0.
   Sources: https://zenodo.org/api/records/14094162
 
 ### Primary evidence

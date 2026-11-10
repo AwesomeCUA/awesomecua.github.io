@@ -1,14 +1,14 @@
 {
   "status": "excluded",
   "id": "arxiv:2407.06886",
-  "reason": "The abstract surveys embodied AI: robots, simulators, embodied perception, interaction and sim-to-real. This robotics survey mentions digital settings only in passing and does not cover agents operating GUIs or web pages.",
+  "reason": "The abstract surveys embodied AI: robots, simulators, embodied perception, interaction and sim-to-real. This robotics survey mentions digital settings only in passing and sits outside computer-use agents.",
   "decision": {
     "id": "arxiv:2407.06886",
     "name": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI",
     "url": "https://arxiv.org/abs/2407.06886",
     "decision": "out_of_scope",
     "basis": "primary_abstract_review",
-    "reason": "The abstract surveys embodied AI: robots, simulators, embodied perception, interaction and sim-to-real. This robotics survey mentions digital settings only in passing and does not cover agents operating GUIs or web pages.",
+    "reason": "The abstract surveys embodied AI: robots, simulators, embodied perception, interaction and sim-to-real. This robotics survey mentions digital settings only in passing and sits outside computer-use agents.",
     "reviewed_at": "2026-11-05T23:58:03Z",
     "metadata_fingerprint": "d89c9fdf28989def865d7f7656f83129a64bc9e136dedde272845e06596e21d5",
     "evidence": {

@@ -4,6 +4,15 @@ HTML page: https://awesomecua.com/topics/reinforcement-learning/page/7/
 
 Full list: https://awesomecua.com/topics/reinforcement-learning/index.md
 
+- [ZeroGUI-AndroidLab-7B](https://awesomecua.com/resources/url-f75cab7180d8f5264606/)
+- [ZeroGUI-OSWorld-7B](https://awesomecua.com/resources/url-6ea345c7ba56049476e8/)
+- [ZHEN-04/CaptchaAgent](https://awesomecua.com/resources/url-fb67af38dce972b398c3/)
+- [Agent Q](https://awesomecua.com/resources/github-sentient-engineering-agent-q/)
+- [AgentGym](https://awesomecua.com/resources/github-woooodyy-agentgym/)
+- [AgentGym-RL](https://awesomecua.com/resources/github-woooodyy-agentgym-rl/)
+- [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/)
+- [ARPO training framework](https://awesomecua.com/resources/github-jia-lab-research-arpo/)
+- [AutoCoA](https://awesomecua.com/resources/github-adam-bjtu-autocoa/)
 - [Autonomous Evaluation and Refinement of Digital Agents](https://awesomecua.com/resources/github-berkeley-nlp-agent-eval-refine/)
 - [AWorld-RL](https://awesomecua.com/resources/github-inclusionai-agenticlearning/)
 - [CGL (Continual GUI Learning)](https://awesomecua.com/resources/github-skounputer-cgl/)
@@ -55,12 +64,3 @@ Full list: https://awesomecua.com/topics/reinforcement-learning/index.md
 - [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)
 - [screen2gym](https://awesomecua.com/resources/github-marc-saouda-screen2gym/)
 - [SE-GUI](https://awesomecua.com/resources/github-yxb-nku-se-gui/)
-- [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/)
-- [Serpent.AI](https://awesomecua.com/resources/github-serpentai-serpentai/)
-- [Shinken](https://awesomecua.com/resources/github-meirtz-shinken/)
-- [SOLO](https://awesomecua.com/resources/github-wzq975-solo/)
-- [ToolCUA](https://awesomecua.com/resources/github-x-plug-toolcua/)
-- [UI-Mate](https://awesomecua.com/resources/github-tencent-ui-mate/)
-- [UI-Voyager](https://awesomecua.com/resources/github-ui-voyager-ui-voyager/)
-- [Universe legacy GUI interaction client](https://awesomecua.com/resources/github-openai-universe/)
-- [universe-starter-agent](https://awesomecua.com/resources/github-openai-universe-starter-agent/)

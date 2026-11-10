@@ -40,7 +40,7 @@ Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
 - DOI: 10.1145/3025453.3025483
 - Date source: Supplied year precision: 2017. Publications: SUGILITE, CHI 2017 Only publication year is asserted; event dates are kept separate.
 - Identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
-- Source notes: Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month/day are not independently identified by the retained sources.
+- Source notes: Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month and day are unrecorded in retained sources.
 - Publication evidence: https://www.cs.cmu.edu/~NatProg/sugilite.html, https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf
 
 ## License declarations

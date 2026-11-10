@@ -39,7 +39,7 @@ Boyuan Zheng, Boyu Gou, Scott Salisbury, Zheng Du, Huan Sun, Yu Su
 - Publisher: Association for Computational Linguistics
 - Pages: 187-197
 - DOI: 10.18653/v1/2024.emnlp-demo.20
-- Date source: Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2024/11.
 - Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
 - Source notes: Publisher proceedings edition (EMNLP 2024 System Demonstrations).
 - Publication evidence: https://aclanthology.org/2024.emnlp-demo.20/

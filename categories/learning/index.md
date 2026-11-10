@@ -2,40 +2,40 @@
 
 Learning resources are courses, cookbooks, tutorials, example collections and curated lists for building and studying computer-use agents.
 
-> 32 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
+> 36 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
 
 HTML page: https://awesomecua.com/categories/learning/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ## How to choose
 
 | Learning resource | Platform | License | Mentions |
 | --- | --- | --- | --- |
 | [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 8 |
+| [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) | Web | — | 5 |
+| [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE) | 4 |
 | [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | Web | [MIT (code)](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |
+| [Amazon Nova Act Samples](https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/) | Web | — | 2 |
 | [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) | Web · Desktop · Cross-platform | — | 2 |
-| [chromedp examples](https://awesomecua.com/resources/github-chromedp-examples/) | Web | — | 2 |
-| [Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches](https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/) | Web · Desktop · Cross-platform | — | 2 |
-| [The TinyFish Cookbook](https://awesomecua.com/resources/github-tinyfish-io-tinyfish-cookbook/) | Web | [MIT (code)](https://raw.githubusercontent.com/tinyfish-io/tinyfish-cookbook/HEAD/LICENSE) | 2 |
 
 ## Questions
 
 ### Which learning resources are mentioned most in the catalog?
 
-[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) (8 records), [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) (3 records) and [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) (2 records) are mentioned in the reviewed sources of the most other catalog records.
+[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) (8 records), [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) (5 records) and [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) (4 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these learning resources cover?
 
-Of 32 reviewed learning resources, 25 are tagged web, 17 desktop, 17 cross-platform and 4 mobile; 1 has no platform recorded. An entry tagged with several platforms counts under each.
+Of 36 reviewed learning resources, 29 are tagged web, 18 desktop, 18 cross-platform and 4 mobile; 1 has no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which learning resources come with a research paper?
 
-1 of 32 links the arXiv paper that introduces or documents it: [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/).
+1 of 36 links the arXiv paper that introduces or documents it: [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/).
 
 ### Which licenses do learning resources declare?
 
-The most common declared licenses are MIT (9), Apache-2.0 (4) and Unlicense (1). 18 of 32 have no declared license in their record.
+The most common declared licenses are MIT (11), Apache-2.0 (4) and Unlicense (1). 20 of 36 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -77,6 +77,73 @@ The repository links to vLLM and SageMaker deployment guides and navigation and 
 
 ---
 
+## Awesome Plasmate
+
+Awesome Plasmate is a curated list of documentation, integrations and tools around a browser engine for AI agents, including agent-framework and automation resources.
+
+- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/
+- Original source: https://github.com/plasmate-labs/awesome-plasmate
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration
+- Evidence checked: 2026-11-09T21:08:44Z
+- ID: github:plasmate-labs/awesome-plasmate
+
+### Limitations
+
+The README groups links under sections for official resources, AI framework integrations, automation, developer tools and articles.
+
+- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/plasmate-labs/awesome-plasmate/HEAD/README.md (retrieved 2026-11-09T21:08:44Z; SHA-256 3d8de887e6a62a3a99c6acd0ea0a8c0cdbd6f18ce16e5eb4c8c581dd6c49c5c7)
+
+---
+
+## Plasmate Notebooks
+
+Plasmate Notebooks teaches use of an agent-oriented browser engine through Jupyter examples covering page structure, token comparisons, batch extraction, and research workflows.
+
+- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-notebooks/
+- Original source: https://github.com/plasmate-labs/notebooks
+- Kind: learning
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: screen-understanding, web-navigation, efficiency
+- Evidence checked: 2026-11-09T19:57:10Z
+- ID: github:plasmate-labs/notebooks
+
+### Limitations
+
+The README lists four notebooks and a quick-start command requiring Plasmate, Jupyter, tiktoken, pandas, and matplotlib. A Colab link is provided for the getting-started notebook.
+
+- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-notebooks/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/README.md (retrieved 2026-11-09T19:57:10Z; SHA-256 34e63824f03d5f277afb112eb11591442457534048699237db32b5cdde9bb444)
+- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
+
+---
+
 ## Steel Cookbook
 
 A collection of Steel browser automation examples covering browser libraries, screenshot-driven computer-use models and agent frameworks in several programming languages.
@@ -108,6 +175,39 @@ The repository lists example directories and catalogs TypeScript, Python, Go and
 
 - https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/README.md (retrieved 2026-11-09T06:16:38Z; SHA-256 fc60a3a24218cad4417a15e830f3d632ef452c6089ed1e32ee54b93ec681bd64)
 - https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE (retrieved 2026-11-09T06:13:56Z; SHA-256 834262fd95a89ba32917d40e269d9cecc989bcff92d79078b6f573edb8c614d4)
+
+---
+
+## Amazon Nova Act Samples
+
+Code examples and reference applications show how to build browser workflows with Amazon Nova Act and deploy the SDK on AWS compute services.
+
+- Catalog URL: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/
+- Original source: https://github.com/amazon-agi-labs/nova-act-samples
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, web-navigation, workflow, human-in-the-loop
+- Evidence checked: 2026-11-09T06:16:37Z
+- ID: github:amazon-agi-labs/nova-act-samples
+
+### Limitations
+
+The repository organizes AWS CDK deployment samples, lightweight SDK examples, and complete applications into separate directories. The examples require dependency installation and SDK authentication configuration.
+
+- Record JSON: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-samples/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 bf9262920c20fa71c0bfa305d3b05ac78c183f23c07537e0d9840317e4ce4878)
 
 ---
 
@@ -177,6 +277,40 @@ The README lists runnable programs and their arguments. It specifies Go 1.27 for
 
 ---
 
+## clawtouch-skills
+
+A collection of Markdown operator guides gives desktop agents app-specific menu paths, shortcuts and interaction techniques for use with HID controls.
+
+- Catalog URL: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/
+- Original source: https://github.com/tinqiao-oss/clawtouch-skills
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, macos, linux
+- Topics: automation, workflow, memory
+- Evidence checked: 2026-11-09T19:57:03Z
+- ID: github:tinqiao-oss/clawtouch-skills
+
+### Limitations
+
+The README lists guides for WPS Office, Feishu, DingTalk, text entry and grid UI automation. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/README.md (retrieved 2026-11-09T19:57:03Z; SHA-256 eb7d9a478ecb3c9d0d46c60cf866b83508647a08200f163fc7279e380fb16ead)
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE (retrieved 2026-11-09T14:20:49Z; SHA-256 be6018d34e8d0508c2637e14dd93ade6475ac0c1f3595dbfa4e457ea24f5b117)
+
+---
+
 ## Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches
 
 A curated reading list and accompanying report organize computer-use research, including agents that act through web, desktop, and mobile interfaces.
@@ -207,6 +341,40 @@ The repository contains a README reading list and a linked PDF overview report.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/cdxeve/awesome-computer-use-agents/HEAD/README.md (retrieved 2026-11-09T05:04:59Z; SHA-256 cb10a118fa532ac1c48b51ad73c5d9e052458379d214cf178557ac748dcfe749)
+
+---
+
+## Solari Cookbook
+
+Solari Cookbook collects runnable examples for cloud browsers, sandboxes, and desktops, including browser session recording and screenshot, click, and typing operations on a Linux GUI.
+
+- Catalog URL: https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/
+- Original source: https://github.com/solari-sdk/solari-cookbook
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, linux
+- Topics: automation, sandbox, recording, web-navigation
+- Evidence checked: 2026-11-09T21:09:44Z
+- ID: github:solari-sdk/solari-cookbook
+
+### Limitations
+
+The repository organizes self-contained examples and larger applications. The source says the examples use Solari services behind an API key and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-solari-sdk-solari-cookbook/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/solari-sdk/solari-cookbook/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/solari-sdk/solari-cookbook/HEAD/README.md (retrieved 2026-11-09T21:09:44Z; SHA-256 9a22cc4fe8e628d106f29c40316170a1e87077f7d5cfe7e08387ef022242a319)
+- https://raw.githubusercontent.com/solari-sdk/solari-cookbook/HEAD/LICENSE (retrieved 2026-11-09T21:12:07Z; SHA-256 3efb6319acebefe4992ff432c420f50c0cb3b922ef658ae0a59d85bfffd7f44f)
 
 ---
 
@@ -312,36 +480,37 @@ The repository contains a README and supporting documentation with categorized p
 
 ---
 
-## Amazon Nova Act Samples
+## awb-recipes
 
-Code examples and reference applications show how to build browser workflows with Amazon Nova Act and deploy the SDK on AWS compute services.
+A collection of dated recipes for browser agents to complete tasks on logged-in sites, recording action steps, selectors, caveats and verification status.
 
-- Catalog URL: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/
-- Original source: https://github.com/amazon-agi-labs/nova-act-samples
+- Catalog URL: https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/
+- Original source: https://github.com/jeet-dhandha/awb-recipes
 - Kind: learning
 - Review: curated
 - Scope: core
 - Environments: web
-- Topics: automation, web-navigation, workflow, human-in-the-loop
-- Evidence checked: 2026-11-09T06:16:37Z
-- ID: github:amazon-agi-labs/nova-act-samples
+- Topics: web-navigation, workflow, automation
+- Evidence checked: 2026-11-09T21:09:42Z
+- ID: github:jeet-dhandha/awb-recipes
 
 ### Limitations
 
-The repository organizes AWS CDK deployment samples, lightweight SDK examples, and complete applications into separate directories. The examples require dependency installation and SDK authentication configuration.
+Recipes are stored as JSON files, and site-independent guidance appears in a patterns directory. The source declares an MIT license.
 
-- Record JSON: https://awesomecua.com/resources/github-amazon-agi-labs-nova-act-samples/record.json
+- Record JSON: https://awesomecua.com/resources/github-jeet-dhandha-awb-recipes/record.json
 
 ### License declarations
 
-- code: not recorded
+- code: MIT — https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/amazon-agi-labs/nova-act-samples/HEAD/README.md (retrieved 2026-11-09T06:16:37Z; SHA-256 bf9262920c20fa71c0bfa305d3b05ac78c183f23c07537e0d9840317e4ce4878)
+- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/README.md (retrieved 2026-11-09T21:09:42Z; SHA-256 54ebfe9b9b2b81fc6b77e526b84f084ca37e393c09dd9577a15865395fc00ee7)
+- https://raw.githubusercontent.com/jeet-dhandha/awb-recipes/HEAD/LICENSE (retrieved 2026-11-09T21:12:04Z; SHA-256 01613c1dd35e25e8e14b6487025f393d2535b9d544b4862b5d263ff631931f23)
 
 ---
 
@@ -409,40 +578,6 @@ The repository contains a bibliography and sections on offline, online, and hybr
 
 - https://raw.githubusercontent.com/Steve2457/Awesome-RL-GUI-Agents/HEAD/README.md (retrieved 2026-11-09T06:16:34Z; SHA-256 ba8846ec7f3e05a242bb0728395b74b0f7d754f2116133bb470e193cbe575673)
 - https://raw.githubusercontent.com/Steve2457/Awesome-RL-GUI-Agents/HEAD/LICENSE (retrieved 2026-11-09T06:13:37Z; SHA-256 70e87b65d448f7b60f21360bbf0f0453bc1856836e8b2d1399de1d9b83a41d2a)
-
----
-
-## clawtouch-skills
-
-A collection of Markdown operator guides gives desktop agents app-specific menu paths, shortcuts and interaction techniques for use with HID controls.
-
-- Catalog URL: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/
-- Original source: https://github.com/tinqiao-oss/clawtouch-skills
-- Kind: learning
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, windows, macos, linux
-- Topics: automation, workflow, memory
-- Evidence checked: 2026-11-09T19:57:03Z
-- ID: github:tinqiao-oss/clawtouch-skills
-
-### Limitations
-
-The README lists guides for WPS Office, Feishu, DingTalk, text entry and grid UI automation. It declares an MIT license.
-
-- Record JSON: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/README.md (retrieved 2026-11-09T19:57:03Z; SHA-256 eb7d9a478ecb3c9d0d46c60cf866b83508647a08200f163fc7279e380fb16ead)
-- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE (retrieved 2026-11-09T14:20:49Z; SHA-256 be6018d34e8d0508c2637e14dd93ade6475ac0c1f3595dbfa4e457ea24f5b117)
 
 ---
 
@@ -580,37 +715,36 @@ The repository contains benchmark pages and separate pages for open and closed s
 
 ---
 
-## Plasmate Notebooks
+## Predicate SDK Playground
 
-Plasmate Notebooks teaches use of an agent-oriented browser engine through Jupyter examples covering page structure, token comparisons, batch extraction, and research workflows.
+A collection of runnable browser-agent demos using semantic page snapshots and assertions, with logs, screenshots and token accounting for evaluation.
 
-- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-notebooks/
-- Original source: https://github.com/plasmate-labs/notebooks
+- Catalog URL: https://awesomecua.com/resources/github-predicatesystems-predicate-sdk-playground/
+- Original source: https://github.com/PredicateSystems/predicate-sdk-playground
 - Kind: learning
 - Review: curated
-- Scope: adjacent
+- Scope: core
 - Environments: web
-- Topics: screen-understanding, web-navigation, efficiency
-- Evidence checked: 2026-11-09T19:57:10Z
-- ID: github:plasmate-labs/notebooks
+- Topics: evaluation, web-navigation, observability
+- Evidence checked: 2026-11-09T21:09:42Z
+- ID: github:predicatesystems/predicate-sdk-playground
 
 ### Limitations
 
-The README lists four notebooks and a quick-start command requiring Plasmate, Jupyter, tiktoken, pandas, and matplotlib. A Colab link is provided for the getting-started notebook.
+The repository describes eight demos, including local model and cloud model configurations. It includes run artifacts such as logs and screenshots.
 
-- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-notebooks/record.json
+- Record JSON: https://awesomecua.com/resources/github-predicatesystems-predicate-sdk-playground/record.json
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE
+- code: not recorded
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/README.md (retrieved 2026-11-09T19:57:10Z; SHA-256 34e63824f03d5f277afb112eb11591442457534048699237db32b5cdde9bb444)
-- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
+- https://raw.githubusercontent.com/PredicateSystems/predicate-sdk-playground/HEAD/README.md (retrieved 2026-11-09T21:09:42Z; SHA-256 3dfc998bab1d914b5cee533dc0c0eb3e4e6376491183e13aaf938fd09c85a72a)
 
 ---
 

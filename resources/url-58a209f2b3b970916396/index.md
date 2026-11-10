@@ -38,7 +38,7 @@ Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jso
 - document: not recorded
 - weights: not recorded
 
-- data review: Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.
+- data review: Publisher dataset-card declaration for this release.
   Sources: https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md
 
 ## Primary evidence

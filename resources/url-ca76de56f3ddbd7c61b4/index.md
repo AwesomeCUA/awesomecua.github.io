@@ -39,7 +39,7 @@ Wei Li, Fu-Lin Hsu, William Bishop, Folawiyo Campbell-Ajala, Max Lin, Oriana Riv
 - Publisher: Association for Computational Linguistics
 - Pages: 36-51
 - DOI: 10.18653/v1/2024.naacl-industry.4
-- Date source: Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2024/6.
 - Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive. An arXiv preprint of the same work (2312.10170, journal reference NAACL 2024 Industry Track) exists but is not retained, so this publisher edition seeds the record.
 - Source notes: Publisher proceedings edition (NAACL 2024 Industry Track). The publisher metadata lists 'William Bishop'; the PDF and the arXiv preprint print 'Will Bishop'.
 - Publication evidence: https://aclanthology.org/2024.naacl-industry.4/

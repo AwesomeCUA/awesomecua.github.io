@@ -47,6 +47,7 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/6/
 - [ClawGUI-Eval](https://awesomecua.com/zh/resources/url-e8cea6261ab19611ad23/)
 - [Click-100k](https://awesomecua.com/zh/resources/url-bf847949766b2b257d1c/)
 - [ConClick-Data](https://awesomecua.com/zh/resources/url-bf416a816f74718f94dd/)
+- [DeskForge-1M](https://awesomecua.com/zh/resources/url-e555cae98afb22876f3b/)
 - [DragOn](https://awesomecua.com/zh/resources/url-b854ff53e497da3a5ad8/)
 - [duvo-eye-1-evals](https://awesomecua.com/zh/resources/url-dfcb24f23a03e58316cf/)
 - [FiftyOne GUI Grounding Training Set](https://awesomecua.com/zh/resources/url-f0eac3ad813245645492/)
@@ -63,4 +64,3 @@ HTML 页面：https://awesomecua.com/zh/topics/grounding/page/6/
 - [GUI-Libra-81K-SFT](https://awesomecua.com/zh/resources/url-f6e1a7527f9346ed1c1d/)
 - [GUI-Net-1M](https://awesomecua.com/zh/resources/url-8c9aaafb918aaf8b4e92/)
 - [GUI-Net-Mini](https://awesomecua.com/zh/resources/url-0627940da1b988739f75/)
-- [GUI-R1 data bundle](https://awesomecua.com/zh/resources/url-df680385f18b01a825be/)

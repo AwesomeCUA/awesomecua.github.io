@@ -4,11 +4,14 @@ HTML page: https://awesomecua.com/topics/screen-understanding/page/5/
 
 Full list: https://awesomecua.com/topics/screen-understanding/index.md
 
+- [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/)
+- [Gomoku Computer-Use Model Comparison](https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/)
 - [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/)
 - [GUIGuard-Bench public-ladder release](https://awesomecua.com/resources/url-61860953a680776ffe53/)
 - [LMMs-Eval](https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/)
 - [LongPuzzleBench](https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/)
 - [MMSearch-Plus](https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/)
+- [Open CaptchaWorld](https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/)
 - [OS-Critic Bench](https://awesomecua.com/resources/url-c73ba0618d1b3c505887/)
 - [OSWorld GPT-4o-mini Benchmark Evaluation](https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/)
 - [Pointerbench](https://awesomecua.com/resources/github-warmwindos-pointerbench/)
@@ -30,6 +33,7 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [bevaya/RICO-ScreenQA-Complex](https://awesomecua.com/resources/url-b6114625f883ec0fda33/)
 - [Cie1/MMSearch-Plus](https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/)
 - [ConClick-Data](https://awesomecua.com/resources/url-bf416a816f74718f94dd/)
+- [DeskForge-1M](https://awesomecua.com/resources/url-e555cae98afb22876f3b/)
 - [GroundCUA](https://awesomecua.com/resources/github-servicenow-groundcua/)
 - [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/)
 - [GUI-Dense-Descriptions](https://awesomecua.com/resources/url-fd24a394359c59b35c71/)
@@ -60,7 +64,3 @@ Full list: https://awesomecua.com/topics/screen-understanding/index.md
 - [RICO-WidgetCaptioning](https://awesomecua.com/resources/url-013bb9256ca6ad5188be/)
 - [Screen Annotation](https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/)
 - [Screen Point-and-Read Data](https://awesomecua.com/resources/url-4b747a376f628e6f9760/)
-- [Screen2AX-Element](https://awesomecua.com/resources/url-e96299566d12e790422e/)
-- [Screen2AX-Group](https://awesomecua.com/resources/url-6680e812b94c168e6bed/)
-- [Screen2Words](https://awesomecua.com/resources/github-google-research-datasets-screen2words/)
-- [ScreenParse](https://awesomecua.com/resources/url-98e8a413ddd670214755/)

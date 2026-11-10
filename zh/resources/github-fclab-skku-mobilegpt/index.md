@@ -26,7 +26,7 @@ The old mobilegptsys repository resolves to fclab-skku/MobileGPT. Public Android
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Repository source license; linked benchmark data and external models retain separate terms.
+- 代码审核：Repository source license.
   来源：https://raw.githubusercontent.com/fclab-skku/MobileGPT/HEAD/LICENSE
 
 ## 一手证据

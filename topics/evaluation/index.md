@@ -1727,10 +1727,14 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.
 - [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) — Date not recorded
   Android environment with programmatic task evaluation for mobile agents.
+- [AppControlBench](https://awesomecua.com/resources/github-software-mansion-app-control-bench/) — Date not recorded
+  AppControlBench evaluates agents on iOS app tasks in a simulator, grading final screenshots and publishing task definitions and run records.
 - [AppSim-Bench](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim/) — Date not recorded
   Simulated mobile applications and evaluation tooling for reproducible GUI-agent tasks with controlled application state.
 - [AppWorld](https://awesomecua.com/resources/github-stonybrooknlp-appworld/) — Date not recorded
   Simulated applications, user data, and state-based task checks for evaluating agents that interact through APIs and code.
+- [ASIL Benchmark](https://awesomecua.com/resources/url-9b01ef4cc50d241ff34a/) — Date not recorded
+  ASIL Benchmark releases indexed software-agent tasks for single-application and multi-application evaluation, with task definitions and public assets.
 - [AssistantBench](https://awesomecua.com/resources/github-oriyor-assistantbench/) — Date not recorded
   AssistantBench evaluates web agents on realistic, time-consuming tasks. Its project repository links to the task dataset and submission leaderboard.
 - [Astra Game Arena](https://awesomecua.com/resources/github-gih10012-astra-game-arena/) — Date not recorded
@@ -1749,12 +1753,16 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Bellwether measures multi-trial pass^k consistency of computer-use agents on legacy enterprise UI workflows.
 - [BlenderWorld](https://awesomecua.com/resources/github-qwenlm-blenderworld/) — Date not recorded
   A benchmark for agents creating editable Blender projects from text and visual references. It supplies 223 tasks, submission packaging, and an evaluator for scene and visual criteria.
+- [BlenderWorld](https://awesomecua.com/resources/url-883e7c46e883b005762c/) — Date not recorded
+  A benchmark of 223 Blender creation tasks with text, image, and video inputs. Agents submit editable projects for rendering and rubric-based evaluation.
 - [Bond Underwriting Agent Benchmark](https://awesomecua.com/resources/github-vitoworleone-bond-underwriting-agent-benchmark/) — Date not recorded
   Chinese vertical long-horizon evaluation benchmark testing agents on multi-step financial bond-underwriting document and web workflows.
 - [BrowseComp](https://awesomecua.com/resources/component-openai-simple-evals-browsecomp/) — Date not recorded
   OpenAI's 1,266-question benchmark for browsing agents, whose short, verifiable answers require persistent search and navigation across many websites and are graded by a model judge.
 - [Browser Agent Comparison (4 Approaches)](https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/) — Date not recorded
   Compares four AI browser-control paradigms (Chrome extension, Playwright, Browser Use V3, and CLI) on task completion and cost.
+- [Browser AI Agent — live-web benchmark audit](https://awesomecua.com/resources/github-saarthak-yadav-browser-agent-webvoyager/) — Date not recorded
+  An archived audit of live website tasks for web-agent evaluation, with task subsets and scripts that examine site decay, access barriers, and measurement errors.
 - [Browser Automation Benchmark (Python vs Rust)](https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/) — Date not recorded
   Benchmarks Python Playwright, Rust playwright-rs, and chromiumoxide on headless browser startup, navigation, and screenshot latency.
 - [Browser LLM Perf](https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/) — Date not recorded
@@ -1771,6 +1779,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Red-teaming benchmark and test suite from Scale AI evaluating whether refusal-trained language models can be jailbroken when deployed as browser agents.
 - [BrowserGym](https://awesomecua.com/resources/github-servicenow-browsergym/) — Date not recorded
   Unified interfaces for browser-agent tasks and benchmark environments.
+- [BrowserGym-Knows](https://awesomecua.com/resources/github-farhanishmam-browsergym-knows/) — Date not recorded
+  A BrowserGym fork for evaluating agents on Google Workspace tasks performed in Chromium, with task results graded through Workspace APIs.
 - [BrowserTransactionBench](https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/) — Date not recorded
   BrowserTransactionBench evaluates transactional safety, idempotency, and double-spend prevention in autonomous browser agents.
 - [BrowseWebApp Bench](https://awesomecua.com/resources/github-visnia-ai-browsewebapp-bench/) — Date not recorded
@@ -1781,6 +1791,10 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   CaptchaArena provides a live server and fine-grained trajectory dataset across 20 interactive CAPTCHA types for evaluating computer-use agents.
 - [ClawBench](https://awesomecua.com/resources/github-tiger-ai-lab-clawbench/) — Date not recorded
   Everyday-task benchmark on live websites that runs browser agents in containerized Chromium, blocks each final submission request for scoring by URL match and an LLM judge, and records five layers of run evidence.
+- [Co-Design Bench](https://awesomecua.com/resources/github-wiselnn570-co-design-bench/) — Date not recorded
+  Co-Design Bench evaluates application revisions made by coding agents from multimodal requests, checking requirements against source code and browser evidence.
+- [Co-Design Bench](https://awesomecua.com/resources/url-7cfe1cd1a61d7ebfd083/) — Date not recorded
+  Co-Design Bench evaluates application revisions from multimodal requests using 96 editing tasks with annotated screenshots and 521 criteria checked against source and browser evidence.
 - [CodexQA](https://awesomecua.com/resources/github-openqa-cn-codexqa/) — Date not recorded
   Suite of 11 local-first QA Agent Skills for Cursor, Claude Code, and Codex to verify live web and desktop user journeys.
 - [Collision Canary](https://awesomecua.com/resources/github-mystiquemide-collision-canary/) — Date not recorded
@@ -1813,6 +1827,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   DeskMind Bench provides sandboxed macOS desktop tasks, state graders, and reference trajectories for evaluating computer-use agents.
 - [DesktopAgentBench](https://awesomecua.com/resources/github-raghava00001-desktopagentbench/) — Date not recorded
   DesktopAgentBench is an agent-agnostic Windows benchmark evaluating desktop agent task reliability, recovery, and safety guardrails.
+- [Dev Browser Eval](https://awesomecua.com/resources/github-sawyerhood-dev-browser-eval/) — Date not recorded
+  Dev Browser Eval compares three browser automation methods on tasks in a game-tracker web application and generates a report from repeated runs.
 - [dom-drift-bench](https://awesomecua.com/resources/github-notel1gible-dom-drift-bench/) — Date not recorded
   dom-drift-bench evaluates four web extraction and grounding strategies across ten categories of structural DOM drift.
 - [done-or-not](https://awesomecua.com/resources/github-tatra-labs-done-or-not/) — Date not recorded
@@ -1847,10 +1863,16 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   FixtureBench evaluates procurement browser agents on deterministic Coupa-style buyer/supplier portals with pagination, MFA, and decoy POs.
 - [FlashAdventure](https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/) — Date not recorded
   FlashAdventure benchmarks GUI agents on solving complete story arcs across 34 Flash point-and-click adventure games requiring long-term memory.
+- [FronTalk](https://awesomecua.com/resources/github-shirley-wu-frontalk/) — Date not recorded
+  FronTalk benchmarks multi-turn website coding from text and visual instructions. It supplies dialogue tasks and test cases, with a web agent used to evaluate generated sites.
 - [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/) — Date not recorded
   Benchmarks dense versus global features across frozen vision backbones for pixel-coordinate GUI grounding.
+- [GA-Technical-Report](https://awesomecua.com/resources/github-jinyihan99-ga-technical-report/) — Date not recorded
+  Evaluation materials for GenericAgent cover web browsing and other agent tasks, with benchmark folders documenting setup, protocols, and reproduction.
 - [GameWorld](https://awesomecua.com/resources/github-gameworld-project-gameworld/) — Date not recorded
   GameWorld provides a standardized browser-based evaluation suite for multimodal game agents across 34 games and 170 verifiable tasks.
+- [GameWorld Games](https://awesomecua.com/resources/github-gameworld-project-gameworld-games/) — Date not recorded
+  GameWorld Games supplies browser-game snapshots for agent evaluation, each with an API for initialization, reset and game-state inspection.
 - [GBOX MCP + Claude Code](https://awesomecua.com/resources/github-babelcloud-android-world-benchmark/) — Date not recorded
   An AndroidWorld benchmark setup that connects a Claude agent to an Android emulator through GBOX MCP and includes a task-completion tool for evaluation.
 - [Gomoku Computer-Use Model Comparison](https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/) — Date not recorded
@@ -1879,6 +1901,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Runtime and CUA-World task suite that turn real applications on Ubuntu, Windows 11, Android and macOS into screen-observing, mouse-and-keyboard agent environments with setup scripts and program verifiers.
 - [Gym-Anything-RT](https://awesomecua.com/resources/github-gym-anything-gym-anything-rt/) — Date not recorded
   Gym-Anything-RT evaluates screenshot-driven agents on paired live and untimed browser minigames. Its runner can pause or slow the game clock to isolate timing effects.
+- [Halluminate Westworld](https://awesomecua.com/resources/github-halluminate-westworld/) — Date not recorded
+  Halluminate Westworld evaluates web agents on tasks set in realistic websites and provides task loading, a manual demo and evaluator interfaces.
 - [HarnessBench](https://awesomecua.com/resources/github-reacher-z-harnessbench/) — Date not recorded
   Benchmark harness that holds the base model fixed and runs six browser-agent harnesses in per-harness containers on ClawBench's everyday online tasks, reusing ClawBench's recording and judging pipeline.
 - [HealthEnv](https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/) — Date not recorded
@@ -1929,6 +1953,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   MacArena benchmarks computer-use agents in an online, reproducible macOS virtual-machine environment across multi-app desktop tasks.
 - [macOSWorld](https://awesomecua.com/resources/github-showlab-macosworld/) — Date not recorded
   macOSWorld benchmarks GUI agents on tasks across 30 macOS apps in five languages. It supplies a Python testbench for AWS macOS instances and a safety task subset.
+- [Magnitude WebVoyager Benchmark Results](https://awesomecua.com/resources/github-magnitudedev-webvoyager/) — Date not recorded
+  A WebVoyager evaluation release for the Magnitude browser agent, including reported task results, task patches and reproduction instructions.
 - [MalURLBench](https://awesomecua.com/resources/github-jiangyinger-malurlbench/) — Date not recorded
   MalURLBench evaluates the vulnerability of LLM-based web agents to phishing and malicious URL attacks across ten real-world web scenarios.
 - [MarketBench](https://awesomecua.com/resources/github-santos-sanz-marketbench/) — Date not recorded
@@ -1985,6 +2011,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   A containerized Android evaluation environment with GUI-only, agent-user interaction and MCP-augmented tasks, plus checks on application and backend state.
 - [MobileWorldBench](https://awesomecua.com/resources/github-jacklishufan-mobileworld/) — Date not recorded
   Benchmark of semantic world modeling for mobile agents, with question-answering tasks and GPT-judged generation tasks, plus training data built on AitW and AndroidControl screens.
+- [MWMBench](https://awesomecua.com/resources/url-a3ea3a844de7dd8a6792/) — Date not recorded
+  MWMBench evaluates mobile GUI world models by asking them to predict the next screen from a screenshot and coordinate action.
 - [MyPCBench](https://awesomecua.com/resources/github-ljang0-mypcbench/) — Date not recorded
   A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.
 - [Navi-Bench](https://awesomecua.com/resources/github-yutori-ai-navi-bench/) — Date not recorded
@@ -2003,6 +2031,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
 - [only-cli/benchmarks](https://awesomecua.com/resources/github-only-cli-benchmarks/) — Date not recorded
   A reproducible benchmark suite compares tools that agents use to read live web pages, measuring content retrieval, time and token use across page views and browsing tasks.
+- [Open CaptchaWorld](https://awesomecua.com/resources/github-metaagentx-opencaptchaworld/) — Date not recorded
+  Open CaptchaWorld evaluates multimodal web agents on interactive CAPTCHA puzzles through a web interface, with puzzle data, answer checks and recorded results.
 - [Open Operator Evals](https://awesomecua.com/resources/github-nottelabs-open-operator-evals/) — Date not recorded
   Archived Notte Labs harness and results that run web agents eight times on a 30-task WebVoyager subset, judging each run with a GPT-4o screenshot judge and comparing it with the agent's self-reported success.
 - [Open User](https://awesomecua.com/resources/github-tiacoo-open-user/) — Date not recorded
@@ -2047,6 +2077,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Blind-tests web and desktop user interfaces using isolated AI personas that interact strictly through rendered screens.
 - [PersonalAlign](https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/) — Date not recorded
   PersonalAlign releases AndroidIntent evaluations of personalized mobile GUI agents and HIM-Agent memory for using long-term interaction records.
+- [PhoneHarness](https://awesomecua.com/resources/github-phoneharness-phoneharness/) — Date not recorded
+  PhoneHarness evaluates Android phone agents that combine GUI actions with device commands and host tools. It provides a runtime, a benchmark runner subset and trace-based checks of task outcomes.
 - [Plasmate Benchmarks](https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/) — Date not recorded
   Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
 - [pms-race](https://awesomecua.com/resources/github-lgoyal6-pms-race/) — Date not recorded
@@ -2157,6 +2189,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Structured taxonomy and comparative map of public voice-agent, multimodal, and computer-use evaluation benchmarks.
 - [WAInjectBench](https://awesomecua.com/resources/github-norrrrrrr-lyn-wainjectbench/) — Date not recorded
   WAInjectBench benchmarks prompt injection detection in web agents across six text and image attack types targeting web interaction pipelines.
+- [WASP](https://awesomecua.com/resources/github-facebookresearch-wasp/) — Date not recorded
+  WASP is an executable benchmark for testing prompt-injection attacks on web agents in simulated website environments.
 - [WATCHER](https://awesomecua.com/resources/github-aaman-911-watcher/) — Date not recorded
   Prompt-injection defense classifier, evaluation benchmark, and defended browser harness for autonomous web agents.
 - [WeaveBench](https://awesomecua.com/resources/github-weavebench-weavebench/) — Date not recorded
@@ -2201,6 +2235,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   A web agent benchmark with a local shop site, BrowserGym tasks, and database audit records for measuring task completion and repeated writes during backtracking.
 - [WebRetriever](https://awesomecua.com/resources/github-mininglamp-ai-webretriever/) — Date not recorded
   WebRetriever supplies a web-agent evaluation runner and a judge that assesses task completion from captured requests, actions and page URLs.
+- [WebRetriever](https://awesomecua.com/resources/url-e96228937fdb3bc51531/) — Date not recorded
+  A web-agent benchmark with navigation, documentation-guided navigation and end-to-end information-extraction protocols across 1,550 tasks.
 - [WebRewardBench](https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/) — Date not recorded
   An offline preference-evaluation set for web process reward models, pairing page and trajectory context with preferred and rejected candidate decisions.
 - [WebShop](https://awesomecua.com/resources/github-princeton-nlp-webshop/) — Date not recorded
@@ -2227,6 +2263,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Windows benchmark revision with task/evaluator fixes and VM-initialization support, documented alongside PC-Agent-E.
 - [WindowsWorld](https://awesomecua.com/resources/github-hitsz-tmg-windowsworld/) — Date not recorded
   Cross-application Windows benchmark with intermediate task evaluation.
+- [WindTunnel](https://awesomecua.com/resources/github-nekuda-ai-windtunnel/) — Date not recorded
+  WindTunnel compares browser-agent interfaces on shared website tasks, measuring task completion, execution time, token use and cost with application-state checks.
 - [WONDERBREAD](https://awesomecua.com/resources/github-hazyresearch-wonderbread/) — Date not recorded
   An offline benchmark of workflow documentation, quality assessment and knowledge transfer using human web-navigation demonstrations, action traces and written procedures.
 - [WorkArena](https://awesomecua.com/resources/github-servicenow-workarena/) — Date not recorded
@@ -2242,6 +2280,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
 
 - [Agent Humanization Benchmark (AHB) recordings](https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/) — Date not recorded
   Touch-gesture and motion-sensor recordings of people and mobile GUI agents doing the same Chinese-language Android app tasks, with task lists and metadata for training detectors that tell agents from humans.
+- [Agent-Trajectories](https://awesomecua.com/resources/url-61c09ceb7c78f6b5e74f/) — Date not recorded
+  An archive dataset of evaluated web, Android, and iOS agent trajectories, including iOS emulator runs and WebArena runs used for agent refinement.
 - [AgentRewardBench dataset](https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/) — Date not recorded
   Hugging Face dataset release for AgentRewardBench containing trajectory evaluation instances across WebArena, VisualWebArena, AssistantBench, WorkArena, and OSWorld.
 - [android_control_test](https://awesomecua.com/resources/url-1f248862e4b691b85343/) — Date not recorded
@@ -2266,12 +2306,16 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Training and evaluation examples for selecting GUI form actions from document content, with synthetic train, validation, and test splits plus real browser form demos.
 - [CUA-Gym](https://awesomecua.com/resources/url-6aa1aa58a7a888395189/) — Date not recorded
   Computer-use environment and task resources for agent research.
+- [DeskForge-1M](https://awesomecua.com/resources/url-e555cae98afb22876f3b/) — Date not recorded
+  A desktop GUI dataset with screenshots, element annotations, and action records, released with training, validation, and varied application, theme, and resolution test splits.
 - [duvo-eye-1-evals](https://awesomecua.com/resources/url-dfcb24f23a03e58316cf/) — Date not recorded
   Dataset of per-sample GUI grounding predictions and reference points for public benchmarks, accompanied by a script for rescoring model outputs.
 - [EnvDistraction](https://awesomecua.com/resources/github-xbmxb-envdistraction/) — Date not recorded
   EnvDistraction provides simulated GUI environments and evaluation scripts for measuring multimodal agent susceptibility to environmental distractions.
 - [Fanbin/waa_steve_trajectories](https://awesomecua.com/resources/url-2bab4b78c81cde1d5ecb/) — Date not recorded
   A dataset of STEVE-R1 evaluation trajectories on WindowsAgentArena, pairing task screenshots and agent responses with action traces and outcome labels.
+- [gameworld-qwen38-flash-next-trajectory](https://awesomecua.com/resources/url-e3c3e5a5a00f024ebac5/) — Date not recorded
+  A dataset of 1,020 GameWorld agent trajectories from general and computer-use interfaces, with step records, screenshots, outcomes, and metrics.
 - [Gelato OS-World agent trajectories](https://awesomecua.com/resources/url-aed610c413d6bb9f1caa/) — Date not recorded
   Gelato-30B-A3B and GTA1-32B OS-World agent runs, three trials each in the same GPT-5-planned GTA1.5-based harness, with per-task trajectories, initial and step screenshots, and automated results.
 - [go-browse-wa-raw](https://awesomecua.com/resources/url-edb0eadcc3df5559e941/) — Date not recorded
@@ -2280,14 +2324,20 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Training and evaluation Parquet bundles accompanying GUI-R1, including GUI grounding and mobile/web action-prediction data.
 - [GUI-World data](https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/) — Date not recorded
   Hub release of GUI-World: GUI screen-recording videos from six scenarios (Android, iOS, website, software, multi-app and XR) with train and benchmark annotation JSONL for GUI-oriented video question answering.
+- [Halluminate/WebBench](https://awesomecua.com/resources/url-5831a1ae8385cda79575/) — Date not recorded
+  Halluminate/WebBench releases task data for evaluating browser agents on read, create, update, delete, and file workflows across live websites.
 - [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) — Date not recorded
   Dataset of 7,366 computer-use agent execution trajectories from Holo4 27B and Holo4 35B-A3B, recording step-level reasoning, actions, tool results, and screenshots.
+- [KNOWS Benchmark](https://awesomecua.com/resources/url-573954fad8617c3d5e57/) — Date not recorded
+  KNOWS provides 110 web-agent task prompts and grading rubrics for creating documents, spreadsheets, and slides in Google Workspace.
 - [LexBench-Trajectory-Replay](https://awesomecua.com/resources/url-c049eba816b97d5076d0/) — Date not recorded
   LexBench-Trajectory-Replay provides 30 public-website tasks with fixed browser actions and assertions for evaluating browser execution and retrieval.
 - [LexBench-WebArena-Replay](https://awesomecua.com/resources/url-a96c70bcf5a235f980b6/) — Date not recorded
   LexBench-WebArena-Replay pairs WebArena task definitions with fixed browser actions so Browser Eval can replay them and score completion across a published 812-task set.
 - [LGWM data and RSWT-Bench](https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/) — Date not recorded
   A dataset of GUI screen transitions for training a world model, released with RSWT-Bench to evaluate whether observed screens follow the intended actions.
+- [LPS-Bench](https://awesomecua.com/resources/url-625bd97c7aa32cf05833/) — Date not recorded
+  A dataset for evaluating safety across computer-use agent trajectories, with 570 base cases and 40 skill variants covering benign and adversarial tasks.
 - [luzimu/WebGen-Bench](https://awesomecua.com/resources/url-405959de004b6e32c911/) — Date not recorded
   A dataset of website-generation instructions and UI test cases for evaluating interactive sites, with separate training and test splits.
 - [McGill-NLP/safearena](https://awesomecua.com/resources/url-be4ca14d1724b0cf8314/) — Date not recorded
@@ -2314,6 +2364,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   OpenJev-Data provides labeled browser steps for training models to choose a web agent's next operation and target element, plus a fixed test set for endpoint evaluation.
 - [OS-Copilot/OS-Shepherd-100K](https://awesomecua.com/resources/url-d716497286ae5cd5e762/) — Date not recorded
   A dataset of GUI agent trajectories and screenshots for training models to judge task completion, with supervised records and reinforcement learning splits.
+- [OS-Copilot/OSReward](https://awesomecua.com/resources/url-e01658de14c2e62fbf20/) — Date not recorded
+  OSReward releases labeled computer-use trajectories with aligned screenshots in Full and Hard test sets for evaluating task-success judgments.
 - [OSWorld 2.0 task classes](https://awesomecua.com/resources/url-1c4a0389ace7c5cb8a4b/) — Date not recorded
   Gated Hub release of the OSWorld 2.0 benchmark's Python task classes, which hold task setup and evaluator logic kept out of the public code to limit leakage and are pinned per benchmark release.
 - [OSWorld 2.0 trajectories](https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/) — Date not recorded
@@ -2348,10 +2400,14 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   A dataset of macOS application screenshots with UI element boxes and category labels for training and evaluating interface element detectors.
 - [Screen2AX-Group](https://awesomecua.com/resources/url-6680e812b94c168e6bed/) — Date not recorded
   A dataset of macOS application screenshots with bounding boxes and UI group labels for training and evaluating interface object detection models.
+- [Screen2AX-Task](https://awesomecua.com/resources/url-97d846b5b33235f566a1/) — Date not recorded
+  A macOS UI grounding dataset that pairs application screenshots and action commands with target bounding boxes and visual descriptions.
 - [ScreenDrag](https://awesomecua.com/resources/url-fe43af1801032be708cc/) — Date not recorded
   GUI dragging data with screen observations, prior state, and continuous pointer actions, provided as trajectory files and Parquet representations.
 - [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) — Date not recorded
   High-resolution professional interface screenshots and target annotations for evaluating instruction-based GUI localization.
+- [SWEeper-Bench](https://awesomecua.com/resources/url-9d35341e71dfd457fd79/) — Date not recorded
+  SWEeper-Bench provides tasks drawn from web application bugs for evaluating agents that inspect running apps and repair them. Each task includes a prompt, repository revisions, and browser behavior tests.
 - [TimeWarp](https://awesomecua.com/resources/url-8be414a28d1984abb1b9/) — Date not recorded
   Dataset of 231 web-agent goals for Wiki, News, and Shop sites across six interface eras, with train and test splits and evaluator specifications.
 - [TreeCUA-Datasets](https://awesomecua.com/resources/url-2e8bba756c71f9fe3fbd/) — Date not recorded
@@ -2399,6 +2455,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Claude Sonnet 4.5 is a general model available through an API. Anthropic reports its computer-use performance on OSWorld and demonstrates browser tasks.
 - [Claude Sonnet 4.6](https://awesomecua.com/resources/url-c4a45eed67ee9087aae3/) — Date not recorded
   A general model whose release documents computer use through visual observation, mouse actions, and keyboard input, with OSWorld evaluation and prompt-injection testing.
+- [Contrastive Language Models](https://awesomecua.com/resources/github-contrastive-lm-clm/) — Date not recorded
+  CLM-8B ranks candidate actions against a state with separate embeddings and a serving API. Its authors report evaluations that include computer-use tasks.
 - [DeskMind Eyes 4B](https://awesomecua.com/resources/url-0f9bf031c9ee17191cd1/) — Date not recorded
   DeskMind Eyes 4B maps an element description and screenshot to a click point for Mac applications. The release provides merged model weights and reports GUI grounding results.
 - [ELAM-7B](https://awesomecua.com/resources/url-057b43bab2e1e58fc58e/) — Date not recorded
@@ -2413,14 +2471,20 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   A GUI grounding model described for desktop, mobile, and browser interfaces. Its repository provides ScreenSpot-Pro evaluation and zoom-in scripts.
 - [InternVL3-9B](https://awesomecua.com/resources/url-1e3655e5a2b664102ac7/) — Date not recorded
   A released multimodal checkpoint whose training includes GUI operations and whose card documents GUI grounding alongside broader visual and language tasks.
+- [Kimi-VL-A3B-Instruct](https://awesomecua.com/resources/url-a42c3bca105218f17645/) — Date not recorded
+  Kimi-VL-A3B-Instruct is a vision-language checkpoint whose card reports performance on desktop agent interaction and screen grounding alongside general multimodal tasks.
 - [Kimi-VL-A3B-Thinking-2506](https://awesomecua.com/resources/url-fb5921fec3f7c313ab5b/) — Date not recorded
   A multimodal reasoning model with released weights and high-resolution image input. Its authors report GUI grounding evaluations on ScreenSpot-Pro, ScreenSpot-V2 and OSWorld-G.
 - [Llama8b-NNetNav-WA](https://awesomecua.com/resources/url-c9d2a9288a568db12bd1/) — Date not recorded
   A Llama checkpoint trained on demonstrations gathered through WebArena exploration. It takes a task instruction and selects browser actions to navigate webpages.
 - [Magma-R1](https://awesomecua.com/resources/url-e5e74846aeaa8398673e/) — Date not recorded
   Magma-R1 is a released GUI-agent model trained on curated AndroidControl samples. Its accompanying documentation describes action and grounding evaluation and reward-based training.
+- [moonshotai/Kimi-VL-A3B-Thinking](https://awesomecua.com/resources/url-c1851e7db3b0e53d2218/) — Date not recorded
+  Kimi-VL-A3B-Thinking is a released reasoning-focused vision-language checkpoint. Its card also reports Kimi-VL family evaluations on desktop-agent tasks and screen grounding.
 - [Orienter](https://awesomecua.com/resources/url-758f048c78e5c184333c/) — Date not recorded
   Orienter locates interactable elements in extended reality interface screenshots using application context and a detector. The release includes code and a checkpoint.
+- [Qwen2-VL-72B-Instruct](https://awesomecua.com/resources/url-70a567bbf58ab99d21ee/) — Date not recorded
+  Qwen2-VL-72B-Instruct is a general vision-language model whose card describes operation of mobile devices from visual input and instructions and reports Android agent evaluations.
 - [Qwen2.5-VL-3B-Instruct](https://awesomecua.com/resources/url-52ec96785d9c0ae8e039/) — Date not recorded
   An instruction-tuned vision-language checkpoint that reads visual layouts, localizes points or boxes, and supports computer and phone use. Its card reports screen and mobile-agent evaluations.
 - [Qwen2.5-VL-3B-UI-R1-E](https://awesomecua.com/resources/url-72f3737bb5194fd64852/) — Date not recorded
@@ -2464,6 +2528,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   QA agent for browser and mobile apps that executes actions through Playwright and Appium, verifies steps, and records runs. Its publisher reports completing all AndroidWorld tasks.
 - [AgentGym](https://awesomecua.com/resources/github-woooodyy-agentgym/) — Date not recorded
   AgentGym provides interactive environments for developing and evaluating agents, including web tasks in WebShop and WebArena, with trajectory collection and training support.
+- [AgentGym-RL](https://awesomecua.com/resources/github-woooodyy-agentgym-rl/) — Date not recorded
+  A reinforcement-learning framework for multi-turn agents that includes WebArena navigation tasks and a method for increasing interaction length during training.
 - [Agentic Reward Modeling (RewardAgent)](https://awesomecua.com/resources/github-thu-keg-agentic-reward-modeling/) — Date not recorded
   RewardAgent combines human-preference scores with verifiable factuality and instruction-following checks to judge agent trajectories.
 - [Agentic Web Check](https://awesomecua.com/resources/github-ericovirgy-agentic-web-check/) — Date not recorded
@@ -2472,6 +2538,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   AgentiTest is a natural-language browser test automation framework built on Python pytest, Allure reporting, and LLM web agents.
 - [AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) — Date not recorded
   Experiment framework for developing and evaluating browser agents.
+- [AgentLab-Knows](https://awesomecua.com/resources/github-farhanishmam-agentlab-knows/) — Date not recorded
+  AgentLab-Knows extends AgentLab with agent configurations for evaluating browser agents on Google Workspace Docs, Sheets and Slides tasks in the Knows benchmark.
 - [Agentless](https://awesomecua.com/resources/github-openautocoder-agentless/) — Date not recorded
   Agentless resolves software engineering issues through a three-phase localization, repair, and patch validation pipeline.
 - [AgentOccam](https://awesomecua.com/resources/github-amazon-science-agentoccam/) — Date not recorded
@@ -2480,6 +2548,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Visual session-replay debugger for Browser Use agent runs that lets developers scrub through step timelines and DOM states.
 - [AgentStudio](https://awesomecua.com/resources/github-skyworkai-agent-studio/) — Date not recorded
   Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
+- [AgentVision](https://awesomecua.com/resources/github-amitpatole-agent-vision/) — Date not recorded
+  A visual review tool for AI agents that renders interfaces and reports layout, contrast, text, and image issues. Agents can use its findings to revise and check their output again.
 - [AGI SDK](https://awesomecua.com/resources/github-agi-inc-agisdk/) — Date not recorded
   AGI SDK provides a browser-agent API and evaluation harness for tasks on deterministic replicas of interactive websites, with support for custom agents.
 - [AI Medical Claim Form-Filling Agent](https://awesomecua.com/resources/github-caicai-jin-ai-medicalclaimform-filling-agent/) — Date not recorded
@@ -2512,6 +2582,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   AppSim-UberEats is an Android app replica with interactive shopping screens, seeded data and scripts for checking task events and answers during mobile-agent evaluation.
 - [Appwalk](https://awesomecua.com/resources/github-kubstack-appwalk/) — Date not recorded
   AI-powered CLI that explores a web application in a browser and compiles the run into verified Playwright test suites.
+- [ASIL Benchmark Images](https://awesomecua.com/resources/url-6545629632b5e3e3a3d6/) — Date not recorded
+  Prebuilt Singularity/Apptainer runtime images for reproducing the ASIL agent benchmark, supplied with versioned manifests and checksums.
 - [AskUI](https://awesomecua.com/resources/url-d071f3f5a01a5f9d6d78/) — Date not recorded
   AskUI runs plain-language Android app tests through visual screen interaction on devices and emulators, with screenshot traces and CI integrations.
 - [AUITestAgent](https://awesomecua.com/resources/github-bz-lab-auitestagent/) — Date not recorded
@@ -2536,6 +2608,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Screen-driven QA agent that tests web and desktop applications through their rendered UI and hands off edge cases to humans.
 - [Capybara](https://awesomecua.com/resources/github-teamcapybara-capybara/) — Date not recorded
   Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.
+- [Case Flow](https://awesomecua.com/resources/github-dongxinsuperman-case-flow-ai/) — Date not recorded
+  Case Flow is a visual test workbench that sends cases to phone and web executors, then gathers run status, reports, and evidence for review.
 - [ChimeraX-SessionStates](https://awesomecua.com/resources/github-shiinahiiragi-chimerax-states/) — Date not recorded
   ChimeraX plugin used by ScienceBoard to expose internal molecular-visualization session state for deterministic benchmark evaluation.
 - [Chrome Extension Tester MCP](https://awesomecua.com/resources/github-bhuvan-rj-chrome-extension-testing-mcp/) — Date not recorded
@@ -2550,6 +2624,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   An Android Compose clone app for GUI-agent testing, with shopping, messaging, search, and content screens backed by seeded fictional data.
 - [Coasty](https://awesomecua.com/resources/url-05dde0b8766744e94e07/) — Date not recorded
   Coasty develops computer-use environments for agent training and evaluation, using computer and phone interfaces alongside trajectories and outcome checks.
+- [CodexQA Jev Browser](https://awesomecua.com/resources/github-openqa-cn-jev-browser/) — Date not recorded
+  CodexQA Jev Browser operates Playwright pages through indexed controls and model-selected actions, with case replay and reports based on visible page evidence.
 - [Cognitive Kernel-Pro](https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/) — Date not recorded
   Cognitive Kernel-Pro is a deep-research agent with a browser-backed web component and multimodal model configuration. Its repository includes code and examples for running research tasks.
 - [Collection of WebMCP tools](https://awesomecua.com/resources/github-googlechromelabs-webmcp-tools/) — Date not recorded
@@ -2572,10 +2648,14 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   cua-lite is a cross-platform desktop application and harness for running, evaluating, and fine-tuning computer-use agents.
 - [CUArena](https://awesomecua.com/resources/github-ogutdgn-cuarena/) — Date not recorded
   CUArena wraps desktop and web applications into resettable, observable, and programmatically gradable reinforcement-learning environments.
+- [cube-harness](https://awesomecua.com/resources/github-the-ai-alliance-cube-harness/) — Date not recorded
+  cube-harness runs agent evaluations across compatible benchmarks, including MiniWob, and provides trajectories, screenshots, and an experiment viewer.
 - [D-PoT evaluation code](https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/) — Date not recorded
   Offline prompting and evaluation code for Dynamic Planning of Thoughts on Android-in-the-Wild, including action extraction and comparison with reference actions.
 - [debug-kit](https://awesomecua.com/resources/github-dxiongya-debug-kit/) — Date not recorded
   Cross-platform Agent Skill for driving, inspecting, and testing applications across macOS, iOS, Android, Web, Electron, Windows, and Linux.
+- [DeskMind Hands](https://awesomecua.com/resources/github-deskmind-ai-hands/) — Date not recorded
+  A desktop agent harness that runs planner decisions through macOS input and accessibility controls, with a mock desktop, task verification and oracle-labelled training workflows.
 - [devloop](https://awesomecua.com/resources/github-vincentvella-devloop/) — Date not recorded
   Model Context Protocol server that correlates headless browser automation actions and dev-server logs on a single unified timeline.
 - [DevTools Lens MCP](https://awesomecua.com/resources/github-aakcay5656-devtools-lens-mcp/) — Date not recorded
@@ -2590,6 +2670,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   DroidBot generates scripted or model-guided inputs for Android app testing and records UI transitions, view structures, and method traces.
 - [DroidCall generation and evaluation code](https://awesomecua.com/resources/github-ubiquitouslearning-droidcall/) — Date not recorded
   Data-generation, fine-tuning and evaluation utilities for teaching small language models to invoke Android intents through predefined functions.
+- [dsh-design](https://awesomecua.com/resources/github-viger1-dsh-design/) — Date not recorded
+  A browser-based design audit for agent-created pages that measures rendered contrast, typography, spacing, colors, and controls. It includes a design-system skill.
 - [dsh-live-loop](https://awesomecua.com/resources/github-powerrrrrrrr-dsh-live-loop/) — Date not recorded
   Frontend runtime verification plugin for DeepSeek Harness that detects, launches, previews, and tests web apps in a live browser.
 - [dsh-plugin-ui-debug](https://awesomecua.com/resources/github-featherhunter-dsh-plugin-ui-debug/) — Date not recorded
@@ -2604,6 +2686,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Model Context Protocol server that lets AI agents inspect, click, type, drag, and screenshot Electron desktop applications.
 - [Enterprise Web Workflow Agent](https://awesomecua.com/resources/github-ztr321-enterprise-web-workflow-agent/) — Date not recorded
   Enterprise web workflow agent framework combining browser-use automation, human-in-the-loop safety gates, trace logging, and evaluation.
+- [ExACT](https://awesomecua.com/resources/github-microsoft-exact/) — Date not recorded
+  ExACT supplies a web agent that uses reflective tree search to explore and assess interface states, plus scripts for running and evaluating tasks in VisualWebArena.
 - [Factifai](https://awesomecua.com/resources/github-presidio-oss-factif-ai/) — Date not recorded
   Factifai is an AI-driven browser and UI test automation framework that executes natural-language test cases with Playwright and vision models.
 - [Farsyn](https://awesomecua.com/resources/github-xala-technologies-farsyn/) — Date not recorded
@@ -2636,6 +2720,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.
 - [gui-agent](https://awesomecua.com/resources/github-waynchi-gui-agent/) — Date not recorded
   Research code for GUI-agent experiments, accompanied by a trained interface element detector, experiment configurations and prompts.
+- [GUI-Docker-Env](https://awesomecua.com/resources/github-computer-use-agents-gui-docker-env/) — Date not recorded
+  GUI-Docker-Env hosts OSWorld Ubuntu desktop simulators in Docker, with configurable VM images, authentication, concurrency limits and status endpoints.
 - [GUI-DR](https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/) — Date not recorded
   GUI-DR generates perturbed web screenshots and interaction trajectories from Mind2Web archives to support GUI grounding evaluation and fine-tuning.
 - [HAICOSYSTEM](https://awesomecua.com/resources/github-xuhuizhou-haicosystem/) — Date not recorded
@@ -2664,10 +2750,14 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Headless, agent-controllable browser MCP server designed for testing and inspecting local web development servers.
 - [Lynx Agent](https://awesomecua.com/resources/github-wangjiang314-lynx-agent/) — Date not recorded
   Lynx Agent is a completion-first Android phone-use agent with evidence-based state verification, recovery, and safety checks.
+- [mano-afk](https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/) — Date not recorded
+  An app-building agent that deploys software and tests it through browser GUI actions, with retry loops and an included benchmark for GUI automation.
 - [MCP-CodexGPT](https://awesomecua.com/resources/github-mosmotov-mcp-codexgpt/) — Date not recorded
   Cross-platform Model Context Protocol bridge for deterministic ChatGPT Web code and plan reviews from Codex or Claude Code.
 - [md-e2e](https://awesomecua.com/resources/github-a-ryan-kr-md-e2e/) — Date not recorded
   Zero-glue-code, Markdown-native end-to-end browser test automation framework powered by LLM agents.
+- [MemAgent](https://awesomecua.com/resources/github-dialogbased-interaction-goal-alignment/) — Date not recorded
+  MemAgent studies conversational goal alignment for web agents using task information and fine-tuned language models. Its repository provides data and training and execution scripts.
 - [MemGUI-Agent](https://awesomecua.com/resources/github-kwai-memgui-agent/) — Date not recorded
   MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
 - [MergeProof](https://awesomecua.com/resources/github-bukacdan-mergeproof/) — Date not recorded
@@ -2690,6 +2780,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   MyInstagram is an Android clone app with interactive social screens, mock data, and state fields for checking the outcomes of GUI agent tasks.
 - [MyMusic](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-neteasecloudmusic/) — Date not recorded
   A simplified Android music app with fixed local data and action records for checking whether mobile GUI agents complete tasks.
+- [MyPCBench VM images](https://awesomecua.com/resources/url-01b4f010bda4dc4a5731/) — Date not recorded
+  MyPCBench VM images provides disk images for evaluating computer-use agents on seeded web apps, alongside a task suite with grading rubrics.
 - [naive-user](https://awesomecua.com/resources/github-techgardencode-naive-user/) — Date not recorded
   Source-blind browser agent that explores live web applications as a first-time user to uncover UX friction and broken flows.
 - [nemosr dsh-personal-plugins](https://awesomecua.com/resources/github-nemosr-dsh-personal-plugins/) — Date not recorded
@@ -2698,6 +2790,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Exposes 98 Chrome inspection, DOM debugging, network tracing, and interaction tools to AI agents over MCP.
 - [Neurosim](https://awesomecua.com/resources/github-anaishowland-neurosim/) — Date not recorded
   Neurosim is a Python framework for building, simulating, and evaluating multi-step AI and computer-use agent systems.
+- [openadapt-viewer](https://awesomecua.com/resources/github-openadaptai-openadapt-viewer/) — Date not recorded
+  openadapt-viewer builds an HTML report from desktop or web agent runs, showing task outcomes and step-by-step screenshots alongside actions and reasoning.
 - [OpenMobile-2 code](https://awesomecua.com/resources/github-openmobile2-openmobile2-code/) — Date not recorded
   Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
 - [OpenQA](https://awesomecua.com/resources/github-openqa-labs-openqa/) — Date not recorded
@@ -2728,6 +2822,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.
 - [PixelCheck](https://awesomecua.com/resources/github-xcodethink-pixelcheck/) — Date not recorded
   Drop-in MCP server providing five visual browser primitives for frontend coding agents to inspect, screenshot, and verify live web UIs.
+- [PlayCoder](https://awesomecua.com/resources/github-tencent-playcoder/) — Date not recorded
+  PlayCoder generates and refines GUI application code using interactive tests. Its PlayTester observes application screenshots, performs interface actions and feeds results into repair.
 - [PlayJev](https://awesomecua.com/resources/github-omnijev-playjev/) — Date not recorded
   A browser-game agent that selects moves from rendered frames. Its repository provides game environments, a demo, and scripts for training and evaluation.
 - [Playwright Flow Tester MCP](https://awesomecua.com/resources/github-sadiuysal-playwright-flow-tester/) — Date not recorded
@@ -2758,6 +2854,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Visual QA, accessibility auditing, screenshot diffing, and MCP browser automation toolkit.
 - [pyside6-mcp](https://awesomecua.com/resources/github-com55-pyside6-mcp/) — Date not recorded
   Playwright-style Model Context Protocol server that lets AI agents inspect, control, and debug Qt/PySide6 desktop GUI applications.
+- [Q-Verifier / Q-Reflector](https://awesomecua.com/resources/github-pockyitachi-q-verifier/) — Date not recorded
+  Q-Reflector checks a GUI agent's action against before-and-after screenshots and task context, with training and online evaluation code.
 - [QAgent](https://awesomecua.com/resources/github-rishabhcli-qagent/) — Date not recorded
   QAgent is a local-first web QA and repair agent with an Electron desktop UI, CLI, MCP server, and isolated Git worktree execution.
 - [QUESTZ](https://awesomecua.com/resources/github-pnx89-questz/) — Date not recorded
@@ -2772,6 +2870,10 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.
 - [RegionFocus](https://awesomecua.com/resources/github-tiangeluo-regionfocus/) — Date not recorded
   RegionFocus provides code for GUI grounding through selected screenshot regions. The release evaluates UI-TARS and Qwen2.5-VL on ScreenSpot-Pro.
+- [ReproSight](https://awesomecua.com/resources/github-tungcorn-reprosight/) — Date not recorded
+  ReproSight is a CLI that lets coding agents reproduce visual defects in a browser, collect evidence, isolate edits in a worktree, and run regression checks.
+- [RSIGame](https://awesomecua.com/resources/github-wenyiwu0111-rsigame/) — Date not recorded
+  An agentic game-development system that plays generated games, uses screenshots and run evidence to guide revisions, and replays builds to check the changes.
 - [Scavenge](https://awesomecua.com/resources/github-aarohim24-scavenge/) — Date not recorded
   Deterministic web-field inspector that extracts and verifies single webpage values with cryptographic evidence for coding agents.
 - [ScienceBoard VMware environment](https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/) — Date not recorded
@@ -2806,6 +2908,10 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Autonomous, lightweight browser smoke-testing daemon written in Rust for continuous website verification.
 - [skillproof](https://awesomecua.com/resources/github-hccccc01333-skillproof/) — Date not recorded
   skillproof records a human browser demonstration once and compiles it into a replayable agent skill paired with an explicit completion verifier.
+- [SoftwareGym](https://awesomecua.com/resources/github-mrkiing-jin-softwaregym/) — Date not recorded
+  SoftwareGym synthesizes runnable GUI applications as environments for computer-use agents. It tests generated apps through screenshot-based actions in Ubuntu virtual machines and uses feedback to repair them.
+- [Solari Research Suite: ARC & ColdStart](https://awesomecua.com/resources/github-itw-code-solari-cookbook/) — Date not recorded
+  A research suite combining an accessibility-based browser-agent harness with an evaluation harness that changes a web task app and verifies completed actions against database state.
 - [solari-identity-guard](https://awesomecua.com/resources/github-nahuelsoria-solari-identity-guard/) — Date not recorded
   Fail-closed identity and session verification middleware for Solari browser agent profiles.
 - [Sorify](https://awesomecua.com/resources/github-rakutentech-sorify/) — Date not recorded
@@ -2836,6 +2942,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   VillagerAgent provides a directed-acyclic-graph multi-agent coordinator and the VillagerBench evaluation suite in Minecraft.
 - [VisionDroid](https://awesomecua.com/resources/github-testtesta6-visiondroid/) — Date not recorded
   VisionDroid uses multimodal LLMs to explore Android app screens and detect non-crash functional GUI logic bugs across page transitions.
+- [VISTA](https://awesomecua.com/resources/github-joshhhhhan-vista/) — Date not recorded
+  VISTA is a harness for visual game agents that combines game actions with frame inspection and retrievable observation history for extended tasks.
 - [VLM-R1](https://awesomecua.com/resources/github-om-ai-lab-vlm-r1/) — Date not recorded
   VLM-R1 provides reinforcement learning code for vision-language models, including a GUI training example and a reported defect detection model for interface screens.
 - [Voice2Task Post-Training](https://awesomecua.com/resources/github-raidriar7170-voice2task-posttraining/) — Date not recorded
@@ -2850,6 +2958,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Environment setup, multi-turn reinforcement-learning and evaluation tooling for browser agents interacting with WebArena.
 - [webarena-docker](https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/) — Date not recorded
   A Docker setup for WebArena websites provides scripts to start site containers and restore their state between experiments involving browser tasks.
+- [WebGen-Agent](https://awesomecua.com/resources/github-mnluzimu-webgen-agent/) — Date not recorded
+  WebGen-Agent creates website code from instructions, then refines it using screenshots, visual feedback and tests performed by a GUI agent. The repository includes inference and training code.
 - [WebLlama](https://awesomecua.com/resources/github-mcgill-nlp-webllama/) — Date not recorded
   Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.
 - [WebMCP Deadbolt](https://awesomecua.com/resources/github-faxanfm-webmcp-deadbolt/) — Date not recorded
@@ -2862,8 +2972,12 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   WebQA Agent is an autonomous multimodal web testing agent that audits webpage functionality, performance, and visual UX without test scripts.
 - [WebtestingWithLLMs](https://awesomecua.com/resources/github-softwaretestingllms-webtestingwithllms/) — Date not recorded
   A set of Selenium scripts for automated web application testing, including a monkey tester with configurable interaction count and timing.
+- [WebVIA](https://awesomecua.com/resources/github-zheny2751-dotcom-webvia/) — Date not recorded
+  WebVIA links an agent that explores web pages and records actions to modules that generate HTML and verify the resulting interface.
 - [WebVLN research implementation](https://awesomecua.com/resources/github-webvln-webvln/) — Date not recorded
   Training and evaluation code for question-guided website navigation that combines visual observations with web-specific HTML information.
+- [WildAWM](https://awesomecua.com/resources/github-msr-orchard-wildawm/) — Date not recorded
+  WildAWM supplies a pipeline for generating computer environments and cross-interface tasks, with execution checks and tools for evaluating agents.
 - [WinDOM code](https://awesomecua.com/resources/github-chenghengli-windom/) — Date not recorded
   GUI-grounding training and evaluation code with same-family distillation, GRPO recipes and point-in-box scoring, using a Windows-style web environment.
 - [WinWright](https://awesomecua.com/resources/github-alegauss-winwright/) — Date not recorded
@@ -2901,5 +3015,7 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   An annotated reading list of 45 NeurIPS 2025 computer-use agent papers, organized around benchmarks, safety, grounding and agent architectures.
 - [Open Operator](https://awesomecua.com/resources/github-openhands-open-operator/) — Date not recorded
   Open Operator collects resources on computer-use agents, with task categories, benchmark summaries, and pages describing existing agent systems.
+- [Predicate SDK Playground](https://awesomecua.com/resources/github-predicatesystems-predicate-sdk-playground/) — Date not recorded
+  A collection of runnable browser-agent demos using semantic page snapshots and assertions, with logs, screenshots and token accounting for evaluation.
 - [Visual Agents Workshop Series](https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/) — Date not recorded
   Visual Agents Workshop Series teaches GUI agent research, dataset preparation, and model fine-tuning through three sessions with linked notebooks and resources.

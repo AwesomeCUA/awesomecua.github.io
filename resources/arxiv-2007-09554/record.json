@@ -1,14 +1,14 @@
 {
   "status": "excluded",
   "id": "arxiv:2007.09554",
-  "reason": "The abstract surveys methods and datasets for localizing objects in natural images from referring expressions. This general vision-language survey does not cover GUI grounding or agents operating interfaces.",
+  "reason": "The abstract surveys methods and datasets for localizing objects in natural images from referring expressions. This general vision-language survey sits outside GUI grounding and computer-use agents.",
   "decision": {
     "id": "arxiv:2007.09554",
     "name": "Referring Expression Comprehension: A Survey of Methods and Datasets",
     "url": "https://arxiv.org/abs/2007.09554",
     "decision": "out_of_scope",
     "basis": "primary_abstract_review",
-    "reason": "The abstract surveys methods and datasets for localizing objects in natural images from referring expressions. This general vision-language survey does not cover GUI grounding or agents operating interfaces.",
+    "reason": "The abstract surveys methods and datasets for localizing objects in natural images from referring expressions. This general vision-language survey sits outside GUI grounding and computer-use agents.",
     "reviewed_at": "2026-11-05T23:58:03Z",
     "metadata_fingerprint": "9dda0c361f507931e0f68c9ac5cb04ea75914071d7588170d7818b2176c46bb7",
     "evidence": {

@@ -2,40 +2,40 @@
 
 Computer-use agents are complete systems that observe a screen or web page, plan, and act through clicks, typing, browser commands or shell tools to finish a user task.
 
-> 444 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
+> 471 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ## How to choose
 
 | Agent | Platform | License | Mentions |
 | --- | --- | --- | --- |
 | [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) | Mobile · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE) | 27 |
-| [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 22 |
+| [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 26 |
+| [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) | Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE) | 16 |
 | [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE) | 16 |
-| [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) | Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE) | 15 |
+| [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/) | Desktop | [MIT (code)](https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE) | 11 |
 | [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE) | 10 |
-| [Gemini CLI](https://awesomecua.com/resources/github-google-gemini-gemini-cli/) | Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/google-gemini/gemini-cli/HEAD/LICENSE) | 10 |
 
 ## Questions
 
 ### Which agents are mentioned most in the catalog?
 
-[Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) (27 records), [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) (22 records) and [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) (16 records) are mentioned in the reviewed sources of the most other catalog records.
+[Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) (27 records), [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) (26 records) and [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) (16 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these agents cover?
 
-Of 444 reviewed agents, 223 are tagged web, 214 desktop, 83 mobile and 49 cross-platform; 3 have no platform recorded. An entry tagged with several platforms counts under each.
+Of 471 reviewed agents, 241 are tagged web, 228 desktop, 90 mobile and 59 cross-platform; 3 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ### Which agents come with a research paper?
 
-62 of 444 link the arXiv paper that introduces or documents them, for example [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/), [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) and [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/).
+67 of 471 link the arXiv paper that introduces or documents them, for example [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/), [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) and [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/).
 
 ### Which licenses do agents declare?
 
-The most common declared licenses are MIT (189), Apache-2.0 (86) and AGPL-3.0 (12). 136 of 444 have no declared license in their record.
+The most common declared licenses are MIT (206), Apache-2.0 (89) and AGPL-3.0 (12). 142 of 471 have no declared license in their record.
 
 ### How is this list ordered?
 
@@ -107,6 +107,36 @@ Hermes Agent is a self-improving autonomous agent by Nous Research with procedur
 
 ---
 
+## OpenAI Codex CLI
+
+OpenAI Codex CLI is a local terminal and desktop coding agent that executes commands and edits files inside OS-enforced sandboxes.
+
+- Catalog URL: https://awesomecua.com/resources/github-openai-codex/
+- Original source: https://github.com/openai/codex
+- Kind: agent
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, macos, linux, windows
+- Topics: tool-integration, sandbox, automation
+- Evidence checked: 2026-11-04T13:12:29Z
+- ID: github:openai/codex
+
+- Record JSON: https://awesomecua.com/resources/github-openai-codex/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/openai/codex/HEAD/README.md (retrieved 2026-11-04T13:12:29Z; SHA-256 ba4e1f69ff48386e72a9c5e1edaf76aad64a475c2d51af79ccba6d1128261ba7)
+- https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE (retrieved 2026-11-04T13:42:24Z; SHA-256 d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc)
+
+---
+
 ## OpenClaw
 
 OpenClaw is an open-source personal computer-use assistant that executes browser, desktop, terminal, and messaging workflows across local devices.
@@ -137,33 +167,33 @@ OpenClaw is an open-source personal computer-use assistant that executes browser
 
 ---
 
-## OpenAI Codex CLI
+## OpenAdapt
 
-OpenAI Codex CLI is a local terminal and desktop coding agent that executes commands and edits files inside OS-enforced sandboxes.
+Tools for learning and automating workflows from desktop demonstrations.
 
-- Catalog URL: https://awesomecua.com/resources/github-openai-codex/
-- Original source: https://github.com/openai/codex
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt/
+- Original source: https://github.com/OpenAdaptAI/OpenAdapt
 - Kind: agent
 - Review: curated
-- Scope: adjacent
-- Environments: cross-platform, desktop, macos, linux, windows
-- Topics: tool-integration, sandbox, automation
-- Evidence checked: 2026-11-04T13:12:29Z
-- ID: github:openai/codex
+- Scope: core
+- Environments: desktop
+- Topics: recording, workflow
+- Evidence checked: 2026-10-16T06:36:03Z
+- ID: github:openadaptai/openadapt
 
-- Record JSON: https://awesomecua.com/resources/github-openai-codex/record.json
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt/record.json
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/openai/codex/HEAD/README.md (retrieved 2026-11-04T13:12:29Z; SHA-256 ba4e1f69ff48386e72a9c5e1edaf76aad64a475c2d51af79ccba6d1128261ba7)
-- https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE (retrieved 2026-11-04T13:42:24Z; SHA-256 d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc)
+- https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 36a6e7d56a1d474ee83e5811babe8e11cb113ee12386f9621bba64ffd957a6bc)
+- https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 7f2bc0ccbf15854bbe46f5fa0e7cb26fe42f88ec9f8c9b151f0f93c4415820f9)
 
 ---
 
@@ -227,33 +257,37 @@ Gemini CLI is Google's open-source terminal agent providing shell execution, fil
 
 ---
 
-## OpenAdapt
+## Jev Ultrafast
 
-Tools for learning and automating workflows from desktop demonstrations.
+Jev Ultrafast operates a browser by selecting actions and targets from an indexed table of visible controls, with a separate model generating text when needed.
 
-- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt/
-- Original source: https://github.com/OpenAdaptAI/OpenAdapt
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-jev-ultrafast/
+- Original source: https://github.com/browser-use/jev-ultrafast
 - Kind: agent
 - Review: curated
 - Scope: core
-- Environments: desktop
-- Topics: recording, workflow
-- Evidence checked: 2026-10-16T06:36:03Z
-- ID: github:openadaptai/openadapt
+- Environments: web
+- Topics: web-navigation, grounding, efficiency, robustness
+- Evidence checked: 2026-11-09T21:09:27Z
+- ID: github:browser-use/jev-ultrafast
 
-- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt/record.json
+### Limitations
+
+The repository includes the agent loop, browser connection, model code, local inspector, and performance notes. The example requires TypeSafe and text-model API keys and connects to Chrome through Browser Harness.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-use-jev-ultrafast/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/browser-use/jev-ultrafast/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 36a6e7d56a1d474ee83e5811babe8e11cb113ee12386f9621bba64ffd957a6bc)
-- https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 7f2bc0ccbf15854bbe46f5fa0e7cb26fe42f88ec9f8c9b151f0f93c4415820f9)
+- https://raw.githubusercontent.com/browser-use/jev-ultrafast/HEAD/README.md (retrieved 2026-11-09T21:09:27Z; SHA-256 eada256e81e9d20f043b40ba594fee95be4b6dcbdb39bab5be136997d6221284)
+- https://raw.githubusercontent.com/browser-use/jev-ultrafast/HEAD/LICENSE (retrieved 2026-11-09T21:11:41Z; SHA-256 5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631)
 
 ---
 
@@ -347,6 +381,36 @@ The repository has evolved substantially; computer-use functionality is document
 
 - https://raw.githubusercontent.com/OpenInterpreter/open-interpreter/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 8f6c33487eca77769798677d32bce15335d0439f129c9a0413e12e0d9e70ab7a)
 - https://raw.githubusercontent.com/OpenInterpreter/open-interpreter/HEAD/LICENSE (retrieved 2026-10-16T06:42:04Z; SHA-256 d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc)
+
+---
+
+## DeskMind
+
+DeskMind is a local-first macOS computer-use agent that combines accessibility inspection, DeskMind Eyes grounding, and user clarification.
+
+- Catalog URL: https://awesomecua.com/resources/github-deskmind-ai-deskmind/
+- Original source: https://github.com/deskmind-ai/deskmind
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: automation, grounding, human-in-the-loop, efficiency
+- Evidence checked: 2026-11-04T14:02:44Z
+- ID: github:deskmind-ai/deskmind
+
+- Record JSON: https://awesomecua.com/resources/github-deskmind-ai-deskmind/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/README.md (retrieved 2026-11-04T14:02:44Z; SHA-256 d54adb312f01132ceced24bea22be3670a4bc4645c8b59ceb99982cbdf74c941)
+- https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/LICENSE (retrieved 2026-11-04T14:07:46Z; SHA-256 1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d)
 
 ---
 
@@ -545,6 +609,45 @@ The official repository publishes extension source and a v0.3.0 ZIP release. It 
 
 ---
 
+## OpenMausBot
+
+Desktop chat app whose bots run local Claude, Codex or Grok CLIs and each get a computer: a cloud Linux desktop, local VM, VPS or the host through Cua Driver, plus a built-in browser and approval cards.
+
+- Catalog URL: https://awesomecua.com/resources/github-milind-soni-openmausbot/
+- Original source: https://github.com/milind-soni/OpenMausBot
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, linux, web
+- Topics: sandbox, human-in-the-loop, tool-integration
+- Evidence checked: 2026-10-18T11:40:28Z
+- ID: github:milind-soni/openmausbot
+
+### Limitations
+
+OpenMausBot ships no model: an Electron shell talks to a local harness server that runs the claude, codex and grok CLIs or other ACP engines and normalises their events. Host control uses the bundled Cua Driver and needs explicit opt-in; the README marks it supported on macOS, beta on Ubuntu Xorg and disabled on Wayland. Cloud computers come from the third-party Boat service and connected apps from Composio. The README says the project was formerly OpenGrokBot. Everything outside enterprise/ is Apache-2.0; enterprise/ is source-available under its own license.
+
+- Record JSON: https://awesomecua.com/resources/github-milind-soni-openmausbot/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/README.md (retrieved 2026-10-18T11:40:28Z; SHA-256 506bc30fecdebe7a024e7f694304c3dfecfce9c362a1b01ee9751a71faad888f)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/docs/computer-use-integration.md (retrieved 2026-10-18T11:40:04Z; SHA-256 06789e95d4eca5cd14bdfe9be11bf4c1911c08b21890777d6b33b87912e801bc)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/apps/docs/content/docs/computers/index.mdx (retrieved 2026-10-18T11:40:05Z; SHA-256 16765486dc0d3ab46f7c3d740cf1f1c64ed6c146923caba72a45f61ae49cc05a)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/third_party/cua-driver/README.md (retrieved 2026-10-18T11:40:05Z; SHA-256 3462019dea5235431871a0c9c8f83352b9460d49c7694f8e45eb4177662934a8)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSE (retrieved 2026-10-18T11:40:05Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSING.md (retrieved 2026-10-18T11:40:05Z; SHA-256 e2741dbfc0f289c53b7a6bdbbce4ddca82155c5263ebd478ae19156975cc77b2)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE (retrieved 2026-10-18T11:40:33Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
 ## UFO
 
 Windows agent framework for application and desktop automation.
@@ -601,6 +704,40 @@ Browser automation agent on the AG2 framework that pairs a planner agent with a 
 
 - https://raw.githubusercontent.com/EmergenceAI/Agent-E/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 fc3099072ca60acf2294a63dd2c3e343e90c901a7c7581f723cfdccc5a1edc2b)
 - https://raw.githubusercontent.com/EmergenceAI/Agent-E/HEAD/LICENSE.txt (retrieved 2026-10-16T06:42:04Z; SHA-256 555ac6a8bf7ef4a3c82f4ee258be9d751042f8d2a6c901e5eac7c43596563c75)
+
+---
+
+## AIHawk
+
+AIHawk searches and scores jobs against a resume, then uses Firefox to fill and submit applications selected by the user. It retains each page's response and a screenshot.
+
+- Catalog URL: https://awesomecua.com/resources/github-feder-cr-aihawk/
+- Original source: https://github.com/feder-cr/AIHawk
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, linux, web
+- Topics: web-navigation, automation, human-in-the-loop, observability
+- Evidence checked: 2026-11-09T19:57:37Z
+- ID: github:feder-cr/aihawk
+
+### Limitations
+
+The repository includes Windows and Linux installation scripts. Installation requires an OrcaRouter key.
+
+- Record JSON: https://awesomecua.com/resources/github-feder-cr-aihawk/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/README.md (retrieved 2026-11-09T19:57:37Z; SHA-256 2f90d166fb1bf175a5baf2e0ab4f04292c964b301b42a1695f89c3250bb29dfc)
+- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE (retrieved 2026-11-09T14:21:08Z; SHA-256 f8e26bc469ae827b30a93daa0a6ce8f12a65036334e700600280bf70f0fbbd9e)
 
 ---
 
@@ -665,6 +802,40 @@ LLM-powered Android task automation built on DroidBot, released with DroidTask, 
 
 ---
 
+## Blade Code
+
+Blade Code is a coding agent with native Chromium automation, ARIA page snapshots, and browser actions available through its agent workflow.
+
+- Catalog URL: https://awesomecua.com/resources/github-echovic-blade-code/
+- Original source: https://github.com/echoVic/blade-code
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, automation
+- Evidence checked: 2026-11-09T21:10:35Z
+- ID: github:echovic/blade-code
+
+### Limitations
+
+The README describes CLI, web, and headless modes, a Chromium installation command, and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-echovic-blade-code/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/echoVic/blade-code/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/echoVic/blade-code/HEAD/README.md (retrieved 2026-11-09T21:10:35Z; SHA-256 906d1cee147cbe5759d132294b8c3e0986f501960a60f448f78a507f43cf61f1)
+- https://raw.githubusercontent.com/echoVic/blade-code/HEAD/LICENSE (retrieved 2026-11-09T21:12:19Z; SHA-256 4374a054ed72efa06f1dec8f88cc4293bc7a8148611bb0dc720a7f02a37eec7e)
+
+---
+
 ## Claude Quickstarts (Computer Use Demo)
 
 Anthropic reference implementations including the containerized Claude Computer Use desktop agent demo with Xvfb, VNC, and bash/browser tools.
@@ -692,36 +863,6 @@ Anthropic reference implementations including the containerized Claude Computer 
 
 - https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/README.md (retrieved 2026-11-04T13:12:07Z; SHA-256 535355b019ed44e201847b2454551454d28af36c9f29b8991c7154c1b9afdddb)
 - https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/LICENSE (retrieved 2026-11-04T13:42:05Z; SHA-256 d7a04bf11ce24a7b79cd44b4a78dcc9971eaeb3b565821de437e0ecb7723e634)
-
----
-
-## DeskMind
-
-DeskMind is a local-first macOS computer-use agent that combines accessibility inspection, DeskMind Eyes grounding, and user clarification.
-
-- Catalog URL: https://awesomecua.com/resources/github-deskmind-ai-deskmind/
-- Original source: https://github.com/deskmind-ai/deskmind
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: automation, grounding, human-in-the-loop, efficiency
-- Evidence checked: 2026-11-04T14:02:44Z
-- ID: github:deskmind-ai/deskmind
-
-- Record JSON: https://awesomecua.com/resources/github-deskmind-ai-deskmind/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/README.md (retrieved 2026-11-04T14:02:44Z; SHA-256 d54adb312f01132ceced24bea22be3670a4bc4645c8b59ceb99982cbdf74c941)
-- https://raw.githubusercontent.com/deskmind-ai/deskmind/HEAD/LICENSE (retrieved 2026-11-04T14:07:46Z; SHA-256 1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d)
 
 ---
 
@@ -811,45 +952,6 @@ Open Computer Use runs open-source vision-language models inside an E2B Desktop 
 
 - https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/README.md (retrieved 2026-11-04T13:12:13Z; SHA-256 5ef533102ffbd847273c11f1139c8a84b6c38d92182abe55e64c902e23fbd13e)
 - https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/LICENSE (retrieved 2026-11-04T13:42:06Z; SHA-256 46c828e30f9c217b84ed1843aa08ee79658347042680c6d328f69f6da15fc4ce)
-
----
-
-## OpenMausBot
-
-Desktop chat app whose bots run local Claude, Codex or Grok CLIs and each get a computer: a cloud Linux desktop, local VM, VPS or the host through Cua Driver, plus a built-in browser and approval cards.
-
-- Catalog URL: https://awesomecua.com/resources/github-milind-soni-openmausbot/
-- Original source: https://github.com/milind-soni/OpenMausBot
-- Kind: agent
-- Review: curated
-- Scope: core
-- Environments: desktop, macos, linux, web
-- Topics: sandbox, human-in-the-loop, tool-integration
-- Evidence checked: 2026-10-18T11:40:28Z
-- ID: github:milind-soni/openmausbot
-
-### Limitations
-
-OpenMausBot ships no model: an Electron shell talks to a local harness server that runs the claude, codex and grok CLIs or other ACP engines and normalises their events. Host control uses the bundled Cua Driver and needs explicit opt-in; the README marks it supported on macOS, beta on Ubuntu Xorg and disabled on Wayland. Cloud computers come from the third-party Boat service and connected apps from Composio. The README says the project was formerly OpenGrokBot. Everything outside enterprise/ is Apache-2.0; enterprise/ is source-available under its own license.
-
-- Record JSON: https://awesomecua.com/resources/github-milind-soni-openmausbot/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/README.md (retrieved 2026-10-18T11:40:28Z; SHA-256 506bc30fecdebe7a024e7f694304c3dfecfce9c362a1b01ee9751a71faad888f)
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/docs/computer-use-integration.md (retrieved 2026-10-18T11:40:04Z; SHA-256 06789e95d4eca5cd14bdfe9be11bf4c1911c08b21890777d6b33b87912e801bc)
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/apps/docs/content/docs/computers/index.mdx (retrieved 2026-10-18T11:40:05Z; SHA-256 16765486dc0d3ab46f7c3d740cf1f1c64ed6c146923caba72a45f61ae49cc05a)
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/third_party/cua-driver/README.md (retrieved 2026-10-18T11:40:05Z; SHA-256 3462019dea5235431871a0c9c8f83352b9460d49c7694f8e45eb4177662934a8)
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSE (retrieved 2026-10-18T11:40:05Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSING.md (retrieved 2026-10-18T11:40:05Z; SHA-256 e2741dbfc0f289c53b7a6bdbbce4ddca82155c5263ebd478ae19156975cc77b2)
-- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE (retrieved 2026-10-18T11:40:33Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
 
 ---
 
@@ -1054,6 +1156,39 @@ pyproject.toml pins browser-use 0.9.5; the README also credits LangGraph and Lan
 
 ---
 
+## WebGen-Agent
+
+WebGen-Agent creates website code from instructions, then refines it using screenshots, visual feedback and tests performed by a GUI agent. The repository includes inference and training code.
+
+- Catalog URL: https://awesomecua.com/resources/github-mnluzimu-webgen-agent/
+- Original source: https://github.com/mnluzimu/WebGen-Agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: ui-design, evaluation, reinforcement-learning, web-navigation
+- Evidence checked: 2026-11-09T21:09:08Z
+- ID: github:mnluzimu/webgen-agent
+
+### Limitations
+
+The repository includes a GUI-agent integration, inference scripts and supervised fine-tuning and GRPO training scripts. Inference requires model endpoints and API keys; the README also names Node.js and Chrome as dependencies.
+
+- Record JSON: https://awesomecua.com/resources/github-mnluzimu-webgen-agent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mnluzimu/WebGen-Agent/HEAD/README.md (retrieved 2026-11-09T21:09:08Z; SHA-256 4d2f900ee1cb5b074b1b299a4bf757f7411220fb48687ee4a4d39a423f203691)
+
+---
+
 ## Actell
 
 An iPhone agent prototype observes screenshots or accessibility content and issues taps and drags through CoreDevice, using a VPN loopback or optional hardware relay.
@@ -1152,37 +1287,36 @@ Compact single-file reference browser agent designed to run inside a Solari Sand
 
 ---
 
-## AIHawk
+## Aico Link Firmware
 
-AIHawk searches and scores jobs against a resume, then uses Firefox to fill and submit applications selected by the user. It retains each page's response and a screenshot.
+Aico Link firmware runs an agent that views a phone or computer through HDMI capture and sends input through USB HID. The repository includes hardware services, agent runtime, and update tooling.
 
-- Catalog URL: https://awesomecua.com/resources/github-feder-cr-aihawk/
-- Original source: https://github.com/feder-cr/AIHawk
+- Catalog URL: https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/
+- Original source: https://github.com/AidenAI-IO/aiden-firmware
 - Kind: agent
 - Review: curated
 - Scope: core
-- Environments: desktop, windows, linux, web
-- Topics: web-navigation, automation, human-in-the-loop, observability
-- Evidence checked: 2026-11-09T19:57:37Z
-- ID: github:feder-cr/aihawk
+- Environments: cross-platform, desktop, android, ios
+- Topics: mobile-navigation, screen-understanding, action-prediction, memory
+- Evidence checked: 2026-11-09T21:09:43Z
+- ID: github:aidenai-io/aiden-firmware
 
 ### Limitations
 
-The repository includes Windows and Linux installation scripts. Installation requires an OrcaRouter key.
+The source lists a firmware overlay, C++ capture and audio services, a Go agent, tests, and benchmark support. It says the target must support video output and USB HID input; iOS control requires AssistiveTouch.
 
-- Record JSON: https://awesomecua.com/resources/github-feder-cr-aihawk/record.json
+- Record JSON: https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE
+- code: not recorded
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/README.md (retrieved 2026-11-09T19:57:37Z; SHA-256 2f90d166fb1bf175a5baf2e0ab4f04292c964b301b42a1695f89c3250bb29dfc)
-- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE (retrieved 2026-11-09T14:21:08Z; SHA-256 f8e26bc469ae827b30a93daa0a6ce8f12a65036334e700600280bf70f0fbbd9e)
+- https://raw.githubusercontent.com/AidenAI-IO/aiden-firmware/HEAD/README.md (retrieved 2026-11-09T21:09:43Z; SHA-256 0fb5c33dc1cac8fc9c5189ecd19312c815aaeab49017424bd38df3b880a8123a)
 
 ---
 
@@ -1447,6 +1581,141 @@ The README points to processed data and trained models in a separate repository,
 
 ---
 
+## AutoDesign
+
+An agentic design system that turns a paper into editable posters, slides, webpages, and videos. Its workflow uses a browser audit to check rendered screen and print output.
+
+- Catalog URL: https://awesomecua.com/resources/github-yaxin9luo-autodesign/
+- Original source: https://github.com/Yaxin9Luo/AutoDesign
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: ui-design, workflow, screen-understanding
+- Evidence checked: 2026-11-09T21:10:09Z
+- ID: github:yaxin9luo/autodesign
+
+### Limitations
+
+The repository includes source code, agent skills, a web workbench, demos, and evaluation material. Local setup lists Python, Node.js, and provider keys as requirements.
+
+- Record JSON: https://awesomecua.com/resources/github-yaxin9luo-autodesign/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Yaxin9Luo/AutoDesign/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Yaxin9Luo/AutoDesign/HEAD/README.md (retrieved 2026-11-09T21:10:09Z; SHA-256 e5c18daf16c5e021bb427e98914b0a1b84e956b1334eefcfd863c8520727feeb)
+- https://raw.githubusercontent.com/Yaxin9Luo/AutoDesign/HEAD/LICENSE (retrieved 2026-11-09T21:12:14Z; SHA-256 c1f183e117913e5c054ad61f3a6e8091689e6da6a82f48b56ce327ff1cccbabc)
+
+---
+
+## AutoGLM Android 助手
+
+An Android agent that follows voice or text commands by reading screenshots and simulating touch through Shizuku.
+
+- Catalog URL: https://awesomecua.com/resources/github-sidhu-master-androidautoglm/
+- Original source: https://github.com/sidhu-master/AndroidAutoGLM
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, automation, screen-understanding
+- Evidence checked: 2026-11-09T21:08:40Z
+- ID: github:sidhu-master/androidautoglm
+
+### Limitations
+
+The repository includes Android app source. It requires Android 11 or later, Shizuku pairing, overlay permission, and a Zhipu AI API key. The README permits personal, research, and noncommercial use and requires written authorization for commercial use.
+
+- Record JSON: https://awesomecua.com/resources/github-sidhu-master-androidautoglm/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sidhu-master/AndroidAutoGLM/HEAD/README.md (retrieved 2026-11-09T21:08:40Z; SHA-256 f3bc01b096d0b7f182db59aaf28a623126dd7c55ac36bbf299b2af61d82c2b35)
+
+---
+
+## Blender AI Plugin
+
+Blender AI Plugin equips an agent to inspect and edit an open Blender scene through MCP, using an orchestrator, skills, and scripts for asset workflows.
+
+- Catalog URL: https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/
+- Original source: https://github.com/proyecto26/blender-ai-plugin
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: tool-integration, ui-design, workflow
+- Evidence checked: 2026-11-09T21:10:54Z
+- ID: github:proyecto26/blender-ai-plugin
+
+### Limitations
+
+The README describes an installable plugin with skill manifests and tested bpy scripts. Setup requires Blender and the Blender Lab MCP server add-on.
+
+- Record JSON: https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/proyecto26/blender-ai-plugin/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/proyecto26/blender-ai-plugin/HEAD/README.md (retrieved 2026-11-09T21:10:54Z; SHA-256 9fccb7907464dbc9417ec3ce238968534c518331035781a04ddb7e0d30286007)
+- https://raw.githubusercontent.com/proyecto26/blender-ai-plugin/HEAD/LICENSE (retrieved 2026-11-09T21:12:32Z; SHA-256 6d67bb1f95df1bddc3ee2fea5196a68694910a0705890072da906c9a8de4311a)
+
+---
+
+## Bodhi
+
+Bodhi is a desktop agent workbench built around a Rust runtime. Its optional Nova tools let the agent operate native applications and browsers.
+
+- Catalog URL: https://awesomecua.com/resources/github-bigduu-zenith/
+- Original source: https://github.com/bigduu/Zenith
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, windows, linux, web, cross-platform
+- Topics: automation, tool-integration, workflow
+- Evidence checked: 2026-11-09T21:10:16Z
+- ID: github:bigduu/zenith
+
+### Limitations
+
+Zenith indexes the desktop app, runtime and MCP tools through source modules. Packaged installations are described for macOS, Windows and Linux; the README declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-bigduu-zenith/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/bigduu/Zenith/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/bigduu/Zenith/HEAD/README.md (retrieved 2026-11-09T21:10:16Z; SHA-256 4b01725406c3bdd90830982b1de0c0db2f99a5634c1b192bc87d4431392daf49)
+- https://raw.githubusercontent.com/bigduu/Zenith/HEAD/LICENSE (retrieved 2026-11-09T21:12:15Z; SHA-256 a47706d592a1f15855061143e627d1a4fc12cb32647b36d407326d5da899d413)
+
+---
+
 ## Browser Agent
 
 Browser Agent runs natural-language web tasks through Chromium. It offers a CLI and TypeScript and Python SDKs that stream progress and return task results.
@@ -1478,6 +1747,40 @@ The README lists Node.js, Chrome or Chromium, and a configured model provider as
 
 - https://raw.githubusercontent.com/visnia-ai/browser-agent/HEAD/README.md (retrieved 2026-11-09T19:57:07Z; SHA-256 9ed752ea752eefe94fb7facffeadb9d114d781cff22901aa0c478d895942c42f)
 - https://raw.githubusercontent.com/visnia-ai/browser-agent/HEAD/LICENSE.md (retrieved 2026-11-09T14:20:51Z; SHA-256 5d44f7c0d69e4fc93d0e2549662437931157d33b68f7662f643d0ba29eb9383e)
+
+---
+
+## BrowserBee
+
+A Chrome extension that takes natural-language instructions and uses an LLM with Playwright to observe and operate websites, with locally stored task memories and user approval for selected actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-parsaghaffari-browserbee/
+- Original source: https://github.com/parsaghaffari/browserbee
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, memory, human-in-the-loop, planning
+- Evidence checked: 2026-11-09T21:09:38Z
+- ID: github:parsaghaffari/browserbee
+
+### Limitations
+
+The README provides source-build instructions, a release download, and a Chrome Web Store listing. It states that development has stopped and that the extension requires a configured LLM provider.
+
+- Record JSON: https://awesomecua.com/resources/github-parsaghaffari-browserbee/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/parsaghaffari/browserbee/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/parsaghaffari/browserbee/HEAD/README.md (retrieved 2026-11-09T21:09:38Z; SHA-256 706be076c43586e8604619740f3dbd2c7842cf30c470dcefd9e7cf8c4a6e4d17)
+- https://raw.githubusercontent.com/parsaghaffari/browserbee/HEAD/LICENSE (retrieved 2026-11-09T21:11:53Z; SHA-256 2f2578f60722ea925da9e029578628522bfff1589be7a8cd5cd8e403019af22a)
 
 ---
 
@@ -1614,6 +1917,74 @@ The repository includes Swift app code and a Cloudflare Worker proxy. Local setu
 
 - https://raw.githubusercontent.com/farzaa/clicky/HEAD/README.md (retrieved 2026-11-09T19:56:09Z; SHA-256 03d3ec102b9475fa62af1cfefa8a7e093dc31dd3082789be4bb74bc69e92f9a0)
 - https://raw.githubusercontent.com/farzaa/clicky/HEAD/LICENSE (retrieved 2026-11-09T14:20:38Z; SHA-256 3eb6241cdc30b83a6fac3ffed7c36d2be666e8c852260846dcbd92d678b96011)
+
+---
+
+## Coddy
+
+Coddy is an agent harness with desktop, terminal, and editor interfaces. Its browser extension lets the agent inspect pages and act in shared tabs.
+
+- Catalog URL: https://awesomecua.com/resources/github-coddy-project-coddy-agent/
+- Original source: https://github.com/coddy-project/coddy-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web, desktop, linux, macos, windows, cross-platform
+- Topics: web-navigation, tool-integration, automation
+- Evidence checked: 2026-11-09T21:08:31Z
+- ID: github:coddy-project/coddy-agent
+
+### Limitations
+
+The README describes a static Go binary, browser extension, shared sessions, and releases for Linux, macOS, and Windows.
+
+- Record JSON: https://awesomecua.com/resources/github-coddy-project-coddy-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/coddy-project/coddy-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/coddy-project/coddy-agent/HEAD/README.md (retrieved 2026-11-09T21:08:31Z; SHA-256 a302045dcf16f6482b1d7a94f3bb86f1b322128337bf162692ecc29b614cd8b7)
+- https://raw.githubusercontent.com/coddy-project/coddy-agent/HEAD/LICENSE (retrieved 2026-11-09T21:11:05Z; SHA-256 c3e1be9b60cb2797323867b2cc7edd00d68ed96acc0efd6e82138b9af73cccfd)
+
+---
+
+## CodexQA Jev Browser
+
+CodexQA Jev Browser operates Playwright pages through indexed controls and model-selected actions, with case replay and reports based on visible page evidence.
+
+- Catalog URL: https://awesomecua.com/resources/github-openqa-cn-jev-browser/
+- Original source: https://github.com/openqa-cn/jev-browser
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, grounding, evaluation, observability
+- Evidence checked: 2026-11-09T21:10:35Z
+- ID: github:openqa-cn/jev-browser
+
+### Limitations
+
+The README describes HTML reports with screenshots and session video. Model decisions use Jev or an OpenAI-compatible API; replay can use recorded decisions.
+
+- Record JSON: https://awesomecua.com/resources/github-openqa-cn-jev-browser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/openqa-cn/jev-browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/openqa-cn/jev-browser/HEAD/README.md (retrieved 2026-11-09T21:10:35Z; SHA-256 8d230e4d9f1543cdb46e78b6d89d1c879281774f1316add27299ca618af1c208)
+- https://raw.githubusercontent.com/openqa-cn/jev-browser/HEAD/LICENSE (retrieved 2026-11-09T21:12:21Z; SHA-256 d83dc7b3dff8d8464b2a2cf2900cc4e4c373a87f32817935b63bbca534d605ac)
 
 ---
 
@@ -1776,6 +2147,40 @@ The README documents built-in and generated personas, Markdown and HTML reports,
 
 ---
 
+## CUA Skill
+
+CUA Skill runs Windows desktop tasks by retrieving and executing reusable action sequences. Its agent modes use screenshots, accessibility trees, and visual grounding.
+
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-cua-skill/
+- Original source: https://github.com/microsoft/cua_skill
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: automation, grounding, planning, workflow
+- Evidence checked: 2026-11-09T21:10:38Z
+- ID: github:microsoft/cua_skill
+
+### Limitations
+
+The repository documents replay and retrieval-based agent modes, application skill modules, task generation, and Windows Agent Arena evaluation. The README lists Windows and Azure OpenAI access as prerequisites.
+
+- Record JSON: https://awesomecua.com/resources/github-microsoft-cua-skill/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/microsoft/cua_skill/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/microsoft/cua_skill/HEAD/README.md (retrieved 2026-11-09T21:10:38Z; SHA-256 5d6384efe254417dd8f4120f6368aaa725126b79140a8a8787451965fe2011b1)
+- https://raw.githubusercontent.com/microsoft/cua_skill/HEAD/LICENSE (retrieved 2026-11-09T21:12:23Z; SHA-256 275b4dd619de4e16a017b10d0beec72abbbbf14ee8a2fc68f8bdb398e821f623)
+
+---
+
 ## ESP32 iPhone Agent
 
 ESP32 iPhone Agent controls unmodified iPhones via Bluetooth HID mouse/keyboard emulation from an ESP32 paired with vision-language screen parsing.
@@ -1803,6 +2208,40 @@ ESP32 iPhone Agent controls unmodified iPhones via Bluetooth HID mouse/keyboard 
 
 - https://raw.githubusercontent.com/onehumanbeing/esp32-iphone-agent/HEAD/README.md (retrieved 2026-11-04T13:12:29Z; SHA-256 ccb4ca275f7a3d01adf629446ee70a063d9ac7f655438dd27087ef034d11b3e5)
 - https://raw.githubusercontent.com/onehumanbeing/esp32-iphone-agent/HEAD/LICENSE (retrieved 2026-11-04T13:23:26Z; SHA-256 8ced745c0be8568fb1708a4d21665a8dafbaffb1f23bcafcbb105b15001260b2)
+
+---
+
+## ExACT
+
+ExACT supplies a web agent that uses reflective tree search to explore and assess interface states, plus scripts for running and evaluating tasks in VisualWebArena.
+
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-exact/
+- Original source: https://github.com/microsoft/ExACT
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, self-reflection, evaluation
+- Evidence checked: 2026-11-09T21:09:36Z
+- ID: github:microsoft/exact
+
+### Limitations
+
+The README identifies separate branches for VisualWebArena and OSWorld. Setup requires the web environment and model provider credentials; it also links to released VWA training trajectories.
+
+- Record JSON: https://awesomecua.com/resources/github-microsoft-exact/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/microsoft/ExACT/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/microsoft/ExACT/HEAD/README.md (retrieved 2026-11-09T21:09:36Z; SHA-256 aa298d7dc5d9747c4223f3047f2675d3a76b3e39170460bf7273669cbd50d449)
+- https://raw.githubusercontent.com/microsoft/ExACT/HEAD/LICENSE (retrieved 2026-11-09T21:11:49Z; SHA-256 c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383)
 
 ---
 
@@ -2081,6 +2520,141 @@ The README documents an XMLRPC service and lists Python, TensorFlow, DroidBot, a
 
 ---
 
+## Jev GUI Delegate
+
+Jev GUI Delegate is a local controller that carries out delegated Windows and Chrome tasks, calls Jev for uncertain choices, and checks outcomes after actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-yuta-fywoo-jev-gui-delegate/
+- Original source: https://github.com/YUTA-fywoo/jev-gui-delegate
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, web
+- Topics: automation, grounding, state-tracking, efficiency
+- Evidence checked: 2026-11-09T21:09:40Z
+- ID: github:yuta-fywoo/jev-gui-delegate
+
+### Limitations
+
+The repository links controller, driver, security, and test code, plus a Windows installation package. The source says it requires a TypeSafe key and a compatible host browser session for the Chrome path.
+
+- Record JSON: https://awesomecua.com/resources/github-yuta-fywoo-jev-gui-delegate/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/YUTA-fywoo/jev-gui-delegate/HEAD/README.md (retrieved 2026-11-09T21:09:40Z; SHA-256 0f11a973f5f82ccb6f08fbdb783c168573f8264b0adde48a3c9f8a774060a1cf)
+
+---
+
+## Jev Social
+
+Jev Social researches Instagram, TikTok, and LinkedIn through a signed-in Chrome browser, choosing successive actions and assembling reports from captured source evidence.
+
+- Catalog URL: https://awesomecua.com/resources/github-socai-io-jev-social/
+- Original source: https://github.com/socai-io/jev-social
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web, desktop, windows, macos, linux
+- Topics: web-navigation, planning, interaction-history, workflow
+- Evidence checked: 2026-11-09T21:09:07Z
+- ID: github:socai-io/jev-social
+
+### Limitations
+
+The release includes a local demo, operation history, recorded evidence, and benchmark tasks. It requires Node 22+, Chrome, the socai CLI, and a decision provider such as OpenRouter.
+
+- Record JSON: https://awesomecua.com/resources/github-socai-io-jev-social/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/socai-io/jev-social/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/socai-io/jev-social/HEAD/README.md (retrieved 2026-11-09T21:09:07Z; SHA-256 257b13eef5778afda1bd3716f36e9bbdaa2da2c7cb02e6a21ef759e6ffc36e48)
+- https://raw.githubusercontent.com/socai-io/jev-social/HEAD/LICENSE (retrieved 2026-11-09T21:11:25Z; SHA-256 be1c3513d1a051784fd0a3aa4d7572943027dc82d8500dcef1126861fc7a8ed5)
+
+---
+
+## Jevry
+
+Jevry is a desktop browser agent that turns observed page controls into candidate actions, uses models to choose and plan, and shows its actions as it works through website tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-michaelswissa-jevry/
+- Original source: https://github.com/michaelswissa/jevry
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, windows, web
+- Topics: web-navigation, action-prediction, human-in-the-loop, state-tracking
+- Evidence checked: 2026-11-09T21:09:35Z
+- ID: github:michaelswissa/jevry
+
+### Limitations
+
+The source preview requires Node.js, a TypeSafe Jev API key, and a separate text-model connection. The README describes macOS and Windows builds and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-michaelswissa-jevry/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/michaelswissa/jevry/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/michaelswissa/jevry/HEAD/README.md (retrieved 2026-11-09T21:09:35Z; SHA-256 91a6451101046f38012024b8ac9511eae76de286f56064f133349c7489de6146)
+- https://raw.githubusercontent.com/michaelswissa/jevry/HEAD/LICENSE (retrieved 2026-11-09T21:11:47Z; SHA-256 1bf94b64c55e81163d11fdf80c1286c7aaf55da035afa5b4ec5ad3967b4258c2)
+
+---
+
+## LangHire
+
+A desktop app whose browser agents search for jobs and complete online applications, using stored knowledge of applicant tracking systems across tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-jaimaann-langhire/
+- Original source: https://github.com/jaimaann/LangHire
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, windows, linux, web
+- Topics: web-navigation, workflow, memory, automation
+- Evidence checked: 2026-11-09T21:09:42Z
+- ID: github:jaimaann/langhire
+
+### Limitations
+
+The source lists macOS, Windows and Linux downloads. It says the app requires an LLM API key and installs Chromium on first launch.
+
+- Record JSON: https://awesomecua.com/resources/github-jaimaann-langhire/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/jaimaann/LangHire/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/jaimaann/LangHire/HEAD/README.md (retrieved 2026-11-09T21:09:42Z; SHA-256 ccc182685b3ec505d48f25e50f987fb1c9ee0d9a412642fc2bf7d044cc7fbb99)
+- https://raw.githubusercontent.com/jaimaann/LangHire/HEAD/LICENSE (retrieved 2026-11-09T21:12:04Z; SHA-256 57d0f5641a0e56ebb7e2a4c5b9b1dd75505f51f171934726d976892d568134d7)
+
+---
+
 ## LearnAct
 
 Released inference and evaluation code for demonstration-conditioned mobile GUI agents on LearnGUI-Offline. The repository describes a multi-agent adaptation method and links the LearnGUI demonstrations.
@@ -2214,6 +2788,40 @@ The repository contains a CLI specification and a skill directory. Its local mod
 
 ---
 
+## mano-afk
+
+An app-building agent that deploys software and tests it through browser GUI actions, with retry loops and an included benchmark for GUI automation.
+
+- Catalog URL: https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/
+- Original source: https://github.com/Mininglamp-AI/mano-afk
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web, desktop, macos
+- Topics: automation, evaluation, web-navigation, workflow
+- Evidence checked: 2026-11-09T21:09:42Z
+- ID: github:mininglamp-ai/mano-afk
+
+### Limitations
+
+The repository describes local testing with Mano-P on Mac or cloud testing with Claude CUA. It includes a skill, CLI scripts and benchmark files; the source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Mininglamp-AI/mano-afk/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Mininglamp-AI/mano-afk/HEAD/README.md (retrieved 2026-11-09T21:09:42Z; SHA-256 c80b92568eb181d7308a58eef09aea58fbdd39c5d494de1634bdde1af5244f00)
+- https://raw.githubusercontent.com/Mininglamp-AI/mano-afk/HEAD/LICENSE (retrieved 2026-11-09T21:12:04Z; SHA-256 3713510be4bb49dba137c29b3e6c804e0ab682bd24bdda81b72d375dd10171ce)
+
+---
+
 ## Mind2Web-Live
 
 A SeeAct-V web agent implementation for Mind2Web-Live. It uses screen images to plan actions and a visual grounding model to locate targets for coordinate-based actions.
@@ -2274,6 +2882,74 @@ Minitap mobile-use is a multi-agent mobile automation system that controls physi
 
 - https://raw.githubusercontent.com/minitap-ai/mobile-use/HEAD/README.md (retrieved 2026-11-04T13:12:25Z; SHA-256 d9f1dc9560baec4746a58f3c0fa8b167a9fb365b7e2888698d0cb75f803c856c)
 - https://raw.githubusercontent.com/minitap-ai/mobile-use/HEAD/LICENSE (retrieved 2026-11-04T13:23:24Z; SHA-256 83eacb160cdeea43e85545f6dbed7eb9588c56e604dae639063cd7846cfc67f3)
+
+---
+
+## Mobile Agent
+
+Mobile Agent is an Android assistant that can use local tools and optional accessibility-based device control, with approval for sensitive actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-looper42-mobile-agent/
+- Original source: https://github.com/looper42/mobile_agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, tool-integration, human-in-the-loop, safety-security
+- Evidence checked: 2026-11-09T21:09:58Z
+- ID: github:looper42/mobile_agent
+
+### Limitations
+
+The source describes configurable OpenAI-compatible model services and optional root access. It states an Apache License 2.0 for its own source code.
+
+- Record JSON: https://awesomecua.com/resources/github-looper42-mobile-agent/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/looper42/mobile_agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/looper42/mobile_agent/HEAD/README.md (retrieved 2026-11-09T21:09:58Z; SHA-256 685596699576c8f8a555c25790a4445f6853d3c671d0e867b45b2a54b75b44dd)
+- https://raw.githubusercontent.com/looper42/mobile_agent/HEAD/LICENSE (retrieved 2026-11-09T21:12:09Z; SHA-256 41337b0bca634e1942b4202e2c08146393941a0a659b4c67a695ed235430cafe)
+
+---
+
+## OmniAgent
+
+A resident assistant that can inspect screenshots and operate a local desktop through mouse and keyboard tools or an Android device through ADB, alongside chat and memory features.
+
+- Catalog URL: https://awesomecua.com/resources/github-momo-null-omniagent/
+- Original source: https://github.com/momo-null/OmniAgent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, android
+- Topics: automation, mobile-navigation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T21:09:14Z
+- ID: github:momo-null/omniagent
+
+### Limitations
+
+The README describes Windows-first local setup, with computer and Android control supplied by optional plugins that are disabled by default. The repository includes desktop, web, backend, and plugin directories.
+
+- Record JSON: https://awesomecua.com/resources/github-momo-null-omniagent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/momo-null/OmniAgent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/momo-null/OmniAgent/HEAD/README.md (retrieved 2026-11-09T21:09:14Z; SHA-256 961c38e6220bc50472ad43da3dd126d27aa5a60f7f5e716687627fe60c8fb91b)
+- https://raw.githubusercontent.com/momo-null/OmniAgent/HEAD/LICENSE (retrieved 2026-11-09T21:11:37Z; SHA-256 15ecfd268398c3e86fbe6d40fb13339e5690a250968f04e5cbaf615390997eaa)
 
 ---
 
@@ -2349,6 +3025,40 @@ The repository (ID 946708780, created 2025-03-11) keeps its original name and a 
 
 ---
 
+## OpenBridge
+
+A local macOS agent app that can inspect and operate desktop applications after approval and offers a sandbox for reviewing proposed file changes.
+
+- Catalog URL: https://awesomecua.com/resources/github-afk-surf-openbridge/
+- Original source: https://github.com/AFK-surf/OpenBridge
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: automation, human-in-the-loop, sandbox
+- Evidence checked: 2026-11-09T21:09:41Z
+- ID: github:afk-surf/openbridge
+
+### Limitations
+
+The source describes a SwiftUI app, a local agent runtime and a sandbox VM workflow. It also describes support for user-supplied model providers.
+
+- Record JSON: https://awesomecua.com/resources/github-afk-surf-openbridge/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/AFK-surf/OpenBridge/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/AFK-surf/OpenBridge/HEAD/README.md (retrieved 2026-11-09T21:09:41Z; SHA-256 43837419d4a5a223953dc56bbb0bf63bbd71db3547505059d92e4e78888eba29)
+- https://raw.githubusercontent.com/AFK-surf/OpenBridge/HEAD/LICENSE (retrieved 2026-11-09T21:11:58Z; SHA-256 9767140be9df8625359bd28b2807dc4010b69a468cd43b2068f37465d932c240)
+
+---
+
 ## OpenMinis
 
 An open-source mobile agent for iOS and Android that interacts with websites and device tools while running scripts in an on-device Linux sandbox.
@@ -2380,6 +3090,40 @@ The README links to an App Store listing and an Android APK release. It describe
 
 - https://raw.githubusercontent.com/OpenMinis/OpenMinis/HEAD/README.md (retrieved 2026-11-09T19:56:41Z; SHA-256 4132119846058ba47347353dbf68237a6ad38a02b8f6b7f542a4331c77c64f4c)
 - https://raw.githubusercontent.com/OpenMinis/OpenMinis/HEAD/LICENSE (retrieved 2026-11-09T14:20:45Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
+
+---
+
+## OpenMuse
+
+OpenMuse is a personal agent application that browses public web pages in persistent Chromium and lets users inspect or take over the session. It also supports terminal, file, and PDF work.
+
+- Catalog URL: https://awesomecua.com/resources/github-copilotkit-openmuse/
+- Original source: https://github.com/CopilotKit/OpenMuse
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, android, ios
+- Topics: web-navigation, tool-integration, human-in-the-loop, workflow
+- Evidence checked: 2026-11-09T21:09:36Z
+- ID: github:copilotkit/openmuse
+
+### Limitations
+
+The repository contains server, task worker, browser worker, and application code. The README lists Node 24 LTS, pnpm 11.19.0, and a CopilotKit Intelligence project key as requirements, and states an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-copilotkit-openmuse/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/CopilotKit/OpenMuse/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/CopilotKit/OpenMuse/HEAD/README.md (retrieved 2026-11-09T21:09:36Z; SHA-256 2995dec40931a6294be16952de5cee0085715d3e2dbe6c11c850827b95f67517)
+- https://raw.githubusercontent.com/CopilotKit/OpenMuse/HEAD/LICENSE (retrieved 2026-11-09T21:11:50Z; SHA-256 399a9cccf1b228c9e8ad348ef66a0a5802d438d46735d0d068390925aee5ee36)
 
 ---
 
@@ -2580,6 +3324,39 @@ Page Agent is an in-page JavaScript GUI agent by Alibaba that controls web inter
 
 ---
 
+## Phone Agent
+
+An iPhone assistant that observes a shared screen and acts across apps using an ESP32-S3 Bluetooth mouse and keyboard accessory. The release includes app and firmware source.
+
+- Catalog URL: https://awesomecua.com/resources/github-boboabw-phone-agent/
+- Original source: https://github.com/boboabw/phone-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: ios
+- Topics: mobile-navigation, screen-understanding, automation, human-in-the-loop
+- Evidence checked: 2026-11-09T21:09:37Z
+- ID: github:boboabw/phone-agent
+
+### Limitations
+
+The README requires iOS 27, an ESP32-S3 board, AssistiveTouch, screen sharing, an image-capable model endpoint, and an API key. The app is built with Xcode, and the repository includes Swift app code and accessory firmware.
+
+- Record JSON: https://awesomecua.com/resources/github-boboabw-phone-agent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/boboabw/phone-agent/HEAD/README.md (retrieved 2026-11-09T21:09:37Z; SHA-256 510a037c75e54902ac60011172969db29df5c265fcb0b1f7dc54713814f3c9eb)
+
+---
+
 ## PlayJev
 
 A browser-game agent that selects moves from rendered frames. Its repository provides game environments, a demo, and scripts for training and evaluation.
@@ -2726,6 +3503,40 @@ Kotlin Android app (minimum SDK 26) published by Turbo1123. Shizuku gives it ADB
 - https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/vlm/GUIOwlClient.kt (retrieved 2026-10-20T07:56:14Z; SHA-256 69a77101ff939d49def1af6d7bd5a8511eb60bec4ab72ac1cabbd878731726df)
 - https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/vlm/MAIUIClient.kt (retrieved 2026-10-20T07:56:14Z; SHA-256 332089c55843bd7e02e6a5e1075b881834cb43c556ccecf15586b76191197cd6)
 - https://raw.githubusercontent.com/Turbo1123/roubao/HEAD/LICENSE (retrieved 2026-10-20T07:57:19Z; SHA-256 aabaf29fcf492a29bc5ac5c7d014596a7b11bd2d4cc2272880db8c5627e11818)
+
+---
+
+## RSIGame
+
+An agentic game-development system that plays generated games, uses screenshots and run evidence to guide revisions, and replays builds to check the changes.
+
+- Catalog URL: https://awesomecua.com/resources/github-wenyiwu0111-rsigame/
+- Original source: https://github.com/WenyiWU0111/RSIGame
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, linux, macos, web
+- Topics: automation, self-reflection, evaluation, long-horizon
+- Evidence checked: 2026-11-09T21:09:11Z
+- ID: github:wenyiwu0111/rsigame
+
+### Limitations
+
+The repository includes controller code, configurations, scripts, and patches for a separate GameCraft-Bench checkout. The README requires Linux or macOS and a separate repair-agent project.
+
+- Record JSON: https://awesomecua.com/resources/github-wenyiwu0111-rsigame/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/WenyiWU0111/RSIGame/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/WenyiWU0111/RSIGame/HEAD/README.md (retrieved 2026-11-09T21:09:11Z; SHA-256 f63cb685b4028f2cd05385fe55e1c2ca600a9038c3bd65339fb66d55fd0ad6a6)
+- https://raw.githubusercontent.com/WenyiWU0111/RSIGame/HEAD/LICENSE (retrieved 2026-11-09T21:11:36Z; SHA-256 c6ce1b0645f8183e274ba7f642b23b81a99c1f9090ba535adb72a900d2385f71)
 
 ---
 
@@ -2917,6 +3728,107 @@ Thursday is a voice-driven computer assistant that delegates background web-brow
 
 - https://raw.githubusercontent.com/cgoinglove/thursday/HEAD/README.md (retrieved 2026-11-04T13:12:09Z; SHA-256 5fe34027f92394e4c8137452dad36470fb2f136d3a71068a52d596227f211f19)
 - https://raw.githubusercontent.com/cgoinglove/thursday/HEAD/LICENSE (retrieved 2026-11-04T13:42:15Z; SHA-256 54a5f0ee58c88993fdcc5c1208a2550956eaf201629f22a0d2f4813adef957ec)
+
+---
+
+## Thursday
+
+Thursday is a local voice assistant that delegates longer tasks to bots able to use a browser, shell and files while the conversation continues.
+
+- Catalog URL: https://awesomecua.com/resources/github-cgoinglove-thursday-agent/
+- Original source: https://github.com/cgoinglove/thursday-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, linux, web
+- Topics: web-navigation, tool-integration, human-in-the-loop, workflow
+- Evidence checked: 2026-11-09T21:09:44Z
+- ID: github:cgoinglove/thursday-agent
+
+### Limitations
+
+The source requires Node.js and a ChatGPT sign-in or OpenAI API key. It describes macOS as its development platform, Linux as expected to work, and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-cgoinglove-thursday-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/cgoinglove/thursday-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cgoinglove/thursday-agent/HEAD/README.md (retrieved 2026-11-09T21:09:44Z; SHA-256 5fe34027f92394e4c8137452dad36470fb2f136d3a71068a52d596227f211f19)
+- https://raw.githubusercontent.com/cgoinglove/thursday-agent/HEAD/LICENSE (retrieved 2026-11-09T21:12:07Z; SHA-256 54a5f0ee58c88993fdcc5c1208a2550956eaf201629f22a0d2f4813adef957ec)
+
+---
+
+## UI-Hawk
+
+UI-Hawk is a GUI agent designed to interpret sequences of screens during navigation. Its research release describes a history-aware visual encoder, screen tasks, and the FunUI benchmark.
+
+- Catalog URL: https://awesomecua.com/resources/github-imnearth-uihawk/
+- Original source: https://github.com/IMNearth/UIHawk
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, interaction-history, grounding, mobile-navigation
+- Evidence checked: 2026-11-09T21:09:36Z
+- ID: github:imnearth/uihawk
+
+### Limitations
+
+The repository lists a preprint PDF and assets. Its README describes FunUI as a bilingual benchmark with screens from Android devices; the listed repository files contain no agent code or weights.
+
+- Record JSON: https://awesomecua.com/resources/github-imnearth-uihawk/record.json
+
+### License declarations
+
+- code: CC-BY-NC-SA-4.0 — https://raw.githubusercontent.com/IMNearth/UIHawk/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/IMNearth/UIHawk/HEAD/README.md (retrieved 2026-11-09T21:09:36Z; SHA-256 3103c56311d65e21387e6ecdb346b2e6bd85a668b4ef9885d7423fea69f21673)
+- https://raw.githubusercontent.com/IMNearth/UIHawk/HEAD/LICENSE (retrieved 2026-11-09T21:11:51Z; SHA-256 7399d96e74201c11de619d79d97c664df890b789599fc23335dc9af7ed9aaa94)
+
+---
+
+## UI2Code^N
+
+A UI-to-code system that drafts interface code from screenshots and refines it through repeated rendering and visual feedback. The repository provides demos and evaluation scripts.
+
+- Catalog URL: https://awesomecua.com/resources/github-zai-org-ui2code-n/
+- Original source: https://github.com/zai-org/UI2Code_N
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: ui-design, screen-understanding, reinforcement-learning
+- Evidence checked: 2026-11-09T21:10:09Z
+- ID: github:zai-org/ui2code_n
+
+### Limitations
+
+The repository contains demo and evaluation directories. The README links to a separately hosted model built on GLM-4.1V-9B-Base and cites arXiv:2511.08195.
+
+- Record JSON: https://awesomecua.com/resources/github-zai-org-ui2code-n/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/zai-org/UI2Code_N/HEAD/README.md (retrieved 2026-11-09T21:10:09Z; SHA-256 9ce56b35375307eb8abc087d6f3ced0341d93c212b905524836a8965fc887c13)
 
 ---
 
@@ -4009,7 +4921,7 @@ Kotlin Android app for Android 11 (API 30) or later, published by KUAFUAI, with 
 - document: not recorded
 - weights: not recorded
 
-- code review: Root LICENSE is the custom Andee Open Source License, the Apache-2.0 text modified by additional conditions in its Part A (no white-labelling, no multi-tenant hosting without written authorisation, written authorisation to distribute it inside another product); it is not a standard SPDX license, and GitHub reports NOASSERTION.
+- code review: Root LICENSE is the custom Andee Open Source License, the Apache-2.0 text modified by additional conditions in its Part A (no white-labelling, no multi-tenant hosting without written authorisation, written authorisation to distribute it inside another product); GitHub reports NOASSERTION.
   Sources: https://raw.githubusercontent.com/kuafuai/andee/634c6ee34ef11454116de7311bc901c3783c345c/LICENSE
 
 ### Primary evidence
@@ -5560,7 +6472,7 @@ Code is released for the two named browser benchmarks. Visual-observer checkpoin
 - document: not recorded
 - weights: not recorded
 
-- code review: Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate. The inspected text does not establish -only versus -or-later for the project.
+- code review: Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate. The project’s -only versus -or-later license choice is unrecorded.
   Sources: https://raw.githubusercontent.com/caap-agent/caap-agent/HEAD/LICENSE
 
 ### Primary evidence
@@ -9864,7 +10776,7 @@ Android automation component with hierarchical planning, reflection and persiste
 
 ### Limitations
 
-The inspected README supports Android only, with experiments on Samsung Galaxy A15; macOS/Linux instructions describe host-machine setup. Agent code, launch scripts and benchmark definitions are present. The root MIT code license does not establish terms for the separately published task dataset or external models.
+The inspected README supports Android only, with experiments on Samsung Galaxy A15; macOS/Linux instructions describe host-machine setup. Agent code, launch scripts and benchmark definitions are present. The root MIT license covers the repository code.
 
 - Record JSON: https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/record.json
 
@@ -9948,7 +10860,7 @@ The old mobilegptsys repository resolves to fclab-skku/MobileGPT. Public Android
 - document: not recorded
 - weights: not recorded
 
-- code review: Repository source license; linked benchmark data and external models retain separate terms.
+- code review: Repository source license.
   Sources: https://raw.githubusercontent.com/fclab-skku/MobileGPT/HEAD/LICENSE
 
 ### Primary evidence
@@ -12902,7 +13814,7 @@ Deprecated runner for H Company's Surfer-H web agent: a policy model reads recen
 
 ### Limitations
 
-Archived on GitHub, and the README marks it deprecated in favour of H Company's hosted Models API and Agent API and the hai-agents clients. The loop keeps the last three screenshots by default for the navigation step, which chooses click_element, write_element, scroll, go_back, refresh, wait, restart or answer; click and write targets are named elements that a localizer model (Holo1 or the structured Holo1.5 path) turns into viewport coordinates for Selenium ActionChains. Models are reached through OpenAI-compatible endpoints: H Company's hosted API, a local vLLM server, or a SageMaker deployment; one script uses GPT-4.1 as validator. A FastAPI agent_server.py and a Next.js frontend stream runs to a browser UI. Root LICENSE is the BSD 3-Clause text with an H Company copyright and does not cover the Holo weights.
+Archived on GitHub, and the README marks it deprecated in favour of H Company's hosted Models API and Agent API and the hai-agents clients. The loop keeps the last three screenshots by default for the navigation step, which chooses click_element, write_element, scroll, go_back, refresh, wait, restart or answer; click and write targets are named elements that a localizer model (Holo1 or the structured Holo1.5 path) turns into viewport coordinates for Selenium ActionChains. Models are reached through OpenAI-compatible endpoints: H Company's hosted API, a local vLLM server, or a SageMaker deployment; one script uses GPT-4.1 as validator. A FastAPI agent_server.py and a Next.js frontend stream runs to a browser UI. Root LICENSE is the BSD 3-Clause text with an H Company copyright, covering the repository code.
 
 - Record JSON: https://awesomecua.com/resources/github-hcompai-surfer-h-cli/record.json
 
@@ -13453,7 +14365,7 @@ The official lowercase readme.md and source tree expose automatic and step-by-st
 - document: not recorded
 - weights: not recorded
 
-- code review: Repository GNU GPL version 3 license; pretrained models and linked data retain separate terms.
+- code review: Repository GNU GPL version 3 license.
   Sources: https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/LICENSE
 
 ### Primary evidence
@@ -14187,7 +15099,7 @@ The Android AccessibilityService contains concrete screen-reading and action pat
 - document: not recorded
 - weights: not recorded
 
-- code review: Complete root MIT license text inspected at the pinned commit. Repository software only; data, weights and third-party assets retain separate terms.
+- code review: Complete root MIT license text inspected at the pinned commit; it covers the repository software.
   Sources: https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE
 
 ### Primary evidence

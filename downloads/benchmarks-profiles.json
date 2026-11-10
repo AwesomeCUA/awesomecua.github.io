@@ -2,7 +2,7 @@
   "schema_version": 1,
   "kind": "benchmark",
   "profile_count": 94,
-  "curated_resource_count": 281,
+  "curated_resource_count": 300,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [
@@ -93,7 +93,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "basis": "publisher model/dataset card metadata",
           "declared": "cc-by-4.0",
           "retrieved_at": "2026-10-19T06:04:29Z",
           "url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md"
@@ -254,7 +254,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-18T11:06:32Z",
           "url": "https://raw.githubusercontent.com/ethz-spylab/agentdojo/HEAD/LICENSE"
@@ -718,7 +718,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:58Z",
           "url": "https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE"
@@ -803,7 +803,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/google-research/android_world/HEAD/LICENSE"
@@ -977,7 +977,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T10:48:42Z",
           "url": "https://raw.githubusercontent.com/StonyBrookNLP/appworld/HEAD/LICENSE"
@@ -1083,7 +1083,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "basis": "publisher model/dataset card metadata",
           "declared": "cc-by-4.0",
           "retrieved_at": "2026-10-19T07:49:42Z",
           "url": "https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md"
@@ -1202,7 +1202,7 @@
           "Android control across visual/device variation",
           "generalization across environment snapshots"
         ],
-        "notes": "Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.",
+        "notes": "Current source inventory differs in grain from published experiment subsets: 131 definitions and 35/10 configuration rows are separate counts. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Apache-2.0 covers the code.",
         "observations": [
           "screenshot pixels",
           "XML view hierarchy",
@@ -1212,7 +1212,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:58Z",
           "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/LICENSE"
@@ -1405,7 +1405,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/LICENSE"
@@ -1541,7 +1541,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-18T11:55:00Z",
           "url": "https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/LICENSE"
@@ -1950,7 +1950,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "basis": "publisher model/dataset card metadata",
           "declared": "mit",
           "retrieved_at": "2026-10-17T02:42:32Z",
           "url": "https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md"
@@ -2240,7 +2240,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "basis": "publisher model/dataset card metadata",
           "declared": "mit",
           "retrieved_at": "2026-10-18T16:19:41Z",
           "url": "https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md"
@@ -2400,7 +2400,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "basis": "publisher model/dataset card metadata",
           "declared": "mit",
           "retrieved_at": "2026-10-18T16:08:23Z",
           "url": "https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md"
@@ -2540,7 +2540,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "basis": "publisher model/dataset card metadata",
           "declared": "cc-by-4.0",
           "retrieved_at": "2026-10-18T15:59:36Z",
           "url": "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md"
@@ -2943,7 +2943,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "Publisher dataset-card declaration for this release; it does not establish rights to the applications, websites and personal content shown in the screenshots.",
+          "basis": "Publisher dataset-card declaration for this release.",
           "declared": "CC-BY-NC-4.0",
           "retrieved_at": "2026-10-18T15:37:19Z",
           "url": "https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md"
@@ -3191,7 +3191,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-19T06:45:58Z",
           "url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE"
@@ -3345,7 +3345,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-18T16:03:20Z",
           "url": "https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/LICENSE"
@@ -3445,7 +3445,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T10:48:41Z",
           "url": "https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/LICENSE"
@@ -3811,7 +3811,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:59Z",
           "url": "https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/LICENSE"
@@ -3916,7 +3916,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-19T07:06:23Z",
           "url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/HEAD/LICENSE"
@@ -4048,7 +4048,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/LICENSE"
@@ -4129,7 +4129,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:42:07Z",
           "url": "https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/LICENSE"
@@ -4740,7 +4740,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-17T01:52:51Z",
           "url": "https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/LICENSE"
@@ -4816,7 +4816,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:58Z",
           "url": "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/LICENSE.txt"
@@ -5035,7 +5035,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-19T07:11:32Z",
           "url": "https://raw.githubusercontent.com/ljang0/Odysseys/HEAD/LICENSE"
@@ -5258,7 +5258,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE"
@@ -5677,7 +5677,7 @@
           "prompt-injection safety",
           "unintended harmful behavior during normal tasks"
         ],
-        "notes": "README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.",
+        "notes": "README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, giving the released ID inventory and paper settings different grains. Judge agreement F1 values in the README measure agreement with human labels. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Apache-2.0 covers the code. Publisher asks that the benchmark not be used directly as agent training data.",
         "observations": [
           "screenshot",
           "accessibility tree",
@@ -5688,7 +5688,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T09:39:34Z",
           "url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/LICENSE"
@@ -6001,7 +6001,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/LICENSE"
@@ -6094,7 +6094,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/LICENSE"
@@ -6247,7 +6247,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "CC-BY-4.0",
           "retrieved_at": "2026-10-18T12:34:15Z",
           "url": "https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/LICENSE"
@@ -6335,7 +6335,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:59Z",
           "url": "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/LICENSE"
@@ -6510,7 +6510,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:59Z",
           "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/LICENSE"
@@ -6730,7 +6730,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/LICENSE"
@@ -7006,7 +7006,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "basis": "publisher model/dataset card metadata",
           "declared": "mit",
           "retrieved_at": "2026-10-18T11:14:39Z",
           "url": "https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md"
@@ -7226,7 +7226,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:58Z",
           "url": "https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/LICENSE"
@@ -7324,7 +7324,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:59Z",
           "url": "https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/LICENSE"
@@ -7504,7 +7504,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T10:48:42Z",
           "url": "https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE"
@@ -8194,7 +8194,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/LICENSE"
@@ -8312,7 +8312,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-20T04:07:54Z",
           "url": "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/HEAD/LICENSE"
@@ -8449,7 +8449,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-18T11:06:06Z",
           "url": "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/LICENSE"
@@ -8552,7 +8552,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-18T11:13:09Z",
           "url": "https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/LICENSE"
@@ -8717,7 +8717,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/mcgill-nlp/weblinx/HEAD/LICENSE"
@@ -8893,7 +8893,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "basis": "publisher model/dataset card metadata",
           "declared": "cc-by-nc-sa-4.0",
           "retrieved_at": "2026-10-18T12:21:40Z",
           "url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md"
@@ -9077,7 +9077,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:58Z",
           "url": "https://raw.githubusercontent.com/princeton-nlp/WebShop/HEAD/LICENSE.md"
@@ -9160,7 +9160,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-11-06T06:22:02Z",
           "url": "https://raw.githubusercontent.com/TIGER-AI-Lab/WebsiteBench/HEAD/LICENSE"
@@ -9245,7 +9245,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "basis": "publisher model/dataset card metadata",
           "declared": "mit",
           "retrieved_at": "2026-10-17T02:42:32Z",
           "url": "https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md"
@@ -9324,7 +9324,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "Repository source LICENSE; external tools and services retain their own licenses.",
+          "basis": "Repository source LICENSE.",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-17T11:22:55Z",
           "url": "https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/LICENSE"
@@ -9435,7 +9435,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE"
@@ -9506,7 +9506,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "MIT",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/LICENSE"
@@ -9739,7 +9739,7 @@
           "multi-application Windows workflows",
           "intermediate-state and final-goal completion"
         ],
-        "notes": "Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code; Windows, apps and VM artifacts retain separate terms.",
+        "notes": "Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md. Checkpoint counts, application counts and task counts are different units. Apache-2.0 is recorded for repository code.",
         "observations": [
           "screenshot",
           "accessibility tree",
@@ -9750,7 +9750,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:59Z",
           "url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/LICENSE"
@@ -9859,7 +9859,7 @@
       "licenses": {
         "code": null,
         "data": {
-          "basis": "The linked Zenodo dataset release declares CC-BY-4.0; this does not assign a code license to the repository.",
+          "basis": "The linked Zenodo dataset release declares CC-BY-4.0.",
           "declared": "cc-by-4.0",
           "retrieved_at": "2026-10-17T09:15:34Z",
           "url": "https://zenodo.org/api/records/14094162"
@@ -9954,7 +9954,7 @@
       },
       "licenses": {
         "code": {
-          "basis": "repository LICENSE header; not a weights/data license",
+          "basis": "repository LICENSE header",
           "declared": "Apache-2.0",
           "retrieved_at": "2026-10-16T06:41:57Z",
           "url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/LICENSE"

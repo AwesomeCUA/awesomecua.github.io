@@ -39,7 +39,7 @@ The Hub manifest at this revision lists 739 PNG files under data/. Computed from
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card declaration for this release; it does not establish rights to the third-party applications and websites shown in the screenshots.
+- 数据审核：Publisher dataset-card declaration for this release.
   来源：https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md
 
 ## 一手证据

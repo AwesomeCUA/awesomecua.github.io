@@ -75,9 +75,9 @@
       "sha256": "4195e1e433a52edb7c7844b5b323e22db4d84f79988d943cc49e30dd3bde8ff6"
     },
     {
-      "bytes": 478757,
+      "bytes": 479161,
       "path": "index.html",
-      "sha256": "6348b50dd320ba271fc4936664ba0a83a9d1f59f1bb864d9d57e0b1ae56f88eb"
+      "sha256": "72260e8cf2204e3a66650482e555847e34cf379e08bf44796441fa88864ef9bb"
     },
     {
       "bytes": 100789,
@@ -99,7 +99,7 @@
     "subset_cannot_recompute_full_catalog_sha256": true
   },
   "input_sha256": {
-    "research/survey/article.css": "811ab0ad087be4ebc2189c92fcec64168c33980890a01d5cc136784170b7ebac",
+    "research/survey/article.css": "0c61745f3d4543d928ffe34af834b00a6bbad31baba3663aee067609c0f1576d",
     "research/survey/article.js": "903d48ebaad90a39a7f88f15c2aa78cb48992188b8b89bd7186be17defcd6bfe",
     "research/survey/evidence/context.json": "2e3210a9a6860448d8e5a2239761484bb46bc9c039becb2e0bef9d961f752888",
     "research/survey/evidence/corpus-statistics.json": "47fd9c2b1ed89fbfe540d17721691fd7b82e82dadea2c5205c5555a6a6a38be7",
@@ -124,7 +124,7 @@
     "scripts/publication_metadata.py": "2b2f89c0584acc44ec5bf686e94c206abc85358edcc314872f5357246f5d5e82"
   },
   "publication_performed": false,
-  "reviewed_index_sha256": "7b9929297854f02f0208dad2a23d28c27d3b005e1eb4d28825efdeee6186cedc",
+  "reviewed_index_sha256": "7f2e4b2dba2985c184be1e0d72bf900e862f7a48f50c67613ae6aa861752fdd1",
   "schema_version": 1,
   "source_commit_for_inventory": "87166fe8ad9c8e832f7a90ee84b2e93c6e0e40db",
   "tables": [

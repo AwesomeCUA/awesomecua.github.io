@@ -41,7 +41,7 @@ The 100 archive files form an artifact inventory. Backend/tool versions and depl
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Repository source LICENSE; external tools and services retain their own licenses.
+- 代码审核：Repository source LICENSE.
   来源：https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/LICENSE
 
 - 数据审核：Publisher Hub-card license declaration for the released benchmark dataset.

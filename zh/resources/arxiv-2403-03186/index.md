@@ -44,7 +44,7 @@ Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zh
 - 日期来源：Explicit publisher metadata: 2025/10/06; precision=day.
 - 会议日期：13--19 Jul 2025
 - 版本对应依据：Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- 来源备注：The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- 来源备注：The publisher issue date comes from citation_publication_date; the conference date range is retained separately as an event date. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - 发表证据：https://proceedings.mlr.press/v267/tan25h.html
 
 ## arXiv 版本记录

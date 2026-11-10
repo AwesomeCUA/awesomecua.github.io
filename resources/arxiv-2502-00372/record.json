@@ -1,14 +1,14 @@
 {
   "status": "excluded",
   "id": "arxiv:2502.00372",
-  "reason": "Neuro-symbolic automaton with probabilistic logic for referring-expression grounding in natural images. This is not GUI grounding and involves no computer-use agent.",
+  "reason": "Neuro-symbolic automaton with probabilistic logic for referring-expression grounding in natural images. This work sits outside GUI grounding and computer-use agents.",
   "decision": {
     "id": "arxiv:2502.00372",
     "name": "NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning",
     "url": "https://arxiv.org/abs/2502.00372",
     "decision": "out_of_scope",
     "basis": "primary_abstract_review",
-    "reason": "Neuro-symbolic automaton with probabilistic logic for referring-expression grounding in natural images. This is not GUI grounding and involves no computer-use agent.",
+    "reason": "Neuro-symbolic automaton with probabilistic logic for referring-expression grounding in natural images. This work sits outside GUI grounding and computer-use agents.",
     "reviewed_at": "2026-11-05T23:58:03Z",
     "metadata_fingerprint": "8439664ee402311df5002a3549f724d19c97a362fd292a7daa2f71a31fa21147",
     "evidence": {

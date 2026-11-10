@@ -4,6 +4,8 @@ HTML 页面：https://awesomecua.com/zh/topics/memory/page/5/
 
 完整列表：https://awesomecua.com/zh/topics/memory/index.md
 
+- [AILEEN Desktop](https://awesomecua.com/zh/resources/github-haixu8396-png-aileen-desktop/)
+- [AIOS](https://awesomecua.com/zh/resources/github-agiresearch-aios/)
 - [Anchor-Inference Daedalus](https://awesomecua.com/zh/resources/github-anchor-inference-daedalus/)
 - [Andee](https://awesomecua.com/zh/resources/github-kuafuai-andee/)
 - [Android-Skill-Agent](https://awesomecua.com/zh/resources/github-xiru0834-eng-android-skill-agent/)
@@ -20,6 +22,7 @@ HTML 页面：https://awesomecua.com/zh/topics/memory/page/5/
 - [avids2 Jarvis](https://awesomecua.com/zh/resources/github-avids2-jarvis/)
 - [BabyAGI](https://awesomecua.com/zh/resources/github-yoheinakajima-babyagi/)
 - [Browser Operator](https://awesomecua.com/zh/resources/github-browseroperator-browser-operator-core/)
+- [BrowserBee](https://awesomecua.com/zh/resources/github-parsaghaffari-browserbee/)
 - [cc-haha](https://awesomecua.com/zh/resources/github-nanmicoder-cc-haha/)
 - [ClawMobile](https://awesomecua.com/zh/resources/github-clawmobile-clawmobile/)
 - [ClosePaw](https://awesomecua.com/zh/resources/github-imoonkey-closepaw/)
@@ -55,12 +58,9 @@ HTML 页面：https://awesomecua.com/zh/topics/memory/page/5/
 - [JARVIS-1](https://awesomecua.com/zh/resources/github-craftjarvis-jarvis-1/)
 - [Knot Agent](https://awesomecua.com/zh/resources/github-liz-public-knot-agent/)
 - [LangGraph](https://awesomecua.com/zh/resources/github-langchain-ai-langgraph/)
+- [LangHire](https://awesomecua.com/zh/resources/github-jaimaann-langhire/)
 - [LASER](https://awesomecua.com/zh/resources/github-mayer123-laser/)
 - [lean-computer-use-mcp](https://awesomecua.com/zh/resources/github-kvxw1105-lean-computer-use-mcp/)
 - [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonai-litewebagent/)
 - [LiteWebAgent](https://awesomecua.com/zh/resources/github-pathonaiorg-litewebagent/)
 - [LKO Mark 3.4](https://awesomecua.com/zh/resources/github-shubhransh-gupta-lko-mark-3-4/)
-- [LLM Wiki for Chrome](https://awesomecua.com/zh/resources/github-nvk-llm-wiki-chrome/)
-- [Lumen browser agent](https://awesomecua.com/zh/resources/github-omxyz-lumen/)
-- [Mary (Personal AI OS)](https://awesomecua.com/zh/resources/github-rao-studios-mary/)
-- [Mem0](https://awesomecua.com/zh/resources/github-mem0ai-mem0/)

@@ -57,6 +57,8 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 - [BlenderWorld](https://awesomecua.com/zh/resources/github-qwenlm-blenderworld/) — Date not recorded
   A benchmark for agents creating editable Blender projects from text and visual references. It supplies 223 tasks, submission packaging, and an evaluator for scene and visual criteria.
+- [BlenderWorld](https://awesomecua.com/zh/resources/url-883e7c46e883b005762c/) — Date not recorded
+  A benchmark of 223 Blender creation tasks with text, image, and video inputs. Agents submit editable projects for rendering and rubric-based evaluation.
 - [MedSPOT](https://awesomecua.com/zh/resources/github-tajamul21-medspot/) — Date not recorded
   A sequential GUI grounding benchmark covering 10 medical imaging applications. It evaluates target localization across multi-step workflows and provides model evaluation scripts.
 - [OSWorld-Science](https://awesomecua.com/zh/resources/github-discoailab-osworld-science/) — Date not recorded
@@ -90,6 +92,8 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 ## 工程与产业
 
+- [Blender Agent Studio](https://awesomecua.com/zh/resources/github-ifbars-blender-agent-studio/) — Date not recorded
+  Blender Agent Studio connects coding agents to local Blender to create editable scenes, render previews and inspect visual results.
 - [Blender Computer Use Artist](https://awesomecua.com/zh/resources/github-xiaof631-blender-computer-use-artist/) — Date not recorded
   Codex computer-use skill for automating Blender 3D modeling, rendering, animation, and visual QA.
 - [Blender MCP](https://awesomecua.com/zh/resources/github-bpy-dev-blender-mcp/) — Date not recorded
@@ -98,8 +102,12 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
   CAD-Assistant handles CAD tasks by generating code for execution in FreeCAD and using sketch rendering and solid recognition tools to inspect designs.
 - [CADAgent](https://awesomecua.com/zh/resources/github-toreleon-cadagent/) — Date not recorded
   A FreeCAD fork with an in-app agent that turns chat requests into editable 3D models through FreeCAD operations. It includes an agent runtime and chat dock.
+- [catia-v5-mcp](https://awesomecua.com/zh/resources/github-astroqueststudio-catia-v5-mcp/) — Date not recorded
+  An MCP server lets agents model and inspect parts and assemblies in CATIA V5 through COM. It provides validated batch actions and checks of resulting geometry and component poses.
 - [ChimeraX-SessionStates](https://awesomecua.com/zh/resources/github-shiinahiiragi-chimerax-states/) — Date not recorded
   ChimeraX plugin used by ScienceBoard to expose internal molecular-visualization session state for deterministic benchmark evaluation.
+- [CLI-Anything · ArcGIS Pro](https://awesomecua.com/zh/resources/github-jasper0122-cli-anything-arcgis-pro/) — Date not recorded
+  A CLI and MCP bridge for ArcGIS Pro that lets agents inspect projects, run geoprocessing, and update an open map through an in-process add-in.
 - [CODA](https://awesomecua.com/zh/resources/github-openixclab-coda/) — Date not recorded
   CODA coordinates a trainable planner ('Cerebrum') with a grounded GUI executor ('Cerebellum') via decoupled reinforcement learning on ScienceBoard.
 - [device-use](https://awesomecua.com/zh/resources/github-labclaw-device-use/) — Date not recorded

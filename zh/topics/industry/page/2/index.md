@@ -4,6 +4,7 @@ HTML 页面：https://awesomecua.com/zh/topics/industry/page/2/
 
 完整列表：https://awesomecua.com/zh/topics/industry/index.md
 
+- [Simular](https://awesomecua.com/zh/resources/organization-simular/)
 - [Skyvern](https://awesomecua.com/zh/resources/organization-skyvern/)
 - [Steel](https://awesomecua.com/zh/resources/organization-steel/)
 - [TinyFish](https://awesomecua.com/zh/resources/organization-tinyfish/)

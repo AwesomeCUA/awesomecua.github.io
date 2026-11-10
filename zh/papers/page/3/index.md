@@ -2562,7 +2562,7 @@ Dhananjay Ashok, Shantanu Agarwal, Vivek Datla, Jonathan May, Alfy Samuel
 - 文档：CC-BY-4.0 — https://arxiv.org/html/2610.02542v1
 - 权重：未记录
 
-- 文档审核：The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0. This document declaration does not establish code, training-data or model-weight licenses.
+- 文档审核：The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0.
   来源：https://arxiv.org/html/2610.02542v1
 
 ### 一手证据

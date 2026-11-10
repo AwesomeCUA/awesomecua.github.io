@@ -39,7 +39,7 @@ Iat Long Iong, Xiao Liu, Yuxuan Chen, Hanyu Lai, Shuntian Yao, Pengbo Shen, Hao 
 - Publisher: Association for Computational Linguistics
 - Pages: 72-81
 - DOI: 10.18653/v1/2024.acl-demos.8
-- Date source: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2024/8.
 - Identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.
 - Source notes: Publisher proceedings edition (ACL 2024 System Demonstrations).
 - Publication evidence: https://aclanthology.org/2024.acl-demos.8/

@@ -15,7 +15,7 @@
 
 ## 范围记录
 
-The repository publishes a Rust-based CLI and platform-specific release binaries. The inspected release is v0.39.1. Apache-2.0 is declared for the code; Chrome and other external browser components retain separate terms. No package or browser was installed.
+The repository publishes a Rust-based CLI and platform-specific release binaries. The inspected release is v0.39.1. Apache-2.0 is declared for the code. No package or browser was installed.
 
 - 完整记录 JSON：https://awesomecua.com/resources/github-vercel-labs-agent-browser/record.json
 

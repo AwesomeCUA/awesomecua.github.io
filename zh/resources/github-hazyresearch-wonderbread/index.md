@@ -43,7 +43,7 @@ Counts are publisher-reported. The gold subset covers 162 workflows and differs 
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：The linked Zenodo dataset release declares CC-BY-4.0; this does not assign a code license to the repository.
+- 数据审核：The linked Zenodo dataset release declares CC-BY-4.0.
   来源：https://zenodo.org/api/records/14094162
 
 ## 一手证据

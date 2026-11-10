@@ -43,7 +43,7 @@ Each dataset.csv row is a QA example; web pages and QA examples are different un
 - document: not recorded
 - weights: not recorded
 
-- data review: Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.
+- data review: Publisher dataset-card declaration for this release.
   Sources: https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md
 
 ## Primary evidence

@@ -75,6 +75,8 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
 
 - [ADP Workforce Now Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-adp-workforce-now-browser-automation/) — Date not recorded
   A browser automation scaffold for ADP Workforce Now. It provides actions for payroll reports, pay-stub exports, employee updates and tax-form downloads.
+- [Agenta](https://awesomecua.com/resources/github-agenta-ai-agenta/) — Date not recorded
+  Agenta is a team workspace for building and running agents. Its agents can use a browser and files to work on websites, alongside connected apps and scheduled automations.
 - [Anchor](https://awesomecua.com/resources/url-74a98d385b656cf5e980/) — Date not recorded
   Anchor provides cloud browser environments for AI agents to navigate authenticated websites and run browser workloads, with SDK and MCP integration.
 - [Anthropic](https://awesomecua.com/resources/organization-anthropic/) — Date not recorded

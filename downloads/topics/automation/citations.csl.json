@@ -231,7 +231,7 @@
         ],
         "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
         "issue": null,
-        "notes": "The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "notes": "The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately as an event date. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
         "pages": "9466-9482",
         "pdf_url": "https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf",
         "publisher": "PMLR",
@@ -1316,7 +1316,7 @@
           "Dongmei Zhang",
           "Qi Zhang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4.",
         "date_parts": [
           2025,
           4
@@ -2484,7 +2484,7 @@
           "Dongmei Zhang",
           "Qi Zhang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -8757,7 +8757,7 @@
           "Yuxiao Dong",
           "Jie Tang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8.",
         "date_parts": [
           2024,
           8

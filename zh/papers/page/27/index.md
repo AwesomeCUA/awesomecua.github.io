@@ -99,7 +99,7 @@ Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao
 - 卷：37
 - 页码：52040-52094
 - DOI：10.52202/079017-1650
-- 日期来源：Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024-12-16.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - 发表证据：https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html
@@ -741,7 +741,7 @@ Kevin Xu, Yeganeh Kordi, Tanay Nayak, Adi Asija, Yizhong Wang, Kate Sanders, Ada
 - 出版方：Association for Computational Linguistics
 - 页码：3694-3710
 - DOI：10.18653/v1/2025.naacl-long.188
-- 日期来源：Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/4.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.naacl-long.188/
@@ -1231,7 +1231,7 @@ Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zh
 - 日期来源：Explicit publisher metadata: 2025/10/06; precision=day.
 - 会议日期：13--19 Jul 2025
 - 版本对应依据：Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- 来源备注：The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- 来源备注：The publisher issue date comes from citation_publication_date; the conference date range is retained separately as an event date. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - 发表证据：https://proceedings.mlr.press/v267/tan25h.html
 
 ### arXiv 版本记录
@@ -1299,7 +1299,7 @@ Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei,
 - 出版方：Association for Computational Linguistics
 - 页码：12016-12031
 - DOI：10.18653/v1/2024.findings-emnlp.702
-- 日期来源：Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024/11.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - 发表证据：https://aclanthology.org/2024.findings-emnlp.702/
@@ -1473,7 +1473,7 @@ Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
 - 出版方：Association for Computational Linguistics
 - 页码：8795-8812
 - DOI：10.18653/v1/2024.acl-long.477
-- 日期来源：Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024/8.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2024.acl-long.477/
@@ -1595,7 +1595,7 @@ Xinbei Ma, Zhuosheng Zhang, Hai Zhao
 - 出版方：Association for Computational Linguistics
 - 页码：9097-9110
 - DOI：10.18653/v1/2024.findings-acl.539
-- 日期来源：Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024/8.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - 发表证据：https://aclanthology.org/2024.findings-acl.539
@@ -1926,7 +1926,7 @@ Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Ka
 - 出版方：Association for Computational Linguistics
 - 页码：597-622
 - DOI：10.18653/v1/2025.naacl-long.26
-- 日期来源：Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/4.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.naacl-long.26/
@@ -2000,7 +2000,7 @@ Xing Han Lù, Zdeněk Kasner, Siva Reddy
 - 日期来源：Explicit publisher metadata: 2024/07/08; precision=day.
 - 会议日期：21--27 Jul 2024
 - 版本对应依据：Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- 来源备注：The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- 来源备注：The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately as an event date. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - 发表证据：https://proceedings.mlr.press/v235/lu24e.html, https://raw.githubusercontent.com/mlresearch/v235/main/assets/lu24e/lu24e.pdf
 
 ### arXiv 版本记录
@@ -2329,7 +2329,7 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzh
 - 出版方：Association for Computational Linguistics
 - 页码：6864-6890
 - DOI：10.18653/v1/2024.acl-long.371
-- 日期来源：Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2024/8.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2024.acl-long.371/
@@ -2650,7 +2650,7 @@ Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 - 日期来源：Explicit publisher metadata: 2024/07/08; precision=day.
 - 会议日期：21--27 Jul 2024
 - 版本对应依据：Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
-- 来源备注：The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- 来源备注：The publisher issue date comes from citation_publication_date; the conference date range is retained separately as an event date. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
 - 发表证据：https://proceedings.mlr.press/v235/zheng24e.html
 
 ### arXiv 版本记录
@@ -3030,7 +3030,7 @@ The annotation and scope were reviewed against the primary paper abstract.
 - 页码：14281-14290
 - 日期来源：Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier. The publisher PDF title and complete first-page author list were visually checked.
-- 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen. Each edition retains its own authors.
+- 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen.
 - 发表证据：https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html, https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf
 
 ### arXiv 版本记录

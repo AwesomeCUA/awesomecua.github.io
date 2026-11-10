@@ -473,6 +473,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.
 - [web-agent-bench](https://awesomecua.com/zh/resources/github-nsosio-web-agent-bench/) — Date not recorded
   web-agent-bench compares browser-automation harnesses (Playwright MCP, agent-browser, Stagehand) on token usage, latency, and task completion.
+- [WindTunnel](https://awesomecua.com/zh/resources/github-nekuda-ai-windtunnel/) — Date not recorded
+  WindTunnel compares browser-agent interfaces on shared website tasks, measuring task completion, execution time, token use and cost with application-state checks.
 
 ## 数据集
 
@@ -485,8 +487,12 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps screenshots and text targets to bounding-box JSON.
 - [CombatVLA](https://awesomecua.com/zh/resources/github-chenvoid-combatvla/) — Date not recorded
   CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.
+- [Contrastive Language Models](https://awesomecua.com/zh/resources/github-contrastive-lm-clm/) — Date not recorded
+  CLM-8B ranks candidate actions against a state with separate embeddings and a serving API. Its authors report evaluations that include computer-use tasks.
 - [cua-s1-forms-coreml](https://awesomecua.com/zh/resources/url-f742ad40df2e5f109fc3/) — Date not recorded
   A Core ML conversion of CUA-S1-FORMS scores candidate actions for forms from task and element text. It provides portable and compiled packages for Apple devices.
+- [cua-s1-nano-0.1](https://awesomecua.com/zh/resources/url-3cdd5263b3b46a5e2003/) — Date not recorded
+  A small computer-use classifier that scores predefined GUI element-action options from accessibility text or screenshot crops in one parallel pass.
 - [DeskMind Eyes](https://awesomecua.com/zh/resources/github-deskmind-ai-eyes/) — Date not recorded
   DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for localizing click targets on desktop screenshots.
 - [DiMo-GUI](https://awesomecua.com/zh/resources/github-vivo-dimo-gui/) — Date not recorded
@@ -523,6 +529,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Mano-P is an open-source GUI vision-language-action model optimized for edge devices and evaluated on OSWorld and Mind2Web.
 - [Milo-Pointer](https://awesomecua.com/zh/resources/github-chayworks-milo-pointer/) — Date not recorded
   Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and action selector for mobile phone agents.
+- [Model-3b-3ao](https://awesomecua.com/zh/resources/url-477342b0eb81469b35a0/) — Date not recorded
+  A released GUI-agent checkpoint associated with CCPO, which uses coordinate-aware visual compression and distance-based training feedback for multi-turn interface tasks.
 - [mPLUG/ToolCUA-8B](https://awesomecua.com/zh/resources/url-44b65e07d7a869d37dc6/) — Date not recorded
   ToolCUA-8B is a released computer-use model trained to alternate between desktop GUI actions and structured tool calls during task execution.
 - [Muse-Glimmer-30B-GUI-Grounding-Fast](https://awesomecua.com/zh/resources/url-7645072fe9580fa9993a/) — Date not recorded
@@ -531,6 +539,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   OneJev is a multimodal System-One decision model based on Qwen that returns calibrated probabilities over typed action choices.
 - [OpenJev](https://awesomecua.com/zh/resources/github-alanhuangyoo-openjev/) — Date not recorded
   Decision models at 1.7B, 4B and 8B that answer typed questions with calibrated probabilities in one pass; trained on browser-agent steps and general decision data, they pick a web agent's next operation and element.
+- [OpenJev-4B](https://awesomecua.com/zh/resources/url-e592a1ff8bfcafcc7061/) — Date not recorded
+  A local decision model that scores typed options for browser-agent operations and target elements. The release includes weights and reports browser-step evaluations.
 - [PTA-1](https://awesomecua.com/zh/resources/url-303e1926b8ff4f60e006/) — Date not recorded
   AskUI's Florence-2-base grounding model of about 270M parameters that returns a bounding box for a described element in a screenshot, intended for low-latency local computer and phone automation.
 - [Qwen2.5-VL-3B-UI-R1-E](https://awesomecua.com/zh/resources/url-72f3737bb5194fd64852/) — Date not recorded
@@ -600,6 +610,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   CLI, MCP server, and npm library that observes live browser traffic to turn websites into structured APIs for AI agents.
 - [Appwalk](https://awesomecua.com/zh/resources/github-kubstack-appwalk/) — Date not recorded
   AI-powered CLI that explores a web application in a browser and compiles the run into verified Playwright test suites.
+- [arc-cua](https://awesomecua.com/zh/resources/github-shhivv-arc-cua/) — Date not recorded
+  arc-cua is a macOS computer-use package with an app-window driver and a decision-model loop for executing bounded desktop subtasks handed off by an agent.
 - [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/zh/resources/github-sharryxr-asil/) — Date not recorded
   ASIL replaces screenshot-and-click loops with structured application state observations and semantic action interfaces for CUA.
 - [ask-web-ai](https://awesomecua.com/zh/resources/github-pgw10086-ask-web-ai/) — Date not recorded
@@ -822,10 +834,16 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Jev Filter uses compact System-One models to semantically prune large DOM snapshots, logs, and tool outputs before they enter agent context.
 - [Jev for Chrome](https://awesomecua.com/zh/resources/github-chy4pro-jev-for-chrome/) — Date not recorded
   Chrome extension agent that sends an indexed table of visible page controls to the TypeSafe Jev decision model, asks a small text model only for typed strings, and acts through Chrome's debugger input.
+- [Jev GUI Delegate](https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/) — Date not recorded
+  Jev GUI Delegate is a local controller that carries out delegated Windows and Chrome tasks, calls Jev for uncertain choices, and checks outcomes after actions.
 - [Jev macOS Loop](https://awesomecua.com/zh/resources/github-jcpsimmons-jev-macos-loop/) — Date not recorded
   Jev macOS Loop combines Apple Silicon local Jev decision models, OmniParser grounding, and native macOS Accessibility actuation.
+- [Jev Ultrafast](https://awesomecua.com/zh/resources/github-browser-use-jev-ultrafast/) — Date not recorded
+  Jev Ultrafast operates a browser by selecting actions and targets from an indexed table of visible controls, with a separate model generating text when needed.
 - [jev-browser](https://awesomecua.com/zh/resources/github-doruktarhan-jev-browser/) — Date not recorded
   jev-browser is a Claude Code skill and CLI (`jb`) that delegates multi-step web navigation to the Jev System-One action model.
+- [jev-browser](https://awesomecua.com/zh/resources/github-mahmoudadelbghany-jev-browser/) — Date not recorded
+  jev-browser is an MCP server that lets an agent navigate Chromium pages through Jev-selected actions. It checks page changes and returns uncertain steps to the driving agent.
 - [jev-for-chrome](https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/) — Date not recorded
   Chrome extension that drives web browsing, clicking, and typing using TypeSafe Jev System-One decision models.
 - [jev-use](https://awesomecua.com/zh/resources/github-savka777-jev-use/) — Date not recorded
@@ -918,6 +936,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Single-binary ~2MB Rust Model Context Protocol server exposing 54 native Windows desktop control, UI Automation, and screenshot tools.
 - [OpenGUI (Windows Native Service)](https://awesomecua.com/zh/resources/github-lessenings-prog-opengui/) — Date not recorded
   Windows-native .NET 9 desktop automation service exposing sub-millisecond named-pipe IPC and UI Automation perception to LLM agents.
+- [OpenHuman](https://awesomecua.com/zh/resources/github-tinyhumansai-openhuman/) — Date not recorded
+  OpenHuman is an agent harness offered as a desktop app and Rust library, with browser and desktop controls that select actions from visible buttons.
 - [OpenOCR](https://awesomecua.com/zh/resources/github-topdu-openocr/) — Date not recorded
   OpenOCR is an open-source scene and document text detection, recognition, and VLM-OCR toolkit used for screen text parsing.
 - [OpenVINO Autonomous GUI Agent](https://awesomecua.com/zh/resources/github-shehrozkashif-openvino-autonomous-gui-agent/) — Date not recorded

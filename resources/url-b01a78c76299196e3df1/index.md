@@ -14,7 +14,7 @@ GUI-Owl 7B variant from Mobile-Agent-v3 that is RL-tuned for desktop use on OSWo
 
 ## Limitations
 
-The card calls this a variant of GUI-Owl that is RL-tuned for desktop environments and deployable the same way as GUI-Owl 7B, and says it is mainly meant for validating environment-RL improvements, with no guarantee for production use. The X-PLUG/MobileAgent README links it, in its 2025-09-16 news entry, as the OSWorld RL-tuned GUI-Owl checkpoint released alongside the OSWorld code. Hub metadata names Qwen/Qwen2.5-VL-7B-Instruct as base_model. The Hub API lists seven safetensors shards totalling 8,296,592,640 F32 parameters, and config.json, stored through Git LFS, declares Qwen2_5_VLForConditionalGeneration. The card reports no score for this checkpoint. MIT is the card's weight declaration and is not extended to Qwen2.5-VL or training data.
+The card calls this a variant of GUI-Owl that is RL-tuned for desktop environments and deployable the same way as GUI-Owl 7B, mainly for validating environment-RL improvements. The X-PLUG/MobileAgent README links it, in its 2025-09-16 news entry, as the OSWorld RL-tuned GUI-Owl checkpoint released alongside the OSWorld code. Hub metadata names Qwen/Qwen2.5-VL-7B-Instruct as base_model. The Hub API lists seven safetensors shards totalling 8,296,592,640 F32 parameters, and config.json, stored through Git LFS, declares Qwen2_5_VLForConditionalGeneration. The card reports no score for this checkpoint. MIT is the card's weight declaration and is not extended to Qwen2.5-VL or training data.
 
 - Record JSON: https://awesomecua.com/resources/url-b01a78c76299196e3df1/record.json
 

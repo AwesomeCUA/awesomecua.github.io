@@ -38,7 +38,7 @@ Hub size bands and the inconsistent introductory task count use different units 
 - document: not recorded
 - weights: not recorded
 
-- data review: Publisher dataset-card declaration for the released packaging; original source datasets retain their own terms.
+- data review: Publisher dataset-card declaration for the released packaging.
   Sources: https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md
 
 ## Primary evidence

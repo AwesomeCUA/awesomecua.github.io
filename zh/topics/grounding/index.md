@@ -698,6 +698,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   101,314 screenshot–instruction pairs with target boxes for click grounding, filtered from public GUI grounding sets and tutorial-video frames, packaged with EasyR1 point-prediction prompts.
 - [ConClick-Data](https://awesomecua.com/zh/resources/url-bf416a816f74718f94dd/) — Date not recorded
   ConClick-Data provides screenshot grounding examples with target coordinates and distractor boxes, released as JSONL files for training.
+- [DeskForge-1M](https://awesomecua.com/zh/resources/url-e555cae98afb22876f3b/) — Date not recorded
+  A desktop GUI dataset with screenshots, element annotations, and action records, released with training, validation, and varied application, theme, and resolution test splits.
 - [DragOn](https://awesomecua.com/zh/resources/url-b854ff53e497da3a5ad8/) — Date not recorded
   Drag-grounding training and evaluation data pairing each screenshot instruction with start and end boxes, across text highlighting, spreadsheet cells, slide resizing and sliders.
 - [duvo-eye-1-evals](https://awesomecua.com/zh/resources/url-dfcb24f23a03e58316cf/) — Date not recorded
@@ -744,6 +746,10 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Synthetic GUI grounding data associated with UI decomposition research and the OSWorld-G benchmark.
 - [lumos_unified_ground_iterative](https://awesomecua.com/zh/resources/url-87bba046fba8c1cd968c/) — Date not recorded
   A JSONL training dataset for the Lumos-I grounding module, combining math, question-answering, and web-agent annotations, including examples from Mind2Web.
+- [lumos_web_agent_ground_iterative](https://awesomecua.com/zh/resources/url-1e85f7557b39ae40193f/) — Date not recorded
+  A Lumos-Iterative dataset for training a web agent's grounding module. Its card identifies 1009 Mind2Web annotations and links to models trained on the data.
+- [Mind2Web-cleaned-lite-value-model-w-cot-test](https://awesomecua.com/zh/resources/url-9e2c14b01faf8d48b4e9/) — Date not recorded
+  A Mind2Web dataset of 6125 web-action records with element candidates, accessibility trees, prior actions, rationales, and value scores.
 - [MolmoPoint-GUISyn](https://awesomecua.com/zh/resources/url-a7e3c6c6b37793c3151c/) — Date not recorded
   Ai2's synthetic GUI grounding set of about 36K code-rendered desktop, mobile and web screenshots, each with dense element boxes, names and five natural-language intents per element for training pointing models.
 - [OpenGVLab/MMBench-GUI](https://awesomecua.com/zh/resources/url-339e28b1f939ae45f9fe/) — Date not recorded
@@ -770,6 +776,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A dataset of macOS application screenshots with UI element boxes and category labels for training and evaluating interface element detectors.
 - [Screen2AX-Group](https://awesomecua.com/zh/resources/url-6680e812b94c168e6bed/) — Date not recorded
   A dataset of macOS application screenshots with bounding boxes and UI group labels for training and evaluating interface object detection models.
+- [Screen2AX-Task](https://awesomecua.com/zh/resources/url-97d846b5b33235f566a1/) — Date not recorded
+  A macOS UI grounding dataset that pairs application screenshots and action commands with target bounding boxes and visual descriptions.
 - [ScreenDrag](https://awesomecua.com/zh/resources/url-fe43af1801032be708cc/) — Date not recorded
   GUI dragging data with screen observations, prior state, and continuous pointer actions, provided as trajectory files and Parquet representations.
 - [ScreenParse](https://awesomecua.com/zh/resources/url-98e8a413ddd670214755/) — Date not recorded
@@ -790,6 +798,10 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Training data for BAMI's local correction model: pairs of cropped GUI screenshots that each highlight one candidate box, with a click command and an automatic label for the box that fits it.
 - [UGround V1 Data](https://awesomecua.com/zh/resources/url-c4898ad1bfc049926a63/) — Date not recorded
   Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subsets, with a bounding-box version whose coordinates are normalized to 0-999.
+- [UGround-single](https://awesomecua.com/zh/resources/url-9bb57ce3dde2c8289ac1/) — Date not recorded
+  A GUI grounding dataset with 8.29 million training rows that pair image references and element requests with bounding-box coordinates and click actions.
+- [UGround-V1-8k](https://awesomecua.com/zh/resources/url-8d87e8ae53971aab3f8d/) — Date not recorded
+  UGround-V1-8k supplies an 8K-sample subset of web interface screenshots for GUI grounding pretraining across varied resolutions and aspect ratios.
 - [UGround-V1-Data-Box](https://awesomecua.com/zh/resources/url-9e89e3332db1770388bc/) — Date not recorded
   UGround-V1-Data-Box contains Web-Hybrid and Web-Direct GUI grounding data with images and conversations; its bounding-box version uses normalized coordinates.
 - [UI-AGILE-Data](https://awesomecua.com/zh/resources/url-41abb1b7206689cf5057/) — Date not recorded
@@ -831,6 +843,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   An eight-billion-parameter MiniCPM-V-based model that consumes smartphone screenshots and predicts compact actions for Chinese and English Android app tasks.
 - [Aguvis](https://awesomecua.com/zh/resources/github-xlang-ai-aguvis/) — Date not recorded
   Vision-based GUI agent models with unified action representations.
+- [AGW-35B](https://awesomecua.com/zh/resources/url-39e2a96f88ed3223ece9/) — Date not recorded
+  A screenshot-based GUI action model fine-tuned on 79,266 synthetic interaction examples. It uses a task, current screen and recent actions to predict structured computer-use calls.
 - [Aria-UI](https://awesomecua.com/zh/resources/github-ariaui-aria-ui/) — Date not recorded
   Mixture-of-experts GUI grounding model with 3.9B activated parameters that can use text or interleaved image history, with released training data and an AndroidWorld agent.
 - [Aria-UI context-aware checkpoint](https://awesomecua.com/zh/resources/url-085b6811ddd6f797475d/) — Date not recorded
@@ -841,6 +855,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A UI vision-language model checkpoint trained on AutoGUI-625k data and fine-tuned from Qwen-VL-Chat for interpreting interfaces.
 - [browserground](https://awesomecua.com/zh/resources/github-renezander030-browserground/) — Date not recorded
   browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps screenshots and text targets to bounding-box JSON.
+- [browserground-mlx](https://awesomecua.com/zh/resources/url-ea8bb3d3d41be83852a0/) — Date not recorded
+  browserground-mlx is a 4-bit MLX conversion of a browser grounding model for Apple Silicon. It accepts a screenshot and a target description to locate an interface element.
 - [Claude Computer Use](https://awesomecua.com/zh/resources/url-57f17b7d0c18b2d7c8bf/) — Date not recorded
   Claude tool capability for screenshot-based computer interaction.
 - [CogAgent](https://awesomecua.com/zh/resources/github-thudm-cogagent/) — Date not recorded
@@ -859,6 +875,10 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   ConClick is a GUI grounding model trained with coordinate supervision and target distractor ranking. Its ReClick inference method revisits candidate screen regions before choosing a click.
 - [ConClick-8B](https://awesomecua.com/zh/resources/url-75cc3b45e7e44c422c4c/) — Date not recorded
   A GUI grounding checkpoint trained to distinguish target elements from distractors using coordinate and ranking supervision, released as an adapter and supporting weights.
+- [DeskForge-Gemma4-E4B](https://awesomecua.com/zh/resources/url-3359275b15ff3be825fc/) — Date not recorded
+  DeskForge-Gemma4-E4B is a desktop GUI action model fine-tuned on 200K grounding examples. It maps a screenshot and instruction to a pyautogui action with normalized coordinates.
+- [DeskForge-Qwen3.5-4B](https://awesomecua.com/zh/resources/url-9610ef3e1de63d7b647e/) — Date not recorded
+  DeskForge-Qwen3.5-4B is a desktop GUI model that turns a screenshot and instruction into a next-action pyautogui call with screen-relative coordinates.
 - [DeskMind Eyes](https://awesomecua.com/zh/resources/github-deskmind-ai-eyes/) — Date not recorded
   DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for localizing click targets on desktop screenshots.
 - [DeskMind Eyes 4B](https://awesomecua.com/zh/resources/url-0f9bf031c9ee17191cd1/) — Date not recorded
@@ -885,6 +905,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Gemini capability for generating interface actions from screenshots.
 - [GLM-4.5V](https://awesomecua.com/zh/resources/url-97cfbcd45f879ff71499/) — Date not recorded
   A released vision-language model that documents screen reading, icon recognition, visual-element grounding and desktop operation assistance among its supported tasks.
+- [GLM-4.5V-FP8](https://awesomecua.com/zh/resources/url-fc8bf80ab1747df651ca/) — Date not recorded
+  A vision-language model release with FP8 weights whose card documents screen reading, icon recognition, desktop assistance and visual element localization.
 - [GLM-V](https://awesomecua.com/zh/resources/github-zai-org-glm-v/) — Date not recorded
   Z.ai repository for the open-weight GLM-4.1V-Thinking, GLM-4.5V and GLM-4.6V vision-language models, with GUI-agent prompt examples for mobile, PC and web plus a released VLM reward system.
 - [GPA-GUI-Detector](https://awesomecua.com/zh/resources/url-87f28e117d95985d5177/) — Date not recorded
@@ -899,6 +921,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   GroundingPI is a 4B visual grounding foundation model that unifies bounding-box detection, referring expressions, and point localization.
 - [GroundNext-7B-V0](https://awesomecua.com/zh/resources/url-174e10a319d62c338879/) — Date not recorded
   GroundNext GUI-grounding checkpoint fine-tuned from Qwen2.5-VL-7B-Instruct with SFT then RLOO on GroundCUA desktop data; it maps a screenshot and instruction to a computer_use click call.
+- [GTA1-7B](https://awesomecua.com/zh/resources/url-9ca4709eb2e41c0fced6/) — Date not recorded
+  A released GUI grounding checkpoint trained with GRPO to predict an element's coordinates from a screenshot and description, with inference code and reported evaluations.
 - [GTA1-7B](https://awesomecua.com/zh/resources/url-fa6761a4612fab664a7c/) — Date not recorded
   Released GUI grounding checkpoint trained with reinforcement learning to predict click coordinates from screenshots and instructions, with inference examples and reported benchmark results.
 - [GTA1-7B-2507](https://awesomecua.com/zh/resources/url-691c52679bb1d3521db7/) — Date not recorded
@@ -1027,8 +1051,16 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A Qwen2.5-VL checkpoint trained with the Actor2Reasoner procedure to combine interface grounding with planning and recovery reasoning.
 - [InternVL](https://awesomecua.com/zh/resources/github-opengvlab-internvl/) — Date not recorded
   Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.
+- [InternVL3-14B](https://awesomecua.com/zh/resources/url-adb613aec8c5ebdeab89/) — Date not recorded
+  InternVL3-14B is a multimodal model whose training includes GUI operation examples; its model card also presents a GUI grounding evaluation.
+- [InternVL3-1B](https://awesomecua.com/zh/resources/url-6d5151d298f88e2602bb/) — Date not recorded
+  InternVL3-1B is a multimodal model whose training includes GUI operation examples; its model card also presents a GUI grounding evaluation.
+- [InternVL3-2B](https://awesomecua.com/zh/resources/url-34516ed7cef20f813d93/) — Date not recorded
+  A multimodal model checkpoint whose release documents training on GUI operations and evaluation of GUI grounding alongside broader vision-language tasks.
 - [InternVL3-38B](https://awesomecua.com/zh/resources/url-b2a83cef835559f24351/) — Date not recorded
   A released InternVL3-38B multimodal checkpoint from a model family whose card documents GUI-operation training samples and GUI-grounding evaluation.
+- [InternVL3-78B](https://awesomecua.com/zh/resources/url-6fc89a4fd815cb273777/) — Date not recorded
+  InternVL3-78B is a released multimodal checkpoint whose model-family card describes GUI-operation training data and a GUI-grounding evaluation alongside broader vision-language tasks.
 - [InternVL3-8B](https://awesomecua.com/zh/resources/url-7c01d4caa44763019e36/) — Date not recorded
   An 8B multimodal checkpoint whose release describes GUI-operation training data and a GUI-grounding evaluation alongside broader image and video tasks.
 - [InternVL3-9B](https://awesomecua.com/zh/resources/url-1e3655e5a2b664102ac7/) — Date not recorded
@@ -1047,14 +1079,20 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A WebGPU-compatible ONNX browser-use model that selects a page element and operation from a goal and candidate elements, with a 4-bit export for JavaScript use.
 - [Kimi-VL](https://awesomecua.com/zh/resources/github-moonshotai-kimi-vl/) — Date not recorded
   Moonshot AI open-weight MoE vision-language model with 2.8B activated LLM parameters and a native-resolution encoder; its README reports OSWorld, ScreenSpot-Pro and OSWorld-G results for OS-agent use.
+- [Kimi-VL-A3B-Instruct](https://awesomecua.com/zh/resources/url-a42c3bca105218f17645/) — Date not recorded
+  Kimi-VL-A3B-Instruct is a vision-language checkpoint whose card reports performance on desktop agent interaction and screen grounding alongside general multimodal tasks.
 - [Kimi-VL-A3B-Thinking-2506](https://awesomecua.com/zh/resources/url-fb5921fec3f7c313ab5b/) — Date not recorded
   A multimodal reasoning model with released weights and high-resolution image input. Its authors report GUI grounding evaluations on ScreenSpot-Pro, ScreenSpot-V2 and OSWorld-G.
+- [KV-Ground](https://awesomecua.com/zh/resources/github-vocaela-kv-ground/) — Date not recorded
+  KV-Ground releases compact models for locating targets in high-resolution GUI images, alongside training and evaluation code.
 - [KV-Ground 8B (BaseGuiOwl1.5 0315)](https://awesomecua.com/zh/resources/url-461125e2d6ac2f030f6b/) — Date not recorded
   GUI-grounding checkpoint post-trained from GUI-Owl-1.5-8B-Instruct with SFT and GRPO on cleaned and synthesized high-resolution data, aimed at locating elements in large screenshots.
 - [KV-Ground-4B-BaseGuiOwl1.5-0228](https://awesomecua.com/zh/resources/url-709d8b51bbc8d257318f/) — Date not recorded
   A 4B vision-language checkpoint for locating GUI targets in high-resolution images. It is fine-tuned from GUI-Owl-1.5-4B-Instruct with supervised and reward-based post-training.
 - [KV-Ground-4B-BaseQw3vl](https://awesomecua.com/zh/resources/url-969eb56a53187cda74c7/) — Date not recorded
   A 4B GUI grounding model for high-resolution screenshots and text instructions, fine-tuned from Qwen3-VL-4B-Instruct with supervised and reward-based training.
+- [lumos_unified_ground_iterative](https://awesomecua.com/zh/resources/url-af446270bb6bfd20b77e/) — Date not recorded
+  A released Lumos grounding-module checkpoint fine-tuned on web-agent and other interactive tasks within its modular language-agent system.
 - [lumos_unified_ground_iterative-13B](https://awesomecua.com/zh/resources/url-b0b2cd616f8c30b4b09d/) — Date not recorded
   A released Lumos grounding-module checkpoint fine-tuned on web-agent tasks alongside question answering, multimodal and math tasks.
 - [lumos_web_agent_ground_iterative](https://awesomecua.com/zh/resources/url-246241a0b6219513cb7f/) — Date not recorded
@@ -1071,6 +1109,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A released MAI-UI checkpoint combining mobile GUI actions, agent-user interaction and tool-use-oriented navigation.
 - [Mano-CUA-2.0-4B](https://awesomecua.com/zh/resources/url-1b08ff264bbf2f8a10a3/) — Date not recorded
   A released GUI action model that takes a desktop screenshot and task context to produce structured actions, including clicks, typing, scrolling and app launches.
+- [Mano-CUA-2.0-4B-MLX-8bit](https://awesomecua.com/zh/resources/url-430e47e1ca9f3b2a302f/) — Date not recorded
+  An MLX-quantized Mano-CUA model for Apple Silicon that reads screenshots and task instructions to produce structured GUI actions.
 - [Mano-P](https://awesomecua.com/zh/resources/github-mininglamp-ai-mano-p/) — Date not recorded
   Mano-P is an open-source GUI vision-language-action model optimized for edge devices and evaluated on OSWorld and Mind2Web.
 - [microsoft/OmniParser](https://awesomecua.com/zh/resources/url-b5fb13515d7779218f5d/) — Date not recorded
@@ -1081,12 +1121,20 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and action selector for mobile phone agents.
 - [MiniCPM-GUIDance](https://awesomecua.com/zh/resources/url-73570e699421a5ad04eb/) — Date not recorded
   MiniCPM-V checkpoint released with GUICourse and tuned on its GUIEnv, GUIAct and GUIChat data; card prompts cover next-action generation from a task and action history, and screenshot chat with grounded boxes.
+- [Model-3b-3ao](https://awesomecua.com/zh/resources/url-477342b0eb81469b35a0/) — Date not recorded
+  A released GUI-agent checkpoint associated with CCPO, which uses coordinate-aware visual compression and distance-based training feedback for multi-turn interface tasks.
 - [MolmoPoint-GUI-8B](https://awesomecua.com/zh/resources/url-beb2ca7cdaefbef42ee6/) — Date not recorded
   GUI grounding model that takes one screenshot and an instruction-like query, then returns a point for the referenced location using dedicated pointing tokens.
+- [moonshotai/Kimi-VL-A3B-Thinking](https://awesomecua.com/zh/resources/url-c1851e7db3b0e53d2218/) — Date not recorded
+  Kimi-VL-A3B-Thinking is a released reasoning-focused vision-language checkpoint. Its card also reports Kimi-VL family evaluations on desktop-agent tasks and screen grounding.
 - [MP-GUI](https://awesomecua.com/zh/resources/github-bigtaige-mp-gui/) — Date not recorded
   MP-GUI provides multimodal perception training and evaluation code with graphical, textual, and spatial experts for GUI understanding.
 - [Muse-Glimmer-30B-GUI-Grounding-Fast](https://awesomecua.com/zh/resources/url-7645072fe9580fa9993a/) — Date not recorded
   A LoRA adapter for Muse-Glimmer-30B that returns a UI element's bounding box from a screenshot and instruction, with examples spanning desktop, mobile, and web screens.
+- [Northstar-CUA-Fast](https://awesomecua.com/zh/resources/url-52de9679739ad0a50f69/) — Date not recorded
+  A 4B-parameter computer-use model trained with GUI reinforcement learning that maps text and screenshots to actions such as clicks, typing, and scrolling.
+- [OmniJev](https://awesomecua.com/zh/resources/github-tinnel123666888-omnijev/) — Date not recorded
+  OmniJev is a multimodal decision model that scores typed choices from screens and other visual input. Released weights and inference code cover web and phone tasks alongside other domains.
 - [OmniParser v2 model bundle](https://awesomecua.com/zh/resources/url-e21ca7c859544dbf5fb6/) — Date not recorded
   A screen-parsing weight bundle containing icon-region detectors and an icon captioner for converting screenshots into agent-readable interface elements.
 - [omniparser-finetuned](https://awesomecua.com/zh/resources/url-e2b79e8d1c6a28c65bff/) — Date not recorded
@@ -1101,6 +1149,12 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A Qwen2.5-VL-based computer-use checkpoint that produces desktop actions from screenshots and instructions, using recent screen history for context.
 - [OpenCUA-7B-exl2](https://awesomecua.com/zh/resources/url-76f3981d219bb87b4eea/) — Date not recorded
   OpenCUA-7B-exl2 is a 4.5bpw quantized OpenCUA-7B checkpoint for generating computer actions and locating GUI targets from screenshots.
+- [OpenJev-1.7B](https://awesomecua.com/zh/resources/url-24ec6c30e9bb9946c13f/) — Date not recorded
+  OpenJev-1.7B is a local decision model that scores typed options for browser agent steps, including the next operation and target element.
+- [OpenJev-4B](https://awesomecua.com/zh/resources/url-e592a1ff8bfcafcc7061/) — Date not recorded
+  A local decision model that scores typed options for browser-agent operations and target elements. The release includes weights and reports browser-step evaluations.
+- [OpenJev-8B](https://awesomecua.com/zh/resources/url-8f5a8144b96447be84c5/) — Date not recorded
+  OpenJev-8B is a local decision model that scores typed options for browser agent operations and target elements in a single forward pass.
 - [Orienter](https://awesomecua.com/zh/resources/url-758f048c78e5c184333c/) — Date not recorded
   Orienter locates interactable elements in extended reality interface screenshots using application context and a detector. The release includes code and a checkpoint.
 - [OS-Atlas](https://awesomecua.com/zh/resources/github-os-copilot-os-atlas/) — Date not recorded
@@ -1111,6 +1165,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   OS-Atlas base checkpoint fine-tuned from Qwen2-VL-7B-Instruct, using the standard Qwen2-VL architecture in Transformers with about 8.3B BF16 parameters.
 - [OS-Atlas Pro 7B](https://awesomecua.com/zh/resources/url-9c5e0c8f6784bedeb153/) — Date not recorded
   OS-Atlas action checkpoint fine-tuned from OS-Atlas-Base-7B that reads a screenshot, task and history and writes a thought plus the next basic or user-defined GUI action, in the Qwen2-VL architecture.
+- [OS-Atlas-Pro-4B](https://awesomecua.com/zh/resources/url-b87dd2aed7f4c1982b6b/) — Date not recorded
+  A GUI action checkpoint fine-tuned from OS-Atlas-Base-4B that uses a task instruction, screenshot, and action definitions to generate reasoning and a next action.
 - [Phi-Ground](https://awesomecua.com/zh/resources/github-microsoft-phi-ground/) — Date not recorded
   Microsoft GUI grounding models from an empirical study of grounding training, from data collection to model training, released as Phi-Ground-4B-7C with evaluation code.
 - [Phi-Ground checkpoint](https://awesomecua.com/zh/resources/url-cee45b940d5fbff3ccca/) — Date not recorded
@@ -1131,20 +1187,30 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Qwen-VL checkpoint released with GUICourse and tuned on its GUIAct and GUIChat data; the card's demo draws the box and point coordinates it returns, on a 0–1000 grid, onto the input screenshot.
 - [Qwen/Qwen3-VL-8B-Instruct](https://awesomecua.com/zh/resources/url-90ae002dbf099d42fabb/) — Date not recorded
   Qwen3-VL-8B-Instruct is a vision-language checkpoint whose card describes PC and mobile GUI operation, including element recognition and tool calls.
+- [Qwen2.5-VL-32B-Instruct](https://awesomecua.com/zh/resources/url-beafd78bf2ea84211e6d/) — Date not recorded
+  Qwen2.5-VL-32B-Instruct is a released vision-language checkpoint. Its card describes visual-agent computer and phone use, visual localization, and interface benchmark results.
 - [Qwen2.5-VL-3B-Instruct](https://awesomecua.com/zh/resources/url-52ec96785d9c0ae8e039/) — Date not recorded
   An instruction-tuned vision-language checkpoint that reads visual layouts, localizes points or boxes, and supports computer and phone use. Its card reports screen and mobile-agent evaluations.
+- [Qwen2.5-VL-3B-Instruct-AWQ](https://awesomecua.com/zh/resources/url-0ab0de943c5396cdf366/) — Date not recorded
+  Qwen2.5-VL-3B-Instruct-AWQ is an AWQ checkpoint of a vision-language model whose card describes tool-directed computer and phone use and visual localization.
 - [Qwen2.5-VL-3B-UI-R1-E](https://awesomecua.com/zh/resources/url-72f3737bb5194fd64852/) — Date not recorded
   Qwen2.5-VL-3B-UI-R1-E releases UI-R1-E-3B, a model that predicts click coordinates from interface screenshots and commands, with reported mobile, desktop, and web grounding evaluations.
+- [Qwen2.5-VL-72B-Instruct-AWQ](https://awesomecua.com/zh/resources/url-fe24586d646989d5c916/) — Date not recorded
+  This instruction-tuned Qwen2.5-VL checkpoint supports visual localization and tool-directed computer and phone use. The repository provides weights and inference examples.
 - [Qwen2.5-VL-7B-Instruct](https://awesomecua.com/zh/resources/url-557edb1d63e8fcfdee12/) — Date not recorded
   Qwen2.5-VL-7B-Instruct releases vision-language weights whose card describes computer and phone use and reports results on screen grounding and mobile-agent benchmarks.
 - [Qwen2.5-VL-7B-Instruct-AWQ](https://awesomecua.com/zh/resources/url-06c351d14bee24bc3f01/) — Date not recorded
   An AWQ release of the instruction-tuned 7B Qwen2.5-VL model. Its card describes interface-image understanding, visual localization, and computer and phone use.
 - [Qwen3-VL / Qwen2.5-VL](https://awesomecua.com/zh/resources/github-qwenlm-qwen3-vl/) — Date not recorded
   Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
+- [Qwen3-VL-235B-A22B-Instruct](https://awesomecua.com/zh/resources/url-8f5ec99c2aad6c73fed7/) — Date not recorded
+  A Qwen3-VL vision-language checkpoint whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.
 - [Qwen3-VL-235B-A22B-Thinking](https://awesomecua.com/zh/resources/url-b8702b4ca9ceac2ca3ee/) — Date not recorded
   A released Qwen3-VL vision-language checkpoint whose card describes PC and mobile GUI interaction, including recognizing interface elements, invoking tools, and completing tasks.
 - [Qwen3-VL-2B-Instruct](https://awesomecua.com/zh/resources/url-c4d0846c44df2c0d4099/) — Date not recorded
   A vision-language model whose card describes visual-agent operation of PC and mobile interfaces, including element recognition and tool use. This repository releases its weights.
+- [Qwen3-VL-30B-A3B-Instruct](https://awesomecua.com/zh/resources/url-7fafb31cac59ad3a7e03/) — Date not recorded
+  A Qwen3-VL vision-language checkpoint whose model card describes PC and mobile GUI operation, including element recognition, tool use and task completion.
 - [Qwen3-VL-32B-Thinking](https://awesomecua.com/zh/resources/url-ecf889aadea335aa5e25/) — Date not recorded
   Qwen3-VL-32B-Thinking is a vision-language checkpoint whose card describes recognizing interface elements and using tools to complete PC and mobile GUI tasks.
 - [Rex-Omni](https://awesomecua.com/zh/resources/github-idea-research-rex-omni/) — Date not recorded
@@ -1235,10 +1301,14 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   A MultiUI-trained visual-language checkpoint for text-rich webpage understanding and interface tasks.
 - [UIX-Qwen2-Mind2Web](https://awesomecua.com/zh/resources/url-592e434848a1514efef0/) — Date not recorded
   UIX-Qwen2 further fine-tuned on the Mind2Web training set; the MultiUI paper evaluates it on predicting the next web action from a screenshot, the task and previous actions.
+- [V2P-7B](https://awesomecua.com/zh/resources/url-a815c128627d11011e89/) — Date not recorded
+  A GUI grounding checkpoint that takes a screenshot and instruction to locate interaction coordinates. V2P suppresses background attention and emphasizes target centers.
 - [VGA (Vision GUI Assistant)](https://awesomecua.com/zh/resources/github-linziyang1999-vision-gui-assistant/) — Date not recorded
   Vision GUI Assistant (VGA) provides image-centric fine-tuning code and datasets to reduce hallucinations in vision-language GUI grounding.
 - [Vision-ml](https://awesomecua.com/zh/resources/github-meituan-dianping-vision/) — Date not recorded
   Vision-ml locates the close control in a mobile-app popup screenshot and returns screen coordinates for automation; the repository includes prediction code and a pretrained model.
+- [YOLOv11l — UI Groups Detection](https://awesomecua.com/zh/resources/url-6106415bee936ef638aa/) — Date not recorded
+  A YOLO11 fine-tune that detects UI groups such as toolbars and tab groups in macOS application screenshots for accessibility analysis.
 - [yolov11l-ui-elements-detection](https://awesomecua.com/zh/resources/url-5d824526d56f179d3d51/) — Date not recorded
   A YOLO11 fine-tune that locates five kinds of interface elements in macOS application screenshots to support accessibility metadata generation.
 - [ZonUI-3B checkpoint](https://awesomecua.com/zh/resources/url-c8c046847f829fea4821/) — Date not recorded
@@ -1276,6 +1346,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Natural-language querying and interaction tools for web interfaces.
 - [AgentStudio](https://awesomecua.com/zh/resources/github-skyworkai-agent-studio/) — Date not recorded
   Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
+- [AgentVision](https://awesomecua.com/zh/resources/github-amitpatole-agent-vision/) — Date not recorded
+  A visual review tool for AI agents that renders interfaces and reports layout, contrast, text, and image issues. Agents can use its findings to revise and check their output again.
 - [AGY Computer Use](https://awesomecua.com/zh/resources/github-orakulzero-agy-computer-use/) — Date not recorded
   AGY Computer Use provides native Windows desktop automation combining UI Automation trees, Set-of-Marks grounding, and background PrintWindow capture.
 - [AI Vision (Chrome Screenshot Assistant)](https://awesomecua.com/zh/resources/github-stiwarilbj-ai-vision/) — Date not recorded
@@ -1294,6 +1366,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Adapts the Anthropic Claude Computer Use reference agent to control a native macOS desktop using PyAutoGUI and cliclick.
 - [App Use](https://awesomecua.com/zh/resources/github-erickjtorres-app-use/) — Date not recorded
   App Use is a Python framework that connects LLM agents to Android and iOS mobile applications via Appium and accessibility-tree inspection.
+- [arc-cua](https://awesomecua.com/zh/resources/github-shhivv-arc-cua/) — Date not recorded
+  arc-cua is a macOS computer-use package with an app-window driver and a decision-model loop for executing bounded desktop subtasks handed off by an agent.
 - [argos-eye](https://awesomecua.com/zh/resources/github-xhae123-argos-eye/) — Date not recorded
   argos-eye is a visual grounding skill and tool for Claude Code that resolves natural-language UI targets to verified pixel coordinates.
 - [Argus (macOS Vision-AX MCP Plugin)](https://awesomecua.com/zh/resources/github-korisame-argus/) — Date not recorded
@@ -1314,8 +1388,14 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Playwright-based vision browser agent featuring loop detection, DOM-plus-screenshot grounding, and per-step token telemetry.
 - [autourgos-cua-coordinate-tool](https://awesomecua.com/zh/resources/github-devxjitin-autourgos-cua-coordinate-tool/) — Date not recorded
   Vision-based UI coordinate localization tool for Autourgos computer-use agents.
+- [AutoWebNav](https://awesomecua.com/zh/resources/github-mindattic-autowebnav/) — Date not recorded
+  AutoWebNav is a .NET library for WebView2 browser automation, combining page actions and element resolution with interaction recording and live observation.
 - [AWorld-RL](https://awesomecua.com/zh/resources/github-inclusionai-agenticlearning/) — Date not recorded
   AWorld-RL collects training projects for agents, including V2P for visual GUI grounding, with codebases, datasets, and checkpoints.
+- [AXorcist](https://awesomecua.com/zh/resources/github-steipete-axorcist/) — Date not recorded
+  AXorcist is a Swift library and CLI for querying macOS accessibility trees, locating interface elements, and performing actions on applications.
+- [bitmap](https://awesomecua.com/zh/resources/github-vcaesar-bitmap/) — Date not recorded
+  bitmap is a Go utility for locating image matches in captured screen regions; its example uses RobotGo to move the pointer to a match.
 - [Blue Steel](https://awesomecua.com/zh/resources/github-apothic-ai-blue-steel/) — Date not recorded
   Vision-driven browser agent powered by the Camoufox stealth Firefox browser.
 - [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/zh/resources/github-momoyi0929-gui-agent/) — Date not recorded
@@ -1356,10 +1436,14 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Open-source replication of the CoAct-1 hybrid coding-and-GUI multi-agent architecture evaluated on OSWorld-Verified.
 - [COCO4GUI](https://awesomecua.com/zh/resources/github-harpreetsahota204-gui-dataset-creator/) — Date not recorded
   COCO4GUI is an interactive screen capture and bounding-box annotation tool for building COCO-formatted GUI grounding datasets.
+- [COCO4GUI Dataset Importer](https://awesomecua.com/zh/resources/github-harpreetsahota204-coco4gui-fiftyone/) — Date not recorded
+  COCO4GUI Dataset Importer loads GUI interaction annotations into FiftyOne, preserving element regions, action points, workflow sequences, and application metadata.
 - [CODA](https://awesomecua.com/zh/resources/github-openixclab-coda/) — Date not recorded
   CODA coordinates a trainable planner ('Cerebrum') with a grounded GUI executor ('Cerebellum') via decoupled reinforcement learning on ScienceBoard.
 - [Codex Computer Use Lab](https://awesomecua.com/zh/resources/github-hqhq1025-codex-computer-use-lab/) — Date not recorded
   Documents and reproduces the macOS Computer Use architecture, SkyLight window capture, and Accessibility action dispatch in the Codex desktop app.
+- [CodexQA Jev Browser](https://awesomecua.com/zh/resources/github-openqa-cn-jev-browser/) — Date not recorded
+  CodexQA Jev Browser operates Playwright pages through indexed controls and model-selected actions, with case replay and reports based on visible page evidence.
 - [Compress2Focus (CCPO)](https://awesomecua.com/zh/resources/github-hithink-research-ccpo/) — Date not recorded
   Compress2Focus (CCPO) implements coordinate compression for multi-turn policy optimization in vision-language GUI agents.
 - [Computer Control MCP](https://awesomecua.com/zh/resources/github-ab498-computer-control-mcp/) — Date not recorded
@@ -1376,6 +1460,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Low-token, low-latency Windows computer-use MCP server with learned action shortcuts and hybrid UIA/CDP/OCR routing.
 - [ComputerMate](https://awesomecua.com/zh/resources/github-one710-computermate/) — Date not recorded
   ComputerMate is a cross-platform Model Context Protocol server granting AI models screen capture, OCR, mouse/keyboard, and shell control.
+- [CUA Skill](https://awesomecua.com/zh/resources/github-microsoft-cua-skill/) — Date not recorded
+  CUA Skill runs Windows desktop tasks by retrieving and executing reusable action sequences. Its agent modes use screenshots, accessibility trees, and visual grounding.
 - [cua_agent](https://awesomecua.com/zh/resources/github-lacassef-computeruse/) — Date not recorded
   cua_agent is a modular Python computer-use framework with OS-agnostic planning, semantic UI grounding, and policy-checked desktop/browser drivers.
 - [cuAgent](https://awesomecua.com/zh/resources/github-xhqing-cuagent/) — Date not recorded
@@ -1446,6 +1532,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Android UI agent that prunes interface trees, waits for stable screens, feeds action failures back into its decisions, and takes fresh screenshots before grounding actions.
 - [FIVE-UI-Evol](https://awesomecua.com/zh/resources/github-microsoft-five-ui-evol/) — Date not recorded
   Microsoft monorepo for InfiniteWeb website and task-evaluator synthesis, the UI-E2I-Synth grounding evaluation script and UI-I2E-Bench leaderboard, and UI-Evol trajectory-based knowledge refinement.
+- [Frigate](https://awesomecua.com/zh/resources/github-rao-studios-frigate/) — Date not recorded
+  A Swift ML package that includes a macOS screen-perception module. It detects regions, recognizes text, classifies interface roles, and produces a page map.
 - [frontprompt](https://awesomecua.com/zh/resources/github-surrealmindai-frontprompt/) — Date not recorded
   Browser-automation MCP server with an interactive visual overlay that lets users annotate webpage elements and dispatch agent tasks.
 - [GACUA](https://awesomecua.com/zh/resources/github-openmule-gacua/) — Date not recorded
@@ -1454,6 +1542,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Game AI - Balatro combines detection of cards and interface controls with code for automating play in the Balatro desktop game.
 - [GAZE](https://awesomecua.com/zh/resources/github-kevintrinhdev-gaze/) — Date not recorded
   Vision-first browser controller that observes and drives an already logged-in Chrome window.
+- [gcv](https://awesomecua.com/zh/resources/github-vcaesar-gcv/) — Date not recorded
+  A Go image-matching utility that locates a captured image or template within a desktop screenshot, with an example using RobotGo capture.
 - [Genie](https://awesomecua.com/zh/resources/github-vimalmathew26-genie/) — Date not recorded
   Genie is an autonomous Linux desktop agent with 3-tier UI resolution across AT-SPI accessibility trees, Chrome CDP, and VLM vision.
 - [GenPark Viewport Occlusion Resolver Skill](https://awesomecua.com/zh/resources/github-alpha-park-genpark-visual-viewport-element-occlusion-resolver-skill/) — Date not recorded
@@ -1522,6 +1612,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Company developing computer-use models, RL environments and evaluations for AI labs and enterprise work. Its site describes the Huzzle World model family.
 - [hyprhands](https://awesomecua.com/zh/resources/github-berker-z-hyprhands/) — Date not recorded
   Hyprland Wayland computer-use MCP server giving AI agents semantic and pixel-level desktop control.
+- [i3-cua-mcp](https://awesomecua.com/zh/resources/github-smirnov-labs-i3-computer-use-mcp/) — Date not recorded
+  An MCP server for i3 desktops on X11 that exposes window data, screenshots and input controls. It maps coordinates from captured frames to desktop positions and includes a Xephyr sandbox.
 - [Inner Coordinates](https://awesomecua.com/zh/resources/github-xiaochu-1208-inner-coordinates/) — Date not recorded
   Reverse-engineers a clickable coordinate and state map of macOS and iPhone applications once for deterministic workflow replay.
 - [Intent Browser Runtime (ibr)](https://awesomecua.com/zh/resources/github-hop-top-ibr/) — Date not recorded
@@ -1534,8 +1626,12 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   IrisGUI is a cross-platform desktop GUI agent that perceives screens and automates mouse and keyboard workflows.
 - [JasonWei04 dsh-computer-use](https://awesomecua.com/zh/resources/github-jasonwei04-dsh-computer-use/) — Date not recorded
   Equips text-only LLMs in DeepSeek Harness with desktop screen perception and mouse/keyboard control.
+- [Jev GUI Delegate](https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/) — Date not recorded
+  Jev GUI Delegate is a local controller that carries out delegated Windows and Chrome tasks, calls Jev for uncertain choices, and checks outcomes after actions.
 - [Jev macOS Loop](https://awesomecua.com/zh/resources/github-jcpsimmons-jev-macos-loop/) — Date not recorded
   Jev macOS Loop combines Apple Silicon local Jev decision models, OmniParser grounding, and native macOS Accessibility actuation.
+- [Jev Ultrafast](https://awesomecua.com/zh/resources/github-browser-use-jev-ultrafast/) — Date not recorded
+  Jev Ultrafast operates a browser by selecting actions and targets from an indexed table of visible controls, with a separate model generating text when needed.
 - [Label Controllers](https://awesomecua.com/zh/resources/github-amywlp-label-controllers/) — Date not recorded
   Label Controllers is a screenshot-to-controls API combining YOLO widget detection and RapidOCR with OpenAI/Anthropic computer-use tool schemas.
 - [Larker](https://awesomecua.com/zh/resources/github-qiadastrachen-bit-larker/) — Date not recorded
@@ -1600,6 +1696,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Vision plugin for text-only models on DeepSeek Harness enabling interactive image and UI screenshot inspection.
 - [Mobile QA Agent](https://awesomecua.com/zh/resources/github-sumanmadipeddi-mobile-qa-agent/) — Date not recorded
   Mobile QA Agent is a Supervisor-Planner-Executor multi-agent system built on Agent S3 for automated Android app testing via ADB.
+- [MolmoPoint-GUISyn](https://awesomecua.com/zh/resources/github-allenai-molmopoint-guisyn/) — Date not recorded
+  A pipeline for synthetic GUI grounding data. It renders generated HTML into screenshots, extracts visible element boxes, and adds semantic names and interaction intents.
 - [MultimodalWebSurfer](https://awesomecua.com/zh/resources/url-41556fece3bf8a2419ba/) — Date not recorded
   MultimodalWebSurfer operates a Chromium browser through Playwright, using marked screenshots and a multimodal model to choose actions on web pages.
 - [munim-computer-use](https://awesomecua.com/zh/resources/github-munimtechnologies-munim-computer-use/) — Date not recorded
@@ -1682,10 +1780,14 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Peekaboo is a macOS screen-capture, accessibility-element targeting, and GUI automation CLI and MCP server for computer-use agents.
 - [PeekabooWin](https://awesomecua.com/zh/resources/github-felixkruger-peekaboowin/) — Date not recorded
   A Windows desktop automation tool exposes screen capture, OCR, indexed accessibility controls, and input actions through a sidecar interface, CLI, and MCP server.
+- [PeekabooX](https://awesomecua.com/zh/resources/github-nordbyte-peekaboox/) — Date not recorded
+  PeekabooX is a Linux desktop automation toolkit with screen capture, semantic UI inspection, input actions, and workflows exposed through CLI, Python, and MCP interfaces.
 - [perceive](https://awesomecua.com/zh/resources/github-gauthierpiarrette-perceive/) — Date not recorded
   perceive is a reachability-filtered perception layer for browser agents that prunes non-interactive or occluded DOM elements.
 - [PhysiClaw](https://awesomecua.com/zh/resources/github-physiclaw-physiclaw/) — Date not recorded
   PhysiClaw uses an overhead camera and a 3-axis capacitive stylus gantry to physically tap and swipe unmodified smartphones.
+- [PICC](https://awesomecua.com/zh/resources/github-andelf-picc/) — Date not recorded
+  PICC is a macOS utility collection with an accessibility-based app automation CLI and tree viewers for inspecting and interacting with interface elements.
 - [Pix2Act](https://awesomecua.com/zh/resources/github-google-deepmind-pix2act/) — Date not recorded
   Pix2Act provides JAX/T5X training and evaluation code for pixel-only GUI agents on MiniWoB++ using behavioral cloning and tree search.
 - [pixel-forge](https://awesomecua.com/zh/resources/github-sjxbbdb-pixel-forge/) — Date not recorded
@@ -1760,6 +1862,10 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Agent skill for Claude Code, Codex, Cursor, and OpenCode that drives desktop GUIs via a Rust CLI and local vision grounding.
 - [Smol2Operator](https://awesomecua.com/zh/resources/github-huggingface-smol2operator/) — Date not recorded
   Hugging Face recipe that converts Aguvis GUI data into one normalized action space and fine-tunes SmolVLM2-2.2B in two phases, first for screenshot grounding and then for agentic GUI action code.
+- [SnapDOM](https://awesomecua.com/zh/resources/github-zumerlab-snapdom/) — Date not recorded
+  SnapDOM captures rendered browser elements and exports images or structured page context. Its plugins can provide agents with text, JSON and images paired with element maps.
+- [Solari Research Suite: ARC & ColdStart](https://awesomecua.com/zh/resources/github-itw-code-solari-cookbook/) — Date not recorded
+  A research suite combining an accessibility-based browser-agent harness with an evaluation harness that changes a web task app and verifies completed actions against database state.
 - [SuperSelector Studio](https://awesomecua.com/zh/resources/github-pirate-cua-superselector/) — Date not recorded
   Resilient, cacheable fuzzy UI element identifiers and studio for Codex Computer Use recording and replay.
 - [Surf MCP](https://awesomecua.com/zh/resources/github-shanevcantwell-surf-mcp/) — Date not recorded
@@ -1802,10 +1908,14 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Two-layer macOS GUI navigation agent that separates VLM screen perception from strategic LLM action planning.
 - [UI Annotator MCP](https://awesomecua.com/zh/resources/github-mcpware-ui-annotator-mcp/) — Date not recorded
   Model Context Protocol server that injects interactive Set-of-Mark hover labels into live webpages for visual browser agents.
+- [UI-Hawk](https://awesomecua.com/zh/resources/github-imnearth-uihawk/) — Date not recorded
+  UI-Hawk is a GUI agent designed to interpret sequences of screens during navigation. Its research release describes a history-aware visual encoder, screen tasks, and the FunUI benchmark.
 - [Ui.Vision RPA](https://awesomecua.com/zh/resources/github-a9t9-rpa/) — Date not recorded
   Ui.Vision combines Selenium-compatible browser commands, visual desktop OCR/template automation, and an MCP server for AI agents.
 - [uia-agent](https://awesomecua.com/zh/resources/github-supermarioyl-uia-agent/) — Date not recorded
   uia-agent defines an open-source LLM agent action space that drives legacy Windows desktop applications through the UI Automation tree.
+- [uictl-linux-mcp](https://awesomecua.com/zh/resources/github-byronscottjones-uictl-linux-mcp/) — Date not recorded
+  uictl-linux-mcp is a developing Linux/GNOME CLI and MCP server for agent control of GUI applications through screenshots, accessibility data, and input actions.
 - [UIED (UI Element Detection)](https://awesomecua.com/zh/resources/github-mulongxie-uied/) — Date not recorded
   UIED detects graphical widgets and text blocks in UI screenshots by combining flood-fill/Canny component analysis with deep text recognition.
 - [UiPath ScreenPlay](https://awesomecua.com/zh/resources/url-b09d10b87e42b7e74de9/) — Date not recorded

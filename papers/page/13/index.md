@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/13/ · [Previous page](https://awesomecua.com/papers/page/12/index.md) · [Next page](https://awesomecua.com/papers/page/14/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 

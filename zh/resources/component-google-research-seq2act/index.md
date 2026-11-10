@@ -15,7 +15,7 @@
 
 ## 范围记录
 
-Scoped to the seq2act directory of the google-research monorepo. The README says AndroidHowTo and PixelHelp were re-created from public sources and give slightly different results than the paper; the data are generated or downloaded separately, and a pre-trained end-to-end grounding checkpoint is linked from Cloud Storage. The monorepo's Apache-2.0 LICENSE is recorded for code only and does not establish terms for the datasets or the checkpoint. github.com/deepneuralmachine/seq2act-tensorflow is an unofficial 2020 copy of this directory.
+Scoped to the seq2act directory of the google-research monorepo. The README says AndroidHowTo and PixelHelp were re-created from public sources and give slightly different results than the paper; the data are generated or downloaded separately, and a pre-trained end-to-end grounding checkpoint is linked from Cloud Storage. The monorepo's Apache-2.0 LICENSE covers code. github.com/deepneuralmachine/seq2act-tensorflow is an unofficial 2020 copy of this directory.
 
 - 完整记录 JSON：https://awesomecua.com/resources/component-google-research-seq2act/record.json
 

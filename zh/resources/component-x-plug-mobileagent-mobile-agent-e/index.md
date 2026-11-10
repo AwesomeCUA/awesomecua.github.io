@@ -15,7 +15,7 @@ Android 自动化组件，采用分层规划和反思，并保留从多个任务
 
 ## 范围记录
 
-The inspected README supports Android only, with experiments on Samsung Galaxy A15; macOS/Linux instructions describe host-machine setup. Agent code, launch scripts and benchmark definitions are present. The root MIT code license does not establish terms for the separately published task dataset or external models.
+The inspected README supports Android only, with experiments on Samsung Galaxy A15; macOS/Linux instructions describe host-machine setup. Agent code, launch scripts and benchmark definitions are present. The root MIT license covers the repository code.
 
 - 完整记录 JSON：https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/record.json
 

@@ -394,6 +394,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 
 - [AgentSynth tasks and trajectories](https://awesomecua.com/zh/resources/url-58a209f2b3b970916396/) — Date not recorded
   Published AgentSynth task definitions and recorded GUI trajectories, with OSWorld and InSTA training configurations and packaged screenshots, thoughts and commands.
+- [LPS-Bench](https://awesomecua.com/zh/resources/url-625bd97c7aa32cf05833/) — Date not recorded
+  A dataset for evaluating safety across computer-use agent trajectories, with 570 base cases and 40 skill variants covering benign and adversarial tasks.
 - [Mind2Web 2 task data and judge scripts](https://awesomecua.com/zh/resources/url-4f4c4f0bf0cec93c59d1/) — Date not recorded
   Auto-gated Hub release of Mind2Web 2: dev and test task CSVs for long-horizon agentic web search, plus 130 per-task Python evaluation scripts that act as its judge agents.
 - [OSWorld 2.0 task classes](https://awesomecua.com/zh/resources/url-1c4a0389ace7c5cb8a4b/) — Date not recorded
@@ -407,6 +409,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 
 - [CODA-PLANNER-TARS-32B](https://awesomecua.com/zh/resources/url-cf16d0a4a05ea7270ffa/) — Date not recorded
   CODA-PLANNER-TARS-32B is a GUI agent planner checkpoint trained for scientific applications and deployed alongside a specialist executor in ScienceBoard.
+- [Mano-CUA-2.0-4B-MLX-8bit](https://awesomecua.com/zh/resources/url-430e47e1ca9f3b2a302f/) — Date not recorded
+  An MLX-quantized Mano-CUA model for Apple Silicon that reads screenshots and task instructions to produce structured GUI actions.
 - [Plan-and-Act Planner 70B](https://awesomecua.com/zh/resources/url-3932d69c6b6f9b2a7ba8/) — Date not recorded
   The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.
 
@@ -414,6 +418,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 
 - [A-MEM](https://awesomecua.com/zh/resources/github-agiresearch-a-mem/) — Date not recorded
   A-MEM implements a Zettelkasten-inspired dynamic memory architecture that links and evolves structured episodic notes for LLM agents.
+- [AgentGym-RL](https://awesomecua.com/zh/resources/github-woooodyy-agentgym-rl/) — Date not recorded
+  A reinforcement-learning framework for multi-turn agents that includes WebArena navigation tasks and a method for increasing interaction length during training.
 - [agentmemory](https://awesomecua.com/zh/resources/github-rohitg00-agentmemory/) — Date not recorded
   agentmemory provides persistent cross-session memory and MCP integration for coding and computer-use agents including Claude Code, Codex, and OpenClaw.
 - [AgentProg](https://awesomecua.com/zh/resources/github-mobilellm-agentprog/) — Date not recorded
@@ -474,6 +480,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Recallo is a local-first browser agent with persistent SQLite episodic memory across browsing sessions.
 - [ReMe](https://awesomecua.com/zh/resources/github-agentscope-ai-reme/) — Date not recorded
   ReMe is a local-first personal knowledge and procedural memory management framework for autonomous LLM agents.
+- [RSIGame](https://awesomecua.com/zh/resources/github-wenyiwu0111-rsigame/) — Date not recorded
+  An agentic game-development system that plays generated games, uses screenshots and run evidence to guide revisions, and replays builds to check the changes.
 - [SCoR (Sparse Context Reset)](https://awesomecua.com/zh/resources/github-huia711-scor/) — Date not recorded
   Sparse Context Reset (SCoR) framework for preventing context overflow and drift in long-horizon GUI agents.
 - [SimpleMem](https://awesomecua.com/zh/resources/github-aiming-lab-simplemem/) — Date not recorded
@@ -482,6 +490,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   taskforge is a long-horizon workflow orchestration engine combining multi-step planning, tool invocation, and GUI state verification.
 - [UI-Mate](https://awesomecua.com/zh/resources/github-tencent-ui-mate/) — Date not recorded
   UI-Mate is a desktop GUI agent that uses screenshots and keyboard and mouse actions for tasks across applications. It also supports workflows learned from recorded demonstrations.
+- [VISTA](https://awesomecua.com/zh/resources/github-joshhhhhan-vista/) — Date not recorded
+  VISTA is a harness for visual game agents that combines game actions with frame inspection and retrievable observation history for extended tasks.
 - [WebTactix](https://awesomecua.com/zh/resources/url-40795d2c86388ae89f43/) — Date not recorded
   A web agent that simplifies accessibility trees, explores candidate actions in parallel and stores visited pages in a semantic tree to guide later decisions and recovery.
 - [WebThinker](https://awesomecua.com/zh/resources/github-ruc-nlpir-webthinker/) — Date not recorded

@@ -39,7 +39,7 @@ Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jso
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.
+- 数据审核：Publisher dataset-card declaration for this release.
   来源：https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md
 
 ## 一手证据

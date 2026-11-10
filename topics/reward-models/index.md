@@ -170,8 +170,12 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
 
 - [AgentRewardBench dataset](https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/) — Date not recorded
   Hugging Face dataset release for AgentRewardBench containing trajectory evaluation instances across WebArena, VisualWebArena, AssistantBench, WorkArena, and OSWorld.
+- [Mind2Web-cleaned-lite-value-model-w-cot-test](https://awesomecua.com/resources/url-9e2c14b01faf8d48b4e9/) — Date not recorded
+  A Mind2Web dataset of 6125 web-action records with element candidates, accessibility trees, prior actions, rationales, and value scores.
 - [OS-Copilot/OS-Shepherd-100K](https://awesomecua.com/resources/url-d716497286ae5cd5e762/) — Date not recorded
   A dataset of GUI agent trajectories and screenshots for training models to judge task completion, with supervised records and reinforcement learning splits.
+- [OS-Copilot/OSReward](https://awesomecua.com/resources/url-e01658de14c2e62fbf20/) — Date not recorded
+  OSReward releases labeled computer-use trajectories with aligned screenshots in Full and Hard test sets for evaluating task-success judgments.
 - [UI-Genie reward data](https://awesomecua.com/resources/url-84e5aeeffaf561baa966/) — Date not recorded
   Mobile GUI reward annotations released for training UI-Genie’s trajectory-assessment model.
 - [WebPRM checklist-generation data](https://awesomecua.com/resources/url-fcc98b149272bbf31b05/) — Date not recorded

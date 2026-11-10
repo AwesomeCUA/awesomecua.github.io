@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/data-generation/page/7/
 
 Full list: https://awesomecua.com/topics/data-generation/index.md
 
+- [Agent-Trajectories](https://awesomecua.com/resources/url-61c09ceb7c78f6b5e74f/)
 - [AgentNet](https://awesomecua.com/resources/url-964d70c40bfc5ca8e1ee/)
 - [AgentSynth tasks and trajectories](https://awesomecua.com/resources/url-58a209f2b3b970916396/)
 - [AgentTrek](https://awesomecua.com/resources/github-xlang-ai-agenttrek/)
@@ -26,12 +27,14 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [ConClick-Data](https://awesomecua.com/resources/url-bf416a816f74718f94dd/)
 - [cua-ai/cua-s1-forms](https://awesomecua.com/resources/url-62d912811f786f787ae4/)
 - [CUA-Gym](https://awesomecua.com/resources/url-6aa1aa58a7a888395189/)
+- [DeskForge-1M](https://awesomecua.com/resources/url-e555cae98afb22876f3b/)
 - [Dreamer V1 Data](https://awesomecua.com/resources/url-eadc6cba9ea46c38dd1d/)
 - [DroidCall data](https://awesomecua.com/resources/url-ae8f5208eea9e7f1f606/)
 - [Fanbin/waa_steve_trajectories](https://awesomecua.com/resources/url-2bab4b78c81cde1d5ecb/)
 - [FiftyOne GUI Grounding Training Set](https://awesomecua.com/resources/url-f0eac3ad813245645492/)
 - [FiftyOne GUI Grounding Training Set with Synthetic Augmentation](https://awesomecua.com/resources/url-c10fd1906c2e7ee289ec/)
 - [FingerTip-20K](https://awesomecua.com/resources/github-tsinghua-fib-lab-fingertip-20k/)
+- [gameworld-qwen38-flash-next-trajectory](https://awesomecua.com/resources/url-e3c3e5a5a00f024ebac5/)
 - [GroundCUA](https://awesomecua.com/resources/github-servicenow-groundcua/)
 - [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/)
 - [GroundGUI RL Dataset](https://awesomecua.com/resources/url-4e71dc456c4112eed727/)
@@ -61,6 +64,3 @@ Full list: https://awesomecua.com/topics/data-generation/index.md
 - [InSTA 150k Tasks (v3)](https://awesomecua.com/resources/url-a80c7330dbfd4f897693/)
 - [James4Ever0/the_frozen_forest](https://awesomecua.com/resources/url-ede673f7e6f369eae600/)
 - [Jedi](https://awesomecua.com/resources/url-e062cf1445eaee0f3ade/)
-- [LGWM data and RSWT-Bench](https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/)
-- [lumos_unified_plan_iterative](https://awesomecua.com/resources/url-543aff764901777e6ad5/)
-- [lumos_web_agent_plan_iterative](https://awesomecua.com/resources/url-0772193ae2967c407d22/)

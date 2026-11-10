@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/19/ · [Previous page](https://awesomecua.com/papers/page/18/index.md) · [Next page](https://awesomecua.com/papers/page/20/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -1988,7 +1988,7 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 - Publisher: Association for Computational Linguistics
 - Pages: 7436-7465
 - DOI: 10.18653/v1/2025.acl-long.369
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: the same 29 authors in the same order and the same OS Agents survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity, whose abstract presents the 9-page version accepted by ACL 2025 and whose comment reads ACL 2025 (Oral). The titles differ only in their final phrase.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title ends with 'for Computer, Phone and Browser Use', while the retained arXiv v1 title ends with 'for General Computing Devices Use'.
 - Publication evidence: https://aclanthology.org/2025.acl-long.369/

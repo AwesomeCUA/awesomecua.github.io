@@ -308,7 +308,7 @@ Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin 
 - 出版方：Association for Computational Linguistics
 - 页码：155-180
 - DOI：10.18653/v1/2025.emnlp-demos.12
-- 日期来源：Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/11.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - 发表证据：https://aclanthology.org/2025.emnlp-demos.12/
@@ -1645,7 +1645,7 @@ Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, L
 - 出版方：Association for Computational Linguistics
 - 页码：5650-5667
 - DOI：10.18653/v1/2025.acl-long.282
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot.
 - 发表证据：https://aclanthology.org/2025.acl-long.282/
@@ -2754,7 +2754,7 @@ Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yuanchun
 - 发表于：International Conference on Learning Representations
 - 卷：2026
 - 页码：16218-16250
-- 日期来源：Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2026-04-20.
 - 版本对应依据：Same work under a new title: the retained arXiv title is Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents. The PDF title page lists the same ten authors in the same order as arXiv, and the publisher abstract describes the same slot-based instruction generation, common split with offline multi-path evaluation, pop-up and ad-app noisy split, AITZ-Noise contaminated split and ambiguous split with preset Q&A interactions.
 - 来源备注：Publisher proceedings edition; retained separately from the arXiv snapshot. The conference edition is retitled SMAN-Bench, for its Single-path, Multi-path, Ambiguous and Noisy task settings, and its PDF names github.com/gezelligheid0314/SMAN-Bench for code and datasets. Its abstract lists Mobile-Agent-E among the evaluated frameworks, where the retained v3 abstract names UI-Tars and OS-Atlas. The landing page metadata lists Yunxin Liu before Yuanchun Li and writes LIU, WEI in capitals; publication authors follow the PDF title page. Volume 2026 and pages 16218-16250 are explicit publisher citation metadata.
 - 发表证据：https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2026/file/1b4279dc1ec8d0183c22528664d84459-Paper-Conference.pdf

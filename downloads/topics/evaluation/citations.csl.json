@@ -1021,7 +1021,7 @@
           "Oriana Riva",
           "Timothy Lillicrap"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2023-12-15.",
         "date_parts": [
           2023,
           12,
@@ -1996,7 +1996,7 @@
           "Zhenzhong Lan",
           "Dong Yu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8.",
         "date_parts": [
           2024,
           8
@@ -2092,7 +2092,7 @@
         ],
         "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
         "issue": null,
-        "notes": "The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "notes": "The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately as an event date. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
         "pages": "33007-33056",
         "pdf_url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/lu24e/lu24e.pdf",
         "publisher": "PMLR",
@@ -2296,7 +2296,7 @@
           "See Kiong Ng",
           "Tat-Seng Chua"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8.",
         "date_parts": [
           2024,
           8
@@ -2732,7 +2732,7 @@
           "Benjamin Van Durme",
           "Daniel Khashabi"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4.",
         "date_parts": [
           2025,
           4
@@ -3126,7 +3126,7 @@
           "Victor Zhong",
           "Tao Yu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16.",
         "date_parts": [
           2024,
           12,
@@ -3326,7 +3326,7 @@
           "Liang-Yu Chen",
           "Ziwei Liu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -3956,7 +3956,7 @@
           "Timothy Lillicrap",
           "Oriana Riva"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -4165,7 +4165,7 @@
           "Divya Tyamagundlu",
           "Oriana Riva"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16.",
         "date_parts": [
           2024,
           12,
@@ -4475,7 +4475,7 @@
           "Lijuan Wang",
           "Mike Z. Shou"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16.",
         "date_parts": [
           2024,
           12,
@@ -4749,7 +4749,7 @@
           "Daniel Fried",
           "Aditi Raghunathan"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -5371,7 +5371,7 @@
           "Bernard Ghanem",
           "Guohao Li"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -5605,7 +5605,7 @@
           "Alexandre Lacoste",
           "Alexandre Drouin"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16.",
         "date_parts": [
           2024,
           12,
@@ -5957,7 +5957,7 @@
           "Kai Yu",
           "Tao Yu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16.",
         "date_parts": [
           2024,
           12,
@@ -6052,7 +6052,7 @@
           "Ofir Press",
           "Jonathan Berant"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11.",
         "date_parts": [
           2024,
           11
@@ -7270,7 +7270,7 @@
           "Jun Wang",
           "Kun Shao"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -7357,7 +7357,7 @@
           "Shuyan Zhou",
           "Graham Neubig"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -7648,7 +7648,7 @@
           "Rogerio Bonatti",
           "Kazuhito Koishida"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -7747,7 +7747,7 @@
           "Nanyun Peng",
           "Chien-Sheng Wu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4.",
         "date_parts": [
           2025,
           4
@@ -7857,7 +7857,7 @@
           "Jie Tang",
           "Yuxiao Dong"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -8000,7 +8000,7 @@
           "Tao Yu",
           "Diyi Yang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -11426,7 +11426,7 @@
           "Ziyun Zhang",
           "Yan Lu"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -13074,7 +13074,7 @@
           "Bin Wang",
           "Bo An"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20.",
         "date_parts": [
           2026,
           4,
@@ -25107,7 +25107,7 @@
           "Hao Zhu",
           "Diyi Yang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20.",
         "date_parts": [
           2026,
           4,
@@ -27363,7 +27363,7 @@
           "Zhen Han",
           "Volker Tresp"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20.",
         "date_parts": [
           2026,
           4,
@@ -59164,7 +59164,7 @@
           "Tianyi Chen",
           "Kazuhito Koishida"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7

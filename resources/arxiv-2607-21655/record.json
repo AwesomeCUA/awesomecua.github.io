@@ -1,14 +1,14 @@
 {
   "status": "excluded",
   "id": "arxiv:2607.21655",
-  "reason": "The abstract surveys progress reward models for robotic learning. This robotics survey does not cover agents operating graphical interfaces, web pages or devices.",
+  "reason": "The abstract surveys progress reward models for robotic learning. This robotics survey sits outside computer-use agents.",
   "decision": {
     "id": "arxiv:2607.21655",
     "name": "Progress Reward Modeling for Robotic Learning: A Comprehensive Survey",
     "url": "https://arxiv.org/abs/2607.21655",
     "decision": "out_of_scope",
     "basis": "primary_abstract_review",
-    "reason": "The abstract surveys progress reward models for robotic learning. This robotics survey does not cover agents operating graphical interfaces, web pages or devices.",
+    "reason": "The abstract surveys progress reward models for robotic learning. This robotics survey sits outside computer-use agents.",
     "reviewed_at": "2026-11-05T23:58:03Z",
     "metadata_fingerprint": "5ac2b0d751f1ff575ce45fe01acc25676070474d0a5890f70ca3e9101509ee0c",
     "evidence": {

@@ -1791,7 +1791,7 @@
         ],
         "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier. The publisher PDF title and complete first-page author list were visually checked.",
         "issue": null,
-        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen. Each edition retains its own authors.",
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen.",
         "pages": "14281-14290",
         "pdf_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf",
         "publisher": null,
@@ -2114,7 +2114,7 @@
           "Zhuosheng Zhang",
           "Hai Zhao (赵海)"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8.",
         "date_parts": [
           2024,
           8
@@ -2364,7 +2364,7 @@
         ],
         "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
         "issue": null,
-        "notes": "The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "notes": "The publisher issue date comes from citation_publication_date; the conference date range is retained separately as an event date. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
         "pages": "58658-58725",
         "pdf_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/tan25h/tan25h.pdf",
         "publisher": "PMLR",
@@ -3436,7 +3436,7 @@
           "Minglong Tang",
           "Tongquan Wei"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11.",
         "date_parts": [
           2024,
           11
@@ -3603,7 +3603,7 @@
           "Yi Zhang",
           "Xin Eric Wang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11.",
         "date_parts": [
           2024,
           11
@@ -3898,7 +3898,7 @@
           "Shuai Ren",
           "Hongsheng Li"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7.",
         "date_parts": [
           2025,
           7
@@ -3911,7 +3911,7 @@
         ],
         "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.",
         "issue": null,
-        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, lists nine authors including Guozhi Wang; the retained arXiv snapshot lists eight. Each edition retains its own authors.",
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, lists nine authors including Guozhi Wang; the retained arXiv snapshot lists eight.",
         "pages": "2138-2156",
         "pdf_url": "https://aclanthology.org/2025.findings-acl.110.pdf",
         "publisher": "Association for Computational Linguistics",
@@ -4365,7 +4365,7 @@
           "Bin Wang",
           "Shuo Shang"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11.",
         "date_parts": [
           2024,
           11
@@ -4697,7 +4697,7 @@
           "Graham Neubig",
           "Xiang Yue"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01.",
         "date_parts": [
           2025,
           5,
@@ -15767,7 +15767,7 @@
           "Alexander G. Hauptmann",
           "Oriana Riva"
         ],
-        "date_basis": "Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.",
+        "date_basis": "Explicit publisher citation_publication_date: 2024/6.",
         "date_parts": [
           2024,
           6

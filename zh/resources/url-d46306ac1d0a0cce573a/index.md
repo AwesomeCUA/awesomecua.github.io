@@ -30,7 +30,7 @@ Hub revision 5c0836a5 lists the card, inp.json and ten split image archive parts
 
 未记录数量。
 
-inp.json (767,769,533 bytes) and ten image archive parts (208,677,206,554 bytes in total) were listed through the Hub API but not downloaded, so no example count is given; the Hub size band is not a sample count. The filtering step and its OmniParser IoU criterion come from the card and the GTA1 preprocessing code; the card notes that the filter can occasionally remove correct samples and puts such cases below 3% of the data.
+The Hub API lists inp.json (767,769,533 bytes) and ten image archive parts (208,677,206,554 bytes in total); an example count is unrecorded. The filtering step and its OmniParser IoU criterion come from the card and the GTA1 preprocessing code; the card notes that the filter can occasionally remove correct samples and puts such cases below 3% of the data.
 
 ## 许可证信息
 

@@ -14,7 +14,7 @@ Announced GUI trajectory synthesis resources for recovery from policy-induced er
 
 ## Limitations
 
-The 800k figure describes training samples in the study. The repository code-license declaration does not establish terms for an unreleased dataset.
+The 800k figure describes training samples in the study. The repository code-license declaration covers the repository code.
 
 - Record JSON: https://awesomecua.com/resources/github-alibabaresearch-rots/record.json
 

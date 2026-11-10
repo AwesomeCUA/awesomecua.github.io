@@ -44,7 +44,7 @@ Each dataset.csv row is a QA example; web pages and QA examples are different un
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.
+- 数据审核：Publisher dataset-card declaration for this release.
   来源：https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md
 
 ## 一手证据

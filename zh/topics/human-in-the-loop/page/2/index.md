@@ -62,5 +62,5 @@ HTML 页面：https://awesomecua.com/zh/topics/human-in-the-loop/page/2/
 - [VeriOS-Agent-32B](https://awesomecua.com/zh/resources/url-97040677a731edfedc2d/)
 - [1Claw Browser Bridge](https://awesomecua.com/zh/resources/github-1clawai-browser-bridge/)
 - [ActionAnything](https://awesomecua.com/zh/resources/github-xxwtiancai-action-anything/)
+- [Adapt ERP](https://awesomecua.com/zh/resources/github-guomonth-dsh-erp/)
 - [Aether Agent Browser](https://awesomecua.com/zh/resources/github-aetherai3-agent-browser/)
-- [Aeyes (Voice Browser Assistant)](https://awesomecua.com/zh/resources/github-evalutik-ai-partner-catalyst/)

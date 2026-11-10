@@ -171,6 +171,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Post-action state-delta verification harness for WebMCP browser agents that detects silent UI and state failures.
 - [FineState-Bench](https://awesomecua.com/zh/resources/github-fengxianji-finestate-bench/) — Date not recorded
   A GUI benchmark for precise state changes across desktop, web, and mobile interfaces, with 2,257 tasks and metrics separating element location from interaction success.
+- [GameWorld Games](https://awesomecua.com/zh/resources/github-gameworld-project-gameworld-games/) — Date not recorded
+  GameWorld Games supplies browser-game snapshots for agent evaluation, each with an API for initialization, reset and game-state inspection.
 - [Graph-Guided Agentic Testing](https://awesomecua.com/zh/resources/github-avikundal-graph-guided-agentic-testing/) — Date not recorded
   Uses a browser agent to explore web checkout flows into a Neo4j state graph and synthesizes graph-guided end-to-end tests.
 - [Preflight-Bench](https://awesomecua.com/zh/resources/github-multimodal-ai-engineering-preflight-bench/) — Date not recorded
@@ -185,6 +187,10 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
 
 ## 模型
 
+- [DeskMind Brain](https://awesomecua.com/zh/resources/github-deskmind-ai-brain/) — Date not recorded
+  DeskMind Brain provides local models that choose the next macOS desktop action and return probabilities for typed decisions about targets and task completion.
+- [gWorld-32B](https://awesomecua.com/zh/resources/url-e44096836ef47bc66d9c/) — Date not recorded
+  A released mobile GUI world model that takes a screenshot and an action, then predicts the next interface as renderable HTML. The card identifies Qwen3-VL-32B as its base.
 - [HobbyLM-1B Computer Use](https://awesomecua.com/zh/resources/url-12470a40c8f82ef0294a/) — Date not recorded
   An on-device LoRA adapter that turns English requests and Mac state into single actions executed by a companion app, with training code and evaluation records.
 - [jiamingzz/lgwm](https://awesomecua.com/zh/resources/url-512cd7335068b2c17859/) — Date not recorded
@@ -222,6 +228,10 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Chrome side-panel agent whose page engine reads a whole-page semantic DOM snapshot, re-grounds targets by element fingerprints, dispatches DOM events and checks post-conditions before reporting success.
 - [browser-action-receipt](https://awesomecua.com/zh/resources/github-scalar-atelier-browser-action-receipt/) — Date not recorded
   Verification protocol that binds human approval to target DOM state, aborting clicks and emitting a receipt if the page mutates.
+- [Caster User Directory](https://awesomecua.com/zh/resources/github-amirf147-caster-user-directory-and-notes/) — Date not recorded
+  Caster User Directory combines Windows voice automation with window switching and accessibility-based tracking of focused desktop context.
+- [catia-v5-mcp](https://awesomecua.com/zh/resources/github-astroqueststudio-catia-v5-mcp/) — Date not recorded
+  An MCP server lets agents model and inspect parts and assemblies in CATIA V5 through COM. It provides validated batch actions and checks of resulting geometry and component poses.
 - [ChatGPT WebUI Bridge](https://awesomecua.com/zh/resources/github-olmatter-chatgpt-bridge/) — Date not recorded
   A local HTTP bridge lets agents send messages to logged-in ChatGPT browser tabs, read replies and page state, and supervise idle tabs through a userscript.
 - [ChimeraX-SessionStates](https://awesomecua.com/zh/resources/github-shiinahiiragi-chimerax-states/) — Date not recorded
@@ -252,6 +262,12 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   A computer-use agent for multistep GUI tasks that stores task facts and progress in working memory and combines planning, grounding, and completion checks.
 - [IdemStep](https://awesomecua.com/zh/resources/github-supermarioyl-idemstep/) — Date not recorded
   Deduplicates repeated agent actions and HTTP retries using keyed idempotency caches and a local verification proxy.
+- [Jev GUI Delegate](https://awesomecua.com/zh/resources/github-yuta-fywoo-jev-gui-delegate/) — Date not recorded
+  Jev GUI Delegate is a local controller that carries out delegated Windows and Chrome tasks, calls Jev for uncertain choices, and checks outcomes after actions.
+- [jev-browser](https://awesomecua.com/zh/resources/github-mahmoudadelbghany-jev-browser/) — Date not recorded
+  jev-browser is an MCP server that lets an agent navigate Chromium pages through Jev-selected actions. It checks page changes and returns uncertain steps to the driving agent.
+- [Jevry](https://awesomecua.com/zh/resources/github-michaelswissa-jevry/) — Date not recorded
+  Jevry is a desktop browser agent that turns observed page controls into candidate actions, uses models to choose and plan, and shows its actions as it works through website tasks.
 - [kalgebra-kai](https://awesomecua.com/zh/resources/github-shiinahiiragi-kalgebra/) — Date not recorded
   Modified KAlgebra build from ScienceBoard with a local HTTP server that reports variables and plotted 2D and 3D functions and can switch tabs or add calculations and plots, so the benchmark can check math tasks.
 - [LangGraph](https://awesomecua.com/zh/resources/github-langchain-ai-langgraph/) — Date not recorded
@@ -268,6 +284,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   OpenAdapt Agent exposes demonstrated application workflows as callable tools for AI agents. It enters values in an app and checks the record before and after saving.
 - [openadapt-types](https://awesomecua.com/zh/resources/github-openadaptai-openadapt-types/) — Date not recorded
   openadapt-types supplies validated Python models and JSON schemas for computer-use screens, actions, results, and interaction trajectories.
+- [opencli-plugin-albato](https://awesomecua.com/zh/resources/github-vecyang1-opencli-plugin-albato/) — Date not recorded
+  An OpenCLI adapter lets agents inspect and change Albato automations through its web console, then reads the live DOM to verify state changes.
 - [OSWright](https://awesomecua.com/zh/resources/github-ask-812-oswright/) — Date not recorded
   Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.
 - [outlive](https://awesomecua.com/zh/resources/github-sy-d-outlive/) — Date not recorded
@@ -278,6 +296,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Predicate TypeScript SDK supplies browser-agent snapshots, element actions, assertions and traces for building runs that check UI outcomes.
 - [Pursuit Permit WebMCP](https://awesomecua.com/zh/resources/github-moaqil-pursuit-permit-webmcp/) — Date not recorded
   Revision-bound capacity permit protocol for WebMCP browser agents that invalidates stale approvals when page state changes.
+- [Q-Verifier / Q-Reflector](https://awesomecua.com/zh/resources/github-pockyitachi-q-verifier/) — Date not recorded
+  Q-Reflector checks a GUI agent's action against before-and-after screenshots and task context, with training and online evaluation code.
 - [Qontinui](https://awesomecua.com/zh/resources/github-qontinui-qontinui/) — Date not recorded
   Qontinui is a model-based GUI automation framework that represents application screens as state graphs with visual template and OCR matching.
 - [redux-webmcp](https://awesomecua.com/zh/resources/github-breeznik-redux-webmcp/) — Date not recorded
@@ -302,6 +322,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.
 - [WebOperator](https://awesomecua.com/zh/resources/github-kagnlp-weboperator/) — Date not recorded
   A web agent using action-aware tree search to explore tasks and backtrack, checking page reconstruction and accounting for actions that may change website state.
+- [Window Calls](https://awesomecua.com/zh/resources/github-ickyicky-window-calls/) — Date not recorded
+  Window Calls is a GNOME extension that exposes desktop window information and controls through D-Bus, including commands to move, resize and activate windows.
 - [youtube_sim](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-youtube/) — Date not recorded
   youtube_sim is a YouTube-style Android test app with local media, interaction logs and task validators for checking mobile interface actions and resulting state.
 - [Zoom Android Template](https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-zoom/) — Date not recorded

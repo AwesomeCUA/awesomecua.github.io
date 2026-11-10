@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/4/ · [Previous page](https://awesomecua.com/papers/page/3/index.md) · [Next page](https://awesomecua.com/papers/page/5/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -2086,7 +2086,7 @@ Tingyu Qu, Weigao Sun, Yuecheng Liu, Yucheng Zhao, Yi Zhu, Yifeng Ding, Qiyi Wan
 - document: CC-BY-4.0 — https://arxiv.org/html/2609.29892v1
 - weights: not recorded
 
-- document review: Record the paper-specific arXiv document declaration; it does not establish code, data or model-weight permissions.
+- document review: The paper has an arXiv document declaration.
   Sources: https://arxiv.org/html/2609.29892v1
 
 ### Primary evidence

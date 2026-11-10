@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/21/ · [Previous page](https://awesomecua.com/papers/page/20/index.md) · [Next page](https://awesomecua.com/papers/page/22/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -310,7 +310,7 @@ Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin 
 - Publisher: Association for Computational Linguistics
 - Pages: 155-180
 - DOI: 10.18653/v1/2025.emnlp-demos.12
-- Date source: Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/11.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
 - Publication evidence: https://aclanthology.org/2025.emnlp-demos.12/
@@ -1647,7 +1647,7 @@ Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, L
 - Publisher: Association for Computational Linguistics
 - Pages: 5650-5667
 - DOI: 10.18653/v1/2025.acl-long.282
-- Date source: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2025/7.
 - Identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
 - Publication evidence: https://aclanthology.org/2025.acl-long.282/
@@ -2756,7 +2756,7 @@ Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yuanchun
 - Venue: International Conference on Learning Representations
 - Volume: 2026
 - Pages: 16218-16250
-- Date source: Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2026-04-20.
 - Identity basis: Same work under a new title: the retained arXiv title is Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents. The PDF title page lists the same ten authors in the same order as arXiv, and the publisher abstract describes the same slot-based instruction generation, common split with offline multi-path evaluation, pop-up and ad-app noisy split, AITZ-Noise contaminated split and ambiguous split with preset Q&A interactions.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The conference edition is retitled SMAN-Bench, for its Single-path, Multi-path, Ambiguous and Noisy task settings, and its PDF names github.com/gezelligheid0314/SMAN-Bench for code and datasets. Its abstract lists Mobile-Agent-E among the evaluated frameworks, where the retained v3 abstract names UI-Tars and OS-Atlas. The landing page metadata lists Yunxin Liu before Yuanchun Li and writes LIU, WEI in capitals; publication authors follow the PDF title page. Volume 2026 and pages 16218-16250 are explicit publisher citation metadata.
 - Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2026/file/1b4279dc1ec8d0183c22528664d84459-Paper-Conference.pdf

@@ -14,7 +14,7 @@ Cross-platform mobile GUI trajectory dataset derived from instructional videos, 
 
 ## Limitations
 
-The retained README marks release of the full data-generation pipeline, training scripts, and model checkpoints as pending. Linked video content and datasets remain subject to their original licenses; the repository code license does not establish a blanket data or weights license.
+The retained README marks release of the full data-generation pipeline, training scripts, and model checkpoints as pending. The repository code license covers the repository code.
 
 - Record JSON: https://awesomecua.com/resources/github-runamu-monday/record.json
 

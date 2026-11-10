@@ -1088,7 +1088,7 @@ Zheng Hui, Yinheng Li, Dan Zhao, Colby Banbury, Tianyi Chen, Kazuhito Koishida
 - 出版方：Association for Computational Linguistics
 - 页码：1086-1096
 - DOI：10.18653/v1/2025.acl-short.85
-- 日期来源：Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- 日期来源：Explicit publisher citation_publication_date: 2025/7.
 - 版本对应依据：No title, DOI or canonical URL match in the active catalog or the retained arXiv archive. The same authors' WinClick preprint (arXiv 2503.04730) is a different work: this short paper cites it as prior work and centres on the WinSpot benchmark rather than the WinClick agent.
 - 来源备注：Publisher proceedings edition (ACL 2025, Volume 2: Short Papers).
 - 发表证据：https://aclanthology.org/2025.acl-short.85/

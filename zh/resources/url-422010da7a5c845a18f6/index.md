@@ -39,7 +39,7 @@ Hub size bands and the inconsistent introductory task count use different units 
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card declaration for the released packaging; original source datasets retain their own terms.
+- 数据审核：Publisher dataset-card declaration for the released packaging.
   来源：https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md
 
 ## 一手证据

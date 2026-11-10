@@ -4,6 +4,7 @@ HTML page: https://awesomecua.com/topics/cross-app/page/2/
 
 Full list: https://awesomecua.com/topics/cross-app/index.md
 
+- [MyPCBench](https://awesomecua.com/resources/github-ljang0-mypcbench/)
 - [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/)
 - [OS-Map](https://awesomecua.com/resources/github-os-copilot-os-map/)
 - [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)
@@ -17,10 +18,12 @@ Full list: https://awesomecua.com/topics/cross-app/index.md
 - [GUIOdyssey — current data release](https://awesomecua.com/resources/url-511903ebfac45e6751b2/)
 - [Uni-GUI-Desktop-1](https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/)
 - [AndroidGen-Llama-3-70B](https://awesomecua.com/resources/url-75e93dff049c046c586e/)
+- [Mano-CUA-2.0-4B-MLX-8bit](https://awesomecua.com/resources/url-430e47e1ca9f3b2a302f/)
 - [MiniMax M3](https://awesomecua.com/resources/url-50089323623ee780a426/)
 - [AppCopilot](https://awesomecua.com/resources/github-openbmb-appcopilot/)
 - [Aries AI](https://awesomecua.com/resources/github-zg0704666-aries-ai/)
 - [ARTEMIS](https://awesomecua.com/resources/github-google-artemis/)
+- [Council Bridge](https://awesomecua.com/resources/github-christopherdent-council-bridge/)
 - [debug-kit](https://awesomecua.com/resources/github-dxiongya-debug-kit/)
 - [GUI-ReWalk](https://awesomecua.com/resources/github-bytedance-gui-rewalk/)
 - [Intelligence Indeed](https://awesomecua.com/resources/github-intelligence-indeed-intelligence-indeed/)
@@ -36,4 +39,5 @@ Full list: https://awesomecua.com/topics/cross-app/index.md
 - [Touchpoint](https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/)
 - [UFO](https://awesomecua.com/resources/github-microsoft-ufo/)
 - [UI-Mate](https://awesomecua.com/resources/github-tencent-ui-mate/)
+- [WildAWM](https://awesomecua.com/resources/github-msr-orchard-wildawm/)
 - [Midscene Examples](https://awesomecua.com/resources/github-web-infra-dev-midscene-example/)

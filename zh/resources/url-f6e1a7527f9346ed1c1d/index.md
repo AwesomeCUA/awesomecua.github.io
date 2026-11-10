@@ -41,7 +41,7 @@ Steps, files and archive groups are different units and are counted separately. 
 - 文档：未记录
 - 权重：未记录
 
-- 数据审核：Publisher dataset-card declaration for this release; it does not establish rights to the upstream screenshots and source datasets it repackages.
+- 数据审核：Publisher dataset-card declaration for this release.
   来源：https://huggingface.co/datasets/GUI-Libra/GUI-Libra-81K-SFT/raw/05bb2c5f7e81de38f3d7826739db46913dd08a23/README.md
 
 ## 一手证据

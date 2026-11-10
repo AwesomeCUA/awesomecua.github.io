@@ -472,6 +472,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   A-MEM implements a Zettelkasten-inspired dynamic memory architecture that links and evolves structured episodic notes for LLM agents.
 - [activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) — Date not recorded
   Converts continuous local desktop activity into structured, queryable workflow frames served over MCP.
+- [Adapt ERP](https://awesomecua.com/resources/github-guomonth-dsh-erp/) — Date not recorded
+  Adapt ERP is a DeepSeek Harness plugin that explores signed-in ERP pages, keeps a local index of observed menus and fields, and requests approval before writes.
 - [ADB MCP Server Pro](https://awesomecua.com/resources/github-tiendung2k03-adb-mcp-server-pro/) — Date not recorded
   Model Context Protocol server for Android device control via ADB featuring self-learning UI element maps.
 - [Aeiva](https://awesomecua.com/resources/github-chatsci-aeiva/) — Date not recorded
@@ -494,6 +496,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Android GUI-agent framework that keeps long-running task context in structured programs, variables and control flow, with a CLI and AndroidWorld integration.
 - [AI-Player](https://awesomecua.com/resources/github-shasankp000-ai-player/) — Date not recorded
   AI-Player is a Minecraft Fabric mod that embeds an LLM/VLM-driven autonomous second player capable of navigation, combat, and crafting.
+- [Aico Link Firmware](https://awesomecua.com/resources/github-aidenai-io-aiden-firmware/) — Date not recorded
+  Aico Link firmware runs an agent that views a phone or computer through HDMI capture and sends input through USB HID. The repository includes hardware services, agent runtime, and update tooling.
 - [AILEEN Desktop](https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/) — Date not recorded
   Windows desktop AI assistant combining a Live2D interactive character with screen perception and desktop tool execution.
 - [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/) — Date not recorded
@@ -530,6 +534,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   BabyAGI is an autonomous task-management agent framework that iteratively creates, prioritizes, and executes tasks using LLMs and vector memory.
 - [Browser Operator](https://awesomecua.com/resources/github-browseroperator-browser-operator-core/) — Date not recorded
   Chromium-based AI browser whose DevTools panel runs a multi-agent framework (web-task, action, form-fill, research and verification agents) over accessibility trees with OpenRouter, OpenAI, Groq or LiteLLM models.
+- [BrowserBee](https://awesomecua.com/resources/github-parsaghaffari-browserbee/) — Date not recorded
+  A Chrome extension that takes natural-language instructions and uses an LLM with Playwright to observe and operate websites, with locally stored task memories and user approval for selected actions.
 - [cc-haha](https://awesomecua.com/resources/github-nanmicoder-cc-haha/) — Date not recorded
   cc-haha is a clean-room TypeScript implementation and visual debugger of the Claude Code agent harness, memory, and tool runtime.
 - [ClawMobile](https://awesomecua.com/resources/github-clawmobile-clawmobile/) — Date not recorded
@@ -600,6 +606,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Journal-first decentralized agent harness where independent browser and desktop plugins coordinate through an append-only fact log.
 - [LangGraph](https://awesomecua.com/resources/github-langchain-ai-langgraph/) — Date not recorded
   LangGraph is a stateful graph orchestration framework for building long-running, cyclical, and human-in-the-loop LLM and CUA agents.
+- [LangHire](https://awesomecua.com/resources/github-jaimaann-langhire/) — Date not recorded
+  A desktop app whose browser agents search for jobs and complete online applications, using stored knowledge of applicant tracking systems across tasks.
 - [LASER](https://awesomecua.com/resources/github-mayer123-laser/) — Date not recorded
   LASER models interactive web navigation as state-space exploration with explicit state transitions and backtracking on WebShop.
 - [lean-computer-use-mcp](https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/) — Date not recorded
@@ -618,6 +626,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Ambient-intelligent macOS computer-use desktop client and personal AI operating environment.
 - [Mem0](https://awesomecua.com/resources/github-mem0ai-mem0/) — Date not recorded
   Mem0 provides a scalable long-term memory layer for AI agents that extracts, consolidates, and retrieves user and session facts.
+- [MemAgent](https://awesomecua.com/resources/github-dialogbased-interaction-goal-alignment/) — Date not recorded
+  MemAgent studies conversational goal alignment for web agents using task information and fine-tuned language models. Its repository provides data and training and execution scripts.
 - [MemGUI-Agent](https://awesomecua.com/resources/github-kwai-memgui-agent/) — Date not recorded
   MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
 - [Memlayer](https://awesomecua.com/resources/github-divagr18-memlayer/) — Date not recorded
@@ -698,6 +708,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Browser-agent procedural memory and MCP server that compiles repeated web workflows into deterministic zero-token replays.
 - [TuriX-CUA](https://awesomecua.com/resources/github-turixai-turix-cua/) — Date not recorded
   TuriX-CUA is a multi-agent desktop automation framework for macOS and Windows combining planner, actor, reflector, and memory skills.
+- [VISTA](https://awesomecua.com/resources/github-joshhhhhan-vista/) — Date not recorded
+  VISTA is a harness for visual game agents that combines game actions with frame inspection and retrievable observation history for extended tasks.
 - [Webcmd](https://awesomecua.com/resources/github-agentrhq-webcmd/) — Date not recorded
   Webcmd captures and indexes website navigational context as agents browse, compiling site structure into reusable local memory skills.
 - [WebTactix](https://awesomecua.com/resources/url-40795d2c86388ae89f43/) — Date not recorded

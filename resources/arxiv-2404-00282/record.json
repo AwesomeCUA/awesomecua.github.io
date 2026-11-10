@@ -1,14 +1,14 @@
 {
   "status": "excluded",
   "id": "arxiv:2404.00282",
-  "reason": "The abstract surveys the roles LLMs play inside reinforcement learning, with applications such as robotics and driving. This RL survey does not cover agents operating graphical interfaces, web pages or devices.",
+  "reason": "The abstract surveys the roles LLMs play inside reinforcement learning, with applications such as robotics and driving. This RL survey sits outside computer-use agents.",
   "decision": {
     "id": "arxiv:2404.00282",
     "name": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",
     "url": "https://arxiv.org/abs/2404.00282",
     "decision": "out_of_scope",
     "basis": "primary_abstract_review",
-    "reason": "The abstract surveys the roles LLMs play inside reinforcement learning, with applications such as robotics and driving. This RL survey does not cover agents operating graphical interfaces, web pages or devices.",
+    "reason": "The abstract surveys the roles LLMs play inside reinforcement learning, with applications such as robotics and driving. This RL survey sits outside computer-use agents.",
     "reviewed_at": "2026-11-05T23:58:03Z",
     "metadata_fingerprint": "a5e0a86c8c1b8a12da54313d5041e3ca9296beb917f00a5090cb42c99428b674",
     "evidence": {

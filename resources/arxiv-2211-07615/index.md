@@ -39,7 +39,7 @@ Sagar Gubbi Venkatesh, Partha Talukdar, Srini Narayanan
 - Publisher: Association for Computational Linguistics
 - Pages: 1390-1399
 - DOI: 10.18653/v1/2024.findings-naacl.89
-- Date source: Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.
+- Date source: Explicit publisher citation_publication_date: 2024/6.
 - Identity basis: Same work under a revised title: the same three authors in the same order and the same specific contribution in the complete publisher abstract (UGIF-DataSet with 4,184 smartphone tasks across 8 languages, and end-to-end completion falling from 48% for English to 32% for other languages) were reviewed against the retained arXiv identity.
 - Source notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title is 'UGIF-DataSet: A New Dataset for Cross-lingual, Cross-modal Sequential actions on the UI', while the retained arXiv v2 title is 'UGIF: UI Grounded Instruction Following'.
 - Publication evidence: https://aclanthology.org/2024.findings-naacl.89/

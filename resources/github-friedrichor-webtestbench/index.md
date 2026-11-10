@@ -40,7 +40,7 @@ The 100 archive files form an artifact inventory. Backend/tool versions and depl
 - document: not recorded
 - weights: not recorded
 
-- code review: Repository source LICENSE; external tools and services retain their own licenses.
+- code review: Repository source LICENSE.
   Sources: https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/LICENSE
 
 - data review: Publisher Hub-card license declaration for the released benchmark dataset.

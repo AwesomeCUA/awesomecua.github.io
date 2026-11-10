@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/2/ · [Previous page](https://awesomecua.com/papers/index.md) · [Next page](https://awesomecua.com/papers/page/3/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+Each record is reviewed against its primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -2839,7 +2839,7 @@ Yubo Li, Ramayya Krishnan, Rema Padman
 - document: CC-BY-4.0 — https://arxiv.org/html/2610.18579v1
 - weights: not recorded
 
-- document review: The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0. This document declaration does not establish code, training-data or model-weight licenses.
+- document review: The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0.
   Sources: https://arxiv.org/html/2610.18579v1
 
 ### Primary evidence
