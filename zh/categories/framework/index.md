@@ -2,20 +2,20 @@
 
 框架是用于构建、运行、评估或训练计算机使用智能体的库和 SDK，从浏览器自动化智能体库到强化学习训练栈。
 
-> AwesomeCUA 目录收录 662 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
+> AwesomeCUA 目录收录 662 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https://awesomecua.com/categories/framework/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
 ## 怎么选
 
-| 框架 | 平台 | 许可证 | 提及 |
+| 框架 | 平台 | 许可证 | 关联记录 |
 | --- | --- | --- | --- |
-| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 58 |
-| [Cua](https://awesomecua.com/resources/github-trycua-cua/) | 桌面 | [MIT（代码）](https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md) | 41 |
+| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 60 |
+| [Cua](https://awesomecua.com/resources/github-trycua-cua/) | 桌面 | [MIT（代码）](https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md) | 46 |
 | [Epic EHR Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/epic-ehr-browser-automation/HEAD/LICENSE) | 13 |
-| [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/) | 桌面 | — | 12 |
-| [Stagehand](https://awesomecua.com/resources/github-browserbase-stagehand/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE) | 9 |
-| [WebMCP](https://awesomecua.com/resources/github-webmachinelearning-webmcp/) | 网页 | — | 9 |
+| [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/) | 桌面 | — | 13 |
+| [Stagehand](https://awesomecua.com/resources/github-browserbase-stagehand/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE) | 10 |
+| [AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/LICENSE) | 9 |
 
 ## 常见问题
 

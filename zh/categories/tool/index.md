@@ -2,18 +2,18 @@
 
 工具是智能体或开发者调用的实用程序，用来控制、观察或检查界面，包括 MCP 服务器、浏览器与设备控制器、屏幕解析器和录制工具。
 
-> AwesomeCUA 目录收录 1,077 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
+> AwesomeCUA 目录收录 1,077 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://awesomecua.com/categories/tool/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
 ## 怎么选
 
-| 工具 | 平台 | 许可证 | 提及 |
+| 工具 | 平台 | 许可证 | 关联记录 |
 | --- | --- | --- | --- |
 | [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/LICENSE) | 33 |
-| [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) | 跨平台 | — | 23 |
+| [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) | 跨平台 | — | 25 |
 | [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/vercel-labs/agent-browser/HEAD/LICENSE) | 19 |
-| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 16 |
+| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 17 |
 | [Oracle E-Business Suite Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/oracle-ebs-browser-automation/HEAD/LICENSE) | 13 |
 | [SAP Fiori Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/sap-fiori-browser-automation/HEAD/LICENSE) | 13 |
 

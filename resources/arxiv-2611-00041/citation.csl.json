@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2611.00041",
+  "citation-key": "arxiv_2611_00041",
+  "type": "article",
+  "title": "Think Before You Locate: Clinical Chain-of-Though Supervision for Sequential Medical Image Grounding",
+  "URL": "https://arxiv.org/abs/2611.00041v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.00041",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.00041",
+    "identifiers": {
+      "arxiv": "2611.00041"
+    },
+    "first_published_at": "2026-10-08",
+    "record_updated_at": "2026-10-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7de1e0237c665d99129c93c4cdb1595a24a1a80093d193d63746470c064cdc20",
+      "submitted_at": "2026-10-08T07:24:14Z",
+      "updated_at": "2026-10-08T07:24:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.00041v1"
+    }
+  },
+  "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T07:24:14Z.",
+  "author": [
+    {
+      "literal": "Adinath Madhavrao Dukre"
+    },
+    {
+      "literal": "Govinda Kolli"
+    },
+    {
+      "literal": "Yifan Lu"
+    },
+    {
+      "literal": "Ziyun Zou"
+    },
+    {
+      "literal": "Azmine Toushik Wasi"
+    },
+    {
+      "literal": "Sara Atito"
+    },
+    {
+      "literal": "Behzad Bozorgtabar"
+    },
+    {
+      "literal": "Dwarikanath Mahapatra"
+    },
+    {
+      "literal": "Muhammad Awais"
+    },
+    {
+      "literal": "Imran Razzak"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.00041",
+  "genre": "preprint",
+  "version": "1"
+}

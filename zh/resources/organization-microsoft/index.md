@@ -4,13 +4,13 @@
 
 - 目录页面：https://awesomecua.com/zh/resources/organization-microsoft/
 - English：https://awesomecua.com/resources/organization-microsoft/index.md
-- 原始来源：https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use
+- 原始来源：https://www.microsoft.com/
 - 类型：发布方
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：unspecified
 - 主题：产业
-- 证据核查日期：2026-10-18T11:09:24Z
+- 证据核查日期：2026-11-09T22:08:43Z
 - ID：organization:microsoft
 
 ## 范围记录
@@ -28,4 +28,4 @@ Publisher/brand identity only.
 
 ## 一手证据
 
-- https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use（获取于 2026-10-18T11:09:24Z；SHA-256：c8abf59f80322ecaa4c8ef863c3344e675a549f05397ba17562a9b0e7eac3edf）
+- https://www.microsoft.com/（获取于 2026-11-09T22:08:43Z；SHA-256：a4d1f60411eea43240af78da4111f978879af4206eec3716ec2c2e6b18652951）

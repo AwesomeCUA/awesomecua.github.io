@@ -3,13 +3,13 @@
 Publisher or product brand associated with Anthropic computer-use or browser automation offerings.
 
 - Catalog URL: https://awesomecua.com/resources/organization-anthropic/
-- Original source: https://claude.com/chrome
+- Original source: https://www.anthropic.com/
 - Kind: company
 - Review: curated
 - Scope: core
 - Environments: unspecified
 - Topics: industry
-- Evidence checked: 2026-10-16T06:40:54Z
+- Evidence checked: 2026-11-09T22:08:42Z
 - ID: organization:anthropic
 
 ## Limitations
@@ -27,4 +27,4 @@ Publisher/brand identity only.
 
 ## Primary evidence
 
-- https://claude.com/chrome (retrieved 2026-10-16T06:40:54Z; SHA-256 bd3e99c1e12588bc3136dfa27de2c0d5790b6f6f25f2696988eb182c6b1ef670)
+- https://www.anthropic.com/ (retrieved 2026-11-09T22:08:42Z; SHA-256 8047aa76e9dd0338186a8ab0a0875b9ef82b8efed972e8b3d19a190961e78c5f)

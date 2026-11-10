@@ -1,0 +1,172 @@
+{
+  "id": "arxiv:2503.14734",
+  "citation-key": "arxiv_2503_14734",
+  "type": "article",
+  "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
+  "URL": "https://arxiv.org/abs/2503.14734v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.14734",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.14734",
+    "identifiers": {
+      "arxiv": "2503.14734"
+    },
+    "first_published_at": "2025-03-18",
+    "record_updated_at": "2025-03-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1b1c5ed4abec57b45568039938918ea6a5409c883b55df9b3ae99f9063905447",
+      "submitted_at": "2025-03-18T21:06:21Z",
+      "updated_at": "2025-03-27T02:52:43Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.14734v2"
+    }
+  },
+  "note": "First published: 2025-03-18; Recorded arXiv version: v2; Recorded version updated: 2025-03-27T02:52:43Z.",
+  "author": [
+    {
+      "literal": "NVIDIA"
+    },
+    {
+      "literal": ":"
+    },
+    {
+      "literal": "Johan Bjorck"
+    },
+    {
+      "literal": "Fernando Castañeda"
+    },
+    {
+      "literal": "Nikita Cherniadev"
+    },
+    {
+      "literal": "Xingye Da"
+    },
+    {
+      "literal": "Runyu Ding"
+    },
+    {
+      "literal": "Linxi \"Jim\" Fan"
+    },
+    {
+      "literal": "Yu Fang"
+    },
+    {
+      "literal": "Dieter Fox"
+    },
+    {
+      "literal": "Fengyuan Hu"
+    },
+    {
+      "literal": "Spencer Huang"
+    },
+    {
+      "literal": "Joel Jang"
+    },
+    {
+      "literal": "Zhenyu Jiang"
+    },
+    {
+      "literal": "Jan Kautz"
+    },
+    {
+      "literal": "Kaushil Kundalia"
+    },
+    {
+      "literal": "Lawrence Lao"
+    },
+    {
+      "literal": "Zhiqi Li"
+    },
+    {
+      "literal": "Zongyu Lin"
+    },
+    {
+      "literal": "Kevin Lin"
+    },
+    {
+      "literal": "Guilin Liu"
+    },
+    {
+      "literal": "Edith Llontop"
+    },
+    {
+      "literal": "Loic Magne"
+    },
+    {
+      "literal": "Ajay Mandlekar"
+    },
+    {
+      "literal": "Avnish Narayan"
+    },
+    {
+      "literal": "Soroush Nasiriany"
+    },
+    {
+      "literal": "Scott Reed"
+    },
+    {
+      "literal": "You Liang Tan"
+    },
+    {
+      "literal": "Guanzhi Wang"
+    },
+    {
+      "literal": "Zu Wang"
+    },
+    {
+      "literal": "Jing Wang"
+    },
+    {
+      "literal": "Qi Wang"
+    },
+    {
+      "literal": "Jiannan Xiang"
+    },
+    {
+      "literal": "Yuqi Xie"
+    },
+    {
+      "literal": "Yinzhen Xu"
+    },
+    {
+      "literal": "Zhenjia Xu"
+    },
+    {
+      "literal": "Seonghyeon Ye"
+    },
+    {
+      "literal": "Zhiding Yu"
+    },
+    {
+      "literal": "Ao Zhang"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Yizhou Zhao"
+    },
+    {
+      "literal": "Ruijie Zheng"
+    },
+    {
+      "literal": "Yuke Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.14734",
+  "genre": "preprint",
+  "version": "2"
+}

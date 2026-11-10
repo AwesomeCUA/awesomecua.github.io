@@ -2,20 +2,20 @@
 
 计算机使用模型是读取屏幕、输出目标坐标或动作的视觉语言模型和 GUI 专用检查点。条目包括模型系列和已发布的检查点，其中许多托管在 Hugging Face。
 
-> AwesomeCUA 目录收录 400 条已审核模型。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
+> AwesomeCUA 目录收录 400 条已审核模型。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/model/ · [English](https://awesomecua.com/categories/model/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
 ## 怎么选
 
-| 模型 | 平台 | 许可证 | 论文 | 提及 |
+| 模型 | 平台 | 许可证 | 论文 | 关联记录 |
 | --- | --- | --- | --- | --- |
-| [UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) | 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/LICENSE) | [arXiv 2501.12326](https://awesomecua.com/resources/arxiv-2501-12326/) | 25 |
-| [SeeClick](https://awesomecua.com/resources/github-njucckevin-seeclick/) | 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/LICENSE) | [arXiv 2401.10935](https://awesomecua.com/resources/arxiv-2401-10935/) | 18 |
+| [UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) | 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/LICENSE) | [arXiv 2501.12326](https://awesomecua.com/resources/arxiv-2501-12326/) | 28 |
+| [SeeClick](https://awesomecua.com/resources/github-njucckevin-seeclick/) | 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/LICENSE) | [arXiv 2401.10935](https://awesomecua.com/resources/arxiv-2401-10935/) | 19 |
+| [Holo Model Family](https://awesomecua.com/resources/url-c0bd07d82ce25ad1d99d/) | 跨平台 | — | — | 13 |
 | [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/) | — | [Apache-2.0（权重）](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) | — | 11 |
-| [Aguvis](https://awesomecua.com/resources/github-xlang-ai-aguvis/) | 跨平台 | — | [arXiv 2412.04454](https://awesomecua.com/resources/arxiv-2412-04454/) | 8 |
-| [GUI-Actor](https://awesomecua.com/resources/github-microsoft-gui-actor/) | 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/LICENSE) | [arXiv 2506.03143](https://awesomecua.com/resources/arxiv-2506-03143/) | 7 |
-| [Holo4 27B BF16](https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/) | 网页 · 桌面 · 跨平台 | [CC-BY-NC-4.0（权重）](https://huggingface.co/Hcompany/Holo4-27B/raw/4de03cfeee1d930b616bfd4817570293f29ad8b9/README.md) | — | 7 |
+| [ShowUI](https://awesomecua.com/resources/github-showlab-showui/) | 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/showlab/ShowUI/HEAD/LICENSE) | [arXiv 2411.17465](https://awesomecua.com/resources/arxiv-2411-17465/) | 10 |
+| [Aguvis](https://awesomecua.com/resources/github-xlang-ai-aguvis/) | 跨平台 | — | [arXiv 2412.04454](https://awesomecua.com/resources/arxiv-2412-04454/) | 9 |
 
 ## 常见问题
 

@@ -4,13 +4,13 @@
 
 - 目录页面：https://awesomecua.com/zh/resources/organization-anthropic/
 - English：https://awesomecua.com/resources/organization-anthropic/index.md
-- 原始来源：https://claude.com/chrome
+- 原始来源：https://www.anthropic.com/
 - 类型：发布方
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：unspecified
 - 主题：产业
-- 证据核查日期：2026-10-16T06:40:54Z
+- 证据核查日期：2026-11-09T22:08:42Z
 - ID：organization:anthropic
 
 ## 范围记录
@@ -28,4 +28,4 @@ Publisher/brand identity only.
 
 ## 一手证据
 
-- https://claude.com/chrome（获取于 2026-10-16T06:40:54Z；SHA-256：bd3e99c1e12588bc3136dfa27de2c0d5790b6f6f25f2696988eb182c6b1ef670）
+- https://www.anthropic.com/（获取于 2026-11-09T22:08:42Z；SHA-256：8047aa76e9dd0338186a8ab0a0875b9ef82b8efed972e8b3d19a190961e78c5f）

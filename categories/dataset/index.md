@@ -2,7 +2,7 @@
 
 Computer-use datasets supply screenshots, instructions, element annotations and action trajectories for training or evaluating GUI agents. Supervision ranges from single-element grounding to complete multi-step trajectories.
 
-> 243 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 243 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/dataset/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -15,7 +15,7 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 | [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | Desktop | GUI grounding | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [MIT (data)](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
 | [OS-Genesis](https://awesomecua.com/resources/github-os-copilot-os-genesis/) | Cross-platform | reverse task synthesis, GUI action trajectories | — | — |
 | [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | Mobile | interactive-element grounding, screen and element functionality descriptions | [> 104,000 screenshots](https://arxiv.org/abs/2407.17490v1) | [CC-BY-4.0 (data)](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
-| [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) | Web · Desktop · Mobile · Cross-platform | — | — | [Apache-2.0 (data)](https://huggingface.co/datasets/Hcompany/trajectories) |
+| [GUIAct](https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/) | Web · Mobile | single-step actions, multi-step navigation | [≈ 67,000 action instructions](https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md) | — |
 | [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | Desktop | UI element bounding boxes, element text or short descriptions | [51,175 screenshot-annotation file pairs](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [MIT (data)](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
 | [GUI-Actor data](https://awesomecua.com/resources/url-66096ad4057a3d3726f5/) | — | GUI grounding with bounding-box supervision | — | — |
 

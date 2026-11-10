@@ -2,7 +2,7 @@
 
 Surveys are review articles that map computer-use and GUI-agent research: its methods, benchmarks, datasets, safety questions and open problems.
 
-> 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/survey/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/papers.json
 
@@ -28,10 +28,6 @@ By recorded date, the newest are [GUI Grounding for Computer-Use Agents: A Surve
 ### Which topics do surveys cover most?
 
 The most common topic tags are Evaluation (13), Safety & security (9), Planning (7) and Automation (7). A survey can carry several topics.
-
-### Which surveys are mentioned most in the catalog?
-
-[A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://awesomecua.com/resources/arxiv-2501-16150/) (2 records), [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/) (2 records) and [GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2412-13501/) (2 records) are mentioned in the reviewed sources of the most other catalog records.
 
 ### Which platforms do these surveys cover?
 

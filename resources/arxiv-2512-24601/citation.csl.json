@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2512.24601",
+  "citation-key": "arxiv_2512_24601",
+  "type": "article",
+  "title": "Recursive Language Models",
+  "URL": "https://arxiv.org/abs/2512.24601v3",
+  "custom": {
+    "catalog_id": "arxiv:2512.24601",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.24601",
+    "identifiers": {
+      "arxiv": "2512.24601"
+    },
+    "first_published_at": "2025-12-31",
+    "record_updated_at": "2026-05-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "691e7d1df824577a03e1858e1f57a3e21770b1ab30f138c8edaf87f091ecf7bf",
+      "submitted_at": "2025-12-31T03:43:41Z",
+      "updated_at": "2026-05-11T15:26:31Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2512.24601v3"
+    }
+  },
+  "note": "First published: 2025-12-31; Recorded arXiv version: v3; Recorded version updated: 2026-05-11T15:26:31Z.",
+  "author": [
+    {
+      "literal": "Alex L. Zhang"
+    },
+    {
+      "literal": "Tim Kraska"
+    },
+    {
+      "literal": "Omar Khattab"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.24601",
+  "genre": "preprint",
+  "version": "3"
+}

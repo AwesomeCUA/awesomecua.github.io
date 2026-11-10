@@ -2,7 +2,7 @@
 
 Infrastructure covers the browsers, sandboxes, virtual machines, emulators and input-automation libraries that computer-use agents run inside or act through.
 
-> 114 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 114 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -10,14 +10,14 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ## How to choose
 
-| Infrastructure resource | Platform | License | Mentions |
+| Infrastructure resource | Platform | License | Linked records |
 | --- | --- | --- | --- |
 | [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 12 |
+| [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | Mobile | [Apache-2.0 (code)](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 8 |
 | [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) | Desktop | — | 8 |
-| [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | Mobile | [Apache-2.0 (code)](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 7 |
 | [E2B Desktop](https://awesomecua.com/resources/github-e2b-dev-desktop/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE) | 6 |
+| [Steel Browser](https://awesomecua.com/resources/github-steel-dev-steel-browser/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE) | 4 |
 | [Lightpanda Browser](https://awesomecua.com/resources/github-lightpanda-io-browser/) | Web · Desktop | [AGPL-3.0 (code)](https://raw.githubusercontent.com/lightpanda-io/browser/HEAD/LICENSE) | 4 |
-| [Nut.js](https://awesomecua.com/resources/github-nut-tree-nut-js/) | Desktop | — | 4 |
 
 ## Questions
 

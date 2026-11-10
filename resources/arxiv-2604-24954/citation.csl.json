@@ -1,0 +1,700 @@
+{
+  "id": "arxiv:2604.24954",
+  "citation-key": "arxiv_2604_24954",
+  "type": "article",
+  "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
+  "URL": "https://arxiv.org/abs/2604.24954v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.24954",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.24954",
+    "identifiers": {
+      "arxiv": "2604.24954"
+    },
+    "first_published_at": "2026-04-27",
+    "record_updated_at": "2026-05-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "82a6d79d3f533ee3c029e6339bf8ed984b40719ae93bf390ec2609100e69f721",
+      "submitted_at": "2026-04-27T19:49:21Z",
+      "updated_at": "2026-05-11T07:26:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.24954v2"
+    }
+  },
+  "note": "First published: 2026-04-27; Recorded arXiv version: v2; Recorded version updated: 2026-05-11T07:26:38Z.",
+  "author": [
+    {
+      "literal": "NVIDIA"
+    },
+    {
+      "literal": ":"
+    },
+    {
+      "literal": "Amala Sanjay Deshmukh"
+    },
+    {
+      "literal": "Kateryna Chumachenko"
+    },
+    {
+      "literal": "Tuomas Rintamaki"
+    },
+    {
+      "literal": "Matthieu Le"
+    },
+    {
+      "literal": "Tyler Poon"
+    },
+    {
+      "literal": "Danial Mohseni Taheri"
+    },
+    {
+      "literal": "Ilia Karmanov"
+    },
+    {
+      "literal": "Guilin Liu"
+    },
+    {
+      "literal": "Jarno Seppanen"
+    },
+    {
+      "literal": "Arushi Goel"
+    },
+    {
+      "literal": "Mike Ranzinger"
+    },
+    {
+      "literal": "Greg Heinrich"
+    },
+    {
+      "literal": "Guo Chen"
+    },
+    {
+      "literal": "Lukas Voegtle"
+    },
+    {
+      "literal": "Philipp Fischer"
+    },
+    {
+      "literal": "Timo Roman"
+    },
+    {
+      "literal": "Karan Sapra"
+    },
+    {
+      "literal": "Collin McCarthy"
+    },
+    {
+      "literal": "Shaokun Zhang"
+    },
+    {
+      "literal": "Fuxiao Liu"
+    },
+    {
+      "literal": "Hanrong Ye"
+    },
+    {
+      "literal": "Yi Dong"
+    },
+    {
+      "literal": "Mingjie Liu"
+    },
+    {
+      "literal": "Yifan Peng"
+    },
+    {
+      "literal": "Piotr Zelasko"
+    },
+    {
+      "literal": "Zhehuai Chen"
+    },
+    {
+      "literal": "Nithin Rao Koluguri"
+    },
+    {
+      "literal": "Nune Tadevosyan"
+    },
+    {
+      "literal": "Lilit Grigoryan"
+    },
+    {
+      "literal": "Ehsan Hosseini Asl"
+    },
+    {
+      "literal": "Pritam Biswas"
+    },
+    {
+      "literal": "Leili Tavabi"
+    },
+    {
+      "literal": "Yuanhang Su"
+    },
+    {
+      "literal": "Zhiding Yu"
+    },
+    {
+      "literal": "Peter Jin"
+    },
+    {
+      "literal": "Alexandre Milesi"
+    },
+    {
+      "literal": "Netanel Haber"
+    },
+    {
+      "literal": "Yao Xu"
+    },
+    {
+      "literal": "Sarah Amiraslani"
+    },
+    {
+      "literal": "Nabin Mulepati"
+    },
+    {
+      "literal": "Eric Tramel"
+    },
+    {
+      "literal": "Jaehun Jung"
+    },
+    {
+      "literal": "Ximing Lu"
+    },
+    {
+      "literal": "Brandon Cui"
+    },
+    {
+      "literal": "Jin Xu"
+    },
+    {
+      "literal": "Zhiqi Li"
+    },
+    {
+      "literal": "Shihao Wang"
+    },
+    {
+      "literal": "Yuanguo Kuang"
+    },
+    {
+      "literal": "Shaokun Zhang"
+    },
+    {
+      "literal": "Huck Yang"
+    },
+    {
+      "literal": "Boyi Li"
+    },
+    {
+      "literal": "Hongxu Yin"
+    },
+    {
+      "literal": "Song Han"
+    },
+    {
+      "literal": "Bilal Kartal"
+    },
+    {
+      "literal": "Pavlo Molchanov"
+    },
+    {
+      "literal": "Adi Renduchintala"
+    },
+    {
+      "literal": "Charles Wang"
+    },
+    {
+      "literal": "David Mosallanezhad"
+    },
+    {
+      "literal": "Soumye Singhal"
+    },
+    {
+      "literal": "Luis Vega"
+    },
+    {
+      "literal": "Katherine Cheung"
+    },
+    {
+      "literal": "Sreyan Ghosh"
+    },
+    {
+      "literal": "Yian Zhang"
+    },
+    {
+      "literal": "Alexander Bukharin"
+    },
+    {
+      "literal": "Venkat Srinivasan"
+    },
+    {
+      "literal": "Johnny Greco"
+    },
+    {
+      "literal": "Andre Manoel"
+    },
+    {
+      "literal": "Maarten Van Segbroeck"
+    },
+    {
+      "literal": "Suseella Panguliri"
+    },
+    {
+      "literal": "Rohit Watve"
+    },
+    {
+      "literal": "Divyanshu Kakwani"
+    },
+    {
+      "literal": "Shubham Pachori"
+    },
+    {
+      "literal": "Jeffrey Glick"
+    },
+    {
+      "literal": "Radha Sri-Tharan"
+    },
+    {
+      "literal": "Aileen Zaman"
+    },
+    {
+      "literal": "Khanh Nguyen"
+    },
+    {
+      "literal": "Shi Chen"
+    },
+    {
+      "literal": "Jiaheng Fang"
+    },
+    {
+      "literal": "Qing Miao"
+    },
+    {
+      "literal": "Wenfei Zhou"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Zaid Pervaiz Bhat"
+    },
+    {
+      "literal": "Varun Praveen"
+    },
+    {
+      "literal": "Arihant Jain"
+    },
+    {
+      "literal": "Ramanathan Arunachalam"
+    },
+    {
+      "literal": "Tomasz Kornuta"
+    },
+    {
+      "literal": "Ashton Sharabiani"
+    },
+    {
+      "literal": "Amy Shen"
+    },
+    {
+      "literal": "Wei Huang"
+    },
+    {
+      "literal": "Yi-Fu Wu"
+    },
+    {
+      "literal": "Ali Roshan Ghias"
+    },
+    {
+      "literal": "Huiying Li"
+    },
+    {
+      "literal": "Brian Yu"
+    },
+    {
+      "literal": "Nima Tajbakhsh"
+    },
+    {
+      "literal": "Chen Cui"
+    },
+    {
+      "literal": "Wenwen Gao"
+    },
+    {
+      "literal": "Li Ding"
+    },
+    {
+      "literal": "Terry Kong"
+    },
+    {
+      "literal": "Manoj Kilaru"
+    },
+    {
+      "literal": "Anahita Bhiwandiwalla"
+    },
+    {
+      "literal": "Marek Wawrzos"
+    },
+    {
+      "literal": "Daniel Korzekwa"
+    },
+    {
+      "literal": "Pablo Ribalta"
+    },
+    {
+      "literal": "Grzegorz Chlebus"
+    },
+    {
+      "literal": "Besmira Nushi"
+    },
+    {
+      "literal": "Ewa Dobrowolska"
+    },
+    {
+      "literal": "Maciej Jakub Mikulski"
+    },
+    {
+      "literal": "Kunal Dhawan"
+    },
+    {
+      "literal": "Steve Huang"
+    },
+    {
+      "literal": "Jagadeesh Balam"
+    },
+    {
+      "literal": "Yongqiang Wang"
+    },
+    {
+      "literal": "Nikolay Karpov"
+    },
+    {
+      "literal": "Valentin Mendelev"
+    },
+    {
+      "literal": "George Zelenfroynd"
+    },
+    {
+      "literal": "Meline Mkrtchyan"
+    },
+    {
+      "literal": "Qing Miao"
+    },
+    {
+      "literal": "Omri Almog"
+    },
+    {
+      "literal": "Bhavesh Pawar"
+    },
+    {
+      "literal": "Rameshwar Shivbhakta"
+    },
+    {
+      "literal": "Sudeep Sabnis"
+    },
+    {
+      "literal": "Ashrton Sharabiani"
+    },
+    {
+      "literal": "Negar Habibi"
+    },
+    {
+      "literal": "Geethapriya Venkataramani"
+    },
+    {
+      "literal": "Pamela Peng"
+    },
+    {
+      "literal": "Prerit Rodney"
+    },
+    {
+      "literal": "Serge Panev"
+    },
+    {
+      "literal": "Richard Mazzarese"
+    },
+    {
+      "literal": "Nicky Liu"
+    },
+    {
+      "literal": "Michael Fukuyama"
+    },
+    {
+      "literal": "Andrii Skliar"
+    },
+    {
+      "literal": "Roger Waleffe"
+    },
+    {
+      "literal": "Duncan Riach"
+    },
+    {
+      "literal": "Yunheng Zou"
+    },
+    {
+      "literal": "Jian Hu"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Binfeng Xu"
+    },
+    {
+      "literal": "Yuhao Yang"
+    },
+    {
+      "literal": "Zuhair Ahmed"
+    },
+    {
+      "literal": "Alexandre Milesi"
+    },
+    {
+      "literal": "Carlo del Mundo"
+    },
+    {
+      "literal": "Chad Voegele"
+    },
+    {
+      "literal": "Zhiyu Cheng"
+    },
+    {
+      "literal": "Nave Assaf"
+    },
+    {
+      "literal": "Andrii Skliar"
+    },
+    {
+      "literal": "Daniel Afrimi"
+    },
+    {
+      "literal": "Natan Bagrov"
+    },
+    {
+      "literal": "Ran Zilberstein"
+    },
+    {
+      "literal": "Ofri Masad"
+    },
+    {
+      "literal": "Eugene Khvedchenia"
+    },
+    {
+      "literal": "Natan Bagrov"
+    },
+    {
+      "literal": "Borys Tymchenko"
+    },
+    {
+      "literal": "Tomer Asida"
+    },
+    {
+      "literal": "Daniel Afrimi"
+    },
+    {
+      "literal": "Parth Mannan"
+    },
+    {
+      "literal": "Victor Cui"
+    },
+    {
+      "literal": "Michael Evans"
+    },
+    {
+      "literal": "Katherine Luna"
+    },
+    {
+      "literal": "Jie Lou"
+    },
+    {
+      "literal": "Pinky Xu"
+    },
+    {
+      "literal": "Guyue Huang"
+    },
+    {
+      "literal": "Negar Habibi"
+    },
+    {
+      "literal": "Michael Boone"
+    },
+    {
+      "literal": "Pradeep Thalasta"
+    },
+    {
+      "literal": "Adeola Adesoba"
+    },
+    {
+      "literal": "Dina Yared"
+    },
+    {
+      "literal": "Christopher Parisien"
+    },
+    {
+      "literal": "Leon Derczynski"
+    },
+    {
+      "literal": "Shaona Ghosh"
+    },
+    {
+      "literal": "Wes Feely"
+    },
+    {
+      "literal": "Micah Schaffer"
+    },
+    {
+      "literal": "Radha Sri-Tharan"
+    },
+    {
+      "literal": "Jeffrey Glick"
+    },
+    {
+      "literal": "Barnaby Simkin"
+    },
+    {
+      "literal": "George Zelenfroynd"
+    },
+    {
+      "literal": "Tomasz Grzegorzek"
+    },
+    {
+      "literal": "Rishabh Garg"
+    },
+    {
+      "literal": "Aastha Jhunjhunwala"
+    },
+    {
+      "literal": "Sergei Kolchenko"
+    },
+    {
+      "literal": "Farzan Memarian"
+    },
+    {
+      "literal": "Haran Kumar"
+    },
+    {
+      "literal": "Shiv Kumar"
+    },
+    {
+      "literal": "Isabel Hulseman"
+    },
+    {
+      "literal": "Anjali Shah"
+    },
+    {
+      "literal": "Kari Briski"
+    },
+    {
+      "literal": "Padmavathy Subramanian"
+    },
+    {
+      "literal": "Joey Conway"
+    },
+    {
+      "literal": "Udi Karpas"
+    },
+    {
+      "literal": "Jane Polak Scowcroft"
+    },
+    {
+      "literal": "Annie Surla"
+    },
+    {
+      "literal": "Shilpa Ammireddy"
+    },
+    {
+      "literal": "Ellie Evans"
+    },
+    {
+      "literal": "Jesse Oliver"
+    },
+    {
+      "literal": "Tom Balough"
+    },
+    {
+      "literal": "Chia-Chih Chen"
+    },
+    {
+      "literal": "Sandip Bhaskar"
+    },
+    {
+      "literal": "Alejandra Rico"
+    },
+    {
+      "literal": "Bardiya Sadeghi"
+    },
+    {
+      "literal": "Seph Mard"
+    },
+    {
+      "literal": "Katherine Cheung"
+    },
+    {
+      "literal": "Meredith Price"
+    },
+    {
+      "literal": "Laya Sleiman"
+    },
+    {
+      "literal": "Saori Kaji"
+    },
+    {
+      "literal": "Wesley Helmholz"
+    },
+    {
+      "literal": "Wendy Quan"
+    },
+    {
+      "literal": "Michael Lightstone"
+    },
+    {
+      "literal": "Jonathan Cohen"
+    },
+    {
+      "literal": "Jian Zhang"
+    },
+    {
+      "literal": "Oleksii Kuchaiev"
+    },
+    {
+      "literal": "Boris Ginsburg"
+    },
+    {
+      "literal": "Jan Kautz"
+    },
+    {
+      "literal": "Eileen Long"
+    },
+    {
+      "literal": "Mohammad Shoeybi"
+    },
+    {
+      "literal": "Mostofa Patwary"
+    },
+    {
+      "literal": "Oluwatobi Olabiyi"
+    },
+    {
+      "literal": "Andrew Tao"
+    },
+    {
+      "literal": "Bryan Catanzaro"
+    },
+    {
+      "literal": "Udi Karpas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.24954",
+  "genre": "preprint",
+  "version": "2"
+}

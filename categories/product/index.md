@@ -2,7 +2,7 @@
 
 Products are commercial and hosted computer-use offerings, such as browser agents, desktop assistants and agent APIs, run by their publishers.
 
-> 75 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 75 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/product/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -10,14 +10,14 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ## How to choose
 
-| Product | Platform | License | Mentions |
+| Product | Platform | Publisher | Linked records |
 | --- | --- | --- | --- |
-| [Agenta](https://awesomecua.com/resources/github-agenta-ai-agenta/) | Web | [MIT (code)](https://raw.githubusercontent.com/agenta-ai/agenta/HEAD/LICENSE) | 1 |
-| [Case Flow](https://awesomecua.com/resources/github-dongxinsuperman-case-flow-ai/) | Web · Mobile · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/dongxinsuperman/case-flow-ai/HEAD/LICENSE) | 1 |
-| [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) | Web · Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE) | 1 |
-| [Korgo Bot](https://awesomecua.com/resources/github-nickvasilescu-korgo-bot/) | Web · Desktop | [MIT (code)](https://raw.githubusercontent.com/nickvasilescu/korgo-bot/HEAD/LICENSE) | 1 |
-| [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) | Web · Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/LICENSE) | 1 |
-| [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/LICENSE) | 1 |
+| [Browser Use Cloud](https://awesomecua.com/resources/url-ef244017b1460269fc68/) | Web | [Browser Use](https://awesomecua.com/resources/organization-browser-use/) | 2 |
+| [Browserbase Cloud](https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/) | Web | [Browserbase](https://awesomecua.com/resources/organization-browserbase/) | 2 |
+| [Copilot Studio computer use](https://awesomecua.com/resources/url-80052633107401ebfba7/) | Web · Desktop | [Microsoft](https://awesomecua.com/resources/organization-microsoft/) | 2 |
+| [HoloTab](https://awesomecua.com/resources/url-4a47a6df845735984bf1/) | Web | [H](https://awesomecua.com/resources/organization-h/) | 1 |
+| [ChatGPT Agent](https://awesomecua.com/resources/url-b074ccdb2d9ec0277b65/) | Web · Desktop | [OpenAI](https://awesomecua.com/resources/organization-openai/) | 1 |
+| [ChatGPT Atlas](https://awesomecua.com/resources/url-240a05c02f85d4da60dc/) | Web | [OpenAI](https://awesomecua.com/resources/organization-openai/) | 1 |
 
 ## Questions
 

@@ -2,20 +2,20 @@
 
 基础设施指计算机使用智能体在其中运行或借以操作的浏览器、沙箱、虚拟机、模拟器和输入自动化库。
 
-> AwesomeCUA 目录收录 114 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
+> AwesomeCUA 目录收录 114 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](https://awesomecua.com/categories/infrastructure/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
 ## 怎么选
 
-| 基础设施 | 平台 | 许可证 | 提及 |
+| 基础设施 | 平台 | 许可证 | 关联记录 |
 | --- | --- | --- | --- |
 | [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 12 |
+| [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | 手机 | [Apache-2.0（代码）](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 8 |
 | [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) | 桌面 | — | 8 |
-| [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | 手机 | [Apache-2.0（代码）](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 7 |
 | [E2B Desktop](https://awesomecua.com/resources/github-e2b-dev-desktop/) | 桌面 | [Apache-2.0（代码）](https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE) | 6 |
+| [Steel Browser](https://awesomecua.com/resources/github-steel-dev-steel-browser/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE) | 4 |
 | [Lightpanda Browser](https://awesomecua.com/resources/github-lightpanda-io-browser/) | 网页 · 桌面 | [AGPL-3.0（代码）](https://raw.githubusercontent.com/lightpanda-io/browser/HEAD/LICENSE) | 4 |
-| [Nut.js](https://awesomecua.com/resources/github-nut-tree-nut-js/) | 桌面 | — | 4 |
 
 ## 常见问题
 

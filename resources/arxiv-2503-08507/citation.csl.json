@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2503.08507",
+  "citation-key": "arxiv_2503_08507",
+  "type": "article",
+  "title": "Referring to Any Person",
+  "URL": "https://arxiv.org/abs/2503.08507v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.08507",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.08507",
+    "identifiers": {
+      "arxiv": "2503.08507"
+    },
+    "first_published_at": "2025-03-11",
+    "record_updated_at": "2025-05-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5bfb319c5a2c4cf19a6debe243092a94e227df90e59c8913f0c4aab62b922137",
+      "submitted_at": "2025-03-11T14:57:14Z",
+      "updated_at": "2025-05-12T02:14:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.08507v2"
+    }
+  },
+  "note": "First published: 2025-03-11; Recorded arXiv version: v2; Recorded version updated: 2025-05-12T02:14:50Z.",
+  "author": [
+    {
+      "literal": "Qing Jiang"
+    },
+    {
+      "literal": "Lin Wu"
+    },
+    {
+      "literal": "Zhaoyang Zeng"
+    },
+    {
+      "literal": "Tianhe Ren"
+    },
+    {
+      "literal": "Yuda Xiong"
+    },
+    {
+      "literal": "Yihao Chen"
+    },
+    {
+      "literal": "Qin Liu"
+    },
+    {
+      "literal": "Lei Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.08507",
+  "genre": "preprint",
+  "version": "2"
+}

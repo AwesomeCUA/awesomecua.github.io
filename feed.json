@@ -14,6 +14,98 @@
   ],
   "items": [
     {
+      "id": "https://awesomecua.com/resources/organization-microsoft/",
+      "url": "https://awesomecua.com/resources/organization-microsoft/",
+      "external_url": "https://www.microsoft.com/",
+      "title": "Microsoft",
+      "content_text": "Publisher or product brand associated with Microsoft computer-use or browser automation offerings.",
+      "summary": "Publisher or product brand associated with Microsoft computer-use or browser automation offerings.",
+      "date_published": "2026-11-09T22:08:43Z",
+      "date_modified": "2026-11-09T22:08:43Z",
+      "tags": [
+        "company",
+        "industry"
+      ],
+      "_awesomecua": {
+        "kind": "company",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/organization-microsoft/record.json",
+        "markdown": "https://awesomecua.com/resources/organization-microsoft/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/organization-anthropic/",
+      "url": "https://awesomecua.com/resources/organization-anthropic/",
+      "external_url": "https://www.anthropic.com/",
+      "title": "Anthropic",
+      "content_text": "Publisher or product brand associated with Anthropic computer-use or browser automation offerings.",
+      "summary": "Publisher or product brand associated with Anthropic computer-use or browser automation offerings.",
+      "date_published": "2026-11-09T22:08:42Z",
+      "date_modified": "2026-11-09T22:08:42Z",
+      "tags": [
+        "company",
+        "industry"
+      ],
+      "_awesomecua": {
+        "kind": "company",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/organization-anthropic/record.json",
+        "markdown": "https://awesomecua.com/resources/organization-anthropic/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/organization-google/",
+      "url": "https://awesomecua.com/resources/organization-google/",
+      "external_url": "https://about.google/",
+      "title": "Google",
+      "content_text": "Publisher or product brand associated with Google computer-use or browser automation offerings.",
+      "summary": "Publisher or product brand associated with Google computer-use or browser automation offerings.",
+      "date_published": "2026-11-09T22:08:42Z",
+      "date_modified": "2026-11-09T22:08:42Z",
+      "tags": [
+        "company",
+        "industry"
+      ],
+      "_awesomecua": {
+        "kind": "company",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/organization-google/record.json",
+        "markdown": "https://awesomecua.com/resources/organization-google/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/organization-h/",
+      "url": "https://awesomecua.com/resources/organization-h/",
+      "external_url": "https://hcompany.ai/",
+      "title": "H",
+      "content_text": "Publisher or product brand associated with H computer-use or browser automation offerings.",
+      "summary": "Publisher or product brand associated with H computer-use or browser automation offerings.",
+      "date_published": "2026-11-09T22:08:42Z",
+      "date_modified": "2026-11-09T22:08:42Z",
+      "tags": [
+        "company",
+        "industry"
+      ],
+      "_awesomecua": {
+        "kind": "company",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/organization-h/record.json",
+        "markdown": "https://awesomecua.com/resources/organization-h/index.md"
+      }
+    },
+    {
       "id": "https://awesomecua.com/resources/github-rao-studios-frigate/",
       "url": "https://awesomecua.com/resources/github-rao-studios-frigate/",
       "external_url": "https://github.com/rao-studios/Frigate",
@@ -2512,116 +2604,6 @@
         ],
         "record_json": "https://awesomecua.com/resources/github-leeguooooo-computer-use/record.json",
         "markdown": "https://awesomecua.com/resources/github-leeguooooo-computer-use/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-robotn-gohook/",
-      "url": "https://awesomecua.com/resources/github-robotn-gohook/",
-      "external_url": "https://github.com/robotn/gohook",
-      "title": "gohook",
-      "content_text": "A Go library for listening to keyboard and mouse events, with callback registration and an event stream that can support capture of desktop interactions.",
-      "summary": "A Go library for listening to keyboard and mouse events, with callback registration and an event stream that can support capture of desktop interactions.",
-      "date_published": "2026-11-09T14:06:27Z",
-      "date_modified": "2026-11-09T21:12:05Z",
-      "tags": [
-        "tool",
-        "recording"
-      ],
-      "_awesomecua": {
-        "kind": "tool",
-        "review_status": "curated",
-        "environments": [
-          "cross-platform",
-          "desktop",
-          "windows",
-          "macos",
-          "linux"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-robotn-gohook/record.json",
-        "markdown": "https://awesomecua.com/resources/github-robotn-gohook/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-sy-d-handraise-telegram/",
-      "url": "https://awesomecua.com/resources/github-sy-d-handraise-telegram/",
-      "external_url": "https://github.com/Sy-D/handraise-telegram",
-      "title": "handraise-telegram",
-      "content_text": "A Telegram adapter for browser-agent handoffs that sends a page screenshot and approval buttons to a chat, then returns the person's decision.",
-      "summary": "A Telegram adapter for browser-agent handoffs that sends a page screenshot and approval buttons to a chat, then returns the person's decision.",
-      "date_published": "2026-11-09T14:06:27Z",
-      "date_modified": "2026-11-09T21:12:05Z",
-      "tags": [
-        "tool",
-        "human-in-the-loop",
-        "safety-security"
-      ],
-      "_awesomecua": {
-        "kind": "tool",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-sy-d-handraise-telegram/record.json",
-        "markdown": "https://awesomecua.com/resources/github-sy-d-handraise-telegram/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-jaimaann-langhire/",
-      "url": "https://awesomecua.com/resources/github-jaimaann-langhire/",
-      "external_url": "https://github.com/jaimaann/LangHire",
-      "title": "LangHire",
-      "content_text": "A desktop app whose browser agents search for jobs and complete online applications, using stored knowledge of applicant tracking systems across tasks.",
-      "summary": "A desktop app whose browser agents search for jobs and complete online applications, using stored knowledge of applicant tracking systems across tasks.",
-      "date_published": "2026-11-09T14:06:27Z",
-      "date_modified": "2026-11-09T21:12:04Z",
-      "tags": [
-        "agent",
-        "web-navigation",
-        "workflow",
-        "memory",
-        "automation"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "cross-platform",
-          "desktop",
-          "macos",
-          "windows",
-          "linux",
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-jaimaann-langhire/record.json",
-        "markdown": "https://awesomecua.com/resources/github-jaimaann-langhire/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/",
-      "url": "https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/",
-      "external_url": "https://github.com/Mininglamp-AI/mano-afk",
-      "title": "mano-afk",
-      "content_text": "An app-building agent that deploys software and tests it through browser GUI actions, with retry loops and an included benchmark for GUI automation.",
-      "summary": "An app-building agent that deploys software and tests it through browser GUI actions, with retry loops and an included benchmark for GUI automation.",
-      "date_published": "2026-11-09T14:06:27Z",
-      "date_modified": "2026-11-09T21:12:04Z",
-      "tags": [
-        "agent",
-        "automation",
-        "evaluation",
-        "web-navigation",
-        "workflow"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "web",
-          "desktop",
-          "macos"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/record.json",
-        "markdown": "https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/index.md"
       }
     }
   ]

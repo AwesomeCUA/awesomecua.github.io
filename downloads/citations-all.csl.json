@@ -49,6 +49,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/1311.2524v5",
+    "archive": "arXiv",
+    "archive_location": "1311.2524",
+    "author": [
+      {
+        "literal": "Ross Girshick"
+      },
+      {
+        "literal": "Jeff Donahue"
+      },
+      {
+        "literal": "Trevor Darrell"
+      },
+      {
+        "literal": "Jitendra Malik"
+      }
+    ],
+    "citation-key": "arxiv_1311_2524",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c04449c7fe0cd858bf696a0a5f2f29ef8264271c7dd86bdbad56b1797cdbdf29",
+        "submitted_at": "2013-11-11T18:43:49Z",
+        "updated_at": "2014-10-22T17:23:20Z",
+        "version": 5,
+        "versioned_url": "https://arxiv.org/abs/1311.2524v5"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/1311.2524",
+      "catalog_id": "arxiv:1311.2524",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2013-11-11",
+      "identifiers": {
+        "arxiv": "1311.2524"
+      },
+      "record_updated_at": "2014-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:1311.2524",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2013-11-11; Recorded arXiv version: v5; Recorded version updated: 2014-10-22T17:23:20Z.",
+    "title": "Rich feature hierarchies for accurate object detection and semantic segmentation",
+    "type": "article",
+    "version": "5"
+  },
+  {
     "URL": "https://arxiv.org/abs/1507.05717v1",
     "archive": "arXiv",
     "archive_location": "1507.05717",
@@ -99,6 +154,73 @@
     "title": "An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1602.01783v2",
+    "archive": "arXiv",
+    "archive_location": "1602.01783",
+    "author": [
+      {
+        "literal": "Volodymyr Mnih"
+      },
+      {
+        "literal": "Adrià Puigdomènech Badia"
+      },
+      {
+        "literal": "Mehdi Mirza"
+      },
+      {
+        "literal": "Alex Graves"
+      },
+      {
+        "literal": "Timothy P. Lillicrap"
+      },
+      {
+        "literal": "Tim Harley"
+      },
+      {
+        "literal": "David Silver"
+      },
+      {
+        "literal": "Koray Kavukcuoglu"
+      }
+    ],
+    "citation-key": "arxiv_1602_01783",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ec52d52d4a8a301f164db25086efa19ad8ea878a97a6ecaff50d7e0f1ef291f5",
+        "submitted_at": "2016-02-04T18:38:41Z",
+        "updated_at": "2016-06-16T16:38:45Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/1602.01783v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/1602.01783",
+      "catalog_id": "arxiv:1602.01783",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2016-02-04",
+      "identifiers": {
+        "arxiv": "1602.01783"
+      },
+      "record_updated_at": "2016-06-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:1602.01783",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          2,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2016-02-04; Recorded arXiv version: v2; Recorded version updated: 2016-06-16T16:38:45Z.",
+    "title": "Asynchronous Methods for Deep Reinforcement Learning",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/1602.02261v2",
@@ -10033,6 +10155,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2311.13596v1",
+    "archive": "arXiv",
+    "archive_location": "2311.13596",
+    "author": [
+      {
+        "literal": "Qing Jiang"
+      },
+      {
+        "literal": "Feng Li"
+      },
+      {
+        "literal": "Tianhe Ren"
+      },
+      {
+        "literal": "Shilong Liu"
+      },
+      {
+        "literal": "Zhaoyang Zeng"
+      },
+      {
+        "literal": "Kent Yu"
+      },
+      {
+        "literal": "Lei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2311_13596",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c98c5487aa579fddfe8c8c66dd2029828914ff8db399289c1c3ea09e906d4081",
+        "submitted_at": "2023-11-22T18:57:24Z",
+        "updated_at": "2023-11-22T18:57:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2311.13596v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2311.13596",
+      "catalog_id": "arxiv:2311.13596",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2023-11-22",
+      "identifiers": {
+        "arxiv": "2311.13596"
+      },
+      "record_updated_at": "2023-11-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2311.13596",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2023-11-22; Recorded arXiv version: v1; Recorded version updated: 2023-11-22T18:57:24Z.",
+    "title": "T-Rex: Counting by Visual Prompting",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2311.18492v1",
     "archive": "arXiv",
     "archive_location": "2311.18492",
@@ -18099,6 +18285,97 @@
     "title": "AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments",
     "type": "article",
     "version": "5"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2405.10300v2",
+    "archive": "arXiv",
+    "archive_location": "2405.10300",
+    "author": [
+      {
+        "literal": "Tianhe Ren"
+      },
+      {
+        "literal": "Qing Jiang"
+      },
+      {
+        "literal": "Shilong Liu"
+      },
+      {
+        "literal": "Zhaoyang Zeng"
+      },
+      {
+        "literal": "Wenlong Liu"
+      },
+      {
+        "literal": "Han Gao"
+      },
+      {
+        "literal": "Hongjie Huang"
+      },
+      {
+        "literal": "Zhengyu Ma"
+      },
+      {
+        "literal": "Xiaoke Jiang"
+      },
+      {
+        "literal": "Yihao Chen"
+      },
+      {
+        "literal": "Yuda Xiong"
+      },
+      {
+        "literal": "Hao Zhang"
+      },
+      {
+        "literal": "Feng Li"
+      },
+      {
+        "literal": "Peijun Tang"
+      },
+      {
+        "literal": "Kent Yu"
+      },
+      {
+        "literal": "Lei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2405_10300",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "18203cd70519de02f7335f3ac968f9eb37962a55df66cfaf2ba7b380e34ac459",
+        "submitted_at": "2024-05-16T17:54:15Z",
+        "updated_at": "2024-06-01T03:35:22Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2405.10300v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2405.10300",
+      "catalog_id": "arxiv:2405.10300",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-05-16",
+      "identifiers": {
+        "arxiv": "2405.10300"
+      },
+      "record_updated_at": "2024-06-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2405.10300",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2024-05-16; Recorded arXiv version: v2; Recorded version updated: 2024-06-01T03:35:22Z.",
+    "title": "Grounding DINO 1.5: Advance the \"Edge\" of Open-Set Object Detection",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2405.11120v1",
@@ -32344,6 +32621,109 @@
     "version": "7"
   },
   {
+    "URL": "https://arxiv.org/abs/2411.14347v3",
+    "archive": "arXiv",
+    "archive_location": "2411.14347",
+    "author": [
+      {
+        "literal": "Tianhe Ren"
+      },
+      {
+        "literal": "Yihao Chen"
+      },
+      {
+        "literal": "Qing Jiang"
+      },
+      {
+        "literal": "Zhaoyang Zeng"
+      },
+      {
+        "literal": "Yuda Xiong"
+      },
+      {
+        "literal": "Wenlong Liu"
+      },
+      {
+        "literal": "Zhengyu Ma"
+      },
+      {
+        "literal": "Junyi Shen"
+      },
+      {
+        "literal": "Yuan Gao"
+      },
+      {
+        "literal": "Xiaoke Jiang"
+      },
+      {
+        "literal": "Xingyu Chen"
+      },
+      {
+        "literal": "Zhuheng Song"
+      },
+      {
+        "literal": "Yuhong Zhang"
+      },
+      {
+        "literal": "Hongjie Huang"
+      },
+      {
+        "literal": "Han Gao"
+      },
+      {
+        "literal": "Shilong Liu"
+      },
+      {
+        "literal": "Hao Zhang"
+      },
+      {
+        "literal": "Feng Li"
+      },
+      {
+        "literal": "Kent Yu"
+      },
+      {
+        "literal": "Lei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2411_14347",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1eb66ac7be4c7825c6b472f13c18b2712bc9f0c8ca7ae1e295fab81740463bc1",
+        "submitted_at": "2024-11-21T17:42:20Z",
+        "updated_at": "2025-05-15T15:52:39Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2411.14347v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.14347",
+      "catalog_id": "arxiv:2411.14347",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-11-21",
+      "identifiers": {
+        "arxiv": "2411.14347"
+      },
+      "record_updated_at": "2025-05-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.14347",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-21; Recorded arXiv version: v3; Recorded version updated: 2025-05-15T15:52:39Z.",
+    "title": "DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2411.15004v2",
     "archive": "arXiv",
     "archive_location": "2411.15004",
@@ -32789,6 +33169,73 @@
     "title": "Large Language Model-Brained GUI Agents: A Survey",
     "type": "article",
     "version": "12"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2411.18363v3",
+    "archive": "arXiv",
+    "archive_location": "2411.18363",
+    "author": [
+      {
+        "literal": "Qing Jiang"
+      },
+      {
+        "literal": "Gen Luo"
+      },
+      {
+        "literal": "Yuqin Yang"
+      },
+      {
+        "literal": "Yuda Xiong"
+      },
+      {
+        "literal": "Yihao Chen"
+      },
+      {
+        "literal": "Zhaoyang Zeng"
+      },
+      {
+        "literal": "Tianhe Ren"
+      },
+      {
+        "literal": "Lei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2411_18363",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "91a1192deccc0cab6e10f818c4d6892b7ab29ad9deab4230062d6433be7845be",
+        "submitted_at": "2024-11-27T14:11:10Z",
+        "updated_at": "2025-03-11T14:19:42Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2411.18363v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.18363",
+      "catalog_id": "arxiv:2411.18363",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-11-27",
+      "identifiers": {
+        "arxiv": "2411.18363"
+      },
+      "record_updated_at": "2025-03-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.18363",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-27; Recorded arXiv version: v3; Recorded version updated: 2025-03-11T14:19:42Z.",
+    "title": "ChatRex: Taming Multimodal LLM for Joint Perception and Understanding",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2411.19654v2",
@@ -40225,6 +40672,130 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2501.14818v1",
+    "archive": "arXiv",
+    "archive_location": "2501.14818",
+    "author": [
+      {
+        "literal": "Zhiqi Li"
+      },
+      {
+        "literal": "Guo Chen"
+      },
+      {
+        "literal": "Shilong Liu"
+      },
+      {
+        "literal": "Shihao Wang"
+      },
+      {
+        "literal": "Vibashan VS"
+      },
+      {
+        "literal": "Yishen Ji"
+      },
+      {
+        "literal": "Shiyi Lan"
+      },
+      {
+        "literal": "Hao Zhang"
+      },
+      {
+        "literal": "Yilin Zhao"
+      },
+      {
+        "literal": "Subhashree Radhakrishnan"
+      },
+      {
+        "literal": "Nadine Chang"
+      },
+      {
+        "literal": "Karan Sapra"
+      },
+      {
+        "literal": "Amala Sanjay Deshmukh"
+      },
+      {
+        "literal": "Tuomas Rintamaki"
+      },
+      {
+        "literal": "Matthieu Le"
+      },
+      {
+        "literal": "Ilia Karmanov"
+      },
+      {
+        "literal": "Lukas Voegtle"
+      },
+      {
+        "literal": "Philipp Fischer"
+      },
+      {
+        "literal": "De-An Huang"
+      },
+      {
+        "literal": "Timo Roman"
+      },
+      {
+        "literal": "Tong Lu"
+      },
+      {
+        "literal": "Jose M. Alvarez"
+      },
+      {
+        "literal": "Bryan Catanzaro"
+      },
+      {
+        "literal": "Jan Kautz"
+      },
+      {
+        "literal": "Andrew Tao"
+      },
+      {
+        "literal": "Guilin Liu"
+      },
+      {
+        "literal": "Zhiding Yu"
+      }
+    ],
+    "citation-key": "arxiv_2501_14818",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54b91b0078f9b72aab48c7116c9fe13559e04e0bb8e768685ddd911a166779a9",
+        "submitted_at": "2025-01-20T18:40:47Z",
+        "updated_at": "2025-01-20T18:40:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2501.14818v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2501.14818",
+      "catalog_id": "arxiv:2501.14818",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-01-20",
+      "identifiers": {
+        "arxiv": "2501.14818"
+      },
+      "record_updated_at": "2025-01-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2501.14818",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2025-01-20; Recorded arXiv version: v1; Recorded version updated: 2025-01-20T18:40:47Z.",
+    "title": "Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2501.16150v3",
     "archive": "arXiv",
     "archive_location": "2501.16150",
@@ -44156,6 +44727,73 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2503.08507v2",
+    "archive": "arXiv",
+    "archive_location": "2503.08507",
+    "author": [
+      {
+        "literal": "Qing Jiang"
+      },
+      {
+        "literal": "Lin Wu"
+      },
+      {
+        "literal": "Zhaoyang Zeng"
+      },
+      {
+        "literal": "Tianhe Ren"
+      },
+      {
+        "literal": "Yuda Xiong"
+      },
+      {
+        "literal": "Yihao Chen"
+      },
+      {
+        "literal": "Qin Liu"
+      },
+      {
+        "literal": "Lei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2503_08507",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5bfb319c5a2c4cf19a6debe243092a94e227df90e59c8913f0c4aab62b922137",
+        "submitted_at": "2025-03-11T14:57:14Z",
+        "updated_at": "2025-05-12T02:14:50Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.08507v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.08507",
+      "catalog_id": "arxiv:2503.08507",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-03-11",
+      "identifiers": {
+        "arxiv": "2503.08507"
+      },
+      "record_updated_at": "2025-05-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.08507",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-11; Recorded arXiv version: v2; Recorded version updated: 2025-05-12T02:14:50Z.",
+    "title": "Referring to Any Person",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2503.09241v1",
     "archive": "arXiv",
     "archive_location": "2503.09241",
@@ -45148,6 +45786,178 @@
     },
     "note": "First published: 2025-03-18; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T01:37:34Z.",
     "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.14734v2",
+    "archive": "arXiv",
+    "archive_location": "2503.14734",
+    "author": [
+      {
+        "literal": "NVIDIA"
+      },
+      {
+        "literal": ":"
+      },
+      {
+        "literal": "Johan Bjorck"
+      },
+      {
+        "literal": "Fernando Castañeda"
+      },
+      {
+        "literal": "Nikita Cherniadev"
+      },
+      {
+        "literal": "Xingye Da"
+      },
+      {
+        "literal": "Runyu Ding"
+      },
+      {
+        "literal": "Linxi \"Jim\" Fan"
+      },
+      {
+        "literal": "Yu Fang"
+      },
+      {
+        "literal": "Dieter Fox"
+      },
+      {
+        "literal": "Fengyuan Hu"
+      },
+      {
+        "literal": "Spencer Huang"
+      },
+      {
+        "literal": "Joel Jang"
+      },
+      {
+        "literal": "Zhenyu Jiang"
+      },
+      {
+        "literal": "Jan Kautz"
+      },
+      {
+        "literal": "Kaushil Kundalia"
+      },
+      {
+        "literal": "Lawrence Lao"
+      },
+      {
+        "literal": "Zhiqi Li"
+      },
+      {
+        "literal": "Zongyu Lin"
+      },
+      {
+        "literal": "Kevin Lin"
+      },
+      {
+        "literal": "Guilin Liu"
+      },
+      {
+        "literal": "Edith Llontop"
+      },
+      {
+        "literal": "Loic Magne"
+      },
+      {
+        "literal": "Ajay Mandlekar"
+      },
+      {
+        "literal": "Avnish Narayan"
+      },
+      {
+        "literal": "Soroush Nasiriany"
+      },
+      {
+        "literal": "Scott Reed"
+      },
+      {
+        "literal": "You Liang Tan"
+      },
+      {
+        "literal": "Guanzhi Wang"
+      },
+      {
+        "literal": "Zu Wang"
+      },
+      {
+        "literal": "Jing Wang"
+      },
+      {
+        "literal": "Qi Wang"
+      },
+      {
+        "literal": "Jiannan Xiang"
+      },
+      {
+        "literal": "Yuqi Xie"
+      },
+      {
+        "literal": "Yinzhen Xu"
+      },
+      {
+        "literal": "Zhenjia Xu"
+      },
+      {
+        "literal": "Seonghyeon Ye"
+      },
+      {
+        "literal": "Zhiding Yu"
+      },
+      {
+        "literal": "Ao Zhang"
+      },
+      {
+        "literal": "Hao Zhang"
+      },
+      {
+        "literal": "Yizhou Zhao"
+      },
+      {
+        "literal": "Ruijie Zheng"
+      },
+      {
+        "literal": "Yuke Zhu"
+      }
+    ],
+    "citation-key": "arxiv_2503_14734",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1b1c5ed4abec57b45568039938918ea6a5409c883b55df9b3ae99f9063905447",
+        "submitted_at": "2025-03-18T21:06:21Z",
+        "updated_at": "2025-03-27T02:52:43Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.14734v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.14734",
+      "catalog_id": "arxiv:2503.14734",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-03-18",
+      "identifiers": {
+        "arxiv": "2503.14734"
+      },
+      "record_updated_at": "2025-03-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.14734",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-18; Recorded arXiv version: v2; Recorded version updated: 2025-03-27T02:52:43Z.",
+    "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
     "type": "article",
     "version": "2"
   },
@@ -49494,6 +50304,112 @@
     "title": "UFO2: The Desktop AgentOS",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.15271v1",
+    "archive": "arXiv",
+    "archive_location": "2504.15271",
+    "author": [
+      {
+        "literal": "Guo Chen"
+      },
+      {
+        "literal": "Zhiqi Li"
+      },
+      {
+        "literal": "Shihao Wang"
+      },
+      {
+        "literal": "Jindong Jiang"
+      },
+      {
+        "literal": "Yicheng Liu"
+      },
+      {
+        "literal": "Lidong Lu"
+      },
+      {
+        "literal": "De-An Huang"
+      },
+      {
+        "literal": "Wonmin Byeon"
+      },
+      {
+        "literal": "Matthieu Le"
+      },
+      {
+        "literal": "Tuomas Rintamaki"
+      },
+      {
+        "literal": "Tyler Poon"
+      },
+      {
+        "literal": "Max Ehrlich"
+      },
+      {
+        "literal": "Tuomas Rintamaki"
+      },
+      {
+        "literal": "Tyler Poon"
+      },
+      {
+        "literal": "Tong Lu"
+      },
+      {
+        "literal": "Limin Wang"
+      },
+      {
+        "literal": "Bryan Catanzaro"
+      },
+      {
+        "literal": "Jan Kautz"
+      },
+      {
+        "literal": "Andrew Tao"
+      },
+      {
+        "literal": "Zhiding Yu"
+      },
+      {
+        "literal": "Guilin Liu"
+      }
+    ],
+    "citation-key": "arxiv_2504_15271",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2736581fb5589390728e767e86efe52e984ee0166aeff39c490bf349b003689c",
+        "submitted_at": "2025-04-21T17:57:28Z",
+        "updated_at": "2025-04-21T17:57:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2504.15271v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.15271",
+      "catalog_id": "arxiv:2504.15271",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-04-21",
+      "identifiers": {
+        "arxiv": "2504.15271"
+      },
+      "record_updated_at": "2025-04-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.15271",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-21; Recorded arXiv version: v1; Recorded version updated: 2025-04-21T17:57:28Z.",
+    "title": "Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2504.16073v1",
@@ -58222,6 +59138,64 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2506.04034v1",
+    "archive": "arXiv",
+    "archive_location": "2506.04034",
+    "author": [
+      {
+        "literal": "Qing Jiang"
+      },
+      {
+        "literal": "Xingyu Chen"
+      },
+      {
+        "literal": "Zhaoyang Zeng"
+      },
+      {
+        "literal": "Junzhi Yu"
+      },
+      {
+        "literal": "Lei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2506_04034",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fc79e2cd9547fe0d53e931de174fdfeade482b67f510cb5165d23671160d8b67",
+        "submitted_at": "2025-06-04T14:56:57Z",
+        "updated_at": "2025-06-04T14:56:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.04034v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.04034",
+      "catalog_id": "arxiv:2506.04034",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-06-04",
+      "identifiers": {
+        "arxiv": "2506.04034"
+      },
+      "record_updated_at": "2025-06-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.04034",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-04; Recorded arXiv version: v1; Recorded version updated: 2025-06-04T14:56:57Z.",
+    "title": "Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2506.04135v4",
     "archive": "arXiv",
     "archive_location": "2506.04135",
@@ -62296,6 +63270,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2507.05513v1",
+    "archive": "arXiv",
+    "archive_location": "2507.05513",
+    "author": [
+      {
+        "literal": "Mengyao Xu"
+      },
+      {
+        "literal": "Gabriel Moreira"
+      },
+      {
+        "literal": "Ronay Ak"
+      },
+      {
+        "literal": "Radek Osmulski"
+      },
+      {
+        "literal": "Yauhen Babakhin"
+      },
+      {
+        "literal": "Zhiding Yu"
+      },
+      {
+        "literal": "Benedikt Schifferer"
+      },
+      {
+        "literal": "Even Oldridge"
+      }
+    ],
+    "citation-key": "arxiv_2507_05513",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0c67f9c63df06c3f0ebec0aa88babb3205b24ca69358d0250e1509aa5887fcf3",
+        "submitted_at": "2025-07-07T22:20:04Z",
+        "updated_at": "2025-07-07T22:20:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.05513v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.05513",
+      "catalog_id": "arxiv:2507.05513",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-07-07",
+      "identifiers": {
+        "arxiv": "2507.05513"
+      },
+      "record_updated_at": "2025-07-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.05513",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-07; Recorded arXiv version: v1; Recorded version updated: 2025-07-07T22:20:04Z.",
+    "title": "Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2507.05673v1",
     "archive": "arXiv",
     "archive_location": "2507.05673",
@@ -64433,6 +65474,106 @@
     "title": "Phi-Ground Tech Report: Advancing Perception in GUI Grounding",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.00414v3",
+    "archive": "arXiv",
+    "archive_location": "2508.00414",
+    "author": [
+      {
+        "literal": "Tianqing Fang"
+      },
+      {
+        "literal": "Zhisong Zhang"
+      },
+      {
+        "literal": "Xiaoyang Wang"
+      },
+      {
+        "literal": "Rui Wang"
+      },
+      {
+        "literal": "Can Qin"
+      },
+      {
+        "literal": "Yuxuan Wan"
+      },
+      {
+        "literal": "Jun-Yu Ma"
+      },
+      {
+        "literal": "Ce Zhang"
+      },
+      {
+        "literal": "Jiaqi Chen"
+      },
+      {
+        "literal": "Xiyun Li"
+      },
+      {
+        "literal": "Yonglin Wang"
+      },
+      {
+        "literal": "Jingchen Ni"
+      },
+      {
+        "literal": "Tianshi Zheng"
+      },
+      {
+        "literal": "Chun Chen"
+      },
+      {
+        "literal": "Wenhao Yu"
+      },
+      {
+        "literal": "Zhenwen Liang"
+      },
+      {
+        "literal": "Hongming Zhang"
+      },
+      {
+        "literal": "Haitao Mi"
+      },
+      {
+        "literal": "Dong Yu"
+      }
+    ],
+    "citation-key": "arxiv_2508_00414",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e0f5a690793e44cadcda44a50361fd1d3bf19a32ce8e8b77feed26e33de05396",
+        "submitted_at": "2025-08-01T08:11:31Z",
+        "updated_at": "2026-04-22T08:14:17Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2508.00414v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.00414",
+      "catalog_id": "arxiv:2508.00414",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-08-01",
+      "identifiers": {
+        "arxiv": "2508.00414"
+      },
+      "record_updated_at": "2026-04-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.00414",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-01; Recorded arXiv version: v3; Recorded version updated: 2026-04-22T08:14:17Z.",
+    "title": "Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2508.00935v3",
@@ -84362,6 +85503,421 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2511.03929v2",
+    "archive": "arXiv",
+    "archive_location": "2511.03929",
+    "author": [
+      {
+        "literal": "NVIDIA"
+      },
+      {
+        "literal": ":"
+      },
+      {
+        "literal": "Amala Sanjay Deshmukh"
+      },
+      {
+        "literal": "Kateryna Chumachenko"
+      },
+      {
+        "literal": "Tuomas Rintamaki"
+      },
+      {
+        "literal": "Matthieu Le"
+      },
+      {
+        "literal": "Tyler Poon"
+      },
+      {
+        "literal": "Danial Mohseni Taheri"
+      },
+      {
+        "literal": "Ilia Karmanov"
+      },
+      {
+        "literal": "Guilin Liu"
+      },
+      {
+        "literal": "Jarno Seppanen"
+      },
+      {
+        "literal": "Guo Chen"
+      },
+      {
+        "literal": "Karan Sapra"
+      },
+      {
+        "literal": "Zhiding Yu"
+      },
+      {
+        "literal": "Adi Renduchintala"
+      },
+      {
+        "literal": "Charles Wang"
+      },
+      {
+        "literal": "Peter Jin"
+      },
+      {
+        "literal": "Arushi Goel"
+      },
+      {
+        "literal": "Mike Ranzinger"
+      },
+      {
+        "literal": "Lukas Voegtle"
+      },
+      {
+        "literal": "Philipp Fischer"
+      },
+      {
+        "literal": "Timo Roman"
+      },
+      {
+        "literal": "Wei Ping"
+      },
+      {
+        "literal": "Boxin Wang"
+      },
+      {
+        "literal": "Zhuolin Yang"
+      },
+      {
+        "literal": "Nayeon Lee"
+      },
+      {
+        "literal": "Shaokun Zhang"
+      },
+      {
+        "literal": "Fuxiao Liu"
+      },
+      {
+        "literal": "Zhiqi Li"
+      },
+      {
+        "literal": "Di Zhang"
+      },
+      {
+        "literal": "Greg Heinrich"
+      },
+      {
+        "literal": "Hongxu Yin"
+      },
+      {
+        "literal": "Song Han"
+      },
+      {
+        "literal": "Pavlo Molchanov"
+      },
+      {
+        "literal": "Parth Mannan"
+      },
+      {
+        "literal": "Yao Xu"
+      },
+      {
+        "literal": "Jane Polak Scowcroft"
+      },
+      {
+        "literal": "Tom Balough"
+      },
+      {
+        "literal": "Subhashree Radhakrishnan"
+      },
+      {
+        "literal": "Paris Zhang"
+      },
+      {
+        "literal": "Sean Cha"
+      },
+      {
+        "literal": "Ratnesh Kumar"
+      },
+      {
+        "literal": "Zaid Pervaiz Bhat"
+      },
+      {
+        "literal": "Jian Zhang"
+      },
+      {
+        "literal": "Darragh Hanley"
+      },
+      {
+        "literal": "Pritam Biswas"
+      },
+      {
+        "literal": "Jesse Oliver"
+      },
+      {
+        "literal": "Kevin Vasques"
+      },
+      {
+        "literal": "Roger Waleffe"
+      },
+      {
+        "literal": "Duncan Riach"
+      },
+      {
+        "literal": "Oluwatobi Olabiyi"
+      },
+      {
+        "literal": "Ameya Sunil Mahabaleshwarkar"
+      },
+      {
+        "literal": "Bilal Kartal"
+      },
+      {
+        "literal": "Pritam Gundecha"
+      },
+      {
+        "literal": "Khanh Nguyen"
+      },
+      {
+        "literal": "Alexandre Milesi"
+      },
+      {
+        "literal": "Eugene Khvedchenia"
+      },
+      {
+        "literal": "Ran Zilberstein"
+      },
+      {
+        "literal": "Ofri Masad"
+      },
+      {
+        "literal": "Natan Bagrov"
+      },
+      {
+        "literal": "Nave Assaf"
+      },
+      {
+        "literal": "Tomer Asida"
+      },
+      {
+        "literal": "Daniel Afrimi"
+      },
+      {
+        "literal": "Amit Zuker"
+      },
+      {
+        "literal": "Netanel Haber"
+      },
+      {
+        "literal": "Zhiyu Cheng"
+      },
+      {
+        "literal": "Jingyu Xin"
+      },
+      {
+        "literal": "Di Wu"
+      },
+      {
+        "literal": "Nik Spirin"
+      },
+      {
+        "literal": "Maryam Moosaei"
+      },
+      {
+        "literal": "Roman Ageev"
+      },
+      {
+        "literal": "Vanshil Atul Shah"
+      },
+      {
+        "literal": "Yuting Wu"
+      },
+      {
+        "literal": "Daniel Korzekwa"
+      },
+      {
+        "literal": "Unnikrishnan Kizhakkemadam Sreekumar"
+      },
+      {
+        "literal": "Wanli Jiang"
+      },
+      {
+        "literal": "Padmavathy Subramanian"
+      },
+      {
+        "literal": "Alejandra Rico"
+      },
+      {
+        "literal": "Sandip Bhaskar"
+      },
+      {
+        "literal": "Saeid Motiian"
+      },
+      {
+        "literal": "Kedi Wu"
+      },
+      {
+        "literal": "Annie Surla"
+      },
+      {
+        "literal": "Chia-Chih Chen"
+      },
+      {
+        "literal": "Hayden Wolff"
+      },
+      {
+        "literal": "Matthew Feinberg"
+      },
+      {
+        "literal": "Melissa Corpuz"
+      },
+      {
+        "literal": "Marek Wawrzos"
+      },
+      {
+        "literal": "Eileen Long"
+      },
+      {
+        "literal": "Aastha Jhunjhunwala"
+      },
+      {
+        "literal": "Paul Hendricks"
+      },
+      {
+        "literal": "Farzan Memarian"
+      },
+      {
+        "literal": "Benika Hall"
+      },
+      {
+        "literal": "Xin-Yu Wang"
+      },
+      {
+        "literal": "David Mosallanezhad"
+      },
+      {
+        "literal": "Soumye Singhal"
+      },
+      {
+        "literal": "Luis Vega"
+      },
+      {
+        "literal": "Katherine Cheung"
+      },
+      {
+        "literal": "Krzysztof Pawelec"
+      },
+      {
+        "literal": "Michael Evans"
+      },
+      {
+        "literal": "Katherine Luna"
+      },
+      {
+        "literal": "Jie Lou"
+      },
+      {
+        "literal": "Erick Galinkin"
+      },
+      {
+        "literal": "Akshay Hazare"
+      },
+      {
+        "literal": "Kaustubh Purandare"
+      },
+      {
+        "literal": "Ann Guan"
+      },
+      {
+        "literal": "Anna Warno"
+      },
+      {
+        "literal": "Chen Cui"
+      },
+      {
+        "literal": "Yoshi Suhara"
+      },
+      {
+        "literal": "Shibani Likhite"
+      },
+      {
+        "literal": "Seph Mard"
+      },
+      {
+        "literal": "Meredith Price"
+      },
+      {
+        "literal": "Laya Sleiman"
+      },
+      {
+        "literal": "Saori Kaji"
+      },
+      {
+        "literal": "Udi Karpas"
+      },
+      {
+        "literal": "Kari Briski"
+      },
+      {
+        "literal": "Joey Conway"
+      },
+      {
+        "literal": "Michael Lightstone"
+      },
+      {
+        "literal": "Jan Kautz"
+      },
+      {
+        "literal": "Mohammad Shoeybi"
+      },
+      {
+        "literal": "Mostofa Patwary"
+      },
+      {
+        "literal": "Jonathen Cohen"
+      },
+      {
+        "literal": "Oleksii Kuchaiev"
+      },
+      {
+        "literal": "Andrew Tao"
+      },
+      {
+        "literal": "Bryan Catanzaro"
+      }
+    ],
+    "citation-key": "arxiv_2511_03929",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "495797977a6ddda7967df50e932d3cde229301d724aaf51b390e239f7e306194",
+        "submitted_at": "2025-11-06T00:10:19Z",
+        "updated_at": "2025-11-07T03:45:07Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2511.03929v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.03929",
+      "catalog_id": "arxiv:2511.03929",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-11-06",
+      "identifiers": {
+        "arxiv": "2511.03929"
+      },
+      "record_updated_at": "2025-11-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.03929",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-06; Recorded arXiv version: v2; Recorded version updated: 2025-11-07T03:45:07Z.",
+    "title": "NVIDIA Nemotron Nano V2 VL",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2511.04137v1",
     "archive": "arXiv",
     "archive_location": "2511.04137",
@@ -90733,6 +92289,58 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2512.24601v3",
+    "archive": "arXiv",
+    "archive_location": "2512.24601",
+    "author": [
+      {
+        "literal": "Alex L. Zhang"
+      },
+      {
+        "literal": "Tim Kraska"
+      },
+      {
+        "literal": "Omar Khattab"
+      }
+    ],
+    "citation-key": "arxiv_2512_24601",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "691e7d1df824577a03e1858e1f57a3e21770b1ab30f138c8edaf87f091ecf7bf",
+        "submitted_at": "2025-12-31T03:43:41Z",
+        "updated_at": "2026-05-11T15:26:31Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2512.24601v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.24601",
+      "catalog_id": "arxiv:2512.24601",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-12-31",
+      "identifiers": {
+        "arxiv": "2512.24601"
+      },
+      "record_updated_at": "2026-05-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.24601",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-31; Recorded arXiv version: v3; Recorded version updated: 2026-05-11T15:26:31Z.",
+    "title": "Recursive Language Models",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2512.24965v1",
     "archive": "arXiv",
     "archive_location": "2512.24965",
@@ -94160,6 +95768,73 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2601.15808v2",
+    "archive": "arXiv",
+    "archive_location": "2601.15808",
+    "author": [
+      {
+        "literal": "Yuxuan Wan"
+      },
+      {
+        "literal": "Tianqing Fang"
+      },
+      {
+        "literal": "Zaitang Li"
+      },
+      {
+        "literal": "Yintong Huo"
+      },
+      {
+        "literal": "Wenxuan Wang"
+      },
+      {
+        "literal": "Haitao Mi"
+      },
+      {
+        "literal": "Dong Yu"
+      },
+      {
+        "literal": "Michael R. Lyu"
+      }
+    ],
+    "citation-key": "arxiv_2601_15808",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9d7b223e980df7207fd7973bd2dc9ca2bb2268d66fc9bfd556a9fb6a33debd87",
+        "submitted_at": "2026-01-22T09:47:31Z",
+        "updated_at": "2026-04-29T08:40:46Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2601.15808v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.15808",
+      "catalog_id": "arxiv:2601.15808",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-01-22",
+      "identifiers": {
+        "arxiv": "2601.15808"
+      },
+      "record_updated_at": "2026-04-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.15808",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-22; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T08:40:46Z.",
+    "title": "Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.15876v2",
     "archive": "arXiv",
     "archive_location": "2601.15876",
@@ -96979,6 +98654,73 @@
     },
     "note": "First published: 2026-02-03; Recorded arXiv version: v2; Recorded version updated: 2026-10-02T00:39:45Z.",
     "title": "LPS-Bench: Benchmarking Safety Awareness of Computer-Use Agents in Long-Horizon Planning under Benign and Adversarial Scenarios",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.03412v2",
+    "archive": "arXiv",
+    "archive_location": "2602.03412",
+    "author": [
+      {
+        "literal": "Mukai Li"
+      },
+      {
+        "literal": "Qingcheng Zeng"
+      },
+      {
+        "literal": "Tianqing Fang"
+      },
+      {
+        "literal": "Zhenwen Liang"
+      },
+      {
+        "literal": "Linfeng Song"
+      },
+      {
+        "literal": "Qi Liu"
+      },
+      {
+        "literal": "Haitao Mi"
+      },
+      {
+        "literal": "Dong Yu"
+      }
+    ],
+    "citation-key": "arxiv_2602_03412",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5ac73d236ee93ff40f8cf80f86f460be4963668a3108a03b2aadd4826dde890b",
+        "submitted_at": "2026-02-03T11:41:02Z",
+        "updated_at": "2026-04-29T09:45:31Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.03412v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.03412",
+      "catalog_id": "arxiv:2602.03412",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-02-03",
+      "identifiers": {
+        "arxiv": "2602.03412"
+      },
+      "record_updated_at": "2026-04-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.03412",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-03; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T09:45:31Z.",
+    "title": "Verified Critical Step Optimization for LLM Agents",
     "type": "article",
     "version": "2"
   },
@@ -114844,6 +116586,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.18131v1",
+    "archive": "arXiv",
+    "archive_location": "2604.18131",
+    "author": [
+      {
+        "literal": "Qifan Zhang"
+      },
+      {
+        "literal": "Dongyang Ma"
+      },
+      {
+        "literal": "Tianqing Fang"
+      },
+      {
+        "literal": "Jia Li"
+      },
+      {
+        "literal": "Jing Tang"
+      },
+      {
+        "literal": "Nuo Chen"
+      },
+      {
+        "literal": "Haitao Mi"
+      },
+      {
+        "literal": "Yan Wang"
+      }
+    ],
+    "citation-key": "arxiv_2604_18131",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "65b46d4daa92c982a7fe7ed2fa1b7395c636fff13aa2de910484c4e950d29526",
+        "submitted_at": "2026-04-20T11:54:20Z",
+        "updated_at": "2026-04-20T11:54:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.18131v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.18131",
+      "catalog_id": "arxiv:2604.18131",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-04-20",
+      "identifiers": {
+        "arxiv": "2604.18131"
+      },
+      "record_updated_at": "2026-04-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.18131",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T11:54:20Z.",
+    "title": "Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.18224v1",
     "archive": "arXiv",
     "archive_location": "2604.18224",
@@ -116782,6 +118591,706 @@
     "title": "NeuroClaw Technical Report",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.24954v2",
+    "archive": "arXiv",
+    "archive_location": "2604.24954",
+    "author": [
+      {
+        "literal": "NVIDIA"
+      },
+      {
+        "literal": ":"
+      },
+      {
+        "literal": "Amala Sanjay Deshmukh"
+      },
+      {
+        "literal": "Kateryna Chumachenko"
+      },
+      {
+        "literal": "Tuomas Rintamaki"
+      },
+      {
+        "literal": "Matthieu Le"
+      },
+      {
+        "literal": "Tyler Poon"
+      },
+      {
+        "literal": "Danial Mohseni Taheri"
+      },
+      {
+        "literal": "Ilia Karmanov"
+      },
+      {
+        "literal": "Guilin Liu"
+      },
+      {
+        "literal": "Jarno Seppanen"
+      },
+      {
+        "literal": "Arushi Goel"
+      },
+      {
+        "literal": "Mike Ranzinger"
+      },
+      {
+        "literal": "Greg Heinrich"
+      },
+      {
+        "literal": "Guo Chen"
+      },
+      {
+        "literal": "Lukas Voegtle"
+      },
+      {
+        "literal": "Philipp Fischer"
+      },
+      {
+        "literal": "Timo Roman"
+      },
+      {
+        "literal": "Karan Sapra"
+      },
+      {
+        "literal": "Collin McCarthy"
+      },
+      {
+        "literal": "Shaokun Zhang"
+      },
+      {
+        "literal": "Fuxiao Liu"
+      },
+      {
+        "literal": "Hanrong Ye"
+      },
+      {
+        "literal": "Yi Dong"
+      },
+      {
+        "literal": "Mingjie Liu"
+      },
+      {
+        "literal": "Yifan Peng"
+      },
+      {
+        "literal": "Piotr Zelasko"
+      },
+      {
+        "literal": "Zhehuai Chen"
+      },
+      {
+        "literal": "Nithin Rao Koluguri"
+      },
+      {
+        "literal": "Nune Tadevosyan"
+      },
+      {
+        "literal": "Lilit Grigoryan"
+      },
+      {
+        "literal": "Ehsan Hosseini Asl"
+      },
+      {
+        "literal": "Pritam Biswas"
+      },
+      {
+        "literal": "Leili Tavabi"
+      },
+      {
+        "literal": "Yuanhang Su"
+      },
+      {
+        "literal": "Zhiding Yu"
+      },
+      {
+        "literal": "Peter Jin"
+      },
+      {
+        "literal": "Alexandre Milesi"
+      },
+      {
+        "literal": "Netanel Haber"
+      },
+      {
+        "literal": "Yao Xu"
+      },
+      {
+        "literal": "Sarah Amiraslani"
+      },
+      {
+        "literal": "Nabin Mulepati"
+      },
+      {
+        "literal": "Eric Tramel"
+      },
+      {
+        "literal": "Jaehun Jung"
+      },
+      {
+        "literal": "Ximing Lu"
+      },
+      {
+        "literal": "Brandon Cui"
+      },
+      {
+        "literal": "Jin Xu"
+      },
+      {
+        "literal": "Zhiqi Li"
+      },
+      {
+        "literal": "Shihao Wang"
+      },
+      {
+        "literal": "Yuanguo Kuang"
+      },
+      {
+        "literal": "Shaokun Zhang"
+      },
+      {
+        "literal": "Huck Yang"
+      },
+      {
+        "literal": "Boyi Li"
+      },
+      {
+        "literal": "Hongxu Yin"
+      },
+      {
+        "literal": "Song Han"
+      },
+      {
+        "literal": "Bilal Kartal"
+      },
+      {
+        "literal": "Pavlo Molchanov"
+      },
+      {
+        "literal": "Adi Renduchintala"
+      },
+      {
+        "literal": "Charles Wang"
+      },
+      {
+        "literal": "David Mosallanezhad"
+      },
+      {
+        "literal": "Soumye Singhal"
+      },
+      {
+        "literal": "Luis Vega"
+      },
+      {
+        "literal": "Katherine Cheung"
+      },
+      {
+        "literal": "Sreyan Ghosh"
+      },
+      {
+        "literal": "Yian Zhang"
+      },
+      {
+        "literal": "Alexander Bukharin"
+      },
+      {
+        "literal": "Venkat Srinivasan"
+      },
+      {
+        "literal": "Johnny Greco"
+      },
+      {
+        "literal": "Andre Manoel"
+      },
+      {
+        "literal": "Maarten Van Segbroeck"
+      },
+      {
+        "literal": "Suseella Panguliri"
+      },
+      {
+        "literal": "Rohit Watve"
+      },
+      {
+        "literal": "Divyanshu Kakwani"
+      },
+      {
+        "literal": "Shubham Pachori"
+      },
+      {
+        "literal": "Jeffrey Glick"
+      },
+      {
+        "literal": "Radha Sri-Tharan"
+      },
+      {
+        "literal": "Aileen Zaman"
+      },
+      {
+        "literal": "Khanh Nguyen"
+      },
+      {
+        "literal": "Shi Chen"
+      },
+      {
+        "literal": "Jiaheng Fang"
+      },
+      {
+        "literal": "Qing Miao"
+      },
+      {
+        "literal": "Wenfei Zhou"
+      },
+      {
+        "literal": "Yu Wang"
+      },
+      {
+        "literal": "Zaid Pervaiz Bhat"
+      },
+      {
+        "literal": "Varun Praveen"
+      },
+      {
+        "literal": "Arihant Jain"
+      },
+      {
+        "literal": "Ramanathan Arunachalam"
+      },
+      {
+        "literal": "Tomasz Kornuta"
+      },
+      {
+        "literal": "Ashton Sharabiani"
+      },
+      {
+        "literal": "Amy Shen"
+      },
+      {
+        "literal": "Wei Huang"
+      },
+      {
+        "literal": "Yi-Fu Wu"
+      },
+      {
+        "literal": "Ali Roshan Ghias"
+      },
+      {
+        "literal": "Huiying Li"
+      },
+      {
+        "literal": "Brian Yu"
+      },
+      {
+        "literal": "Nima Tajbakhsh"
+      },
+      {
+        "literal": "Chen Cui"
+      },
+      {
+        "literal": "Wenwen Gao"
+      },
+      {
+        "literal": "Li Ding"
+      },
+      {
+        "literal": "Terry Kong"
+      },
+      {
+        "literal": "Manoj Kilaru"
+      },
+      {
+        "literal": "Anahita Bhiwandiwalla"
+      },
+      {
+        "literal": "Marek Wawrzos"
+      },
+      {
+        "literal": "Daniel Korzekwa"
+      },
+      {
+        "literal": "Pablo Ribalta"
+      },
+      {
+        "literal": "Grzegorz Chlebus"
+      },
+      {
+        "literal": "Besmira Nushi"
+      },
+      {
+        "literal": "Ewa Dobrowolska"
+      },
+      {
+        "literal": "Maciej Jakub Mikulski"
+      },
+      {
+        "literal": "Kunal Dhawan"
+      },
+      {
+        "literal": "Steve Huang"
+      },
+      {
+        "literal": "Jagadeesh Balam"
+      },
+      {
+        "literal": "Yongqiang Wang"
+      },
+      {
+        "literal": "Nikolay Karpov"
+      },
+      {
+        "literal": "Valentin Mendelev"
+      },
+      {
+        "literal": "George Zelenfroynd"
+      },
+      {
+        "literal": "Meline Mkrtchyan"
+      },
+      {
+        "literal": "Qing Miao"
+      },
+      {
+        "literal": "Omri Almog"
+      },
+      {
+        "literal": "Bhavesh Pawar"
+      },
+      {
+        "literal": "Rameshwar Shivbhakta"
+      },
+      {
+        "literal": "Sudeep Sabnis"
+      },
+      {
+        "literal": "Ashrton Sharabiani"
+      },
+      {
+        "literal": "Negar Habibi"
+      },
+      {
+        "literal": "Geethapriya Venkataramani"
+      },
+      {
+        "literal": "Pamela Peng"
+      },
+      {
+        "literal": "Prerit Rodney"
+      },
+      {
+        "literal": "Serge Panev"
+      },
+      {
+        "literal": "Richard Mazzarese"
+      },
+      {
+        "literal": "Nicky Liu"
+      },
+      {
+        "literal": "Michael Fukuyama"
+      },
+      {
+        "literal": "Andrii Skliar"
+      },
+      {
+        "literal": "Roger Waleffe"
+      },
+      {
+        "literal": "Duncan Riach"
+      },
+      {
+        "literal": "Yunheng Zou"
+      },
+      {
+        "literal": "Jian Hu"
+      },
+      {
+        "literal": "Hao Zhang"
+      },
+      {
+        "literal": "Binfeng Xu"
+      },
+      {
+        "literal": "Yuhao Yang"
+      },
+      {
+        "literal": "Zuhair Ahmed"
+      },
+      {
+        "literal": "Alexandre Milesi"
+      },
+      {
+        "literal": "Carlo del Mundo"
+      },
+      {
+        "literal": "Chad Voegele"
+      },
+      {
+        "literal": "Zhiyu Cheng"
+      },
+      {
+        "literal": "Nave Assaf"
+      },
+      {
+        "literal": "Andrii Skliar"
+      },
+      {
+        "literal": "Daniel Afrimi"
+      },
+      {
+        "literal": "Natan Bagrov"
+      },
+      {
+        "literal": "Ran Zilberstein"
+      },
+      {
+        "literal": "Ofri Masad"
+      },
+      {
+        "literal": "Eugene Khvedchenia"
+      },
+      {
+        "literal": "Natan Bagrov"
+      },
+      {
+        "literal": "Borys Tymchenko"
+      },
+      {
+        "literal": "Tomer Asida"
+      },
+      {
+        "literal": "Daniel Afrimi"
+      },
+      {
+        "literal": "Parth Mannan"
+      },
+      {
+        "literal": "Victor Cui"
+      },
+      {
+        "literal": "Michael Evans"
+      },
+      {
+        "literal": "Katherine Luna"
+      },
+      {
+        "literal": "Jie Lou"
+      },
+      {
+        "literal": "Pinky Xu"
+      },
+      {
+        "literal": "Guyue Huang"
+      },
+      {
+        "literal": "Negar Habibi"
+      },
+      {
+        "literal": "Michael Boone"
+      },
+      {
+        "literal": "Pradeep Thalasta"
+      },
+      {
+        "literal": "Adeola Adesoba"
+      },
+      {
+        "literal": "Dina Yared"
+      },
+      {
+        "literal": "Christopher Parisien"
+      },
+      {
+        "literal": "Leon Derczynski"
+      },
+      {
+        "literal": "Shaona Ghosh"
+      },
+      {
+        "literal": "Wes Feely"
+      },
+      {
+        "literal": "Micah Schaffer"
+      },
+      {
+        "literal": "Radha Sri-Tharan"
+      },
+      {
+        "literal": "Jeffrey Glick"
+      },
+      {
+        "literal": "Barnaby Simkin"
+      },
+      {
+        "literal": "George Zelenfroynd"
+      },
+      {
+        "literal": "Tomasz Grzegorzek"
+      },
+      {
+        "literal": "Rishabh Garg"
+      },
+      {
+        "literal": "Aastha Jhunjhunwala"
+      },
+      {
+        "literal": "Sergei Kolchenko"
+      },
+      {
+        "literal": "Farzan Memarian"
+      },
+      {
+        "literal": "Haran Kumar"
+      },
+      {
+        "literal": "Shiv Kumar"
+      },
+      {
+        "literal": "Isabel Hulseman"
+      },
+      {
+        "literal": "Anjali Shah"
+      },
+      {
+        "literal": "Kari Briski"
+      },
+      {
+        "literal": "Padmavathy Subramanian"
+      },
+      {
+        "literal": "Joey Conway"
+      },
+      {
+        "literal": "Udi Karpas"
+      },
+      {
+        "literal": "Jane Polak Scowcroft"
+      },
+      {
+        "literal": "Annie Surla"
+      },
+      {
+        "literal": "Shilpa Ammireddy"
+      },
+      {
+        "literal": "Ellie Evans"
+      },
+      {
+        "literal": "Jesse Oliver"
+      },
+      {
+        "literal": "Tom Balough"
+      },
+      {
+        "literal": "Chia-Chih Chen"
+      },
+      {
+        "literal": "Sandip Bhaskar"
+      },
+      {
+        "literal": "Alejandra Rico"
+      },
+      {
+        "literal": "Bardiya Sadeghi"
+      },
+      {
+        "literal": "Seph Mard"
+      },
+      {
+        "literal": "Katherine Cheung"
+      },
+      {
+        "literal": "Meredith Price"
+      },
+      {
+        "literal": "Laya Sleiman"
+      },
+      {
+        "literal": "Saori Kaji"
+      },
+      {
+        "literal": "Wesley Helmholz"
+      },
+      {
+        "literal": "Wendy Quan"
+      },
+      {
+        "literal": "Michael Lightstone"
+      },
+      {
+        "literal": "Jonathan Cohen"
+      },
+      {
+        "literal": "Jian Zhang"
+      },
+      {
+        "literal": "Oleksii Kuchaiev"
+      },
+      {
+        "literal": "Boris Ginsburg"
+      },
+      {
+        "literal": "Jan Kautz"
+      },
+      {
+        "literal": "Eileen Long"
+      },
+      {
+        "literal": "Mohammad Shoeybi"
+      },
+      {
+        "literal": "Mostofa Patwary"
+      },
+      {
+        "literal": "Oluwatobi Olabiyi"
+      },
+      {
+        "literal": "Andrew Tao"
+      },
+      {
+        "literal": "Bryan Catanzaro"
+      },
+      {
+        "literal": "Udi Karpas"
+      }
+    ],
+    "citation-key": "arxiv_2604_24954",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "82a6d79d3f533ee3c029e6339bf8ed984b40719ae93bf390ec2609100e69f721",
+        "submitted_at": "2026-04-27T19:49:21Z",
+        "updated_at": "2026-05-11T07:26:38Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.24954v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.24954",
+      "catalog_id": "arxiv:2604.24954",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-04-27",
+      "identifiers": {
+        "arxiv": "2604.24954"
+      },
+      "record_updated_at": "2026-05-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.24954",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-27; Recorded arXiv version: v2; Recorded version updated: 2026-05-11T07:26:38Z.",
+    "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2604.24964v1",
@@ -181247,6 +183756,79 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.00041v1",
+    "archive": "arXiv",
+    "archive_location": "2611.00041",
+    "author": [
+      {
+        "literal": "Adinath Madhavrao Dukre"
+      },
+      {
+        "literal": "Govinda Kolli"
+      },
+      {
+        "literal": "Yifan Lu"
+      },
+      {
+        "literal": "Ziyun Zou"
+      },
+      {
+        "literal": "Azmine Toushik Wasi"
+      },
+      {
+        "literal": "Sara Atito"
+      },
+      {
+        "literal": "Behzad Bozorgtabar"
+      },
+      {
+        "literal": "Dwarikanath Mahapatra"
+      },
+      {
+        "literal": "Muhammad Awais"
+      },
+      {
+        "literal": "Imran Razzak"
+      }
+    ],
+    "citation-key": "arxiv_2611_00041",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7de1e0237c665d99129c93c4cdb1595a24a1a80093d193d63746470c064cdc20",
+        "submitted_at": "2026-10-08T07:24:14Z",
+        "updated_at": "2026-10-08T07:24:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.00041v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.00041",
+      "catalog_id": "arxiv:2611.00041",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-08",
+      "identifiers": {
+        "arxiv": "2611.00041"
+      },
+      "record_updated_at": "2026-10-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.00041",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T07:24:14Z.",
+    "title": "Think Before You Locate: Clinical Chain-of-Though Supervision for Sequential Medical Image Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2611.00169v1",
     "archive": "arXiv",
     "archive_location": "2611.00169",
@@ -183858,6 +186440,106 @@
     },
     "note": "First published: 2026-11-05; Recorded arXiv version: v1; Recorded version updated: 2026-11-05T10:05:14Z.",
     "title": "BiGrounder: Bidirectional Training Unlocks the Potential of GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.08449v1",
+    "archive": "arXiv",
+    "archive_location": "2611.08449",
+    "author": [
+      {
+        "literal": "Yu-Cheng Chou"
+      },
+      {
+        "literal": "Shihao Wang"
+      },
+      {
+        "literal": "Jin Huang"
+      },
+      {
+        "literal": "Chi-Pin Huang"
+      },
+      {
+        "literal": "Chiao-An Yang"
+      },
+      {
+        "literal": "Xianzhe Fan"
+      },
+      {
+        "literal": "Jing Wang"
+      },
+      {
+        "literal": "Zhiqi Li"
+      },
+      {
+        "literal": "Yuanguo Kuang"
+      },
+      {
+        "literal": "Ruijie Zheng"
+      },
+      {
+        "literal": "Johan Bjorck"
+      },
+      {
+        "literal": "Sifei Liu"
+      },
+      {
+        "literal": "Hang Su"
+      },
+      {
+        "literal": "Abhishek Badki"
+      },
+      {
+        "literal": "Lei Zhang"
+      },
+      {
+        "literal": "Alan Yuille"
+      },
+      {
+        "literal": "Linxi \"Jim'' Fan"
+      },
+      {
+        "literal": "Jan Kautz"
+      },
+      {
+        "literal": "Zhiding Yu"
+      }
+    ],
+    "citation-key": "arxiv_2611_08449",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "07a6f4f31bd5721c225dd9dd020ae277a9384a2093b8f19a0b2cbba3ce262084",
+        "submitted_at": "2026-11-05T18:44:43Z",
+        "updated_at": "2026-11-05T18:44:43Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.08449v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.08449",
+      "catalog_id": "arxiv:2611.08449",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-05",
+      "identifiers": {
+        "arxiv": "2611.08449"
+      },
+      "record_updated_at": "2026-11-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.08449",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-05; Recorded arXiv version: v1; Recorded version updated: 2026-11-05T18:44:43Z.",
+    "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
     "type": "article",
     "version": "1"
   },

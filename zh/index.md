@@ -2,12 +2,16 @@
 
 > 计算机使用、GUI、网页和移动端智能体研究资源目录：5,115 条已审核记录，其中论文与综述 1,718 条，其他资源 3,397 条。每条记录均核对一手来源。
 
-快照：2026-11-09T21:12:48Z。另有 885 条书目记录和 206 个已发现标识符待审核。
+快照：2026-11-10T00:34:12Z。另有 906 条书目记录和 701 个已发现标识符待审核。
 
 HTML 页面：https://awesomecua.com/zh/ · [English](https://awesomecua.com/index.md) · 智能体索引：https://awesomecua.com/llms.txt
 
 ## 最近审核的资源
 
+- [Microsoft](https://awesomecua.com/zh/resources/organization-microsoft/) — 发布方 · 审核于 2026-11-09：与 Microsoft 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
+- [Anthropic](https://awesomecua.com/zh/resources/organization-anthropic/) — 发布方 · 审核于 2026-11-09：与 Anthropic 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
+- [Google](https://awesomecua.com/zh/resources/organization-google/) — 发布方 · 审核于 2026-11-09：与 Google 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
+- [H](https://awesomecua.com/zh/resources/organization-h/) — 发布方 · 审核于 2026-11-09：与 H 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 - [Frigate](https://awesomecua.com/zh/resources/github-rao-studios-frigate/) — 框架 · 审核于 2026-11-09：一个包含 macOS 屏幕感知模块的 Swift 机器学习软件包。它检测屏幕区域、识别文字、分类界面元素角色，并生成页面结构图。
 - [agentd](https://awesomecua.com/zh/resources/github-agentsea-agentd/) — 基础设施 · 审核于 2026-11-09：AgentD 通过 HTTP API 提供桌面会话访问，支持截图、鼠标和键盘操作、打开浏览器及会话录制。
 - [Blender AI Plugin](https://awesomecua.com/zh/resources/github-proyecto26-blender-ai-plugin/) — 智能体 · 审核于 2026-11-09：Blender AI Plugin 通过 MCP 让智能体检查和编辑已打开的 Blender 场景，并以编排智能体、技能和脚本完成资产制作流程。
@@ -24,10 +28,6 @@ HTML 页面：https://awesomecua.com/zh/ · [English](https://awesomecua.com/ind
 - [Solari Research Suite: ARC & ColdStart](https://awesomecua.com/zh/resources/github-itw-code-solari-cookbook/) — 框架 · 审核于 2026-11-09：这套研究工具结合了基于辅助功能信息的浏览器智能体运行框架，以及会改变网页任务应用并依据数据库状态验证操作结果的评测框架。
 - [@sparticuz/chromium](https://awesomecua.com/zh/resources/github-sparticuz-chromium/) — 基础设施 · 审核于 2026-11-09：@sparticuz/chromium 提供无界面的 Linux Chromium 构建版本和启动设置，供 Puppeteer 或 Playwright 在无服务器环境中进行浏览器自动化。
 - [Agenta](https://awesomecua.com/zh/resources/github-agenta-ai-agenta/) — 产品 · 审核于 2026-11-09：Agenta 是供团队构建和运行智能体的工作空间。其智能体可使用浏览器和文件处理网站任务，也可使用已连接的应用并执行定时自动化任务。
-- [arc-cua](https://awesomecua.com/zh/resources/github-shhivv-arc-cua/) — 框架 · 审核于 2026-11-09：arc-cua 是一套 macOS 计算机操作软件包，包含应用窗口驱动程序，以及用于执行智能体交付的限定范围桌面子任务的决策模型循环。
-- [ChromiumFish](https://awesomecua.com/zh/resources/github-arman-bd-chromiumfish/) — 基础设施 · 审核于 2026-11-09：ChromiumFish 将经过修改的 Chromium 浏览器打包，供 Playwright 和外部智能体使用。它还内置智能体，可读取网页并执行点击、输入和导航操作。
-- [PeekabooX](https://awesomecua.com/zh/resources/github-nordbyte-peekaboox/) — 工具 · 审核于 2026-11-09：PeekabooX 是一套 Linux 桌面自动化工具，提供屏幕捕获、语义界面检查、输入操作和工作流，并通过命令行、Python 和 MCP 接口提供这些能力。
-- [Qontinui Runner](https://awesomecua.com/zh/resources/github-qontinui-qontinui-runner/) — 工具 · 审核于 2026-11-09：Qontinui Runner 是一款桌面应用，可执行按配置定义的图形界面自动化项目并监控其进度。它支持鼠标、键盘和屏幕操作。
 
 ## 按资源类型浏览
 

@@ -2,15 +2,15 @@
 
 学习资源是用于构建和研究计算机使用智能体的课程、实践手册、教程、示例合集和精选列表。
 
-> AwesomeCUA 目录收录 36 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
+> AwesomeCUA 目录收录 36 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/learning/ · [English](https://awesomecua.com/categories/learning/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
 ## 怎么选
 
-| 学习资源 | 平台 | 许可证 | 提及 |
+| 学习资源 | 平台 | 许可证 | 关联记录 |
 | --- | --- | --- | --- |
-| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 8 |
+| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 9 |
 | [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) | 网页 | — | 5 |
 | [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE) | 4 |
 | [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |

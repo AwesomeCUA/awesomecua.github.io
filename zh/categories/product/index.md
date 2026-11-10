@@ -2,20 +2,20 @@
 
 产品是由发布方运营的商业化或托管式计算机使用服务，例如浏览器智能体、桌面助手和智能体 API。
 
-> AwesomeCUA 目录收录 75 条已审核产品。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
+> AwesomeCUA 目录收录 75 条已审核产品。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/product/ · [English](https://awesomecua.com/categories/product/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
 ## 怎么选
 
-| 产品 | 平台 | 许可证 | 提及 |
+| 产品 | 平台 | 发布方 | 关联记录 |
 | --- | --- | --- | --- |
-| [Agenta](https://awesomecua.com/resources/github-agenta-ai-agenta/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/agenta-ai/agenta/HEAD/LICENSE) | 1 |
-| [Case Flow](https://awesomecua.com/resources/github-dongxinsuperman-case-flow-ai/) | 网页 · 手机 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/dongxinsuperman/case-flow-ai/HEAD/LICENSE) | 1 |
-| [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) | 网页 · 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE) | 1 |
-| [Korgo Bot](https://awesomecua.com/resources/github-nickvasilescu-korgo-bot/) | 网页 · 桌面 | [MIT（代码）](https://raw.githubusercontent.com/nickvasilescu/korgo-bot/HEAD/LICENSE) | 1 |
-| [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) | 网页 · 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/LICENSE) | 1 |
-| [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/LICENSE) | 1 |
+| [Browser Use Cloud](https://awesomecua.com/resources/url-ef244017b1460269fc68/) | 网页 | [Browser Use](https://awesomecua.com/resources/organization-browser-use/) | 2 |
+| [Browserbase Cloud](https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/) | 网页 | [Browserbase](https://awesomecua.com/resources/organization-browserbase/) | 2 |
+| [Copilot Studio computer use](https://awesomecua.com/resources/url-80052633107401ebfba7/) | 网页 · 桌面 | [Microsoft](https://awesomecua.com/resources/organization-microsoft/) | 2 |
+| [HoloTab](https://awesomecua.com/resources/url-4a47a6df845735984bf1/) | 网页 | [H](https://awesomecua.com/resources/organization-h/) | 1 |
+| [ChatGPT Agent](https://awesomecua.com/resources/url-b074ccdb2d9ec0277b65/) | 网页 · 桌面 | [OpenAI](https://awesomecua.com/resources/organization-openai/) | 1 |
+| [ChatGPT Atlas](https://awesomecua.com/resources/url-240a05c02f85d4da60dc/) | 网页 | [OpenAI](https://awesomecua.com/resources/organization-openai/) | 1 |
 
 ## 常见问题
 

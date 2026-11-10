@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2602.03412",
+  "citation-key": "arxiv_2602_03412",
+  "type": "article",
+  "title": "Verified Critical Step Optimization for LLM Agents",
+  "URL": "https://arxiv.org/abs/2602.03412v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.03412",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.03412",
+    "identifiers": {
+      "arxiv": "2602.03412"
+    },
+    "first_published_at": "2026-02-03",
+    "record_updated_at": "2026-04-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5ac73d236ee93ff40f8cf80f86f460be4963668a3108a03b2aadd4826dde890b",
+      "submitted_at": "2026-02-03T11:41:02Z",
+      "updated_at": "2026-04-29T09:45:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.03412v2"
+    }
+  },
+  "note": "First published: 2026-02-03; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T09:45:31Z.",
+  "author": [
+    {
+      "literal": "Mukai Li"
+    },
+    {
+      "literal": "Qingcheng Zeng"
+    },
+    {
+      "literal": "Tianqing Fang"
+    },
+    {
+      "literal": "Zhenwen Liang"
+    },
+    {
+      "literal": "Linfeng Song"
+    },
+    {
+      "literal": "Qi Liu"
+    },
+    {
+      "literal": "Haitao Mi"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.03412",
+  "genre": "preprint",
+  "version": "2"
+}

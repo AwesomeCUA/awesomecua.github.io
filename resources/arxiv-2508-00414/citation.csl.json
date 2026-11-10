@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2508.00414",
+  "citation-key": "arxiv_2508_00414",
+  "type": "article",
+  "title": "Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training",
+  "URL": "https://arxiv.org/abs/2508.00414v3",
+  "custom": {
+    "catalog_id": "arxiv:2508.00414",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.00414",
+    "identifiers": {
+      "arxiv": "2508.00414"
+    },
+    "first_published_at": "2025-08-01",
+    "record_updated_at": "2026-04-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e0f5a690793e44cadcda44a50361fd1d3bf19a32ce8e8b77feed26e33de05396",
+      "submitted_at": "2025-08-01T08:11:31Z",
+      "updated_at": "2026-04-22T08:14:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2508.00414v3"
+    }
+  },
+  "note": "First published: 2025-08-01; Recorded arXiv version: v3; Recorded version updated: 2026-04-22T08:14:17Z.",
+  "author": [
+    {
+      "literal": "Tianqing Fang"
+    },
+    {
+      "literal": "Zhisong Zhang"
+    },
+    {
+      "literal": "Xiaoyang Wang"
+    },
+    {
+      "literal": "Rui Wang"
+    },
+    {
+      "literal": "Can Qin"
+    },
+    {
+      "literal": "Yuxuan Wan"
+    },
+    {
+      "literal": "Jun-Yu Ma"
+    },
+    {
+      "literal": "Ce Zhang"
+    },
+    {
+      "literal": "Jiaqi Chen"
+    },
+    {
+      "literal": "Xiyun Li"
+    },
+    {
+      "literal": "Yonglin Wang"
+    },
+    {
+      "literal": "Jingchen Ni"
+    },
+    {
+      "literal": "Tianshi Zheng"
+    },
+    {
+      "literal": "Chun Chen"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Zhenwen Liang"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Haitao Mi"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.00414",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,6 +1,6 @@
 # AwesomeCUA
 
-> Source-backed catalog of computer-use, GUI, browser and mobile agents: 5,115 curated resources (1,718 papers and surveys, 3,397 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source with evidence, review dates and separate license declarations. 885 metadata-only bibliography records await relevance review and are labeled separately.
+> Source-backed catalog of computer-use, GUI, browser and mobile agents: 5,115 curated resources (1,718 papers and surveys, 3,397 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source with evidence, review dates and separate license declarations. 906 metadata-only bibliography records await relevance review and are labeled separately.
 
 Code, data, weights and document licenses are separate. Every resource, category, topic and research-library page has a Markdown version at `index.md` beside it, and every resource page its complete record at `record.json`.
 

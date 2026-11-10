@@ -47,6 +47,8 @@ https://awesomecua.com/categories/tool/page/9/
 https://awesomecua.com/compare/benchmarks/
 https://awesomecua.com/compare/datasets/
 https://awesomecua.com/connections/
+https://awesomecua.com/connections/page/2/
+https://awesomecua.com/connections/page/3/
 https://awesomecua.com/coverage/
 https://awesomecua.com/data/
 https://awesomecua.com/guides/

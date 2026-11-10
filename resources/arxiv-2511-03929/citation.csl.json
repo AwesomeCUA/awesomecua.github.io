@@ -1,0 +1,415 @@
+{
+  "id": "arxiv:2511.03929",
+  "citation-key": "arxiv_2511_03929",
+  "type": "article",
+  "title": "NVIDIA Nemotron Nano V2 VL",
+  "URL": "https://arxiv.org/abs/2511.03929v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.03929",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.03929",
+    "identifiers": {
+      "arxiv": "2511.03929"
+    },
+    "first_published_at": "2025-11-06",
+    "record_updated_at": "2025-11-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "495797977a6ddda7967df50e932d3cde229301d724aaf51b390e239f7e306194",
+      "submitted_at": "2025-11-06T00:10:19Z",
+      "updated_at": "2025-11-07T03:45:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.03929v2"
+    }
+  },
+  "note": "First published: 2025-11-06; Recorded arXiv version: v2; Recorded version updated: 2025-11-07T03:45:07Z.",
+  "author": [
+    {
+      "literal": "NVIDIA"
+    },
+    {
+      "literal": ":"
+    },
+    {
+      "literal": "Amala Sanjay Deshmukh"
+    },
+    {
+      "literal": "Kateryna Chumachenko"
+    },
+    {
+      "literal": "Tuomas Rintamaki"
+    },
+    {
+      "literal": "Matthieu Le"
+    },
+    {
+      "literal": "Tyler Poon"
+    },
+    {
+      "literal": "Danial Mohseni Taheri"
+    },
+    {
+      "literal": "Ilia Karmanov"
+    },
+    {
+      "literal": "Guilin Liu"
+    },
+    {
+      "literal": "Jarno Seppanen"
+    },
+    {
+      "literal": "Guo Chen"
+    },
+    {
+      "literal": "Karan Sapra"
+    },
+    {
+      "literal": "Zhiding Yu"
+    },
+    {
+      "literal": "Adi Renduchintala"
+    },
+    {
+      "literal": "Charles Wang"
+    },
+    {
+      "literal": "Peter Jin"
+    },
+    {
+      "literal": "Arushi Goel"
+    },
+    {
+      "literal": "Mike Ranzinger"
+    },
+    {
+      "literal": "Lukas Voegtle"
+    },
+    {
+      "literal": "Philipp Fischer"
+    },
+    {
+      "literal": "Timo Roman"
+    },
+    {
+      "literal": "Wei Ping"
+    },
+    {
+      "literal": "Boxin Wang"
+    },
+    {
+      "literal": "Zhuolin Yang"
+    },
+    {
+      "literal": "Nayeon Lee"
+    },
+    {
+      "literal": "Shaokun Zhang"
+    },
+    {
+      "literal": "Fuxiao Liu"
+    },
+    {
+      "literal": "Zhiqi Li"
+    },
+    {
+      "literal": "Di Zhang"
+    },
+    {
+      "literal": "Greg Heinrich"
+    },
+    {
+      "literal": "Hongxu Yin"
+    },
+    {
+      "literal": "Song Han"
+    },
+    {
+      "literal": "Pavlo Molchanov"
+    },
+    {
+      "literal": "Parth Mannan"
+    },
+    {
+      "literal": "Yao Xu"
+    },
+    {
+      "literal": "Jane Polak Scowcroft"
+    },
+    {
+      "literal": "Tom Balough"
+    },
+    {
+      "literal": "Subhashree Radhakrishnan"
+    },
+    {
+      "literal": "Paris Zhang"
+    },
+    {
+      "literal": "Sean Cha"
+    },
+    {
+      "literal": "Ratnesh Kumar"
+    },
+    {
+      "literal": "Zaid Pervaiz Bhat"
+    },
+    {
+      "literal": "Jian Zhang"
+    },
+    {
+      "literal": "Darragh Hanley"
+    },
+    {
+      "literal": "Pritam Biswas"
+    },
+    {
+      "literal": "Jesse Oliver"
+    },
+    {
+      "literal": "Kevin Vasques"
+    },
+    {
+      "literal": "Roger Waleffe"
+    },
+    {
+      "literal": "Duncan Riach"
+    },
+    {
+      "literal": "Oluwatobi Olabiyi"
+    },
+    {
+      "literal": "Ameya Sunil Mahabaleshwarkar"
+    },
+    {
+      "literal": "Bilal Kartal"
+    },
+    {
+      "literal": "Pritam Gundecha"
+    },
+    {
+      "literal": "Khanh Nguyen"
+    },
+    {
+      "literal": "Alexandre Milesi"
+    },
+    {
+      "literal": "Eugene Khvedchenia"
+    },
+    {
+      "literal": "Ran Zilberstein"
+    },
+    {
+      "literal": "Ofri Masad"
+    },
+    {
+      "literal": "Natan Bagrov"
+    },
+    {
+      "literal": "Nave Assaf"
+    },
+    {
+      "literal": "Tomer Asida"
+    },
+    {
+      "literal": "Daniel Afrimi"
+    },
+    {
+      "literal": "Amit Zuker"
+    },
+    {
+      "literal": "Netanel Haber"
+    },
+    {
+      "literal": "Zhiyu Cheng"
+    },
+    {
+      "literal": "Jingyu Xin"
+    },
+    {
+      "literal": "Di Wu"
+    },
+    {
+      "literal": "Nik Spirin"
+    },
+    {
+      "literal": "Maryam Moosaei"
+    },
+    {
+      "literal": "Roman Ageev"
+    },
+    {
+      "literal": "Vanshil Atul Shah"
+    },
+    {
+      "literal": "Yuting Wu"
+    },
+    {
+      "literal": "Daniel Korzekwa"
+    },
+    {
+      "literal": "Unnikrishnan Kizhakkemadam Sreekumar"
+    },
+    {
+      "literal": "Wanli Jiang"
+    },
+    {
+      "literal": "Padmavathy Subramanian"
+    },
+    {
+      "literal": "Alejandra Rico"
+    },
+    {
+      "literal": "Sandip Bhaskar"
+    },
+    {
+      "literal": "Saeid Motiian"
+    },
+    {
+      "literal": "Kedi Wu"
+    },
+    {
+      "literal": "Annie Surla"
+    },
+    {
+      "literal": "Chia-Chih Chen"
+    },
+    {
+      "literal": "Hayden Wolff"
+    },
+    {
+      "literal": "Matthew Feinberg"
+    },
+    {
+      "literal": "Melissa Corpuz"
+    },
+    {
+      "literal": "Marek Wawrzos"
+    },
+    {
+      "literal": "Eileen Long"
+    },
+    {
+      "literal": "Aastha Jhunjhunwala"
+    },
+    {
+      "literal": "Paul Hendricks"
+    },
+    {
+      "literal": "Farzan Memarian"
+    },
+    {
+      "literal": "Benika Hall"
+    },
+    {
+      "literal": "Xin-Yu Wang"
+    },
+    {
+      "literal": "David Mosallanezhad"
+    },
+    {
+      "literal": "Soumye Singhal"
+    },
+    {
+      "literal": "Luis Vega"
+    },
+    {
+      "literal": "Katherine Cheung"
+    },
+    {
+      "literal": "Krzysztof Pawelec"
+    },
+    {
+      "literal": "Michael Evans"
+    },
+    {
+      "literal": "Katherine Luna"
+    },
+    {
+      "literal": "Jie Lou"
+    },
+    {
+      "literal": "Erick Galinkin"
+    },
+    {
+      "literal": "Akshay Hazare"
+    },
+    {
+      "literal": "Kaustubh Purandare"
+    },
+    {
+      "literal": "Ann Guan"
+    },
+    {
+      "literal": "Anna Warno"
+    },
+    {
+      "literal": "Chen Cui"
+    },
+    {
+      "literal": "Yoshi Suhara"
+    },
+    {
+      "literal": "Shibani Likhite"
+    },
+    {
+      "literal": "Seph Mard"
+    },
+    {
+      "literal": "Meredith Price"
+    },
+    {
+      "literal": "Laya Sleiman"
+    },
+    {
+      "literal": "Saori Kaji"
+    },
+    {
+      "literal": "Udi Karpas"
+    },
+    {
+      "literal": "Kari Briski"
+    },
+    {
+      "literal": "Joey Conway"
+    },
+    {
+      "literal": "Michael Lightstone"
+    },
+    {
+      "literal": "Jan Kautz"
+    },
+    {
+      "literal": "Mohammad Shoeybi"
+    },
+    {
+      "literal": "Mostofa Patwary"
+    },
+    {
+      "literal": "Jonathen Cohen"
+    },
+    {
+      "literal": "Oleksii Kuchaiev"
+    },
+    {
+      "literal": "Andrew Tao"
+    },
+    {
+      "literal": "Bryan Catanzaro"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.03929",
+  "genre": "preprint",
+  "version": "2"
+}

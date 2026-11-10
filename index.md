@@ -2,12 +2,16 @@
 
 > A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 5,115 curated records (1,718 papers and surveys, 3,397 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
 
-Snapshot 2026-11-09T21:12:48Z. Awaiting review and not counted above: 885 metadata-only bibliography records and 206 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
+Snapshot 2026-11-10T00:34:12Z. Awaiting review and not counted above: 906 metadata-only bibliography records and 701 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
 
 HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agent index: https://awesomecua.com/llms.txt
 
 ## Newest reviewed resources
 
+- [Microsoft](https://awesomecua.com/resources/organization-microsoft/) — Publishers · reviewed 2026-11-09: Publisher or product brand associated with Microsoft computer-use or browser automation offerings.
+- [Anthropic](https://awesomecua.com/resources/organization-anthropic/) — Publishers · reviewed 2026-11-09: Publisher or product brand associated with Anthropic computer-use or browser automation offerings.
+- [Google](https://awesomecua.com/resources/organization-google/) — Publishers · reviewed 2026-11-09: Publisher or product brand associated with Google computer-use or browser automation offerings.
+- [H](https://awesomecua.com/resources/organization-h/) — Publishers · reviewed 2026-11-09: Publisher or product brand associated with H computer-use or browser automation offerings.
 - [Frigate](https://awesomecua.com/resources/github-rao-studios-frigate/) — Frameworks · reviewed 2026-11-09: A Swift ML package that includes a macOS screen-perception module. It detects regions, recognizes text, classifies interface roles, and produces a page map.
 - [agentd](https://awesomecua.com/resources/github-agentsea-agentd/) — Infrastructure · reviewed 2026-11-09: AgentD exposes a desktop session through an HTTP API for screenshots, mouse and keyboard actions, browser opening, and session recording.
 - [Blender AI Plugin](https://awesomecua.com/resources/github-proyecto26-blender-ai-plugin/) — Agents · reviewed 2026-11-09: Blender AI Plugin equips an agent to inspect and edit an open Blender scene through MCP, using an orchestrator, skills, and scripts for asset workflows.
@@ -24,10 +28,6 @@ HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agen
 - [Solari Research Suite: ARC & ColdStart](https://awesomecua.com/resources/github-itw-code-solari-cookbook/) — Frameworks · reviewed 2026-11-09: A research suite combining an accessibility-based browser-agent harness with an evaluation harness that changes a web task app and verifies completed actions against database state.
 - [@sparticuz/chromium](https://awesomecua.com/resources/github-sparticuz-chromium/) — Infrastructure · reviewed 2026-11-09: @sparticuz/chromium supplies a headless Linux Chromium build and launch settings for serverless browser automation with Puppeteer or Playwright.
 - [Agenta](https://awesomecua.com/resources/github-agenta-ai-agenta/) — Products · reviewed 2026-11-09: Agenta is a team workspace for building and running agents. Its agents can use a browser and files to work on websites, alongside connected apps and scheduled automations.
-- [arc-cua](https://awesomecua.com/resources/github-shhivv-arc-cua/) — Frameworks · reviewed 2026-11-09: arc-cua is a macOS computer-use package with an app-window driver and a decision-model loop for executing bounded desktop subtasks handed off by an agent.
-- [ChromiumFish](https://awesomecua.com/resources/github-arman-bd-chromiumfish/) — Infrastructure · reviewed 2026-11-09: ChromiumFish packages a modified Chromium browser for Playwright and external agents. It also includes an agent that reads pages and performs clicks, typing, and navigation.
-- [PeekabooX](https://awesomecua.com/resources/github-nordbyte-peekaboox/) — Tools · reviewed 2026-11-09: PeekabooX is a Linux desktop automation toolkit with screen capture, semantic UI inspection, input actions, and workflows exposed through CLI, Python, and MCP interfaces.
-- [Qontinui Runner](https://awesomecua.com/resources/github-qontinui-qontinui-runner/) — Tools · reviewed 2026-11-09: Qontinui Runner is a desktop application that executes configured GUI automation projects and monitors their progress. It supports mouse, keyboard, and screen actions.
 
 ## Browse by kind
 

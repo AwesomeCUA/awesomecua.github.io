@@ -2,7 +2,7 @@
 
 Frameworks are libraries and SDKs for building, running, evaluating or training computer-use agents, from browser-automation agent libraries to reinforcement-learning training stacks.
 
-> 662 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 662 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/framework/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -10,14 +10,14 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ## How to choose
 
-| Framework | Platform | License | Mentions |
+| Framework | Platform | License | Linked records |
 | --- | --- | --- | --- |
-| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | Web | [MIT (code)](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 58 |
-| [Cua](https://awesomecua.com/resources/github-trycua-cua/) | Desktop | [MIT (code)](https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md) | 41 |
+| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | Web | [MIT (code)](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 60 |
+| [Cua](https://awesomecua.com/resources/github-trycua-cua/) | Desktop | [MIT (code)](https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md) | 46 |
 | [Epic EHR Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/) | Web | [MIT (code)](https://raw.githubusercontent.com/Browser-Automation-Hub/epic-ehr-browser-automation/HEAD/LICENSE) | 13 |
-| [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/) | Desktop | — | 12 |
-| [Stagehand](https://awesomecua.com/resources/github-browserbase-stagehand/) | Web | [MIT (code)](https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE) | 9 |
-| [WebMCP](https://awesomecua.com/resources/github-webmachinelearning-webmcp/) | Web | — | 9 |
+| [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/) | Desktop | — | 13 |
+| [Stagehand](https://awesomecua.com/resources/github-browserbase-stagehand/) | Web | [MIT (code)](https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE) | 10 |
+| [AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/LICENSE) | 9 |
 
 ## Questions
 

@@ -2,20 +2,20 @@
 
 计算机使用智能体是完整的系统：观察屏幕或网页，制定计划，再通过点击、输入、浏览器命令或命令行工具完成用户任务。
 
-> AwesomeCUA 目录收录 471 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
+> AwesomeCUA 目录收录 471 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://awesomecua.com/categories/agent/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
 ## 怎么选
 
-| 智能体 | 平台 | 许可证 | 提及 |
+| 智能体 | 平台 | 许可证 | 关联记录 |
 | --- | --- | --- | --- |
-| [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) | 手机 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE) | 27 |
+| [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) | 手机 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE) | 33 |
 | [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 26 |
 | [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) | 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE) | 16 |
 | [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE) | 16 |
+| [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) | 桌面 | [Apache-2.0（代码）](https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE) | 13 |
 | [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/) | 桌面 | [MIT（代码）](https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE) | 11 |
-| [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) | 桌面 | [Apache-2.0（代码）](https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE) | 10 |
 
 ## 常见问题
 

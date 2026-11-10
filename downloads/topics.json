@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "5888e20d2d32d3e2c0de97b58552f5126fafaebd80c8f85540f5effe0ab0104f",
+  "catalog_sha256": "d0052f317c98bfb19f43cbc784b947db38d198d3caf72b0d7422eca73b5a91d7",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "A resource can belong to several topics.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
@@ -6683,8 +6683,8 @@
         {
           "url": "/downloads/topics/industry/records.jsonl",
           "records": 67,
-          "bytes": 151271,
-          "sha256": "9c0e2df2ba5abea141033a11e846841fdee79371481d9c0b4090d31d0e7ac6bf"
+          "bytes": 151007,
+          "sha256": "1085a0fdc1b425926b2b0486ee50ac725c915c949642fdd9aa6d3af0619f286f"
         },
         {
           "url": "/downloads/topics/industry/citations.bib",

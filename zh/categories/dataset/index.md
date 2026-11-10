@@ -2,7 +2,7 @@
 
 计算机使用数据集提供截图、指令、界面元素标注和动作轨迹，用于训练或评估 GUI 智能体。监督信号从单个元素的定位到完整的多步轨迹不等。
 
-> AwesomeCUA 目录收录 243 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
+> AwesomeCUA 目录收录 243 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https://awesomecua.com/categories/dataset/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -13,7 +13,7 @@ HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https:/
 | [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | 桌面 | GUI grounding | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [MIT（数据）](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
 | [OS-Genesis](https://awesomecua.com/resources/github-os-copilot-os-genesis/) | 跨平台 | reverse task synthesis, GUI action trajectories | — | — |
 | [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | 手机 | interactive-element grounding, screen and element functionality descriptions | [> 104,000 screenshots](https://arxiv.org/abs/2407.17490v1) | [CC-BY-4.0（数据）](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
-| [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) | 网页 · 桌面 · 手机 · 跨平台 | — | — | [Apache-2.0（数据）](https://huggingface.co/datasets/Hcompany/trajectories) |
+| [GUIAct](https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/) | 网页 · 手机 | single-step actions, multi-step navigation | [≈ 67,000 action instructions](https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md) | — |
 | [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | 桌面 | UI element bounding boxes, element text or short descriptions | [51,175 screenshot-annotation file pairs](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [MIT（数据）](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
 | [GUI-Actor data](https://awesomecua.com/resources/url-66096ad4057a3d3726f5/) | — | GUI grounding with bounding-box supervision | — | — |
 

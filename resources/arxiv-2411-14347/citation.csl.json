@@ -1,0 +1,103 @@
+{
+  "id": "arxiv:2411.14347",
+  "citation-key": "arxiv_2411_14347",
+  "type": "article",
+  "title": "DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding",
+  "URL": "https://arxiv.org/abs/2411.14347v3",
+  "custom": {
+    "catalog_id": "arxiv:2411.14347",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.14347",
+    "identifiers": {
+      "arxiv": "2411.14347"
+    },
+    "first_published_at": "2024-11-21",
+    "record_updated_at": "2025-05-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1eb66ac7be4c7825c6b472f13c18b2712bc9f0c8ca7ae1e295fab81740463bc1",
+      "submitted_at": "2024-11-21T17:42:20Z",
+      "updated_at": "2025-05-15T15:52:39Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2411.14347v3"
+    }
+  },
+  "note": "First published: 2024-11-21; Recorded arXiv version: v3; Recorded version updated: 2025-05-15T15:52:39Z.",
+  "author": [
+    {
+      "literal": "Tianhe Ren"
+    },
+    {
+      "literal": "Yihao Chen"
+    },
+    {
+      "literal": "Qing Jiang"
+    },
+    {
+      "literal": "Zhaoyang Zeng"
+    },
+    {
+      "literal": "Yuda Xiong"
+    },
+    {
+      "literal": "Wenlong Liu"
+    },
+    {
+      "literal": "Zhengyu Ma"
+    },
+    {
+      "literal": "Junyi Shen"
+    },
+    {
+      "literal": "Yuan Gao"
+    },
+    {
+      "literal": "Xiaoke Jiang"
+    },
+    {
+      "literal": "Xingyu Chen"
+    },
+    {
+      "literal": "Zhuheng Song"
+    },
+    {
+      "literal": "Yuhong Zhang"
+    },
+    {
+      "literal": "Hongjie Huang"
+    },
+    {
+      "literal": "Han Gao"
+    },
+    {
+      "literal": "Shilong Liu"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Feng Li"
+    },
+    {
+      "literal": "Kent Yu"
+    },
+    {
+      "literal": "Lei Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.14347",
+  "genre": "preprint",
+  "version": "3"
+}

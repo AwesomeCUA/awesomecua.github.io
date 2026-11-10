@@ -2,7 +2,7 @@
 
 Computer-use models are vision-language and GUI-specialized checkpoints that read screens and output target coordinates or actions. Entries cover model families and released checkpoints, many hosted on Hugging Face.
 
-> 400 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 400 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/model/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -10,14 +10,14 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ## How to choose
 
-| Model | Platform | License | Paper | Mentions |
+| Model | Platform | License | Paper | Linked records |
 | --- | --- | --- | --- | --- |
-| [UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) | Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/LICENSE) | [arXiv 2501.12326](https://awesomecua.com/resources/arxiv-2501-12326/) | 25 |
-| [SeeClick](https://awesomecua.com/resources/github-njucckevin-seeclick/) | Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/LICENSE) | [arXiv 2401.10935](https://awesomecua.com/resources/arxiv-2401-10935/) | 18 |
+| [UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) | Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/LICENSE) | [arXiv 2501.12326](https://awesomecua.com/resources/arxiv-2501-12326/) | 28 |
+| [SeeClick](https://awesomecua.com/resources/github-njucckevin-seeclick/) | Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/LICENSE) | [arXiv 2401.10935](https://awesomecua.com/resources/arxiv-2401-10935/) | 19 |
+| [Holo Model Family](https://awesomecua.com/resources/url-c0bd07d82ce25ad1d99d/) | Cross-platform | — | — | 13 |
 | [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/) | — | [Apache-2.0 (weights)](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) | — | 11 |
-| [Aguvis](https://awesomecua.com/resources/github-xlang-ai-aguvis/) | Cross-platform | — | [arXiv 2412.04454](https://awesomecua.com/resources/arxiv-2412-04454/) | 8 |
-| [GUI-Actor](https://awesomecua.com/resources/github-microsoft-gui-actor/) | Cross-platform | [MIT (code)](https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/LICENSE) | [arXiv 2506.03143](https://awesomecua.com/resources/arxiv-2506-03143/) | 7 |
-| [Holo4 27B BF16](https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/) | Web · Desktop · Cross-platform | [CC-BY-NC-4.0 (weights)](https://huggingface.co/Hcompany/Holo4-27B/raw/4de03cfeee1d930b616bfd4817570293f29ad8b9/README.md) | — | 7 |
+| [ShowUI](https://awesomecua.com/resources/github-showlab-showui/) | Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/showlab/ShowUI/HEAD/LICENSE) | [arXiv 2411.17465](https://awesomecua.com/resources/arxiv-2411-17465/) | 10 |
+| [Aguvis](https://awesomecua.com/resources/github-xlang-ai-aguvis/) | Cross-platform | — | [arXiv 2412.04454](https://awesomecua.com/resources/arxiv-2412-04454/) | 9 |
 
 ## Questions
 

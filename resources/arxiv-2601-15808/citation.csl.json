@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2601.15808",
+  "citation-key": "arxiv_2601_15808",
+  "type": "article",
+  "title": "Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification",
+  "URL": "https://arxiv.org/abs/2601.15808v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.15808",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.15808",
+    "identifiers": {
+      "arxiv": "2601.15808"
+    },
+    "first_published_at": "2026-01-22",
+    "record_updated_at": "2026-04-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9d7b223e980df7207fd7973bd2dc9ca2bb2268d66fc9bfd556a9fb6a33debd87",
+      "submitted_at": "2026-01-22T09:47:31Z",
+      "updated_at": "2026-04-29T08:40:46Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.15808v2"
+    }
+  },
+  "note": "First published: 2026-01-22; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T08:40:46Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Wan"
+    },
+    {
+      "literal": "Tianqing Fang"
+    },
+    {
+      "literal": "Zaitang Li"
+    },
+    {
+      "literal": "Yintong Huo"
+    },
+    {
+      "literal": "Wenxuan Wang"
+    },
+    {
+      "literal": "Haitao Mi"
+    },
+    {
+      "literal": "Dong Yu"
+    },
+    {
+      "literal": "Michael R. Lyu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.15808",
+  "genre": "preprint",
+  "version": "2"
+}

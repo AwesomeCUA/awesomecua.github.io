@@ -3,7 +3,7 @@
   <title>AwesomeCUA: newly reviewed resources</title>
   <subtitle>Computer-use agent papers, models, datasets, benchmarks and tools as they pass source review, newest review first. Metadata-only bibliography records and unreviewed candidates are not included.</subtitle>
   <id>https://awesomecua.com/feed.xml</id>
-  <updated>2026-11-09T21:12:34Z</updated>
+  <updated>2026-11-09T22:08:43Z</updated>
   <link href="https://awesomecua.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://awesomecua.com/" rel="alternate" type="text/html" />
   <link href="https://awesomecua.com/feed.json" rel="alternate" type="application/feed+json" />
@@ -12,6 +12,50 @@
     <uri>https://awesomecua.com/</uri>
   </author>
   <rights>Catalog annotations: MIT. Linked resources keep their own terms.</rights>
+  <entry>
+    <title>Microsoft</title>
+    <id>https://awesomecua.com/resources/organization-microsoft/</id>
+    <link href="https://awesomecua.com/resources/organization-microsoft/" rel="alternate" type="text/html" />
+    <link href="https://www.microsoft.com/" rel="related" />
+    <link href="https://awesomecua.com/resources/organization-microsoft/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T22:08:43Z</published>
+    <updated>2026-11-09T22:08:43Z</updated>
+    <category term="company" label="Publishers" />
+    <summary>Publisher or product brand associated with Microsoft computer-use or browser automation offerings.</summary>
+  </entry>
+  <entry>
+    <title>Anthropic</title>
+    <id>https://awesomecua.com/resources/organization-anthropic/</id>
+    <link href="https://awesomecua.com/resources/organization-anthropic/" rel="alternate" type="text/html" />
+    <link href="https://www.anthropic.com/" rel="related" />
+    <link href="https://awesomecua.com/resources/organization-anthropic/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T22:08:42Z</published>
+    <updated>2026-11-09T22:08:42Z</updated>
+    <category term="company" label="Publishers" />
+    <summary>Publisher or product brand associated with Anthropic computer-use or browser automation offerings.</summary>
+  </entry>
+  <entry>
+    <title>Google</title>
+    <id>https://awesomecua.com/resources/organization-google/</id>
+    <link href="https://awesomecua.com/resources/organization-google/" rel="alternate" type="text/html" />
+    <link href="https://about.google/" rel="related" />
+    <link href="https://awesomecua.com/resources/organization-google/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T22:08:42Z</published>
+    <updated>2026-11-09T22:08:42Z</updated>
+    <category term="company" label="Publishers" />
+    <summary>Publisher or product brand associated with Google computer-use or browser automation offerings.</summary>
+  </entry>
+  <entry>
+    <title>H</title>
+    <id>https://awesomecua.com/resources/organization-h/</id>
+    <link href="https://awesomecua.com/resources/organization-h/" rel="alternate" type="text/html" />
+    <link href="https://hcompany.ai/" rel="related" />
+    <link href="https://awesomecua.com/resources/organization-h/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T22:08:42Z</published>
+    <updated>2026-11-09T22:08:42Z</updated>
+    <category term="company" label="Publishers" />
+    <summary>Publisher or product brand associated with H computer-use or browser automation offerings.</summary>
+  </entry>
   <entry>
     <title>Frigate</title>
     <id>https://awesomecua.com/resources/github-rao-studios-frigate/</id>
@@ -1067,49 +1111,5 @@
     <updated>2026-11-09T21:09:42Z</updated>
     <category term="tool" label="Tools" />
     <summary>An archived macOS broker that lets MCP clients delegate computer-use tasks to the official Codex runtime and receive the nested agent's final response.</summary>
-  </entry>
-  <entry>
-    <title>gohook</title>
-    <id>https://awesomecua.com/resources/github-robotn-gohook/</id>
-    <link href="https://awesomecua.com/resources/github-robotn-gohook/" rel="alternate" type="text/html" />
-    <link href="https://github.com/robotn/gohook" rel="related" />
-    <link href="https://awesomecua.com/resources/github-robotn-gohook/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T14:06:27Z</published>
-    <updated>2026-11-09T21:12:05Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A Go library for listening to keyboard and mouse events, with callback registration and an event stream that can support capture of desktop interactions.</summary>
-  </entry>
-  <entry>
-    <title>handraise-telegram</title>
-    <id>https://awesomecua.com/resources/github-sy-d-handraise-telegram/</id>
-    <link href="https://awesomecua.com/resources/github-sy-d-handraise-telegram/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Sy-D/handraise-telegram" rel="related" />
-    <link href="https://awesomecua.com/resources/github-sy-d-handraise-telegram/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T14:06:27Z</published>
-    <updated>2026-11-09T21:12:05Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A Telegram adapter for browser-agent handoffs that sends a page screenshot and approval buttons to a chat, then returns the person's decision.</summary>
-  </entry>
-  <entry>
-    <title>LangHire</title>
-    <id>https://awesomecua.com/resources/github-jaimaann-langhire/</id>
-    <link href="https://awesomecua.com/resources/github-jaimaann-langhire/" rel="alternate" type="text/html" />
-    <link href="https://github.com/jaimaann/LangHire" rel="related" />
-    <link href="https://awesomecua.com/resources/github-jaimaann-langhire/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T14:06:27Z</published>
-    <updated>2026-11-09T21:12:04Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>A desktop app whose browser agents search for jobs and complete online applications, using stored knowledge of applicant tracking systems across tasks.</summary>
-  </entry>
-  <entry>
-    <title>mano-afk</title>
-    <id>https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/</id>
-    <link href="https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Mininglamp-AI/mano-afk" rel="related" />
-    <link href="https://awesomecua.com/resources/github-mininglamp-ai-mano-afk/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T14:06:27Z</published>
-    <updated>2026-11-09T21:12:04Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>An app-building agent that deploys software and tests it through browser GUI actions, with retry loops and an included benchmark for GUI automation.</summary>
   </entry>
 </feed>

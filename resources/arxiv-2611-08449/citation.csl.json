@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2611.08449",
+  "citation-key": "arxiv_2611_08449",
+  "type": "article",
+  "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+  "URL": "https://arxiv.org/abs/2611.08449v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.08449",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.08449",
+    "identifiers": {
+      "arxiv": "2611.08449"
+    },
+    "first_published_at": "2026-11-05",
+    "record_updated_at": "2026-11-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "07a6f4f31bd5721c225dd9dd020ae277a9384a2093b8f19a0b2cbba3ce262084",
+      "submitted_at": "2026-11-05T18:44:43Z",
+      "updated_at": "2026-11-05T18:44:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.08449v1"
+    }
+  },
+  "note": "First published: 2026-11-05; Recorded arXiv version: v1; Recorded version updated: 2026-11-05T18:44:43Z.",
+  "author": [
+    {
+      "literal": "Yu-Cheng Chou"
+    },
+    {
+      "literal": "Shihao Wang"
+    },
+    {
+      "literal": "Jin Huang"
+    },
+    {
+      "literal": "Chi-Pin Huang"
+    },
+    {
+      "literal": "Chiao-An Yang"
+    },
+    {
+      "literal": "Xianzhe Fan"
+    },
+    {
+      "literal": "Jing Wang"
+    },
+    {
+      "literal": "Zhiqi Li"
+    },
+    {
+      "literal": "Yuanguo Kuang"
+    },
+    {
+      "literal": "Ruijie Zheng"
+    },
+    {
+      "literal": "Johan Bjorck"
+    },
+    {
+      "literal": "Sifei Liu"
+    },
+    {
+      "literal": "Hang Su"
+    },
+    {
+      "literal": "Abhishek Badki"
+    },
+    {
+      "literal": "Lei Zhang"
+    },
+    {
+      "literal": "Alan Yuille"
+    },
+    {
+      "literal": "Linxi \"Jim'' Fan"
+    },
+    {
+      "literal": "Jan Kautz"
+    },
+    {
+      "literal": "Zhiding Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.08449",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -2,7 +2,7 @@
 
 Publishers are the labs and companies behind catalogued resources. Each publisher entry collects the products, models, frameworks and tools that name it as their publisher.
 
-> 19 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 19 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/company/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -12,12 +12,12 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 | Publisher | Resources | Kinds |
 | --- | --- | --- |
-| [Anthropic](https://awesomecua.com/resources/organization-anthropic/) | 3 | 2 products, 1 model |
-| [AskUI](https://awesomecua.com/resources/organization-askui/) | 2 | 1 publisher, 1 product |
+| [H](https://awesomecua.com/resources/organization-h/) | 21 | 19 models, 1 agent, 1 product |
 | [Browser Use](https://awesomecua.com/resources/organization-browser-use/) | 7 | 2 frameworks, 2 agents, 1 publisher, 1 model, 1 product |
-| [BrowserAct](https://awesomecua.com/resources/organization-browseract/) | 2 | 1 publisher, 1 product |
-| [Browserbase](https://awesomecua.com/resources/organization-browserbase/) | 2 | 1 framework, 1 product |
-| [Browserless](https://awesomecua.com/resources/organization-browserless/) | 2 | 1 publisher, 1 product |
+| [OpenAI](https://awesomecua.com/resources/organization-openai/) | 6 | 3 products, 1 benchmark, 1 agent, 1 model |
+| [Simular](https://awesomecua.com/resources/organization-simular/) | 5 | 2 datasets, 1 agent, 1 publisher, 1 product |
+| [Anthropic](https://awesomecua.com/resources/organization-anthropic/) | 3 | 2 products, 1 model |
+| [Google](https://awesomecua.com/resources/organization-google/) | 3 | 2 models, 1 product |
 
 ## Questions
 
@@ -40,13 +40,13 @@ By the number of catalog records whose reviewed sources mention each entry, most
 Publisher or product brand associated with Anthropic computer-use or browser automation offerings.
 
 - Catalog URL: https://awesomecua.com/resources/organization-anthropic/
-- Original source: https://claude.com/chrome
+- Original source: https://www.anthropic.com/
 - Kind: company
 - Review: curated
 - Scope: core
 - Environments: unspecified
 - Topics: industry
-- Evidence checked: 2026-10-16T06:40:54Z
+- Evidence checked: 2026-11-09T22:08:42Z
 - ID: organization:anthropic
 
 ### Limitations
@@ -64,7 +64,7 @@ Publisher/brand identity only.
 
 ### Primary evidence
 
-- https://claude.com/chrome (retrieved 2026-10-16T06:40:54Z; SHA-256 bd3e99c1e12588bc3136dfa27de2c0d5790b6f6f25f2696988eb182c6b1ef670)
+- https://www.anthropic.com/ (retrieved 2026-11-09T22:08:42Z; SHA-256 8047aa76e9dd0338186a8ab0a0875b9ef82b8efed972e8b3d19a190961e78c5f)
 
 ---
 
@@ -304,13 +304,13 @@ Publisher/brand identity only.
 Publisher or product brand associated with Google computer-use or browser automation offerings.
 
 - Catalog URL: https://awesomecua.com/resources/organization-google/
-- Original source: https://ai.google.dev/gemini-api/docs/computer-use
+- Original source: https://about.google/
 - Kind: company
 - Review: curated
 - Scope: core
 - Environments: unspecified
 - Topics: industry
-- Evidence checked: 2026-10-16T06:38:27Z
+- Evidence checked: 2026-11-09T22:08:42Z
 - ID: organization:google
 
 ### Limitations
@@ -328,7 +328,7 @@ Publisher/brand identity only.
 
 ### Primary evidence
 
-- https://ai.google.dev/gemini-api/docs/computer-use (retrieved 2026-10-16T06:38:27Z; SHA-256 e7062cfb4c0948d3a2274843f9f493f34cb40dfd634371408086df6141a0e036)
+- https://about.google/ (retrieved 2026-11-09T22:08:42Z; SHA-256 ea135c294b3d06de2271ce103a5a43838f0281f36e446a3299c0f9d7d78c49f8)
 
 ---
 
@@ -337,13 +337,13 @@ Publisher/brand identity only.
 Publisher or product brand associated with H computer-use or browser automation offerings.
 
 - Catalog URL: https://awesomecua.com/resources/organization-h/
-- Original source: https://hcompany.ai/research/models
+- Original source: https://hcompany.ai/
 - Kind: company
 - Review: curated
 - Scope: core
 - Environments: unspecified
 - Topics: industry
-- Evidence checked: 2026-10-16T06:38:27Z
+- Evidence checked: 2026-11-09T22:08:42Z
 - ID: organization:h
 
 ### Limitations
@@ -361,7 +361,7 @@ Publisher/brand identity only.
 
 ### Primary evidence
 
-- https://hcompany.ai/research/models (retrieved 2026-10-16T06:38:27Z; SHA-256 84ce0fd682367a6dac5cc5abc39d5c877556024bbf6ffdad30f76fc2ec08523f)
+- https://hcompany.ai/ (retrieved 2026-11-09T22:08:42Z; SHA-256 45b4aa57ea8ccd2452314a8e397f9c0d237e2f644d137e18aca984030077f765)
 
 ---
 
@@ -469,13 +469,13 @@ Publisher/brand identity only.
 Publisher or product brand associated with Microsoft computer-use or browser automation offerings.
 
 - Catalog URL: https://awesomecua.com/resources/organization-microsoft/
-- Original source: https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use
+- Original source: https://www.microsoft.com/
 - Kind: company
 - Review: curated
 - Scope: core
 - Environments: unspecified
 - Topics: industry
-- Evidence checked: 2026-10-18T11:09:24Z
+- Evidence checked: 2026-11-09T22:08:43Z
 - ID: organization:microsoft
 
 ### Limitations
@@ -493,7 +493,7 @@ Publisher/brand identity only.
 
 ### Primary evidence
 
-- https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use (retrieved 2026-10-18T11:09:24Z; SHA-256 c8abf59f80322ecaa4c8ef863c3344e675a549f05397ba17562a9b0e7eac3edf)
+- https://www.microsoft.com/ (retrieved 2026-11-09T22:08:43Z; SHA-256 a4d1f60411eea43240af78da4111f978879af4206eec3716ec2c2e6b18652951)
 
 ---
 

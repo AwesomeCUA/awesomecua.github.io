@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2504.15271",
+  "citation-key": "arxiv_2504_15271",
+  "type": "article",
+  "title": "Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models",
+  "URL": "https://arxiv.org/abs/2504.15271v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.15271",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.15271",
+    "identifiers": {
+      "arxiv": "2504.15271"
+    },
+    "first_published_at": "2025-04-21",
+    "record_updated_at": "2025-04-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2736581fb5589390728e767e86efe52e984ee0166aeff39c490bf349b003689c",
+      "submitted_at": "2025-04-21T17:57:28Z",
+      "updated_at": "2025-04-21T17:57:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.15271v1"
+    }
+  },
+  "note": "First published: 2025-04-21; Recorded arXiv version: v1; Recorded version updated: 2025-04-21T17:57:28Z.",
+  "author": [
+    {
+      "literal": "Guo Chen"
+    },
+    {
+      "literal": "Zhiqi Li"
+    },
+    {
+      "literal": "Shihao Wang"
+    },
+    {
+      "literal": "Jindong Jiang"
+    },
+    {
+      "literal": "Yicheng Liu"
+    },
+    {
+      "literal": "Lidong Lu"
+    },
+    {
+      "literal": "De-An Huang"
+    },
+    {
+      "literal": "Wonmin Byeon"
+    },
+    {
+      "literal": "Matthieu Le"
+    },
+    {
+      "literal": "Tuomas Rintamaki"
+    },
+    {
+      "literal": "Tyler Poon"
+    },
+    {
+      "literal": "Max Ehrlich"
+    },
+    {
+      "literal": "Tuomas Rintamaki"
+    },
+    {
+      "literal": "Tyler Poon"
+    },
+    {
+      "literal": "Tong Lu"
+    },
+    {
+      "literal": "Limin Wang"
+    },
+    {
+      "literal": "Bryan Catanzaro"
+    },
+    {
+      "literal": "Jan Kautz"
+    },
+    {
+      "literal": "Andrew Tao"
+    },
+    {
+      "literal": "Zhiding Yu"
+    },
+    {
+      "literal": "Guilin Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.15271",
+  "genre": "preprint",
+  "version": "1"
+}

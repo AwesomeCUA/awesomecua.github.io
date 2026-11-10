@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2311.13596",
+  "citation-key": "arxiv_2311_13596",
+  "type": "article",
+  "title": "T-Rex: Counting by Visual Prompting",
+  "URL": "https://arxiv.org/abs/2311.13596v1",
+  "custom": {
+    "catalog_id": "arxiv:2311.13596",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.13596",
+    "identifiers": {
+      "arxiv": "2311.13596"
+    },
+    "first_published_at": "2023-11-22",
+    "record_updated_at": "2023-11-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c98c5487aa579fddfe8c8c66dd2029828914ff8db399289c1c3ea09e906d4081",
+      "submitted_at": "2023-11-22T18:57:24Z",
+      "updated_at": "2023-11-22T18:57:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2311.13596v1"
+    }
+  },
+  "note": "First published: 2023-11-22; Recorded arXiv version: v1; Recorded version updated: 2023-11-22T18:57:24Z.",
+  "author": [
+    {
+      "literal": "Qing Jiang"
+    },
+    {
+      "literal": "Feng Li"
+    },
+    {
+      "literal": "Tianhe Ren"
+    },
+    {
+      "literal": "Shilong Liu"
+    },
+    {
+      "literal": "Zhaoyang Zeng"
+    },
+    {
+      "literal": "Kent Yu"
+    },
+    {
+      "literal": "Lei Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.13596",
+  "genre": "preprint",
+  "version": "1"
+}

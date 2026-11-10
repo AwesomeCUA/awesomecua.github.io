@@ -2,7 +2,7 @@
 
 Computer-use agents are complete systems that observe a screen or web page, plan, and act through clicks, typing, browser commands or shell tools to finish a user task.
 
-> 471 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 471 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -10,14 +10,14 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ## How to choose
 
-| Agent | Platform | License | Mentions |
+| Agent | Platform | License | Linked records |
 | --- | --- | --- | --- |
-| [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) | Mobile · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE) | 27 |
+| [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) | Mobile · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE) | 33 |
 | [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 26 |
 | [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) | Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE) | 16 |
 | [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE) | 16 |
+| [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE) | 13 |
 | [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/) | Desktop | [MIT (code)](https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE) | 11 |
-| [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE) | 10 |
 
 ## Questions
 

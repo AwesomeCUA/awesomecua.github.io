@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://awesomecua.com/</loc>
-    <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <lastmod>2026-11-10T00:34:12Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/" />
@@ -18,22 +18,30 @@
   </url>
   <url>
     <loc>https://awesomecua.com/api/</loc>
-    <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <lastmod>2026-11-10T00:34:12Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/badges/</loc>
   </url>
   <url>
     <loc>https://awesomecua.com/connections/</loc>
+    <lastmod>2026-11-09T21:10:54Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/connections/page/2/</loc>
     <lastmod>2026-11-09T21:12:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/connections/page/3/</loc>
+    <lastmod>2026-11-09T21:11:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/coverage/</loc>
-    <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <lastmod>2026-11-10T00:34:12Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/data/</loc>
-    <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <lastmod>2026-11-10T00:34:12Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/data/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/data/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/data/" />
@@ -52,11 +60,11 @@
   </url>
   <url>
     <loc>https://awesomecua.com/updates/</loc>
-    <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <lastmod>2026-11-10T00:35:36Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/zh/</loc>
-    <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <lastmod>2026-11-10T00:34:12Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/" />
@@ -69,7 +77,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/data/</loc>
-    <lastmod>2026-11-09T21:12:48Z</lastmod>
+    <lastmod>2026-11-10T00:34:12Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/data/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/data/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/data/" />

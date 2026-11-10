@@ -1,6 +1,6 @@
 # AwesomeCUA curated catalog
 
-> All 5,115 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-09T21:12:48Z. Metadata-only bibliography records and unreviewed candidates are excluded.
+> All 5,115 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-10T00:34:12Z. Metadata-only bibliography records and unreviewed candidates are excluded.
 
 Each entry links its catalog page. Append `index.md` to that URL for the full annotation with evidence fingerprints, or `record.json` for the complete record. Full annotations by kind: [Models and checkpoints](https://awesomecua.com/categories/model/index.md), [Datasets](https://awesomecua.com/categories/dataset/index.md), [Benchmarks](https://awesomecua.com/categories/benchmark/index.md), [Agents](https://awesomecua.com/categories/agent/index.md), [Frameworks](https://awesomecua.com/categories/framework/index.md), [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md), [Tools](https://awesomecua.com/categories/tool/index.md), [Products](https://awesomecua.com/categories/product/index.md), [Publishers](https://awesomecua.com/categories/company/index.md), [Learning resources](https://awesomecua.com/categories/learning/index.md), [Surveys](https://awesomecua.com/categories/survey/index.md), [Research library](https://awesomecua.com/papers/index.md).
 
@@ -22612,7 +22612,7 @@ Yutori's web-agent platform: the Navigator computer-use model API (n1.5 for brow
 
 Publisher or product brand associated with Anthropic computer-use or browser automation offerings.
 
-- https://awesomecua.com/resources/organization-anthropic/ · source: https://claude.com/chrome
+- https://awesomecua.com/resources/organization-anthropic/ · source: https://www.anthropic.com/
 
 ### AskUI
 
@@ -22660,13 +22660,13 @@ Publisher or product brand associated with E2B computer-use or browser automatio
 
 Publisher or product brand associated with Google computer-use or browser automation offerings.
 
-- https://awesomecua.com/resources/organization-google/ · source: https://ai.google.dev/gemini-api/docs/computer-use
+- https://awesomecua.com/resources/organization-google/ · source: https://about.google/
 
 ### H
 
 Publisher or product brand associated with H computer-use or browser automation offerings.
 
-- https://awesomecua.com/resources/organization-h/ · source: https://hcompany.ai/research/models
+- https://awesomecua.com/resources/organization-h/ · source: https://hcompany.ai/
 
 ### Huzzle Labs
 
@@ -22690,7 +22690,7 @@ Publisher or product brand associated with Manus computer-use or browser automat
 
 Publisher or product brand associated with Microsoft computer-use or browser automation offerings.
 
-- https://awesomecua.com/resources/organization-microsoft/ · source: https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use
+- https://awesomecua.com/resources/organization-microsoft/ · source: https://www.microsoft.com/
 
 ### OpenAI
 

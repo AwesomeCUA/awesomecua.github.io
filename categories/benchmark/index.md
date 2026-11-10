@@ -2,7 +2,7 @@
 
 Computer-use benchmarks are task suites and environments that score agents operating web browsers, desktop applications or mobile devices. Each pairs a fixed set of tasks with an evaluator, such as execution-based state checks, answer matching or target localization.
 
-> 300 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 300 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -16,8 +16,8 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 | [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) | Web | Interactive | [812 task examples](https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md) | [Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?usp=sharing) |
 | [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) | Mobile | Interactive | [116 task definitions](https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md) | [Leaderboard](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0) |
 | [BrowserGym](https://awesomecua.com/resources/github-servicenow-browsergym/) | Web | Mixed | — | — |
+| [Mind2Web](https://awesomecua.com/resources/github-osu-nlp-group-mind2web/) | Web | Offline | [1,009 task instances](https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md) | — |
 | [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/) | Desktop | Offline | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [Leaderboard](https://gui-agent.github.io/grounding-leaderboard) |
-| [VisualWebArena](https://awesomecua.com/resources/github-web-arena-x-visualwebarena/) | Web | Interactive | [910 tasks](https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md) | — |
 
 ## Questions
 

@@ -2,7 +2,7 @@
 
 发布方是目录中各项资源背后的实验室和公司。每个发布方条目汇总了将其列为发布方的产品、模型、框架和工具。
 
-> AwesomeCUA 目录收录 19 条已审核发布方。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T21:12:48Z。
+> AwesomeCUA 目录收录 19 条已审核发布方。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T00:34:12Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/company/ · [English](https://awesomecua.com/categories/company/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -10,12 +10,12 @@ HTML 页面：https://awesomecua.com/zh/categories/company/ · [English](https:/
 
 | 发布方 | 资源 | 类型 |
 | --- | --- | --- |
-| [Anthropic](https://awesomecua.com/resources/organization-anthropic/) | 3 | 产品 2, 模型 1 |
-| [AskUI](https://awesomecua.com/resources/organization-askui/) | 2 | 发布方 1, 产品 1 |
+| [H](https://awesomecua.com/resources/organization-h/) | 21 | 模型 19, 智能体 1, 产品 1 |
 | [Browser Use](https://awesomecua.com/resources/organization-browser-use/) | 7 | 框架 2, 智能体 2, 发布方 1, 模型 1, 产品 1 |
-| [BrowserAct](https://awesomecua.com/resources/organization-browseract/) | 2 | 发布方 1, 产品 1 |
-| [Browserbase](https://awesomecua.com/resources/organization-browserbase/) | 2 | 框架 1, 产品 1 |
-| [Browserless](https://awesomecua.com/resources/organization-browserless/) | 2 | 发布方 1, 产品 1 |
+| [OpenAI](https://awesomecua.com/resources/organization-openai/) | 6 | 产品 3, 评测基准 1, 智能体 1, 模型 1 |
+| [Simular](https://awesomecua.com/resources/organization-simular/) | 5 | 数据集 2, 智能体 1, 发布方 1, 产品 1 |
+| [Anthropic](https://awesomecua.com/resources/organization-anthropic/) | 3 | 产品 2, 模型 1 |
+| [Google](https://awesomecua.com/resources/organization-google/) | 3 | 模型 2, 产品 1 |
 
 ## 常见问题
 
@@ -38,13 +38,13 @@ HTML 页面：https://awesomecua.com/zh/categories/company/ · [English](https:/
 与 Anthropic 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
 - 目录页面：https://awesomecua.com/zh/resources/organization-anthropic/
-- 原始来源：https://claude.com/chrome
+- 原始来源：https://www.anthropic.com/
 - 类型：发布方
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：unspecified
 - 主题：产业
-- 证据核查日期：2026-10-16T06:40:54Z
+- 证据核查日期：2026-11-09T22:08:42Z
 - ID：organization:anthropic
 
 ### 范围记录
@@ -62,7 +62,7 @@ Publisher/brand identity only.
 
 ### 一手证据
 
-- https://claude.com/chrome（获取于 2026-10-16T06:40:54Z；SHA-256：bd3e99c1e12588bc3136dfa27de2c0d5790b6f6f25f2696988eb182c6b1ef670）
+- https://www.anthropic.com/（获取于 2026-11-09T22:08:42Z；SHA-256：8047aa76e9dd0338186a8ab0a0875b9ef82b8efed972e8b3d19a190961e78c5f）
 
 ---
 
@@ -302,13 +302,13 @@ Publisher/brand identity only.
 与 Google 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
 - 目录页面：https://awesomecua.com/zh/resources/organization-google/
-- 原始来源：https://ai.google.dev/gemini-api/docs/computer-use
+- 原始来源：https://about.google/
 - 类型：发布方
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：unspecified
 - 主题：产业
-- 证据核查日期：2026-10-16T06:38:27Z
+- 证据核查日期：2026-11-09T22:08:42Z
 - ID：organization:google
 
 ### 范围记录
@@ -326,7 +326,7 @@ Publisher/brand identity only.
 
 ### 一手证据
 
-- https://ai.google.dev/gemini-api/docs/computer-use（获取于 2026-10-16T06:38:27Z；SHA-256：e7062cfb4c0948d3a2274843f9f493f34cb40dfd634371408086df6141a0e036）
+- https://about.google/（获取于 2026-11-09T22:08:42Z；SHA-256：ea135c294b3d06de2271ce103a5a43838f0281f36e446a3299c0f9d7d78c49f8）
 
 ---
 
@@ -335,13 +335,13 @@ Publisher/brand identity only.
 与 H 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
 - 目录页面：https://awesomecua.com/zh/resources/organization-h/
-- 原始来源：https://hcompany.ai/research/models
+- 原始来源：https://hcompany.ai/
 - 类型：发布方
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：unspecified
 - 主题：产业
-- 证据核查日期：2026-10-16T06:38:27Z
+- 证据核查日期：2026-11-09T22:08:42Z
 - ID：organization:h
 
 ### 范围记录
@@ -359,7 +359,7 @@ Publisher/brand identity only.
 
 ### 一手证据
 
-- https://hcompany.ai/research/models（获取于 2026-10-16T06:38:27Z；SHA-256：84ce0fd682367a6dac5cc5abc39d5c877556024bbf6ffdad30f76fc2ec08523f）
+- https://hcompany.ai/（获取于 2026-11-09T22:08:42Z；SHA-256：45b4aa57ea8ccd2452314a8e397f9c0d237e2f644d137e18aca984030077f765）
 
 ---
 
@@ -467,13 +467,13 @@ Publisher/brand identity only.
 与 Microsoft 计算机使用或浏览器自动化产品相关的发布方或产品品牌。
 
 - 目录页面：https://awesomecua.com/zh/resources/organization-microsoft/
-- 原始来源：https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use
+- 原始来源：https://www.microsoft.com/
 - 类型：发布方
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：unspecified
 - 主题：产业
-- 证据核查日期：2026-10-18T11:09:24Z
+- 证据核查日期：2026-11-09T22:08:43Z
 - ID：organization:microsoft
 
 ### 范围记录
@@ -491,7 +491,7 @@ Publisher/brand identity only.
 
 ### 一手证据
 
-- https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use（获取于 2026-10-18T11:09:24Z；SHA-256：c8abf59f80322ecaa4c8ef863c3344e675a549f05397ba17562a9b0e7eac3edf）
+- https://www.microsoft.com/（获取于 2026-11-09T22:08:43Z；SHA-256：a4d1f60411eea43240af78da4111f978879af4206eec3716ec2c2e6b18652951）
 
 ---
 

@@ -2,7 +2,7 @@
 
 Learning resources are courses, cookbooks, tutorials, example collections and curated lists for building and studying computer-use agents.
 
-> 36 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T21:12:48Z.
+> 36 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-10T00:34:12Z.
 
 HTML page: https://awesomecua.com/categories/learning/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -10,9 +10,9 @@ Each record is reviewed against its primary sources. Code, data, weights and doc
 
 ## How to choose
 
-| Learning resource | Platform | License | Mentions |
+| Learning resource | Platform | License | Linked records |
 | --- | --- | --- | --- |
-| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 8 |
+| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 9 |
 | [Awesome Plasmate](https://awesomecua.com/resources/github-plasmate-labs-awesome-plasmate/) | Web | — | 5 |
 | [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE) | 4 |
 | [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | Web | [MIT (code)](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |

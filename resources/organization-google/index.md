@@ -3,13 +3,13 @@
 Publisher or product brand associated with Google computer-use or browser automation offerings.
 
 - Catalog URL: https://awesomecua.com/resources/organization-google/
-- Original source: https://ai.google.dev/gemini-api/docs/computer-use
+- Original source: https://about.google/
 - Kind: company
 - Review: curated
 - Scope: core
 - Environments: unspecified
 - Topics: industry
-- Evidence checked: 2026-10-16T06:38:27Z
+- Evidence checked: 2026-11-09T22:08:42Z
 - ID: organization:google
 
 ## Limitations
@@ -27,4 +27,4 @@ Publisher/brand identity only.
 
 ## Primary evidence
 
-- https://ai.google.dev/gemini-api/docs/computer-use (retrieved 2026-10-16T06:38:27Z; SHA-256 e7062cfb4c0948d3a2274843f9f493f34cb40dfd634371408086df6141a0e036)
+- https://about.google/ (retrieved 2026-11-09T22:08:42Z; SHA-256 ea135c294b3d06de2271ce103a5a43838f0281f36e446a3299c0f9d7d78c49f8)
